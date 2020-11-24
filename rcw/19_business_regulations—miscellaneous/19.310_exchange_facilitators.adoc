@@ -1,0 +1,206 @@
+= 19.310 - Exchange facilitators.
+:toc:
+
+== 19.310.005 - Finding—Purpose.
+The legislature finds that there are no statutory requirements pertaining to persons who facilitate like-kind exchanges pursuant to section 1031 of the internal revenue code and associated treasury regulations. The purpose of this chapter is to create a statutory framework that provides some consumer protections to those who entrust money or property to persons acting as exchange facilitators.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1078-S2.SL.pdf?cite=2009%20c%2070%20§%201[2009 c 70 § 1]; ]
+
+== 19.310.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. A person or entity "affiliated" with a specific person or entity, means a person or entity who directly, or indirectly through one or more intermediaries, controls, or is controlled by, or is under common control with, the person or entity specified.
+
+. "Client" means the taxpayer with whom the exchange facilitator enters into an agreement as described in subsection (4)(a)(i) of this section.
+
+. "Covered dishonest act" means a crime involving fraud, embezzlement, misappropriation of funds, robbery, or other theft of property.
+
+. [Empty]
+.. "Exchange facilitator" means a person who:
+
+...(A) Facilitates, for a fee, an exchange of like-kind property by entering into an agreement with a taxpayer by which the exchange facilitator acquires from the taxpayer the contractual rights to sell the taxpayer's relinquished property located in this state and transfer a replacement property to the taxpayer as a qualified intermediary, as defined under treasury regulation section 1.1031(k)-1(g)(4); (B) enters into an agreement with a taxpayer to take title to a property in this state as an exchange accommodation titleholder, as defined in internal revenue service revenue procedure 2000-37; or (C) enters into an agreement with a taxpayer to act as a qualified trustee or qualified escrow holder, as both terms are defined under treasury regulation section 1.1031(k)-1(g)(3); or
+
+... Maintains an office in this state for the purpose of soliciting business as an exchange facilitator.
+
+.. "Exchange facilitator" does not include:
+
+... A taxpayer or a disqualified person, as defined under treasury regulation section 1.1031(k)-1(k), seeking to qualify for the nonrecognition provisions of section 1031 of the internal revenue code of 1986, as amended;
+
+... A financial institution that is (A) acting as a depository for exchange funds and is not facilitating an exchange or (B) acting solely as a qualified escrow holder or qualified trustee, as both terms are defined under treasury regulation section 1.1031(k)-1(g)(3), and is not facilitating an exchange;
+
+... A title insurance company, underwritten title company, or escrow company that is acting solely as a qualified escrow holder or qualified trustee, as both terms are defined under treasury regulation section 1.1031(k)-1(g)(3), and is not facilitating an exchange;
+
+... A person that advertises for and teaches seminars or classes, or otherwise makes a presentation, to attorneys, accountants, real estate professionals, tax professionals, or other professionals, when the primary purpose is to teach the professionals about tax-deferred exchanges or to train them to act as exchange facilitators;
+
+.. A qualified intermediary, as defined under treasury regulation section 1.1031(k)-1(g)(4), who holds exchange funds from the disposition of relinquished property located outside of this state; or
+
+.. An affiliated entity that is used by the exchange facilitator to facilitate exchanges or to take title to property in this state as an exchange accommodation titleholder.
+
+.. For the purposes of this subsection, "fee" means compensation of any nature, direct or indirect, monetary or in kind, that is received by a person or related person, as defined in section 267(b) or 707(b) of the internal revenue code, for any services relating to or incidental to the exchange of like-kind property.
+
+. "Financial institution" means a state chartered or federally chartered bank, credit union, savings and loan association, savings bank, or trust company whose accounts are insured by the full faith and credit of the United States, the federal deposit insurance corporation, the national credit union share insurance fund, or other similar or successor programs.
+
+. "Person" means an individual, corporation, partnership, limited liability company, joint venture, association, joint stock company, trust, or any other form of a legal entity, and includes the agents and employees of that person.
+
+. "Prudent investor standard" means the standard for investment as described under RCW 11.100.020.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5082-S.SL.pdf?cite=2013%20c%20228%20§%201[2013 c 228 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1078-S2.SL.pdf?cite=2009%20c%2070%20§%202[2009 c 70 § 2]; ]
+
+== 19.310.020 - Actions for collection of compensation—Requirements.
+An exchange facilitator may not bring a suit or action for the collection of compensation in connection with duties performed as an exchange facilitator unless the exchange facilitator alleges and proves that he or she was fully in compliance with this chapter at the time of the offering to perform or performing an act or service regulated under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1078-S2.SL.pdf?cite=2009%20c%2070%20§%203[2009 c 70 § 3]; ]
+
+== 19.310.030 - Notice of change in control—Exceptions.
+. Except as provided under subsection (2) of this section, a person who engages in business as an exchange facilitator shall notify all existing exchange clients whose relinquished property is located in this state, or whose replacement property held under a qualified exchange accommodation agreement is located in this state, of any change in control of the exchange facilitator. Notification must be provided within ten business days of the effective date of the change in control by hand delivery, facsimile, electronic mail, overnight mail, or first-class mail, and must be posted on the exchange facilitator's internet web site for at least ninety days following the change in control. The notification must set forth the name, address, and other contact information of the transferees.
+
+. If an exchange facilitator is a publicly traded company or wholly owned subsidiary of the publicly traded company and remains a publicly traded company or wholly owned subsidiary of the publicly traded company after a change in control, the publicly traded company or wholly owned subsidiary of the publicly traded company is not required to notify its existing clients of the change in control.
+
+. For purposes of this section, "change in control" means any transfer of more than fifty percent of the assets or ownership interests, directly or indirectly, of the exchange facilitator.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1078-S2.SL.pdf?cite=2009%20c%2070%20§%204[2009 c 70 § 4]; ]
+
+== 19.310.040 - Duties of exchange facilitator—Fidelity bonds.
+. A person who engages in business as an exchange facilitator must:
+
+.. [Empty]
+... Maintain a fidelity bond or bonds in an amount of not less than one million dollars executed by an insurer authorized to do business in this state for the benefit of a client of the exchange facilitator that suffers a direct financial loss as a result of the exchange facilitator's covered dishonest act. Such fidelity bond must cover the acts of employees of an exchange facilitator and owners of a nonpublicly traded exchange facilitator; or
+
+... Deposit all exchange funds in a qualified escrow account or qualified trust, as both terms are defined under treasury regulation section 1.1031(k)-1(g)(3), with a financial institution. If an exchange facilitator deposits exchange funds in a qualified escrow account or qualified trust:
+
+(A) A withdrawal of exchange funds requires the exchange facilitator and the client to independently authenticate a record, as defined under RCW 62A.9A-102, of the transaction; and
+
+(B) The client of the exchange facilitator must receive independently from the depository financial institution, by any commercially reasonable means, a current statement for verification of the deposited exchange funds; and
+
+.. Disclose on the company web site and contractual agreement the following statement in large, bold, or otherwise conspicuous typeface calculated to draw the eye: "Washington state law, RCW 19.310.040, requires an exchange facilitator to either maintain a fidelity bond in an amount of not less than one million dollars that protects clients against losses caused by criminal acts of the exchange facilitator, or to hold all client funds in a qualified escrow account or qualified trust that requires your consent for withdrawals. All exchange funds must be deposited in a separately identified account using your taxpayer identification number. You must receive written notification of how your exchange funds have been deposited. Your exchange facilitator is required to provide you with written directions of how to independently verify the deposit of the exchange funds. Exchange facilitation services are not regulated by any agency of the state of Washington or of the United States government. It is your responsibility to determine that your exchange funds will be held in a safe manner." If recommending other products or services, the exchange facilitator must disclose to the client that the exchange facilitator may receive a financial benefit, such as a commission or referral fee, as a result of such recommendation. The exchange facilitator must not recommend or suggest to a client the use of services of another organization or business entity in which the exchange facilitator has a direct or indirect interest without full disclosure of such interest at the time of recommendation or suggestion.
+
+. An exchange facilitator must provide evidence to each client that the requirements of this section are satisfied before entering into an exchange agreement.
+
+. Upon request of a current or prospective client, or the attorney general under chapter 19.86 RCW, the exchange facilitator must offer evidence proving that the requirements of this section are satisfied at the time of the request.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5082-S.SL.pdf?cite=2013%20c%20228%20§%202[2013 c 228 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6295-S.SL.pdf?cite=2012%20c%2034%20§%202[2012 c 34 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1078-S2.SL.pdf?cite=2009%20c%2070%20§%205[2009 c 70 § 5]; ]
+
+== 19.310.050 - Claims on fidelity bonds—Remedies.
+. A person who claims to have sustained damages by reason of the fraudulent act or covered dishonest act of an exchange facilitator or an exchange facilitator's employee may file a claim on the fidelity bond.
+
+. The remedies provided under this section are cumulative and nonexclusive and do not affect any other remedy available at law.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5082-S.SL.pdf?cite=2013%20c%20228%20§%203[2013 c 228 § 3]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1078-S2.SL.pdf?cite=2009%20c%2070%20§%206[2009 c 70 § 6]; ]
+
+== 19.310.060 - Duties of exchange facilitator—Errors and omissions policies.
+. A person who engages in business as an exchange facilitator shall:
+
+.. Maintain a policy of errors and omissions insurance in an amount of not less than two hundred fifty thousand dollars executed by an insurer authorized to do business in this state; or
+
+.. Deposit an amount of cash or securities or irrevocable letters of credit in an amount of not less than two hundred fifty thousand dollars into an interest-bearing deposit account or a money market account with the financial institution of the exchange facilitator's choice. Interest on that amount accrues to the exchange facilitator.
+
+. A person who engages in business as an exchange facilitator may maintain insurance or deposit an amount of cash or securities or irrevocable letters of credit in excess of the minimum required amounts under this section.
+
+. The requirements under subsection (1)(a) of this section are satisfied if the person engaging in business as an exchange facilitator is listed as a named insured on one or more errors and omissions policies that have an aggregate total of at least two hundred fifty thousand dollars.
+
+. An exchange facilitator must provide evidence to each client that the requirements of this section are satisfied before entering into an exchange agreement.
+
+. Upon request of a current or prospective client, or the attorney general under chapter 19.86 RCW, the exchange facilitator must offer evidence proving that the requirements of this section are satisfied at the time of the request.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1078-S2.SL.pdf?cite=2009%20c%2070%20§%207[2009 c 70 § 7]; ]
+
+== 19.310.070 - Claims on errors and omissions policies—Remedies.
+. A person who claims to have sustained damages by reason of an unintentional error or omission of an exchange facilitator or an exchange facilitator's employee may file a claim on the errors and omissions insurance policy or approved alternative described in RCW 19.310.060 to recover the damages.
+
+. The remedies provided under this section are cumulative and nonexclusive and do not affect any other remedy available at law.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1078-S2.SL.pdf?cite=2009%20c%2070%20§%208[2009 c 70 § 8]; ]
+
+== 19.310.080 - Exchange funds—Prudent investor standard—Violations—Not subject to execution or attachment.
+. A person who engages in business as an exchange facilitator shall act as a custodian for all exchange funds, including money, property, other consideration, or instruments received by the exchange facilitator from, or on behalf of, the client, except funds received as the exchange facilitator's compensation. The exchange facilitator shall hold the exchange funds in a manner that provides liquidity and preserves both principal and any earned interest, and if invested, shall invest those exchange funds in investments that meet a prudent investor standard and satisfy investment goals of liquidity and preservation of principal and any earned interest. For purposes of this section, a violation of the prudent investor standard includes, but is not limited to, a transaction in which:
+
+.. Exchange funds are knowingly commingled by the exchange facilitator with the operating accounts of the exchange facilitator, except that the exchange facilitator's fee may be deposited as part of the exchange transaction into the same account as that containing exchange funds, in which event the exchange facilitator must promptly withdraw the fee;
+
+.. Exchange funds are loaned or otherwise transferred to any person or entity, other than a financial institution, that is affiliated with or related to the exchange facilitator, except that this subsection (1)(b) does not apply to the transfer of funds from an exchange facilitator to an exchange accommodation titleholder in accordance with an exchange contract;
+
+.. Exchange funds are invested in a manner that does not provide sufficient liquidity to meet the exchange facilitator's contractual obligations to its clients, unless insufficient liquidity occurs as the result of: (i) Events beyond the prediction or control of the exchange facilitator including, but not limited to, failure of a financial institution; or (ii) an investment specifically requested by the client; or
+
+.. Exchange funds are invested in a manner that does not preserve the principal of the exchange funds, unless loss of principal occurs as the result of: (i) Events beyond the prediction or control of the exchange facilitator; or (ii) an investment specifically requested by the client.
+
+. Exchange funds are not subject to execution or attachment on any claim against the exchange facilitator.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5082-S.SL.pdf?cite=2013%20c%20228%20§%204[2013 c 228 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1078-S2.SL.pdf?cite=2009%20c%2070%20§%209[2009 c 70 § 9]; ]
+
+== 19.310.090 - Administration of places of business—Direct management.
+A person who engages in business as an exchange facilitator must administer each of his, her, or its places of business under the direct management of an officer or an employee who is either:
+
+. An attorney or certified public accountant admitted to practice in any state or territory of the United States; or
+
+. A person who has passed a test specific to the subject matter of exchange facilitation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1078-S2.SL.pdf?cite=2009%20c%2070%20§%2010[2009 c 70 § 10]; ]
+
+== 19.310.100 - Prohibited practices.
+A person who engages in business as an exchange facilitator shall not, with respect to a like-kind exchange transaction:
+
+. Make a false, deceptive, or misleading material representation, directly or indirectly, concerning a like-kind transaction;
+
+. Make a false, deceptive, or misleading material representation, directly or indirectly, in advertising or by any other means, concerning a like-kind transaction;
+
+. Engage in any unfair or deceptive practice toward any person;
+
+. Obtain property by fraud or misrepresentation;
+
+. Fail to account for any moneys or property belonging to others that may be in the possession or under the control of the exchange facilitator;
+
+. Commingle funds held for a client in any account that holds the exchange facilitator's own funds, except as provided in RCW 19.310.080(1)(a);
+
+. Loan or otherwise transfer exchange funds to any person or entity, other than a financial institution, that is affiliated with or related to the exchange facilitator, except for the transfer of funds from an exchange facilitator to an exchange accommodation title holder in accordance with an exchange contract;
+
+. Keep, or cause to be kept, any money in any bank, credit union, or other financial institution under a name designating the money as belonging to the client of any exchange facilitator, unless that money belongs to that client and was entrusted to the exchange facilitator by that client;
+
+. Fail to fulfill its contractual duties to the client to deliver property or funds to the taxpayer in a material way unless such a failure is due to: (a) Events beyond the prediction or control of the exchange facilitator; or (b) an investment specifically requested by the client;
+
+. Commit, including commission by its owners, officers, directors, employees, agents, or independent contractors, any crime involving fraud, misrepresentation, deceit, embezzlement, misappropriation of funds, robbery, or other theft of property;
+
+. Fail to make disclosures required by any applicable state law; or
+
+. Make any false statement or omission of material fact in connection with any reports filed by an exchange facilitator or in connection with any investigation conducted by the department of financial institutions.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5082-S.SL.pdf?cite=2013%20c%20228%20§%205[2013 c 228 § 5]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1078-S2.SL.pdf?cite=2009%20c%2070%20§%2011[2009 c 70 § 11]; ]
+
+== 19.310.110 - Deposit of client funds—Written notice.
+. An exchange facilitator must deposit all client funds in a separately identified account, as defined in treasury regulation section 1.468B-6(c)(ii), for the particular client or client's matter, and the client must receive all the earnings credited to the separately identified account.
+
+. An exchange facilitator must provide the client with written notification of how the exchange proceeds have been invested or deposited.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5082-S.SL.pdf?cite=2013%20c%20228%20§%206[2013 c 228 § 6]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1078-S2.SL.pdf?cite=2009%20c%2070%20§%2012[2009 c 70 § 12]; ]
+
+== 19.310.120 - Prima facie evidence of fraud—Violations—Penalty—Cure for violations.
+. Failure to fulfill the requirements under RCW 19.310.040 constitutes prima facie evidence that the exchange facilitator intended to defraud a client who suffered a subsequent loss of the asset entrusted to the exchange facilitator.
+
+. A person who engages in business as an exchange facilitator and who knowingly violates RCW 19.310.100 (1) through (9) or fails to comply with the requirements under RCW 19.310.040 is guilty of a class B felony under chapter 9A.20 RCW. However, an exchange facilitator is not guilty of a class B felony for failure to comply with the requirements under RCW 19.310.040 if: (a) Failure to comply is due to the cancellation or amendment of the fidelity bond by the bond issuer; and (b) the exchange facilitator:
+
+... Within thirty days, takes all reasonable steps to comply with the requirements under RCW 19.310.040; and
+
+... Deposits any new exchange funds into a qualified escrow account or qualified trust until a fidelity bond is obtained that meets the requirements under RCW 19.310.040(1)(a)(i).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5082-S.SL.pdf?cite=2013%20c%20228%20§%207[2013 c 228 § 7]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6295-S.SL.pdf?cite=2012%20c%2034%20§%204[2012 c 34 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1078-S2.SL.pdf?cite=2009%20c%2070%20§%2013[2009 c 70 § 13]; ]
+
+== 19.310.130 - Violations—Misdemeanor.
+A person who engages in business as an exchange facilitator and who violates RCW 19.310.100 (11) or (12) is guilty of a misdemeanor under chapter 9A.20 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1078-S2.SL.pdf?cite=2009%20c%2070%20§%2014[2009 c 70 § 14]; ]
+
+== 19.310.150 - Violation of chapter—Civil suit—Damages.
+. A person who violates this chapter is subject to civil suit in a court of competent jurisdiction.
+
+. Damages awarded to a current client for a civil suit filed for a violation of the requirements under RCW 19.310.040 include treble damages and attorneys' fees.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6295-S.SL.pdf?cite=2012%20c%2034%20§%205[2012 c 34 § 5]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1078-S2.SL.pdf?cite=2009%20c%2070%20§%2016[2009 c 70 § 16]; ]
+
+== 19.310.160 - Application of consumer protection act.
+The legislature finds that the practices covered by this chapter are matters vitally affecting the public interest for the purpose of applying the consumer protection act, chapter 19.86 RCW. A violation of this chapter is not reasonable in relation to the development and preservation of business and is an unfair or deceptive act in trade or commerce and an unfair method of competition for purposes of applying the consumer protection act, chapter 19.86 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1078-S2.SL.pdf?cite=2009%20c%2070%20§%2017[2009 c 70 § 17]; ]
+
+== 19.310.900 - Application of chapter  21.20 RCW.
+This chapter does not affect the application of chapter 21.20 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1078-S2.SL.pdf?cite=2009%20c%2070%20§%2018[2009 c 70 § 18]; ]
+

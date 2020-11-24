@@ -1,0 +1,105 @@
+= 3.38 - District court districts.
+:toc:
+
+== 3.38.010 - Districting committee—Membership.
+There is established in each county a district court districting committee composed of the following:
+
+. The judge of the superior court, or, if there be more than one such judge, then one of the judges selected by that court;
+
+. The prosecuting attorney, or a deputy selected by the prosecuting attorney;
+
+. A practicing lawyer of the county selected by the president of the largest local bar association, if there be one, and if not, then by the county legislative authority;
+
+. A judge of a court of limited jurisdiction in the county selected by the president of the Washington state district and municipal court judges' association; and
+
+. The mayor, or representative appointed by the mayor, of each city or town with a population of three thousand or more in the county;
+
+. One person to represent the cities and towns with populations of three thousand or less in the county, if any, to be selected by a majority vote of the mayors of those cities and towns with a population of less than three thousand. However, if there should not be a city in the county with a population of ten thousand or more, the mayor, or the mayor's representative, of each city or town with a population of less than three thousand shall be a member;
+
+. The chair of the county legislative authority; and
+
+. The county auditor.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5040-S.SL.pdf?cite=1995%20c%2037%20§%201[1995 c 37 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2244.SL.pdf?cite=1994%20c%2081%20§%201[1994 c 81 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6067.SL.pdf?cite=1994%20c%2032%20§%202[1994 c 32 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c258.pdf?cite=1984%20c%20258%20§%2022[1984 c 258 § 22]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c299.pdf?cite=1961%20c%20299%20§%2025[1961 c 299 § 25]; ]
+
+== 3.38.020 - Districting committee—Duties—Districting plan.
+The district court districting committee shall meet at the call of the prosecuting attorney to prepare or amend the plan for the districting of the county into one or more district court districts in accordance with the provisions of chapters 3.30 through 3.74 RCW. The plan shall include the following:
+
+. The boundaries of each district proposed to be established;
+
+. The number of judges to be elected in each district or electoral district, if any. In determining the number of judges to be elected, the districting committee shall consider the results of an objective workload analysis conducted by the administrator for the courts;
+
+. The location of the central office, courtrooms and records of each court;
+
+. The other places in the district, if any, where the court shall sit;
+
+. The number and location of district court commissioners to be authorized, if any;
+
+. The departments, if any, into which each district court shall be initially organized, including municipal departments provided for in *chapter 3.46 RCW;
+
+. The name of each district; and
+
+. The allocation of the time and allocation of salary of each judge who will serve part time in a municipal department.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1805-S.SL.pdf?cite=2003%20c%2097%20§%204[2003 c 97 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c258.pdf?cite=1984%20c%20258%20§%2023[1984 c 258 § 23]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c110.pdf?cite=1965%20ex.s.%20c%20110%20§%201[1965 ex.s. c 110 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c299.pdf?cite=1961%20c%20299%20§%2026[1961 c 299 § 26]; ]
+
+== 3.38.022 - Location of offices and courtrooms.
+The districting plan may provide that the offices and courtrooms of more than one district may be in the same building: PROVIDED, That no office or courtroom of any district shall be located further than two miles outside the boundary of the district which it serves.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c258.pdf?cite=1984%20c%20258%20§%2024[1984 c 258 § 24]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c213.pdf?cite=1963%20c%20213%20§%201[1963 c 213 § 1]; ]
+
+== 3.38.030 - Districting plan—Adoption.
+Upon receipt of the districting plan, the county legislative authority shall hold a public hearing, pursuant to the provisions of RCW 36.32.120(7), as now or hereafter amended. At the hearing, anyone interested in the plan may attend and be heard as to the convenience which will be afforded to the public by the plan, and as to any other matters pertaining thereto. If the county legislative authority finds that the plan proposed by the districting committee conforms to the standards set forth in chapters 3.30 through 3.74 RCW and is conducive to the best interests and welfare of the county as a whole it may adopt such plan. If the county legislative authority finds that the plan does not conform to the standards as provided in chapters 3.30 through 3.74 RCW, the county legislative authority may modify, revise or amend the plan and adopt such amended or revised plan as the county's district court districting plan. The plan decided upon shall be adopted by the county legislative authority not later than six months after the county initially obtains a population of two hundred ten thousand or more or the adoption of the elective resolution.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1201-S.SL.pdf?cite=1991%20c%20363%20§%205[1991 c 363 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c258.pdf?cite=1984%20c%20258%20§%2025[1984 c 258 § 25]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c110.pdf?cite=1965%20ex.s.%20c%20110%20§%202[1965 ex.s. c 110 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c299.pdf?cite=1961%20c%20299%20§%2027[1961 c 299 § 27]; ]
+
+== 3.38.031 - Districting plan—Transitional provisions.
+As a part of the districting plan, the county legislative authority shall designate a date on which the terms of the district judges of the county shall end.
+
+For each judicial position under the districting plan, the county legislative authority shall appoint a person qualified under RCW 3.34.060 who shall take office on the date designated by the county legislative authority and shall serve until the next quadrennial election of district judges as provided in RCW 3.34.050.
+
+Pending cases, proceedings, and matters shall be transferred to the appropriate court as provided in RCW 3.74.900.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c258.pdf?cite=1984%20c%20258%20§%2026[1984 c 258 § 26]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c110.pdf?cite=1965%20ex.s.%20c%20110%20§%203[1965 ex.s. c 110 § 3]; ]
+
+== 3.38.040 - Districting plan—Amendment.
+. The districting committee may meet for the purpose of amending the districting plan at any time on call of the county legislative authority, the chairperson of the committee or a majority of its members. Amendments to the plan shall be submitted to the county legislative authority not later than March 15th of each year for adoption by the county legislative authority following the same procedure as with the original districting plan. Amendments shall be adopted not later than May 1st following submission by the districting committee. Any amendment which would reduce the salary or shorten the term of any judge shall not be effective until the next regular election for district judge. All other amendments may be effective on a date set by the county legislative authority.
+
+. The districting committee shall meet within forty-five days of the effective date of changes in the number of judges to be elected in each district court district, or electoral district, if any. Amendments to the plan concerning the number of judges to be elected in each district court district, or electoral district, if any, shall be submitted to the county legislative authority not later than ninety days after the effective date of changes in RCW 3.34.010, and the amendments shall be adopted not later than one hundred eighty days after the effective date of changes in RCW 3.34.010.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1805-S.SL.pdf?cite=2003%20c%2097%20§%205[2003 c 97 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c258.pdf?cite=1984%20c%20258%20§%2027[1984 c 258 § 27]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c66.pdf?cite=1969%20ex.s.%20c%2066%20§%203[1969 ex.s. c 66 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c299.pdf?cite=1961%20c%20299%20§%2028[1961 c 299 § 28]; ]
+
+== 3.38.050 - District court districts—Standards.
+District court districts shall be established in accordance with the following standards:
+
+. Every part of the county shall be in some district.
+
+. The whole county may constitute one district.
+
+. There shall not be more districts than there are judges authorized for the county.
+
+. A district boundary shall not intersect the boundary of an election precinct.
+
+. A city shall not lie in more than one district.
+
+. Whenever a county is divided into more than one district, each district shall be so established as best to serve the convenience of the people of the district, considering the distances which must be traveled by parties and witnesses in going to and from the court and any natural barriers which may obstruct such travel.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c258.pdf?cite=1984%20c%20258%20§%2028[1984 c 258 § 28]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c299.pdf?cite=1961%20c%20299%20§%2029[1961 c 299 § 29]; ]
+
+== 3.38.060 - Joint district court districts.
+Joint districts may be established containing all or part of two or more counties. The county containing the largest portion of the population of a joint district shall be known as the "principal county" and each joint district shall be deemed to lie within the principal county for the purpose of chapters 3.30 through 3.74 RCW. A joint district may be established by resolution of one county concurred in by a resolution of each other county: PROVIDED, That the county legislative authority of a county containing the largest portion of the population of a city may include the portions of such city lying outside the county in a joint district without concurrence of the other counties.
+
+Elections of judges in joint districts shall be conducted and canvassed in the same manner as elections of superior court judges in joint judicial districts.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c258.pdf?cite=1984%20c%20258%20§%2029[1984 c 258 § 29]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c299.pdf?cite=1961%20c%20299%20§%2030[1961 c 299 § 30]; ]
+
+== 3.38.070 - Separate electoral districts—Establishment.
+A county legislative authority for a county that has a single district but has multiple locations for courtrooms may establish separate electoral districts to provide for election of district court judges by subcounty local districts. In any county containing a city of more than four hundred thousand population, the legislative authority of such a county shall establish such separate electoral districts. The procedures in chapter 3.38 RCW for the establishment of district court districts apply to the establishment of separate electoral districts authorized by this section.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c257.pdf?cite=1990%20c%20257%20§%201[1990 c 257 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c227.pdf?cite=1989%20c%20227%20§%202[1989 c 227 § 2]; ]
+
+== 3.38.080 - Separate electoral districts—Definition.
+In any county in which separate electoral districts have been established pursuant to RCW 3.38.070, the term "district" also means "electoral district" for purposes of RCW 3.38.022, 3.38.050, and 3.38.060.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c257.pdf?cite=1990%20c%20257%20§%202[1990 c 257 § 2]; ]
+

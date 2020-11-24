@@ -1,0 +1,280 @@
+= 70A.430 - Children's safe products.
+:toc:
+
+== 70A.430.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Additive TBBPA" means the chemical tetrabromobisphenol A, chemical abstracts service number 79-94-7, as of June 9, 2016, in a form that has not undergone a reactive process and is not covalently bonded to a polymer in a product or product component.
+
+. "Children's cosmetics" means cosmetics that are made for, marketed for use by, or marketed to children under the age of twelve. "Children's cosmetics" includes cosmetics that meet any of the following conditions:
+
+.. Represented in its packaging, display, or advertising as appropriate for use by children;
+
+.. Sold in conjunction with, attached to, or packaged together with other products that are packaged, displayed, or advertised as appropriate for use by children; or
+
+.. Sold in any of the following:
+
+... Retail store, catalogue, or online web site, in which a person exclusively offers for sale products that are packaged, displayed, or advertised as appropriate for use by children; or
+
+... A discrete portion of a retail store, catalogue, or online web site, in which a person offers for sale products that are packaged, displayed, or advertised as appropriate for use by children.
+
+. "Children's jewelry" means jewelry that is made for, marketed for use by, or marketed to children under the age of twelve. "Children's jewelry" includes jewelry that meets any of the following conditions:
+
+.. Represented in its packaging, display, or advertising as appropriate for use by children under the age of twelve;
+
+.. Sold in conjunction with, attached to, or packaged together with other products that are packaged, displayed, or advertised as appropriate for use by children;
+
+.. Sized for children and not intended for use by adults; or
+
+.. Sold in any of the following:
+
+... A vending machine;
+
+... Retail store, catalogue, or online web site, in which a person exclusively offers for sale products that are packaged, displayed, or advertised as appropriate for use by children; or
+
+... A discrete portion of a retail store, catalogue, or online web site, in which a person offers for sale products that are packaged, displayed, or advertised as appropriate for use by children.
+
+. [Empty]
+.. "Children's product" includes any of the following:
+
+... Toys;
+
+... Children's cosmetics;
+
+... Children's jewelry;
+
+... A product designed or intended by the manufacturer to help a child with sucking or teething, to facilitate sleep, relaxation, or the feeding of a child, or to be worn as clothing by children; or
+
+.. Portable infant or child safety seat designed to attach to an automobile seat.
+
+.. "Children's product" does not include the following:
+
+... Batteries;
+
+... Slings and catapults;
+
+... Sets of darts with metallic points;
+
+... Toy steam engines;
+
+.. Bicycles and tricycles;
+
+.. Video toys that can be connected to a video screen and are operated at a nominal voltage exceeding twenty-four volts;
+
+.. Chemistry sets;
+
+.. Consumer and children's electronic products, including but not limited to personal computers, audio and video equipment, calculators, wireless phones, game consoles, and handheld devices incorporating a video screen, used to access interactive software and their associated peripherals;
+
+... Interactive software, intended for leisure and entertainment, such as computer games, and their storage media, such as compact disks;
+
+.. BB guns, pellet guns, and air rifles;
+
+.. Snow sporting equipment, including skis, poles, boots, snow boards, sleds, and bindings;
+
+.. Sporting equipment, including, but not limited to bats, balls, gloves, sticks, pucks, and pads;
+
+.. Roller skates;
+
+.. Scooters;
+
+.. Model rockets;
+
+.. Athletic shoes with cleats or spikes; and
+
+.. Pocket knives and multitools.
+
+. "Cosmetics" includes articles intended to be rubbed, poured, sprinkled, or sprayed on, introduced into, or otherwise applied to the human body or any part thereof for cleansing, beautifying, promoting attractiveness, or altering the appearance, and articles intended for use as a component of such an article. "Cosmetics" does not include soap, dietary supplements, or food and drugs approved by the United States food and drug administration.
+
+. "Decabromodiphenyl ether" means the chemical decabromodiphenyl ether, chemical abstracts service number 1163-19-5, as of June 9, 2016.
+
+. "Department" means the department of ecology.
+
+. "HBCD" means the chemical hexabromocyclododecane, chemical abstracts service number 25637-99-4, as of June 9, 2016.
+
+. "High priority chemical" means a chemical identified by a state agency, federal agency, or accredited research university, or other scientific evidence deemed authoritative by the department on the basis of credible scientific evidence as known to do one or more of the following:
+
+.. Harm the normal development of a fetus or child or cause other developmental toxicity;
+
+.. Cause cancer, genetic damage, or reproductive harm;
+
+.. Disrupt the endocrine system;
+
+.. Damage the nervous system, immune system, or organs or cause other systemic toxicity;
+
+.. Be persistent, bioaccumulative, and toxic; or
+
+.. Be very persistent and very bioaccumulative.
+
+. "IPTPP" means the chemical isopropylated triphenyl phosphate, chemical abstracts service number 68937-41-7, as of June 9, 2016.
+
+. "Manufacturer" includes any person, firm, association, partnership, corporation, governmental entity, organization, or joint venture that produces residential upholstered furniture as defined in RCW 70A.405.010 or children's product or an importer or domestic distributor of residential upholstered furniture as defined in RCW 70A.405.010 or children's product. For the purposes of this subsection, "importer" means the owner of the residential upholstered furniture as defined in RCW 70A.405.010 or children's product.
+
+. "Phthalates" means di-(2-ethylhexyl) phthalate (DEHP), dibutyl phthalate (DBP), benzyl butyl phthalate (BBP), diisonoyl phthalate (DINP), diisodecyl phthalate (DIDP), or di-n-octyl phthalate (DnOP).
+
+. "TBB" means the chemical (2-ethylhexyl)-2,3,4,5-tetrabromobenzoate, chemical abstracts service number 183658-27-7, as of June 9, 2016.
+
+. "TBPH" means the chemical bis (2-ethylhexyl)-2,3,4,5-tetrabromophthalate, chemical abstracts service number 26040-51-7, as of June 9, 2016.
+
+. "TCEP" means the chemical (tris(2-chloroethyl)phosphate); chemical abstracts service number 115-96-8, as of June 9, 2016.
+
+. "TCPP" means the chemical tris (1-chloro-2-propyl) phosphate); chemical abstracts service number 13674-84-5, as of June 9, 2016.
+
+. "TDCPP" means the chemical (tris(1,3-dichloro-2- propyl)phosphate); chemical abstracts service number 13674-87-8, as of June 9, 2016.
+
+. "Toy" means a product designed or intended by the manufacturer to be used by a child at play.
+
+. "TPP" means the chemical triphenyl phosphate, chemical abstracts service number 115-86-6, as of June 9, 2016.
+
+. "Trade association" means a membership organization of persons engaging in a similar or related line of commerce, organized to promote and improve business conditions in that line of commerce and not to engage in a regular business of a kind ordinarily carried on for profit.
+
+. "V6" means the chemical bis(chloromethyl) propane-1,3-diyltetrakis (2-chloroethyl) bisphosphate, chemical abstracts service number 385051-10-4, as of June 9, 2016.
+
+. "Very bioaccumulative" means having a bioconcentration factor or bioaccumulation factor greater than or equal to five thousand, or if neither are available, having a log Kow greater than 5.0.
+
+. "Very persistent" means having a half-life greater than or equal to one of the following:
+
+.. A half-life in soil or sediment of greater than one hundred eighty days;
+
+.. A half-life greater than or equal to sixty days in water or evidence of long-range transport.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201405[2020 c 20 § 1405]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2545-S.SL.pdf?cite=2016%20c%20176%20§%201[2016 c 176 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2647-S2.SL.pdf?cite=2008%20c%20288%20§%202[2008 c 288 § 2]; ]
+
+== 70A.430.020 - Prohibition on the manufacturing and sale of children's products containing lead, cadmium, or phthalates.
+. Beginning July 1, 2009, no manufacturer, wholesaler, or retailer may manufacture, knowingly sell, offer for sale, distribute for sale, or distribute for use in this state a children's product or product component containing the following:
+
+.. Except as provided in subsection (2) of this section, lead at more than .009 percent by weight (ninety parts per million);
+
+.. Cadmium at more than .004 percent by weight (forty parts per million); or
+
+.. Phthalates, individually or in combination, at more than 0.10 percent by weight (one thousand parts per million).
+
+. If determined feasible for manufacturers to achieve and necessary to protect children's health, the department, in consultation with the department of health, may by rule require that no manufacturer, wholesaler, or retailer may manufacture, knowingly sell, offer for sale, distribute for sale, or distribute for use in this state a children's product or product component containing lead at more than .004 percent by weight (forty parts per million).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2647-S2.SL.pdf?cite=2008%20c%20288%20§%203[2008 c 288 § 3]; ]
+
+== 70A.430.030 - Prohibition on the manufacturing and sale of children's products and residential upholstered furniture containing certain flame retardants.
+Beginning July 1, 2017, no manufacturer, wholesaler, or retailer may manufacture, knowingly sell, offer for sale, distribute for sale, or distribute for use in this state children's products or residential upholstered furniture, as defined in RCW 70A.405.010, containing any of the following flame retardants in amounts greater than one thousand parts per million in any product component:
+
+. TDCPP;
+
+. TCEP;
+
+. Decabromodiphenyl ether;
+
+. HBCD; or
+
+. Additive TBBPA.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201406[2020 c 20 § 1406]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2545-S.SL.pdf?cite=2016%20c%20176%20§%202[2016 c 176 § 2]; ]
+
+== 70A.430.040 - Identification of high priority chemicals—Report.
+. By January 1, 2009, the department, in consultation with the department of health, shall identify high priority chemicals that are of high concern for children after considering a child's or developing fetus's potential for exposure to each chemical. In identifying the chemicals, the department shall include chemicals that meet one or more of the following criteria:
+
+.. The chemical has been found through biomonitoring studies that demonstrate the presence of the chemical in human umbilical cord blood, human breast milk, human urine, or other bodily tissues or fluids;
+
+.. The chemical has been found through sampling and analysis to be present in household dust, indoor air, drinking water, or elsewhere in the home environment; or
+
+.. The chemical has been added to or is present in a consumer product used or present in the home.
+
+. By January 1, 2009, the department shall identify children's products or product categories that may contain chemicals identified under subsection (1) of this section.
+
+. By January 1, 2009, the department shall submit a report on the chemicals of high concern to children and the children's products or product categories they identify to the appropriate standing committees of the legislature. The report shall include policy options for addressing children's products that contain chemicals of high concern for children, including recommendations for additional ways to inform consumers about toxic chemicals in products, such as labeling.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2647-S2.SL.pdf?cite=2008%20c%20288%20§%204[2008 c 288 § 4]; ]
+
+== 70A.430.050 - Certain flame retardant chemicals—Review—Stakeholder advisory committee—Report.
+. The department shall consider whether the following flame retardants meet the criteria of a chemical of high concern for children:
+
+.. IPTPP;
+
+.. TBB;
+
+.. TBPH;
+
+.. TCPP;
+
+.. TPP;
+
+.. V6.
+
+. [Empty]
+.. Within one year of the department adopting a rule that identifies a flame retardant in subsection (1) of this section as a chemical of high concern for children, the department of health, in consultation with the department, must create a stakeholder advisory committee for each flame retardant chemical to provide stakeholder input, expertise, and additional information in the development of recommendations as provided under subsection (4) of this section. All advisory committee meetings must be open to the public.
+
+.. The advisory committee membership must include, but is not limited to, representatives from: Large and small business sectors; community, environmental, and public health advocacy groups; local governments; affected and interested businesses; and public health agencies.
+
+.. The department may request state agencies and technical experts to participate. The department of health shall provide technical expertise on human health impacts including: Early childhood and fetal exposure, exposure reduction, and safer substitutes.
+
+. When developing policy options and recommendations consistent with subsection (4) of this section, the department must rely on credible scientific evidence and consider information relevant to the hazards based on the quantitative extent of exposures to the chemical under its intended or reasonably anticipated conditions of use. The department of health, in consultation with the department, must include the following:
+
+.. Chemical name, properties, uses, and manufacturers;
+
+.. An analysis of available information on the production, unintentional production, uses, and disposal of the chemical;
+
+.. Quantitative estimates of the potential human and environmental exposures associated with the use and release of the chemical;
+
+.. An assessment of the potential impacts on human health and the environment resulting from the quantitative exposure estimates referred to in (c) of this subsection;
+
+.. An evaluation of:
+
+... Environmental and human health benefits;
+
+... Economic and social impacts;
+
+... Feasibility;
+
+... Availability and effectiveness of safer substitutes for uses of the chemical;
+
+.. Consistency with existing federal and state regulatory requirements; and
+
+.. Recommendations for:
+
+... Managing, reducing, and phasing out the different uses and releases of the chemical;
+
+... Minimizing exposure to the chemical;
+
+... Using safer substitutes; and
+
+... Encouraging the development of safer alternatives.
+
+. [Empty]
+.. The department of health must submit to the legislature recommendations on policy options for reducing exposure, designating and developing safer substitutes, and restricting or prohibiting the use of the flame retardant chemicals identified in subsection (1) of this section as a chemical of high concern for children.
+
+.. When the department of health, in consultation with the department, determines that flame retardant chemicals identified in subsection (1) of this section as a chemical of high concern for children should be restricted or prohibited from use in children's products, residential upholstered furniture as defined in RCW 70A.405.010, or other commercial products or processes, the department of health must include citations of the peer-reviewed science and other sources of information reviewed and ultimately relied upon in support of the recommendation to restrict or prohibit the chemical.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201407[2020 c 20 § 1407]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2545-S.SL.pdf?cite=2016%20c%20176%20§%203[2016 c 176 § 3]; ]
+
+== 70A.430.060 - Notice that a children's product or a consumer product contains a high priority chemical.
+A manufacturer of a children's product or a consumer product containing a priority chemical subject to a rule adopted to implement a determination made consistent with RCW 70A.350.040(1)(b), or a trade organization on behalf of its member manufacturers, shall provide notice to the department that the manufacturer's product contains a high priority chemical or a priority chemical identified under chapter 70A.350 RCW. The notice must be filed annually with the department and must include the following information:
+
+. The name of the chemical used or produced and its chemical abstracts service registry number;
+
+. A brief description of the product or product component containing the substance;
+
+. A description of the function of the chemical in the product;
+
+. The amount of the chemical used in each unit of the product or product component. The amount may be reported in ranges, rather than the exact amount;
+
+. The name and address of the manufacturer and the name, address, and phone number of a contact person for the manufacturer; and
+
+. Any other information the manufacturer deems relevant to the appropriate use of the product.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201408[2020 c 20 § 1408]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5135-S.SL.pdf?cite=2019%20c%20292%20§%209[2019 c 292 § 9]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2647-S2.SL.pdf?cite=2008%20c%20288%20§%205[2008 c 288 § 5]; ]
+
+== 70A.430.070 - Manufacturers of restricted products—Notice to sellers and distributors—Civil penalty.
+. A manufacturer of products that are restricted under this chapter must notify persons that sell the manufacturer's products in this state about the provisions of this chapter no less than ninety days prior to the effective date of the restrictions.
+
+. A manufacturer that produces, sells, or distributes a product prohibited from manufacture, sale, or distribution in this state under this chapter must recall the product and reimburse the retailer or any other purchaser for the product.
+
+. A manufacturer of products in violation of this chapter is subject to a civil penalty not to exceed five thousand dollars for each violation in the case of a first offense. Manufacturers who are repeat violators are subject to a civil penalty not to exceed ten thousand dollars for each repeat offense. Penalties collected under this section must be deposited in the model toxics control operating account created in RCW 70A.305.180.
+
+. Retailers who unknowingly sell products that are restricted from sale under this chapter are not liable under this chapter.
+
+. The sale or purchase of any previously owned products containing a chemical restricted under this chapter made in casual or isolated sales as defined in RCW 82.04.040, or by a nonprofit organization, is exempt from this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201409[2020 c 20 § 1409]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5993-S.SL.pdf?cite=2019%20c%20422%20§%20407[2019 c 422 § 407]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2545-S.SL.pdf?cite=2016%20c%20176%20§%204[2016 c 176 § 4]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2647-S2.SL.pdf?cite=2008%20c%20288%20§%207[2008 c 288 § 7]; ]
+
+== 70A.430.080 - Adoption of rules.
+The department may adopt rules as necessary for the purpose of implementing, administering, and enforcing this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2647-S2.SL.pdf?cite=2008%20c%20288%20§%209[2008 c 288 § 9]; ]
+

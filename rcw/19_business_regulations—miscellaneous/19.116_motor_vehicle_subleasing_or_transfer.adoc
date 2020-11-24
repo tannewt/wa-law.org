@@ -1,0 +1,118 @@
+= 19.116 - Motor vehicle subleasing or transfer.
+:toc:
+
+== 19.116.005 - Finding.
+The legislature finds that the practices of unlawful subleasing or unlawful transfer of an ownership interest in motor vehicles have a substantial negative impact on the state's financial institutions and other businesses engaged in the financing and leasing of motor vehicles.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c44.pdf?cite=1990%20c%2044%20§%201[1990 c 44 § 1]; ]
+
+== 19.116.010 - Public interest—Finding.
+The legislature finds that the practice of unlawful subleasing or unlawful transfer of an ownership interest in motor vehicles is a matter vitally affecting the public interest for the purpose of applying the consumer protection act, chapter 19.86 RCW.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c44.pdf?cite=1990%20c%2044%20§%202[1990 c 44 § 2]; ]
+
+== 19.116.020 - Definitions.
+The definitions set forth in this section apply throughout this chapter, unless the context requires otherwise:
+
+. "Debtor" has the meaning set forth in RCW 62A.9A-102.
+
+. "Motor vehicle" means a vehicle required to be registered under chapter 46.16A RCW.
+
+. "Person" means an individual, company, firm, association, partnership, trust, corporation, or other legal entity.
+
+. "Security agreement" has the meaning set forth in RCW 62A.9A-102.
+
+. "Security interest" has the meaning set forth in *RCW 62A.1-201(37).
+
+. "Secured party" has the meaning set forth in RCW 62A.9A-102.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5061.SL.pdf?cite=2011%20c%20171%20§%205[2011 c 171 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c44.pdf?cite=1990%20c%2044%20§%203[1990 c 44 § 3]; ]
+
+== 19.116.030 - Application of consumer protection act.
+Unlawful subleasing or unlawful transfer of an ownership interest in motor vehicles is not reasonable in relation to the development and preservation of business. A violation of this chapter is an unfair or deceptive act in trade or commerce for the purpose of applying the consumer protection act, chapter 19.86 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2400.SL.pdf?cite=2000%20c%20171%20§%2070[2000 c 171 § 70]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c44.pdf?cite=1990%20c%2044%20§%204[1990 c 44 § 4]; ]
+
+== 19.116.040 - Violations of chapter.
+. It is a violation of this chapter for a vehicle dealer, as defined in *RCW 46.70.011(3), to engage in the unlawful transfer of an ownership interest in motor vehicles.
+
+. It is a violation of this chapter for a person to engage in the unlawful subleasing of motor vehicles.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c44.pdf?cite=1990%20c%2044%20§%205[1990 c 44 § 5]; ]
+
+== 19.116.050 - Unlawful transfer of motor vehicle—Conditions.
+A dealer engages in an act of unlawful transfer of ownership interest in motor vehicles when all of the following circumstances are met:
+
+. The dealer does not pay off any balance due to the secured party on a vehicle acquired by the dealer, no later than the close of the second business day after the acquisition date of the vehicle; and
+
+. The dealer does not obtain a certificate of title under RCW 46.70.124 for each used vehicle kept in his or her possession unless that certificate is in the possession of the person holding a security interest in the dealer's inventory; and
+
+. The dealer does not transfer the certificate of title after the transferee has taken possession of the motor vehicle.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6379.SL.pdf?cite=2010%20c%20161%20§%201101[2010 c 161 § 1101]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2400.SL.pdf?cite=2000%20c%20171%20§%2071[2000 c 171 § 71]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c44.pdf?cite=1990%20c%2044%20§%206[1990 c 44 § 6]; ]
+
+== 19.116.060 - Unlawful subleasing of motor vehicle—Conditions.
+A person engages in an act of unlawful subleasing of a motor vehicle if all of the following conditions are met:
+
+. The motor vehicle is subject to a lease contract or security agreement the terms of which prohibit the transfer or assignment of any right or interest in the motor vehicle or under the lease contract or security agreement; and
+
+. The person is not a party to the lease contract or security agreement; and
+
+. The person transfers or assigns or purports to transfer or assign any right or interest in the motor vehicle or under the lease contract or security agreement to any person who is not a party to the lease contract or security agreement; and
+
+. The person does not obtain, before the transfer or assignment described in subsection (3) of this section, written consent to the transfer or assignment from the motor vehicle lessor in connection with a lease contract or from the secured party in connection with a security agreement; and
+
+. The person receives compensation or some other consideration for the transfer or assignment described in subsection (3) of this section.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c44.pdf?cite=1990%20c%2044%20§%207[1990 c 44 § 7]; ]
+
+== 19.116.070 - Nonparties assisting, causing, or arranging unlawful assignment or transfer.
+. A person engages in an act of unlawful subleasing of a motor vehicle when the person is not a party to the lease contract or security agreement, and assists, causes, or arranges an actual or purported assignment as described in RCW 19.116.060.
+
+. A dealer engages in an act of unlawful transfer of an ownership interest in a motor vehicle when the dealer is not a party to the security agreement, and assists, causes, or arranges an actual or purported transfer as described in RCW 19.116.050.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c44.pdf?cite=1990%20c%2044%20§%208[1990 c 44 § 8]; ]
+
+== 19.116.080 - Unlawful subleasing or transfer—Class C felony.
+. Unlawful subleasing of a motor vehicle is a class C felony punishable under chapter 9A.20 RCW.
+
+. Unlawful transfer of an ownership interest in a motor vehicle is a class C felony punishable under chapter 9A.20 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%20157[2003 c 53 § 157]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c44.pdf?cite=1990%20c%2044%20§%209[1990 c 44 § 9]; ]
+
+== 19.116.090 - Violations—Criminal profiteering.
+A violation of this chapter constitutes an act of criminal profiteering, as defined in RCW 9A.82.010.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c44.pdf?cite=1990%20c%2044%20§%2010[1990 c 44 § 10]; ]
+
+== 19.116.100 - Persons who may bring action—Damages.
+. Any one or more of the following persons who suffers damage proximately resulting from one or more acts of unlawful motor vehicle subleasing or unlawful transfer of an ownership interest in a motor vehicle may bring an action against the person who has engaged in those acts:
+
+.. A secured party;
+
+.. A debtor;
+
+.. A lessor;
+
+.. A lessee;
+
+.. An actual or purported transferee or assignee;
+
+.. A guarantor of a lease or security agreement or a guarantor of a purported transferee or assignee.
+
+. In an action for unlawful subleasing or unlawful transfer of an ownership interest in a motor vehicle the court may award actual damages; equitable relief, including, but not limited to an injunction and restitution of money and property; reasonable attorneys' fees and costs; and any other relief that the court deems proper.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c44.pdf?cite=1990%20c%2044%20§%2011[1990 c 44 § 11]; ]
+
+== 19.116.110 - Transfer or assignment of interest by persons with motor vehicles under lease contract or security agreement not subject to prosecution—Enforceability of contract or agreement not affected.
+. The actual or purported transfer or assignment, or the assisting, causing, or arranging of an actual or purported transfer or assignment, of any right or interest in a motor vehicle or under a lease contract or security agreement, by an individual who is a party to the lease contract or security agreement is not an act of unlawful subleasing of or unlawful transfer of an ownership interest in a motor vehicle and is not subject to prosecution.
+
+. This chapter does not affect the enforceability of any provision of a lease contract or security agreement by a party thereto.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c44.pdf?cite=1990%20c%2044%20§%2012[1990 c 44 § 12]; ]
+
+== 19.116.120 - Penalties in addition to other remedies or penalties.
+The penalties under this chapter are in addition to any other remedies or penalties provided by law for the conduct proscribed by this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c44.pdf?cite=1990%20c%2044%20§%2013[1990 c 44 § 13]; ]
+

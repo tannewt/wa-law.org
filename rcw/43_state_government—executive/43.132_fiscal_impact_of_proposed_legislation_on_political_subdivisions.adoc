@@ -1,0 +1,61 @@
+= 43.132 - Fiscal impact of proposed legislation on political subdivisions.
+:toc:
+
+== 43.132.010 - Intent.
+It is the intent of this chapter to create a uniform and coordinated procedure to determine the fiscal impact of proposed legislation on units of local government.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c19.pdf?cite=1977%20ex.s.%20c%2019%20§%201[1977 ex.s. c 19 § 1]; ]
+
+== 43.132.020 - Fiscal notes—Preparation—Contents—Scope—Revisions—Reports.
+The director of financial management or the director's designee shall, in cooperation with appropriate legislative committees and legislative staff, establish a mechanism for the determination of the fiscal impact of proposed legislation which if enacted into law would directly or indirectly increase or decrease revenues received or expenditures incurred by counties, cities, towns, or any other units of local government. For purposes of this section, "unit of local government" includes school districts to the extent that the proposed legislation affects school districts in the same manner as it affects other units of local government. Where proposed legislation uniquely affects school districts, a school district fiscal note must be prepared under the process established in RCW 28A.300.0401. The office of financial management shall, when requested by a member of the state legislature, report in writing as to such fiscal impact and said report shall be known as a "fiscal note".
+
+Such fiscal notes shall indicate by fiscal year the total impact on the local governments involved for the first two years the legislation would be in effect and also a cumulative six year forecast of the fiscal impact. Where feasible and applicable, the fiscal note also shall indicate the fiscal impact on each individual county or on a representative sampling of cities, towns, or other units of local government.
+
+A fiscal note as defined in this section shall be provided only upon request of any member of the state legislature. A request for a fiscal note on legislation shall be considered to be a continuing request for a fiscal note on any formal alteration of the legislation in the form of amendments to the legislation that are adopted by a committee or a house of the legislature or a substitute version of such legislation that is adopted by a committee and preparation of the fiscal note on the prior version of the legislation shall stop, unless the legislator requesting the fiscal note specifies otherwise or the altered version is first adopted or enacted in the last week of a legislative session.
+
+Fiscal notes shall be completed within one week of the request unless a longer time period is allowed by the requesting legislator. In the event a fiscal note has not been completed within one week of a request, a daily report shall be prepared for the requesting legislator by the director of financial management which report summarizes the progress in preparing the fiscal note. If the request is referred to the director of commerce, the daily report shall also include the date and time such referral was made.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1703.SL.pdf?cite=2011%20c%20140%20§%202[2011 c 140 § 2]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2397.SL.pdf?cite=2000%20c%20182%20§%202[2000 c 182 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1014.SL.pdf?cite=1995%20c%20399%20§%2079[1995 c 399 § 79]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c125.pdf?cite=1984%20c%20125%20§%2016[1984 c 125 § 16]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c151.pdf?cite=1979%20c%20151%20§%20149[1979 c 151 § 149]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c19.pdf?cite=1977%20ex.s.%20c%2019%20§%202[1977 ex.s. c 19 § 2]; ]
+
+== 43.132.030 - Designation of department of community, trade, and economic development to prepare fiscal notes—Cooperation of state agencies, legislative staffs, and local government associations.
+The director of financial management is hereby empowered to designate the *director of community, trade, and economic development as the official responsible for the preparation of fiscal notes authorized and required by this chapter. It is the intent of the legislature that when necessary the resources of other state agencies, appropriate legislative staffs, and the various associations of local government may be employed in the development of such fiscal notes.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1014.SL.pdf?cite=1995%20c%20399%20§%2080[1995 c 399 § 80]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c6.pdf?cite=1985%20c%206%20§%2010[1985 c 6 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c151.pdf?cite=1979%20c%20151%20§%20150[1979 c 151 § 150]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c19.pdf?cite=1977%20ex.s.%20c%2019%20§%203[1977 ex.s. c 19 § 3]; ]
+
+== 43.132.040 - Fiscal notes—Transmission of copies to designated recipients.
+When a fiscal note is prepared and approved as to form and completeness by the director of financial management, the director shall transmit copies immediately to:
+
+. The requesting legislator;
+
+. With respect to proposed legislation held by the senate, the chairperson of the committee which holds or has acted upon the proposed legislation, the chairperson of the ways and means committee or equivalent committees with jurisdiction over matters normally considered by a ways and means committee, the chairperson of the local government committee or equivalent committee that considers local government matters, and the secretary of the senate; and
+
+. With respect to proposed legislation held by the house of representatives, the chairperson of the committee which holds or has acted upon the proposed legislation, the chairpersons of the ways and means committee or equivalent committees with jurisdiction over matters normally considered by a ways and means committee, the chairperson of the local government committee or equivalent committee that considers local government matters, and the chief clerk of the house of representatives.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2397.SL.pdf?cite=2000%20c%20182%20§%203[2000 c 182 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c158.pdf?cite=1986%20c%20158%20§%2018[1986 c 158 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c151.pdf?cite=1979%20c%20151%20§%20151[1979 c 151 § 151]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c19.pdf?cite=1977%20ex.s.%20c%2019%20§%204[1977 ex.s. c 19 § 4]; ]
+
+== 43.132.050 - Fiscal notes—Transmission of copies upon request.
+The office of financial management may make additional copies of the fiscal note available to members of the legislature and others on request.
+
+At the request of any member of the senate or house of representatives, whichever is considering the proposed legislation, and unless it is prohibited by the rules of the body, copies of the fiscal note or a synopsis thereof shall be placed on the members' desks at the time the proposed legislation takes its place on the second reading calendar.
+
+Whenever proposed legislation accompanied by such a fiscal note is passed by either the senate or the house of representatives, the fiscal note shall be transmitted with the bill to the other house.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c158.pdf?cite=1986%20c%20158%20§%2019[1986 c 158 § 19]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c151.pdf?cite=1979%20c%20151%20§%20152[1979 c 151 § 152]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c19.pdf?cite=1977%20ex.s.%20c%2019%20§%205[1977 ex.s. c 19 § 5]; ]
+
+== 43.132.055 - Fiscal notes—Expenditures by local government—Fiscal responsibility.
+When the fiscal note indicates that a bill or resolution would require expenditures of funds by a county, city, town, or other unit of local government, the legislature shall determine the state's fiscal responsibility and shall make every effort to appropriate the funds or provide the revenue generating authority necessary to implement the legislation during the ensuing biennium.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c112.pdf?cite=1979%20ex.s.%20c%20112%20§%202[1979 ex.s. c 112 § 2]; ]
+
+== 43.132.060 - Legislative action upon or validity of measures not affected.
+. Nothing in this chapter shall prevent either house of the legislature from acting on any bill or resolution before it as otherwise provided by the state Constitution, by law, and by the rules of the senate and house of representatives, nor shall the lack of any fiscal note as provided in this chapter or any error in the accuracy thereof affect the validity of any measure otherwise duly passed by the legislature.
+
+. Subsection (1) of this section shall not alter the responsibilities of RCW 43.135.060.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2397.SL.pdf?cite=2000%20c%20182%20§%204[2000 c 182 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c19.pdf?cite=1977%20ex.s.%20c%2019%20§%206[1977 ex.s. c 19 § 6]; ]
+
+== 43.132.810 - Local government fiscal notes—Fiscal impact of selected laws on local governments—Biennial report.
+The office of financial management, in consultation with the *department of community, trade, and economic development, shall prepare a report for the legislature on or before December 31st of every even-numbered year on local government fiscal notes, and reports on the fiscal impacts on local governments arising from selected laws, that were prepared over the preceding two-year period.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2397.SL.pdf?cite=2000%20c%20182%20§%206[2000 c 182 § 6]; ]
+

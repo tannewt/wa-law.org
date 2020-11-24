@@ -1,0 +1,135 @@
+= 28A.250 - Online learning.
+:toc:
+
+== 28A.250.005 - Findings—Intent.
+. The legislature finds that online learning provides tremendous opportunities for students to access curriculum, courses, and a unique learning environment that might not otherwise be available. The legislature supports and encourages online learning opportunities.
+
+. However, the legislature also finds that there is a need to assure quality in online learning, both for the programs and the administration of those programs. The legislature is the steward of public funds that support students enrolled in online learning and must ensure an appropriate accountability system at the state level.
+
+. Therefore, the legislature intends to take a first step in improving oversight and quality assurance of online learning programs, and intends to examine possible additional steps that may need to be taken to improve financial accountability.
+
+. The first step in improving quality assurance is to:
+
+.. Provide objective information to students, parents, and educators regarding available online learning opportunities, including program and course content, how to register for programs and courses, teacher qualifications, student-to-teacher ratios, prior course completion rates, and other evaluative information;
+
+.. Create an approval process for online providers;
+
+.. Enhance statewide equity of student access to high quality online learning opportunities; and
+
+.. Require school district boards of directors to develop policies and procedures for student access to online learning opportunities.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2065-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2034%20§%204[2011 1st sp.s. c 34 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5410-S.SL.pdf?cite=2009%20c%20542%20§%201[2009 c 542 § 1]; ]
+
+== 28A.250.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. [Empty]
+.. "Multidistrict online provider" means:
+
+... A private or nonprofit organization that enters into a contract with a school district to provide online courses or programs to K-12 students from more than one school district;
+
+... A private or nonprofit organization that enters into contracts with multiple school districts to provide online courses or programs to K-12 students from those districts; or
+
+... Except as provided in (b) of this subsection, a school district that provides online courses or programs to students who reside outside the geographic boundaries of the school district.
+
+.. "Multidistrict online provider" does not include a school district online learning program in which fewer than ten percent of the students enrolled in the program are from other districts under the interdistrict student transfer provisions of RCW 28A.225.225. "Multidistrict online provider" also does not include regional online learning programs that are jointly developed and implemented by two or more school districts or an educational service district through an interdistrict cooperative program agreement that addresses, at minimum, how the districts share student full-time equivalency for state basic education funding purposes and how categorical education programs, including special education, are provided to eligible students.
+
+. [Empty]
+.. "Online course" means a course or grade-level coursework where:
+
+... More than half of the course content is delivered electronically using the internet or other computer-based methods;
+
+... More than half of the teaching is conducted from a remote location through an online course learning management system or other online or electronic tools;
+
+... A certificated teacher has the primary responsibility for the student's instructional interaction. Instructional interaction between the teacher and the student includes, but is not limited to, direct instruction, review of assignments, assessment, testing, progress monitoring, and educational facilitation; and
+
+... Students have access to the teacher synchronously, asynchronously, or both.
+
+.. "Online school program" means a school program that offers a sequential set of online courses or grade-level coursework that may be taken in a single school term or throughout the school year in a manner that could provide a full-time basic education program if so desired by the student. Students may enroll in the program as part-time or full-time students.
+
+.. An online course or online school program may be delivered to students at school as part of the regularly scheduled school day. An online course or online school program also may be delivered to students, in whole or in part, independently from a regular classroom schedule, but such courses or programs must comply with RCW 28A.232.010 and associated rules adopted by the superintendent of public instruction to qualify for state basic education funding.
+
+. "Online provider" means any provider of an online course or program, including multidistrict online providers, all school district online learning programs, and all regional online learning programs.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5946-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2018%20§%20504[2013 2nd sp.s. c 18 § 504]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2065-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2034%20§%205[2011 1st sp.s. c 34 § 5]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5410-S.SL.pdf?cite=2009%20c%20542%20§%202[2009 c 542 § 2]; ]
+
+== 28A.250.020 - Multidistrict online providers—Approval criteria—Advisory committee.
+. The superintendent of public instruction, in collaboration with the state board of education, shall develop and implement approval criteria and a process for approving online providers; a process for monitoring and if necessary rescinding the approval of courses or programs offered by an online provider; and an appeals process. The criteria and processes for multidistrict online providers shall be adopted by rule by December 1, 2009.
+
+. When developing the approval criteria, the superintendent of public instruction shall require that providers offering online courses or programs have accreditation, or are candidates for accreditation, through the Northwest accreditation commission or another national, regional, or state accreditation program listed by the office of the superintendent of public instruction. In addition to other criteria, the approval criteria shall include the degree of alignment with state academic standards and require that all teachers be certificated in accordance with Washington state law. When reviewing online providers that offer high school courses, the superintendent of public instruction shall assure that the courses offered by the provider are eligible for high school credit. However, final decisions regarding whether credit meets the school district's graduation requirements shall remain the responsibility of the school districts.
+
+. Initial approval of online providers by the superintendent of public instruction shall be for four years. The superintendent of public instruction shall develop a process for the renewal of approvals and for rescinding approvals based on noncompliance with approval requirements. Any multidistrict online provider that was approved by the digital learning commons or accredited by the Northwest association of accredited schools before July 26, 2009, and that meets the teacher certification requirements of subsection (2) of this section, is exempt from the initial approval process under this section until August 31, 2012, but must comply with the process for renewal of approvals and must comply with approval requirements.
+
+. The superintendent of public instruction shall make the first round of decisions regarding approval of multidistrict online providers by April 1, 2010. The first round of decisions regarding approval of online providers that are not multidistrict online providers shall be made by April 1, 2013. Thereafter, the superintendent of public instruction shall make annual approval decisions no later than November 1st of each year.
+
+. The superintendent of public instruction shall establish an online learning advisory committee within existing resources that shall provide advice to the superintendent regarding the approval criteria, major components of the web site, the model school district policy, model agreements, and other related matters. The committee shall include a representative of each of the following groups: Private and public online providers, parents of online students, accreditation organizations, educational service districts, school principals, teachers, school administrators, school board members, institutions of higher education, and other individuals as determined by the superintendent. Members of the advisory committee shall be selected by the superintendent based on nominations from statewide organizations, shall serve three-year terms, and may be reappointed. The superintendent shall select the chair of the committee.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5946-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2018%20§%20505[2013 2nd sp.s. c 18 § 505]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2065-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2034%20§%206[2011 1st sp.s. c 34 § 6]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5410-S.SL.pdf?cite=2009%20c%20542%20§%203[2009 c 542 § 3]; ]
+
+== 28A.250.030 - Office of online learning—Duties.
+The superintendent of public instruction shall create an office of online learning. In the initial establishment of the office, the superintendent shall hire staff who have been employed by the digital learning commons to the extent such hiring is in accordance with state law and to the extent funds are available. The office shall:
+
+. Develop and maintain a web site that provides objective information for students, parents, and educators regarding online learning opportunities offered by online providers that have been approved in accordance with RCW 28A.250.020. The web site shall include information regarding the online course provider's overall instructional program, specific information regarding the content of individual online courses and online school programs, a direct link to each online course provider's web site, how to register for online learning programs and courses, teacher qualifications, student-to-teacher ratios, course completion rates, and other evaluative and comparative information. The web site shall also provide information regarding the process and criteria for approving online providers. To the greatest extent possible, the superintendent shall use the framework of the course offering component of the web site developed by the digital learning commons;
+
+. Develop model agreements with approved online providers that address standard contract terms and conditions that may apply to contracts between a school district and the approved provider. The purpose of the agreements is to provide a template to assist individual school districts, at the discretion of the district, in contracting with online providers to offer the online provider's courses and programs to students in the district. The agreements may address billing, fees, responsibilities of online course providers and school districts, and other issues; and
+
+. In collaboration with the educational service districts:
+
+.. Provide technical assistance and support to school district personnel through the educational technology centers in the development and implementation of online learning programs in their districts; and
+
+.. To the extent funds are available, provide online learning tools for students, teachers, administrators, and other educators.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2065-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2034%20§%207[2011 1st sp.s. c 34 § 7]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5410-S.SL.pdf?cite=2009%20c%20542%20§%204[2009 c 542 § 4]; ]
+
+== 28A.250.040 - Duties of the superintendent of public instruction.
+The superintendent of public instruction shall:
+
+. Develop model policies and procedures, in consultation with the Washington state school directors' association, that may be used by school district boards of directors in the development of the school district policies and procedures required in RCW 28A.250.050. The model policies and procedures shall be disseminated to school districts by February 1, 2010;
+
+. By December 1, 2009, modify the standards for school districts to report course information to the office of the superintendent of public instruction under RCW 28A.300.500 to designate if the course was an online course. The reporting standards shall be required beginning with the 2010-11 school year; and
+
+. Beginning January 15, 2011, and annually thereafter, submit a report regarding online learning to the state board of education, the governor, and the legislature. The report shall cover the previous school year and include but not be limited to student demographics, course enrollment data, aggregated student course completion and passing rates, and activities and outcomes of course and provider approval reviews.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5410-S.SL.pdf?cite=2009%20c%20542%20§%205[2009 c 542 § 5]; ]
+
+== 28A.250.048 - Condensed compliance reports—Second-class districts.
+Any compliance reporting requirements as a result of laws in this chapter that apply to second-class districts may be submitted in accordance with RCW 28A.330.250.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5184-S.SL.pdf?cite=2011%20c%2045%20§%2018[2011 c 45 § 18]; ]
+
+== 28A.250.050 - Student access to online courses and online learning programs—Policies and procedures—Course credit—Dissemination of information—Development of local or regional online learning programs.
+. By August 31, 2010, all school district boards of directors shall develop policies and procedures regarding student access to online courses and online learning programs. The policies and procedures shall include but not be limited to: Student eligibility criteria; the types of online courses available to students through the school district; the methods districts will use to support student success, which may include a local advisor; when the school district will and will not pay course fees and other costs; the granting of high school credit; and a process for students and parents or guardians to formally acknowledge any course taken for which no credit is given. The policies and procedures shall take effect beginning with the 2010-11 school year. School districts shall submit their policies to the superintendent of public instruction by September 15, 2010. By December 1, 2010, the superintendent of public instruction shall summarize the school district policies regarding student access to online courses and submit a report to the legislature.
+
+. School districts must award credit and grades for online high school courses successfully completed by a student that meet the school district's graduation requirements and are provided by an approved online provider.
+
+. School districts shall provide students with information regarding online courses that are available through the school district. The information shall include the types of information described in subsection (1) of this section.
+
+. When developing local or regional online learning programs, school districts shall incorporate into the program design the approval criteria developed by the superintendent of public instruction under RCW 28A.250.020.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5946-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2018%20§%20506[2013 2nd sp.s. c 18 § 506]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2065-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2034%20§%2011[2011 1st sp.s. c 34 § 11]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5410-S.SL.pdf?cite=2009%20c%20542%20§%206[2009 c 542 § 6]; ]
+
+== 28A.250.060 - Availability of state funding for students enrolled in online courses or programs.
+. Beginning with the 2011-12 school year, school districts may claim state funding under RCW 28A.232.020, to the extent otherwise allowed by state law, for students enrolled in online courses or programs only if the online courses or programs are:
+
+.. Offered by a multidistrict online provider approved under RCW 28A.250.020 by the superintendent of public instruction;
+
+.. Offered by a school district online learning program if the program serves students who reside within the geographic boundaries of the school district, including school district programs in which fewer than ten percent of the program's students reside outside the school district's geographic boundaries; or
+
+.. Offered by a regional online learning program where courses are jointly developed and offered by two or more school districts or an educational service district through an interdistrict cooperative program agreement.
+
+. Beginning with the 2013-14 school year, school districts may claim state funding under RCW 28A.232.020, to the extent otherwise allowed by state law, for students enrolled in online courses or programs only if the online courses or programs are offered by an online provider approved under RCW 28A.250.020 by the superintendent of public instruction.
+
+. Criteria shall be established by the superintendent of public instruction to allow online courses that have not been approved by the superintendent of public instruction to be eligible for state funding if the course is in a subject matter in which no courses have been approved and, if it is a high school course, the course meets Washington high school graduation requirements.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5946-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2018%20§%20507[2013 2nd sp.s. c 18 § 507]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2065-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2034%20§%208[2011 1st sp.s. c 34 § 8]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5410-S.SL.pdf?cite=2009%20c%20542%20§%207[2009 c 542 § 7]; ]
+
+== 28A.250.070 - Rights of students to attend nonresident school district for the purposes of enrolling in alternative learning experience programs—Standard release form.
+Nothing in this chapter is intended to diminish the rights of students to attend a nonresident school district in accordance with RCW 28A.225.220 through 28A.225.230 for the purposes of enrolling in alternative learning experience programs. The office of online learning under RCW 28A.250.030 shall develop a standard form, which must be used by all school districts, for releasing a student to a nonresident school district for the purposes of enrolling in an alternative learning experience program.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1170-S2.SL.pdf?cite=2017%20c%20291%20§%208[2017 c 291 § 8]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5946-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2018%20§%20508[2013 2nd sp.s. c 18 § 508]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5410-S.SL.pdf?cite=2009%20c%20542%20§%208[2009 c 542 § 8]; ]
+
+== 28A.250.080 - Administration of statewide student assessment—Waiver of scheduled dates.
+An online school program may request a waiver from the office of the superintendent of public instruction to administer one or more sections of the statewide student assessment for grades three through eight for some or all students enrolled in the program on alternate days or on an alternate schedule, as long as the administration is within the testing period established by the office. The office may deny a request for a waiver if the online school program's proposal does not maintain adequate test security or would reduce the reliability of the assessment results by providing an inequitable advantage for some students.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5946-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2018%20§%20509[2013 2nd sp.s. c 18 § 509]; ]
+

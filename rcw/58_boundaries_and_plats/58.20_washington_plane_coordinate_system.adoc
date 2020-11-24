@@ -1,0 +1,78 @@
+= 58.20 - Washington plane coordinate system.
+:toc:
+
+== 58.20.111 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Metadata" means data that describes other data. For the purposes of this chapter, metadata means geodetic reference system utilized, applicable epoch, statement of relative accuracy, and date of observation at a minimum. Additional metadata is encouraged if it adds value.
+
+. "NGS" means the national ocean service's national geodetic survey of the national oceanic and atmospheric administration, United States department of commerce, or its successor.
+
+. "NSRS" means the national spatial reference system or its successor.
+
+. "WPCS" means the Washington plane coordinate system, the system of plane coordinates under this chapter that is identical to the state plane coordinate system as defined for the state of Washington by NGS.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2860.SL.pdf?cite=2020%20c%2050%20§%201[2020 c 50 § 1]; ]
+
+== 58.20.121 - Washington plane coordinate system.
+The most recent version of the state plane coordinate system for the state of Washington, which has been established by NGS, based on the NSRS, for defining and stating the positions or locations of points on the surface of the earth within the state of Washington must be known as the "Washington plane coordinate system."
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2860.SL.pdf?cite=2020%20c%2050%20§%202[2020 c 50 § 2]; ]
+
+== 58.20.140 - Designation of system—Zones.
+The Washington plane coordinate system shall be named, and in any land description in which it is used it shall be designated, the "Washington plane coordinate system," and the zone used must be specified.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2860.SL.pdf?cite=2020%20c%2050%20§%203[2020 c 50 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c54.pdf?cite=1989%20c%2054%20§%2012[1989 c 54 § 12]; ]
+
+== 58.20.145 - Plane coordinates.
+. The plane coordinates of a point on the earth's surface, to be used in expressing the position or location of the point in the appropriate zone of the WPCS, consist of two distances, expressed in feet and decimals of a foot or meters and decimals of a meter, along with the metadata of the observations used to determine the coordinates. One of these distances, to be known as the "east x-coordinate," must give the distance east of the Y axis; the other, to be known as the "north y-coordinate," must give the distance north of the X axis. The Y axis of any zone must be parallel with the central meridian of that zone. The X axis of any zone must be at right angles to the central meridian of that zone.
+
+. Height is the coordinate value of the vertical elements of the NSRS expressed as feet or meters and identified as ellipsoid height or orthometric height.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2860.SL.pdf?cite=2020%20c%2050%20§%204[2020 c 50 § 4]; ]
+
+== 58.20.160 - Tracts in more than one zone.
+When any tract of land to be defined by a single description extends from one coordinate zone into other zones, the positions of all points on its boundaries must be referred to only one of the zones, the zone which is used being specifically named in the description along with the metadata of the observations.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2860.SL.pdf?cite=2020%20c%2050%20§%205[2020 c 50 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c54.pdf?cite=1989%20c%2054%20§%2014[1989 c 54 § 14]; ]
+
+== 58.20.165 - Geodetic datums.
+The official geodetic datums to which geodetic coordinates including, but not limited to, latitude, longitude, ellipsoid height, orthometric height, or dynamic height are referenced within the state of Washington must be as defined for the NSRS.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2860.SL.pdf?cite=2020%20c%2050%20§%206[2020 c 50 § 6]; ]
+
+== 58.20.180 - Recording coordinates.
+Coordinates based on the Washington plane coordinate system, purporting to define the position of a point on a land boundary, may be presented to be recorded in any public land records or deed records. The method and source for establishing coordinates shall be described in the land or deed record. In all instances where reference has been made to such coordinates in land surveys or deeds, the combined factors shall be stated for the survey lines used in computing ground distances and areas, along with the metadata of the observations.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2860.SL.pdf?cite=2020%20c%2050%20§%207[2020 c 50 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c54.pdf?cite=1989%20c%2054%20§%2016[1989 c 54 § 16]; ]
+
+== 58.20.185 - Standard value—One foot.
+When the values are expressed in feet, one foot equals 0.3048 meters, must be used as the standard foot for WPCS.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2860.SL.pdf?cite=2020%20c%2050%20§%208[2020 c 50 § 8]; ]
+
+== 58.20.200 - Term—Limited use.
+The use of the term "Washington plane coordinate system" on any map, report of survey, or other document, shall be limited to coordinates based on the Washington plane coordinate system as defined in this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2860.SL.pdf?cite=2020%20c%2050%20§%209[2020 c 50 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c54.pdf?cite=1989%20c%2054%20§%2018[1989 c 54 § 18]; ]
+
+== 58.20.205 - Datum conflicts.
+The provisions of this chapter may not be construed to prohibit the appropriate use of other datums, other geodetic reference networks or systems, or other plane coordinate systems. Any other such datums, networks, or systems used must comply fully with the information requirements for the Washington plane coordinate system. This includes, but is not limited to: The source of the datum, network, or system; metadata of the observations; factor used to convert from meters to feet; and combined factors applied to land boundary lines used in land surveys or deeds to compute ground distances or areas.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2860.SL.pdf?cite=2020%20c%2050%20§%2012[2020 c 50 § 12]; ]
+
+== 58.20.210 - United States survey prevails—Conflict.
+Whenever coordinates based on the Washington plane coordinate system are used to describe any tract of land which in the same document is also described by reference to any subdivision, line or corner of the United States public land surveys, the description by coordinates shall be construed as supplemental to the basic description of such subdivision, line, or corner contained in the official plats and field notes filed of record, and in the event of any conflict the description by reference to the subdivision, line, or corner of the United States public land surveys shall prevail over the description by coordinates.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2860.SL.pdf?cite=2020%20c%2050%20§%2010[2020 c 50 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c54.pdf?cite=1989%20c%2054%20§%2019[1989 c 54 § 19]; ]
+
+== 58.20.220 - Real estate transactions—Exemption.
+Nothing contained in this chapter shall require any purchaser or mortgagee to rely on a description, any part of which depends exclusively upon the Washington plane coordinate system.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2860.SL.pdf?cite=2020%20c%2050%20§%2011[2020 c 50 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c54.pdf?cite=1989%20c%2054%20§%2020[1989 c 54 § 20]; ]
+
+== 58.20.901 - Severability—1989 c 54.
+If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c54.pdf?cite=1989%20c%2054%20§%2021[1989 c 54 § 21]; ]
+

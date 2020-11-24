@@ -1,0 +1,68 @@
+= 46.35 - Recording devices in motor vehicles.
+:toc:
+
+== 46.35.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Owner" means:
+
+.. A person having all the incidents of ownership, including legal title, of a motor vehicle, whether or not the person lends, rents, or creates a security interest in the motor vehicle;
+
+.. A person entitled to the possession of a motor vehicle as the purchaser under a security agreement;
+
+.. A person entitled to possession of a motor vehicle as a lessee pursuant to a written lease agreement for a period of more than three months; or
+
+.. If a third party requests access to a recording device to investigate a collision, the owner of the motor vehicle at the time the collision occurred.
+
+. "Recording device" means an electronic system, and the physical device or mechanism containing the electronic system, that primarily, or incidental to its primary function, preserves or records, in electronic form, data collected by sensors or provided by other systems within a motor vehicle. "Recording device" includes event data recorders, sensing and diagnostic modules, electronic control modules, automatic crash notification systems, geographic information systems, and any other device that records and preserves data that can be accessed related to that motor vehicle. "Recording device" does not include onboard diagnostic systems whose exclusive function is to capture fault codes used to diagnose or service the motor vehicle.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5574-S.SL.pdf?cite=2009%20c%20485%20§%201[2009 c 485 § 1]; ]
+
+== 46.35.020 - Disclosure in owner's manual, subscription service agreement, and product manual.
+. A manufacturer of a motor vehicle sold or leased in this state, that is equipped with one or more recording devices, shall disclose in the owner's manual that the motor vehicle is equipped with one or more recording devices and, if so, the type of data recorded and whether the recording device or devices have the ability to transmit information to a central communications system or other external device.
+
+. If a recording device is used as part of a subscription service, the subscription service agreement must disclose the type of information that the device may record or transmit.
+
+. A disclosure made in writing is deemed a disclosure in the owner's manual.
+
+. If a recording device is to be installed in a vehicle aftermarket, the manufacturer or distributor of the device shall disclose in the product manual the type of information that the device may record and whether the recording device has the ability to transmit information to a central communications system or other external device.
+
+. A disclosure made in writing is deemed a disclosure in the product manual.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5574-S.SL.pdf?cite=2009%20c%20485%20§%202[2009 c 485 § 2]; ]
+
+== 46.35.030 - Confidential information—Exceptions—Penalty.
+. Information recorded or transmitted by a recording device may not be retrieved, downloaded, scanned, read, or otherwise accessed by a person other than the owner of the motor vehicle in which the recording device is installed except:
+
+.. Upon a court order or pursuant to discovery. Any information recorded or transmitted by a recording device and obtained by a court order or pursuant to discovery is private and confidential and is not subject to public disclosure;
+
+.. With the consent of the owner, given for a specific instance of access, for any purpose;
+
+.. For improving motor vehicle safety, including medical research on the human body's reaction to motor vehicle collisions, if the identity of the motor vehicle or the owner or driver of the motor vehicle is not disclosed in connection with the retrieved information;
+
+.. For determining the need for or facilitating emergency medical response if a motor vehicle collision occurs, provided that the information retrieved is used solely for medical purposes; or
+
+.. For subscription services pursuant to an agreement in which disclosure required under RCW 46.35.020 has been made, provided that the information retrieved is used solely for the purposes of fulfilling the subscription service.
+
+. For the purposes of subsection (1)(c) of this section:
+
+.. The disclosure of a motor vehicle's vehicle identification number with the last six digits deleted or redacted is not a disclosure of the identity of the owner or driver; and
+
+.. Retrieved information may only be disclosed to a data processor.
+
+. Information that can be associated with an individual and that is recorded or transmitted by a recording device may not be sold to a third party unless the owner of the information explicitly grants permission for the sale.
+
+. Any person who violates this section is guilty of a misdemeanor.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5574-S.SL.pdf?cite=2009%20c%20485%20§%203[2009 c 485 § 3]; ]
+
+== 46.35.040 - Tools available to access and retrieve information—When.
+A manufacturer of a motor vehicle sold or leased in this state that is equipped with a recording device shall ensure by licensing agreement or other means that a tool or tools are available that are capable of accessing and retrieving the information stored in a recording device. The tool or tools must be commercially available no later than ninety days after July 26, 2009.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5574-S.SL.pdf?cite=2009%20c%20485%20§%205[2009 c 485 § 5]; ]
+
+== 46.35.050 - Application of consumer protection act.
+The legislature finds that the practices covered by this chapter are matters vitally affecting the public interest for the purpose of applying chapter 19.86 RCW. A violation of this chapter is not reasonable in relation to the development and preservation of business and is an unfair or deceptive act in trade or commerce and an unfair method of competition for the purpose of applying chapter 19.86 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5574-S.SL.pdf?cite=2009%20c%20485%20§%204[2009 c 485 § 4]; ]
+

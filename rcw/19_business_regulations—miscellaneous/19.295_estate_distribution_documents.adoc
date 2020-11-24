@@ -1,0 +1,51 @@
+= 19.295 - Estate distribution documents.
+:toc:
+
+== 19.295.005 - Findings—Intent.
+The legislature finds the practice of using "living trusts" as a marketing tool by persons who are not authorized to practice law, who are not acting directly under the supervision of a person authorized to practice law, who are not a financial institution, or who are not properly credentialed and regulated professionals as specified under RCW 19.295.020 (5) and (6) for purposes of gathering information for the preparation of an estate distribution document to be a deceptive means of obtaining personal asset information and of developing and generating leads for sales to senior citizens. The legislature further finds that this practice endangers the financial security of consumers and may frustrate their estate planning objectives. Therefore, the legislature intends to prohibit the marketing of services related to preparation of estate distribution documents by persons who are not authorized to practice law or who are not a financial institution.
+
+This chapter is not intended to limit consumers from obtaining legitimate estate planning documents, including "living trusts," from those authorized to practice law; but is intended to prohibit persons not licensed to engage in the practice of law from the unscrupulous practice of marketing legal documents as a means of targeting senior citizens for financial exploitation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5343-S.SL.pdf?cite=2009%20c%20113%20§%201[2009 c 113 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1114-S.SL.pdf?cite=2007%20c%2067%20§%201[2007 c 67 § 1]; ]
+
+== 19.295.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Estate distribution document" means any one or more of the following documents, instruments, or writings prepared, or intended to be prepared, for a specific person or as marketing materials for distribution to any person, other than documents, instruments, writings, or marketing materials relating to a payable on death account established under *RCW 30.22.040(9) or a transfer on death account established under chapter 21.35 RCW:
+
+.. Last will and testament or any writing, however designated, that is intended to have the same legal effect as a last will and testament, and any codicil thereto;
+
+.. Revocable and irrevocable inter vivos trusts and any instrument which purports to transfer any of the trustor's current and/or future interest in real or personal property thereto;
+
+.. Agreement that fixes the terms and provisions of the sale of a decedent's interest in any real or personal property at or following the date of the decedent's death.
+
+. "Financial institution" means a bank holding company registered under federal law, a bank, trust company, mutual savings bank, savings bank, savings and loan association or credit union organized under state or federal law, or any affiliate, subsidiary, officer, or employee of a financial institution.
+
+. "Gathering information for the preparation of an estate distribution document" means collecting data, facts, figures, records, and other particulars about a specific person or persons for the preparation of an estate distribution document, but does not include the collection of such information for clients in the customary and usual course of financial, tax, and associated planning by a certificate holder or licensee regulated under chapter 18.04 RCW.
+
+. "Market" or "marketing" includes every offer, contract, or agreement to prepare or gather information for the preparation of, or to provide, individualized advice about an estate distribution document.
+
+. "Person" means any natural person, corporation, partnership, limited liability company, firm, or association.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5343-S.SL.pdf?cite=2009%20c%20113%20§%202[2009 c 113 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3012-S.SL.pdf?cite=2008%20c%20161%20§%201[2008 c 161 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1114-S.SL.pdf?cite=2007%20c%2067%20§%202[2007 c 67 § 2]; ]
+
+== 19.295.020 - Marketing of estate distribution documents—Exemptions from chapter.
+. Except as provided in subsection (2) of this section, it is unlawful for a person to market estate distribution documents, directly or indirectly, in or from this state unless the person is authorized to practice law in this state.
+
+. A person employed by someone authorized to practice law in this state may gather information for, or assist in the preparation of, estate distribution documents as long as that person does not provide any legal advice.
+
+. This chapter applies to any person who markets estate distribution documents in or from this state. Marketing occurs in this state, whether or not either party is then present in this state, if the offer originates in this state or is directed into this state or is received or accepted in this state.
+
+. This chapter does not apply to any financial institution.
+
+. This chapter does not apply to a certificate holder or licensee regulated under chapter 18.04 RCW for purposes of gathering information for the preparation of an estate distribution document.
+
+. This chapter does not apply to an individual who is an enrolled agent enrolled to practice before the internal revenue service pursuant to Treasury Department Circular No. 230 for purposes of gathering information for the preparation of an estate distribution document.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5343-S.SL.pdf?cite=2009%20c%20113%20§%203[2009 c 113 § 3]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1114-S.SL.pdf?cite=2007%20c%2067%20§%203[2007 c 67 § 3]; ]
+
+== 19.295.030 - Violations—Application of consumer protection act.
+The legislature finds that the practices covered by this chapter are matters vitally affecting the public interest for the purpose of applying the consumer protection act, chapter 19.86 RCW. A violation of this chapter is not reasonable in relation to the development and preservation of business and is an unfair or deceptive act in trade or commerce and an unfair method of competition for purposes of applying the consumer protection act, chapter 19.86 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1114-S.SL.pdf?cite=2007%20c%2067%20§%204[2007 c 67 § 4]; ]
+

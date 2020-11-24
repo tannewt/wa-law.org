@@ -1,0 +1,80 @@
+= 62A.11 - Effective date and transition provisions.
+:toc:
+
+== 62A.11-101 - Effective date—1981 c 41.
+This act shall take effect at midnight on June 30, 1982.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c41.pdf?cite=1981%20c%2041%20§%2047[1981 c 41 § 47]; ]
+
+== 62A.11-102 - Preservation of old transition provisions.
+The provisions of Article 10 shall continue to apply to the Uniform Commercial Code as amended by chapter 41, Laws of 1981 and for this purpose the Uniform Commercial Code before midnight June 30, 1982 and the Uniform Commercial Code as amended by chapter 41, Laws of 1981 shall be considered one continuous statute.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c41.pdf?cite=1981%20c%2041%20§%2038[1981 c 41 § 38]; ]
+
+== 62A.11-103 - Transition to the Uniform Commercial Code as amended by chapter 41, Laws of 1981; general rule.
+Transactions validly entered into after June 30, 1967 and before midnight June 30, 1982, and which were subject to the provisions of the Uniform Commercial Code as it existed before midnight June 30, 1982 and which would be subject to the Uniform Commercial Code as amended if they had been entered into after midnight June 30, 1982 and the rights, duties and interests flowing from such transactions remain valid after midnight June 30, 1982 and may be terminated, completed, consummated or enforced as required or permitted by the Uniform Commercial Code as amended by chapter 41, Laws of 1981. Security interests arising out of such transactions which are perfected by midnight June 30, 1982 shall remain perfected until they lapse as provided in the Uniform Commercial Code as amended by chapter 41, Laws of 1981, and may be continued as permitted by the Uniform Commercial Code as amended by chapter 41, Laws of 1981, except as stated in RCW 62A.11-105.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c41.pdf?cite=1981%20c%2041%20§%2039[1981 c 41 § 39]; ]
+
+== 62A.11-104 - Transition provision on change of requirement of filing.
+A security interest for the perfection of which filing or the taking of possession was required under the Uniform Commercial Code as it existed before midnight June 30, 1982 and which attached prior to midnight June 30, 1982 but was not perfected shall be deemed perfected on midnight June 30, 1982 if the Uniform Commercial Code as amended by chapter 41, Laws of 1981 permits perfection without filing or authorizes filing in the office or offices where a prior ineffective filing was made.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c41.pdf?cite=1981%20c%2041%20§%2040[1981 c 41 § 40]; ]
+
+== 62A.11-105 - Transition provision on change of place of filing.
+. A financing statement or continuation statement filed prior to midnight June 30, 1982 which shall not have lapsed prior to midnight June 30, 1982, shall remain effective for the period provided in the Uniform Commercial Code as it existed before midnight June 30, 1982, but not less than five years after the filing.
+
+. With respect to any collateral acquired by the debtor subsequent to midnight June 30, 1982, any effective financing statement or continuation statement described in this section shall apply only if the filing or filings are in the office or offices that would be appropriate to perfect the security interests in the new collateral under chapter 41, Laws of 1981.
+
+. The effectiveness of any financing statement or continuation statement filed prior to midnight June 30, 1982 may be continued by a continuation statement as permitted by the Uniform Commercial Code as amended by chapter 41, Laws of 1981, except that if the Uniform Commercial Code as amended by chapter 41, Laws of 1981 requires a filing in an office where there was no previous financing statement, a new financing statement conforming to RCW 62A.11-106 shall be filed in that office.
+
+. If the record of a mortgage of real estate would have been effective as a fixture filing of goods described therein if the Uniform Commercial Code as amended by chapter 41, Laws of 1981 had been in effect on the date of recording the mortgage, the mortgage shall be deemed effective as a fixture filing as to such goods under subsection (6) of *RCW 62A.9-402 as amended by chapter 41, Laws of 1981 on midnight June 30, 1982.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c41.pdf?cite=1981%20c%2041%20§%2041[1981 c 41 § 41]; ]
+
+== 62A.11-106 - Required refilings.
+. If a security interest is perfected or has priority on midnight June 30, 1982, as to all persons or as to certain persons without any filing or recording, and if the filing of a financing statement would be required for the perfection or priority of the security interest against those persons under the Uniform Commercial Code as amended by chapter 41, Laws of 1981, the perfection and priority rights of the security interest continue until three years after midnight June 30, 1982. The perfection will then lapse unless a financing statement is filed as provided in subsection (4) or unless the security interest is perfected otherwise than by filing.
+
+. If a security interest is perfected when the Uniform Commercial Code as amended by chapter 41, Laws of 1981 takes effect under a law other than the Uniform Commercial Code which requires no further filing, refiling or recording to continue its perfection, perfection continues until and will lapse three years after the Uniform Commercial Code as amended by chapter 41, Laws of 1981 takes effect, unless a financing statement is filed as provided in subsection (4) or unless the security interest is perfected otherwise than by filing, or unless under subsection (3) of *RCW 62A.9-302 the other law continues to govern filing.
+
+. If a security interest is perfected by a filing, refiling or recording under a law repealed by chapter 41, Laws of 1981 which required further filing, refiling or recording to continue its perfection, perfection continues and will lapse on the date provided by the law so repealed for such further filing, refiling or recording unless a financing statement is filed as provided in subsection (4) or unless the security interest is perfected otherwise than by filing.
+
+. A financing statement may be filed within six months before the perfection of a security interest would otherwise lapse. Any such financing statement may be signed by either the debtor or the secured party. It must identify the security agreement, statement or notice (however denominated in any statute or other law repealed or modified by chapter 41, Laws of 1981), state the office where and the date when the last filing, refiling or recording, if any, was made with respect thereto, and the filing number, if any, or book and page, if any, of recording and further state that the security agreement, statement or notice, however denominated, in another filing office under the Uniform Commercial Code or under any statute or other law repealed or modified by chapter 41, Laws of 1981 is still effective. *RCW 62A.9-401 and 62A.9-103 determine the proper place to file such a financing statement. Except as specified in this subsection, the provisions of *RCW 62A.9-403(3) for continuation statements apply to such a financing statement.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c41.pdf?cite=1981%20c%2041%20§%2042[1981 c 41 § 42]; ]
+
+== 62A.11-107 - Transition provisions as to priorities.
+Except as otherwise provided in this article, the Uniform Commercial Code as it existed before midnight June 30, 1982 shall apply to any questions of priority if the positions of the parties were fixed prior to midnight June 30, 1982. In other cases questions of priority shall be determined by the Uniform Commercial Code as amended by chapter 41, Laws of 1981.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c41.pdf?cite=1981%20c%2041%20§%2043[1981 c 41 § 43]; ]
+
+== 62A.11-108 - Presumption that rule of law continues unchanged.
+Unless a change in law has clearly been made, the provisions of the Uniform Commercial Code as amended by chapter 41, Laws of 1981 shall be deemed declaratory of the meaning of the Uniform Commercial Code as it existed before midnight June 30, 1982.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c41.pdf?cite=1981%20c%2041%20§%2044[1981 c 41 § 44]; ]
+
+== 62A.11-109 - Effective financing statement; certificate by county auditor.
+From and after midnight June 30, 1982, upon request of any person, the county auditor shall issue his or her certificate showing whether there is on file with the county auditor's office on the date and hour stated therein, any presently effective financing statement filed with the county auditor's office before midnight June 30, 1982, naming a particular debtor and any statement of assignment thereof and if there is, giving the date and hour of filing of each such statement and the names and addresses of each secured party therein. The uniform fee for such a certificate shall be four dollars. Upon request, the county auditor shall issue his or her certificate and shall furnish a copy of any filed financing statements or statements of assignment for a uniform fee of ten dollars for each particular debtor's statements requested.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5077-S.SL.pdf?cite=2013%20c%2023%20§%20174[2013 c 23 § 174]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c41.pdf?cite=1981%20c%2041%20§%2045[1981 c 41 § 45]; ]
+
+== 62A.11-110 - Effective date—1993 c 230.
+This act shall take effect July 1, 1994.
+
+[ 1993 c 230 § 2A-605; ]
+
+== 62A.11-111 - Recovery of attorneys' fees.
+No provision in this act changes or modifies existing common law or other law of Washington state concerning the recovery of attorneys' fees.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1014-S.SL.pdf?cite=1993%20c%20229%20§%20119[1993 c 229 § 119]; ]
+
+== 62A.11-112 - Effective date—1993 c 229.
+This act shall take effect July 1, 1994.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1014-S.SL.pdf?cite=1993%20c%20229%20§%20120[1993 c 229 § 120]; ]
+
+== 62A.11-113 - Effective date—1995 c 48.
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect July 1, 1995.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5335-S.SL.pdf?cite=1995%20c%2048%20§%2072[1995 c 48 § 72]; ]
+

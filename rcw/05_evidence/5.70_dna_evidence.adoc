@@ -1,0 +1,144 @@
+= 5.70 - DNA evidence.
+:toc:
+
+== 5.70.005 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Amplified DNA" means DNA generated during scientific analysis using a polymerase chain reaction.
+
+. "DNA work product" means (a) product generated during the process of scientific analysis of such material, except amplified DNA, material that had been subjected to DNA extraction, screening by-products, and DNA extracts from reference samples; or (b) any material contained on a microscope slide, swab, in a sample tube, cutting, DNA extract, or some other similar retention method used to isolate potential biological evidence that has been collected by law enforcement or a forensic nurse as part of an investigation and prepared for scientific analysis, whether or not it is submitted for scientific analysis and derived from:
+
+... The contents of a sexual assault examination kit;
+
+... Blood;
+
+... Semen;
+
+... Hair;
+
+.. Saliva;
+
+.. Skin tissue;
+
+.. Fingerprints;
+
+.. Bones;
+
+... Teeth; or
+
+.. Any other identifiable human biological material or physical evidence.
+
+Notwithstanding the foregoing, "DNA work product" does not include a reference sample collected unless it has been shown through DNA comparison to associate the source of the sample with the criminal case for which it was collected.
+
+. "Governmental entity" means any general law enforcement agency or any person or organization officially acting on behalf of the state or any political subdivision of the state involved in the collection, examination, tracking, packaging, storing, or disposition of biological material collected in connection with a criminal investigation relating to a felony offense.
+
+. "Reference sample" means a known sample collected from an individual by a governmental entity for the purpose of comparison to DNA profiles developed in a criminal case.
+
+. "Screening by-product" means a product or waste generated during examination of DNA evidence, or the screening process of such evidence, that is not intended for long-term storage.
+
+. "Sexual assault kit" includes all evidence collected during a sexual assault medical forensic examination.
+
+. "Unreported sexual assault kit" means a sexual assault kit where a law enforcement agency has not received a related report or complaint alleging a sexual assault or other crime has occurred.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2318-S.SL.pdf?cite=2020%20c%2026%20§%202[2020 c 26 § 2]; ]
+
+== 5.70.010 - Preservation of DNA work product—Failure to preserve DNA work product.
+. In any felony case initially charged as a violent or sex offense, as defined in RCW 9.94A.030, a governmental entity shall preserve any DNA work product that has been secured in connection with the criminal case, including related investigatory reports and records, according to the following guidelines:
+
+.. Except as provided in (b) of this subsection, where a defendant has been charged and convicted in connection with the case, the DNA work product and investigatory reports and records must be maintained throughout the length of the sentence, including any period of community custody extending through final discharge;
+
+.. Where a defendant has been convicted and sentenced under RCW 9.94A.507 in connection with the case, the DNA work product and investigatory reports and records must be maintained for ninety-nine years or until the death of the defendant, whichever is sooner; and
+
+.. Where no conviction has been made in connection with the case, the DNA work product and investigatory reports and records must be maintained for ninety-nine years or throughout the period of the statute of limitations pursuant to RCW 9A.04.080, whichever is sooner.
+
+. Notwithstanding subsection (1) of this section, in any felony case regardless of whether the identity of the offender is known and law enforcement has probable cause sufficient to believe the elements of a violent or sex offense as defined in RCW 9.94A.030 have been committed, a governmental entity shall preserve any DNA work product secured in connection with the criminal case and investigatory reports and records for ninety-nine years or throughout the period of the statute of limitations pursuant to RCW 9A.04.080, whichever is sooner.
+
+. The failure of a law enforcement agency to preserve DNA work product does not constitute grounds in any criminal proceeding for challenging the admissibility of other DNA work product that was preserved in a case, and any evidence offered may not be excluded by a court on those grounds. The court may not set aside the conviction or sentence or order the reversal of a conviction under this section on the grounds that the DNA work product is no longer available. Unless the court finds that DNA work product was destroyed with malicious intent to violate this section, a person accused of committing a crime against a person has no cause of action against a law enforcement agency for failure to comply with the requirements of this section. If the court finds that DNA work product was destroyed with malicious intent to violate this section, the court may impose appropriate sanctions. Nothing in this section may be construed to create a private right of action on the part of any individual or entity against any law enforcement agency or any contractor of a law enforcement agency.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2318-S.SL.pdf?cite=2020%20c%2026%20§%201[2020 c 26 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1069-S.SL.pdf?cite=2015%20c%20221%20§%201[2015 c 221 § 1]; ]
+
+== 5.70.020 - Destruction of DNA reference samples—Expungement of DNA reference sample data.
+. Nothing in this chapter precludes the trial court from ordering the destruction of DNA reference samples contributed by a defendant who was charged and acquitted or whose conviction was overturned in connection with a violent or sex offense as defined in RCW 9.94A.030.
+
+. [Empty]
+.. A person may submit an application to the Washington state patrol to have his or her DNA reference sample data expunged from the Washington state patrol's DNA identification system in cases where: (i) The person's DNA reference sample was collected and entered into the system and (ii) the charges against the person were dismissed with prejudice or the person was found not guilty.
+
+.. The Washington state patrol must expunge the person's DNA reference sample data if he or she meets the criteria established in law or by rule.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1069-S.SL.pdf?cite=2015%20c%20221%20§%202[2015 c 221 § 2]; ]
+
+== 5.70.030 - Unreported sexual assault kits—Transportation to local law enforcement agency—Storage and preservation.
+. [Empty]
+.. Any unreported sexual assault kit collected on or after June 30, 2020, must be transported from the collecting entity to the applicable local law enforcement agency.
+
+.. By January 1, 2021, unreported sexual assault kits collected prior to June 30, 2020, and stored according to the requirements of RCW 70.125.101 must be transported to the applicable local law enforcement agency.
+
+. [Empty]
+.. The applicable local law enforcement agency is responsible for conducting the transport of the unreported sexual assault kit from the collecting entity to the agency as required under subsection (1) of this section.
+
+.. The applicable law enforcement agency shall store and preserve the unreported sexual assault kit for twenty years from the date of collection.
+
+. The term "applicable local law enforcement agency" refers to the local law enforcement agency that would have jurisdiction to investigate any related criminal allegations if they were to be reported to law enforcement. The applicable local law enforcement agency is determined through consultation between the collecting entity or, in the case of unreported sexual assault kits stored according to the requirements of RCW 70.125.101, the Washington state patrol, and local law enforcement agencies.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2318-S.SL.pdf?cite=2020%20c%2026%20§%203[2020 c 26 § 3]; ]
+
+== 5.70.040 - Sexual assault kits—Request for laboratory examination—Report to the legislature.
+. When a law enforcement agency receives a sexual assault kit, the law enforcement agency must, within thirty days of its receipt, submit a request for laboratory examination to the Washington state patrol crime laboratory for prioritization for testing by it or another accredited laboratory that holds an outsourcing agreement with the Washington state patrol if:
+
+.. The law enforcement agency has received a related report or complaint alleging a sexual assault or other crime has occurred; and
+
+.. [Empty]
+... Consent for laboratory examination has been given by the victim; or
+
+... The victim is a person under the age of eighteen who is not emancipated pursuant to chapter 13.64 RCW.
+
+. Beginning May 1, 2022, when the Washington state patrol receives a request for laboratory examination of a sexual assault kit from a law enforcement agency, the Washington state patrol shall conduct the laboratory examination of the sexual assault kit, and when appropriate, enter relevant information into the combined DNA index system, within forty-five days of receipt of the request. The Washington state patrol crime laboratory must give priority to the laboratory examination of sexual assault kits at the request of a local law enforcement agency for:
+
+.. Active investigations and cases with impending court dates;
+
+.. Active investigations where public safety is an immediate concern;
+
+.. Violent crimes investigations, including active sexual assault investigations;
+
+.. Postconviction cases; and
+
+.. Other crimes' investigations and nonactive investigations, such as previously unsubmitted older sexual assault kits or recently collected sexual assault kits that the submitting agency has determined to be lower priority based on their initial investigation.
+
+. The requirements to request and complete laboratory examination of sexual assault kits under subsections (1) and (2) of this section do not include forensic toxicological analysis. However, nothing in this section limits or modifies the authority of a law enforcement agency to request toxicological analysis of evidence collected in a sexual assault kit.
+
+. The failure of a law enforcement agency to submit a request for laboratory examination, or the failure of the Washington state patrol to facilitate laboratory examination, within the time periods prescribed under this section does not constitute grounds in any criminal proceeding for challenging the validity of a DNA evidence association, and any evidence obtained from the sexual assault kit may not be excluded by a court on those grounds.
+
+. A person accused or convicted of committing a crime against a victim has no standing to object to any failure to comply with the requirements of this section, and the failure to comply with the requirements of this section is not grounds for setting aside the conviction or sentence.
+
+. Nothing in this section may be construed to create a private right of action or claim on the part of any individual, entity, or agency against any law enforcement agency or any contractor of any law enforcement agency.
+
+. This section applies to sexual assault examinations performed on or after July 24, 2015.
+
+. [Empty]
+.. Until June 30, 2023, the Washington state patrol shall compile the following information related to the sexual assault kits identified in this section and RCW 5.70.050:
+
+... The number of requests for laboratory examination made for sexual assault kits and the law enforcement agencies that submitted the requests; and
+
+... The progress made towards testing the sexual assault kits, including the status of requests for laboratory examination made by each law enforcement agency.
+
+.. The Washington state patrol shall make recommendations for increasing the progress on testing any untested sexual assault kits.
+
+.. Beginning in 2015, the Washington state patrol shall report its findings and recommendations annually to the appropriate committees of the legislature and the governor by December 1st of each year.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2318-S.SL.pdf?cite=2020%20c%2026%20§%204[2020 c 26 § 4]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1166-S2.SL.pdf?cite=2019%20c%2093%20§%206[2019 c 93 § 6]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1068-S.SL.pdf?cite=2015%20c%20247%20§%201[2015 c 247 § 1]; ]
+
+== 5.70.050 - Duty to submit requests for forensic analysis of sexual assault kits within time prescribed—Exceptions.
+. Law enforcement agencies shall submit requests for forensic analysis of all sexual assault kits collected prior to July 24, 2015, and in the possession of the agencies to the Washington state patrol crime laboratory by October 1, 2019, except submission for forensic analysis is not required when: (a) Forensic analysis has previously been conducted; (b) there is documentation of an adult victim or emancipated minor victim expressing that he or she does not want his or her sexual assault kit submitted for forensic analysis; or (c) a sexual assault kit is noninvestigatory and held by a law enforcement agency pursuant to an agreement with a hospital or other medical provider. The requirements of this subsection apply regardless of the statute of limitations or the status of any related investigation.
+
+. The Washington state patrol crime laboratory may consult with local law enforcement agencies to coordinate the efficient submission of requests for forensic analysis under this section in conjunction with the implementation of the statewide tracking system under RCW 43.43.545, provided that all requests are submitted and all required information is entered into the statewide sexual assault tracking system by October 1, 2019. The Washington state patrol crime laboratory shall facilitate the forensic analysis of all sexual assault kits submitted under this section by December 1, 2021. The analysis may be conducted by the Washington state patrol laboratory or an accredited laboratory holding a contract or agreement with the Washington state patrol. The Washington state patrol shall process the forensic analysis of sexual assault kits in accordance with the priorities in RCW 5.70.040(2).
+
+. The requirements to request and complete laboratory examination of sexual assault kits under this section do not include forensic toxicological analysis. However, nothing in this section limits or modifies the authority of a law enforcement agency to request toxicological analysis of evidence collected in a sexual assault kit.
+
+. The failure of a law enforcement agency to submit a request for laboratory examination within the time prescribed under this section does not constitute grounds in any criminal proceeding for challenging the validity of a DNA evidence association, and any evidence obtained from the sexual assault kit may not be excluded by a court on those grounds.
+
+. A person accused or convicted of committing a crime against a victim has no standing to object to any failure to comply with the requirements of this section, and the failure to comply with the requirements of this section is not grounds for setting aside the conviction or sentence.
+
+. Nothing in this section may be construed to create a private right of action or claim on the part of any individual, entity, or agency against any law enforcement agency or any contractor of any law enforcement agency.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2318-S.SL.pdf?cite=2020%20c%2026%20§%205[2020 c 26 § 5]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1166-S2.SL.pdf?cite=2019%20c%2093%20§%207[2019 c 93 § 7]; ]
+

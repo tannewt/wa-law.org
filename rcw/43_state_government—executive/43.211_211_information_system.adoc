@@ -1,0 +1,77 @@
+= 43.211 - 211 information system.
+:toc:
+
+== 43.211.005 - Findings.
+The legislature finds that the implementation of a single easy to use telephone number, 211, for public access to information and referral for health and human services and information about access to services after a natural or nonnatural disaster will benefit the citizens of the state of Washington by providing easier access to available health and human services, by reducing inefficiencies in connecting people with the desired service providers, and by reducing duplication of efforts. The legislature further finds in a time of reduced resources for providing health and human services that establishing a cost-effective means to continue to provide information to the public about available services is important. The legislature further finds that an integrated statewide system of local information and referral service providers will build upon an already existing network of experienced service providers without the necessity of creating a new agency, department, or system to provide 211 services. The legislature further finds that no funds should be appropriated by the legislature to a 211 system under chapter 135, Laws of 2003 without receiving documentation that a 211 system will provide savings to the state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1787-S.SL.pdf?cite=2003%20c%20135%20§%201[2003 c 135 § 1]; ]
+
+== 43.211.010 - 211 system.
+211 is created as the official state dialing code for public access to information and referral for health and human services and information about access to services after a natural or nonnatural disaster.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1787-S.SL.pdf?cite=2003%20c%20135%20§%202[2003 c 135 § 2]; ]
+
+== 43.211.020 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Department" means the department of social and health services.
+
+. "WIN 211" means the Washington information network 211, a 501(c)(3) corporation incorporated in the state of Washington.
+
+. "Approved 211 service provider" means a public or nonprofit agency or organization designated by WIN 211 to provide 211 services.
+
+. "211 service area" means an area of the state of Washington identified by WIN 211 as an area in which an approved 211 service provider will provide 211 services.
+
+. "211" means the abbreviated dialing code assigned by the federal communications commission on July 21, 2000, for consumer access to community information and referral services.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1787-S.SL.pdf?cite=2003%20c%20135%20§%203[2003 c 135 § 3]; ]
+
+== 43.211.030 - New information services.
+Before a state agency or department that provides health and human services establishes a new public information telephone line or hotline, the state agency or department shall consult with WIN 211 about using the 211 system to provide public access to the information.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1787-S.SL.pdf?cite=2003%20c%20135%20§%204[2003 c 135 § 4]; ]
+
+== 43.211.040 - 211 services.
+Only a service provider approved by WIN 211 may provide 211 telephone services. WIN 211 shall approve 211 service providers, after considering the following:
+
+. The ability of the proposed 211 service provider to meet the national 211 standards recommended by the alliance of information and referral systems and adopted by the national 211 collaborative on May 5, 2000;
+
+. The financial stability and health of the proposed 211 service provider;
+
+. The community support for the proposed 211 service provider;
+
+. The relationships with other information and referral services; and
+
+. Such other criteria as WIN 211 deems appropriate.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1787-S.SL.pdf?cite=2003%20c%20135%20§%205[2003 c 135 § 5]; ]
+
+== 43.211.060 - Use of 211 account moneys.
+. WIN 211 shall study, design, implement, and support a statewide 211 system.
+
+. Activities eligible for assistance from the 211 account include, but are not limited to:
+
+.. Creating a structure for a statewide 211 resources database that will meet the alliance for information and referral systems standards for information and referral systems databases and that will be integrated with local resources databases maintained by approved 211 service providers;
+
+.. Developing a statewide resources database for the 211 system;
+
+.. Maintaining public information available from state agencies, departments, and programs that provide health and human services for access by 211 service providers;
+
+.. Providing grants to approved 211 service providers for the design, development, and implementation of 211 for its 211 service area;
+
+.. Providing grants to approved 211 service providers to enable 211 service providers to provide 211 service on an ongoing basis; and
+
+.. Providing grants to approved 211 service providers to enable the provision of 211 services on a twenty-four-hour per day seven-day a week basis.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1787-S.SL.pdf?cite=2003%20c%20135%20§%207[2003 c 135 § 7]; ]
+
+== 43.211.070 - Reports to the legislature.
+WIN 211 shall provide an annual report to the legislature and the department beginning July 1, 2004.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1787-S.SL.pdf?cite=2003%20c%20135%20§%208[2003 c 135 § 8]; ]
+
+== 43.211.902 - Effective date—2003 c 135.
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2003.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1787-S.SL.pdf?cite=2003%20c%20135%20§%2011[2003 c 135 § 11]; ]
+

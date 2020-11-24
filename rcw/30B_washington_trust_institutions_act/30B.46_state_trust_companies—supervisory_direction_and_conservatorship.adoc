@@ -1,0 +1,179 @@
+= 30B.46 - State trust companies—Supervisory direction and conservatorship.
+:toc:
+
+== 30B.46.003 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Corrective action measures" refers collectively to supervisory agreements, memoranda of understanding, supervisory directives, corrective action orders, and orders of conservatorship.
+
+. "Corrective action order" means a cease and desist order, consent order, order compelling action, or order of conservatorship, as prescribed by this chapter.
+
+. "Exceeded its powers" includes, without limitation, the following circumstances:
+
+.. If a state trust company has engaged in unauthorized trust activity;
+
+.. If a state trust company has refused to permit examination of its books, papers, accounts, records, or affairs by the director, assistant director, or examiners; or
+
+.. If a state trust company has neglected or refused to observe an order of the director including, without limitation, an order to make good, within the time prescribed, any capital deficiency.
+
+. "Order of conservatorship" means an order specifically authorized under this chapter for the appointment for a conservatory of a state trust company.
+
+. "Supervisory agreement" or "memorandum of understanding" means a supervisory directive in which a state trust company has given its prior consent.
+
+. "Supervisory directive" means a supervisory directive in which the state trust company has not given its prior consent.
+
+. "Unsafe condition" shall mean and include, but not be limited to, any one or more of the following circumstances:
+
+.. If a state trust company is less than adequately capitalized as determined by the director;
+
+.. If a state trust company violates the applicable provisions of this title or any other law or regulation applicable to a state trust company in a manner that results or is likely to result in a significant increase in the state trust company's legal or operational risk;
+
+.. If a state trust company conducts a fraudulent or questionable practice in the conduct of its business that endangers its reputation, beneficiaries, shareholders, or trustors, or threatens its solvency;
+
+.. If a state trust company conducts its business in an unsafe or unsound manner;
+
+.. If a state trust company engages in unauthorized trust activity;
+
+.. If a state trust company violates any conditions of its certificate of authority or any agreement entered with the director; or
+
+.. If a state trust company willfully fails to carry out any authorized instruction or direction of the director.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2080[2019 c 389 § 80]; ]
+
+== 30B.46.020 - Scope of chapter—Corrective action measures.
+. The purpose of this chapter is to provide expeditious methods for the department to exercise proper supervision over the safety and soundness of state trust companies in the interest of Washington state's fiduciary industry and the general public. To that end, this chapter prescribes a series of progressive corrective action measures available to the director, as necessary and in connection with the exercise of his or her examination authority, the ultimate object of which is to restore a state trust company to a state of safe and sound condition and practices and to prevent, if possible, involuntary dissolution of the state trust company under chapter 30B.44B RCW.
+
+. In order of progression, these corrective action measures include:
+
+.. The supervisory directive, which may be issued with the consent of a state trust company as a supervisory agreement or memorandum of understanding or without the state trust company's consent;
+
+.. The corrective action order, which may be issued with or without the consent of a state trust company; and
+
+.. The order of conservatorship, which may be issued with or without the consent of a state trust company.
+
+. The director may issue and impose upon a state trust company, in lieu of or in addition to his or her authority to issue and serve a notice and statement of charges pursuant to chapter 30B.10 RCW, the following:
+
+.. A supervisory agreement or memorandum of understanding;
+
+.. A supervisory directive without the state trust company's consent;
+
+.. A corrective action order, with or without its consent; and
+
+.. An order of conservatorship, with or without its consent.
+
+. A supervisory agreement or memorandum of understanding, or corrective action order or order of conservatorship consented to by a state trust company, shall not be subject to review except upon a claim by the state trust company or other person with standing under RCW 34.05.530, made in good faith, that the terms and conditions of the supervisory agreement or memorandum of understanding, corrective action order, or order of conservatorship exceed the authority of the director under this title and that consent to the supervisory agreement or memorandum of understanding was unreasonably coerced.
+
+. A supervisory directive issued and imposed without the consent of the state trust company shall not be subject to review except by petition for judicial review in the manner provided by the Washington administrative procedure act, RCW 34.05.510 through 34.05.598, inclusive.
+
+. A corrective action order or order of conservatorship issued and imposed against a state trust company without its consent shall be deemed an emergency order under RCW 30B.10.180, subject only to judicial review as permitted by RCW 30B.10.180.
+
+. No provision in this title shall preclude the director from issuing a corrective action order without having issued a supervisory directive, or issuing an order of conservatorship without having issued a supervisory directive or corrective action order.
+
+. No provision in this title shall preclude the director from issuing an order for involuntary dissolution of a state trust company without first having issued corrective action measures if:
+
+.. Pursuant to RCW 30B.44B.005, the director has determined there is no reasonable likelihood that a state trust company can be restored to a safe and sound condition in the foreseeable future; or
+
+.. The state trust company gives its consent pursuant to RCW 30B.44B.010.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2081[2019 c 389 § 81]; ]
+
+== 30B.46.030 - Supervisory directive.
+. If, upon examination or investigation, or at any other time, it appears to the director that a state trust company is in an unsafe condition and its condition is such as to render the continuance of its business, without the director's supervisory directive, harmful to the public or to its beneficiaries, shareholders, or trustors, then the director may either negotiate and enter into a supervisory agreement or memorandum of understanding with the state trust company, or issue and deliver a supervisory directive or corrective action order without its consent, the contents of which shall contain:
+
+.. Notice to the state trust company of the director's supervisory determination; and
+
+.. A written list and description of the requirements necessary to abate the director's determination.
+
+. If placed under a supervisory directive, with or without its consent, the state trust company shall comply with the director's lawful requirements as contained in the supervisory directive and within such time as provided in the supervisory directive.
+
+. If the state trust company fails to comply with the supervisory directive within the time provided, the director may issue and deliver to the state trust company, with or without its consent, a corrective action order or an order of conservatorship.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2082[2019 c 389 § 82]; ]
+
+== 30B.46.040 - Supervisory directive or corrective action order—Appointment of representative.
+During the period of a supervisory directive or corrective action order, the director may appoint a representative to supervise the state trust company.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2083[2019 c 389 § 83]; ]
+
+== 30B.46.050 - Supervisory directive or corrective action order—Restrictions on operations—Other requirements.
+A supervisory directive or corrective action order may provide that the state trust company not do any of the following during the period of supervisory direction, without the prior approval of the director or the appointed representative:
+
+. Dispose of, convey, or encumber any of its assets;
+
+. Acquire new trust assets under management;
+
+. Dispose of existing trust assets under management;
+
+. Withdraw any of its own funds from bank accounts;
+
+. Lend any of its funds;
+
+. Invest any of its funds;
+
+. Transfer any of its property;
+
+. Incur any debt, obligation, or liability;
+
+. Change the composition of the board of directors or management; or
+
+. Any other written restriction or requirement as determined by the director.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2084[2019 c 389 § 84]; ]
+
+== 30B.46.060 - Supervisory directive or corrective action order—Conservator.
+. If the director determines that a state trust company has failed to comply with the lawful requirements imposed by such supervisory directive or corrective action order, the director may by order, with or without consent of the state trust company, appoint a conservator for the state trust company, who shall immediately take charge of such state trust company and all of its property, books, records, and effects.
+
+. The conservator shall conduct the business of the state trust company and take such steps toward the removal of the causes and conditions which necessitated such order of conservatorship, as the director may specify in the order.
+
+. During the pendency of the conservatorship, the conservator shall make such reports to the director from time to time as may be required by the director, and shall be empowered to take all necessary measures to preserve, protect, and recover any assets or property of such state trust company, including claims or causes of actions belonging to or which may be asserted by such state trust company, and to deal with the same in his or her own name as conservator, and shall be empowered to file, prosecute, and defend any suit and suits which have been filed or which may be filed by or against such state trust company that are deemed by the conservator to be necessary to protect all of the interested parties for a property affected thereby.
+
+. The director, an assistant director or other officer of the department, or an independent contractor appointed by the director may be appointed to serve as conservator.
+
+. If, after issuance of the order of conservatorship, the director determines, after consultation with the conservator, that the state trust company is in an unsafe and unsound condition and ought not to continue business, the director may proceed to give advance notice to and take possession of the state trust company for involuntary liquidation pursuant to chapter 30B.44B RCW.
+
+. The director, in his or her capacity as a conservator, or any other person appointed as conservator by the director, pursuant to this chapter is immune from criminal, civil, and administrative liability for any act done in good faith in the performance of the duties of conservator.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2085[2019 c 389 § 85]; ]
+
+== 30B.46.070 - Costs as charge against assets.
+. All costs incident to supervisory direction and the conservatorship shall be fixed and determined by the director and shall be a charge against the assets of the state trust company to be allowed and paid as the director may determine.
+
+. A member of the board of directors of a state trust company or, in the case of a limited liability trust company, a managing participant, may, pursuant to notice and adjudication under chapter 30B.10 RCW, be found liable for such costs incurred that have not been recouped by the director out of the assets of the state trust company.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2086[2019 c 389 § 86]; ]
+
+== 30B.46.080 - Request for review of action—Stay of action—Orders subject to review.
+. During the period of the supervisory direction or period of conservatorship, as applicable, the state trust company may request the director to review an action taken or proposed to be taken by a representative under a supervisory directive or by the conservator, specifying that the action complained of is believed not to be in the best interest of the state trust company.
+
+. A request made under subsection (1) of this section shall stay the action of the representative or conservator pending review of such action by the director.
+
+. An order by the director pursuant to this section, following the review of an action or proposed action of the representative or conservator, shall be subject to judicial review in accordance with RCW 30B.10.180.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2087[2019 c 389 § 87]; ]
+
+== 30B.46.090 - Suit against state trust company or conservator—Where brought—Suit by conservator.
+. A suit filed against a state trust company or its conservator, after the issuance of an order by the director placing such state trust company in conservatorship and while such order is in effect, shall be brought in the superior court of Thurston county and not elsewhere.
+
+. The conservator appointed for such state trust company may file suit in any superior court or other court of competent jurisdiction against any person for the purpose of preserving, protecting, or recovering any asset or property of such state trust company, including claims or causes of action belonging to or which may be asserted by such state trust company.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2088[2019 c 389 § 88]; ]
+
+== 30B.46.100 - Duration of conservator's term—Rehabilitated state trust company—Management.
+. The conservator shall serve for such time as is necessary to accomplish the purposes of the conservatorship as intended by this chapter.
+
+. If rehabilitated, the rehabilitated state trust company shall be returned to preexisting management or new management under such conditions as are reasonable and necessary to prevent recurrence of the condition which occasioned the conservatorship.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2089[2019 c 389 § 89]; ]
+
+== 30B.46.110 - Plenary authority of director—Flexibility in use of remedies.
+. If the director determines to act under authority of this chapter, the sequence of his or her acts and proceedings shall be as set forth in this chapter.
+
+. However, the director may, in the exercise of broad administrative discretion, proceed in lieu of this chapter and pursuant to other authority including, without limitation, notice and adjudication under chapter 30B.10 RCW or by means of seeking a direct judicial remedy in superior court.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2090[2019 c 389 § 90]; ]
+
+== 30B.46.120 - Rules.
+The director is empowered to adopt and promulgate such rules as may be further necessary, if at all, for the implementation of this chapter and its purposes.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2091[2019 c 389 § 91]; ]
+

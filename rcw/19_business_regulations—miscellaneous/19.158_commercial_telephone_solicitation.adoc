@@ -1,0 +1,242 @@
+= 19.158 - Commercial telephone solicitation.
+:toc:
+
+== 19.158.010 - Findings.
+The use of telephones for commercial solicitation is rapidly increasing. This form of communication offers unique benefits, but entails special risks and poses potential for abuse. The legislature finds that the widespread practice of fraudulent commercial telephone solicitation is a matter vitally affecting the public interest for the purpose of applying the consumer protection act, chapter 19.86 RCW. For the general welfare of the public and in order to protect the integrity of the telemarketing industry, the commercial use of telephones must be regulated by law.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c20.pdf?cite=1989%20c%2020%20§%201[1989 c 20 § 1]; ]
+
+== 19.158.020 - Definitions.
+Unless the context requires otherwise, the definitions in this section apply throughout this chapter.
+
+. A "commercial telephone solicitor" is any person who engages in commercial telephone solicitation, including service bureaus.
+
+. "Commercial telephone solicitation" means:
+
+.. An unsolicited telephone call to a person initiated by a salesperson and conversation for the purpose of inducing the person to purchase or invest in property, goods, or services;
+
+.. Other communication with a person where:
+
+... A free gift, award, or prize is offered to a purchaser who has not previously purchased from the person initiating the communication; and
+
+... A telephone call response is invited; and
+
+... The salesperson intends to complete a sale or enter into an agreement to purchase during the course of the telephone call;
+
+.. Other communication with a person which misrepresents the price, quality, or availability of property, goods, or services and which invites a response by telephone or which is followed by a call to the person by a salesperson;
+
+.. For purposes of this section, "other communication" means a written or oral notification or advertisement transmitted through any means.
+
+. A "commercial telephone solicitor" does not include any of the following:
+
+.. A person engaging in commercial telephone solicitation where:
+
+... The solicitation is an isolated transaction and not done in the course of a pattern of repeated transactions of like nature; or
+
+... Less than sixty percent of such person's prior year's sales were made as a result of a commercial telephone solicitation as defined in this chapter. Where more than sixty percent of a seller's prior year's sales were made as a result of commercial telephone solicitations, the service bureau contracting to provide commercial telephone solicitation services to the seller shall be deemed a commercial telephone solicitor;
+
+.. A person making calls for religious, charitable, political, or other noncommercial purposes;
+
+.. A person soliciting business solely from purchasers who have previously purchased from the business enterprise for which the person is calling;
+
+.. A person soliciting:
+
+... Without the intent to complete or obtain provisional acceptance of a sale during the telephone solicitation; and
+
+... Who does not make the major sales presentation during the telephone solicitation; and
+
+... Who only makes the major sales presentation or arranges for the major sales presentation to be made at a later face-to-face meeting between the salesperson and the purchaser;
+
+.. A person selling a security which is exempt from registration under RCW 21.20.310;
+
+.. A person licensed under *RCW 18.85.090 when the solicited transaction is governed by that law;
+
+.. A person registered under RCW 18.27.060 when the solicited transaction is governed by that law;
+
+.. A person licensed under RCW 48.17.150 when the solicited transaction is governed by that law;
+
+.. Any person soliciting the sale of a franchise who is registered under RCW 19.100.140;
+
+.. A person primarily soliciting the sale of a newspaper of general circulation, a magazine or periodical, or contractual plans, including book or record clubs: (i) Under which the seller provides the consumer with a form which the consumer may use to instruct the seller not to ship the offered merchandise; and (ii) which is regulated by the federal trade commission trade regulation concerning "use of negative option plans by sellers in commerce";
+
+.. Any supervised financial institution or parent, subsidiary, or affiliate thereof. As used in this section, "supervised financial institution" means any commercial bank, trust company, savings and loan association, mutual savings banks, credit union, industrial loan company, personal property broker, consumer finance lender, commercial finance lender, or insurer, provided that the institution is subject to supervision by an official or agency of this state or the United States;
+
+.. A person soliciting the sale of a prearrangement funeral service contract registered under RCW 18.39.240 and 18.39.260;
+
+.. A person licensed to enter into prearrangement contracts under RCW 68.05.155 when acting subject to that license;
+
+.. A person soliciting the sale of services provided by a cable television system operating under authority of a franchise or permit;
+
+.. A person or affiliate of a person whose business is regulated by the utilities and transportation commission or the federal communications commission;
+
+.. A person soliciting the sale of agricultural products, as defined in RCW 20.01.010 where the purchaser is a business;
+
+.. An issuer or subsidiary of an issuer that has a class of securities that is subject to section 12 of the securities exchange act of 1934 (**15 U.S.C. Sec. 781) and that is either registered or exempt from registration under paragraph (A), (B), (C), (E), (F), (G), or (H) of subsection (g) of that section;
+
+.. A commodity broker-dealer as defined in RCW 21.30.010 and registered with the commodity futures trading commission;
+
+.. A business-to-business sale where:
+
+... The purchaser business intends to resell the property or goods purchased, or
+
+... The purchaser business intends to use the property or goods purchased in a recycling, reuse, remanufacturing or manufacturing process;
+
+.. A person licensed under RCW 19.16.110 when the solicited transaction is governed by that law;
+
+.. A person soliciting the sale of food intended for immediate delivery to and immediate consumption by the purchaser;
+
+.. A person soliciting the sale of food fish or shellfish when that person is licensed pursuant to the provisions of Title 77 RCW.
+
+. "Purchaser" means a person who is solicited to become or does become obligated to a commercial telephone solicitor.
+
+. "Salesperson" means any individual employed, appointed, or authorized by a commercial telephone solicitor, whether referred to by the commercial telephone solicitor as an agent, representative, or independent contractor, who attempts to solicit or solicits a sale on behalf of the commercial telephone solicitor.
+
+. "Service bureau" means a commercial telephone solicitor who contracts with any person to provide commercial telephone solicitation services.
+
+. "Seller" means any person who contracts with any service bureau to purchase commercial telephone solicitation services.
+
+. "Person" includes any individual, firm, association, corporation, partnership, joint venture, sole proprietorship, or any other business entity.
+
+. "Free gift, award, or prize" means a gratuity which the purchaser believes of a value equal to or greater than the value of the specific product, good, or service sought to be sold to the purchaser by the seller.
+
+. "Solicit" means to initiate contact with a purchaser for the purpose of attempting to sell property, goods or services, where such purchaser has expressed no previous interest in purchasing, investing in, or obtaining information regarding the property, goods, or services attempted to be sold.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5172.SL.pdf?cite=2003%20c%2039%20§%2012[2003 c 39 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c20.pdf?cite=1989%20c%2020%20§%203[1989 c 20 § 3]; ]
+
+== 19.158.030 - Violation an unfair or deceptive act.
+Unfair and deceptive telephone solicitation is not reasonable in relation to the development and preservation of business. A violation of this chapter is an unfair or deceptive act in trade or commerce for the purpose of applying the consumer protection act, chapter 19.86 RCW.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c20.pdf?cite=1989%20c%2020%20§%202[1989 c 20 § 2]; ]
+
+== 19.158.040 - Unprofessional conduct.
+In addition to the unprofessional conduct described in RCW 18.235.130, the director of the department of licensing may take disciplinary action for any of the following conduct, acts, or conditions:
+
+. It shall be unlawful for any person to engage in unfair or deceptive commercial telephone solicitation.
+
+. A commercial telephone solicitor shall not place calls to any residence which will be received before 8:00 a.m. or after 9:00 p.m. at the purchaser's local time.
+
+. A commercial telephone solicitor may not engage in any conduct the natural consequence of which is to harass, intimidate, or torment any person in connection with the telephone call.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2512-S.SL.pdf?cite=2002%20c%2086%20§%20284[2002 c 86 § 284]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c20.pdf?cite=1989%20c%2020%20§%204[1989 c 20 § 4]; ]
+
+== 19.158.050 - Registration requirements—Unprofessional conduct—Suspension of license or certificate for noncompliance with support order—Reinstatement.
+. In order to maintain or defend a lawsuit or do any business in this state, a commercial telephone solicitor must be registered with the department of licensing. Prior to doing business in this state, a commercial telephone solicitor shall register with the department of licensing. Doing business in this state includes both commercial telephone solicitation from a location in Washington and solicitation of purchasers located in Washington.
+
+. The department of licensing, in registering commercial telephone solicitors, shall have the authority to require the submission of information necessary to assist in identifying and locating a commercial telephone solicitor, including past business history, prior judgments, and such other information as may be useful to purchasers.
+
+. The department of licensing shall issue a registration number to the commercial telephone solicitor.
+
+. In addition to the unprofessional conduct described in RCW 18.235.130, the director of the department of licensing may take disciplinary action for any of the following conduct, acts, or conditions:
+
+.. Failing to maintain a valid registration;
+
+.. Advertising that one is registered as a commercial telephone solicitor or representing that such registration constitutes approval or endorsement by any government or governmental office or agency;
+
+.. Representing that a person is registered or that such person has a valid registration number when such person does not.
+
+. An annual registration fee shall be assessed by the department of licensing, the amount of which shall be determined at the discretion of the director of the department of licensing, and which shall be reasonably related to the cost of administering the provisions of this chapter.
+
+. The department shall immediately suspend the license or certificate of a person who has been certified pursuant to RCW 74.20A.320 by the department of social and health services as a person who is not in compliance with a support order. If the person has continued to meet all other requirements for reinstatement during the suspension, reissuance of the license or certificate shall be automatic upon the department's receipt of a release issued by the department of social and health services stating that the licensee is in compliance with the order.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2512-S.SL.pdf?cite=2002%20c%2086%20§%20285[2002 c 86 § 285]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/3901.SL.pdf?cite=1997%20c%2058%20§%20853[1997 c 58 § 853]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c20.pdf?cite=1989%20c%2020%20§%205[1989 c 20 § 5]; ]
+
+== 19.158.070 - Appointment of agent to receive process.
+Each commercial telephone solicitor shall appoint the director of the department of licensing as an agent to receive civil process under this chapter if the commercial telephone solicitor has no properly registered agent, if the agent has resigned, or if the agent cannot, after reasonable diligence, be found.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c20.pdf?cite=1989%20c%2020%20§%207[1989 c 20 § 7]; ]
+
+== 19.158.080 - Duties of director.
+The director of the department of licensing may make rules, create forms, and issue orders as necessary to carry out the provisions of this chapter, pursuant to chapter 34.05 RCW.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c20.pdf?cite=1989%20c%2020%20§%208[1989 c 20 § 8]; ]
+
+== 19.158.090 - Injunctive relief—Other applicable law.
+The director of the department of licensing may refer such evidence as may be available concerning violations of this chapter or of any rule or order hereunder to the attorney general or the proper prosecuting attorney, who may in his or her discretion, with or without such a reference, in addition to any other action they might commence, bring an action in the name of the state against any person to restrain and prevent the doing of any act or practice herein prohibited or declared unlawful: PROVIDED, That this chapter shall be considered in conjunction with chapters 9.04 and 19.86 RCW and the powers and duties of the attorney general and the prosecuting attorney as they may appear in chapters 9.04 and 19.86 RCW shall apply against all persons subject to this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c20.pdf?cite=1989%20c%2020%20§%209[1989 c 20 § 9]; ]
+
+== 19.158.100 - Requiring payment by credit card prohibited.
+It is a violation of this chapter for a commercial telephone solicitor to require that payment be by credit card authorization or otherwise to announce a preference for that method of payment over any other for unfair or deceptive reasons.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c20.pdf?cite=1989%20c%2020%20§%2010[1989 c 20 § 10]; ]
+
+== 19.158.110 - Commercial telephone solicitor—Duties and prohibited acts—Notice to customers.
+. Within the first minute of the telephone call, a commercial telephone solicitor or salesperson shall:
+
+.. Identify himself or herself, the company on whose behalf the solicitation is being made, the property, goods, or services being sold; and
+
+.. Terminate the telephone call within ten seconds if the purchaser indicates he or she does not wish to continue the conversation.
+
+. If at any time during the telephone contact, the purchaser states or indicates that he or she does not wish to be called again by the commercial telephone solicitor or wants to have his or her name and individual telephone number removed from the telephone lists used by the commercial telephone solicitor:
+
+.. The commercial telephone solicitor shall not make any additional commercial telephone solicitation of the called party at that telephone number within a period of at least one year; and
+
+.. The commercial telephone solicitor shall not sell or give the called party's name and telephone number to another commercial telephone solicitor: PROVIDED, That the commercial telephone solicitor may return the list, including the called party's name and telephone number, to the company or organization from which it received the list.
+
+. The utilities and transportation commission shall by rule ensure that telecommunications companies inform their residential customers of the provisions of this section. The notification may be made by:
+
+.. Annual inserts in the billing statements mailed to residential customers; or
+
+.. Conspicuous publication of the notice in the consumer information pages of local telephone directories.
+
+. If a sale or an agreement to purchase is completed, the commercial telephone solicitor must inform the purchaser of his or her cancellation rights as enunciated in this chapter, state the registration number issued by the department of licensing, and give the street address of the seller.
+
+. If, at any time prior to sale or agreement to purchase, the commercial telephone solicitor's registration number is requested by the purchaser, it must be provided.
+
+. All oral disclosures required by this section shall be made in a clear and intelligible manner.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c20.pdf?cite=1989%20c%2020%20§%2011[1989 c 20 § 11]; ]
+
+== 19.158.120 - Cancellation of purchases—Requirements—Notice—Voidable contracts.
+. A purchase of property, goods, or services ordered as a result of a commercial telephone solicitation as defined in this chapter, if not followed by a written confirmation, is not final. The confirmation must contain an explanation of the consumer's rights under this section and a statement indicating where notice of cancellation should be sent. The purchaser may give notice of cancellation to the seller in writing within three business days after receipt of the confirmation. If the commercial telephone solicitor has not provided an address for receipt of such notice, cancellation is effective by mailing the notice to the department of licensing.
+
+. Notice of cancellation shall be given by certified mail, return receipt requested, and shall be effective when mailed. Notice of cancellation given by the purchaser need not take a particular form and is sufficient if it indicates by any form of written expression the name, address, and telephone number of the purchaser and the purchaser's stated intention not to be bound by the sale.
+
+. If a commercial telephone solicitor or a seller, if different, violates this chapter in making a sale, or fails to deliver an item within forty-two calendar days, the contract is voidable by giving written notice to the seller and the purchaser is entitled to a return from the seller within fourteen days of all consideration paid. Upon receipt by the purchaser of the consideration paid to the seller, the purchaser shall make available to the seller, at a reasonable time and place, the items received by the purchaser. Any cost of returning the items received by the purchaser shall be borne by the seller, by providing or guaranteeing payment for return shipping. If such payment is not provided or guaranteed, the purchaser may keep without further obligation the items received.
+
+. Any contract, agreement to purchase, or written confirmation executed by a seller which purports to waive the purchaser's rights under this chapter is against public policy and shall be unenforceable: PROVIDED, That an agreement between a purchaser and seller to extend the delivery time of an item to more than forty-two days shall be enforceable if the seller has a reasonable basis to expect that he or she will be unable to ship the item within forty-two days and if the agreement is included in the terms of the written confirmation.
+
+. Where a contract or agreement to purchase confers on a purchaser greater rights to cancellation, refund, or return than those enumerated in this chapter, such contract shall be enforceable, and not in violation of this chapter: PROVIDED, That all rights under such a contract or agreement to purchase must be specifically stated in a written confirmation sent pursuant to this section.
+
+. The provisions of this section shall not reduce, restrict, or eliminate any existing rights or remedies available to purchasers.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c20.pdf?cite=1989%20c%2020%20§%2012[1989 c 20 § 12]; ]
+
+== 19.158.130 - Damages, costs, attorneys' fees—Remedies not limited.
+In addition to any other penalties or remedies under chapter 19.86 RCW, a person who is injured by a violation of this chapter may bring an action for recovery of actual damages, including court costs and attorneys' fees. No provision in this chapter shall be construed to limit any right or remedy provided under chapter 19.86 RCW.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c20.pdf?cite=1989%20c%2020%20§%2013[1989 c 20 § 13]; ]
+
+== 19.158.140 - Civil penalties.
+A civil penalty shall be imposed by the court for each violation of this chapter in an amount not less than five hundred dollars nor more than two thousand dollars per violation.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c20.pdf?cite=1989%20c%2020%20§%2014[1989 c 20 § 14]; ]
+
+== 19.158.150 - Registration required—Penalty.
+No salesperson shall solicit purchasers on behalf of a commercial telephone solicitor who is not currently registered with the department of licensing pursuant to this chapter. Any salesperson who violates this section is guilty of a misdemeanor.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c20.pdf?cite=1989%20c%2020%20§%2015[1989 c 20 § 15]; ]
+
+== 19.158.160 - Penalties.
+. Except as provided in RCW 19.158.150, any person who knowingly violates any provision of this chapter or who knowingly, directly or indirectly employs any device, scheme or artifice to deceive in connection with the offer or sale by any commercial telephone solicitor is guilty of the following:
+
+.. If the value of a transaction made in violation of RCW 19.158.040(1) is less than fifty dollars, the person is guilty of a misdemeanor;
+
+.. If the value of a transaction made in violation of RCW 19.158.040(1) is fifty dollars or more, then the person is guilty of a gross misdemeanor; and
+
+.. If the value of a transaction made in violation of RCW 19.158.040(1) is two hundred fifty dollars or more, then the person is guilty of a class C felony.
+
+. When any series of transactions which constitute a violation of this section would, when considered separately, constitute a series of misdemeanors or gross misdemeanors because of the value of the transactions, and the series of transactions are part of a common scheme or plan, the transactions may be aggregated in one count and the sum of the value of all the transactions shall be the value considered in determining whether the violations are to be punished as a class C felony or a gross misdemeanor.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%20160[2003 c 53 § 160]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c20.pdf?cite=1989%20c%2020%20§%2016[1989 c 20 § 16]; ]
+
+== 19.158.170 - Uniform regulation of business and professions act.
+The uniform regulation of business and professions act, chapter 18.235 RCW, governs unlicensed practice, the issuance and denial of licenses, and the discipline of licensees under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2512-S.SL.pdf?cite=2002%20c%2086%20§%20286[2002 c 86 § 286]; ]
+
+== 19.158.901 - Effective date—1989 c 20.
+The effective date of this act shall be January 1, 1990.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c20.pdf?cite=1989%20c%2020%20§%2020[1989 c 20 § 20]; ]
+

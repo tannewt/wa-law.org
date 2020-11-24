@@ -1,0 +1,181 @@
+= 48.90 - Child day care centers—Self-insurance.
+:toc:
+
+== 48.90.010 - Findings and intent.
+. Day care providers are facing a major crisis in that adequate and affordable business liability insurance is no longer available within this state for persons who care for children. Many child day care centers have been forced to purchase inadequate coverage at prohibitive premium rates from unregulated foreign surplus line carriers over which the state has minimal control.
+
+. There is a danger that a substantial number of child day care centers who cannot afford the escalating premiums will be unable or unwilling to remain in business without adequate coverage. As a result the number of available facilities will be drastically reduced forcing some parents to leave the workforce to care for their children. A corresponding demand upon the state's resources will result in the form of public assistance to unemployed parents and day care providers.
+
+. There is a further danger that a substantial number of child day care centers now licensed pursuant to state law, who currently provide specific safeguards for the health and safety of children but are unable to procure insurance, may choose to continue to operate without state approval, avoiding regulation and payment of legitimate taxes, and forcing some parents to place their children in facilities of unknown quality and questionable levels of safety.
+
+. Most child day care centers are small business enterprises with limited resources. The state's policies encourage the growth and development of small businesses.
+
+. [Empty]
+.. This chapter is intended to remedy the problem of nonexistent or unaffordable liability coverage for child day care centers, and to encourage compliance with state laws protecting children while meeting the state's sound economic policies of encouraging small business development, sustaining an active workforce, and discouraging policies that result in an increased drain on the state's resources through public assistance and other forms of public funding.
+
+.. This chapter will empower child day care centers to create self-insurance pools, to purchase insurance coverage, and to contract for risk management and administrative services through an association with demonstrated responsible fiscal management.
+
+The intent of this legislation is to allow these associations maximum flexibility to create and administer plans to provide coverage and risk management services to licensed child day care centers.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1083.SL.pdf?cite=2003%20c%20248%20§%2021[2003 c 248 § 21]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c142.pdf?cite=1986%20c%20142%20§%201[1986 c 142 § 1]; ]
+
+== 48.90.020 - Definitions.
+The definitions in this section apply throughout this chapter.
+
+. "Child day care center" means an agency that regularly provides care for one or more children for periods of less than twenty-four hours as defined in *RCW 74.15.020(1)(a).
+
+. "Association" means a corporation organized under Title 24 RCW, representative of one or more categories of child day care centers not formed for the sole purpose of establishing and operating a self-insurance program that:
+
+.. Maintains a roster of current names and addresses of member child day care centers and of former member child day care centers or their representatives, and of all employees of member or former member child day care centers;
+
+.. Has a membership of a size and stability to ensure that it will be able to provide consistent and responsible fiscal management; and
+
+.. Maintains a regular newsletter or other periodic communication to member child day care centers.
+
+. "Subscriber" means a child day care center that:
+
+.. Subscribes to a plan created pursuant to this chapter;
+
+.. Complies with all state licensing requirements;
+
+.. Is a member in good standing of an association;
+
+.. Has consistently maintained its license free from revocation for cause, except where the revocation was not later rescinded or vacated by appellate or administrative decision; and
+
+.. Is prepared to demonstrate the willingness and ability to bear its share of the financial responsibility of its participation in the plan for each applicable contractual period.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1083.SL.pdf?cite=2003%20c%20248%20§%2022[2003 c 248 § 22]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c142.pdf?cite=1986%20c%20142%20§%202[1986 c 142 § 2]; ]
+
+== 48.90.030 - Authority to self-insure.
+Associations meeting the criteria of RCW 48.90.020 are empowered to create and operate self-insurance plans to provide general liability coverage to member child day care centers who choose to subscribe to the plans.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1083.SL.pdf?cite=2003%20c%20248%20§%2023[2003 c 248 § 23]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c142.pdf?cite=1986%20c%20142%20§%203[1986 c 142 § 3]; ]
+
+== 48.90.040 - Chapter exclusive.
+Except as provided in this chapter, self-insurance plans formed and implemented pursuant to this chapter shall be governed by this chapter and shall be exempt from all other provisions of the insurance laws of this state.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c142.pdf?cite=1986%20c%20142%20§%204[1986 c 142 § 4]; ]
+
+== 48.90.050 - Elements of plan.
+Any association desiring to establish a plan pursuant to this chapter shall prepare and submit to the commissioner a proposed plan of organization and operation, including the following elements:
+
+. A statement that the association meets the requirements of this chapter.
+
+. A financial plan specifying:
+
+.. The coverage to be offered by the self-insurance pool, setting forth a deductible level and maximum level of claims that the pool will self-insure;
+
+.. The amount of cash reserves to be maintained for the payment of claims;
+
+.. The amount of insurance, if any, to be purchased to cover claims in excess of the amount of claims to be satisfied directly from the association's own cash reserves;
+
+.. The amount of stop-loss coverage to be purchased in the event the joint self-insurance pool's resources are exhausted in a given fiscal period;
+
+.. A mechanism for determining and assessing the contingent liability of subscribers in the event the assets in the contributing trust fund are at any time insufficient to cover liabilities; and
+
+.. Certification that all subscribers in the pool are apprised of the limitations of coverage to be provided.
+
+. A plan of management setting forth:
+
+.. The means of fulfilling the requirements in RCW 48.90.050(2);
+
+.. The names and addresses of board members and their terms of office, and a copy of the corporate bylaws defining the method of election of board members;
+
+.. The frequency of studies or other evaluation to establish the periodic contribution rates for each of the subscribers;
+
+.. The responsibilities of subscribers, including procedures for entry into and withdrawal from the pool, the allocation of contingent liabilities and a procedure for immediate assessments if the contributing trust fund falls below the level set in RCW 48.90.050(2)(b);
+
+.. A plan for monitoring risks and disseminating information with respect to their reduction or elimination;
+
+.. A contract with a professional insurance management corporation, for the management and operation of any joint self-insurance pool established by the association; and
+
+.. The corporate address of the association.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c142.pdf?cite=1986%20c%20142%20§%205[1986 c 142 § 5]; ]
+
+== 48.90.060 - Approval of plan.
+If the plan submitted complies with RCW 48.90.050 and if the terms of the plan reflect sound financial management, the commissioner shall approve the plan submitted pursuant to RCW 48.90.050.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c142.pdf?cite=1986%20c%20142%20§%206[1986 c 142 § 6]; ]
+
+== 48.90.070 - Contributing trust fund.
+All funds contributed for the purpose of the self-insurance plan shall be deposited in a contributing trust fund, which shall at all times be maintained separately from the general funds of the association. The association shall not contribute to or draw upon the contributing trust fund at any time or for any reason other than administration of the trust fund and operation of the plan. All administration and operating costs related to the trust fund shall be drawn from it.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c142.pdf?cite=1986%20c%20142%20§%207[1986 c 142 § 7]; ]
+
+== 48.90.080 - Initial implementation of plan—Conditions.
+The initial implementation of the plan shall be conditioned upon establishment of the minimum deposits in the contributing trust fund at least thirty days prior to the first effective date of the program for its first year of operation.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c142.pdf?cite=1986%20c%20142%20§%208[1986 c 142 § 8]; ]
+
+== 48.90.090 - Standard of care in fund management—Fiduciary.
+In managing the assets of the contributing trust fund, the association shall exercise the reasonable judgment and care that ordinary persons of prudence, intelligence, and discretion exercise in the sound management of their affairs, not in regard to speculation but in regard to preservation of their funds with maximum return, given the information reasonably available. The association may delegate this duty to a responsible fiduciary. If the fiduciary has special skills or represents that it has special skills, then the fiduciary is under a duty to use those skills in the management of the fund's assets.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c142.pdf?cite=1986%20c%20142%20§%209[1986 c 142 § 9]; ]
+
+== 48.90.100 - Annual report.
+The association shall provide an annual report of the operations of the plan to all subscribers, to the secretary of social and health services, and to the commissioner. This report shall:
+
+. Review claims made, judgments entered, and claims rejected;
+
+. Certify that the current level of the contributing trust fund is sufficient to meet reasonable needs, or provide a plan for establishing such a level within a reasonable time; and
+
+. Make recommendations for specific measures of risk reduction.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c142.pdf?cite=1986%20c%20142%20§%2010[1986 c 142 § 10]; ]
+
+== 48.90.110 - Powers of association.
+The association shall have the power, in its capacity as plan administrator, to contract for or delegate services as necessary for the efficient management and operation of the plan, including but not limited to:
+
+. Contracting for risk management and loss control services;
+
+. Designing a continuing program of risk reduction, calling for the participation of all subscribers;
+
+. Contracting for legal counsel for the defense of claims and other legal services;
+
+. Consulting with the commissioner, the secretary of social and health services, or other interested state agencies with respect to any matters affecting the provision of day care for the state's children, and related risk problems; and
+
+. Purchasing commercial insurance coverage in the form and amount as the subscribers may by contract agree, including reinsurance, excess coverage, and stop-loss insurance.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c142.pdf?cite=1986%20c%20142%20§%2011[1986 c 142 § 11]; ]
+
+== 48.90.120 - Contracts—Terms.
+. All contracts between subscribers and the association shall be for one-year periods and shall terminate on the first day of the next fiscal year of the association following their signature. Subscribers withdrawing from participation in the plan during any contract period may do so only upon surrender of their licenses to care for children to the department of social and health services.
+
+. Premiums should be annual, prorated quarterly in the event any subscriber withdraws, or any new subscriber contracts with the association to become part of the plan during the fiscal year. Subscribers should not have the power to delegate or assign the responsibility for their assessments.
+
+. Contracts should provide for recovery by the association, of any assessments that are not promptly contributed, for methods of collection, and for resolution of related disputes.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c142.pdf?cite=1986%20c%20142%20§%2012[1986 c 142 § 12]; ]
+
+== 48.90.130 - Significant modifications in plan, statement on.
+Within six months of the beginning of any fiscal year in which significant modifications of the plan are envisioned, the association shall provide the commissioner with a statement of those modifications, setting forth the proposed changes, reasons for the changes, and reasonable alternatives, if any exist. The statement shall specifically include reference to coverage available in the commercial insurance market, together with suggested solutions within the joint self-insurance plan.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c142.pdf?cite=1986%20c%20142%20§%2013[1986 c 142 § 13]; ]
+
+== 48.90.140 - Dissolution of plan and association.
+. If at any time the plan can no longer be operated on a sound financial basis, the association may elect to dissolve the plan, subject to explicit approval by the commissioner of a plan for dissolution. Once a plan operated by an association has been dissolved, that association may not again implement a plan pursuant to this chapter for five calendar years.
+
+. At dissolution, the assets of the association represented by the contributing trust fund shall be deposited with the commissioner for a period of twenty-one years, to be made available for claims arising during that period based upon occurrences during the term of coverage. At the time of transfer of the funds, the association shall certify to the commissioner a list of all current subscribers, with their correct mailing addresses, and shall have notified all current subscribers of their obligation to keep the commissioner informed of any changes in their mailing addresses over the twenty-one year period, and that this obligation extends to their representatives, successors, assigns, and to the representatives of their estates. Upon dissolution, the association is required to provide to the commissioner a list of all plan subscribers during all of the years of operation of the plan.
+
+At the end of the twenty-one year period, any funds remaining in the trust account must be distributed to those subscribers who were current subscribers in the most recent year of operation of the plan, with each current subscriber receiving an equal share of the distribution, without regard for the length of time each child day care center was a subscriber.
+
+In the alternative, in the discretion of the association, the balance of the contributing trust fund may be used to purchase similar or more liberal coverage from a commercial insurer. Each subscriber shall, however, be given the option to deposit its share of the fund with the commissioner as provided in this section if it elects not to participate in the proposed commercial insurance.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1083.SL.pdf?cite=2003%20c%20248%20§%2024[2003 c 248 § 24]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c142.pdf?cite=1986%20c%20142%20§%2014[1986 c 142 § 14]; ]
+
+== 48.90.150 - Recovery limits.
+No person with a claim covered by a plan established pursuant to this chapter shall be entitled to recover from the plan any amount in excess of the limits of coverage provided for in the plan.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c142.pdf?cite=1986%20c%20142%20§%2015[1986 c 142 § 15]; ]
+
+== 48.90.160 - Suspension of plan—Reconsideration.
+The commissioner may disapprove, and require suspension of a plan for failure of the association to comply with any provision of this chapter, for gross mismanagement, or for wilful disregard and neglect of its fiduciary duty. The association shall have the right to request reconsideration of the commissioner's decision within fifteen days of the receipt of the commissioner's written notification of the decision, or to request a hearing according to chapter 48.04 RCW.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c142.pdf?cite=1986%20c%20142%20§%2016[1986 c 142 § 16]; ]
+
+== 48.90.170 - Costs of investigation or review of plan.
+All reasonable costs of any investigation or review by the commissioner of an association's plan of organization and operation, or any changes or modifications thereof, including the dissolution of a plan, shall be paid by the association before issuance of any approval required under this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c142.pdf?cite=1986%20c%20142%20§%2017[1986 c 142 § 17]; ]
+

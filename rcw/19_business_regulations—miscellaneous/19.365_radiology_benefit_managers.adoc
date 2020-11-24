@@ -1,0 +1,33 @@
+= 19.365 - Radiology benefit managers.
+:toc:
+
+== 19.365.010 - Registration required—Requirements. (Effective until January 1, 2022.)
+. Any radiology benefit manager that is owned by a carrier as defined in RCW 48.43.005 or acts as a subcontractor for a carrier must be registered with the department of revenue's business licensing service and annually renew the registration. 
+
+. [Empty]
+.. For purposes of this section, a "radiology benefit manager" means a person that contracts with, or is owned by, a carrier or a third-party payor to:
+
+... Process claims for services and procedures performed by a licensed radiologist or advanced diagnostic imaging service provider; or
+
+... Pay or authorize payment to radiology clinics, radiologists, or advanced diagnostic imaging service providers for services or procedures;
+
+.. "Radiology benefit manager" does not include a health care service contractor as defined in RCW 48.44.010, a health maintenance organization as defined in RCW 48.46.020, or an issuer as defined in RCW 48.01.053. 
+
+. To register under this section, a radiology benefit manager must:
+
+.. Submit an application requiring the following information:
+
+... The identity of the radiology benefit manager;
+
+... The name, business address, phone number, and medical director for the radiology benefit manager; and
+
+... Where applicable, the federal tax employer identification number for the entity; and
+
+.. Pay a registration fee of two hundred dollars.
+
+. To renew a registration under this section, a radiology benefit manager must pay a renewal fee of two hundred dollars.
+
+. All receipts from registrations and renewals collected by the department of revenue must be deposited into the business license account created in RCW 19.02.210.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1183-S.SL.pdf?cite=2015%20c%20166%20§%201[2015 c 166 § 1]; ]
+

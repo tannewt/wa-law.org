@@ -1,0 +1,52 @@
+= 4.18 - Uniform conflict of laws—Limitations act.
+:toc:
+
+== 4.18.010 - Definitions.
+As used in this chapter:
+
+. "Claim" means a right of action that may be asserted in a civil action or proceeding and includes a right of action created by statute.
+
+. "State" means a state, commonwealth, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, a foreign country, or a political subdivision of any of them.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c152.pdf?cite=1983%20c%20152%20§%201[1983 c 152 § 1]; ]
+
+== 4.18.020 - Conflict of laws—Limitation periods.
+. Except as provided by RCW 4.18.040, if a claim is substantively based:
+
+.. Upon the law of one other state, the limitation period of that state applies; or
+
+.. Upon the law of more than one state, the limitation period of one of those states, chosen by the law of conflict of laws of this state, applies.
+
+. The limitation period of this state applies to all other claims.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c152.pdf?cite=1983%20c%20152%20§%202[1983 c 152 § 2]; ]
+
+== 4.18.030 - Rules of law applicable to computation of limitation period.
+If the statute of limitations of another state applies to the assertion of a claim in this state, the other state's relevant statutes and other rules of law governing tolling and accrual apply in computing the limitation period, but its statutes and other rules of law governing conflict of laws do not apply.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c152.pdf?cite=1983%20c%20152%20§%203[1983 c 152 § 3]; ]
+
+== 4.18.040 - Application of limitation period of other state—Unfairness.
+If the court determines that the limitation period of another state applicable under RCW 4.18.020 and 4.18.030 is substantially different from the limitation period of this state and has not afforded a fair opportunity to sue upon, or imposes an unfair burden in defending against, the claim, the limitation period of this state applies.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c152.pdf?cite=1983%20c%20152%20§%204[1983 c 152 § 4]; ]
+
+== 4.18.900 - Short title.
+This chapter may be cited as the Uniform Conflict of Laws—Limitations Act.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c152.pdf?cite=1983%20c%20152%20§%207[1983 c 152 § 7]; ]
+
+== 4.18.901 - Application of chapter—Existing and future claims.
+This chapter applies to claims:
+
+. Accruing after July 24, 1983; or
+
+. Asserted in a civil action or proceeding more than one year after July 24, 1983, but it does not revive a claim barred before July 24, 1983.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c152.pdf?cite=1983%20c%20152%20§%205[1983 c 152 § 5]; ]
+
+== 4.18.902 - Uniformity of application and construction of chapter.
+This chapter shall be applied and construed to effectuate its general purpose to make uniform the law with respect to the subject of this chapter among states enacting it.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c152.pdf?cite=1983%20c%20152%20§%206[1983 c 152 § 6]; ]
+

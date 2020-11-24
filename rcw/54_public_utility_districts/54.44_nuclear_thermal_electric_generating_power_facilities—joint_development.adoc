@@ -1,0 +1,69 @@
+= 54.44 - Nuclear, thermal, electric generating power facilities—Joint development.
+:toc:
+
+== 54.44.010 - Declaration of public purpose.
+It is declared to be in the public interest and for a public purpose that cities of the first class, public utility districts, joint operating agencies organized under chapter 43.52 RCW, regulated electrical companies and, rural electrical cooperatives including generation and transmission cooperatives be permitted to participate together in the development of nuclear and other thermal power facilities and transmission facilities as hereinafter provided as one means of achieving economies of scale and thereby promoting the economic development of the state and its natural resources to meet the future power needs of the state and all its inhabitants.
+
+[ 1975-'76 2nd ex.s. c 72 § 1; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c7.pdf?cite=1973%201st%20ex.s.%20c%207%20§%201[1973 1st ex.s. c 7 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c159.pdf?cite=1967%20c%20159%20§%201[1967 c 159 § 1]; ]
+
+== 54.44.020 - Authority to participate in and enter into agreements—Percentage of ownership—Expenses—Taxes—Payments.
+. Except as provided in subsections (2) and (3) of this section, cities of the first class, public utility districts organized under chapter 54.08 RCW, and joint operating agencies organized under chapter 43.52 RCW, any such cities and public utility districts which operate electric generating facilities or distribution systems and any joint operating agency shall have power and authority to participate and enter into agreements with each other and with electrical companies which are subject to the jurisdiction of the Washington utilities and transportation commission or the public utility commissioner of Oregon, hereinafter called "regulated utilities", and with rural electric cooperatives, including generation and transmission cooperatives for the undivided ownership of any type of electric generating plants and facilities, including, but not limited to, nuclear and other thermal power generating plants and facilities and transmission facilities including, but not limited to, related transmission facilities, hereinafter called "common facilities", and for the planning, financing, acquisition, construction, operation and maintenance thereof. It shall be provided in such agreements that each city, public utility district, or joint operating agency shall own a percentage of any common facility equal to the percentage of the money furnished or the value of property supplied by it for the acquisition and construction thereof and shall own and control a like percentage of the electrical output thereof.
+
+. Cities of the first class, public utility districts organized under chapter 54.08 RCW, and joint operating agencies organized under chapter 43.52 RCW, shall have the power and authority to participate and enter into agreements for the undivided ownership of a coal-fired thermal electric generating plant and facility placed in operation before July 1, 1975, including related common facilities, and for the planning, financing, acquisition, construction, operation, and maintenance of the plant and facility. It shall be provided in such agreements that each city, public utility district, or joint operating agency shall own a percentage of any common facility equal to the percentage of the money furnished or the value of property supplied by the city, district, or agency, for the acquisition and construction of the facility, and shall own and control a like percentage of the electrical output thereof. Cities of the first class, public utility districts, and joint operating agencies may enter into agreements under this subsection with each other, with regulated utilities, with rural electric cooperatives, with electric companies subject to the jurisdiction of the regulatory commission of any other state, and with any power marketer subject to the jurisdiction of the federal energy regulatory commission.
+
+. [Empty]
+.. Except as provided in subsections (1) and (2) of this section, cities of the first class, counties with a biomass facility authorized under RCW 36.140.010, public utility districts organized under chapter 54.08 RCW, any cities that operate electric generating facilities or distribution systems, any joint operating agency organized under chapter 43.52 RCW, or any separate legal entity comprising two or more thereof organized under chapter 39.34 RCW shall, either directly or as co-owners of a separate legal entity, have power and authority to participate and enter into agreements described in (b) and (c) of this subsection with each other, and with any of the following, either directly or as co-owners of a separate legal entity:
+
+... Any public agency, as that term is defined in RCW 39.34.020;
+
+... Electrical companies that are subject to the jurisdiction of the Washington utilities and transportation commission or the regulatory commission of any state; and
+
+... Rural electric cooperatives and generation and transmission cooperatives or any wholly owned subsidiaries of either rural electric cooperatives or generation and transmission cooperatives.
+
+.. Except as provided in (b)(i)(B) of this subsection (3), agreements may provide for:
+
+...(A) The undivided ownership, or indirect ownership in the case of a separate legal entity, of common facilities that include any type of electric generating plant generating an eligible renewable resource, as defined in RCW 19.285.030, and transmission facilities including, but not limited to, related transmission facilities, and for the planning, financing, acquisition, construction, operation, and maintenance thereof;
+
+(B) For counties with a biomass facility authorized under RCW 36.140.010, the provisions in (b)(i)(A) of this subsection (3) are limited to the purposes of RCW 36.140.010; and
+
+... The formation, operation, and ownership of a separate legal entity that may own the common facilities.
+
+.. Agreements must provide that each city, county, public utility district, or joint operating agency:
+
+... Owns a percentage of any common facility or a percentage of any separate legal entity equal to the percentage of the money furnished or the value of property supplied by it for the acquisition and construction thereof; and 
+
+... Owns and controls, or has a right to own and control in the case of a separate legal entity, a like percentage of the electrical output thereof.
+
+.. Any entity in which a public utility district participates, either directly or as co-owner of a separate legal entity, in constructing or developing a common facility pursuant to this subsection shall comply with the provisions of chapter 39.12 RCW.
+
+. Each participant shall defray its own interest and other payments required to be made or deposited in connection with any financing undertaken by it to pay its percentage of the money furnished or value of property supplied by it for the planning, acquisition and construction of any common facility, or any additions or betterments thereto. The agreement shall provide a uniform method of determining and allocating operation and maintenance expenses of the common facility.
+
+. Each city, county acting under RCW 36.140.010, public utility district, joint operating agency, regulated utility, and cooperatives participating in the direct or indirect ownership or operation of a common facility described in subsections (1) through (3) of this section shall pay all taxes chargeable to its share of the common facility and the electric energy generated thereby under applicable statutes as now or hereafter in effect, and may make payments during preliminary work and construction for any increased financial burden suffered by any county or other existing taxing district in the county in which the common facility is located, pursuant to agreement with such county or taxing district.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6692-S.SL.pdf?cite=2010%20c%20167%20§%202[2010 c 167 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2639-S.SL.pdf?cite=2008%20c%20198%20§%203[2008 c 198 § 3]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1975-S.SL.pdf?cite=1997%20c%20230%20§%202[1997 c 230 § 2]; 1975-'76 2nd ex.s. c 72 § 2; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c72.pdf?cite=1974%20ex.s.%20c%2072%20§%201[1974 ex.s. c 72 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c7.pdf?cite=1973%201st%20ex.s.%20c%207%20§%202[1973 1st ex.s. c 7 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c159.pdf?cite=1967%20c%20159%20§%202[1967 c 159 § 2]; ]
+
+== 54.44.030 - Liability of city, joint operating agency, or public utility district—Extent—Limitations.
+In carrying out the powers granted in this chapter, each such city, public utility district, or joint operating agency shall be severally liable only for its own acts and not jointly or severally liable for the acts, omissions or obligations of others. No money or property supplied by any such city, public utility district, or joint operating agency for the planning, financing, acquisition, construction, operation or maintenance of any common facility shall be credited or otherwise applied to the account of any other participant therein, nor shall the undivided share of any city, public utility district, or joint operating agency in any common facility be charged, directly or indirectly, with any debt or obligation of any other participant or be subject to any lien as a result thereof. No action in connection with a common facility shall be binding upon any public utility district, city, or joint operating agency unless authorized or approved by resolution or ordinance of its governing body.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c7.pdf?cite=1973%201st%20ex.s.%20c%207%20§%203[1973 1st ex.s. c 7 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c159.pdf?cite=1967%20c%20159%20§%203[1967 c 159 § 3]; ]
+
+== 54.44.040 - Authority to provide money and/or property, issue revenue bonds—Declaration of public purpose.
+Any such city, public utility district, or joint operating agency participating in common facilities under this chapter, without an election, may furnish money and provide property, both real and personal, issue and sell revenue bonds pledging revenues of its electric system and its interest or share of the revenues derived from the common facilities and any additions and betterments thereto in order to pay its respective share of the costs of the planning, financing, acquisition and construction thereof. Such bonds shall be issued under the provisions of applicable laws authorizing the issuance of revenue bonds for the acquisition and construction of electric public utility properties by cities, public utility districts, or joint operating agencies as the case may be. All moneys paid or property supplied by any such city, public utility district, or joint operating agency for the purpose of carrying out the powers conferred herein are declared to be for a public purpose.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c7.pdf?cite=1973%201st%20ex.s.%20c%207%20§%204[1973 1st ex.s. c 7 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c159.pdf?cite=1967%20c%20159%20§%204[1967 c 159 § 4]; ]
+
+== 54.44.050 - Depositories—Disbursement of funds.
+All moneys belonging to cities, public utility districts, and joint operating agencies in connection with common facilities shall be deposited in such depositories as qualify for the deposit of public funds and shall be accounted for and disbursed in accordance with applicable law.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c7.pdf?cite=1973%201st%20ex.s.%20c%207%20§%205[1973 1st ex.s. c 7 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c159.pdf?cite=1967%20c%20159%20§%205[1967 c 159 § 5]; ]
+
+== 54.44.060 - Agreements to conform to applicable laws.
+Any agreement with respect to work to be done or material furnished by any such city, public utility district, or joint operating agency in connection with the construction, maintenance and operation of the common facilities, and any additions and betterments thereto shall be in conformity, as near as may be, with applicable laws now or hereafter in effect relating to public utility districts or cities of the first class.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c7.pdf?cite=1973%201st%20ex.s.%20c%207%20§%206[1973 1st ex.s. c 7 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c159.pdf?cite=1967%20c%20159%20§%206[1967 c 159 § 6]; ]
+
+== 54.44.900 - Liberal construction—Not to affect existing acts.
+The provisions of this chapter shall be liberally construed to effectuate the purposes thereof. This chapter shall not be construed to affect any existing act or part thereof relating to the construction, operation or maintenance of any public utility.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c159.pdf?cite=1967%20c%20159%20§%207[1967 c 159 § 7]; ]
+

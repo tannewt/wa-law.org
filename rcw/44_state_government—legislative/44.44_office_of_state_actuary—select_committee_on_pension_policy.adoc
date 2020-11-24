@@ -1,0 +1,51 @@
+= 44.44 - Office of state actuary—Select committee on pension policy.
+:toc:
+
+== 44.44.010 - Office of state actuary—Created—Qualifications.
+. There is hereby created an office within the legislative branch to be known as the office of the state actuary.
+
+. The executive head of the office shall be the state actuary who shall be qualified by education and experience in the field of actuarial science.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c25.pdf?cite=1987%20c%2025%20§%201[1987 c 25 § 1]; 1975-'76 2nd ex.s. c 105 § 19; ]
+
+== 44.44.013 - State actuary appointment committee—Creation—Membership—Powers.
+. The state actuary appointment committee is created. The committee shall consist of: (a) The chair and ranking minority member of the house of representatives appropriations committee and the chair and ranking minority member of the senate ways and means committee; and (b) four members of the select committee on pension policy appointed jointly by the chair and vice chair of the select committee, at least one member representing state retirement systems active or retired members, and one member representing state retirement system employers.
+
+. The state actuary appointment committee shall be jointly chaired by the chair of the house of representatives appropriations committee and the chair of the senate ways and means committee.
+
+. The state actuary appointment committee shall appoint or remove the state actuary by a two-thirds vote of the committee. When considering the appointment or removal of the state actuary, the appointment committee shall consult with the director of the department of retirement systems, the director of the office of financial management, and other interested parties.
+
+. The state actuary appointment committee shall be convened by the chairs of the house of representatives appropriations committee and the senate ways and means committee (a) whenever the position of state actuary becomes vacant, or (b) upon the written request of any four members of the appointment committee.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1204-S.SL.pdf?cite=2003%20c%20295%20§%2013[2003 c 295 § 13]; ]
+
+== 44.44.030 - Personnel—Member of American academy of actuaries.
+. Subject to RCW 44.04.260, the state actuary shall have the authority to select and employ such research, technical, clerical personnel, and consultants as the actuary deems necessary, whose salaries shall be fixed by the actuary and approved by the state actuary appointment committee, and who shall be exempt from the provisions of the state civil service law, chapter 41.06 RCW.
+
+. All actuarial valuations and experience studies performed by the office of the state actuary shall be signed by a member of the American academy of actuaries. If the state actuary is not such a member, the state actuary, after approval by the select committee, shall contract for a period not to exceed two years with a member of the American academy of actuaries to assist in developing actuarial valuations and experience studies.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1204-S.SL.pdf?cite=2003%20c%20295%20§%2014[2003 c 295 § 14]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1391-S.SL.pdf?cite=2001%20c%20259%20§%2011[2001 c 259 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c25.pdf?cite=1987%20c%2025%20§%202[1987 c 25 § 2]; 1975-'76 2nd ex.s. c 105 § 21; ]
+
+== 44.44.040 - Powers and duties—Actuarial fiscal notes.
+The office of the state actuary shall have the following powers and duties:
+
+. Perform all actuarial services for the department of retirement systems, including all studies required by law.
+
+. Advise the legislature and the governor regarding pension benefit provisions, and funding policies and investment policies of the state investment board.
+
+. Consult with the legislature and the governor concerning determination of actuarial assumptions used by the department of retirement systems.
+
+. Prepare a report, to be known as the actuarial fiscal note, on each pension bill introduced in the legislature which briefly explains the financial impact of the bill. The actuarial fiscal note shall include: (a) The statutorily required contribution for the biennium and the following twenty-five years; (b) the biennial cost of the increased benefits if these exceed the required contribution; and (c) any change in the present value of the unfunded accrued benefits. An actuarial fiscal note shall also be prepared for all amendments which are offered in committee or on the floor of the house of representatives or the senate to any pension bill. However, a majority of the members present may suspend the requirement for an actuarial fiscal note for amendments offered on the floor of the house of representatives or the senate.
+
+. Provide such actuarial services to the legislature as may be requested from time to time.
+
+. Provide staff and assistance to the committee established under RCW 41.04.276.
+
+. Provide actuarial assistance to the law enforcement officers' and firefighters' plan 2 retirement board as provided in chapter 2, Laws of 2003. Reimbursement for services shall be made to the state actuary under RCW 39.34.130 and section 5(5), chapter 2, Laws of 2003.
+
+. Provide actuarial assistance to the committee on advanced tuition payment pursuant to chapter 28B.95 RCW, including recommending a tuition unit price to the committee on advanced tuition payment to be used in the ensuing enrollment period. Reimbursement for services shall be made to the state actuary under RCW 39.34.130.
+
+. Provide actuarial assistance to the long-term services and supports trust commission pursuant to chapter 50B.04 RCW. Reimbursement for services shall be made to the state actuary under RCW 39.34.130.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1087-S2.SL.pdf?cite=2019%20c%20363%20§%2022[2019 c 363 § 22]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5749-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2012%20§%207[2011 1st sp.s. c 12 § 7]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1204-S.SL.pdf?cite=2003%20c%20295%20§%204[2003 c 295 § 4]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2197-S.SL.pdf?cite=2003%20c%2092%20§%202[2003 c 92 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c25.pdf?cite=1987%20c%2025%20§%203[1987 c 25 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c317.pdf?cite=1986%20c%20317%20§%206[1986 c 317 § 6]; 1975-'76 2nd ex.s. c 105 § 22; ]
+

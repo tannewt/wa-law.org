@@ -1,0 +1,26 @@
+= 33.43 - Conversion to and from federal association.
+:toc:
+
+== 33.43.010 - Conversion of domestic association to federal association.
+Any domestic association may convert itself into a federal mutual or stock savings and loan association. Any such conversion shall be effected by the vote of a majority in amount of the members present, in person or by proxy, at any regular or special meeting of the members called for such purpose. Notice of such meeting, stating the purpose thereof, shall be given the director at least thirty days prior to the meeting and to the members pursuant to the provisions contained in RCW 33.20.010.
+
+If such conversion be authorized by the members at the meeting, the directors of the association are authorized and shall effect such action, and the officers of the association shall execute all proper conveyances, documents, and other papers necessary or proper thereunto.
+
+If conversion be authorized, a copy of the minutes of the meeting shall be filed forthwith with the director.
+
+Upon consummation of such conversion, the successor federal savings and loan association shall succeed to all right, title, and interest of the domestic association in and to its assets, and to its liabilities to the creditors and members of the association. Upon such conversion, after the execution and delivery of all instruments of transfer, conveyance and assignment, the domestic association shall be deemed dissolved.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%20466[1994 c 92 § 466]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c3.pdf?cite=1982%20c%203%20§%2074[1982 c 3 § 74]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1949c20.pdf?cite=1949%20c%2020%20§%2010[1949 c 20 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1945c235.pdf?cite=1945%20c%20235%20§%20116[1945 c 235 § 116]; Rem. Supp. 1949 § 3717-235; 1933 ex.s. c 15 §§ 1 through 6; ]
+
+== 33.43.020 - Federal association—Powers.
+Every federal savings and loan association, the home office of which is located in this state, and the savings accounts therein shall have all the rights, powers and privileges and be entitled to the same immunities and exemptions as pertain to savings and loan associations organized under the laws of this state.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1945c235.pdf?cite=1945%20c%20235%20§%20117[1945 c 235 § 117]; Rem. Supp. 1945 § 3717-236; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1939c98.pdf?cite=1939%20c%2098%20§%209[1939 c 98 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1933c183.pdf?cite=1933%20c%20183%20§%2050[1933 c 183 § 50]; ]
+
+== 33.43.030 - Conversion of federal association to domestic association.
+Any federal savings and loan association the home office of which is located in this state may convert itself into a domestic savings and loan association of this state. For any such conversion, such federal association shall proceed as provided in this title for the conversion of a domestic association into a federal association.
+
+Upon consummation of such conversion, the successor domestic association shall succeed to all right, title, and interest of the federal association in and to its assets, and to its liabilities to the creditors and members of such federal association.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1945c235.pdf?cite=1945%20c%20235%20§%20118[1945 c 235 § 118]; Rem. Supp. 1945 § 3717-237; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1939c98.pdf?cite=1939%20c%2098%20§%201[1939 c 98 § 1]; ]
+

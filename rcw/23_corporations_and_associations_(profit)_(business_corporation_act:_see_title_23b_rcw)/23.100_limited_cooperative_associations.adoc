@@ -1,0 +1,2002 @@
+= 23.100 - Limited cooperative associations.
+:toc:
+
+== 23.100.0101 - Short title.
+This chapter may be cited as the Washington limited cooperative association act.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20101[2019 c 37 § 101]; ]
+
+== 23.100.0102 - Definitions.
+. In this chapter, except for RCW 23.100.1301 through 23.100.1320:
+
+.. "Articles of organization" means the articles of organization of a limited cooperative association required by RCW 23.100.0201. The term includes the articles as amended or restated.
+
+.. "Board of directors" means the board of directors of a limited cooperative association.
+
+.. "Bylaws" means the bylaws of a limited cooperative association. The term includes the bylaws as amended or restated.
+
+.. "Consumer cooperative" means a cooperative engaged in the retail sale, to its members and other consumers, of goods or services of a type that are generally for personal, living, or family use.
+
+.. "Contribution," except as used in RCW 23.100.0807(3), means a benefit that a person provides to a limited cooperative association to become or remain a member or in the person's capacity as a member.
+
+.. "Cooperative" means a limited cooperative association or an entity organized under any cooperative law of any jurisdiction.
+
+.. "Director" means a director of a limited cooperative association.
+
+.. "Distribution," except as used in RCW 23.100.0806(1), means a transfer of money or other property from a limited cooperative association to a member because of the member's financial rights or to a transferee of a member's financial rights.
+
+.. "Financial rights" means the right to participate in allocations and distributions as provided in RCW 23.100.0801 through 23.100.0809 and 23.100.1001 through 23.100.1013 but does not include rights or obligations under a marketing contract.
+
+.. "Governance rights" means the right to participate in governance of a limited cooperative association.
+
+.. "Investor member" means a member that has made a contribution to a limited cooperative association and:
+
+... Is not required by the organic rules to conduct patronage with the association in the member's capacity as an investor member in order to receive the member's interest; or
+
+... Is not permitted by the organic rules to conduct patronage with the association in the member's capacity as an investor member in order to receive the member's interest.
+
+.. "Limited cooperative association" means an association formed under this chapter or that becomes subject to this chapter under RCW 23.100.1301 through 23.100.1320.
+
+.. "Member" means a person that is admitted as a patron member or investor member, or both, in a limited cooperative association. The term does not include a person that has dissociated as a member.
+
+.. "Member's interest" means the interest of a patron member or investor member under RCW 23.100.0501.
+
+.. "Members meeting" means an annual members meeting or special meeting of members.
+
+.. "Organic rules" means the articles of organization and bylaws of a limited cooperative association.
+
+.. "Organizer" means an individual who executes the initial articles of organization.
+
+.. "Patron member" means a member that has made a contribution to a limited cooperative association and:
+
+... Is required by the organic rules to conduct patronage with the association in the member's capacity as a patron member in order to receive the member's interest; or
+
+... Is permitted by the organic rules to conduct patronage with the association in the member's capacity as a patron member in order to receive the member's interest.
+
+.. "Patronage" means business transactions between a limited cooperative association and a person which entitles the person to receive financial rights based on the value or quantity of business done between the association and the person.
+
+.. "Required information" means the information a limited cooperative association is required to maintain under RCW 23.100.0110.
+
+.. "Voting group" means any combination of one or more voting members in one or more districts or classes that under the organic rules or chapter 23.95 RCW or this chapter are entitled to vote and can be counted together collectively on a matter at a members meeting.
+
+.. "Voting member" means a member that, under the organic law or organic rules, has a right to vote on matters subject to vote by members under the organic law or organic rules.
+
+.. "Voting power" means the total current power of members to vote on a particular matter for which a vote may or is to be taken.
+
+. The following definitions from RCW 23.95.105 apply to this chapter: "Entity," "execute," "executes," and "executed," "foreign," "jurisdiction," "jurisdiction of formation," "organic law," "organic rules," "person," "principal office," "property," "receipt," "record," "registered agent," "state," and "transfer."
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20102[2019 c 37 § 102]; ]
+
+== 23.100.0103 - Nature of limited cooperative association.
+. A limited cooperative association organized under this chapter is an autonomous, unincorporated association of persons united to meet their mutual interests through a jointly owned enterprise primarily controlled by those persons, which permits combining:
+
+.. Ownership, financing, and receipt of benefits by the members for whose interests the association is formed; and
+
+.. Separate investments in the association by members who may receive returns on their investments and a share of control.
+
+. The fact that a limited cooperative association does not have one or more of the characteristics described in subsection (1) of this section does not alone prevent the association from being formed under and governed by this chapter nor does it alone provide a basis for an action against the association.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20103[2019 c 37 § 103]; ]
+
+== 23.100.0104 - Purpose and duration of limited cooperative association.
+. A limited cooperative association is an entity distinct from its members.
+
+. A limited cooperative association may be organized for any lawful purpose, regardless of whether for profit, except that a limited cooperative association may not be organized for the purpose of generating, purchasing, selling, marketing, transmitting, or distributing electric energy.
+
+. Unless the articles of organization state a term for a limited cooperative association's existence, the association has perpetual duration.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20104[2019 c 37 § 104]; ]
+
+== 23.100.0105 - Powers.
+Unless its articles of organization provide otherwise, a limited cooperative association has the capacity to sue and be sued in its own name and has the power to do all things necessary or convenient to carry on its activities and affairs. An association may maintain an action against a member for harm caused to the association by the member's violation of a duty to the association or of the organic law or organic rules.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20105[2019 c 37 § 105]; ]
+
+== 23.100.0106 - Governing law.
+The law of this state governs:
+
+. The internal affairs of a limited cooperative association; and
+
+. The liability of a member as a member and a director as a director for the debts, obligations, or other liabilities of a limited cooperative association.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20106[2019 c 37 § 106]; ]
+
+== 23.100.0107 - Requirements of other laws.
+. This chapter does not alter or amend any law that governs the licensing and regulation of an individual or entity in carrying on a specific business or profession even if that law permits the business or profession to be conducted by a limited cooperative association, a foreign cooperative, or members of either.
+
+. A limited cooperative association may not conduct an activity that, under law of this state other than this chapter, may be conducted only by an entity that meets specific requirements for the internal affairs of that entity unless the organic rules of the association conform to those requirements.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20107[2019 c 37 § 107]; ]
+
+== 23.100.0108 - Relation to restraint of trade and antitrust laws.
+To the extent a limited cooperative association or activities conducted by the association in this state meet the material requirements for other cooperatives entitled to an exemption from or immunity under any provision of RCW 19.86.030 through 19.86.050, the association and its activities are entitled to the exemption or immunity. This section does not create any new exemption or immunity for an association or affect any exemption or immunity provided to a cooperative organized under any law other than this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20108[2019 c 37 § 108]; ]
+
+== 23.100.0109 - Effect of organic rules.
+. The relations between a limited cooperative association and its members are consensual. Unless required, limited, or prohibited by this chapter, the organic rules may provide for any matter concerning the relations among the members of the association and between the members and the association, the activities of the association, and the conduct of its activities.
+
+. The matters referred to in (a) through (k) of this subsection may be varied only in the articles of organization. The articles may:
+
+.. State a term of existence for the association under RCW 23.100.0104(3);
+
+.. Limit or eliminate the acceptance of new or additional members by the initial board of directors under RCW 23.100.0202(2);
+
+.. Vary the limitations on the obligations and liability of members for association obligations under RCW 23.100.0404;
+
+.. Require a notice of an annual members meeting to state a purpose of the meeting under RCW 23.100.0408(2);
+
+.. Vary the board of directors meeting quorum under RCW 23.100.0615(1);
+
+.. Vary the matters the board of directors may consider in making a decision under RCW 23.100.0620;
+
+.. Specify causes of dissolution under RCW 23.100.1002(1);
+
+.. Delegate amendment of the bylaws to the board of directors pursuant to RCW 23.100.0305(6);
+
+.. Provide for member approval of asset dispositions under RCW 23.100.1201;
+
+.. Subject to RCW 23.100.0620, provide for the elimination or limitation of liability of a director to the association or its members for money damages pursuant to RCW 23.100.0618;
+
+.. Provide for permitting or making obligatory indemnification under RCW 23.100.0701(1); and
+
+.. Provide for any matters that may be contained in the organic rules, including those under subsection (3) of this section.
+
+. The matters referred to in (a) through (y) of this subsection may be varied only in the organic rules. The organic rules may:
+
+.. Require more information to be maintained under RCW 23.100.0110 or provided to members under RCW 23.100.0405(10);
+
+.. Provide restrictions on transactions between a member and an association under RCW 23.100.0111;
+
+.. Provide for the percentage and manner of voting on amendments to the organic rules by district, class, or voting group under RCW 23.100.0304(1);
+
+.. Provide for the percentage vote required to amend the bylaws concerning the admission of new members under RCW 23.100.0305(5)(e);
+
+.. Provide for terms and conditions to become a member under RCW 23.100.0402;
+
+.. Restrict the manner of conducting members meetings under RCW 23.100.0406(3) and 23.100.0407(5);
+
+.. Designate the presiding officer of members meetings under RCW 23.100.0406(5) and 23.100.0407(7);
+
+.. Require a statement of purposes in the annual meeting notice under RCW 23.100.0408(2);
+
+.. Increase quorum requirements for members meetings under RCW 23.100.0410 and board of directors meetings under RCW 23.100.0615;
+
+.. Allocate voting power among members, including patron members and investor members, and provide for the manner of member voting and action as permitted by RCW 23.100.0411 through 23.100.0417;
+
+.. Authorize investor members and expand or restrict the transferability of members' interests to the extent provided in RCW 23.100.0502 and 23.100.0503;
+
+.. Provide for enforcement of a marketing contract;
+
+.. Provide for qualification, election, terms, removal, filling vacancies, and member approval for compensation of directors in accordance with RCW 23.100.0603 through 23.100.0605, 23.100.0607, 23.100.0609, and 23.100.0610;
+
+.. Restrict the manner of conducting board meetings and taking action without a meeting under RCW 23.100.0611 and 23.100.0612;
+
+.. Provide for frequency, location, notice, and waivers of notice for board meetings under RCW 23.100.0613 and 23.100.0614;
+
+.. Increase the percentage of votes necessary for board action under RCW 23.100.0616(2);
+
+.. Provide for the creation of committees of the board of directors and matters related to the committees in accordance with RCW 23.100.0617;
+
+.. Provide for officers and their appointment, designation, and authority under RCW 23.100.0622;
+
+.. Provide for forms and values of contributions under RCW 23.100.0802;
+
+.. Provide for remedies for failure to make a contribution;
+
+.. Provide for the allocation of profits and losses of the association, distributions, and the redemption or repurchase of distributed property other than money in accordance with RCW 23.100.0803 through 23.100.0806;
+
+.. Specify when a member's dissociation is wrongful and the liability incurred by the dissociating member for damage to the association under RCW 23.100.0901 (2) and (3);
+
+.. Provide the personal representative or other legal representative of a deceased member or a member adjudged incompetent with additional rights under RCW 23.100.0903;
+
+.. Increase the percentage of votes required for board of director approval of:
+
+... A resolution to dissolve under RCW 23.100.1005(1)(a);
+
+... A proposed amendment to the organic rules under RCW 23.100.0302(1)(a);
+
+... A proposed disposition of assets under RCW 23.100.1203(1); and
+
+... A plan of merger or plan of conversion under RCW 23.100.1301 through 23.100.1320; and
+
+.. Vary the percentage of votes required for members approval of:
+
+... A resolution to dissolve under RCW 23.100.1005;
+
+... An amendment to the organic rules under RCW 23.100.0305;
+
+... A disposition of assets under RCW 23.100.1204; and
+
+... A plan of merger or plan of conversion under RCW 23.100.1301 through 23.100.1320.
+
+. The organic rules must address members' contributions pursuant to RCW 23.100.0801.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20109[2019 c 37 § 109]; ]
+
+== 23.100.0110 - Required information.
+. Subject to subsection (2) of this section, a limited cooperative association shall maintain in a record available at its principal office:
+
+.. A list containing the name, last known street address and, if different, mailing address, and term of office of each director and officer;
+
+.. The initial articles of organization and all amendments to and restatements of the articles, together with an executed copy of any power of attorney under which any article, amendment, or restatement has been executed;
+
+.. The initial bylaws and all amendments to and restatements of the bylaws;
+
+.. All filed articles of merger and conversion;
+
+.. All financial statements of the association for the three most recent years;
+
+.. The most recent annual report delivered by the association to the secretary of state;
+
+.. The minutes of members meetings for the period of the association's existence;
+
+.. Evidence of all actions taken by members without a meeting for the period of the association's existence;
+
+.. A list containing:
+
+... The name, in alphabetical order, and last known street address and, if different, mailing address of each patron member and each investor member; and
+
+... If the association has districts or classes of members, information from which each current member in a district or class may be identified;
+
+.. The federal income tax returns, any state and local income tax returns, and any tax reports of the association for the three most recent years;
+
+.. Accounting records maintained by the association in the ordinary course of its operations for the three most recent years;
+
+.. The minutes of directors meetings for the period of the association's existence;
+
+.. Evidence of all actions taken by directors without a meeting for the period of the association's existence;
+
+.. The amount of money contributed and agreed to be contributed by each member;
+
+.. A description and statement of the agreed value of contributions or benefits other than money made or provided and agreed to be made or provided by each member;
+
+.. The times at which, or events on the happening of which, any additional contribution is to be made by each member;
+
+.. For each member, a description and statement of the member's interest or information from which the description and statement can be derived; and
+
+.. All communications concerning the association made in a record to all members, or to all members in a district or class, for the three most recent years.
+
+. If a limited cooperative association has existed for less than the period for which records must be maintained under subsection (1) of this section, the period records must be kept is the period of the association's existence.
+
+. The organic rules may require that more information be maintained.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20110[2019 c 37 § 110]; ]
+
+== 23.100.0111 - Business transactions of member with limited cooperative association.
+Subject to RCW 23.100.0618 and 23.100.0619 and except as otherwise provided in the organic rules or a specific contract relating to a transaction, a member may lend money to and transact other business with a limited cooperative association in the same manner as a person that is not a member.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20111[2019 c 37 § 111]; ]
+
+== 23.100.0112 - Dual capacity.
+A person may have a patron member's interest and an investor member's interest. When such person acts as a patron member, the person is subject to this chapter and the organic rules governing patron members. When such person acts as an investor member, the person is subject to this chapter and the organic rules governing investor members.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20112[2019 c 37 § 112]; ]
+
+== 23.100.0113 - Use of the term "cooperative" in name.
+Use of the term "cooperative" or its abbreviation under this chapter is not a violation of the provisions restricting the use of the term under RCW 23.86.030.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20113[2019 c 37 § 113]; ]
+
+== 23.100.0114 - Subjects covered outside chapter.
+The following subjects are covered in whole or in part outside this chapter:
+
+. Delivery of record: RCW 23.95.110;
+
+. Filing with secretary of state: RCW 23.95.200 through 23.95.265;
+
+. Name of entity: RCW 23.95.300 through 23.95.315;
+
+. Registered agent of entity: RCW 23.95.400 through 23.95.460;
+
+. Foreign entities: RCW 23.95.500 through 23.95.555;
+
+. Administrative dissolution: RCW 23.95.600 through 23.95.625;
+
+. Miscellaneous provisions, including supplemental principles of law and reservation of power to amend or repeal: RCW 23.95.700 through 23.95.715.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20114[2019 c 37 § 114]; ]
+
+== 23.100.0201 - Formation of limited cooperative association—Articles of organization.
+. One or more persons may act as organizers to form a limited cooperative association by delivering to the secretary of state for filing articles of organization.
+
+. The articles of organization must state:
+
+.. The name of the limited cooperative association, which must comply with RCW 23.95.300 and 23.95.305(5);
+
+.. The purposes for which the association is formed;
+
+.. The street and mailing addresses in this state of the initial registered agent;
+
+.. The street and mailing addresses of the initial principal office;
+
+.. The name and street and mailing addresses of each organizer; and
+
+.. The term for which the association is to exist if other than perpetual.
+
+. Subject to RCW 23.100.0109, articles of organization may contain any other provisions in addition to those required by subsection (1) of this section.
+
+. A limited cooperative association is formed after articles of organization that substantially comply with subsection (1) of this section are delivered to the secretary of state, are filed, and become effective under RCW 23.95.210.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20201[2019 c 37 § 201]; ]
+
+== 23.100.0202 - Organization of limited cooperative association.
+. After a limited cooperative association is formed:
+
+.. If initial directors are named in the articles of organization, the initial directors shall hold an organizational meeting to adopt initial bylaws and carry on any other business necessary or proper to complete the organization of the association; or
+
+.. If initial directors are not named in the articles of organization, the organizers shall designate the initial directors and call a meeting of the initial directors to adopt initial bylaws and carry on any other business necessary or proper to complete the organization of the association.
+
+. Unless the articles of organization otherwise provide, the initial directors may cause the limited cooperative association to accept members, including those necessary for the association to begin business.
+
+. Initial directors need not be members.
+
+. An initial director serves until a successor is elected and qualified at a members meeting or the director is removed, resigns, is adjudged incompetent, or dies.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20202[2019 c 37 § 202]; ]
+
+== 23.100.0203 - Bylaws.
+. Bylaws must be in a record and, if not stated in the articles of organization, must include:
+
+.. A statement of the capital structure of the limited cooperative association, including:
+
+... The classes or other types of members' interests and relative rights, preferences, and restrictions granted to or imposed upon each class or other type of member's interest; and
+
+... The rights to share in profits or distributions of the association;
+
+.. A statement of the method for admission of members;
+
+.. A statement designating voting and other governance rights, including which members have voting power and any restriction on voting power;
+
+.. A statement that a member's interest is transferable if it is to be transferable and a statement of the conditions upon which it may be transferred;
+
+.. A statement concerning the manner in which profits and losses are allocated and distributions are made among patron members and, if investor members are authorized, the manner in which profits and losses are allocated and how distributions are made among investor members and between patron members and investor members;
+
+.. A statement concerning:
+
+... Whether persons that are not members but conduct business with the association may be permitted to share in allocations of profits and losses and receive distributions; and
+
+... The manner in which profits and losses are allocated and distributions are made with respect to those persons; and
+
+.. A statement of the number and terms of directors or the method by which the number and terms are determined.
+
+. Subject to RCW 23.100.0109(3) and the articles of organization, bylaws may contain any other provision for managing and regulating the affairs of the association.
+
+. In addition to amendments permitted under RCW 23.100.0301 through 23.100.0307, the initial board of directors may amend the bylaws by a majority vote of the directors at any time before the admission of members.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20203[2019 c 37 § 203]; ]
+
+== 23.100.0204 - Executing of records to be delivered for filing to secretary of state.
+A record delivered to the secretary of state for filing pursuant to chapter 23.95 RCW and this chapter must be executed as follows:
+
+. A limited cooperative association's initial articles of organization must be executed by at least one person acting as an organizer.
+
+. A statement of withdrawal under RCW 23.95.215 must be executed as provided in that section.
+
+. Except as otherwise provided in subsection (4) of this section, a record executed by an existing association must be executed by an officer.
+
+. A record filed on behalf of a dissolved association must be executed by a person winding up activities under RCW 23.100.1006(2) or a person appointed under RCW 23.100.1006(3) to wind up those activities.
+
+. Any other record delivered on behalf of a person to the secretary of state for filing must be executed by that person.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20204[2019 c 37 § 204]; ]
+
+== 23.100.0301 - Authority to amend organic rules.
+. A limited cooperative association may amend its organic rules under this chapter for any lawful purpose. In addition, the initial board of directors may amend the bylaws of an association under RCW 23.100.0203.
+
+. Unless the organic rules otherwise provide, a member does not have a vested property right resulting from any provision in the organic rules, including a provision relating to the management, control, capital structure, distribution, entitlement, purpose, or duration of the limited cooperative association.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20301[2019 c 37 § 301]; ]
+
+== 23.100.0302 - Notice and action on amendment of organic rules.
+. Except as provided in RCW 23.100.0301(1) and 23.100.0305(6), the organic rules of a limited cooperative association may be amended only at a members meeting. An amendment may be proposed by either:
+
+.. A majority of the board of directors, or a greater percentage if required by the organic rules; or
+
+.. One or more petitions executed by at least ten percent of the patron members or at least ten percent of the investor members.
+
+. [Empty]
+.. The board of directors shall call a members meeting to consider an amendment proposed pursuant to subsection (1) of this section.
+
+.. Subject to RCW 23.100.0408 and 23.100.0419, not later than thirty days following the proposal of the amendment by the board or receipt of a petition, the board must mail or otherwise transmit or deliver in a record to each member:
+
+... The proposed amendment, or a summary of the proposed amendment and a statement of the manner in which a copy of the amendment in a record may be reasonably obtained by a member;
+
+... A recommendation that the members approve the amendment, or if the board determines that because of conflict of interest or other special circumstances it should not make a favorable recommendation, the basis for that determination;
+
+... A statement of any condition of the board's submission of the amendment to the members; and
+
+... Notice of the meeting at which the proposed amendment will be considered, which must be given in the same manner as notice for a special meeting of members.
+
+.. The meeting must be held at least ten and not more than one hundred twenty days after providing the notice required by (b) of this subsection.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20302[2019 c 37 § 302]; ]
+
+== 23.100.0303 - Method of voting on amendment of organic rules.
+. A substantive change to a proposed amendment of the organic rules may not be made at the members meeting at which a vote on the amendment occurs.
+
+. A nonsubstantive change to a proposed amendment of the organic rules may be made at the members meeting at which the vote on the amendment occurs and need not be separately voted upon by the board of directors.
+
+. A vote to adopt a nonsubstantive change to a proposed amendment to the organic rules must be by the same percentage of votes required to pass a proposed amendment.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20303[2019 c 37 § 303]; ]
+
+== 23.100.0304 - Voting by district, class, or voting group.
+. This section applies if the organic rules provide for voting by district or class, or if there is one or more identifiable voting groups that a proposed amendment to the organic rules would affect differently from other members with respect to matters identified in RCW 23.100.0305(5) (a) through (e). Approval of the amendment requires the same percentage of votes of the members of that district, class, or voting group required in RCW 23.100.0305 and 23.100.0414.
+
+. If a proposed amendment to the organic rules would affect members in two or more districts or classes entitled to vote separately under subsection (1) of this section in the same or a substantially similar way, the districts or classes affected must vote as a single voting group unless the organic rules otherwise provide for separate voting.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20304[2019 c 37 § 304]; ]
+
+== 23.100.0305 - Approval of amendment.
+. Subject to RCW 23.100.0304 and subsections (3) and (4) of this section, an amendment to the articles of organization must be approved by:
+
+.. At least two-thirds of the voting power of members present at a members meeting called under RCW 23.100.0302; and
+
+.. If the limited cooperative association has investor members, at least a majority of the votes cast by patron members, unless the organic rules require a greater percentage vote by patron members.
+
+. Subject to RCW 23.100.0304 and subsections (3) through (6) of this section, an amendment to the bylaws must be approved by:
+
+.. At least a majority vote of the voting power of all members present at a members meeting called under RCW 23.100.0302, unless the organic rules require a greater percentage; and
+
+.. If a limited cooperative association has investor members, a majority of the votes cast by patron members, unless the organic rules require a larger affirmative vote by patron members.
+
+. The organic rules may require that the percentage of votes under subsection (1)(a) or (2)(a) of this section be:
+
+.. A different percentage that is not less than a majority of members voting at the meeting;
+
+.. Measured against the voting power of all members; or
+
+.. A combination of (a) and (b) of this subsection.
+
+. Consent in a record by a member must be delivered to a limited cooperative association before delivery of an amendment to the articles of organization or restated articles of organization for filing pursuant to RCW 23.100.0307, if as a result of the amendment the member will have:
+
+.. Personal liability for an obligation of the association; or
+
+.. An obligation or liability for an additional contribution.
+
+. The vote required to amend bylaws must satisfy the requirements of subsection (1) of this section if the proposed amendment modifies:
+
+.. The equity capital structure of the limited cooperative association, including the rights of the association's members to share in profits or distributions, or the relative rights, preferences, and restrictions granted to or imposed upon one or more districts, classes, or voting groups of similarly situated members;
+
+.. The transferability of a member's interest;
+
+.. The manner or method of allocation of profits or losses among members;
+
+.. The quorum for a meeting and the rights of voting and governance; or
+
+.. Unless otherwise provided in the organic rules, the terms for admission of new members.
+
+. Except for the matters described in subsection (5) of this section, the articles of organization may delegate amendment of all or a part of the bylaws to the board of directors without requiring member approval.
+
+. If the articles of organization delegate amendment of bylaws to the board of directors, the board shall provide a description of any amendment of the bylaws made by the board to the members in a record not later than thirty days after the amendment, but the description may be provided at the next annual members meeting if the meeting is held within the thirty-day period.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20305[2019 c 37 § 305]; ]
+
+== 23.100.0306 - Restated articles of organization.
+A limited cooperative association, by the affirmative vote of a majority of the board of directors taken at a meeting for which the purpose is stated in the notice of the meeting, may adopt restated articles of organization that contain the original articles as previously amended. Restated articles may contain amendments if the restated articles are adopted in the same manner and with the same vote as required for amendments to the articles under RCW 23.100.0305(1). Upon filing, restated articles supersede the existing articles and all amendments.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20306[2019 c 37 § 306]; ]
+
+== 23.100.0307 - Amendment or restatement of articles of organization—Filing.
+. To amend its articles of organization, a limited cooperative association must deliver to the secretary of state for filing an amendment of the articles, or restated articles of organization, which contain one or more amendments of the articles of organization, stating:
+
+.. The name of the association;
+
+.. The date of filing of the association's initial articles; and
+
+.. The text of the amendment.
+
+. Before the beginning of the initial meeting of the board of directors, an organizer who knows that information in the filed articles of organization was inaccurate when the articles were filed or has become inaccurate due to changed circumstances shall promptly:
+
+.. Cause the articles to be amended; or
+
+.. If appropriate, deliver an amendment to the secretary of state for filing pursuant to RCW 23.95.110(2).
+
+. To restate its articles of organization, a limited cooperative association must deliver to the secretary of state for filing a restatement designated as such in its heading.
+
+. Upon filing, an amendment of the articles of organization or other record containing an amendment of the articles which has been properly adopted by the members is effective as provided in RCW 23.95.210.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20307[2019 c 37 § 307]; ]
+
+== 23.100.0401 - Members.
+To begin business, a limited cooperative association must have at least two patron members unless the sole member is a cooperative.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20401[2019 c 37 § 401]; ]
+
+== 23.100.0402 - Becoming a member.
+After formation of a limited cooperative association, a person becomes a member:
+
+. As provided in the organic rules;
+
+. As the result of a conversion or merger effective under RCW 23.100.1301 through 23.100.1320; or
+
+. With the affirmative vote or consent of all the members.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20402[2019 c 37 § 402]; ]
+
+== 23.100.0403 - No agency power of member as member.
+. A member is not an agent of a limited cooperative association solely by reason of being a member.
+
+. A person's status as a member does not prevent or restrict law other than this chapter from imposing liability on a limited cooperative association because of the person's conduct.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20403[2019 c 37 § 403]; ]
+
+== 23.100.0404 - Liability of members and directors.
+. Unless the articles of organization provide otherwise, a debt, obligation, or other liability of a limited cooperative association is solely the debt, obligation, or other liability of the association. A member or director is not personally liable, directly or indirectly, by way of contribution or otherwise, for a debt, obligation, or other liability of the association solely by reason of being or acting as a member or director of the association. This subsection applies regardless of the dissolution of the association.
+
+. The failure of a limited cooperative association to observe formalities relating to the exercise of its powers or management of its activities and affairs is not grounds for imposing liability on any member or director for a debt, obligation, or other liability of the association.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20404[2019 c 37 § 404]; ]
+
+== 23.100.0405 - Right of members and dissociated members to information.
+. On at least ten business days' demand made in a record received by a limited cooperative association, a member may inspect and copy during regular business hours, at the principal office or a reasonable location specified by the limited cooperative association, required information listed in RCW 23.100.0110(1) (a) through (h). A member need not have any particular purpose for seeking the information. The association is not required to provide the same information listed in RCW 23.100.0110(1) (a) through (h) to the same member more than once during a six-month period.
+
+. Subject to subsection (3) of this section, on at least ten business days' demand made in a record received by a limited cooperative association, a member may inspect and copy during regular business hours, at the principal office or a reasonable location specified by the limited cooperative association, required information listed in RCW 23.100.0110(1) (i), (j), (l), (m), (p), and (r), if:
+
+.. The member seeks the information in good faith and for a proper purpose reasonably related to the member's interest;
+
+.. The demand includes a description with reasonable particularity of the information sought and the purpose for seeking the information;
+
+.. The information sought is directly connected to the member's purpose; and
+
+.. The demand is reasonable.
+
+. Not later than ten business days after receipt of a demand pursuant to subsection (2) of this section, a limited cooperative association shall provide, in a record, the following information to the member that made the demand:
+
+.. If the association agrees to provide the demanded information:
+
+... What information the association will provide in response to the demand; and
+
+... A reasonable time and place at which the association will provide the information; or
+
+.. If the association declines to provide some or all of the demanded information, the association's reasons for declining.
+
+. On at least ten business days' demand made in a record received by a limited cooperative association, a dissociated member may have access to information to which the person was entitled while a member if the information pertains to the period during which the person was a member, the person seeks the information in good faith, and the person satisfies the requirements imposed on a member by subsection (2) of this section. The association shall respond to a demand made pursuant to this subsection in the manner provided in subsection (3) of this section.
+
+. Not later than ten business days after receipt by a limited cooperative association of a demand made by a member in a record, but not more often than once in a six-month period, the association shall deliver to the member a record stating the information with respect to the member required by RCW 23.100.0110(1)(q).
+
+. In addition to any restriction or condition stated in its organic rules, a limited cooperative association, as a matter within the ordinary course of its activities and affairs, may impose reasonable restrictions and conditions on access to and use of information to be furnished under this section, including designating information confidential and imposing nondisclosure and safeguarding obligations on the recipient. In a dispute concerning the reasonableness of a restriction under this subsection, the association has the burden of proving reasonableness.
+
+. A limited cooperative association may charge a person that makes a demand under this section reasonable costs of copying, limited to the costs of labor and material.
+
+. A member or dissociated member may exercise rights under this section through an agent or, in the case of an individual under legal disability, a legal representative. Any restriction or condition imposed by the organic rules or under subsection (7) of this section applies both to the agent or legal representative and the member or dissociated member.
+
+. The rights stated in this section do not extend to a person as transferee.
+
+. The organic rules may require a limited cooperative association to provide more information than required by this section and may establish conditions and procedures for providing the information.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20405[2019 c 37 § 405]; ]
+
+== 23.100.0406 - Annual meeting of members.
+. Members shall meet annually at a time provided in the organic rules or set by the board of directors not inconsistent with the organic rules.
+
+. An annual members meeting may be held inside or outside this state at the place stated in the organic rules or selected by the board of directors not inconsistent with the organic rules.
+
+. [Empty]
+.. Unless the organic rules otherwise provide:
+
+... If the board of directors or another person is authorized in the bylaws to determine the place of annual meetings, the board of directors or such other person may, in the sole discretion of the board of directors or such other person, determine that an annual meeting will not involve a physical assembly of members at a particular geographic location, but instead will be held solely by means of remote communication, in accordance with (b) of this subsection.
+
+... An association may permit any or all members to participate in an annual members meeting by means of, or conduct the meeting solely through the use of, remote communication. Subject to the provisions of (b) of this subsection, participation by remote communication is to be subject to any guidelines and procedures adopted by or pursuant to the authority of the board of directors.
+
+.. If an association elects to permit participation by means of, or conduct a meeting solely through the use of, remote communication:
+
+... The notice of the meeting must specify how a member may participate in the meeting by means of remote communication.
+
+... The association must implement reasonable measures to (A) verify that each person participating remotely as a member is a member, and (B) provide each person participating remotely as a member a reasonable opportunity to participate in the meeting and to vote on matters submitted to the members, including an opportunity to read or hear the proceedings of the meeting substantially concurrently with those proceedings.
+
+... Participation in a meeting in accordance with this section constitutes presence in person at that meeting.
+
+... If the board of directors or another authorized person determines to hold an annual members meeting without a physical assembly of members in accordance with this subsection (3), all members entitled to vote at such meeting must have the opportunity to participate in the meeting by remote communication in accordance with this subsection (3).
+
+. The board of directors shall report, or cause to be reported, at the association's annual members meeting the association's business and financial condition as of the close of the most recent fiscal year.
+
+. Unless the organic rules otherwise provide, the board of directors shall designate the presiding officer of the association's annual members meeting.
+
+. Failure to hold an annual members meeting does not affect the validity of any action by the limited cooperative association.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20406[2019 c 37 § 406]; ]
+
+== 23.100.0407 - Special meeting of members.
+. A special meeting of members may be called only:
+
+.. As provided in the organic rules;
+
+.. By a majority vote of the board of directors on a proposal stating the purpose of the meeting;
+
+.. By demand in a record executed by members holding at least twenty percent of the voting power of the persons in any district or class entitled to vote on the matter that is the purpose of the meeting stated in the demand; or
+
+.. By demand in a record executed by members holding at least ten percent of the total voting power of all the persons entitled to vote on the matter that is the purpose of the meeting stated in the demand.
+
+. A demand under subsection (1)(c) or (d) of this section must be submitted to the officer of the limited cooperative association charged with keeping its records.
+
+. Any voting member may withdraw its demand under subsection (1)(c) or (d) of this section before receipt by the limited cooperative association of demands sufficient to require a special meeting of members.
+
+. A special meeting of members may be held inside or outside this state at the place stated in the organic rules or selected by the board of directors not inconsistent with the organic rules.
+
+. Unless the organic rules otherwise provide, the provisions of RCW 23.100.0406(3) apply to special meetings of members as though the special meeting of members were an annual meeting of members.
+
+. Only business within the purpose or purposes stated in the notice of a special meeting of members may be conducted at the meeting.
+
+. Unless the organic rules otherwise provide, the presiding officer of a special meeting of members shall be designated by the board of directors.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20407[2019 c 37 § 407]; ]
+
+== 23.100.0408 - Notice of members meeting.
+. A limited cooperative association shall notify each member of the time, date, and place of a members meeting at least ten and not more than one hundred twenty days before the meeting.
+
+. Unless the articles of organization otherwise provide, notice of an annual members meeting need not include any purpose of the meeting.
+
+. Notice of a special meeting of members must include each purpose of the meeting as contained in the demand under RCW 23.100.0407(1) (c) or (d) or as voted upon by the board of directors under RCW 23.100.0407(1)(b).
+
+. Notice of a members meeting must be given in a record unless oral notice is reasonable under the circumstances.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20408[2019 c 37 § 408]; ]
+
+== 23.100.0409 - Waiver of members meeting notice.
+. A member may waive notice of a members meeting before, during, or after the meeting.
+
+. A member's participation in a members meeting is a waiver of notice of that meeting unless the member objects to the meeting at the beginning of the meeting or promptly upon the member's arrival at the meeting and does not thereafter vote for or assent to action taken at the meeting.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20409[2019 c 37 § 409]; ]
+
+== 23.100.0410 - Quorum of members.
+Unless the organic rules otherwise require a greater number of members or percentage of the voting power, the voting member or members present at a members meeting constitute a quorum.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20410[2019 c 37 § 410]; ]
+
+== 23.100.0411 - Voting by patron members.
+Except as provided by RCW 23.100.0412(1), each patron member has one vote. The organic rules may allocate voting power among patron members as provided in RCW 23.100.0412(1).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20411[2019 c 37 § 411]; ]
+
+== 23.100.0412 - Allocation of voting power of patron members.
+. The organic rules may allocate voting power among patron members on the basis of one or a combination of the following:
+
+.. One member, one vote;
+
+.. Use or patronage; or
+
+.. If a patron member is a cooperative, the number of its patron members.
+
+. The organic rules may provide for the allocation of patron member voting power by districts or class, or any combination thereof.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20412[2019 c 37 § 412]; ]
+
+== 23.100.0413 - Voting by investor members.
+If the organic rules provide for investor members, each investor member has one vote, unless the organic rules otherwise provide. The organic rules may provide for the allocation of investor member voting power by class, classes, or any combination of classes.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20413[2019 c 37 § 413]; ]
+
+== 23.100.0414 - Voting requirements for members.
+If a limited cooperative association has both patron and investor members, the following rules apply:
+
+. The total voting power of all patron members may not be less than a majority of the entire voting power entitled to vote.
+
+. Action on any matter is approved only upon the affirmative vote of at least a majority of:
+
+.. All members voting at the meeting unless more than a majority is required by RCW 23.100.0301 through 23.100.0307, 23.100.1001 through 23.100.1013, or 23.100.1201 through 23.100.1204 or the organic rules; and
+
+.. Votes cast by patron members unless the organic rules require a larger affirmative vote by patron members.
+
+. The organic rules may provide for the percentage of the affirmative votes that must be cast by investor members to approve the matter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20414[2019 c 37 § 414]; ]
+
+== 23.100.0415 - Manner of voting.
+. Unless the organic rules otherwise provide, voting by a proxy at a members meeting is prohibited. This subsection does not prohibit delegate voting based on district or class.
+
+. If voting by a proxy is permitted, a patron member may appoint only another patron member as a proxy and, if investor members are permitted, an investor member may appoint only another investor member as a proxy.
+
+. The organic rules may provide for the manner of and provisions governing the appointment of a proxy.
+
+. The organic rules may provide for voting on any question by ballot delivered by mail or voting by other means on questions that are subject to vote by members.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20415[2019 c 37 § 415]; ]
+
+== 23.100.0416 - Action without a meeting.
+. Unless the organic rules require that action be taken only at a members meeting, any action that may be taken by the members may be taken without a meeting if the action is approved by members entitled to vote on the action in the aggregate not less than the minimum number of votes that would be necessary to approve that action at a meeting of which all members entitled to vote on the action were present and voted. Action may be approved by members without a meeting or a vote by means of execution of a single consent or multiple consents in a record to the action.
+
+. Consent under subsection (1) of this section may be withdrawn by a member in a record at any time before the limited cooperative association receives a consent from each member entitled to vote.
+
+. Consent to any action may specify the effective date or time of the action.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20416[2019 c 37 § 416]; ]
+
+== 23.100.0417 - Districts and delegates—Classes of members.
+. The organic rules may provide for the formation of geographic districts of patron members and:
+
+.. For the conduct of patron member meetings by districts and the election of directors at the meetings; or
+
+.. That districts may elect district delegates to represent and vote for the district at members meetings.
+
+. A delegate elected under subsection (1)(b) of this section has one vote unless voting power is otherwise allocated by the organic rules.
+
+. The organic rules may provide for the establishment of classes of members, for the preferences, rights, and limitations of the classes, and:
+
+.. For the conduct of members meetings by classes and the election of directors at the meetings; or
+
+.. That classes may elect class delegates to represent and vote for the class in members meetings.
+
+. A delegate elected under subsection (3)(b) of this section has one vote unless voting power is otherwise allocated by the organic rules.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20417[2019 c 37 § 417]; ]
+
+== 23.100.0418 - Approval of certain transactions.
+. For a limited cooperative association to approve a plan for a transaction under RCW 23.100.1301 through 23.100.1320, the plan must be approved by a majority of the board of directors, or a greater vote if required by the organic rules, and the board shall call a members meeting to consider the plan, hold the meeting not later than ninety days after approval of the plan by the board, and, subject to RCW 23.100.0419, mail or otherwise transmit or deliver in a record to each member:
+
+.. The plan, or a summary of the plan and a statement of the manner in which a copy of the plan in a record reasonably may be obtained by a member;
+
+.. A recommendation that the members approve the plan, or if the board determines that because of a conflict of interest or other circumstances it should not make a favorable recommendation, the basis for that determination;
+
+.. A statement of any condition of the board's submission of the plan to the members; and
+
+.. Notice of the meeting at which the plan will be considered, which must be given in the same manner as notice of a special meeting of members.
+
+. Subject to subsections (3) and (4) of this section, a plan must be approved by:
+
+.. At least two-thirds of the voting power of members present at a members meeting called under subsection (1) of this section; and
+
+.. If the limited cooperative association has investor members, at least a majority of the votes cast by patron members, unless the organic rules require a greater percentage vote by patron members.
+
+. The organic rules may provide that the required vote under subsection (2)(a) of this section be:
+
+.. A different fraction that is not less than a majority of members voting at the meeting;
+
+.. Measured against the voting power of all members; or
+
+.. A combination of (a) and (b) of this subsection.
+
+. The vote required under subsections (2) and (3) of this section to approve a plan may not be less than the vote required for the members of the limited cooperative association to amend the articles of organization.
+
+. A member's consent in a record to a plan must be delivered to the limited cooperative association before delivery to the secretary of state for filing of articles of merger or conversion if, as a result of the merger or conversion, the member will have interest holder liability for debts, obligations, or other liabilities that are incurred after the transaction becomes effective.
+
+. The voting requirements for districts, classes, or voting groups under RCW 23.100.0304 apply to approval of a transaction under RCW 23.100.1301 through 23.100.1320.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20418[2019 c 37 § 418]; ]
+
+== 23.100.0419 - Notice to members of consumer cooperative.
+. A consumer cooperative organized under this chapter may satisfy any provisions of this chapter requiring that certain information or materials must be set forth in a writing accompanying or contained in the notice of a meeting of its members, by:
+
+.. Posting the information or materials on an electronic network not less than thirty days prior to the meeting at which such information or materials will be considered by members; and
+
+.. Delivering to those members who are eligible to vote a notification, either in a meeting notice authorized under this chapter or in such other reasonable form as the board of directors may specify, setting forth the address of the electronic network at which and the date after which such information or materials will be posted and available for viewing by members eligible to vote, together with comprehensible instructions regarding how to obtain access to the information and materials posted on the electronic network.
+
+. A consumer cooperative that elects to post information or materials required by this chapter on an electronic network shall, at its expense, provide a copy of such information or materials in a written or other tangible medium to any member who is eligible to vote and so requests.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20419[2019 c 37 § 419]; ]
+
+== 23.100.0501 - Member's interest.
+A member's interest:
+
+. Is personal property;
+
+. Consists of:
+
+.. Governance rights;
+
+.. Financial rights; and
+
+.. The right or obligation, if any, to do business with the limited cooperative association; and
+
+. May be in certificated or uncertificated form.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20501[2019 c 37 § 501]; ]
+
+== 23.100.0502 - Patron and investor members' interests.
+. Unless the organic rules establish investor members' interests, a member's interest is a patron member's interest.
+
+. Unless the organic rules otherwise provide, if a limited cooperative association has investor members, while a person is a member of the association, the person:
+
+.. If admitted as a patron member, remains a patron member;
+
+.. If admitted as an investor member, remains an investor member; and
+
+.. If admitted as a patron member and investor member remains a patron and investor member if not dissociated in one of the capacities.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20502[2019 c 37 § 502]; ]
+
+== 23.100.0503 - Transferability of member's interest.
+. The provisions of this chapter relating to the transferability of a member's interest are subject to Title 62A RCW.
+
+. Unless the organic rules otherwise provide, a member's interest other than financial rights is not transferable.
+
+. Unless a transfer is restricted or prohibited by the organic rules, a member may transfer its financial rights in the limited cooperative association.
+
+. The terms of any restriction on transferability of financial rights must be:
+
+.. Set forth in the organic rules and the member records of the association; and
+
+.. Conspicuously noted on any certificates evidencing a member's interest.
+
+. A transferee of a member's financial rights, to the extent the rights are transferred, has the right to share in the allocation of profits or losses and to receive the distributions to the member transferring the interest to the same extent as the transferring member.
+
+. A transferee of a member's financial rights does not become a member upon transfer of the rights unless the transferee is admitted as a member by the limited cooperative association.
+
+. A limited cooperative association need not give effect to a transfer under this section until the association has notice of the transfer.
+
+. A transfer of a member's financial rights in violation of a restriction on transfer contained in the organic rules is ineffective if the intended transferee has notice of the restriction at the time of transfer.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20503[2019 c 37 § 503]; ]
+
+== 23.100.0601 - Board of directors.
+. A limited cooperative association must have a board of directors of at least three individuals, unless the association has fewer than three members. If the association has fewer than three members, the number of directors may not be fewer than the number of members.
+
+. The affairs of a limited cooperative association must be managed by, or under the direction of, the board of directors. The board may adopt policies and procedures that do not conflict with the organic rules or this chapter.
+
+. An individual is not an agent for a limited cooperative association solely by being a director.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20601[2019 c 37 § 601]; ]
+
+== 23.100.0602 - No liability as director for limited cooperative association's obligations.
+A debt, obligation, or other liability of a limited cooperative association is solely that of the association and is not a debt, obligation, or other liability of a director solely by reason of being a director. An individual is not personally liable, directly or indirectly, for an obligation of an association solely by reason of being a director.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20602[2019 c 37 § 602]; ]
+
+== 23.100.0603 - Qualifications of directors.
+. Unless the organic rules otherwise provide, and subject to subsection (3) of this section, each director of a limited cooperative association must be an individual who is a member of the association or an individual who is designated by a member that is not an individual for purposes of qualifying and serving as a director. Initial directors need not be members.
+
+. Unless the organic rules otherwise provide, a director may be an officer or employee of the limited cooperative association.
+
+. If the organic rules provide for nonmember directors, at least two-thirds of the directors must be members.
+
+. The organic rules may provide qualifications for directors in addition to those in this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20603[2019 c 37 § 603]; ]
+
+== 23.100.0604 - Election of directors and composition of board.
+. Unless the organic rules require a greater number:
+
+.. At least one-third of the directors must be patron members; and
+
+.. A majority of the board of directors must be elected exclusively by patron members.
+
+. Unless the organic rules otherwise provide, if a limited cooperative association has investor members, the directors who are not elected exclusively by patron members are elected by the investor members.
+
+. Subject to subsection (1) of this section, the organic rules may provide for the election of all or a specified number of directors by one or more districts or classes of members.
+
+. Subject to subsection (1) of this section, the organic rules may provide for the nomination or election of directors by districts or classes, directly or by district delegates.
+
+. If a class of members consists of a single member, the organic rules may provide for the member to appoint a director or directors.
+
+. Unless the organic rules otherwise provide, cumulative voting for directors is prohibited.
+
+. Except as otherwise provided by the organic rules, subsection (5) of this section, or RCW 23.100.0202, 23.100.0416, 23.100.0417, and 23.100.0609, member directors must be elected at an annual members meeting.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20604[2019 c 37 § 604]; ]
+
+== 23.100.0605 - Term of director.
+. Unless the organic rules otherwise provide, and subject to subsections (3) and (4) of this section and RCW 23.100.0202(4), the term of a director expires at the annual members meeting following the director's election or appointment. The term of a director may not exceed three years.
+
+. Unless the organic rules otherwise provide, a director may be reelected.
+
+. Except as otherwise provided in subsection (4) of this section, a director continues to serve until a successor director is elected or appointed and qualifies or the director is removed, resigns, is adjudged incompetent, or dies.
+
+. Unless the organic rules otherwise provide, a director does not serve the remainder of the director's term if the director ceases to qualify to be a director.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20605[2019 c 37 § 605]; ]
+
+== 23.100.0606 - Resignation of director.
+A director may resign at any time by giving notice in a record to the limited cooperative association. Unless the notice states a later effective date, a resignation is effective when the notice is received by the association.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20606[2019 c 37 § 606]; ]
+
+== 23.100.0607 - Removal of director.
+Unless the organic rules otherwise provide, the following rules apply:
+
+. Members may remove a director with or without cause.
+
+. A member or members holding at least ten percent of the total voting power entitled to be voted in the election of a director may demand removal of the director by one or more executed petitions submitted to the officer of the limited cooperative association charged with keeping its records.
+
+. Upon receipt of a petition for removal of a director, an officer of the association or the board of directors shall:
+
+.. Not later than thirty days following receipt of the petition by the association, mail or otherwise transmit or deliver in a record to the members entitled to vote on the removal, and to the director to be removed, notice of the meeting which complies with RCW 23.100.0408; and
+
+.. Call a special meeting of members to be held at least ten and not more than one hundred twenty days after providing the notice required by (a) of this subsection.
+
+. A director is removed if the votes in favor of removal are equal to or greater than the votes required to elect the director.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20607[2019 c 37 § 607]; ]
+
+== 23.100.0608 - Suspension of director by board.
+. A board of directors may suspend a director if, considering the director's course of conduct and the inadequacy of other available remedies, immediate suspension is necessary for the best interests of the association and the director is engaging, or has engaged, in:
+
+.. Fraudulent conduct with respect to the association or its members;
+
+.. Abuse of the position of director;
+
+.. Intentional or reckless infliction of harm on the association;
+
+.. Failure to substantially perform the duties of a director;
+
+.. Actions not in the best interests of the association;
+
+.. Behavior that is disruptive to the proceedings of the board of directors; or
+
+.. Any other behavior, act, or omission as provided by the organic rules.
+
+. A suspension under this section is effective until the next meeting of members at which directors are elected.
+
+. A director suspended under this section is, during the period of suspension, treated as though not a director.
+
+. A suspension under this section requires concurrence of two-thirds of the full membership of the board of directors, excluding the director who is the subject of the vote to suspend.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20608[2019 c 37 § 608]; ]
+
+== 23.100.0609 - Vacancy on board.
+. Unless the organic rules otherwise provide, a vacancy on the board of directors must be filled within a reasonable time by majority vote of the remaining directors.
+
+. Unless the organic rules otherwise provide, if a vacating director was elected or appointed by a class of members or a district:
+
+.. The new director must be of that class or district; and
+
+.. The selection of the director for the unexpired term must be conducted in the same manner as would the selection for that position without a vacancy.
+
+. If a member appointed a vacating director, the organic rules may provide for that member to appoint a director to fill the vacancy.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20609[2019 c 37 § 609]; ]
+
+== 23.100.0610 - Remuneration of directors.
+Unless the organic rules otherwise provide, the board of directors may set the remuneration of directors and of nondirector committee members appointed under RCW 23.100.0617(1).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20610[2019 c 37 § 610]; ]
+
+== 23.100.0611 - Meetings.
+. A board of directors shall meet at least annually and may hold meetings inside or outside this state.
+
+. Unless the organic rules otherwise provide, a board of directors may permit directors to attend or conduct board meetings through the use of any means of communication, if all directors attending the meeting can communicate with each other during the meeting.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20611[2019 c 37 § 611]; ]
+
+== 23.100.0612 - Action without meeting.
+. Unless prohibited by the organic rules, any action that may be taken by a board of directors may be taken without a meeting if each director consents in a record to the action.
+
+. Consent under subsection (1) of this section may be withdrawn by a director in a record at any time before the limited cooperative association receives consent from all directors.
+
+. A record of consent for any action under subsection (1) of this section may specify the effective date or time of the action.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20612[2019 c 37 § 612]; ]
+
+== 23.100.0613 - Meetings and notice.
+. Unless the organic rules otherwise provide, a board of directors may establish a time, date, and place for regular board meetings, and notice of the time, date, place, or purpose of those meetings is not required.
+
+. Unless the organic rules otherwise provide, notice of the time, date, and place of a special meeting of a board of directors must be given to all directors at least two days before the meeting.
+
+. The organic rules may require that the notice under subsection (2) of this section contain a statement of the purpose of the meeting, and may additionally require that the meeting be limited to the matters contained in the statement.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20613[2019 c 37 § 613]; ]
+
+== 23.100.0614 - Waiver of notice of meeting.
+. Unless the organic rules otherwise provide, a director may waive any required notice of a meeting of the board of directors in a record before, during, or after the meeting.
+
+. Unless the organic rules otherwise provide, a director's participation in a meeting is a waiver of notice of that meeting unless the director objects to the meeting at the beginning of the meeting or promptly upon the director's arrival at the meeting and does not thereafter vote in favor of or otherwise assent to the action taken at the meeting.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20614[2019 c 37 § 614]; ]
+
+== 23.100.0615 - Quorum.
+. Unless the articles of organization provide for a different number, a majority of the total number of directors specified by the organic rules constitutes a quorum for a meeting of the directors. The articles of organization may not provide for a quorum that is less than one-third of the total number of directors specified by the organic rules.
+
+. If a quorum of the board of directors is present at the beginning of a meeting, any action taken by the directors present is valid even if withdrawal of directors originally present results in the number of directors being fewer than the number required for a quorum.
+
+. A director present at a meeting but objecting to notice under RCW 23.100.0614(2) does not count toward a quorum.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20615[2019 c 37 § 615]; ]
+
+== 23.100.0616 - Voting.
+. Each director shall have one vote for purposes of decisions made by the board of directors.
+
+. Unless the organic rules provide for a greater number, the affirmative vote of a majority of directors present at a meeting is required for action by the board of directors.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20616[2019 c 37 § 616]; ]
+
+== 23.100.0617 - Committees.
+. Unless the organic rules otherwise provide, a board of directors may create one or more committees and appoint one or more individuals to serve on a committee.
+
+. Unless the organic rules otherwise provide, an individual appointed to serve on a committee of a limited cooperative association need not be a director or member.
+
+. An individual who is not a director and is serving on a committee has the same rights, duties, and obligations as a director serving on the committee.
+
+. Unless the organic rules otherwise provide, each committee of a limited cooperative association may exercise the powers delegated to it by the board of directors, but a committee may not:
+
+.. Approve allocations or distributions except according to a formula or method prescribed by the board of directors;
+
+.. Approve or propose to members action requiring approval of members; or
+
+.. Fill vacancies on the board of directors or any of its committees.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20617[2019 c 37 § 617]; ]
+
+== 23.100.0618 - Standards of conduct and liability.
+Except as otherwise provided in RCW 23.100.0620:
+
+. The discharge of the duties of a director or member of a committee of the board of directors is governed by the law applicable to directors of entities organized under Title 23B RCW; and
+
+. The liability of a director or member of a committee of the board of directors is governed by the law applicable to directors of entities organized under Title 23B RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20618[2019 c 37 § 618]; ]
+
+== 23.100.0619 - Conflict of interest.
+. The law applicable to conflicts of interest between a director of an entity organized under Title 23B RCW governs conflicts of interest between a limited cooperative association and a director or member of a committee of the board of directors.
+
+. A director does not have a conflict of interest under chapter 23.95 RCW and this chapter or the organic rules solely because the director's conduct relating to the duties of the director may further the director's own interest.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20619[2019 c 37 § 619]; ]
+
+== 23.100.0620 - Other considerations of directors.
+Unless the articles of organization otherwise provide, in considering the best interests of a limited cooperative association, a director of the association in discharging the duties of director, in conjunction with considering the long and short term interest of the association and its members, may consider any or all of:
+
+. The interest of employees, customers, and suppliers of the association;
+
+. The interest of the local, state, national, or world community in which the association operates;
+
+. The environment; and
+
+. Other cooperative principles and values that may be applied in the context of the decision.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20620[2019 c 37 § 620]; ]
+
+== 23.100.0621 - Right of director or committee member to information.
+A director or a member of a committee appointed under RCW 23.100.0617 may obtain, inspect, and copy all information regarding the state of activities and financial condition of the limited cooperative association and other information regarding the activities of the association if the information is reasonably related to the performance of the director's duties as director or the committee member's duties as a member of the committee. Information obtained in accordance with this section may not be used in any manner that would violate any duty of or to the association.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20621[2019 c 37 § 621]; ]
+
+== 23.100.0622 - Appointment and authority of officer.
+. A limited cooperative association has the officers:
+
+.. Provided in the organic rules; or
+
+.. Established by the board of directors in a manner not inconsistent with the organic rules.
+
+. The organic rules may designate or, if the organic rules do not designate, the board of directors shall designate, one of the association's officers for preparing all records required by RCW 23.100.0110 and for the authentication of records.
+
+. Unless the organic rules otherwise provide, the board of directors shall appoint the officers of the limited cooperative association.
+
+. Officers of a limited cooperative association shall perform the duties the organic rules prescribe or as authorized by the board of directors in a manner consistent with the organic rules.
+
+. The election or appointment of an officer of a limited cooperative association does not of itself create a contract between the association and the officer.
+
+. Unless the organic rules otherwise provide, an individual may simultaneously hold more than one office in a limited cooperative association.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20622[2019 c 37 § 622]; ]
+
+== 23.100.0623 - Resignation and removal of officers.
+. The board of directors may remove an officer at any time with or without cause.
+
+. An officer of a limited cooperative association may resign at any time by giving notice in a record to the association. Unless the notice specifies a later time, the resignation is effective when the notice is given.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20623[2019 c 37 § 623]; ]
+
+== 23.100.0701 - Indemnification and advancement of expenses—Insurance.
+. Indemnification and advancement of expenses of an individual who has incurred liability or is a party, or is threatened to be made a party, to litigation because of the performance of a duty to, or activity on behalf of, a limited cooperative association is governed by Title 23B RCW.
+
+. A limited cooperative association may purchase and maintain insurance on behalf of any individual against liability asserted against or incurred by the individual to the same extent and subject to the same conditions as provided by Title 23B RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20701[2019 c 37 § 701]; ]
+
+== 23.100.0801 - Members' contributions.
+Unless the organic rules establish the amount, manner, or method of determining any contribution requirements for members, the board of directors may establish the amount, manner, or other method of determining any contribution requirements for members.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20801[2019 c 37 § 801]; ]
+
+== 23.100.0802 - Contribution and validation.
+. Unless the organic rules otherwise provide, the contributions of a member to a limited cooperative association may consist of property transferred to, services performed for, or another benefit provided to the association or an agreement to transfer property to, perform services for, or provide another benefit to the association.
+
+. The receipt and acceptance of contributions and the valuation of contributions must be reflected in a limited cooperative association's records.
+
+. Unless the organic rules otherwise provide, the board of directors shall determine the value of a member's contributions received or to be received and the determination by the board of directors of valuation is conclusive for purposes of determining whether the member's contribution obligation has been met.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20802[2019 c 37 § 802]; ]
+
+== 23.100.0803 - Allocation of profits and losses.
+. The organic rules may provide for allocating profits of a limited cooperative association among members, among persons that are not members but conduct business with the association, to an unallocated account, or to any combination thereof. Unless the organic rules otherwise provide, losses of the association must be allocated in the same proportion as profits.
+
+. Unless the organic rules otherwise provide, all profits and losses of a limited cooperative association must be allocated to patron members.
+
+. If a limited cooperative association has investor members, the organic rules may not reduce the allocation to patron members to less than fifty percent of profits. For purposes of this subsection, the following rules apply:
+
+.. Amounts paid or due on contracts for the delivery to the association by patron members of products, goods, or services are not considered amounts allocated to patron members.
+
+.. Amounts paid, due, or allocated to investor members as a stated fixed return on equity are considered amounts allocated to investor members.
+
+. Unless prohibited by the organic rules, in determining the profits for allocation under subsections (1) through (3) of this section, the board of directors may first deduct and set aside a part of the profits to create or accumulate:
+
+.. An unallocated capital reserve; and
+
+.. Reasonable unallocated reserves for specific purposes, including expansion and replacement of capital assets; education, training, and cooperative development; creation and distribution of information concerning principles of cooperation; and community responsibility.
+
+. Subject to subsections (2) and (6) of this section and the organic rules, the board of directors shall allocate the amount remaining after any deduction or setting aside of profits for unallocated reserves under subsection (4) of this section:
+
+.. To patron members in the ratio of each member's patronage to the total patronage of all patron members during the period for which allocations are to be made; and
+
+.. To investor members, if any, in the ratio of each investor member's contributions to the total contributions of all investor members.
+
+. For purposes of allocation of profits and losses or specific items of profits or losses of a limited cooperative association to members, the organic rules may establish allocation units or methods based on separate classes of members or, for patron members, on class, function, division, district, department, allocation units, pooling arrangements, members' contributions, or other equitable methods.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20803[2019 c 37 § 803]; ]
+
+== 23.100.0804 - Distributions.
+. Unless the organic rules otherwise provide and subject to RCW 23.100.0806, the board of directors may authorize, and the limited cooperative association may make, distributions to members.
+
+. Unless the organic rules otherwise provide, distributions to members may be made in any form, including money, capital credits, allocated patronage equities, revolving fund certificates, and the limited cooperative association's own or other securities.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20804[2019 c 37 § 804]; ]
+
+== 23.100.0805 - Redemption or repurchase.
+Property distributed to a member by a limited cooperative association, other than money, may be redeemed or repurchased as provided in the organic rules but a redemption or repurchase may not be made without authorization by the board of directors. The board may withhold authorization for any reason in its sole discretion. A redemption or repurchase is treated as a distribution for purposes of RCW 23.100.0806.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20805[2019 c 37 § 805]; ]
+
+== 23.100.0806 - Limitations on distributions.
+. In this section, "distribution" does not include reasonable compensation for present or past services or other payments made in the ordinary course of business for commodities or goods or under a bona fide retirement or other bona fide benefits program.
+
+. A limited cooperative association may not make a distribution, including a distribution under RCW 23.100.1008, if after the distribution:
+
+.. The association would not be able to pay its debts as they become due in the ordinary course of the association's activities and affairs; or
+
+.. The association's total assets would be less than the sum of its total liabilities plus the amount that would be needed, if the association were to be dissolved and wound up at the time of the distribution, to satisfy the preferential rights upon dissolution and winding up of members whose preferential rights are superior to the rights of persons receiving the distribution.
+
+. A limited cooperative association may base a determination that a distribution is not prohibited under subsection (2) of this section on:
+
+.. Financial statements prepared on the basis of accounting practices and principles that are reasonable under the circumstances; or
+
+.. A fair valuation or other method that is reasonable under the circumstances.
+
+. Except as otherwise provided in subsection (5) of this section, the effect of a distribution allowed under subsection (2) of this section is measured:
+
+.. In the case of a distribution by purchase, redemption, or other acquisition of financial rights in the limited cooperative association, as of the earlier of:
+
+... The date money or other property is transferred or debt is incurred by the association; or
+
+... The date the person entitled to the distribution ceases to own the financial rights being acquired by the association in return for the distribution;
+
+.. In the case of any other distribution of indebtedness, as of the date the indebtedness is distributed; and
+
+.. In all other cases, as of the date:
+
+... The distribution is authorized, if the payment occurs not later than one hundred twenty days after that date; or
+
+... The payment is made, if the payment occurs more than one hundred twenty days after the distribution is authorized.
+
+. A limited cooperative association's indebtedness incurred by reason of a distribution made in accordance with this section is at parity with the association's indebtedness to its general, unsecured creditors except to the extent subordinated by agreement.
+
+. A limited cooperative association's indebtedness, including indebtedness issued as a distribution, is not a liability for purposes of subsection (2) of this section if the terms of the indebtedness provide that payment of principal and interest is made only if and to the extent that payment of a distribution could then be made under this section. If the indebtedness is issued as a distribution, each payment of principal or interest is treated as a distribution, the effect of which is measured on the date the payment is made.
+
+. In measuring the effect of a distribution under RCW 23.100.1008, the liabilities of a dissolved limited cooperative association do not include any claim that has been disposed of under RCW 23.100.1009 through 23.100.1011.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20806[2019 c 37 § 806]; ]
+
+== 23.100.0807 - Liability for improper distributions—Limitation of action.
+. A director of a limited cooperative association who votes for or assents to a distribution made in violation of RCW 23.100.0806 or the association's articles of organization is personally liable to the association for the amount of the distribution that exceeds the amount that could have been distributed without violating RCW 23.100.0806 or the articles of organization if it is established that the director did not perform the director's duties in compliance with RCW 23.100.0618. In any proceeding commenced under this section, a director has all of the defenses ordinarily available to a director.
+
+. A director held liable under subsection (1) of this section for an unlawful distribution is entitled to contribution:
+
+.. From every other director who could be held liable under subsection (1) of this section for the unlawful distribution; and
+
+.. From each member for the amount the member accepted knowing the distribution was made in violation of RCW 23.100.0806 or the articles of organization.
+
+. A member who accepts a distribution made in violation of RCW 23.100.0806 or the articles of organization is personally liable to the corporation for the amount of any distribution received by the member to the extent it exceeds the amount that could have been distributed to the member without violating RCW 23.100.0806 or the articles of organization, if it is established that the member accepted the distribution knowing that it was made in violation of RCW 23.100.0806 or the articles of organization.
+
+. A member held liable under subsection (3) of this section for an unlawful distribution is entitled to contribution from every other member who could be held liable under subsection (3) of this section for the unlawful distribution.
+
+. A proceeding under this section is barred unless it is commenced prior to the earlier of (a) the expiration of two years after the date on which the effect of the distribution was measured under RCW 23.100.0806(4), or (b) the expiration of the period specified in RCW 23.100.1010(3).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20807[2019 c 37 § 807]; ]
+
+== 23.100.0808 - Relation to state securities law.
+A patron member's interest in a limited cooperative association has the same exemption as provided for substantially similar interests in cooperatives under RCW 21.20.320(16).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20808[2019 c 37 § 808]; ]
+
+== 23.100.0809 - Alternative distribution of unclaimed property, distributions, redemptions, or payments.
+A limited cooperative association may distribute unclaimed property, distributions, redemptions, or payments under chapter 23.86 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20809[2019 c 37 § 809]; ]
+
+== 23.100.0901 - Member's dissociation.
+. A person has the power to dissociate as a member at any time, rightfully or wrongfully, by express will.
+
+. Unless the organic rules otherwise provide, a member's dissociation from a limited cooperative association is wrongful only if:
+
+.. It is in breach of an express provision of the organic rules; or
+
+.. It occurs before the termination of the limited cooperative association and:
+
+... The person is expelled as a member under subsection (4)(c) or (d) of this section; or
+
+... In the case of a person that is not an individual, trust other than a business trust, or estate, the person is expelled or otherwise dissociated as a member because it dissolved or terminated in bad faith.
+
+. Unless the organic rules otherwise provide, a person that wrongfully dissociates as a member is liable to the limited cooperative association and to the other members for damages caused by the dissociation. The liability is in addition to any other debt, obligation, or liability of the person to the association.
+
+. A member is dissociated as a member when:
+
+.. The limited cooperative association receives notice in a record of the member's express will to dissociate as a member, or if the member specifies in the notice an effective date later than the date the association received notice, on that later date;
+
+.. An event stated in the organic rules as causing the person's dissociation occurs;
+
+.. The person's entire interest is transferred in a foreclosure sale;
+
+.. The person is expelled as a member under the organic rules;
+
+.. The person is expelled as a member by the board of directors if:
+
+... It is unlawful to carry on the limited cooperative association's activities and affairs with the person as a member;
+
+... There has been a transfer of all the member's financial rights in the association, other than:
+
+(A) A transfer for security purposes; or
+
+(B) A charging order which has not been foreclosed;
+
+... The person is an unincorporated entity that has been dissolved and its activities and affairs are being wound up;
+
+... The person is a corporation or cooperative and:
+
+(A) The person filed a certificate of dissolution or the equivalent, or the jurisdiction of formation revoked the person's charter or right to conduct business;
+
+(B) The association sends a notice to the person that it will be expelled as a member for a reason described in (e)(iv)(A) of this subsection (4); and
+
+(C) Not later than ninety days after the notice was sent under (e)(iv)(B) of this subsection (4), the person did not revoke its certificate of dissolution or the equivalent, or the jurisdiction of formation did not reinstate the person's charter or right to conduct business; or
+
+.. The member is an individual and is adjudged incompetent;
+
+.. In the case of an individual, the individual dies;
+
+.. In the case of a member that is a testamentary or inter vivos trust or is acting as a member by virtue of being a trustee of a trust, the trust's entire financial rights in the limited cooperative association are distributed;
+
+.. In the case of a person that is an estate or is acting as a member by virtue of being a personal representative of an estate, the estate's entire financial interest in the association is distributed;
+
+.. In the case of a person that is not an individual, partnership, limited liability company, cooperative, corporation, trust, or estate, the existence of the person terminates; or
+
+.. The association's participation in a merger under RCW 23.100.1308 through 23.100.1313 that causes the person to cease to be a member.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20901[2019 c 37 § 901]; ]
+
+== 23.100.0902 - Effect of dissociation.
+. When a person is dissociated as a member:
+
+.. The person's right to participate as a member in the management and conduct of the limited cooperative association's activities and affairs terminates; and
+
+.. Subject to RCW 23.100.0903, any financial rights owned by the person in the person's capacity as a member immediately before dissociation are owned by the person as a transferee.
+
+. A person's dissociation as a member does not of itself discharge the person from any debt, obligation, or other liability to the limited cooperative association or the other members which the person incurred while a member.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20902[2019 c 37 § 902]; ]
+
+== 23.100.0903 - Power of legal representative of deceased member.
+If a member dies, the deceased member's legal representative may exercise for the purposes of settling the estate, the rights the deceased member had under RCW 23.100.0405.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%20903[2019 c 37 § 903]; ]
+
+== 23.100.1001 - Dissolution and winding up.
+A limited cooperative association is dissolved only as provided in this section and RCW 23.100.1002 through 23.100.1013 and upon dissolution winds up in accordance with this section and RCW 23.100.1002 through 23.100.1013.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201001[2019 c 37 § 1001]; ]
+
+== 23.100.1002 - Nonjudicial dissolution.
+Except as otherwise provided in RCW 23.100.1003 and 23.95.615, a limited cooperative association is dissolved and its activities must be wound up:
+
+. Upon the occurrence of an event or at a time specified in the articles of organization;
+
+. Upon the action of the association's organizers, board of directors, or members under RCW 23.100.1004 or 23.100.1005; or
+
+. Ninety days after the dissociation of a member, which results in the association having one patron member and no other members, unless the association:
+
+.. Has a sole member that is a cooperative; or
+
+.. Not later than the end of the ninety-day period, admits at least one member in accordance with the organic rules and has at least two members, at least one of which is a patron member.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201002[2019 c 37 § 1002]; ]
+
+== 23.100.1003 - Judicial dissolution.
+A superior court may dissolve a limited cooperative association or order any action that under the circumstances is appropriate and equitable:
+
+. In a proceeding initiated by the attorney general, if:
+
+.. The association obtained its articles of organization through fraud; or
+
+.. The association has continued to exceed or abuse the authority conferred upon it by law; or
+
+. In a proceeding initiated by a member, if:
+
+.. The directors are deadlocked in the management of the association's affairs, the members are unable to break the deadlock, and irreparable injury to the association is occurring or is threatened because of the deadlock;
+
+.. The directors or those in control of the association have acted, are acting, or will act in a manner that is illegal, oppressive, or fraudulent;
+
+.. The members are deadlocked in voting power and have failed to elect successors to directors whose terms have expired for two consecutive periods during which annual members meetings were held or were to be held; or
+
+.. The assets of the association are being misapplied or wasted.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201003[2019 c 37 § 1003]; ]
+
+== 23.100.1004 - Voluntary dissolution before commencement of activity.
+A majority of the organizers or initial directors of a limited cooperative association that has not yet begun business activity or the conduct of its affairs may dissolve the association.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201004[2019 c 37 § 1004]; ]
+
+== 23.100.1005 - Voluntary dissolution by the board and members.
+. Except as otherwise provided in RCW 23.100.1004, for a limited cooperative association to voluntarily dissolve:
+
+.. A resolution to dissolve must be approved by a majority vote of the board of directors unless a greater percentage is required by the organic rules;
+
+.. The board of directors must call a members meeting to consider the resolution, to be held not later than ninety days after adoption of the resolution; and
+
+.. Subject to RCW 23.100.0419, the board of directors must mail or otherwise transmit or deliver to each member in a record that complies with RCW 23.100.0408:
+
+... The resolution required by (a) of this subsection;
+
+... A recommendation that the members vote in favor of the resolution or, if the board determines that because of conflict of interest or other special circumstances it should not make a favorable recommendation, the basis of that determination; and
+
+... Notice of the members meeting, which must be given in the same manner as notice of a special meeting of members.
+
+. Subject to subsection (3) of this section, a resolution to dissolve must be approved by:
+
+.. At least two-thirds of the voting power of members present at a members meeting called under subsection (1)(b) of this section; and
+
+.. If the limited cooperative association has investor members, at least a majority of the votes cast by patron members, unless the organic rules require a greater percentage.
+
+. The organic rules may require that the percentage of votes under subsection (2)(a) of this section is:
+
+.. A different percentage that is not less than a majority of members voting at the meeting;
+
+.. Measured against the voting power of all members; or
+
+.. A combination of (a) and (b) of this subsection.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201005[2019 c 37 § 1005]; ]
+
+== 23.100.1006 - Winding up.
+. A dissolved limited cooperative association shall wind up its activities and affairs, and except as provided in RCW 23.100.1007, the association continues after dissolution only for the purpose of winding up.
+
+. In winding up its activities and affairs, the board of directors:
+
+.. Shall discharge the association's debts, obligations, or other liabilities, settle and close the association's activities, and marshal and distribute the assets of the association; and
+
+.. May:
+
+... Deliver to the secretary of state for filing a statement of dissolution stating the name of the association and that the association is dissolved;
+
+... Preserve the association's activities, affairs, and property as a going concern for a reasonable time;
+
+... Prosecute and defend actions and proceedings, whether civil, criminal, or administrative;
+
+... Transfer the association's property;
+
+.. Settle disputes by mediation or arbitration;
+
+.. Deliver to the secretary of state for filing a statement of termination stating the name of the company and that the company is terminated; and
+
+.. Perform other acts necessary or appropriate to the winding up.
+
+. After dissolution and upon application of a limited cooperative association, a member, or a holder of financial rights, a superior court may order judicial supervision of the winding up of the association, including the appointment of a person to wind up the association's activities, if:
+
+.. After a reasonable time, the association has not wound up its activities; or
+
+.. The applicant establishes other good cause.
+
+. If a person is appointed pursuant to subsection (3) of this section to wind up the activities of a limited cooperative association, the association shall promptly deliver to the secretary of state for filing an amendment to the articles of organization to reflect the appointment.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201006[2019 c 37 § 1006]; ]
+
+== 23.100.1007 - Rescinding dissolution.
+. A limited cooperative association may rescind its dissolution, unless a statement of termination applicable to the association is effective, a superior court has entered an order under RCW 23.100.1003 dissolving the association, or the secretary of state has dissolved the association under RCW 23.95.610.
+
+. Rescinding dissolution under this section requires:
+
+.. The affirmative vote or consent of each member;
+
+.. If a statement of dissolution applicable to the limited cooperative association has been filed by the secretary of state but has not become effective, the delivery to the secretary of state for filing of a statement of withdrawal applicable to the statement of dissolution; and
+
+.. If a statement of dissolution applicable to the limited cooperative association is effective, the delivery to the secretary of state for filing of a statement of rescission stating the name of the association and that dissolution has been rescinded under this section.
+
+. If a limited cooperative association rescinds its dissolution:
+
+.. The association resumes carrying on its activities and affairs as if dissolution had never occurred;
+
+.. Subject to (c) of this subsection, any liability incurred by the association after the dissolution and before the rescission is effective is determined as if dissolution had never occurred; and
+
+.. The rights of a third party arising out of conduct in reliance on the dissolution before the third party knew or had notice of the rescission may not be adversely affected.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201007[2019 c 37 § 1007]; ]
+
+== 23.100.1008 - Distribution of assets in winding up.
+. In winding up its activities and affairs, the limited cooperative association shall apply its assets to discharge its obligations to creditors, including members that are creditors. The association shall apply any remaining assets to pay in money the net amount distributable to members in accordance with their right to distributions under subsection (2) of this section.
+
+. Unless the organic rules otherwise provide, in this subsection "financial interests" means the amounts recorded in the names of members in the records of a limited cooperative association at the time a distribution is made, including amounts paid to become a member, amounts allocated but not distributed to members, and amounts of distributions authorized but not yet paid to members. Unless the organic rules otherwise provide, each member is entitled to a distribution from the association of any remaining assets in the proportion of the member's financial interests to the total financial interests of the members after all other obligations are satisfied.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201008[2019 c 37 § 1008]; ]
+
+== 23.100.1009 - Known claims against dissolved limited cooperative association.
+. Except as otherwise provided in subsection (4) of this section, a dissolved limited cooperative association may give notice of a known claim under subsection (2) of this section, which has the effect provided in subsection (3) of this section.
+
+. A dissolved limited cooperative association in a record may notify its known claimants of the dissolution. The notice must:
+
+.. Specify the information required to be included in a claim;
+
+.. State that a claim must be in writing and provide a mailing address to which the claim is to be sent;
+
+.. State the deadline for receipt of a claim, which may not be less than one hundred twenty days after the date the notice is received by the claimant; and
+
+.. State that the claim will be barred if not received by the deadline.
+
+. A claim against a dissolved limited cooperative association is barred if the requirements of subsection (2) of this section are met, and:
+
+.. The claim is not received by the specified deadline; or
+
+.. If the claim is timely received but rejected by the association:
+
+... The association causes the claimant to receive a notice in a record stating that the claim is rejected and will be barred unless the claimant commences an action against the association to enforce the claim not later than ninety days after the claimant receives the notice; and
+
+... The claimant does not commence the required action not later than ninety days after the claimant receives the notice.
+
+. This section does not apply to a claim based on an event occurring after the date of dissolution or a liability that on that date is contingent.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201009[2019 c 37 § 1009]; ]
+
+== 23.100.1010 - Other claims against dissolved limited cooperative association.
+. A dissolved limited cooperative association may publish notice of its dissolution and request persons having claims against the association to present them in accordance with the notice.
+
+. A notice authorized under subsection (1) of this section must:
+
+.. Be published at least once in a newspaper of general circulation in the county in this state in which the dissolved limited cooperative association's principal office is located or, if the principal office is not located in this state, in the county in which the office of the association's registered agent is or was last located;
+
+.. Describe the information required to be contained in a claim, state that the claim must be in writing, and provide a mailing address to which the claim is to be sent; and
+
+.. State that a claim against the association is barred unless an action to enforce the claim is commenced not later than three years after publication of the notice.
+
+. If a dissolved limited cooperative association publishes a notice in accordance with subsection (2) of this section, the claim of each of the following claimants is barred unless the claimant commences an action to enforce the claim against the association not later than three years after the publication date of the notice:
+
+.. A claimant that did not receive notice in a record under RCW 23.100.1009;
+
+.. A claimant whose claim was timely sent to the company but not acted on; and
+
+.. A claimant whose claim is contingent at, or based on an event occurring after, the effective date of dissolution.
+
+. A claim not barred under this section or RCW 23.100.1009 may be enforced:
+
+.. Against a dissolved limited cooperative association, to the extent of its undistributed assets; and
+
+.. Except as provided in RCW 23.100.1011, if the assets of the association have been distributed after dissolution, against a member or holder of financial rights to the extent of that person's proportionate share of the claim or the assets distributed to the person after dissolution, whichever is less, but a person's total liability for all claims under this subsection (4)(b) may not exceed the total amount of assets distributed to the person after dissolution.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201010[2019 c 37 § 1010]; ]
+
+== 23.100.1011 - Court proceedings.
+. A dissolved limited cooperative association that has published a notice under RCW 23.100.1010 may file an application with the superior court in the county where the association's principal office is located or, if the principal office is not located in this state, where the office of its registered agent is or was last located, for a determination of the amount and form of security to be provided for payment of claims that are reasonably expected to arise after the date of dissolution based on facts known to the association and:
+
+.. At the time of the application:
+
+... Are contingent; or
+
+... Have not been made known to the association; or
+
+.. Are based on an event occurring after the date of dissolution.
+
+. Security is not required for a claim that is or is reasonably anticipated to be barred under RCW 23.100.1010.
+
+. Not later than ten days after filing an application under subsection (1) of this section, the dissolved limited cooperative association shall give notice of the proceeding to each claimant holding a contingent claim known to the association.
+
+. In a proceeding under this section, the court may appoint a guardian ad litem to represent all claimants whose identities are unknown. The reasonable fees and expenses of the guardian, including all reasonable expert witness fees, must be paid by the dissolved limited cooperative association.
+
+. A dissolved limited cooperative association that provides security in the amount and form ordered by the court under subsection (1) of this section satisfies the association's obligations with respect to claims that are contingent, have not been made known to the association, or are based on an event occurring after the effective date of dissolution. Such claims may not be enforced against a member or holder of financial rights on account of assets received in liquidation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201011[2019 c 37 § 1011]; ]
+
+== 23.100.1012 - Statement of dissolution.
+. A limited cooperative association that has dissolved or is about to dissolve may deliver to the secretary of state for filing a statement of dissolution that states:
+
+.. The name of the association;
+
+.. The date the association dissolved or will dissolve; and
+
+.. Any other information the association considers relevant.
+
+. A person has notice of a limited cooperative association's dissolution on the later of:
+
+.. Ninety days after a statement of dissolution is filed; or
+
+.. The effective date stated in the statement of dissolution.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201012[2019 c 37 § 1012]; ]
+
+== 23.100.1013 - Statement of termination.
+. A dissolved limited cooperative association that has completed winding up may deliver to the secretary of state for filing a statement of termination that states:
+
+.. The name of the association;
+
+.. The date of filing of its initial articles of organization; and
+
+.. That the association is terminated.
+
+. The filing of a statement of termination does not itself terminate the limited cooperative association.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201013[2019 c 37 § 1013]; ]
+
+== 23.100.1101 - Derivative action.
+A member may maintain a derivative action against a cooperative in the same manner as a shareholder may maintain a derivative action against a corporation under Title 23B RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201101[2019 c 37 § 1101]; ]
+
+== 23.100.1201 - Disposition of assets not requiring member approval.
+Unless the articles of organization otherwise provide, member approval under RCW 23.100.1202 is not required for a limited cooperative association to:
+
+. Sell, lease, exchange, license, or otherwise dispose of all or any part of the assets of the association in the usual and regular course of business; or
+
+. Mortgage, pledge, dedicate to the repayment of indebtedness, or encumber in any way all or any part of the assets of the association whether or not in the usual and regular course of business.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201201[2019 c 37 § 1201]; ]
+
+== 23.100.1202 - Member approval of other disposition of assets.
+A sale, lease, exchange, license, or other disposition of assets of a limited cooperative association, other than a disposition described in RCW 23.100.1201, requires approval of the association's members under RCW 23.100.1203 and 23.100.1204 if the disposition leaves the association without significant continuing business activity.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201202[2019 c 37 § 1202]; ]
+
+== 23.100.1203 - Notice and action by board on disposition of assets requiring member approval.
+For a limited cooperative association to dispose of assets under RCW 23.100.1202:
+
+. A majority of the board of directors, or a greater percentage if required by the organic rules, must approve the proposed disposition; and
+
+. The board of directors must call a members meeting to consider the proposed disposition and, subject to RCW 23.100.0419, mail or otherwise transmit or deliver in a record to each member:
+
+.. The terms of the proposed disposition;
+
+.. A recommendation that the members approve the disposition, or if the board determines that because of conflict of interest or other special circumstances it should not make a favorable recommendation, the basis for that determination;
+
+.. A statement of any condition of the board's submission of the proposed disposition to the members; and
+
+.. Notice of the meeting at which the proposed disposition will be considered, which must be given in the same manner as notice of a special meeting of members.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201203[2019 c 37 § 1203]; ]
+
+== 23.100.1204 - Member action on disposition of assets.
+. Subject to subsection (2) of this section, a disposition of assets under RCW 23.100.1202 must be approved by:
+
+.. At least two-thirds of the voting power of members present at a members meeting called under RCW 23.100.1203(2); and
+
+.. If the limited cooperative association has investor members, at least a majority of the votes cast by patron members, unless the organic rules require a greater percentage vote by patron members.
+
+. The organic rules may require that the percentage of votes under subsection (1)(a) of this section is:
+
+.. A different percentage that is not less than a majority of members voting at the meeting;
+
+.. Measured against the voting power of all members; or
+
+.. A combination of (a) and (b) of this subsection.
+
+. Subject to any contractual obligations, after a disposition of assets is approved and at any time before the consummation of the disposition, a limited cooperative association may approve an amendment to the contract for disposition or the resolution authorizing the disposition or approve abandonment of the disposition:
+
+.. As provided in the contract or the resolution; and
+
+.. Except as prohibited by the resolution, with the same affirmative vote of the board of directors and of the members as was required to approve the disposition, except that approval of the members is not required to approve abandonment of the disposition.
+
+. The voting requirements for districts, classes, or voting groups under RCW 23.100.0304 apply to approval of a disposition of assets under this section and RCW 23.100.1201 through 23.100.1203.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201204[2019 c 37 § 1204]; ]
+
+== 23.100.1301 - Definitions.
+. In this section and RCW 23.100.1302 through 23.100.1320:
+
+.. "Approve" means, in the case of an entity, for its governors and interest holders to take whatever steps are necessary under the entity's organic rules, organic law, and other law to:
+
+... Propose a conversion or merger subject to this subchapter;
+
+... Adopt and approve the terms and conditions of the conversion or merger; and
+
+... Conduct any required proceedings or otherwise obtain any required votes or consents of the governors or interest holders.
+
+.. "Conversion" means a transaction authorized by RCW 23.100.1302 through 23.100.1307.
+
+.. "Converted entity" means the converting entity as it continues in existence after a conversion.
+
+.. "Converting entity" means the domestic entity that approves a plan of conversion pursuant to RCW 23.100.1303.
+
+.. "Interest holder liability" means:
+
+... Personal liability for a liability of an entity which is imposed on a person:
+
+(A) Solely by reason of the status of the person as an interest holder; or
+
+(B) By the organic rules of the entity which make one or more specified interest holders or categories of interest holders liable in their capacity as interest holders for all or specified liabilities of the entity; or
+
+... An obligation of an interest holder under the organic rules of an entity to contribute to the entity.
+
+.. "Merger" means a transaction in which two or more merging entities are combined into a surviving entity pursuant to a record filed by the secretary of state.
+
+.. "Merging entity" means an entity that is a party to a merger and exists immediately before the merger becomes effective.
+
+.. "Plan" means a plan of merger or plan of conversion.
+
+.. "Plan of conversion" means a plan under RCW 23.100.1303.
+
+.. "Plan of merger" means a plan under section RCW 23.100.1309.
+
+.. "Protected agreement" means:
+
+... A record evidencing indebtedness and any related agreement in effect on July 28, 2019;
+
+... An agreement that is binding on an entity on July 28, 2019;
+
+... The organic rules of an entity in effect on July 28, 2019; or
+
+... An agreement that is binding on any of the governors or interest holders of an entity on July 28, 2019.
+
+.. [Empty]
+... "Qualifying entity" means, except as provided in (l)(ii) of this subsection, a domestic entity:
+
+(A) Organized under chapter 23.86 RCW; or
+
+(B) Organized under chapter 24.06 RCW and taking the election provided in RCW 24.06.032(1).
+
+... "Qualifying entity" does not include an entity that is organized for the purpose of generating, purchasing, selling, marketing, transmitting, or distributing electric energy.
+
+.. "Statement of conversion" means a statement under RCW 23.100.1306.
+
+.. "Statement of merger" means a statement under RCW 23.100.1312.
+
+.. "This subchapter" means this section and RCW 23.100.1302 through 23.100.1320.
+
+. The following definitions from RCW 23.95.105 apply to this subchapter: "Domestic," "entity," "execute," "executes," and "executed," "foreign," "governor," "interest," "interest holder," "jurisdiction," "jurisdiction of formation," "organic law," "organic rules," "person," "private organic rules," "property," "public organic record," "receipt," "record," "state," "transfer," and "type of entity."
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201301[2019 c 37 § 1301]; ]
+
+== 23.100.1302 - Conversion authorized.
+By complying with this section and RCW 23.100.1303 through 23.100.1307, a domestic qualifying entity may become a domestic limited cooperative association.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201302[2019 c 37 § 1302]; ]
+
+== 23.100.1303 - Plan of conversion.
+. A qualifying entity may convert to a limited cooperative association under this subchapter by approving a plan of conversion. The plan must be in a record and contain:
+
+.. The name and type of entity of the converting entity;
+
+.. The name of the converted entity;
+
+.. The manner of converting the interests in the converting entity into interests, securities, obligations, money, other property, rights to acquire interests or securities, or any combination of the foregoing;
+
+.. The proposed public organic record of the converted entity if it will be a filing entity;
+
+.. The full text of the private organic rules of the converted entity which are proposed to be in a record;
+
+.. The other terms and conditions of the conversion; and
+
+.. Any other provision required by the law of this state or the organic rules of the converting entity.
+
+. In addition to the requirements of subsection (1) of this section, a plan of conversion may contain any other provision not prohibited by law.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201303[2019 c 37 § 1303]; ]
+
+== 23.100.1304 - Approval of conversion.
+A plan of conversion is not effective unless it has been approved:
+
+. By a converting entity:
+
+.. In accordance with the requirements, if any, in its organic rules for approval of a conversion; or
+
+.. By all of the interest holders of the entity entitled to vote on or consent to any matter if neither the entity's organic law nor the entity's organic rules provide for approval of a conversion; and
+
+. In a record, by each interest holder of a converting entity which will have interest holder liability for debts, obligations, and other liabilities that are incurred after the conversion becomes effective, unless, in the case of an entity that is not a business or nonprofit corporation:
+
+.. The organic rules of the entity provide in a record for the approval of a conversion in which some or all of its interest holders become subject to interest holder liability by the vote or consent of fewer than all the interest holders; and
+
+.. The interest holder voted for or consented in a record to that provision of the organic rules or became an interest holder after the adoption of that provision.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201304[2019 c 37 § 1304]; ]
+
+== 23.100.1305 - Amendment or abandonment of plan of conversion.
+. A plan of conversion of a converting entity may be amended:
+
+.. In the same manner as the plan was approved, if the plan does not provide for the manner in which it may be amended; or
+
+.. By its governors or interest holders in the manner provided in the plan, but an interest holder that was entitled to vote on or consent to approval of the conversion is entitled to vote on or consent to any amendment of the plan that will change:
+
+... The amount or kind of interests, securities, obligations, money, other property, rights to acquire interests or securities, or any combination of the foregoing, to be received by any of the interest holders of the converting entity under the plan;
+
+... The public organic record, if any, or private organic rules of the converted entity which will be in effect immediately after the conversion becomes effective, except for changes that do not require approval of the interest holders of the converted entity under its organic law or organic rules; or
+
+... Any other terms or conditions of the plan, if the change would adversely affect the interest holder in any material respect.
+
+. After a plan of conversion has been approved and before a statement of conversion is effective, the plan may be abandoned as provided in the plan. Unless prohibited by the plan, a converting entity may abandon the plan in the same manner as the plan was approved.
+
+. If a plan of conversion is abandoned after a statement of conversion has been delivered to the secretary of state for filing and before the statement is effective, a statement of abandonment, executed by the converting entity, must be delivered to the secretary of state for filing before the statement of conversion is effective. The statement of abandonment takes effect on filing, and the conversion is abandoned and does not become effective. The statement of abandonment must contain:
+
+.. The name of the converting entity;
+
+.. The date on which the statement of conversion was filed by the secretary of state; and
+
+.. A statement that the conversion has been abandoned in accordance with this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201305[2019 c 37 § 1305]; ]
+
+== 23.100.1306 - Statement of conversion—Effective date of conversion.
+. A statement of conversion must be executed by the converting entity and delivered to the secretary of state for filing.
+
+. A statement of conversion must contain:
+
+.. The name, jurisdiction of formation, and type of entity of the converting entity;
+
+.. The name of the converted entity;
+
+.. If the statement of conversion is not to be effective upon filing, the later date and time on which it will become effective, which may not be more than ninety days after the date of filing;
+
+.. A statement that the plan of conversion was approved in accordance with this subchapter; and
+
+.. The public organic record of the converted entity, as an attachment.
+
+. In addition to the requirements of subsection (2) of this section, a statement of conversion may contain any other provision not prohibited by law.
+
+. The public organic record of the converted entity must satisfy the requirements of the law of this state, except that the public organic record does not need to be executed and may omit any provision that is not required to be included in a restatement of the public organic record.
+
+. A plan of conversion that is executed by a converting entity and meets all the requirements of subsection (2) of this section may be delivered to the secretary of state for filing instead of a statement of conversion and on filing has the same effect. If a plan of conversion is filed as provided in this subsection, references in this subchapter to a statement of conversion refer to the plan of conversion filed under this subsection.
+
+. A statement of conversion is effective on the date and time of filing or the later date and time specified in the statement of conversion.
+
+. The conversion becomes effective when the statement of conversion is effective.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201306[2019 c 37 § 1306]; ]
+
+== 23.100.1307 - Effect of conversion.
+. When a conversion becomes effective:
+
+.. The converted entity is:
+
+... Organized under and subject to the organic law of the converted entity; and
+
+... The same entity without interruption as the converting entity;
+
+.. All property of the converting entity continues to be vested in the converted entity without transfer, reversion, or impairment;
+
+.. All debts, obligations, and other liabilities of the converting entity continue as debts, obligations, and other liabilities of the converted entity;
+
+.. Except as otherwise provided by law or the plan of conversion, all the rights, privileges, immunities, powers, and purposes of the converting entity remain in the converted entity;
+
+.. The name of the converted entity may be substituted for the name of the converting entity in any pending action or proceeding;
+
+.. If a converted entity is a filing entity, its public organic record is effective;
+
+.. The private organic rules of the converted entity which are to be in a record, if any, approved as part of the plan of conversion are effective; and
+
+.. The interests in the converting entity are converted, and the interest holders of the converting entity are entitled only to the rights provided to them under the plan of conversion and to any appraisal rights they have under the converting entity's organic law.
+
+. Except as otherwise provided in the organic law or organic rules of the converting entity, the conversion does not give rise to any rights that an interest holder, governor, or third party would have upon a dissolution, liquidation, or winding up of the converting entity.
+
+. When a conversion becomes effective, a person that did not have interest holder liability with respect to the converting entity and becomes subject to interest holder liability with respect to a domestic entity as a result of the conversion has interest holder liability only to the extent provided by the organic law of the entity and only for those debts, obligations, and other liabilities that are incurred after the conversion becomes effective.
+
+. When a conversion becomes effective, the interest holder liability of a person that ceases to hold an interest in a converting entity with respect to which the person had interest holder liability is subject to the following rules:
+
+.. The conversion does not discharge any interest holder liability under the organic law of the converting entity to the extent the interest holder liability was incurred before the conversion became effective.
+
+.. The person does not have interest holder liability under the organic law of the domestic entity for any debt, obligation, or other liability that is incurred after the conversion becomes effective.
+
+.. The organic law of the converting entity continues to apply to the release, collection, or discharge of any interest holder liability preserved under (a) of this subsection as if the conversion had not occurred.
+
+.. The person has whatever rights of contribution from any other person as are provided by other law or the organic rules of the converting entity with respect to any interest holder liability preserved under (a) of this subsection as if the conversion had not occurred.
+
+. A conversion does not require the entity to wind up its affairs and does not constitute or cause the dissolution of the entity.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201307[2019 c 37 § 1307]; ]
+
+== 23.100.1308 - Merger authorized.
+. Except as otherwise provided in this section, by complying with this section and RCW 23.100.1309 through 23.100.1313:
+
+.. One or more domestic limited cooperative associations may merge with one or more domestic cooperative associations organized under this chapter or chapter 23.86 or 24.06 RCW or with one or more foreign cooperative associations into a domestic surviving cooperative association or foreign surviving cooperative association; and
+
+.. Two or more foreign cooperative associations may merge into a domestic limited cooperative association.
+
+. Except as otherwise provided in this section, by complying with the provisions of this section and RCW 23.100.1309 through 23.100.1313 applicable to foreign cooperative associations, a foreign cooperative association may be a party to a merger under this section and RCW 23.100.1309 through 23.100.1313 or may be the surviving entity in such a merger if the merger is authorized by the law of the foreign entity's jurisdiction of formation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201308[2019 c 37 § 1308]; ]
+
+== 23.100.1309 - Plan of merger.
+. A domestic limited cooperative association may become a party to a merger under this section and RCW 23.100.1308 and 23.100.1310 through 23.100.1313 by approving a plan of merger. The plan must be in a record and contain:
+
+.. As to each merging cooperative association, its name, jurisdiction of formation, and type of cooperative association;
+
+.. If the surviving cooperative association is to be created in the merger, a statement to that effect and the association's name, jurisdiction of formation, and type of association;
+
+.. The manner of converting the interests in each party to the merger into interests, obligations, money, other property, rights to acquire interests, or any combination of the foregoing;
+
+.. If the surviving cooperative association exists before the merger, any proposed amendments to:
+
+... Its public organic record, if any; and
+
+... Its private organic rules that are, or are proposed to be, in a record;
+
+.. If the surviving cooperative association is to be created in the merger:
+
+... Its proposed public organic record, if any; and
+
+... The full text of its private organic rules that are proposed to be in a record;
+
+.. The other terms and conditions of the merger; and
+
+.. Any other provision required by the law of a merging cooperative association's jurisdiction of formation or the organic rules of a merging cooperative association.
+
+. In addition to the requirements of subsection (1) of this section, a plan of merger may contain any other provision not prohibited by law.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201309[2019 c 37 § 1309]; ]
+
+== 23.100.1310 - Approval of merger.
+. A plan of merger is not effective unless it has been approved by a domestic merging limited cooperative association as provided in RCW 23.100.0418.
+
+. A merger involving a domestic merging cooperative association that is not a limited cooperative association is not effective unless the merger is approved by that cooperative association in accordance with its organic law.
+
+. A merger involving a foreign merging cooperative association is not effective unless the merger is approved by the foreign cooperative association in accordance with the law of the foreign cooperative association's jurisdiction of formation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201310[2019 c 37 § 1310]; ]
+
+== 23.100.1311 - Amendment or abandonment of plan of merger.
+. A plan of merger may be amended only with the consent of each party to the plan, except as otherwise provided in the plan.
+
+. A domestic merging limited cooperative association may approve an amendment of a plan of merger:
+
+.. In the same manner as the plan was approved, if the plan does not provide for the manner in which it may be amended; or
+
+.. By its directors or members in the manner provided in the plan, but a member that was entitled to vote on or consent to approval of the merger is entitled to vote on or consent to any amendment of the plan that will change:
+
+... The amount or kind of interests, obligations, money, other property, rights to acquire interests, or any combination of the foregoing, to be received by the members of any party to the plan;
+
+... The public organic record, if any, or private organic rules of the surviving cooperative association that will be in effect immediately after the merger becomes effective, except for changes that do not require approval of the interest holders of the surviving cooperative association under its organic law or organic rules; or
+
+... Any other terms or conditions of the plan, if the change would adversely affect the members in any material respect.
+
+. After a plan of merger has been approved and before a statement of merger is effective, the plan may be abandoned as provided in the plan. Unless prohibited by the plan, a domestic merging limited cooperative association may abandon the plan in the same manner as the plan was approved.
+
+. If a plan of merger is abandoned after a statement of merger has been delivered to the secretary of state for filing and before the statement is effective, a statement of abandonment, signed by a party to the plan, must be delivered to the secretary of state for filing before the statement of merger is effective. The statement of abandonment takes effect on filing, and the merger is abandoned and does not become effective. The statement of abandonment must contain:
+
+.. The name of each party to the plan of merger;
+
+.. The date on which the statement of merger was filed by the secretary of state; and
+
+.. A statement that the merger has been abandoned in accordance with this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201311[2019 c 37 § 1311]; ]
+
+== 23.100.1312 - Statement of merger—Effective date of merger.
+. A statement of merger must be signed by each merging entity and delivered to the secretary of state for filing.
+
+. A statement of merger must contain:
+
+.. The name, jurisdiction of formation, and type of cooperative association of each merging cooperative association that is not the surviving entity;
+
+.. The name, jurisdiction of formation, and type of entity of the surviving cooperative association;
+
+.. If the statement of merger is not to be effective upon filing, the later date and time on which it will become effective, which may not be more than ninety days after the date of filing;
+
+.. A statement that the merger was approved by each domestic merging cooperative association, if any, in accordance with this section and RCW 23.100.1308 through 23.100.1311 and 23.100.1313 and by each foreign merging entity, if any, in accordance with the law of its jurisdiction of formation;
+
+.. If the surviving cooperative association exists before the merger and is a domestic cooperative association, any amendment to its public organic record approved as part of the plan of merger;
+
+.. If the surviving entity is created by the merger and is a domestic cooperative association, its public organic record, as an attachment;
+
+.. If the surviving entity is a foreign cooperative association that is not a registered foreign cooperative association, a mailing address to which the secretary of state may send any process served on the secretary of state pursuant to RCW 23.100.1313(5).
+
+. In addition to the requirements of subsection (2) of this section, a statement of merger may contain any other provision not prohibited by law.
+
+. If the surviving entity is a domestic cooperative association, its public organic record, if any, must satisfy the requirements of the law of this state, except that the public organic record does not need to be signed and may omit any provision that is not required to be included in a restatement of the public organic record.
+
+. A plan of merger that is signed by all the merging cooperative associations and meets all the requirements of subsection (2) of this section may be delivered to the secretary of state for filing instead of a statement of merger and on filing has the same effect. If a plan of merger is filed as provided in this subsection, references in this subchapter to a statement of merger refer to the plan of merger filed under this subsection.
+
+. A statement of merger is effective on the date and time of filing or the later date and time specified in the statement of merger.
+
+. If the surviving entity is a domestic limited cooperative association, the merger becomes effective when the statement of merger is effective. If the surviving entity is a foreign cooperative association, the merger becomes effective on the later of:
+
+.. The date and time provided by the organic law of the surviving cooperative association; or
+
+.. When the statement is effective.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201312[2019 c 37 § 1312]; ]
+
+== 23.100.1313 - Effect of merger.
+. When a merger under this section and RCW 23.100.1308 through 23.100.1312 becomes effective:
+
+.. The surviving cooperative association continues or comes into existence;
+
+.. Each merging cooperative association that is not the surviving cooperative association ceases to exist;
+
+.. All property of each merging cooperative association vests in the surviving cooperative association without transfer, reversion, or impairment;
+
+.. All debts, obligations, and other liabilities of each merging cooperative association are debts, obligations, and other liabilities of the surviving cooperative association;
+
+.. Except as otherwise provided by law or the plan of merger, all the rights, privileges, immunities, powers, and purposes of each merging cooperative association vest in the surviving cooperative association;
+
+.. If the surviving cooperative association exists before the merger:
+
+... All its property continues to be vested in it without transfer, reversion, or impairment;
+
+... It remains subject to all its debts, obligations, and other liabilities; and
+
+... All its rights, privileges, immunities, powers, and purposes continue to be vested in it;
+
+.. The name of the surviving cooperative association may be substituted for the name of any merging cooperative association that is a party to any pending action or proceeding;
+
+.. If the surviving cooperative association exists before the merger:
+
+.. Its public organic record, if any, is amended to the extent provided in the statement of merger; and
+
+... Its private organic rules that are to be in a record, if any, are amended to the extent provided in the plan of merger;
+
+... If the surviving cooperative association is created by the merger, its private organic rules are effective and its public organic record is effective; and
+
+.. The interests in each merging cooperative association which are to be converted in the merger are converted, and the interest holders of those interests are entitled only to the rights provided to them under the plan of merger and to any appraisal rights they have under the merging cooperative association's organic law.
+
+. Except as otherwise provided in the organic law or organic rules of a merging cooperative association, a merger under this section and RCW 23.100.1308 through 23.100.1312 does not give rise to any rights that an interest holder, governor, or third party would have upon a dissolution, liquidation, or winding up of the merging entity.
+
+. When a merger under this section and RCW 23.100.1308 through 23.100.1312 becomes effective, a person that did not have interest holder liability with respect to any of the merging cooperative associations and becomes subject to interest holder liability with respect to a domestic entity as a result of the merger has interest holder liability only to the extent provided by the organic law of that entity and only for those debts, obligations, and other liabilities that are incurred after the merger becomes effective.
+
+. When a merger becomes effective, the interest holder liability of a person that ceases to hold an interest in a domestic merging limited cooperative association with respect to which the person had interest holder liability is subject to the following rules:
+
+.. The merger does not discharge any interest holder liability under the organic law of the domestic merging cooperative association to the extent the interest holder liability was incurred before the merger became effective.
+
+.. The person does not have interest holder liability under the organic law of the domestic merging cooperative association for any debt, obligation, or other liability that is incurred after the merger becomes effective.
+
+.. The organic law of the domestic merging cooperative association continues to apply to the release, collection, or discharge of any interest holder liability preserved under (a) of this subsection as if the merger had not occurred.
+
+.. The person has whatever rights of contribution from any other person as are provided by law other than this subchapter or the organic rules of the domestic merging limited cooperative association with respect to any interest holder liability preserved under (a) of this subsection as if the merger had not occurred.
+
+. When a merger under this section and RCW 23.100.1308 through 23.100.1312 becomes effective, a foreign entity that is the surviving entity may be served with process in this state for the collection and enforcement of any debts, obligations, or other liabilities of a domestic merging limited cooperative association in accordance with applicable law.
+
+. When a merger under this section and RCW 23.100.1308 through 23.100.1312 becomes effective, the registration to do business in this state of any foreign merging cooperative association that is not the surviving entity is canceled.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201313[2019 c 37 § 1313]; ]
+
+== 23.100.1314 - Relationship to other laws.
+. This subchapter does not authorize an act prohibited by, and does not affect the application or requirements of, law other than this subchapter.
+
+. A conversion effected under this subchapter may not create or impair a right, duty, or obligation of a person under the statutory law of this state relating to a change in control, takeover, business combination, control-share acquisition, or similar transaction involving a domestic merging, acquired, or converting cooperative association unless the approval of the plan is by a vote of the members or directors which would be sufficient to create or impair the right, duty, or obligation directly under the law.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201314[2019 c 37 § 1314]; ]
+
+== 23.100.1315 - Charitable assets.
+Property held for a charitable purpose under the law of this state by a domestic or foreign cooperative association immediately before a conversion or merger under this subchapter becomes effective may not, as a result of the conversion or merger, be diverted from the objects for which it was donated, granted, devised, or otherwise transferred unless, to the extent required by or pursuant to the law of this state concerning cy pres or other law dealing with nondiversion of charitable assets, the entity obtains an appropriate order of the attorney general specifying the disposition of the property.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201315[2019 c 37 § 1315]; ]
+
+== 23.100.1316 - Status of filings.
+A filing under this subchapter executed by a domestic cooperative association becomes part of the public organic record of the cooperative association if the cooperative association's organic law provides that similar filings under that law become part of the public organic record of the cooperative association.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201316[2019 c 37 § 1316]; ]
+
+== 23.100.1317 - Nonexclusivity.
+The fact that a conversion or merger under this subchapter produces a certain result does not preclude the same result from being accomplished in any other manner permitted by law other than this subchapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201317[2019 c 37 § 1317]; ]
+
+== 23.100.1318 - Reference to external facts.
+A plan may refer to facts ascertainable outside the plan if the manner in which the facts will operate upon the plan is specified in the plan. The facts may include the occurrence of an event or a determination or action by a person, whether or not the event, determination, or action is within the control of a party to the conversion or merger.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201318[2019 c 37 § 1318]; ]
+
+== 23.100.1319 - Alternative means of approval of conversion or merger.
+Except as otherwise provided in the organic law or organic rules of a domestic cooperative association, approval of a conversion or merger under this subchapter by the affirmative vote or consent of all its interest holders satisfies the requirements of this subchapter for approval of the conversion or merger.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201319[2019 c 37 § 1319]; ]
+
+== 23.100.1320 - Subjects covered.
+The following subjects are covered in whole or in part in chapter 23.95 RCW:
+
+. Delivery of record;
+
+. Filing with secretary of state;
+
+. Name of entity;
+
+. Registered agent of entity; and
+
+. Miscellaneous provisions, including reservation or power to amend or repeal and supplemental principles of law.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201320[2019 c 37 § 1320]; ]
+
+== 23.100.1501 - Uniformity of application and construction—2019 c 37.
+In applying and construing this uniform act, consideration must be given to the need to promote uniformity of the law with respect to its subject matter among states that enact it.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201501[2019 c 37 § 1501]; ]
+
+== 23.100.1502 - Relation to electronic signatures in global and national commerce act.
+This chapter modifies, limits, and supersedes the electronic signatures in global and national commerce act, 15 U.S.C. Section [Sec.] 7001 et seq., but does not modify, limit, or supersede section 101(c) of that act, 15 U.S.C. Section [Sec.] 7001(c) or authorize electronic delivery of any of the notices described in section 103(b) of that act, 15 U.S.C. Section [Sec.] 7003(b).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201502[2019 c 37 § 1502]; ]
+
+== 23.100.1503 - Savings—2019 c 37.
+This act does not affect an action commenced, or proceeding brought, or right accrued before July 28, 2019.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5002.SL.pdf?cite=2019%20c%2037%20§%201503[2019 c 37 § 1503]; ]
+

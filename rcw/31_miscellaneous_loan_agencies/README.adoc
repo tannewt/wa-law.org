@@ -1,0 +1,10 @@
+= 31 MISCELLANEOUS LOAN AGENCIES
+
+* link:31.04_consumer_loan_act.adoc[31.04 - Consumer loan act.]
+* link:31.12_washington_state_credit_union_act.adoc[31.12 - Washington state credit union act.]
+* link:31.13_corporate_credit_unions.adoc[31.13 - Corporate credit unions.]
+* link:31.20_development_credit_corporations.adoc[31.20 - Development credit corporations.]
+* link:31.24_industrial_development_corporations.adoc[31.24 - Industrial development corporations.]
+* link:31.35_agricultural_lenders—loan_guaranty_program.adoc[31.35 - Agricultural lenders—Loan guaranty program.]
+* link:31.40_federally_guaranteed_small_business_loans.adoc[31.40 - Federally guaranteed small business loans.]
+* link:31.45_check_cashers_and_sellers.adoc[31.45 - Check cashers and sellers.]

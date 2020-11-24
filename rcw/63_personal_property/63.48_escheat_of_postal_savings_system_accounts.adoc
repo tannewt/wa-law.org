@@ -1,0 +1,39 @@
+= 63.48 - Escheat of postal savings system accounts.
+:toc:
+
+== 63.48.010 - Accounts presumed abandoned and to escheat to state.
+All postal savings system accounts created by the deposits of persons whose last known addresses are in the state which have not been claimed by the persons entitled thereto before May 1, 1971, are presumed to have been abandoned by their owners and are declared to escheat and become the property of this state.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c68.pdf?cite=1971%20ex.s.%20c%2068%20§%201[1971 ex.s. c 68 § 1]; ]
+
+== 63.48.020 - Director to request federal records.
+The director of revenue shall request from the bureau of accounts of the United States treasury department records providing the following information: The names of depositors at the post offices of this state whose accounts are unclaimed, their last addresses as shown by the records of the post office department, and the balance in each account. He or she shall agree to return to the bureau of accounts promptly all account cards showing last addresses in another state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20185[2012 c 117 § 185]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c68.pdf?cite=1971%20ex.s.%20c%2068%20§%202[1971 ex.s. c 68 § 2]; ]
+
+== 63.48.030 - Escheat proceedings brought in Thurston county.
+The director of revenue may bring proceedings in the superior court for Thurston county to escheat unclaimed postal savings system accounts held by the United States treasury. A single proceeding may be used to escheat as many accounts as may be available for escheat at one time.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c68.pdf?cite=1971%20ex.s.%20c%2068%20§%203[1971 ex.s. c 68 § 3]; ]
+
+== 63.48.040 - Notice to depositors whose accounts are to be escheated.
+The director of revenue shall notify depositors whose accounts are to be escheated as follows:
+
+. A letter advising that a postal savings system account in the name of the addressee is about to be escheated and setting forth the procedure by which a deposit may be claimed shall be mailed by first-class mail to the named depositor at the last address shown on the account records for each account to be escheated having an unpaid principal balance of more than twenty-five dollars.
+
+. A general notice of intention to escheat postal savings system accounts shall be published once in each of three successive weeks in one or more newspapers which combine to provide general circulation throughout this state.
+
+. A special notice of intention to escheat the unclaimed postal savings system accounts originally deposited in each post office must be published once in each of three successive weeks in a newspaper published in the county in which the post office is located or, if there is none, in a newspaper having general circulation in the county. This notice must list the names of the owners of each unclaimed account to be escheated having a principal balance of three dollars or more.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c68.pdf?cite=1971%20ex.s.%20c%2068%20§%204[1971 ex.s. c 68 § 4]; ]
+
+== 63.48.050 - Copy of judgment presented for payment—Disposition of proceeds.
+The director of revenue shall present a copy of each final judgment of escheat to the United States treasury department for payment of the principal due and the interest computed under regulations of the United States treasury department. The payment received shall be deposited in the general fund in the state treasury.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c68.pdf?cite=1971%20ex.s.%20c%2068%20§%205[1971 ex.s. c 68 § 5]; ]
+
+== 63.48.060 - Indemnification for losses as result of escheat proceedings—Source.
+This state shall indemnify the United States for any losses suffered as a result of the escheat of unclaimed postal savings system accounts. The burden of the indemnification falls upon the fund into which the proceeds of the escheated accounts have been paid.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c68.pdf?cite=1971%20ex.s.%20c%2068%20§%206[1971 ex.s. c 68 § 6]; ]
+

@@ -1,0 +1,6 @@
+= 28C VOCATIONAL EDUCATION
+
+* link:28C.04_vocational_education.adoc[28C.04 - Vocational education.]
+* link:28C.10_private_vocational_schools.adoc[28C.10 - Private vocational schools.]
+* link:28C.18_workforce_training_and_education.adoc[28C.18 - Workforce training and education.]
+* link:28C.30_career_connected_learning.adoc[28C.30 - Career connected learning.]

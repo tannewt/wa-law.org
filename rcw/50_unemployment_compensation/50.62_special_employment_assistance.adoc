@@ -1,0 +1,87 @@
+= 50.62 - Special employment assistance.
+:toc:
+
+== 50.62.010 - Legislative findings.
+The legislature finds and declares that:
+
+. The number of persons unemployed in the state is significantly above the national average.
+
+. Persons who are unemployed represent a skilled resource to the economy and the quality of life for all persons in the state.
+
+. There are jobs available in the state that can be filled by unemployed persons.
+
+. A public labor exchange can appreciably expedite the employment of unemployed job seekers and filling employer vacancies thereby contributing to the overall health of the state and national economies.
+
+. The Washington state job service of the employment security department has provided a proven service of assisting persons to find employment for the past fifty years.
+
+. Expediting the reemployment of unemployment insurance claimants will reduce payment of claims drawn from the state unemployment insurance trust fund.
+
+. Increased emphasis on assisting in the reemployment of claimants and monitoring claimants' work search efforts will positively impact employer tax rates resulting from the recently enacted experience rating legislation, chapter 205, Laws of 1984.
+
+. Special employment service efforts are necessary to adequately serve agricultural employers who have unique needs in the type of workers, recruitment efforts, and the urgency of obtaining sufficient workers.
+
+. Study and research of issues related to employment and unemployment provides economic information vital to the decision-making process.
+
+. Older workers and the long-term unemployed experience greater difficulty finding new employment at wages comparable to their prelayoff earnings relative to all unemployment insurance claimants who return to work.
+
+. After a layoff, older unemployed workers and the long-term unemployed workers fail to find unemployment insurance-covered employment at a much higher rate than other groups of unemployment insurance claimants.
+
+The legislature finds it necessary and in the public interest to have a program of job service to assist persons drawing unemployment insurance claims to find employment, to provide employment assistance to the agricultural industry, and to conduct research into issues related to employment and unemployment.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c284.pdf?cite=1987%20c%20284%20§%201[1987 c 284 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c171.pdf?cite=1987%20c%20171%20§%201[1987 c 171 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985ex1c5.pdf?cite=1985%20ex.s.%20c%205%20§%201[1985 ex.s. c 5 § 1]; ]
+
+== 50.62.020 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Job service" means the employment assistance program of the employment security department;
+
+. "Employment assistance" means services to unemployed persons focused on and measured by the obtaining of employment;
+
+. "Labor exchange" means those activities which match labor supply and labor demand, including recruitment, screening, and referral of qualified workers to employers;
+
+. "Special account of the administrative contingency fund" means that fund under RCW 50.24.014 established within the administrative contingency fund of the employment security department which provides revenue for the purposes of this chapter.
+
+. "Continuous wage and benefit history" means an information and research system utilizing a longitudinal database containing information on both employment and unemployment.
+
+. "Long-term unemployed" means demographic groups of unemployment insurance claimants identified by the employment security department pursuant to RCW 50.62.040(1)(e) which have the highest percentages of persons who have drawn at least fifteen weeks of unemployment insurance benefits or have the highest percentage of persons who have exhausted their unemployment insurance benefits.
+
+. "Older unemployed workers" means unemployment insurance claimants who are at least fifty years of age.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c284.pdf?cite=1987%20c%20284%20§%202[1987 c 284 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985ex1c5.pdf?cite=1985%20ex.s.%20c%205%20§%202[1985 ex.s. c 5 § 2]; ]
+
+== 50.62.030 - Job service program or activity—Enrollment in self-employment assistance or entrepreneurial training programs.
+. Job service resources must be used to assist with the reemployment of unemployed workers using the most efficient and effective means of service delivery. The job service program of the employment security department may undertake any program or activity for which funds are available and which furthers the goals of this chapter. These programs and activities must include, but are not limited to:
+
+.. Giving older unemployed workers and the long-term unemployed the highest priority for all services made available under this section. The employment security department must make the services provided under this chapter available to the older unemployed workers and the long-term unemployed as soon as they register under the employment assistance program;
+
+.. Supplementing basic employment services, with special job search and claimant placement assistance designed to assist unemployment insurance claimants to obtain employment;
+
+.. Providing employment services, such as recruitment, screening, and referral of qualified workers, to agricultural areas where these services have in the past contributed to positive economic conditions for the agricultural industry; and
+
+.. Providing otherwise unobtainable information and analysis to the legislature and program managers about issues related to employment and unemployment.
+
+. Individuals who are eligible for services under the federal workforce innovation and opportunity act, P.L. 113-128 or its successor, must be provided the opportunity to enroll in self-employment assistance or entrepreneurial training programs to prepare them for self-employment on the same basis as they are provided the opportunity to enroll in other training programs funded under the federal workforce innovation and opportunity act. The department must work with local workforce development councils to ensure that the contracting process with training providers is efficient and that the number of entrepreneurial training providers on the state's eligible training provider list is sufficient to meet demand. Each local workforce development council must:
+
+.. Notify all individuals eligible for services under the workforce innovation and opportunity act of the availability of self-employment assistance and entrepreneurial training; and
+
+.. Establish and implement a plan for expending workforce innovation and opportunity act funds on self-employment assistance and entrepreneurial training at a rate that is commensurate with either the demand for such services or the rate of self-employment within the council's workforce development area.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5237.SL.pdf?cite=2017%20c%2039%20§%2010[2017 c 39 § 10]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6289.SL.pdf?cite=2012%20c%2040%20§%204[2012 c 40 § 4]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1063.SL.pdf?cite=1995%20c%20135%20§%204[1995 c 135 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c284.pdf?cite=1987%20c%20284%20§%203[1987 c 284 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c171.pdf?cite=1987%20c%20171%20§%202[1987 c 171 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985ex1c5.pdf?cite=1985%20ex.s.%20c%205%20§%203[1985 ex.s. c 5 § 3]; ]
+
+== 50.62.040 - Annual report—Wage and benefit history.
+. Each year the employment security department may publish an annual report on the unemployed based on research conducted on the continuous wage and benefit history and other sources that identifies:
+
+.. The demographic groups of unemployment insurance claimants that experience the greatest difficulty finding new employment with wages comparable to their prelayoff earnings;
+
+.. The demographic groups of unemployment insurance claimants that have the highest rates of failure to find unemployment insurance covered-employment after a layoff;
+
+.. The demographic, industry, and employment characteristics of the unemployment insurance claimant population most closely associated with the exhaustion of an unemployment claim;
+
+.. The demographic, industry, and employment characteristics of those locked-out workers who are eligible for unemployment compensation under RCW 50.20.090; and
+
+.. The demographic groups which are defined as the "long-term unemployed" for purposes of this chapter. This listing shall be updated each year.
+
+. The employment security department shall continue to fund the continuing wage and benefit history at a level necessary to produce the annual report described in subsection (1) of this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6219.SL.pdf?cite=1998%20c%20245%20§%20102[1998 c 245 § 102]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c284.pdf?cite=1987%20c%20284%20§%204[1987 c 284 § 4]; ]
+

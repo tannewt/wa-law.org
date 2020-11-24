@@ -1,0 +1,38 @@
+= 70.03 - Medical records—Providing information to patients.
+:toc:
+
+== 70.03.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Department" means the department of health.
+
+. "Health care entity" means an entity that supervises, controls, grants privileges to, directs the practice of, or directly or indirectly restricts the practice of, a health care provider.
+
+. "Health care provider" has the same meaning as in RCW 70.02.010.
+
+. "Medically accurate" means information that is verified or supported by research in compliance with scientific methods, is published in peer-reviewed journals, where appropriate, and is recognized as accurate and objective by professional organizations and agencies with expertise in the relevant field.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1608-S.SL.pdf?cite=2020%20c%20102%20§%201[2020 c 102 § 1]; ]
+
+== 70.03.020 - Providing medical information to patients.
+. If a health care provider is acting in good faith, within the provider's scope of practice, education, training, and experience, including specialty areas of practice and board certification, and within the accepted standard of care, a health care entity may not:
+
+.. Limit the health care provider's provision of:
+
+... Medically accurate and comprehensive information and counseling to a patient regarding the patient's health status including, but not limited to, diagnosis, prognosis, recommended treatment, treatment alternatives, and any potential risks to the patient's health or life; and
+
+... Information about available services and about what relevant resources are available in the community and how to access those resources for obtaining the care of the patient's choice;
+
+.. Limit the health care provider's provision of information about and regarding Washington's death with dignity act, chapter 70.245 RCW, information about what relevant resources are available in the community, and how to access those resources for obtaining the care of the patient's choice.
+
+. A health care entity may not discharge, demote, suspend, discipline, or otherwise discriminate against a health care provider for providing information in compliance with this section.
+
+. If any part of this section is found to be in conflict with federal requirements which are a prescribed condition to the receipts of federal funds to the state, the conflicting part of this section is inoperative solely to the extent of the conflict with respect to the agencies directly affected, and such finding or determination shall not affect the operation of the remainder of the section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1608-S.SL.pdf?cite=2020%20c%20102%20§%202[2020 c 102 § 2]; ]
+
+== 70.03.030 - Information for health care providers and staff.
+A health care entity must provide the information prepared by the department under RCW 43.70.810(1) at the time of hiring, contracting with, or privileging health care providers and staff, and on a yearly basis thereafter. Hospitals must also provide information to clearly inform health care providers and staff of the provisions of the federal emergency medical treatment and labor act (42 U.S.C. Sec. 1395dd), including obligations to screen, stabilize, and transfer patients, at the time of hiring, contracting with, or privileging health care providers and staff, and on a yearly basis thereafter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1608-S.SL.pdf?cite=2020%20c%20102%20§%203[2020 c 102 § 3]; ]
+

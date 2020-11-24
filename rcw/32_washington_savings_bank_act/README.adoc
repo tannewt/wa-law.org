@@ -1,0 +1,16 @@
+= 32 WASHINGTON SAVINGS BANK ACT
+
+* link:32.04_general_provisions.adoc[32.04 - General provisions.]
+* link:32.08_organization_and_powers.adoc[32.08 - Organization and powers.]
+* link:32.12_deposits—earnings—dividends—interest.adoc[32.12 - Deposits—Earnings—Dividends—Interest.]
+* link:32.16_officers_and_employees.adoc[32.16 - Officers and employees.]
+* link:32.20_investments.adoc[32.20 - Investments.]
+* link:32.24_insolvency_and_liquidation.adoc[32.24 - Insolvency and liquidation.]
+* link:32.28_satellite_facilities.adoc[32.28 - Satellite facilities.]
+* link:32.30_conversion_of_mutual_savings_bank_to_building_and_loan_or_savings_and_loan_association.adoc[32.30 - Conversion of mutual savings bank to building and loan or savings and loan association.]
+* link:32.32_conversion_of_mutual_savings_bank_to_capital_stock_savings_bank.adoc[32.32 - Conversion of mutual savings bank to capital stock savings bank.]
+* link:32.34_merger_consolidation_conversion_etc.adoc[32.34 - Merger, consolidation, conversion, etc.]
+* link:32.35_stock_savings_banks.adoc[32.35 - Stock savings banks.]
+* link:32.40_community_credit_needs.adoc[32.40 - Community credit needs.]
+* link:32.50_supervisory_direction_by_the_director_of_financial_institutions.adoc[32.50 - Supervisory direction by the director of financial institutions.]
+* link:32.98_construction.adoc[32.98 - Construction.]

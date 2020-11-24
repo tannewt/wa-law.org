@@ -1,0 +1,369 @@
+= 15.53 - Commercial feed.
+:toc:
+
+== 15.53.901 - Definitions.
+The definitions set forth in this section apply throughout this chapter.
+
+. "Brand name" means a word, name, symbol, or device, or any combination thereof, identifying the commercial feed of a distributor or registrant and distinguishing it from that of others.
+
+. "Commercial feed" means all materials or combination of materials that are distributed or intended for distribution for use as feed or for mixing in feed, unless such materials are specifically exempted. Unmixed whole seeds and physically altered entire unmixed seeds, when such whole seeds or physically altered seeds are not chemically changed or not adulterated within the meaning of RCW 15.53.902, are exempt. The department by rule may exempt from this definition, or from specific provisions of this chapter, commodities such as hay, straw, stover, silage, cobs, husks, hulls, and individual chemical compounds or substances when such commodities, compounds, or substances are not intermixed with other materials, and are not adulterated within the meaning of RCW 15.53.902.
+
+. "Contract feeder" means a person who is an independent contractor and feeds commercial feed to animals pursuant to a contract whereby such commercial feed is supplied, furnished, or otherwise provided to such person and whereby such person's remuneration is determined all or in part by feed consumption, mortality, profits, or amount or quality of product.
+
+. "Customer-formula feed" means commercial feed that consists of a mixture of commercial feeds or feed ingredients, or both, each batch of which is manufactured according to the instructions of the final purchaser.
+
+. "Department" means the department of agriculture of the state of Washington or its duly authorized representative.
+
+. "Director" means the director of the department or a duly authorized representative.
+
+. "Distribute" means to offer for sale, sell, exchange or barter, commercial feed; or to supply, furnish, or otherwise provide commercial feed to a contract feeder.
+
+. "Distributor" means a person who distributes.
+
+. "Drug" means an article intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease in animals other than people and articles, other than feed intended to affect the structure or a function of the animal body.
+
+. "Facility" means any place where a commercial feed is manufactured, repackaged, sold, transloaded, or stored for later distribution.
+
+. "Feed ingredient" means each of the constituent materials making up a commercial feed.
+
+. "Final purchaser" means a person who purchases commercial feed to feed to animals in his or her care.
+
+. "Initial distributor" means a person who first distributes a commercial feed in or into this state.
+
+. "Label" means a display of written, printed, or graphic matter upon or affixed to the container in which a commercial feed is distributed, or on the invoice or delivery slip with which a commercial feed is distributed.
+
+. "Labeling" means all labels and other written, printed, or graphic matter: (a) Upon a commercial feed or any of its containers or wrappers; or (b) accompanying such commercial feed.
+
+. "Licensee" means a person who holds a commercial feed license as prescribed in this chapter.
+
+. "Manufacture" means to grind, mix or blend, or further process a commercial feed for distribution.
+
+. "Medicated feed" means a commercial feed containing a drug or other medication.
+
+. "Mineral feed" means a commercial feed intended to supply primarily mineral elements or inorganic nutrients.
+
+. "Official sample" means a sample of feed taken by the department, obtained and analyzed as provided in RCW 15.53.9024 (3), (5), or (6).
+
+. "Percent" or "percentage" means percentage by weight.
+
+. "Person" means an individual, firm, partnership, corporation, or association.
+
+. "Pet" means a domesticated animal normally maintained in or near the household of the owner of the pet.
+
+. "Pet food" means a commercial feed prepared and distributed for consumption by pets.
+
+. "Product name" means the name of the commercial feed that identifies it as to kind, class, or specific use.
+
+. "Responsible buyer" means a licensee who is not the final purchaser of a commercial feed and has agreed to be responsible for reporting tonnage and paying inspection fees for all commercial feeds they distribute.
+
+. "Retail" means to distribute to the final purchaser.
+
+. "Sell" or "sale" includes exchange.
+
+. "Specialty pet" means a domesticated animal pet normally maintained in a cage or tank, such as, but not limited to, gerbils, hamsters, canaries, psittacine birds, mynahs, finches, tropical fish, goldfish, snakes, and turtles.
+
+. "Specialty pet food" means a commercial feed prepared and distributed for consumption by specialty pets.
+
+. "Ton" means a net weight of two thousand pounds avoirdupois.
+
+. "Transload" means to transfer commercial feed from one carrier to another carrier without processing or blending the ingredients, for example, transferred from railcar to trucks or shipping containers.
+
+. "Quantity statement" means the net weight (mass), net volume (liquid or dry), or count.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1086.SL.pdf?cite=2005%20c%2018%20§%201[2005 c 18 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5315-S.SL.pdf?cite=1995%20c%20374%20§%2033[1995 c 374 § 33]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c177.pdf?cite=1982%20c%20177%20§%201[1982 c 177 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c257.pdf?cite=1975%201st%20ex.s.%20c%20257%20§%203[1975 1st ex.s. c 257 § 3]; 1965 ex.s. c 31 § 2. Prior acts on this subject: 1961 c 11 §§ 15.53.010 through  15.53.900; 1953 c 80 §§ 1-35; ]
+
+== 15.53.9012 - Administration and administrative rules.
+. The department shall administer, enforce and carry out the provisions of this chapter and may adopt rules necessary to carry out its purpose. In adopting such rules, the director shall consider (a) the official definitions of feed ingredients and official feed terms adopted by the association of American feed control officials and published in the official publication of that organization; and (b) any regulation adopted pursuant to the authority of the federal food, drug, and cosmetic act (21 U.S.C. Sec. 301, et seq.), if the department would have the authority under this chapter to adopt the regulations. The adoption of rules shall be subject to a public hearing and all other applicable provisions of chapter 34.05 RCW (Administrative Procedure Act).
+
+. The director when adopting rules in respect to the feed industry shall consult with affected parties, such as manufacturers and distributors of commercial feed and any final rule adopted shall be designed to promote orderly marketing and shall be reasonable and necessary and based upon the requirements and condition of the industry and shall be for the purpose of promoting the well-being of the members of the feed industry as well as the well-being of the purchasers and users of feed and for the general welfare of the people of the state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5315-S.SL.pdf?cite=1995%20c%20374%20§%2034[1995 c 374 § 34]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c31.pdf?cite=1965%20ex.s.%20c%2031%20§%203[1965 ex.s. c 31 § 3]; ]
+
+== 15.53.9013 - Commercial feed license—Required—Exemptions—Application—Fees—Renewal—Denial or cancellation for noncompliance—Violation—Penalty—Rules.
+. Except as provided under subsection (2) of this section, any person: (a) Who manufactures a commercial feed in this state; (b) who distributes a commercial feed in or into this state; or (c) whose name appears on a commercial feed label as guarantor, must first obtain from the department a commercial feed license for each facility that distributes in or into this state.
+
+. The following persons are exempt from the requirement of a commercial feed license:
+
+.. Any person who makes only retail sales of commercial feed which bears labeling or other approved indication that the commercial feed is from a licensed manufacturer, guarantor, or distributor who has assumed full responsibility for reporting and paying the inspection fee due under chapter 18, Laws of 2005;
+
+.. Any person distributing only pet food or specialty pet food;
+
+.. Any person distributing food processing by-products from fruit, vegetable, or potato processing plants, freezing or dehydrating facilities, or juice or jelly preserving plants, except that the distribution of by-products or products of sugar refineries are not exempt from the requirement of a commercial feed license; and
+
+.. Any person distributing bona fide experimental feed on which accurate records and experimental programs are maintained.
+
+. Application for a commercial feed license must be made annually on forms provided by the department and must be accompanied by a fee of fifty dollars.
+
+. The commercial feed license expires on June 30th of each year. The application and fee for a commercial feed license renewal is due July 1st of each year. If a completed application and appropriate fee is not received by July 1st, a late renewal fee of fifty dollars per facility will be assessed in addition to the license fee and must be paid by the applicant before the renewal license is issued. A late renewal fee will not apply if the applicant furnishes an affidavit that he or she has not distributed a commercial feed subsequent to the expiration of his or her prior license. The assessment of the late renewal fee will not prevent the department from taking other action as provided for in this chapter.
+
+. An application for a commercial feed license must include:
+
+.. The name and mailing address of the applicant;
+
+.. The physical address of the facility;
+
+.. The name, contact information, and signature of the applicant; and
+
+.. Other information required by the department by rule.
+
+. The department may deny a license application if the applicant is not in compliance with this chapter or applicable rules, and may cancel a license if the licensee is not in compliance with this chapter or applicable rules. Prior to denial or cancellation of a license, the department shall provide notice and an opportunity to correct deficiencies. If an applicant or licensee fails to correct the deficiency, the department shall deny or cancel the license. If aggrieved by the decision, the applicant or licensee may request a hearing as authorized under chapter 34.05 RCW.
+
+. Notwithstanding the payment of a late renewal fee, it is a violation to distribute a commercial feed by an unlicensed person, and nothing in this chapter prevents the department from imposing a penalty authorized by this chapter for the violation.
+
+. The department may under conditions specified by rule, request submission of labels and labeling in order to determine compliance with the provisions of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1086.SL.pdf?cite=2005%20c%2018%20§%202[2005 c 18 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5315-S.SL.pdf?cite=1995%20c%20374%20§%2035[1995 c 374 § 35]; ]
+
+== 15.53.9014 - Registration of pet food and specialty pet food—Exemption—Application—Renewal—Fees—Denial or cancellation for noncompliance—Violation—Penalty.
+. A person may not distribute in this state a pet food or specialty pet food that has not been registered by the department.
+
+. All applications for registration must be submitted on forms provided by the department and must include:
+
+.. The name and mailing address of the applicant;
+
+.. The physical address of the applicant;
+
+.. The name, contact information, and signature of the applicant;
+
+.. Indication of the package sizes distributed for each product; and
+
+.. Other information required by the department by rule.
+
+. An application for registration must be accompanied by a label and other applicable printed matter describing the product and the following fees:
+
+.. Twenty-two dollars per product for those products distributed only in packages of ten pounds or more;
+
+.. Ninety dollars per product for those products distributed in packages of less than ten pounds; or
+
+.. Ninety dollars per product for those products distributed both in packages of less than ten pounds and packages of ten pounds or more.
+
+. Registrations are issued by the department for a two-year period beginning on July 1st of a given year and ending twenty-four months later on July 1st, except that registrations issued to a registrant who applies to register an additional product during the last twelve months of the registrant's period expire on the next July 1st.
+
+. A distributor is not required to register a pet food or specialty pet food that is already registered under this chapter, as long as it is distributed with the original label.
+
+. Changes in the guarantee of either chemical or ingredient composition of a pet food or specialty pet food registered under this chapter may be permitted if there is satisfactory evidence that such changes would not result in a lowering of the feed value of the product for the purpose for which it was designed.
+
+. The department may deny registration of any pet food or speciality pet food not in compliance with this chapter and its rules. The department may cancel any registration subsequently found to be not in compliance with this chapter and its rules. Prior to denial or cancellation of a registration, the applicant or registrant of an existing registered pet food or specialty pet food must be notified of the reasons and given an opportunity to amend the application to comply. If the applicant does not make the necessary corrections, the department will deny or cancel the registration. The applicant or registrant of an existing registered pet food or specialty pet food may request a hearing as provided for in chapter 34.05 RCW.
+
+. Application for renewal of registration is due July 1st of each registration period. If an application for renewal is not received by the department by the due date, a late fee of twenty dollars per product is added to the original fee and must be paid by the applicant before the renewal registration may be issued. A late fee will not apply if the applicant furnishes an affidavit that he or she has not distributed this feed subsequent to the expiration of the prior registration. Payment of a late fee does not prevent the department from imposing a penalty authorized by this chapter for the violation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1086.SL.pdf?cite=2005%20c%2018%20§%204[2005 c 18 § 4]; 2005 c 18 § 3; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5315-S.SL.pdf?cite=1995%20c%20374%20§%2036[1995 c 374 § 36]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5983.SL.pdf?cite=1993%20sp.s.%20c%2019%20§%202[1993 sp.s. c 19 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c177.pdf?cite=1982%20c%20177%20§%202[1982 c 177 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c257.pdf?cite=1975%201st%20ex.s.%20c%20257%20§%204[1975 1st ex.s. c 257 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c31.pdf?cite=1965%20ex.s.%20c%2031%20§%204[1965 ex.s. c 31 § 4]; ]
+
+== 15.53.9015 - Responsible buyer status—Application—Removal—List.
+. To become a responsible buyer, a commercial feed licensee must apply for responsible buyer status on forms provided by the department. The application must include:
+
+.. The name and mailing address of the licensee;
+
+.. The physical address of the licensee;
+
+.. The name, contact information, and signature of the applicant; and
+
+.. Other information required by the department by rule.
+
+. To be removed from responsible buyer status, the licensee must notify the department in writing. The licensee is not released from responsible buyer status until the department notifies the licensee in writing of such release.
+
+. The department will maintain a current list of all responsible buyers and make the list available on request.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1086.SL.pdf?cite=2005%20c%2018%20§%205[2005 c 18 § 5]; ]
+
+== 15.53.9016 - Labeling—Required information—Recordkeeping—Rules.
+. Any commercial feed, except a customer-formula feed, distributed in this state must be accompanied by a legible label bearing the following information:
+
+.. The product name and the brand name, if any, under which the commercial feed is distributed.
+
+.. The guaranteed analysis stated in such terms as the department by rule determines is required to advise the user of the composition of the feed or to support claims made in the labeling. In all cases the substances or elements must be determinable by laboratory methods such as the methods published by the association of official analytical chemists.
+
+.. The common or usual name of each ingredient used in the manufacture of the commercial feed, except as the department may, by regulation, permit the use of a collective term for a group of ingredients all of which perform the same function. An ingredient statement is not required for single standardized ingredient feeds which are officially defined.
+
+.. The name and principal mailing address of the manufacturer or the person responsible for distributing the commercial feed.
+
+.. Adequate directions for use for all commercial feeds containing drugs and for all such other commercial feeds as the department may require by rule as necessary for their safe and effective use.
+
+.. Those precautionary statements the department by rule determines are necessary for the safe and effective use of the commercial feed.
+
+.. The net weight as required under chapter 19.94 RCW.
+
+. When a commercial feed, except a customer-formula feed, is distributed in this state in bags or other containers, the label must be placed on or affixed to the container; when a commercial feed, except a customer-formula feed, is distributed in bulk the label must accompany delivery and be furnished to the purchaser at time of delivery.
+
+. A customer-formula feed must be labeled by shipping document. The shipping document, which is to accompany delivery and be supplied to the purchaser at the time of delivery, must bear the following information:
+
+.. Name and address of the manufacturer;
+
+.. Name and address of the purchaser;
+
+.. Date of delivery;
+
+.. Product name and the net weight as required under chapter 19.94 RCW;
+
+.. Adequate directions for use for all customer-formula feeds containing drugs and for such other feeds as the department may require by rule as necessary for their safe and effective use;
+
+.. The directions for use and precautionary statements as required by subsection (1)(e) and (f) of this section; and
+
+.. If a drug containing product is used:
+
+... The purpose of the medication (claim statement);
+
+... The established name of each active drug ingredient and the level of each drug used in the final mixture expressed in accordance with rules established by the department.
+
+. The product name and quantity statement of each commercial feed and each other ingredient used in the customer formula feed must be on file at the plant producing the product. These records must be kept on file for one year after the last sale. This information must be made available to the purchaser, the dealer making the sale, and the department on request.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1086.SL.pdf?cite=2005%20c%2018%20§%206[2005 c 18 § 6]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5315-S.SL.pdf?cite=1995%20c%20374%20§%2037[1995 c 374 § 37]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c31.pdf?cite=1965%20ex.s.%20c%2031%20§%205[1965 ex.s. c 31 § 5]; ]
+
+== 15.53.9018 - Semiannual report required—Inspection fees—Reports—Late fees—Confidentiality.
+. Every registrant or licensee must file a semiannual report on forms provided by the department setting forth the number of tons of commercial feed distributed in or into this state. The report must be filed regardless of the amount of feed distributed or inspection fees owed. The report must include:
+
+.. The name and mailing address of the registrant or licensee;
+
+.. The physical address of the registrant or licensee;
+
+.. The name, contact information, and signature of the person filing the report;
+
+.. The total number of tons distributed in or into this state;
+
+.. The total number of tons on which the registrant or licensee is paying;
+
+.. If the registrant or licensee is not paying inspection fees on all commercial feed he or she distributed in or into this state, information regarding the registrants or licensees that are responsible for paying the inspection fees and the number of tons involved; and
+
+.. Other information required by the department by rule.
+
+. Except as provided in subsections (3) through (5) of this section, each initial distributor or responsible buyer must pay to the department an inspection fee on all commercial feed distributed by such person during the reporting period. The inspection fee must accompany the report required in subsection (1) of this section. The inspection fee shall be not less than four cents nor more than twelve cents per ton as prescribed by the department by rule. These fees shall be used for enforcement and administration of this chapter and its rules.
+
+. The initial distributor is not required to pay an inspection fee for commercial feed he or she distributed to a responsible buyer.
+
+. In a situation where a responsible buyer is distributing to another responsible buyer, the inspection fee must be paid by the last responsible buyer to distribute the commercial feed.
+
+. The initial distributor or responsible buyer is not required to pay an inspection fee for: (a) Pet food and specialty pet food distributed in packages weighing less than ten pounds; (b) distribution of bona fide experimental feeds on which accurate records and experimental programs are maintained; (c) commercial feed distributed to points outside this state; and (d) food processing by-products from fruit, vegetable, or potato processing plants, freezing or dehydrating facilities, or juice or jelly preserving plants.
+
+. Tonnage will be reported and inspection fees will be paid on (a) by-products or products of sugar refineries; and (b) materials used in the preparation of pet foods and specialty pet food.
+
+. [Empty]
+.. Each person made responsible by this chapter for filing a report or paying inspection fees must do so according to the following schedule:
+
+... For the period January 1st through June 30th of each year, the report and inspection fees are due on July 31st of that year; and
+
+... For the period July 1st through December 31st of each year, the report and inspection fees are due on January 31st of the following year.
+
+.. If a complete report is not received by the due date or the appropriate inspection fees are not received by the due date, the person responsible for filing the report or paying the inspection fee must pay a late fee equal to fifteen percent of the inspection fee owed or fifty dollars, whichever is greater.
+
+.. The department may cancel the registration of a person's commercial feed or may cancel a person's commercial feed license if that person fails to pay the late fee. The applicant or licensee may request a hearing as authorized under chapter 34.05 RCW.
+
+. If inspection fees are owed, the minimum inspection fee is twelve dollars and fifty cents.
+
+. For the purpose of verifying the accuracy of reports and payment of appropriate inspection fees, the department may examine, at reasonable times, a registrant's or licensee's distribution records and may require each registrant or licensee to maintain records or file additional reports. These records must be maintained in usable condition by the registrant or licensee for a period of three years unless by rule this retention period is extended and must be submitted to the department upon request.
+
+. The report required by subsection (1) of this section shall not be a public record, and any information given in such report which would reveal the business operation of the person making the report is exempt from public disclosure under chapter 42.56 RCW, and information obtained by the department from other governmental agencies or other sources that is used to verify information received in the report is exempt from public disclosure under chapter 42.56 RCW. However, this subsection does not prevent the use of information concerning the business operation of a person if any action, suit, or proceeding instituted under the authority of this chapter, including any civil action for collection of unpaid inspection fees, which action is hereby authorized and which shall be as an action at law in the name of the director of the department.
+
+. Any commercial feed obtained by a consumer or contract feeder outside the jurisdiction of this state and brought into this state for use is subject to all the provisions of this chapter, including inspection fees.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2520.SL.pdf?cite=2006%20c%20209%20§%202[2006 c 209 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1086.SL.pdf?cite=2005%20c%2018%20§%207[2005 c 18 § 7]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5315-S.SL.pdf?cite=1995%20c%20374%20§%2038[1995 c 374 § 38]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c177.pdf?cite=1982%20c%20177%20§%203[1982 c 177 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c297.pdf?cite=1981%20c%20297%20§%2017[1981 c 297 § 17]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c91.pdf?cite=1979%20c%2091%20§%201[1979 c 91 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c257.pdf?cite=1975%201st%20ex.s.%20c%20257%20§%205[1975 1st ex.s. c 257 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c240.pdf?cite=1967%20c%20240%20§%2032[1967 c 240 § 32]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c31.pdf?cite=1965%20ex.s.%20c%2031%20§%206[1965 ex.s. c 31 § 6]; ]
+
+== 15.53.902 - Adulteration—Definition—Unlawful to distribute.
+It is unlawful for any person to distribute an adulterated feed. A commercial feed is deemed to be adulterated:
+
+. If it bears or contains any poisonous or deleterious substance which may render it injurious to health; but in case the substance is not an added substance, such commercial feed shall not be considered adulterated under this subsection if the quantity of such substance in such commercial feed does not ordinarily render it injurious to health; or
+
+. If it bears or contains any added poisonous, added deleterious, or added nonnutritive substance which is unsafe within the meaning of section 406 of the federal food, drug, and cosmetic act (other than one which is (a) a pesticide chemical in or on a raw agricultural commodity; or (b) a food additive); or
+
+. If it is, or it bears, or contains any food additive which is unsafe within the meaning of section 409 of the federal food, drug, and cosmetic act (21 U.S.C. Sec. 348); or
+
+. If it is ruminant feed and is, bears, or contains any animal protein prohibited in ruminant feed that is unsafe within the meaning of federal regulations promulgated under section 409 of the federal food, drug, and cosmetic act (21 U.S.C. Sec. 348); or
+
+. If it is a raw agricultural commodity and it bears or contains a pesticide chemical which is unsafe within the meaning of section 408(a) of the federal food, drug, and cosmetic act: PROVIDED, That where a pesticide chemical has been used in or on a raw agricultural commodity in conformity with an exemption granted or a tolerance prescribed under section 408 of the federal food, drug, and cosmetic act and such raw agricultural commodity has been subjected to processing such as canning, cooking, freezing, dehydrating, or milling, the residue of such pesticide chemical remaining in or on such processed feed shall not be deemed unsafe if such residue in or on the raw agricultural commodity has been removed to the extent possible in good manufacturing practice and the concentration of such residue in the processed feed is not greater than the tolerance prescribed for the raw agricultural commodity unless the feeding of such processed feed will result or is likely to result in a pesticide residue in the edible product of the animal, which is unsafe within the meaning of section 408(a) of the federal food, drug, and cosmetic act; or
+
+. If it is, or it bears or contains any color additive which is unsafe within the meaning of section 721 of the federal food, drug, and cosmetic act (21 U.S.C. Sec. 379e); or
+
+. If it is, or it bears or contains any new animal drug that is unsafe within the meaning of section 512 of the federal food, drug, and cosmetic act (21 U.S.C. Sec. 360b); or
+
+. If any valuable constituent has been in whole or in part omitted or abstracted therefrom or any less valuable substance substituted therefor; or
+
+. If its composition or quality falls below or differs from that which it is purported or is represented to possess by its labeling; or
+
+. If it contains a drug and the methods used in or the facilities or controls used for its manufacture, processing, or packaging do not conform to current good manufacturing practice rules adopted by the department to assure that the drug meets the requirements of this chapter as to safety and has the identity and strength and meets the quality and purity characteristics that it purports or is represented to possess. In adopting such rules, the department shall adopt the current good manufacturing practice regulations for type A medicated articles and type B and type C medicated feeds established under authority of the federal food, drug, and cosmetic act, unless the department determines that they are not appropriate to the conditions that exist in this state; or
+
+. If it contains viable, prohibited (primary) noxious weed seeds in excess of one per pound, or if it contains viable, restricted (secondary) noxious weed seeds in excess of twenty-five per pound. The primary and secondary noxious weed seeds shall be those as named pursuant to the provisions of chapter 15.49 RCW and rules adopted thereunder.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5631-S.SL.pdf?cite=2012%20c%2025%20§%202[2012 c 25 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5190-S.SL.pdf?cite=2005%20c%2040%20§%201[2005 c 40 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5315-S.SL.pdf?cite=1995%20c%20374%20§%2039[1995 c 374 § 39]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c177.pdf?cite=1982%20c%20177%20§%204[1982 c 177 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c154.pdf?cite=1979%20c%20154%20§%202[1979 c 154 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c31.pdf?cite=1965%20ex.s.%20c%2031%20§%207[1965 ex.s. c 31 § 7]; ]
+
+== 15.53.9022 - Misbranding—Definition—Unlawful to distribute.
+It shall be unlawful for any person to distribute misbranded feed. A commercial feed shall be deemed to be misbranded:
+
+. If its labeling is false or misleading in any particular;
+
+. If it is distributed under the name of another commercial feed;
+
+. If it is not labeled as required in RCW 15.53.9016 and in rules prescribed under this chapter;
+
+. If it purports to be or is represented as a commercial feed, or if it purports to contain or is represented as containing a commercial feed or feed ingredient, unless such commercial feed or feed ingredient conforms to the definition of identity, if any, prescribed by rule of the department. In the adopting of such rules the department may consider commonly accepted definitions such as those issued by nationally recognized associations or groups of feed control officials;
+
+. If any word, statement, or other information required by or under authority of this chapter to appear on the label or labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
+
+. If its composition or quality falls below or differs from that which it is purported or is represented to possess by its labeling.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5315-S.SL.pdf?cite=1995%20c%20374%20§%2040[1995 c 374 § 40]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c31.pdf?cite=1965%20ex.s.%20c%2031%20§%208[1965 ex.s. c 31 § 8]; ]
+
+== 15.53.9024 - Inspections of facilities, vehicles, equipment, etc.—Verification of records and procedures—Notice—Official samples—Warrants authorized.
+. For the purpose of enforcement of this chapter, and in order to determine whether its provisions have been complied with, including whether an operation is subject to such provisions, inspectors duly designated by the director, upon presenting appropriate credentials, and a written notice to the owner, operator, or agent in charge, are authorized (a) to enter, during normal business hours, any facility within the state in which commercial feeds are manufactured, transloaded, processed, packed, distributed, or held for distribution, or to enter a vehicle being used to transport or hold such feeds; and (b) to inspect at reasonable times and within reasonable limits and in a reasonable manner, the facilities, or vehicles and all pertinent equipment, finished and unfinished materials, containers, labeling, and records. The inspection may include the verification of only such records, and production and control procedures as may be necessary to determine compliance with this chapter and its rules.
+
+. A separate notice shall be given for each such inspection, but a notice is not required for each entry made during the period covered by the inspection. Each such inspection shall be commenced and completed with reasonable promptness. Upon completion of the inspection, the person in charge of the facility or vehicle shall be so notified.
+
+. If the inspector or employee making such inspection of a facility or vehicle has obtained a sample in the course of the inspection, upon completion of the inspection and prior to leaving the premises, he or she shall give to the owner, operator, or agent in charge, a receipt describing the samples obtained.
+
+. If the owner of a facility or vehicle described in subsection (1) of this section, or his or her agent, refuses to admit the director or his or her agent to inspect in accordance with subsections (1) and (2) of this section, the director or his or her agent is authorized to obtain from any court of competent jurisdiction a warrant directing such owner or his or her agent to submit the premises described in the warrant to inspection.
+
+. For the enforcement of this chapter, the director or his or her duly assigned agent is authorized to enter upon any public or private premises including any vehicle of transport during regular business hours to have access to, and to obtain samples, and to examine records relating to distribution of commercial feeds.
+
+. Sampling and analysis shall be conducted in accordance with methods published by the association of official analytical chemists, or in accordance with other generally recognized methods.
+
+. The results of all analyses of official samples shall be forwarded by the department to the person named on the label and to the purchaser, if known. If the inspection and analysis of an official sample indicates a commercial feed has been adulterated or misbranded and upon request within thirty days following the receipt of the analysis, the department shall furnish to the registrant or licensee a portion of the sample concerned. If referee analysis is requested, a portion of the official sample shall be furnished by the department and shall be sent directly to an independent lab agreed to by all parties.
+
+. The department, in determining for administrative purposes whether a feed is deficient in any component, shall be guided solely by the official sample as defined in RCW 15.53.901(20) and obtained and analyzed as provided for in this section.
+
+. Analysis of an official sample by the department shall be accepted as prima facie evidence by any court of competent jurisdiction.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1086.SL.pdf?cite=2005%20c%2018%20§%208[2005 c 18 § 8]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5315-S.SL.pdf?cite=1995%20c%20374%20§%2041[1995 c 374 § 41]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c31.pdf?cite=1965%20ex.s.%20c%2031%20§%209[1965 ex.s. c 31 § 9]; ]
+
+== 15.53.9038 - Department's remedies for noncompliance—"Withdrawal from distribution" order—Condemnation—Seizure.
+. When the department has reasonable cause to believe that any lot of commercial feed is adulterated or misbranded or is being distributed in violation of this chapter or any rules hereunder it may issue and enforce a written or printed "withdrawal from distribution" order, or "stop sale" order, warning the distributor not to dispose of the lot of feed in any manner until written permission is given by the department. The department shall release the lot of commercial feed so withdrawn when the provisions and rules have been complied with. If compliance is not obtained within thirty days, parties may agree to an alternative disposition in writing or the department may institute condemnation proceedings in a court of competent jurisdiction.
+
+. Any lot of commercial feed not in compliance with the provisions and rules is subject to seizure on complaint of the department to a court of competent jurisdiction in the area in which the commercial feed is located. If the court finds the commercial feed to be in violation of this chapter and orders the condemnation of the commercial feed, it shall be disposed of in any manner consistent with the quality of the commercial feed and the laws of the state. The court shall first give the claimant an opportunity to apply to the court for release of the commercial feed or for permission to process or relabel the commercial feed to bring it into compliance with this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5315-S.SL.pdf?cite=1995%20c%20374%20§%2042[1995 c 374 § 42]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c177.pdf?cite=1982%20c%20177%20§%205[1982 c 177 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c257.pdf?cite=1975%201st%20ex.s.%20c%20257%20§%207[1975 1st ex.s. c 257 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c31.pdf?cite=1965%20ex.s.%20c%2031%20§%2016[1965 ex.s. c 31 § 16]; ]
+
+== 15.53.904 - Department's remedies for noncompliance—Classification of crimes—Prosecutions—Injunctions.
+. Any person convicted of violating any of the provisions of this chapter or the rules and regulations issued thereunder or who shall impede, obstruct, hinder, or otherwise prevent or attempt to prevent the department in the performance of its duty in connection with the provisions of this chapter, shall be adjudged guilty of a misdemeanor as provided in RCW 9A.20.021. In all prosecutions under this chapter involving the composition of a lot of commercial feed, a certified copy of the official analysis signed by the department shall be accepted as prima facie evidence of the composition.
+
+. Any person convicted of intentionally violating RCW 15.53.902(4) or the rules issued thereunder is guilty of a gross misdemeanor as provided in RCW 9A.20.021.
+
+. Nothing in this chapter shall be construed as requiring the department to report for prosecution or for the institution of seizure proceedings as a result of minor violations of this chapter when it believes that the public interest will be best served by a suitable notice of warning in writing.
+
+. It shall be the duty of each prosecuting attorney to whom any violation is reported to cause appropriate proceedings to be instituted and prosecuted in a court of competent jurisdiction without delay. Before the department reports a violation for such prosecution, an opportunity shall be given the distributor to present the distributor's view in writing or orally to the department.
+
+. The department is hereby authorized to apply for and the court to grant a temporary or permanent injunction restraining any person from violating or continuing to violate any of the provisions of this chapter or any rule or regulation promulgated under this chapter notwithstanding the existence of other remedies at law. Said injunction to be issued without bond.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5190-S.SL.pdf?cite=2005%20c%2040%20§%202[2005 c 40 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c31.pdf?cite=1965%20ex.s.%20c%2031%20§%2017[1965 ex.s. c 31 § 17]; ]
+
+== 15.53.9042 - Department to publish distribution information, production data, and analyses comparison.
+The department shall publish at least annually, in such forms as it may deem proper, information concerning the distribution of commercial feed, together with such data on their production and use as it may consider advisable, and a report of the results of the analyses of official samples of commercial feed within the state as compared with the analyses guaranteed on the label or as calculated from the invoice data for customer-formula feeds: PROVIDED, That the information concerning production and use of commercial feeds shall not disclose the operations of any person.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5315-S.SL.pdf?cite=1995%20c%20374%20§%2043[1995 c 374 § 43]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c31.pdf?cite=1965%20ex.s.%20c%2031%20§%2018[1965 ex.s. c 31 § 18]; ]
+
+== 15.53.9044 - Disposition of moneys.
+All moneys collected under this chapter shall be paid to the director and deposited in an account within the agricultural local fund. Such deposits shall be used only in the administration and enforcement of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1086.SL.pdf?cite=2005%20c%2018%20§%209[2005 c 18 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c254.pdf?cite=1988%20c%20254%20§%205[1988 c 254 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c257.pdf?cite=1975%201st%20ex.s.%20c%20257%20§%208[1975 1st ex.s. c 257 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c31.pdf?cite=1965%20ex.s.%20c%2031%20§%2019[1965 ex.s. c 31 § 19]; ]
+
+== 15.53.9046 - Cooperation with other entities.
+The director may cooperate with and enter into agreements with governmental agencies of this state, other states, agencies of the federal government and private associations in order to carry out the purpose and provisions of this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c31.pdf?cite=1965%20ex.s.%20c%2031%20§%2024[1965 ex.s. c 31 § 24]; ]
+
+== 15.53.9048 - Chapter is cumulative.
+The provisions of this chapter shall be cumulative and nonexclusive and shall not affect any other remedy.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c31.pdf?cite=1965%20ex.s.%20c%2031%20§%2020[1965 ex.s. c 31 § 20]; ]
+
+== 15.53.9056 - Short title.
+This chapter shall be known as the "Washington Commercial Feed Law."
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c31.pdf?cite=1965%20ex.s.%20c%2031%20§%201[1965 ex.s. c 31 § 1]; ]
+

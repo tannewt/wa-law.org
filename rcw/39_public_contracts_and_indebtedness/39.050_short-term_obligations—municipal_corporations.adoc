@@ -1,0 +1,57 @@
+= 39.50 - Short-term obligations—Municipal corporations.
+:toc:
+
+== 39.50.010 - Definitions.
+As used in this chapter, the following terms have the meanings indicated unless the context clearly requires otherwise.
+
+. "Governing body" means the legislative authority of a municipal corporation by whatever name designated;
+
+. "Local improvement district" includes local improvement districts, utility local improvement districts, road improvement districts, and other improvement districts that a municipal corporation is authorized by law to establish;
+
+. "Municipal corporation" means any city, town, county, water-sewer district, school district, port district, public utility district, metropolitan municipal corporation, public transportation benefit area, park and recreation district, irrigation district, fire protection district or any other municipal or quasi municipal corporation described as such by statute, or regional transit authority, except joint operating agencies under chapter 43.52 RCW;
+
+. "Ordinance" means an ordinance of a city or town or resolution or other instrument by which the governing body of the municipal corporation exercising any power under this chapter takes formal action and adopts legislative provisions and matters of some permanency; and
+
+. "Short-term obligations" are warrants, notes, capital leases, or other evidences of indebtedness, except bonds.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5638-S.SL.pdf?cite=2001%20c%20299%20§%2016[2001 c 299 § 16]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1264.SL.pdf?cite=1999%20c%20153%20§%2054[1999 c 153 § 54]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2411-S.SL.pdf?cite=1998%20c%20106%20§%208[1998 c 106 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c332.pdf?cite=1985%20c%20332%20§%208[1985 c 332 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c216.pdf?cite=1982%20c%20216%20§%202[1982 c 216 § 2]; ]
+
+== 39.50.020 - Short-term obligations authorized.
+Subject to any applicable budget requirements, any municipal corporation may borrow money and issue short-term obligations as provided in this chapter, the proceeds of which may be used for any lawful purpose of the municipal corporation. Short-term obligations may be issued in anticipation of the receipt of revenues, taxes, or grants or the sale of (1) general obligation bonds if the bonds may be issued without the assent of the voters or if previously ratified by the voters; (2) revenue bonds if the bonds have been authorized by ordinance; (3) local improvement district bonds if the bonds have been authorized by ordinance. These short-term obligations shall be repaid out of money derived from the source or sources in anticipation of which they were issued or from any money otherwise legally available for this purpose.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c216.pdf?cite=1982%20c%20216%20§%203[1982 c 216 § 3]; ]
+
+== 39.50.030 - Issuance of short-term obligations—Procedure—Interest rate—Contracts for future sale.
+. The issuance of short-term obligations shall be authorized by ordinance of the governing body which ordinance shall fix the maximum amount of the obligations to be issued or, if applicable, the maximum amount which may be outstanding at any time, the maximum term and interest rate or rates to be borne thereby, the manner of sale, maximum price, form including bearer or registered as provided in RCW 39.46.030, terms, conditions, and the covenants thereof. For those municipalities and taxing and assessment districts for which the county treasurer is not the designated treasurer by law, the ordinance may provide for designation and employment of a paying agent for the short-term obligations and may authorize a designated representative of the municipal corporation, subject to the terms of the ordinance in selling and delivering short-term obligations authorized and fixing the dates, price, interest rates, and other details as may be specified in the ordinance. For the county and those taxing and assessment districts for which the county treasurer is the designated treasurer by law or other appointment, the county treasurer shall be notified thirty days in advance of borrowing under this chapter and will be the designated paying agent to act on its behalf for all payments of principal, interest, and penalties for that obligation, subject to the terms of the ordinance in selling and delivering short-term obligations authorized and fixing the dates, price, interest rates, and other details as may be specified in the ordinance. Short-term obligations issued under this section shall bear such fixed or variable rate or rates of interest as the governing body considers to be in the best interests of the municipal corporation. Variable rates of interest may be fixed in relationship to such standard or index as the governing body designates.
+
+The governing body may make contracts for the future sale of short-term obligations pursuant to which the purchasers are committed to purchase the short-term obligations from time to time on the terms and conditions stated in the contract, and may pay such consideration as it considers proper for the commitments. Short-term obligations issued in anticipation of the receipt of taxes shall be paid within six months from the end of the fiscal year in which they are issued. For the purpose of this subsection, short-term obligations issued in anticipation of the sale of general obligation bonds shall not be considered to be obligations issued in anticipation of the receipt of taxes.
+
+. Notwithstanding subsection (1) of this section, such short-term obligations may be issued and sold in accordance with chapter 39.46 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5638-S.SL.pdf?cite=2001%20c%20299%20§%2017[2001 c 299 § 17]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5098.SL.pdf?cite=1995%20c%2038%20§%209[1995 c 38 § 9]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5372-S2.SL.pdf?cite=1994%20c%20301%20§%2013[1994 c 301 § 13]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c71.pdf?cite=1985%20c%2071%20§%201[1985 c 71 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c167.pdf?cite=1983%20c%20167%20§%20112[1983 c 167 § 112]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c216.pdf?cite=1982%20c%20216%20§%204[1982 c 216 § 4]; ]
+
+== 39.50.040 - Refunding and renewal of short-term obligations.
+Short-term obligations may, from time to time, be renewed or refunded by the issuance of short-term obligations and may be funded by the issuance of revenue, local improvement district, special assessment, or general obligation bonds. Short-term obligations payable from taxes shall not be renewed or refunded to a date later than six months from the end of the fiscal year in which the original short-term obligation was issued. For the purpose of this section, short-term obligations issued in anticipation of the sale of general obligation bonds shall not be considered to be short-term obligations payable from taxes.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c332.pdf?cite=1985%20c%20332%20§%209[1985 c 332 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c71.pdf?cite=1985%20c%2071%20§%202[1985 c 71 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c216.pdf?cite=1982%20c%20216%20§%205[1982 c 216 § 5]; ]
+
+== 39.50.050 - Short-term obligations—Security.
+Short-term obligations issued in anticipation of the receipt of taxes or the sale of general obligation bonds and the interest thereon shall be secured by the full faith, credit, taxing power, and resources of the municipal corporation. Short-term obligations issued in anticipation of the sale of revenue or local improvement district bonds and the interest thereon may be secured in the same manner as the revenue and local improvement district bonds in anticipation of which the obligations are issued and by an undertaking to issue the bonds. Short-term obligations issued in anticipation of grants, loans, or other sources of money shall be secured in the manner set forth in the ordinance authorizing their issuance.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c216.pdf?cite=1982%20c%20216%20§%206[1982 c 216 § 6]; ]
+
+== 39.50.060 - Nonvoted general indebtedness.
+A municipal corporation may incur nonvoted general indebtedness under this chapter up to an amount which, when added to all other authorized and outstanding nonvoted indebtedness of the municipal corporation, is equal to the maximum amount of indebtedness the municipal corporation is otherwise permitted to incur without a vote of the electors.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c216.pdf?cite=1982%20c%20216%20§%207[1982 c 216 § 7]; ]
+
+== 39.50.070 - Funds for payment of principal and interest.
+For the purpose of providing funds for the payment of principal of and interest on short-term obligations, the governing body may authorize the creation of a special fund or funds and provide for the payment from authorized sources to such funds of amounts sufficient to meet principal and interest requirements.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c216.pdf?cite=1982%20c%20216%20§%208[1982 c 216 § 8]; ]
+
+== 39.50.900 - Chapter cumulative—Applicability to joint operating agencies.
+The authority granted by this chapter shall be in addition and supplemental to any authority previously granted and shall not limit any other powers or authority previously granted to any municipal corporation. The authority granted by this chapter to public utility districts organized under Title 54 RCW shall not extend to joint operating agencies organized under chapter 43.52 RCW.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c216.pdf?cite=1982%20c%20216%20§%209[1982 c 216 § 9]; ]
+

@@ -1,0 +1,31 @@
+= 19.192 - Proof of identity.
+:toc:
+
+== 19.192.010 - Identification cards—Distinguishing official and not official proofs of identification—Penalties.
+. Any person or entity, other than those listed in subsection (2) of this section, issuing an identification card that purports to identify the holder as a resident of this or any other state and that contains at least a name, photograph, and date of birth, must label the card "not official proof of identification" in fluorescent yellow ink, on the face of the card, and in not less than fourteen-point font. The background color of the card must be a color other than the color used for official Washington state driver's licenses and identicards.
+
+. This section does not apply to the following persons and entities:
+
+.. Department of licensing;
+
+.. Any federal, state, or local government agency;
+
+.. The Washington *state liquor control board;
+
+.. Private employers issuing cards identifying employees;
+
+.. Banks and credit card companies issuing credit, debit, or bank cards containing a person's photograph; and
+
+.. Retail or wholesale stores issuing membership cards containing a person's photograph.
+
+. Failure to comply with this section is a class 1 civil infraction.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1077-S.SL.pdf?cite=1998%20c%2024%20§%201[1998 c 24 § 1]; ]
+
+== 19.192.020 - Verification of identity by merchant/retailer—Prohibition on verification void.
+. Any provision of a contract between a merchant or retailer and a credit or debit card issuer, financial institution, or other person that prohibits the merchant or retailer from verifying the identity of a customer who offers to pay for goods or services with a credit or debit card by requiring or requesting that the customer present additional identification is void for violation of public policy.
+
+. Nothing in this section shall be interpreted as: (a) Compelling merchants or retailers to verify identification; or (b) interfering with the ability of the owner or manager of a retail store or chain to make and enforce its own policies regarding verification of identification.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5720.SL.pdf?cite=2003%20c%2089%20§%202[2003 c 89 § 2]; ]
+

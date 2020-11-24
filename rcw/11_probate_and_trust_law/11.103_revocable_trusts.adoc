@@ -1,0 +1,76 @@
+= 11.103 - Revocable trusts.
+:toc:
+
+== 11.103.020 - Trustor capacity.
+The capacity required to create, amend, revoke, or add property to a revocable trust, or to direct the actions of the trustee of a revocable trust, is the same as that required to make a will.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1051-S.SL.pdf?cite=2011%20c%20327%20§%2035[2011 c 327 § 35]; ]
+
+== 11.103.030 - Revocation or amendment. (Effective until January 1, 2022.)
+. Unless the terms of a trust expressly provide that the trust is revocable, the trustor may not revoke or amend the trust.
+
+. If a revocable trust is created or funded by more than one trustor and unless the trust agreement provides otherwise:
+
+.. To the extent the trust consists of community property, the trust may be revoked by either spouse or either domestic partner acting alone but may be amended only by joint action of both spouses or both domestic partners;
+
+.. To the extent the trust consists of property other than community property, each trustor may revoke or amend the trust with regard to the portion of the trust property attributable to that trustor's contribution;
+
+.. The character of community property or separate property is unaffected by its transfer to and from a revocable trust; and
+
+.. Upon the revocation or amendment of the trust by fewer than all of the trustors, the trustee must promptly notify the other trustors of the revocation or amendment.
+
+. The trustor may revoke or amend a revocable trust:
+
+.. By substantial compliance with a method provided in the terms of the trust; or
+
+.. [Empty]
+... If the terms of the trust do not provide a method or the method provided in the terms is not expressly made exclusive, by:
+
+(A) A later will or codicil that expressly refers to the trust or specifically devises property that would otherwise have passed according to the terms of the trust; or
+
+(B) A written instrument signed by the trustor evidencing intent to revoke or amend.
+
+... The requirements of chapter 11.11 RCW do not apply to revocation or amendment of a revocable trust under (b)(i) of this subsection.
+
+. Upon revocation of a revocable trust, the trustee must deliver the trust property as the trustor directs.
+
+. A trustor's powers with respect to the revocation or amendment of a trust or distribution of the property of a trust may be exercised by the trustor's agent under a power of attorney only to the extent specified in the power of attorney document, as provided in RCW 11.125.240 and to the extent consistent with or expressly authorized by the trust agreement.
+
+. A guardian of the trustor may exercise a trustor's powers with respect to revocation, amendment, or distribution of trust property only with the approval of the court supervising the guardianship pursuant to *RCW 11.92.140.
+
+. A trustee who does not know that a trust has been revoked or amended is not liable to the trustor or trustor's successors in interest for distributions made and other actions taken on the assumption that the trust had not been amended or revoked.
+
+. This section does not limit or affect operation of RCW 11.96A.220 through 11.96A.240.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5635-S.SL.pdf?cite=2016%20c%20209%20§%20404[2016 c 209 § 404]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5344.SL.pdf?cite=2013%20c%20272%20§%2024[2013 c 272 § 24]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1051-S.SL.pdf?cite=2011%20c%20327%20§%2036[2011 c 327 § 36]; ]
+
+== 11.103.040 - Trustor's powers—Powers of withdrawal.
+While the trustor of a revocable trust is living, the rights of the beneficiaries are subject to the control of, and the duties of the trustee are owed exclusively to, the trustor. If a revocable trust has more than one trustor, the duties of the trustee are owed to all of the living trustors having the right to revoke the trust.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5344.SL.pdf?cite=2013%20c%20272%20§%2019[2013 c 272 § 19]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1051-S.SL.pdf?cite=2011%20c%20327%20§%2037[2011 c 327 § 37]; ]
+
+== 11.103.050 - Limitation on action contesting validity of revocable trust—Distribution of trust property.
+. A person may commence a judicial proceeding to contest the validity of a trust that was revocable at the trustor's death within the earlier of:
+
+.. Twenty-four months after the trustor's death; or
+
+.. Four months after the trustee sent to the person by personal service, mail, or in an electronic transmission if there is a consent of the recipient to electronic transmission then in effect under the terms of RCW 11.96A.110, a notice including:
+
+... The name and date of the trust;
+
+... The identity of the trustor or trustors;
+
+... The trustee's name, address, and telephone number; and
+
+... Notice of the time allowed for commencing a proceeding.
+
+. Upon the death of the trustor of a trust that was revocable at the trustor's death, the trustee may proceed to distribute the trust property in accordance with the terms of the trust, unless:
+
+.. The trustee knows of a pending judicial proceeding contesting the validity of the trust; or
+
+.. A potential contestant has notified the trustee of a possible judicial proceeding to contest the trust and a judicial proceeding is commenced within sixty days after the contestant sent the notification.
+
+. A beneficiary of a trust that is determined to have been invalid is liable to return any distribution received.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5344.SL.pdf?cite=2013%20c%20272%20§%2020[2013 c 272 § 20]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1051-S.SL.pdf?cite=2011%20c%20327%20§%2038[2011 c 327 § 38]; ]
+

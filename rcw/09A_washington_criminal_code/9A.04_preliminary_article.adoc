@@ -1,0 +1,277 @@
+= 9A.04 - Preliminary article.
+:toc:
+
+== 9A.04.010 - Title, effective date, application, severability, captions.
+. This title shall be known and may be cited as the Washington Criminal Code and shall become effective on July 1, 1976.
+
+. The provisions of this title shall apply to any offense committed on or after July 1, 1976, which is defined in this title or the general statutes, unless otherwise expressly provided or unless the context otherwise requires, and shall also apply to any defense to prosecution for such an offense.
+
+. The provisions of this title do not apply to or govern the construction of and punishment for any offense committed prior to July 1, 1976, or to the construction and application of any defense to a prosecution for such an offense. Such an offense must be construed and punished according to the provisions of law existing at the time of the commission thereof in the same manner as if this title had not been enacted.
+
+. If any provision of this title, or its application to any person or circumstance is held invalid, the remainder of the title, or the application of the provision to other persons or circumstances is not affected, and to this end the provisions of this title are declared to be severable.
+
+. Chapter, section, and subsection captions are for organizational purposes only and shall not be construed as part of this title.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.04.010[1975 1st ex.s. c 260 § 9A.04.010]; ]
+
+== 9A.04.020 - Purposes—Principles of construction.
+. The general purposes of the provisions governing the definition of offenses are:
+
+.. To forbid and prevent conduct that inflicts or threatens substantial harm to individual or public interests;
+
+.. To safeguard conduct that is without culpability from condemnation as criminal;
+
+.. To give fair warning of the nature of the conduct declared to constitute an offense;
+
+.. To differentiate on reasonable grounds between serious and minor offenses, and to prescribe proportionate penalties for each.
+
+. The provisions of this title shall be construed according to the fair import of their terms but when the language is susceptible of differing constructions it shall be interpreted to further the general purposes stated in this title.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.04.020[1975 1st ex.s. c 260 § 9A.04.020]; ]
+
+== 9A.04.030 - State criminal jurisdiction.
+The following persons are liable to punishment:
+
+. A person who commits in the state any crime, in whole or in part.
+
+. A person who commits out of the state any act which, if committed within it, would be theft and is afterward found in the state with any of the stolen property.
+
+. A person who being out of the state, counsels, causes, procures, aids, or abets another to commit a crime in this state.
+
+. A person who, being out of the state, abducts or kidnaps by force or fraud, any person, contrary to the laws of the place where the act is committed, and brings, sends, or conveys such person into this state.
+
+. A person who commits an act without the state which affects persons or property within the state, which, if committed within the state, would be a crime.
+
+. A person who, being out of the state, makes a statement, declaration, verification, or certificate under chapter 5.50 RCW which, if made within the state, would be perjury.
+
+. A person who commits an act onboard a conveyance within the state of Washington, including the airspace over the state of Washington, that subsequently lands, docks, or stops within the state which, if committed within the state, would be a crime.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5017-S.SL.pdf?cite=2019%20c%20232%20§%209[2019 c 232 § 9]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1388.SL.pdf?cite=1999%20c%20349%20§%201[1999 c 349 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c187.pdf?cite=1981%20c%20187%20§%202[1981 c 187 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.04.030[1975 1st ex.s. c 260 § 9A.04.030]; ]
+
+== 9A.04.040 - Classes of crimes.
+. An offense defined by this title or by any other statute of this state, for which a sentence of imprisonment is authorized, constitutes a crime. Crimes are classified as felonies, gross misdemeanors, or misdemeanors.
+
+. A crime is a felony if it is so designated in this title or by any other statute of this state or if persons convicted thereof may be sentenced to imprisonment for a term in excess of one year. A crime is a misdemeanor if it is so designated in this title or by any other statute of this state or if persons convicted thereof may be sentenced to imprisonment for no more than ninety days. Every other crime is a gross misdemeanor.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.04.040[1975 1st ex.s. c 260 § 9A.04.040]; ]
+
+== 9A.04.050 - People capable of committing crimes—Capability of children.
+Children under the age of eight years are incapable of committing crime. Children of eight and under twelve years of age are presumed to be incapable of committing crime, but this presumption may be removed by proof that they have sufficient capacity to understand the act or neglect, and to know that it was wrong. Whenever in legal proceedings it becomes necessary to determine the age of a child, he or she may be produced for inspection, to enable the court or jury to determine the age thereby; and the court may also direct his or her examination by one or more physicians, whose opinion shall be competent evidence upon the question of his or her age.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20347[2011 c 336 § 347]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.04.050[1975 1st ex.s. c 260 § 9A.04.050]; ]
+
+== 9A.04.060 - Common law to supplement statute.
+The provisions of the common law relating to the commission of crime and the punishment thereof, insofar as not inconsistent with the Constitution and statutes of this state, shall supplement all penal statutes of this state and all persons offending against the same shall be tried in the courts of this state having jurisdiction of the offense.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.04.060[1975 1st ex.s. c 260 § 9A.04.060]; ]
+
+== 9A.04.070 - Who amenable to criminal statutes.
+Every person, regardless of whether or not he or she is an inhabitant of this state, may be tried and punished under the laws of this state for an offense committed by him or her therein, except when such offense is cognizable exclusively in the courts of the United States.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20348[2011 c 336 § 348]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.04.070[1975 1st ex.s. c 260 § 9A.04.070]; ]
+
+== 9A.04.080 - Limitation of actions.
+. Prosecutions for criminal offenses shall not be commenced after the periods prescribed in this section.
+
+.. The following offenses may be prosecuted at any time after their commission:
+
+... Murder;
+
+... Homicide by abuse;
+
+... Arson if a death results;
+
+... Vehicular homicide;
+
+.. Vehicular assault if a death results;
+
+.. Hit-and-run injury-accident if a death results (RCW 46.52.020(4));
+
+.. Rape in the first degree (RCW 9A.44.040) if the victim is under the age of sixteen;
+
+.. Rape in the second degree (RCW 9A.44.050) if the victim is under the age of sixteen;
+
+... Rape of a child in the first degree (RCW 9A.44.073);
+
+.. Rape of a child in the second degree (RCW 9A.44.076);
+
+.. Rape of a child in the third degree (RCW 9A.44.079);
+
+.. Sexual misconduct with a minor in the first degree (RCW 9A.44.093);
+
+.. Custodial sexual misconduct in the first degree (RCW 9A.44.160);
+
+.. Child molestation in the first degree (RCW 9A.44.083);
+
+.. Child molestation in the second degree (RCW 9A.44.086);
+
+.. Child molestation in the third degree (RCW 9A.44.089); and
+
+.. Sexual exploitation of a minor (RCW 9.68A.040).
+
+.. Except as provided in (a) of this subsection, the following offenses may not be prosecuted more than twenty years after its commission:
+
+... Rape in the first degree (RCW 9A.44.040);
+
+... Rape in the second degree (RCW 9A.44.050); or
+
+... Indecent liberties (RCW 9A.44.100).
+
+.. The following offenses may not be prosecuted more than ten years after its commission:
+
+... Any felony committed by a public officer if the commission is in connection with the duties of his or her office or constitutes a breach of his or her public duty or a violation of the oath of office;
+
+... Arson if no death results;
+
+... Rape in the third degree (RCW 9A.44.060);
+
+... Attempted murder; or
+
+.. Trafficking under RCW 9A.40.100.
+
+.. A violation of any offense listed in this subsection (1)(d) may be prosecuted up to ten years after its commission or, if committed against a victim under the age of eighteen, up to the victim's thirtieth birthday, whichever is later:
+
+... RCW 9.68A.100 (commercial sexual abuse of a minor);
+
+... RCW 9.68A.101 (promoting commercial sexual abuse of a minor);
+
+... RCW 9.68A.102 (promoting travel for commercial sexual abuse of a minor); or
+
+... RCW 9A.64.020 (incest).
+
+.. The following offenses may not be prosecuted more than six years after its commission or discovery, whichever occurs later:
+
+... Violations of RCW 9A.82.060 or 9A.82.080;
+
+... Any felony violation of chapter 9A.83 RCW;
+
+... Any felony violation of chapter 9.35 RCW;
+
+... Theft in the first or second degree under chapter 9A.56 RCW when accomplished by color or aid of deception;
+
+.. Theft from a vulnerable adult under RCW 9A.56.400; or
+
+.. Trafficking in stolen property in the first or second degree under chapter 9A.82 RCW in which the stolen property is a motor vehicle or major component part of a motor vehicle as defined in RCW 46.80.010.
+
+.. The following offenses may not be prosecuted more than five years after its commission: Any class C felony under chapter 74.09, *82.36, or 82.38 RCW.
+
+.. Bigamy may not be prosecuted more than three years after the time specified in RCW 9A.64.010.
+
+.. A violation of RCW 9A.56.030 may not be prosecuted more than three years after the discovery of the offense when the victim is a tax exempt corporation under 26 U.S.C. Sec. 501(c)(3).
+
+.. No other felony may be prosecuted more than three years after its commission; except that in a prosecution under RCW 9A.44.115, if the person who was viewed, photographed, or filmed did not realize at the time that he or she was being viewed, photographed, or filmed, the prosecution must be commenced within two years of the time the person who was viewed or in the photograph or film first learns that he or she was viewed, photographed, or filmed.
+
+.. No gross misdemeanor may be prosecuted more than two years after its commission.
+
+.. No misdemeanor may be prosecuted more than one year after its commission.
+
+. The periods of limitation prescribed in subsection (1) of this section do not run during any time when the person charged is not usually and publicly resident within this state.
+
+. In any prosecution for a sex offense as defined in RCW 9.94A.030, the periods of limitation prescribed in subsection (1) of this section run from the date of commission or two years from the date on which the identity of the suspect is conclusively established by deoxyribonucleic acid testing or by photograph as defined in RCW 9.68A.011, whichever is later.
+
+. If, before the end of a period of limitation prescribed in subsection (1) of this section, an indictment has been found or a complaint or an information has been filed, and the indictment, complaint, or information is set aside, then the period of limitation is extended by a period equal to the length of time from the finding or filing to the setting aside.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1166-S2.SL.pdf?cite=2019%20c%2093%20§%202[2019 c 93 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5649.SL.pdf?cite=2019%20c%2087%20§%202[2019 c 87 § 2]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1153-S.SL.pdf?cite=2017%20c%20266%20§%209[2017 c 266 § 9]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5030.SL.pdf?cite=2017%20c%20231%20§%202[2017 c 231 § 2]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5810-S.SL.pdf?cite=2017%20c%20125%20§%201[2017 c 125 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1352-S.SL.pdf?cite=2013%20c%2017%20§%201[2013 c 17 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2354-S.SL.pdf?cite=2012%20c%20105%20§%201[2012 c 105 § 1]; prior:  2009 c 61 § 1; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5380-S.SL.pdf?cite=2009%20c%2053%20§%201[2009 c 53 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5042-S.SL.pdf?cite=2006%20c%20132%20§%201[2006 c 132 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1441-S.SL.pdf?cite=1998%20c%20221%20§%202[1998 c 221 § 2]; prior:  1997 c 174 § 1; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1067.SL.pdf?cite=1997%20c%2097%20§%201[1997 c 97 § 1]; prior:  1995 c 287 § 5; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5027.SL.pdf?cite=1995%20c%2017%20§%201[1995 c 17 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5541.SL.pdf?cite=1993%20c%20214%20§%201[1993 c 214 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c317.pdf?cite=1989%20c%20317%20§%203[1989 c 317 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c145.pdf?cite=1988%20c%20145%20§%2014[1988 c 145 § 14]; prior:  1986 c 257 § 13; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c85.pdf?cite=1986%20c%2085%20§%201[1986 c 85 § 1]; prior:  1985 c 455 § 19; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c186.pdf?cite=1985%20c%20186%20§%201[1985 c 186 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c270.pdf?cite=1984%20c%20270%20§%2018[1984 c 270 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c129.pdf?cite=1982%20c%20129%20§%201[1982 c 129 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c203.pdf?cite=1981%20c%20203%20§%201[1981 c 203 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.04.080[1975 1st ex.s. c 260 § 9A.04.080]; ]
+
+== 9A.04.090 - Application of general provisions of the code.
+The provisions of chapters 9A.04 through 9A.28 RCW of this title are applicable to offenses defined by this title or another statute, unless this title or such other statute specifically provides otherwise.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.04.090[1975 1st ex.s. c 260 § 9A.04.090]; ]
+
+== 9A.04.100 - Proof beyond a reasonable doubt.
+. Every person charged with the commission of a crime is presumed innocent unless proved guilty. No person may be convicted of a crime unless each element of such crime is proved by competent evidence beyond a reasonable doubt.
+
+. When a crime has been proven against a person, and there exists a reasonable doubt as to which of two or more degrees he or she is guilty, he or she shall be convicted only of the lowest degree.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20349[2011 c 336 § 349]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.04.100[1975 1st ex.s. c 260 § 9A.04.100]; ]
+
+== 9A.04.110 - Definitions.
+In this title unless a different meaning plainly is required:
+
+. "Acted" includes, where relevant, omitted to act;
+
+. "Actor" includes, where relevant, a person failing to act;
+
+. "Benefit" is any gain or advantage to the beneficiary, including any gain or advantage to a third person pursuant to the desire or consent of the beneficiary;
+
+. [Empty]
+.. "Bodily injury," "physical injury," or "bodily harm" means physical pain or injury, illness, or an impairment of physical condition;
+
+.. "Substantial bodily harm" means bodily injury which involves a temporary but substantial disfigurement, or which causes a temporary but substantial loss or impairment of the function of any bodily part or organ, or which causes a fracture of any bodily part;
+
+.. "Great bodily harm" means bodily injury which creates a probability of death, or which causes significant serious permanent disfigurement, or which causes a significant permanent loss or impairment of the function of any bodily part or organ;
+
+. "Building," in addition to its ordinary meaning, includes any dwelling, fenced area, vehicle, railway car, cargo container, or any other structure used for lodging of persons or for carrying on business therein, or for the use, sale, or deposit of goods; each unit of a building consisting of two or more units separately secured or occupied is a separate building;
+
+. "Deadly weapon" means any explosive or loaded or unloaded firearm, and shall include any other weapon, device, instrument, article, or substance, including a "vehicle" as defined in this section, which, under the circumstances in which it is used, attempted to be used, or threatened to be used, is readily capable of causing death or substantial bodily harm;
+
+. "Dwelling" means any building or structure, though movable or temporary, or a portion thereof, which is used or ordinarily used by a person for lodging;
+
+. "Government" includes any branch, subdivision, or agency of the government of this state and any county, city, district, or other local governmental unit;
+
+. "Governmental function" includes any activity which a public servant is legally authorized or permitted to undertake on behalf of a government;
+
+. "Indicted" and "indictment" include "informed against" and "information", and "informed against" and "information" include "indicted" and "indictment";
+
+. "Judge" includes every judicial officer authorized alone or with others, to hold or preside over a court;
+
+. "Malice" and "maliciously" shall import an evil intent, wish, or design to vex, annoy, or injure another person. Malice may be inferred from an act done in willful disregard of the rights of another, or an act wrongfully done without just cause or excuse, or an act or omission of duty betraying a willful disregard of social duty;
+
+. "Officer" and "public officer" means a person holding office under a city, county, or state government, or the federal government who performs a public function and in so doing is vested with the exercise of some sovereign power of government, and includes all assistants, deputies, clerks, and employees of any public officer and all persons lawfully exercising or assuming to exercise any of the powers or functions of a public officer;
+
+. "Omission" means a failure to act;
+
+. "Peace officer" means a duly appointed city, county, or state law enforcement officer;
+
+. "Pecuniary benefit" means any gain or advantage in the form of money, property, commercial interest, or anything else the primary significance of which is economic gain;
+
+. "Person," "he or she," and "actor" include any natural person and, where relevant, a corporation, joint stock association, or an unincorporated association;
+
+. "Place of work" includes but is not limited to all the lands and other real property of a farm or ranch in the case of an actor who owns, operates, or is employed to work on such a farm or ranch;
+
+. "Prison" means any place designated by law for the keeping of persons held in custody under process of law, or under lawful arrest, including but not limited to any state correctional institution or any county or city jail;
+
+. "Prisoner" includes any person held in custody under process of law, or under lawful arrest;
+
+. "Projectile stun gun" means an electronic device that projects wired probes attached to the device that emit an electrical charge and that is designed and primarily employed to incapacitate a person or animal;
+
+. "Property" means anything of value, whether tangible or intangible, real or personal;
+
+. "Public servant" means any person other than a witness who presently occupies the position of or has been elected, appointed, or designated to become any officer or employee of government, including a legislator, judge, judicial officer, juror, and any person participating as an advisor, consultant, or otherwise in performing a governmental function;
+
+. "Signature" includes any memorandum, mark, or sign made with intent to authenticate any instrument or writing, or the subscription of any person thereto;
+
+. "Statute" means the Constitution or an act of the legislature or initiative or referendum of this state;
+
+. "Strangulation" means to compress a person's neck, thereby obstructing the person's blood flow or ability to breathe, or doing so with the intent to obstruct the person's blood flow or ability to breathe;
+
+. "Suffocation" means to block or impair a person's intake of air at the nose and mouth, whether by smothering or other means, with the intent to obstruct the person's ability to breathe;
+
+. "Threat" means to communicate, directly or indirectly the intent:
+
+.. To cause bodily injury in the future to the person threatened or to any other person; or
+
+.. To cause physical damage to the property of a person other than the actor; or
+
+.. To subject the person threatened or any other person to physical confinement or restraint; or
+
+.. To accuse any person of a crime or cause criminal charges to be instituted against any person; or
+
+.. To expose a secret or publicize an asserted fact, whether true or false, tending to subject any person to hatred, contempt, or ridicule; or
+
+.. To reveal any information sought to be concealed by the person threatened; or
+
+.. To testify or provide information or withhold testimony or information with respect to another's legal claim or defense; or
+
+.. To take wrongful action as an official against anyone or anything, or wrongfully withhold official action, or cause such action or withholding; or
+
+.. To bring about or continue a strike, boycott, or other similar collective action to obtain property which is not demanded or received for the benefit of the group which the actor purports to represent; or
+
+.. To do any other act which is intended to harm substantially the person threatened or another with respect to his or her health, safety, business, financial condition, or personal relationships;
+
+. "Vehicle" means a "motor vehicle" as defined in the vehicle and traffic laws, any aircraft, or any vessel equipped for propulsion by mechanical means or by sail;
+
+. Words in the present tense shall include the future tense; and in the masculine shall include the feminine and neuter genders; and in the singular shall include the plural; and in the plural shall include the singular.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20350[2011 c 336 § 350]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1188-S.SL.pdf?cite=2011%20c%20166%20§%202[2011 c 166 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5953.SL.pdf?cite=2007%20c%2079%20§%203[2007 c 79 § 3]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1934-S.SL.pdf?cite=2005%20c%20458%20§%203[2005 c 458 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c158.pdf?cite=1988%20c%20158%20§%201[1988 c 158 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c324.pdf?cite=1987%20c%20324%20§%201[1987 c 324 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c257.pdf?cite=1986%20c%20257%20§%203[1986 c 257 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.04.110[1975 1st ex.s. c 260 § 9A.04.110]; ]
+

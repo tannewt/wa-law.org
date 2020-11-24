@@ -1,0 +1,102 @@
+= 19.250 - Disclosure of personal wireless numbers.
+:toc:
+
+== 19.250.005 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Directory" or "directory form" means a categorized list or compilation of phone numbers, or a single phone number, in written, audio, electronic, digital, or any other format.
+
+. "Directory provider" means any person in the business of marketing, selling, or sharing the phone number of any subscriber in directory form for commercial purposes.
+
+. "Radio communications service company" has the same meaning as in RCW 80.04.010.
+
+. "Reverse phone number search services" means a service that provides the name of a subscriber associated with a phone number when the phone number is supplied.
+
+. "Subscriber" means a person who resides in the state of Washington and subscribes to radio communications services, radio paging, or cellular communications service with a Washington state area code.
+
+. "Wireless phone number" means a phone number unique to the subscriber that permits the subscriber to receive radio communications, radio paging, or cellular communications from others.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1816-S.SL.pdf?cite=2009%20c%20401%20§%201[2009 c 401 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2479-S2.SL.pdf?cite=2008%20c%20271%20§%202[2008 c 271 § 2]; ]
+
+== 19.250.010 - Wireless subscriber must opt-in to any directory database—Disclosure requirement.
+. A radio communications service company or any direct or indirect affiliate or agent of a radio communications service company shall not include the wireless phone number of any subscriber for inclusion in any directory of any form, nor shall it sell the contents of any directory database, without first obtaining the express, opt-in consent of that subscriber. The subscriber's consent must be obtained either in writing or electronically, and a receipt must be provided to the subscriber. The consent shall be a separate document or located on a separate screen or web page that has the sole purpose of authorizing a radio communications service company to include the subscriber's wireless phone number in a publicly available directory assistance database.
+
+. In obtaining the subscriber's consent, the radio communications service company or direct or indirect affiliate or agent of a radio communications service company shall unambiguously disclose that, by consenting, the subscriber agrees to the following:
+
+.. That the subscriber's wireless phone number may be sold or licensed as part of a list of subscribers and that the wireless phone number may be included in a publicly available directory assistance database;
+
+.. That the subscriber may incur additional charges for receiving unsolicited calls or text messages; and
+
+.. That the subscriber's express, opt-in consent will be construed as consent for the subsequent publication of the wireless phone number to and by third parties in other directories or databases.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2479-S2.SL.pdf?cite=2008%20c%20271%20§%203[2008 c 271 § 3]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1185-S.SL.pdf?cite=2005%20c%20322%20§%201[2005 c 322 § 1]; ]
+
+== 19.250.020 - Reasonable investigation required—Consent.
+. A directory provider shall not include any phone number that belongs to a Washington state resident in any directory of any form, or sell the contents of any directory database, without first undertaking a reasonable ongoing investigation as to whether the phone number is a wireless phone number. An investigation under this section is presumed reasonable if the directory provider compares the phone number at least every thirty days against: (a) A commercially available list of central office code assignment records offered through the North American numbering plan administration or other similar service; or (b) a commercially available list of intermodal ports of telephone numbers between wireline-to-wireless ports and wireless-to-wireline ports. A directory provider also has a duty to continually use up-to-date, commercially available technology when conducting its investigation of a phone number. If an investigation reveals that the phone number is a wireless phone number, the directory provider shall not include the number in any directory of any form, or sell the contents of any directory database without first obtaining the subscriber's express, opt-in consent. The subscriber's consent must be obtained either in writing or electronically, and a receipt must be provided to the subscriber. The consent must be a separate document or located on a separate screen or web page that has the sole purpose of authorizing a directory provider to include the subscriber's wireless phone number in a publicly available directory assistance database. 
+
+. In obtaining the subscriber's consent, the directory provider shall unambiguously disclose that, by consenting, the subscriber agrees to the following:
+
+.. That the subscriber's wireless phone number may be sold or licensed as part of a list of subscribers and that the wireless phone number may be included in a publicly available directory assistance database;
+
+.. That the subscriber may incur additional charges for receiving unsolicited calls or text messages; and
+
+.. That the subscriber's express, opt-in consent will be construed as consent for the subsequent publication of the wireless phone number to and by third parties in other directories or databases.
+
+. This section does not preclude a directory provider from providing a reverse phone number search service. However, a subscriber whose wireless phone number is contained in a reverse phone number search service may utilize the opt-out provisions set forth in *RCW 19.250.030.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2479-S2.SL.pdf?cite=2008%20c%20271%20§%204[2008 c 271 § 4]; ]
+
+== 19.250.030 - Removal from directory—Reverse phone number search services.
+. A subscriber may request that a directory provider or a radio communications service company remove their wireless phone number from a directory of any form at any time. A radio communications service company or a directory provider shall, at no cost to the subscriber, comply with the subscriber's request to remove their wireless phone number from a directory of any form within a reasonable period of time, not to exceed sixty days for printed directories and not to exceed thirty days for online or other directories.
+
+. At the subscriber's request, a provider of a reverse phone number search service must allow a subscriber to perform a reverse phone number search free of charge to determine whether the subscriber's wireless phone number is listed in the reverse phone number search service. If the subscriber finds that his or her wireless phone number is contained in the reverse phone number search service, the subscriber may request that his or her wireless phone number be removed from the reverse phone number search service at any time. The provider of the reverse phone number search service must, at no cost to the subscriber, comply with the subscriber's request within a reasonable period of time, not to exceed thirty days.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1816-S.SL.pdf?cite=2009%20c%20401%20§%202[2009 c 401 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2479-S2.SL.pdf?cite=2008%20c%20271%20§%205[2008 c 271 § 5]; ]
+
+== 19.250.040 - Violation—Application of chapter  19.86 RCW.
+The legislature finds that allowing a subscriber to opt out of a reverse phone number search service vitally affects the public interest for the purpose of applying chapter 19.86 RCW. A violation of RCW 19.250.030 by a provider of a reverse phone number search service is not reasonable in relation to the development and preservation of business and is an unfair or deceptive act in trade or commerce and an unfair method of competition for the purpose of applying chapter 19.86 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2479-S2.SL.pdf?cite=2008%20c%20271%20§%206[2008 c 271 § 6]; ]
+
+== 19.250.050 - Violations—Penalties—Attorney general may enforce—Limitation of liability.
+. Every knowing violation of RCW 19.250.010 is punishable by a fine of not less than two thousand dollars and no more than fifty thousand dollars for each violation.
+
+. Including a wireless phone number in a directory without a subscriber's express, opt-in consent pursuant to RCW 19.250.020 is a violation of this chapter and is punishable by a fine of up to fifty thousand dollars unless the directory provider first conducted a reasonable investigation as required in RCW 19.250.020 and was unable to determine if the published number was a wireless phone number.
+
+. Failure to remove a wireless phone number from a directory of any form within a reasonable period of time as required in RCW 19.250.030 is a violation of this chapter and is punishable by a fine of up to fifty thousand dollars.
+
+. The attorney general may bring actions to enforce compliance with this section. For the first violation by any company, organization, or person under this chapter, the attorney general may notify the company, organization, or person with a letter of warning that this chapter has been violated.
+
+. A telecommunications company or directory provider, or any official or employee of a telecommunications company or directory provider, is not subject to criminal or civil liability for the release of customer information as authorized by this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1816-S.SL.pdf?cite=2009%20c%20401%20§%204[2009 c 401 § 4]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2479-S2.SL.pdf?cite=2008%20c%20271%20§%207[2008 c 271 § 7]; ]
+
+== 19.250.070 - Application of chapter—Limitations.
+. The provision or maintenance of a subscriber's wireless phone number is not prohibited by this chapter when the number is provided or maintained by:
+
+.. Any law enforcement agency, fire protection agency, public health agency, public environmental health agency, city or county emergency services planning agency, or corporation operating under contract with, and at the direction of, one or more of these agencies, when carrying out official duties;
+
+.. A person carrying out a lawful order or process issued under state or federal law;
+
+.. A telecommunications company providing service between service areas for the provision of telephone services to the subscriber between service areas, or to third parties for the limited purpose of providing billing services;
+
+.. A telecommunications company to effectuate a customer's request to transfer the customer's assigned telephone number from the customer's existing provider of telecommunications services to a new provider of telecommunications services;
+
+.. The utilities and transportation commission pursuant to its jurisdiction and control over telecommunications companies;
+
+.. A sales agent to provide the subscriber's wireless phone numbers to the radio communications service company for the limited purpose of billing and customer service;
+
+.. A directory provider via a directory that is obtained directly from a radio communications service company and that radio communications service company has obtained the required express, opt-in consent for including in any directory the subscriber's wireless phone number as specified in RCW 19.250.010;
+
+.. A person via a directory where the subscriber pays a fee to have the number published for commercial purposes; 
+
+.. A person who ported the number from listed wireline service to wireless service within the previous fifteen months; 
+
+.. A person for uses permitted or authorized under the federal fair credit reporting act (15 U.S.C. Sec. 1681(b)), or for uses permitted or authorized under Title V of the Gramm-Leach-Bliley Act (15 U.S.C. Sec. 6801, et seq.); and
+
+.. A person in comprehensive reports or public records when the public record is not altered from its original form. For purposes of this subsection, a comprehensive report means law enforcement investigations, risk and security analysis for employment or vendor evaluation, legal research and case management, legal compliance analysis, and academic research.
+
+. The provision of a subscriber's wireless phone number is not prohibited by this chapter when the number is provided to any law enforcement agency, fire protection agency, public health agency, public environmental health agency, city or county emergency services planning agency, or corporation operating under contract with, and at the direction of, one or more of these agencies, when carrying out official duties. Information or records provided to a corporation pursuant to this section must be held in confidence by that corporation and by any individual employed by or associated with that corporation. Such information or records are not open to examination for any purpose not directly connected with carrying out an agency's official duties.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1816-S.SL.pdf?cite=2009%20c%20401%20§%203[2009 c 401 § 3]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2479-S2.SL.pdf?cite=2008%20c%20271%20§%209[2008 c 271 § 9]; ]
+

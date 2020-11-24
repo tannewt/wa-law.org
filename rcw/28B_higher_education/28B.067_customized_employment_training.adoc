@@ -1,0 +1,74 @@
+= 28B.67 - Customized employment training.
+:toc:
+
+== 28B.67.005 - Findings—Intent.
+The legislature finds that the provision of customized training is critical to attracting and retaining businesses, and that the growth of many businesses is limited by an unmet need for customized training. The legislature also finds that workforce training not only helps business, it also improves the quality of life for workers and communities. Because of the statewide public benefit to be gained from instituting a customized training program, the legislature intends to create a new program to fund workforce training in a manner that reduces the up-front costs of training to new and expanding firms.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6326-S2.SL.pdf?cite=2006%20c%20112%20§%201[2006 c 112 § 1]; ]
+
+== 28B.67.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Board" means the state board for community and technical colleges.
+
+. "Costs of training" and "training costs" means the direct costs experienced under a contract with a qualified training institution for formal technical or skill training, including basic skills. "Costs of training" includes amounts in the contract for costs of instruction, materials, equipment, rental of class space, marketing, and overhead. "Costs of training" does not include employee tuition reimbursements unless the tuition reimbursement is specifically included in a contract.
+
+. "Participant" means a private employer that, under this chapter, undertakes a training program with a qualified training institution.
+
+. "Qualified training institution" means a public community or technical college or a private vocational school licensed by either the workforce training and education coordinating board or the *higher education coordinating board.
+
+. "Training allowance" and "allowance" means a voucher, credit, or payment from the board to a participant to cover training costs.
+
+. "Training program" means a program funded under this chapter at a qualified training institution.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6326-S2.SL.pdf?cite=2006%20c%20112%20§%202[2006 c 112 § 2]; ]
+
+== 28B.67.020 - Customized employment training program created—Applications—Criteria—Rules.
+. The Washington customized employment training program is hereby created to provide training assistance to employers locating or expanding in the state.
+
+. [Empty]
+.. Application to receive funding under this program must be made to the board in a form and manner as specified by the board. Successful applicants must receive a training allowance from the board to cover the costs of training at a qualified training institution. Employers may not receive an allowance for training costs which exceed the maximum annual training cost per employee, as established by the board, and are not eligible to receive an allowance or allowances of over five hundred thousand dollars per calendar year.
+
+.. Allowances must be granted for applicants who meet the following criteria:
+
+... The employer must have entered into an agreement with a qualified training institution to engage in customized training and the employer must agree to: (A) Upon completion of the training, make a payment to the employment training finance account created in RCW 28B.67.030 in an amount equal to one-quarter of the amount of the training allowance; and (B) over the subsequent eighteen months, make monthly or quarterly payments, as specified in the agreement, to the employment training finance account created in RCW 28B.67.030 in an amount equal to three-quarters of the amount of the training allowance. During calendar years 2009 and 2010, participants may delay payments due under this section for up to eighteen months. The payments into the employment training finance account provided for in this section do not constitute payment to the institution.
+
+... When hiring, the employer must make good faith efforts, as determined by the board, to hire from trainees in the participant's training program. The agreement with the qualified training institution provided for in (b)(i) of this subsection must specify terms for reimbursement or additional payment to the employment training finance account by the employer if the participant does not, when hiring, make good faith efforts to hire from trainees in the participant's training program.
+
+... The training allowance may not be used to train workers who have been hired as a result of a strike or lockout.
+
+.. Preference is given to employers with fewer than fifty employees.
+
+.. Preference is given to training that leads to transferable skills that are interchangeable among different jobs, employers, or workplaces.
+
+. Qualified training institutions may enter into agreements with four-year institutions of higher education, as defined in RCW 28B.10.016, in accordance with the interlocal cooperation act, chapter 39.34 RCW.
+
+. The board and qualified training institutions may solicit and receive gifts, grants, funds, fees, and endowments, in trust or otherwise, from tribal, local, federal, or other governmental entities, as well as private sources, for the purpose of providing training allowances under chapter 112, Laws of 2006. All revenue thus solicited and received must be deposited into the employment training finance account created in RCW 28B.67.030.
+
+. Qualified training institutions must make good faith efforts to develop training programs using trainers preferred by participants.
+
+. For employers who (a) have requested training under the job skills program created under chapter 28C.04 RCW but are not able to participate in the job skills program because the funds have all been committed, and (b) desire to become participants in the Washington customized employment training program, the board shall ensure a seamless process toward participation.
+
+. The board may adopt rules to implement this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1130-S.SL.pdf?cite=2017%20c%2021%20§%201[2017 c 21 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6371-S.SL.pdf?cite=2012%20c%2046%20§%201[2012 c 46 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1218-S.SL.pdf?cite=2011%20c%20151%20§%204[2011 c 151 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5616-S.SL.pdf?cite=2009%20c%20296%20§%201[2009 c 296 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6326-S2.SL.pdf?cite=2006%20c%20112%20§%203[2006 c 112 § 3]; ]
+
+== 28B.67.030 - Employment training finance account.
+. All payments received from a participant in the Washington customized employment training program created in RCW 28B.67.020 must be deposited into the employment training finance account, which is hereby created in the custody of the state treasurer. Only the state board for community and technical colleges may authorize expenditures from the account and no appropriation is required for expenditures. The money in the account must be used solely for training allowances under the Washington customized employment training program created in RCW 28B.67.020 and for providing up to seventy-five thousand dollars per year for training, marketing, and facilitation services to increase the use of the program. The deposit of payments under this section from a participant ceases when the board specifies that the participant has met the monetary obligations of the program. During the 2013-2015 fiscal biennium, the legislature may transfer from the employment training finance account to the state general fund such amounts as reflect the excess fund balance in the account.
+
+. All revenue solicited and received under the provisions of RCW 28B.67.020(4) must be deposited into the employment training finance account to provide training allowances.
+
+. The definitions in RCW 28B.67.010 apply to this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1130-S.SL.pdf?cite=2017%20c%2021%20§%202[2017 c 21 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5034-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%204%20§%20961[2013 2nd sp.s. c 4 § 961]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6371-S.SL.pdf?cite=2012%20c%2046%20§%202[2012 c 46 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/3219.SL.pdf?cite=2010%201st%20sp.s.%20c%2026%20§%204[2010 1st sp.s. c 26 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1244-S.SL.pdf?cite=2009%20c%20564%20§%201804[2009 c 564 § 1804]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5616-S.SL.pdf?cite=2009%20c%20296%20§%202[2009 c 296 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6326-S2.SL.pdf?cite=2006%20c%20112%20§%208[2006 c 112 § 8]; ]
+
+== 28B.67.900 - Construction.
+This chapter, being necessary for the welfare of the state and its inhabitants, shall be liberally construed to effect its purposes. Insofar as the provisions of this chapter are inconsistent with the provisions of any general or special law, or parts thereof, the provisions of this chapter shall be controlling.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6326-S2.SL.pdf?cite=2006%20c%20112%20§%204[2006 c 112 § 4]; ]
+
+== 28B.67.903 - Effective date—2017 c 21.
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect June 30, 2017.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1130-S.SL.pdf?cite=2017%20c%2021%20§%204[2017 c 21 § 4]; ]
+

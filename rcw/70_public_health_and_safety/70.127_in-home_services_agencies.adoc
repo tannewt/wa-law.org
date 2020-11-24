@@ -1,0 +1,439 @@
+= 70.127 - In-home services agencies.
+:toc:
+
+== 70.127.005 - Legislative intent.
+The legislature finds that the availability of home health, hospice, and home care services has improved the quality of life for Washington's citizens. However, the delivery of these services bring risks because the in-home location of services makes their actual delivery virtually invisible. Also, the complexity of products, services, and delivery systems in today's health care delivery system challenges even informed and healthy individuals. The fact that these services are delivered to the state's most vulnerable population, the ill or disabled who are frequently also elderly, adds to these risks.
+
+It is the intent of the legislature to protect the citizens of Washington state by licensing home health, hospice, and home care agencies. This legislation is not intended to unreasonably restrict entry into the in-home service marketplace. Standards established are intended to be the minimum necessary to ensure safe and competent care, and should be demonstrably related to patient safety and welfare.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c245.pdf?cite=1988%20c%20245%20§%201[1988 c 245 § 1]; ]
+
+== 70.127.010 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Administrator" means an individual responsible for managing the operation of an agency.
+
+. "Department" means the department of health.
+
+. "Director of clinical services" means an individual responsible for nursing, therapy, nutritional, social, and related services that support the plan of care provided by in-home health and hospice agencies.
+
+. "Family" means individuals who are important to, and designated by, the patient or client and who need not be relatives.
+
+. "Home care agency" means a person administering or providing home care services directly or through a contract arrangement to individuals in places of temporary or permanent residence. A home care agency that provides delegated tasks of nursing under RCW 18.79.260(3)(e) is not considered a home health agency for the purposes of this chapter.
+
+. "Home care services" means nonmedical services and assistance provided to ill, disabled, or vulnerable individuals that enable them to remain in their residences. Home care services include, but are not limited to: Personal care such as assistance with dressing, feeding, and personal hygiene to facilitate self-care; homemaker assistance with household tasks, such as housekeeping, shopping, meal planning and preparation, and transportation; respite care assistance and support provided to the family; or other nonmedical services or delegated tasks of nursing under RCW 18.79.260(3)(e).
+
+. "Home health agency" means a person administering or providing two or more home health services directly or through a contract arrangement to individuals in places of temporary or permanent residence. A person administering or providing nursing services only may elect to be designated a home health agency for purposes of licensure.
+
+. "Home health services" means services provided to ill, disabled, or vulnerable individuals. These services include but are not limited to nursing services, home health aide services, physical therapy services, occupational therapy services, speech therapy services, respiratory therapy services, nutritional services, medical social services, and home medical supplies or equipment services.
+
+. "Home health aide services" means services provided by a home health agency or a hospice agency under the supervision of a registered nurse, physical therapist, occupational therapist, or speech therapist who is employed by or under contract to a home health or hospice agency. Such care includes ambulation and exercise, assistance with self-administered medications, reporting changes in patients' conditions and needs, completing appropriate records, and personal care or homemaker services.
+
+. "Home medical supplies" or "equipment services" means diagnostic, treatment, and monitoring equipment and supplies provided for the direct care of individuals within a plan of care.
+
+. "Hospice agency" means a person administering or providing hospice services directly or through a contract arrangement to individuals in places of temporary or permanent residence under the direction of an interdisciplinary team composed of at least a nurse, social worker, physician, spiritual counselor, and a volunteer.
+
+. "Hospice care center" means a homelike, noninstitutional facility where hospice services are provided, and that meets the requirements for operation under RCW 70.127.280.
+
+. "Hospice services" means symptom and pain management provided to a terminally ill individual, and emotional, spiritual, and bereavement support for the individual and family in a place of temporary or permanent residence, and may include the provision of home health and home care services for the terminally ill individual.
+
+. "In-home services agency" means a person licensed to administer or provide home health, home care, hospice services, or hospice care center services directly or through a contract arrangement to individuals in a place of temporary or permanent residence.
+
+. "Person" means any individual, business, firm, partnership, corporation, company, association, joint stock association, public or private agency or organization, or the legal successor thereof that employs or contracts with two or more individuals.
+
+. "Plan of care" means a written document based on assessment of individual needs that identifies services to meet these needs.
+
+. "Quality improvement" means reviewing and evaluating appropriateness and effectiveness of services provided under this chapter.
+
+. "Service area" means the geographic area in which the department has given prior approval to a licensee to provide home health, hospice, or home care services.
+
+. "Social worker" means a person with a degree from a social work educational program accredited and approved as provided in RCW 18.320.010 or who meets qualifications provided in 42 C.F.R. Sec. 418.114 as it existed on January 1, 2012.
+
+. "Survey" means an inspection conducted by the department to evaluate and monitor an agency's compliance with this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5020-S.SL.pdf?cite=2011%20c%2089%20§%2013[2011 c 89 § 13]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1753.SL.pdf?cite=2003%20c%20140%20§%207[2003 c 140 § 7]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2510.SL.pdf?cite=2000%20c%20175%20§%201[2000 c 175 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5499.SL.pdf?cite=1999%20c%20190%20§%201[1999 c 190 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5386-S.SL.pdf?cite=1993%20c%2042%20§%201[1993 c 42 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%20373[1991 c 3 § 373]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c245.pdf?cite=1988%20c%20245%20§%202[1988 c 245 § 2]; ]
+
+== 70.127.020 - Licenses required after July 1, 1990—Penalties.
+. After July 1, 1990, a license is required for a person to advertise, operate, manage, conduct, open, or maintain an in-home services agency.
+
+. An in-home services agency license is required for a nursing home, hospital, or other person that functions as a home health, hospice, hospice care center, or home care agency.
+
+. Any person violating this section is guilty of a misdemeanor. Each day of a continuing violation is a separate violation.
+
+. If any corporation conducts any activity for which a license is required by this chapter without the required license, it may be punished by forfeiture of its corporate charter.
+
+. All fines, forfeitures, and penalties collected or assessed by a court because of a violation of this section shall be deposited in the department's local fee account.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%20363[2003 c 53 § 363]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2510.SL.pdf?cite=2000%20c%20175%20§%202[2000 c 175 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c245.pdf?cite=1988%20c%20245%20§%203[1988 c 245 § 3]; ]
+
+== 70.127.030 - Use of certain terms limited to licensees.
+It is unlawful for any person to use the words:
+
+. "Home health agency," "home health care services," "visiting nurse services," "home health," or "home health services" in its corporate or business name, or advertise using such words unless licensed to provide those services under this chapter;
+
+. "Hospice agency," "hospice," "hospice services," "hospice care," or "hospice care center" in its corporate or business name, or advertise using such words unless licensed to provide those services under this chapter;
+
+. "Home care agency," "home care services," or "home care" in its corporate or business name, or advertise using such words unless licensed to provide those services under this chapter; or
+
+. "In-home services agency," "in-home services," or any similar term to indicate that a person is a home health, home care, hospice care center, or hospice agency in its corporate or business name, or advertise using such words unless licensed to provide those services under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2510.SL.pdf?cite=2000%20c%20175%20§%203[2000 c 175 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c245.pdf?cite=1988%20c%20245%20§%204[1988 c 245 § 4]; ]
+
+== 70.127.040 - Persons, activities, or entities not subject to regulation under chapter.
+The following are not subject to regulation for the purposes of this chapter:
+
+. A family member providing home health, hospice, or home care services;
+
+. A person who provides only meal services in an individual's permanent or temporary residence;
+
+. An individual providing home care through a direct agreement with a recipient of care in an individual's permanent or temporary residence;
+
+. A person furnishing or delivering home medical supplies or equipment that does not involve the provision of services beyond those necessary to deliver, set up, and monitor the proper functioning of the equipment and educate the user on its proper use;
+
+. A person who provides services through a contract with a licensed agency;
+
+. An employee or volunteer of a licensed agency who provides services only as an employee or volunteer;
+
+. Facilities and institutions, including but not limited to nursing homes under chapter 18.51 RCW, hospitals under chapter 70.41 RCW, adult family homes under chapter 70.128 RCW, assisted living facilities under chapter 18.20 RCW, developmental disability residential programs under chapter 71A.12 RCW, other entities licensed under chapter 71.12 RCW, or other licensed facilities and institutions, only when providing services to persons residing within the facility or institution;
+
+. Local and combined city-county health departments providing services under chapters 70.05 and 70.08 RCW;
+
+. An individual providing care to ill individuals, individuals with disabilities, or vulnerable individuals through a contract with the department of social and health services;
+
+. Nursing homes, hospitals, or other institutions, agencies, organizations, or persons that contract with licensed home health, hospice, or home care agencies for the delivery of services;
+
+. In-home assessments of an ill individual, an individual with a disability, or a vulnerable individual that does not result in regular ongoing care at home;
+
+. Services conducted by and for the adherents of a church or religious denomination that rely upon spiritual means alone through prayer for healing in accordance with the tenets and practices of such church or religious denomination and the bona fide religious beliefs genuinely held by such adherents;
+
+. A medicare-approved dialysis center operating a medicare-approved home dialysis program;
+
+. A person providing case management services. For the purposes of this subsection, "case management" means the assessment, coordination, authorization, planning, training, and monitoring of home health, hospice, and home care, and does not include the direct provision of care to an individual;
+
+. Pharmacies licensed under RCW 18.64.043 that deliver prescription drugs and durable medical equipment that does not involve the use of professional services beyond those authorized to be performed by licensed pharmacists pursuant to chapter 18.64 RCW and those necessary to set up and monitor the proper functioning of the equipment and educate the person on its proper use;
+
+. A volunteer hospice complying with the requirements of RCW 70.127.050;
+
+. A person who provides home care services without compensation;
+
+. Nursing homes that provide telephone or web-based transitional care management services; and
+
+. A rural health clinic providing health services in a home health shortage area as declared by the department pursuant to 42 C.F.R. Sec. 405.2416.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6359.SL.pdf?cite=2020%20c%20258%20§%202[2020 c 258 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2056-S.SL.pdf?cite=2012%20c%2010%20§%2054[2012 c 10 § 54]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5708-S.SL.pdf?cite=2011%20c%20366%20§%206[2011 c 366 § 6]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1296.SL.pdf?cite=2003%20c%20275%20§%203[2003 c 275 § 3]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1753.SL.pdf?cite=2003%20c%20140%20§%208[2003 c 140 § 8]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2510.SL.pdf?cite=2000%20c%20175%20§%204[2000 c 175 § 4]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5386-S.SL.pdf?cite=1993%20c%2042%20§%202[1993 c 42 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c245.pdf?cite=1988%20c%20245%20§%205[1988 c 245 § 5]; ]
+
+== 70.127.050 - Volunteer organizations—Use of phrase "volunteer hospice."
+. An entity that provides hospice care without receiving compensation for delivery of any of its services is exempt from licensure pursuant to RCW 70.127.020(1) if it notifies the department, on forms provided by the department, of its name, address, name of owner, and a statement affirming that it provides hospice care without receiving compensation for delivery of any of its services. This form must be filed with the department within sixty days after being informed in writing by the department of this requirement for obtaining exemption from licensure under this chapter.
+
+. For the purposes of this section, it is not relevant if the entity compensates its staff. For the purposes of this section, the word "compensation" does not include donations.
+
+. Notwithstanding the provisions of RCW 70.127.030(2), an entity that provides hospice care without receiving compensation for delivery of any of its services is allowed to use the phrase "volunteer hospice."
+
+. Nothing in this chapter precludes an entity providing hospice care without receiving compensation for delivery of any of its services from obtaining a hospice license if it so chooses, but that entity would be exempt from the requirements set forth in RCW 70.127.080(1)(d).
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2510.SL.pdf?cite=2000%20c%20175%20§%205[2000 c 175 § 5]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5386-S.SL.pdf?cite=1993%20c%2042%20§%203[1993 c 42 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c245.pdf?cite=1988%20c%20245%20§%206[1988 c 245 § 6]; ]
+
+== 70.127.080 - Licenses—Application procedure and requirements.
+. An applicant for an in-home services agency license shall:
+
+.. File a written application on a form provided by the department;
+
+.. Demonstrate ability to comply with this chapter and the rules adopted under this chapter;
+
+.. Cooperate with on-site survey conducted by the department except as provided in RCW 70.127.085;
+
+.. Provide evidence of and maintain professional liability, public liability, and property damage insurance in an amount established by the department, based on industry standards. This subsection shall not apply to hospice agency applicants that provide hospice care without receiving compensation for delivery of services;
+
+.. Provide documentation of an organizational structure, and the identity of the applicant, officers, administrator, directors of clinical services, partners, managing employees, or owners of ten percent or more of the applicant's assets;
+
+.. File with the department for approval a description of the service area in which the applicant will operate and a description of how the applicant intends to provide management and supervision of services throughout the service area. The department shall adopt rules necessary to establish criteria for approval that are related to appropriate management and supervision of services throughout the service area. In developing the rules, the department may not establish criteria that:
+
+... Limit the number or type of agencies in any service area; or
+
+... Limit the number of persons any agency may serve within its service area unless the criteria are related to the need for trained and available staff to provide services within the service area;
+
+.. File with the department a list of the home health, hospice, and home care services provided directly and under contract;
+
+.. Pay to the department a license fee as provided in RCW 70.127.090;
+
+.. Comply with RCW 43.43.830 through 43.43.842 for criminal background checks; and
+
+.. Provide any other information that the department may reasonably require.
+
+. A certificate of need under chapter 70.38 RCW is not required for licensure except for the operation of a hospice care center.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2510.SL.pdf?cite=2000%20c%20175%20§%206[2000 c 175 § 6]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5499.SL.pdf?cite=1999%20c%20190%20§%202[1999 c 190 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5386-S.SL.pdf?cite=1993%20c%2042%20§%204[1993 c 42 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c245.pdf?cite=1988%20c%20245%20§%209[1988 c 245 § 9]; ]
+
+== 70.127.085 - State licensure survey.
+. Notwithstanding the provisions of RCW 70.127.080(1)(c), an in-home services agency that is certified by the federal medicare program, or accredited by the community health accreditation program, or the joint commission on accreditation of health care organizations as a home health or hospice agency is not subject to a state licensure survey if:
+
+.. The department determines that the applicable survey standards of the certification or accreditation program are substantially equivalent to those required by this chapter;
+
+.. An on-site survey has been conducted for the purposes of certification or accreditation during the previous twenty-four months; and
+
+.. The department receives directly from the certifying or accrediting entity or from the licensee applicant copies of the initial and subsequent survey reports and other relevant reports or findings that indicate compliance with licensure requirements.
+
+. Notwithstanding the provisions of RCW 70.127.080(1)(c), an in-home services agency providing services under contract with the department of social and health services or area agency on aging to provide home care services and that is monitored by the department of social and health services or area agency on aging is not subject to a state licensure survey by the department of health if:
+
+.. The department determines that the department of social and health services or an area agency on aging monitoring standards are substantially equivalent to those required by this chapter;
+
+.. An on-site monitoring has been conducted by the department of social and health services or an area agency on aging during the previous twenty-four months;
+
+.. The department of social and health services or an area agency on aging includes in its monitoring a sample of private pay clients, if applicable; and
+
+.. The department receives directly from the department of social and health services copies of monitoring reports and other relevant reports or findings that indicate compliance with licensure requirements.
+
+. The department retains authority to survey those services areas not addressed by the national accrediting body, department of social and health services, or an area agency on aging.
+
+. In reviewing the federal, the joint commission on accreditation of health care organizations, the community health accreditation program, or the department of social and health services survey standards for substantial equivalency to those set forth in this chapter, the department is directed to provide the most liberal interpretation consistent with the intent of this chapter. In the event the department determines at any time that the survey standards are not substantially equivalent to those required by this chapter, the department is directed to notify the affected licensees. The notification shall contain a detailed description of the deficiencies in the alternative survey process, as well as an explanation concerning the risk to the consumer. The determination of substantial equivalency for alternative survey process and lack of substantial equivalency are agency actions and subject to RCW 34.05.210 through 34.05.395 and 34.05.510 through 34.05.675.
+
+. The department is authorized to perform a validation survey on in-home services agencies who previously received a survey through accreditation or contracts with the department of social and health services or an area agency on aging under subsection (2) of this section. The department is authorized to perform a validation survey on no greater than ten percent of each type of certification or accreditation survey.
+
+. This section does not affect the department's enforcement authority for licensed agencies.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2510.SL.pdf?cite=2000%20c%20175%20§%207[2000 c 175 § 7]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5386-S.SL.pdf?cite=1993%20c%2042%20§%2011[1993 c 42 § 11]; ]
+
+== 70.127.090 - License or renewal—Fees—Sliding scale.
+. Application and renewal fee: An application for a license or any renewal shall be accompanied by a fee as established by the department under RCW 43.70.250. The department shall adopt by rule licensure fees based on a sliding scale using such factors as the number of agency full-time equivalents, geographic area served, number of locations, or type and volume of services provided. For agencies receiving a licensure survey that requires more than two on-site surveys by the department per licensure period, an additional fee as determined by the department by rule shall be charged for each additional on-site survey. The department may set different licensure fees for each licensure category. Agencies receiving a license without necessity of an on-site survey by the department under this chapter shall pay the same licensure or transfer fee as other agencies in their licensure category.
+
+. Change of ownership fee: The department shall charge a reasonable fee for processing changes in ownership. The fee for transfer of ownership may not exceed fifty percent of the base licensure fee.
+
+. Late fee: The department may establish a late fee for failure to apply for licensure or renewal as required by this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2510.SL.pdf?cite=2000%20c%20175%20§%208[2000 c 175 § 8]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5499.SL.pdf?cite=1999%20c%20190%20§%203[1999 c 190 § 3]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5386-S.SL.pdf?cite=1993%20c%2042%20§%205[1993 c 42 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c245.pdf?cite=1988%20c%20245%20§%2010[1988 c 245 § 10]; ]
+
+== 70.127.100 - Licenses—Issuance—Prerequisites—Transfer or assignment—Surveys.
+Upon receipt of an application under RCW 70.127.080 for a license and the license fee, the department shall issue a license if the applicant meets the requirements established under this chapter. A license issued under this chapter shall not be transferred or assigned without thirty days prior notice to the department and the department's approval. A license, unless suspended or revoked, is effective for a period of two years, however an initial license is only effective for twelve months. The department shall conduct a survey within each licensure period and may conduct a licensure survey after ownership transfer.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2510.SL.pdf?cite=2000%20c%20175%20§%209[2000 c 175 § 9]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5386-S.SL.pdf?cite=1993%20c%2042%20§%206[1993 c 42 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c245.pdf?cite=1988%20c%20245%20§%2011[1988 c 245 § 11]; ]
+
+== 70.127.120 - Rules for recordkeeping, services, staff and volunteer policies, complaints.
+The department shall adopt rules consistent with RCW 70.127.005 necessary to implement this chapter under chapter 34.05 RCW. In order to ensure safe and adequate care, the rules shall address at a minimum the following:
+
+. Maintenance and preservation of all records relating directly to the care and treatment of individuals by licensees;
+
+. Establishment and implementation of a procedure for the receipt, investigation, and disposition of complaints regarding services provided;
+
+. Establishment and implementation of a plan for ongoing care of individuals and preservation of records if the licensee ceases operations;
+
+. Supervision of services;
+
+. Establishment and implementation of written policies regarding response to referrals and access to services;
+
+. Establishment and implementation of written personnel policies, procedures and personnel records for paid staff that provide for prehire screening, minimum qualifications, regular performance evaluations, including observation in the home, participation in orientation and in-service training, and involvement in quality improvement activities. The department may not establish experience or other qualifications for agency personnel or contractors beyond that required by state law;
+
+. Establishment and implementation of written policies and procedures for volunteers who have direct patient/client contact and that provide for background and health screening, orientation, and supervision;
+
+. Establishment and implementation of written policies for obtaining regular reports on patient satisfaction;
+
+. Establishment and implementation of a quality improvement process;
+
+. Establishment and implementation of policies related to the delivery of care including:
+
+.. Plan of care for each individual served;
+
+.. Periodic review of the plan of care;
+
+.. Supervision of care and clinical consultation as necessary;
+
+.. Care consistent with the plan;
+
+.. Admission, transfer, and discharge from care; and
+
+.. For hospice services:
+
+... Availability of twenty-four hour seven days a week hospice registered nurse consultation and in-home services as appropriate;
+
+... Interdisciplinary team communication as appropriate and necessary; and
+
+... The use and availability of volunteers to provide family support and respite care; and
+
+. Establishment and implementation of policies related to agency implementation and oversight of nurse delegation as defined in RCW 18.79.260(3)(e).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1753.SL.pdf?cite=2003%20c%20140%20§%209[2003 c 140 § 9]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2510.SL.pdf?cite=2000%20c%20175%20§%2010[2000 c 175 § 10]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5386-S.SL.pdf?cite=1993%20c%2042%20§%208[1993 c 42 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c245.pdf?cite=1988%20c%20245%20§%2013[1988 c 245 § 13]; ]
+
+== 70.127.125 - Interpretive guidelines for services.
+The department is directed to continue to develop, with opportunity for comment from licensees, interpretive guidelines that are specific to each type of service and consistent with legislative intent.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2510.SL.pdf?cite=2000%20c%20175%20§%2011[2000 c 175 § 11]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5386-S.SL.pdf?cite=1993%20c%2042%20§%207[1993 c 42 § 7]; ]
+
+== 70.127.130 - Legend drugs and controlled substances—Rules.
+Licensees shall conform to the standards of RCW 69.41.030 and 69.50.308. Rules adopted by the department concerning the use of legend drugs or controlled substances shall reference and be consistent with pharmacy quality assurance commission rules.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1609.SL.pdf?cite=2013%20c%2019%20§%20125[2013 c 19 § 125]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5386-S.SL.pdf?cite=1993%20c%2042%20§%209[1993 c 42 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c245.pdf?cite=1988%20c%20245%20§%2014[1988 c 245 § 14]; ]
+
+== 70.127.140 - Bill of rights—Billing statements.
+. An in-home services agency shall provide each individual or designated representative with a written bill of rights affirming each individual's right to:
+
+.. A listing of the in-home services offered by the in-home services agency and those being provided;
+
+.. The name of the individual supervising the care and the manner in which that individual may be contacted;
+
+.. A description of the process for submitting and addressing complaints;
+
+.. Submit complaints without retaliation and to have the complaint addressed by the agency;
+
+.. Be informed of the state complaint hotline number;
+
+.. A statement advising the individual or representative of the right to ongoing participation in the development of the plan of care;
+
+.. A statement providing that the individual or representative is entitled to information regarding access to the department's listing of providers and to select any licensee to provide care, subject to the individual's reimbursement mechanism or other relevant contractual obligations;
+
+.. Be treated with courtesy, respect, privacy, and freedom from abuse and discrimination;
+
+.. Refuse treatment or services;
+
+.. Have property treated with respect;
+
+.. Privacy of personal information and confidentiality of health care records;
+
+.. Be cared for by properly trained staff with coordination of services;
+
+.. A fully itemized billing statement upon request, including the date of each service and the charge. Licensees providing services through a managed care plan shall not be required to provide itemized billing statements; and
+
+.. Be informed about advanced directives and the agency's responsibility to implement them.
+
+. An in-home services agency shall ensure rights under this section are implemented and updated as appropriate.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2510.SL.pdf?cite=2000%20c%20175%20§%2012[2000 c 175 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c245.pdf?cite=1988%20c%20245%20§%2015[1988 c 245 § 15]; ]
+
+== 70.127.150 - Durable power of attorney—Prohibition for licensees, contractees, or employees.
+No licensee, contractee, or employee may hold a durable power of attorney on behalf of any individual who is receiving care from the licensee.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2510.SL.pdf?cite=2000%20c%20175%20§%2013[2000 c 175 § 13]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c245.pdf?cite=1988%20c%20245%20§%2016[1988 c 245 § 16]; ]
+
+== 70.127.170 - Licenses—Denial, restriction, conditions, modification, suspension, revocation—Civil penalties.
+Pursuant to chapter 34.05 RCW and RCW 70.127.180(3), the department may deny, restrict, condition, modify, suspend, or revoke a license under this chapter or, in lieu thereof or in addition thereto, assess monetary penalties of a civil nature not to exceed one thousand dollars per violation, or require a refund of any amounts billed to, and collected from, the consumer or third-party payor in any case in which it finds that the licensee, or any applicant, officer, director, partner, managing employee, or owner of ten percent or more of the applicant's or licensee's assets:
+
+. Failed or refused to comply with the requirements of this chapter or the standards or rules adopted under this chapter;
+
+. Was the holder of a license issued pursuant to this chapter that was revoked for cause and never reissued by the department, or that was suspended for cause and the terms of the suspension have not been fulfilled and the licensee has continued to operate;
+
+. Has knowingly or with reason to know made a misrepresentation of, false statement of, or failed to disclose, a material fact to the department in an application for the license or any data attached thereto or in any record required by this chapter or matter under investigation by the department, or during a survey, or concerning information requested by the department;
+
+. Refused to allow representatives of the department to inspect any book, record, or file required by this chapter to be maintained or any portion of the licensee's premises;
+
+. Willfully prevented, interfered with, or attempted to impede in any way the work of any representative of the department and the lawful enforcement of any provision of this chapter. This includes but is not limited to: Willful misrepresentation of facts during a survey, investigation, or administrative proceeding or any other legal action; or use of threats or harassment against any patient, client, or witness, or use of financial inducements to any patient, client, or witness to prevent or attempt to prevent him or her from providing evidence during a survey or investigation, in an administrative proceeding, or any other legal action involving the department;
+
+. Willfully prevented or interfered with any representative of the department in the preservation of evidence of any violation of this chapter or the rules adopted under this chapter;
+
+. Failed to pay any civil monetary penalty assessed by the department pursuant to this chapter within ten days after the assessment becomes final;
+
+. Used advertising that is false, fraudulent, or misleading;
+
+. Has repeated incidents of personnel performing services beyond their authorized scope of practice;
+
+. Misrepresented or was fraudulent in any aspect of the conduct of the licensee's business;
+
+. Within the last five years, has been found in a civil or criminal proceeding to have committed any act that reasonably relates to the person's fitness to establish, maintain, or administer an agency or to provide care in the home of another;
+
+. Was the holder of a license to provide care or treatment to ill, disabled, or vulnerable individuals that was denied, restricted, not renewed, surrendered, suspended, or revoked by a competent authority in any state, federal, or foreign jurisdiction. A certified copy of the order, stipulation, or agreement is conclusive evidence of the denial, restriction, nonrenewal, surrender, suspension, or revocation;
+
+. Violated any state or federal statute, or administrative rule regulating the operation of the agency;
+
+. Failed to comply with an order issued by the secretary or designee;
+
+. Aided or abetted the unlicensed operation of an in-home services agency;
+
+. Operated beyond the scope of the in-home services agency license;
+
+. Failed to adequately supervise staff to the extent that the health or safety of a patient or client was at risk;
+
+. Compromised the health or safety of a patient or client, including, but not limited to, the individual performing services beyond their authorized scope of practice;
+
+. Continued to operate after license revocation, suspension, or expiration, or operating outside the parameters of a modified, conditioned, or restricted license;
+
+. Failed or refused to comply with chapter 70.02 RCW;
+
+. Abused, neglected, abandoned, or financially exploited a patient or client as these terms are defined in RCW 74.34.020;
+
+. Misappropriated the property of an individual;
+
+. Is unqualified or unable to operate or direct the operation of the agency according to this chapter and the rules adopted under this chapter;
+
+. Obtained or attempted to obtain a license by fraudulent means or misrepresentation; or
+
+. Failed to report abuse or neglect of a patient or client in violation of chapter 74.34 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1753.SL.pdf?cite=2003%20c%20140%20§%2010[2003 c 140 § 10]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2510.SL.pdf?cite=2000%20c%20175%20§%2014[2000 c 175 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c245.pdf?cite=1988%20c%20245%20§%2018[1988 c 245 § 18]; ]
+
+== 70.127.180 - Surveys and in-home visits—Notice of violations—Enforcement action.
+. The department may at any time conduct a survey of all records and operations of a licensee in order to determine compliance with this chapter. The department may conduct in-home visits to observe patient/client care and services. The right to conduct a survey shall extend to any premises and records of persons whom the department has reason to believe are providing home health, hospice, or home care services without a license.
+
+. Following a survey, the department shall give written notice of any violation of this chapter or the rules adopted under this chapter. The notice shall describe the reasons for noncompliance.
+
+. The licensee may be subject to formal enforcement action under RCW 70.127.170 if the department determines: (a) The licensee has previously been subject to a formal enforcement action for the same or similar type of violation of the same statute or rule, or has been given previous notice of the same or similar type of violation of the same statute or rule; (b) the licensee failed to achieve compliance with a statute, rule, or order by the date established in a previously issued notice or order; (c) the violation resulted in actual serious physical or emotional harm or immediate threat to the health, safety, welfare, or rights of one or more individuals; or (d) the violation has a potential for serious physical or emotional harm or immediate threat to the health, safety, welfare, or rights of one or more individuals.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2510.SL.pdf?cite=2000%20c%20175%20§%2015[2000 c 175 § 15]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c245.pdf?cite=1988%20c%20245%20§%2019[1988 c 245 § 19]; ]
+
+== 70.127.190 - Disclosure of compliance information.
+All information received by the department through filed reports, surveys, and in-home visits conducted under this chapter shall not be disclosed publicly in any manner that would identify individuals receiving care under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2510.SL.pdf?cite=2000%20c%20175%20§%2016[2000 c 175 § 16]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c245.pdf?cite=1988%20c%20245%20§%2020[1988 c 245 § 20]; ]
+
+== 70.127.200 - Unlicensed agencies—Department may seek injunctive or other relief—Injunctive relief does not prohibit criminal or civil penalties—Fines.
+. Notwithstanding the existence or use of any other remedy, the department may, in the manner provided by law and upon the advice of the attorney general, who shall represent the department in the proceedings, maintain an action in the name of the state for an injunction or other process against any person to restrain or prevent the advertising, operating, maintaining, managing, or opening of a home health, hospice, hospice care center, or home care agency without an in-home services agency license under this chapter.
+
+. The injunction shall not relieve the person operating an in-home services agency without a license from criminal prosecution, or the imposition of a civil fine under RCW 70.127.213(2), but the remedy by injunction shall be in addition to any criminal liability or civil fine. A person that violates an injunction issued under this chapter shall pay a civil penalty, as determined by the court, of not more than twenty-five thousand dollars, which shall be deposited in the department's local fee account. For the purpose of this section, the superior court issuing any injunction shall retain jurisdiction and the cause shall be continued, and in such cases the attorney general acting in the name of the state may petition for the recovery of civil penalties. All fines, forfeitures, and penalties collected or assessed by a court because of a violation of RCW 70.127.020 shall be deposited in the department's local fee account.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2510.SL.pdf?cite=2000%20c%20175%20§%2017[2000 c 175 § 17]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c245.pdf?cite=1988%20c%20245%20§%2021[1988 c 245 § 21]; ]
+
+== 70.127.213 - Unlicensed operation of an in-home services agency—Cease and desist orders—Adjudicative proceedings—Fines.
+. The department may issue a notice of intention to issue a cease and desist order to any person whom the department has reason to believe is engaged in the unlicensed operation of an in-home services agency. The person to whom the notice of intent is issued may request an adjudicative proceeding to contest the charges. The request for hearing must be filed within twenty days after service of the notice of intent to issue a cease and desist order. The failure to request a hearing constitutes a default, whereupon the department may enter a permanent cease and desist order, which may include a civil fine. All proceedings shall be conducted in accordance with chapter 34.05 RCW.
+
+. If the department makes a final determination that a person has engaged or is engaging in unlicensed operation of an in-home services agency, the department may issue a cease and desist order. In addition, the department may impose a civil fine in an amount not exceeding one thousand dollars for each day upon which the person engaged in unlicensed operation of an in-home services agency. The proceeds of such fines shall be deposited in the department's local fee account.
+
+. If the department makes a written finding of fact that the public interest will be irreparably harmed by delay in issuing an order, the department may issue a temporary cease and desist order. The person receiving a temporary cease and desist order shall be provided an opportunity for a prompt hearing. The temporary cease and desist order shall remain in effect until further order of the department. The failure to request a prompt or regularly scheduled hearing constitutes a default, whereupon the department may enter a permanent cease and desist order, which may include a civil fine.
+
+. Neither the issuance of a cease and desist order nor payment of a civil fine shall relieve the person so operating an in-home services agency without a license from criminal prosecution, but the remedy of a cease and desist order or civil fine shall be in addition to any criminal liability. The cease and desist order is conclusive proof of unlicensed operation and may be enforced under RCW 7.21.060. This method of enforcement of the cease and desist order or civil fine may be used in addition to, or as an alternative to, any provisions for enforcement of agency orders set out in chapter 34.05 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2510.SL.pdf?cite=2000%20c%20175%20§%2019[2000 c 175 § 19]; ]
+
+== 70.127.216 - Unlicensed operation of an in-home services agency—Consumer protection act.
+The legislature finds that the operation of an in-home services agency without a license in violation of this chapter is a matter vitally affecting the public interest for the purpose of applying the consumer protection act, chapter 19.86 RCW. Operation of an in-home services agency without a license in violation of this chapter is not reasonable in relation to the development and preservation of business. Such a violation is an unfair or deceptive act in trade or commerce and an unfair method of competition for the purpose of applying the consumer protection act, chapter 19.86 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2510.SL.pdf?cite=2000%20c%20175%20§%2020[2000 c 175 § 20]; ]
+
+== 70.127.280 - Hospice care centers—Applicants—Rules.
+. Applicants desiring to operate a hospice care center are subject to the following:
+
+.. The application may only be made by a licensed hospice agency. The agency shall list which of the following service categories will be provided:
+
+... General inpatient care;
+
+... Continuous home care;
+
+... Routine home care; or
+
+... Inpatient respite care;
+
+.. A certificate of need is required under chapter 70.38 RCW;
+
+.. A hospice agency may operate more than one hospice care center in its service area;
+
+.. For hospice agencies that operate a hospice care center, no more than forty-nine percent of patient care days, in the aggregate on a biennial basis, may be provided in the hospice care center;
+
+.. The maximum number of beds in a hospice care center is twenty;
+
+.. The maximum number of individuals per room is one, unless the individual requests a roommate;
+
+.. A hospice care center may either be owned or leased by a hospice agency. If the agency leases space, all delivery of interdisciplinary services, to include staffing and management, shall be done by the hospice agency; and
+
+.. A hospice care center may either be freestanding or a separate portion of another building.
+
+. The department is authorized to develop rules to implement this section. The rules shall be specific to each hospice care center service category provided. The rules shall at least specifically address the following:
+
+.. Adequate space for family members to visit, meet, cook, share meals, and stay overnight with patients or clients;
+
+.. A separate external entrance, clearly identifiable to the public when part of an existing structure;
+
+.. Construction, maintenance, and operation of a hospice care center;
+
+.. Means to inform the public which hospice care center service categories are provided; and
+
+.. A registered nurse present twenty-four hours a day, seven days a week for hospice care centers delivering general inpatient services.
+
+. Hospice agencies which as of January 1, 2000, operate the functional equivalent of a hospice care center through licensure as a hospital, under chapter 70.41 RCW, shall be exempt from the certificate of need requirement for hospice care centers if they apply for and receive a license as an in-home services agency to operate a hospice home care center by July 1, 2002.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2510.SL.pdf?cite=2000%20c%20175%20§%2021[2000 c 175 § 21]; ]
+

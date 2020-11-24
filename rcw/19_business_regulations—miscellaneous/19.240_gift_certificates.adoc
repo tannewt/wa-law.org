@@ -1,0 +1,104 @@
+= 19.240 - Gift certificates.
+:toc:
+
+== 19.240.005 - Intent.
+It is the intent of the legislature to relieve businesses from the obligation of reporting gift certificates as unclaimed property. In order to protect consumers, the legislature intends to prohibit acts and practices of retailers that deprive consumers of the full value of gift certificates, such as expiration dates, service fees, and dormancy and inactivity charges, on gift certificates. The legislature does not intend that chapter 168, Laws of 2004 be construed to apply to cards or other payment instruments issued for payment of wages or other intangible property. To that end, the legislature intends that chapter 168, Laws of 2004 should be liberally construed to benefit consumers and that any ambiguities should be resolved by applying the uniform unclaimed property act to the intangible property in question.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/3036.SL.pdf?cite=2004%20c%20168%20§%201[2004 c 168 § 1]; ]
+
+== 19.240.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. [Empty]
+.. "Gift card" means a record as described in subsection (5)[(2)] of this section in the form of a card, or a stored value card or other physical medium, containing stored value primarily intended to be exchanged for consumer goods and services.
+
+.. "Gift card" does not include prepaid telephone calling cards or prepaid commercial mobile radio services as defined in 47 C.F.R. 20.3.
+
+. [Empty]
+.. "Gift certificate" means an instrument evidencing a promise by the seller or issuer of the record that consumer goods or services will be provided to the bearer of the record to the value or credit shown in the record and includes gift cards.
+
+.. "Gift certificate" does not include prepaid telephone calling cards or prepaid commercial mobile radio services as defined in 47 C.F.R. 20.3.
+
+. "Bearer" means a person with a right to receive consumer goods and services under the terms of a gift certificate, without regard to any fee, expiration date, or dormancy or inactivity charge.
+
+. "Issue" means to sell or otherwise provide a gift certificate to any person, and includes reloading or adding value to an existing gift certificate.
+
+. "Stored value" has the same meaning as the term "closed loop prepaid access" defined in RCW 19.230.010.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1727.SL.pdf?cite=2019%20c%20376%20§%201[2019 c 376 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1867.SL.pdf?cite=2011%20c%20213%20§%201[2011 c 213 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/3036.SL.pdf?cite=2004%20c%20168%20§%202[2004 c 168 § 2]; ]
+
+== 19.240.020 - Unlawful actions—Remaining value—Lost/stolen gift certificates.
+. Except as provided in RCW 19.240.030, it is unlawful for any person or entity to issue, or to enforce against a bearer, a gift certificate that contains:
+
+.. An expiration date;
+
+.. Any fee, including a service fee; or
+
+.. A dormancy or inactivity charge.
+
+. If a gift certificate is issued with the sale of tangible personal property or services, the gift certificate is subject to subsection (1) of this section.
+
+. If a purchase is made with a gift certificate for an amount that is less than the value of the gift certificate, the issuer must make the remaining value available to the bearer in cash or as a gift certificate at the option of the issuer. If after the purchase the remaining value of the gift certificate is less than five dollars, the gift certificate must be redeemable in cash for its remaining value on demand of the bearer. A gift certificate is valid until redeemed or replaced.
+
+. This section does not require, unless otherwise required by law, the issuer of a gift certificate to replace a lost or stolen gift certificate.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1727.SL.pdf?cite=2019%20c%20376%20§%202[2019 c 376 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/3036.SL.pdf?cite=2004%20c%20168%20§%203[2004 c 168 § 3]; ]
+
+== 19.240.030 - Expiration date allowed, when.
+. It is lawful to issue, and to enforce against the bearer, a gift certificate containing an expiration date if:
+
+.. The gift certificate is issued pursuant to an awards or loyalty program for the gift certificate.
+
+.. The gift certificate is donated to a charitable organization without any money or other thing of value being given in exchange for the gift certificate if the gift certificate is used by a charitable organization solely to provide charitable services.
+
+. The expiration date must be disclosed clearly and legibly on any gift certificate described in subsection (1) of this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1727.SL.pdf?cite=2019%20c%20376%20§%203[2019 c 376 § 3]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/3036.SL.pdf?cite=2004%20c%20168%20§%204[2004 c 168 § 4]; ]
+
+== 19.240.080 - Abandoned gift certificates.
+An issuer is not required to honor a gift certificate presumed abandoned under RCW 63.29.110, reported, and delivered to the department of revenue in the dissolution of a business association.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/3036.SL.pdf?cite=2004%20c%20168%20§%209[2004 c 168 § 9]; ]
+
+== 19.240.090 - Value of gift certificate held in trust by issuer—Bankruptcy.
+. A gift certificate constitutes value held in trust by the issuer of the gift certificate on behalf of the beneficiary of the gift certificate. The value represented by the gift certificate belongs to the beneficiary, or to the legal representative of the beneficiary to the extent provided by law, and not to the issuer.
+
+. An issuer of a gift certificate who is in bankruptcy shall continue to honor a gift certificate issued before the date of the bankruptcy filing on the grounds that the value of the gift certificate constitutes trust property of the beneficiary.
+
+. The terms of a gift certificate may not make its redemption or other use invalid in the event of a bankruptcy.
+
+. This section does not require, unless otherwise required by law, the issuer of a gift certificate to:
+
+.. Redeem a gift certificate for cash;
+
+.. Replace a lost or stolen gift certificate; or
+
+.. Maintain a separate account for the funds used to purchase the gift certificate.
+
+. This section does not create an interest in favor of the beneficiary of the gift certificate in any specific property of the issuer.
+
+. This section does not create a fiduciary or quasi-fiduciary relationship between the beneficiary of the gift certificates and the issuer unless otherwise provided by law.
+
+. The issuer of a gift certificate has no obligation to pay interest on the value of a gift certificate held in trust under this section, unless otherwise provided by law.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/3036.SL.pdf?cite=2004%20c%20168%20§%2010[2004 c 168 § 10]; ]
+
+== 19.240.100 - Gift certificates issued by financial institutions—Application of chapter.
+This chapter does not apply to gift certificates issued by financial institutions as defined in *RCW 30.22.041 or their operating subsidiaries that are usable with multiple unaffiliated sellers of goods or services.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/3036.SL.pdf?cite=2004%20c%20168%20§%2011[2004 c 168 § 11]; ]
+
+== 19.240.110 - Agreement in violation of chapter.
+An agreement made in violation of the provisions of this chapter is contrary to public policy and is void and unenforceable against the bearer.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/3036.SL.pdf?cite=2004%20c%20168%20§%2012[2004 c 168 § 12]; ]
+
+== 19.240.900 - Application—2004 c 168 §§ 1-12.
+Sections 1 through 12 of this act apply to:
+
+. Gift certificates issued on or after July 1, 2004; and
+
+. Those gift certificates presumed abandoned on or after July 1, 2004, and not reported as provided in RCW 63.29.170(4).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/3036.SL.pdf?cite=2004%20c%20168%20§%2018[2004 c 168 § 18]; ]
+

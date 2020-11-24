@@ -1,0 +1,202 @@
+= 83.110A - Washington uniform estate tax apportionment act.
+:toc:
+
+== 83.110A.010 - Definitions.
+The following definitions apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Apportionable estate" means the value of the gross estate as finally determined for purposes of the estate tax to be apportioned reduced by:
+
+.. Any claim or expense allowable as a deduction for purposes of the tax;
+
+.. The value of any interest in property that, for purposes of the tax, qualifies for a marital or charitable deduction or otherwise is deductible or is exempt; and
+
+.. Any amount added to the decedent's gross estate because of a gift tax on transfers made before death.
+
+. "Estate tax" means a federal, state, or foreign tax imposed because of the death of an individual and interest and penalties associated with the tax. The term does not include an inheritance tax, income tax, or generation-skipping transfer tax other than a generation-skipping transfer tax incurred on a direct skip taking effect at death.
+
+. "Gross estate" means, with respect to an estate tax, all interests in property subject to the tax.
+
+. "Person" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, public corporation, government, governmental subdivision, agency, or instrumentality, or any other legal or commercial entity.
+
+. "Ratable" means apportioned or allocated pro rata according to the relative values of interests to which the term is to be applied. "Ratably" has a corresponding meaning.
+
+. "Time-limited interest" means an interest in property which terminates on a lapse of time or on the occurrence or nonoccurrence of an event or which is subject to the exercise of discretion that could transfer a beneficial interest to another person. The term does not include a cotenancy unless the cotenancy itself is a time-limited interest.
+
+. "Value" means, with respect to an interest in property, fair market value as finally determined for purposes of the estate tax that is to be apportioned, reduced by any outstanding debt secured by the interest without reduction for taxes paid or required to be paid or for any special valuation adjustment.
+
+. "Internal Revenue Code" means the United States Internal Revenue Code of 1986, as amended or renumbered as of January 1, 2005.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5052-S.SL.pdf?cite=2005%20c%20332%20§%202[2005 c 332 § 2]; ]
+
+== 83.110A.020 - Apportionment by will or other dispositive instrument.
+. Except as otherwise provided in subsection (3) of this section, the following rules apply:
+
+.. To the extent that a provision of a decedent's will provides for the apportionment of an estate tax, the tax must be apportioned accordingly.
+
+.. Any portion of an estate tax not apportioned pursuant to (a) of this subsection must be apportioned in accordance with any provision of a revocable trust of which the decedent was the settlor which provides for the apportionment of an estate tax. If conflicting apportionment provisions appear in two or more revocable trust instruments, the provision in the most recently dated instrument prevails. For purposes of this subsection (1)(b):
+
+... A trust is revocable if it was revocable immediately after the trust instrument was executed, even if the trust subsequently becomes irrevocable; and
+
+... The date of an amendment to a revocable trust instrument is the date of the amended instrument only if the amendment contains an apportionment provision.
+
+.. If any portion of an estate tax is not apportioned pursuant to (a) or (b) of this subsection, and a provision in any other dispositive instrument provides that any interest in the property disposed of by the instrument is or is not to be applied to the payment of the estate tax attributable to the interest disposed of by the instrument, the provision controls the apportionment of the tax to that interest.
+
+. Subject to subsection (3) of this section, and unless the decedent provides to the contrary, the following rules apply:
+
+.. If an apportionment provision provides that a person receiving an interest in property under an instrument is to be exonerated from the responsibility to pay an estate tax that would otherwise be apportioned to the interest:
+
+... The tax attributable to the exonerated interest must be apportioned among the other persons receiving interests passing under the instrument; or
+
+... If the values of the other interests are less than the tax attributable to the exonerated interest, the deficiency must be apportioned ratably among the other persons receiving interests in the apportionable estate that are not exonerated from apportionment of the tax.
+
+.. If an apportionment provision provides that an estate tax is to be apportioned to an interest in property a portion of which qualifies for a marital or charitable deduction, the estate tax must first be apportioned ratably among the holders of the portion that does not qualify for a marital or charitable deduction and then apportioned ratably among the holders of the deductible portion to the extent that the value of the nondeductible portion is insufficient.
+
+.. Except as otherwise provided in (d) of this subsection, if an apportionment provision provides that an estate tax be apportioned to property in which one or more time-limited interests exist, other than interests in specified property under RCW 83.110A.060, the tax must be apportioned to the principal of that property, regardless of the deductibility of some of the interests in that property.
+
+.. If an apportionment provision provides that an estate tax is to be apportioned to the holders of interests in property in which one or more time-limited interests exist and a charity has an interest that otherwise qualifies for an estate tax charitable deduction, the tax must first be apportioned, to the extent feasible, to interests in property that have not been distributed to the persons entitled to receive the interests. No tax shall be paid from a charitable remainder annuity trust or a charitable remainder unitrust described in section 664 of the internal revenue code and created during the decedent's life.
+
+.. Persons receiving tangible personal property as defined in RCW 11.12.260 by specific gifts pursuant to the provisions of a will or revocable trust or by right of survivorship , are exonerated from apportionment of estate tax up to an aggregate value of property permitted to pass by affidavit for small estates pursuant to RCW 11.62.010(2)(c).
+
+.. Persons receiving specific pecuniary gifts pursuant to the provisions of a will or revocable trust are exonerated from apportionment of estate tax up to an aggregate amount of money equal to one-half of the value of property permitted to pass by affidavit for small estates pursuant to RCW 11.62.010(2)(c).
+
+.. If persons receive an aggregate value of tangible personal property or the amount of money in excess of the ceiling allowed to be exonerated for apportionment for estate taxes for that type of property, the portion of each gift to be exonerated is the maximum amount of money or value of tangible personal property that is allowed to be exonerated multiplied by the proportion of money received by each person over the amount of money received by all persons, or the value of tangible personal property received by each person over the value of all tangible personal property received by all persons.
+
+. A provision that apportions an estate tax is ineffective to the extent that it increases the tax apportioned to a person having an interest in the gross estate over which the decedent had no power to transfer immediately before the decedent executed the instrument in which the apportionment direction was made. For purposes of this section, a testamentary power of appointment is a power to transfer the property that is subject to the power.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2224.SL.pdf?cite=2012%20c%2097%20§%201[2012 c 97 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5052-S.SL.pdf?cite=2005%20c%20332%20§%203[2005 c 332 § 3]; ]
+
+== 83.110A.030 - Statutory apportionment of estate taxes.
+To the extent that apportionment of an estate tax is not controlled by an instrument described in RCW 83.110A.020 and except as otherwise provided in RCW 83.110A.050 and 83.110A.060, the following rules apply:
+
+. Subject to subsections (2), (3), and (4) of this section, the estate tax is apportioned ratably to each person that has an interest in the apportionable estate.
+
+. A generation-skipping transfer tax incurred on a direct skip taking effect at death is charged to the person to which the interest in property is transferred.
+
+. If property is included in the decedent's gross estate because of section 2044 of the Internal Revenue Code or any similar estate tax provision, the difference between the total estate tax for which the decedent's estate is liable and the amount of estate tax for which the decedent's estate would have been liable if the property had not been included in the decedent's gross estate is apportioned ratably among the holders of interests in the property. The balance of the tax, if any, is apportioned ratably to each other person having an interest in the apportionable estate.
+
+. Except as otherwise provided in RCW 83.110A.020(2)(d) and except as to property to which RCW 83.110A.060 applies, an estate tax apportioned to persons holding interests in property subject to a time-limited interest must be apportioned, without further apportionment, to the principal of that property.
+
+. If the court finds that it is inequitable to apportion interest and penalties in the manner provided in this chapter because of special circumstances, it may direct apportionment thereon in the manner it finds equitable.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5052-S.SL.pdf?cite=2005%20c%20332%20§%204[2005 c 332 § 4]; ]
+
+== 83.110A.040 - Credits and deferrals.
+Except as otherwise provided in RCW 83.110A.050 and 83.110A.060, the following rules apply to credits and deferrals of estate taxes:
+
+. A credit resulting from the payment of gift taxes or from estate taxes paid on property previously taxed inures ratably to the benefit of all persons to which the estate tax is apportioned.
+
+. A credit for state or foreign estate taxes inures ratably to the benefit of all persons to which the estate tax is apportioned, except that the amount of a credit for a state or foreign tax paid by a beneficiary of the property on which the state or foreign tax was imposed, directly or by a charge against the property, inures to the benefit of the beneficiary.
+
+. If payment of a portion of an estate tax is deferred because of the inclusion in the gross estate of a particular interest in property, the benefit of the deferral inures ratably to the persons to which the estate tax attributable to the interest is apportioned. The burden of any interest charges incurred on a deferral of taxes and the benefit of any tax deduction associated with the accrual or payment of the interest charge is allocated ratably among the persons receiving an interest in the property.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5052-S.SL.pdf?cite=2005%20c%20332%20§%205[2005 c 332 § 5]; ]
+
+== 83.110A.050 - Insulated property—Advancement of tax.
+. As used in this section:
+
+.. "Advanced fraction" means a fraction that has as its numerator the amount of the advanced tax and as its denominator the value of the interests in insulated property to which that tax is attributable.
+
+.. "Advanced tax" means the aggregate amount of estate tax attributable to interests in insulated property which is required to be advanced by uninsulated holders under subsection (3) of this section.
+
+.. "Insulated property" means property subject to a time-limited interest which is included in the apportionable estate and is unavailable for payment of an estate tax because of impossibility or impracticability. Insulated property does not include property from which the beneficial holder has the unilateral right to cause distribution to himself or herself.
+
+.. "Uninsulated holder" means a person who has an interest in uninsulated property.
+
+.. "Uninsulated property" means property included in the apportionable estate other than insulated property.
+
+. If an estate tax is to be advanced pursuant to subsection (3) of this section by persons holding interests in uninsulated property subject to a time-limited interest other than property to which RCW 83.110A.060 applies, the tax must be advanced, without further apportionment, from the principal of the uninsulated property.
+
+. Subject to RCW 83.110A.080 (2) and (4), an estate tax attributable to interests in insulated property must be advanced ratably by uninsulated holders.
+
+. A court having jurisdiction to determine the apportionment of an estate tax may require a beneficiary of an interest in insulated property to pay all or part of the estate tax otherwise apportioned to the interest if the court finds that it would be substantially more equitable for that beneficiary to bear the tax liability personally than for that part of the tax to be advanced by uninsulated holders.
+
+. Upon payment by an uninsulated holder of estate tax required to be advanced, a court may require the beneficiary of an interest in insulated property to provide a bond or other security, including a recordable lien on the property of the beneficiary, for repayment of the advanced tax.
+
+. When a distribution of insulated property is made, each uninsulated holder may recover from the distributee a ratable portion of the advanced fraction of the property distributed. To the extent that undistributed insulated property ceases to be insulated, each uninsulated holder may recover from the property a ratable portion of the advanced fraction of the total undistributed property.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5052-S.SL.pdf?cite=2005%20c%20332%20§%206[2005 c 332 § 6]; ]
+
+== 83.110A.060 - Apportionment and recapture of special elective benefits.
+. As used in this section:
+
+.. "Special elective benefit" means a reduction in an estate tax obtained by an election for:
+
+... A reduced valuation of specified property that is included in the gross estate;
+
+... A deduction from the gross estate, other than a marital or charitable deduction, allowed for specified property; or
+
+... An exclusion from the gross estate of specified property.
+
+.. "Specified property" means property for which an election has been made for a special elective benefit.
+
+. If an election is made for one or more special elective benefits, an initial apportionment of a hypothetical estate tax must be computed as if no election for any of those benefits had been made. The aggregate reduction in estate tax resulting from all elections made must be allocated among holders of interests in the specified property in the proportion that the amount of deduction, reduced valuation, or exclusion attributable to each holder's interest bears to the aggregate amount of deductions, reduced valuations, and exclusions obtained by the decedent's estate from the elections. If the estate tax initially apportioned to the holder of an interest in specified property is reduced to zero, any excess amount of reduction reduces ratably the estate tax apportioned to other persons that receive interests in the apportionable estate.
+
+. An additional estate tax imposed to recapture all or part of a special elective benefit must be charged to the persons that are liable for the additional tax under the law providing for the recapture.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5052-S.SL.pdf?cite=2005%20c%20332%20§%207[2005 c 332 § 7]; ]
+
+== 83.110A.070 - Securing payment of estate tax from property in possession of fiduciary.
+. A fiduciary may defer a distribution of property until the fiduciary is satisfied that adequate provision for payment of the estate tax has been made.
+
+. A fiduciary may withhold from a distributee the estate tax apportioned to and the estate tax required to be advanced by the distributee.
+
+. As a condition to a distribution, a fiduciary may require the distributee to provide a bond or other security for the estate tax apportioned to and the estate tax required to be advanced by the distributee.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5052-S.SL.pdf?cite=2005%20c%20332%20§%208[2005 c 332 § 8]; ]
+
+== 83.110A.080 - Collection of estate tax by fiduciary.
+. A fiduciary responsible for payment of an estate tax may collect from any person the estate tax apportioned to and the estate tax required to be advanced by the person.
+
+. Except as otherwise provided in RCW 83.110A.050, any estate tax due from a person that cannot be collected from the person may be collected by the fiduciary from other persons in the following order of priority:
+
+.. Any person having an interest in the apportionable estate which is not exonerated from the tax;
+
+.. Any other person having an interest in the apportionable estate;
+
+.. Any person having an interest in the gross estate.
+
+. A domiciliary fiduciary may recover from an ancillary personal representative the estate tax apportioned to the property controlled by the ancillary personal representative.
+
+. The total tax collected from a person pursuant to this chapter may not exceed the value of the person's interest.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5052-S.SL.pdf?cite=2005%20c%20332%20§%209[2005 c 332 § 9]; ]
+
+== 83.110A.090 - Right of reimbursement.
+. A person required under RCW 83.110A.080 to pay an estate tax greater than the amount due from the person under RCW 83.110A.020 or 83.110A.030 has a right to reimbursement from another person to the extent that the other person has not paid the tax required by RCW 83.110A.020 or 83.110A.030 and a right to reimbursement ratably from other persons to the extent that each has not contributed a portion of the amount collected under RCW 83.110A.080(2).
+
+. A fiduciary may enforce the right of reimbursement under subsection (1) of this section on behalf of the person that is entitled to the reimbursement and shall take reasonable steps to do so if requested by the person.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5052-S.SL.pdf?cite=2005%20c%20332%20§%2010[2005 c 332 § 10]; ]
+
+== 83.110A.100 - Action to determine or enforce chapter—Application of chapter  11.96A RCW.
+Chapter 11.96A RCW applies to issues, questions, or disputes that arise under or that relate to this chapter. Any and all such issues, questions, or disputes may be resolved judicially or nonjudicially under chapter 11.96A RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5052-S.SL.pdf?cite=2005%20c%20332%20§%2011[2005 c 332 § 11]; ]
+
+== 83.110A.110 - Uniformity of application and construction.
+In applying and construing this uniform act, consideration must be given to the need to promote uniformity of the law with respect to its subject matter among states that enact it.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5052-S.SL.pdf?cite=2005%20c%20332%20§%2012[2005 c 332 § 12]; ]
+
+== 83.110A.900 - Short title.
+This chapter may be cited as the Washington Uniform Estate Tax Apportionment Act of 2005.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5052-S.SL.pdf?cite=2005%20c%20332%20§%201[2005 c 332 § 1]; ]
+
+== 83.110A.902 - Effective date—2005 c 332.
+This act takes effect January 1, 2006.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5052-S.SL.pdf?cite=2005%20c%20332%20§%2017[2005 c 332 § 17]; ]
+
+== 83.110A.904 - Application—2005 c 332.
+. This act takes effect for estate tax due on account of decedents who die on or after January 1, 2006.
+
+. Sections 2 through 7 of this act do not apply to a decedent who dies after December 31, 2005, if the decedent continuously lacked testamentary capacity from January 1, 2006, until the date of death. For such a decedent, estate tax must be apportioned pursuant to the law in effect immediately before January 1, 2006.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5052-S.SL.pdf?cite=2005%20c%20332%20§%2014[2005 c 332 § 14]; ]
+
+== 83.110A.905 - Construction—Chapter applicable to state registered domestic partnerships—2009 c 521.
+For the purposes of this chapter, the terms spouse, marriage, marital, husband, wife, widow, widower, next of kin, and family shall be interpreted as applying equally to state registered domestic partnerships or individuals in state registered domestic partnerships as well as to marital relationships and married persons, and references to dissolution of marriage shall apply equally to state registered domestic partnerships that have been terminated, dissolved, or invalidated, to the extent that such interpretation does not conflict with federal law. Where necessary to implement chapter 521, Laws of 2009, gender-specific terms such as husband and wife used in any statute, rule, or other law shall be construed to be gender neutral, and applicable to individuals in state registered domestic partnerships.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5688-S2.SL.pdf?cite=2009%20c%20521%20§%20193[2009 c 521 § 193]; ]
+

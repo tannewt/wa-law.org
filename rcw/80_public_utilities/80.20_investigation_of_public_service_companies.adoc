@@ -1,0 +1,33 @@
+= 80.20 - Investigation of public service companies.
+:toc:
+
+== 80.20.010 - Definition.
+As used in this chapter, the term "public service company" means any person, firm, association, or corporation, whether public or private, operating a utility or public service enterprise subject in any respect to regulation by the commission under the provisions of this title.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c14.pdf?cite=1961%20c%2014%20§%2080.20.010[1961 c 14 § 80.20.010]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1953c95.pdf?cite=1953%20c%2095%20§%208[1953 c 95 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1939c203.pdf?cite=1939%20c%20203%20§%201[1939 c 203 § 1]; RRS § 10458-6; ]
+
+== 80.20.020 - Cost of investigation may be assessed against company.
+Whenever the commission in any proceeding upon its own motion or upon complaint shall deem it necessary in order to carry out the duties imposed upon it by law to investigate the books, accounts, practices and activities of, or make any valuation or appraisal of the property of any public service company, or to investigate or appraise any phase of its operations, or to render any engineering or accounting service to or in connection with any public service company, and the cost thereof to the commission exceeds in amount the ordinary regulatory fees paid by such public service company during the preceding calendar year or estimated to be paid during the current year, whichever is more, such public service company shall pay the expenses reasonably attributable and allocable to such investigation, valuation, appraisal or services. The commission shall ascertain such expenses, and, after giving notice and an opportunity to be heard, shall render a bill therefor by registered mail to the public service company, either at the conclusion of the investigation, valuation, appraisal or services, or from time to time during its progress. Within thirty days after a bill has been mailed such public service company shall pay to the commission the amount of the bill, and the commission shall transmit such payment to the state treasurer who shall credit it to the public service revolving fund. The total amount which any public service company shall be required to pay under the provisions of this section in any calendar year shall not exceed one percent of the gross operating revenues derived by such public service company from its intrastate operations during the last preceding calendar year. If such company did not operate during all of the preceding year the calculations shall be based upon estimated gross revenues for the current year.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c14.pdf?cite=1961%20c%2014%20§%2080.20.020[1961 c 14 § 80.20.020]; 1939 c 203 § 2(a); RRS § 10458-6a(a); ]
+
+== 80.20.030 - Interest on unpaid assessment—Action to collect.
+Amounts so assessed against any public service company not paid within thirty days after mailing of the bill therefor, shall draw interest at the rate of six percent per annum from the date of mailing of the bill. Upon failure of the public service company to pay the bill, the attorney general shall proceed in the name of the state by civil action in the superior court for Thurston county against such public service company to collect the amount due, together with interest and costs of suit.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c14.pdf?cite=1961%20c%2014%20§%2080.20.030[1961 c 14 § 80.20.030]; 1939 c 203 § 2(b); RRS § 10458-6a(b); ]
+
+== 80.20.040 - Commission's determination of necessity as evidence.
+In such action the commission's determination of the necessity of the investigation, valuation, appraisal or services shall be conclusive evidence of such necessity, and its findings and determination of facts expressed in bills rendered pursuant to RCW 80.20.020 through 80.20.060 or in any proceedings determinative of such bills shall be prima facie evidence of such facts.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c14.pdf?cite=1961%20c%2014%20§%2080.20.040[1961 c 14 § 80.20.040]; 1939 c 203 § 2(c); RRS § 10458-6a(c); ]
+
+== 80.20.050 - Order of commission not subject to review.
+In view of the civil action provided for in RCW 80.20.020 through 80.20.060 any order made by the commission in determining the amount of such bill shall not be reviewable in court, but the mere absence of such right of review shall not prejudice the rights of defendants in the civil action.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c14.pdf?cite=1961%20c%2014%20§%2080.20.050[1961 c 14 § 80.20.050]; 1939 c 203 § 2(d); RRS § 10458-6a(d); ]
+
+== 80.20.060 - Limitation on frequency of investigation.
+Expenses of a complete valuation, rate and service investigation shall not be assessed against a public service company under this chapter if such company shall have been subjected to and paid the expenses of a complete valuation, rate and service investigation during the preceding five years, unless the properties or operations of the company have materially changed or there has been a substantial change in its value for rate making purposes or in any other circumstances and conditions affecting rates and services: PROVIDED, That the provisions of this section shall not be a limitation on the frequency of assessment of costs of investigation where such investigation results from a tariff filing or tariff filings by a public service company to increase rates.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c143.pdf?cite=1971%20ex.s.%20c%20143%20§%208[1971 ex.s. c 143 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c14.pdf?cite=1961%20c%2014%20§%2080.20.060[1961 c 14 § 80.20.060]; 1939 c 203 § 2(e); RRS § 10458-6a(e); ]
+

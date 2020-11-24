@@ -1,0 +1,36 @@
+= 35.78 - Streets—Classification and design standards.
+:toc:
+
+== 35.78.010 - Classification of streets.
+The governing body of each municipal corporation shall classify and designate city streets as follows:
+
+Major arterials, which are defined as transportation arteries which connect the focal points of traffic interest within a city; arteries which provide communications with other communities and the outlying areas; or arteries which have relatively high traffic volume compared with other streets within the city;
+
+Secondary arterials, which are defined as routes which serve lesser points of traffic interest within a city; provide communication with outlying districts in the same degree or serve to collect and distribute traffic from the major arterials to the local streets;
+
+Access streets, which are defined as land service streets and are generally limited to providing access to abutting property. They are tributary to the major and secondary thoroughfares and generally discourage through traffic.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.78.010[1965 c 7 § 35.78.010]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1949c164.pdf?cite=1949%20c%20164%20§%201[1949 c 164 § 1]; Rem. Supp. 1949 § 9300-1; ]
+
+== 35.78.020 - State design standards—Committee—Membership.
+There is created a state design standards committee of seven members, six of whom shall be appointed by the executive committee of the Association of Washington Cities to hold office at its pleasure and the seventh to be the state aid engineer. The members to be appointed by the executive committee of the Association of Washington Cities shall be restricted to the membership of the association or to those holding office and/or performing the function of chief engineer in any of the several municipalities in the state.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c7.pdf?cite=1984%20c%207%20§%2024[1984 c 7 § 24]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.78.020[1965 c 7 § 35.78.020]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1949c164.pdf?cite=1949%20c%20164%20§%202[1949 c 164 § 2]; Rem. Supp. 1949 § 9300-2; ]
+
+== 35.78.030 - Committee to adopt uniform design standards.
+. The design standards committee shall from time to time adopt uniform design standards for major arterial and secondary arterial streets.
+
+. By July 1, 2012, and from time to time thereafter, the design standards committee shall adopt standards for bicycle and pedestrian facilities.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1700-S.SL.pdf?cite=2012%20c%2067%20§%204[2012 c 67 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.78.030[1965 c 7 § 35.78.030]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1949c164.pdf?cite=1949%20c%20164%20§%203[1949 c 164 § 3]; Rem. Supp. 1949 § 9300-3; ]
+
+== 35.78.040 - Design standards must be followed by municipalities—Approval of deviations.
+The governing body of the several municipalities shall apply the uniform design standards adopted under RCW 35.78.030 to all new construction on major arterial and secondary arterial streets and to reconstruction of old such streets as far as practicable. No deviation from the design standards as to such streets may be made without approval of the state aid engineer.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c7.pdf?cite=1984%20c%207%20§%2025[1984 c 7 § 25]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.78.040[1965 c 7 § 35.78.040]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1949c164.pdf?cite=1949%20c%20164%20§%204[1949 c 164 § 4]; Rem. Supp. 1949 § 9300-4; ]
+
+== 35.78.050 - Use of street and road funds for pedestrian rights-of-way—Standards.
+Any city or town may use any funds available for street or road construction, maintenance, or improvement for building, improving, and maintaining a pedestrian right-of-way and for improvements to make existing streets and roads more suitable and safe for pedestrian travel. Any such paths, lanes, roadways, routes, or streets for which any such street or road funds are expended must be suitable for pedestrian travel purposes and not solely for recreation purposes. A pedestrian right-of-way constructed or modified after December 31, 2012, must meet or exceed the standards adopted by the design standards committee under RCW 35.78.030.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1700-S.SL.pdf?cite=2012%20c%2067%20§%203[2012 c 67 § 3]; ]
+

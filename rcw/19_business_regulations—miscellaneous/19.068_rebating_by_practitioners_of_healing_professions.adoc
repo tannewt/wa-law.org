@@ -1,0 +1,41 @@
+= 19.68 - Rebating by practitioners of healing professions.
+:toc:
+
+== 19.68.005 - Definition.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+"Electronic health record technology" means items and services, in the form of software or information technology and training services, necessary and used predominantly to create, maintain, transmit, or receive electronic health records.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5601-S.SL.pdf?cite=2013%20c%20297%20§%203[2013 c 297 § 3]; ]
+
+== 19.68.010 - Rebating prohibited—Disclosure—List of alternative facilities.
+. It shall be unlawful for any person, firm, corporation or association, whether organized as a cooperative, or for profit or nonprofit, to pay, or offer to pay or allow, directly or indirectly, to any person licensed by the state of Washington to engage in the practice of medicine and surgery, drugless treatment in any form, dentistry, or pharmacy and it shall be unlawful for such person to request, receive or allow, directly or indirectly, a rebate, refund, commission, unearned discount or profit by means of a credit or other valuable consideration in connection with the referral of patients to any person, firm, corporation or association, or in connection with the furnishings of medical, surgical or dental care, diagnosis, treatment or service, on the sale, rental, furnishing or supplying of clinical laboratory supplies or services of any kind, drugs, medication, or medical supplies, or any other goods, services or supplies prescribed for medical diagnosis, care or treatment.
+
+. Ownership of a financial interest in any firm, corporation or association which furnishes any kind of clinical laboratory or other services prescribed for medical, surgical, or dental diagnosis shall not be prohibited under this section where (a) the referring practitioner affirmatively discloses to the patient in writing, the fact that such practitioner has a financial interest in such firm, corporation, or association; and (b) the referring practitioner provides the patient with a list of effective alternative facilities, informs the patient that he or she has the option to use one of the alternative facilities, and assures the patient that he or she will not be treated differently by the referring practitioner if the patient chooses one of the alternative facilities.
+
+. Any person violating this section is guilty of a misdemeanor.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%20147[2003 c 53 § 147]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5304-S2.SL.pdf?cite=1993%20c%20492%20§%20233[1993 c 492 § 233]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c26.pdf?cite=1973%201st%20ex.s.%20c%2026%20§%201[1973 1st ex.s. c 26 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c58.pdf?cite=1965%20ex.s.%20c%2058%20§%201[1965 ex.s. c 58 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1949c204.pdf?cite=1949%20c%20204%20§%201[1949 c 204 § 1]; Rem. Supp. 1949 § 10185-14; ]
+
+== 19.68.020 - Deemed unprofessional conduct.
+The acceptance directly or indirectly by any person so licensed of any rebate, refund, commission, unearned discount, or profit by means of a credit or other valuable consideration whether in the form of money or otherwise, as compensation for referring patients to any person, firm, corporation or association as set forth in RCW 19.68.030, constitutes unprofessional conduct.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c58.pdf?cite=1965%20ex.s.%20c%2058%20§%202[1965 ex.s. c 58 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1949c204.pdf?cite=1949%20c%20204%20§%202[1949 c 204 § 2]; Rem. Supp. 1949 § 10185-15; ]
+
+== 19.68.030 - License may be revoked or suspended.
+The license of any person so licensed may be revoked or suspended if he or she has directly or indirectly requested, received, or participated in the division, transference, assignment, rebate, splitting, or refunding of a fee for, or has directly or indirectly requested, received, or profited by means of a credit or other valuable consideration as a commission, discount, or gratuity in connection with the furnishing of medical, surgical, or dental care, diagnosis or treatment or service, including X-ray examination and treatment, or for or in connection with the sale, rental, supplying or furnishing of clinical laboratory service or supplies, X-ray services or supplies, inhalation therapy service or equipment, ambulance service, hospital or medical supplies, physiotherapy or other therapeutic service or equipment, artificial limbs, teeth, or eyes, orthopedic or surgical appliances or supplies, optical appliances, supplies or equipment, devices for aid of hearing, drugs, medication or medical supplies or any other goods, services or supplies prescribed for medical diagnosis, care or treatment, except payment, not to exceed thirty-three and one-third percent of any fee received for X-ray examination, diagnosis, or treatment, to any hospital furnishing facilities for such examination, diagnosis, or treatment.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20545[2011 c 336 § 545]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c58.pdf?cite=1965%20ex.s.%20c%2058%20§%203[1965 ex.s. c 58 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1949c204.pdf?cite=1949%20c%20204%20§%203[1949 c 204 § 3]; Rem. Supp. 1949 § 10185-16; ]
+
+== 19.68.040 - Declaration of intent.
+It is the intent of this chapter, and this chapter shall be so construed, that persons so licensed shall only be authorized by law to charge or receive compensation for professional services rendered if such services are actually rendered by the licensee and not otherwise: PROVIDED, HOWEVER, That it is not intended to prohibit two or more licensees who practice their profession as copartners to charge or collect compensation for any professional services by any member of the firm, or to prohibit a licensee who employs another licensee to charge or collect compensation for professional services rendered by the employee licensee.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2400.SL.pdf?cite=2000%20c%20171%20§%2057[2000 c 171 § 57]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1949c204.pdf?cite=1949%20c%20204%20§%204[1949 c 204 § 4]; Rem. Supp. 1949 § 10185-17; ]
+
+== 19.68.900 - Construction—Application.
+. Nothing in this chapter may be construed to limit or prohibit the donation of electronic health record technology or other activity by any entity, including a hospital licensed under chapter 70.41 RCW that operates a clinical laboratory, when the donation or other activity is allowed by or otherwise does not violate, 42 U.S.C. Sec. 1320a-7b(b) or the federal rules adopted to implement 42 U.S.C. Sec. 1320a-7b(b).
+
+. This section does not apply to any entity which principally operates as a clinical laboratory licensed or certified under section 353 of the public health service act, 42 U.S.C. Sec. 263a, or other applicable Washington state law.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5601-S.SL.pdf?cite=2013%20c%20297%20§%202[2013 c 297 § 2]; ]
+

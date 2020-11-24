@@ -1,0 +1,201 @@
+= 28C.04 - Vocational education.
+:toc:
+
+== 28C.04.390 - Worker retraining program funds—Workforce training customer advisory committee.
+. The college board worker retraining program funds shall be used for training programs and related support services, including financial aid, counseling, referral to training resources, job referral, and job development that:
+
+.. Are consistent with the unified plan for workforce development;
+
+.. Provide increased enrollments for dislocated workers;
+
+.. Provide customized training opportunities for dislocated workers; and
+
+.. Provide increased enrollments and support services, including financial aid for those students not receiving unemployment insurance benefits, that do not replace or supplant any existing enrollments, programs, support services, or funding sources.
+
+. The college board shall develop a plan for use of the worker retraining program funds in conjunction with the workforce training customer advisory committee established in subsection (3) of this section. In developing the plan the college board shall:
+
+.. Provide that applicants for worker retraining program funds shall solicit financial support for training programs and give priority in receipt of funds to those applicants which are most successful in matching public dollars with financial support;
+
+.. Provide that applicants for worker retraining program funds shall develop training programs in partnership with local businesses, industry associations, labor, and other partners as appropriate and give priority in receipt of funds to those applicants who develop customized training programs in partnership with local businesses, industry associations, and labor organizations;
+
+.. Give priority in receipt of funds to those applicants serving rural areas;
+
+.. Ensure that applicants receiving worker retraining program funds gather information from local workforce development councils on employer workforce needs, including the needs of businesses with less than twenty-five employees;
+
+.. Provide for specialized vocational training at a private career school or college at the request of a recipient eligible under subsection (1)(b) of this section. Available tuition for the training is limited to the amount that would otherwise be payable per enrolled quarter to a public institution; and
+
+.. Give priority in receipt of funds to those applicants working toward careers in the aerospace, health care, advanced manufacturing, construction, forest product, and renewable energy industries; high-demand occupations in strategic industry clusters identified in the state comprehensive plan and the workforce development councils' local comprehensive plans for workforce educational training as identified in RCW 28C.18.080 and 28C.18.150; and occupations and industries identified by community and technical colleges in collaboration with local workforce development councils. For purposes of this section, health care includes long-term care.
+
+. The executive director of the college board shall appoint a workforce training customer advisory committee by July 1, 1999, to:
+
+.. Assist in the development of the plan for the use of the college board worker retraining program funds and recommend guidelines to the college board for the operation of worker retraining programs;
+
+.. Recommend selection criteria for worker retraining programs and grant applicants for receipt of worker retraining program grants;
+
+.. Provide advice to the college board on other workforce development activities of the community and technical colleges;
+
+.. Recommend selection criteria for job skills grants, consistent with criteria established in this chapter and chapter 121, Laws of 1999. Such criteria shall include a prioritization of job skills applicants in rural areas;
+
+.. Recommend guidelines to the college board for the operation of the job skills program; and
+
+.. Recommend grant applicants for receipt of job skills program grants.
+
+. Members of the workforce training customer advisory committee shall consist of three college system representatives selected by the executive director of the college board, three representatives of business selected from nominations provided by statewide business organizations, and three representatives of labor selected from nominations provided by a statewide labor organization representing a cross section of workers in the state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2630-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%2024%20§%202[2010 1st sp.s. c 24 § 2]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5909-S.SL.pdf?cite=1999%20c%20121%20§%201[1999 c 121 § 1]; ]
+
+== 28C.04.400 - Job skills program—Legislative declaration and policy.
+The legislature declares that it is an important function of government to increase opportunities for gainful employment, to assist in promoting a productive and expanding economy, and to encourage the flow of business and industry support to educational institutions. Therefore, the legislature finds that it is in the public interest of the state to encourage and facilitate the formation of cooperative relationships between business and industry and educational institutions which provide for the development and significant expansion of programs of skills training and education consistent with employment needs and to make interested individuals aware of the employment opportunities presented thereby. It is the policy of the state of Washington to ensure that programs of skill training are available on a regional basis and are utilized by a variety of businesses and industries.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c21.pdf?cite=1983%201st%20ex.s.%20c%2021%20§%201[1983 1st ex.s. c 21 § 1]; ]
+
+== 28C.04.410 - Job skills program—Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout RCW 28C.04.390 and 28C.04.420.
+
+. "Applicant" means an educational institution which has made application for a job skills grant under RCW 28C.04.390 and 28C.04.420.
+
+. "Business and industry" means a private corporation, institution, firm, person, group, or association concerned with commerce, trades, manufacturing, or the provision of services within the state, or a public or nonprofit hospital licensed by the department of social and health services.
+
+. "College board" means the state board for community and technical colleges under chapter 28B.50 RCW.
+
+. "Dislocated worker" means an individual who meets the definition of dislocated worker contained in P.L. 113-128 Sec. 3.
+
+. "Educational institution" means a public secondary or postsecondary institution, an independent institution, or a private career school or college within the state authorized by law to provide a program of skills training or education beyond the secondary school level. Any educational institution receiving a job skills grant under RCW 28C.04.420 shall be free of sectarian control or influence as set forth in Article IX, section 4 of the state Constitution.
+
+. "Equipment" means tangible personal property which will further the objectives of the supported program and for which a definite value and evidence in support of the value have been provided by the donor.
+
+. "Financial support" means any thing of value which is contributed by business, industry, and others to an educational institution which is reasonably calculated to support directly the development and expansion of a particular program under RCW 28C.04.390 and 28C.04.420 and represents an addition to any financial support previously or customarily provided to such educational institutions by the donor. "Financial support" includes, but is not limited to, funds, equipment, facilities, faculty, and scholarships for matriculating students and trainees.
+
+. "Job skills grant" means funding that is provided to an educational institution by the college board for the development or significant expansion of a program under RCW 28C.04.390 and 28C.04.420.
+
+. "Job skills program" means a program of skills training or education separate from and in addition to existing vocational education programs and which:
+
+.. Provides short-term training which has been designated for specific industries;
+
+.. Provides training for prospective employees before a new plant opens or when existing industry expands;
+
+.. Includes training and retraining for workers already employed by an existing industry or business where necessary to avoid dislocation or where upgrading of existing employees would create new vacancies for unemployed persons;
+
+.. Serves areas with high concentrations of economically disadvantaged persons and high unemployment;
+
+.. Promotes the growth of industry clusters;
+
+.. Serves areas where there is a shortage of skilled labor to meet job demands; or
+
+.. Promotes the location of new industry in areas affected by economic dislocation.
+
+. "Technical assistance" means professional and any other assistance provided by business and industry to an educational institution, which is reasonably calculated to support directly the development and expansion of a particular program and which represents an addition to any technical assistance previously or customarily provided to the educational institutions by the donor.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5237.SL.pdf?cite=2017%20c%2039%20§%202[2017 c 39 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5554.SL.pdf?cite=2009%20c%20554%20§%201[2009 c 554 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5909-S.SL.pdf?cite=1999%20c%20121%20§%202[1999 c 121 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c21.pdf?cite=1983%201st%20ex.s.%20c%2021%20§%202[1983 1st ex.s. c 21 § 2]; ]
+
+== 28C.04.420 - Job skills program—Grants—Reports.
+The college board may, subject to appropriation from the legislature or from funds made available from any other public or private source and pursuant to rules adopted by the college board, and with the advice of the workforce training customer advisory committee established in RCW 28C.04.390, provide job skills grants to educational institutions. The job skills grants shall be used exclusively for programs which are consistent with the job skills program. The college board shall work in collaboration with the workforce training customer advisory committee established in RCW 28C.04.390 to assure that:
+
+. The program is within the scope of the job skills program under this chapter and may reasonably be expected to succeed and thereby increase employment within the state;
+
+. Provision has been made to use any available alternative funding from local, state, and federal sources;
+
+. The job skills grant will only be used to cover the costs associated with the program;
+
+. The program will not unnecessarily duplicate existing programs and could not be provided by another educational institution more effectively or efficiently;
+
+. The program involves an area of skills training and education for which there is a demonstrable need;
+
+. The applicant has made provisions for the use of existing federal and state resources for student financial assistance;
+
+. The job skills grant is essential to the success of the program as the resources of the applicant are inadequate to attract the technical assistance and financial support necessary for the program from business and industry;
+
+. The program represents a collaborative partnership between business, industry, labor, educational institutions, and other partners, as appropriate;
+
+. [Empty]
+.. The commitment of financial support from businesses with an annual gross business income of five hundred thousand dollars or more shall be equal to or greater than the amount of the requested job skills grant;
+
+.. The commitment of financial support from businesses with an annual gross business income of less than five hundred thousand dollars shall be at least equal to the trainees' salaries and benefits while in training;
+
+.. The annual gross business income shall be the income reported to the department of revenue for the previous fiscal year;
+
+. The job skills program gives priority to applications:
+
+.. Proposing training that provides college credit or leads to a recognized industry credential;
+
+.. From firms in strategic industry clusters as identified by the state or local areas;
+
+.. Proposing coordination with other cluster-based programs or initiatives including, but not limited to, industry skill panels, centers of excellence, innovation partnership zones, state-supported cluster growth grants, and local cluster-based economic development initiatives;
+
+.. From consortia of colleges or consortia of employers; and
+
+.. Proposing increased capacity for educational institutions that can be made available to industry and students beyond the grant recipients;
+
+. Binding commitments have been made to the college board by the applicant for adequate reporting of information and data regarding the program to the college board, particularly information concerning the recruitment and employment of trainees and students, and including a requirement for an annual or other periodic audit of the books of the applicant directly related to the program, and for such control on the part of the college board as it considers prudent over the management of the program, so as to protect the use of public funds, including, in the discretion of the college board and without limitation, right of access to financial and other records of the applicant directly related to the programs; and
+
+. A provision has been made by the applicant to work, in cooperation with the employment security department, to identify and screen potential trainees, and that provision has been made by the applicant for the participation as trainees of low-income persons including temporary assistance for needy families recipients, dislocated workers, and persons from minority and economically disadvantaged groups to participate in the program.
+
+Beginning January 1, 2014, and every year thereafter, the college board shall provide the legislature and the governor with a report describing the activities and outcomes of the state job skills program.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1247-S.SL.pdf?cite=2013%20c%20103%20§%201[2013 c 103 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5554.SL.pdf?cite=2009%20c%20554%20§%202[2009 c 554 § 2]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5909-S.SL.pdf?cite=1999%20c%20121%20§%203[1999 c 121 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c21.pdf?cite=1983%201st%20ex.s.%20c%2021%20§%204[1983 1st ex.s. c 21 § 4]; ]
+
+== 28C.04.520 - Washington award for vocational excellence—Intent.
+Every year community colleges, technical colleges, and high schools graduate students who have distinguished themselves by their outstanding performance in their occupational training programs. The legislature intends to recognize and honor these students by establishing a Washington award for vocational excellence.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1814-S2.SL.pdf?cite=1995%201st%20sp.s.%20c%207%20§%201[1995 1st sp.s. c 7 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c267.pdf?cite=1984%20c%20267%20§%201[1984 c 267 § 1]; ]
+
+== 28C.04.525 - Washington award for vocational excellence—Establishment—Purposes.
+The Washington award for vocational excellence program is established. The purposes of this annual program are to:
+
+. Maximize public awareness of the achievements, leadership ability, and community contributions of the students enrolled in occupational training programs in high schools, community colleges, and technical colleges;
+
+. Emphasize the dignity of work in our society;
+
+. Instill respect for those who become skilled in crafts and technology;
+
+. Recognize the value of vocational education and its contribution to the economy of this state;
+
+. Foster business, labor, and community involvement in vocational-technical training programs and in this award program; and
+
+. Recognize the outstanding achievements of up to three vocational or technical students, at least two of whom should be graduating high school students, in each legislative district. Students who have completed at least one year of a vocational-technical program in a community college or public technical college may also be recognized.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1814-S2.SL.pdf?cite=1995%201st%20sp.s.%20c%207%20§%202[1995 1st sp.s. c 7 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c231.pdf?cite=1987%20c%20231%20§%203[1987 c 231 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c267.pdf?cite=1984%20c%20267%20§%202[1984 c 267 § 2]; ]
+
+== 28C.04.530 - Washington award for vocational excellence—Board's duties.
+. The workforce training and education coordinating board shall have the responsibility for the development and administration of the Washington award for vocational excellence program. The workforce training and education coordinating board shall develop the program in consultation with other state agencies and private organizations having interest and responsibility in vocational education, including but not limited to: The state board for community and technical colleges, the office of the superintendent of public instruction, a voluntary professional association of vocational educators, and representatives from business, labor, and industry.
+
+. The workforce training and education coordinating board shall establish a planning committee to develop the criteria for screening and selecting the students who will receive the award. This criteria shall include but not be limited to the following characteristics: Proficiency in their chosen fields, attendance, attitude, character, leadership, and civic contributions.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1814-S2.SL.pdf?cite=1995%201st%20sp.s.%20c%207%20§%203[1995 1st sp.s. c 7 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c231.pdf?cite=1987%20c%20231%20§%202[1987 c 231 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c267.pdf?cite=1984%20c%20267%20§%203[1984 c 267 § 3]; ]
+
+== 28C.04.535 - Washington award for vocational excellence—Granted annually—Notice—Presentation.
+Except for the 2018-19, 2019-20, and 2020-21 school years, the Washington award for vocational excellence shall be granted annually. It is the intent of the legislature to continue the policy of not granting the Washington award for vocational excellence in the 2019-20 and 2020-21 school years. The workforce training and education coordinating board shall notify the students receiving the award, their vocational instructors, local chambers of commerce, the legislators of their respective districts, and the governor, after final selections have been made. The workforce training and education coordinating board, in conjunction with the governor's office, shall prepare appropriate certificates to be presented to the selected students. Awards shall be presented in public ceremonies at times and places determined by the workforce training and education coordinating board in cooperation with the office of the governor.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1109-S.SL.pdf?cite=2019%20c%20415%20§%20955[2019 c 415 § 955]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5883-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%201%20§%20960[2017 3rd sp.s. c 1 § 960]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6052-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%204%20§%20948[2015 3rd sp.s. c 4 § 948]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5034-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%204%20§%20964[2013 2nd sp.s. c 4 § 964]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1087-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2050%20§%20930[2011 1st sp.s. c 50 § 930]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1814-S2.SL.pdf?cite=1995%201st%20sp.s.%20c%207%20§%204[1995 1st sp.s. c 7 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c267.pdf?cite=1984%20c%20267%20§%204[1984 c 267 § 4]; ]
+
+== 28C.04.540 - Washington award for vocational excellence—Contributions.
+The workforce training and education coordinating board may accept any and all donations, grants, bequests, and devices, conditional or otherwise, or money, property, service, or other things of value which may be received from any federal, state, or local agency, any institution, person, firm, or corporation, public and private, to be held, used, or applied for the purposes of the Washington award for vocational excellence program. The workforce training and education coordinating board shall encourage maximum participation from business, labor, and community groups. The workforce training and education coordinating board shall also coordinate, where feasible, the contribution activities of the various participants.
+
+The workforce training and education coordinating board shall not make expenditures from funds collected under this section until February 15, 1985.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1814-S2.SL.pdf?cite=1995%201st%20sp.s.%20c%207%20§%205[1995 1st sp.s. c 7 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c267.pdf?cite=1984%20c%20267%20§%205[1984 c 267 § 5]; ]
+
+== 28C.04.545 - Washington award for vocational excellence—Fee waivers—Grants.
+. The respective governing boards of the public technical colleges shall provide fee waivers for a maximum of two years for those recipients of the Washington award for vocational excellence established under RCW 28C.04.520 through 28C.04.540 who received the award before June 30, 1994. To qualify for the waiver, recipients shall enter the public technical college within three years of receiving the award. An above average rating at the technical college in the first year shall be required to qualify for the second-year waiver.
+
+. Students named by the workforce training and education coordinating board after June 30, 1994, as recipients of the Washington award for vocational excellence under RCW 28C.04.520 through 28C.04.550 shall be eligible to receive a grant for undergraduate coursework as authorized under RCW 28B.76.670.
+
+. [Empty]
+.. Beginning with awards made during the 1998-99 academic year, recipients must complete using the award before the fall term in the sixth year following the date of the award. For these recipients, eligibility for the award is forfeited after this period.
+
+.. All persons awarded a Washington award for vocational excellence before the 1995-96 academic year and who have remaining eligibility on April 19, 1999, must complete using the award before September 2002. For these recipients, eligibility for the award is forfeited after this period.
+
+.. All persons awarded a Washington award for vocational excellence during the 1995-96, 1996-97, and 1997-98 academic years must complete using the award before September 2005. For these recipients, eligibility for the award is forfeited after this period.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/3103-S.SL.pdf?cite=2004%20c%20275%20§%2061[2004 c 275 § 61]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1018.SL.pdf?cite=1999%20c%2028%20§%201[1999 c 28 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1814-S2.SL.pdf?cite=1995%201st%20sp.s.%20c%207%20§%206[1995 1st sp.s. c 7 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c231.pdf?cite=1987%20c%20231%20§%204[1987 c 231 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c267.pdf?cite=1984%20c%20267%20§%207[1984 c 267 § 7]; ]
+
+== 28C.04.550 - Washington award for vocational excellence—When effective.
+The Washington award for vocational excellence shall be effective commencing with the 1984-85 academic year.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c505.pdf?cite=1987%20c%20505%20§%2016[1987 c 505 § 16]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c267.pdf?cite=1984%20c%20267%20§%208[1984 c 267 § 8]; ]
+
+== 28C.04.600 - AIDS information—Vocational schools.
+Each publicly operated vocational school shall make information available to all newly matriculated students on methods of transmission of the human immunodeficiency virus and prevention of acquired immunodeficiency syndrome. The curricula and materials shall be reviewed for medical accuracy by the office on AIDS in coordination with the appropriate regional AIDS service network.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c206.pdf?cite=1988%20c%20206%20§%20503[1988 c 206 § 503]; ]
+

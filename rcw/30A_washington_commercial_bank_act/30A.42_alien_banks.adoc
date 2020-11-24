@@ -1,0 +1,364 @@
+= 30A.42 - Alien banks.
+:toc:
+
+== 30A.42.010 - Purpose.
+The purpose of this chapter is to establish a legal and regulatory framework for operation by alien banks in the state of Washington that will:
+
+. Create a financial climate which will benefit the economy of the state of Washington;
+
+. Provide a well regulated and supervised financial system to assist the movement of foreign capital into Washington state for the support and diversification of the local industrial base;
+
+. Assist the development of the economy of the state of Washington without disrupting business relationships of state and federal financial institutions.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%201[1973 1st ex.s. c 53 § 1]; ]
+
+== 30A.42.020 - Definitions.
+For the purposes of this chapter, the following terms shall be defined as follows:
+
+. "Agency" means an office of an alien bank that is exercising the powers authorized by RCW 30A.42.180.
+
+. "Alien bank" means a bank organized under the laws of a foreign country and having its principal place of business in that country, the majority of the beneficial ownership and control of which is vested in citizens of countries other than the United States of America.
+
+. "Branch" means an office of an alien bank that is exercising the powers authorized by RCW 30A.42.105, 30A.42.115, and 30A.42.155.
+
+. "Bureau" means an alien bank's operation in this state exercising the powers authorized by RCW 30A.42.230.
+
+. "Office" means a branch or agency of an alien bank carrying on business in this state pursuant to this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20211[2014 c 37 § 211]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%2080[1994 c 92 § 80]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c3.pdf?cite=1983%20c%203%20§%2048[1983 c 3 § 48]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%202[1973 1st ex.s. c 53 § 2]; ]
+
+== 30A.42.030 - Authorization and compliance with chapter required.
+An alien bank shall not establish and operate an office or bureau in this state unless it is authorized to do so by the director and unless it first complies with all of the provisions of this chapter and then only to the extent expressly permitted by this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%2081[1994 c 92 § 81]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%203[1973 1st ex.s. c 53 § 3]; ]
+
+== 30A.42.040 - More than one office prohibited.
+An alien bank shall not be permitted to have more than one office in this state.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%204[1973 1st ex.s. c 53 § 4]; ]
+
+== 30A.42.050 - Acquisition or serving on board of directors or trustees of other financial institutions prohibited.
+An alien bank shall not take over or acquire an existing federal or state-chartered bank, trust company, mutual savings bank, savings and loan association, or credit union or any branch of any such bank, trust company, mutual savings bank, savings and loan association, or credit union in this state; nor shall any designee, officer, agent or employee of an alien bank serve on the board of directors of any federal or state bank, trust company, savings and loan association, or credit union, or the board of trustees of a mutual savings bank.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%205[1973 1st ex.s. c 53 § 5]; ]
+
+== 30A.42.060 - Conditions to be met before opening office in state.
+An alien bank shall not hereafter open an office in this state until it has met the following conditions:
+
+. It has filed with the director an application in such form and containing such information as shall be prescribed by the director.
+
+. It has designated the director by a duly executed instrument in writing, its agent, upon whom process in any action or proceeding arising out of a transaction with the Washington office may be served. Such service shall have the same force and effect as if the alien bank were a Washington corporation and had been lawfully served with process within the state. The director shall forward by mail, postage prepaid, a copy of every process served upon him or her under the provisions of this subdivision, addressed to the manager or agent of such bank at its office in this state.
+
+. It has allocated and assigned to its office within this state paid-in capital of not less than two hundred thousand dollars or such larger amounts as the director in his or her discretion may require.
+
+. It has filed with the director a letter from its chief executive officer guaranteeing that the alien bank's entire capital and surplus is and shall be available for all liabilities and obligations of its office doing business in this state.
+
+. It has paid the fees required by law and established by the director pursuant to RCW 30A.04.070.
+
+. It has received from the director his or her certificate authorizing the transaction of business in conformity with this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20212[2014 c 37 § 212]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%2082[1994 c 92 § 82]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%206[1973 1st ex.s. c 53 § 6]; ]
+
+== 30A.42.070 - Allocated paid-in capital—Requirements.
+The capital allocated as required in RCW 30A.42.060(3) shall be maintained within this state at all times in cash or in director approved interest bearing bonds, notes, debentures, or other obligations: (1) Of the United States or of any agency or instrumentality thereof, or guaranteed by the United States; or (2) of this state, or of a city, county, town, or other municipal corporation, or instrumentality of this state or guaranteed by this state, or such other assets as the director may approve. Such capital shall be deposited with a bank qualified to do business in and having its principal place of business within this state, or in a national bank qualified to engage in banking in this state. Such bank shall issue a written receipt addressed and delivered to the director reciting that such deposit is being held for the sole benefit of the United States domiciled creditors of such alien bank's Washington office and that the same is subject to his or her order without offset for the payment of such creditors. For the purposes of this section, the term "creditor" shall not include any other offices, branches, subsidiaries, or affiliates of such alien bank. Subject to the approval of the director, reasonable arrangements may be made for substitution of securities. So long as it shall continue business in this state in conformance with this chapter and shall remain solvent, such alien bank shall be permitted to collect all interest and/or income from the assets constituting such allocated capital.
+
+Should any securities so depreciate in market value and/or quality as to reduce the deposit below the amount required, additional money or securities shall be deposited promptly in amounts sufficient to meet such requirements. The director may make an investigation of the market value and of the quality of any security deposited at the time such security is presented for deposit or at any time thereafter. The director may make such charge as may be reasonable and proper for such investigation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20213[2014 c 37 § 213]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%2083[1994 c 92 § 83]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c95.pdf?cite=1982%20c%2095%20§%201[1982 c 95 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c106.pdf?cite=1979%20c%20106%20§%206[1979 c 106 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%207[1973 1st ex.s. c 53 § 7]; ]
+
+== 30A.42.080 - Separate assets—Books and records—Priority as to assets.
+Every alien bank maintaining an office in this state shall keep the assets of its Washington office entirely separate and apart from the assets of its other operations as though the Washington office was conducted as a separate and distinct entity. Every such alien bank shall keep separate books of account and records for its Washington office and shall observe with respect to such office the applicable requirements of this chapter and the applicable rules and regulations of the director. The United States domiciled creditors of such alien bank's Washington office shall be entitled to priority with respect to the assets of its Washington office before such assets may be used or applied for the benefit of its other creditors or transferred to its general business.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%2084[1994 c 92 § 84]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%208[1973 1st ex.s. c 53 § 8]; ]
+
+== 30A.42.090 - Approval of application—Criteria—Reciprocity.
+The director may give or withhold his or her approval of an application by an alien bank to establish an office in this state at his or her discretion. The director's decision shall be based on the information submitted to his or her office in the application required by RCW 30A.42.060 and such additional investigation as the director deems necessary or appropriate. Prior to granting approval to said application, the director shall have ascertained to his or her satisfaction that all of the following are true:
+
+. The proposed location offers a reasonable promise of adequate support for the proposed office;
+
+. The proposed office is not being formed for other than legitimate objects;
+
+. The proposed officers of the proposed office have sufficient banking experience and ability to afford reasonable promise of successful operation;
+
+. The reputation and financial standing of the alien bank is such as to command the confidence and warrant belief that the business of the proposed office will be conducted honestly and efficiently in accordance with the intent and purpose of this chapter, as set forth in RCW 30A.42.010;
+
+. The principal purpose of establishing such office shall be within the intent of this chapter.
+
+The director shall not grant an application for an office of an alien bank unless the law of the foreign country under which laws the alien bank is organized permits a bank with its principal place of business in this state to establish in that foreign country a branch, agency or similar operation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20214[2014 c 37 § 214]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%2085[1994 c 92 § 85]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%209[1973 1st ex.s. c 53 § 9]; ]
+
+== 30A.42.100 - Notice of approval—Filing—Time period for commencing business.
+If the director approves the application, he or she shall notify the alien bank of his or her approval and shall file certified copies of its charter, certificate or other authorization to do business with the secretary of state. Upon such filing, the director shall issue a certificate of authority stating that the alien bank is authorized to conduct business through a branch or agency in this state at the place designated in accordance with this chapter. Each such certificate shall be conspicuously displayed at all times in the place of business specified therein.
+
+The office of the alien bank must commence business within six months after the issuance of the director's certificate: PROVIDED, That the director for good cause shown may extend such period for an additional time not to exceed three months.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%2086[1994 c 92 § 86]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c305.pdf?cite=1985%20c%20305%20§%207[1985 c 305 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%2010[1973 1st ex.s. c 53 § 10]; ]
+
+== 30A.42.105 - Power to make loans and to guarantee obligations.
+An approved branch of an alien bank shall have the same power to make loans and guarantee obligations as a state bank chartered pursuant to this title: PROVIDED, HOWEVER, That the base for computing the applicable loan limitation shall be the entire capital and surplus of the alien bank. The director may adopt rules limiting the amount of loans to full-time employees of the branch.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20215[2014 c 37 § 215]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%2087[1994 c 92 § 87]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c95.pdf?cite=1982%20c%2095%20§%204[1982 c 95 § 4]; ]
+
+== 30A.42.115 - Solicitation and acceptance of deposits.
+. Any branch of an alien bank that received approval of its branch application pursuant to RCW 30A.42.090, or that had filed its branch application pursuant to RCW 30A.42.060, on or before July 27, 1978, and any approved branch of an alien bank that has designated Washington as its home state pursuant to section 5 of the International Banking Act of 1978, shall have the same power to solicit and accept deposits as a state bank chartered pursuant to this title, except that acceptance of initial deposits of less than one hundred thousand dollars shall be limited to deposits of the following:
+
+.. Any business entity, including any corporation, partnership, association, or trust, that engages in commercial activity for profit: PROVIDED, That there shall be excluded from this category any such business entity that is organized under the laws of any state or the United States, is majority-owned by United States citizens or residents, and has total assets, including assets of majority owned subsidiaries, of less than one million five hundred thousand dollars as of the date of the initial deposit;
+
+.. Any governmental unit, including the United States government, any state government, any foreign government and any political subdivision or agency of the foregoing;
+
+.. Any international organization which is composed of two or more nations;
+
+.. Any draft, check, or similar instrument for the transmission of funds issued by the branch;
+
+.. Any depositor who is not a citizen of the United States and who is not a resident of the United States at the time of the initial deposit;
+
+.. Any depositor who established a deposit account on or before July 1, 1982, and who has continuously maintained the deposit account since that date: PROVIDED, That this subparagraph (f) of this subsection shall be effective only until July 1, 1985;
+
+.. Any other person: PROVIDED, That the amount of deposits under this subparagraph (g) of this subsection may not exceed four percent of the average of the branch's deposits for the last thirty days of the most recent calendar quarter, excluding deposits in the branch of other offices, branches, agencies, or wholly owned subsidiaries of the alien bank.
+
+. As used in subsection (1) of this section, "initial deposit" means the first deposit transaction between a depositor and the branch. Different deposit accounts that are held by a depositor in the same right and capacity may be added together for purposes of determining the dollar amount of that depositor's initial deposit.
+
+. Approved branches of alien banks, other than those described in subsection (1) of this section, may solicit and accept deposits only from foreign governments and their agencies and instrumentalities, persons, or entities conducting business principally at their offices or establishments abroad, and such other deposits that:
+
+.. Are to be transmitted abroad;
+
+.. Consist of collateral or funds to be used for payment of obligations to the branch;
+
+.. Consist of the proceeds of collections abroad that are to be used to pay for exported or imported goods or for other costs of exporting or importing or that are to be periodically transferred to the depositor's account at another financial institution;
+
+.. Consist of the proceeds of extensions of credit by the branch; or
+
+.. Represent compensation to the branch for extensions of credit or services to the customer.
+
+. A branch may accept deposits, subject to the limitations set forth in subsections (1) and (3) of this section, only upon the same terms and conditions (including nature and extent of such deposits, withdrawal, and the payment of interest thereon) that banks organized under the laws of this state which are members of the Federal Reserve System may accept such deposits. Any branch that is not subject to reserve requirements under regulations of the Federal Reserve Board shall maintain deposit reserves in this state, pursuant to rules adopted by the director, to the same extent they must be maintained by banks organized under the laws of this state which are members of the Federal Reserve System.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20216[2014 c 37 § 216]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%2088[1994 c 92 § 88]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c305.pdf?cite=1985%20c%20305%20§%208[1985 c 305 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c95.pdf?cite=1982%20c%2095%20§%206[1982 c 95 § 6]; ]
+
+== 30A.42.120 - Requirements for accepting deposits or transacting business.
+A branch shall not commence to transact in this state the business of accepting deposits or transact such business thereafter unless it has met the following requirements:
+
+. It has obtained federal deposit insurance corporation insurance covering its eligible deposit liabilities within this state, or in lieu thereof, made arrangements satisfactory to the director for maintenance within this state of additional capital equal to not less than five percent of its deposit liabilities, computed on the basis of the average daily net deposit balances covering semimonthly periods as prescribed by the director. Such additional capital shall be deposited in the manner provided in RCW 30A.42.070.
+
+. It holds in this state currency, bonds, notes, debentures, drafts, bills of exchange, or other evidences of indebtedness or other obligations payable in the United States or in United States funds or, with the approval of the director, in funds freely convertible into United States funds or such other assets as are approved by the director, in an amount not less than one hundred percent of the aggregate amount of liabilities of such alien bank payable at or through its office in this state. When calculating the value of the assets so held, credit shall be given for the amounts deposited pursuant to RCW 30A.42.060(3) and 30A.42.120(1), but there shall be excluded all amounts due from the head office and any other branch, agency, or other office or wholly-owned subsidiary of the bank, except those amounts due from such offices or subsidiaries located within the United States and payable in United States dollars.
+
+. If deposits are not insured by the federal deposit insurance corporation, then that fact shall be disclosed to all depositors pursuant to rules of the director.
+
+. If the branch conducts an international banking facility, the deposits of which are exempt from reserve requirements of the federal reserve banking system, the liabilities of that facility shall be excluded from the deposit and other liabilities of the branch for the purposes of subsection (1) of this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20217[2014 c 37 § 217]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%2089[1994 c 92 § 89]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c95.pdf?cite=1982%20c%2095%20§%202[1982 c 95 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c285.pdf?cite=1975%201st%20ex.s.%20c%20285%20§%202[1975 1st ex.s. c 285 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%2012[1973 1st ex.s. c 53 § 12]; ]
+
+== 30A.42.130 - Taking possession by director—Reasons—Disposition of deposits—Claims—Priorities.
+The director may take possession of the office of an alien bank for the reasons stated and in the manner provided in chapter 30A.44 RCW. Upon the director taking such possession of a branch, no deposit liabilities of which are insured by the federal deposit insurance corporation, the amounts deposited pursuant to RCW 30A.42.120(1) shall thereupon become the property of the director, free and clear of any and all liens and other claims, and shall be held by the director in trust for the United States domiciled depositors of the office in this state of such alien bank. Upon obtaining the approval of the superior court of Thurston county, the director shall reduce such deposited capital to cash and as soon as practicable distribute it to such depositors.
+
+If sufficient cash is available, such distribution shall be in equal amounts to each such depositor: PROVIDED, That no such depositor receives more than the amount of his or her deposit or an amount equal to the maximum amount insured by the federal deposit insurance corporation, whichever is less. If sufficient cash is not available, such distribution shall be on a pro rata basis to each such depositor: PROVIDED, That no such depositor receives more than the maximum amount insured by the federal deposit insurance corporation. If any cash remains after such distribution, it shall be distributed pro rata to those depositors whose deposits have not been paid in full: PROVIDED, That no depositor receives more than the amount of his deposit. For purposes of this section, the term "depositor" shall not include any other offices, subsidiaries or affiliates of such alien bank.
+
+The term "deposit" as used in this section shall mean the unpaid balance of money or its equivalent received or held by the branch in the usual course of its business and for which it has given or is obligated to give credit, either conditionally or unconditionally to a demand, time or savings account, or which is evidenced by its certificate of deposit, or a check or draft drawn against a deposit account and certified by the branch, or a letter of credit or traveler's checks on which the branch is primarily liable.
+
+Claims of depositors and creditors shall be made and disposed of in the manner provided in chapter 30A.44 RCW in the event of insolvency or inability of the bank to pay its creditors in this state. The capital deposit of the bank shall be available for claims of depositors and creditors. The claims of depositors and creditors shall be paid from the capital deposit in the following order or priority:
+
+. Claims of depositors not paid from the amounts deposited pursuant to RCW 30A.42.120(1);
+
+. Claims of Washington domiciled creditors;
+
+. Other creditors domiciled in the United States; and
+
+. Creditors domiciled in foreign countries.
+
+The director shall proceed in accordance with and have all the powers granted by chapter 30A.44 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20218[2014 c 37 § 218]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%2090[1994 c 92 § 90]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%2013[1973 1st ex.s. c 53 § 13]; ]
+
+== 30A.42.140 - Investigations—Examinations.
+The director, without previous notice, shall visit the office of an alien bank doing business in this state pursuant to this chapter at least once every eighteen months, and more often if necessary, for the purpose of making a full investigation into the condition of such office, and for that purpose they are hereby empowered to administer oaths and to examine under oath any director or member of its governing body, officer, employee, or agent of such alien bank or office. The director shall make such other full or partial examination as he or she deems necessary. The director shall collect, from each alien bank for each examination of the conditions of its office in this state, the estimated actual cost of such examination.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1036.SL.pdf?cite=2001%20c%20176%20§%201[2001 c 176 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%2091[1994 c 92 § 91]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c95.pdf?cite=1982%20c%2095%20§%203[1982 c 95 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%2014[1973 1st ex.s. c 53 § 14]; ]
+
+== 30A.42.145 - Examination reports and information—Confidential—Privileged—Penalty.
+See RCW 30A.04.075.
+
+[ ]
+
+== 30A.42.150 - Loans subject to usury laws.
+Loans made by an office shall be subject to the laws of the state of Washington relating to usury.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%2015[1973 1st ex.s. c 53 § 15]; ]
+
+== 30A.42.155 - Powers and activities.
+. In addition to the taking of deposits and making of loans as provided in this chapter, a branch of an alien bank shall have the power only to carry out these other activities:
+
+.. Borrow funds from banks and other financial institutions;
+
+.. Make investments to the same extent as a state bank chartered pursuant to this title;
+
+.. Buy and sell foreign exchange;
+
+.. Receive checks, bills, drafts, acceptances, notes, bonds, coupons, and other securities for collection abroad and collect such instruments in the United States for customers abroad;
+
+.. Hold securities in safekeeping for, or buy and sell securities upon the order and for the risk of, customers abroad;
+
+.. Act as paying agent for securities issued by foreign governments or other organizations organized under foreign law and not qualified under the laws of the United States, or of any state or the District of Columbia, to do business in the United States;
+
+.. In order to prevent loss on debts previously contracted a branch may acquire shares in a corporation: PROVIDED, That the shares are disposed of as soon as practical but in no event later than two years from the date of acquisition;
+
+.. Issue letters of credit and create acceptances;
+
+.. Act as paying agent or trustee in connection with revenue bonds issued pursuant to chapter 39.84 RCW, in which the user is: (i) A corporation organized under the laws of a country other than the United States, or a subsidiary or affiliate owned or controlled by such a corporation; or (ii) a corporation, partnership, or other business organization, the majority of the beneficial ownership of which is owned by persons who are citizens of a country other than the United States and who are not residents of the United States, and any subsidiary or affiliate owned or controlled by such an organization; or in which the bank purchases twenty-five percent or more of the bond issue. For the purposes of chapter 39.84 RCW, such an alien bank shall be deemed to possess trust powers.
+
+. In addition to the powers and activities expressly authorized by this section, a branch shall have the power to carry on such additional activities which are necessarily incidental to the activities expressly authorized by this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20219[2014 c 37 § 219]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c95.pdf?cite=1982%20c%2095%20§%205[1982 c 95 § 5]; ]
+
+== 30A.42.160 - Powers as to real estate.
+An alien bank may purchase, hold and convey real estate for the following purposes and no other:
+
+. Such as shall be necessary for the convenient transaction of its business, including with its banking offices other apartments in the same building to rent as a source of income: PROVIDED, That not to exceed thirty percent of its capital and surplus and undivided profits may be so invested without the approval of the director.
+
+. Such as shall be purchased or conveyed to it in satisfaction, or on account of, debts previously contracted in the course of business.
+
+. Such as it shall purchase at sale under judgments, decrees, liens or mortgage foreclosures, against securities held by it.
+
+. Such as it may take title to or for the purpose of investing in real estate conditional sales contracts.
+
+. Such as shall be convenient for the residences of its employees.
+
+No real estate except that specified in subsections (1) and (5) of this section may be carried as an asset on the corporation's books for a longer period than five years from the date title is acquired thereto, unless an extension of time be granted by the director.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%2092[1994 c 92 § 92]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c285.pdf?cite=1975%201st%20ex.s.%20c%20285%20§%203[1975 1st ex.s. c 285 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%2016[1973 1st ex.s. c 53 § 16]; ]
+
+== 30A.42.170 - Advertising, status of federal insurance on deposits to be included—Gifts for new deposits.
+. An alien bank that advertises the services of its branch in the state of Washington shall indicate on all advertising materials whether or not deposits placed with its branch are insured by the federal deposit insurance corporation.
+
+. A branch shall not make gifts to a new deposit customer of a greater value than five dollars in total. The value of the gifts shall be the cost to the branch of acquiring said gift.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%2017[1973 1st ex.s. c 53 § 17]; ]
+
+== 30A.42.180 - Approved agencies—Powers and activities.
+An approved agency of an alien bank may engage in the business of making loans and guaranteeing obligations for the financing of the international movement of goods and services and for all operational needs including working capital and short-term operating needs and for the acquisition of fixed assets. Other than such activities, such agency may engage only in the following activities:
+
+. Borrow funds from banks and other financial institutions;
+
+. Buy and sell foreign exchange;
+
+. Receive checks, bills, drafts, acceptances, notes, bonds, coupons, and other securities for collection abroad and collect such instruments in the United States for customers abroad;
+
+. Hold securities in safekeeping for, or buy and sell securities upon the order and for the risk of, customers abroad;
+
+. Act as paying agent for securities issued by foreign governments or other organizations organized under foreign law and not qualified under the laws of the United States, or any state or the District of Columbia to do business in the United States;
+
+. In order to prevent loss on debts previously contracted, an agency may acquire shares in a corporation: PROVIDED, That the shares are disposed of as soon as practical, but in no event later than two years from the date of acquisition;
+
+. Issue letters of credit and create acceptances;
+
+. In addition to the powers and activities expressly authorized by this section, an agency shall have the power to carry on such additional activities which are necessarily incidental to the activities expressly authorized by this section.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%2018[1973 1st ex.s. c 53 § 18]; ]
+
+== 30A.42.190 - Bonding requirements for officers and employees.
+All officers and employees of an office shall be subject to the same bonding requirements as are officers and employees of banks incorporated under the laws of this state.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%2019[1973 1st ex.s. c 53 § 19]; ]
+
+== 30A.42.200 - Books and accounts—English language.
+The books and accounts of an office and a bureau shall be kept in words and figures of the English language.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%2020[1973 1st ex.s. c 53 § 20]; ]
+
+== 30A.42.210 - Bureaus—Application procedure.
+. Application procedure. An alien bank shall not establish and operate a bureau in this state unless it is authorized to do so and unless it has met the following conditions:
+
+.. It has filed with the director an application in such form and containing such information as shall be prescribed by the director;
+
+.. It has paid the fee required by law and established by the director pursuant to *RCW 30.08.095;
+
+.. It has received from the director a certificate authorizing the applicant bank to establish and operate a bureau in conformity herewith.
+
+. Upon receipt of the bank's application, and the conducting of such examination or investigation as the director deems necessary and appropriate and being satisfied that the opening of such bureau will be consistent with the purposes of this chapter, the director may grant approval for the bureau and issue a certificate authorizing the alien bank to establish and operate a bureau in the state of Washington.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%2093[1994 c 92 § 93]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%2021[1973 1st ex.s. c 53 § 21]; ]
+
+== 30A.42.220 - Bureaus—Approval—Certificate of authority—Time limit for commencing business.
+If the director approves the application, he or she shall notify the alien bank of his or her approval and shall file certified copies of its charter, certificate, or other authorization to do business with the secretary of state and with the recording officer of the county in which the bureau is to be located. Upon such filing, the director shall issue a certificate of authority stating that the alien bank is authorized to operate a bureau in this state at the place designated in accordance with this chapter. No such certificate shall be transferable or assignable. Such certificate shall be conspicuously displayed at all times in the place of business specified therein.
+
+A bureau of an alien bank must commence business within six months after the issuance of the director's certificate: PROVIDED, That the director for good cause shown may extend such period for an additional time not to exceed three months.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%2094[1994 c 92 § 94]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%2022[1973 1st ex.s. c 53 § 22]; ]
+
+== 30A.42.230 - Bureaus—Number—Powers.
+An alien bank may have as many bureaus in this state as the director will authorize. A bureau in this state may provide information about services offered by the alien bank, its subsidiaries and affiliates and may gather and provide business and economic information. A bureau may not take deposits, make loans or transact other commercial or banking business in this state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%2095[1994 c 92 § 95]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%2023[1973 1st ex.s. c 53 § 23]; ]
+
+== 30A.42.240 - Bureaus—Examinations.
+The director is empowered to examine the bureau operations of an alien bank whenever he or she deems it necessary. The director shall collect from such alien bank the estimated actual cost of such examination.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%2096[1994 c 92 § 96]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%2024[1973 1st ex.s. c 53 § 24]; ]
+
+== 30A.42.250 - Temporary facilities at trade fairs, etc.
+An alien bank may operate temporary facilities at trade fairs or other commercial events of short duration without first obtaining the approval of the director: PROVIDED, That the activities of such temporary facility are limited solely to the dissemination of information: AND PROVIDED FURTHER, If an alien bank engages in such activity, it shall notify the director in writing prior to opening of the nature and location of such facility. The director is empowered to investigate the operation of such temporary facility if he or she deems it necessary, and to collect from the alien bank the estimated actual cost thereof.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%2097[1994 c 92 § 97]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%2025[1973 1st ex.s. c 53 § 25]; ]
+
+== 30A.42.260 - Reports.
+. An office of an alien bank shall file the following reports with the director within such times and in such form as the director shall prescribe by rule:
+
+.. A statement of condition of the office;
+
+.. A capital position report of the office;
+
+.. A consolidated statement of condition of an alien bank.
+
+. An office of an alien bank shall publish such reports as the director by rule may prescribe.
+
+. An alien bank operating a bureau in this state shall file a copy of the alien bank's annual financial report with the director as soon as possible following the end of each fiscal year and shall file such other material as the director may prescribe by rule.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%2098[1994 c 92 § 98]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%2026[1973 1st ex.s. c 53 § 26]; ]
+
+== 30A.42.270 - Taxation.
+An office of an alien bank shall be taxed on the same basis as are banks incorporated under the laws of this state.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%2027[1973 1st ex.s. c 53 § 27]; ]
+
+== 30A.42.280 - Directors, officers, and employees—Duties, responsibilities and restrictions—Removal.
+The directors or other governing body of an alien bank and the officers and employees of its office in this state shall be subject to all of the duties, responsibilities and restrictions to which the directors, officers and employees of a bank organized under the laws of this state are subject insofar as such duties, responsibilities and restrictions are not inconsistent with the intent of this chapter. An officer or employee of the office of an alien bank doing business in this state pursuant to this chapter may be removed for the reasons stated and in the manner provided in RCW 30A.12.040.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20220[2014 c 37 § 220]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%2028[1973 1st ex.s. c 53 § 28]; ]
+
+== 30A.42.290 - Compliance—Violations—Penalties.
+. The director shall have the responsibility for assuring compliance with the provisions of this chapter. An alien bank that conducts business in this state in violation of any provisions of this chapter is guilty of a misdemeanor and in addition thereto shall be liable in the sum of one hundred dollars per day that each such offense continues, such sum to be recovered by the attorney general in a civil action in the name of the state.
+
+. Every person who shall knowingly subscribe to or make or cause to be made any false entry in the books of any alien bank office or bureau doing business in this state pursuant to this chapter or shall knowingly subscribe to or exhibit any false or fictitious paper or security, instrument or paper, with the intent to deceive any person authorized to examine into the affairs of any such office or bureau or shall make, state or publish any false statement of the amount of the assets or liabilities of any such office or bureau is guilty of a class B felony punishable according to chapter 9A.20 RCW.
+
+. Every director or member of the governing body, officer, employee or agent of such alien bank operating an office or bureau in this state who conceals or destroys any fact or otherwise suppresses any evidence relating to a violation of this chapter is guilty of a class B felony punishable according to chapter 9A.20 RCW.
+
+. Any person who transacts business in this state on behalf of an alien bank which is subject to the provisions of this chapter, but which is not authorized to transact such business pursuant to this chapter is guilty of a misdemeanor and in addition thereto shall be liable in the sum of one hundred dollars per day for each day that such offense continues, such sum to be recovered by the attorney general in a civil action in the name of the state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%20189[2003 c 53 § 189]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%2099[1994 c 92 § 99]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%2029[1973 1st ex.s. c 53 § 29]; ]
+
+== 30A.42.300 - Suspension or revocation of certificate to operate—Grounds.
+If the director finds that any alien bank to which he or she has issued a certificate to operate an office or bureau in this state pursuant to this chapter has violated any law or rule, or has conducted its affairs in an unauthorized manner, or has been unresponsive to the director's lawful orders or directions, or is in an unsound or unsafe condition, or cannot with safety and expediency continue business, or if he or she finds that the alien bank's country is unjustifiably refusing to allow banks qualified to do business in and having their principal office within this state to operate offices or similar operations in such country, the director may suspend or revoke the certificate of such alien bank and notify it of such suspension or revocation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%20100[1994 c 92 § 100]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%2030[1973 1st ex.s. c 53 § 30]; ]
+
+== 30A.42.310 - Change of location.
+An alien bank licensed to maintain an office or bureau in this state pursuant to this chapter may apply to the director for leave to change the location of its office or bureau. Such applications shall be accompanied by an investigation fee as established in accordance with RCW 30A.42.330. Leave for a change of location shall be granted if the director finds that the proposed new location offers reasonable promise of adequate support for the office.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20221[2014 c 37 § 221]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%20101[1994 c 92 § 101]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%2031[1973 1st ex.s. c 53 § 31]; ]
+
+== 30A.42.320 - Rules.
+The director shall have power to adopt uniform rules to govern examination and reports of alien bank offices and bureaus doing business in this state pursuant to this chapter and the form in which they shall report their assets, liabilities, and reserves, charge off bad debts and otherwise keep their records and accounts and otherwise to govern the administration of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%20102[1994 c 92 § 102]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%2032[1973 1st ex.s. c 53 § 32]; ]
+
+== 30A.42.330 - Fees.
+The director shall collect in advance from an alien bank for filing its application for an office or a bureau and the attendant investigation, and for such other applications, approvals or certificates provided herein, such fee as shall be established by rule adopted pursuant to the administrative procedure act, chapter 34.05 RCW, as now or hereafter amended. The alien bank shall also pay to the secretary of state and the county recording officer for filing instruments as required by this chapter the same fees as are charged general corporations for the filing of similar instruments and also the same license fees as are required of foreign corporations doing business in this state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%20103[1994 c 92 § 103]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%2033[1973 1st ex.s. c 53 § 33]; ]
+
+== 30A.42.340 - Alien banks or branches in business on or before effective date.
+. Any branch of an alien bank that is conducting business in this state on July 16, 1973 pursuant to RCW 30A.04.300 shall not be subject to the provisions of this chapter, and shall continue to conduct its business pursuant to RCW 30A.04.300.
+
+. Except as provided in subsection (1) of this section, any alien bank that is conducting business in this state on July 16, 1973 shall be subject to the provisions of this chapter: PROVIDED, That any such alien bank which has operated an agency or similar operation in this state for at least the five years immediately preceding such effective date shall not be denied a certificate to operate an agency.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20222[2014 c 37 § 222]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c53.pdf?cite=1973%201st%20ex.s.%20c%2053%20§%2034[1973 1st ex.s. c 53 § 34]; ]
+

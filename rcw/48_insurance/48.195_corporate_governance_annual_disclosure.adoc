@@ -1,0 +1,107 @@
+= 48.195 - Corporate governance annual disclosure.
+:toc:
+
+== 48.195.005 - Purpose—Application.
+. The purpose of this chapter is to:
+
+.. Provide the insurance commissioner a summary of an insurer or insurance group's corporate governance structure, policies, and practices to permit the commissioner to gain and maintain an understanding of the insurer's corporate governance framework;
+
+.. Outline the requirements for completing a corporate governance annual disclosure with the commissioner; and
+
+.. Provide for the confidential treatment of the corporate governance annual disclosure and related information that will contain confidential and sensitive information related to an insurer or insurance group's internal operations and proprietary and trade secret information which, if made public, could potentially cause the insurer or insurance group competitive harm or disadvantage.
+
+. This chapter does not prescribe or impose corporate governance standards and internal procedures beyond that which is required under applicable corporate law. This chapter does not limit the commissioner's authority, or the rights or obligations of third parties, under chapter 48.03 RCW.
+
+. This chapter applies to all insurers domiciled in this state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6059.SL.pdf?cite=2018%20c%2030%20§%201[2018 c 30 § 1]; ]
+
+== 48.195.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Commissioner" means the insurance commissioner of this state.
+
+. "Corporate governance annual disclosure" means a confidential report filed by the insurer or insurance group under this chapter.
+
+. "Insurance group" means those insurers and affiliates included within an insurance holding company system as defined in RCW 48.31B.005.
+
+. "Insurer" has the same meaning as set forth in RCW 48.31B.005.
+
+. "ORSA summary report" means the report filed under chapter 48.05A RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6059.SL.pdf?cite=2018%20c%2030%20§%202[2018 c 30 § 2]; ]
+
+== 48.195.020 - Annual disclosure—Lead state when insurer part of insurance group—Additional information may be required.
+. An insurer, or the insurance group of which the insurer is a member, must, no later than June 1st of each calendar year, submit to the commissioner a corporate governance annual disclosure that contains the information described in RCW 48.195.030(2). If the insurer is a member of an insurance group, the insurer must submit the report required by this section to the commissioner of the lead state for the insurance group, under the laws of the lead state, as determined by the procedures outlined in the most recent financial analysis handbook adopted by the national association of insurance commissioners.
+
+. The corporate governance annual disclosure must include a signature of the insurer or insurance group's chief executive officer or corporate secretary attesting to the best of the individual's belief and knowledge that the insurer has implemented the corporate governance practices and that a copy of the disclosure has been provided to the insurer's board of directors or the appropriate committee thereof.
+
+. An insurer not required to submit a corporate governance annual disclosure under this section must do so upon the commissioner's request.
+
+. For purposes of completing the corporate governance annual disclosure, the insurer or insurance group may provide information regarding corporate governance at either (a) the ultimate controlling parent level, (b) an intermediate holding company level, or (c) the individual legal entity level, or any combination of (a) through (c) of this subsection, depending upon how the insurer or insurance group has structured its system of corporate governance. The insurer or insurance group is encouraged to make the corporate governance annual disclosure at the level at which the insurer's or insurance group's risk appetite is determined, or at which the earnings, capital, liquidity, operations, and reputation of the insurer are overseen collectively and at which the supervision of those factors are coordinated and exercised, or the level at which legal liability for failure of general corporate governance duties would be placed. If the insurer or insurance group determines the level of reporting based on these criteria, it must indicate which of the three criteria was used to determine the level of reporting and explain any subsequent changes in the level of reporting.
+
+. The review of the corporate governance annual disclosure and any additional requests for information shall be made through the lead state as determined by the procedure within the most recent financial analysis handbook referenced in subsection (1) of this section.
+
+. Insurers providing information substantially similar to the information required by this chapter in other documents provided to the commissioner, including proxy statements filed in conjunction with form B requirements, or other state or federal filings provided to the commissioner are not required to duplicate that information in the corporate governance annual disclosure, but are only required to cross-reference the document in which the information is included.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6059.SL.pdf?cite=2018%20c%2030%20§%203[2018 c 30 § 3]; ]
+
+== 48.195.030 - Responses to annual disclosure inquiries—Documentation and supporting information.
+. The insurer or insurance group has discretion over the responses to the corporate governance annual disclosure inquiries, provided the corporate governance annual disclosure contains the material information necessary to permit the commissioner to gain an understanding of the insurer's or insurance group's corporate governance structure, policies, and practices. The commissioner may request additional information that he or she deems material and necessary to provide the commissioner with a clear understanding of the corporate governance policies, the reporting or information system, or controls implementing those policies.
+
+. The corporate governance annual disclosure must be prepared consistent with the national association of insurance commissioners' corporate governance annual disclosure model rule which may be adopted by the commissioner. Documentation and supporting information must be maintained and made available upon examination or upon request of the commissioner.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6059.SL.pdf?cite=2018%20c%2030%20§%204[2018 c 30 § 4]; ]
+
+== 48.195.040 - Documents, materials, and other information are confidential—Restricted use by commission—Restricted use in civil actions.
+. Documents, materials, or other information including the corporate governance annual disclosure, in the possession or control of the commissioner that are obtained by, created by, or disclosed to the commissioner or any other person under this chapter, are recognized by this state as being proprietary and to contain trade secrets. All the documents, materials, or other information is confidential by law and privileged, is not subject to chapter 42.56 RCW, are not subject to subpoena, and are not subject to discovery or admissible in evidence in any private civil action. However, the commissioner is authorized to use the documents, materials, or other information in the furtherance of any regulatory or legal action brought as a part of the commissioner's official duties. The commissioner shall not otherwise make the documents, materials, or other information public without the prior written consent of the insurer. This section does not require written consent of the insurer before the commissioner shares or receives confidential documents, materials, or other corporate governance annual disclosure related information under subsection (3) of this section to assist in the performance of the commissioner's regular duties.
+
+. Neither the commissioner nor any person who received documents, materials, or other corporate governance annual disclosure related information, through examination or otherwise, while acting under the authority of the commissioner, or with whom the documents, materials, or other information are shared under this chapter are permitted or required to testify in any private civil action concerning any confidential documents, materials, or information subject to subsection (1) of this section.
+
+. In order to assist in the performance of the commissioner's regulatory duties, the commissioner:
+
+.. May, upon request, share documents, materials, or other corporate governance annual disclosure related information including confidential and privileged documents, materials, or information subject to subsection (1) of this section, including proprietary and trade secret documents and materials with other state, federal, and international financial regulatory agencies, including members of any supervisory college as defined in RCW 48.31B.037, with the national association of insurance commissioners, and with third-party consultants under RCW 48.195.050, provided that the recipient agrees in writing to maintain the confidentiality and privileged status of the corporate governance annual disclosure related documents, materials, or other information and has verified in writing the legal authority to maintain confidentiality; and
+
+.. May receive documents, materials, and other corporate governance annual disclosure related information, including otherwise confidential and privileged documents, materials, or information, including proprietary and trade secret information or documents, from regulatory officials of other state, federal, and international financial regulatory agencies, including members of any supervisory college as defined in RCW 48.31B.037, and from the national association of insurance commissioners, and shall maintain as confidential or privileged any documents, materials, or other information received with notice or the understanding that it is confidential or privileged under the laws of the jurisdiction that is the source of the documents, materials, or information.
+
+. The sharing of information and documents by the commissioner under this chapter does not constitute a delegation of regulatory authority or rule making, and the commissioner is solely responsible for the administration, execution, and enforcement of this chapter.
+
+. A waiver of any applicable privilege or claim of confidentiality in the documents, proprietary and trade secret materials, or other corporate governance annual disclosure related information does not occur as a result of disclosure of the corporate governance annual disclosure related information or documents to the commissioner under this section or as a result of sharing as authorized in this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6059.SL.pdf?cite=2018%20c%2030%20§%205[2018 c 30 § 5]; ]
+
+== 48.195.050 - Retaining third-party consultants—Under direction and control of the commissioner—Written agreements and consent.
+. The commissioner may retain at the insurer's expense, third-party consultants, including attorneys, actuaries, accountants, and other experts not otherwise part of the commissioner's staff as may be reasonably necessary to assist the commissioner in reviewing the corporate governance annual disclosure and related information or the insurer's compliance with this chapter.
+
+. Any persons retained under subsection (1) of this section is under the direction and control of the commissioner and is acting in a purely advisory capacity.
+
+. The national association of insurance commissioners and third-party consultants are subject to the same confidentiality standards and requirements as the commissioner.
+
+. As part of the retention process, a third-party consultant must verify to the commissioner, with notice to the insurer, that it is free of a conflict of interest and that it has internal procedures in place to monitor compliance with a conflict and to comply with the confidentiality standards and requirements of this chapter.
+
+. A written agreement with either the national association of insurance commissioners or a third-party consultant, or both, governing the sharing and use of information provided under this chapter must contain the following provisions and expressly require the written consent of the insurer prior to making public information provided under this chapter:
+
+.. Specific procedures and protocols for maintaining the confidentiality and security of corporate governance annual disclosure related information shared with the national association of insurance commissioner or a third-party consultant under this chapter;
+
+.. Procedures and protocols for sharing by the national association of insurance commissioners only with other state regulators from states in which the insurance group has domiciled insurers. The agreement must provide that the recipient agrees in writing to maintain the confidentiality and privileged status of the corporate governance annual disclosure related documents, materials, or other information and has verified in writing the legal authority to maintain confidentiality;
+
+.. A provision specifying that ownership of the corporate governance annual disclosure related information shared with the national association of insurance commissioners or a third-party consultant remains with the commissioner and the national association of insurance commissioners or third-party consultant's use of the information is subject to the direction of the commissioner;
+
+.. A provision that prohibits the national association of insurance commissioners or a third-party consultant from storing the information shared under this chapter in a permanent database after the underlying analysis is completed;
+
+.. A provision requiring the national association of insurance commissioners or a third-party consultant to provide prompt notice to the commissioner and to the insurer or insurance group regarding any subpoena, request for disclosure, or request for production of the insurer's corporate governance annual disclosure related information; and
+
+.. A requirement that the national association of insurance commissioners or a third-party consultant consent to intervention by an insurer in any judicial or administrative action in which the national association of insurance commissioners or a third-party consultant may be required to disclose confidential information about the insurer shared with the national association of insurance commissioners or third-party consultant under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6059.SL.pdf?cite=2018%20c%2030%20§%206[2018 c 30 § 6]; ]
+
+== 48.195.060 - Failure to timely file—Penalties.
+Any insurer failing, without just cause, to timely file the corporate governance annual disclosure as required by this chapter is required, after notice and hearing under chapters 48.04 and 34.05 RCW, to pay a penalty of five hundred dollars for each day's delay, to be recovered by the commissioner and the penalty must be paid to the general fund of this state. The maximum penalty under this section is one hundred thousand dollars. The commissioner may reduce the penalty if the insurer demonstrates to the commissioner that the imposition of the penalty would constitute a financial hardship to the insurer.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6059.SL.pdf?cite=2018%20c%2030%20§%207[2018 c 30 § 7]; ]
+
+== 48.195.100 - Rules.
+The commissioner may, under chapter 34.05 RCW, adopt rules to implement and administer this chapter, including the national association of insurance commissioners' corporate governance annual disclosure model rule.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6059.SL.pdf?cite=2018%20c%2030%20§%208[2018 c 30 § 8]; ]
+

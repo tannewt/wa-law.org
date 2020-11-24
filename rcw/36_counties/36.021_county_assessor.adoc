@@ -1,0 +1,70 @@
+= 36.21 - County assessor.
+:toc:
+
+== 36.21.011 - Appointment of deputies and assistants—Engaging expert appraisers—Employment and classification plans for appraisers.
+Any assessor who deems it necessary in order to complete the listing and the valuation of the property of the county within the time prescribed by law, (1) may appoint one or more well qualified persons to act as assistants or deputies who shall not engage in the private practice of appraising within the county in which he or she is employed without the written permission of the assessor filed with the auditor; and each such assistant or deputy so appointed shall, under the direction of the assessor, after taking the required oath, perform all the duties enjoined upon, vested in or imposed upon assessors, and (2) may contract with any persons, firms or corporations, who are expert appraisers, to assist in the valuation of property.
+
+To assist each assessor in obtaining adequate and well qualified assistants or deputies, the office of financial management, after consultation with the Washington state association of county assessors, the Washington state association of counties, and the department of revenue, shall establish by July 1, 1967, and shall thereafter maintain, a classification and salary plan for those employees of an assessor who act as appraisers. The plan shall recommend the salary range and employment qualifications for each position encompassed by it, and shall, to the fullest extent practicable, conform to the classification plan, salary schedules and employment qualifications for state employees performing similar appraisal functions.
+
+An assessor who intends to put such plan into effect shall inform the department of revenue and the county legislative authority of this intent in writing. The department of revenue and the county legislative authority may thereupon each designate a representative, and such representative or representatives as may be designated by the department of revenue or the county legislative authority, or both, shall form with the assessor a committee. The committee so formed may, by unanimous vote only, determine the required number of certified appraiser positions and their salaries necessary to enable the assessor to carry out the requirements relating to revaluation of property in chapter 84.41 RCW. The determination of the committee shall be certified to the county legislative authority. The committee may be formed only once in a period of four calendar years.
+
+After such determination, the assessor may provide, in each of the four next succeeding annual budget estimates, for as many positions as are established in such determination. Each county legislative authority to which such a budget estimate is submitted shall allow sufficient funds for such positions. An employee may be appointed to a position covered by the plan only if the employee meets the employment qualifications established by the plan.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5931-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2043%20§%20470[2011 1st sp.s. c 43 § 470]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1015.SL.pdf?cite=1995%20c%20134%20§%2012[1995 c 134 § 12]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5372-S2.SL.pdf?cite=1994%20c%20301%20§%206[1994 c 301 § 6]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2479-S.SL.pdf?cite=1994%20c%20124%20§%201[1994 c 124 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c11.pdf?cite=1973%201st%20ex.s.%20c%2011%20§%201[1973 1st ex.s. c 11 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c85.pdf?cite=1971%20ex.s.%20c%2085%20§%202[1971 ex.s. c 85 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c146.pdf?cite=1967%20ex.s.%20c%20146%20§%207[1967 ex.s. c 146 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c4.pdf?cite=1963%20c%204%20§%2036.21.011[1963 c 4 § 36.21.011]; prior:  1955 c 251 § 10; ]
+
+== 36.21.015 - Qualifications for persons assessing real property—Examination—Examination waiver—Continuing education requirement.
+. Any person having the responsibility of valuing real property for purposes of taxation including persons acting as assistants or deputies to a county assessor under RCW 36.21.011 shall have first:
+
+.. Had at least one year of experience in transactions involving real property, in appraisal of real property, or in assessment of real property, or at least one year of experience in a combination of the three;
+
+.. Become knowledgeable in repair and remodeling of buildings and improvement of land, and in the significance of locality and area to the value of real property;
+
+.. Become knowledgeable in the standards for appraising property set forth by the department of revenue; and
+
+.. Met other minimum requirements specified by department of revenue rule.
+
+. The department of revenue shall prepare and administer an examination on subjects related to the valuation of real property. No person shall assess real property for purposes of taxation without having passed said examination or having received an examination waiver from the department of revenue upon showing education or experience determined by the department to be equivalent to passing the examination. A person passing said examination or receiving an examination waiver shall be accredited accordingly by the department of revenue.
+
+. The department of revenue may by rule establish continuing education requirements for persons assessing real property for purposes of taxation. The department shall provide accreditation of completion of requirements imposed under this section. No person shall assess real property for purposes of taxation without complying with requirements imposed under this subsection.
+
+. To the extent practical, the department of revenue shall coordinate accreditation requirements under this section with the requirements for certified real estate appraisers under chapter 18.140 RCW.
+
+. The examination requirements of subsection (2) of this section shall not apply to any person who shall have either:
+
+.. Been certified as a real property appraiser by the department of personnel prior to July 1, 1992; or
+
+.. Attended and satisfactorily completed the assessor's school operated jointly by the department of revenue and the Washington state assessors association prior to August 9, 1971.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1301-S.SL.pdf?cite=1991%20c%20218%20§%203[1991 c 218 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977c75.pdf?cite=1977%20c%2075%20§%2030[1977 c 75 § 30]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c288.pdf?cite=1971%20ex.s.%20c%20288%20§%2017[1971 ex.s. c 288 § 17]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c27.pdf?cite=1971%20ex.s.%20c%2027%20§%201[1971 ex.s. c 27 § 1]; ]
+
+== 36.21.070 - New construction building permits—Appraisal of building.
+Upon receipt of a copy of a building permit, the county assessor shall, within twelve months of the date of issue of such permit, proceed to make a physical appraisal of the building or buildings covered by the permit.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c246.pdf?cite=1989%20c%20246%20§%203[1989 c 246 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c134.pdf?cite=1987%20c%20134%20§%201[1987 c 134 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c4.pdf?cite=1963%20c%204%20§%2036.21.070[1963 c 4 § 36.21.070]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c129.pdf?cite=1955%20c%20129%20§%204[1955 c 129 § 4]; ]
+
+== 36.21.080 - New construction building permits—When property placed on assessment rolls.
+The county assessor is authorized to place any property that is increased in value due to construction or alteration for which a building permit was issued, or should have been issued, under chapter 19.27, 19.27A, or 19.28 RCW or other laws providing for building permits on the assessment rolls for the purposes of tax levy up to August 31st of each year. The assessed valuation of the property shall be considered as of July 31st of that year.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c246.pdf?cite=1989%20c%20246%20§%204[1989 c 246 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c319.pdf?cite=1987%20c%20319%20§%205[1987 c 319 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c220.pdf?cite=1985%20c%20220%20§%201[1985 c 220 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982ex1c46.pdf?cite=1982%201st%20ex.s.%20c%2046%20§%204[1982 1st ex.s. c 46 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c274.pdf?cite=1981%20c%20274%20§%203[1981 c 274 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c120.pdf?cite=1975%201st%20ex.s.%20c%20120%20§%201[1975 1st ex.s. c 120 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c196.pdf?cite=1974%20ex.s.%20c%20196%20§%207[1974 ex.s. c 196 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c4.pdf?cite=1963%20c%204%20§%2036.21.080[1963 c 4 § 36.21.080]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c129.pdf?cite=1955%20c%20129%20§%205[1955 c 129 § 5]; ]
+
+== 36.21.090 - Initial placement of mobile home on assessment roll.
+When any mobile home first becomes subject to assessment for property taxes in this state, the county assessor is authorized to place the mobile home on the assessment rolls for purposes of tax levy up to August 31st of each year. The assessed valuation of the mobile home shall be considered as of the July 31st immediately preceding the date that the mobile home is placed on the assessment roll.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c134.pdf?cite=1987%20c%20134%20§%202[1987 c 134 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c22.pdf?cite=1977%20ex.s.%20c%2022%20§%207[1977 ex.s. c 22 § 7]; ]
+
+== 36.21.100 - Annual report to department of revenue on property tax levies and related matters.
+Every county assessor shall report to the department of revenue on the property tax levies and related matters within the county annually at a date and in a form prescribed by the department of revenue. The report shall include, but need not be limited to, the results of sales-assessment ratio studies performed by the assessor. The ratio studies shall be based on use classes of real property and shall be performed under a plan approved by the department of revenue.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1301-S.SL.pdf?cite=1991%20c%20218%20§%204[1991 c 218 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c138.pdf?cite=1987%20c%20138%20§%208[1987 c 138 § 8]; ]
+
+== 36.21.110 - Property tax exemption and deferral programs—Notice.
+. The county assessor must post a notice describing the:
+
+.. Property tax exemption program pursuant to RCW 84.36.379 through 84.36.389; and
+
+.. Property tax deferral program pursuant to chapter 84.38 RCW.
+
+. The notice required under subsection (1) of this section must be posted in a location visible to the public.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1105-S2.SL.pdf?cite=2019%20c%20332%20§%207[2019 c 332 § 7]; ]
+

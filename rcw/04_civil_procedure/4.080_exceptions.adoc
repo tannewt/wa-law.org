@@ -1,0 +1,28 @@
+= 4.80 - Exceptions.
+:toc:
+
+== 4.80.010 - Exception defined.
+An exception is a claim of error in a ruling or decision of a court, judge or other tribunal, or officer exercising judicial functions, made in the course of an action or proceeding or after judgment therein.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1893c60.pdf?cite=1893%20c%2060%20§%201[1893 c 60 § 1]; RRS § 381; ]
+
+== 4.80.020 - When to be taken.
+It shall not be necessary or proper to take or enter an exception to any ruling or decision mentioned in RCW 4.80.010, which is embodied in a written judgment, order or journal entry in the cause. But this section shall not apply to the report of a referee or commissioner, or to findings of fact or conclusions of law in a report or decision of a referee or commissioner, or in a decision of a court or judge upon a cause or part of a cause, either legal or equitable, tried without a jury.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1893c60.pdf?cite=1893%20c%2060%20§%202[1893 c 60 § 2]; RRS § 382; ]
+
+== 4.80.030 - Requisites—Entry in minutes.
+Exceptions to any ruling upon an objection to the admission of evidence, offered in the course of a trial or hearing, need not be formally taken, but the question put or other offer of evidence, together with the objection thereto and the ruling thereon, shall be entered by the court, judge, referee or commissioner (or by the stenographer, if one is in attendance) in the minutes of the trial or hearing, and such entry shall import an exception by the party against whom the ruling was made.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1893c60.pdf?cite=1893%20c%2060%20§%205[1893 c 60 § 5]; RRS § 385; ]
+
+== 4.80.040 - Manner of taking and entry.
+Exceptions to any ruling or decision made in the course of a trial or hearing, or in the progress of a cause, except those to which it is provided in this chapter that no exception need be taken and those to which some other mode of exception is in this chapter prescribed, may be taken by any party by stating to the court, judge, referee or commissioner making the ruling or decision, when the same is made, that such party excepts to the same; whereupon such court, judge, referee or commissioner shall note the exception in the minutes of the trial, hearing or cause, or shall cause the stenographer (if one is in attendance) so to note the same.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1893c60.pdf?cite=1893%20c%2060%20§%206[1893 c 60 § 6]; RRS § 386; ]
+
+== 4.80.140 - Application of chapter.
+This chapter shall apply to and govern all civil actions and proceedings, both legal and equitable, and all criminal causes, in the superior courts, but shall not apply to district courts or other courts of limited jurisdiction from which an appeal does not lie directly to the supreme court or court of appeals.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c202.pdf?cite=1987%20c%20202%20§%20120[1987 c 202 § 120]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971c81.pdf?cite=1971%20c%2081%20§%2021[1971 c 81 § 21]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1893c60.pdf?cite=1893%20c%2060%20§%2017[1893 c 60 § 17]; RRS § 397, part; ]
+

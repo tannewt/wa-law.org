@@ -1,0 +1,177 @@
+= 11.98A - Trusts—Trustee's delegation of duties—Investments—Statutory trust advisors.
+:toc:
+
+== 11.98A.010 - Application of chapter. (Effective until January 1, 2021.)
+This chapter applies to a trust only if expressly invoked in a governing instrument, as defined in RCW 11.98A.020, and the trust has its situs in Washington under RCW 11.98.005. This chapter does not create any inference that arrangements similar to a statutory trust advisor or directed trustee under governing instruments that do not expressly invoke this chapter are either invalid or unenforceable.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5302.SL.pdf?cite=2015%20c%20115%20§%204[2015 c 115 § 4]; ]
+
+== 11.98A.020 - Governing instrument. (Effective until January 1, 2021.)
+As used in this chapter, "governing instrument" means the will, trust instrument, court order, exercise of power of appointment, or binding agreement under RCW 11.96A.220 appointing, designating, or providing for a method for appointing a statutory trust advisor under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5302.SL.pdf?cite=2015%20c%20115%20§%205[2015 c 115 § 5]; ]
+
+== 11.98A.030 - Statutory trust advisor. (Effective until January 1, 2021.)
+. As used in this chapter, "statutory trust advisor" means one or more persons as the context requires, including, without limitation, a trust advisor, special trustee, trust protector, or committee, who, under the terms of the governing instrument, is expressly made subject to the provisions of this chapter, and who has a power or duty to direct, consent to, or disapprove an action, or has a power or duty that would normally be required of a trustee. The powers and duties granted to a statutory trust advisor under the governing instrument may include but are not limited to:
+
+.. The power to direct the acquisition, management, disposition, or retention of any trust investment;
+
+.. The power to direct a trustee to make or withhold distributions to beneficiaries;
+
+.. The power to consent to a trustee's action or inaction relating to investments of trust assets;
+
+.. The power to consent to a trustee's action or inaction in making distributions to beneficiaries;
+
+.. The power to increase or decrease any interest of any beneficiary in the trust, to grant a power of appointment to one or more trust beneficiaries, or to terminate or amend any power of appointment granted in the trust. However, a modification, amendment, or grant of a power of appointment may not:
+
+... Grant a beneficial interest in a charitable trust with only charitable beneficiaries to any noncharitable interest or purpose; or
+
+... Unless the governing instrument provides otherwise, expressly or impliedly grant any power that would cause all or any portion of the trust estate to be includible in the gross estate of the trustor, trustee, statutory trust advisor, or any trust beneficiary for estate tax purposes;
+
+.. The power to modify or amend the governing instrument to achieve favorable tax status or respond to changes in any applicable federal, state, or other tax law affecting the trust, including, without limitation, any rulings, regulations, or other guidance implementing or interpreting such laws;
+
+.. The power to modify or amend the governing instrument to take advantage of changes in (i) the rule against perpetuities, (ii) laws governing restraints on alienation, or (iii) other state laws restricting the terms of the trust, the distribution of trust property, or the administration of the trust;
+
+.. The power to appoint a successor trustee, trust advisor, or statutory trust advisor;
+
+.. The power to change the governing law or principal place of administration of the trust; and
+
+.. The power to remove a trustee, trust advisor, or statutory trust advisor for the reasons stated in the governing instrument.
+
+. Unless provided otherwise in the governing instrument, the exercise of a power by a statutory trust advisor shall be exercised in the sole and absolute discretion of the statutory trust advisor and shall be binding on all other persons.
+
+. Any of the powers enumerated in subsection (1) of this section, as they exist at the time of the signing of the governing instrument, may, by appropriate reference made thereto, be incorporated in whole or in part in such instrument, by a clearly expressed intention in the governing instrument.
+
+. [Empty]
+.. In exercising any power or refraining from exercising any power granted to such statutory trust advisor in the governing instrument, a statutory trust advisor shall have a fiduciary duty with respect to each power to act in accordance with the terms and purposes of the trust and solely in the interests of the beneficiaries.
+
+.. Notwithstanding (a) of this subsection, a statutory trust advisor who has accepted appointment and holds any of the powers enumerated in subsection (1)(c) through (j) of this section has no duty to monitor the administration of the trust to determine whether that power should be exercised except upon request of the trustee or a qualified beneficiary under chapter 11.98 RCW, or unless otherwise provided under the governing instrument. The extent of the duty of a statutory trust advisor to monitor the administration of the trust to determine if any other power granted to the statutory trust advisor should be exercised will be determined based upon the scope and nature of the power under the governing instrument and the then existing circumstances of the trust. In no event may the governing instrument relieve the statutory trust advisor from the fiduciary duty described in this subsection or relieve the statutory trust advisor from the duty to act in good faith and with honest judgment.
+
+. A statutory trust advisor may accept appointment by written notice to the trustee, by taking affirmative action to exercise powers or perform duties granted to the statutory trust advisor or by any other means provided in the governing instrument. 
+
+. Unless otherwise provided in the governing instrument, whenever any power is jointly granted to more than one statutory trust advisor, RCW 11.98.016 applies to the exercise of powers by the statutory trust advisors.
+
+. A statutory trust advisor is entitled to the same protection from liability provided to a directed trustee under RCW 11.98A.100(2) with respect to each power, duty, or function granted or reserved exclusively to the trustee or any one or more other statutory trust advisors.
+
+. A statutory trust advisor may at any time decline to serve or resign as statutory trust advisor by written notice to the then serving trustee of the trust, unless another procedure is prescribed by the governing instrument.
+
+. Except as otherwise provided in the governing instrument, a statutory trust advisor is entitled to reasonable compensation considering all circumstances including the time, effort, skill, and responsibility involved in the performance of services by the statutory trust advisor.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5302.SL.pdf?cite=2015%20c%20115%20§%206[2015 c 115 § 6]; ]
+
+== 11.98A.040 - Remedies for breach of duty. (Effective until January 1, 2021.)
+. If a statutory trust advisor breaches a fiduciary duty with respect to a power granted to the statutory trust advisor in the governing instrument, or threatens to commit such a breach, a trustee or beneficiary of the trust may file a petition under chapter 11.96A RCW for any of the following purposes that is appropriate:
+
+.. To compel the statutory trust advisor to perform the statutory trust advisor's duties;
+
+.. To enjoin the statutory trust advisor from committing a breach of fiduciary duty;
+
+.. To compel the statutory trust advisor to redress a breach of fiduciary duty by payment of money or otherwise;
+
+.. To require the trustee to assume responsibility for a power or duty given to a statutory trust advisor in the governing instrument;
+
+.. To remove the statutory trust advisor;
+
+.. To set aside acts of the statutory trust advisor;
+
+.. To reduce or deny compensation of the statutory trust advisor;
+
+.. To impose an equitable lien or a constructive trust on trust property; or
+
+.. To trace trust property that has been wrongfully disposed of and recover the property or its proceeds.
+
+. The remedies set forth in this section against a statutory trust advisor are exclusively in equity, but nothing in this section prevents the beneficiary or trustee from seeking any other appropriate remedy provided by statute or the common law, including damages.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5302.SL.pdf?cite=2015%20c%20115%20§%207[2015 c 115 § 7]; ]
+
+== 11.98A.050 - Measure of liability for breach of duty—Excuse from liability. (Effective until January 1, 2021.)
+. If the statutory trust advisor commits a breach of fiduciary duty, the statutory trust advisor is chargeable in the same manner as a trustee under RCW 11.98.085.
+
+. Anything in this Title 11 RCW to the contrary notwithstanding, if the statutory trust advisor has acted reasonably and in good faith under the circumstances as known to the statutory trust advisor, the court, in its discretion, may excuse the statutory trust advisor in whole or in part from liability under subsection (1) of this section if it would be equitable to do so.
+
+. The provisions in this section for liability of a statutory trust advisor for breach of fiduciary duty do not prevent resort to any other remedy available under the statutory or common law.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5302.SL.pdf?cite=2015%20c%20115%20§%208[2015 c 115 § 8]; ]
+
+== 11.98A.060 - Vacancy—Directed trusts. (Effective until January 1, 2021.)
+. Except as otherwise provided by the terms of the governing instrument, upon learning of a vacancy in the office of statutory trust advisor, (a) the trustee is vested with any fiduciary power or duty that otherwise would be vested in the trustee but that by the terms of the governing instrument was vested in the statutory trust advisor, until such time that a statutory trust advisor is appointed pursuant to the terms of the governing instrument or by a court upon the petition of any person interested in the trust; and (b) if the trustee determines that the terms of the governing instrument require the vacancy to be filled, the trustee may petition the court to fill the vacancy.
+
+. Notwithstanding subsection (1)(a) of this section, a trustee is not liable for failing to exercise or assume any power or duty held by a statutory trust advisor and conferred upon the trustee by subsection (1)(a) of this section for the sixty-day period immediately following the date the trustee learns of such vacancy.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5302.SL.pdf?cite=2015%20c%20115%20§%209[2015 c 115 § 9]; ]
+
+== 11.98A.070 - Statutory trust advisor's duty to inform and report—Notice to beneficiary. (Effective until January 1, 2021.)
+. A statutory trust advisor shall:
+
+.. Keep the trustee and the qualified beneficiaries under chapter 11.98 RCW reasonably informed of the administration of the trust with respect to the specific duties or functions being performed by the statutory trust advisor;
+
+.. Upon request by the trustee, provide the trustee with requested information regarding the administration of the trust with respect to the specific duties or functions being performed by the statutory trust advisor; and
+
+.. Except as otherwise provided by the terms of the governing instrument, upon request by a qualified beneficiary, provide the requesting qualified beneficiary promptly, unless unreasonable under the circumstances, with such information as is reasonably necessary to enable the qualified beneficiary to enforce his or her rights under the trust with respect to the specific duties or functions being performed by the statutory trust advisor.
+
+. Neither the performance nor the failure to perform of a statutory trust advisor designated by the terms of the trust as provided in this subsection affects the limitation on the liability of the directed trustee provided by RCW 11.98A.100(2).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5302.SL.pdf?cite=2015%20c%20115%20§%2010[2015 c 115 § 10]; ]
+
+== 11.98A.080 - Statutory trust advisor subject to court jurisdiction. (Effective until January 1, 2021.)
+. By accepting appointment to serve as a statutory trust advisor, the statutory trust advisor submits personally to the jurisdiction of the courts of this state even if investment advisory agreements or other related agreements provide otherwise, and the statutory trust advisor may be made a party to any action or proceeding relating to a decision, action, or inaction of the statutory trust advisor.
+
+. A statutory trust advisor is not a necessary party to a judicial proceeding involving the trust under RCW 11.96A.080 or to a nonjudicial agreement involving the trust made under RCW 11.96A.220, unless the matter that is the subject of the proceeding or agreement affects the duties or functions being performed by the statutory trust advisor.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5302.SL.pdf?cite=2015%20c%20115%20§%2011[2015 c 115 § 11]; ]
+
+== 11.98A.090 - Statutory trust advisor's right to request information and bring proceedings. (Effective until January 1, 2021.)
+. Except to the extent that the governing instrument provides otherwise, a statutory trust advisor may request the trustee or a beneficiary to provide such information as is reasonably necessary to enable the statutory trust advisor to perform the specific duties or functions given to the statutory trust advisor under the governing instrument.
+
+. Except to the extent that the governing instrument provides otherwise, a statutory trust advisor may file a petition under chapter 11.96A RCW for the determination of any matter relating to the specific duties or functions given to the statutory trust advisor under the governing instrument.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5302.SL.pdf?cite=2015%20c%20115%20§%2012[2015 c 115 § 12]; ]
+
+== 11.98A.100 - Directed trustee—Directed trustee's liability for action or inaction of statutory trust advisor—No duty to review actions of statutory trust advisor. (Effective until January 1, 2021.)
+. As used in this chapter, "directed trustee" means a trustee that, under the terms of the governing instrument:
+
+.. Must follow the direction of a statutory trust advisor as to a particular duty or function, to the extent the trustee follows any such direction;
+
+.. May not undertake a particular duty or function without direction from a statutory trust advisor, to the extent the trustee fails to undertake such duty or function due to the absence of such direction;
+
+.. Must obtain the consent or authorization of a statutory trust advisor with respect to a particular duty or function, to the extent the trustee timely seeks but fails to obtain such consent or authorization; or
+
+.. Must obtain the consent or authorization of a statutory trust advisor with respect to a particular duty or function, to the extent the trustee obtains such consent or authorization and acts in accordance therewith, but only if and to the extent that the governing instrument clearly indicates that the protections of directed trustee status are intended by the testator, trustor, or power holder.
+
+. A directed trustee is not liable, either individually or as trustee, for the following:
+
+.. Any loss that results from compliance with the statutory trust advisor's direction or from actions taken with the prior consent or authorization of the statutory trust advisor;
+
+.. Any loss that results from any action or inaction of a statutory trust advisor with respect to any power granted to the statutory trust advisor under the governing instrument; or
+
+.. Any loss that results from a failure to take any action proposed by a directed trustee that requires the prior consent of a statutory trust advisor, if the directed trustee who had a duty to propose such action timely sought but failed to obtain that consent.
+
+. Absent clear and convincing evidence to the contrary, the actions of the directed trustee pertaining to matters within the scope of the statutory trust advisor's authority, such as confirming that the statutory trust advisor's directions have been carried out and recording and reporting actions taken at the statutory trust advisor's direction or other information pursuant to RCW 11.98A.070, are presumed to be administrative actions taken by the directed trustee solely to allow the directed trustee to perform those duties assigned to the directed trustee under the terms of the governing instrument, and the administrative actions do not constitute an undertaking by the directed trustee to monitor the statutory trust advisor or otherwise participate in actions within the scope of the statutory trust advisor's authority.
+
+. Whenever a directed trustee is to follow the direction of a statutory trust advisor, then, except to the extent that the terms of the governing instrument provide otherwise, the directed trustee has no duty to:
+
+.. Monitor the conduct of the statutory trust advisor, or provide advice to the statutory trust advisor or consult with the statutory trust advisor, including, without limitation, any duty to perform investment or suitability reviews, inquiries, or investigations or to make recommendations or evaluations with respect to any investments to the extent the statutory trust advisor has authority to direct the acquisition, disposition, or retention of any such investment;
+
+.. Communicate with or warn or apprise any beneficiary or third party concerning instances in which the directed trustee would or might have exercised the directed trustee's own discretion in a manner different from the manner directed by the statutory trust advisor; or
+
+.. Commence a proceeding against the statutory trust advisor.
+
+. This section does not relieve the trustee of the trustee's duty under RCW 11.97.010 to act in good faith and with honest judgment.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5302.SL.pdf?cite=2015%20c%20115%20§%2013[2015 c 115 § 13]; ]
+
+== 11.98A.110 - Statutes of limitation. (Effective until January 1, 2021.)
+The provisions of RCW 11.96A.070 with respect to limitations on actions against a trustee shall apply to any claims against a statutory trust advisor arising out of any power or duty granted to, or function being performed by, the statutory trust advisor under the governing instrument. For purposes of a report described in RCW 11.96A.070(1)(b), a statutory trust advisor is a trustee only with respect to the specific duties and functions being performed by the statutory trust advisor.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5302.SL.pdf?cite=2015%20c%20115%20§%2014[2015 c 115 § 14]; ]
+
+== 11.98A.120 - Application of other provisions of probate and trust law. (Effective until January 1, 2021.)
+Chapters 11.96A, 11.97, 11.98, 11.100, 11.104A, and 11.108 RCW apply to a statutory trust advisor with respect to the powers, duties, or functions given to a statutory trust advisor in the governing instrument in the same manner as if the statutory trust advisor was acting as trustee with respect to those powers, duties, or functions.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5302.SL.pdf?cite=2015%20c%20115%20§%2015[2015 c 115 § 15]; ]
+
+== 11.98A.900 - Short title—2015 c 115. (Effective until January 1, 2021.)
+This act may be known and cited as the Washington directed trust act.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5302.SL.pdf?cite=2015%20c%20115%20§%2016[2015 c 115 § 16]; ]
+

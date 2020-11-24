@@ -1,0 +1,131 @@
+= 69.77 - Investigational drugs, biological products, and devices.
+:toc:
+
+== 69.77.010 - Findings—Intent.
+The legislature finds that the process for approval of investigational drugs, biological products, and devices in the United States protects future patients from premature, ineffective, and unsafe medications and treatments over time, but the process often takes many years. Patients who have a terminal illness do not have the luxury of waiting until an investigational drug, biological product, or device receives final approval from the United States food and drug administration. The legislature further finds that patients who have a terminal illness should be permitted to pursue the preservation of their own lives by accessing available investigational drugs, biological products, and devices. The use of available investigational drugs, biological products, and devices is a decision that should be made by the patient with a terminal illness in consultation with the patient's health care provider so that the decision to use an investigational drug, biological product, or device is made with full awareness of the potential risks, benefits, and consequences to the patient and the patient's family.
+
+The legislature, therefore, intends to allow terminally ill patients to use potentially lifesaving investigational drugs, biological products, and devices.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5035-S.SL.pdf?cite=2017%20c%20212%20§%201[2017 c 212 § 1]; ]
+
+== 69.77.020 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Eligible patient" means an individual who meets the requirements of RCW 69.77.040.
+
+. "Health care facility" means a clinic, nursing home, laboratory, office, or similar place where a health care provider provides health care to patients.
+
+. "Hospital" means a health care institution licensed under chapter 70.41, 71.12, or 72.23 RCW.
+
+. "Investigational product" means a drug, biological product, or device that has successfully completed phase one and is currently in a subsequent phase of a clinical trial approved by the United States food and drug administration assessing the safety of the drug, biological product, or device under section 505 of the federal food, drug, and cosmetic act, 21 U.S.C. Sec. 355.
+
+. "Issuer" means any state purchased health care programs under chapter 41.05 or 74.09 RCW, a disability insurer regulated under chapter 48.20 or 48.21 RCW, a health care service contractor as defined in RCW 48.44.010, or a health maintenance organization as defined in RCW 48.46.020.
+
+. "Manufacturer" means a person or other entity engaged in the manufacture or distribution of drugs, biological products, or devices.
+
+. "Physician" means a physician licensed under chapter 18.71 RCW or an osteopathic physician and surgeon licensed under chapter 18.57 RCW.
+
+. "Serious or immediately life-threatening disease or condition" means a stage of disease in which there is reasonable likelihood that death will occur within six months or in which premature death is likely without early treatment.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5035-S.SL.pdf?cite=2017%20c%20212%20§%202[2017 c 212 § 2]; ]
+
+== 69.77.030 - Eligible patient and treating physician may request investigational product—Manufacturer may make for treatment—Agreement.
+. An eligible patient and his or her treating physician may request that a manufacturer make an investigational product available for treatment of the patient. The request must include a copy of the written informed consent form described in RCW 69.77.050 and an explanation of why the treating physician believes the investigational product may help the patient.
+
+. Upon receipt of the request and the written informed consent form, the manufacturer may, but is not required to, make the investigational product available for treatment of the eligible patient. Prior to making the investigational product available, the manufacturer shall enter into an agreement with the treating physician and the eligible patient providing that the manufacturer will transfer the investigational product to the physician and the physician will use the investigational product to treat the eligible patient.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5035-S.SL.pdf?cite=2017%20c%20212%20§%203[2017 c 212 § 3]; ]
+
+== 69.77.040 - Patient eligibility for access and treatment with investigational product.
+A patient is eligible to request access to and be treated with an investigational product if:
+
+. The patient is eighteen years of age or older;
+
+. The patient is a resident of this state;
+
+. The patient's treating physician attests to the fact that the patient has a serious or immediately life-threatening disease or condition;
+
+. The patient acknowledges having been informed by the treating physician of all other treatment options currently approved by the United States food and drug administration;
+
+. The patient's treating physician recommends that the patient be treated with an investigational product;
+
+. The patient is unable to participate in a clinical trial for the investigational product because the patient's physician has contacted one or more clinical trials or researchers in the physician's practice area and has determined, using the physician's professional judgment, that there are no clinical trials reasonably available for the patient to participate in, that the patient would not qualify for a clinical trial, or that delay in waiting to join a clinical trial would risk further harm to the patient; and
+
+. In accordance with RCW 69.77.050, the patient has provided written informed consent for the use of the investigational product, or, if the patient lacks the capacity to consent, the patient's legally authorized representative has provided written informed consent on behalf of the patient.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5035-S.SL.pdf?cite=2017%20c%20212%20§%204[2017 c 212 § 4]; ]
+
+== 69.77.050 - Informed consent.
+. Prior to treatment of the eligible patient with an investigational product, the treating physician shall obtain written informed consent, consistent with the requirements of RCW 7.70.060(1), and signed by the eligible patient or, if the patient lacks the capacity to consent, his or her legally authorized representative.
+
+. Information provided in order to obtain the informed consent must, to the extent possible, include the following:
+
+.. That the patient has been diagnosed with a serious or immediately life-threatening disease or condition and explains the currently approved products and treatments for the disease or condition from which the eligible patient suffers;
+
+.. That all currently approved and conventionally recognized treatments are unlikely to prolong the eligible patient's life;
+
+.. Clear identification of the investigational product that the eligible patient seeks to use;
+
+.. The potentially best and worst outcomes of using the investigational product and a realistic description of the most likely outcome. This description must include the possibility that new, unanticipated, different, or worse symptoms may result and that death could be hastened by the proposed treatment. The description must be based on the physician's knowledge of the proposed treatment in conjunction with an awareness of the eligible patient's condition;
+
+.. That the eligible patient's health benefit plan is not obligated to pay for the investigational product or any harm caused to the eligible patient by the investigational product, unless otherwise specifically required to do so by law or contract, and that in order to receive the investigational product the patient may be required to pay the costs of administering the investigational product; and
+
+.. That the eligible patient is liable for all expenses consequent to the use of the investigational product, except as otherwise provided in the eligible patient's health benefit plan or a contract between the eligible patient and the manufacturer of the investigational product.
+
+. The document must be signed and dated by the eligible patient's treating physician and witnessed in writing by at least one adult.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5035-S.SL.pdf?cite=2017%20c%20212%20§%205[2017 c 212 § 5]; ]
+
+== 69.77.060 - Issuer may provide coverage for cost or administration of investigational product—Denial of coverage.
+. An issuer may, but is not required to, provide coverage for the cost or the administration of an investigational product provided to an eligible patient pursuant to this chapter.
+
+. [Empty]
+.. An issuer may deny coverage to an eligible patient who is treated with an investigational product for harm to the eligible patient caused by the investigational product and is not required to cover the costs associated with receiving the investigational product or the costs demonstrated to be associated with an adverse effect that is a result of receiving the investigational product.
+
+.. Except as stated in (a) of this subsection, an issuer may not deny coverage to an eligible patient for: (i) The eligible patient's serious or immediately life-threatening disease or condition; (ii) benefits that accrued before the day on which the eligible patient was treated with an investigational product; or (iii) palliative or hospice care for an eligible patient who was previously treated with an investigational product but who is no longer being treated with an investigational product.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5035-S.SL.pdf?cite=2017%20c%20212%20§%206[2017 c 212 § 6]; ]
+
+== 69.77.070 - Hospitals and health care facilities.
+A hospital or health care facility:
+
+. May, but is not required to, allow a health care practitioner who is privileged to practice or who is employed at the hospital or health care facility to treat, administer, or provide an investigational product to an eligible patient under this chapter;
+
+. May establish a policy regarding treating, administering, or providing investigational products under this chapter; and
+
+. Is not obligated to pay for the investigational product or any harm caused to the eligible patient by the product, or any care that is necessary as a result of the use of the investigational product, including under chapter 70.170 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5035-S.SL.pdf?cite=2017%20c%20212%20§%207[2017 c 212 § 7]; ]
+
+== 69.77.080 - Private right of action—Unprofessional conduct—Immunity from civil or criminal liability.
+. Chapter 212, Laws of 2017 does not create a private right of action.
+
+. A health care practitioner does not commit unprofessional conduct under RCW 18.130.180 and does not violate the applicable standard of care by:
+
+.. Obtaining an investigational product pursuant to this chapter;
+
+.. Refusing to recommend, request, prescribe, or otherwise provide an investigational product pursuant to this chapter;
+
+.. Administering an investigational product to an eligible patient pursuant to this chapter; or
+
+.. Treating an eligible patient with an investigational product pursuant to this chapter.
+
+. The following persons and entities are immune from civil or criminal liability and administrative actions arising out of treatment of an eligible patient with an investigational product, other than acts or omissions constituting gross negligence or willful or wanton misconduct:
+
+.. A health care practitioner who recommends or requests an investigational product for an eligible patient in compliance with this chapter;
+
+.. A health care practitioner who refuses to recommend or request an investigational product for a patient seeking access to an investigational product;
+
+.. A manufacturer that provides an investigational product to a health care practitioner in compliance with this chapter;
+
+.. A hospital or health care facility where an investigational product is either administered or provided to an eligible patient in compliance with this chapter; and
+
+.. A hospital or health care facility that does not allow a health care practitioner to provide treatment with an investigational product or enforces a policy it has adopted regarding treating, administering, or providing care with an investigational product.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5035-S.SL.pdf?cite=2017%20c%20212%20§%208[2017 c 212 § 8]; ]
+
+== 69.77.090 - Pharmacy quality assurance commission may adopt rules.
+The pharmacy quality assurance commission may adopt rules necessary to implement this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5035-S.SL.pdf?cite=2017%20c%20212%20§%209[2017 c 212 § 9]; ]
+

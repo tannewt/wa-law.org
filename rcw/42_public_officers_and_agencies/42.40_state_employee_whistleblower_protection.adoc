@@ -1,0 +1,208 @@
+= 42.40 - State employee whistleblower protection.
+:toc:
+
+== 42.40.010 - Policy.
+It is the policy of the legislature that employees should be encouraged to disclose, to the extent not expressly prohibited by law, improper governmental actions, and it is the intent of the legislature to protect the rights of state employees making these disclosures, regardless of whether an investigation is initiated under RCW 42.40.040. It is also the policy of the legislature that employees should be encouraged to identify rules warranting review or provide information to the rules review committee, and it is the intent of the legislature to protect the rights of these employees.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5374-S.SL.pdf?cite=2017%20c%2044%20§%201[2017 c 44 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1010-S.SL.pdf?cite=1995%20c%20403%20§%20508[1995 c 403 § 508]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c208.pdf?cite=1982%20c%20208%20§%201[1982 c 208 § 1]; ]
+
+== 42.40.020 - Definitions.
+As used in this chapter, the terms defined in this section shall have the meanings indicated unless the context clearly requires otherwise.
+
+. "Auditor" means the office of the state auditor.
+
+. "Employee" means any individual employed or holding office in any department or agency of state government.
+
+. "Good faith" means the individual providing the information or report of improper governmental activity has a reasonable basis in fact for reporting or providing the information. An individual who knowingly provides or reports, or who reasonably ought to know he or she is providing or reporting, malicious, false, or frivolous information, or information that is provided with reckless disregard for the truth, or who knowingly omits relevant information is not acting in good faith.
+
+. "Gross mismanagement" means the exercise of management responsibilities in a manner grossly deviating from the standard of care or competence that a reasonable person would observe in the same situation.
+
+. "Gross waste of funds" means to spend or use funds or to allow funds to be used without valuable result in a manner grossly deviating from the standard of care or competence that a reasonable person would observe in the same situation.
+
+. [Empty]
+.. "Improper governmental action" means any action by an employee undertaken in the performance of the employee's official duties:
+
+... Which is a gross waste of public funds or resources as defined in this section;
+
+... Which is in violation of federal or state law or rule, if the violation is not merely technical or of a minimum nature;
+
+... Which is of substantial and specific danger to the public health or safety;
+
+... Which is gross mismanagement;
+
+.. Which prevents the dissemination of scientific opinion or alters technical findings without scientifically valid justification, unless state law or a common law privilege prohibits disclosure. This provision is not meant to preclude the discretion of agency management to adopt a particular scientific opinion or technical finding from among differing opinions or technical findings to the exclusion of other scientific opinions or technical findings. Nothing in this subsection prevents or impairs a state agency's or public official's ability to manage its public resources or its employees in the performance of their official job duties. This subsection does not apply to de minimis, technical disagreements that are not relevant for otherwise improper governmental activity. Nothing in this provision requires the auditor to contract or consult with external experts regarding the scientific validity, invalidity, or justification of a finding or opinion; or
+
+.. Which violates the administrative procedure act or analogous provisions of law that prohibit ex parte communication regarding cases or matters pending in which an agency is party between the agency's employee and a presiding officer, hearing officer, or an administrative law judge. The availability of other avenues for addressing ex parte communication by agency employees does not bar an investigation by the auditor.
+
+.. "Improper governmental action" does not include personnel actions, for which other remedies exist, including but not limited to employee grievances, complaints, appointments, promotions, transfers, assignments, reassignments, reinstatements, restorations, reemployments, performance evaluations, reductions in pay, dismissals, suspensions, demotions, violations of the state civil service law, alleged labor agreement violations, reprimands, claims of discriminatory treatment, or any action which may be taken under chapter 41.06 RCW, or other disciplinary action except as provided in RCW 42.40.030.
+
+. "Public official" means the attorney general's designee or designees; the director, or equivalent thereof in the agency where the employee works; an appropriate number of individuals designated to receive whistleblower reports by the head of each agency; or the executive ethics board.
+
+. "Substantial and specific danger" means a risk of serious injury, illness, peril, or loss, to which the exposure of the public is a gross deviation from the standard of care or competence which a reasonable person would observe in the same situation.
+
+. "Use of official authority or influence" includes threatening, taking, directing others to take, recommending, processing, or approving any personnel action such as an appointment, promotion, transfer, assignment including but not limited to duties and office location, reassignment, reinstatement, restoration, reemployment, performance evaluation, determining any material changes in pay, provision of training or benefits, tolerance of a hostile work environment, or any adverse action under chapter 41.06 RCW, or other disciplinary action.
+
+. [Empty]
+.. "Whistleblower" means:
+
+... An employee who in good faith reports alleged improper governmental action to the auditor or other public official, as defined in subsection (7) of this section; or
+
+... An employee who is perceived by the employer as reporting, whether they did or not, alleged improper governmental action to the auditor or other public official, as defined in subsection (7) of this section.
+
+.. For purposes of the provisions of this chapter and chapter 49.60 RCW relating to reprisals and retaliatory action, the term "whistleblower" also means:
+
+... An employee who in good faith provides information to the auditor or other public official, as defined in subsection (7) of this section, and an employee who is believed to have reported asserted improper governmental action to the auditor or other public official, as defined in subsection (7) of this section, or to have provided information to the auditor or other public official, as defined in subsection (7) of this section, but who, in fact, has not reported such action or provided such information; or
+
+... An employee who in good faith identifies rules warranting review or provides information to the rules review committee, and an employee who is believed to have identified rules warranting review or provided information to the rules review committee but who, in fact, has not done so.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5374-S.SL.pdf?cite=2017%20c%2044%20§%202[2017 c 44 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6776-S.SL.pdf?cite=2008%20c%20266%20§%202[2008 c 266 § 2]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2005-S.SL.pdf?cite=1999%20c%20361%20§%201[1999 c 361 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1010-S.SL.pdf?cite=1995%20c%20403%20§%20509[1995 c 403 § 509]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5121-S.SL.pdf?cite=1992%20c%20118%20§%201[1992 c 118 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c284.pdf?cite=1989%20c%20284%20§%201[1989 c 284 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c208.pdf?cite=1982%20c%20208%20§%202[1982 c 208 § 2]; ]
+
+== 42.40.030 - Right to disclose improper governmental actions—Interference prohibited.
+. An employee shall not directly or indirectly use or attempt to use the employee's official authority or influence for the purpose of intimidating, threatening, coercing, commanding, influencing, or attempting to intimidate, threaten, coerce, command, or influence any individual for the purpose of interfering with the right of the individual to: (a) Disclose to the auditor (or representative thereof) or other public official, as defined in RCW 42.40.020, information concerning improper governmental action; or (b) identify rules warranting review or provide information to the rules review committee.
+
+. Nothing in this section authorizes an individual to disclose information otherwise prohibited by law, except to the extent that information is necessary to substantiate the whistleblower complaint, in which case information may be disclosed to the auditor or public official, as defined in RCW 42.40.020, by the whistleblower for the limited purpose of providing information related to the complaint. Any information provided to the auditor or public official under the authority of this subsection may not be further disclosed.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6776-S.SL.pdf?cite=2008%20c%20266%20§%203[2008 c 266 § 3]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1010-S.SL.pdf?cite=1995%20c%20403%20§%20510[1995 c 403 § 510]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c284.pdf?cite=1989%20c%20284%20§%202[1989 c 284 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c208.pdf?cite=1982%20c%20208%20§%203[1982 c 208 § 3]; ]
+
+== 42.40.035 - Duty of correctness—Penalties for false information.
+An employee must make a reasonable attempt to ascertain the correctness of the information furnished and may be subject to disciplinary actions, including, but not limited to, suspension or termination, for knowingly furnishing false information as determined by the employee's appointing authority.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2005-S.SL.pdf?cite=1999%20c%20361%20§%202[1999 c 361 § 2]; ]
+
+== 42.40.040 - Report of improper governmental action—Investigations and reports by auditor, agency.
+. [Empty]
+.. In order to be investigated, an assertion of improper governmental action must be provided to the auditor or other public official within one year after the occurrence of the asserted improper governmental action. The public official, as defined in RCW 42.40.020, receiving an assertion of improper governmental action must report the assertion to the auditor within fifteen calendar days of receipt of the assertion. The auditor retains sole authority to investigate an assertion of improper governmental action including those made to a public official. A failure of the public official to report the assertion to the auditor within fifteen days does not impair the rights of the whistleblower.
+
+.. Except as provided under RCW 42.40.910 for legislative and judicial branches of government, the auditor has the authority to determine whether to investigate any assertions received. In determining whether to conduct either a preliminary or further investigation, the auditor shall consider factors including, but not limited to: The nature and quality of evidence and the existence of relevant laws and rules; whether the action was isolated or systematic; the history of previous assertions regarding the same subject or subjects or subject matter; whether other avenues are available for addressing the matter; whether the matter has already been investigated or is in litigation; the seriousness or significance of the asserted improper governmental action; and the cost and benefit of the investigation. The auditor has the sole discretion to determine the priority and weight given to these and other relevant factors and to decide whether a matter is to be investigated. The auditor shall document the factors considered and the analysis applied.
+
+.. The auditor also has the authority to investigate assertions of improper governmental actions as part of an audit conducted under chapter 43.09 RCW. The auditor shall document the reasons for handling the matter as part of such an audit.
+
+. Subject to subsection (5)(c) of this section, the identity or identifying characteristics of a whistleblower is confidential at all times unless the whistleblower consents to disclosure by written waiver or by acknowledging his or her identity in a claim against the state for retaliation. In addition, the identity or identifying characteristics of any person who in good faith provides information in an investigation under this section is confidential at all times, unless the person consents to disclosure by written waiver or by acknowledging his or her identity as a witness who provides information in an investigation.
+
+. Upon receiving specific information that an employee has engaged in improper governmental action, the auditor shall, within fifteen working days of receipt of the information, mail written acknowledgment to the whistleblower at the address provided stating whether a preliminary investigation will be conducted. For a period not to exceed sixty working days from receipt of the assertion, the auditor shall conduct such preliminary investigation of the matter as the auditor deems appropriate.
+
+. In addition to the authority under subsection (3) of this section, the auditor may, on its own initiative, investigate incidents of improper state governmental action.
+
+. [Empty]
+.. If it appears to the auditor, upon completion of the preliminary investigation, that the matter is so unsubstantiated that no further investigation, prosecution, or administrative action is warranted, the auditor shall so notify the whistleblower summarizing where the allegations are deficient, and provide a reasonable opportunity to reply. Such notification may be by electronic means.
+
+.. The written notification shall contain a summary of the information received and of the results of the preliminary investigation with regard to each assertion of improper governmental action.
+
+.. In any case to which this section applies, the identity or identifying characteristics of the whistleblower shall be kept confidential unless the auditor determines that the information has been provided other than in good faith. If the auditor makes such a determination, the auditor shall provide reasonable advance notice to the employee.
+
+.. With the agency's consent, the auditor may forward the assertions to an appropriate agency to investigate and report back to the auditor no later than sixty working days after the assertions are received from the auditor. The auditor is entitled to all investigative records resulting from such a referral. All procedural and confidentiality provisions of this chapter apply to investigations conducted under this subsection. The auditor shall document the reasons the assertions were referred.
+
+. During the preliminary investigation, the auditor shall provide written notification of the nature of the assertions to the subject or subjects of the investigation and the agency head. The notification shall include the relevant facts and laws known at the time and the procedure for the subject or subjects of the investigation and the agency head to respond to the assertions and information obtained during the investigation. This notification does not limit the auditor from considering additional facts or laws which become known during further investigation.
+
+.. If it appears to the auditor after completion of the preliminary investigation that further investigation, prosecution, or administrative action is warranted, the auditor shall so notify the whistleblower, the subject or subjects of the investigation, and the agency head and either conduct a further investigation or issue a report under subsection (9) of this section.
+
+.. If the preliminary investigation resulted from an anonymous assertion, a decision to conduct further investigation shall be subject to review by a three-person panel convened as necessary by the auditor prior to the commencement of any additional investigation. The panel shall include a state auditor representative knowledgeable of the subject agency operations, a citizen volunteer, and a representative of the attorney general's office. This group shall be briefed on the preliminary investigation and shall recommend whether the auditor should proceed with further investigation.
+
+.. If further investigation is to occur, the auditor shall provide written notification of the nature of the assertions to the subject or subjects of the investigation and the agency head. The notification shall include the relevant facts known at the time and the procedure to be used by the subject or subjects of the investigation and the agency head to respond to the assertions and information obtained during the investigation.
+
+. Within sixty working days after the preliminary investigation period in subsection (3) of this section, the auditor shall complete the investigation and report its findings to the whistleblower unless written justification for the delay is furnished to the whistleblower, agency head, and subject or subjects of the investigation. In all such cases, the report of the auditor's investigation and findings shall be sent to the whistleblower within one year after the information was filed under subsection (3) of this section.
+
+. [Empty]
+.. At any stage of an investigation under this section the auditor may require by subpoena the attendance and testimony of witnesses and the production of documentary or other evidence relating to the investigation at any designated place in the state. The auditor may issue subpoenas, administer oaths, examine witnesses, and receive evidence. In the case of contumacy or failure to obey a subpoena, the superior court for the county in which the person to whom the subpoena is addressed resides or is served may issue an order requiring the person to appear at any designated place to testify or to produce documentary or other evidence. Any failure to obey the order of the court may be punished by the court as a contempt thereof.
+
+.. The auditor may order the taking of depositions at any stage of a proceeding or investigation under this chapter. Depositions shall be taken before an individual designated by the auditor and having the power to administer oaths. Testimony shall be reduced to writing by or under the direction of the individual taking the deposition and shall be subscribed by the deponent.
+
+.. Agencies shall cooperate fully in the investigation and shall take appropriate action to preclude the destruction of any evidence during the course of the investigation.
+
+.. During the investigation the auditor shall interview each subject of the investigation. If it is determined there is reasonable cause to believe improper governmental action has occurred, the subject or subjects and the agency head shall be given fifteen working days to respond to the assertions prior to the issuance of the final report.
+
+. [Empty]
+.. If the auditor determines there is reasonable cause to believe an employee has engaged in improper governmental action, the auditor shall report, to the extent allowable under existing public disclosure laws, the nature and details of the activity to:
+
+... The subject or subjects of the investigation and the head of the employing agency; 
+
+... If appropriate, the attorney general or such other authority as the auditor determines appropriate;
+
+... Electronically to the governor, secretary of the senate, and chief clerk of the house of representatives; and
+
+... Except for information whose release is specifically prohibited by statute or executive order, the public through the public file of whistleblower reports maintained by the auditor.
+
+.. The auditor has no enforcement power except that in any case in which the auditor submits an investigative report containing reasonable cause determinations to the agency, the agency shall send its plan for resolution to the auditor within fifteen working days of having received the report. The agency is encouraged to consult with the subject or subjects of the investigation in establishing the resolution plan. The auditor may require periodic reports of agency action until all resolution has occurred. If the auditor determines that appropriate action has not been taken, the auditor shall report the determination to the governor and to the legislature and may include this determination in the agency audit under chapter 43.09 RCW.
+
+. Once the auditor concludes that appropriate action has been taken to resolve the matter, the auditor shall so notify the whistleblower, the agency head, and the subject or subjects of the investigation. If the resolution takes more than one year, the auditor shall provide annual notification of its status to the whistleblower, agency head, and subject or subjects of the investigation.
+
+. Failure to cooperate with such audit or investigation, or retaliation against anyone who assists the auditor by engaging in activity protected by this chapter shall be reported as a separate finding with recommendations for corrective action in the associated report whenever it occurs.
+
+. This section does not limit any authority conferred upon the attorney general or any other agency of government to investigate any matter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6776-S.SL.pdf?cite=2008%20c%20266%20§%204[2008 c 266 § 4]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2005-S.SL.pdf?cite=1999%20c%20361%20§%203[1999 c 361 § 3]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5121-S.SL.pdf?cite=1992%20c%20118%20§%202[1992 c 118 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c284.pdf?cite=1989%20c%20284%20§%203[1989 c 284 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c208.pdf?cite=1982%20c%20208%20§%204[1982 c 208 § 4]; ]
+
+== 42.40.050 - Retaliatory action against whistleblower—Remedies.
+. [Empty]
+.. Any person who is a whistleblower, as defined in RCW 42.40.020, and who has been subjected to workplace reprisal or retaliatory action is presumed to have established a cause of action for the remedies provided under chapter 49.60 RCW.
+
+.. For the purpose of this section, "reprisal or retaliatory action" means, but is not limited to, any of the following:
+
+... Denial of adequate staff to perform duties;
+
+... Frequent staff changes;
+
+... Frequent and undesirable office changes;
+
+... Refusal to assign meaningful work;
+
+.. Unwarranted and unsubstantiated letters of reprimand or unsatisfactory performance evaluations;
+
+.. Demotion;
+
+.. Reduction in pay;
+
+.. Denial of promotion;
+
+... Suspension;
+
+.. Dismissal;
+
+.. Denial of employment;
+
+.. A supervisor or superior behaving in or encouraging coworkers to behave in a hostile manner toward the whistleblower;
+
+.. A change in the physical location of the employee's workplace or a change in the basic nature of the employee's job, if either are in opposition to the employee's expressed wish;
+
+.. Issuance of or attempt to enforce any nondisclosure policy or agreement in a manner inconsistent with prior practice; or
+
+.. Any other action that is inconsistent compared to actions taken before the employee engaged in conduct protected by this chapter, or compared to other employees who have not engaged in conduct protected by this chapter.
+
+. The agency presumed to have taken retaliatory action under subsection (1) of this section may rebut that presumption by proving by a preponderance of the evidence that there have been a series of documented personnel problems or a single, egregious event, or that the agency action or actions were justified by reasons unrelated to the employee's status as a whistleblower and that improper motive was not a substantial factor.
+
+. Nothing in this section prohibits an agency from making any decision exercising its authority to terminate, suspend, or discipline an employee who engages in workplace reprisal or retaliatory action against a whistleblower. However, the agency also shall implement any order under chapter 49.60 RCW (other than an order of suspension if the agency has terminated the retaliator).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6776-S.SL.pdf?cite=2008%20c%20266%20§%206[2008 c 266 § 6]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5672-S.SL.pdf?cite=1999%20c%20283%20§%201[1999 c 283 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5121-S.SL.pdf?cite=1992%20c%20118%20§%203[1992 c 118 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c284.pdf?cite=1989%20c%20284%20§%204[1989 c 284 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c208.pdf?cite=1982%20c%20208%20§%205[1982 c 208 § 5]; ]
+
+== 42.40.070 - Summary of chapter available to employees.
+A written summary of this chapter and procedures for reporting improper governmental actions established by the auditor's office shall be made available by each department or agency of state government to each employee upon entering public employment. Such notices may be in agency internal newsletters, included with paychecks or stubs, sent via electronic mail to all employees, or sent by other means that are cost-effective and reach all employees of the government level, division, or subdivision. Employees shall be notified by each department or agency of state government each year of the procedures and protections under this chapter. The annual notices shall include a list of public officials, as defined in RCW 42.40.020, authorized to receive whistleblower reports. The list of public officials authorized to receive whistleblower reports shall also be prominently displayed in all agency offices.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6776-S.SL.pdf?cite=2008%20c%20266%20§%205[2008 c 266 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c284.pdf?cite=1989%20c%20284%20§%205[1989 c 284 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c208.pdf?cite=1982%20c%20208%20§%207[1982 c 208 § 7]; ]
+
+== 42.40.080 - Contracting for assistance.
+The auditor has the authority to contract for any assistance necessary to carry out the provisions of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2005-S.SL.pdf?cite=1999%20c%20361%20§%204[1999 c 361 § 4]; ]
+
+== 42.40.090 - Administrative costs.
+The cost of administering this chapter is funded through the auditing services revolving account created in RCW 43.09.410.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2005-S.SL.pdf?cite=1999%20c%20361%20§%205[1999 c 361 § 5]; ]
+
+== 42.40.100 - Assertions against auditor.
+A whistleblower wishing to provide information under this chapter regarding asserted improper governmental action against the state auditor or an employee of that office shall provide the information to the attorney general who shall act in place of the auditor in investigating and reporting the matter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2005-S.SL.pdf?cite=1999%20c%20361%20§%206[1999 c 361 § 6]; ]
+
+== 42.40.110 - Performance audit.
+The office of financial management shall contract for a performance audit of the state employee whistleblower program on a cycle to be determined by the office of financial management. The audit shall be done in accordance with generally accepted government auditing standards beginning with the fiscal year ending June 30, 2001. The audit shall determine at a minimum: Whether the program is acquiring, protecting, and using its resources such as personnel, property, and space economically and efficiently; the causes of inefficiencies or uneconomical practices; and whether the program has complied with laws and rules on matters of economy and efficiency. The audit shall also at a minimum determine the extent to which the desired results or benefits established by the legislature are being achieved, the effectiveness of the program, and whether the auditor has complied with significant laws and rules applicable to the program.
+
+The cost of the audit is a cost of operating the program and shall be funded by the auditing services revolving account created by RCW 43.09.410.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2005-S.SL.pdf?cite=1999%20c%20361%20§%208[1999 c 361 § 8]; ]
+
+== 42.40.910 - Application of chapter.
+Chapter 266, Laws of 2008 and chapter 361, Laws of 1999 do not affect the jurisdiction of the legislative ethics board, the executive ethics board, or the commission on judicial conduct, as set forth in chapter 42.52 RCW. The senate, the house of representatives, and the supreme court shall adopt policies regarding the applicability of chapter 42.40 RCW to the senate, house of representatives, and judicial branch.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6776-S.SL.pdf?cite=2008%20c%20266%20§%209[2008 c 266 § 9]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2005-S.SL.pdf?cite=1999%20c%20361%20§%207[1999 c 361 § 7]; ]
+

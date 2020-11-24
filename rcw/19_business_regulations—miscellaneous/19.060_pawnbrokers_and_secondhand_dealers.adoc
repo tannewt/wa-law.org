@@ -1,0 +1,303 @@
+= 19.60 - Pawnbrokers and secondhand dealers.
+:toc:
+
+== 19.60.010 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Automated kiosk" means a self-serve interactive machine that purchases secondhand electronic devices.
+
+. "Loan period" means the period of time from the date the loan is made until the date the loan is paid off, the loan is in default, or the loan is refinanced and new loan documents are issued, including all grace or extension periods.
+
+. "Melted metals" means metals derived from metal junk or precious metals that have been reduced to a melted state from other than ore or ingots which are produced from ore that has not previously been processed.
+
+. "Metal junk" means any metal that has previously been milled, shaped, stamped, or forged and that is no longer useful in its original form, except precious metals.
+
+. "Nonmetal junk" means any nonmetal, commonly discarded item that is worn out, or has outlasted its usefulness as intended in its original form except nonmetal junk does not include an item made in a former period which has enhanced value because of its age.
+
+. "Pawnbroker" means every person engaged, in whole or in part, in the business of loaning money on the security of pledges of personal property, or deposits or conditional sales of personal property, or the purchase or sale of personal property.
+
+. "Precious metals" means gold, silver, and platinum.
+
+. "Secondhand dealer" means every person engaged in whole or in part in the business of purchasing, selling, trading, consignment selling, or otherwise transferring for value, secondhand property including metal junk, melted metals, precious metals, whether or not the person maintains a fixed place of business within the state. Secondhand dealer also includes persons or entities conducting business, more than three times per year, at flea markets or swap meets. Secondhand dealer also includes persons or entities operating an automated kiosk.
+
+. "Secondhand precious metal dealer" means any person or entity engaged in whole or in part in the commercial activity or business of purchasing, selling, trading, consignment selling, or otherwise transferring for value, more than three times per year, secondhand property that is a precious metal, whether or not the person or entity maintains a permanent or fixed place of business within the state, or engages in the business at flea markets or swap meets. The terms "precious metal" and "secondhand property," for purposes of transactions by a secondhand precious metal dealer, do not include: (a) Gold, silver, or platinum coins, or other precious metal coins, that are legal tender, or precious metal coins that have numismatic or precious metal value, (b) gold, silver, platinum, or other precious metal bullion, or (c) gold, silver, platinum, or other precious metal dust, flakes, or nuggets.
+
+. "Secondhand property" means any item of personal property offered for sale which is not new, including metals in any form, except postage stamps, coins that are legal tender, bullion in the form of fabricated hallmarked bars, used books, and clothing of a resale value of seventy-five dollars or less, except furs.
+
+. "Transaction" means a pledge, or the purchase of, or consignment of, or the trade of any item of personal property by a pawnbroker or a secondhand dealer from a member of the general public.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1623.SL.pdf?cite=2017%20c%20169%20§%201[2017 c 169 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1716-S.SL.pdf?cite=2011%20c%20289%20§%202[2011 c 289 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1012.SL.pdf?cite=1995%20c%20133%20§%201[1995 c 133 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5613-S.SL.pdf?cite=1991%20c%20323%20§%201[1991 c 323 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c70.pdf?cite=1985%20c%2070%20§%201[1985 c 70 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c10.pdf?cite=1984%20c%2010%20§%201[1984 c 10 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c279.pdf?cite=1981%20c%20279%20§%203[1981 c 279 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1909c249.pdf?cite=1909%20c%20249%20§%20235[1909 c 249 § 235]; RRS § 2487. FORMER PARTS OF SECTION:   1909 c 249 § 236; RRS § 2488, now codified as RCW  19.60.015.   1939 c 89 § 1; RRS § 2488-1, now codified as RCW  19.60.065; ]
+
+== 19.60.014 - Fixed place of business required.
+No person may operate as a pawnbroker unless the person maintains a fixed place of business within the state.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c10.pdf?cite=1984%20c%2010%20§%204[1984 c 10 § 4]; ]
+
+== 19.60.020 - Duty to record information.
+. Every pawnbroker and secondhand dealer doing business in this state shall maintain wherever that business is conducted a record in which shall be legibly written in the English language, at the time of each transaction the following information:
+
+.. The signature of the person with whom the transaction is made;
+
+.. The date of the transaction;
+
+.. The name of the person or employee or the identification number of the person or employee conducting the transaction, as required by the applicable chief of police or the county's chief law enforcement officer;
+
+.. The name, date of birth, sex, height, weight, race, and address and telephone number of the person with whom the transaction is made;
+
+.. A complete description of the property pledged, bought, or consigned, including the brand name, serial number, model number or name, any initials or engraving, size, pattern, and color or stone or stones, and in the case of firearms, the caliber, barrel length, type of action, and whether it is a pistol, rifle, or shotgun;
+
+.. The price paid or the amount loaned;
+
+.. The type and identifying number of identification used by the person with whom the transaction was made, which shall consist of a valid driver's license or identification card issued by any state or two pieces of identification issued by a governmental agency, one of which shall be descriptive of the person identified. At all times, one piece of current government issued picture identification will be required; and
+
+.. The nature of the transaction, a number identifying the transaction, the store identification as designated by the applicable law enforcement agency, or the name and address of the business and the name of the person or employee, conducting the transaction, and the location of the property.
+
+. This record shall at all times during the ordinary hours of business, or at reasonable times if ordinary hours of business are not kept, be open to the inspection of any commissioned law enforcement officer of the state or any of its political subdivisions, and shall be maintained wherever that business is conducted, or at the secondhand dealer's principal place of business if the transaction took place through the use of an automated kiosk, for three years following the date of the transaction.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1623.SL.pdf?cite=2017%20c%20169%20§%202[2017 c 169 § 2]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5613-S.SL.pdf?cite=1991%20c%20323%20§%202[1991 c 323 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c10.pdf?cite=1984%20c%2010%20§%203[1984 c 10 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1909c249.pdf?cite=1909%20c%20249%20§%20229[1909 c 249 § 229]; RRS § 2481; ]
+
+== 19.60.025 - Duty to record information—Precious metal property.
+. For any transaction involving property consisting of a precious metal bought or received from an individual, every secondhand precious metal dealer doing business in this state shall maintain wherever that business is conducted a record in which shall be legibly written in the English language, at the time of each transaction, the following information:
+
+.. The signature of the person with whom the transaction is made;
+
+.. The time and date of the transaction;
+
+.. The name of the person or employee or the identification number of the person or employee conducting the transaction;
+
+.. The name, date of birth, sex, height, weight, race, and residential address and telephone number of the person with whom the transaction is made;
+
+.. A complete description of the precious metal property pledged, bought, or consigned, including the brand name, serial number, model number or name, any initials or engraving, size, pattern, and color of stone or stones;
+
+.. The price paid;
+
+.. The type and identifying number of identification used by the person with whom the transaction was made, which shall consist of a valid driver's license or identification card issued by any state or two pieces of identification issued by a governmental agency, one of which shall be descriptive of the person identified, and a full copy of both sides of each piece of identification used by the person with whom the transaction was made. At all times, one piece of current government issued picture identification will be required; and
+
+.. The nature of the transaction, a number identifying the transaction, the store identification as designated by the applicable law enforcement agency, or the name and address of the business or location, including the street address, and room number if appropriate, and the name of the person or employee conducting the transaction, and the location of the property.
+
+. The records required in subsection (1) of this section shall at all times during the ordinary hours of business, or at reasonable times if ordinary hours of business are not kept, be open to the inspection by any commissioned law enforcement officer of the state or any of its political subdivisions, and shall be maintained wherever that business is conducted for three years following the date of the transaction.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1716-S.SL.pdf?cite=2011%20c%20289%20§%203[2011 c 289 § 3]; ]
+
+== 19.60.040 - Report to chief law enforcement officer.
+. Upon request, every pawnbroker and secondhand dealer doing business in the state shall furnish a full, true, and correct transcript of the record of all transactions conducted on the preceding day. These transactions shall be recorded on such forms as may be provided and in such format as may be required by the chief of police or the county's chief law enforcement officer within a specified time not less than twenty-four hours. This information may be transmitted to the applicable law enforcement agency electronically, by facsimile transmission, or by modem or similar device, or by delivery of computer disk subject to the requirements of, and approval by, the chief of police or the county's chief law enforcement officer.
+
+. If a pawnbroker or secondhand dealer has good cause to believe that any property in his or her possession has been previously lost or stolen, the pawnbroker or secondhand dealer shall promptly report that fact to the applicable chief of police or the county's chief law enforcement officer, together with the name of the owner, if known, and the date when, and the name of the person from whom it was received.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5613-S.SL.pdf?cite=1991%20c%20323%20§%203[1991 c 323 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c10.pdf?cite=1984%20c%2010%20§%206[1984 c 10 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1909c249.pdf?cite=1909%20c%20249%20§%20231[1909 c 249 § 231]; RRS § 2483; ]
+
+== 19.60.042 - Report to chief law enforcement officer—Precious metal dealers.
+If the applicable chief of police or the county's chief law enforcement officer has compiled and published a list of persons who have been convicted of any crime involving theft, then a secondhand precious metal dealer shall utilize such a list for any transaction involving property other than property consisting of a precious metal as required by the applicable chief of police or the county's chief law enforcement officer.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1716-S.SL.pdf?cite=2011%20c%20289%20§%205[2011 c 289 § 5]; ]
+
+== 19.60.045 - Duties upon notification that property is reported stolen.
+Following notification from a law enforcement agency that an item of property has been reported as stolen, the pawnbroker or secondhand dealer shall hold that property intact and safe from alteration, damage, or commingling. The pawnbroker or secondhand dealer shall place an identifying tag or other suitable identification upon the property so held. Property held shall not be released for one hundred twenty days from the date of police notification unless released by written consent of the applicable law enforcement agency or by order of a court of competent jurisdiction. In cases where the applicable law enforcement agency has placed a verbal hold on an item, that agency must then give written notice within ten business days. If such written notice is not received within that period of time, then the hold order will cease. The pawnbroker or secondhand dealer shall give a twenty-day written notice before the expiration of the one hundred twenty-day holding period to the applicable law enforcement agency about the stolen property. If notice is not given within twenty days, then the hold on the property shall continue for an additional one hundred twenty days. The applicable law enforcement agency may renew the holding period for additional one hundred twenty-day periods as necessary. After the receipt of notification from a pawnbroker or secondhand dealer, if an additional holding period is required, the applicable law enforcement agency shall give the pawnbroker or secondhand dealer written notice, prior to the expiration of the existing hold order. A law enforcement agency shall not place on hold any item of personal property unless that agency reasonably suspects that the item of personal property is a lost or stolen item. Any hold that is placed on an item will be removed as soon as practicable after the item on hold is determined not to be stolen or lost.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5613-S.SL.pdf?cite=1991%20c%20323%20§%204[1991 c 323 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c10.pdf?cite=1984%20c%2010%20§%205[1984 c 10 § 5]; ]
+
+== 19.60.050 - Retention of property by pawnbrokers—Inspection.
+Property bought or received in pledge by any pawnbroker shall not be removed from that place of business, except when redeemed by, or returned to the owner, within thirty days after the receipt of the property. Property shall at all times during the ordinary hours of business be open to inspection to any commissioned law enforcement officer of the state or any of its political subdivisions.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5613-S.SL.pdf?cite=1991%20c%20323%20§%205[1991 c 323 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c10.pdf?cite=1984%20c%2010%20§%208[1984 c 10 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1909c249.pdf?cite=1909%20c%20249%20§%20232[1909 c 249 § 232]; RRS § 2484; ]
+
+== 19.60.055 - Retention of property by secondhand dealers—Inspection.
+. Property bought or received on consignment by any secondhand dealer with a permanent place of business in the state shall not be removed from that place of business except consigned property returned to the owner, within thirty days after the receipt of the property. Property shall at all times during the ordinary hours of business be open to inspection to any commissioned law enforcement officer of the state or any of its political subdivisions.
+
+. Property bought or received on consignment by any secondhand dealer without a permanent place of business in the state, shall be held within the city or county in which the property was received, except consigned property returned to the owner, within thirty days after receipt of the property. The property shall be available within the appropriate jurisdiction for inspection at reasonable times by any commissioned law enforcement officer of the state or any of its political subdivisions.
+
+. Property bought by any secondhand dealer through the use of an automated kiosk must be held for at least thirty days after the secondhand property was accepted by the automated kiosk. To satisfy this requirement the secondhand property may be held inside the automated kiosk or at a secure location maintained by the secondhand dealer. The secondhand property purchased through an automated kiosk must be made available to any commissioned law enforcement officer of the state, or any of its political subdivisions, for inspection within a reasonable time. The cost of transporting the secondhand property to the law enforcement officer must be paid by the secondhand dealer.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1623.SL.pdf?cite=2017%20c%20169%20§%203[2017 c 169 § 3]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5613-S.SL.pdf?cite=1991%20c%20323%20§%206[1991 c 323 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c10.pdf?cite=1984%20c%2010%20§%207[1984 c 10 § 7]; ]
+
+== 19.60.057 - Retention of precious metal property—Inspection.
+. Property consisting of a precious metal bought or received from an individual on consignment by any secondhand precious metal dealer with a permanent place of business in the state may not be removed from that place of business except consigned property returned to the owner, for a total of thirty days after the receipt of the property. Property shall at all times during the ordinary hours of business be open to inspection to any commissioned law enforcement officer of the state or any of its political subdivisions.
+
+. Property consisting of a precious metal bought or received from an individual on consignment by any secondhand precious metal dealer without a permanent place of business in the state must be stored and held within the city or county in which the property was received, except consigned property returned to the owner, for a total of thirty days after receipt of the property. The property shall be available within the appropriate jurisdiction for inspection at reasonable times by any commissioned law enforcement officer of the state or any of its political subdivisions.
+
+. Subsections (1) and (2) of this section do not apply when the property consisting of a precious metal was bought or received from a pawn shop, jeweler, secondhand dealer, or secondhand precious metal dealer who must provide a signed declaration showing the property is not stolen. The declaration may be included as part of the transactional record required under this subsection, or on a receipt for the transaction. The declaration must state substantially the following: "I, the undersigned, affirm under penalty of law that the property that is subject to this transaction is not to the best of my knowledge stolen property."
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1716-S.SL.pdf?cite=2011%20c%20289%20§%204[2011 c 289 § 4]; ]
+
+== 19.60.060 - Rates of interest and other fees—Sale of pledged property.
+All pawnbrokers are authorized to charge and receive interest and other fees at the following rates for money on the security of personal property actually received in pledge:
+
+. The interest for the loan period shall not exceed:
+
+.. For an amount loaned up to $9.99 - interest at $1.00 for each thirty-day period to include the loan date.
+
+.. For an amount loaned from $10.00 to $19.99 - interest at the rate of $1.25 for each thirty-day period to include the loan date.
+
+.. For an amount loaned from $20.00 to $24.99 - interest at the rate of $1.50 for each thirty-day period to include the loan date.
+
+.. For an amount loaned from $25.00 to $34.99 - interest at the rate of $1.75 for each thirty-day period to include the loan date.
+
+.. For an amount loaned from $35.00 to $39.99 - interest at the rate of $2.00 for each thirty-day period to include the loan date.
+
+.. For an amount loaned from $40.00 to $49.99 - interest at the rate of $2.25 for each thirty-day period to include the loan date.
+
+.. For the amount loaned from $50.00 to $59.99 - interest at the rate of $2.50 for each thirty-day period to include the loan date.
+
+.. For the amount loaned from $60.00 to $69.99 - interest at the rate of $2.75 for each thirty-day period to include the loan date.
+
+.. For the amount loaned from $70.00 to $79.99 - interest at the rate of $3.00 for each thirty-day period to include the loan date.
+
+.. For the amount loaned from $80.00 to $89.99 - interest at the rate of $3.25 for each thirty-day period to include the loan date.
+
+.. For the amount loaned from $90.00 to $99.99 - interest at the rate of $3.50 for each thirty-day period to include the loan date.
+
+.. For loan amounts of $100.00 or more - interest at the rate of four percent for each thirty-day period to include the loan date.
+
+. The fee for the preparation of loan documents, pledges, or reports required under the laws of the United States of America, the state of Washington, or the counties, cities, towns, or other political subdivisions thereof, shall not exceed:
+
+.. For the amount loaned up to $4.99 - the sum of $1.50.
+
+.. For the amount loaned from $5.00 to $9.99 - the sum of $3.00.
+
+.. For the amount loaned from $10.00 to $14.99 - the sum of $4.00.
+
+.. For the amount loaned from $15.00 to $19.99 - the sum of $4.50.
+
+.. For the amount loaned from $20.00 to $24.99 - the sum of $5.00.
+
+.. For the amount loaned from $25.00 to $29.99 - the sum of $5.50.
+
+.. For the amount loaned from $30.00 to $34.99 - the sum of $6.00.
+
+.. For the amount loaned from $35.00 to $39.99 - the sum of $6.50.
+
+.. For the amount loaned from $40.00 to $44.99 - the sum of $7.00.
+
+.. For the amount loaned from $45.00 to $49.99 - the sum of $7.50.
+
+.. For the amount loaned from $50.00 to $99.99 - fifteen percent of the loan amount.
+
+.. For the amount loaned from $100.00 to $249.99 - thirteen percent of the loan amount.
+
+.. For the amount loaned from $250.00 to $499.99 - ten percent of the loan amount.
+
+.. For the amount loaned from $500.00 to $999.99 - eight percent of the loan amount.
+
+.. For the amount loaned from $1000.00 to $1499.99 - seven and one-half percent of the loan amount.
+
+.. For the amount loaned from $1500.00 to $1999.99 - seven percent of the loan amount.
+
+.. For the amount loaned of $2000.00 or more - six percent of the loan amount.
+
+. For each thirty-day period, a pawnbroker may charge:
+
+.. A storage fee of $5.00; and
+
+.. An additional fee of $5.00 for storing a firearm.
+
+. Fees under subsection (2) of this section may be charged one time only for each loan period; no additional fees, other than interest allowed under subsection (1) of this section and storage fees allowed under subsection (3) of this section, shall be charged for making the loan.
+
+A copy of this section, set in twelve point type or larger, shall be posted prominently in each premises subject to this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5616.SL.pdf?cite=2015%20c%20294%20§%201[2015 c 294 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1231.SL.pdf?cite=2007%20c%20125%20§%201[2007 c 125 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1012.SL.pdf?cite=1995%20c%20133%20§%202[1995 c 133 § 2]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5613-S.SL.pdf?cite=1991%20c%20323%20§%207[1991 c 323 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c10.pdf?cite=1984%20c%2010%20§%209[1984 c 10 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c91.pdf?cite=1973%201st%20ex.s.%20c%2091%20§%201[1973 1st ex.s. c 91 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1909c249.pdf?cite=1909%20c%20249%20§%20234[1909 c 249 § 234]; RRS § 2486; ]
+
+== 19.60.061 - Pawnbrokers—Sale of pledged property limited—Written document required for transactions.
+. The term of the loan shall be for a period of ninety days to include the date of the loan.
+
+. A pawnbroker shall not sell any property received in pledge, until a minimum of ninety days has expired. However, if a pledged article is not redeemed within the ninety-day period of the term of the loan, the pawnbroker shall have all rights, title, and interest of that item of personal property. The pawnbroker shall not be required to account to the pledgor for the proceeds received from the disposition of that item. Any provision of law relating to the foreclosures and the subsequent sale of forfeited pledged items, shall not be applicable to any pledge as defined under this chapter, the title to which is transferred in accordance with this section.
+
+. Every loan transaction entered into by a pawnbroker shall be evidenced by a written document, a copy of which shall be furnished to the pledgor. The document shall set forth the term of the loan; the final date on which the loan is due and payable; the loan preparation fee; the storage fee; the firearm fee, if applicable; any other fee allowed under law that is charged; the amount of interest charged every thirty days; the total amount due including the principal amount, the preparation fee, and all interest charges due if the loan is outstanding for the full ninety days allowed by the term; and the annual percentage rate, and shall inform the pledgor of the pledgor's right to redeem the pledge at any time within the term of the loan.
+
+. If a person who has entered into a loan transaction with a pawnbroker in this state is unable to redeem and repay the loan on or before the expiration of the term of the loan, and that person wishes to retain his or her rights to use that item by rewriting the loan, and if both parties mutually agree, an existing loan transaction may be rewritten into a new loan, either in person or by mail. All applicable provisions of this chapter shall be followed in rewriting a loan, except that where an existing loan is rewritten by mail RCW 19.60.020(1) (a) and (g) shall not apply.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1231.SL.pdf?cite=2007%20c%20125%20§%202[2007 c 125 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1012.SL.pdf?cite=1995%20c%20133%20§%203[1995 c 133 § 3]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5613-S.SL.pdf?cite=1991%20c%20323%20§%208[1991 c 323 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c10.pdf?cite=1984%20c%2010%20§%2010[1984 c 10 § 10]; ]
+
+== 19.60.062 - Attorney fees and costs in action to recover possession or determine title or ownership.
+By either party, in an action brought by an owner to recover goods in the possession of a pawnbroker or secondhand dealer, or an action brought by a pawnbroker or secondhand dealer against an owner, or a person claiming ownership, to determine title or ownership of any item, the prevailing party is entitled to reasonable attorney's fees and costs.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5613-S.SL.pdf?cite=1991%20c%20323%20§%209[1991 c 323 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c10.pdf?cite=1984%20c%2010%20§%2011[1984 c 10 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c41.pdf?cite=1979%20ex.s.%20c%2041%20§%201[1979 ex.s. c 41 § 1]; ]
+
+== 19.60.066 - Prohibited acts—Penalty.
+It is a gross misdemeanor under chapter 9A.20 RCW for:
+
+. Any person to remove, alter, or obliterate any manufacturer's make, model, or serial number, personal identification number, or identifying marks engraved or etched upon an item of personal property that was purchased, consigned, or received in pledge. In addition an item shall not be accepted for pledge or a secondhand purchase where the manufacturer's make, model, or serial number, personal identification number, or identifying marks engraved or etched upon an item of personal property has been removed, altered, or obliterated;
+
+. Any person to knowingly make, cause, or allow to be made any false entry or misstatement of any material matter in any book, record, or writing required to be kept under this chapter;
+
+. Any pawnbroker or secondhand dealer to receive any property from any person under the age of eighteen years, any person under the influence of intoxicating liquor or drugs, or any person known to the pawnbroker or secondhand dealer as having been convicted of burglary, robbery, theft, or possession of or receiving stolen property within the past ten years whether the person is acting in his or her own behalf or as the agent of another;
+
+. Any pawnbroker to engage in the business of cashing or selling checks, drafts, money orders, or other commercial paper serving the same purpose unless the pawnbroker complies with the provisions of chapter 31.45 RCW; or
+
+. Any person to violate knowingly any other provision of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1487.SL.pdf?cite=1991%20c%20355%20§%2021[1991 c 355 § 21]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5613-S.SL.pdf?cite=1991%20c%20323%20§%2010[1991 c 323 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c10.pdf?cite=1984%20c%2010%20§%2012[1984 c 10 § 12]; ]
+
+== 19.60.067 - Secondhand precious metal dealers—Prohibited acts—Penalty.
+. It is a gross misdemeanor for:
+
+.. A secondhand precious metal dealer to knowingly make, cause, or allow to be made any false entry or misstatement of any material matter in any book, record, or writing required to be kept under RCW 19.60.025, 19.60.057, 19.60.042, 19.60.077, and 19.60.095 involving property consisting of precious metal;
+
+.. A secondhand precious metal dealer to receive any precious metal property from any person known to the secondhand precious metal dealer as having been convicted of burglary, robbery, theft, or possession of or receiving stolen property within the past ten years whether the person is acting in his or her own behalf or as the agent of another; or
+
+.. A secondhand precious metal dealer to knowingly violate any other provision relating to precious metals under RCW 19.60.025, 19.60.057, 19.60.042, 19.60.077, and 19.60.095.
+
+. It is a class C felony for a secondhand precious metal dealer to commit a second or subsequent violation of subsection (1) of this section involving property consisting of a precious metal.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1716-S.SL.pdf?cite=2011%20c%20289%20§%207[2011 c 289 § 7]; ]
+
+== 19.60.068 - Resale agreement to avoid interest and fee restrictions prohibited.
+A purchase of personal property shall not be made on the condition of selling it back at a stipulated time and price greater than the purchase price, for the purpose of avoiding the interest and fee restrictions of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5613-S.SL.pdf?cite=1991%20c%20323%20§%2011[1991 c 323 § 11]; ]
+
+== 19.60.075 - Regulation by political subdivisions.
+The regulation of pawnbrokers and secondhand dealers under this chapter is not intended to restrict political subdivisions from enacting ordinances or codes requiring the licensing of pawnbrokers and secondhand dealers or from enacting ordinances or codes which are more restrictive than the provisions of this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c10.pdf?cite=1984%20c%2010%20§%2013[1984 c 10 § 13]; ]
+
+== 19.60.077 - Precious metal dealers—Licensure required.
+No secondhand precious metal dealer doing business in this state may operate a business without first obtaining a business license from the local government in which the business is situated.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1716-S.SL.pdf?cite=2011%20c%20289%20§%206[2011 c 289 § 6]; ]
+
+== 19.60.085 - Exemptions.
+The provisions of this chapter do not apply to transactions conducted by the following:
+
+. Motor vehicle dealers licensed under chapter 46.70 RCW;
+
+. Vehicle wreckers, hulk haulers, and scrap processors licensed under chapter 46.79 or 46.80 RCW;
+
+. Persons giving an allowance for the trade-in or exchange of secondhand property on the purchase of other merchandise of the same kind of greater value; and
+
+. Persons in the business of buying or selling empty food and beverage containers or metal or nonmetal junk, in compliance with chapter 19.290 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1716-S.SL.pdf?cite=2011%20c%20289%20§%208[2011 c 289 § 8]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2400.SL.pdf?cite=2000%20c%20171%20§%2056[2000 c 171 § 56]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c70.pdf?cite=1985%20c%2070%20§%202[1985 c 70 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c10.pdf?cite=1984%20c%2010%20§%202[1984 c 10 § 2]; ]
+
+== 19.60.095 - Precious metal sales—Hosted home parties.
+. For purposes of this section, "hosted home party" means a gathering of persons at a private residence where a host or hostess has invited friends or other guests into his or her residence where individual person-to-person sales of precious metals occur.
+
+. A host or hostess must be the owner, renter, or lessee of the private residence where the hosted home party takes place.
+
+. A secondhand precious metal dealer who attends a hosted home party and purchases or sells precious metals from the invited guests must issue a receipt for each item sold or purchased at the hosted home party.
+
+. The secondhand precious metal dealer must include on every receipt the following: (a) The name, residential address, telephone number, and driver's license number of the person hosting the home party; (b) the name, residential address, telephone number, and driver's license number of the person selling the item; (c) the name, residential address, telephone number, and driver's license number of the person purchasing the item; (d) a complete description of the item being sold, including the brand name, serial number, model number or name, any initials or engraving, size, pattern, and color of stone or stones; (e) time and date of the transaction; and (f) the amount and form of any consideration paid for the item.
+
+. The secondhand precious metal dealer must make four copies of each transaction receipt: One for the seller, one for the host or hostess, one for the purchaser, and one for local authorities, if they should ask. The secondhand precious metal dealer and the host shall maintain copies of all transaction receipts and records for three years following the date of the precious metal transaction.
+
+. A secondhand precious metal dealer of a hosted home party who purchases precious metals at a hosted home party and complies with this section is otherwise exempt from RCW 19.60.025, 19.60.057, and 19.60.042.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1716-S.SL.pdf?cite=2011%20c%20289%20§%209[2011 c 289 § 9]; ]
+
+== 19.60.105 - Automated kiosks.
+For a secondhand dealer to utilize an automated kiosk to purchase secondhand property in this state, the automated kiosk must have the capability to:
+
+. Collect all information required under RCW 19.60.020(1);
+
+. Connect with a live customer service representative that can remotely verify the identity of the person engaged in the transaction;
+
+. Compare the secondhand property purchased against a state or federal database of stolen items using the serial number, International Mobile Equipment Identity (IMEI), the mobile equipment identifier (MEID), or other unique identifying number assigned to the device by the manufacturer; and
+
+. Securely store all secondhand property purchased.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1623.SL.pdf?cite=2017%20c%20169%20§%204[2017 c 169 § 4]; ]
+
+== 19.60.901 - Effective date—1984 c 10.
+This act is necessary for the immediate preservation of the public peace, health, and safety, the support of the state government and its existing public institutions, and shall take effect thirty days after it is signed by the governor and filed with the secretary of state.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c10.pdf?cite=1984%20c%2010%20§%2016[1984 c 10 § 16]; ]
+

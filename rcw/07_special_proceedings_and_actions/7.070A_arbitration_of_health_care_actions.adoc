@@ -1,0 +1,113 @@
+= 7.70A - Arbitration of health care actions.
+:toc:
+
+== 7.70A.010 - Actions for personal injury or wrongful death—Arbitration authorized.
+This chapter applies to any cause of action for damages for personal injury or wrongful death based on alleged professional negligence in the provision of health care where all parties to the action have agreed to submit the dispute to arbitration under this chapter in accordance with the requirements of RCW 7.70A.020.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2292-S2.SL.pdf?cite=2006%20c%208%20§%20305[2006 c 8 § 305]; ]
+
+== 7.70A.020 - Election to submit to arbitration—Procedures.
+. Parties in an action covered under RCW 7.70A.010 may elect to submit the dispute to arbitration under this chapter in accordance with the requirements in this section.
+
+.. A claimant may elect to submit the dispute to arbitration under this chapter by including such election in the complaint filed at the commencement of the action. A defendant may elect to submit the dispute to arbitration under this chapter by including such election in the defendant's answer to the complaint. The dispute will be submitted to arbitration under this chapter only if all parties to the action elect to submit the dispute to arbitration.
+
+.. If the parties do not initially elect to submit the dispute to arbitration in accordance with (a) of this subsection, the parties may make such an election at any time during the pendency of the action by filing a stipulation with the court in which all parties to the action agree to submit the dispute to arbitration under this chapter.
+
+. A party that does not initially elect to submit a dispute to arbitration under this chapter must file a declaration with the court that meets the following requirements:
+
+.. In the case of a claimant, the declaration must be filed at the time of commencing the action and must state that the attorney representing the claimant presented the claimant with a copy of the provisions of this chapter before commencing the action and that the claimant elected not to submit the dispute to arbitration under this chapter; and
+
+.. In the case of a defendant, the declaration must be filed at the time of filing the answer and must state that the attorney representing the defendant presented the defendant with a copy of the provisions of this chapter before filing the defendant's answer and that the defendant elected not to submit the dispute to arbitration under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2292-S2.SL.pdf?cite=2006%20c%208%20§%20306[2006 c 8 § 306]; ]
+
+== 7.70A.030 - Selection of arbitrator.
+. An arbitrator shall be selected by agreement of the parties no later than forty-five days after: (a) The date all defendants elected arbitration in the answer where the parties elected arbitration in the initial complaint and answer; or (b) the date of the stipulation where the parties agreed to enter into arbitration after the commencement of the action through a stipulation filed with the court. The parties may agree to select more than one arbitrator to conduct the arbitration.
+
+. If the parties are unable to agree to an arbitrator by the time specified in subsection (1) of this section, each side may submit the names of three arbitrators to the court, and the court shall select an arbitrator from among the submitted names within fifteen days of being notified that the parties are unable to agree to an arbitrator. If none of the parties submit any names of potential arbitrators, the court shall select an arbitrator.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2292-S2.SL.pdf?cite=2006%20c%208%20§%20307[2006 c 8 § 307]; ]
+
+== 7.70A.040 - Arbitration proceedings—Experts—Discovery.
+The arbitrator may conduct the arbitration in such manner as the arbitrator considers appropriate so as to aid in the fair and expeditious disposition of the proceeding subject to the requirements of this section and RCW 7.70A.050.
+
+. [Empty]
+.. Except as provided in (b) of this subsection, each party is entitled to two experts on the issue of liability, two experts on the issue of damages, and one rebuttal expert.
+
+.. Where there are multiple parties on one side, the arbitrator shall determine the number of experts that are allowed based on the minimum number of experts necessary to ensure a fair and economic resolution of the action.
+
+. [Empty]
+.. Unless the arbitrator determines that exceptional circumstances require additional discovery, each party is entitled to the following discovery from any other party:
+
+... Twenty-five interrogatories, including subparts;
+
+... Ten requests for admission; and
+
+... In accordance with applicable court rules:
+
+(A) Requests for production of documents and things, and for entry upon land for inspection and other purposes; and
+
+(B) Requests for physical and mental examinations of persons.
+
+.. The parties shall be entitled to the following depositions:
+
+... Depositions of parties and any expert that a party expects to call as a witness. Except by order of the arbitrator for good cause shown, the length of the deposition of a party or an expert witness shall be limited to four hours.
+
+... Depositions of other witnesses. Unless the arbitrator determines that exceptional circumstances require additional depositions, the total number of depositions of persons who are not parties or expert witnesses is limited to five depositions per side, each of which may last no longer than two hours in length. In the deposition of a fact witness, each side is entitled to examine for one hour of the deposition.
+
+. An arbitrator may issue a subpoena for the attendance of a witness and for the production of records and other evidence at any hearing and may administer oaths. A subpoena must be served in the manner for service of subpoenas in a civil action and, upon motion to the court by a party to the arbitration proceeding or the arbitrator, enforced in the manner for enforcement of subpoenas in a civil action.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2292-S2.SL.pdf?cite=2006%20c%208%20§%20308[2006 c 8 § 308]; ]
+
+== 7.70A.050 - Arbitration time frames.
+. An arbitration under this chapter shall be conducted according to the time frames specified in this section. The time frames provided in this section run from the date all defendants have agreed to arbitration in their answers where the parties elected arbitration in the initial complaint and answer, and from the date of the execution of the stipulation where the parties agreed to enter into arbitration after the commencement of the action through a stipulation filed with the court. The arbitrator shall issue a case scheduling order in every case specifying the dates by which the requirements of (b) through (f) of this subsection must be completed.
+
+.. Within forty-five days, the claimant shall provide stipulations for all relevant medical records to the defendants.
+
+.. Within one hundred twenty days, the claimant shall disclose to the defendants the names and curriculum vitae or other documentation of qualifications of any expert the claimant expects to call as a witness.
+
+.. Within one hundred forty days, each defendant shall disclose to the claimants the names and curriculum vitae or other documentation of qualifications of any expert the defendant expects to call as a witness.
+
+.. Within one hundred sixty days, each party shall disclose to the other parties the name and curriculum vitae or other documentation of qualifications of any rebuttal expert the party expects to call as a witness.
+
+.. Within two hundred forty days, all discovery shall be completed.
+
+.. Within two hundred seventy days, the arbitration hearing shall commence subject to the limited authority of the arbitrator to extend this deadline under subsection (2) of this section.
+
+. It is the express public policy of the legislature that arbitration hearings under this chapter be commenced no later than twelve months after the parties elect to submit the dispute to arbitration. The arbitrator may grant a continuance of the commencement of the arbitration hearing to a date more than twelve months after the parties elect to submit the dispute to arbitration only where a party shows that exceptional circumstances create an undue and unavoidable hardship on the party.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2292-S2.SL.pdf?cite=2006%20c%208%20§%20309[2006 c 8 § 309]; ]
+
+== 7.70A.060 - Issuance of decision—Limitation on award of damages—Fees and expenses.
+. The arbitrator shall issue a decision in writing and signed by the arbitrator within fourteen days after the completion of the arbitration hearing and shall promptly deliver a copy of the decision to each of the parties or their attorneys.
+
+. The arbitrator may not make an award of damages under this chapter that exceeds one million dollars for both economic and noneconomic damages.
+
+. The arbitrator may not make an award of damages under this chapter under a theory of ostensible agency liability.
+
+. With or without the request of a party, the arbitrator shall review the reasonableness of each party's attorneys' fees taking into account the factors enumerated in RCW 4.24.005.
+
+. The fees and expenses of the arbitrator shall be paid by the nonprevailing parties.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2292-S2.SL.pdf?cite=2006%20c%208%20§%20310[2006 c 8 § 310]; ]
+
+== 7.70A.070 - Motion for judgment.
+After a party to the arbitration proceeding receives notice of a decision, the party may file a motion with the court for a judgment in accordance with the decision, at which time the court shall issue such a judgment unless the decision is modified, corrected, or vacated as provided in RCW 7.70A.080.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2292-S2.SL.pdf?cite=2006%20c%208%20§%20311[2006 c 8 § 311]; ]
+
+== 7.70A.080 - Appeal of decision.
+There is no right to a trial de novo on an appeal of the arbitrator's decision. An appeal of the arbitrator's decision is limited to the bases for appeal provided in RCW 7.04A.230(1) (a) through (d) and 7.04A.240, or equivalent provisions in a successor statute.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2292-S2.SL.pdf?cite=2006%20c%208%20§%20312[2006 c 8 § 312]; ]
+
+== 7.70A.090 - Application of chapter  7.04A RCW.
+The provisions of chapter 7.04A RCW do not apply to arbitrations conducted under this chapter except to the extent specifically provided in this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2292-S2.SL.pdf?cite=2006%20c%208%20§%20313[2006 c 8 § 313]; ]
+
+== 7.70A.900 - Findings—Intent—Part headings and subheadings not law—Severability—2006 c 8.
+See notes following RCW 5.64.010.
+
+[ ]
+

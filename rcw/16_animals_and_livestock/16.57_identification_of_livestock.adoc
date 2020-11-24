@@ -1,0 +1,530 @@
+= 16.57 - Identification of livestock.
+:toc:
+
+== 16.57.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Brand" means a permanent fire brand or any artificial mark, other than an individual identification symbol, approved by the director to be used in conjunction with a brand or by itself.
+
+. "Certificate of permit" means a form prescribed by and obtained from the director that is completed by the owner or a person authorized to act on behalf of the owner to show the ownership of livestock. It is used to document ownership of livestock while in transit within the state or on consignment to any public livestock market, special sale, slaughter plant or certified feed lot. It does not evidence inspection of livestock.
+
+. "Department" means the department of agriculture of the state of Washington.
+
+. "Director" means the director of the department or his or her duly authorized representative.
+
+. "Horses" means horses, burros, and mules.
+
+. "Individual identification certificate" means an inspection certificate that authorizes the livestock owner to transport the animal out of state multiple times within a set period of time.
+
+. "Individual identification symbol" means a permanent mark placed on a horse for the purpose of individually identifying and registering the horse and which has been approved for use as such by the director.
+
+. "Inspection certificate" means a certificate issued by the director or a veterinarian certified by the director documenting the ownership of an animal based on an inspection of the animal. It includes an individual identification certificate.
+
+. "Livestock" includes, but is not limited to, horses, mules, cattle, sheep, swine, and goats.
+
+. "Livestock inspection" or "inspection" means the examination of livestock or livestock hides for brands or any means of identifying livestock or livestock hides including the examination of documents providing evidence of ownership.
+
+. "Microchipping" means the implantation of an identification microchip or similar electronic identification device to establish the identity of an individual animal:
+
+.. In the pipping muscle of a chick ratite or the implantation of a microchip in the tail muscle of an otherwise unidentified adult ratite;
+
+.. In the nuchal ligament of a horse unless otherwise specified by rule of the director; and
+
+.. In locations of other livestock species as specified by rule of the director when requested by an association of producers of that species of livestock.
+
+. "Person" means a natural person, individual, firm, partnership, corporation, company, society, and association, and every officer, agent or employee thereof. This term shall import either the singular or the plural as the case may be.
+
+. "Production record brand" means a number brand which shall be used for production identification purposes only.
+
+. "Ratite" means, but is not limited to, ostrich, emu, rhea, or other flightless bird used for human consumption, whether live or slaughtered.
+
+. "Registering agency" means any person issuing an individual identification symbol for the purpose of individually identifying and registering a horse.
+
+. "Self-inspection certificate" means a form prescribed by and obtained from the director that was completed and signed by the buyer and seller of livestock to document a change in ownership before June 10, 2010.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6299-S.SL.pdf?cite=2010%20c%2066%20§%205[2010 c 66 § 5]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%202[2003 c 326 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6694-S.SL.pdf?cite=1996%20c%20105%20§%201[1996 c 105 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5082.SL.pdf?cite=1993%20c%20105%20§%202[1993 c 105 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c286.pdf?cite=1989%20c%20286%20§%2022[1989 c 286 § 22]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c296.pdf?cite=1981%20c%20296%20§%2015[1981 c 296 § 15]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c154.pdf?cite=1979%20c%20154%20§%2017[1979 c 154 § 17]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c240.pdf?cite=1967%20c%20240%20§%2034[1967 c 240 § 34]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%201[1959 c 54 § 1]; ]
+
+== 16.57.015 - Livestock identification advisory committee—Rule review—Fee setting. (Effective until July 1, 2023.)
+. The director shall establish a livestock identification advisory committee. The committee shall be composed of twelve voting members appointed by the director as follows: Two beef producers, two cattle feeders, two dairy producers, two livestock market owners, two meat processors, and two horse producers. Organizations representing the groups represented on the committee may submit nominations for these appointments to the director for the director's consideration. No more than two members at the time of their appointment or during their term may reside in the same county. Members may be reappointed and vacancies must be filled in the same manner as original appointments are made. As used in this subsection, "meat processor" means a person licensed to operate a slaughtering establishment under chapter 16.49 RCW or the federal meat inspection act (21 U.S.C. Sec. 601 et seq.). In making appointments, the director shall solicit nominations from organizations representing these groups statewide. The committee shall elect a member to serve as chair of the committee. The committee must meet at least twice a year. The committee shall meet at the call of the director, chair, or a majority of the committee. A quorum of the committee consists of a majority of members. If a member has not been designated for a position set forth in this section, that position may not be counted for purposes of determining a quorum. A member may appoint an alternate who meets the same qualifications as the member to serve during the member's absence. The director may remove a member from the committee if that member has two or more unexcused absences during a single calendar year.
+
+. The purpose of the committee is to provide advice to the director regarding livestock identification programs administered under this chapter and regarding inspection fees and related licensing fees. The director shall consult the committee before adopting, amending, or repealing a rule under this chapter or altering a fee under RCW 16.58.050, 16.65.030, 16.65.037, or 16.65.090. If the director publishes in the state register a proposed rule to be adopted under the authority of this chapter and the rule has not received the approval of the advisory committee, the director shall file with the committee a written statement setting forth the director's reasons for proposing the rule without the committee's approval.
+
+. The members of the advisory committee serve three-year terms. However, the director shall by rule provide shorter initial terms for some of the members of the committee to stagger the expiration of the initial terms. The members serve without compensation. The director may authorize the expenses of a member to be reimbursed if the member is selected to attend a regional or national conference or meeting regarding livestock identification. Any such reimbursement shall be in accordance with RCW 43.03.050 and 43.03.060.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5959-S.SL.pdf?cite=2019%20c%2092%20§%201[2019 c 92 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1371-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2021%20§%2051[2011 1st sp.s. c 21 § 51]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%203[2003 c 326 § 3]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5443-S.SL.pdf?cite=1993%20c%20354%20§%2010[1993 c 354 § 10]; ]
+
+== 16.57.020 - Livestock brands—Director is the recorder—Recording fee.
+The director shall be the recorder of livestock brands and such brands shall not be recorded elsewhere in this state. Any person desiring to record a livestock brand shall apply on a form prescribed by the director. The application shall be accompanied by a facsimile of the brand applied for and a one hundred thirty-two dollar recording fee. The director shall, upon his or her satisfaction that the application and brand facsimile meet the requirements of this chapter and its rules, record the brand. The director must establish a staggered brand record renewal schedule and may adopt an annual or biennial renewal schedule if necessary. The application to transfer a brand shall be accompanied by a notarized form that includes a facsimile of the brand, a description, information about the current owners, and a twenty-seven dollar and fifty cent transfer fee. If the application to transfer a brand is for a legacy brand, the application must be accompanied by a one hundred dollar transfer fee. For purposes of this section, "legacy brand" means a brand that has been in continuous use for at least twenty-five years.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5959-S.SL.pdf?cite=2019%20c%2092%20§%202[2019 c 92 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%204[2003 c 326 § 4]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6463-S.SL.pdf?cite=1994%20c%2046%20§%207[1994 c 46 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c135.pdf?cite=1971%20ex.s.%20c%20135%20§%201[1971 ex.s. c 135 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c66.pdf?cite=1965%20c%2066%20§%201[1965 c 66 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%202[1959 c 54 § 2]; ]
+
+== 16.57.023 - Permanent renewal of brands—Heritage brands—Fees.
+The director may adopt rules establishing criteria and fees for the permanent renewal of brands registered with the department but renewed as livestock heritage brands. Such heritage brands are not intended for use on livestock.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%205[2003 c 326 § 5]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6204-S.SL.pdf?cite=1998%20c%20263%20§%205[1998 c 263 § 5]; ]
+
+== 16.57.025 - Livestock inspection—Licensed and accredited veterinarians—Field livestock inspectors—Fees—Revocation of certification.
+. The director may enter into agreements with Washington state licensed and accredited veterinarians, who have been certified by the director, to perform livestock inspection.
+
+. The department must maintain a list of field livestock inspectors who are certified to perform livestock inspection. The list must be divided into at least six geographic regions of the state. The list must be updated quarterly and must be made available to the public through electronic media and by mail when requested.
+
+. All individuals applying for certification as a field livestock inspector under this section must complete training provided by the department at the discretion of the director. Training must include, but is not limited to, the:
+
+.. Reading of printed brands;
+
+.. Reading of brands or other marks on animals, including the location of brands on animals;
+
+.. Reading of a microchip or other electronic official individual identification;
+
+.. Completion of official documents; and
+
+.. Review of satisfactory ownership documents.
+
+. In order to qualify, an individual must submit an application to the director that includes:
+
+.. The full name, address, telephone number, and email address of the individual applying for certification;
+
+.. The applicant's Washington state veterinary license number, if the applicant is a veterinarian;
+
+.. The geographic area in which the applicant will issue inspection certificates for livestock;
+
+.. A statement describing the applicant's experience with large animals, especially cattle and horses; and
+
+.. A brief statement indicating that the applicant is requesting certification to issue inspection certificates for cattle, horses, or both.
+
+. Fees for livestock inspection performed by a certified veterinarian or field livestock inspector shall be collected by the veterinarian or field livestock inspector and remitted to the director. Veterinarians and field livestock inspectors providing livestock inspection may charge a fee for livestock inspection that is in addition to and separate from fees collected under RCW 16.57.220. The director may adopt fees to cover the cost associated with certification of veterinarians and field livestock inspectors.
+
+. A veterinarian or field livestock inspector certified to perform livestock inspection under this section shall not be considered an employee of the department.
+
+. [Empty]
+.. The director may suspend or revoke a veterinarian's or field livestock inspector's certification to issue inspection certificates if the veterinarian or field livestock inspector knowingly:
+
+... Makes or acquiesces in false or inaccurate statements on livestock inspection certificates regarding:
+
+(A) The date or location of the inspection;
+
+(B) The marks or brands on the livestock inspected;
+
+(C) The owner's name; or
+
+(D) Any other statement about the livestock inspected.
+
+... Fails to properly verify the ownership status of the animal before issuing an inspection certificate.
+
+... Issues an inspection certificate without actually conducting an inspection of the livestock.
+
+... Fails to submit inspection fees and certificates issued to the director within thirty days from the date of issue.
+
+.. Actions under this section must be taken in accordance with chapter 34.05 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5959-S.SL.pdf?cite=2019%20c%2092%20§%203[2019 c 92 § 3]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%206[2003 c 326 § 6]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6204-S.SL.pdf?cite=1998%20c%20263%20§%206[1998 c 263 § 6]; ]
+
+== 16.57.030 - Tattoo brands and marks not recordable.
+The director shall not record tattoo brands or marks for any purpose.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%207[2003 c 326 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%203[1959 c 54 § 3]; ]
+
+== 16.57.040 - Production record brands.
+The director may provide for the use of production record brands. Numbers for such brands shall be issued at the discretion of the director and shall be placed on livestock immediately below the recorded ownership brand or any other location prescribed by the director.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%208[2003 c 326 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c64.pdf?cite=1974%20ex.s.%20c%2064%20§%201[1974 ex.s. c 64 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%204[1959 c 54 § 4]; ]
+
+== 16.57.050 - Use of unrecorded brand prohibited—Exception.
+No person shall place a brand on livestock for any purpose unless the brand is recorded with the director in the person's name.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%209[2003 c 326 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%205[1959 c 54 § 5]; ]
+
+== 16.57.060 - Brands similar to governmental brands not to be recorded.
+No brand shall be recorded for ownership purposes which will be applied in the same location and is similar or identical to a brand used or reserved for ownership or health purposes by a governmental agency or the agent of such an agency.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%206[1959 c 54 § 6]; ]
+
+== 16.57.070 - Conflicting claims to brand.
+The director shall determine conflicting claims between applicants to a brand, and in so doing shall consider the priority of applicants.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%207[1959 c 54 § 7]; ]
+
+== 16.57.080 - Renewal of recorded brands—Schedule—Fee—Failure to pay.
+The director shall establish by rule a schedule for the renewal of recorded brands. The fee for renewal of a recorded brand shall be one hundred twenty dollars for each four-year period of brand ownership, except that the director may, in adopting a renewal schedule, provide for the collection of renewal fees on a prorated basis. At least sixty days before the expiration of a recorded brand, the director shall notify by letter the owner of record of the brand that on the payment of the renewal fee the director shall issue proof of payment allowing the brand owner exclusive ownership and use of the brand for the subsequent ownership period. The failure of the owner to pay the renewal fee by the date required by rule shall cause ownership of the brand to expire. For one year following the expiration, the director shall record the brand only to the prior owner upon payment of the renewal fee and a late fee of twenty-five dollars. If the brand is not recorded within one year to the prior owner, the director may issue the brand to any other applicant.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2010[2003 c 326 § 10]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6463-S.SL.pdf?cite=1994%20c%2046%20§%2016[1994 c 46 § 16]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5443-S.SL.pdf?cite=1993%20c%20354%20§%205[1993 c 354 § 5]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1958-S.SL.pdf?cite=1991%20c%20110%20§%201[1991 c 110 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c64.pdf?cite=1974%20ex.s.%20c%2064%20§%202[1974 ex.s. c 64 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c135.pdf?cite=1971%20ex.s.%20c%20135%20§%202[1971 ex.s. c 135 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c66.pdf?cite=1965%20c%2066%20§%203[1965 c 66 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c148.pdf?cite=1961%20c%20148%20§%201[1961 c 148 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%208[1959 c 54 § 8]; ]
+
+== 16.57.090 - Brand is personal property—Instruments affecting title, recording, effect—Fee—Nonliability of director for agents.
+A brand is the personal property of the owner of record. Any instrument affecting the title of the brand shall be executed by the recorded owner and acknowledged by a notary public. The director shall record the instrument upon presentation and payment of a recording fee of twenty-five dollars. The recording shall be constructive notice to all the world of the existence and conditions affecting the title to the brand. A copy of all records concerning the brand, certified by the director, shall be received in evidence to all intent and purposes as the original instrument. The director shall not be personally liable for failure of the director's agents to properly record the instrument.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2011[2003 c 326 § 11]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6463-S.SL.pdf?cite=1994%20c%2046%20§%2017[1994 c 46 § 17]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5443-S.SL.pdf?cite=1993%20c%20354%20§%206[1993 c 354 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c64.pdf?cite=1974%20ex.s.%20c%2064%20§%203[1974 ex.s. c 64 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c66.pdf?cite=1965%20c%2066%20§%202[1965 c 66 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%209[1959 c 54 § 9]; ]
+
+== 16.57.100 - Right to use brand—Brand as evidence of title.
+The right to use a brand shall be evidenced by the original certificate issued by the director showing that the brand is of present record or a certified copy of the record of the brand showing that it is of present record. A healed brand of record on livestock shall be prima facie evidence that the recorded owner of the brand has legal title to the livestock and is entitled to its possession. The director may require additional proof of ownership for any animal showing more than one healed brand.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2012[2003 c 326 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c135.pdf?cite=1971%20ex.s.%20c%20135%20§%203[1971 ex.s. c 135 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2010[1959 c 54 § 10]; ]
+
+== 16.57.105 - Preemptory right to use brand.
+Any person having a brand recorded with the department shall have a preemptory right to use such brand and its design under any newly approved method of branding adopted by the director.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c240.pdf?cite=1967%20c%20240%20§%2038[1967 c 240 § 38]; ]
+
+== 16.57.110 - Size and characteristics of brand.
+No brand shall be placed on livestock that is not permanent in nature and of a size that is not readily visible. The director, in order to assure that brands are readily visible, may prescribe the size of branding irons to be used for ownership brands.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2011[1959 c 54 § 11]; ]
+
+== 16.57.120 - Removal or alteration of brand—Penalty.
+No person shall remove or alter a brand of record on livestock without first having secured the written permission of the director. Violation of this section is a gross misdemeanor.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2013[2003 c 326 § 13]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1958-S.SL.pdf?cite=1991%20c%20110%20§%202[1991 c 110 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2012[1959 c 54 § 12]; ]
+
+== 16.57.130 - Similar brands not to be recorded.
+The director shall not record a brand that is identical to a brand of present record; nor a brand so similar to a brand of present record that it will be difficult to distinguish between the brands when applied to livestock.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2014[2003 c 326 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2013[1959 c 54 § 13]; ]
+
+== 16.57.140 - Certified copy of record of brand—Fee.
+The owner of a brand of record may obtain from the director a certified copy of the record of the owner's brand upon payment of a fee of fifteen dollars.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2015[2003 c 326 § 15]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6463-S.SL.pdf?cite=1994%20c%2046%20§%2018[1994 c 46 § 18]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5443-S.SL.pdf?cite=1993%20c%20354%20§%207[1993 c 354 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c64.pdf?cite=1974%20ex.s.%20c%2064%20§%204[1974 ex.s. c 64 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2014[1959 c 54 § 14]; ]
+
+== 16.57.150 - Brand book—Contents—Costs.
+The director shall publish a book to be known as the "Washington State Brand Book", showing all the brands of record. The book shall contain the name and address of the owners of brands of record and a copy of the livestock identification laws and rules. Supplements to the brand book showing newly recorded brands, amendments, or newly adopted rules shall be published at the discretion of the director. Whenever the director deems it necessary, the director may publish a new brand book. The director may collect moneys to recover the reasonable costs of publishing and distributing copies of the brand book.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2016[2003 c 326 § 16]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c64.pdf?cite=1974%20ex.s.%20c%2064%20§%205[1974 ex.s. c 64 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2015[1959 c 54 § 15]; ]
+
+== 16.57.153 - Administration of brands—Rules.
+The director may adopt rules necessary to administer the recording and changing of ownership of brands.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2017[2003 c 326 § 17]; ]
+
+== 16.57.160 - Cattle or horses—Rules—Mandatory inspection points—Self-inspection certificates—Dairy cattle identification tags—Fees.
+. The director may adopt rules:
+
+.. Designating any point for mandatory inspection of cattle or horses or the furnishing of proof that cattle or horses passing or being transported through the point have been inspected or identified and are lawfully being transported;
+
+.. Providing for issuance of individual horse and cattle identification certificates or other means of horse and cattle identification;
+
+.. Designating the documents that constitute other satisfactory proof of ownership for cattle and horses. A bill of sale may not be designated as documenting satisfactory proof of ownership for cattle; and
+
+.. Designating when inspection certificates, certificates of permit, or other transportation documents required by law or rule must designate a physical address of a destination. Cattle and horses must be delivered or transported directly to the physical address of that destination.
+
+. The director may establish a process to electronically report transactions involving cattle under RCW 16.57.450 as an alternative to the mandatory cattle inspections required by department rule adopted pursuant to this section.
+
+. A self-inspection certificate may be accepted as satisfactory proof of ownership for cattle if the director determines that the self-inspection certificate, together with other available documentation, sufficiently establishes ownership. Self-inspection certificates completed after June 10, 2010, are not satisfactory proof of ownership for cattle.
+
+. [Empty]
+.. Upon request by a milk producer licensed under chapter 15.36 RCW, the department must issue an official individual identification tag to be placed by the producer before the first point of sale on bull calves and free-martins (infertile female calves) under thirty days of age. The fee for each tag is the cost to the department for manufacture, purchase, and distribution of the tag plus the applicable beef commission assessment. As used in this subsection (4), "green tag" means the official individual identification issued by the department.
+
+.. Transactions involving unbranded dairy breed bull calves or free-martins (infertile female calves) not being moved or transported out of Washington are exempt from inspection requirements under this chapter only if:
+
+... The animal is under thirty days old and has not been previously bought or sold;
+
+... The seller holds a valid milk producer's license under chapter 15.36 RCW;
+
+... The sale does not take place at or through a public livestock market or special sale authorized by chapter 16.65 RCW;
+
+... Each animal is officially identified as provided in (a) of this subsection; and
+
+.. A certificate of permit and a bill of sale listing each animal's green tag accompanies the animal to the buyer's location. These documents do not constitute proof of ownership under this chapter.
+
+.. All fees received under (a) of this subsection, except for the beef commission assessment, must be deposited in the animal disease traceability account in the agricultural local fund created in RCW 43.23.230.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5959-S.SL.pdf?cite=2019%20c%2092%20§%204[2019 c 92 § 4]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5733-S.SL.pdf?cite=2015%20c%20197%20§%202[2015 c 197 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5767-S.SL.pdf?cite=2013%20c%20313%20§%201[2013 c 313 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1538-S.SL.pdf?cite=2011%20c%20204%20§%2013[2011 c 204 § 13]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6299-S.SL.pdf?cite=2010%20c%2066%20§%206[2010 c 66 § 6]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6376.SL.pdf?cite=2006%20c%20156%20§%203[2006 c 156 § 3]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2018[2003 c 326 § 18]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1958-S.SL.pdf?cite=1991%20c%20110%20§%203[1991 c 110 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c296.pdf?cite=1981%20c%20296%20§%2016[1981 c 296 § 16]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c135.pdf?cite=1971%20ex.s.%20c%20135%20§%204[1971 ex.s. c 135 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2016[1959 c 54 § 16]; ]
+
+== 16.57.165 - Agreements with others to perform livestock inspection.
+The director may, in order to reduce the cost of inspection to livestock owners, enter into agreements with any qualified county, municipal, or other local law enforcement agency, or qualified individuals for the purpose of performing livestock inspection in areas where inspection by the director may not readily be available.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2019[2003 c 326 § 19]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c135.pdf?cite=1971%20ex.s.%20c%20135%20§%206[1971 ex.s. c 135 § 6]; ]
+
+== 16.57.170 - Inspection of livestock, hides, records.
+The director may enter at any reasonable time any slaughterhouse or public livestock market to inspect livestock or hides, and may enter at any reasonable time an establishment where hides are held to inspect them for brands or other means of identification. The director may enter any of these premises at any reasonable time to examine all books and records required by law in matters relating to livestock identification. For purposes of this section, "any reasonable time" means during regular business hours or during any working shift.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2020[2003 c 326 § 20]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2017[1959 c 54 § 17]; ]
+
+== 16.57.180 - Search warrants.
+Should the director be denied access to any premises or establishment where access was sought for the purposes set forth in RCW 16.57.170, the director may apply to any court of competent jurisdiction for a search warrant authorizing access to the premises or establishment for those purposes. The court may upon application, issue the search warrant for the purposes requested.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2021[2003 c 326 § 21]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2018[1959 c 54 § 18]; ]
+
+== 16.57.200 - Duty of owner or agent—Livestock inspection.
+Any owner or his or her agent shall make livestock being inspected readily accessible and shall cooperate with the director to carry out the inspection in a safe and expeditious manner.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2022[2003 c 326 § 22]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2020[1959 c 54 § 20]; ]
+
+== 16.57.210 - Arrest without warrant.
+The director shall have authority to arrest without warrant anywhere in the state any person found in the act of, or whom the director has reason to believe is guilty of, transporting, holding, selling, or slaughtering stolen livestock. Any person arrested by the director shall be turned over to the county sheriff or other local law enforcement officer where the arrest was made, as quickly as possible.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2023[2003 c 326 § 23]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2021[1959 c 54 § 21]; ]
+
+== 16.57.220 - Livestock inspection—Fee schedule—Certificates. (Effective until July 1, 2023.)
+. Except as provided for in RCW 16.65.090 and otherwise in this section, the fee for livestock inspection is four dollars per head for cattle and three dollars and eighty-five cents for horses, with a call out fee of twenty dollars.
+
+. When cattle are identified with the owner's brand, electronic official individual identification, or other form of identification specified by the director by rule, the fee for livestock inspection is one dollar and twenty-one cents per head, with a call out fee of twenty dollars.
+
+. No inspection fee is charged for a calf that is inspected before moving out-of-state under an official temporary grazing permit if the calf is part of a cow-calf unit and the calf is identified with the owner's Washington-recorded brand or other form of identification specified by the director by rule.
+
+. The fee for inspection of cattle at a processing plant with a daily capacity of no more than five hundred head of cattle where the United States department of agriculture maintains a meat inspection program is four dollars and forty cents per head, with a call out fee of twenty dollars.
+
+. When a single inspection certificate is issued for thirty or more horses belonging to one person, the fee for livestock inspection is two dollars and twenty cents per head, with a call out fee of twenty dollars.
+
+. The fee for individual identification certificates is twenty-two dollars for an annual certificate and sixty-three dollars for a lifetime certificate, with a call out fee of twenty dollars. However, the fee for an annual certificate listing thirty or more animals belonging to one person is five dollars and fifty cents per head, with a call out fee of twenty dollars. A lifetime certificate shall not be issued until the fee has been paid to the director.
+
+. The minimum fee for the issuance of an inspection certificate by the director is five dollars and fifty cents. The minimum fee does not apply to livestock consigned to a public livestock market or special sale or inspected at a cattle processing plant.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5959-S.SL.pdf?cite=2019%20c%2092%20§%205[2019 c 92 § 5]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6299-S.SL.pdf?cite=2010%20c%2066%20§%207[2010 c 66 § 7]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6376.SL.pdf?cite=2006%20c%20156%20§%201[2006 c 156 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2024[2003 c 326 § 24]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2089-S.SL.pdf?cite=1997%20c%20356%20§%203[1997 c 356 § 3]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2089-S.SL.pdf?cite=1997%20c%20356%20§%202[1997 c 356 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5315-S.SL.pdf?cite=1995%20c%20374%20§%2049[1995 c 374 § 49]; 1995 c 374 § 48; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6463-S.SL.pdf?cite=1994%20c%2046%20§%2025[1994 c 46 § 25]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6463-S.SL.pdf?cite=1994%20c%2046%20§%2019[1994 c 46 § 19]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5443-S.SL.pdf?cite=1993%20c%20354%20§%208[1993 c 354 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c296.pdf?cite=1981%20c%20296%20§%2017[1981 c 296 § 17]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c135.pdf?cite=1971%20ex.s.%20c%20135%20§%205[1971 ex.s. c 135 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c240.pdf?cite=1967%20c%20240%20§%2035[1967 c 240 § 35]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2022[1959 c 54 § 22]; ]
+
+== 16.57.223 - Payment of inspection fee—Due at inspection—Lien—Late fee.
+. Any inspection fee shall be paid to the department by the owner or person in possession of the livestock unless the inspection is requested by the purchaser and then the fee shall be paid by the purchaser.
+
+. Except as provided by rule, the inspection fee is due and payable at the time inspection is performed and shall be paid upon billing by the department and, if not, constitutes a prior lien on the cattle or cattle hides or horses or horse hides inspected until the fee is paid.
+
+. A late fee of one and one-half percent per month shall be assessed on the unpaid balance against persons more than thirty days in arrears.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2025[2003 c 326 § 25]; ]
+
+== 16.57.230 - Charges for livestock inspection—Actual inspection required.
+No person shall collect or make a charge for inspection of livestock unless there has been an actual inspection of the livestock.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2026[2003 c 326 § 26]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5315-S.SL.pdf?cite=1995%20c%20374%20§%2050[1995 c 374 § 50]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2023[1959 c 54 § 23]; ]
+
+== 16.57.240 - Certificates of permit, inspection, self-inspection.
+. Certificates of permit, inspection certificates, and self-inspection certificates meeting the requirements of RCW 16.57.160 shall show the owner, number, breed, sex, brand, or other method of identification of the cattle or horses and any other necessary information required by the director. 
+
+. The director may issue certificate of permit forms to any person on payment of a fee established by rule.
+
+. Certificates of permit, inspection certificates, self-inspection certificates meeting the requirements of RCW 16.57.160, or other satisfactory proof of ownership shall be kept by the owner and/or person in possession of any cattle and shall be furnished to the director or any peace officer upon demand.
+
+. A self-inspection certificate meeting the requirements of RCW 16.57.160 is not valid if proof of ownership had not been provided by the seller to the buyer for cattle bearing brands not recorded to the seller.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6299-S.SL.pdf?cite=2010%20c%2066%20§%208[2010 c 66 § 8]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2027[2003 c 326 § 27]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5315-S.SL.pdf?cite=1995%20c%20374%20§%2051[1995 c 374 § 51]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1958-S.SL.pdf?cite=1991%20c%20110%20§%204[1991 c 110 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c415.pdf?cite=1985%20c%20415%20§%208[1985 c 415 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c296.pdf?cite=1981%20c%20296%20§%2018[1981 c 296 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2024[1959 c 54 § 24]; ]
+
+== 16.57.243 - Moving or transporting cattle—Certificate or proof of ownership must accompany—Exceptions.
+. Cattle may not be moved or transported within Washington state without being accompanied by a certificate of permit, inspection certificate, self-inspection certificate meeting the requirements of RCW 16.57.160, or other satisfactory proof of ownership, except when the cattle are moved or transported:
+
+.. Upon lands under the exclusive control of the person moving or transporting the cattle; or
+
+.. For temporary grazing or feeding purposes and have the recorded brand of the person having or transporting the cattle.
+
+. Certificates of permit, inspection certificates, self-inspection certificates meeting the requirements of RCW 16.57.160, or other satisfactory proof of ownership accompanying cattle being moved or transported within Washington state shall be subject to inspection at any time by the director or any peace officer.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6299-S.SL.pdf?cite=2010%20c%2066%20§%209[2010 c 66 § 9]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2028[2003 c 326 § 28]; ]
+
+== 16.57.245 - Authority to stop vehicles carrying cattle or horses.
+The director or any peace officer may stop vehicles carrying cattle or horses to determine if the livestock being transported are accompanied by a certificate of permit, inspection certificate, self-inspection certificate meeting the requirements of RCW 16.57.010, or other satisfactory proof of ownership, as determined by the director.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6299-S.SL.pdf?cite=2010%20c%2066%20§%2010[2010 c 66 § 10]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2029[2003 c 326 § 29]; ]
+
+== 16.57.260 - Removal of cattle or horses from state—Inspection certificate required.
+It is unlawful for any person to remove or cause to be removed or accept for removal from this state, any cattle or horses which are not accompanied at all times by an inspection certificate on such cattle or horses, except as provided by rule adopted under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2030[2003 c 326 § 30]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c296.pdf?cite=1981%20c%20296%20§%2019[1981 c 296 § 19]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2026[1959 c 54 § 26]; ]
+
+== 16.57.267 - Failure to present animal for inspection.
+It is unlawful for any person to fail to present an animal for inspection at any mandatory inspection point designated by the director by rule under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2031[2003 c 326 § 31]; ]
+
+== 16.57.270 - Unlawful to refuse assistance in establishing identity and ownership of livestock.
+It is unlawful for any person moving or transporting livestock in this state to refuse to assist the director or any peace officer in establishing the identity and ownership of the livestock being moved or transported.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2032[2003 c 326 § 32]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2027[1959 c 54 § 27]; ]
+
+== 16.57.275 - Transporting cattle carcass or primal part—Certificate of permit required.
+Any cattle carcass, or primal part thereof, of any breed or age being transported in this state from other than a state or federal licensed and inspected slaughterhouse or common carrier hauling for the slaughterhouse, shall be accompanied by a certificate of permit signed by the owner of the carcass or primal part thereof and, if the carcass or primal part is delivered to a facility custom handling the carcasses or primal parts thereof, the certificate of permit shall be deposited with the owner or manager of the custom handling facility and the certificate of permit shall be retained for a period of one year and be made available to the department for inspection during regular business hours or any working shift.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2033[2003 c 326 § 33]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c240.pdf?cite=1967%20c%20240%20§%2037[1967 c 240 § 37]; ]
+
+== 16.57.277 - Custom slaughter beef tags—Fee—Rules.
+Any person licensed as a custom farm slaughterer under RCW 16.49.035 shall complete and attach a custom slaughter beef tag to each of the four quarters of all slaughtered cattle handled by the slaughterer. The tags must remain on the quarters until the quarters are cut and wrapped. Only the director may provide custom slaughter beef tags to custom farm slaughterers. The fee for each set of four custom slaughter beef tags is as prescribed in WAC 16-607-100 as it existed on January 1, 2000. The director may, by rule, establish criteria for the use of custom slaughter beef tags.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2377-S.SL.pdf?cite=2000%20c%2099%20§%2014[2000 c 99 § 14]; ]
+
+== 16.57.280 - Possession of cattle or horse marked with another's brand—Penalty.
+. No person shall knowingly have possession of any cattle or horse marked with a recorded brand of another person unless the:
+
+.. Cattle or horse lawfully bears the person's own healed recorded brand;
+
+.. Cattle or horse is accompanied by a certificate of permit from the owner of the recorded brand;
+
+.. Cattle or horse is accompanied by an inspection certificate;
+
+.. Cattle are accompanied by a self-inspection certificate meeting the requirements of RCW 16.57.010;
+
+.. Horse is accompanied by a bill of sale from the previous owner; or
+
+.. Cattle or horse is accompanied by other satisfactory proof of ownership as designated in rule.
+
+. A violation of this section constitutes a gross misdemeanor.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6299-S.SL.pdf?cite=2010%20c%2066%20§%2011[2010 c 66 § 11]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2034[2003 c 326 § 34]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5315-S.SL.pdf?cite=1995%20c%20374%20§%2052[1995 c 374 § 52]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1958-S.SL.pdf?cite=1991%20c%20110%20§%205[1991 c 110 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2028[1959 c 54 § 28]; ]
+
+== 16.57.290 - Impounding cattle and horses—No certificate or proof of ownership when offered for sale—Disposition.
+All cattle and horses that are not accompanied by a certificate of permit, inspection certificate, self-inspection certificate meeting the requirements of RCW 16.57.160, or other satisfactory proof of ownership when offered for sale and presented for inspection by the director, shall be impounded. If theft is suspected, the director shall immediately initiate an investigation. If theft is not suspected, the animal shall be sold and the proceeds retained by the director. Upon the sale of the cattle or horses, the director shall give the purchasers an inspection certificate for the cattle or horses documenting their ownership.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6299-S.SL.pdf?cite=2010%20c%2066%20§%2012[2010 c 66 § 12]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2035[2003 c 326 § 35]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5315-S.SL.pdf?cite=1995%20c%20374%20§%2053[1995 c 374 § 53]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c286.pdf?cite=1989%20c%20286%20§%2023[1989 c 286 § 23]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c296.pdf?cite=1981%20c%20296%20§%2020[1981 c 296 § 20]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c154.pdf?cite=1979%20c%20154%20§%2018[1979 c 154 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c120.pdf?cite=1967%20ex.s.%20c%20120%20§%206[1967 ex.s. c 120 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2029[1959 c 54 § 29]; ]
+
+== 16.57.300 - Proceeds from sale of impounded cattle and horses—Paid to director.
+The proceeds from the sale of cattle and horses when impounded under RCW 16.57.290, after paying the cost thereof, shall be paid to the director, who shall make a record showing the brand or marks or other method of identification of the animals and the amount realized from the sale thereof. However, the proceeds from a sale of the cattle or horses at a licensed public livestock market shall be held by the licensee for a reasonable period not to exceed thirty days to permit the consignor to establish ownership or the right to sell the cattle or horses. If the consignor fails to establish legal ownership or the right to sell the cattle or horses, the proceeds shall be paid to the director to be disposed of as any other estray proceeds.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5767-S.SL.pdf?cite=2013%20c%20313%20§%204[2013 c 313 § 4]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2036[2003 c 326 § 36]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c286.pdf?cite=1989%20c%20286%20§%2024[1989 c 286 § 24]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c296.pdf?cite=1981%20c%20296%20§%2021[1981 c 296 § 21]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2030[1959 c 54 § 30]; ]
+
+== 16.57.310 - Notice of sale—Claim on proceeds.
+When a person has been notified by registered mail that animals bearing the person's recorded brand have been sold by the director, the person shall present to the director a claim on the proceeds within thirty days from the receipt of the notice or the director may decide that no claim exists.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2038[2003 c 326 § 38]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2031[1959 c 54 § 31]; ]
+
+== 16.57.320 - Disposition of proceeds of sale when no proof of ownership—Penalty for accepting proceeds after sale, barter, trade.
+If, after the expiration of one year from the date of sale, the person presenting the animals for inspection has not provided the director with satisfactory proof of ownership, the proceeds from the sale shall be paid on the claim of the owner of the recorded brand. However, it shall be a gross misdemeanor for the owner of the recorded brand to knowingly accept such funds after he or she has sold, bartered or traded such animals to the claimant or any other person.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2039[2003 c 326 § 39]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1958-S.SL.pdf?cite=1991%20c%20110%20§%206[1991 c 110 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2032[1959 c 54 § 32]; ]
+
+== 16.57.330 - Disposition of proceeds of sale—No claim made—No proof of ownership provided.
+If, after the expiration of one year from the date of sale, no claim under RCW 16.57.310 is made or no satisfactory proof of ownership is provided under RCW 16.57.320, the money shall be credited to the department to be expended in carrying out the provisions of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2040[2003 c 326 § 40]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2033[1959 c 54 § 33]; ]
+
+== 16.57.340 - Reciprocal agreements—When livestock from another state an estray, sale.
+The director has the authority to enter into reciprocal agreements with any or all states to prevent the theft, misappropriation, or loss of identification of livestock. The director may declare any livestock which is shipped or moved into this state from those states estrays if the livestock is not accompanied by the proper inspection certificate or other certificates required by the law of the state of origin of the livestock. The director may hold the livestock subject to all costs of holding or sell the livestock and send the funds, after the deduction of the cost of the sale, to the proper authority in the state of origin of the livestock.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2041[2003 c 326 § 41]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2034[1959 c 54 § 34]; ]
+
+== 16.57.350 - Rules—Enforcement of chapter.
+The director may adopt such rules as are necessary to carry out the purposes of this chapter. It shall be the duty of the director to enforce and carry out the provisions of this chapter and/or rules adopted hereunder. No person shall interfere with the director when he or she is performing or carrying out duties imposed on him or her by this chapter and/or rules adopted hereunder.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6463-S.SL.pdf?cite=1994%20c%2046%20§%208[1994 c 46 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2035[1959 c 54 § 35]; ]
+
+== 16.57.353 - Rules—Compliance with federal requirements.
+. The director may adopt rules:
+
+.. To support the agriculture industry in meeting federal requirements for the country-of-origin labeling of meat. Any requirements established under this subsection for country of origin labeling purposes shall be substantially consistent with and shall not exceed the requirements established by the United States department of agriculture; and
+
+.. In consultation with the livestock identification advisory committee under RCW 16.57.015, to implement federal requirements for animal identification needed to trace the source of livestock for disease control and response purposes.
+
+. The director may cooperate with and enter into agreements with other states and agencies of federal government to carry out such systems and to promote consistency of regulation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1371-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2021%20§%2052[2011 1st sp.s. c 21 § 52]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2299-S.SL.pdf?cite=2004%20c%20233%20§%201[2004 c 233 § 1]; ]
+
+== 16.57.360 - Civil infractions—Time and mileage fee.
+. [Empty]
+.. The department is authorized to issue notices of and enforce civil infractions in the manner prescribed under chapter 7.80 RCW.
+
+.. The violation of any provision of this chapter and/or rules adopted under this chapter shall constitute a class 1 civil infraction as provided under chapter 7.80 RCW unless otherwise specified herein.
+
+. The department may charge a time and mileage fee for the cost of an investigation including inspecting animals and related records during an investigation of a proven violation of this chapter. The fee may be up to eighty-five dollars per hour and the current mileage rate set by the office of financial management. The director may increase the hourly fee by rule as necessary to cover costs of investigations. All fees collected pursuant to this subsection shall be deposited in an account in the agricultural local fund and used to carry out the purposes of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1538-S.SL.pdf?cite=2011%20c%20204%20§%2015[2011 c 204 § 15]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2042[2003 c 326 § 42]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1958-S.SL.pdf?cite=1991%20c%20110%20§%207[1991 c 110 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2036[1959 c 54 § 36]; ]
+
+== 16.57.370 - Disposition of fees.
+All fees collected under the provisions of this chapter shall be deposited in an account in the agricultural local fund and used to carry out the purposes of this chapter, except as otherwise provided.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5767-S.SL.pdf?cite=2013%20c%20313%20§%202[2013 c 313 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2043[2003 c 326 § 43]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c54.pdf?cite=1959%20c%2054%20§%2037[1959 c 54 § 37]; ]
+
+== 16.57.400 - Horse and cattle identification—Inspection when consigned for sale.
+Horses and cattle may be identified by individual identification certificates or other means of identification authorized by the director. The certificates or other means of identification are valid only for the use of the owner in whose name it is issued.
+
+Horses and cattle identified pursuant to this section are only subject to inspection when the animal is consigned for sale.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2044[2003 c 326 § 44]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6463-S.SL.pdf?cite=1994%20c%2046%20§%2020[1994 c 46 § 20]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5443-S.SL.pdf?cite=1993%20c%20354%20§%209[1993 c 354 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c296.pdf?cite=1981%20c%20296%20§%2023[1981 c 296 § 23]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c38.pdf?cite=1974%20ex.s.%20c%2038%20§%203[1974 ex.s. c 38 § 3]; ]
+
+== 16.57.405 - Microchip in a horse—Removal with intent to defraud—Gross misdemeanor.
+A person who removes or causes to be removed a microchip implanted in a horse, or who removes or causes to be removed a microchip from one horse and implants or causes it to be implanted in another horse, with the intent to defraud a subsequent purchaser, is guilty of a gross misdemeanor.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6694-S.SL.pdf?cite=1996%20c%20105%20§%202[1996 c 105 § 2]; ]
+
+== 16.57.407 - Microchip in a horse—Authority to investigate removal.
+The department has the authority to conduct an investigation of an incident where scars or other marks indicate that a microchip has been removed from a horse.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6694-S.SL.pdf?cite=1996%20c%20105%20§%203[1996 c 105 § 3]; ]
+
+== 16.57.410 - Horses—Registering agencies—Permit required—Fee—Records—Identification symbol inspections—Rules.
+. No person may act as a registering agency without a permit issued by the director. The director may issue a permit to any person to act as a registering agency for the purpose of issuing permanent identification symbols for horses in a manner prescribed by the director. Application for a permit, or the renewal thereof by January 1 of each year, shall be on a form prescribed by the director, and accompanied by the proof of registration to be issued, any other documents required by the director, and a fee of two hundred and fifty dollars.
+
+. Each registering agency shall maintain a permanent record for each individual identification symbol. The record shall include, but need not be limited to, the name, address, and phone number of the horse owner and a general description of the horse. A copy of each permanent record shall be forwarded to the director, if requested by the director.
+
+. Horses shall be examined for individual identification symbols when presented for inspection.
+
+. The director shall adopt rules necessary to administer this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2045[2003 c 326 § 45]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5443-S.SL.pdf?cite=1993%20c%20354%20§%2011[1993 c 354 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c286.pdf?cite=1989%20c%20286%20§%2025[1989 c 286 § 25]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c296.pdf?cite=1981%20c%20296%20§%2035[1981 c 296 § 35]; ]
+
+== 16.57.420 - Ratite identification.
+The department may, in consultation with representatives of the ratite industry, develop by rule a system that provides for the identification of individual ratites through the use of microchipping. The department may establish fees for the issuance or reissuance of microchipping numbers sufficient to cover the expenses of the department.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5082.SL.pdf?cite=1993%20c%20105%20§%203[1993 c 105 § 3]; ]
+
+== 16.57.430 - Replacement copies of brand inspection documents—Rules—Fees.
+The director may:
+
+. Adopt rules governing issuance of replacement copies of brand inspection documents; and
+
+. Charge a fee of twenty-five dollars for such copies, which may be increased by rule.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6299-S.SL.pdf?cite=2010%20c%2066%20§%2013[2010 c 66 § 13]; ]
+
+== 16.57.440 - Unlawful transport or delivery of cattle or horses.
+It is unlawful for a person to transport or deliver cattle or horses to any destination other than the physical address of the destination designated on an inspection certificate, certificate of permit, or other transportation document when required by law or rule. The director may exempt cattle and horses from this requirement by rule.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1538-S.SL.pdf?cite=2011%20c%20204%20§%2014[2011 c 204 § 14]; ]
+
+== 16.57.450 - Electronic cattle transaction reporting system—License—Fee—Report to the legislature—Adoption of rules.
+. [Empty]
+.. The director may establish an electronic cattle transaction reporting system as a mechanism for reporting transactions involving cattle to the department. The system may be used as an alternative to mandatory inspections under RCW 16.57.160. The system may be used to report the inspection of animals that are being moved out-of-state.
+
+.. A cattle transaction described in (a) of this subsection, that would otherwise trigger a mandatory inspection under rules adopted pursuant to RCW 16.57.160, is eligible to report electronically under this section.
+
+.. Transactions that may be reported electronically include any sale, trade, gift, barter, or any other transaction that constitutes a change of ownership of cattle.
+
+. A person may not electronically report change of ownership transactions involving cattle under this section without first obtaining an electronic cattle transaction reporting license from the director. Applicants for an electronic cattle transaction reporting license must submit an application to the department on a form provided by the department and must include an application fee. The amount of the application fee must be established by the director by rule consistent with subsection (8) of this section.
+
+. All holders of an electronic cattle transaction reporting license must transmit to the department a record of each transaction containing the unique identification of each individual animal included in the transaction as assigned through a department-authorized identification method. The transmission required under this subsection must be completed no more than twenty-four hours after a qualifying transaction involving cattle.
+
+. All holders of an electronic cattle transaction reporting license must keep accurate records of all transactions involving cattle and make those records available for inspection by the department upon reasonable request during normal business hours. All records of the licensed property must be retained for at least three years.
+
+. [Empty]
+.. The director may enter the property of the holder of an electronic cattle transaction reporting license at any reasonable time to conduct examinations and inspections of cattle and any associated records for movement verification purposes. For purposes of this section, "any reasonable time" means during regular business hours or during any working shift.
+
+.. It is unlawful for any person to interfere with an examination and inspection of cattle and records performed under this subsection.
+
+.. If the director is denied access to a property or cattle for the purposes of this subsection, or a person fails to comply with an order of the director, the director may apply to a court of competent jurisdiction for a search warrant. To show that access is denied, the director must file with the court an affidavit or declaration containing a description of all attempts to notify and locate the owner or owner's agent and secure consent.
+
+. [Empty]
+.. The director may deny, suspend, or revoke an electronic cattle transaction reporting license issued under this section if the director finds that an electronic cattle transaction reporting license holder:
+
+... Fails to satisfy the reporting requirements as provided in this section;
+
+... Knowingly makes false or inaccurate statements;
+
+... Has previously had an electronic cattle transaction reporting license revoked;
+
+... Denies entry to property, cattle, or records as provided in subsection (5) of this section; or
+
+.. Violates any other provision of this chapter or any rules adopted under this chapter.
+
+.. Any action taken under this subsection must be consistent with the provisions of chapter 34.05 RCW, the administrative procedure act.
+
+.. If an electronic cattle transaction reporting license is denied, suspended, or revoked, then the mandatory cattle inspection requirements under RCW 16.57.160 apply to any future transactions.
+
+. The department must submit an annual report to the legislature, consistent with RCW 43.01.036, that documents all examinations and inspections of cattle and records of electronic cattle transaction reporting license holders performed by the department either since the department's last report or since the adoption of the electronic cattle transaction reporting system. The annual report must also include details regarding any actions the department took following the examinations and inspections. All reports required under this section must be submitted by July 31st of each year.
+
+. [Empty]
+.. The director may adopt rules:
+
+... Designating the conditions of licensure under this section and the use of the electronic cattle transaction reporting system authorized by this section;
+
+... Establishing an initial application fee and a license renewal fee applicable to the electronic cattle transaction reporting license; and
+
+... Establishing any fees that must be paid by the holder of an electronic cattle transaction reporting license for reporting cattle transactions through the electronic cattle transaction reporting system.
+
+.. All fees established under this section must, as closely as practicable, cover the cost of the development, maintenance, fee collection, and audit and administrative oversight of the electronic cattle transaction reporting system.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5959-S.SL.pdf?cite=2019%20c%2092%20§%206[2019 c 92 § 6]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5733-S.SL.pdf?cite=2015%20c%20197%20§%201[2015 c 197 § 1]; ]
+
+== 16.57.460 - Livestock inspection program report. (Expires July 1, 2023.)
+. The department shall submit a livestock inspection program report pursuant to RCW 43.01.036 by September 1, 2020, and annually thereafter, to the appropriate committees of the legislature having oversight over agriculture and fiscal matters. The report must also be submitted to the livestock identification advisory committee created in RCW 16.57.015. The report must include amounts collected, a report on program expenditures, and any recommendations for making the program more efficient, improving the program, or modifying livestock inspection fees to cover the costs of the program. The report must also address the financial status of the program, including whether there is a need to review fees so that the program continues to be supported by fees.
+
+. This section expires July 1, 2023.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5959-S.SL.pdf?cite=2019%20c%2092%20§%2013[2019 c 92 § 13]; ]
+
+== 16.57.902 - Effective dates—2003 c 326.
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2003, except for sections 4 and 10 of this act which take effect January 1, 2004.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2003%20c%20326%20§%2093[2003 c 326 § 93]; ]
+

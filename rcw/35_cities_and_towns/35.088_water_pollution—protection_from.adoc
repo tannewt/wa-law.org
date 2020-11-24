@@ -1,0 +1,50 @@
+= 35.88 - Water pollution—Protection from.
+:toc:
+
+== 35.88.010 - Authority over sources of supply.
+For the purpose of protecting the water furnished to the inhabitants of cities and towns from pollution, cities and towns are given jurisdiction over all property occupied by the works, reservoirs, systems, springs, branches and pipes, by means of which, and of all the lakes, rivers, springs, streams, creeks, or tributaries constituting the sources of supply from which the cities and towns or the companies or individuals furnishing water to the inhabitants thereof obtain their supply of water, or store or conduct it, and over all property acquired for any of the foregoing works or purposes or for the preservation and protection of the purity of the water supply, and over all property within the areas draining into the lakes, rivers, springs, streams, creeks, or tributaries constituting the sources of supply whether they or any of them are within the city or town limits or outside.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.88.010[1965 c 7 § 35.88.010]; 1907 c 227 § 1, part; 1899 c 70 § 1, part; RRS § 9473, part; ]
+
+== 35.88.020 - Enforcement of ordinance—Special police.
+Every city and town may by ordinance prescribe what acts shall constitute offenses against the purity of its water supply and the punishment or penalties therefor and enforce them. The mayor of each city and town may appoint special police officers, with such compensation as the city or town may fix, who shall, after taking oath, have the powers of constables, and who may arrest with or without warrant any person committing, within the territory over which any city or town is given jurisdiction by this chapter, any offense declared by law or by ordinance, against the purity of the water supply, or which violate any rule or regulation lawfully promulgated by the state board of health for the protection of the purity of such water supply. Every special police officer whose appointment is authorized herein may take any person arrested for any such offense or violation before any court having jurisdiction thereof to be proceeded with according to law. Every such special police officer shall, when on duty wear in plain view a badge or shield bearing the words "special police" and the name of the city or town by which he or she has been appointed.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5063.SL.pdf?cite=2007%20c%20218%20§%2070[2007 c 218 § 70]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.88.020[1965 c 7 § 35.88.020]; 1907 c 227 § 1, part; 1899 c 70 § 1, part; RRS § 9473, part; ]
+
+== 35.88.030 - Pollution declared to be a nuisance—Abatement.
+The establishment or maintenance of any slaughter pens, stock feeding yards, hogpens, or the deposit or maintenance of any uncleanly or unwholesome substance, or the conduct of any business or occupation, or the allowing of any condition upon or sufficiently near the (1) sources from which the supply of water for the inhabitants of any city or town is obtained, or (2) where its water is stored, or (3) the property or means through which the same may be conveyed or conducted so that such water would be polluted or the purity of such water or any part thereof destroyed or endangered, is prohibited and declared to be unlawful, and is declared to constitute a nuisance, and may be abated as other nuisances are abated.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.88.030[1965 c 7 § 35.88.030]; 1899 c 70 § 2, part; RRS § 9474, part; ]
+
+== 35.88.040 - Pollution as criminal nuisance—Punishment.
+Any person who does, establishes, maintains, or creates any of the things which have the effect of polluting any such sources of water supply, or water, and any person who does any of the things in RCW 35.88.030 declared to be unlawful, shall be deemed guilty of creating and maintaining a nuisance, and may be prosecuted therefor, and upon conviction thereof may be fined in any sum not exceeding five hundred dollars.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.88.040[1965 c 7 § 35.88.040]; 1899 c 70 § 2, part; RRS § 9474, part; ]
+
+== 35.88.050 - Prosecution—Trial—Abatement of nuisance.
+If upon the trial of any person for the violation of any of the provisions of this chapter he or she is found guilty of creating or maintaining a nuisance or of violating any of the provisions of this chapter, he or she shall forthwith abate the nuisance, and if he or she fails so to do within one day after such conviction, unless further time is granted by the court, a warrant shall be issued by the court wherein the conviction was obtained, directed to the sheriff of the county in which such nuisance exists and the sheriff shall forthwith proceed to abate the said nuisance and the cost thereof shall be taxed against the person so convicted as a part of the costs of such case.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5038.SL.pdf?cite=2009%20c%20549%20§%202129[2009 c 549 § 2129]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.88.050[1965 c 7 § 35.88.050]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1899c70.pdf?cite=1899%20c%2070%20§%203[1899 c 70 § 3]; RRS § 9475; ]
+
+== 35.88.060 - Health officers and mayor must enforce.
+The city health officer, city physician, board of public health, mayor, or any other officer, who has the sanitary condition of the city or town in charge, shall see that the provisions of this chapter are enforced and upon complaint being made to any such officer of an alleged violation, he or she shall immediately investigate the said complaint and if the same appears to be well-founded he or she shall file a complaint against the person or persons violating any of the provisions of this chapter and cause their arrest and prosecution.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5038.SL.pdf?cite=2009%20c%20549%20§%202130[2009 c 549 § 2130]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.88.060[1965 c 7 § 35.88.060]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1899c70.pdf?cite=1899%20c%2070%20§%204[1899 c 70 § 4]; RRS § 9476; ]
+
+== 35.88.070 - Injunction proceeding.
+If any provision of this chapter is being violated, the city or town supplied with the water or a corporation owning waterworks for the purpose of supplying the city or town or the inhabitants thereof with water may, by civil action in the superior court of the proper county, have the maintenance of the nuisance which pollutes or tends to pollute the said water, enjoined and such injunction may be perpetual.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.88.070[1965 c 7 § 35.88.070]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1899c70.pdf?cite=1899%20c%2070%20§%205[1899 c 70 § 5]; RRS § 9477; ]
+
+== 35.88.080 - Inland cities over one hundred thousand—Discharge of sewage and other discharges prohibited—Nuisance.
+Any city not located on tidewater, having a population of one hundred thousand or more, is hereby prohibited from discharging, draining or depositing, or causing to be discharged, drained or deposited, any sewage, garbage, feculent matter, offal, refuse, filth, or any animal, mineral, or vegetable matter or substance, offensive, injurious or dangerous to health, into any springs, streams, rivers, lakes, tributaries thereof, wells, or into any subterranean or other waters used or intended to be used for human or animal consumption or for domestic purposes.
+
+Anything done, maintained, or suffered, in violation of any of the provisions of this section, shall be deemed to be a public nuisance, and may be summarily abated as such by any court of competent jurisdiction at the suit of the secretary of social and health services or any person whose supply of water for human or animal consumption or for domestic purposes is or may be affected.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c141.pdf?cite=1979%20c%20141%20§%2040[1979 c 141 § 40]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.88.080[1965 c 7 § 35.88.080]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1941c186.pdf?cite=1941%20c%20186%20§%201[1941 c 186 § 1]; Rem. Supp. 1941 § 9354-1.   1941 c 186 § 3; Rem. Supp. 1941 § 9354-3; ]
+
+== 35.88.090 - Inland cities over one hundred thousand—Investigation of disposal systems by secretary of social and health services.
+The secretary of social and health services shall have the power, and it shall be his or her duty, to investigate the system of disposal of sewage, garbage, feculent matter, offal, refuse, filth, or any animal, mineral, or vegetable matter or substance, by cities not located on tidewater, having a population of one hundred thousand or more, and if he or she shall determine upon investigation that any such system or systems of disposal is or may be injurious or dangerous to health, he or she shall have the power, and it shall be his or she duty, to order such city or cities to provide for, construct, and maintain a system or systems of disposal which will not be injurious or dangerous to health.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5038.SL.pdf?cite=2009%20c%20549%20§%202131[2009 c 549 § 2131]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c141.pdf?cite=1979%20c%20141%20§%2041[1979 c 141 § 41]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.88.090[1965 c 7 § 35.88.090]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1941c186.pdf?cite=1941%20c%20186%20§%202[1941 c 186 § 2]; Rem. Supp. 1941 § 9354-2; ]
+

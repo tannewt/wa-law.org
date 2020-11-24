@@ -1,0 +1,147 @@
+= 70A.110 - On-site sewage disposal systems—Marine recovery areas.
+:toc:
+
+== 70A.110.010 - Findings—Purpose.
+The legislature finds that:
+
+. Hood Canal and other marine waters in Puget Sound are at risk of severe loss of marine life from low-dissolved oxygen. The increased input of human-influenced nutrients, especially nitrogen, is a factor causing this low-dissolved oxygen condition in some of Puget Sound's waters, in addition to such natural factors as poor overall water circulation and stratification that discourages mixing of surface-to-deeper waters;
+
+. A significant portion of the state's residents live in homes served by on-site sewage disposal systems, and many new residences will be served by these systems;
+
+. Properly functioning on-site sewage disposal systems largely protect water quality. However, improperly functioning on-site sewage disposal systems in marine recovery areas may contaminate surface water, causing public health problems;
+
+. Local programs designed to identify and correct failing on-site sewage disposal systems have proven effective in reducing and eliminating public health hazards, improving water quality, and reopening previously closed shellfish areas; and
+
+. State water quality monitoring data and analysis can help to focus these enhanced local programs on specific geographic areas that are sources of pollutants degrading Puget Sound waters.
+
+Therefore, it is the purpose of this chapter to authorize enhanced local programs in marine recovery areas to inventory existing on-site sewage disposal systems, to identify the location of all on-site sewage disposal systems in marine recovery areas, to require inspection of on-site sewage disposal systems and repairs to failing systems, to develop electronic data systems capable of sharing information regarding on-site sewage disposal systems, and to monitor these programs to ensure that they are working to protect public health and Puget Sound water quality.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1458-S3.SL.pdf?cite=2006%20c%2018%20§%201[2006 c 18 § 1]; ]
+
+== 70A.110.020 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Board" means the state board of health.
+
+. "Department" means the department of health.
+
+. "Failing" means a condition of an existing on-site sewage disposal system or component that threatens the public health by inadequately treating sewage, or by creating a potential for direct or indirect contact between sewage and the public. Examples of a failing on-site sewage disposal system include:
+
+.. Sewage on the surface of the ground;
+
+.. Sewage backing up into a structure caused by slow soil absorption of septic tank effluent;
+
+.. Sewage leaking from a sewage tank or collection system;
+
+.. Cesspools or seepage pits where evidence of groundwater or surface water quality degradation exists;
+
+.. Inadequately treated effluent contaminating groundwater or surface water; or
+
+.. Noncompliance with standards stipulated on the permit.
+
+. "Local health officer" or "local health jurisdiction" means the local health officers and local health jurisdictions in the following counties bordering Puget Sound: Clallam, Island, Kitsap, Jefferson, Mason, San Juan, Seattle-King, Skagit, Snohomish, Tacoma-Pierce, Thurston, and Whatcom.
+
+. "Marine recovery area" means an area of definite boundaries where the local health officer, or the department in consultation with the health officer, determines that additional requirements for existing on-site sewage disposal systems may be necessary to reduce potential failing systems or minimize negative impacts of on-site sewage disposal systems.
+
+. "Marine recovery area on-site strategy" or "on-site strategy" means a local health jurisdiction's on-site sewage disposal system strategy required under RCW 70A.110.050. This strategy is a component of the on-site program management plan required under RCW 70A.110.030.
+
+. "On-site sewage disposal system" means an integrated system of components, located on or nearby the property it serves, that conveys, stores, treats, or provides subsurface soil treatment and dispersal of sewage. It consists of a collection system, a treatment component or treatment sequence, and a soil dispersal component. An on-site sewage disposal system also refers to a holding tank sewage system or other system that does not have a soil dispersal component. For purposes of this chapter, the term "on-site sewage disposal system" does not include any system regulated by a water quality discharge permit issued under chapter 90.48 RCW.
+
+. "Unknown system" means an on-site sewage disposal system that was installed without the knowledge or approval of the local health jurisdiction, including those that were installed before such approval was required.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201334[2020 c 20 § 1334]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1458-S3.SL.pdf?cite=2006%20c%2018%20§%202[2006 c 18 § 2]; ]
+
+== 70A.110.030 - Local health officers to develop a written on-site program management plan.
+By July 1, 2007, the local health officers of health jurisdictions in the twelve counties bordering Puget Sound shall develop a written on-site program management plan to provide guidance to the local health jurisdiction.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1458-S3.SL.pdf?cite=2006%20c%2018%20§%203[2006 c 18 § 3]; ]
+
+== 70A.110.040 - Local health officers—Determination of marine recovery areas.
+. In developing on-site program management plans required under RCW 70A.110.030, the local health officer shall propose a marine recovery area for those land areas where existing on-site sewage disposal systems are a significant factor contributing to concerns associated with:
+
+.. Shellfish growing areas that have been threatened or downgraded by the department under chapter 69.30 RCW;
+
+.. Marine waters that are listed by the department of ecology under section 303(d) of the federal clean water act (33 U.S.C. Sec. 1251 et seq.) for low-dissolved oxygen or fecal coliform; or
+
+.. Marine waters where nitrogen has been identified as a contaminant of concern by the local health officer.
+
+. In determining the boundaries for a marine recovery area, the local health officer shall assess and include those land areas where existing on-site sewage disposal systems may affect water quality in the marine recovery area.
+
+. Determinations made by the local health officer under this section, including identification of nitrogen as a contaminant of concern, will be based on published guidance developed by the department. The guidance must be designed to ensure the proper use of available scientific and technical data. The health officer shall document the basis for these determinations when plans are submitted to the department.
+
+. After July 1, 2007, the local health officer may designate additional marine recovery areas meeting the criteria of this section, according to new information. Where the department recommends the designation of a marine recovery area or expansion of a designated marine recovery area, the local health officer shall notify the department of its decision concerning the recommendation within ninety days of receipt of the recommendation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201335[2020 c 20 § 1335]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1458-S3.SL.pdf?cite=2006%20c%2018%20§%204[2006 c 18 § 4]; ]
+
+== 70A.110.050 - Marine recovery area on-site strategy.
+. The local health officer of a local health jurisdiction where a marine recovery area has been proposed under RCW 70A.110.040 shall develop and approve a marine recovery area on-site strategy that includes designation of marine recovery areas to guide the local health jurisdiction in developing and managing all existing on-site sewage disposal systems within marine recovery areas within its jurisdiction. The on-site strategy must be a component of the program management plan required under RCW 70A.110.030. The department may grant an extension of twelve months where a local health jurisdiction has demonstrated substantial progress toward completing its on-site strategy.
+
+. An on-site strategy for a marine recovery area must specify how the local health jurisdiction will by July 1, 2012, and thereafter, find:
+
+.. Existing failing systems and ensure that system owners make necessary repairs; and
+
+.. Unknown systems and ensure that they are inspected as required to ensure that they are functioning properly, and repaired, if necessary.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201336[2020 c 20 § 1336]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1458-S3.SL.pdf?cite=2006%20c%2018%20§%205[2006 c 18 § 5]; ]
+
+== 70A.110.060 - Local health officer duties—Electronic data systems.
+In a marine recovery area, each local health officer shall:
+
+. Require that on-site sewage disposal system maintenance specialists, septic tank pumpers, or others performing on-site sewage disposal system inspections submit reports or inspection results to the local health jurisdiction regarding any failing system; and
+
+. Develop and maintain an electronic data system of all on-site sewage disposal systems within a marine recovery area to enable the local health jurisdiction to actively manage on-site sewage disposal systems. In assisting development of electronic data systems, the department shall work with local health jurisdictions with marine recovery areas and the on-site sewage disposal system industry to develop common forms and protocols to facilitate sharing of data. A marine recovery area on-site sewage disposal electronic data system must be compatible with all on-site sewage disposal electronic data systems used throughout a local health jurisdiction.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1458-S3.SL.pdf?cite=2006%20c%2018%20§%206[2006 c 18 § 6]; ]
+
+== 70A.110.070 - Department review of on-site program management plans—Assistance to local health jurisdictions.
+. The on-site program management plans of local health jurisdictions required under RCW 70A.110.030 must be submitted to the department by July 1, 2007, and be reviewed to determine if they contain all necessary elements. The department shall provide in writing to the local board of health its review of the completeness of the plan. The board may adopt additional criteria by rule for approving plans.
+
+. In reviewing the on-site strategy component of the plan, the department shall ensure that all required elements, including designation of any marine recovery area, have been addressed.
+
+. Within thirty days of receiving an on-site strategy, the department shall either approve the on-site strategy or provide in writing the reasons for not approving the strategy and recommend changes. If the department does not approve the on-site strategy, the local health officer must amend and resubmit the plan to the department for approval.
+
+. Upon receipt of department approval or after thirty days without notification, whichever comes first, the local health officer shall implement the on-site strategy.
+
+. If the department denies approval of an on-site strategy, the local health officer may appeal the denial to the board. The board must make a final determination concerning the denial.
+
+. The department shall assist local health jurisdictions in:
+
+.. Developing written on-site program management plans required by RCW 70A.110.030;
+
+.. Identifying reasonable methods for finding unknown systems; and
+
+.. Developing or enhancing electronic data systems that will enable each local health jurisdiction to actively manage all on-site sewage disposal systems within their jurisdictions, with priority given to those on-site sewage disposal systems that are located in or which could affect designated marine recovery areas.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201337[2020 c 20 § 1337]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1458-S3.SL.pdf?cite=2006%20c%2018%20§%207[2006 c 18 § 7]; ]
+
+== 70A.110.080 - Department to contract with local health jurisdictions—Funding assistance—Requirements—Revised compliance dates—Work group.
+. The department shall enter into a contract with each local health jurisdiction subject to the requirements of this chapter to implement plans developed under this chapter, and to develop or enhance electronic data systems required by this chapter. The contract must include state funding assistance to the local health jurisdiction from funds appropriated to the department for this purpose.
+
+. The contract must require, at a minimum, that within a marine recovery area, the local health jurisdiction:
+
+.. Show progressive improvement in finding failing systems;
+
+.. Show progressive improvement in working with on-site sewage disposal system owners to make needed system repairs;
+
+.. Is actively taking steps to find previously unknown systems and ensuring that they are inspected as required and repaired if necessary;
+
+.. Show progressive improvement in the percentage of on-site sewage disposal systems that are included in an electronic data system; and
+
+.. Of those on-site sewage disposal systems in the electronic data system, show progressive improvement in the percentage that have had required inspections.
+
+. The contract must also include provisions for state assistance in updating the plan. Beginning July 1, 2012, the contract may adopt revised compliance dates, including those in RCW 70A.110.050, where the local health jurisdiction has demonstrated substantial progress in updating the on-site strategy.
+
+. The department shall convene a work group for the purpose of making recommendations to the appropriate committees of the legislature for the development of certification or licensing of maintenance specialists. The work group shall make its recommendation with consideration given to the 1998 report to the legislature entitled "On-Site Wastewater Certification Work Group" as it pertains to maintenance specialists. The work group may give priority to appropriate levels of certification or licensure of maintenance specialists who work in the Puget Sound basin.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201338[2020 c 20 § 1338]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1458-S3.SL.pdf?cite=2006%20c%2018%20§%208[2006 c 18 § 8]; ]
+
+== 70A.110.090 - Chapter to supplement chapter  70A.105 RCW.
+The provisions of this chapter are supplemental to all other authorities governing on-site sewage disposal systems, including chapter 70A.105 RCW and rules adopted under that chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201339[2020 c 20 § 1339]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1458-S3.SL.pdf?cite=2006%20c%2018%20§%209[2006 c 18 § 9]; ]
+
+== 70A.110.100 - Self-inspection of systems.
+Nothing in this chapter prohibits a county from relying on self-inspection of on-site sewage systems consistent with RCW 36.70A.690 or eliminates the requirement that counties protect water quality consistent with RCW 36.70A.070 (1) and (5).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1503-S.SL.pdf?cite=2017%20c%20105%20§%202[2017 c 105 § 2]; ]
+

@@ -1,0 +1,161 @@
+= 70A.384 - Radioactive waste act.
+:toc:
+
+== 70A.384.005 - Finding—Purpose.
+The legislature finds that the safe transporting, handling, storage, or otherwise caring for radioactive wastes is required to protect the health, safety, and welfare of the citizens of the state of Washington. It is the purpose of this chapter to establish authority for the state to exercise appropriate oversight and care for the safe management and disposal of radioactive wastes; to consult with the federal government and other states on interim or permanent storage of these radioactive wastes; and to carry out the state responsibilities under the federal nuclear waste policy act of 1982.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c19.pdf?cite=1983%201st%20ex.s.%20c%2019%20§%201[1983 1st ex.s. c 19 § 1]; ]
+
+== 70A.384.010 - Definitions.
+As used in this chapter, the following terms have the meanings indicated unless the context clearly requires otherwise.
+
+. "Commercial low-level radioactive waste disposal facility" has the same meaning as "facility" as defined in RCW 70A.380.010.
+
+. "Department" means the department of ecology.
+
+. "High-level radioactive waste" means "high-level radioactive waste" as the term is defined in 42 U.S.C. Sec. 10101 (P.L. 97-425).
+
+. "Low-level radioactive waste" means waste material that contains radioactive nuclides emitting primarily beta or gamma radiation, or both, in concentrations or quantities that exceed applicable federal or state standards for unrestricted release. Low-level waste does not include waste containing more than one hundred nanocuries of transuranic contaminants per gram of material, nor spent nuclear fuel, nor material classified as either high-level radioactive waste or waste that is unsuited for disposal by near-surface burial under any applicable federal regulations.
+
+. "Radioactive waste" means both high-level and low-level radioactive waste.
+
+. "Spent nuclear fuel" means spent nuclear fuel as the term is defined in 42 U.S.C. Sec. 10101.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201053[2020 c 20 § 1053]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2304.SL.pdf?cite=2012%20c%2019%20§%201[2012 c 19 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c322.pdf?cite=1989%20c%20322%20§%201[1989 c 322 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c293.pdf?cite=1985%20c%20293%20§%201[1985 c 293 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c161.pdf?cite=1984%20c%20161%20§%201[1984 c 161 § 1]; ]
+
+== 70A.384.020 - Participation authority regarding federal statutes—Federal financial assistance.
+The department of ecology is designated as the executive branch agency for participation in the federal nuclear waste policy act of 1982 and the federal low-level radioactive waste policy act of 1980, however the legislature retains an autonomous role with respect to participation in all aspects of the federal nuclear waste policy act of 1982. The department may receive federal financial assistance for carrying out radioactive waste management activities, including assistance for expenses, salaries, travel, and monitoring and evaluating the program of repository exploration and siting undertaken by the federal government.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c322.pdf?cite=1989%20c%20322%20§%202[1989 c 322 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c161.pdf?cite=1984%20c%20161%20§%202[1984 c 161 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c19.pdf?cite=1983%201st%20ex.s.%20c%2019%20§%202[1983 1st ex.s. c 19 § 2]; ]
+
+== 70A.384.030 - Cooperation required.
+All departments, agencies, and officers of this state and its subdivisions shall cooperate with the department of ecology in the furtherance of any of its activities pursuant to this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c322.pdf?cite=1989%20c%20322%20§%203[1989 c 322 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c161.pdf?cite=1984%20c%20161%20§%204[1984 c 161 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c19.pdf?cite=1983%201st%20ex.s.%20c%2019%20§%203[1983 1st ex.s. c 19 § 3]; ]
+
+== 70A.384.040 - Rules.
+The department of ecology shall adopt such rules as are necessary to carry out responsibilities under this chapter. The department of ecology is authorized to adopt such rules as are necessary to carry out its responsibilities under chapter 70A.380 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201054[2020 c 20 § 1054]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c322.pdf?cite=1989%20c%20322%20§%205[1989 c 322 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c2.pdf?cite=1986%20c%202%20§%205[1986 c 2 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c161.pdf?cite=1984%20c%20161%20§%208[1984 c 161 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c19.pdf?cite=1983%201st%20ex.s.%20c%2019%20§%207[1983 1st ex.s. c 19 § 7]; ]
+
+== 70A.384.050 - Additional powers and duties of director—Site closure account—Perpetual surveillance and maintenance account.
+The director of ecology shall, in addition to the powers and duties otherwise imposed by law, have the following special powers and duties:
+
+. To fulfill the responsibilities of the state under the lease between the state of Washington and the federal government executed September 10, 1964, as amended, covering approximately one hundred fifteen acres of land lying within the Hanford reservation near Richland, Washington. The department of ecology may sublease to private or public entities all or a portion of the land for specific purposes or activities which are determined, after public hearing, to be in agreement with the terms of the lease and in the best interests of the citizens of the state consistent with any criteria that may be developed as a requirement by the legislature;
+
+. To assume the responsibilities of the state under the perpetual care agreement between the state of Washington and the federal government executed July 29, 1965, and the sublease between the state of Washington and the site operator of the commercial low-level radioactive waste disposal facility. In order to finance perpetual surveillance and maintenance under the agreement and ensure site closure under the sublease, the department of ecology shall impose and collect fees from parties holding radioactive materials for waste management purposes. The fees shall be established by rule adopted under chapter 34.05 RCW and shall be an amount determined by the department of ecology to be necessary to defray the estimated liability of the state. Such fees shall reflect equity between the disposal facilities of this and other states. A site closure account and a perpetual surveillance and maintenance account are hereby created in the state treasury. Site use permit fees collected by the department of health under RCW 70A.388.060(3) must be deposited in the site closure account and must be used as specified in RCW 70A.388.060(3). Funds in the site closure account other than site use permit fee funds shall be exclusively available to reimburse, to the extent that moneys are available in the account, the site operator for its costs plus a reasonable profit as agreed by the operator and the state, or to reimburse the state licensing agency and any agencies under contract to the state licensing agency for their costs in final closure and decommissioning of the commercial low-level radioactive waste disposal facility. If a balance remains in the account after satisfactory performance of closure and decommissioning, this balance shall be transferred to the perpetual surveillance and maintenance account. The perpetual surveillance and maintenance account shall be used exclusively by the state to meet post-closure surveillance and maintenance costs, or for otherwise satisfying surveillance and maintenance obligations. Appropriations are required to permit expenditures and payment of obligations from the site closure account and the perpetual surveillance and maintenance account. Receipts shall be directed to the site closure account and the perpetual surveillance and maintenance account as specified by the department. Additional moneys specifically appropriated by the legislature or received from any public or private source may be placed in the site closure account and the perpetual surveillance and maintenance account. During the 2003-2005 fiscal biennium, the legislature may transfer up to thirteen million eight hundred thousand dollars from the site closure account to the general fund;
+
+. [Empty]
+.. Subject to the conditions in (b) of this subsection, on July 1, 2008, and each July 1st thereafter, the treasurer shall transfer from the perpetual surveillance and maintenance account to the site closure account the sum of nine hundred sixty-six thousand dollars. The nine hundred sixty-six thousand dollars transferred on July 1, 2009, and thereafter shall be adjusted to a level equal to the percentage increase in the United States implicit price deflator for personal consumption. The last transfer under this section shall occur on July 1, 2033.
+
+.. The transfer in (a) of this subsection shall occur only if written agreement is reached between the state department of ecology and the United States department of energy pursuant to section 6 of the perpetual care agreement dated July 29, 1965, between the United States atomic energy commission and the state of Washington. If agreement cannot be reached between the state department of ecology and the United States department of energy by June 1, 2008, the treasurer shall transfer the funds from the general fund to the site closure account according to the schedule in (a) of this subsection.
+
+.. If for any reason the commercial low-level radioactive waste disposal facility is closed to further disposal operations during or after the 2003-2005 biennium and before 2033, then the amount remaining to be repaid from the 2003-2005 transfer of thirteen million eight hundred thousand dollars from the site closure account shall be transferred by the treasurer from the general fund to the site closure account to fund the closure and decommissioning of the facility. The treasurer shall transfer to the site closure account in full the amount remaining to be repaid upon written notice from the secretary of health that the department of health has authorized closure or that disposal operations have ceased. The treasurer shall complete the transfer within sixty days of written notice from the secretary of health.
+
+.. To the extent that money in the site closure account together with the amount of money identified for repayment to the site closure account, pursuant to (a) through (c) of this subsection, equals or exceeds the cost estimate approved by the department of health for closure and decommissioning of the facility, the money in the site closure account together with the amount of money identified for repayment to the site closure account shall constitute adequate financial assurance for purposes of the department of health financial assurance requirements;
+
+. To assure maintenance of such insurance coverage by state licensees, lessees, or sublessees as will adequately, in the opinion of the director, protect the citizens of the state against nuclear accidents or incidents that may occur on privately or state-controlled nuclear facilities;
+
+. To make application for or otherwise pursue any federal funds to which the state may be eligible, through the federal resource conservation and recovery act or any other federal programs, for the management, treatment or disposal, and any remedial actions, of wastes that are both radioactive and hazardous at all commercial low-level radioactive waste disposal facilities; and
+
+. To develop contingency plans for duties and options for the department and other state agencies related to the commercial low-level radioactive waste disposal facility based on various projections of annual levels of waste disposal. These plans shall include an analysis of expected revenue to the state in various taxes and funds related to low-level radioactive waste disposal and the resulting implications that any increase or decrease in revenue may have on state agency duties or responsibilities. The plans shall be updated annually.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201055[2020 c 20 § 1055]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2304.SL.pdf?cite=2012%20c%2019%20§%202[2012 c 19 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6087.SL.pdf?cite=2003%201st%20sp.s.%20c%2021%20§%201[2003 1st sp.s. c 21 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5915.SL.pdf?cite=1999%20c%20372%20§%2012[1999 c 372 § 12]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1058-S.SL.pdf?cite=1991%20sp.s.%20c%2013%20§%2060[1991 sp.s. c 13 § 60]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c21.pdf?cite=1990%20c%2021%20§%206[1990 c 21 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c418.pdf?cite=1989%20c%20418%20§%202[1989 c 418 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c2.pdf?cite=1986%20c%202%20§%201[1986 c 2 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c19.pdf?cite=1983%201st%20ex.s.%20c%2019%20§%208[1983 1st ex.s. c 19 § 8]; ]
+
+== 70A.384.060 - Waste disposal surcharges and penalty surcharges—Disposition.
+The governor may assess surcharges and penalty surcharges on the disposal of waste at the commercial low-level radioactive waste disposal facility. The surcharges may be imposed up to the maximum extent permitted by federal law. Ten dollars per cubic foot of the moneys received under this section shall be transmitted monthly to the site closure account established under RCW 70A.384.050. The rest of the moneys received under this section shall be deposited in the general fund.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201056[2020 c 20 § 1056]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2304.SL.pdf?cite=2012%20c%2019%20§%203[2012 c 19 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c21.pdf?cite=1990%20c%2021%20§%203[1990 c 21 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c2.pdf?cite=1986%20c%202%20§%203[1986 c 2 § 3]; ]
+
+== 70A.384.070 - Implementation of federal low-level radioactive waste policy amendments of 1985.
+Except as provided in chapter 70A.388 RCW related to administration of a user permit system, the department of ecology shall be the state agency responsible for implementation of the federal low-level radioactive waste policy amendments act of 1985, including:
+
+. Collecting and administering the surcharge assessed by the governor under RCW 70A.384.060;
+
+. Collecting low-level radioactive waste data from disposal facility operators, generators, intermediate handlers, and the federal department of energy;
+
+. Developing and operating a computerized information system to manage low-level radioactive waste data;
+
+. Denying and reinstating access to the commercial low-level radioactive waste disposal facility pursuant to the authority granted under federal law;
+
+. Administering and/or monitoring (a) the maximum waste volume levels for the commercial low-level radioactive waste disposal facility, (b) reactor waste allocations, (c) priority allocations under the Northwest Interstate Compact on Low-Level Radioactive Waste Management, and (d) adherence by other states and compact regions to federal statutory deadlines; and
+
+. Coordinating the state's low-level radioactive waste disposal program with similar programs in other states.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201057[2020 c 20 § 1057]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2304.SL.pdf?cite=2012%20c%2019%20§%204[2012 c 19 § 4]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6219.SL.pdf?cite=1998%20c%20245%20§%2081[1998 c 245 § 81]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c2.pdf?cite=1986%20c%202%20§%204[1986 c 2 § 4]; ]
+
+== 70A.384.080 - Studies on-site closure and perpetual care and maintenance requirements and on adequacy of insurance coverage.
+The department of ecology shall perform studies, by contract or otherwise, to define site closure and perpetual care and maintenance requirements for the commercial low-level radioactive waste disposal facility and to assess the adequacy of insurance coverage for general liability, radiological liability, and transportation liability for the facility.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2304.SL.pdf?cite=2012%20c%2019%20§%205[2012 c 19 § 5]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6219.SL.pdf?cite=1998%20c%20245%20§%2082[1998 c 245 § 82]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c2.pdf?cite=1986%20c%202%20§%206[1986 c 2 § 6]; ]
+
+== 70A.384.090 - Review of potential damage—Financial assurance.
+. The director of the department of ecology may periodically review the potential for bodily injury and property damage arising from the transportation and disposal of commercial low-level radioactive waste under permits issued by the state.
+
+. In making the determination of the appropriate level of financial assurance, the director shall consider:
+
+.. The nature and purpose of the activity and its potential for injury and damages to or claims against the state and its citizens;
+
+.. The current and cumulative manifested volume and radioactivity of waste being packaged, transported, buried, or otherwise handled;
+
+.. The location where the waste is being packaged, transported, buried, or otherwise handled, including the proximity to the general public and geographic features such as geology and hydrology, if relevant; and
+
+.. The legal defense cost, if any, that will be paid from the required financial assurance amount.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2304.SL.pdf?cite=2012%20c%2019%20§%206[2012 c 19 § 6]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6219.SL.pdf?cite=1998%20c%20245%20§%2083[1998 c 245 § 83]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2873-S.SL.pdf?cite=1992%20c%2061%20§%201[1992 c 61 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c82.pdf?cite=1990%20c%2082%20§%201[1990 c 82 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c191.pdf?cite=1986%20c%20191%20§%201[1986 c 191 § 1]; ]
+
+== 70A.384.100 - Site closure fee—Generally.
+Beginning January 1, 1993, the department of ecology may impose a reasonable site closure fee if necessary to be deposited in the site closure account established under RCW 70A.384.050. The department may continue to collect moneys for the site closure account until the account contains an amount sufficient to complete the closure plan, as specified in the radioactive materials license issued by the department of health.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201058[2020 c 20 § 1058]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c21.pdf?cite=1990%20c%2021%20§%204[1990 c 21 § 4]; ]
+
+== 70A.384.110 - Fees for waste generators.
+The director of the department of ecology shall require that generators of waste pay a fee for each cubic foot of waste disposed at any facility in the state equal to six dollars and fifty cents. The fee shall be imposed specifically on the generator of the waste and shall not be considered to apply in any way to the low-level site operator's disposal activities. The fee shall be allocated in accordance with RCW 70A.384.120 and 70A.384.130. Failure to comply with this section may result in denial or suspension of the generator's site use permit pursuant to RCW 70A.388.060.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201059[2020 c 20 § 1059]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2304.SL.pdf?cite=2012%20c%2019%20§%207[2012 c 19 § 7]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5756-S.SL.pdf?cite=1991%20c%20272%20§%2016[1991 c 272 § 16]; ]
+
+== 70A.384.120 - Waste generator surcharge remittal to counties.
+A portion of the surcharge received under RCW 70A.384.110 shall be remitted monthly to the county in which the low-level radioactive waste disposal facility is located in the following manner:
+
+. During 1993, six dollars and fifty cents per cubic foot of waste;
+
+. During 1994, three dollars and twenty-five cents per cubic foot of waste; and
+
+. During 1995 and thereafter, two dollars per cubic foot of waste.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201060[2020 c 20 § 1060]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5756-S.SL.pdf?cite=1991%20c%20272%20§%2017[1991 c 272 § 17]; ]
+
+== 70A.384.130 - Disposal of waste generator surcharges.
+Except for moneys that may be remitted to a county in which a low-level radioactive waste disposal facility is located, all surcharges authorized under RCW 70A.384.110 shall be deposited in the fund created in RCW 43.31.422.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201061[2020 c 20 § 1061]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5756-S.SL.pdf?cite=1991%20c%20272%20§%2018[1991 c 272 § 18]; ]
+
+== 70A.384.900 - Construction of chapter.
+The rules of strict construction do not apply to this chapter and it shall be liberally construed in order to carry out the objective for which it is designed, in accordance with the legislative intent to give the board the maximum possible freedom in carrying the provisions of this chapter into effect.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c161.pdf?cite=1984%20c%20161%20§%2015[1984 c 161 § 15]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c19.pdf?cite=1983%201st%20ex.s.%20c%2019%20§%2010[1983 1st ex.s. c 19 § 10]; ]
+
+== 70A.384.901 - Conflict with federal requirements—1983 1st ex.s. c 19.
+If any part of this act shall be found to be in conflict with federal requirements which are a prescribed condition to the allocation of federal funds to the state, such conflicting part of this act is hereby declared to be inoperative solely to the extent of such conflict and with respect to the agencies directly affected, and such finding or determination shall not affect the operation of the remainder of this act in its application to the agencies concerned. The rules and regulations under this act shall meet federal requirements which are a necessary condition to the receipt of federal funds by the state.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c19.pdf?cite=1983%201st%20ex.s.%20c%2019%20§%2011[1983 1st ex.s. c 19 § 11]; ]
+
+== 70A.384.902 - Construction—1986 c 191.
+The provisions of this act shall not have the effect of reducing the level of liability coverage required under any law, regulation, or contract of the state before December 31, 1987, or the effective date of the first determination made pursuant to RCW 70A.384.090, if earlier.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201062[2020 c 20 § 1062]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c191.pdf?cite=1986%20c%20191%20§%204[1986 c 191 § 4]; ]
+
+== 70A.384.903 - Transfer of site use permit program from the department of ecology to the department of health.
+. The site use permit program is transferred from the department of ecology to the department of health.
+
+. [Empty]
+.. All reports, documents, surveys, books, records, files, papers, or written material in the possession of the department of ecology site use permit program shall be delivered to the custody of the department of health. All funds, credits, or other assets held by the department of ecology site use permit program shall be assigned to the department of health.
+
+.. Any appropriations made to the department of ecology for the site use permit program shall be transferred and credited to the department of health.
+
+. All rules of the department of ecology site use permit program shall be continued and acted upon by the department of health until new rules are adopted under RCW 70A.388.060. All permit applications and pending business before the department of ecology site use permit program shall be continued and acted upon by the department of health. All existing contracts and obligations shall remain in full force and shall be performed by the department of health.
+
+. The transfer of the powers, duties, functions, and personnel of the department of ecology site use permit program to the department of health under chapter 19, Laws of 2012 shall not affect the validity of any activity performed before July 1, 2012.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201063[2020 c 20 § 1063]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2304.SL.pdf?cite=2012%20c%2019%20§%2014[2012 c 19 § 14]; ]
+

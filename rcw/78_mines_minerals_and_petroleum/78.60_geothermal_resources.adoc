@@ -1,0 +1,256 @@
+= 78.60 - Geothermal resources.
+:toc:
+
+== 78.60.010 - Legislative declaration.
+The public has a direct interest in the safe, orderly, and nearly pollution-free development of the geothermal resources of the state, as defined in RCW 78.60.030. The legislature hereby declares that it is in the best interests of the state to further the development of geothermal resources for the benefit of all of the citizens of the state while at the same time fully providing for the protection of the environment. The development of geothermal resources shall be so conducted as to protect the rights of landowners, other owners of interests therein, and the general public. In providing for such development, it is the purpose of this chapter to provide for the orderly exploration, safe drilling, production, and proper abandonment of geothermal resources in the state of Washington.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5470-S.SL.pdf?cite=2017%20c%20259%20§%201[2017 c 259 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%201[1974 ex.s. c 43 § 1]; ]
+
+== 78.60.020 - Short title.
+This chapter shall be known as the Geothermal Resources Act.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%202[1974 ex.s. c 43 § 2]; ]
+
+== 78.60.030 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "By-product" means any mineral or minerals, not including oil, hydrocarbon gas, or helium, which are found in solution or in association with geothermal steam and that have a value of less than seventy-five percent of the value of the geothermal resource or are not, because of quantity, quality, or technical difficulties in extraction and production, of sufficient value to warrant extraction and production by themselves.
+
+. A "completed well" is a well that has been drilled to its total depth, has been adequately cased, and is ready to be either plugged and abandoned, shut-in, or put into production.
+
+. "Core holes" are holes drilled or excavations made expressly for the acquisition of geological or geophysical data for the purpose of finding and delineating a favorable geothermal area prior to the drilling of a well.
+
+. "Department" means the department of natural resources.
+
+. "Energy transfer system" means the structures and enclosed fluids which facilitate the utilization of geothermal energy. The system includes the geothermal wells, cooling towers, reinjection wells, equipment directly involved in converting the heat energy associated with geothermal resources to mechanical or electrical energy or in transferring it to another fluid, the closed piping between such equipment, wells and towers and that portion of the earth which facilitates the transfer of a fluid from reinjection wells to geothermal wells: PROVIDED, That the system shall not include any geothermal resources which have escaped into or have been released into the nongeothermal ground or surface waters from either man-made containers or through leaks in the structure of the earth caused by or to which access was made possible by any drilling, redrilling, reworking or operating of a geothermal or reinjection well.
+
+. "Geothermal area" means any land that is, or reasonably appears to be, underlain by geothermal resources.
+
+. [Empty]
+.. "Geothermal resources" includes the natural heat of the earth, the energy, in whatever form, below the surface of the earth present in, resulting from, or created by, or that may be extracted from, the natural heat, and all minerals in solution or other products obtained from naturally heated fluids, brines, associated gases and steam, in whatever form, found below the surface of the earth, exclusive of helium or oil, hydrocarbon gas or other hydrocarbon substances, but including, specifically:
+
+... All products of geothermal processes, including indigenous steam, and hot water and hot brines;
+
+... Steam and other bases, hot water and hot brines resulting from water, gas, or other fluids artificially introduced into geothermal formations;
+
+... Heat or other associated energy found in geothermal formations; and
+
+... Any by-product derived from them.
+
+.. "Geothermal resources" does not include heat energy used in ground source heat exchange systems for ground source heat pumps.
+
+. "Operator" means the person supervising or in control of the operation of a geothermal resource well, whether or not such person is the owner of the well.
+
+. "Owner" means the person who possesses the legal right to drill, convert or operate any well or other facility subject to the provisions of this chapter.
+
+. "Person" means any individual, corporation, company, association of individuals, joint venture, partnership, receiver, trustee, guardian, executor, administrator, personal representative, or public agency that is the subject of legal rights and duties.
+
+. "Plug and abandon" means to place permanent plugs in the well in such a way and at such intervals as are necessary to prevent future leakage of fluid from the well to the surface or from one zone in the well to the other, and to remove all drilling and production equipment from the site, and to restore the surface of the site to its natural condition or contour or to such condition as may be prescribed by the department.
+
+. "Pollution" means any damage or injury to ground or surface waters, soil or air resulting from the unauthorized loss, escape, or disposal of any substances at any well subject to the provisions of this chapter.
+
+. "Shut-in" means to adequately cap or seal a well to control the contained geothermal resources for an interim period.
+
+. "Waste," in addition to its ordinary meaning, shall mean "physical waste" as that term is generally understood and shall include:
+
+.. The inefficient, excessive, or improper use of, or unnecessary dissipation of, reservoir energy; or the locating, spacing, drilling, equipping, operating or producing of any geothermal energy well in a manner which results, or tends to result, in reducing the quantity of geothermal energy to be recovered from any geothermal area in this state;
+
+.. The inefficient above-ground transporting or storage of geothermal energy; or the locating, spacing, drilling, equipping, operating, or producing of any geothermal well in a manner causing, or tending to cause, unnecessary excessive surface loss or destruction of geothermal energy;
+
+.. The escape into the open air, from a well of steam or hot water, in excess of what is reasonably necessary in the efficient development or production of a geothermal well.
+
+. "Well" means any excavation made for the discovery or production of geothermal resources, or any special facility, converted producing facility, or reactivated or converted abandoned facility used for the reinjection of geothermal resources, or the residue thereof underground.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5369-S.SL.pdf?cite=2013%20c%20274%20§%202[2013 c 274 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%203[1974 ex.s. c 43 § 3]; ]
+
+== 78.60.040 - Geothermal resources deemed sui generis.
+Notwithstanding any other provision of law, geothermal resources are found and hereby determined to be sui generis, being neither a mineral resource nor a water resource and as such are declared to be the private property of the holder of the title to the surface land above the resource, unless the geothermal resources have been otherwise reserved by or conveyed to another person or entity. Nothing in this section divests the people of the state of any rights, title, or interest in geothermal resources owned by the state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5369-S.SL.pdf?cite=2013%20c%20274%20§%203[2013 c 274 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c2.pdf?cite=1979%20ex.s.%20c%202%20§%201[1979 ex.s. c 2 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%204[1974 ex.s. c 43 § 4]; ]
+
+== 78.60.050 - Administration of chapter.
+. The department shall administer and enforce the provisions of this chapter and the rules, regulations, and orders relating to the drilling, operation, maintenance, abandonment and restoration of geothermal areas, to prevent damage to and waste from underground geothermal deposits, and to prevent damage to underground and surface waters, land or air that may result from improper drilling, operation, maintenance or abandonment of geothermal resource wells.
+
+. In order to implement the terms and provisions of this chapter, the department under the provisions of chapter 34.05 RCW, as now or hereafter amended, may from time to time promulgate those rules and regulations necessary to carry out the purposes of this chapter, including but not restricted to defining geothermal areas; establishing security requirements, which may include bonding; providing for liens against production; providing for casing and safety device requirements; providing for site restoration plans to be completed prior to abandonment; and providing for abandonment requirements.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%205[1974 ex.s. c 43 § 5]; ]
+
+== 78.60.060 - Scope of chapter.
+. This chapter is intended to preempt local regulation of the drilling and operation of wells for geothermal resources but shall not be construed to permit the locating of any well or drilling when such well or drilling is prohibited under state or local land use law or regulations promulgated thereunder. Geothermal resources, by-products, or waste products which have escaped or been released from the energy transfer system or a mineral recovery process shall be subject to provisions of state law relating to the pollution of ground or surface waters (Title 90 RCW), provisions of the state fisheries law and the state game laws (Title 77 RCW), and any other state environmental pollution control laws.
+
+. Authorization for a consumptive or nonconsumptive use of water associated with a geothermal well, for purposes including but not limited to power production, greenhouse heating, warm water fish propagation, space heating plants, irrigation, swimming pools, and hot springs baths, shall be subject to the appropriation procedure as provided in Title 90 RCW, except for the following:
+
+.. Water that is removed from an aquifer or geothermal reservoir to develop and obtain geothermal resources if the water is returned to or reinjected into the same aquifer or reservoir; or
+
+.. The reasonable loss of water:
+
+... During a test of a geothermal well; or
+
+... From the temporary failure of all or part of a system that removes water from an aquifer or geothermal reservoir, transfers the heat from that water, and reinjects that water into the same aquifer or reservoir.
+
+. The department and the department of ecology shall cooperate to avoid duplication and to promote efficiency in issuing permits and other approvals for these uses.
+
+. Nothing in chapter 274, Laws of 2013 shall affect or operate to impair any existing water rights.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5369-S.SL.pdf?cite=2013%20c%20274%20§%204[2013 c 274 § 4]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5172.SL.pdf?cite=2003%20c%2039%20§%2040[2003 c 39 § 40]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%206[1974 ex.s. c 43 § 6]; ]
+
+== 78.60.070 - Drilling permits—Applications—Hearing—Fees.
+. Any person proposing to drill a well or redrill an abandoned well for geothermal resources shall file with the department a written application for a permit to commence such drilling or redrilling on a form prescribed by the department accompanied by a permit fee of two hundred dollars. The department shall forward a duplicate copy to the department of ecology within ten days of filing.
+
+. Upon receipt of a proper application relating to drilling or redrilling the department shall set a date, time, and place for a public hearing on the application. The public hearing on the drilling application shall be in the county in which the drilling or redrilling is proposed to be made.
+
+. Any person proposing to drill a core hole for the purpose of gathering geothermal data, including but not restricted to heat flow, temperature gradients, and rock conductivity, shall be required to obtain a single permit covering all core holes according to subsection (1) of this section, including a single permit fee. Such core holes as described by this subsection are not required to be the subject of a public hearing but are subject to all other provisions of this chapter, including a bond or other security as specified in RCW 78.60.130.
+
+. All moneys paid to the department under this section shall be deposited with the state treasurer for credit to the general fund.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5470-S.SL.pdf?cite=2017%20c%20259%20§%202[2017 c 259 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2129-S.SL.pdf?cite=2007%20c%20338%20§%201[2007 c 338 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%207[1974 ex.s. c 43 § 7]; ]
+
+== 78.60.080 - Drilling permits—Criteria for granting.
+A permit shall be granted only if the department is satisfied that the area is suitable for the activities applied for; that the applicant will be able to comply with the provisions of this chapter and the rules and regulations enacted hereunder; and that a permit would be in the best interests of the state.
+
+The department shall not allow operation of a well under permit if it finds that the operation of any well will unreasonably decrease groundwater available for prior water rights in any aquifer or other groundwater source for water for beneficial uses, unless such affected water rights are acquired by condemnation, purchase or other means.
+
+The department shall have the authority to condition the permit as it deems necessary to carry out the provisions of this chapter, including but not limited to conditions to reduce any environmental impact.
+
+The department shall forward a copy of the permit to the department of ecology within five days of issuance.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%208[1974 ex.s. c 43 § 8]; ]
+
+== 78.60.090 - Casing requirements.
+Any operator engaged in drilling or operating a well for geothermal resources shall equip such well with casing of sufficient strength and with such safety devices as may be necessary, in accordance with methods approved by the department.
+
+No person shall remove a casing, or any portion thereof, from any well without prior approval of the department.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%209[1974 ex.s. c 43 § 9]; ]
+
+== 78.60.100 - Plugging and abandonment of wells or core holes—Transfer of jurisdiction to department of ecology.
+Any well or core hole drilled under authority of this chapter from which:
+
+. It is not technologically practical to derive the energy to produce electricity commercially, or the owner or operator has no intention of deriving energy to produce electricity commercially, and
+
+. Usable minerals cannot be derived, or the owner or operator has no intention of deriving usable minerals, shall be plugged and abandoned as provided in this chapter or, upon the owner's or operator's written application to the department of natural resources and with the concurrence and approval of the department of ecology, jurisdiction over the well may be transferred to the department of ecology and, in such case, the well shall no longer be subject to the provisions of this chapter but shall be subject to any applicable laws and rules relating to wells drilled for appropriation and use of groundwaters. If an application is made to transfer jurisdiction, a copy of all logs, records, histories, and descriptions shall be provided to the department of ecology by the applicant.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2129-S.SL.pdf?cite=2007%20c%20338%20§%202[2007 c 338 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%2010[1974 ex.s. c 43 § 10]; ]
+
+== 78.60.110 - Suspension of drilling, shut-in or removal of equipment for authorized period—Unlawful abandonment.
+. The department may authorize the operator to suspend drilling operations, shut-in a completed well, or remove equipment from a well for the period stated in the department's written authorization. The period of suspension may be extended by the department upon the operator showing good cause for the granting of such extension.
+
+. If drilling operations are not resumed by the operator, or the well is not put into production, upon expiration of the suspension or shut-in permit, an intention to unlawfully abandon shall be presumed.
+
+. A well shall also be deemed unlawfully abandoned if, without written approval from the department, drilling equipment is removed.
+
+. An unlawful abandonment under this chapter shall be entered in the department records and written notice thereof shall be mailed by registered mail both to such operator at his or her last known address as disclosed by records of the department and to the operator's surety. The department may thereafter proceed against the operator and his or her surety.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5077-S.SL.pdf?cite=2013%20c%2023%20§%20254[2013 c 23 § 254]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%2011[1974 ex.s. c 43 § 11]; ]
+
+== 78.60.120 - Notification of abandonment or suspension of operations—Required—Procedure.
+. Before any operation to plug and abandon or suspend the operation of any well is commenced, the owner or operator shall submit in writing a notification of abandonment or suspension of operations to the department for approval. No operation to abandon or suspend the operation of a well shall commence without approval by the department. The department shall respond to such notification in writing within ten working days following receipt of the notification.
+
+. Failure to abandon or suspend operations in accordance with the method approved by the department shall constitute a violation of this chapter, and the department shall take appropriate action under the provisions of RCW 78.60.270.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5470-S.SL.pdf?cite=2017%20c%20259%20§%203[2017 c 259 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%2012[1974 ex.s. c 43 § 12]; ]
+
+== 78.60.130 - Performance bond or other security—Required.
+Every operator who engages in the drilling, redrilling, or deepening of any well or core hole shall file with the department a reasonable bond or bonds with good and sufficient surety, or the equivalent thereof, acceptable to the department, conditioned on compliance with the provisions of this chapter and all rules and permit conditions adopted pursuant to this chapter. This performance bond shall be executed in favor of and approved by the department.
+
+In lieu of a bond the operator may file with the department a cash deposit, negotiable securities acceptable to the department, or an assignment of a savings account in a Washington bank on an assignment form prescribed by the department. The department, in its discretion, may accept a single surety or security arrangement covering more than one well or core hole.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2129-S.SL.pdf?cite=2007%20c%20338%20§%203[2007 c 338 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%2013[1974 ex.s. c 43 § 13]; ]
+
+== 78.60.140 - Termination or cancellation of bond or change in other security, when.
+The department shall not consent to the termination and cancellation of any bond by the operator, or change as to other security given, until the well or wells for which it has been issued have been properly abandoned or another valid bond for such well has been submitted and approved by the department. A well is properly abandoned when abandonment has been approved by the department.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%2014[1974 ex.s. c 43 § 14]; ]
+
+== 78.60.150 - Notification of sale, exchange, etc.
+The owner or operator of a well shall notify the department in writing within ten days of any sale, assignment, conveyance, exchange, or transfer of any nature which results in any change or addition in the owner or operator of the well on such forms with such information as may be prescribed by the department.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%2015[1974 ex.s. c 43 § 15]; ]
+
+== 78.60.160 - Combining orders, unitization programs and well spacing—Authority of department.
+The department has the authority, through rules and regulations, to promulgate combining orders, unitization programs, and well spacing, and establish proportionate costs among owners or operators for the operation of such units as the result of said combining orders, if good and sufficient reason is demonstrated that such measures are necessary to prevent the waste of geothermal resources.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%2016[1974 ex.s. c 43 § 16]; ]
+
+== 78.60.170 - Designation of resident agent for service of process.
+Each owner or operator of a well shall designate a person who resides in this state as his or her agent upon whom may be served all legal processes, orders, notices, and directives of the department or any court.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5077-S.SL.pdf?cite=2013%20c%2023%20§%20255[2013 c 23 § 255]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%2017[1974 ex.s. c 43 § 17]; ]
+
+== 78.60.180 - General authority of department.
+The department shall have the authority to conduct or authorize investigations, research, experiments, and demonstrations, cooperate with other governmental and private agencies in making investigations, receive any federal funds, state funds, and other funds and expend them on research programs concerning geothermal resources and their potential development within the state, and to collect and disseminate information relating to geothermal resources in the state: PROVIDED, That the department shall not construct or operate commercial geothermal facilities.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%2018[1974 ex.s. c 43 § 18]; ]
+
+== 78.60.190 - Employment of personnel.
+The department shall have the authority, and it shall be its duty, to employ all personnel necessary to carry out the provisions of this chapter pursuant to chapter 41.06 RCW.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%2019[1974 ex.s. c 43 § 19]; ]
+
+== 78.60.200 - Drilling records, etc., to be maintained—Inspection—Filing.
+. The owner or operator of any well or core hole shall keep or cause to be kept careful and accurate logs, including but not restricted to heat flow, temperature gradients, and rock conductivity logs, records, descriptions, and histories of the drilling, redrilling, or deepening of the well.
+
+. All logs, including but not restricted to heat flow, temperature gradients, and rock conductivity logs, records, histories, and descriptions referred to in subsection (1) of this section shall be kept in the local office of the owner or operator, and together with other reports of the owner or operator shall be subject during business hours to inspection by the department. Each owner or operator, upon written request from the department, shall file with the department one paper and one electronic copy of the logs, including but not restricted to heat flow, temperature gradients, and rock conductivity logs, records, histories, descriptions, or other records or portions thereof pertaining to the geothermal drilling or operation underway or suspended.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2129-S.SL.pdf?cite=2007%20c%20338%20§%204[2007 c 338 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%2020[1974 ex.s. c 43 § 20]; ]
+
+== 78.60.210 - Filing of logs and surveys with department upon completion, plugging, abandonment, or suspension of operations.
+Upon completion or plugging and abandonment of any well or core hole or upon the suspension of operations conducted with respect to any well or core hole for a period of at least six months, one paper and one electronic copy of logs, including but not restricted to heat flow, temperature gradients, and rock conductivity logs, core, electric log, history, and all other logs and surveys that may have been run on the well, shall be filed with the department within thirty days after such completion, plugging and abandonment, or six months' suspension.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2129-S.SL.pdf?cite=2007%20c%20338%20§%205[2007 c 338 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%2021[1974 ex.s. c 43 § 21]; ]
+
+== 78.60.220 - Statement of geothermal resources produced—Filing.
+The owner or operator of any well producing geothermal resources shall file with the department a statement of the geothermal resources produced. Such report shall be submitted on such forms and in such manner as may be prescribed by the department.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%2022[1974 ex.s. c 43 § 22]; ]
+
+== 78.60.230 - Confidentiality of records—Preservation in an electronic data system.
+. The records of any owner or operator, when filed with the department as provided in this chapter, shall be confidential and shall be open to inspection only to personnel of the department for the purpose of carrying out the provisions of this chapter and to those authorized in writing by such owner or operator, until the expiration of a twenty-four month confidential period to begin at the date of commencement of production or of abandonment of the well or core hole. After expiration of the twenty-four month confidential period, the department shall ensure all logs and surveys that may have been run on the well or core hole are preserved in an electronic data system and made available to the public.
+
+. Such records shall in no case, except as provided in this chapter, be available as evidence in court proceedings. No officer, employee, or member of the department shall be allowed to give testimony as to the contents of such records, except as provided in this chapter for the review of a decision of the department or in any proceeding initiated for the enforcement of an order of the department, for the enforcement of a lien created by the enforcement of this chapter, or for use as evidence in criminal proceedings arising out of such records or the statements upon which they are based.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2129-S.SL.pdf?cite=2007%20c%20338%20§%206[2007 c 338 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%2023[1974 ex.s. c 43 § 23]; ]
+
+== 78.60.240 - Removal, destruction, alteration, etc., of records prohibited.
+No person shall, for the purpose of evading the provision of this chapter or any rule, regulation or order of the department made thereunder, remove from this state, or destroy, mutilate, alter or falsify any such record, account, or writing.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%2024[1974 ex.s. c 43 § 24]; ]
+
+== 78.60.250 - Violations—Modification of permit, when necessary—Departmental order—Issuance—Appeal.
+Whenever it appears with probable cause to the department that:
+
+. A violation of any provision of this chapter, regulation adopted pursuant thereto, or condition of a permit issued pursuant to this chapter has occurred or is about to occur, or
+
+. That a modification of a permit is deemed necessary to carry out the purpose of this chapter,
+
+the department shall issue a written order in person to the operator or his or her employees or agents, or by certified mail, concerning the drilling, testing, or other operation conducted with respect to any well drilled, in the process of being drilled, or in the process of being abandoned or in the process of reclamation or restoration, and the operator, owner, or designated agent of either shall comply with the terms of the order and may appeal from the order in the manner provided for in RCW 78.60.280. When the department deems necessary, the order may include a shutdown order to remain in effect until the deficiency is corrected.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5077-S.SL.pdf?cite=2013%20c%2023%20§%20256[2013 c 23 § 256]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%2025[1974 ex.s. c 43 § 25]; ]
+
+== 78.60.260 - Liability in damages for violations—Procedure.
+Any person who violates any of the provisions of this chapter, or fails to perform any duty imposed by this chapter, or violates an order or other determination of the department made pursuant to the provisions of this chapter, and in the course thereof causes the death of, or injury to, fish, animals, vegetation or other resources of the state, shall be liable to pay the state damages including an amount equal to the sum of money necessary to restock such waters, replenish such resources, and otherwise restore the stream, lake, other water source, or land to its condition prior to the injury, as such condition is determined by the department. Such damages shall be recoverable in an action brought by the attorney general on behalf of the people of the state of Washington in the superior court of the county in which such damages occurred: PROVIDED, That if damages occurred in more than one county the attorney general may bring action in any of the counties where the damage occurred. Any moneys so recovered by the attorney general shall be transferred to the department under whose jurisdiction the damaged resource occurs, for the purposes of restoring the resource.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%2026[1974 ex.s. c 43 § 26]; ]
+
+== 78.60.270 - Injunctions—Restraining orders.
+Whenever it shall appear that any person is violating any provision of this chapter, or any rule, regulation, or order made by the department hereunder, and if the department cannot, without litigation, effectively prevent further violation, the department may bring suit in the name of the state against such person in the court in the county of the residence of the defendant, or in the county of the residence of any defendant if there be more than one defendant, or in the county where the violation is alleged to have occurred, to restrain such person from continuing such violation. In such suit the department may, without bond, obtain injunctions prohibitory and mandatory, including temporary restraining orders and preliminary injunctions, as the facts may warrant.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%2027[1974 ex.s. c 43 § 27]; ]
+
+== 78.60.280 - Judicial review.
+. Any person adversely affected by any rule, regulation, order, or permit entered by the department pursuant to this chapter may obtain judicial review thereof in accordance with the applicable provisions of chapter 34.05 RCW.
+
+. The court having jurisdiction, insofar as is practicable, shall give precedence to proceedings for judicial review brought under this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%2028[1974 ex.s. c 43 § 28]; ]
+
+== 78.60.290 - Violations—Penalty.
+Violation of any provision of this chapter or of any rule, regulation, order of the department, or condition of any permit made hereunder is a gross misdemeanor punishable, upon conviction, by a fine of not more than two thousand five hundred dollars or by imprisonment in the county jail for not more than six months, or both.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%20381[2003 c 53 § 381]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%2029[1974 ex.s. c 43 § 29]; ]
+
+== 78.60.300 - Aiding or abetting violations.
+No person shall knowingly aid or abet any other person in the violation of any provision of this chapter or of any rule, regulation or order of the department made hereunder.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c43.pdf?cite=1974%20ex.s.%20c%2043%20§%2030[1974 ex.s. c 43 § 30]; ]
+

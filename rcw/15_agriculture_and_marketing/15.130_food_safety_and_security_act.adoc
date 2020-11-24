@@ -1,0 +1,352 @@
+= 15.130 - Food safety and security act.
+:toc:
+
+== 15.130.010 - Intent.
+The purpose of this chapter is to protect the public from adulteration, misbranding, and false advertisement of food in intrastate commerce. The intent is to promote uniformity with federal law, governmental transparency, and regulatory fairness.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%201[2018 c 236 § 1]; ]
+
+== 15.130.100 - Federal law reference.
+. All references to a federal statute in this chapter mean the statute and its implementing regulations existing on June 7, 2018, or the date of such subsequent version as the department may adopt by rule.
+
+. Where the referenced federal statute refers to the "secretary," the meaning for the purpose of this chapter is "secretary" or "director."
+
+. A reference to a federal statute excludes any matters in the federal statute that are inapplicable to state jurisdiction.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20101[2018 c 236 § 101]; ]
+
+== 15.130.110 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Advertisement" means all representations, other than by labeling, that directly or indirectly induce, or are likely to induce, the purchase of food.
+
+. "Carrier" means a person who undertakes the professional conveyance of food.
+
+. "Color additive" means the same as "color additive" in 21 U.S.C. Sec. 321.
+
+. "Direct seller" means an entity that: (a) Receives prepackaged food from a food processor licensed or inspected, or both, by a state or federal regulatory agency or the department; (b) delivers the food directly to consumers who placed and paid for an order on the entity's web site; (c) delivers food without opening the packaging and without dividing it into smaller packages; (d) provides no interim storage; and (e) delivers the food by means of vehicles equipped with either refrigeration or freezer units, or both. A direct seller is not a "carrier" under this chapter.
+
+. "Food" means the same as "food" in 21 U.S.C. Sec. 321 and includes any article used for food or drink by humans or other animals.
+
+. "Food additive" means the same as "food additive" in 21 U.S.C. Sec. 321.
+
+. "Food facility" means any part of an operation, factory, establishment, or vehicle engaged in the sale, processing, storage, transport, or holding of food in intrastate commerce. A food facility includes, but is not limited to, grounds, premises, buildings, room, area, facilities, vehicles, appurtenances, and equipment.
+
+. "Fish" means fresh or saltwater finfish and other forms of aquatic animal life intended for human consumption other than mollusks, birds, and mammals.
+
+. "Intrastate commerce" means all commerce, including but not limited to the operation of any business or service establishment; and the manufacturing or processing of articles intended for sale, held for sale, sold, stored, transported, handled, or distributed in Washington state.
+
+. "Label," "labeling" means the same as "label" and "labeling" in 21 U.S.C. Sec. 321.
+
+. "Perishable packaged food" means all food intended for human consumption that is canned, bottled, or packaged at a time other than at the point of retail sale, has a risk of spoilage within thirty days, and is determined by the department in rule to be perishable. The term does not include raw agricultural commodities, alcoholic beverages, frozen foods, fresh meat, fresh poultry, fresh fish, and fresh shellfish.
+
+. "Pesticide chemical" means any substance defined as a pesticide in chapter 15.58 RCW or recognized as a pesticide chemical under 21 U.S.C. Sec. 346.
+
+. "Process," "processing" means manufacturing, processing, packing, canning, bottling, or any other production, preparation, or putting up.
+
+. "Pull date" means the latest date a perishable packaged food may be offered for sale to the public.
+
+. "Raw agricultural commodity" means the same as "raw agricultural commodity" in 21 U.S.C. Sec. 321.
+
+. "Sale," "sell," "selling" means all parts of transactions concerning food including, but not limited to, advertising, offering, acceptance, dispensing, giving, delivering, serving, bartering, trading, or other supplying, holding for sale, and preparing for sale.
+
+. "Shelf life" means the length of time a perishable packaged food retains its safe consumption quality if stored under proper temperature conditions.
+
+. "Shellfish" means all crustaceans and mollusks intended for human consumption.
+
+. "Storage" and "store" means holding, storing, or any other possessing.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20102[2018 c 236 § 102]; ]
+
+== 15.130.120 - Department's general powers.
+. The department must do all acts and things necessary to carry out and enforce the provisions of this chapter.
+
+. The department must adopt rules as necessary to implement the purpose and provisions of this chapter.
+
+.. To the extent feasible, the rules must promote uniformity with the federal food, drug, and cosmetic act, as amended, 21 U.S.C. Sec. 301 et seq., and regulations adopted under it.
+
+.. To promote such uniformity, the department may conduct expedited rule making under chapter 34.05 RCW to adopt a subsequent version of a federal statute or regulation referenced in this chapter and adopt amendments to federal regulations that the department has previously adopted as rule.
+
+. In accordance with subsection (2) of this section, the department may establish by rule:
+
+.. Standards for food including, but not limited to, identity, quality, and fill;
+
+.. Tolerance standards for any substance, including pesticides, color additives, and food additives used in or on food, but potentially harmful to humans or animals; and
+
+.. Uniform standards for pull date labeling and storage conditions for perishable packaged foods.
+
+. The department must investigate violations or possible violations of this chapter or the rules adopted under it.
+
+. The department may cooperate with and enter into agreements with other state, federal, or local governmental agencies in carrying out the purpose and provisions of this chapter.
+
+. The department may notify the public about food safety issues and enforcement actions under this chapter.
+
+. Rules that the department adopted under the authority of chapter 69.04 RCW remain effective until June 30, 2022, or until the department repeals or amends the rules, whichever is first.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20103[2018 c 236 § 103]; ]
+
+== 15.130.130 - Administrative procedure act.
+Chapter 34.05 RCW governs the administration of this chapter including but not limited to rule making, assessment of civil penalties, orders, emergency actions, and license suspension, revocation, or denial.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20104[2018 c 236 § 104]; ]
+
+== 15.130.140 - Exemptions.
+. Food in transit from one processing facility to another processing facility to complete its preparation for sale is exempt from the labeling requirements of this chapter, but is otherwise subject to all applicable provisions of this chapter.
+
+. This chapter is not applicable to kosher food to the extent necessary to produce kosher food products as defined in RCW 69.90.010.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20105[2018 c 236 § 105]; ]
+
+== 15.130.150 - Federal food and drug administration information—Public disclosure exemptions.
+The following information or records obtained from the federal food and drug administration pursuant to a contract or commissioning agreement is exempt from public inspection and copying under chapter 42.56 RCW to the extent it is exempt from disclosure under 5 U.S.C. Sec. 552, the federal freedom of information act: Trade secrets; confidential commercial information; information under the federal deliberative process privilege; information compiled for law enforcement purposes; and information expressly required to be kept confidential by other federal laws.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1385.SL.pdf?cite=2019%20c%20337%20§%202[2019 c 337 § 2]; ]
+
+== 15.130.200 - Adulterated food prohibited.
+. A person may not:
+
+.. Cause or intend to cause adulteration of food in intrastate commerce;
+
+.. Sell, process, or store adulterated food in intrastate commerce; or
+
+.. Receive for the purpose of sale in intrastate commerce food known to be adulterated.
+
+. Food is adulterated if it is adulterated within the meaning of 21 U.S.C. Sec. 342, or is adulterated in accordance with department rules.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20201[2018 c 236 § 201]; ]
+
+== 15.130.210 - Misbranded food prohibited.
+. A person may not:
+
+.. Cause or intend to cause misbranded food in intrastate commerce;
+
+.. Sell, process, or store misbranded food in intrastate commerce; or
+
+.. Receive for the purpose of sale in intrastate commerce food known to be misbranded.
+
+. Food is misbranded if it is misbranded within the meaning of 21 U.S.C. Sec. 321(n) or 21 U.S.C. Sec. 343, falsely represents its place or origin, or is not labeled and packaged in accordance with department rules.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20202[2018 c 236 § 202]; ]
+
+== 15.130.220 - False advertisement prohibited.
+. A person may not disseminate false advertising with respect to food within the state, in any manner or by any means or through any medium.
+
+. An advertisement of a food is false if it is false or misleading in any particular or if it is false or misleading within the meaning of 21 U.S.C. Sec. 321(n).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20203[2018 c 236 § 203]; ]
+
+== 15.130.230 - Alteration prohibited.
+A person may not change, mutilate, destroy, obliterate, or remove any part of food labeling, or do any other act that results in a food being adulterated or misbranded after shipment in intrastate commerce and while the food is held for sale.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20204[2018 c 236 § 204]; ]
+
+== 15.130.240 - False warranty or guarantee prohibited.
+A person may not knowingly or intentionally give a false guarantee or falsely warrant that food complies with this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20205[2018 c 236 § 205]; ]
+
+== 15.130.300 - Perishable packaged food—Pull dates.
+. All perishable packaged foods in intrastate commerce with a projected shelf life of thirty days or less must state a pull date on the package.
+
+. The pull date must be stated by month and day and be in a style and format that is readily decipherable by consumers.
+
+. A person may not offer perishable packaged food for sale after the pull date, except that if clearly identified as past the pull date, packaged perishable food with an expired pull date may be sold if still wholesome and without danger to health.
+
+. A person may not rewrap or repackage perishable packaged food with the intention of providing a pull date different from the original.
+
+. The department may exclude the monthly requirement from the pull date for perishable packaged food with a shelf life of seven days or less.
+
+. The department must consult with the secretary of the department of health when appropriate in adopting rules to establish uniform standards for pull date labeling and optimum storage conditions for perishable packaged food.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20301[2018 c 236 § 301]; ]
+
+== 15.130.310 - Popcorn sold in theaters or commercial food establishments.
+. Theaters and other commercial food establishments that prepare and sell popcorn for human consumption must post a sign in a conspicuous location identifying whether butter or butter-like flavoring added to or attributed to the popcorn offered for sale is butter or some other product. If another product, the sign must also disclose the ingredients of the product.
+
+. Popcorn sold or offered for sale in violation of this section and rules adopted by the department prescribing the size and content of the sign is misbranded for the purposes of this chapter.
+
+. This provision does not apply to prepackaged popcorn labeled in compliance with applicable law.
+
+. "Butter," as used in this section, means the food product usually known as butter and made exclusively from milk or cream, or both with or without common salt, and with or without additional coloring matter, and containing not less than eighty percent by weight of milkfat, all tolerance having been allowed for.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20302[2018 c 236 § 302]; ]
+
+== 15.130.400 - General license administration.
+. Unless otherwise provided, the provisions in this section apply to a license or certificate issued under this chapter.
+
+. Applicants for a new or renewal license issued by the department must submit applications on forms prescribed by the department.
+
+. The license fee must accompany any application submittal.
+
+. The department must adopt rules for an annual license and renewal fee to defray the costs of administering a licensing program, including inspections.
+
+. The department must issue a license to the applicant if the application is complete and the applicant's food facility complies with this chapter, including the rules adopted under it.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20401[2018 c 236 § 401]; ]
+
+== 15.130.410 - Direct seller license.
+. A person may not operate as a direct seller without a license issued by the department.
+
+. A licensed direct seller must transport food under conditions that protect food against physical, chemical, and microbial contamination, as well as against deterioration of the food and its container. This includes, but is not limited to, the separation of raw materials in a manner to avoid cross-contamination of other food and ensure that raw materials that inherently contain pathogenic and spoilage microorganisms, soil, or other foreign material, do not come into direct contact with other food.
+
+. In the event of a food recall or when required by the department or a federal, state, or local health authority in response to a foodborne illness outbreak, a licensed direct seller must use its client listserv to notify its customers of the recall and other relevant information.
+
+. A direct seller license must comply with the definition of a direct seller in this chapter and:
+
+.. Provide the department with a list of all leased, rented, or owned vehicles, other than vehicles that are rented for fewer than forty-five days, used by the applicant's business to deliver food;
+
+.. Maintain all records of vehicles rented for fewer than forty-five days for at least twelve months following the termination of the rental period; and
+
+.. Maintain food temperature logs or use a device to monitor the temperature of the packages in real time for all food while in transport.
+
+. The department shall pay all moneys received under this section into the food processing inspection account created in RCW 69.07.120. The department must use such funds solely to carry out the provisions of this section.
+
+. In the implementation of this section, the department must:
+
+.. Conduct inspections of vehicles, food handling areas, refrigeration equipment, and product packaging used by a licensed direct seller;
+
+.. Conduct audits of temperature logs and other food handling records as appropriate;
+
+.. Investigate complaints against a licensed direct seller for the failure to maintain food safety; and
+
+.. Adopt rules, in consultation with the department of health and local health jurisdictions, necessary to administer and enforce the program consistent with federal regulations.
+
+. Direct sellers that have a license from the department under this section are exempt from the permitting requirements of food service rules adopted by the state board of health and local health jurisdictions.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20402[2018 c 236 § 402]; ]
+
+== 15.130.420 - Inspections.
+. Any person authorized by the department to operate a food facility must provide the department access for inspection to any part, portion, or area of the food facility or its records subject to the authorization.
+
+. When possible, the department must make any such inspection during regular business hours or during a working shift of the food facility, except that the department may inspect such food facility at any time upon information of conditions that constitute immediate danger to public health.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20403[2018 c 236 § 403]; ]
+
+== 15.130.430 - License denial, suspension, or revocation—Penalties.
+. The department may deny, suspend, or revoke a license issued by the department upon determining that an applicant or licensee has:
+
+.. Refused, neglected, or failed to comply with the provisions of this chapter or the rules adopted under it, or a lawful order of the department;
+
+.. Refused, neglected, or failed to keep and maintain required records or to make such records available when requested; and
+
+.. Refused the department access to a portion or area of the food facility for the purpose of carrying out the purposes of this chapter.
+
+. In addition to or instead of suspending or revoking a license, the department may impose and collect a civil monetary penalty as provided in RCW 15.130.550 for a licensee's violations of this chapter or the rules adopted under it.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20404[2018 c 236 § 404]; ]
+
+== 15.130.500 - Investigation.
+. At reasonable times, the department may enter any food facility to inspect such food facility and all pertinent equipment, finished and unfinished materials, containers, labeling, and advertisements and take samples for compliance with this chapter and the rules adopted under it.
+
+. The department may take product or ingredient samples of food at food facilities or in intrastate commerce upon payment of the market price, if requested. The department must allow the owner of the food or any person named on the label of the food to conduct independent sampling.
+
+. To enforce this chapter, the department may inspect the pertinent records of any state agency.
+
+. When the department presents a written request specifying the food under investigation, carriers engaged in intrastate commerce and persons receiving or holding food in intrastate commerce must permit the department reasonable access to and allow the department to copy all records showing the movement or holding in intrastate commerce of food, its quantity, shipper, and consignee. Evidence obtained under this section may not be used in a criminal prosecution of the person who provides access to records under this section.
+
+. An owner or other person in control of a food facility or food in intrastate commerce may not refuse to allow the department's investigation under this chapter, if the department has probable cause to conduct the investigation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20501[2018 c 236 § 501]; ]
+
+== 15.130.510 - Injunction.
+. Regardless of the existence of other remedies at law, the department may bring an action to enjoin the violation of this chapter or the rules adopted under it in the superior court of Thurston county or in a court of competent jurisdiction.
+
+. When the injunction concerns dissemination of false advertisement and the court determines that the injunction would delay the regular distribution of a printed issue of a newspaper, magazine, periodical, or other print publication, the court must exclude the issue from the scope of the injunction.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20502[2018 c 236 § 502]; ]
+
+== 15.130.520 - Embargo.
+. If the department has probable cause to believe that a food that violates a provision of this chapter and stopping its movement in intrastate commerce is necessary to protect public health, the department may initiate an embargo prohibiting transportation, distribution, or sale of the food.
+
+. The department must provide an opportunity for an emergency adjudicative proceeding under chapter 34.05 RCW within twenty days of initiating the embargo action and provide notice to other governmental authorities having jurisdiction.
+
+. The department must initiate the embargo action by (a) posting or affixing an embargo order on or at the location of the food or (b) delivering an embargo order to the party in control of the food. The order must specify the food under embargo, set forth the department's intent for disposition of the food, give notice of emergency hearing rights, and otherwise comply with the requirements for an emergency adjudicative proceeding under chapter 34.05 RCW. Disposition of the food may include, but is not limited to, destruction or correction or cure of the violation.
+
+. A person may not transport, distribute, or sell food subject to an embargo order without the department's written approval.
+
+. A person may not remove, mutilate, or destroy an embargo order without the department's written approval.
+
+. The department must immediately withdraw or remove an embargo order upon discovery that the food does not violate any provision of this chapter.
+
+. A court shall not allow recovery of damages in an embargo action if the court finds that there was probable cause for such action.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20503[2018 c 236 § 503]; ]
+
+== 15.130.530 - Condemnation.
+Consistent with constitutional requirements, the department may take condemnation action against food, which may include ordering destruction of the food, if the department has probable cause to believe that immediate containment or destruction of the food is necessary to protect public health. A court shall not allow recovery of damages in a condemnation action if the court finds that there was probable cause for such action.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20504[2018 c 236 § 504]; ]
+
+== 15.130.540 - Temporary emergency rules.
+. If a class of food manufactured, processed, or packed in a locality is possibly contaminated with microorganisms injurious to health and the extent of injury cannot be determined once the food has entered into intrastate commerce, the department may adopt emergency rules for the manufacture, processing, or packing of that class of food in that locality. The rules must include the conditions necessary to protect public health and provide for the department to issue temporary permits during the emergency period.
+
+. A person may not manufacture, process, or pack the class of food subject to the emergency unless holding a temporary permit under the emergency rules and complying with the conditions of the permit.
+
+. To the extent practicable, such emergency rules must conform to federal emergency regulations, if any, addressing the same subject.
+
+. A person may not introduce or deliver in intrastate commerce food that violates the requirements of this provision.
+
+. A person may not falsely represent that food subject to temporary emergency rule complies with those rules through the use of a mark stamp, tag, label, or other counterfeit or false identification device.
+
+. The department may immediately suspend a temporary emergency permit when its holder violates the conditions of the permit.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20505[2018 c 236 § 505]; ]
+
+== 15.130.550 - Civil monetary penalty.
+. The department may impose upon and collect a civil penalty from a person violating this chapter or the rules adopted under it.
+
+. The civil penalty must not exceed one thousand dollars per violation per day, except the civil penalty for a violation of pull date requirements in RCW 15.130.300 must not exceed five hundred dollars.
+
+. Each violation of this section is a separate and distinct offense.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20506[2018 c 236 § 506]; ]
+
+== 15.130.560 - Criminal penalties.
+. A person who knowingly violates RCW 15.130.200 through 15.130.240, 15.130.500, 15.130.520, or 15.130.540 is guilty of a misdemeanor subject to a penalty of not more than two hundred dollars.
+
+. A person who knowingly violates RCW 15.130.200 through 15.130.240, 15.130.500, 15.130.520, or 15.130.540 following a first offense under subsection (1) of this section is guilty of a misdemeanor subject to a penalty of imprisonment for not more than thirty days or a fine of not more than five hundred dollars, or both.
+
+. A person who knowingly violates RCW 15.130.200 through 15.130.240, 15.130.500, 15.130.520, or 15.130.540 with intent to defraud or mislead is guilty of a misdemeanor subject to a penalty of imprisonment for not more than ninety days or a fine of not more than one thousand dollars, or both.
+
+. Before reporting a violation for criminal prosecution, the department must provide the affected person with notice and opportunity to present oral or written comment to the department.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20507[2018 c 236 § 507]; ]
+
+== 15.130.570 - Avoidance of penalty.
+. A person who receives, holds, or sells adulterated or misbranded food is not subject to civil monetary or criminal penalties under this chapter if the person:
+
+.. Establishes that receipt or sale of the food was in good faith;
+
+.. Furnishes the identity of the entity from whom the food was received; and
+
+.. Provides copies of all documents pertaining to the receipt and distribution of the food.
+
+. If food is found to be adulterated or misbranded, a person who has given guarantee or warranty that the food complies with this chapter is not subject to civil monetary or criminal penalties under this chapter if the person:
+
+.. Establishes that the guarantee or warranty was in good faith and in reliance on the guarantee or warranty by another entity;
+
+.. Furnishes the identity of the entity providing the guarantee or warranty under (a) of this subsection; and
+
+.. Provides copies of all documents pertaining to the receipt and distribution of the food.
+
+. No publisher, broadcaster, or other disseminator of advertisement prepared by others is subject to civil or criminal penalties if the person establishes that receipt of the advertisement was in good faith and the person furnishes the identity of the entity that caused or created a false advertisement.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20508[2018 c 236 § 508]; ]
+
+== 15.130.580 - Proceedings.
+. The department may refer a violation of this chapter or the rules adopted under it to a state, county, or city attorney, who may initiate proceedings as appropriate and prosecute the matter as prescribed by law.
+
+. This chapter does not require the department to refer minor violations of this chapter for legal proceedings if public interest is adequately served in the circumstances by written notice or warning.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20509[2018 c 236 § 509]; ]
+
+== 15.130.900 - Short title.
+This chapter may be known and cited as the food safety and security act.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20901[2018 c 236 § 901]; ]
+
+== 15.130.901 - Construction.
+This chapter and the rules adopted under it must be construed to promote uniformity with federal acts and regulations relating to adulteration, misbranding, and false advertising of food.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20902[2018 c 236 § 902]; ]
+

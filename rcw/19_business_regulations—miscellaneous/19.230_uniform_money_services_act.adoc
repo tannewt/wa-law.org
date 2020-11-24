@@ -1,0 +1,806 @@
+= 19.230 - Uniform money services act.
+:toc:
+
+== 19.230.005 - Intent.
+It is the intent of the legislature to establish a state system of licensure and regulation to ensure the safe and sound operation of money transmission and currency exchange businesses, to ensure that these businesses are not used for criminal purposes, to promote confidence in the state's financial system, and to protect the public interest.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%202[2003 c 287 § 2]; ]
+
+== 19.230.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Affiliate" means any person who directly or indirectly through one or more intermediaries, controls, is controlled by, or is under common control with, another person.
+
+. "Annual assessment due date" means the date specified in rule by the director upon which the annual assessment is due.
+
+. "Applicant" means a person that files an application for a license under this chapter, including the applicant's proposed responsible individual and executive officers, and persons in control of the applicant.
+
+. "Authorized delegate" means a person a licensee designates to provide money services on behalf of the licensee. A person that is exempt from licensing under this chapter cannot have an authorized delegate.
+
+. "Board director" means a natural person who is a member of the applicant's or licensee's board of directors if the applicant is a corporation or limited liability company, or a partner if the applicant or licensee is a partnership.
+
+. "Closed loop prepaid access" means prepaid access that can only be redeemed for a limited universe of goods, intangibles, services, or other items provided by the issuer of the prepaid access, its affiliates, or others involved in transactions functionally related to the issuer or its affiliates.
+
+. "Control" means:
+
+.. Ownership of, or the power to vote, directly or indirectly, at least twenty-five percent of a class of voting securities or voting interests of a licensee or applicant, or person in control of a licensee or applicant;
+
+.. Power to elect a majority of executive officers, managers, directors, trustees, or other persons exercising managerial authority of a licensee or applicant, or person in control of a licensee or applicant; or
+
+.. Power to exercise directly or indirectly, a controlling influence over the management or policies of a licensee or applicant, or person in control of a licensee or applicant.
+
+. "Currency exchange" means exchanging the money of one government for money of another government, or holding oneself out as able to exchange the money of one government for money of another government. The following persons are not considered currency exchangers:
+
+.. Affiliated businesses that engage in currency exchange for a business purpose other than currency exchange;
+
+.. A person who provides currency exchange services for a person acting primarily for a business, commercial, agricultural, or investment purpose when the currency exchange is incidental to the transaction;
+
+.. A person who deals in coins or a person who deals in money whose value is primarily determined because it is rare, old, or collectible; and
+
+.. A person who in the regular course of business chooses to accept from a customer the currency of a country other than the United States in order to complete the sale of a good or service other than currency exchange, that may include cash back to the customer, and does not otherwise trade in currencies or transmit money for compensation or gain.
+
+. "Currency exchanger" means a person that is engaged in currency exchange.
+
+. "Director" means the director of financial institutions.
+
+. "Executive officer" means a president, chairperson of the executive committee, chief financial officer, responsible individual, or other individual who performs similar functions.
+
+. "Financial institution" means any person doing business under the laws of any state or the United States relating to commercial banks, bank holding companies, savings banks, savings and loan associations, trust companies, or credit unions.
+
+. "Licensee" means a person licensed under this chapter. "Licensee" also means any person, whether located within or outside of this state, who fails to obtain a license required by this chapter.
+
+. "Material litigation" means litigation that according to generally accepted accounting principles is significant to an applicant's or a licensee's financial health and would be required to be disclosed in the applicant's or licensee's annual audited financial statements, report to shareholders, or similar records.
+
+. "Mobile location" means a vehicle or movable facility where money services are provided.
+
+. "Money" means a medium of exchange that is authorized or adopted by the United States or a foreign government or other recognized medium of exchange. "Money" includes a monetary unit of account established by an intergovernmental organization or by agreement between two or more governments.
+
+. "Money services" means money transmission or currency exchange.
+
+. "Money transmission" means receiving money or its equivalent value (equivalent value includes virtual currency) to transmit, deliver, or instruct to be delivered to another location, inside or outside the United States, by any means including but not limited to by wire, facsimile, or electronic transfer. "Money transmission" includes selling, issuing, or acting as an intermediary for open loop prepaid access and payment instruments, but not closed loop prepaid access. "Money transmission" does not include: The provision solely of connection services to the internet, telecommunications services, or network access; units of value that are issued in affinity or rewards programs that cannot be redeemed for either money or virtual currencies; and units of value that are used solely within online gaming platforms that have no market or application outside of the gaming platforms.
+
+. "Money transmitter" means a person that is engaged in money transmission.
+
+. "Open loop prepaid access" means prepaid access redeemable at multiple, unaffiliated merchants or service providers, or automated teller machines.
+
+. "Outstanding money transmission" means the value of all money transmissions reported to the licensee for which the money transmitter has received money or its equivalent value from the customer for transmission, but has not yet completed the money transmission by delivering the money or monetary value to the person designated by the customer.
+
+. "Payment instrument" means a check, draft, money order, or traveler's check for the transmission or payment of money or its equivalent value, whether or not negotiable. "Payment instrument" does not include a credit card voucher, letter of credit, or instrument that is redeemable by the issuer in goods or services.
+
+. "Person" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture; government, governmental subdivision, agency, or instrumentality; public corporation; or any other legal or commercial entity.
+
+. "Prepaid access" means access to money that has been paid in advance and can be retrieved or transferred through an electronic device or vehicle, such as a card, code, electronic serial number, mobile identification number, or personal identification number.
+
+. "Record" means information that is inscribed on a tangible medium, or that is stored in an electronic or other medium, and is retrievable in perceivable form.
+
+. "Responsible individual" means an individual who is employed by a licensee and has principal managerial authority over the provision of money services by the licensee in this state.
+
+. "State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States.
+
+. "Tangible net worth" means the physical worth of a licensee, calculated by taking a licensee's assets and subtracting its liabilities and its intangible assets, such as copyrights, patents, intellectual property, and goodwill.
+
+. "Unsafe or unsound practice" means a practice or conduct by a licensee or an authorized delegate which creates the likelihood of material loss, insolvency, or dissipation of the licensee's assets, or otherwise materially prejudices the financial condition of the licensee or the interests of its customers.
+
+. "Virtual currency" means a digital representation of value used as a medium of exchange, a unit of account, or a store of value, but does not have legal tender status as recognized by the United States government. "Virtual currency" does not include the software or protocols governing the transfer of the digital representation of value or other uses of virtual distributed ledger systems to verify ownership or authenticity in a digital capacity when the virtual currency is not used as a medium of exchange.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5031-S.SL.pdf?cite=2017%20c%2030%20§%201[2017 c 30 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1327-S.SL.pdf?cite=2013%20c%20106%20§%201[2013 c 106 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6371-S.SL.pdf?cite=2010%20c%2073%20§%201[2010 c 73 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%203[2003 c 287 § 3]; ]
+
+== 19.230.020 - Application of chapter—Exclusions.
+This chapter does not apply to:
+
+. The United States or a department, agency, or instrumentality thereof;
+
+. The United States postal service or a contractor on behalf of the United States postal service;
+
+. A state, county, city, or a department, agency, or instrumentality thereof;
+
+. A financial institution or its subsidiaries, affiliates, and service corporations, or any office of an international banking corporation, branch of a foreign bank, or corporation organized pursuant to the Bank Service Corporation Act (12 U.S.C. Sec. 1861-1867) or a corporation organized under the Edge Act (12 U.S.C. Sec. 611-633);
+
+. Electronic funds transfer of governmental benefits for a federal, state, county, or governmental agency by a contractor on behalf of the United States or a department, agency, or instrumentality thereof, or a state or governmental subdivision, agency, or instrumentality thereof;
+
+. A board of trade designated as a contract market under the federal Commodity Exchange Act (7 U.S.C. Sec. 1-25) or a person that, in the ordinary course of business, provides clearance and settlement services for a board of trade to the extent of its operation as, or for, a board of trade;
+
+. A registered futures commission merchant under the federal commodities laws to the extent of its operation as such a merchant;
+
+. A person that provides clearance or settlement services under a registration as a clearing agency, or an exemption from that registration granted under the federal securities laws, to the extent of its operation as such a provider;
+
+. A person:
+
+.. Operating a payment system that provides processing, clearing, or settlement services, between or among persons who are all excluded by this section, in connection with wire transfers, credit card transactions, debit card transactions, prepaid access transactions, automated clearinghouse transfers, or similar funds transfers;
+
+.. Who is a contracted service provider of an entity in subsection (4) of this section that provides processing, clearing, or settlement services in connection with wire transfers, credit card transactions, debit card transactions, prepaid access transactions, automated clearinghouse transfers, or similar funds transfers; or
+
+.. That facilitates payment for goods or services (not including money transmission itself) or bill payment through a clearance and settlement process using bank secrecy act regulated institutions pursuant to a written contract with the payee and either payment to the person facilitating the payment processing satisfies the payor's obligation to the payee or that obligation is otherwise extinguished;
+
+. A person registered as a securities broker-dealer or investment advisor under federal or state securities laws to the extent of its operation as such a broker-dealer or investment advisor;
+
+. An insurance company, title insurance company, or escrow agent to the extent that such an entity is lawfully authorized to conduct business in this state as an insurance company, title insurance company, or escrow agent and to the extent that they engage in money transmission or currency exchange as an ancillary service when conducting insurance, title insurance, or escrow activity;
+
+. The issuance, sale, use, redemption, or exchange of closed loop prepaid access or of payment instruments by a person licensed under chapter 31.45 RCW;
+
+. An attorney, to the extent that the attorney is lawfully authorized to practice law in this state and to the extent that the attorney engages in money transmission or currency exchange as an ancillary service to the practice of law;
+
+. A seller or issuer of prepaid access when the funds are covered by federal deposit insurance immediately upon sale or issue;
+
+. A person that transmits wages, salaries, or employee benefits on behalf of employers when the money transmission or currency exchange is an ancillary service in a suite of services that may include, but is not limited to, the following: Facilitate the payment of payroll taxes to state and federal agencies, make payments relating to employee benefit plans, make distribution of other authorized deductions from an employees' wages or salaries, or transmit other funds on behalf of an employer in connection with transactions related to employees; or
+
+. The lawful business of bookkeeping or accounting to the extent the money transmission or currency exchange is an ancillary service.
+
+The director may, at his or her discretion, waive applicability of the licensing provisions of this chapter when the director determines it necessary to facilitate commerce and protect consumers. The burden of proving the applicability of an exclusion or exception from licensing is upon the person claiming the exclusion or exception. The director may adopt rules to implement this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5031-S.SL.pdf?cite=2017%20c%2030%20§%202[2017 c 30 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1327-S.SL.pdf?cite=2013%20c%20106%20§%202[2013 c 106 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6371-S.SL.pdf?cite=2010%20c%2073%20§%202[2010 c 73 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%204[2003 c 287 § 4]; ]
+
+== 19.230.030 - Money transmitter license required.
+. A person may not engage in the business of money transmission, or advertise, solicit, or hold itself out as providing money transmission, unless the person is:
+
+.. Licensed as a money transmitter under this chapter;
+
+.. An authorized delegate of a person licensed as a money transmitter under this chapter; or
+
+.. Excluded under RCW 19.230.020.
+
+. A money transmitter license is not transferable or assignable.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5031-S.SL.pdf?cite=2017%20c%2030%20§%203[2017 c 30 § 3]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%205[2003 c 287 § 5]; ]
+
+== 19.230.033 - Multistate licensing system—Director's discretion.
+Applicants may be required to make application through a multistate licensing system as prescribed by the director. Existing licensees may be required to transition onto a multistate licensing system as prescribed by the director.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2255-S.SL.pdf?cite=2012%20c%2017%20§%2017[2012 c 17 § 17]; ]
+
+== 19.230.040 - Application for a money transmitter license.
+. A person applying for a money transmitter license under this chapter shall do so in a form and in a medium prescribed in rule by the director. The application must state or contain:
+
+.. The legal name, business addresses, and residential address, if applicable, of the applicant and any fictitious or trade name used by the applicant in conducting its business;
+
+.. The legal name, residential and business addresses, date of birth, social security number, employment history for the five-year period preceding the submission of the application of the applicant's proposed responsible individual, and documentation that the proposed responsible individual is a citizen of the United States or has obtained legal immigration status to work in the United States. In addition, the applicant shall provide the fingerprints of the proposed responsible individual upon the request of the director;
+
+.. For the ten-year period preceding submission of the application, a list of any criminal convictions of the proposed responsible individual of the applicant, any material litigation in which the applicant has been involved, and any litigation involving the proposed responsible individual relating to the provision of money services;
+
+.. A description of any money services previously provided by the applicant and the money services that the applicant seeks to provide to persons in Washington state;
+
+.. A list of the applicant's proposed authorized delegates and the locations where the applicant and its authorized delegates will engage in the provision of money services to persons in Washington state on behalf of the licensee;
+
+.. A list of other states in which the applicant is licensed to engage in money transmission, or provide other money services, and any license revocations, suspensions, restrictions, or other disciplinary action taken against the applicant in another state;
+
+.. A list of any license revocations, suspensions, restrictions, or other disciplinary action taken against any money services business involving the proposed responsible individual;
+
+.. Information concerning any bankruptcy or receivership proceedings involving or affecting the applicant or the proposed responsible individual;
+
+.. A sample form of contract for authorized delegates, if applicable;
+
+.. A description of the source of money and credit to be used by the applicant to provide money services; and
+
+.. Any other information regarding the background, experience, character, financial responsibility, and general fitness of the applicant, the applicant's responsible individual, or authorized delegates that the director may require in rule.
+
+. If an applicant is a corporation, limited liability company, partnership, or other entity, the applicant shall also provide:
+
+.. The date of the applicant's incorporation or formation and state or country of incorporation or formation;
+
+.. If applicable, a certificate of good standing from the state or country in which the applicant is incorporated or formed;
+
+.. A brief description of the structure or organization of the applicant, including any parent or subsidiary of the applicant, and whether any parent or subsidiary is publicly traded;
+
+.. The legal name, any fictitious or trade name, all business and residential addresses, date of birth, social security number, and employment history in the ten-year period preceding the submission of the application for each executive officer, board director, or person that has control of the applicant;
+
+.. If the applicant or its corporate parent is not a publicly traded entity, the director may request the fingerprints of each executive officer, board director, or person that has control of the applicant;
+
+.. A list of any criminal convictions, material litigation, and any litigation related to the provision of money services, in the ten-year period preceding the submission of the application in which any executive officer, board director, or person in control of the applicant has been involved;
+
+.. A copy of the applicant's audited financial statements for the most recent fiscal year or, if the applicant is a wholly owned subsidiary of another corporation, the most recent audited consolidated annual financial statement of the parent corporation or the applicant's most recent audited consolidated annual financial statement, and in each case, if available, for the two-year period preceding the submission of the application;
+
+.. A copy of the applicant's unconsolidated financial statements for the current fiscal year, whether audited or not, and, if available, for the two-year period preceding the submission of the application;
+
+.. If the applicant is publicly traded, a copy of the most recent report filed with the United States securities and exchange commission under section 13 of the federal Securities Exchange Act of 1934 (15 U.S.C. Sec. 78m);
+
+.. If the applicant is a wholly owned subsidiary of:
+
+... A corporation publicly traded in the United States, a copy of audited financial statements for the parent corporation for the most recent fiscal year or a copy of the parent corporation's most recent report filed under section 13 of the federal Securities Exchange Act of 1934 (15 U.S.C. Sec. 78m); or
+
+... A corporation publicly traded outside the United States, a copy of similar documentation filed with the regulator of the parent corporation's domicile outside the United States;
+
+.. If the applicant has a registered agent in this state, the name and address of the applicant's registered agent in this state; and
+
+.. Any other information that the director may require in rule regarding the applicant, each executive officer, or each board director to determine the applicant's background, experience, character, financial responsibility, and general fitness.
+
+. A nonrefundable application fee and an initial license fee, as determined in rule by the director, must accompany an application for a license under this chapter. The initial license fee must be refunded if the application is denied.
+
+. As part of or in connection with an application for any license under this section, or periodically upon license renewal, each officer, director, responsible individual, and owner applicant shall furnish information concerning his or her identity, including fingerprints for submission to the Washington state patrol or the federal bureau of investigation for a state and national criminal history background check, personal history, experience, business record, purposes, and other pertinent facts, as the director may reasonably require. As part of or in connection with an application for a license under this chapter, or periodically upon license renewal, the director is authorized to receive criminal history record information that includes nonconviction data as defined in RCW 10.97.030. The department may only disseminate nonconviction data obtained under this section to criminal justice agencies. This section does not apply to financial institutions regulated under chapters 31.12 and 31.13 RCW and Titles 32 and 33 RCW. The requirements of this subsection do not apply when the applicant or its corporate parents are publicly traded entities.
+
+. For business models that store virtual currency on behalf of others, the applicant must provide a third-party security audit of all electronic information and data systems acceptable to the director.
+
+. The director or the director's designated representative may deny an application for a proposed license or trade name if the proposed license or trade name is similar to a currently existing licensee name, including trade names.
+
+. The director may waive one or more requirements of this section or permit an applicant to submit other information in lieu of the required information.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5031-S.SL.pdf?cite=2017%20c%2030%20§%204[2017 c 30 § 4]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1327-S.SL.pdf?cite=2013%20c%20106%20§%203[2013 c 106 § 3]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%206[2003 c 287 § 6]; ]
+
+== 19.230.050 - Money transmitters—Surety bond.
+. Each money transmitter licensee shall maintain a surety bond in an amount based on the previous year's money transmission dollar volume; and the previous year's payment instrument dollar volume. The minimum surety bond must be at least ten thousand dollars, and not to exceed five hundred fifty thousand dollars. The director may adopt rules to implement this section.
+
+. The surety bond shall run to the state of Washington as obligee, and shall run to the benefit of the state and any person or persons who suffer loss by reason of a licensee's or licensee's authorized delegate's violation of this chapter or the rules adopted under this chapter. A claimant against a money transmitter licensee may maintain an action on the bond, or the director may maintain an action on behalf of the claimant.
+
+. The surety bond shall be continuous and may be canceled by the surety upon the surety giving written notice to the director of its intent to cancel the bond. The cancellation is effective thirty days after the notice of cancellation is received by the director or the director's designee. Whether or not the bond is renewed, continued, replaced, or modified, including increases or decreases in the penal sum, it is considered one continuous obligation, and the surety upon the bond is not liable in an aggregate or cumulative amount exceeding the penal sum set forth on the face of the bond. In no event may the penal sum, or any portion thereof, at two or more points in time, be added together in determining the surety's liability.
+
+. A surety bond must cover claims for at least five years after the date of a money transmitter licensee's violation of this chapter, or at least five years after the date the money transmitter licensee ceases to provide money services in this state, whichever is longer. However, the director may permit the amount of the surety bond to be reduced or eliminated before the expiration of that time to the extent the amount of the licensee's obligations outstanding in this state are reduced.
+
+. In the event that a money transmitter licensee does not maintain a surety bond in the amount required under subsection (1) of this section, the director may issue a temporary cease and desist order under RCW 19.230.260.
+
+. The director may increase the amount of the bond required up to a maximum of one million dollars based on the nature and volume of business activities, the financial health of the company, and other criteria specified by the director in rule.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5031-S.SL.pdf?cite=2017%20c%2030%20§%205[2017 c 30 § 5]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6371-S.SL.pdf?cite=2010%20c%2073%20§%203[2010 c 73 § 3]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%207[2003 c 287 § 7]; ]
+
+== 19.230.055 - Online currency exchangers—Surety bond.
+. Each online currency exchanger licensee shall maintain a surety bond in an amount based on the previous year's currency exchange dollar volume. The minimum surety bond must be at least ten thousand dollars, and not to exceed fifty thousand dollars. The director may adopt rules to implement this section.
+
+. The surety bond shall run to the state of Washington as obligee, and shall run to the benefit of the state and any person or persons who suffer loss by reason of a licensee's violation of this chapter or the rules adopted under this chapter. A claimant against the bond may maintain an action on the bond, or the director may maintain an action on behalf of the claimant.
+
+. The surety bond must be continuous and may be canceled by the surety upon the surety giving written notice to the director of its intent to cancel the bond. The cancellation is effective thirty days after the notice of cancellation is received by the director or the director's designee. Whether or not the bond is renewed, continued, replaced, or modified, including increases or decreases in the penal sum, it is considered one continuous obligation, and the surety upon the bond is not liable in an aggregate or cumulative amount exceeding the penal sum set forth on the face of the bond. In no event may the penal sum, or any portion thereof, at two or more points in time, be added together in determining the surety's liability.
+
+. A surety bond must cover claims for at least one year after the date of an online currency exchanger licensee's violation of this chapter, or at least one year after the date the online currency exchanger licensee ceases to provide online currency exchange services in this state, whichever is longer. However, the director may permit the amount of the surety bond to be reduced or eliminated before the expiration of that time to the extent the amount of the licensee's obligations outstanding in this state are reduced.
+
+. In the event that an online currency exchanger licensee does not maintain a surety bond in the amount required under subsection (1) of this section, the director may issue a temporary cease and desist order under RCW 19.230.260.
+
+. The director may increase the amount of the bond required up to a maximum of one million dollars based on the nature and volume of the business activities, the financial health of the company, and other criteria specified by the director in rule.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5031-S.SL.pdf?cite=2017%20c%2030%20§%207[2017 c 30 § 7]; ]
+
+== 19.230.060 - Tangible net worth for money transmitter.
+A money transmitter licensed under this chapter shall maintain a tangible net worth, determined in accordance with generally accepted accounting principles, as determined in rule by the director. The director shall require a tangible net worth of at least ten thousand dollars and not more than three million dollars. In the event that a licensee's tangible net worth, as determined in accordance with generally accepted accounting principles, falls below the amount required in rule, the director or the director's designee may initiate action under RCW 19.230.230 and 19.230.260. The licensee may request a hearing on such an action under chapter 34.05 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6371-S.SL.pdf?cite=2010%20c%2073%20§%204[2010 c 73 § 4]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%208[2003 c 287 § 8]; ]
+
+== 19.230.070 - Issuance of money transmitter license.
+. When an application for a money transmitter license is filed under this chapter, the director or the director's designee shall investigate the applicant's financial condition and responsibility, financial and business experience, competence, character, and general fitness. The director or the director's designee may conduct an on-site investigation of the applicant, the cost of which must be paid by the applicant as specified in RCW 19.230.320 or rules adopted under this chapter. The director shall issue a money transmitter license to an applicant under this chapter if the director or the director's designee finds that all of the following conditions have been fulfilled:
+
+.. The applicant has complied with RCW 19.230.040, 19.230.050, and 19.230.060;
+
+.. The financial condition and responsibility, financial and business experience, competence, character, and general fitness of the applicant; and the competence, financial and business experience, character, and general fitness of the executive officers, proposed responsible individual, board directors, and persons in control of the applicant; indicate that it is in the interest of the public to permit the applicant to engage in the business of providing money transmission services; and
+
+.. Neither the applicant, nor any executive officer, nor person who exercises control over the applicant, nor the proposed responsible individual is listed on the specially designated nationals and blocked persons list prepared by the United States department of the treasury or department of state under Presidential Executive Order No. 13224.
+
+. The director may for good cause extend the application review period or condition the issuance of the license.
+
+. An applicant whose application is denied by the director under this chapter may appeal under chapter 34.05 RCW.
+
+. A money transmitter license issued under this chapter is valid from the date of issuance and remains in effect with no fixed date of expiration unless otherwise suspended or revoked by the director or unless the license expires for nonpayment of the annual assessment and any late fee, if applicable.
+
+. A money transmitter licensee may surrender a license by providing the director with a written notice of surrender through the nationwide licensing system. The written notice of surrender must include notice of where the records of the licensee will be stored and the name, address, telephone number, and other contact information of a responsible party who is authorized to provide access to the records. The surrender of a license does not reduce or eliminate the licensee's civil or criminal liability arising from acts or omissions occurring prior to the surrender of the license, including any administrative actions undertaken by the director or the director's designee to revoke or suspend a license, to assess fines, to order payment of restitution, or to exercise any other authority authorized under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5031-S.SL.pdf?cite=2017%20c%2030%20§%206[2017 c 30 § 6]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6371-S.SL.pdf?cite=2010%20c%2073%20§%205[2010 c 73 § 5]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%209[2003 c 287 § 9]; ]
+
+== 19.230.080 - Currency exchange license required.
+. A person may not engage in the business of currency exchange or advertise, solicit, or hold itself out as able to engage in currency exchange for which the person receives revenue equal to or greater than five percent of total revenues, unless the person is:
+
+.. Licensed to provide currency exchange under this chapter;
+
+.. Licensed for money transmission under this chapter; or
+
+.. An authorized delegate of a person licensed under this chapter.
+
+. A license under this chapter is not transferable or assignable.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2010[2003 c 287 § 10]; ]
+
+== 19.230.090 - Application for a currency exchange license.
+. A person applying for a currency exchange license under this chapter shall do so in a form and in a medium prescribed in rule by the director. The application must state or contain:
+
+.. The legal name, business addresses, and residential address, if applicable, of the applicant and any fictitious or trade name used by the applicant in conducting its business, and the legal name, residential and business addresses, date of birth, social security number, employment history for the five-year period preceding the submission of the application; and upon request of the director, fingerprints of the applicant's proposed responsible individual and documentation that the proposed responsible individual is a citizen of the United States or has obtained legal immigration status to work in the United States;
+
+.. For the ten-year period preceding the submission of the application, a list of any criminal convictions of the proposed responsible individual of the applicant, any material litigation in which the applicant has been involved, and any litigation involving the proposed responsible individual relating to the provision of money services;
+
+.. A description of any money services previously provided by the applicant and the money services that the applicant seeks to provide in this state;
+
+.. A list of the applicant's proposed authorized delegates and the locations in this state where the applicant and its authorized delegates propose to engage in currency exchange;
+
+.. A list of other states in which the applicant engages in currency exchange or provides other money services and any license revocations, suspensions, restrictions, or other disciplinary action taken against the applicant in another state;
+
+.. A list of any license revocations, suspensions, restrictions, or other disciplinary action taken against any money services business involving the proposed responsible individual;
+
+.. Information concerning any bankruptcy or receivership proceedings involving or affecting the applicant or the proposed responsible individual;
+
+.. A sample form of contract for authorized delegates, if applicable;
+
+.. A description of the source of money and credit to be used by the applicant to provide currency exchange; and
+
+.. Any other information regarding the background, experience, character, financial responsibility, and general fitness of the applicant, the applicant's responsible individual, or authorized delegates that the director may require in rule.
+
+. If an applicant is a corporation, limited liability company, partnership, or other entity, the applicant shall also provide:
+
+.. The date of the applicant's incorporation or formation and state or country of incorporation or formation;
+
+.. If applicable, a certificate of good standing from the state or country in which the applicant is incorporated or formed;
+
+.. A brief description of the structure or organization of the applicant, including any parent or subsidiary of the applicant, and whether any parent or subsidiary is publicly traded;
+
+.. The legal name, any fictitious or trade name, all business and residential addresses, date of birth, social security number, and employment history in the ten-year period preceding the submission of the application for each executive officer, board director, or person that has control of the applicant;
+
+.. If the applicant or its corporate parent is not a publicly traded entity, the director may request the fingerprints for each executive officer, board director, or person that has control of the applicant; and
+
+.. A list of any criminal convictions, material litigation, and any litigation related to the provision of money services, in which any executive officer, board director, or person in control of the applicant has been involved in the ten-year period preceding the submission of the application.
+
+. A nonrefundable application fee and an initial license fee, as determined in rule by the director, must accompany an application for a currency exchange license under this chapter. The license fee must be refunded if the application is denied.
+
+. The director may waive one or more requirements of subsection (1) or (2) of this section or permit an applicant to submit other information in lieu of the required information.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2011[2003 c 287 § 11]; ]
+
+== 19.230.100 - Issuance of a currency exchange license—Surrender of license.
+. When an application for a currency exchange license is filed under this chapter, the director or the director's designee shall investigate the applicant's financial condition and responsibility, financial and business experience, competence, character, and general fitness. The director or the director's designee may conduct an on-site investigation of the applicant, the cost of which must be paid by the applicant as specified in RCW 19.230.320 or rules adopted under this chapter. The director shall issue a currency exchange license to an applicant under this chapter if the director or the director's designee finds that all of the following conditions have been fulfilled:
+
+.. The applicant has complied with RCW 19.230.090;
+
+.. The financial and business experience, competence, character, and general fitness of the applicant; and the competence, financial and business experience, character, and general fitness of the executive officers, proposed responsible individual, board directors, and persons in control of the applicant indicate that it is in the interest of the public to permit the applicant to engage in the business of providing currency exchange; and
+
+.. Neither the applicant, nor any executive officer, nor person who exercises control over the applicant, nor the proposed responsible individual are listed on the specially designated nationals and blocked persons list prepared by the United States department of treasury or department of state under Presidential Executive Order No. 13224.
+
+. The director may for good cause extend the application review period.
+
+. An applicant whose application is denied by the director under this chapter may appeal under chapter 34.05 RCW.
+
+. A currency exchange license issued under this chapter is valid from the date of issuance and remains in effect with no fixed date of expiration unless otherwise suspended or revoked by the director, or unless the license expires for nonpayment of the annual assessment and any late fee, if applicable.
+
+. A currency exchange licensee may surrender a license by providing the director with a written notice of surrender through the nationwide licensing system. The written notice of surrender must include notice of where the records of the licensee will be stored and the name, address, telephone number, and other contact information of a responsible party who is authorized to provide access to the records. The surrender of a license does not reduce or eliminate the licensee's civil or criminal liability arising from acts or omissions occurring prior to the surrender of the license, including any administrative actions undertaken by the director or the director's designee to revoke or suspend a license, to assess fines, to order payment of restitution, or to exercise any other authority authorized under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5031-S.SL.pdf?cite=2017%20c%2030%20§%208[2017 c 30 § 8]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2012[2003 c 287 § 12]; ]
+
+== 19.230.110 - Annual assessment and annual report.
+. A licensee shall pay an annual assessment as established in rule by the director no later than the annual assessment due date or, if the annual assessment due date is not a business day, on the next business day. A licensee shall pay an annual assessment based on the previous year's Washington dollar volume of: (a) Money transmissions; (b) payment instruments; (c) currency exchanges; and (d) prepaid access sales. The total minimum assessment must be one thousand dollars per year, and the maximum assessment may not exceed one hundred thousand dollars per year.
+
+. A licensee shall submit an accurate annual report with the annual assessment, in a form and in a medium prescribed by the director in rule. The annual report must state or contain:
+
+.. If the licensee is a money transmitter, a copy of the licensee's most recent audited annual financial statement or, if the licensee is a wholly owned subsidiary of another corporation, the most recent audited consolidated annual financial statement of the parent corporation or the licensee's most recent audited consolidated annual financial statement;
+
+.. A description of each material change, as defined in rule by the director, to information submitted by the licensee in its original license application which has not been previously reported to the director on any required report;
+
+.. If the licensee is a money transmitter, a list of the licensee's permissible investments and a certification that the licensee continues to maintain permissible investments according to the requirements set forth in RCW 19.230.200 and 19.230.210;
+
+.. If the licensee is a money transmitter, proof that the licensee continues to maintain an adequate bond as required by RCW 19.230.050; and
+
+.. A list of the locations where the licensee or an authorized delegate of the licensee engages in or provides money services to persons in Washington state.
+
+. If a licensee does not file an annual report or pay its annual assessment by the annual assessment due date, the director or the director's designee shall send the licensee a notice of suspension and assess the licensee a late fee not to exceed twenty-five percent of the annual assessment as established in rule by the director. The licensee's annual report and payment of both the annual assessment and the late fee must arrive in the department's offices by 5:00 p.m. on the thirtieth day after the assessment due date or any extension of time granted by the director, unless that date is not a business day, in which case the licensee's annual report and payment of both the annual assessment and the late fee must arrive in the department's offices by 5:00 p.m. on the next occurring business day. If the licensee's annual report and payment of both the annual assessment and late fee do not arrive by such date, the expiration of the licensee's license is effective at 5:00 p.m. on the thirtieth day after the assessment due date, unless that date is not a business day, in which case the expiration of the licensee's license is effective at 5:00 p.m. on the next occurring business day. The director, or the director's designee, may reinstate the license if, within twenty days after its effective date, the licensee:
+
+.. Files the annual report and pays both the annual assessment and the late fee; and
+
+.. Did not engage in or provide money services during the period its license was expired.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5031-S.SL.pdf?cite=2017%20c%2030%20§%209[2017 c 30 § 9]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1327-S.SL.pdf?cite=2013%20c%20106%20§%204[2013 c 106 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6371-S.SL.pdf?cite=2010%20c%2073%20§%206[2010 c 73 § 6]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2013[2003 c 287 § 13]; ]
+
+== 19.230.120 - Relationship between licensee and authorized delegate.
+. In this section, "remit" means to make direct payments of money to a licensee or its representative authorized to receive money or to deposit money in a bank in an account specified by the licensee.
+
+. A contract between a licensee and an authorized delegate must require the authorized delegate to operate in full compliance with this chapter and the rules adopted under this chapter.
+
+. Neither the licensee nor an authorized delegate may authorize subdelegates.
+
+. An authorized delegate shall remit all money owing to the licensee in accordance with the terms of the contract between the licensee and the authorized delegate.
+
+. If a license is suspended or revoked or a licensee surrenders its license, the director shall notify all of the licensee's authorized delegates whose names are filed with the director, at the address of record with the director, of the suspension, revocation, or surrender and shall publish the name of the licensee. An authorized delegate shall immediately cease to provide money services as a delegate of the licensee upon receipt of notice, or after publication is made, that the licensee's license has been suspended, revoked, or surrendered.
+
+. An authorized delegate may not provide money services other than those allowed the licensee under its license. In addition, an authorized delegate may not provide money services outside the scope of activity permissible under the contract between the authorized delegate and the licensee, except activity in which the authorized delegate is authorized to engage under RCW 19.230.030 or 19.230.080.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1327-S.SL.pdf?cite=2013%20c%20106%20§%205[2013 c 106 § 5]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2014[2003 c 287 § 14]; ]
+
+== 19.230.130 - Authority to conduct examinations and investigations.
+. For the purpose of discovering violations of this chapter or rules adopted under this chapter, discovering unsafe and unsound practices, or securing information lawfully required under this chapter, the director may at any time, either personally or by designee, investigate or examine the business and, wherever located, the books, accounts, records, papers, documents, files, and other information used in the business of every licensee or its authorized delegates, and of every person who is engaged in the business of providing money services, whether the person acts or claims to act under or without the authority of this chapter. For these purposes, the director or designated representative shall have free access to the offices and places of business, books, accounts, papers, documents, other information, records, files, safes, and vaults of all such persons. The director or the director's designee may require the attendance of and examine under oath all persons whose testimony may be required about the business or the subject matter of any investigation, examination, or hearing and may require such person to produce books, accounts, papers, documents, records, files, and any other information the director or designated person declares is relevant to the inquiry. The director may require the production of original books, accounts, papers, documents, records, files, and other information; may require that such original books, accounts, papers, documents, records, files, and other information be copied; or may make copies himself or herself or by designee of such original books, accounts, papers, documents, records, files, or other information. The director or designated person may issue a directive, subpoena, or subpoena duces tecum requiring attendance or compelling production of the books, accounts, papers, documents, records, files, or other information.
+
+. The licensee, applicant, or person subject to licensing under this chapter shall pay the cost of examinations and investigations as specified in RCW 19.230.320 or rules adopted under this chapter.
+
+. Information obtained during an examination or investigation under this chapter may be disclosed only as provided in RCW 19.230.190.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5031-S.SL.pdf?cite=2017%20c%2030%20§%2010[2017 c 30 § 10]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2015[2003 c 287 § 15]; ]
+
+== 19.230.133 - Subpoena authority—Application—Contents—Notice—Fees.
+. The director or authorized assistants may apply for and obtain a superior court order approving and authorizing a subpoena in advance of its issuance. The application may be made in the county where the subpoenaed person resides or is found, or the county where the subpoenaed documents, records, or evidence are located, or in Thurston county. The application must:
+
+.. State that an order is sought under this section;
+
+.. Adequately specify the documents, records, evidence, or testimony; and
+
+.. Include a declaration made under oath that an investigation is being conducted for a lawfully authorized purpose related to an investigation within the department's authority and that the subpoenaed documents, records, evidence, or testimony are reasonably related to an investigation within the department's authority.
+
+. When an application under this section is made to the satisfaction of the court, the court must issue an order approving the subpoena. An order under this subsection constitutes authority of law for the agency to subpoena the documents, records, evidence, or testimony.
+
+. The director or authorized assistants may seek approval and a court may issue an order under this section without prior notice to any person, including the person to whom the subpoena is directed and the person who is the subject of an investigation. An application for court approval is subject to the fee and process set forth in RCW 36.18.012(3).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5076.SL.pdf?cite=2011%20c%2093%20§%206[2011 c 93 § 6]; ]
+
+== 19.230.140 - Examinations—Joint and concurrent examinations.
+. The director may: Conduct an on-site examination, participate in a joint or concurrent examination with other state or federal agencies, or investigate the books, accounts, records, papers, documents, files, and other information used in the business of every licensee or its authorized delegates in conjunction with representatives of other state agencies or agencies of another state or of the federal government. The director may accept an examination report or an investigation report of an agency of this state or of another state or of the federal government.
+
+. A joint or concurrent examination or investigation, or an acceptance of an examination or investigation report, does not preclude the director from conducting an examination or investigation under this chapter. A joint report or a report accepted under this section is an official report of the director for all purposes.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5031-S.SL.pdf?cite=2017%20c%2030%20§%2011[2017 c 30 § 11]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2016[2003 c 287 § 16]; ]
+
+== 19.230.150 - Reports.
+. A licensee shall file with the director within thirty days any material changes in information provided in a licensee's application as prescribed in rule by the director. If this information indicates that the licensee is no longer in compliance with this chapter, the director may take any action authorized under this chapter to ensure that the licensee operates in compliance with this chapter.
+
+. A licensee shall report all licensee branch locations and all authorized delegates to the nationwide licensing system within thirty days of the contractual agreement with the licensee to provide money services in Washington. Accurate records must be maintained within the licensing system as prescribed in rule.
+
+. A licensee shall file a report with the director within one business day after the licensee has reason to know of the occurrence of any of the following events:
+
+.. The filing of a petition by or against the licensee, or any authorized delegate of the licensee, under the United States Bankruptcy Code (11 U.S.C. Sec. 101-110) for bankruptcy or reorganization;
+
+.. The filing of a petition by or against the licensee, or any authorized delegate of the licensee, for receivership, the commencement of any other judicial or administrative proceeding for its dissolution or reorganization, or the making of a general assignment for the benefit of its creditors;
+
+.. The commencement of a proceeding to revoke, suspend, restrict, or condition its license, or otherwise discipline or sanction the licensee, in a state or country in which the licensee engages in business or is licensed;
+
+.. The cancellation or other impairment of the licensee's bond;
+
+.. A charge or conviction of the licensee or of an executive officer, responsible individual, board director of the licensee, or person in control of the licensee, for a felony; or
+
+.. A charge or conviction of an authorized delegate for a felony.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5031-S.SL.pdf?cite=2017%20c%2030%20§%2012[2017 c 30 § 12]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1327-S.SL.pdf?cite=2013%20c%20106%20§%206[2013 c 106 § 6]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2017[2003 c 287 § 17]; ]
+
+== 19.230.152 - Reports—Nationwide licensing system.
+Each licensee shall submit reports of condition through a nationwide licensing system which must be in the form and must contain the information as the director may require.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5031-S.SL.pdf?cite=2017%20c%2030%20§%2013[2017 c 30 § 13]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6134.SL.pdf?cite=2014%20c%2036%20§%204[2014 c 36 § 4]; ]
+
+== 19.230.160 - Change of control.
+. A licensee shall:
+
+.. Provide the director with written notice of a proposed change of control within fifteen days after learning of the proposed change of control and at least thirty days prior to the proposed change of control;
+
+.. Request approval of the change of control by submitting the information required in rule by the director; and
+
+.. Submit, with the notice, a nonrefundable fee as prescribed in rule by the director.
+
+. After review of a request for approval under subsection (1) of this section, the director may require the licensee to provide additional information concerning the licensee's proposed persons in control. The additional information must be limited to the same types required of the licensee, or persons in control of the licensee, as part of its original license application.
+
+. The director shall approve a request for change of control under subsection (1) of this section if, after investigation, the director determines that the person, or group of persons, requesting approval meets the criteria for licensing set forth in RCW 19.230.070 and 19.230.100 and that the public interest will not be jeopardized by the change of control.
+
+. Subsection (1) of this section does not apply to a public offering of securities.
+
+. Before filing a request for approval to acquire control of a licensee, or person in control of a licensee, a person may request in writing a determination from the director as to whether the person would be considered a person in control of a licensee upon consummation of a proposed transaction. If the director determines that the person would not be a person in control of a licensee, the director shall respond in writing to that effect and the proposed person and transaction is not subject to the requirements of subsections (1) through (3) of this section.
+
+. The director may exempt by rule any person from the requirements of subsection (1)(a) of this section, if it is in the public interest to do so.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2018[2003 c 287 § 18]; ]
+
+== 19.230.170 - Records.
+. A licensee shall maintain the following records for determining its compliance with this chapter for at least five years:
+
+.. A general ledger posted at least monthly containing all assets, liabilities, capital, income, and expense accounts;
+
+.. Bank statements and bank reconciliation records;
+
+.. Monthly reports about permissible investments;
+
+.. A list of the last known names and addresses of all of the licensee's authorized delegates;
+
+.. Copies of all currency transaction reports and suspicious activity reports filed in compliance with RCW 19.230.180; and
+
+.. Any other records required in rule by the director.
+
+. The items specified in subsection (1) of this section may be maintained in any form of record that is readily accessible to the director or the director's designee upon request.
+
+. Records may be maintained outside this state if they are made accessible to the director on seven business days' notice that is sent in writing.
+
+. All records maintained by the licensee are open to inspection by the director or the director's designee.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6371-S.SL.pdf?cite=2010%20c%2073%20§%207[2010 c 73 § 7]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2019[2003 c 287 § 19]; ]
+
+== 19.230.180 - Money laundering reports.
+Every licensee and its authorized delegates shall file all reports required by federal currency reporting, recordkeeping, and suspicious transaction reporting requirements with the appropriate federal agency as set forth in 31 U.S.C. Sec. 5311, 31 C.F.R. Part 1022, and other federal and state laws pertaining to money laundering. Every licensee and its authorized delegates shall maintain copies of these reports in its records in compliance with RCW 19.230.170.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5031-S.SL.pdf?cite=2017%20c%2030%20§%2014[2017 c 30 § 14]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6371-S.SL.pdf?cite=2010%20c%2073%20§%208[2010 c 73 § 8]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2020[2003 c 287 § 20]; ]
+
+== 19.230.190 - Confidentiality.
+. Except as otherwise provided in subsection (2) of this section, all information or reports obtained by the director from an applicant, licensee, or authorized delegate and all information contained in, or related to, examination, investigation, operating, or condition reports prepared by, on behalf of, or for the use of the director, or financial statements, balance sheets, or authorized delegate information, are confidential and are not subject to disclosure under chapter 42.56 RCW.
+
+. The director may disclose information not otherwise subject to disclosure under subsection (1) of this section to representatives of state or federal agencies who agree in writing to maintain the confidentiality of the information; or if the director finds that the release is reasonably necessary for the protection of the public and in the interests of justice.
+
+. This section does not prohibit the director from disclosing to the public a list of persons licensed or reported with the department as authorized delegates under this chapter or the aggregated financial data concerning those licensees.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5031-S.SL.pdf?cite=2017%20c%2030%20§%2015[2017 c 30 § 15]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1133-S.SL.pdf?cite=2005%20c%20274%20§%20237[2005 c 274 § 237]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2021[2003 c 287 § 21]; ]
+
+== 19.230.200 - Maintenance of permissible investments.
+. [Empty]
+.. A money transmitter licensee must maintain, at all times, permissible investments that have a market value computed in accordance with generally accepted accounting principles of not less than the amount of the licensee's average daily transmission liability. Average daily transmission liability means the sum of the daily amounts of a licensee's outstanding money transmissions, as computed each day of the month divided by the number of days in the month.
+
+.. A licensee transmitting virtual currencies must hold like-kind virtual currencies of the same volume as that held by the licensee but which is obligated to consumers in lieu of the permissible investments required in (a) of this subsection.
+
+.. A licensee transmitting both money and virtual currency must maintain applicable levels and types of permissible investments as described in (a) and (b) of this subsection.
+
+. The director, with respect to any money transmitter licensee, may limit the extent to which a type of investment within a class of permissible investments may be considered a permissible investment, except for money, time deposits, savings deposits, demand deposits, and certificates of deposit issued by a federally insured financial institution. The director may prescribe in rule, or by order allow, other types of investments that the director determines to have a safety substantially equivalent to other permissible investments.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5031-S.SL.pdf?cite=2017%20c%2030%20§%2016[2017 c 30 § 16]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1327-S.SL.pdf?cite=2013%20c%20106%20§%207[2013 c 106 § 7]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6371-S.SL.pdf?cite=2010%20c%2073%20§%209[2010 c 73 § 9]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2022[2003 c 287 § 22]; ]
+
+== 19.230.210 - Types of permissible investments.
+. Except to the extent otherwise limited by the director under RCW 19.230.200, the following investments are permissible for a money transmitter licensee under RCW 19.230.200:
+
+.. Cash on hand. Time deposits, savings deposits, demand deposits, certificates of deposit, or senior debt obligations of an insured depositary institution as defined in section 3 of the federal Deposit Insurance Act (12 U.S.C. Sec. 1813) or as defined under the federal Credit Union Act (12 U.S.C. Sec. 1781);
+
+.. Banker's acceptance or bill of exchange that is eligible for purchase upon endorsement by a member bank of the federal reserve system and is eligible for purchase by a federal reserve bank;
+
+.. An investment bearing a rating of one of the three highest grades as defined by a nationally recognized organization that rates securities;
+
+.. An investment security that is an obligation of the United States or a department, agency, or instrumentality thereof; an investment in an obligation that is guaranteed fully as to principal and interest by the United States; or an investment in an obligation of a state or a governmental subdivision, agency, or instrumentality thereof;
+
+.. Receivables that are payable to a licensee from its authorized delegates, in the ordinary course of business, pursuant to contracts which are not past due or doubtful of collection, if the aggregate amount of receivables under this subsection (1)(e) does not exceed thirty percent of the total permissible investments of a licensee and the licensee does not hold, at one time, receivables under this subsection (1)(e) in any one person aggregating more than ten percent of the licensee's total permissible investments; and
+
+.. A share or a certificate issued by an open-end management investment company that is registered with the United States securities and exchange commission under the Investment Companies Act of 1940 (15 U.S.C. Sec. 80(a)(1) through (64), and whose portfolio is restricted by the management company's investment policy to investments specified in (a) through (d) of this subsection.
+
+. The following investments are permissible under RCW 19.230.200, but only to the extent specified as follows:
+
+.. An interest-bearing bill, note, bond, or debenture of a person whose equity shares are traded on a national securities exchange or on a national over-the-counter market, if the aggregate of investments under this subsection (2)(a) does not exceed twenty percent of the total permissible investments of a licensee and the licensee does not, at one time, hold investments under this subsection (2)(a) in any one person aggregating more than ten percent of the licensee's total permissible investments;
+
+.. A share of a person traded on a national securities exchange or a national over-the-counter market or a share or a certificate issued by an open-end management investment company that is registered with the United States securities and exchange commission under the Investment Companies Act of 1940 (15 U.S.C. Sec. 80(a)(1) through (64), and whose portfolio is restricted by the management company's investment policy to shares of a person traded on a national securities exchange or a national over-the-counter market, if the aggregate of investments under this subsection (2)(b) does not exceed twenty percent of the total permissible investments of a licensee and the licensee does not, at one time, hold investments under this subsection (2)(b) in any one person aggregating more than ten percent of the licensee's total permissible investments;
+
+.. A demand-borrowing agreement made to a corporation or a subsidiary of a corporation whose securities are traded on a national securities exchange, if the aggregate of the amount of principal and interest outstanding under demand-borrowing agreements under this subsection (2)(c) does not exceed twenty percent of the total permissible investments of a licensee and the licensee does not, at one time, hold principal and interest outstanding under demand-borrowing agreements under this subsection (2)(c) with any one person aggregating more than ten percent of the licensee's total permissible investments; and
+
+.. Any other investment the director designates, to the extent specified in rule by the director.
+
+. The aggregate of investments under subsection (2) of this section may not exceed fifty percent of the total permissible investments of a licensee.
+
+. A licensee may not use any portion of a restricted asset as a permissible investment. Restricted assets include, but are not limited to, surety bonds or any other assets pledged to other persons or entities. The director may establish by rule other restricted assets.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5031-S.SL.pdf?cite=2017%20c%2030%20§%2017[2017 c 30 § 17]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6371-S.SL.pdf?cite=2010%20c%2073%20§%2010[2010 c 73 § 10]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2023[2003 c 287 § 23]; ]
+
+== 19.230.220 - Administrative proceedings.
+All administrative proceedings under this chapter must be conducted in accordance with the administrative procedure act, chapter 34.05 RCW. Any licensee or authorized delegate subject to a statement of charges and order of intent from the director shall be provided with an opportunity for a hearing as provided for in the administrative procedure act. Unless the person subject to the order appears in person or is represented by counsel at the hearing, the person has consented to issuance of the order. If after a hearing, the director finds by a preponderance of the evidence that grounds for sanctions under this chapter exist, then the director may impose any sanctions authorized by this chapter in a final order. As provided for in RCW 19.230.260, a temporary order to cease and desist is effective upon service upon the licensee or authorized delegate, and remains effective pending a hearing to determine if the order shall become permanent.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2024[2003 c 287 § 24]; ]
+
+== 19.230.230 - License suspension, revocation—Receivership.
+. The director may issue an order to suspend, revoke, or condition a license, place a licensee in receivership, revoke the designation of an authorized delegate, compel payment of restitution by a licensee to damaged parties, require affirmative actions as are necessary by a licensee to comply with this chapter or rules adopted under this chapter, or remove from office or prohibit from participation in the affairs of any authorized delegate or any licensee, or both, any responsible individual, executive officer, person in control, or employee of the licensee, if:
+
+.. The licensee violates this chapter or a rule adopted or an order issued under this chapter or is convicted of a violation of a state or federal money laundering or terrorism statute;
+
+.. The licensee does not cooperate with an examination, investigation, or subpoena lawfully issued by the director or the director's designee;
+
+.. The licensee engages in fraud, intentional misrepresentation, or gross negligence;
+
+.. An authorized delegate is convicted of a violation of a state or federal money laundering statute, or violates this chapter or a rule adopted or an order issued under this chapter as a result of the licensee's willful misconduct or deliberate avoidance of knowledge;
+
+.. The financial condition and responsibility, competence, experience, character, or general fitness of the licensee, authorized delegate, person in control of a licensee, or responsible individual of the licensee or authorized delegate indicates that it is not in the public interest to permit the person to provide money services;
+
+.. The licensee engages in an unsafe or unsound practice, or an unfair and deceptive act or practice;
+
+.. The licensee is insolvent, fails to maintain the required net worth, suspends payment of its obligations, or makes a general assignment for the benefit of its creditors;
+
+.. The licensee does not remove an authorized delegate after the director issues and serves upon the licensee a final order including a finding that the authorized delegate has violated this chapter; or
+
+.. The licensee, its responsible individual, or any of its executive officers or other persons in control of the licensee are listed or become listed on the specially designated nationals and blocked persons list prepared by the United States department of the treasury as a potential threat to commit terrorist acts or to finance terrorist acts.
+
+. In determining whether a licensee or other person subject to this chapter is engaging in an unsafe or unsound practice, the director may consider the size and condition of the licensee's money transmission services, the magnitude of the loss or potential loss to consumers or others, the gravity of the violation of this chapter, any action against the licensee by another state or the federal government, and the previous conduct of the person involved.
+
+. The director shall immediately suspend any certification of licensure issued under this chapter if the holder of the certificate has been certified pursuant to RCW 74.20A.320 by the department of social and health services as a person who is not in compliance with a support order. If the person has continued to meet all other requirements for certification during the suspension, reissuance of the certificate of licensure shall be automatic upon the director's receipt of a release issued by the department of social and health services stating that the person is in compliance with the order.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2025[2003 c 287 § 25]; ]
+
+== 19.230.233 - Informal settlement of complaints or enforcement actions.
+Except to the extent prohibited by another statute, the director may engage in informal settlement of complaints or enforcement actions including, but not limited to, payment to the department for purposes of financial literacy and education programs authorized under RCW 43.320.150.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2255-S.SL.pdf?cite=2012%20c%2017%20§%2016[2012 c 17 § 16]; ]
+
+== 19.230.240 - Suspension and revocation of authorized delegates.
+. The director may issue an order to suspend, revoke, or condition the designation of an authorized delegate, impose civil penalties, require payment of restitution to damaged parties, require affirmative actions as are necessary to comply with this chapter or the rules adopted under this chapter, or remove from office or prohibit from participation in the affairs of the authorized delegate or licensee, or both, any executive officer, person in control, or employee of the authorized delegate if the director finds that:
+
+.. The authorized delegate violated this chapter or a rule adopted or an order issued under this chapter;
+
+.. The authorized delegate does not cooperate with an examination, investigation, or subpoena lawfully issued by the director or the director's designee;
+
+.. The authorized delegate engaged in fraud, intentional misrepresentation, or gross negligence;
+
+.. The authorized delegate is convicted of a violation of a state or federal money laundering or terrorism statute;
+
+.. The competence, experience, character, or general fitness of the authorized delegate or a person in control of the authorized delegate indicates that it is not in the public interest to permit the authorized delegate to provide money services;
+
+.. The authorized delegate engaged in or is engaging in an unsafe or unsound practice, or unfair and deceptive act or practice; or
+
+.. The authorized delegate, or any of its executive officers or other persons in control of the authorized delegate, are listed or become listed on the specially designated nationals and blocked persons list prepared by the United States department of the treasury as a potential threat to commit terrorist acts or to finance terrorist acts.
+
+. In determining whether an authorized delegate is engaging in an unsafe or unsound practice, the director may consider the size and condition of the authorized delegate's provision of money services, the magnitude of the loss or potential loss to consumers or others, the gravity of the violation of this chapter or a rule adopted or order issued under this chapter, any action against the authorized delegate taken by another state or the federal government, and the previous conduct of the authorized delegate.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2026[2003 c 287 § 26]; ]
+
+== 19.230.250 - Unlicensed persons.
+. If the director has reason to believe that a person has violated or is violating RCW 19.230.030 or 19.230.080, the director or the director's designee may conduct an examination or investigation as authorized under RCW 19.230.130.
+
+. If as a result of such investigation or examination, the director finds that a person has violated RCW 19.230.030 or 19.230.080, the director may issue a temporary cease and desist order as authorized under RCW 19.230.260.
+
+. If as a result of such an investigation or examination, the director finds that a person has violated RCW 19.230.030 or 19.230.080, the director may issue an order to prohibit the person from continuing to engage in providing money services, to compel the person to pay restitution to damaged parties, to impose civil money penalties on the person, which may include the costs and expenses to investigate and prosecute violations of this chapter, and to prohibit from participation in the affairs of any licensee or authorized delegate, or both, any executive officer, person in control, or employee of the person.
+
+. The director may petition the superior court for the issuance of a temporary restraining order under the rules of civil procedure.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5031-S.SL.pdf?cite=2017%20c%2030%20§%2018[2017 c 30 § 18]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2027[2003 c 287 § 27]; ]
+
+== 19.230.260 - Temporary orders to cease and desist.
+. If the director determines that a violation of this chapter or of a rule adopted or an order issued under this chapter by a licensee, authorized delegate, or other person subject to this chapter is likely to cause immediate and irreparable harm to the licensee, its customers, or the public as a result of the violation, or cause insolvency or significant dissipation of the assets of the licensee, the director may issue a temporary order to cease and desist requiring the licensee, authorized delegate, or other person subject to this chapter to cease and desist from conducting business in this state or to cease and desist from the violation or undertake affirmative actions as are necessary to comply with this chapter, any rule adopted under this chapter, or order issued by the director under this chapter. The order is effective upon service upon the licensee, authorized delegate, or other person subject to this chapter.
+
+. A temporary order to cease and desist remains effective and enforceable pending the completion of an administrative proceeding under chapter 34.05 RCW. If, after a hearing, the director finds that by a preponderance of the evidence, all or any part of the order is supported by the facts, the director may make the temporary order to cease and desist permanent under chapter 34.05 RCW.
+
+. A licensee, an authorized delegate, or other person subject to this chapter that is served with a temporary order to cease and desist may petition the superior court for a judicial order setting aside, limiting, or suspending the enforcement, operation, or effectiveness of the order pending the completion of an administrative proceeding under chapter 34.05 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2028[2003 c 287 § 28]; ]
+
+== 19.230.270 - Consent orders.
+The director may enter into a consent order at any time with a person to resolve a matter arising under this chapter or a rule adopted or order issued under this chapter. A consent order must be signed by the person to whom it is issued or by the person's authorized representative, and must indicate agreement with the terms contained in the order.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2029[2003 c 287 § 29]; ]
+
+== 19.230.280 - Violations—Liability.
+. A licensee is liable for any conduct violating this chapter or rules adopted under this chapter committed by employees of the licensee.
+
+. A licensee that commits willful misconduct in its supervision of its authorized delegate or willfully avoids knowledge of its authorized delegate's business activities may be subjected to administrative sanctions for any violations of this chapter or rules adopted under this chapter by the licensee's authorized delegates.
+
+. The responsible individual is responsible under the license and may be subjected to administrative sanctions for any violations of this chapter or rules adopted under this chapter committed by the licensee or, if the responsible individual commits willful misconduct in supervising an authorized delegate or willfully avoids knowledge of an authorized delegate's business activities, violations committed by the licensee's authorized delegates.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2030[2003 c 287 § 30]; ]
+
+== 19.230.290 - Civil penalties.
+The director may assess a civil penalty against a licensee, responsible individual, authorized delegate, or other person that violates this chapter or a rule adopted or an order issued under this chapter in an amount not to exceed one hundred dollars per violation per day for each day the violation is outstanding, plus this state's costs and expenses for the investigation and prosecution of the matter, including reasonable attorneys' fees.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5031-S.SL.pdf?cite=2017%20c%2030%20§%2019[2017 c 30 § 19]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2031[2003 c 287 § 31]; ]
+
+== 19.230.300 - Criminal penalties.
+. A person that intentionally makes a false statement, misrepresentation, or false certification in a record filed or required to be maintained under this chapter or that intentionally makes a false entry or omits a material entry in that record is guilty of a class C felony under chapter 9A.20 RCW.
+
+. A person that knowingly engages in an activity for which a license is required under this chapter without being licensed under this chapter and who receives more than five hundred dollars in compensation within a thirty-day period from this activity is guilty of a gross misdemeanor under chapter 9A.20 RCW.
+
+. A person that knowingly engages in an activity for which a license is required under this chapter without being licensed under this chapter and who receives no more than five hundred dollars in compensation within a thirty-day period from this activity is guilty of a misdemeanor under chapter 9A.20 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2032[2003 c 287 § 32]; ]
+
+== 19.230.303 - Statute of limitations.
+The statute of limitations on actions not subject to RCW 4.16.160 that are brought under this chapter by the director is five years.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6134.SL.pdf?cite=2014%20c%2036%20§%203[2014 c 36 § 3]; ]
+
+== 19.230.310 - Administration and rule-making powers.
+The director has the authority and administrative discretion to administer and interpret this chapter to fulfill the intent of the legislature as expressed in RCW 19.230.005. In accordance with chapter 34.05 RCW, the director may issue rules under this chapter that are clearly required to govern the activities of licensees and other persons subject to this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1327-S.SL.pdf?cite=2013%20c%20106%20§%208[2013 c 106 § 8]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2033[2003 c 287 § 33]; ]
+
+== 19.230.320 - Fees.
+. The director shall establish fees by rule sufficient to cover the costs of administering this chapter. The director may establish different fees for each type of license authorized under this chapter. These fees may include:
+
+.. An annual assessment specified in rule by the director paid by each licensee on or before the annual assessment due date;
+
+.. A late fee for late payment of the annual assessment as specified in rule by the director;
+
+.. An hourly investigation fee to cover the costs of any investigation of the books and records of a licensee or other person subject to this chapter;
+
+.. A nonrefundable application fee to cover the costs of processing license applications made to the director under this chapter;
+
+.. An initial license fee to cover the period from the date of licensure to the end of the calendar year in which the license is initially granted; and
+
+.. A transaction fee or set of transaction fees to cover the administrative costs associated with processing changes in control, changes of address, and other administrative changes as specified in rule by the director.
+
+. The director shall ensure that when an examination or investigation, or any part of the examination or investigation, of any licensee applicant or person subject to licensing under this chapter, requires travel and services outside this state by the director or designee, the licensee applicant or person subject to licensing under this chapter that is the subject of the examination or investigation shall pay the actual travel expenses incurred by the director or designee conducting the examination or investigation.
+
+. All moneys, fees, and penalties collected under this chapter shall be deposited into the financial services regulation account.
+
+. The director or designee may waive all or a portion of the fees and assessments under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5031-S.SL.pdf?cite=2017%20c%2030%20§%2020[2017 c 30 § 20]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6371-S.SL.pdf?cite=2010%20c%2073%20§%2011[2010 c 73 § 11]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2034[2003 c 287 § 34]; ]
+
+== 19.230.330 - Money transmitter delivery, receipts, and refunds.
+. [Empty]
+.. Every money transmitter licensee and its authorized delegates shall transmit the monetary equivalent of all money or equivalent value received from a customer for transmission, net of any fees, or issue instructions committing the money or its monetary equivalent, to the person designated by the customer within ten business days after receiving the money or equivalent value, unless otherwise ordered by the customer or when the transmission is for the payment of goods or services or unless the licensee or its authorized delegate has reason to believe that a crime has occurred, is occurring, or may occur as a result of transmitting the money. For purposes of this subsection, money is considered to have been transmitted when it is available to the person designated by the customer and a reasonable effort has been made to inform this designated person that the money is available, whether or not the designated person has taken possession of the money. As used in this subsection, "monetary equivalent," when used in connection with a money transmission in which the customer provides the licensee or its authorized delegate with the money of one government, and the designated recipient is to receive the money of another government, means the amount of money, in the currency of the government that the designated recipient is to receive, as converted at the retail exchange rate offered by the licensee or its authorized delegate to the customer in connection with the transaction.
+
+.. A money transmitter licensee that accepts money or its equivalent from consumers purchasing goods or services from third-party merchants and transmits the money or its equivalent to those merchants selling the goods or services to the consumer must:
+
+... Transmit the money or its equivalent to the merchant within the time frame agreed upon in the merchant's agreement with the money transmitter licensee; and
+
+... Conspicuously disclose to the merchant in the agreement the money transmitter licensee's authority to place a hold or delay in transmittal of consumer money or its equivalent for more than ten business days and the general circumstances under which the merchant may be subject to a hold or delay.
+
+. [Empty]
+.. Every money transmitter licensee and its authorized delegates shall provide a receipt to the customer that clearly states the amount of money presented for transmission and the total of any fees charged by the licensee. If the rate of exchange for a money transmission to be paid in the currency of another country is fixed by the licensee for that transaction at the time the money transmission is initiated, then the receipt provided to the customer shall disclose the rate of exchange for that transaction, and the duration, if any, for the payment to be made at the fixed rate of exchange so specified. If the rate of exchange for a money transmission to be paid in the currency of another country is not fixed at the time the money transmission is sent, the receipt provided to the customer shall disclose that the rate of exchange for that transaction will be set at the time the recipient of the money transmission picks up the funds in the foreign country. The receipt shall also contain the licensee name, address, and phone number. As used in this section, "fees" does not include revenue that a licensee or its authorized delegate generates, in connection with a money transmission, in the conversion of the money of one government into the money of another government.
+
+.. Licensees acting as payment processors not excluded from this chapter do not have to comply with (a) of this subsection if they have no control over receipts issued by merchants or other parties having interactions with the consumer.
+
+. Every money transmitter licensee and its authorized delegates shall refund to the customer all moneys received for transmittal within ten days of receipt of a written request for a refund unless any of the following occurs:
+
+.. The moneys have been transmitted and delivered to the person designated by the customer prior to receipt of the written request for a refund;
+
+.. Instructions have been given committing an equivalent amount of money to the person designated by the customer prior to receipt of a written request for a refund;
+
+.. The licensee or its authorized delegate has reason to believe that a crime has occurred, is occurring, or may potentially occur as a result of transmitting the money as requested by the customer or refunding the money as requested by the customer; or
+
+.. The licensee is otherwise barred by law from making a refund.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5031-S.SL.pdf?cite=2017%20c%2030%20§%2022[2017 c 30 § 22]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6273-S.SL.pdf?cite=2014%20c%20206%20§%201[2014 c 206 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6371-S.SL.pdf?cite=2010%20c%2073%20§%2012[2010 c 73 § 12]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2035[2003 c 287 § 35]; ]
+
+== 19.230.340 - Prohibited practices.
+It is a violation of this chapter for any licensee, executive officer, responsible individual, or other person subject to this chapter in connection with the provision of money services to:
+
+. Directly or indirectly employ any scheme, device, or artifice to defraud or mislead any person, including but not limited to engaging in bait and switch advertising or sales practices;
+
+. Directly or indirectly engage in any unfair or deceptive act or practice toward any person, including but not limited to any false or deceptive statement about fees or other terms of a money transmission or currency exchange;
+
+. Directly or indirectly obtain property by fraud or misrepresentation;
+
+. Knowingly make, publish, or disseminate any false, deceptive, or misleading information in the provision of money services;
+
+. Knowingly receive or take possession for personal use of any property of any money services business, other than in payment for services rendered, and with intent to defraud, omit to make, or cause or direct to omit to make, a full and true entry thereof in the books and accounts of the business;
+
+. Make or concur in making any false entry, or omit or concur in omitting any material entry, in the books or accounts of the business;
+
+. Knowingly make or publish to the director or director's designee, or concur in making or publishing to the director or director's designee any written report, exhibit, or statement of its affairs or pecuniary condition containing any material statement which is false, or omit or concur in omitting any statement required by law to be contained therein; or
+
+. Fail to make any report or statement lawfully required by the director or other public official.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2036[2003 c 287 § 36]; ]
+
+== 19.230.350 - Third-party account administrators—Licensure required—Requirements.
+. A third-party account administrator must be licensed as a money transmitter under this chapter and comply with the following additional requirements:
+
+.. A debtor's funds must be held in an account at an insured financial institution;
+
+.. A debtor owns the funds held in the account and must be paid accrued interest on the account, if any;
+
+.. A third-party account administrator may not be owned or controlled by, or in any way affiliated with, a debt adjuster;
+
+.. A third-party account administrator may not give or accept any money or other compensation in exchange for referrals of business involving a debt adjuster;
+
+.. A debtor may withdraw from the service provided by a third-party account administrator at any time without penalty and must receive all funds in the account, other than funds earned by a debt adjuster in compliance with chapter 18.28 RCW, within seven business days of the debtor's request; and
+
+.. A contract between a third-party account administrator and a debtor must disclose in precise terms the rate and amount of all charges and fees. In addition, the contract must include a statement that is substantially similar to the following: "Under the Washington Debt Adjusting Act, the total fees you are charged for debt adjusting services may not exceed fifteen percent of the total amount of debt you listed on your contract with the debt adjuster. This includes fees charged by a debt adjuster, a third-party account administrator, and a financial institution." The disclosures required by this subsection (1)(f) must be on the front page of the contract and must be in at least twelve-point type.
+
+. The legislature finds and declares that any violation of this section substantially affects the public interest and is an unfair and deceptive act or practice and [an] unfair method of competition in the conduct of trade or commerce as set forth in RCW 19.86.020. In addition to all remedies available in chapter 19.86 RCW, a person injured by a violation of this section may bring a civil action to recover the actual damages proximately caused by a violation of this section, or one thousand dollars, whichever is greater.
+
+. For purposes of this section and RCW 19.230.360:
+
+.. "Debt adjuster" has the same meaning as defined in RCW 18.28.010;
+
+.. "Third-party account administrator" means an independent entity that holds or administers a dedicated bank account for fees and payments to creditors, debt collectors, debt adjusters, or debt adjusting agencies in connection with the renegotiation, settlement, reduction, or other alteration of the terms of payment or other terms of a debt. "Third-party account administrator" does not include an entity that is otherwise exempt from this chapter under RCW 19.230.020.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6155.SL.pdf?cite=2012%20c%2056%20§%203[2012 c 56 § 3]; ]
+
+== 19.230.360 - Third-party account administrators—Record maintenance.
+. A third-party account administrator shall maintain the following records for at least five years:
+
+.. All contracts the third-party account administrator has entered into with debtors and debt adjusters;
+
+.. Account statements identifying and itemizing deposits, transfers, disbursements, and fees; and
+
+.. Any other records required in rule by the director.
+
+. All records maintained by the third-party account administrator are open to inspection by the director or the director's designee.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6155.SL.pdf?cite=2012%20c%2056%20§%204[2012 c 56 § 4]; ]
+
+== 19.230.370 - Virtual currency licensees—Disclosures.
+. Virtual currency licensees must provide to any person seeking to use the licensee's products or services the disclosures required by subsection (2) of this section.
+
+. As applicable, virtual currency licensees must make the following disclosures:
+
+.. A schedule of all fees and charges the licensee may assess on a transaction, how the fees and charges will be calculated if not set in advance and disclosed, and the timing of the fees and charges.
+
+.. Whether the product or service provided is insured or guaranteed by an agency of the United States, such as the federal deposit insurance corporation or the securities investor protection corporation or by private insurance against theft or loss, including cybertheft or theft by other means.
+
+.. A notice that the transfer of virtual currency or digital units is irrevocable and any exception to the irrevocability of transfer.
+
+.. A notice describing the licensee's liability for unauthorized, mistaken, or accidental transfers and, describing the user's responsibility for providing notice of such mistake to the licensee and of general error-resolution rights applicable to any transaction.
+
+. Licensees must provide any additional disclosures the director may require as set forth in rule.
+
+. Disclosures required by this section must be made separately from any other information provided by the licensee and in a clear and conspicuous manner.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5031-S.SL.pdf?cite=2017%20c%2030%20§%2021[2017 c 30 § 21]; ]
+
+== 19.230.900 - Short title.
+This chapter may be known and cited as the uniform money services act.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%201[2003 c 287 § 1]; ]
+
+== 19.230.901 - Effective date—2003 c 287.
+This act takes effect October 1, 2003.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2037[2003 c 287 § 37]; ]
+
+== 19.230.902 - Implementation.
+The director or the director's designee may take such steps as are necessary to ensure that chapter 287, Laws of 2003 is implemented on October 1, 2003. In particular, the director or the director's designee shall conduct outreach to small businesses and immigrant communities to enhance awareness of and compliance with state and federal laws governing money transmission and currency exchange, and to provide technical assistance in applying for a license under this chapter and understanding the requirements of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2038[2003 c 287 § 38]; ]
+
+== 19.230.903 - Uniformity of application and construction.
+In applying and construing this chapter, consideration must be given to the need to promote uniformity of the law with respect to its subject matter among states that enact it.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2003%20c%20287%20§%2039[2003 c 287 § 39]; ]
+

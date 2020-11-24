@@ -1,0 +1,28 @@
+= 60.76 - Lien of employees for contributions to benefit plans.
+:toc:
+
+== 60.76.010 - Lien authorized.
+Every employer who is required to pay contributions, by agreement or otherwise, into a fund of any employee benefit plan in order that his or her employee may participate therein, shall pay such contributions in the required amounts and at the stipulated time or each employee affected thereby shall have a lien on the earnings and on all property used in the operation of said employer's business to the extent of the moneys, plus any penalties, due to be paid by or on his or her behalf in order to qualify him or her for participation therein, and for any moneys expended or obligations incurred for medical, hospital, or other expenses to which he or she would have been entitled had such required contributions been paid.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20158[2012 c 117 § 158]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c86.pdf?cite=1961%20c%2086%20§%201[1961 c 86 § 1]; ]
+
+== 60.76.020 - Notice of lien—Contents—Filing and serving.
+The lien claimant, or his or her representative on his or her behalf, or the trustee of the fund on the claimant's behalf, within sixty days after such payment becomes due shall file for record with the auditor of the county wherein the claimant is or was employed by such employer a notice of claim, containing a statement of the demand, the name of the employer, and the name of the person employing the claimant, if known, with a statement of the pertinent terms and conditions of the employee benefit plan and the time when such contributions are due and were to have been paid, and shall serve or mail a copy thereof to said employer within such time.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20159[2012 c 117 § 159]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c86.pdf?cite=1961%20c%2086%20§%202[1961 c 86 § 2]; ]
+
+== 60.76.030 - Manner of serving notice.
+Service of the notice of claim may be made in the same manner as summons in civil actions.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c86.pdf?cite=1961%20c%2086%20§%203[1961 c 86 § 3]; ]
+
+== 60.76.040 - Manner of enforcing lien—Costs.
+The lien may be enforced within the same time and in the same manner as mechanics' liens are foreclosed when said lien is upon real property, or within the same time and in the same manner as chattel liens are enforced when the lien is upon personal property. The court may allow, as part of the costs of the action, the moneys paid for filing or recording the claim, a reasonable attorney's fee in the superior court, court of appeals, and supreme court, and court costs.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971c81.pdf?cite=1971%20c%2081%20§%20130[1971 c 81 § 130]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c86.pdf?cite=1961%20c%2086%20§%204[1961 c 86 § 4]; ]
+
+== 60.76.050 - Priority of lien.
+The lien created herein shall be preferred to any encumbrance which may attach after the contribution payments became due and is also preferred to any encumbrance which may have attached previous to that time, but which was not filed or recorded so as to create constructive notice thereof prior to that time, and of which the lien claimant had no notice.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c86.pdf?cite=1961%20c%2086%20§%205[1961 c 86 § 5]; ]
+

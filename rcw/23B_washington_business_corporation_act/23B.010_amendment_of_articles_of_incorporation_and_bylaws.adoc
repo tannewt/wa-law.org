@@ -1,0 +1,202 @@
+= 23B.10 - Amendment of articles of incorporation and bylaws.
+:toc:
+
+== 23B.10.010 - Authority to amend articles of incorporation.
+. A corporation may amend its articles of incorporation at any time to add or change a provision that is required or permitted in the articles of incorporation or to delete a provision not required in the articles of incorporation. Whether a provision is required or permitted in the articles of incorporation is determined as of the effective date of the amendment.
+
+. A shareholder of the corporation does not have a vested property right resulting from any provision in the articles of incorporation, including provisions relating to management, control, capital structure, dividend entitlement, or purpose or duration of the corporation.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c165.pdf?cite=1989%20c%20165%20§%20120[1989 c 165 § 120]; ]
+
+== 23B.10.012 - Certificate of authority as insurance company—Filing of records.
+For those corporations that have a certificate of authority, are applying for, or intend to apply for a certificate of authority from the insurance commissioner as an insurance company under chapter 48.05 RCW, whenever under this chapter corporate records are required to be filed with the secretary of state, the records shall be filed with the insurance commissioner rather than the secretary of state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2301-S.SL.pdf?cite=2002%20c%20297%20§%2033[2002 c 297 § 33]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1065-S2.SL.pdf?cite=1998%20c%2023%20§%209[1998 c 23 § 9]; ]
+
+== 23B.10.020 - Amendment of articles of incorporation by board of directors.
+Unless the articles of incorporation provide otherwise, a corporation's board of directors may adopt one or more amendments to the corporation's articles of incorporation without shareholder approval:
+
+. If the corporation has only one class of shares outstanding, to provide, change, or eliminate any provision with respect to the par value of any class of shares;
+
+. To delete the names and addresses of the initial directors;
+
+. To delete the name and address of the initial registered agent or registered office, if a statement of change is on file with the secretary of state;
+
+. If the corporation has only one class of shares outstanding, solely to:
+
+.. Effect a forward split of, or change the number of authorized shares of that class in proportion to a forward split of, or stock dividend in, the corporation's outstanding shares; or
+
+.. Effect a reverse split of the corporation's outstanding shares and the number of authorized shares of that class in the same proportions;
+
+. To change the corporate name; or
+
+. To make any other change expressly permitted by this title to be made without shareholder approval.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1068.SL.pdf?cite=2009%20c%20189%20§%2031[2009 c 189 § 31]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5123.SL.pdf?cite=2003%20c%2035%20§%203[2003 c 35 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c165.pdf?cite=1989%20c%20165%20§%20121[1989 c 165 § 121]; ]
+
+== 23B.10.030 - Amendment of articles of incorporation by board of directors and shareholders.
+. A corporation's board of directors may propose one or more amendments to the articles of incorporation for submission to the shareholders.
+
+. For the amendment to be adopted:
+
+.. The board of directors must recommend the amendment to the shareholders unless (i) the board of directors determines that because of conflict of interest or other special circumstances it should make no recommendation or (ii) RCW 23B.08.245 applies, and in either case the board of directors communicates the basis for so proceeding to the shareholders; and
+
+.. The shareholders entitled to vote on the amendment must approve the amendment as provided in subsection (5) of this section.
+
+. The board of directors may condition its submission of the proposed amendment on any basis, including the affirmative vote of holders of a specified percentage of shares held by any group of shareholders not otherwise entitled under this title or the articles of incorporation to vote as a separate voting group on the proposed amendment.
+
+. The corporation shall notify each shareholder, whether or not entitled to vote, of the proposed shareholders' meeting in accordance with RCW 23B.07.050. The notice of meeting must also state that the purpose, or one of the purposes, of the meeting is to consider the proposed amendment and contain or be accompanied by a copy of the amendment.
+
+. In addition to any other voting conditions imposed by the board of directors under subsection (3) of this section, the amendment to be adopted must be approved by two-thirds, or, in the case of a public company, a majority, of the voting group comprising all the votes entitled to be cast on the proposed amendment, and of each other voting group entitled under RCW 23B.10.040 or the articles of incorporation to vote separately on the proposed amendment. The articles of incorporation may require a greater vote than that provided for in this subsection. The articles of incorporation of a corporation other than a public company may require a lesser vote than that provided for in this subsection, or may require a lesser vote by separate voting groups, so long as the required vote is not less than a majority of all the votes entitled to be cast on the proposed amendment and of each other voting group entitled to vote separately on the proposed amendment. Separate voting by additional voting groups is required on a proposed amendment under the circumstances described in RCW 23B.10.040.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1052.SL.pdf?cite=2011%20c%20328%20§%205[2011 c 328 § 5]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5123.SL.pdf?cite=2003%20c%2035%20§%204[2003 c 35 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c165.pdf?cite=1989%20c%20165%20§%20122[1989 c 165 § 122]; ]
+
+== 23B.10.040 - Voting on amendments to articles of incorporation by voting groups.
+. Except as otherwise required by subsection (3) of this section or otherwise permitted by subsection (4) of this section, the holders of the outstanding shares of a class or series are entitled to vote as a separate voting group on a proposed amendment if shareholder voting is otherwise required by this title and if the amendment would:
+
+.. Increase the aggregate number of authorized shares of the class or series;
+
+.. Effect an exchange or reclassification of all or part of the issued and outstanding shares of the class or series into shares of another class or series, thereby adversely affecting the holders of the shares so exchanged or reclassified;
+
+.. Change the rights, preferences, or limitations of all or part of the issued and outstanding shares of the class or series, thereby adversely affecting the holders of shares of the class or series;
+
+.. Change all or part of the issued and outstanding shares of the class or series into a different number of shares of the same class or series, thereby adversely affecting the holders of shares of the class or series;
+
+.. Create a new class or series of shares having rights or preferences with respect to distributions or to dissolution that are, or upon designation by the board of directors in accordance with RCW 23B.06.020 may be, prior, superior, or substantially equal to the shares of the class or series;
+
+.. Increase the rights or preferences with respect to distributions or to dissolution, or the number of authorized shares of any class or series that, after giving effect to the amendment, has rights or preferences with respect to distributions or to dissolution that are, or upon designation by the board of directors in accordance with RCW 23B.06.020 may be, prior, superior, or substantially equal to the shares of the class or series;
+
+.. Limit or deny an existing preemptive right of all or part of the shares of the class or series;
+
+.. Cancel or otherwise adversely affect rights to distributions or dividends that have accumulated but not yet been declared on all or part of the shares of the class or series; or
+
+.. Effect a redemption or cancellation of all or part of the shares of the class or series in exchange for cash or any other form of consideration other than shares of the corporation.
+
+. If a proposed amendment would affect only a series of a class of shares in one or more of the ways described in subsection (1) of this section, only the shares of that series are entitled to vote as a separate voting group on the proposed amendment. A voting group entitled to vote separately under this section may never comprise a group of holders smaller than the holders of a single class or series authorized and designated as a class or series in the articles of incorporation, unless otherwise provided in the articles of incorporation or unless the board of directors conditions its submission of the proposed amendment on a separate vote by one or more smaller voting groups.
+
+. If a proposed amendment, that would otherwise entitle two or more classes or series of shares to vote as separate voting groups under this section, would affect those two or more classes or series in the same or a substantially similar way, then instead of voting as separate voting groups the shares of all similarly affected classes or series shall vote together as a single voting group on the proposed amendment, unless otherwise provided in the articles of incorporation or unless the board of directors conditions its submission of the proposed amendment on a separate vote by one or more classes or series.
+
+. A class or series of shares is entitled to the voting group rights granted by this section although the articles of incorporation generally describe the shares of the class or series as nonvoting shares. The articles of incorporation may, however, limit or deny the voting group rights granted by subsection (1)(a), (e), or (f) of this section as to any class or series of issued or unissued shares, by means of a provision that makes explicit reference to the limitation or denial of voting group rights that would otherwise apply under subsection (1)(a), (e), or (f) of this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5123.SL.pdf?cite=2003%20c%2035%20§%205[2003 c 35 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c165.pdf?cite=1989%20c%20165%20§%20123[1989 c 165 § 123]; ]
+
+== 23B.10.050 - Amendment of articles of incorporation before issuance of shares.
+If a corporation has not yet issued shares, its board of directors, or incorporators if initial directors were not named in the articles of incorporation and have not been elected, may adopt one or more amendments to the corporation's articles of incorporation.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c165.pdf?cite=1989%20c%20165%20§%20124[1989 c 165 § 124]; ]
+
+== 23B.10.060 - Articles of amendment.
+A corporation amending its articles of incorporation must deliver to the secretary of state for filing articles of amendment stating:
+
+. The name of the corporation;
+
+. The text of each amendment adopted;
+
+. If an amendment provides for an exchange, reclassification, or cancellation of issued shares, provisions for implementing the amendment if not contained in the amendment itself;
+
+. The date of each amendment's adoption;
+
+. If an amendment was adopted by the incorporators or board of directors without shareholder approval, a statement to that effect and that shareholder approval was not required;
+
+. If shareholder approval was required, a statement that the amendment was duly approved by the shareholders in accordance with the provisions of RCW 23B.10.030 and 23B.10.040; and
+
+. If an amendment is being filed pursuant to RCW 23B.01.200(3)(e), a statement to that effect.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6037-S.SL.pdf?cite=2020%20c%20194%20§%2010[2020 c 194 § 10]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1068.SL.pdf?cite=2009%20c%20189%20§%2032[2009 c 189 § 32]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c165.pdf?cite=1989%20c%20165%20§%20125[1989 c 165 § 125]; ]
+
+== 23B.10.070 - Restated articles of incorporation.
+. Any officer of the corporation may restate its articles of incorporation at any time.
+
+. A restatement may include one or more amendments to the articles of incorporation. If the restatement includes an amendment not requiring shareholder approval, it must be adopted by the board of directors. If the restatement includes an amendment requiring shareholder approval, it must be adopted in accordance with RCW 23B.10.030.
+
+. If the board of directors submits a restatement for shareholder approval, the corporation shall notify each shareholder, whether or not entitled to vote, of the proposed shareholders' meeting in accordance with RCW 23B.07.050. The notice must also state that the purpose, or one of the purposes, of the meeting is to consider the proposed restatement and contain or be accompanied by a copy of the restatement that identifies any amendment or other change it would make in the articles of incorporation.
+
+. A corporation restating its articles of incorporation shall deliver to the secretary of state for filing articles of restatement setting forth the name of the corporation and the text of the restated articles of incorporation together with a certificate setting forth:
+
+.. If the restatement does not include an amendment to the articles of incorporation, a statement to that effect;
+
+.. If the restatement contains an amendment to the articles of incorporation not requiring shareholder approval, a statement that the board of directors adopted the restatement and the date of such adoption;
+
+.. If the restatement contains an amendment to the articles of incorporation requiring shareholder approval, the information required by RCW 23B.10.060; and
+
+.. Both the articles of restatement and the certificate must be executed.
+
+. Duly adopted restated articles of incorporation supersede the original articles of incorporation and all amendments to them.
+
+. The secretary of state may certify restated articles of incorporation, as the articles of incorporation currently in effect, without including the certificate information required by subsection (4) of this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1068.SL.pdf?cite=2009%20c%20189%20§%2033[2009 c 189 § 33]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=1991%20c%2072%20§%2036[1991 c 72 § 36]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c165.pdf?cite=1989%20c%20165%20§%20126[1989 c 165 § 126]; ]
+
+== 23B.10.080 - Amendment of articles of incorporation pursuant to reorganization.
+. A corporation's articles of incorporation may be amended without approval by the board of directors or shareholders to carry out a plan of reorganization ordered or decreed by a court of competent jurisdiction under federal statute if the articles of incorporation after amendment contain only provisions required or permitted by RCW 23B.02.020.
+
+. The individual or individuals designated by the court shall deliver to the secretary of state for filing articles of amendment setting forth:
+
+.. The name of the corporation;
+
+.. The text of each amendment approved by the court;
+
+.. The date of the court's order or decree approving the articles of amendment;
+
+.. The title of the reorganization proceeding in which the order or decree was entered; and
+
+.. A statement that the court had jurisdiction of the proceeding under federal statute.
+
+. Shareholders of a corporation undergoing reorganization do not have dissenters' rights except as and to the extent provided in the reorganization plan.
+
+. This section does not apply after entry of a final decree in the reorganization proceeding even though the court retains jurisdiction of the proceeding for limited purposes unrelated to consummation of the reorganization plan.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1068.SL.pdf?cite=2009%20c%20189%20§%2034[2009 c 189 § 34]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c165.pdf?cite=1989%20c%20165%20§%20127[1989 c 165 § 127]; ]
+
+== 23B.10.090 - Effect of amendment of articles of incorporation.
+An amendment to articles of incorporation does not affect a cause of action existing against or in favor of the corporation, a proceeding to which the corporation is a party, or the existing rights of persons other than shareholders of the corporation. An amendment changing a corporation's name does not abate a proceeding brought by or against the corporation in its former name.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c165.pdf?cite=1989%20c%20165%20§%20128[1989 c 165 § 128]; ]
+
+== 23B.10.200 - Amendment of bylaws by board of directors or shareholders.
+. A corporation's board of directors, subject to the limitations set forth in *RCW 23B.02.060(4), may amend or repeal the corporation's bylaws, or adopt new bylaws, except to the extent that:
+
+.. This power is reserved exclusively to the shareholders pursuant to the articles of incorporation or a shareholders' agreement authorized by RCW 23B.07.320, or pursuant to RCW 23B.10.205, 23B.10.210, or any other provision of this title; or
+
+.. The shareholders, in amending, repealing, or adopting a particular bylaw under subsection (2) of this section, provide expressly that the board of directors may not amend or repeal that bylaw.
+
+. A corporation's shareholders, subject to the limitations set forth in *RCW 23B.02.060(4), may amend or repeal the corporation's bylaws, or adopt new bylaws, even though the bylaws may also be amended or repealed, or new bylaws may also be adopted, by its board of directors.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1052.SL.pdf?cite=2011%20c%20328%20§%203[2011 c 328 § 3]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1068.SL.pdf?cite=2009%20c%20189%20§%2035[2009 c 189 § 35]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1041-S.SL.pdf?cite=2007%20c%20467%20§%207[2007 c 467 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c165.pdf?cite=1989%20c%20165%20§%20129[1989 c 165 § 129]; ]
+
+== 23B.10.205 - Amendment of bylaws—Election of directors.
+. Unless the articles of incorporation specifically prohibit the adoption of a bylaw pursuant to this section or alter the vote specified in RCW 23B.07.280(4), or cumulative voting is authorized, a public company may elect in its bylaws to be governed in the election of directors as follows:
+
+.. Each vote entitled to be cast may be voted for, voted against, or withheld for one or more candidates up to that number of candidates that is equal to the number of directors to be elected but without cumulating the votes, or a shareholder may indicate an abstention for one or more candidates;
+
+.. To be elected, a candidate must have received the number, percentage, or level of votes specified in the bylaws; provided that holders of shares entitled to vote in the election and constituting a quorum are present at the meeting. Except in a contested election as provided in (e) of this subsection, a candidate who does not receive the number, percentage, or level of votes specified in the bylaws but who was a director at the time of the election shall continue to serve as a director for a term that shall terminate on the date that is the earlier of (i) the date specified in the bylaw, but not longer than ninety days from the date on which the voting results are determined pursuant to RCW 23B.07.035(2), or (ii) the date on which an individual is selected by the board of directors to fill the office held by such director, which selection shall be deemed to constitute the filling of a vacancy by the board to which RCW 23B.08.100 applies;
+
+.. A bylaw adopted pursuant to this section may provide that votes cast against and/or withheld as to a candidate are to be taken into account in determining whether the number, percentage, or level of votes required for election has been received. Unless the bylaw specifies otherwise, only votes cast are to be taken into account and a ballot marked "withheld" in respect to a share is deemed to be a vote cast. Unless the bylaws specify otherwise, shares otherwise present at the meeting but for which there is an abstention or as to which no authority or direction to vote in the election is given or specified, are not deemed to be votes cast in the election;
+
+.. The board of directors may select any qualified individual to fill the office held by a director who did not receive the specified vote for election referenced in (b) of this subsection; and
+
+.. Unless the bylaw specifies otherwise, a bylaw adopted pursuant to this subsection (1) shall not apply to an election of directors by a voting group if (i) at the expiration of the time fixed under a provision requiring advance notification of director candidates, or (ii) absent such a provision, at a time fixed by the board of directors which is not more than fourteen days before notice is given of the meeting at which the election is to occur, there are more candidates for election by the voting group than the number of directors to be elected, one or more of whom are properly proposed by shareholders. An individual shall not be considered a candidate for purposes of this subsection (1)(e) if the board of directors determines before the notice of meeting is given that such individual's candidacy does not create a bona fide election contest.
+
+. A bylaw containing an election to be governed by this section may be repealed or amended:
+
+.. If originally adopted by the shareholders, only by the shareholders, unless the bylaw otherwise provides; or
+
+.. If adopted by the board of directors, by the board of directors or the shareholders.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5003-S.SL.pdf?cite=2019%20c%20141%20§%204[2019 c 141 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1068.SL.pdf?cite=2009%20c%20189%20§%2036[2009 c 189 § 36]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1041-S.SL.pdf?cite=2007%20c%20467%20§%205[2007 c 467 § 5]; ]
+
+== 23B.10.210 - Bylaw increasing quorum or voting requirements for directors.
+. A bylaw that fixes a greater quorum or voting requirement for the board of directors may be amended or repealed:
+
+.. If originally adopted by the shareholders, only by the shareholders; or
+
+.. If originally adopted by the board of directors, either by the shareholders or by the board of directors.
+
+. A bylaw adopted or amended by the shareholders that fixes a greater quorum or voting requirement for the board of directors may provide that it may be amended or repealed only by a specified vote of either the shareholders or the board of directors.
+
+. If the corporation is a public company, approval by the board of directors under subsection (1)(b) of this section to adopt or amend a bylaw that changes the quorum or voting requirement for the board of directors must meet the quorum requirement and be approved by the vote required for approval under the quorum and voting requirement then in effect.
+
+. If the corporation is not a public company, approval by the board of directors under subsection (1)(b) of this section to adopt or amend a bylaw that changes the quorum or voting requirement for the board of directors must meet the same quorum requirement and be approved by the same vote required for approval under the quorum and voting requirement then in effect or proposed to be adopted, whichever is greater.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1068.SL.pdf?cite=2009%20c%20189%20§%2037[2009 c 189 § 37]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c165.pdf?cite=1989%20c%20165%20§%20130[1989 c 165 § 130]; ]
+

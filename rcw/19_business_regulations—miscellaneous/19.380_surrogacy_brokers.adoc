@@ -1,0 +1,28 @@
+= 19.380 - Surrogacy brokers.
+:toc:
+
+== 19.380.010 - Regulation of surrogacy brokers.
+. This section applies to surrogacy brokers arranging or facilitating transactions contemplated by a surrogacy agreement under RCW 26.26A.700 through 26.26A.785 if: (a) A surrogacy broker does business in Washington state; (b) a surrogate who is party to a surrogacy agreement resides in Washington state during the term of the surrogacy agreement; or (c) any medical procedures under the surrogacy agreement are performed in Washington state.
+
+. A surrogacy broker to which this section applies:
+
+.. Must keep all funds paid by or on behalf of the intended parents in a separate, licensed escrow account;
+
+.. May not be owned or managed, in any part, directly or indirectly by any lawyer representing a party to the surrogacy agreement;
+
+.. May not pay or receive payment, directly or indirectly, to or from any person licensed to practice law and representing a party to the surrogacy agreement in connection with the referral of any person or party for the purpose of a surrogacy agreement;
+
+.. May not pay or receive payment, directly or indirectly, to or from any health care provider providing any health services, including assisted reproduction, to a party to the surrogacy agreement; and
+
+.. May not be owned or managed, in any part, directly or indirectly, by any health care provider providing any health services, including assisted reproduction, to a party to the surrogacy agreement.
+
+. For purposes of this section:
+
+.. The definitions in RCW 26.26A.010 and 26.26A.700 apply.
+
+.. "Payment" means any type of monetary compensation or other valuable consideration including but not limited to a rebate, refund, commission, unearned discount, or profit by means of credit or other valuable consideration.
+
+.. "Surrogacy broker" includes but is not limited to any agency, agent, business, or individual engaged in, arranging, or facilitating transactions contemplated by a surrogacy agreement, regardless of whether that surrogacy agreement ultimately comports with the requirements of chapter 26.26A RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6037-S.SL.pdf?cite=2018%20c%206%20§%20905[2018 c 6 § 905]; ]
+

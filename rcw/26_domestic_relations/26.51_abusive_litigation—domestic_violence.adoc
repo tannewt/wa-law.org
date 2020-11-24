@@ -1,0 +1,139 @@
+= 26.51 - Abusive litigation—Domestic violence.
+:toc:
+
+== 26.51.010 - Findings—Intent. (Effective January 1, 2021.)
+The legislature recognizes that individuals who abuse their intimate partners often misuse court proceedings in order to control, harass, intimidate, coerce, and/or impoverish the abused partner. Court proceedings can provide a means for an abuser to exert and reestablish power and control over a domestic violence survivor long after a relationship has ended. The legal system unwittingly becomes another avenue that abusers exploit to cause psychological, emotional, and financial devastation. This misuse of the court system by abusers has been referred to as legal bullying, stalking through the courts, paper abuse, and similar terms. The legislature finds that the term "abusive litigation" is the most common term and that it accurately describes this problem. Abusive litigation against domestic violence survivors arises in a variety of contexts. Family law cases such as dissolutions, legal separations, parenting plan actions or modifications, and protection order proceedings are particularly common forums for abusive litigation. It is also not uncommon for abusers to file civil lawsuits against survivors, such as defamation, tort, or breach of contract claims. Even if a lawsuit is meritless, forcing a survivor to spend time, money, and emotional resources responding to the action provides a means for the abuser to assert power and control over the survivor.
+
+The legislature finds that courts have considerable authority to respond to abusive litigation tactics, while upholding litigants' constitutional rights to access to the courts. Because courts have inherent authority to control the conduct of litigants, they have considerable discretion to fashion creative remedies in order to curb abusive litigation. The legislature intends to provide the courts with an additional tool to curb abusive litigation and to mitigate the harms abusive litigation perpetuates.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6268-S.SL.pdf?cite=2020%20c%20311%20§%201[2020 c 311 § 1]; ]
+
+== 26.51.020 - Definitions. (Effective January 1, 2021.)
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Abusive litigation" means litigation where the following apply:
+
+.. [Empty]
+... The opposing parties have a current or former intimate partner relationship;
+
+... The party who is filing, initiating, advancing, or continuing the litigation has been found by a court to have committed domestic violence against the other party pursuant to: (A) An order entered under *this chapter; (B) a parenting plan with restrictions based on RCW 26.09.191(2)(a)(iii); or (C) a restraining order entered under chapter 26.09, **26.26, or 26.26A RCW, provided that the issuing court made a specific finding that the restraining order was necessary due to domestic violence; and
+
+... The litigation is being initiated, advanced, or continued primarily for the purpose of harassing, intimidating, or maintaining contact with the other party; and
+
+.. At least one of the following factors apply:
+
+... Claims, allegations, and other legal contentions made in the litigation are not warranted by existing law or by a reasonable argument for the extension, modification, or reversal of existing law, or the establishment of new law;
+
+... Allegations and other factual contentions made in the litigation are without the existence of evidentiary support; or
+
+... An issue or issues that are the basis of the litigation have previously been filed in one or more other courts or jurisdictions and the actions have been litigated and disposed of unfavorably to the party filing, initiating, advancing, or continuing the litigation.
+
+. "Intimate partner" is defined in RCW 26.50.010.
+
+. "Litigation" means any kind of legal action or proceeding including, but not limited to: (i) [(a)] Filing a summons, complaint, demand, or petition; (ii) [(b)] serving a summons, complaint, demand, or petition, regardless of whether it has been filed; (iii) [(c)] filing a motion, notice of court date, note for motion docket, or order to appear; (iv) [(d)] serving a motion, notice of court date, note for motion docket, or order to appear, regardless of whether it has been filed or scheduled; (v) [(e)] filing a subpoena, subpoena duces tecum, request for interrogatories, request for production, notice of deposition, or other discovery request; or (vi) [(f)] serving a subpoena, subpoena duces tecum, request for interrogatories, request for production, notice of deposition, or other discovery request.
+
+. "Perpetrator of abusive litigation" means a person who files, initiates, advances, or continues litigation in violation of an order restricting abusive litigation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6268-S.SL.pdf?cite=2020%20c%20311%20§%202[2020 c 311 § 2]; ]
+
+== 26.51.030 - Order restricting abusive litigation—Who may request, when—Instructions, brochures, and forms—Fees. (Effective January 1, 2021.)
+. A party to a case may request from the court an order restricting abusive litigation if the parties are current or former intimate partners and one party has been found by the court to have committed domestic violence against the other party:
+
+.. In any answer or response to the litigation being filed, initiated, advanced, or continued;
+
+.. By motion made at any time during any open or ongoing case; or
+
+.. By separate motion made under this chapter, within five years of the entry of an order for protection even if the order has since expired.
+
+. Any court of competent jurisdiction may, on its own motion, determine that a hearing pursuant to RCW 26.51.040 is necessary to determine if a party is engaging in abusive litigation.
+
+. The administrative office of the courts shall update the instructions, brochures, standard petition, and order for protection forms, and create new forms for the motion for order restricting abusive litigation and order restricting abusive litigation, and update the court staff handbook when changes in the law make an update necessary.
+
+. No filing fee may be charged to the unrestricted party for proceedings under this section regardless of whether it is filed under this chapter or another action in this title. Forms and instructional brochures shall be provided free of charge.
+
+. The provisions of this section are nonexclusive and do not affect any other remedy available.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6268-S.SL.pdf?cite=2020%20c%20311%20§%203[2020 c 311 § 3]; ]
+
+== 26.51.040 - Hearing—Procedure. (Effective January 1, 2021.)
+. If a party asserts that they are being subjected to abusive litigation, the court shall attempt to verify that the parties have or previously had an intimate partner relationship and that the party raising the claim of abusive litigation has been found to be a victim of domestic violence by the other party. If the court verifies that both elements are true, or is unable to verify that they are not true, the court shall set a hearing to determine whether the litigation meets the definition of abusive litigation.
+
+. At the time set for the hearing on the alleged abusive civil action, the court shall hear all relevant testimony and may require any affidavits, documentary evidence, or other records the court deems necessary.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6268-S.SL.pdf?cite=2020%20c%20311%20§%204[2020 c 311 § 4]; ]
+
+== 26.51.050 - Evidence creating a rebuttable presumption that the litigation is primarily for the purpose of harassing, intimidating, or maintaining contact with the other party. (Effective January 1, 2021.)
+At the hearing conducted pursuant to RCW 26.51.040, evidence of any of the following creates a rebuttable presumption that litigation is being initiated, advanced, or continued primarily for the purpose of harassing, intimidating, or maintaining contact with the other party:
+
+. The same or substantially similar issues between the same or substantially similar parties have been litigated within the past five years in the same court or any other court of competent jurisdiction; or
+
+. The same or substantially similar issues between the same or substantially similar parties have been raised, pled, or alleged in the past five years and were dismissed on the merits or with prejudice; or
+
+. Within the last ten years, the party allegedly engaging in abusive litigation has been sanctioned under superior court civil rule 11 or a similar rule or law in another jurisdiction for filing one or more cases, petitions, motions, or other filings, that were found to have been frivolous, vexatious, intransigent, or brought in bad faith involving the same opposing party; or
+
+. A court of record in another judicial district has determined that the party allegedly engaging in abusive litigation has previously engaged in abusive litigation or similar conduct and has been subject to a court order imposing prefiling restrictions.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6268-S.SL.pdf?cite=2020%20c%20311%20§%205[2020 c 311 § 5]; ]
+
+== 26.51.060 - Burden of proof—Dismissal or denial of pending abusive litigation—Entry of order restricting abusive litigation. (Effective January 1, 2021.)
+. If the court finds by a preponderance of the evidence that a party is engaging in abusive litigation, and that any or all of the motions or actions pending before the court are abusive litigation, the litigation shall be dismissed, denied, stricken, or resolved by other disposition with prejudice.
+
+. In addition to dismissal or denial of any pending abusive litigation within the jurisdiction of the court, the court shall enter an "order restricting abusive litigation." The order shall:
+
+.. Impose all costs of any abusive civil action pending in the court at the time of the court's finding pursuant to subsection (1) of this section against the party advancing the abusive litigation;
+
+.. Award the other party reasonable attorneys' fees and costs of responding to the abusive litigation including the cost of seeking the order restricting abusive litigation; and
+
+.. Identify the party protected by the order and impose prefiling restrictions upon the party found to have engaged in abusive litigation for a period of not less than forty-eight months nor more than seventy-two months.
+
+. If the court finds by a preponderance of the evidence that the litigation does not constitute abusive litigation, the court shall enter written findings and the litigation shall proceed. Nothing in this section or chapter shall be construed as limiting the court's inherent authority to control the proceedings and litigants before it.
+
+. The provisions of this section are nonexclusive and do not affect any other remedy available to the person who is protected by the order restricting abusive litigation or to the court.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6268-S.SL.pdf?cite=2020%20c%20311%20§%206[2020 c 311 § 6]; ]
+
+== 26.51.070 - Filing of new case or motion by person subject to an order restricting abusive litigation—Requirements—Procedures. (Effective January 1, 2021.)
+. Except as provided in this section, a person who is subject to an order restricting abusive litigation is prohibited from filing, initiating, advancing, or continuing the litigation against the protected party for the period of time the filing restrictions are in effect.
+
+. Notwithstanding subsection (1) of this section and consistent with the state Constitution, a person who is subject to an order restricting abusive litigation may seek permission to file a new case or a motion in an existing case using the procedure set out in subsection (3) of this section.
+
+. [Empty]
+.. A person who is subject to an order restricting litigation against whom prefiling restrictions have been imposed pursuant to this chapter who wishes to initiate a new case or file a motion in an existing case during the time the person is under filing restrictions must first appear before the judicial officer who imposed the prefiling restrictions to make application for permission to institute the civil action.
+
+.. [Empty]
+... The judicial officer may examine witnesses, court records, and any other available evidence to determine if the proposed litigation is abusive litigation or if there are reasonable and legitimate grounds upon which the litigation is based.
+
+... If the judicial officer determines the proposed litigation is abusive litigation, based on reviewing the records as well as any evidence from the person who is subject to the order, then it is not necessary for the person protected by the order to appear or participate in any way. If the judicial officer is unable to determine whether the proposed litigation is abusive without hearing from the person protected by the order, then the court shall issue an order scheduling a hearing, and notifying the protected party of the party's right to appear and/or participate in the hearing. The order should specify whether the protected party is expected to submit a written response. When possible, the protected party should be permitted to appear telephonically and provided instructions for how to appear telephonically.
+
+.. [Empty]
+... If the judicial officer believes the litigation that the party who is subject to the prefiling order is making application to file will constitute abusive litigation, the application shall be denied, dismissed, or otherwise disposed with prejudice.
+
+... If the judicial officer reasonably believes that the litigation the party who is subject to the prefiling order is making application to file will not be abusive litigation, the judicial officer may grant the application and issue an order permitting the filing of the case, motion, or pleading. The order shall be attached to the front of the pleading to be filed with the clerk. The party who is protected by the order shall be served with a copy of the order at the same time as the underlying pleading.
+
+.. The findings of the judicial officer shall be reduced to writing and made a part of the record in the matter. If the party who is subject to the order disputes the finding of the judge, the party may seek review of the decision as provided by the applicable court rules.
+
+. If the application for the filing of a pleading is granted pursuant to this section, the period of time commencing with the filing of the application requesting permission to file the action and ending with the issuance of an order permitting filing of the action shall not be computed as a part of any applicable period of limitations within which the matter must be instituted.
+
+. If, after a party who is subject to prefiling restrictions has made application and been granted permission to file or advance a case pursuant to this section, any judicial officer hearing or presiding over the case, or any part thereof, determines that the person is attempting to add parties, amend the complaint, or is otherwise attempting to alter the parties and issues involved in the litigation in a manner that the judicial officer reasonably believes would constitute abusive litigation, the judicial officer shall stay the proceedings and refer the case back to the judicial officer who granted the application to file, for further disposition.
+
+. [Empty]
+.. If a party who is protected by an order restricting abusive litigation is served with a pleading filed by the person who is subject to the order, and the pleading does not have an attached order allowing the pleading, the protected party may respond to the case by filing a copy of the order restricting abusive litigation.
+
+.. If it is brought to the attention of the court that a person against whom prefiling restrictions have been imposed has filed a new case or is continuing an existing case without having been granted permission pursuant to this section, the court shall dismiss, deny, or otherwise dispose of the matter. This action may be taken by the court on the court's own motion or initiative. The court may take whatever action against the perpetrator of abusive litigation deemed necessary and appropriate for a violation of the order restricting abusive litigation.
+
+.. If a party who is protected by an order restricting abusive litigation is served with a pleading filed by the person who is subject to the order, and the pleading does not have an attached order allowing the pleading, the protected party is under no obligation or duty to respond to the summons, complaint, petition, motion, to answer interrogatories, to appear for depositions, or any other responsive action required by rule or statute in a civil action.
+
+. If the judicial officer who imposed the prefiling restrictions is no longer serving in the same capacity in the same judicial district where the restrictions were placed, or is otherwise unavailable for any reason, any other judicial officer in that judicial district may perform the review required and permitted by this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6268-S.SL.pdf?cite=2020%20c%20311%20§%207[2020 c 311 § 7]; ]
+
+== 26.51.900 - Construction—2020 c 311.
+This act shall be construed liberally so as to effectuate the goal of protecting survivors of domestic violence from abusive litigation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6268-S.SL.pdf?cite=2020%20c%20311%20§%2011[2020 c 311 § 11]; ]
+
+== 26.51.901 - Effective date—2020 c 311.
+This act takes effect January 1, 2021.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6268-S.SL.pdf?cite=2020%20c%20311%20§%2013[2020 c 311 § 13]; ]
+

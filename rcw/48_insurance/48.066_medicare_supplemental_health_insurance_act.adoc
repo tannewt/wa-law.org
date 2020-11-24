@@ -1,0 +1,416 @@
+= 48.66 - Medicare supplemental health insurance act.
+:toc:
+
+== 48.66.010 - Short title—Intent—Application of chapter.
+This chapter shall be known and may be cited as "The Medicare Supplemental Health Insurance Act" and is intended to govern the content and sale of medicare supplemental insurance as defined in this chapter. The provisions of this chapter shall apply in addition to, rather than in place of, other requirements of Title 48 RCW.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c153.pdf?cite=1981%20c%20153%20§%201[1981 c 153 § 1]; ]
+
+== 48.66.020 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Medicare supplemental insurance" or "medicare supplement insurance policy" refers to a group or individual policy of disability insurance or a subscriber contract of a health care service contractor, a health maintenance organization, or a fraternal benefit society, which relates its benefits to medicare, or which is advertised, marketed, or designed primarily as a supplement to reimbursements under medicare for the hospital, medical, or surgical expenses of persons eligible for medicare. Such term does not include:
+
+.. A policy or contract of one or more employers or labor organizations, or of the trustees of a fund established by one or more employers or labor organizations, or combination thereof, for employees or former employees, or combination thereof, or for members or former members, or combination thereof, of the labor organizations; or
+
+.. A policy issued pursuant to a contract under section 1876 of the federal social security act (42 U.S.C. Sec. 1395 et seq.), or an issued policy under a demonstration specified in 42 U.S.C. Sec. 1395(g)(1); or
+
+.. Medicare advantage plans established under medicare part C; or
+
+.. Outpatient prescription drug plans established under medicare part D; or
+
+.. Any health care prepayment plan that provides benefits pursuant to an agreement under section 1833(a)(1)(A) of the federal social security act.
+
+. "Medicare" means the "Health Insurance for the Aged Act," Title XVIII of the Social Security Amendments of 1965, as then constituted or later amended.
+
+. "Medicare advantage plan" means a plan of coverage for health benefits under medicare part C as defined in 42 U.S.C. Sec. 1395w-28(b), and includes:
+
+.. Coordinated care plans which provide health care services, including but not limited to health maintenance organization plans (with or without a point-of-service option), plans offered by provider-sponsored organizations, and preferred provider organization plans;
+
+.. Medical savings account plans coupled with a contribution into a medicare advantage plan medical savings account; and
+
+.. Medicare advantage private fee-for-service plans.
+
+. "Medicare eligible expenses" means health care expenses of the kinds covered by medicare parts A and B, to the extent recognized as reasonable and medically necessary by medicare.
+
+. "Applicant" means:
+
+.. In the case of an individual medicare supplement insurance policy or subscriber contract, the person who seeks to contract for insurance benefits; and
+
+.. In the case of a group medicare supplement insurance policy or subscriber contract, the proposed certificate holder.
+
+. "Certificate" means any certificate delivered or issued for delivery in this state under a group medicare supplement insurance policy.
+
+. "Loss ratio" means the incurred claims as a percentage of the earned premium computed under rules adopted by the insurance commissioner.
+
+. "Preexisting condition" means a covered person's medical condition that caused that person to have received medical advice or treatment during a specified time period immediately prior to the effective date of coverage.
+
+. "Disclosure form" means the form designated by the insurance commissioner which discloses medicare benefits, the supplemental benefits offered by the insurer, and the remaining amount for which the insured will be responsible.
+
+. "Issuer" includes insurance companies, health care service contractors, health maintenance organizations, fraternal benefit societies, and any other entity delivering or issuing for delivery medicare supplement policies or certificates to a resident of this state.
+
+. "Bankruptcy" means when a medicare advantage organization that is not an issuer has filed, or has had filed against it, a petition for declaration of bankruptcy and has ceased doing business in the state.
+
+. "Continuous period of creditable coverage" means the period during which an individual was covered by creditable coverage, if during the period of the coverage the individual had no breaks in coverage greater than sixty-three days.
+
+. [Empty]
+.. "Creditable coverage" means, with respect to an individual, coverage of the individual provided under any of the following:
+
+... A group health plan;
+
+... Health insurance coverage;
+
+... Part A or part B of Title XVIII of the social security act (medicare);
+
+... Title XIX of the social security act (medicaid), other than coverage consisting solely of benefits under section 1928;
+
+.. Chapter 55 of Title 10 U.S.C. (CHAMPUS);
+
+.. A medical care program of the Indian health service or of a tribal organization;
+
+.. A state health benefits risk pool;
+
+.. A health plan offered under chapter 89 of Title 5 U.S.C. (federal employees health benefits program);
+
+... A public health plan as defined in federal regulation; and
+
+.. A health benefit plan under section 5(e) of the peace corps act (22 U.S.C. Sec. 2504(e)).
+
+.. "Creditable coverage" does not include one or more, or any combination, of the following:
+
+... Coverage only for accident or disability income insurance, or any combination thereof;
+
+... Coverage issued as a supplement to liability insurance;
+
+... Liability insurance, including general liability insurance and automobile liability insurance;
+
+... Worker's compensation or similar insurance;
+
+.. Automobile medical payment insurance;
+
+.. Credit-only insurance;
+
+.. Coverage for on-site medical clinics; and
+
+.. Other similar insurance coverage, specified in federal regulations, under which benefits for medical care are secondary or incidental to other insurance benefits.
+
+.. "Creditable coverage" does not include the following benefits if they are provided under a separate policy, certificate, or contract of insurance or are otherwise not an integral part of the plan:
+
+... Limited scope dental or vision benefits;
+
+... Benefits for long-term care, nursing home care, home health care, community-based care, or any combination thereof; and
+
+... Other similar, limited benefits as are specified in federal regulations.
+
+.. "Creditable coverage" does not include the following benefits if offered as independent, noncoordinated benefits:
+
+... Coverage only for a specified disease or illness; and
+
+... Hospital indemnity or other fixed indemnity insurance.
+
+.. "Creditable coverage" does not include the following if it is offered as a separate policy, certificate, or contract of insurance:
+
+... Medicare supplemental health insurance as defined under section 1882(g)(1) of the social security act;
+
+... Coverage supplemental to the coverage provided under chapter 55 of Title 10 U.S.C.; and
+
+... Similar supplemental coverage provided to coverage under a group health plan.
+
+. "Employee welfare benefit plan" means a plan, fund, or program of employee benefits as defined in 29 U.S.C. Sec. 1002 (employee retirement income security act).
+
+. "Insolvency" means when an issuer, licensed to transact the business of insurance in this state, has had a final order of liquidation entered against it with a finding of insolvency by a court of competent jurisdiction in the issuer's state of domicile.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5198.SL.pdf?cite=2005%20c%2041%20§%203[2005 c 41 § 3]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2837.SL.pdf?cite=1996%20c%20269%20§%201[1996 c 269 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5435-S.SL.pdf?cite=1995%20c%2085%20§%201[1995 c 85 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2479-S.SL.pdf?cite=1992%20c%20138%20§%201[1992 c 138 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c153.pdf?cite=1981%20c%20153%20§%202[1981 c 153 § 2]; ]
+
+== 48.66.025 - Restrictions on issuers—Age of applicants—Preexisting conditions.
+. An issuer may not deny or condition the issuance or effectiveness of any medicare supplement policy or certificate available for sale in this state, or discriminate in the pricing of a policy or certificate, because of the health status, claims experience, receipt of health care, or medical condition of an applicant in the case of an application for a policy or certificate that is submitted prior to or during the six-month period beginning with the first day of the first month in which an individual is both sixty-five years of age or older and is enrolled for benefits under medicare part B. Each medicare supplement policy and certificate currently available from an insurer must be made available to all applicants who qualify under this subsection without regard to age.
+
+. If an applicant qualifies under this section and submits an application during the time period referenced in subsection (1) of this section and, as of the date of application, has had a continuous period of creditable coverage of at least three months, the issuer may not exclude benefits based on a preexisting condition.
+
+. If an applicant qualified under this section submits an application during the time period referenced in subsection (1) of this section and, as of the date of application, has had a continuous period of creditable coverage that is less than three months, the issuer must reduce the period of any preexisting condition exclusion by the aggregate of the period of creditable coverage applicable to the applicant as of the enrollment date.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5198.SL.pdf?cite=2005%20c%2041%20§%202[2005 c 41 § 2]; ]
+
+== 48.66.030 - Renewability—Benefit standards—Benefit limitations.
+. A medicare supplement insurance policy which provides for the payment of benefits may not be based on standards described as "usual and customary," "reasonable and customary," or words of similar import.
+
+. Limitations on benefits, such as policy exclusions or waiting periods, shall be labeled in a separate section of the policy or placed with the benefit provisions to which they apply, rather than being included in other sections of the policy, rider, or endorsement.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2479-S.SL.pdf?cite=1992%20c%20138%20§%202[1992 c 138 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c153.pdf?cite=1981%20c%20153%20§%203[1981 c 153 § 3]; ]
+
+== 48.66.035 - Commissioner's approval required.
+. A medicare supplement insurance policy or certificate form or application form, rider, or endorsement shall not be issued, delivered, or used unless it has been filed with and approved by the commissioner.
+
+. Rates, or modification of rates, for medicare supplement policies or certificates shall not be used until filed with and approved by the commissioner.
+
+. Every filing shall be received not less than thirty days in advance of any such issuance, delivery, or use. At the expiration of such thirty days the form or rate so filed shall be deemed approved unless prior thereto it has been affirmatively approved or disapproved by order of the commissioner. The commissioner may extend by not more than an additional fifteen days the period within which he or she may affirmatively approve or disapprove any such form or rate, by giving notice of such extension before expiration of the initial thirty-day waiting period. At the expiration of any such period as so extended, and in the absence of such prior affirmative approval or disapproval, any such form or rate shall be deemed approved. A filing of a form or rate or modification thereto may not be deemed approved unless the filing contains all required documents prescribed by the commissioner. The commissioner may withdraw any such approval at any time for cause. By approval of any such form or rate for immediate use, the commissioner may waive any unexpired portion of such initial thirty-day waiting period.
+
+. The commissioner's order disapproving any such form or rate or withdrawing a previous approval shall state the grounds therefor.
+
+. A form or rate shall not knowingly be issued, delivered, or used if the commissioner's approval does not then exist.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2479-S.SL.pdf?cite=1992%20c%20138%20§%203[1992 c 138 § 3]; ]
+
+== 48.66.041 - Minimum standards required by rule—Waiver.
+. The insurance commissioner shall adopt rules to establish minimum standards for benefits in medicare supplement insurance policies and certificates.
+
+. The commissioner shall adopt rules to establish specific standards for medicare supplement insurance policy or certificate provisions. These rules may include but are not limited to:
+
+.. Terms of renewability;
+
+.. Nonduplication of coverage;
+
+.. Benefit limitations, exceptions, and reductions;
+
+.. Definitions of terms;
+
+.. Requiring refunds or credits if the policies or certificates do not meet loss ratio requirements;
+
+.. Establishing uniform methodology for calculating and reporting loss ratios;
+
+.. Assuring public access to policies, premiums, and loss ratio information of an issuer of medicare supplement insurance;
+
+.. Establishing a process for approving or disapproving proposed premium increases; and
+
+.. Establishing standards for medicare SELECT policies and certificates.
+
+. The insurance commissioner may adopt rules that establish disclosure standards for replacement of policies or certificates by persons eligible for medicare.
+
+. The insurance commissioner may by rule prescribe that an informational brochure, designed to improve the buyer's understanding of medicare and ability to select the most appropriate coverage, be provided to persons eligible for medicare by reason of age. The commissioner may require that the brochure be provided to applicants concurrently with delivery of the outline of coverage, except with respect to direct response insurance, when the brochure may be provided upon request but no later than the delivery of the policy.
+
+. In the case of a state or federally qualified health maintenance organization, the commissioner may waive compliance with one or all provisions of this section until January 1, 1983.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1838.SL.pdf?cite=1993%20c%20388%20§%201[1993 c 388 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2479-S.SL.pdf?cite=1992%20c%20138%20§%204[1992 c 138 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c200.pdf?cite=1982%20c%20200%20§%201[1982 c 200 § 1]; ]
+
+== 48.66.045 - Mandated coverage for replacement policies—Rates on a community-rated basis.
+. Every issuer of a medicare supplement insurance policy or certificate providing coverage to a resident of this state issued on or after January 1, 1996, and before June 1, 2010, must:
+
+.. Unless otherwise provided for in RCW 48.66.055, issue coverage under its standardized benefit plans B, C, D, E, F, G, K, and L without evidence of insurability to any resident of this state who is eligible for both medicare hospital and physician services by reason of age or by reason of disability or end-stage renal disease, if the medicare supplement policy replaces another medicare supplement standardized benefit plan policy or certificate B, C, D, E, F, G, K, or L, or other more comprehensive coverage than the replacing policy; and
+
+.. Unless otherwise provided for in RCW 48.66.055, issue coverage under its standardized plans A, H, I, and J without evidence of insurability to any resident of this state who is eligible for both medicare hospital and physician services by reason of age or by reason of disability or end-stage renal disease, if the medicare supplement policy replaces another medicare supplement policy or certificate which is the same standardized plan as the replaced policy. After December 31, 2005, plans H, I, and J may be replaced only by the same plan if that plan has been modified to remove outpatient prescription drug coverage.
+
+. [Empty]
+.. Unless otherwise provided for in RCW 48.66.055, every issuer of a medicare supplement insurance policy or certificate providing coverage to a resident of this state issued on or after June 1, 2010, must issue coverage under its standardized plans B, C, D, F, F with high deductible, G, G with high deductible, K, L, M, or N without evidence of insurability to any resident of this state who is eligible for both medicare hospital and physician services prior to January 1, 2020, by reason of age or by reason of disability or end-stage renal disease, if the medicare supplement policy or certificate replaces another medicare supplement policy or certificate or other more comprehensive coverage;
+
+.. Unless otherwise provided in RCW 48.66.055, every issuer of a medicare supplement insurance policy or certificate providing coverage to a resident of this state issued on or after January 1, 2020, must issue coverage under its standardized plans B, D, G, G with high deductible, K, L, M, or N without evidence of insurability to any resident of this state who is eligible for both medicare hospital and physician services on or after January 1, 2020, by reason of age, disability, or end-stage renal disease, if the medicare supplement policy or certificate replaces another medicare supplement policy or certificate or other more comprehensive coverage; and
+
+.. Unless otherwise provided for in RCW 48.66.055, issue coverage under its standardized plan A without evidence of insurability to any resident of this state who is eligible for both medicare hospital and physician services by reason of age or by reason of disability or end-stage renal disease, if the medicare supplement policy or certificate replaces another standardized plan A medicare supplement policy or certificate.
+
+. Every issuer of a medicare supplement insurance policy or certificate providing coverage to a resident of this state issued on or after January 1, 1996, must set rates only on a community-rated basis. Premiums must be equal for all policyholders and certificate holders under a standardized medicare supplement benefit plan form, except that an issuer may vary premiums based on spousal discounts, frequency of payment, and method of payment including automatic deposit of premiums and may develop no more than two rating pools that distinguish between an insured's eligibility for medicare by reason of:
+
+.. Age; or
+
+.. Disability or end-stage renal disease.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5032.SL.pdf?cite=2019%20c%2038%20§%201[2019 c 38 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2585-S.SL.pdf?cite=2010%20c%2027%20§%203[2010 c 27 § 3]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1567.SL.pdf?cite=2009%20c%20161%20§%205[2009 c 161 § 5]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5198.SL.pdf?cite=2005%20c%2041%20§%204[2005 c 41 § 4]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2354-S.SL.pdf?cite=2004%20c%2083%20§%201[2004 c 83 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1539.SL.pdf?cite=1999%20c%20334%20§%201[1999 c 334 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5435-S.SL.pdf?cite=1995%20c%2085%20§%203[1995 c 85 § 3]; ]
+
+== 48.66.050 - Policy or certificate provisions prohibited by rule—Waivers restricted.
+. The insurance commissioner may issue reasonable rules that specify prohibited policy provisions not otherwise specifically authorized by statute which, in the opinion of the commissioner, are unfair, unjust, or unfairly discriminatory to any person insured or proposed to be insured under a medicare supplement insurance policy or certificate.
+
+. No medicare supplement insurance policy may use waivers to exclude, limit, or reduce coverage or benefits for specifically named or described preexisting diseases or physical conditions.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2479-S.SL.pdf?cite=1992%20c%20138%20§%205[1992 c 138 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c153.pdf?cite=1981%20c%20153%20§%205[1981 c 153 § 5]; ]
+
+== 48.66.055 - Termination or disenrollment—Application for coverage—Eligible persons—Types of policies—Guaranteed issue periods.
+. Under this section, persons eligible for a medicare supplement policy or certificate are those individuals described in subsection (3) of this section who, subject to subsection (3)(b)(ii) of this section, apply to enroll under the policy not later than sixty-three days after the date of the termination of enrollment described in subsection (3) of this section, and who submit evidence of the date of termination or disenrollment, or medicare part D enrollment, with the application for a medicare supplement policy.
+
+. With respect to eligible persons, an issuer may not deny or condition the issuance or effectiveness of a medicare supplement policy described in subsection (4) of this section that is offered and is available for issuance to new enrollees by the issuer, shall not discriminate in the pricing of such a medicare supplement policy because of health status, claims experience, receipt of health care, or medical condition, and shall not impose an exclusion of benefits based on a preexisting condition under such a medicare supplement policy.
+
+. "Eligible persons" means an individual that meets the requirements of (a), (b), (c), (d), (e), or (f) of this subsection, as follows:
+
+.. The individual is enrolled under an employee welfare benefit plan that provides health benefits that supplement the benefits under medicare; and the plan terminates, or the plan ceases to provide all such supplemental health benefits to the individual;
+
+.. [Empty]
+... The individual is enrolled with a medicare advantage organization under a medicare advantage plan under part C of medicare, and any of the following circumstances apply, or the individual is sixty-five years of age or older and is enrolled with a program of all inclusive care for the elderly (PACE) provider under section 1894 of the social security act, and there are circumstances similar to those described in this subsection (3)(b) that would permit discontinuance of the individual's enrollment with the provider if the individual were enrolled in a medicare advantage plan:
+
+(A) The certification of the organization or plan has been terminated;
+
+(B) The organization has terminated or otherwise discontinued providing the plan in the area in which the individual resides;
+
+(C) The individual is no longer eligible to elect the plan because of a change in the individual's place of residence or other change in circumstances specified by the secretary of the United States department of health and human services, but not including termination of the individual's enrollment on the basis described in section 1851(g)(3)(B) of the federal social security act (where the individual has not paid premiums on a timely basis or has engaged in disruptive behavior as specified in standards under section 1856 of the federal social security act), or the plan is terminated for all individuals within a residence area;
+
+(D) The individual demonstrates, in accordance with guidelines established by the secretary of the United States department of health and human services, that:
+
+(I) The organization offering the plan substantially violated a material provision of the organization's contract under this part in relation to the individual, including the failure to provide an enrollee on a timely basis medically necessary care for which benefits are available under the plan or the failure to provide such covered care in accordance with applicable quality standards; or
+
+(II) The organization, an insurance producer, or other entity acting on the organization's behalf materially misrepresented the plan's provisions in marketing the plan to the individual; or
+
+(E) The individual meets other exceptional conditions as the secretary of the United States department of health and human services may provide.
+
+...(A) An individual described in (b)(i) of this subsection may elect to apply (a) of this subsection by substituting, for the date of termination of enrollment, the date on which the individual was notified by the medicare advantage organization of the impending termination or discontinuance of the medicare advantage plan it offers in the area in which the individual resides, but only if the individual disenrolls from the plan as a result of such notification.
+
+(B) In the case of an individual making the election under (b)(ii)(A) of this subsection, the issuer involved shall accept the application of the individual submitted before the date of termination of enrollment, but the coverage under subsection (1) of this section is only effective upon termination of coverage under the medicare advantage plan involved;
+
+.. [Empty]
+... The individual is enrolled with:
+
+(A) An eligible organization under a contract under section 1876 (medicare risk or cost);
+
+(B) A similar organization operating under demonstration project authority, effective for periods before April 1, 1999;
+
+(C) An organization under an agreement under section 1833(a)(1)(A) (health care prepayment plan); or
+
+(D) An organization under a medicare select policy; and
+
+... The enrollment ceases under the same circumstances that would permit discontinuance of an individual's election of coverage under (b)(i) of this subsection;
+
+.. The individual is enrolled under a medicare supplement policy and the enrollment ceases because:
+
+...(A) Of the insolvency of the issuer or bankruptcy of the nonissuer organization; or
+
+(B) Of other involuntary termination of coverage or enrollment under the policy;
+
+... The issuer of the policy substantially violated a material provision of the policy; or
+
+... The issuer, an insurance producer, or other entity acting on the issuer's behalf materially misrepresented the policy's provisions in marketing the policy to the individual;
+
+.. [Empty]
+... The individual was enrolled under a medicare supplement policy and terminates enrollment and subsequently enrolls, for the first time, with any medicare advantage organization under a medicare advantage plan under part C of medicare, any eligible organization under a contract under section 1876 (medicare risk or cost), any similar organization operating under demonstration project authority, any PACE program under section 1894 of the social security act or a medicare select policy; and
+
+... The subsequent enrollment under (e)(i) of this subsection is terminated by the enrollee during any period within the first twelve months of such subsequent enrollment (during which the enrollee is permitted to terminate such subsequent enrollment under section 1851(e) of the federal social security act);
+
+.. The individual, upon first becoming eligible for benefits under part A of medicare at age sixty-five, enrolls in a medicare advantage plan under part C of medicare, or in a PACE program under section 1894, and disenrolls from the plan or program by not later than twelve months after the effective date of enrollment; or
+
+.. The individual enrolls in a medicare part D plan during the initial enrollment period and, at the time of enrollment in part D, was enrolled under a medicare supplement policy that covers outpatient prescription drugs, and the individual terminates enrollment in the medicare supplement policy and submits evidence of enrollment in medicare part D along with the application for a policy described in subsection (4)(a)(iv) of this section.
+
+. [Empty]
+.. An eligible person under subsection (3) of this section is entitled to a medicare supplement policy as follows:
+
+... A person eligible under subsection (3)(a), (b), (c), and (d) of this section is entitled to a medicare supplement policy that has a benefit package classified as plan A through F (including F with a high deductible), K, or L, offered by any issuer;
+
+...(A) Subject to (a)(ii)(B) of this subsection, a person eligible under subsection (3)(e) of this section is entitled to the same medicare supplement policy in which the individual was most recently previously enrolled, if available from the same issuer, or, if not so available, a policy described in (a)(i) of this subsection;
+
+(B) After December 31, 2005, if the individual was most recently enrolled in a medicare supplement policy with an outpatient prescription drug benefit, a medicare supplement policy described in this subsection (4)(a)(ii)(B) is:
+
+(I) The policy available from the same issuer but modified to remove outpatient prescription drug coverage; or
+
+(II) At the election of the policyholder, an A, B, C, F (including F with a high deductible), K, or L policy that is offered by any issuer;
+
+... A person eligible under subsection (3)(f) of this section is entitled to any medicare supplement policy offered by any issuer; and
+
+... A person eligible under subsection (3)(g) of this section is entitled to a medicare supplement policy that has a benefit package classified as plan A, B, C, F (including F with a high deductible), K, or L and that is offered and is available for issuance to new enrollees by the same issuer that issued the individual's medicare supplement policy with outpatient prescription drug coverage.
+
+.. For purposes of this subsection (4), in the case of any individual newly eligible for medicare on or after January 1, 2020, any reference to a medicare supplement policy C or F, including F with high deductible, is deemed to be a reference to a medicare supplement policy D or G, including G with high deductible, respectively, that meets the requirements of this subsection.
+
+. [Empty]
+.. At the time of an event described in subsection (3) of this section, and because of which an individual loses coverage or benefits due to the termination of a contract, agreement, policy, or plan, the organization that terminates the contract or agreement, the issuer terminating the policy, or the administrator of the plan being terminated, respectively, must notify the individual of his or her rights under this section, and of the obligations of issuers of medicare supplement policies under subsection (1) of this section. The notice must be communicated contemporaneously with the notification of termination.
+
+.. At the time of an event described in subsection (3) of this section, and because of which an individual ceases enrollment under a contract, agreement, policy, or plan, the organization that offers the contract or agreement, regardless of the basis for the cessation of enrollment, the issuer offering the policy, or the administrator of the plan, respectively, must notify the individual of his or her rights under this section, and of the obligations of issuers of medicare supplement policies under subsection (1) of this section. The notice must be communicated within ten working days of the issuer receiving notification of disenrollment.
+
+. Guaranteed issue time periods:
+
+.. In the case of an individual described in subsection (3)(a) of this section, the guaranteed issue period begins on the later of: (i) The date the individual receives a notice of termination or cessation of all supplemental health benefits (or, if a notice is not received, notice that a claim has been denied because of a termination or cessation), or (ii) the date that the applicable coverage terminates or ceases, and ends sixty-three days thereafter;
+
+.. In the case of an individual described in subsection (3)(b), (c), (e), or (f) of this section whose enrollment is terminated involuntarily, the guaranteed issue period begins on the date that the individual receives a notice of termination and ends sixty-three days after the date the applicable coverage is terminated;
+
+.. In the case of an individual described in subsection (3)(d)(i) of this section, the guaranteed issue period begins on the earlier of: (i) The date that the individual receives a notice of termination, a notice of the issuer's bankruptcy or insolvency, or other such similar notice if any, and (ii) the date that the applicable coverage is terminated, and ends on the date that is sixty-three days after the date the coverage is terminated;
+
+.. In the case of an individual described in subsection (3)(b), (d)(ii) and (iii), (e), or (f) of this section, who disenrolls voluntarily, the guaranteed issue period begins on the date that is sixty days before the effective date of the disenrollment and ends on the date that is sixty-three days after the effective date;
+
+.. In the case of an individual described in subsection (3)(g) of this section, the guaranteed issue period begins on the date the individual receives notice pursuant to section 1882(v)(2)(B) of the federal social security act from the medicare supplement issuer during the sixty-day period immediately preceding the initial part D enrollment period and ends on the date that is sixty-three days after the effective date of the individual's coverage under medicare part D; and
+
+.. In the case of an individual described in subsection (3) of this section but not described in the preceding provisions of this subsection, the guaranteed issue period begins on the effective date of disenrollment and ends on the date that is sixty-three days after the effective date.
+
+. In the case of an individual described in subsection (3)(e) of this section whose enrollment with an organization or provider described in subsection (3)(e)(i) of this section is involuntarily terminated within the first twelve months of enrollment, and who, without an intervening enrollment, enrolls with another organization or provider, the subsequent enrollment is an initial enrollment as described in subsection (3)(e) of this section.
+
+. In the case of an individual described in subsection (3)(f) of this section whose enrollment with a plan or in a program described in subsection (3)(f) of this section is involuntarily terminated within the first twelve months of enrollment, and who, without an intervening enrollment, enrolls in another plan or program, the subsequent enrollment is an initial enrollment as described in subsection (3)(f) of this section.
+
+. For purposes of subsection (3)(e) and (f) of this section, an enrollment of an individual with an organization or provider described in subsection (3)(e)(i) of this section, or with a plan or in a program described in subsection (3)(f) of this section is not an initial enrollment under this subsection after the two-year period beginning on the date on which the individual first enrolled with such an organization, provider, plan, or program.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5032.SL.pdf?cite=2019%20c%2038%20§%202[2019 c 38 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6591.SL.pdf?cite=2008%20c%20217%20§%2064[2008 c 217 § 64]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5198.SL.pdf?cite=2005%20c%2041%20§%205[2005 c 41 § 5]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2317.SL.pdf?cite=2002%20c%20300%20§%204[2002 c 300 § 4]; ]
+
+== 48.66.057 - Rejection of medicare eligible person—When notice and information must be provided to applicant.
+Any medicare eligible person who is rejected for medical reasons, is required to accept restrictive riders, an up-rated premium, or preexisting conditions limitations, the effect of which is to substantially reduce coverage from that received by a person considered a standard risk by at least one member as defined in RCW 48.41.030(14) shall be provided written notice from the issuer of medicare supplement coverage to whom application was made of the decision not to accept the person's application for enrollment, or to require such restrictions. The notice shall further state that the person is eligible for medicare part C coverage offered in the person's geographic area or coverage provided by the Washington state health insurance pool for Washington residents, and shall include information about medicare part C plans offered in the person's geographic area, about the Washington state health insurance pool, and about available resources to assist the person in choosing appropriate coverage.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5777-S.SL.pdf?cite=2009%20c%20555%20§%201[2009 c 555 § 1]; ]
+
+== 48.66.060 - Equal coverage of sickness and accidents.
+A medicare supplement insurance policy may not indemnify against losses resulting from sickness on a different basis than losses resulting from accidents.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c153.pdf?cite=1981%20c%20153%20§%206[1981 c 153 § 6]; ]
+
+== 48.66.070 - Adjustment of benefits and premiums for medicare cost-sharing.
+A medicare supplement insurance policy must provide that benefits designed to cover cost-sharing amounts under medicare will be changed automatically to coincide with any changes in the applicable medicare deductible amount and copayment percentage factors. Premiums may be modified to correspond with such changes.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c153.pdf?cite=1981%20c%20153%20§%207[1981 c 153 § 7]; ]
+
+== 48.66.080 - "Benefit period"—"Medicare benefit period"—Minimum requirements.
+"Benefit period" or "medicare benefit period" may not be defined more restrictively than as defined in the medicare program.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c153.pdf?cite=1981%20c%20153%20§%208[1981 c 153 § 8]; ]
+
+== 48.66.090 - Guaranteed renewable—Exceptions.
+All medicare supplement policies must be guaranteed renewable and a medicare supplement insurance policy may not provide that the policy may be canceled or nonrenewed by the insurer solely on the grounds of deterioration of health. The issuer shall not cancel or nonrenew the policy for any reason other than nonpayment of premium or material misrepresentation. All medicare supplement policies and certificates must include a renewal or continuation provision. The language or specifications of such provision must be appropriately captioned, appear on the first page of the policy, and shall include any reservation by the issuer or a right to change premium.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2479-S.SL.pdf?cite=1992%20c%20138%20§%206[1992 c 138 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c153.pdf?cite=1981%20c%20153%20§%209[1981 c 153 § 9]; ]
+
+== 48.66.100 - Loss ratio requirements—Mass sales practices of individual policies.
+. Medicare supplement insurance policies shall return to policyholders in the form of aggregate benefits under the policy, for the entire period for which rates are computed to provide coverage, loss ratios of:
+
+.. At least seventy-five percent of the aggregate amount of premiums earned in the case of group policies; and
+
+.. At least sixty-five percent of the aggregate amount of premiums earned in the case of individual policies.
+
+. For the purpose of this section, medicare supplement insurance policies issued as a result of solicitation of individuals through the mail or mass media advertising, including both print and broadcast advertising, shall be treated as individual policies.
+
+. The insurance commissioner may adopt rules sufficient to accomplish the provisions of this section and may, by such rules, impose more stringent or appropriate loss ratio requirements when it is necessary for the protection of the public interest.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2479-S.SL.pdf?cite=1992%20c%20138%20§%207[1992 c 138 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c200.pdf?cite=1982%20c%20200%20§%202[1982 c 200 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c153.pdf?cite=1981%20c%20153%20§%2010[1981 c 153 § 10]; ]
+
+== 48.66.110 - Disclosure by insurer—Outline of coverage required.
+In order to provide for full and fair disclosure in the sale of medicare supplement policies, a medicare supplement policy or certificate shall not be delivered in this state unless an outline of coverage is delivered to the potential policyholder not later than the time of application for the policy.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2479-S.SL.pdf?cite=1992%20c%20138%20§%208[1992 c 138 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c153.pdf?cite=1981%20c%20153%20§%2011[1981 c 153 § 11]; ]
+
+== 48.66.120 - Return of policy and refund of premium—Notice required—Effect of return.
+. Every individual medicare supplement insurance policy issued after January 1, 1982, and every certificate issued pursuant to a group medicare supplement policy after January 1, 1982, shall have prominently displayed on the first page of the policy form or certificate a notice stating in substance that the person to whom the policy or certificate is issued shall be permitted to return the policy or certificate within thirty days of its delivery to the purchaser and to have the premium refunded if, after examination of the policy or certificate, the purchaser is not satisfied with it for any reason. An additional ten percent penalty shall be added to any premium refund due which is not paid within thirty days of return of the policy to the insurer or insurance producer. If a policyholder or purchaser, pursuant to such notice, returns the policy or certificate to the insurer at its home or branch office or to the insurance producer through whom it was purchased, it shall be void from the beginning and the parties shall be in the same position as if no policy or certificate had been issued.
+
+. No later than January 1, 2010, or when the insurer has used all of its existing paper individual medicare supplement insurance policy forms which were in its possession on July 1, 2009, whichever is earlier, the notice required by subsection (1) of this section shall use the term insurance producer in place of agent.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6591.SL.pdf?cite=2008%20c%20217%20§%2065[2008 c 217 § 65]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c32.pdf?cite=1983%201st%20ex.s.%20c%2032%20§%2012[1983 1st ex.s. c 32 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c200.pdf?cite=1982%20c%20200%20§%203[1982 c 200 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c153.pdf?cite=1981%20c%20153%20§%2012[1981 c 153 § 12]; ]
+
+== 48.66.130 - Preexisting condition limitations.
+. On or after January 1, 1996, and notwithstanding any other provision of Title 48 RCW, a medicare supplement policy or certificate shall not exclude or limit benefits for losses incurred more than three months from the effective date of coverage because it involved a preexisting condition.
+
+. On or after January 1, 1996, a medicare supplement policy or certificate shall not define a preexisting condition more restrictively than as a condition for which medical advice was given or treatment was recommended by or received from a physician, or other health care provider acting within the scope of his or her license, within three months before the effective date of coverage.
+
+. If a medicare supplement insurance policy or certificate contains any limitations with respect to preexisting conditions, such limitations must appear as a separate paragraph of the policy or certificate and be labeled as "Preexisting Condition Limitations."
+
+. No exclusion or limitation of preexisting conditions may be applied to policies or certificates replaced in accordance with the provisions of RCW 48.66.045 if the policy or certificate replaced had been in effect for at least three months.
+
+. If a medicare supplement policy or certificate replaces another medicare supplement policy or certificate, the replacing issuer shall waive any time periods applicable to preexisting conditions, waiting periods, elimination periods, and probationary periods in the new medicare supplement policy or certificate for similar benefits to the extent such time was spent under the original policy.
+
+. If a medicare supplement policy or certificate replaces another medicare supplement policy or certificate which has been in effect for at least three months, the replacing policy shall not provide any time period applicable to preexisting conditions, waiting periods, elimination periods, and probationary periods for benefits similar to those contained in the original policy or certificate.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5198.SL.pdf?cite=2005%20c%2041%20§%206[2005 c 41 § 6]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2317.SL.pdf?cite=2002%20c%20300%20§%203[2002 c 300 § 3]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5435-S.SL.pdf?cite=1995%20c%2085%20§%202[1995 c 85 § 2]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2479-S.SL.pdf?cite=1992%20c%20138%20§%209[1992 c 138 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c153.pdf?cite=1981%20c%20153%20§%2013[1981 c 153 § 13]; ]
+
+== 48.66.140 - Medical history.
+Any time that completion of a medical history of a patient is required in order for an application for a medicare supplement insurance policy to be accepted, that medical history must be completed by the applicant, a relative of the applicant, a legal guardian of the applicant, or a physician.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c153.pdf?cite=1981%20c%20153%20§%2014[1981 c 153 § 14]; ]
+
+== 48.66.150 - Reporting and recordkeeping, separate data required.
+Commencing with reports for accounting periods beginning on or after January 1, 1982, insurers, health care service contractors, health maintenance organizations, and fraternal benefit societies shall, for reporting and recordkeeping purposes, separate data concerning medicare supplement insurance policies and contracts from data concerning other disability insurance policies and contracts.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c153.pdf?cite=1981%20c%20153%20§%2015[1981 c 153 § 15]; ]
+
+== 48.66.160 - Federal law supersedes.
+In any case where the provisions of this chapter conflict with provisions of the "Health Insurance For The Aged Act," Title XVIII of the Social Security Amendments of 1965, or any amendments thereto or regulations promulgated thereunder, regarding any contract between the secretary of health and human services and a health maintenance organization, the provisions of the "Health Insurance For The Aged Act" shall supersede and be paramount.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c153.pdf?cite=1981%20c%20153%20§%2016[1981 c 153 § 16]; ]
+
+== 48.66.165 - Conformity with federal law—Rules.
+The commissioner may adopt, from time-to-time, such rules as are necessary with respect to medicare supplemental insurance to conform Washington policies, contracts, certificates, standards, and practices to the requirements of federal law, specifically including 42 U.S.C. Sec. 1395ss, and federal regulations adopted thereunder.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1910.SL.pdf?cite=1991%20c%20120%20§%201[1991 c 120 § 1]; ]
+
+== 48.66.910 - Effective date—1981 c 153.
+This act shall take effect January 1, 1982.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c153.pdf?cite=1981%20c%20153%20§%2019[1981 c 153 § 19]; ]
+
+== 48.66.920 - Construction—Chapter applicable to state registered domestic partnerships—2009 c 521.
+For the purposes of this chapter, the terms spouse, marriage, marital, husband, wife, widow, widower, next of kin, and family shall be interpreted as applying equally to state registered domestic partnerships or individuals in state registered domestic partnerships as well as to marital relationships and married persons, and references to dissolution of marriage shall apply equally to state registered domestic partnerships that have been terminated, dissolved, or invalidated, to the extent that such interpretation does not conflict with federal law. Where necessary to implement chapter 521, Laws of 2009, gender-specific terms such as husband and wife used in any statute, rule, or other law shall be construed to be gender neutral, and applicable to individuals in state registered domestic partnerships.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5688-S2.SL.pdf?cite=2009%20c%20521%20§%20128[2009 c 521 § 128]; ]
+

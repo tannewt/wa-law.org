@@ -1,0 +1,122 @@
+= 44.68 - Joint legislative systems administrative committee.
+:toc:
+
+== 44.68.010 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Administrative committee" means the joint legislative systems administrative committee created under RCW 44.68.030.
+
+. "Center" means the legislative service center established under RCW 44.68.060.
+
+. "Coordinator" means the legislative systems coordinator employed under RCW 44.68.040.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2402.SL.pdf?cite=2020%20c%20114%20§%209[2020 c 114 § 9]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5957.SL.pdf?cite=2007%20c%2018%20§%201[2007 c 18 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c61.pdf?cite=1986%20c%2061%20§%201[1986 c 61 § 1]; ]
+
+== 44.68.030 - Administrative committee—Membership, coordinator as secretary.
+. The joint legislative systems administrative committee is created to manage the information processing and communications systems of the legislature. The administrative committee consists of five members appointed as follows:
+
+.. The secretary of the senate, and another senate staff person appointed by and serving at the pleasure of the secretary;
+
+.. The chief clerk of the house of representatives, and another house of representatives staff person appointed by and serving at the pleasure of the chief clerk; and
+
+.. The code reviser, or the code reviser's designee, serving in a nonvoting capacity.
+
+. The coordinator shall serve as the secretary of the administrative committee.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5957.SL.pdf?cite=2007%20c%2018%20§%202[2007 c 18 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c61.pdf?cite=1986%20c%2061%20§%203[1986 c 61 § 3]; ]
+
+== 44.68.040 - Legislative systems coordinator—Employment, duties.
+Subject to RCW 44.04.260:
+
+. The administrative committee shall employ a legislative systems coordinator. The coordinator shall serve at the pleasure of the administrative committee, which shall fix the coordinator's salary.
+
+. [Empty]
+.. The coordinator shall serve as the executive and administrative head of the center, and shall assist the administrative committee in managing the information processing and communications systems of the legislature as directed by the administrative committee;
+
+.. In accordance with an adopted personnel plan, the coordinator shall employ or engage and fix the compensation for personnel required to carry out the purposes of this chapter;
+
+.. The coordinator shall enter into contracts for: (i) The sale, exchange, or acquisition of equipment, supplies, services, and facilities required to carry out the purposes of this chapter; and (ii) the distribution of legislative information.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2402.SL.pdf?cite=2020%20c%20114%20§%2010[2020 c 114 § 10]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5957.SL.pdf?cite=2007%20c%2018%20§%203[2007 c 18 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1391-S.SL.pdf?cite=2001%20c%20259%20§%2017[2001 c 259 § 17]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c61.pdf?cite=1986%20c%2061%20§%204[1986 c 61 § 4]; ]
+
+== 44.68.050 - Administrative committee—Powers and duties.
+The administrative committee shall, subject to RCW 44.04.260:
+
+. Adopt policies, procedures, and standards regarding the information processing and communications systems of the legislature;
+
+. Establish appropriate charges for services, equipment, and publications provided by the legislative information processing and communications systems, applicable to legislative and nonlegislative users as determined by the administrative committee;
+
+. Adopt a compensation plan for personnel required to carry out the purposes of this chapter; and
+
+. Approve strategic and tactical information technology plans and provide guidance in operational matters required to carry out (a) the purposes of this chapter; and (b) the distribution of legislative information.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2402.SL.pdf?cite=2020%20c%20114%20§%2011[2020 c 114 § 11]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5957.SL.pdf?cite=2007%20c%2018%20§%204[2007 c 18 § 4]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1391-S.SL.pdf?cite=2001%20c%20259%20§%2018[2001 c 259 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c61.pdf?cite=1986%20c%2061%20§%205[1986 c 61 § 5]; ]
+
+== 44.68.060 - Legislative service center—Duties—Protection of information—Bill drafts.
+. The administrative committee shall establish a legislative service center. The center shall provide automatic data processing services, equipment, training, and support to the legislature and legislative agencies. The center may also, by agreement, provide services to agencies of the judicial and executive branches of state government and other governmental entities, and provide public access to legislative information. All operations of the center shall be subject to the general supervision of the administrative committee in accordance with the policies, procedures, and standards established under RCW 44.68.050.
+
+. Except as provided otherwise in subsection (3) of this section, determinations regarding the security, disclosure, and disposition of information placed or maintained in the center shall rest solely with the originator and shall be made in accordance with any law regulating the disclosure of such information. The originator is the person who directly places information in the center.
+
+. When utilizing the center to carry out the bill drafting functions required under RCW 1.08.027, the code reviser shall be considered the originator as defined in this section. However, determinations regarding the security, disclosure, and disposition of drafts placed or maintained in the center shall be made by the person requesting the code reviser's services and the code reviser, acting as the originator, shall comply with and carry out such determinations as directed by that person. A measure once introduced shall not be considered a draft under this subsection.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2402.SL.pdf?cite=2020%20c%20114%20§%2012[2020 c 114 § 12]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5957.SL.pdf?cite=2007%20c%2018%20§%205[2007 c 18 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c61.pdf?cite=1986%20c%2061%20§%206[1986 c 61 § 6]; ]
+
+== 44.68.065 - Additional duties of legislative service center.
+The legislative service center, under the direction of the joint legislative systems administrative committee, shall:
+
+. Develop a legislative information technology portfolio consistent with the provisions of RCW 43.105.341;
+
+. Participate in the development of an enterprise-based statewide information technology strategy;
+
+. Ensure the legislative information technology portfolio is organized and structured to clearly indicate participation in and use of enterprise-wide information technology strategies;
+
+. As part of the biennial budget process, submit the legislative information technology portfolio to the chair and ranking member of the ways and means committees of the house of representatives and the senate, the office of financial management, and the consolidated technology services agency.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2402.SL.pdf?cite=2020%20c%20114%20§%2013[2020 c 114 § 13]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5315-S2.SL.pdf?cite=2015%203rd%20sp.s.%20c%201%20§%20411[2015 3rd sp.s. c 1 § 411]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5024.SL.pdf?cite=2015%20c%20225%20§%2096[2015 c 225 § 96]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/3178-S.SL.pdf?cite=2010%20c%20282%20§%208[2010 c 282 § 8]; ]
+
+== 44.68.080 - Scope of requirements of this chapter.
+The information and communications functions of the legislature and legislative agencies are subject to the requirements of this chapter, and the standards, policies, and procedures established under this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c61.pdf?cite=1986%20c%2061%20§%208[1986 c 61 § 8]; ]
+
+== 44.68.085 - Salaries and expenses of employees—Vouchers—Authority to draw on funds—Transfer of moneys.
+Subject to RCW 44.04.260, all expenses incurred, including salaries and expenses of employees, shall be paid upon voucher forms as provided and signed by the coordinator. Vouchers may be drawn on funds appropriated by law for the administrative committee and center: PROVIDED, That the senate, house of representatives, and code reviser may authorize the administrative committee and center to draw on funds appropriated by the legislature for related information technology expenses. The senate and house of representatives may transfer moneys appropriated for legislative expenses to the administrative committee and center, in addition to charges made under RCW 44.68.050(2).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2402.SL.pdf?cite=2020%20c%20114%20§%2014[2020 c 114 § 14]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5957.SL.pdf?cite=2007%20c%2018%20§%206[2007 c 18 § 6]; ]
+
+== 44.68.090 - Administrative committee members—Travel expenses.
+Members of the administrative committee shall be reimbursed for travel expenses under RCW 44.04.120 or 43.03.050 and 43.03.060, as appropriate, while attending meetings of their respective committees or on other official business authorized by their respective committees.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2402.SL.pdf?cite=2020%20c%20114%20§%2015[2020 c 114 § 15]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c61.pdf?cite=1986%20c%2061%20§%209[1986 c 61 § 9]; ]
+
+== 44.68.100 - Electronic access to legislative information.
+The legislature and legislative agencies through the administrative committee, shall:
+
+. Continue to plan for and implement processes for making legislative information available electronically;
+
+. Promote and facilitate electronic access to the public of legislative information and services;
+
+. Establish technical standards for such services;
+
+. Consider electronic public access needs when planning new information systems or major upgrades of information systems;
+
+. Develop processes to determine which legislative information the public most wants and needs;
+
+. Increase capabilities to receive information electronically from the public and transmit forms, applications and other communications and transactions electronically;
+
+. Use technologies that allow continuous access twenty-four hours a day, seven days per week, involve little or no cost to access, and are capable of being used by persons without extensive technology ability; and
+
+. Consider and incorporate wherever possible ease of access to electronic technologies by persons with disabilities.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2402.SL.pdf?cite=2020%20c%20114%20§%2016[2020 c 114 § 16]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6556-S2.SL.pdf?cite=1996%20c%20171%20§%204[1996 c 171 § 4]; ]
+
+== 44.68.105 - Administrative committee, center—Exemption.
+The administrative committee and center are hereby expressly exempted from the provisions of chapter 43.105 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2402.SL.pdf?cite=2020%20c%20114%20§%2017[2020 c 114 § 17]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5957.SL.pdf?cite=2007%20c%2018%20§%207[2007 c 18 § 7]; ]
+
+== 44.68.900 - Effective date—2007 c 18.
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2007.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5957.SL.pdf?cite=2007%20c%2018%20§%2010[2007 c 18 § 10]; ]
+

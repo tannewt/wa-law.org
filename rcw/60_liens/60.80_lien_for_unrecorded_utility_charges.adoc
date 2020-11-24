@@ -1,0 +1,64 @@
+= 60.80 - Lien for unrecorded utility charges.
+:toc:
+
+== 60.80.005 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter:
+
+. Except as otherwise provided in this subsection (1), "charges" include: (a) All lawful charges assessed by a utility operated under chapter 35.21, 35.67, 36.36, 36.89, 36.94, or 57.08 RCW, but not evidenced by a recorded lien, recorded covenant, recorded agreement, or special assessment roll filed with the city or county treasurer or assessor, and not billed and collected with property taxes; and (b) penalties and interest, and reasonable attorneys' fees and other costs of foreclosure if foreclosure proceedings have been commenced.
+
+. "Closing agent" means an escrow agent as defined in *RCW 18.44.011(6) or a person exempt from licensing requirements under RCW 18.44.021, handling the escrow on the sale of the real property.
+
+. "Real estate agent" means a real estate broker, real estate salesperson, associate real estate broker, or person as defined in **RCW 18.85.010 (1) through (4).
+
+. "Business day" means a day the offices of the county or counties in which the utility in question provides service are open for business.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5665-S.SL.pdf?cite=2004%20c%20215%20§%207[2004 c 215 § 7]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2388-S.SL.pdf?cite=1996%20c%2043%20§%201[1996 c 43 § 1]; ]
+
+== 60.80.010 - Seller of real property responsible for satisfying lien—Closing agent's duties and liabilities—Fee.
+. Unless otherwise stated and acknowledged in writing by the purchaser, the seller of a fee interest in real property is responsible for satisfying, upon closing, any lien provided for by RCW 35.21.290, 35.67.200, 36.36.045, * 36.89.090, or 36.94.150.
+
+. No closing agent may refuse a written request by the seller or purchaser of a fee interest in real property to administer the disbursement of closing funds necessary to satisfy unpaid charges as charges are defined in RCW 60.80.005. Except as otherwise provided in this subsection (2), a closing agent who refuses such a written request is liable to the purchaser for unpaid charges for utility services covered by the request. A closing agent is not liable if the closing agent's refusal is based on the seller's inaccurate or incomplete identification of utilities providing service to the property, or if a utility fails to provide an estimated or actual final billing, or written extension of the per diem rate, as required by RCW 60.80.020, or if disbursement of closing funds necessary to satisfy the unpaid charges would violate RCW 18.44.400.
+
+. A closing agent may charge a fee for performing the services required of the closing agent by this chapter, which fee may be in addition to other fees or settlement charges collected in the course of ordinary settlement practices.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5665-S.SL.pdf?cite=2004%20c%20215%20§%208[2004 c 215 § 8]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2388-S.SL.pdf?cite=1996%20c%2043%20§%202[1996 c 43 § 2]; ]
+
+== 60.80.020 - Seller's duty to inform closing agent—Written waiver—Closing agent's duties—Utility's duties—Payment of final billing.
+. Unless the seller and purchaser waive, in writing, the services of a closing agent in administering the disbursement of closing funds necessary to satisfy unpaid charges as charges are defined in RCW 60.80.005, the seller shall, as a provision in a written agreement for the purchase and sale of real estate, inform the closing agent for the sale of the names and addresses of all utilities, including special districts, providing service to the property under chapter 35.21, 35.67, 36.36, 36.89, 36.94, or 57.08 RCW. The provision of the information in a written agreement for the purchase and sale of real estate constitutes a written request to the closing agent to administer disbursement of closing funds necessary to satisfy unpaid charges.
+
+Unless the seller and purchaser have waived the services of a closing agent as provided in this subsection, the closing agent shall submit a written request for a final billing to each utility identified by the seller as providing service to the property under chapter 35.21, 35.67, 36.36, 36.89, 36.94, or 57.08 RCW. Either the seller or purchaser may submit a written request for a final billing to each utility identified by the seller as providing service to the property under chapter 35.21, 35.67, 36.36, 36.89, 36.94, or 57.08 RCW.
+
+The written request must identify the property by both legal description and address. The closing agent, seller, or purchaser may submit a written request to a utility by facsimile. In requesting final billings for utility services, the closing agent may rely upon information provided by the seller, and a closing agent or a real estate agent who is not the seller is not liable for inaccurate or incomplete information.
+
+. After receiving a written request for a final billing for utility services to real property to be sold, a utility operated under chapter 35.21, 35.67, 36.36, 36.89, 36.94, or 57.08 RCW shall provide the requesting party with a written estimated or actual final billing as provided in this section. If the utility is unable to provide a written estimated or actual final billing or written extension of the per diem rate, due to insufficient information to identify the account, the utility shall notify the requesting party in writing that the information is insufficient to identify the account.
+
+The utility shall provide the written estimated or actual final billing, or statement that the information in the request is insufficient to identify the account, to the requesting party within seven business days of receipt of the written request if the request was mailed to the utility, or within three business days if the request was sent to the utility by facsimile or delivered to the utility by messenger. A utility may provide a written estimated or actual final billing to the requesting party by facsimile.
+
+.. The final billing must include all outstanding charges and, in addition to the estimated or actual final amount owing as of the stated closing date, must state the average per diem rate for the utility or utilities involved, including taxes and other charges, which shall apply for up to thirty days beyond the stated closing date if the closing date is delayed.
+
+.. If closing is delayed beyond thirty days, a new estimated or actual final billing must be requested in writing. In lieu of furnishing a written revised final billing, the utility may extend, in writing, the number of days for which the per diem charge applies. The utility shall respond within seven business days of receipt of the written request for a new estimated or actual final billing if the request was mailed to the utility, or within three business days if the request was sent to the utility by facsimile or delivered to the utility by messenger.
+
+.. If a utility fails to provide a written estimated or actual final billing, written extension of the per diem rate, or statement that the information in the request is insufficient to identify the account, within seven business days of receipt of a written request if the request was mailed to the utility, or within three business days if the request was sent to the utility by facsimile or delivered to the utility by messenger, an unrecorded lien provided for by RCW 35.21.290, 35.67.200, 36.36.045, * 36.89.090, or 36.94.150 for charges incurred prior to the closing date is extinguished, and the utility may not recover the charges from the purchaser of the property.
+
+.. A closing agent shall inform the seller and purchaser of all applicable estimated and actual final billings furnished by utilities.
+
+In performing his or her duties under this chapter, a closing agent may rely upon information provided by utilities and is not liable if information provided by utilities is inaccurate or incomplete.
+
+. If closing occurs no later than the last date for which per diem charges may be applied, full payment of the estimated or actual final billing plus per diem charges extinguishes a lien of the utility provided for by RCW 35.21.290, 35.67.200, 36.36.045, * 36.89.090, or 36.94.150 for charges incurred prior to the closing date.
+
+. [Empty]
+.. Except as otherwise provided in this subsection (4)(a), this section does not limit the right of a utility to recover from the purchaser of the property unpaid utility charges incurred prior to closing, if the utility did not receive a written request for a final billing or if the utility complied with subsection (2) of this section.
+
+A utility may not recover from a purchaser unpaid utility charges incurred prior to closing in excess of an estimated final billing.
+
+.. This section does not limit the right of a utility to recover unpaid utility charges incurred prior to closing, including unpaid utility charges in excess of an estimated final billing, from the seller of the property, or from the person or persons who incurred the charges.
+
+.. If an estimated final billing is in excess of the actual final billing, unless otherwise directed in writing by the seller and purchaser, a utility shall refund any overcharge to the seller of the property by sending the refund in the seller's name to the last address provided by the seller. A utility shall refund the overcharge within fourteen business days of the date the utility receives payment for the final billing, unless a county treasurer acts in an ex officio capacity as the treasurer of a utility, in which case the utility shall refund the overcharge within thirty business days of the date the utility receives payment for the final billing.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5665-S.SL.pdf?cite=2004%20c%20215%20§%209[2004 c 215 § 9]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2388-S.SL.pdf?cite=1996%20c%2043%20§%203[1996 c 43 § 3]; ]
+
+== 60.80.900 - Effective date—1996 c 43.
+This act shall take effect January 1, 1997.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2388-S.SL.pdf?cite=1996%20c%2043%20§%204[1996 c 43 § 4]; ]
+

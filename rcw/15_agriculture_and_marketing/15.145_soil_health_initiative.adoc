@@ -1,0 +1,112 @@
+= 15.145 - Soil health initiative.
+:toc:
+
+== 15.145.005 - Finding—Intent.
+The legislature finds that healthy soil is a cornerstone of a high quality of life on earth and that soil health is integral to supporting agricultural viability, promoting positive environmental outcomes, and ensuring the long-term availability of nutritious food.
+
+It is the intent of the legislature that the mission of the Washington soil health initiative be the promotion of collaborative soil health research, education, demonstration projects, and technical assistance activities designed to identify, promote, and implement soil health stewardship practices that are grounded in sound science and that can be voluntarily and economically implemented by farmers and ranchers across Washington's diverse agricultural communities, climates, and geographies.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6306-S.SL.pdf?cite=2020%20c%20314%20§%201[2020 c 314 § 1]; ]
+
+== 15.145.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Collaborating agencies" means the university, the department, and the commission.
+
+. "Commission" means the Washington state conservation commission.
+
+. "Department" means the Washington department of agriculture.
+
+. "Soil health" means the continued capacity of the soil to function as a vital living ecosystem that sustains plants, animals, and humans.
+
+. "Soil health initiative" means the Washington soil health initiative created by this chapter as a collaborative partnership to promote and implement voluntary soil management actions and systems to improve soil health, environmental function, nutrition, and the productivity of working farm and ranch lands.
+
+. "University" means Washington State University.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6306-S.SL.pdf?cite=2020%20c%20314%20§%202[2020 c 314 § 2]; ]
+
+== 15.145.020 - Washington soil health initiative—Creation—Report.
+. The Washington soil health initiative is created as a partnership jointly administered by the collaborating agencies.
+
+. The goals and objectives of the soil health initiative are to improve:
+
+.. Agricultural viability, by improving farm profitability; and by helping agricultural producers implement good soil health practices that build soil organic matter, reduce soil erosion, soil compaction and production costs, and improve nutrient management, soil tilth, moisture infiltration, moisture retention, drought resilience, disease suppression, and the beneficial activity of microbes, fungi, earthworms, and other organisms;
+
+.. Nutrition, by increasing health-promoting nutrients, micronutrients, and microbial processes of agricultural soils; and by improving nutrient uptake, thereby expanding access to nutritious food and improving human health; and
+
+.. Environmental function, by reducing soil erosion, runoff, and leaching of nutrients and pollutants, thereby improving water quality; and by promoting strategies to store carbon and build soil organic matter and other beneficial properties, thereby enhancing the environmental functions of agricultural soils.
+
+. In addition to the joint responsibilities established for the collaborative agencies in this section and the primary responsibilities established for each collaborating agency in RCW 15.145.030 through 15.145.050, the collaborating agencies may pursue any action designed to improve soil health and promote complementary improvements to agricultural viability, nutrition, and environmental function. The collaborating agencies must jointly:
+
+.. Support and supplement current Washington soil health advisory committee membership to promote effective implementation of the soil health initiative. Committee members must be qualified and knowledgeable regarding soil health stewardship. Membership may include agricultural producers, soil scientists or specialists, and representatives of governmental, nongovernmental, and tribal organizations interested in soil health as it pertains to agricultural viability, nutrition, or environmental function. The collaborating agencies must convene, staff, and develop agendas for each Washington soil health advisory committee meeting and appoint committee members and subcommittee members as appropriate. No appointment is effective unless all collaborating agencies concur in the appointment;
+
+.. Assess programmatic needs and build the capacities of the collaborating agencies to fill gaps in scientific research, economic assessment, staffing, technical assistance, grants administration, project implementation, data management, and monitoring tools to improve the reach and effectiveness of the soil health initiative;
+
+.. Prioritize in-state sourcing of needed soil health initiative resources including, but not limited to, testing resources, seeds, compost materials, supplies, and equipment;
+
+.. Employ adaptive management to support the improvement and long-term viability of the soil health initiative, including modification of soil health metrics, priorities, and activities to maximize complementary net benefits for agricultural viability, nutrition, and environmental function. To the extent practicable, metrics chosen to assess changes from baseline environmental function must be measured per unit of production;
+
+.. Submit a biennial Washington soil health initiative progress report to the governor and appropriate committees of the legislature by October 1, 2020, and every even-numbered year thereafter. The report's recommendations must include an assessment of success in meeting the soil health initiative's goals and objectives, a biennial work plan detailing any proposed legislation, budget requests or administrative rules, and a prioritized list of proposed actions needed to fulfill each collaborating agency's responsibilities for programmatic components and advance soil health initiative goals and objectives in the upcoming biennium.
+
+. The soil health initiative shall operate within the appropriations provided for the program.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6306-S.SL.pdf?cite=2020%20c%20314%20§%203[2020 c 314 § 3]; ]
+
+== 15.145.030 - University's primary responsibilities.
+[(1)] The university has primary responsibility for the following components of the soil health initiative:
+
+. [(a)] Establishing a regionally dispersed network of long-term agroecological research and extension demonstration sites to showcase and refine soil health research and practices, build statewide awareness and understanding, and support technical assistance capacity through trainings and on-farm demonstration projects that promote positive soil health outcomes across the state's diverse food production zones;
+
+. [(b)] Compiling existing information and developing new information on nutrition effects related to agricultural soil management practices and regimes, and identifying data gaps associated with understanding and quantifying such effects across the state's diverse food production zones, soil types, tillage systems, and cropping methods. Nutrition effects information compiled, developed, and assessed must include, but not be limited to, soil, plant, and food nutrient and micronutrient levels and community access to nutritious food;
+
+. [(c)] Developing a statewide soil health road map, based on a compilation of existing soil health information and ancillary agronomic, economic, environmental, and nutritional benefits and identified data gaps, to refine metrics and objectives to guide future public and private investment in the soil health initiative;
+
+. [(d)] Developing a statewide agricultural soil health monitoring system and database to receive data, test modeling estimations, and measure, analyze, and track trends over time in the productive use, management, and health of Washington's agricultural soils; and
+
+. [(e)] Consulting and collaborating with the department and the commission to support all soil health initiative goals, objectives, and components established in this chapter.
+
+. [(2)] The university shall perform its responsibilities within the appropriations provided for the soil health initiative.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6306-S.SL.pdf?cite=2020%20c%20314%20§%204[2020 c 314 § 4]; ]
+
+== 15.145.040 - Department's primary responsibilities—Rules.
+. The department has primary responsibility for the following components of the soil health initiative:
+
+.. Compiling existing information on agricultural viability and environmental function effects related to agricultural soil management practices and regimes across the state's diverse food production zones, soil types, tillage systems, and cropping methods, and identifying data gaps associated with understanding and quantifying such effects. Agricultural viability effects compiled and assessed must include, but not be limited to, assessments of yields, profitability, costs, and benefits. Environmental function effects compiled and assessed must include, but not be limited to, assessments of water quality and water availability;
+
+.. Establishing a "state of the soils" baseline assessment of statewide agricultural soil health practices and characteristic soil health indicators, which may include, but is [are] not limited to: Soil type, organic matter, aggregate stability, porosity, temperature, microbiology, and pathogens; carbon storage; nutrient management; crop rotations; cropping techniques; tillage systems; plant biomass input, residue, and cover levels; water infiltration rate; water retention; root exudates; electrical conductivity; soil nutrient, vitamin, and mineral levels including, but not limited to, levels of nitrogen, phosphorous, potassium, magnesium, sulfur, calcium, and micronutrients; and any other indicator of a soil's health, yield, profitability, or ecological function. Baseline assessments must be developed in a stepwise process to incrementally assess the baseline for each of Washington's major food production zones, soil types, tillage systems, and cropping methods, including both conventional and organic food production systems;
+
+.. Developing standardized methods and diagnostic tools to support accurate and cost-effective measurement of key soil health indicators at a scale and speed that supports broad implementation and verification of improved soil health stewardship across Washington's diverse agricultural landscapes;
+
+.. Developing and supporting an agricultural product marketing and promotion program that creates opportunities for participating producers to benefit from the emerging market for Washington food products grown under good soil health stewardship; and
+
+.. Consulting and collaborating with the commission and the university to support all soil health initiative goals, objectives, and components established in this chapter.
+
+. In consultation with the commission and the university, the department may adopt rules as needed to carry out the purposes of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6306-S.SL.pdf?cite=2020%20c%20314%20§%205[2020 c 314 § 5]; ]
+
+== 15.145.050 - Commission's primary responsibilities—Rules.
+. The commission has primary responsibility for the following components of the soil health initiative:
+
+.. Developing, publishing, and distributing outreach and education materials to help conservation districts, cooperative extension, and local governments raise awareness of the importance of soil health to society and agriculture, including farmer case studies on soil health practices, experiences, and outcomes;
+
+.. Training and mobilizing technical service providers to encourage farmers, ranchers, and land managers to voluntarily implement desired soil health stewardship and enter into any maintenance or easement agreements needed to maintain soil health benefits obtained. The commission and the university must coordinate technical assistance, working with and through conservation districts and university extension, to avoid duplication of effort in carrying out soil health initiative technical assistance responsibilities;
+
+.. Training technical assistance providers, property owners, land managers, and others to voluntarily take ongoing soil health samples and measurements and submit results to the soil health monitoring database;
+
+.. In collaboration with the department and the university, developing equitable criteria for the awarding of grants to help producers improve soil health across the state's diverse agricultural systems; and
+
+.. Consulting and collaborating with the department and the university to support all soil health initiative goals, objectives, and components established in this chapter.
+
+. In consultation with the department and the university, the commission may adopt rules as needed to carry out the purposes of this chapter.
+
+. The commission shall perform its responsibilities within the appropriations provided for the soil health initiative.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6306-S.SL.pdf?cite=2020%20c%20314%20§%206[2020 c 314 § 6]; ]
+
+== 15.145.060 - Short title.
+This chapter may be known and cited as the Washington soil health initiative act.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6306-S.SL.pdf?cite=2020%20c%20314%20§%207[2020 c 314 § 7]; ]
+

@@ -1,0 +1,31 @@
+= 69.90 - Kosher food products.
+:toc:
+
+== 69.90.010 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Food product" includes any article other than drugs, whether in raw or prepared form, liquid or solid, or packaged or unpackaged, and which is used for human consumption.
+
+. "Kosher" means a food product which has been prepared, processed, manufactured, maintained, and sold in accordance with the requisites of traditional Jewish dietary law.
+
+. "Person" includes individuals, partnerships, corporations, and associations.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c127.pdf?cite=1985%20c%20127%20§%202[1985 c 127 § 2]; ]
+
+== 69.90.020 - Sale of "kosher" and "kosher style" food products prohibited if not kosher—Representations—Penalty.
+. No person may knowingly sell or offer for sale any food product represented as "kosher" or "kosher style" when that person knows that the food product is not kosher and when the representation is likely to cause a prospective purchaser to believe that it is kosher. Such a representation can be made orally or in writing, or by display of a sign, mark, insignia, or simulation.
+
+. A person violating this section is guilty of a gross misdemeanor.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%20349[2003 c 53 § 349]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c127.pdf?cite=1985%20c%20127%20§%203[1985 c 127 § 3]; ]
+
+== 69.90.030 - Violation of chapter is violation of consumer protection act.
+A violation of this chapter shall constitute a violation of the consumer protection act, chapter 19.86 RCW.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c127.pdf?cite=1985%20c%20127%20§%204[1985 c 127 § 4]; ]
+
+== 69.90.900 - Short title.
+This chapter shall be known as the sale of kosher food products act of 1985.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c127.pdf?cite=1985%20c%20127%20§%201[1985 c 127 § 1]; ]
+

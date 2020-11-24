@@ -1,0 +1,22 @@
+= 63.24 - Unclaimed property in hands of bailee.
+:toc:
+
+== 63.24.150 - Notice to owner.
+Unless otherwise provided between the parties, if personal property deposited with a bailee is unclaimed for a period of thirty days, the bailee shall notify the owner, if known, either personally or by mail that the property is subject to disposition under RCW 63.24.160.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c154.pdf?cite=1981%20c%20154%20§%204[1981 c 154 § 4]; ]
+
+== 63.24.160 - Disposition of unclaimed property—Donation to charitable organization or transmittal to police or sheriff.
+If property not covered by chapter 63.26 RCW remains unclaimed sixty days after notice is given, or, if the owner's identity or address is unknown, sixty days from when notice was attempted, the bailee shall:
+
+. If the reasonable aggregate value of the unclaimed property is less than one hundred dollars, donate the property, or proceeds thereof, to a charitable organization exempt from federal income tax under the federal internal revenue code; or
+
+. If the reasonable aggregate value of the unclaimed property is one hundred dollars or more, forward the property to the chief of police or sheriff for disposition as unclaimed property under chapter 63.32 or 63.40 RCW.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c226.pdf?cite=1988%20c%20226%20§%201[1988 c 226 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c154.pdf?cite=1981%20c%20154%20§%205[1981 c 154 § 5]; ]
+
+== 63.24.170 - Bailee not liable to owner—Reimbursed for reasonable costs.
+A bailee is not liable to the owner for unclaimed property disposed of in good faith in accordance with the requirements of this chapter. A bailee shall be reimbursed from the proceeds of sale of any unclaimed property disposed of under RCW 63.24.160 for the reasonable costs or charges for any goods or services provided by the bailee regarding the property, and for the costs to provide notice to the owner.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c41.pdf?cite=1990%20c%2041%20§%201[1990 c 41 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c154.pdf?cite=1981%20c%20154%20§%206[1981 c 154 § 6]; ]
+

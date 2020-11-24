@@ -1,0 +1,340 @@
+= 19.260 - Energy efficiency.
+:toc:
+
+== 19.260.010 - Findings.
+The legislature finds that appliance standards and design requirements:
+
+. For certain products sold or installed in the state assure consumers and businesses that such products meet minimum efficiency performance levels thus saving money on utility bills.
+
+. Save energy and reduce pollution and other environmental impacts associated with the production, distribution, and use of electricity and natural gas.
+
+. Contribute to the economy of Washington by helping to better balance energy supply and demand, thus reducing pressure for higher natural gas and electricity prices. By saving consumers and businesses money on energy bills, efficiency standards help the state and local economy, since energy bill savings can be spent on local goods and services.
+
+. Can make electricity systems more reliable by reducing the strain on the electricity grid during peak demand periods. Furthermore, improved energy efficiency can reduce or delay the need for new power plants, power transmission lines, and power distribution system upgrades.
+
+. Help ensure renters have the same access to energy efficient appliances as homeowners.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1444-S2.SL.pdf?cite=2019%20c%20286%20§%201[2019 c 286 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1062-S.SL.pdf?cite=2005%20c%20298%20§%201[2005 c 298 § 1]; ]
+
+== 19.260.020 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Air compressor" means a compressor designed to compress air that has an inlet open to the atmosphere or other source of air and is made up of a compression element (bare compressor), a driver or drivers, mechanical equipment to drive the compressor element, and any ancillary equipment.
+
+. "ANSI" means the American national standards institute.
+
+. "Bottle-type water dispenser" means a water dispenser that uses a bottle or reservoir as the source of potable water.
+
+. "Commercial dishwasher" means a machine designed to clean and sanitize plates, pots, pans, glasses, cups, bowls, utensils, and trays by applying sprays of detergent solution, with or without blasting media granules, and a sanitizing rinse.
+
+. "Commercial fryer" means an appliance, including a cooking vessel, in which oil is placed to such a depth that the cooking food is supported by displacement of the cooking fluid rather than by the bottom of the vessel. Heat is delivered to the cooking fluid by means of an immersed electric element of band-wrapped vessel (electric fryers) or by heat transfer from gas burners through either the walls of the fryer or through tubes passing through the cooking fluid (gas fryers).
+
+. "Commercial hot food holding cabinet" means a heated, fully enclosed compartment, with one or more solid or partial glass doors, that is designed to maintain the temperature of hot food that has been cooked in a separate appliance. "Commercial hot food holding cabinet" does not include heated glass merchandising cabinets, drawer warmers, or cook and hold appliances.
+
+. "Commercial steam cooker" means a device with one or more food-steaming compartments in which the energy in the steam is transferred to the food by direct contact. Models may include countertop models, wall-mounted models, and floor models mounted on a stand, pedestal, or cabinet-style base.
+
+. "Compensation" means money or any other valuable thing, regardless of form, received or to be received by a person for services rendered.
+
+. "Compressor" means a machine or apparatus that converts different types of energy into the potential energy of gas pressure for displacement and compression of gaseous media to any higher-pressure values above atmospheric pressure and has a pressure ratio at full-load operating pressure greater than 1.3.
+
+. "Cook and hold appliance" means a multiple mode appliance intended for cooking food that may be used to hold the temperature of the food that has been cooked in the same appliance.
+
+. "CTA" means the consumer technology association.
+
+. "Department" means the department of commerce.
+
+. "Drawer warmer" means an appliance that consists of one or more heated drawers and that is designed to hold hot food that has been cooked in a separate appliance at a specified temperature.
+
+. "Electric storage water heater" means a consumer product that uses electricity as the energy source to heat domestic potable water, has a nameplate input rating of twelve kilowatts or less, contains nominally forty gallons but no more than one hundred twenty gallons of rated hot water storage volume, and supplies a maximum hot water delivery temperature less than one hundred eighty degrees fahrenheit.
+
+. "General service lamp" has the same meaning as set forth in the action published at 82 Fed. Reg. 7276, 7321-22 (January 19, 2017) and modified by the action published at 82 Fed. Reg. 7322, 7333 (January 19, 2017).
+
+. "Heated glass merchandising cabinet" means an appliance with a heated cabinet constructed of glass or clear plastic doors which, with seventy percent or more clear area, is designed to display and maintain the temperature of hot food that has been cooked in a separate appliance.
+
+. "High color rendering index fluorescent lamp" or "high CRI fluorescent lamp" means a fluorescent lamp with a color rendering index of eighty-seven or greater that is not a compact fluorescent lamp.
+
+. "Hot water dispenser" means a small electric water heater that has a measured storage volume of no greater than one gallon.
+
+. "Mini-tank electric water heater" means a small electric water heater that has a measured storage volume of more than one gallon and a rated storage volume of less than twenty gallons.
+
+. "Point-of-use water dispenser" means a water dispenser that uses a pressurized water utility connection as the source of potable water.
+
+. "Portable air conditioner" means a portable encased assembly, other than a packaged terminal air conditioner, room air conditioner, or dehumidifier, that delivers cooled, conditioned air to an enclosed space, and is powered by single-phase electric current. It includes a source of refrigeration and may include additional means for air circulation and heating and may be a single-duct or a dual-duct portable air conditioner.
+
+. "Portable electric spa" means a factory-built electric spa or hot tub, which may or may not include any combination of integral controls, water heating, or water circulating equipment.
+
+. "Pressure regulator" means a device that maintains constant operating pressure immediately downstream from the device, given higher pressure upstream.
+
+. "Residential pool pump" means a pump used to circulate and filter pool water in order to maintain clarity and sanitation.
+
+. "Residential ventilating fan" means a ceiling, wall-mounted, or remotely mounted in-line fan designed to be used in a bathroom or utility room whose purpose is to move objectionable air from inside the building to the outdoors.
+
+. "Signage display" means an analog or digital device designed primarily for the display for computer-generated signals that is not marketed for use as a computer monitor or a television.
+
+. "Spray sprinkler body" means the exterior case or shell of a sprinkler incorporating a means of connection to the piping system designed to convey water to a nozzle or orifice.
+
+. "Uninterruptible power supply" means a battery charger consisting of a number of convertors, switches, and energy storage devices such as batteries, constituting a power system for maintaining continuity of load power in case of input power failure.
+
+. "Water cooler" means a freestanding device that consumes energy to cool or heat potable water, including cold only units, hot and cold units, cook and cold units, storage-type units, and on-demand units.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1444-S2.SL.pdf?cite=2019%20c%20286%20§%202[2019 c 286 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2242.SL.pdf?cite=2009%20c%20565%20§%2018[2009 c 565 § 18]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1004-S.SL.pdf?cite=2009%20c%20501%20§%201[2009 c 501 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6840-S.SL.pdf?cite=2006%20c%20194%20§%201[2006 c 194 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1062-S.SL.pdf?cite=2005%20c%20298%20§%202[2005 c 298 § 2]; ]
+
+== 19.260.030 - Application of chapter.
+. This chapter applies to the following types of new products sold, offered for sale, or installed in the state:
+
+.. Hot water dispensers and mini-tank electric water heaters;
+
+.. Bottle-type water dispensers and point-of-use water dispensers;
+
+.. Residential pool pumps and portable electric spas;
+
+.. Tub spout diverters;
+
+.. Commercial hot food holding cabinets;
+
+.. Air compressors;
+
+.. Commercial fryers, commercial dishwashers, and commercial steam cookers;
+
+.. Computers and computer monitors;
+
+.. Faucets;
+
+.. High CRI fluorescent lamps;
+
+.. Portable air conditioners;
+
+.. Residential ventilating fans;
+
+.. Showerheads;
+
+.. Spray sprinkler bodies;
+
+.. Uninterruptible power supplies;
+
+.. Urinals and water closets;
+
+.. Water coolers;
+
+.. General service lamps; and
+
+.. Electric storage water heaters.
+
+. This chapter applies equally to products whether they are sold, offered for sale, or installed as stand-alone products or as components of other products.
+
+. This chapter does not apply to:
+
+.. New products manufactured in the state and sold outside the state;
+
+.. New products manufactured outside the state and sold at wholesale inside the state for final retail sale and installation outside the state;
+
+.. Products installed in mobile manufactured homes at the time of construction; or
+
+.. Products designed expressly for installation and use in recreational vehicles.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1444-S2.SL.pdf?cite=2019%20c%20286%20§%203[2019 c 286 § 3]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1004-S.SL.pdf?cite=2009%20c%20501%20§%202[2009 c 501 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6840-S.SL.pdf?cite=2006%20c%20194%20§%202[2006 c 194 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1062-S.SL.pdf?cite=2005%20c%20298%20§%203[2005 c 298 § 3]; ]
+
+== 19.260.040 - Minimum efficiency standards.
+Except as provided in subsection (1) of this section, the minimum efficiency standards specified in this section apply to the types of new products set forth in RCW 19.260.030 as of the effective dates set forth in RCW 19.260.050.
+
+. The department may adopt by rule a more recent version of any standard or test method established in this section, including any product definition associated with the standard or test method, in order to maintain or improve consistency with other comparable standards in other states.
+
+. [Empty]
+.. The standby energy consumption of bottle-type water dispensers, and point-of-use water dispensers, dispensing both hot and cold water, manufactured on or after January 1, 2010, shall not exceed 1.2 kWh/day.
+
+.. The test method for water dispensers shall be the environmental protection agency energy star program requirements for bottled water coolers version 1.1.
+
+. [Empty]
+.. The standby energy consumption of hot water dispensers and mini-tank electric water heaters manufactured on or after January 1, 2010, shall be not greater than 35 watts.
+
+.. This subsection does not apply to any water heater:
+
+... That is within the scope of 42 U.S.C. Sec. 6292(a)(4) or 6311(1);
+
+... That has a rated storage volume of less than 20 gallons; and
+
+... For which there is no federal test method applicable to that type of water heater.
+
+.. Hot water dispensers shall be tested in accordance with the method specified in the California Code of Regulations, Title 20, section 1604 in effect as of July 26, 2009.
+
+.. Mini-tank electric water heaters shall be tested in accordance with the method specified in the California Code of Regulations, Title 20, section 1604 in effect as of July 26, 2009.
+
+. The following standards are established for residential pool pumps and portable electric spas:
+
+.. Residential pool pumps manufactured on or after January 1, 2010, and until July 18, 2021, must meet requirements specified in the California Code of Regulations, Title 20, section 1605.3 in effect as of July 26, 2009. Beginning July 19, 2021, residential pool pumps must meet requirements specified in the dedicated-purpose pool pump rule published by the United States department of energy on January 18, 2017, (82 Fed. Reg. 5650) and effective on May 18, 2017.
+
+.. Through December 31, 2019, portable electric spas manufactured on or after January 1, 2010, must meet requirements specified in the California Code of Regulations, Title 20, section 1605.3 in effect as of July 26, 2009. Beginning January 1, 2020, portable electric spas must meet the requirements of the American national standard for portable electric spa energy efficiency (ANSI/APSP/ICC-14 2014).
+
+.. Through December 31, 2019, portable electric spas must be tested in accordance with the method specified in the California Code of Regulations, Title 20, section 1604 in effect as of July 26, 2009. Beginning January 1, 2020, portable electric spas must be tested in accordance with the method specified in the American national standard for portable electric spa energy efficiency (ANSI/APSP/ICC-14 2014).
+
+. [Empty]
+.. The idle energy rate of commercial hot food holding cabinets manufactured on or after January 1, 2010, shall be no greater than 40 watts per cubic foot of measured interior volume.
+
+.. The idle energy rate of commercial hot food holding cabinets shall be determined using ANSI/ASTM F2140-11 standard test method for the performance of hot food holding cabinets (test for idle energy rate dry test). Commercial hot food holding cabinet interior volume shall be calculated using straight line segments following the gross interior dimensions of the appliance and using the following equation: Interior height x interior width x interior depth. Interior volume shall not account for racks, air plenums, or other interior parts.
+
+. Commercial dishwashers included in the scope of the environmental protection agency energy star program product specification for commercial dishwashers, version 2.0, must meet the qualification criteria of that specification.
+
+. Commercial fryers included in the scope of the environmental protection agency energy star program product specification for commercial fryers, version 2.0, must meet the qualification criteria for that specification.
+
+. Commercial steam cookers must meet the requirements of the environmental protection agency energy star program product specification for commercial steam cookers, version 1.2.
+
+. Computers and computer monitors must meet the requirements in the California Code of Regulations, Title 20, section 1605.3(v) as adopted on May 10, 2017, and amended on November 8, 2017, as measured in accordance with test methods prescribed in section 1604(v) of those regulations.
+
+. Air compressors that meet the twelve criteria listed on page 350 to 351 of the "energy conservation standards for air compressors" final rule issued by the United States department of energy on December 5, 2016, must meet the requirements in table 1 on page 352 following the instructions on page 353 and as measured in accordance with the "uniform test method for certain air compressors" under 10 C.F.R. Part 431 (Appendix A to Subpart T) as in effect on July 3, 2017.
+
+. High CRI fluorescent lamps must meet the requirements in 10 C.F.R. Sec. 430.32(n)(4) in effect as of January 3, 2017, as measured in accordance with the test methods prescribed in 10 C.F.R. Sec. 430.23 (appendix R to subpart B of part 430) in effect as of January 3, 2017.
+
+. Portable air conditioners must have a combined energy efficiency ratio, as measured in accordance with the test methods prescribed in 10 C.F.R. Sec. 430.23 (appendix CC to subpart B of part 430) in effect as of January 3, 2017, that is greater than or equal to:
+
+1.04 ×SACC(3.7117 × SACC 0.6384)
+
+1.04 ×
+
+SACC
+
+(3.7117 × SACC 0.6384)
+
+where "SACC" is seasonally adjusted cooling capacity in Btu/h.
+
+. Residential ventilating fans must meet the qualification criteria of the environmental protection agency energy star program product specification for residential ventilating fans, version 3.2.
+
+. Spray sprinkler bodies that are not specifically excluded from the scope of the environmental protection agency water sense program product specification for spray sprinkler bodies, version 1.0, must include an integral pressure regulator and must meet the water efficiency and performance criteria and other requirements of that specification.
+
+. The following products that are within the scope and definition of the applicable regulation must meet the requirements in the California Code of Regulations, Title 20, section 1605.3 in effect as of January 1, 2018, as measured in accordance with the test methods prescribed in the California Code of Regulations, Title 20, section 1604 in effect as of January 1, 2018:
+
+.. Showerheads;
+
+.. Tub spout diverters;
+
+.. Showerhead tub spout diverter combinations;
+
+.. Lavatory faucets and replacement aerators;
+
+.. Kitchen faucets and replacement aerators;
+
+.. Public lavatory faucets and replacement aerators;
+
+.. Urinals; and
+
+.. Water closets.
+
+. Uninterruptible power supplies that utilize a NEMA 1-15P or 5-15P input plug and have an AC output must have an average load adjusted efficiency that meets or exceeds the values shown on page 193 of the prepublication final rule "Energy Conservation Program: Energy Conservation Standards for Uninterruptible Power Supplies" issued by the United States department of energy on December 28, 2016, as measured in accordance with test procedures prescribed in Appendix Y to Subpart B of Part 430 of Title 10 of the Code of Federal Regulations "Uniform Test Method for Measuring the Energy Consumption of Battery Chargers" in effect as of January 11, 2017.
+
+. Water coolers included in the scope of the environmental protection agency energy star program product specification for water coolers, version 2.0, must have an on mode with no water draw energy consumption less than or equal to the following values as measured in accordance with the test requirements of that program:
+
+.. 0.16 kilowatt-hours per day for cold-only units and cook and cold units;
+
+.. 0.87 kilowatt-hours per day for storage type hot and cold units; and
+
+.. 0.18 kilowatt-hours per day for on demand hot and cold units.
+
+. General service lamps must meet or exceed a lamp efficacy of 45 lumens per watt, when tested in accordance with the applicable federal test procedures for general service lamps prescribed in 10 C.F.R. Sec. 430.23 in effect as of January 3, 2017.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1444-S2.SL.pdf?cite=2019%20c%20286%20§%204[2019 c 286 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1004-S.SL.pdf?cite=2009%20c%20501%20§%203[2009 c 501 § 3]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6840-S.SL.pdf?cite=2006%20c%20194%20§%203[2006 c 194 § 3]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1062-S.SL.pdf?cite=2005%20c%20298%20§%204[2005 c 298 § 4]; ]
+
+== 19.260.050 - Limit on sale or installation of products required to meet or exceed standards in RCW  19.260.040.
+. The following products, if manufactured on or after January 1, 2010, may not be sold or offered in the state unless the efficiency of the new product meets or exceeds the efficiency standards set forth in RCW 19.260.040:
+
+.. Hot water dispensers and mini-tank electric water heaters;
+
+.. Bottle-type water dispensers and point-of-use water dispensers;
+
+.. Residential pool pumps and portable electric spas;
+
+.. Tub spout diverters; and
+
+.. Commercial hot food holding cabinets.
+
+. The following products, if manufactured on or after January 1, 2010, may not be installed for compensation in the state on or after January 1, 2011, unless the efficiency of the new product meets or exceeds the efficiency standards set forth in RCW 19.260.040:
+
+.. Hot water dispensers and mini-tank electric water heaters;
+
+.. Bottle-type water dispensers and point-of-use water dispensers;
+
+.. Residential pool pumps and portable electric spas;
+
+.. Tub spout diverters; and
+
+.. Commercial hot food holding cabinets.
+
+. The following products, if manufactured on or after January 1, 2021, may not be sold or offered for sale, lease, or rent in the state unless the efficiency of the new product meets or exceeds the efficiency standards set forth in RCW 19.260.040:
+
+.. Commercial dishwashers;
+
+.. Commercial fryers;
+
+.. Commercial steam cookers;
+
+.. Computers or computer monitors;
+
+.. Faucets;
+
+.. Residential ventilating fans;
+
+.. Spray sprinkler bodies;
+
+.. Showerheads;
+
+.. Uninterruptible power supplies;
+
+.. Urinals and water closets; and
+
+.. Water coolers.
+
+. Standards for the following products expire January 1, 2020:
+
+.. Hot water dispensers; and
+
+.. Bottle-type water dispensers and point-of-use water dispensers.
+
+. A new air compressor manufactured on or after January 1, 2022, may not be sold or offered for sale in the state unless the efficiency of the new product meets or exceeds the efficiency standards set forth in RCW 19.260.040.
+
+. A new portable air conditioner manufactured on or after February 1, 2022, may not be sold or offered for sale in the state unless the efficiency of the new product meets or exceeds the efficiency standards set forth in RCW 19.260.040.
+
+. New general service lamps manufactured on or after January 1, 2020, may not be sold or offered for sale in the state unless the efficiency of the new product meets or exceeds the efficiency standards set forth in RCW 19.260.040.
+
+. No new high CRI fluorescent lamps may be sold or offered for sale in the state after January 1, 2023, unless the efficiency of the new product meets or exceeds the efficiency standards set forth in RCW 19.260.040. The department may establish by rule an earlier effective date, not before January 1, 2022, if the state of California adopts a comparable standard with an effective date before January 1, 2023.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1444-S2.SL.pdf?cite=2019%20c%20286%20§%206[2019 c 286 § 6]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1004-S.SL.pdf?cite=2009%20c%20501%20§%204[2009 c 501 § 4]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6840-S.SL.pdf?cite=2006%20c%20194%20§%204[2006 c 194 § 4]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1062-S.SL.pdf?cite=2005%20c%20298%20§%205[2005 c 298 § 5]; ]
+
+== 19.260.060 - Department—Authority to adopt rules that reference federal standards—Recommended updates to standards.
+. The department may adopt rules that incorporate by reference federal efficiency standards for federally covered products only as the standards existed on January 1, 2018. The department, in consultation with the office of the attorney general, must regularly submit a report to the appropriate committees of the legislature on federal standards that preempt the state standards set forth in RCW 19.260.040. Any report on federal preemption must be transmitted at least thirty days before the start of any regular legislative session.
+
+. The department may recommend updates to the energy efficiency standards and test methods for products listed in RCW 19.260.030. The department may also recommend establishing state standards for additional nonfederally covered products. In making its recommendations, the department shall use the following criteria: (a) Multiple manufacturers produce products that meet the proposed standard at the time of recommendation; (b) products meeting the proposed standard are available at the time of recommendation; (c) the products are cost-effective to consumers on a life-cycle cost basis using average Washington resource rates; (d) the utility of the energy efficient product meets or exceeds the utility of the comparable product available for purchase; and (e) the standard exists in at least two other states in the United States. For recommendations concerning commercial clothes washers, the department must also consider the fiscal effects on the low-income, elderly, and student populations. Any recommendations shall be transmitted to the appropriate committees of the legislature sixty days before the start of any regular legislative session.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1444-S2.SL.pdf?cite=2019%20c%20286%20§%207[2019 c 286 § 7]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1062-S.SL.pdf?cite=2005%20c%20298%20§%206[2005 c 298 § 6]; ]
+
+== 19.260.070 - Manufacturers must test products—Certification—Rules—Identification of products—Complaints—Penalty.
+. The manufacturers of products covered by this chapter must test samples of their products in accordance with the test procedures under this chapter or those specified in the state building code.
+
+. Manufacturers of new products covered by RCW 19.260.030 shall certify to the department that the products are in compliance with this chapter. This certification must be based on test results unless this chapter does not specify a test method. The department shall establish rules governing the certification of these products and may rely on the certification programs of other states and federal agencies with similar standards.
+
+. Manufacturers of new products covered by RCW 19.260.030 shall identify each product offered for sale or installation in the state as in compliance with this chapter by means of a mark, label, or tag on the product and packaging at the time of sale or installation. The department shall establish rules governing the identification of these products and packaging, which shall be coordinated to the greatest practical extent with the labeling programs of other states and federal agencies with equivalent efficiency standards. Manufacturers of general service lamps that meet the efficiency standards under RCW 19.260.040 are not required to label each individual lamp offered for sale or installation in the state.
+
+. The department may test products covered by RCW 19.260.030 and may rely on the results of product testing performed by or on behalf of other governmental jurisdictions with comparable standards. If products so tested are found not to be in compliance with the minimum efficiency standards established under RCW 19.260.040, the department shall: (a) Charge the manufacturer of the product for the cost of product purchase and testing; and (b) make information available to the public on products found not to be in compliance with the standards.
+
+. The department shall obtain the test methods specified in RCW 19.260.040, which shall be available for public use at the department's energy policy offices.
+
+. The department may investigate complaints received concerning violations of this chapter. Any manufacturer or distributor who violates this chapter shall be issued a warning by the director of the department for any first violation. Repeat violations are subject to a civil penalty of not more than two hundred fifty dollars a day. Penalties assessed under this subsection are in addition to costs assessed under subsection (4) of this section.
+
+. The department may adopt rules as necessary to ensure the proper implementation and enforcement of this chapter.
+
+. The proceedings relating to this chapter are governed by the administrative procedure act, chapter 34.05 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1444-S2.SL.pdf?cite=2019%20c%20286%20§%208[2019 c 286 § 8]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1062-S.SL.pdf?cite=2005%20c%20298%20§%207[2005 c 298 § 7]; ]
+
+== 19.260.080 - Electric storage water heaters.
+. An electric storage water heater, if manufactured on or after January 1, 2021, may not be installed, sold, or offered for sale, lease, or rent in the state unless it complies with the following design requirement:
+
+.. The product must have a modular demand response communications port compliant with: (i) The March 2018 version of the ANSI/CTA–2045-A communication interface standard, or equivalent and (ii) the March 2018 version of the ANSI/CTA-2045-A application layer requirements.
+
+.. The interface standard and application layer requirements required in this subsection are the versions established in March 2018, unless the department adopts by rule a later version.
+
+. The department may by rule establish a later effective date or suspend enforcement of the requirements of subsection (1) of this section if the department determines that such a delay or suspension is in the public interest.
+
+. Private customer information, and proprietary customer information, collected, stored, conveyed, transmitted, or retrieved by an electric storage water heater equipped with a modular demand response communications port required under this section or rules adopted under this chapter is subject to the provisions of RCW 19.29A.100 and 19.29A.110.
+
+. An electric utility supplying electricity to a building in which an electric storage water heater that meets the design requirements established in this section has been installed may not, without first having obtained in writing the customer's affirmative consent to participating in a program that allows such alteration, alter, or require the utility customer to alter, the usage of electricity or water relating to the electric storage water heater on the basis of information collected by the electric storage water heater or any associated device.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1444-S2.SL.pdf?cite=2019%20c%20286%20§%205[2019 c 286 § 5]; ]
+

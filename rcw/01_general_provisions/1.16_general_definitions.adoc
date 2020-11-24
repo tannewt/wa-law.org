@@ -1,0 +1,126 @@
+= 1.16 - General definitions.
+:toc:
+
+== 1.16.020 - "Fiscal biennium."
+The fiscal biennium of the state shall commence on the first day of July in each odd-numbered year and end on the thirtieth day of June of the next succeeding odd-numbered year. The fiscal biennium of those cities and towns which utilize a biennial budget shall commence on the first day of January in each odd-numbered year and end on the thirty-first day of December of the next succeeding even-numbered year.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c175.pdf?cite=1985%20c%20175%20§%202[1985 c 175 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1953c184.pdf?cite=1953%20c%20184%20§%202[1953 c 184 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1923c86.pdf?cite=1923%20c%2086%20§%201[1923 c 86 § 1]; RRS § 10927; ]
+
+== 1.16.030 - "Fiscal year"—School districts and other taxing districts.
+August 31st shall end the fiscal year of school districts and December 31st of all other taxing districts.
+
+[ 1975-'76 2nd ex.s. c 118 § 21; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1909c76.pdf?cite=1909%20c%2076%20§%2013[1909 c 76 § 13]; RRS § 9963; ]
+
+== 1.16.040 - "Folio."
+The term "folio" when used as a measure for computing fees or compensation, shall be construed to mean one hundred words, counting every two figures necessarily used as a word. Any portion of a folio, when in the whole draft or paper there should not be a complete folio, and when there shall be an excess over the last folio exceeding a quarter, it shall be computed as a folio. The filing of a paper shall be construed to include the certificate of the same.
+
+[ Code 1881 § 2093; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1869%20p%20373%20§%2015[1869 p 373 § 15]; RRS § 500; ]
+
+== 1.16.050 - "Legal holidays" and "legislatively recognized days"—Unpaid holidays for employees with appointments or contracts of less than twelve consecutive months.
+. The following are state legal holidays:
+
+.. Sunday;
+
+.. The first day of January, commonly called New Year's Day;
+
+.. The third Monday of January, celebrated as the anniversary of the birth of Martin Luther King, Jr.;
+
+.. The third Monday of February, to be known as Presidents' Day and celebrated as the anniversary of the births of Abraham Lincoln and George Washington;
+
+.. The last Monday of May, commonly known as Memorial Day;
+
+.. The fourth day of July, the anniversary of the Declaration of Independence;
+
+.. The first Monday in September, to be known as Labor Day;
+
+.. The eleventh day of November, to be known as Veterans' Day;
+
+.. The fourth Thursday in November, to be known as Thanksgiving Day;
+
+.. The Friday immediately following the fourth Thursday in November, to be known as Native American Heritage Day; and
+
+.. The twenty-fifth day of December, commonly called Christmas Day.
+
+. Employees of the state and its political subdivisions, except employees of school districts and except those nonclassified employees of institutions of higher education who hold appointments or are employed under contracts to perform services for periods of less than twelve consecutive months, are entitled to one paid holiday per calendar year in addition to those specified in this section. Each employee of the state or its political subdivisions may select the day on which the employee desires to take the additional holiday provided for in this section after consultation with the employer pursuant to guidelines to be promulgated by rule of the appropriate personnel authority, or in the case of local government by ordinance or resolution of the legislative authority.
+
+. Employees of the state and its political subdivisions, including employees of school districts and those nonclassified employees of institutions of higher education who hold appointments or are employed under contracts to perform services for periods of less than twelve consecutive months, are entitled to two unpaid holidays per calendar year for a reason of faith or conscience or an organized activity conducted under the auspices of a religious denomination, church, or religious organization. This includes employees of public institutions of higher education, including community colleges, technical colleges, and workforce training programs. The employee may select the days on which the employee desires to take the two unpaid holidays after consultation with the employer pursuant to guidelines to be promulgated by rule of the appropriate personnel authority, or in the case of local government by ordinance or resolution of the legislative authority. If an employee prefers to take the two unpaid holidays on specific days for a reason of faith or conscience, or an organized activity conducted under the auspices of a religious denomination, church, or religious organization, the employer must allow the employee to do so unless the employee's absence would impose an undue hardship on the employer or the employee is necessary to maintain public safety. Undue hardship shall have the meaning established in rule by the office of financial management under RCW 43.41.109.
+
+. If any of the state legal holidays specified in this section are also federal legal holidays but observed on different dates, only the state legal holidays are recognized as a paid legal holiday for employees of the state and its political subdivisions. However, for port districts and the law enforcement and public transit employees of municipal corporations, either the federal or the state legal holiday is recognized as a paid legal holiday, but in no case may both holidays be recognized as a paid legal holiday for employees.
+
+. Whenever any state legal holiday:
+
+.. Other than Sunday, falls upon a Sunday, the following Monday is the legal holiday; or
+
+.. Falls upon a Saturday, the preceding Friday is the legal holiday.
+
+. Nothing in this section may be construed to have the effect of adding or deleting the number of paid holidays provided for in an agreement between employees and employers of political subdivisions of the state or as established by ordinance or resolution of the local government legislative authority.
+
+. The legislature declares that the following days are recognized as provided in this subsection, but may not be considered legal holidays for any purpose:
+
+.. The thirteenth day of January, recognized as Korean-American day;
+
+.. The twelfth day of October, recognized as Columbus day;
+
+.. The ninth day of April, recognized as former prisoner of war recognition day;
+
+.. The twenty-sixth day of January, recognized as Washington army and air national guard day;
+
+.. The seventh day of August, recognized as purple heart recipient recognition day;
+
+.. The second Sunday in October, recognized as Washington state children's day;
+
+.. The sixteenth day of April, recognized as Mother Joseph day;
+
+.. The fourth day of September, recognized as Marcus Whitman day;
+
+.. The seventh day of December, recognized as Pearl Harbor remembrance day;
+
+.. The twenty-seventh day of July, recognized as national Korean war veterans armistice day;
+
+.. The nineteenth day of February, recognized as civil liberties day of remembrance;
+
+.. The nineteenth day of June, recognized as Juneteenth, a day of remembrance for the day the slaves learned of their freedom;
+
+.. The thirtieth day of March, recognized as welcome home Vietnam veterans day;
+
+.. The eleventh day of January, recognized as human trafficking awareness day;
+
+.. The thirty-first day of March, recognized as Cesar Chavez day;
+
+.. The tenth day of April, recognized as Dolores Huerta day;
+
+.. The fourth Saturday of September, recognized as public lands day; and
+
+.. The eighteenth day of December, recognized as blood donor day.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6567.SL.pdf?cite=2020%20c%2074%20§%202[2020 c 74 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1449.SL.pdf?cite=2019%20c%20224%20§%202[2019 c 224 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1906.SL.pdf?cite=2019%20c%2010%20§%201[2019 c 10 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1939.SL.pdf?cite=2018%20c%20307%20§%201[2018 c 307 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6376.SL.pdf?cite=2016%20c%209%20§%202[2016 c 9 § 2]; prior:  2014 c 177 § 2; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5173-S.SL.pdf?cite=2014%20c%20168%20§%201[2014 c 168 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1319.SL.pdf?cite=2013%20c%205%20§%201[2013 c 5 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2138.SL.pdf?cite=2012%20c%2011%20§%201[2012 c 11 § 1]; prior:  2007 c 61 § 2; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5166.SL.pdf?cite=2007%20c%2019%20§%202[2007 c 19 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1460.SL.pdf?cite=2003%20c%2068%20§%202[2003 c 68 § 2]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6285.SL.pdf?cite=2000%20c%2060%20§%201[2000 c 60 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5734.SL.pdf?cite=1999%20c%2026%20§%201[1999 c 26 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5479-S.SL.pdf?cite=1993%20c%20129%20§%202[1993 c 129 § 2]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5718.SL.pdf?cite=1991%20sp.s.%20c%2020%20§%201[1991 sp.s. c 20 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5678.SL.pdf?cite=1991%20c%2057%20§%202[1991 c 57 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c128.pdf?cite=1989%20c%20128%20§%201[1989 c 128 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c189.pdf?cite=1985%20c%20189%20§%201[1985 c 189 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c77.pdf?cite=1979%20c%2077%20§%201[1979 c 77 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c111.pdf?cite=1977%20ex.s.%20c%20111%20§%201[1977 ex.s. c 111 § 1]; 1975-'76 2nd ex.s. c 24 § 1; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c194.pdf?cite=1975%201st%20ex.s.%20c%20194%20§%201[1975 1st ex.s. c 194 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex2c1.pdf?cite=1973%202nd%20ex.s.%20c%201%20§%201[1973 2nd ex.s. c 1 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c11.pdf?cite=1969%20c%2011%20§%201[1969 c 11 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c20.pdf?cite=1955%20c%2020%20§%201[1955 c 20 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1927c51.pdf?cite=1927%20c%2051%20§%201[1927 c 51 § 1]; RRS § 61; prior:  1895 c 3 § 1; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1891c41.pdf?cite=1891%20c%2041%20§%201[1891 c 41 § 1]; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1888%20p%20107%20§%201[1888 p 107 § 1]; ]
+
+== 1.16.060 - "Month" or "months."
+The word "month" or "months," whenever the same occurs in the statutes of this state now in force, or in statutes hereinafter enacted, or in any contract made in this state, shall be taken and construed to mean "calendar months."
+
+[ 1891 c 23 § 1, part; Code 1881 § 759; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1877%20p%20333%20§%201[1877 p 333 § 1]; RRS § 149; ]
+
+== 1.16.065 - "Officer."
+Whenever any term indicating an officer is used it shall be construed, when required, to mean any person authorized by law to discharge the duties of such officer.
+
+[ Code 1881 § 755; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1854%20p%20221%20§%20501[1854 p 221 § 501]; RRS § 147; ]
+
+== 1.16.080 - "Person"—Construction of "association," "unincorporated association," and "person, firm, or corporation" to include a limited liability company.
+. The term "person" may be construed to include the United States, this state, or any state or territory, or any public or private corporation or limited liability company, as well as an individual.
+
+. Unless the context clearly indicates otherwise, the terms "association," "unincorporated association," and "person, firm, or corporation" or substantially identical terms shall, without limiting the application of any term to any other type of legal entity, be construed to include a limited liability company.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6168-S.SL.pdf?cite=1996%20c%20231%20§%201[1996 c 231 § 1]; 1891 c 23 § 1, part; Code 1881 § 964; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1857%20p%2046%20§%201[1857 p 46 § 1]; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1854%20p%2099%20§%20134[1854 p 99 § 134]; RRS § 146; ]
+
+== 1.16.090 - Legislative declaration for civil liberties day of remembrance.
+The legislature recognizes that on February 19, 1942, the President of the United States issued Executive Order 9066 which authorized military rule over civilian law and lives; that Executive Order 9066 led to the World War II evacuation and internment of more than one hundred twenty thousand Japanese Americans, most of whom were United States citizens by birth; that Japanese Americans lost their homes and livelihoods and suffered physical and psychological damage; and that, despite widespread hostility and discrimination, Japanese Americans served with distinction in the United States military effort as members of the Military Intelligence Service and in the segregated 100th Infantry Battalion and the 442nd Regimental Combat Team. The legislature further recognizes that in the name of "military necessity," Japanese Americans were deprived of their fundamental constitutional rights and civil liberties; and that the Japanese American experience during World War II tragically illuminates the fragile nature of our most cherished national beliefs and values.
+
+The legislature declares that an annual day of recognition be observed in remembrance of Japanese Americans interned during World War II as a reminder that, regardless of the provocation, individual rights and freedoms must never be denied.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1460.SL.pdf?cite=2003%20c%2068%20§%201[2003 c 68 § 1]; ]
+
+== 1.16.100 - Domestic relations terms—Exceptions.
+For the purposes of this code, with the exception of chapter 26.04 RCW, the terms spouse, marriage, marital, husband, wife, widow, widower, next of kin, and family shall be interpreted as applying equally to state registered domestic partnerships or individuals in state registered domestic partnerships as well as to marital relationships and married persons, and references to dissolution of marriage shall apply equally to state registered domestic partnerships that have been terminated, dissolved, or invalidated, to the extent that such interpretation does not conflict with federal law. Where necessary to implement chapter 521, Laws of 2009, gender-specific terms such as husband and wife used in any statute, rule, or other law shall be construed to be gender neutral, and applicable to individuals in state registered domestic partnerships.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5688-S2.SL.pdf?cite=2009%20c%20521%20§%204[2009 c 521 § 4]; ]
+

@@ -1,0 +1,212 @@
+= 70A.330 - Petroleum storage tank systems—Pollution liability protection act.
+:toc:
+
+== 70A.330.010 - Intent—Findings. (Expires July 1, 2030.)
+The legislature finds that it is in the best interests of all citizens for petroleum storage tank systems to be operated safely and for tank leaks or spills to be dealt with expeditiously. The legislature finds that it is appropriate for an agency with expertise in petroleum to provide technical advice and assistance to owners or operators when there has been a release. The legislature further finds that while it is necessary to protect tank owners from the financial hardship related to damaged heating oil tanks, support can be provided through the agency's revolving loan and grant program in *chapter 70.340 RCW. Therefore, the legislature intends to transition the pollution liability insurance program for heating oil tanks to a revolving loan and grant program, while maintaining the pollution liability insurance program for existing registrants.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6256-S.SL.pdf?cite=2020%20c%20310%20§%201[2020 c 310 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1266-S.SL.pdf?cite=2017%20c%2023%20§%201[2017 c 23 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5660-S.SL.pdf?cite=1995%20c%2020%20§%201[1995 c 20 § 1]; ]
+
+== 70A.330.020 - Short title. (Expires July 1, 2030.)
+This chapter may be known and cited as the Washington state pollution liability protection act.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1266-S.SL.pdf?cite=2017%20c%2023%20§%202[2017 c 23 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5660-S.SL.pdf?cite=1995%20c%2020%20§%202[1995 c 20 § 2]; ]
+
+== 70A.330.030 - Definitions. (Expires July 1, 2030.)
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Accidental release" means a sudden or nonsudden release of heating oil, occurring after July 23, 1995, from operating a heating oil tank that results in bodily injury, property damage, or a need for corrective action, neither expected nor intended by the owner or operator.
+
+. "Bodily injury" means bodily injury, sickness, or disease sustained by a person, including death at any time, resulting from the injury, sickness, or disease.
+
+. [Empty]
+.. "Corrective action" means those actions reasonably required to be undertaken by the insured to remove, treat, neutralize, contain, or clean up an accidental release in order to comply with a statute, ordinance, rule, regulation, directive, order, or similar legal requirement, in effect at the time of an accidental release, of the United States, the state of Washington, or a political subdivision of the United States or the state of Washington. "Corrective action" includes, where agreed to in writing, in advance by the insurer, action to remove, treat, neutralize, contain, or clean up an accidental release to avert, reduce, or eliminate the liability of the insured for corrective action, bodily injury, or property damage. "Corrective action" also includes actions reasonably necessary to monitor, assess, and evaluate an accidental release.
+
+.. "Corrective action" does not include:
+
+... Replacement or repair of heating oil tanks or other receptacles; or
+
+... Replacement or repair of piping, connections, and valves of tanks or other receptacles.
+
+. "Defense costs" include the costs of legal representation, expert fees, and related costs and expenses incurred in defending against claims or actions brought by or on behalf of:
+
+.. The United States, the state of Washington, or a political subdivision of the United States or state of Washington to require corrective action or to recover costs of corrective action; or
+
+.. A third party for bodily injury or property damage caused by an accidental release.
+
+. "Director" means the director of the Washington state pollution liability insurance agency or the director's appointed representative.
+
+. "Environmental covenant" has the same meaning as defined in RCW 64.70.020.
+
+. "Facility" has the same meaning as defined in RCW 70A.305.020.
+
+. "Heating oil" means any petroleum product used for space heating in oil-fired furnaces, heaters, and boilers, including stove oil, diesel fuel, or kerosene. "Heating oil" does not include petroleum products used as fuels in motor vehicles, marine vessels, trains, buses, aircraft, or any off-highway equipment not used for space heating, or for industrial processing or the generation of electrical energy.
+
+. "Heating oil tank" means a tank and its connecting pipes, whether above or below ground, or in a basement, with pipes connected to the tank for space heating of human living or working space on the premises where the tank is located. "Heating oil tank" does not include a decommissioned or abandoned heating oil tank, or a tank used solely for industrial process heating purposes or generation of electrical energy.
+
+. "Independent remedial action" has the same meaning as defined in RCW 70A.305.020.
+
+. "Occurrence" means an accident, including continuous or repeated exposure to conditions, that results in a release from a heating oil tank.
+
+. "Owner or operator" means a person in control of, or having responsibility for, the daily operation of a petroleum storage tank system.
+
+. "Petroleum" means any petroleum-based substance including crude oil or any fraction that is liquid at standard conditions of temperature and pressure. The term "petroleum" includes, but is not limited to, petroleum and petroleum-based substances comprised of a complex blend of hydrocarbons, such as motor fuels, jet fuels, distillate fuel oils, residual fuel oils, lubricants, petroleum solvents, used oils, and heating oils. The term "petroleum" does not include propane, asphalt, or any other petroleum product that is not liquid at standard conditions of temperature and pressure. Standard conditions of temperature and pressure are at sixty degrees Fahrenheit and 14.7 pounds per square inch absolute.
+
+. "Petroleum storage tank system" means a storage tank system that contains petroleum or a mixture of petroleum with de minimis quantities of other substances. The systems include those containing motor fuels, jet fuels, distillate fuel oils, residual fuel oils, lubricants, petroleum solvents, used oils, and heating oils. "Petroleum storage tank system" does not include any storage tank system regulated under chapter 70A.300 RCW.
+
+. "Pollution liability insurance agency" means the Washington state pollution liability insurance agency.
+
+. "Property damage" means:
+
+.. Physical injury to, destruction of, or contamination of tangible property, including the loss of use of the property resulting from the injury, destruction, or contamination; or
+
+.. Loss of use of tangible property that has not been physically injured, destroyed, or contaminated but has been evacuated, withdrawn from use, or rendered inaccessible because of an accidental release.
+
+. "Release" means a spill, leak, emission, escape, or leaching into the environment.
+
+. "Remedial action" has the same meaning as defined in RCW 70A.305.020.
+
+. "Remedial action costs" means reasonable costs that are attributable to or associated with a remedial action.
+
+. "Tank" means a stationary device, designed to contain an accumulation of heating oil, that is constructed primarily of nonearthen materials such as concrete, steel, fiberglass, or plastic that provides structural support.
+
+. "Third-party liability" means the liability of a heating oil tank owner to another person due to property damage or personal injury that results from a leak or spill.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201386[2020 c 20 § 1386]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1266-S.SL.pdf?cite=2017%20c%2023%20§%203[2017 c 23 § 3]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5660-S.SL.pdf?cite=1995%20c%2020%20§%203[1995 c 20 § 3]; ]
+
+== 70A.330.040 - Duties of director. (Expires July 1, 2030.)
+The director shall:
+
+. Design and implement a process to close out existing claims under the heating oil pollution liability insurance program. During this process, the director has authority to maintain the program providing pollution liability insurance for heating oil tanks that provides up to sixty thousand dollars per occurrence coverage and aggregate limits, not to exceed fifteen million dollars each calendar year. Claims received under the existing policy, which would result in payment in excess of fifteen million dollars in a calendar year may be paid out in the next calendar year. The heating oil pollution liability insurance program shall not register heating oil tanks for coverage under the heating oil pollution liability insurance program after July 1, 2020;
+
+. Administer, implement, and enforce the provisions of this chapter. To assist in administration of the program, the director is authorized to appoint up to two employees who are exempt from the civil service law, chapter 41.06 RCW, and who shall serve at the pleasure of the director;
+
+. Administer the heating oil pollution liability trust account, as established under RCW 70A.330.060;
+
+. Employ and discharge, at his or her discretion, agents, attorneys, consultants, companies, organizations, and employees as deemed necessary, and to prescribe their duties and powers, and fix their compensation;
+
+. Adopt rules under chapter 34.05 RCW as necessary to carry out the provisions of this chapter;
+
+. Have the authority to provide reinsurance through the pollution liability insurance program trust account;
+
+. Implement a program to provide advice and technical assistance on the administrative and technical requirements of this chapter and chapter 70A.305 RCW to persons who are conducting or otherwise interested in independent remedial actions at facilities where there is a suspected or confirmed release from the following petroleum storage tank systems: A heating oil tank; a decommissioned heating oil tank; an abandoned heating oil tank; or a petroleum storage tank system identified by the department of ecology based on the relative risk posed by the release to human health and the environment, as determined under chapter 70A.305 RCW, or other factors identified by the department of ecology.
+
+.. Such advice or assistance is advisory only, and is not binding on the pollution liability insurance agency or the department of ecology. As part of this advice and assistance, the pollution liability insurance agency may provide written opinions on whether independent remedial actions or proposals for these actions meet the substantive requirements of chapter 70A.305 RCW, or whether the pollution liability insurance agency believes further remedial action is necessary at the facility. As part of this advice and assistance, the pollution liability insurance agency may also observe independent remedial actions.
+
+.. The agency is authorized to collect, from persons requesting advice and assistance, the costs incurred by the agency in providing such advice and assistance. The costs may include travel costs and expenses associated with review of reports and preparation of written opinions and conclusions. Funds from cost reimbursement must be deposited in the heating oil pollution liability trust account.
+
+.. The state of Washington, the pollution liability insurance agency, and its officers and employees are immune from all liability, and no cause of action arises from any act or omission in providing, or failing to provide, such advice, opinion, conclusion, or assistance;
+
+. Establish a public information program to provide information regarding liability, technical, and environmental requirements associated with active and abandoned heating oil tanks;
+
+. Monitor agency expenditures and seek to minimize costs and maximize benefits to ensure responsible financial stewardship;
+
+. Study if appropriate user fees to supplement program funding are necessary and develop recommendations for legislation to authorize such fees;
+
+. Establish requirements, including deadlines not to exceed ninety days, for reporting to the pollution liability insurance agency a suspected or confirmed release from a heating oil tank, including a decommissioned or abandoned heating oil tank, that may pose a threat to human health or the environment by the owner or operator of the heating oil tank or the owner of the property where the release occurred;
+
+. Within ninety days of receiving information and having a reasonable basis to believe that there may be a release from a heating oil tank, including decommissioned or abandoned heating oil tanks, that may pose a threat to human health or the environment, perform an initial investigation to determine at a minimum whether such a release has occurred and whether further remedial action is necessary under chapter 70A.305 RCW. The initial investigation may include, but is not limited to, inspecting, sampling, or testing. The director may retain contractors to perform an initial investigation on the agency's behalf;
+
+. For any written opinion issued under subsection (7) of this section requiring an environmental covenant as part of the remedial action, consult with, and seek comment from, a city or county department with land use planning authority for real property subject to the environmental covenant prior to the property owner recording the environmental covenant; and
+
+. For any property where an environmental covenant has been established as part of the remedial action approved under subsection (7) of this section, periodically review the environmental covenant for effectiveness. The director shall perform a review at least once every five years after an environmental covenant is recorded.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6256-S.SL.pdf?cite=2020%20c%20310%20§%202[2020 c 310 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201387[2020 c 20 § 1387]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6159.SL.pdf?cite=2018%20c%20194%20§%203[2018 c 194 § 3]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1266-S.SL.pdf?cite=2017%20c%2023%20§%204[2017 c 23 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5995.SL.pdf?cite=2009%20c%20560%20§%2011[2009 c 560 § 11]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1789.SL.pdf?cite=2007%20c%20240%20§%201[2007 c 240 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6286-S.SL.pdf?cite=2004%20c%20203%20§%201[2004 c 203 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1007-S.SL.pdf?cite=1997%20c%208%20§%201[1997 c 8 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5660-S.SL.pdf?cite=1995%20c%2020%20§%204[1995 c 20 § 4]; ]
+
+== 70A.330.050 - Exemptions from Title 48 RCW—Exceptions. (Expires July 1, 2030.)
+. The activities and operations of the program are exempt from the provisions and requirements of Title 48 RCW and to the extent of their participation in the program, the activities and operations of the insurer selected by the director to provide liability insurance coverage to owners and operators of heating oil tanks are exempt from the requirements of Title 48 RCW except for:
+
+.. Chapter 48.03 RCW pertaining to examinations;
+
+.. RCW 48.05.250 pertaining to annual reports;
+
+.. Chapter 48.12 RCW pertaining to assets and liabilities;
+
+.. Chapter 48.13 RCW pertaining to investments;
+
+.. Chapter 48.30 RCW pertaining to deceptive, false, or fraudulent acts or practices; and
+
+.. Chapter 48.92 RCW pertaining to liability risk retention.
+
+. To the extent of their participation in the program, the insurer selected by the director to provide liability insurance coverage to owners and operators of heating oil tanks shall not participate in the Washington insurance guaranty association nor shall the association be liable for coverage provided to owners and operators of heating oil tanks issued in connection with the program.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5660-S.SL.pdf?cite=1995%20c%2020%20§%206[1995 c 20 § 6]; ]
+
+== 70A.330.060 - Heating oil pollution liability trust account. (Expires July 1, 2030.)
+. The heating oil pollution liability trust account is created in the custody of the state treasurer. All receipts from the pollution liability insurance fee collected under RCW 70A.330.070 and reinsurance premiums shall be deposited into the account. Expenditures from the account may be used only for the purposes set out under this chapter. Only the director or the director's designee may authorize expenditures from the account. The account is subject to allotment procedures under chapter 43.88 RCW, but no appropriation is required for expenditures.
+
+. Money in the account may be used by the director for the following purposes:
+
+.. Corrective action costs;
+
+.. Third-party liability claims;
+
+.. Costs associated with claims administration;
+
+.. Purchase of an insurance policy to cover all registered heating oil tanks, and reinsurance of the policy; and
+
+.. Administrative expenses of the program, including personnel, equipment, supplies, and providing advice and technical assistance.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201388[2020 c 20 § 1388]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1266-S.SL.pdf?cite=2017%20c%2023%20§%205[2017 c 23 § 5]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6286-S.SL.pdf?cite=2004%20c%20203%20§%202[2004 c 203 § 2]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1007-S.SL.pdf?cite=1997%20c%208%20§%202[1997 c 8 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5660-S.SL.pdf?cite=1995%20c%2020%20§%207[1995 c 20 § 7]; ]
+
+== 70A.330.070 - Pollution liability insurance fee. (Expires July 1, 2030.)
+. A pollution liability insurance fee of one and two-tenths cents per gallon of heating oil purchased within the state shall be imposed on every special fuel dealer, as the term is defined in chapter 82.38 RCW, making sales of heating oil to a user or consumer.
+
+. The pollution liability insurance fee shall be remitted by the special fuel dealer to the department of licensing.
+
+. The fee proceeds shall be used for the specific regulatory purposes of this chapter.
+
+. The fee imposed by this section shall not apply to heating oil exported or sold for export from the state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6286-S.SL.pdf?cite=2004%20c%20203%20§%203[2004 c 203 § 3]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5660-S.SL.pdf?cite=1995%20c%2020%20§%208[1995 c 20 § 8]; ]
+
+== 70A.330.080 - Confidentiality. (Expires July 1, 2030.)
+The following shall be confidential and exempt under chapter 42.56 RCW, subject to the conditions set forth in this section:
+
+. All examination and proprietary reports and information obtained by the director and the director's staff in soliciting bids from insurers and in monitoring the insurer selected by the director may not be made public or otherwise disclosed to any person, firm, corporation, agency, association, governmental body, or other entity.
+
+. All information obtained by the director or the director's staff related to registration of heating oil tanks to be insured may not be made public or otherwise disclosed to any person, firm, corporation, agency, association, governmental body, or other entity.
+
+. The director may furnish all or part of examination reports prepared by the director or by any person, firm, corporation, association, or other entity preparing the reports on behalf of the director to:
+
+.. The Washington state insurance commissioner;
+
+.. A person or organization officially connected with the insurer as officer, director, attorney, auditor, or independent attorney or independent auditor; and
+
+.. The attorney general in his or her role as legal advisor to the director.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1133-S.SL.pdf?cite=2005%20c%20274%20§%20342[2005 c 274 § 342]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5660-S.SL.pdf?cite=1995%20c%2020%20§%209[1995 c 20 § 9]; ]
+
+== 70A.330.090 - Application of RCW  19.86.020 through  19.86.060. (Expires July 1, 2030.)
+Nothing contained in this chapter shall authorize any commercial conduct which is prohibited by RCW 19.86.020 through 19.86.060, and no section of this chapter shall be deemed to be an implied repeal of any of those sections of the Revised Code of Washington.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5660-S.SL.pdf?cite=1995%20c%2020%20§%2010[1995 c 20 § 10]; ]
+
+== 70A.330.100 - Heating oil tanks—Design criteria—Reimbursement. (Expires July 1, 2030.)
+. The pollution liability insurance agency shall identify design criteria for heating oil tanks that provide superior protection against future leaks as compared to standard steel tank designs. Any tank designs identified under this section must either be constructed with fiberglass or offer at least an equivalent level of protection against leaks as a standard fiberglass design.
+
+. The pollution liability insurance agency shall reimburse any owner or operator, who is participating in the program created in this chapter and who has experienced an occurrence or remedial action, for the difference in price between a standard steel heating tank and a new heating oil tank that satisfies the design standards identified under subsection (1) of this section, if the owner or operator chooses or is required to replace his or her tank at the time of the occurrence or remedial action.
+
+. Any new heating oil tank reimbursement provided under this section must be funded within the amount of per occurrence coverage provided to the owner or operator under RCW 70A.330.040.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201389[2020 c 20 § 1389]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1789.SL.pdf?cite=2007%20c%20240%20§%202[2007 c 240 § 2]; ]
+
+== 70A.330.110 - Authorization to process claims through interpretative guidance. (Expires July 1, 2030.)
+To ensure the adoption of rules will not delay the process to close out existing claims under the heating oil pollution liability insurance program, the pollution liability insurance agency may continue to process claims through interpretative guidance pending adoption of rules.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6256-S.SL.pdf?cite=2020%20c%20310%20§%203[2020 c 310 § 3]; ]
+
+== 70A.330.800 - Technical advice and assistance program expansion—Interpretive guidance pending rules. (Expires July 1, 2030.)
+To ensure the adoption of rules will not delay the implementation of remedial actions, the pollution liability insurance agency may implement the technical advice and assistance program expansion to include petroleum storage tank systems through interpretive guidance pending adoption of rules.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1266-S.SL.pdf?cite=2017%20c%2023%20§%207[2017 c 23 § 7]; ]
+
+== 70A.330.801 - Technical advice and assistance program expansion—Timeline. (Expires July 1, 2030.)
+The pollution liability insurance agency may not expand the technical advice and assistance program to include petroleum storage tank systems until January 1, 2018. The pollution liability insurance agency may include heating oil tanks, including abandoned and decommissioned tanks, in the technical advice and assistance program as of July 23, 2017.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1266-S.SL.pdf?cite=2017%20c%2023%20§%208[2017 c 23 § 8]; ]
+
+== 70A.330.900 - Expiration of chapter.
+This chapter expires July 1, 2030.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2357-S.SL.pdf?cite=2016%20c%20161%20§%2017[2016 c 161 § 17]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2590-S.SL.pdf?cite=2012%201st%20sp.s.%20c%203%20§%203[2012 1st sp.s. c 3 § 3]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2678-S.SL.pdf?cite=2006%20c%20276%20§%204[2006 c 276 § 4]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2590-S.SL.pdf?cite=2000%20c%2016%20§%202[2000 c 16 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5660-S.SL.pdf?cite=1995%20c%2020%20§%2014[1995 c 20 § 14]; ]
+

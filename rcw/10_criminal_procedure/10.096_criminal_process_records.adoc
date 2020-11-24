@@ -1,0 +1,86 @@
+= 10.96 - Criminal process records.
+:toc:
+
+== 10.96.005 - Findings.
+The legislature finds that many businesses, associations, and organizations providing goods and services to the public, conducting other activity in Washington, or otherwise affecting residents of Washington now operate nationally or globally and often maintain their business records in a location outside the state of Washington. The legislature further finds that bringing persons or organizations committing crimes in Washington to justice is a matter of great public interest because crimes have a significant effect on businesses, associations, and other organizations that conduct business in Washington, as well as on Washington citizens. Crimes result in significant harm and losses to persons, businesses, associations, and other organizations victimized, as well as persons not directly victimized when businesses or others more directly affected by the crimes must raise prices to cover crime losses. The ability of law enforcement and the criminal justice system to effectively perform their duties to the public often depends upon law enforcement agencies, prosecutors, and criminal defense attorneys being able to obtain and use records relevant to crimes that affect Washington's citizens, businesses, associations, organizations, and others who provide goods or services, or conduct other activity in Washington. In the course of fulfilling their duties to the public, law enforcement agencies, prosecutors, and criminal defense attorneys must frequently obtain records from these entities, and be able to use the records in court. The ability to obtain and use these records has an impact on Washington citizens because it affects the ability to enforce Washington's criminal laws and affects the deterrence value arising from criminal prosecution. Effectively combating crime requires laws facilitating and requiring that all those who possess records relevant to a criminal investigation comply with the legal process issued in connection with criminal investigations or litigation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2637.SL.pdf?cite=2008%20c%2021%20§%201[2008 c 21 § 1]; ]
+
+== 10.96.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Adverse result" includes one or more of the following possible consequences:
+
+.. Danger to the life or physical safety of an individual;
+
+.. A flight from prosecution;
+
+.. The destruction of, potential loss of, or tampering with evidence;
+
+.. The intimidation of potential witnesses;
+
+.. Jeopardy to an investigation or undue delay of a trial.
+
+. "Applicant" means a law enforcement officer, prosecuting attorney, deputy or special deputy prosecuting attorney, or defense attorney who is seeking criminal process under RCW 10.96.020.
+
+. "Criminal process" means a search warrant or legal process issued pursuant to RCW 10.79.015 and CrR 2.3; any process issued pursuant to chapter 9.73, 9A.82, 10.27, or 10.29 RCW; and any other legal process signed by a judge of the superior court and issued in a criminal matter which allows the search for or commands production of records that are in the actual or constructive possession of the recipient, regardless of whether the recipient or the records are physically located within the state.
+
+. "Defense attorney" means an attorney of record for a person charged with a crime when the attorney is seeking the issuance of criminal process for the defense of the criminal case.
+
+. "Properly served" means delivery by hand or in a manner reasonably allowing for proof of delivery if delivered by United States mail, overnight delivery service, or facsimile to the recipient addressee of criminal process.
+
+. "Recipient" means a person, as defined in RCW 9A.04.110, or a business, as defined in RCW 5.45.010, that has conducted business or engaged in transactions occurring at least in part in this state upon whom criminal process issued under this chapter is properly served.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2637.SL.pdf?cite=2008%20c%2021%20§%202[2008 c 21 § 2]; ]
+
+== 10.96.020 - Production of records.
+This section shall apply to any criminal process allowing for search of or commanding production of records that are in the actual or constructive possession of a recipient who receives service outside Washington, regardless of whether the recipient or the records are physically located within the state.
+
+. When properly served with criminal process issued under this section, the recipient shall provide the applicant all records sought pursuant to the criminal process. The records shall be produced within twenty business days of receipt of the criminal process, unless the process requires earlier production. An applicant may consent to a recipient's request for additional time to comply with the criminal process.
+
+. Criminal process issued under this section must contain the following language in bold type on the first page of the document: "This [warrant, subpoena, order] is issued pursuant to RCW [insert citation to this statute]. A response is due within twenty business days of receipt, unless a shorter time is stated herein, or the applicant consents to a recipient's request for additional time to comply."
+
+. If the judge finds reason to suspect that failure to produce records within twenty business days would cause an adverse result, the criminal process may require production of records within less than twenty business days. A court may reasonably extend the time required for production of the records upon finding that the recipient has shown good cause for that extension and that an extension of time would not cause an adverse result.
+
+. When properly served with criminal process issued under this section, a recipient who seeks to quash the criminal process must seek relief from the court where the criminal process was issued, within the time originally required for production of records. The court shall hear and decide the motion no later than five court days after the motion is filed. An applicant's consent, under subsection (1) of this section, to a recipient's request for additional time to comply with the criminal process does not extend the date by which a recipient must seek the relief designated in this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2637.SL.pdf?cite=2008%20c%2021%20§%203[2008 c 21 § 3]; ]
+
+== 10.96.030 - Authenticity of records—Verification—Affidavit, declaration, or certification.
+. Upon written request from the applicant, or if ordered by the court, the recipient of criminal process shall verify the authenticity of records that it produces by providing an affidavit, declaration, or certification that complies with subsection (2) of this section. The requirements of RCW 5.45.020 regarding business records as evidence may be satisfied by an affidavit, declaration, or certification that complies with subsection (2) of this section, without the need for testimony from the custodian of records, regardless of whether the business records were produced by a foreign or Washington state entity.
+
+. To be admissible without testimony from the custodian of records, business records must be accompanied by an affidavit, declaration, or certification by its record custodian or other qualified person that includes contact information for the witness completing the document and attests to the following:
+
+.. The witness is the custodian of the record or sets forth evidence that the witness is qualified to testify about the record;
+
+.. The record was made at or near the time of the act, condition, or event set forth in the record by, or from information transmitted by, a person with knowledge of those matters;
+
+.. The record was made in the regular course of business;
+
+.. The identity of the record and the mode of its preparation; and
+
+.. Either that the record is the original or that it is a duplicate that accurately reproduces the original.
+
+. A party intending to offer a record into evidence under this section must provide written notice of that intention to all adverse parties, and must make the record and affidavit, declaration, or certification available for inspection sufficiently in advance of their offer into evidence to provide an adverse party with a fair opportunity to challenge them. A motion opposing admission in evidence of the record shall be made and determined by the court before trial and with sufficient time to allow the party offering the record time, if the motion is granted, to produce the custodian of the record or other qualified person at trial, without creating hardship on the party or on the custodian or other qualified person.
+
+. Failure by a party to timely file a motion under subsection (4) of this section shall constitute a waiver of objection to admission of the evidence, but the court for good cause shown may grant relief from the waiver. When the court grants relief from the waiver, and thereafter determines the custodian of the record shall appear, a continuance of the trial may be granted to provide the proponent of the record sufficient time to arrange for the necessary witness to appear.
+
+. Nothing in this section precludes either party from calling the custodian of record of the record or other witness to testify regarding the record.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2637.SL.pdf?cite=2008%20c%2021%20§%204[2008 c 21 § 4]; ]
+
+== 10.96.040 - Service of process issued by or in another state.
+A Washington recipient, when served with process that was issued by or in another state that on its face purports to be valid criminal process shall comply with that process as if that process had been issued by a Washington court.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2637.SL.pdf?cite=2008%20c%2021%20§%205[2008 c 21 § 5]; ]
+
+== 10.96.050 - Recipients' immunity from liability.
+A recipient of criminal process or process under RCW 10.96.010 and 10.96.040, and any other person that responds to such process is immune from civil and criminal liability for complying with the process, and for any failure to provide notice of any disclosure to the person who is the subject of or identified in the disclosure.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2637.SL.pdf?cite=2008%20c%2021%20§%206[2008 c 21 § 6]; ]
+
+== 10.96.060 - Issuance of criminal process.
+A judge of the superior court may issue any criminal process to any recipient at any address, within or without the state, for any matter over which the court has criminal jurisdiction pursuant to RCW 9A.04.030. This section does not limit a court's authority to issue warrants or legal process under other provisions of state law.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2637.SL.pdf?cite=2008%20c%2021%20§%207[2008 c 21 § 7]; ]
+

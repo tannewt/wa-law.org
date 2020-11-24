@@ -1,0 +1,60 @@
+= 53.46 - Consolidation.
+:toc:
+
+== 53.46.005 - Definitions.
+As used in this chapter the term "principal county auditor" and "principal county treasurer" shall be the county auditor or county treasurer in the county having the largest assessed valuation of the total of the proposed consolidated port district.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c102.pdf?cite=1965%20c%20102%20§%201[1965 c 102 § 1]; ]
+
+== 53.46.010 - Consolidation authorized—Petition or resolution, contents.
+Two or more port districts may be joined into one consolidated port district in the following manner: The port commissioners of each of the port districts proposed to be consolidated may, or on petition of ten percent of the qualified electors residing within each of the districts proposed to be consolidated based on the total vote cast in the last general election, shall, by joint resolution submit to the qualified electors of the port districts to be consolidated the proposition of consolidating such districts into one port district. Such resolution or petition in request thereof shall identify each port district to be consolidated, listing its assets and liabilities; state the name by which the port district resulting from the consolidation shall be known; legally describe each port commissioner district to be created within the port district resulting from the consolidation; state the terms and conditions, if any, under which the consolidation is proposed; and call a special election in the territory of the port districts to be consolidated, to determine whether such consolidation shall take place, and to fill the offices of the port commission of the port district resulting from the consolidation. The resolution or petition shall provide that the commission in the proposed district shall consist of three, five, or seven commissioners and that the number shall be approved by the voters at the time the proposition for consolidation is voted upon. The proposition in this respect shall provide that the commissioners shall be elected one each from commissioner districts which shall be described as set forth in this section, or if such districts are not so described then the commissioners shall be elected at large.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c102.pdf?cite=1965%20c%20102%20§%202[1965 c 102 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c26.pdf?cite=1961%20c%2026%20§%201[1961 c 26 § 1]; ]
+
+== 53.46.020 - Special election—Conduct.
+The special election to consider such consolidation and to fill such offices shall be conducted in accordance with the general election laws of the state.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c259.pdf?cite=1990%20c%20259%20§%2020[1990 c 259 § 20]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c102.pdf?cite=1965%20c%20102%20§%203[1965 c 102 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c26.pdf?cite=1961%20c%2026%20§%202[1961 c 26 § 2]; ]
+
+== 53.46.030 - Certification of election—Establishment as municipal corporation—Commissioners, terms.
+The county canvassing board of election returns shall certify the results of the election to the board of county commissioners; and if at such election a majority of voters voting on the question of consolidation in each port district to be consolidated shall vote in favor of consolidation, the board of county commissioners shall so declare, and the port district resulting from the consolidation shall then be and become a municipal corporation of the state of Washington. The county auditor shall in such event issue a certificate of election to the successful candidate from each port commissioner district. If the proposed district includes area in two or more counties, certificates of election shall be issued by the principal county auditor, and the canvassing board of elections shall be made up of the chairs of the board of county commissioners, prosecutors, and the auditors of each county with area within the consolidated port district. Of the successful port commissioner candidates, if three are elected, the one receiving the highest number of votes shall serve until his or her successor is elected and qualified at the third subsequent regular election for port commissioner, and the ones receiving the second and third highest numbers of votes shall serve until their successors are elected and qualified at the second and first subsequent regular elections for port commissioner, respectively. If five or seven commissioners are elected, the two with the greatest number of votes shall serve until their successors are elected and qualified at the third subsequent regular election of port commissioners, the two commissioners receiving the next highest number of votes shall serve until their successors are elected and qualified at the second subsequent regular election of port commissioners; and the remaining commissioner or commissioners shall serve until their successors are elected and qualified at the next regular election of port commissioners.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%2016014[2010 c 8 § 16014]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c102.pdf?cite=1965%20c%20102%20§%204[1965 c 102 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c26.pdf?cite=1961%20c%2026%20§%203[1961 c 26 § 3]; ]
+
+== 53.46.040 - Prior obligations—Powers of consolidated district—Separation of funds.
+None of the obligations of each port district which has been consolidated shall be affected by the consolidation, and taxes and assessments for payment of such obligations shall continue to be levied and collected in respect to property in such former port district notwithstanding the consolidation. The port commission of the port district resulting from the consolidation shall have all the powers possessed at the time of the consolidation by the port commission of each port district which has been consolidated, to levy or collect taxes or assessments in respect to property in such former port district, for payment of such obligations. While any such obligations remain outstanding, funds subject to such obligations shall be kept separate.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c26.pdf?cite=1961%20c%2026%20§%204[1961 c 26 § 4]; ]
+
+== 53.46.050 - County commissioners may act if no active port commission.
+In the event a port district does not have an active port commission to which the petition for consolidation may be directed, the board of county commissioners of the county wherein such inactive port district is located may act in the place and stead of the port commission for the purposes of consolidation.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c26.pdf?cite=1961%20c%2026%20§%205[1961 c 26 § 5]; ]
+
+== 53.46.060 - Dissolution of district which has no active commission—Authority of county commissioners.
+For the purpose of dissolution of any port district not having an active port commission the board of county commissioners of the county wherein such inactive port district is located may exercise the powers and duties vested by chapter 53.48 RCW in the governing body of such port district.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c26.pdf?cite=1961%20c%2026%20§%206[1961 c 26 § 6]; ]
+
+== 53.46.070 - Title to property vests in consolidated district.
+Upon consolidation of two or more port districts the title to all property owned by or held in trust for the former districts shall vest in the consolidated port district.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c102.pdf?cite=1965%20c%20102%20§%205[1965 c 102 § 5]; ]
+
+== 53.46.080 - District including area from two or more counties—Procedure to determine proportion of taxes.
+If the district includes area from two or more counties, it shall be the duty of the county assessor in each county to certify annually to the auditor of his or her county, who shall forward the same to the principal county auditor, the total assessed valuation of that part of the port district which lies within his or her county. The port commission of such consolidated port district shall certify to the principal county auditor the budget and the levies to be assessed for port purposes: PROVIDED, That the amount of tax to be levied upon taxable property of that part of a port district lying in one county shall be in such ratio to the whole amount levied upon the property lying in the entire consolidated port district as the assessed valuation lying in such county bears to the assessed valuation of the property in the entire consolidated port district.
+
+Thereafter the principal county auditor shall forward a certificate to each county auditor, for the county commissioners thereof, which shall specify the proportion of taxes to be levied for port district purposes.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%2016015[2010 c 8 § 16015]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c102.pdf?cite=1965%20c%20102%20§%206[1965 c 102 § 6]; ]
+
+== 53.46.090 - District including area from two or more counties—Levy and collection of taxes—Principal county treasurer, duties.
+Upon receipt of the certificate from the principal county auditor as provided in RCW 53.46.080 it shall be the duty of the board of county commissioners of each county to levy on all taxable property of the consolidated port district which lies within the county a tax sufficient to raise the amount necessary to meet the county's proportionate share of the total tax levy. Such taxes shall be levied and collected in the same manner as other taxes are levied and collected. The proceeds shall be forwarded quarterly by the treasurer of each county to the principal county treasurer. The principal county treasurer shall place to the credit of said consolidated port district all funds received from the other county treasurers as well as those amounts he or she shall have collected for the account of the port district. The principal county treasurer shall be the treasurer of the consolidated port district and shall perform all functions required of a treasurer of a port district.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%2016016[2010 c 8 § 16016]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c102.pdf?cite=1965%20c%20102%20§%207[1965 c 102 § 7]; ]
+
+== 53.46.100 - General powers of consolidated district—Debt limitation.
+Any port district created by consolidation prior to June 10, 1965, or formed hereafter under chapter 102, Laws of 1965, shall have all the powers of a newly formed port district, without any other restriction except the requirements of RCW 53.46.040: PROVIDED, That general obligation indebtedness outstanding for all port purposes within the area of the consolidated port shall not exceed the limits of RCW 53.36.030, and for purpose of computing such bonded debt, the bonds outstanding of all port agencies shall be considered.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c102.pdf?cite=1965%20c%20102%20§%208[1965 c 102 § 8]; ]
+

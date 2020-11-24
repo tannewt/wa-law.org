@@ -1,0 +1,73 @@
+= 48.84 - Long-term care insurance act.
+:toc:
+
+== 48.84.010 - General provisions, intent.
+This chapter may be known and cited as the "long-term care insurance act" and is intended to govern the content and sale of long-term care insurance and long-term care benefit contracts issued before January 1, 2009, as defined in this chapter. This chapter shall be liberally construed to promote the public interest in protecting purchasers of long-term care insurance from unfair or deceptive sales, marketing, and advertising practices. The provisions of this chapter shall apply in addition to other requirements of Title 48 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2666-S.SL.pdf?cite=2008%20c%20145%20§%2019[2008 c 145 § 19]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c170.pdf?cite=1986%20c%20170%20§%201[1986 c 170 § 1]; ]
+
+== 48.84.020 - Definitions.
+Unless the context requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Long-term care insurance" or "long-term care benefit contract" means any insurance policy or benefit contract primarily advertised, marketed, offered, or designed to provide coverage or services for either institutional or community-based convalescent, custodial, chronic, or terminally ill care. Such terms do not include and this chapter shall not apply to policies or contracts governed by chapter 48.66 RCW and continuing care retirement communities.
+
+. "Loss ratio" means the incurred claims plus or minus the increase or decrease in reserves as a percentage of the earned premiums, or the projected incurred claims plus or minus the increase or decrease in projected reserves as a percentage of projected earned premiums, as defined by the commissioner.
+
+. "Preexisting condition" means a covered person's medical condition that caused that person to have received medical advice or treatment during the specified time period before the effective date of coverage.
+
+. "Medicare" means Title XVIII of the United States social security act, or its successor program.
+
+. "Medicaid" means Title XIX of the United States social security act, or its successor program.
+
+. "Nursing home" means a nursing home as defined in RCW 18.51.010.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c170.pdf?cite=1986%20c%20170%20§%202[1986 c 170 § 2]; ]
+
+== 48.84.030 - Rules—Benefits-premiums ratio, coverage limitations.
+. The commissioner shall adopt rules requiring reasonable benefits in relation to the premium or price charged for long-term care policies and contracts which rules may include but are not limited to the establishment of minimum loss ratios.
+
+. In addition, the commissioner may adopt rules establishing standards for long-term care coverage benefit limitations, exclusions, exceptions, and reductions and for policy or contract renewability.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c170.pdf?cite=1986%20c%20170%20§%203[1986 c 170 § 3]; ]
+
+== 48.84.040 - Policies and contracts—Prohibited provisions.
+No long-term care insurance policy or benefit contract may:
+
+. Use riders, waivers, endorsements, or any similar method to limit or reduce coverage or benefits;
+
+. Indemnify against losses resulting from sickness on a different basis than losses resulting from accidents;
+
+. Be canceled, nonrenewed, or segregated at the time of rerating solely on the grounds of the age or the deterioration of the mental or physical health of the covered person;
+
+. Exclude or limit coverage for preexisting conditions for a period of more than one year prior to the effective date of the policy or contract or more than six months after the effective date of the policy or contract;
+
+. Differentiate benefit amounts on the basis of the type or level of nursing home care provided;
+
+. Contain a provision establishing any new waiting period in the event an existing policy or contract is converted to a new or other form within the same company.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c170.pdf?cite=1986%20c%20170%20§%204[1986 c 170 § 4]; ]
+
+== 48.84.050 - Disclosure rules—Required provisions in policy or contract.
+. The commissioner shall adopt rules requiring disclosure to consumers of the level, type, and amount of benefits provided and the limitations, exclusions, and exceptions contained in a long-term care insurance policy or contract. In adopting such rules the commissioner shall require an understandable disclosure to consumers of any cost for services that the consumer will be responsible for in utilizing benefits covered under the policy or contract.
+
+. Each long-term care insurance policy or contract shall include a provision, prominently displayed on the first page of the policy or contract, stating in substance that the person to whom the policy or contract is sold shall be permitted to return the policy or contract within thirty days of its delivery. In the case of policies or contracts solicited and sold by mail, the person may return the policy or contract within sixty days. Once the policy or contract has been returned, the person may have the premium refunded if, after examination of the policy or contract, the person is not satisfied with it for any reason. An additional ten percent penalty shall be added to any premium refund due which is not paid within thirty days of return of the policy or contract to the insurer or insurance producer. If a person, pursuant to such notice, returns the policy or contract to the insurer at its branch or home office, or to the insurance producer from whom the policy or contract was purchased, the policy or contract shall be void from its inception, and the parties shall be in the same position as if no policy or contract had been issued.
+
+. No later than January 1, 2010, or when the insurer has used all of its existing paper long-term care insurance policy forms which were in its possession on July 1, 2009, whichever is earlier, the notice required by subsection (2) of this section shall use the term insurance producer in place of agent.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6591.SL.pdf?cite=2008%20c%20217%20§%2067[2008 c 217 § 67]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c170.pdf?cite=1986%20c%20170%20§%205[1986 c 170 § 5]; ]
+
+== 48.84.060 - Prohibited practices.
+No insurance producer or other representative of an insurer, contractor, or other organization selling or offering long-term care insurance policies or benefit contracts may: (1) Complete the medical history portion of any form or application for the purchase of such policy or contract; (2) knowingly sell a long-term care policy or contract to any person who is receiving medicaid; or (3) use or engage in any unfair or deceptive act or practice in the advertising, sale, or marketing of long-term care policies or contracts.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6591.SL.pdf?cite=2008%20c%20217%20§%2068[2008 c 217 § 68]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c170.pdf?cite=1986%20c%20170%20§%206[1986 c 170 § 6]; ]
+
+== 48.84.070 - Separation of data regarding certain policies.
+Commencing with reports for accounting periods beginning on or after January 1, 1988, all insurers, fraternal benefit societies, health care services contractors, and health maintenance organizations shall, for reporting and recordkeeping purposes, separate data concerning long-term care insurance policies and contracts from data concerning other insurance policies and contracts.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c170.pdf?cite=1986%20c%20170%20§%207[1986 c 170 § 7]; ]
+
+== 48.84.910 - Effective date, application—1986 c 170.
+RCW 48.84.060 shall take effect on November 1, 1986, and the commissioner shall adopt all rules necessary to implement RCW 48.84.060 by its effective date including rules prohibiting particular unfair or deceptive acts and practices in the advertising, sale, and marketing of long-term care policies and contracts. The commissioner shall adopt all rules necessary to implement the remaining sections of this chapter by July 1, 1987, and the remaining sections of this chapter shall apply to policies and contracts issued on or after January 1, 1988.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c170.pdf?cite=1986%20c%20170%20§%2010[1986 c 170 § 10]; ]
+

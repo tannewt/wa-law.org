@@ -1,0 +1,29 @@
+= 60.84 - Lien on dies, molds, forms, and patterns.
+:toc:
+
+== 60.84.005 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Customer" means an individual or entity that contracts with, causes, or caused a plastic fabricator to use a die, mold, form, or pattern to manufacture, assemble, or otherwise make a plastic product.
+
+. "Plastic fabricator," "fabricator," or "molder" means an individual or entity, including but not limited to a tool or die maker, that contracts to or uses a die, mold, form, or pattern to manufacture, assemble, or otherwise make a plastic product for a customer.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6286.SL.pdf?cite=1996%20c%20235%20§%203[1996 c 235 § 3]; ]
+
+== 60.84.010 - Plastic fabricator, molder, and person conducting a plastic fabricating business has a lien—May retain possession—Notice to customer—Foreclosure by notice and sale.
+. A plastic fabricator, molder, and person conducting a plastic fabricating business has a lien, dependent on possession, on a die, mold, form, or pattern belonging to the customer for the amount owing from the customer for plastic fabrication work and for the value of materials used in the work. The fabricator may retain possession of the die, mold, form, or pattern until the charges are paid. This lien does not have priority over any security interest in the die, mold, form, or pattern that is perfected at the time the fabricator acquires the lien.
+
+. Before a lien is enforced, the fabricator must cause written notice to be delivered personally or by registered or certified mail to the last known address of the customer. The notice must state that the fabricator will exercise its lien right because of nonpayment. The notice must also state the amount of money owed and demand payment. The fabricator's name, address, and phone number must be included in the notice.
+
+. If the fabricator is not paid the total due within sixty days after the notice has been received by the customer, the fabricator may foreclose the lien by notice and sale as provided in this section, if the die, mold, form, or pattern is in the fabricator's possession. The fabricator must send notice of intended sale, by registered or certified mail with return receipt requested, to the last known address of the customer. The notice must include: A description of the die, mold, form, or pattern to be sold; a statement of intent to sell the die, mold, form, or pattern at public sale; the date, time, and place of the sale; and an itemized statement of moneys owing.
+
+If there is no return receipt or if the postal service returns the notice as undeliverable, the fabricator shall publish notice of intention to sell the die, mold, form, or pattern at public sale in a newspaper of general circulation in the county where the die, mold, form, or pattern is physically located. The publication must include: A description of the die, mold, form, or pattern; the name, address, and phone number of the customer; the name, address, and phone number of the fabricator; and the date, time, and place of the sale.
+
+The fabricator is entitled to the amount owing plus the costs of holding, preparing for sale, and selling the die, mold, form, or pattern. The fabricator is also entitled to reasonable attorneys' fees incurred.
+
+. If the sale proceeds exceed the amount owing, the excess must be paid to subsequent lienholders. Any remainder must be remitted to the customer.
+
+. A public sale may not be held under this section if it is in violation of a right of a customer under federal patent or copyright law.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6286.SL.pdf?cite=1996%20c%20235%20§%204[1996 c 235 § 4]; ]
+

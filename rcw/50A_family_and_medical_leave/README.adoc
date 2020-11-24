@@ -1,0 +1,13 @@
+= 50A FAMILY AND MEDICAL LEAVE
+
+* link:50A.05_general_provisions.adoc[50A.05 - General provisions.]
+* link:50A.10_premiums.adoc[50A.10 - Premiums.]
+* link:50A.15_benefits.adoc[50A.15 - Benefits.]
+* link:50A.20_employer_requirements.adoc[50A.20 - Employer requirements.]
+* link:50A.24_small_business_assistance.adoc[50A.24 - Small business assistance.]
+* link:50A.25_privacy.adoc[50A.25 - Privacy.]
+* link:50A.30_voluntary_plans.adoc[50A.30 - Voluntary plans.]
+* link:50A.35_employment_protections.adoc[50A.35 - Employment protections.]
+* link:50A.40_unlawful_acts.adoc[50A.40 - Unlawful acts.]
+* link:50A.45_limitations_disqualifications_penalties_and_interest.adoc[50A.45 - Limitations, disqualifications, penalties, and interest.]
+* link:50A.50_appeals.adoc[50A.50 - Appeals.]

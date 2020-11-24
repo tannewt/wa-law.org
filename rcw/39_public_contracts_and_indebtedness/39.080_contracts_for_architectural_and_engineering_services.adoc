@@ -1,0 +1,58 @@
+= 39.80 - Contracts for architectural and engineering services.
+:toc:
+
+== 39.80.010 - Legislative declaration.
+The legislature hereby establishes a state policy, to the extent provided in this chapter, that governmental agencies publicly announce requirements for architectural and engineering services, and negotiate contracts for architectural and engineering services on the basis of demonstrated competence and qualification for the type of professional services required and at fair and reasonable prices.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c61.pdf?cite=1981%20c%2061%20§%201[1981 c 61 § 1]; ]
+
+== 39.80.020 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section shall apply throughout this chapter.
+
+. "State agency" means any department, agency, commission, bureau, office, or any other entity or authority of the state government.
+
+. "Local agency" means any city and any town, county, special district, municipal corporation, agency, port district or authority, or political subdivision of any type, or any other entity or authority of local government in corporate form or otherwise.
+
+. "Special district" means a local unit of government, other than a city, town, or county, authorized by law to perform a single function or a limited number of functions, and including but not limited to, water-sewer districts, irrigation districts, fire districts, school districts, community college districts, hospital districts, transportation districts, and metropolitan municipal corporations organized under chapter 35.58 RCW.
+
+. "Agency" means both state and local agencies and special districts as defined in subsections (1), (2), and (3) of this section.
+
+. "Architectural and engineering services" or "professional services" means professional services rendered by any person, other than as an employee of the agency, contracting to perform activities within the scope of the general definition of professional practice in chapters 18.08, 18.43, or 18.96 RCW.
+
+. "Person" means any individual, organization, group, association, partnership, firm, joint venture, corporation, or any combination thereof.
+
+. "Consultant" means any person providing professional services who is not an employee of the agency for which the services are provided.
+
+. "Application" means a completed statement of qualifications together with a request to be considered for the award of one or more contracts for professional services.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1264.SL.pdf?cite=1999%20c%20153%20§%2055[1999 c 153 § 55]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c61.pdf?cite=1981%20c%2061%20§%202[1981 c 61 § 2]; ]
+
+== 39.80.030 - Agency's requirement for professional services—Advance publication.
+Each agency shall publish in advance that agency's requirement for professional services. The announcement shall state concisely the general scope and nature of the project or work for which the services are required and the address of a representative of the agency who can provide further details. An agency may comply with this section by: (1) Publishing an announcement on each occasion when professional services provided by a consultant are required by the agency; or (2) announcing generally to the public its projected requirements for any category or type of professional services.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c61.pdf?cite=1981%20c%2061%20§%203[1981 c 61 § 3]; ]
+
+== 39.80.040 - Procurement of architectural and engineering services—Submission of statement of qualifications and performance data—Participation by minority and women-owned firms and veteran-owned firms.
+In the procurement of architectural and engineering services, the agency shall encourage firms engaged in the lawful practice of their profession to submit annually a statement of qualifications and performance data. The agency shall evaluate current statements of qualifications and performance data on file with the agency, together with those that may be submitted by other firms regarding the proposed project, and shall conduct discussions with one or more firms regarding anticipated concepts and the relative utility of alternative methods of approach for furnishing the required services and then shall select therefrom, based upon criteria established by the agency, the firm deemed to be the most highly qualified to provide the services required for the proposed project. Such agency procedures and guidelines shall include a plan to ensure that minority and women-owned firms and veteran-owned firms are afforded the maximum practicable opportunity to compete for and obtain public contracts for services. The level of participation by minority and women-owned firms and veteran-owned firms shall be consistent with their general availability within the professional communities involved. For the 2015-2017 biennium the procurement for services related to modular classrooms may be expedited.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2380-S.SL.pdf?cite=2016%20sp.s.%20c%2035%20§%206010[2016 sp.s. c 35 § 6010]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5041.SL.pdf?cite=2010%20c%205%20§%2010[2010 c 5 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c61.pdf?cite=1981%20c%2061%20§%204[1981 c 61 § 4]; ]
+
+== 39.80.050 - Procurement of architectural and engineering services—Contract negotiations.
+. The agency shall negotiate a contract with the most qualified firm for architectural and engineering services at a price which the agency determines is fair and reasonable to the agency. In making its determination, the agency shall take into account the estimated value of the services to be rendered as well as the scope, complexity, and professional nature thereof.
+
+. If the agency is unable to negotiate a satisfactory contract with the firm selected at a price the agency determines to be fair and reasonable, negotiations with that firm shall be formally terminated and the agency shall select other firms in accordance with RCW 39.80.040 and continue in accordance with this section until an agreement is reached or the process is terminated.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c61.pdf?cite=1981%20c%2061%20§%205[1981 c 61 § 5]; ]
+
+== 39.80.060 - Procurement of architectural and engineering services—Exception for emergency work.
+. This chapter need not be complied with by any agency when the contracting authority makes a finding in accordance with this or any other applicable law that an emergency requires the immediate execution of the work involved.
+
+. Nothing in this chapter shall relieve the contracting authority from complying with applicable law limiting emergency expenditures.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c61.pdf?cite=1981%20c%2061%20§%206[1981 c 61 § 6]; ]
+
+== 39.80.900 - Savings.
+Nothing in this chapter shall affect the validity or effect of any contract in existence on January 1, 1982.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c61.pdf?cite=1981%20c%2061%20§%207[1981 c 61 § 7]; ]
+

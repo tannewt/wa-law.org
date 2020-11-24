@@ -1,0 +1,276 @@
+= 11.42 - Settlement of creditor claims for estates passing without probate.
+:toc:
+
+== 11.42.010 - Notice agent—Qualifications.
+. Subject to the conditions stated in this chapter, and if no personal representative has been appointed in this state, a beneficiary or trustee who has received or is entitled to receive by reason of the decedent's death substantially all of the decedent's probate and nonprobate assets, is qualified to give nonprobate notice to creditors under this chapter.
+
+If no one beneficiary or trustee has received or is entitled to receive substantially all of the assets, then those persons, who in the aggregate have received or are entitled to receive substantially all of the assets, may, under an agreement under RCW 11.96A.220, appoint a person who is then qualified to give nonprobate notice to creditors under this chapter.
+
+. A person or group of persons is deemed to have received substantially all of the decedent's probate and nonprobate assets if the person or the group, at the time of the filing of the declaration and oath referred to in subsection (3) of this section, in reasonable good faith believed that the person or the group had received, or was entitled to receive by reason of the decedent's death, substantially all of the decedent's probate and nonprobate assets.
+
+. [Empty]
+.. The "notice agent" means the qualified person who:
+
+... Pays a filing fee to the clerk of the superior court in a county in which probate may be commenced regarding the decedent, the "notice county", and receives a cause number; and
+
+... Files a declaration and oath with the clerk.
+
+.. The declaration and oath must be made in affidavit form or under penalty of perjury and must state that the person making the declaration believes in reasonable good faith that the person is qualified under this chapter to act as the notice agent and that the person will faithfully execute the duties of the notice agent as provided in this chapter.
+
+. The following persons are not qualified to act as notice agent:
+
+.. Corporations, trust companies, and national banks, except: (i) Such entities as are authorized to do trust business in this state; and (ii) professional service corporations that are regularly organized under the laws of this state whose shareholder or shareholders are exclusively attorneys;
+
+.. Minors;
+
+.. Persons of unsound mind;
+
+.. Persons who have been convicted of a felony or of a misdemeanor involving moral turpitude; and
+
+.. Persons who have given notice under this chapter and who thereafter become of unsound mind or are convicted of a felony or misdemeanor involving moral turpitude. This disqualification does not bar another person, otherwise qualified, from acting as successor notice agent.
+
+. A nonresident may act as notice agent if the nonresident appoints an agent who is a resident of the notice county or who is attorney of record for the notice agent upon whom service of all papers may be made. The appointment must be made in writing and filed with the court.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5196.SL.pdf?cite=1999%20c%2042%20§%20609[1999 c 42 § 609]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2024[1997 c 252 § 24]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2270-S.SL.pdf?cite=1994%20c%20221%20§%2031[1994 c 221 § 31]; ]
+
+== 11.42.020 - Notice to creditors—Manner—Filings—Publication.
+. Subject to subsection (2) of this section, a notice agent may give nonprobate notice to the creditors of the decedent if:
+
+.. As of the date of the filing of the notice to creditors with the court, the notice agent has no knowledge of another person acting as notice agent or of the appointment of a personal representative in the decedent's estate in the state of Washington; and
+
+.. According to the records of the court as are available on the date of the filing of the notice to creditors, no cause number regarding the decedent has been issued to any other notice agent and no personal representative of the decedent's estate had been appointed.
+
+. The notice agent must give notice to the creditors of the decedent, in substantially the form set forth in RCW 11.42.030, announcing that the notice agent has elected to give nonprobate notice to creditors and requiring that persons having claims against the decedent present their claims within the time specified in RCW 11.42.050 or be forever barred as to claims against the decedent's probate and nonprobate assets.
+
+.. The notice agent shall file the notice with the court.
+
+.. The notice agent shall cause the notice to be published once each week for three successive weeks in a legal newspaper in the notice county.
+
+.. The notice agent may at any time give actual notice to creditors who become known to the notice agent by serving the notice on the creditor or mailing the notice to the creditor at the creditor's last known address, by regular first-class mail, postage prepaid.
+
+.. The notice agent shall also mail a copy of the notice, including the decedent's social security number, to the state of Washington department of social and health services' office of financial recovery.
+
+.. If the decedent was a resident of the state of Washington at the time of death and the notice agent's declaration and oath were filed in a county other than the county of the decedent's residence, then instead of the requirements in (a) and (b) of this subsection, the notice agent shall cause the notice to creditors in substantially the form set forth in RCW 11.42.030 to be published once each week for three successive weeks in a legal newspaper in the county of the decedent's residence and shall file the notice with the superior court of the county in which the notice agent's declaration and oath were filed.
+
+The notice agent shall file with the court proof by affidavit of the giving and publication of the notice.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1125.SL.pdf?cite=2005%20c%2097%20§%208[2005 c 97 § 8]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2025[1997 c 252 § 25]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1908-S2.SL.pdf?cite=1995%201st%20sp.s.%20c%2018%20§%2059[1995 1st sp.s. c 18 § 59]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2270-S.SL.pdf?cite=1994%20c%20221%20§%2032[1994 c 221 § 32]; ]
+
+== 11.42.030 - Notice to creditors—Form.
+Notice under RCW 11.42.020 must contain the following elements in substantially the following form:
+
+ ) CAPTION)No.OF CASE)NONPROBATE )NOTICE TO CREDITORS )RCW 11.42.030. . . .) 
+
+ 
+
+)
+
+ 
+
+CAPTION
+
+)
+
+No.
+
+OF CASE
+
+)
+
+NONPROBATE
+
+ 
+
+)
+
+NOTICE TO CREDITORS
+
+ 
+
+)
+
+RCW 11.42.030
+
+. . . .
+
+)
+
+ 
+
+The notice agent named below has elected to give notice to creditors of the above-named decedent. As of the date of the filing of a copy of this notice with the court, the notice agent has no knowledge of any other person acting as notice agent or of the appointment of a personal representative of the decedent's estate in the state of Washington. According to the records of the court as are available on the date of the filing of this notice with the court, a cause number regarding the decedent has not been issued to any other notice agent and a personal representative of the decedent's estate has not been appointed.
+
+Any person having a claim against the decedent must, before the time the claim would be barred by any otherwise applicable statute of limitations, present the claim in the manner as provided in RCW 11.42.070 by serving on or mailing to the notice agent or the notice agent's attorney at the address stated below a copy of the claim and filing the original of the claim with the court in which the notice agent's declaration and oath were filed. The claim must be presented within the later of: (1) Thirty days after the notice agent served or mailed the notice to the creditor as provided under RCW 11.42.020(2)(c); or (2) four months after the date of first publication of the notice. If the claim is not presented within this time frame, the claim is forever barred, except as otherwise provided in RCW 11.42.050 and 11.42.060. This bar is effective as to claims against both the decedent's probate and nonprobate assets.
+
+Date of First
+
+Publication:
+
+The notice agent declares under penalty of perjury under the laws of the state of Washington on           ,   [year]  , at      [city]      ,       [state]       that the foregoing is true and correct.
+
+ . . . . Signature of Notice Agent
+
+ 
+
+. . . .
+
+ 
+
+Signature of Notice Agent
+
+Notice Agent:
+
+Attorney for the Notice Agent:
+
+Address for Mailing or Service:
+
+Court of Notice Agent's oath and declaration and cause number:
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1125.SL.pdf?cite=2005%20c%2097%20§%209[2005 c 97 § 9]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2026[1997 c 252 § 26]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2270-S.SL.pdf?cite=1994%20c%20221%20§%2033[1994 c 221 § 33]; ]
+
+== 11.42.040 - "Reasonably ascertainable" creditor—Definition—Reasonable diligence—Presumptions—Petition for order.
+. For purposes of RCW 11.42.050, a "reasonably ascertainable" creditor of the decedent is one that the notice agent would discover upon exercise of reasonable diligence. The notice agent is deemed to have exercised reasonable diligence upon conducting a reasonable review of the decedent's correspondence, including correspondence received after the date of death, and financial records, including personal financial statements, loan documents, checkbooks, bank statements, and income tax returns, that are in the possession of or reasonably available to the notice agent.
+
+. If the notice agent conducts the review, the notice agent is presumed to have exercised reasonable diligence to ascertain creditors of the decedent and any creditor not ascertained in the review is presumed not reasonably ascertainable within the meaning of RCW 11.42.050. These presumptions may be rebutted only by clear, cogent, and convincing evidence.
+
+. The notice agent may evidence the review and resulting presumption by filing with the court an affidavit regarding the facts referred to in this section. The notice agent may petition the court for an order declaring that the notice agent has made a review and that any creditors not known to the notice agent are not reasonably ascertainable. The petition must be filed under RCW 11.96A.080, and the notice specified under RCW 11.96A.110 must also be given by publication.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5196.SL.pdf?cite=1999%20c%2042%20§%20610[1999 c 42 § 610]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2027[1997 c 252 § 27]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2270-S.SL.pdf?cite=1994%20c%20221%20§%2034[1994 c 221 § 34]; ]
+
+== 11.42.050 - Claims against decedent—Time limits.
+. If a notice agent provides notice under RCW 11.42.020, any person having a claim against the decedent is forever barred from making a claim or commencing an action against the decedent if the claim or action is not already barred by an otherwise applicable statute of limitations, unless the creditor presents the claim in the manner provided in RCW 11.42.070 within the following time limitations:
+
+.. If the notice agent provided notice under RCW 11.42.020(2) (a) and (b) and the creditor was given actual notice as provided in RCW 11.42.020(2)(c), the creditor must present the claim within the later of: (i) Thirty days after the notice agent's service or mailing of notice to the creditor; and (ii) four months after the date of first publication of the notice;
+
+.. If the notice agent provided notice under RCW 11.42.020(2) (a) and (b) and the creditor was not given actual notice as provided in RCW 11.42.020(2)(c):
+
+... If the creditor was not reasonably ascertainable, as defined in RCW 11.42.040, the creditor must present the claim within four months after the date of first publication of the notice;
+
+... If the creditor was reasonably ascertainable, as defined in RCW 11.42.040, the creditor must present the claim within twenty-four months after the decedent's date of death.
+
+. Any otherwise applicable statute of limitations applies without regard to the tolling provisions of RCW 4.16.190.
+
+. This bar is effective as to claims against both the decedent's probate and nonprobate assets.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2028[1997 c 252 § 28]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2270-S.SL.pdf?cite=1994%20c%20221%20§%2035[1994 c 221 § 35]; ]
+
+== 11.42.060 - Claims involving liability or casualty insurance—Limitations—Exceptions to time limits.
+The time limitations for presenting claims under this chapter do not accrue to the benefit of any liability or casualty insurer. Claims against the decedent or the decedent's marital community that can be fully satisfied by applicable insurance coverage or proceeds need not be presented within the time limitation of RCW 11.42.050, but the amount of recovery cannot exceed the amount of the insurance. If a notice agent provides notice under RCW 11.42.020, the claims may at any time be presented as provided in RCW 11.42.070, subject to the otherwise relevant statutes of limitations, and does not constitute a cloud, lien, or encumbrance upon the title to the decedent's probate or nonprobate assets nor delay or prevent the transfer or distribution of the decedent's assets. This section does not serve to extend any otherwise relevant statutes of limitations.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2029[1997 c 252 § 29]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2270-S.SL.pdf?cite=1994%20c%20221%20§%2036[1994 c 221 § 36]; ]
+
+== 11.42.070 - Claims—Form—Manner of presentation—Waiver of defects.
+. The claimant, the claimant's attorney, or the claimant's agent shall sign the claim and include in the claim the following information:
+
+.. The name and address of the claimant;
+
+.. The name, address, if different from that of the claimant, and nature of authority of an agent signing the claim on behalf of the claimant;
+
+.. A statement of the facts or circumstances constituting the basis of the claim;
+
+.. The amount of the claim; and
+
+.. If the claim is secured, unliquidated, contingent, or not yet due, the nature of the security, the nature of the uncertainty, or the date when it will become due.
+
+Failure to describe correctly the information in (c), (d), or (e) of this subsection, if the failure is not substantially misleading, does not invalidate the claim.
+
+. A claim does not need to be supported by affidavit.
+
+. A claim must be presented within the time limits set forth in RCW 11.42.050 by: (a) Serving on or mailing to, by regular first-class mail, the notice agent or the notice agent's attorney a copy of the signed claim; and (b) filing the original of the signed claim with the court in which the notice agent's declaration and oath were filed. A claim is deemed presented upon the later of the date of postmark or service on the notice agent, or the notice agent's attorney, and filing with the court.
+
+. Notwithstanding any other provision of this chapter, if a claimant makes a written demand for payment within the time limits set forth in RCW 11.42.050, the notice agent may waive formal defects and elect to treat the demand as a claim properly filed under this chapter if: (a) The claim was due; (b) the amount paid was the amount of indebtedness over and above all payments and offsets; (c) the estate is solvent; and (d) the payment is made in good faith. Nothing in this chapter limits application of the doctrines of waiver, estoppel, or detrimental claims or any other equitable principle.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1125.SL.pdf?cite=2005%20c%2097%20§%2010[2005 c 97 § 10]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2030[1997 c 252 § 30]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2270-S.SL.pdf?cite=1994%20c%20221%20§%2037[1994 c 221 § 37]; ]
+
+== 11.42.080 - Claims—Duty to allow or reject—Notice of petition to allow—Attorneys' fees.
+. The notice agent shall allow or reject all claims presented in the manner provided in RCW 11.42.070. The notice agent may allow or reject a claim, in whole or in part.
+
+. If the notice agent has not allowed or rejected a claim within the later of four months from the date of first publication of the notice to creditors and thirty days from presentation of the claim, the claimant may serve written notice on the notice agent that the claimant will petition the court to have the claim allowed. If the notice agent fails to notify the claimant of the allowance or rejection of the claim within twenty days after the notice agent's receipt of the claimant's notice, the claimant may petition the court for a hearing to determine whether the claim should be allowed or rejected, in whole or in part. If the court substantially allows the claim, the court may allow the petitioner reasonable attorneys' fees chargeable against the decedent's assets received by the notice agent or by those appointing the notice agent.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2031[1997 c 252 § 31]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2270-S.SL.pdf?cite=1994%20c%20221%20§%2038[1994 c 221 § 38]; ]
+
+== 11.42.085 - Property liable for claims—Payment limits.
+. The decedent's nonprobate and probate assets that were subject to the satisfaction of the decedent's general liabilities immediately before the decedent's death are liable for claims. The decedent's probate assets may be liable, whether or not there is a probate administration of the decedent's estate.
+
+. The notice agent may pay a claim allowed by the notice agent or a judgment on a claim first prosecuted against a notice agent only out of assets received as a result of the death of the decedent by the notice agent or by those appointing the notice agent, except as may be provided by agreement under RCW 11.96A.220 or by court order issued in a judicial proceeding under RCW 11.96A.080.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5196.SL.pdf?cite=1999%20c%2042%20§%20611[1999 c 42 § 611]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2032[1997 c 252 § 32]; ]
+
+== 11.42.090 - Allowance of claims—Notice—Payment order.
+. If the notice agent allows a claim, the notice agent shall notify the claimant of the allowance by personal service or regular first-class mail to the address stated on the claim. A claim may not be allowed if it is barred by a statute of limitations.
+
+. The notice agent shall pay claims allowed in the following order from the assets of the decedent that are subject to the payment of claims as provided in RCW 11.42.085:
+
+.. Costs of administering the assets subject to the payment of claims, including a reasonable fee to the notice agent, any resident agent for the notice agent, reasonable attorneys' fees for the attorney for each of them, filing fees, publication costs, mailing costs, and similar costs and fees;
+
+.. Funeral expenses in a reasonable amount;
+
+.. Expenses of the last sickness in a reasonable amount;
+
+.. Wages due for labor performed within sixty days immediately preceding the death of the decedent;
+
+.. Debts having preference by the laws of the United States;
+
+.. Taxes, debts, or dues owing to the state;
+
+.. Judgments rendered against the decedent in the decedent's lifetime that are liens upon real estate on which executions might have been issued at the time of the death of the decedent and debts secured by mortgages in the order of their priority; and
+
+.. All other demands against the assets subject to the payment of claims.
+
+. The notice agent may not pay a claim of the notice agent or other person who has received property by reason of the decedent's death unless all other claims that have been filed under this chapter, and all debts having priority to the claim, are paid in full or otherwise settled by agreement, regardless of whether the other claims are allowed or rejected.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2033[1997 c 252 § 33]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2270-S.SL.pdf?cite=1994%20c%20221%20§%2039[1994 c 221 § 39]; ]
+
+== 11.42.100 - Rejection of claim—Time limits—Notice—Time limit for suit—Compromise of claim.
+. If the notice agent rejects a claim, in whole or in part, the claimant must bring suit against the notice agent within thirty days after notification of rejection or the claim is forever barred. The notice agent shall notify the claimant of the rejection and file an affidavit with the court showing the notification and the date of the notification. The notice agent shall notify the claimant of the rejection by personal service or certified mail addressed to the claimant or claimant's agent, if applicable, at the address stated in the claim. The date of service or of the postmark is the date of notification. The notification must advise the claimant that the claimant must bring suit in the proper court against the notice agent within thirty days after notification of rejection or the claim will be forever barred.
+
+. If a claimant brings suit against the notice agent on a rejected claim and the notice agent has not received substantially all assets of the decedent that are liable for claims, the notice agent may only make an appearance in the action and may not answer the action but must cause a petition to be filed for the appointment of a personal representative within thirty days after service of the creditor's action on the notice agent. Under these circumstances, a judgment may not be entered in an action brought by a creditor against the notice agent earlier than twenty days after the personal representative has been substituted in that action for the notice agent.
+
+. The notice agent may, before or after rejection of any claim, compromise the claim, whether due or not, absolute or contingent, liquidated, or unliquidated.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2034[1997 c 252 § 34]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2270-S.SL.pdf?cite=1994%20c%20221%20§%2040[1994 c 221 § 40]; ]
+
+== 11.42.110 - Effect of judgment against notice agent.
+The effect of a judgment rendered against the notice agent shall be only to establish the amount of the judgment as an allowed claim.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2035[1997 c 252 § 35]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2270-S.SL.pdf?cite=1994%20c%20221%20§%2041[1994 c 221 § 41]; ]
+
+== 11.42.120 - Execution barred upon decedent's death—Presentation—Sale of property.
+If a judgment was entered against the decedent during the decedent's lifetime, an execution may not issue on the judgment after the death of the decedent. If a notice agent is acting, the judgment must be presented in the manner provided in RCW 11.42.070, but if the judgment is a lien on any property of the decedent, the property may be sold for the satisfaction of the judgment and the officer making the sale shall account to the notice agent for any surplus.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2036[1997 c 252 § 36]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2270-S.SL.pdf?cite=1994%20c%20221%20§%2042[1994 c 221 § 42]; ]
+
+== 11.42.125 - Secured claim—Creditor's right.
+If a creditor's claim is secured by any property of the decedent, this chapter does not affect the right of the creditor to realize on the creditor's security, whether or not the creditor presented the claim in the manner provided in RCW 11.42.070.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2037[1997 c 252 § 37]; ]
+
+== 11.42.130 - Claim of notice agent or beneficiary—Payment.
+A claim of the notice agent or other person who has received property by reason of the decedent's death must be paid as set forth in RCW 11.42.090(3).
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2038[1997 c 252 § 38]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2270-S.SL.pdf?cite=1994%20c%20221%20§%2043[1994 c 221 § 43]; ]
+
+== 11.42.140 - Notice to creditors when notice agent resigns, dies, or is removed—Limit tolled by vacancy.
+. If a notice agent has given notice under RCW 11.42.020 and the notice agent resigns, dies, or is removed or a personal representative is appointed, the successor notice agent or the personal representative shall:
+
+.. Publish notice of the vacancy and succession for two successive weeks in the legal newspaper in which notice was published under RCW 11.42.020, if the vacancy occurred within twenty-four months after the decedent's date of death; and
+
+.. Provide actual notice of the vacancy and succession to a creditor if: (i) The creditor filed a claim and the claim had not been allowed or rejected by the prior notice agent; or (ii) the creditor's claim was rejected and the vacancy occurred within thirty days after rejection of the claim.
+
+. The time between the resignation, death, or removal of the notice agent or appointment of a personal representative and the first publication of the vacancy and succession or, in the case of actual notice, the mailing of the notice of vacancy and succession must be added to the time within which a claim must be presented or a suit on a rejected claim must be filed. This section does not extend the twenty-four-month self-executing bar under RCW 11.42.050.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2039[1997 c 252 § 39]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2270-S.SL.pdf?cite=1994%20c%20221%20§%2045[1994 c 221 § 45]; ]
+
+== 11.42.150 - Appointment of personal representative—Cessation of notice agent powers and authority—Notice not affected—Personal representative's powers—Petition for reimbursement for allowance and payment of claims by notice agent.
+. The powers and authority of a notice agent immediately cease, and the office of notice agent becomes vacant, upon appointment of a personal representative for the estate of the decedent. Except as provided in RCW 11.42.140(2), the cessation of the powers and authority does not affect the filing and publication of notice to creditors and does not affect actual notice to creditors given by the notice agent.
+
+. As set forth in RCW 11.40.160, a personal representative may adopt, ratify, nullify, or reject any actions of the notice agent.
+
+. If a personal representative is appointed and the personal representative does not nullify the allowance of a claim that the notice agent allowed and paid, the person or persons whose assets were used to pay the claim may petition for reimbursement from the estate to the extent the payment was not in accordance with chapter 11.10 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2040[1997 c 252 § 40]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2270-S.SL.pdf?cite=1994%20c%20221%20§%2044[1994 c 221 § 44]; ]
+
+== 11.42.900 - Construction—Chapter applicable to state registered domestic partnerships—2009 c 521.
+For the purposes of this chapter, the terms spouse, marriage, marital, husband, wife, widow, widower, next of kin, and family shall be interpreted as applying equally to state registered domestic partnerships or individuals in state registered domestic partnerships as well as to marital relationships and married persons, and references to dissolution of marriage shall apply equally to state registered domestic partnerships that have been terminated, dissolved, or invalidated, to the extent that such interpretation does not conflict with federal law. Where necessary to implement chapter 521, Laws of 2009, gender-specific terms such as husband and wife used in any statute, rule, or other law shall be construed to be gender neutral, and applicable to individuals in state registered domestic partnerships.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5688-S2.SL.pdf?cite=2009%20c%20521%20§%2032[2009 c 521 § 32]; ]
+

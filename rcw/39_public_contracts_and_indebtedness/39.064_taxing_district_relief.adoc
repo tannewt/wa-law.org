@@ -1,0 +1,89 @@
+= 39.64 - Taxing district relief.
+:toc:
+
+== 39.64.005 - Short title.
+This chapter may be cited as the taxing district relief act.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c143.pdf?cite=1935%20c%20143%20§%201[1935 c 143 § 1]; RRS § 5608-1; ]
+
+== 39.64.010 - Purpose of chapter.
+The purpose of this chapter is to facilitate and permit taxing districts which are unable to meet their debts either in their present amount and/or at the time they fall due, to obtain relief by the readjustment of such debts as provided for by the act of congress hereinafter referred to, by supplementing the powers of those taxing districts for which refunding of debts is provided for by existing statutes, and by providing a method of refunding of debts for those taxing districts for which no method of refunding such debts has heretofore been provided, and by other provisions appropriate to such purposes.
+
+This chapter shall not be construed as in anywise limiting the powers of the federal courts to grant relief as provided for in said act of congress.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c143.pdf?cite=1935%20c%20143%20§%202[1935 c 143 § 2]; RRS § 5608-2; ]
+
+== 39.64.020 - Definitions.
+For the purposes of this chapter a "taxing district" is defined to be a "taxing district" as described in section 80 of chapter IX of the act of congress entitled "An act to establish a uniform system of bankruptcy throughout the United States," approved July 1, 1898, as amended, to wit:
+
+"Any municipality or other political subdivision of any state, including (but not hereby limiting the generality of the foregoing) any county, city, borough, village, parish, town, or township, unincorporated tax or special assessment district, and any school, drainage, irrigation, reclamation, levee, sewer, or paving, sanitary, port, improvement or other district (hereinafter referred to as a 'taxing district')."
+
+Said act of congress and acts amendatory thereof and supplementary thereto, as the same may be amended from time to time, are herein referred to as the "federal bankruptcy act."
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c143.pdf?cite=1935%20c%20143%20§%203[1935 c 143 § 3]; RRS § 5608-3; ]
+
+== 39.64.030 - Exercise of powers granted.
+All powers herein granted to taxing districts in state of Washington may be exercised by such districts. If a taxing district has no officers of its own, such powers may be exercised in its behalf by the officer or officers, board, council or commission having the power to contract in behalf of such district or to levy special assessments or special taxes within such district.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c143.pdf?cite=1935%20c%20143%20§%204[1935 c 143 § 4]; RRS § 5608-4; ]
+
+== 39.64.040 - Petition in bankruptcy.
+Subject to the requirement in RCW 28A.315.225(2), any taxing district in the state of Washington is hereby authorized to file the petition mentioned in section 80 of chapter IX of the federal bankruptcy act.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2617-S.SL.pdf?cite=2012%20c%20186%20§%2019[2012 c 186 § 19]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c143.pdf?cite=1935%20c%20143%20§%205[1935 c 143 § 5]; RRS § 5608-5; ]
+
+== 39.64.050 - Resolution of authorization.
+Before the filing of any petition referred to in RCW 39.64.040, such taxing district shall adopt a resolution authorizing the filing thereof and authorizing its duly and regularly elected or appointed attorney or special counsel duly appointed for such purpose to file the same and to represent it in the proceedings with respect thereto in the competent United States district court.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c143.pdf?cite=1935%20c%20143%20§%206[1935 c 143 § 6]; RRS § 5608-6; ]
+
+== 39.64.060 - Resolution consenting to readjustment.
+No final decree or order of such United States district court confirming a plan of readjustment shall be effective for the purpose of binding such taxing district unless and until such taxing district files with such court a certified copy of a resolution of such taxing district, adopted by it or by the officer or officers, board, council or commission referred to in RCW 39.64.030, consenting to the plan of readjustment set forth or referred to in such final decree or order.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c143.pdf?cite=1935%20c%20143%20§%207[1935 c 143 § 7]; RRS § 5608-7; ]
+
+== 39.64.070 - Plan of readjustment.
+Such taxing district is hereby authorized and empowered to take any and all action necessary to carry out any plan of readjustment contemplated in said petition, or as the same may be modified from time to time, notwithstanding any other provisions of law. In case of the refunding of debts of irrigation districts, diking or drainage improvement districts, general debts of cities, or debts of other taxing districts for the refunding of which provision is already made under existing statutes, such refunding shall be had and done as provided for in such existing statutes, except that the tenor and character of the refunding bonds and the assessments levied to meet such bonds may be modified to conform to the capacity of the taxing district, or the individual lots, tracts, or parcels of real property therein, to meet and carry the charges, both direct and contingent, against them, as found and set forth in the plan of readjustment and decree of court; and except also as such existing provisions of law may be otherwise supplemented by such plan of readjustment or the provisions of this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c143.pdf?cite=1935%20c%20143%20§%208[1935 c 143 § 8]; RRS § 5608-8; ]
+
+== 39.64.080 - Powers under plan of readjustment.
+Such taxing district shall have power to consummate the plan of readjustment, as adopted by the court's decree and approved by it as aforesaid, and if such plan, as approved by such decree, so requires, may, for such purpose, exercise any of the following powers:
+
+. Cancel in whole or in part any assessments or any interest or penalties assessed thereon which may be outstanding and a lien upon any property in such taxing district, as and when such assessments are replaced by the readjusted or revised assessments provided for in the plan of readjustment approved by such decree.
+
+. Issue refunding bonds to refund bonds theretofore issued by such taxing district. Such refunding bonds shall have such denominations, rates of interest, and maturities as shall be provided in such plan of readjustment and shall be payable by special assessments or by general taxes, according to the nature of the taxing district, in the manner provided in such plan of readjustment and decree.
+
+. Apportion and levy new assessments or taxes appropriate in time or times of payment to provide funds for the payment of principal and interest of such refunding bonds, and of all expenses incurred by such taxing district in filing the petition mentioned in RCW 39.64.040, and any and all other expenses necessary or incidental to the consummation of the plan of readjustment.
+
+In the case of special assessment districts for the refunding of whose debts no procedure is provided by existing laws, such assessments shall be equitably apportioned and levied upon each lot, tract, or parcel of real property within such taxing district, due consideration being given to the relative extent to which the original apportionments upon the various lots, tracts, or parcels of real property within such taxing district have already been paid and due consideration also being given to the capacity of the respective lots, tracts, or parcels of real property to carry such charges against them. Before levying or apportioning such assessment such taxing district or the officer or officers, board, council, or commission mentioned in RCW 39.64.030 shall hold a hearing with reference thereto, notice of which hearing shall be published once a week for four consecutive weeks in the newspaper designated for the publication of legal notices by the legislative body of the city or town, or by the board of county commissioners of the county within which such taxing district or any part thereof is located, or in any newspaper published in the city, town, or county within which such taxing district or any part thereof is located and of general circulation within such taxing district. At such hearing every owner of real property within such taxing district shall be given an opportunity to be heard with respect to the apportionment and levy of such assessment.
+
+. In the case of special assessment districts, of cities or towns, provide that if any of the real property within such taxing district shall not, on foreclosure of the lien of such new assessment for delinquent assessments and penalties and interest thereon, be sold for a sufficient amount to pay such delinquent assessments, penalties, and interest, or if any real property assessed was not subject to assessment, or if any assessment or installment or installments thereof shall have been eliminated by foreclosure of a tax lien or made void in any other manner, such taxing district shall cause a supplemental assessment sufficient in amount to make up such deficiency to be made on the real property within such taxing district, including real property upon which any such assessment or any installment or installments thereof shall have been so eliminated or made void. Such supplemental assessment shall be apportioned to the various lots, tracts, and parcels of real property within such taxing district in proportion to the amounts apportioned thereto in the assessment originally made under such plan of readjustment.
+
+. Provide that refunding bonds may, at the option of the holders thereof, be converted into warrants of such denominations and bearing such rate of interest as may be provided in the plan of readjustment, and that the new assessments mentioned in subsection (3) of this section and the supplemental assessments mentioned in subsection (4) of this section may be paid in refunding bonds or warrants of such taxing district without regard to the serial numbers thereof, or in money, at the option of the person paying such assessments, such refunding bonds and warrants to be received at their par value in payment of such assessments. In such case such refunding bonds and warrants shall bear the following legend: "This bond (or warrant) shall be accepted at its face value in payment of assessments (including interest and penalties thereon) levied to pay the principal and interest of the series of bonds and warrants of which this bond (or warrant) is one without regard to the serial number appearing upon the face hereof."
+
+. Provide that all sums of money already paid to the treasurer of such taxing district or other authorized officer in payment, in whole or in part, of any assessment levied by or for such taxing district or of interest or penalties thereon, shall be transferred by such treasurer or other authorized officer to a new account and made applicable to the payment of refunding bonds and warrants to be issued under such plan of readjustment.
+
+. Provide that such treasurer or other authorized officer shall have authority to use funds in his or her possession not required for payment of current interest of such bonds and warrants, to buy such bonds and warrants in the open market through tenders or by call at the lowest prices obtainable at or below par and accrued interest, without preference of one bond or warrant over another because of its serial number, or for any other cause other than the date and hour of such tender or other offer and the amount which the owner of such bond or warrant agrees to accept for it. In such case such refunding bonds and warrants shall bear the following legend: "This bond (or warrant) may be retired by tender or by call without regard to the serial number appearing upon the face hereof."
+
+. Provide that if, after the payment of all interest on refunding bonds and warrants issued under any plan of readjustment adopted pursuant to this chapter and chapter IX of the federal bankruptcy act and the retirement of such bonds and warrants, there shall be remaining in the hands of the treasurer or other authorized officer of the taxing district which issued such bonds and warrants money applicable under the provisions of this chapter to the payment of such interest, bonds, and warrants, such money shall be applied by such treasurer or other authorized officer to the maintenance, repair, and replacement of the improvements originally financed by the bonds readjusted under this chapter and the federal bankruptcy act.
+
+. The above enumeration of powers shall not be deemed to exclude powers not herein mentioned that may be necessary for or incidental to the accomplishment of the purposes hereof.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20812[2011 c 336 § 812]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c143.pdf?cite=1935%20c%20143%20§%209[1935 c 143 § 9]; RRS § 5608-9; ]
+
+== 39.64.085 - Authority of operating agencies to levy taxes.
+Nothing in this chapter may be deemed to grant to any operating agency organized under chapter 43.52 RCW, or a project of any such operating agency, the authority to levy any tax or assessment not otherwise authorized by law.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex2c3.pdf?cite=1983%202nd%20ex.s.%20c%203%20§%2054[1983 2nd ex.s. c 3 § 54]; ]
+
+== 39.64.090 - Validation of prior bankruptcy proceedings.
+In the event that any taxing district in the state of Washington, before this chapter takes effect, shall have filed or purported or attempted to file a petition under the provisions of chapter IX of the federal bankruptcy act, or shall have taken or purported or attempted to take any other proceedings under or in contemplation of proceedings under the provisions of said chapter IX, then and in every such case all acts and proceedings of such taxing district, in connection with such petition or proceedings, are hereby, to all intents and purposes, declared as legal and valid as though taken after the *effective date of this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c143.pdf?cite=1935%20c%20143%20§%2010[1935 c 143 § 10]; RRS § 5608-10; ]
+
+== 39.64.900 - Construction—Severability—1935 c 143.
+This chapter and all its provisions shall be liberally construed to the end that the purposes hereof may be made effective. If any section, part or provision of this chapter shall be adjudged to be invalid or unconstitutional, such adjudication shall not affect the validity of the chapter as a whole, or of any section, provision or part thereof not adjudged invalid or unconstitutional.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c143.pdf?cite=1935%20c%20143%20§%2011[1935 c 143 § 11]; RRS § 5608-11; ]
+

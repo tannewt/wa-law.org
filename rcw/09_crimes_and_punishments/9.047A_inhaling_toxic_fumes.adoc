@@ -1,0 +1,70 @@
+= 9.47A - Inhaling toxic fumes.
+:toc:
+
+== 9.47A.010 - Definition.
+As used in this chapter, the phrase "substance containing a solvent having the property of releasing toxic vapors or fumes" shall mean and include any substance containing one or more of the following chemical compounds:
+
+. Acetone;
+
+. Amylacetate;
+
+. Benzol or benzene;
+
+. Butyl acetate;
+
+. Butyl alcohol;
+
+. Carbon tetrachloride;
+
+. Chloroform;
+
+. Cyclohexanone;
+
+. Ethanol or ethyl alcohol;
+
+. Ethyl acetate;
+
+. Hexane;
+
+. Isopropanol or isopropyl alcohol;
+
+. Isopropyl acetate;
+
+. Methyl "cellosolve" acetate;
+
+. Methyl ethyl ketone;
+
+. Methyl isobutyl ketone;
+
+. Toluol or toluene;
+
+. Trichloroethylene;
+
+. Tricresyl phosphate;
+
+. Xylol or xylene; or
+
+. Any other solvent, material substance, chemical, or combination thereof, having the property of releasing toxic vapors.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c68.pdf?cite=1984%20c%2068%20§%201[1984 c 68 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c149.pdf?cite=1969%20ex.s.%20c%20149%20§%201[1969 ex.s. c 149 § 1]; ]
+
+== 9.47A.020 - Unlawful inhalation—Exception.
+It is unlawful for any person to intentionally smell or inhale the fumes of any type of substance as defined in RCW 9.47A.010 or to induce any other person to do so, for the purpose of causing a condition of, or inducing symptoms of intoxication, elation, euphoria, dizziness, excitement, irrational behavior, exhilaration, paralysis, stupefaction, or dulling of the senses of the nervous system, or for the purpose of, in any manner, changing, distorting, or disturbing the audio, visual, or mental processes. This section does not apply to the inhalation of any anesthesia for medical or dental purposes.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c68.pdf?cite=1984%20c%2068%20§%202[1984 c 68 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c149.pdf?cite=1969%20ex.s.%20c%20149%20§%202[1969 ex.s. c 149 § 2]; ]
+
+== 9.47A.030 - Possession of certain substances prohibited, when.
+No person may, for the purpose of violating RCW 9.47A.020, use, or possess for the purpose of so using, any substance containing a solvent having the property of releasing toxic vapors or fumes.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c68.pdf?cite=1984%20c%2068%20§%203[1984 c 68 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c149.pdf?cite=1969%20ex.s.%20c%20149%20§%203[1969 ex.s. c 149 § 3]; ]
+
+== 9.47A.040 - Sale of certain substances prohibited, when.
+No person may sell, offer to sell, deliver, or give to any other person any container of a substance containing a solvent having the property of releasing toxic vapors or fumes, if he or she has knowledge that the product sold, offered for sale, delivered, or given will be used for the purpose set forth in RCW 9.47A.020.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20307[2011 c 336 § 307]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c68.pdf?cite=1984%20c%2068%20§%204[1984 c 68 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c149.pdf?cite=1969%20ex.s.%20c%20149%20§%204[1969 ex.s. c 149 § 4]; ]
+
+== 9.47A.050 - Penalty.
+Any person who violates this chapter shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not more than one hundred dollars or by imprisonment for not more than thirty days, or by both.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c149.pdf?cite=1969%20ex.s.%20c%20149%20§%205[1969 ex.s. c 149 § 5]; ]
+

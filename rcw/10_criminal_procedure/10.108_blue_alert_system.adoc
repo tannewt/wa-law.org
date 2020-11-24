@@ -1,0 +1,61 @@
+= 10.108 - Blue alert system.
+:toc:
+
+== 10.108.010 - Declaration.
+There is currently no system in place in Washington state to expedite the apprehension of violent criminals who seriously injure or kill local, state, or federal law enforcement officers. Other states have adopted blue alert systems to achieve this objective. The legislature declares that it is necessary to create a statewide blue alert system to speed the apprehension of violent criminals who kill or seriously injure local, state, or federal law enforcement officers.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1820-S.SL.pdf?cite=2012%20c%2037%20§%201[2012 c 37 § 1]; ]
+
+== 10.108.020 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Blue alert system" means a quick response system designed to issue and coordinate alerts following an attack upon a law enforcement officer.
+
+. "Investigating law enforcement agency" means the law enforcement agency that has primary jurisdiction over the area or has been delegated and accepted investigatory responsibility in which a law enforcement officer has been seriously injured or killed.
+
+. "Law enforcement agency" means a general [authority Washington] law enforcement agency as defined in RCW 10.93.020 and a limited [authority Washington] law enforcement agency as defined in RCW 10.93.020. Such agencies shall include, but are not limited to, the following:
+
+.. The Washington state patrol;
+
+.. All law enforcement agencies and police departments of any political subdivision of the state; and
+
+.. The department of corrections.
+
+. "Law enforcement officer" includes police officers, the attorney general and the attorney general's deputies, sheriffs and their regular deputies, corrections officers, tribal law enforcement officers, park rangers, state fire marshals, municipal fire marshals, sworn members of the city fire departments, county and district firefighters, and agents of the department of fish and wildlife. "Law enforcement officer" also includes an employee of a federal governmental agency who is authorized by law to engage in or supervise the prevention, detection, investigation, or prosecution of, or the incarceration of any person for, any violation of law, and who has statutory powers of arrest.
+
+. "Officer's employing law enforcement agency" means the law enforcement agency by which the officer is employed.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1820-S.SL.pdf?cite=2012%20c%2037%20§%202[2012 c 37 § 2]; ]
+
+== 10.108.030 - Blue alert system—Plan—Activation—Termination.
+. Within existing resources, the Washington state patrol, in partnership with the Washington association of sheriffs and police chiefs, shall develop and implement a plan, commonly known as a blue alert system, consistent with the Amber alert program, endangered missing person advisory plan, and the missing person clearinghouse, for voluntary cooperation between local, state, tribal, and other law enforcement agencies, state government agencies, radio and television stations, and cable and satellite systems to enhance the public's ability to assist in apprehending persons suspected of killing or seriously injuring a law enforcement officer. The blue alert system shall include the following:
+
+.. Procedures to provide support to the investigating law enforcement agency as a resource for the receipt and dissemination of information regarding the suspect and the suspect's whereabouts and/or method of escape;
+
+.. The process for reporting the information to designated media outlets in Washington; and
+
+.. Criteria for the investigating law enforcement agency to determine quickly whether an officer has been seriously injured or killed and a blue alert therefore needs to be requested.
+
+. The investigating law enforcement agency may request activation of the blue alert system and notify appropriate participants in the blue alert system, when the investigating law enforcement agency believes that:
+
+.. A suspect has not been apprehended;
+
+.. A suspect may be a serious threat to the public;
+
+.. Sufficient information is available to disseminate to the public that could assist in locating and apprehending the suspect;
+
+.. Release of the information will not compromise the investigation; and
+
+.. Criteria to ensure that releasing the victim information is proper, as to avoid improper next of kin notification.
+
+. When a blue alert is activated, the investigating law enforcement agency shall provide descriptive information under the criminal justice information act, chapter 10.98 RCW, and the national crime information center system.
+
+. The investigating law enforcement agency shall terminate the blue alert with respect to a particular suspect when the suspect is located or the incident is otherwise resolved, or when the investigating law enforcement agency determines that the blue alert system is no longer an effective tool for locating and apprehending the suspect.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1820-S.SL.pdf?cite=2012%20c%2037%20§%203[2012 c 37 § 3]; ]
+
+== 10.108.040 - Liability immunity.
+No cause of action shall be maintained for civil damages in any court of this state against any radio or television broadcasting station or cable television system, or the employees, officers, directors, managers, or agents of the radio or television broadcasting station or cable television system, based on the broadcast of information supplied by law enforcement officials pursuant to the provisions of this chapter. Nothing in this section shall be construed to limit or restrict in any way any immunity or privilege a radio or television broadcasting station or cable television system may have under statute or common law for broadcasting or otherwise disseminating information.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1820-S.SL.pdf?cite=2012%20c%2037%20§%204[2012 c 37 § 4]; ]
+

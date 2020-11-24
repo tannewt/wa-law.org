@@ -1,0 +1,514 @@
+= 46.29 - Financial responsibility.
+:toc:
+
+== 46.29.010 - Purpose.
+It is the purpose of this chapter to adopt in substance the provisions of the uniform vehicle code relating to financial responsibility in order to achieve greater uniformity with the laws of other states and thereby reduce the conflicts in laws confronting motorists as they travel between states.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%201[1963 c 169 § 1]; ]
+
+== 46.29.020 - Definitions.
+. The term "owner" as used in this chapter shall mean registered owner as defined in RCW 46.04.460.
+
+. The term "registration" as used in this chapter shall mean the certificate of license registration issued under the laws of this state.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%202[1963 c 169 § 2]; ]
+
+== 46.29.030 - Director to administer chapter.
+. The director shall administer and enforce the provisions of this chapter and may make rules and regulations necessary for its administration.
+
+. The director shall prescribe and provide suitable forms requisite or deemed necessary for the purposes of this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%203[1963 c 169 § 3]; ]
+
+== 46.29.033 - Application of chapter to RCW  48.177.010.
+This chapter does not apply to the coverage exclusions under RCW 48.177.010(6).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5550-S.SL.pdf?cite=2015%20c%20236%20§%206[2015 c 236 § 6]; ]
+
+== 46.29.040 - Court review.
+Any order of the director under the provisions of this chapter shall be subject to review, at the instance of any party in interest, by appeal to the superior court of Thurston county, or at his or her option to the superior court of the county of his or her residence. The scope of such review shall be limited to that prescribed by RCW 7.16.120 governing review by certiorari. Notice of appeal must be filed within thirty days after service of the notice of such order. The court shall determine whether the filing of the appeal shall operate as a stay of any such order of the director. Upon the filing the notice of appeal the court shall issue an order to the director to show cause why the order should not be reversed or modified. The order to show cause shall be returnable not less than ten nor more than thirty days after the date of service thereof upon the director. The court after hearing the matter may modify, affirm, or reverse the order of the director in whole or in part.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209027[2010 c 8 § 9027]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1501-S2.SL.pdf?cite=1998%20c%2041%20§%207[1998 c 41 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%204[1963 c 169 § 4]; ]
+
+== 46.29.050 - Furnishing driving record and evidence of ability to respond in damages—Fees.
+. The department shall upon request furnish any person or his or her attorney a certified abstract of his or her driving record, which abstract shall include enumeration of any motor vehicle accidents in which such person has been involved. Such abstract shall (a) indicate the total number of vehicles involved, whether the vehicles were legally parked or moving, and whether the vehicles were occupied at the time of the accident; and (b) contain reference to any convictions of the person for violation of the motor vehicle laws as reported to the department, reference to any findings that the person has committed a traffic infraction which have been reported to the department, and a record of any vehicles registered in the name of the person. The department shall collect for each abstract the sum of thirteen dollars, fifty percent of which shall be deposited in the highway safety fund and fifty percent of which must be deposited according to RCW 46.68.038.
+
+. The department shall upon request furnish any person who may have been injured in person or property by any motor vehicle, with an abstract of all information of record in the department pertaining to the evidence of the ability of any driver or owner of any motor vehicle to respond in damages. The department shall collect for each abstract the sum of thirteen dollars, fifty percent of which shall be deposited in the highway safety fund and fifty percent of which must be deposited according to RCW 46.68.038.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2660.SL.pdf?cite=2012%20c%2074%20§%205[2012 c 74 § 5]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209028[2010 c 8 § 9028]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5937-S.SL.pdf?cite=2007%20c%20424%20§%202[2007 c 424 § 2]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6814-S.SL.pdf?cite=2002%20c%20352%20§%2019[2002 c 352 § 19]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987ex1c9.pdf?cite=1987%201st%20ex.s.%20c%209%20§%201[1987 1st ex.s. c 9 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985ex1c1.pdf?cite=1985%20ex.s.%20c%201%20§%2010[1985 ex.s. c 1 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c136.pdf?cite=1979%20ex.s.%20c%20136%20§%2063[1979 ex.s. c 136 § 63]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c40.pdf?cite=1969%20ex.s.%20c%2040%20§%201[1969 ex.s. c 40 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c174.pdf?cite=1967%20c%20174%20§%201[1967 c 174 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%205[1963 c 169 § 5]; ]
+
+== 46.29.060 - Application of sections requiring deposit of security and suspensions for failure to deposit security.
+The provisions of this chapter, requiring deposit of security and suspensions for failure to deposit security, subject to certain exemptions, shall apply to the driver and owner of any vehicle of a type subject to registration under the motor vehicle laws of this state which is in any manner involved in an accident within this state, which accident has resulted in bodily injury or death of any person or damage to the property of any one person to an apparent extent equal to or greater than the minimum amount established by rule adopted by the director. The director shall adopt rules establishing the property damage threshold at which the provisions of this chapter apply with respect to the deposit of security and suspensions for failure to deposit security. Beginning October 1, 1987, the property damage threshold shall be five hundred dollars. The thresholds shall be revised when necessary, but not more frequently than every two years. The revisions shall only be for the purpose of recognizing economic changes as reflected by an inflationary index recommended by the office of financial management. The revisions shall be guided by the change in the index for the time period since the last revision and by the threshold established by the chief of the Washington state patrol for the filing of accident reports as provided in RCW 46.52.030.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c463.pdf?cite=1987%20c%20463%20§%201[1987 c 463 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c369.pdf?cite=1977%20ex.s.%20c%20369%20§%201[1977 ex.s. c 369 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c22.pdf?cite=1971%20ex.s.%20c%2022%20§%202[1971 ex.s. c 22 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%206[1963 c 169 § 6]; ]
+
+== 46.29.070 - Department to determine amount of security required—Notices.
+. The department, not less than twenty days after receipt of a report of an accident as described in the preceding section, shall determine the amount of security which shall be sufficient in its judgment to satisfy any judgment or judgments for damages resulting from such accident as may be recovered against each driver or owner. Such determination shall not be made with respect to drivers or owners who are exempt under succeeding sections of this chapter from the requirements as to security and suspension.
+
+. The department shall determine the amount of security deposit required of any person upon the basis of the reports or other information submitted. In the event a person involved in an accident as described in this chapter fails to make a report or submit information indicating the extent of his or her injuries or the damage to his or her property within one hundred eighty days after the accident and the department does not have sufficient information on which to base an evaluation of such injuries or damage, then the department after reasonable notice to such person, if it is possible to give such notice, otherwise without such notice, shall not require any deposit of security for the benefit or protection of such person.
+
+. The department after receipt of report of any accident referred to herein and upon determining the amount of security to be required of any person involved in such accident or to be required of the owner of any vehicle involved in such accident shall give written notice to every such person of the amount of security required to be deposited by him or her and that an order of suspension will be made as hereinafter provided not less than twenty days and not more than sixty days after the sending of such notice unless within said time security be deposited as required by said notice.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209029[2010 c 8 § 9029]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c309.pdf?cite=1981%20c%20309%20§%201[1981 c 309 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c78.pdf?cite=1979%20c%2078%20§%201[1979 c 78 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%207[1963 c 169 § 7]; ]
+
+== 46.29.080 - Exceptions as to requirement of security.
+The requirements as to security and suspension in this chapter shall not apply:
+
+. To the driver or owner if the owner had in effect at the time of the accident an automobile liability policy or bond with respect to the vehicle involved in the accident, except that a driver shall not be exempt under this subsection if at the time of the accident the vehicle was being operated without the owner's permission, express or implied;
+
+. To the driver, if not the owner of the vehicle involved in the accident, if there was in effect at the time of the accident an automobile liability policy or bond with respect to his or her driving of vehicles not owned by him or her;
+
+. To the driver, if not the owner of the vehicle involved in the accident, if there was in effect at the time of the accident an automobile liability policy or bond as to which there is a bona fide dispute concerning coverage of such driver as evidenced by the pendency of litigation seeking a declaration of said driver's coverage under such policy or bond;
+
+. To the driver, whether or not the owner, if there is a bona fide claim on the part of the driver that there was in effect at the time of the accident, an automobile liability policy or bond insuring or covering such driver;
+
+. To any person qualifying as a self-insurer under RCW 46.29.630 or to any person operating a vehicle for such self-insurer;
+
+. To the driver or the owner of a vehicle involved in an accident wherein no injury or damage was caused to the person or property of anyone other than such driver or owner;
+
+. To the driver or owner of a vehicle which at the time of the accident was parked, unless such vehicle was parked at a place where parking was at the time of the accident prohibited under any applicable law or ordinance;
+
+. To the owner of a vehicle if at the time of the accident the vehicle was being operated without his or her permission, express or implied, or was parked by a person who had been operating such vehicle without such permission, except if the vehicle was operated by his or her minor child or spouse;
+
+. To the owner of a vehicle involved in an accident if at the time of the accident such vehicle was owned by or leased to the United States, this state or any political subdivision of this state or a municipality thereof, or to the driver of such vehicle if operating such vehicle with permission; or
+
+. To the driver or the owner of a vehicle in the event at the time of the accident the vehicle was being operated by or under the direction of a police officer who, in the performance of his or her duties, shall have assumed custody of such vehicle.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209030[2010 c 8 § 9030]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c124.pdf?cite=1965%20c%20124%20§%201[1965 c 124 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%208[1963 c 169 § 8]; ]
+
+== 46.29.090 - Requirements as to policy or bond.
+. No policy or bond is effective under RCW 46.29.080 unless issued by an insurance company or surety company authorized to do business in this state, except as provided in subsection (2) of this section, nor unless such policy or bond is subject, if the accident has resulted in bodily injury or death, to a limit, exclusive of interest and costs, of not less than twenty-five thousand dollars because of bodily injury to or death of one person in any one accident and, subject to said limit for one person, to a limit of not less than fifty thousand dollars because of bodily injury to or death of two or more persons in any one accident, and if the accident has resulted in injury to, or destruction of, property to a limit of not less than ten thousand dollars because of injury to or destruction of property of others in any one accident.
+
+. No policy or bond is effective under RCW 46.29.080 with respect to any vehicle which was not registered in this state or was a vehicle which was registered elsewhere than in this state at the effective date of the policy or bond or the most recent renewal thereof, unless the insurance company or surety company issuing such policy or bond is authorized to do business in this state, or if said company is not authorized to do business in this state, unless it executes a power of attorney authorizing the director of licensing to accept service on its behalf of notice or process in any action upon such policy or bond arising out of such accident.
+
+. The department may rely upon the accuracy of the information in a required report of an accident as to the existence of insurance or a bond unless and until the department has reason to believe that the information is erroneous.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c117.pdf?cite=1980%20c%20117%20§%203[1980 c 117 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c158.pdf?cite=1979%20c%20158%20§%20155[1979 c 158 § 155]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c3.pdf?cite=1967%20ex.s.%20c%203%20§%201[1967 ex.s. c 3 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%209[1963 c 169 § 9]; ]
+
+== 46.29.100 - Form and amount of security.
+. The security required under this chapter shall be in such form and in such amount as the department may require, but in no case in excess of the limits specified in RCW 46.29.090 in reference to the acceptable limits of a policy or bond.
+
+. Every depositor of security shall designate in writing every person in whose name such deposit is made and may at any time change such designation, but any single deposit of security shall be applicable only on behalf of persons required to furnish security because of the same accident.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2010[1963 c 169 § 10]; ]
+
+== 46.29.110 - Failure to deposit security—Suspensions.
+If a person required to deposit security under this chapter fails to deposit such security within sixty days after the department has sent the notice as hereinbefore provided, the department shall thereupon suspend:
+
+. The driver's license of each driver in any manner involved in the accident;
+
+. The driver's license of the owner of each vehicle of a type subject to registration under the laws of this state involved in the accident;
+
+. If the driver or owner is a nonresident, the privilege of operating within this state a vehicle of a type subject to registration under the laws of this state. 
+
+Such suspensions shall be made in respect to persons required by the department to deposit security who fail to deposit such security except as otherwise provided under succeeding sections of this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c250.pdf?cite=1990%20c%20250%20§%2051[1990 c 250 § 51]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c378.pdf?cite=1987%20c%20378%20§%201[1987 c 378 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c32.pdf?cite=1967%20c%2032%20§%2037[1967 c 32 § 37]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2011[1963 c 169 § 11]; ]
+
+== 46.29.120 - Release from liability.
+. A person shall be relieved from the requirement for deposit of security for the benefit or protection of another person injured or damaged in the accident in the event he or she is released from liability by such other person.
+
+. In the event the department has evaluated the injuries or damage to any minor the department may accept, for the purposes of this chapter only, evidence of a release from liability executed by a natural guardian or a legal guardian on behalf of such minor without the approval of any court or judge.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209031[2010 c 8 § 9031]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c124.pdf?cite=1965%20c%20124%20§%202[1965 c 124 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2012[1963 c 169 § 12]; ]
+
+== 46.29.130 - Adjudication of nonliability.
+A person shall be relieved from the requirement for deposit of security in respect to a claim for injury or damage arising out of the accident in the event such person has been finally adjudicated not to be liable in respect to such claim.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2013[1963 c 169 § 13]; ]
+
+== 46.29.140 - Agreements for payment of damages.
+. Any two or more of the persons involved in or affected by an accident as described in RCW 46.29.060 may at any time enter into a written agreement for the payment of an agreed amount with respect to all claims of any of such persons because of bodily injury to or death or property damage arising from such accident, which agreement may provide for payment in installments, and may file a signed copy thereof with the department.
+
+. The department, to the extent provided by any such written agreement filed with it, shall not require the deposit of security and shall terminate any prior order of suspension, or, if security has previously been deposited, the department shall immediately return such security to the depositor or his or her personal representative.
+
+. In the event of a default in any payment under such agreement and upon notice of such default the department shall take action suspending the license of such person in default as would be appropriate in the event of failure of such person to deposit security when required under this chapter.
+
+. Such suspension shall remain in effect and such license shall not be restored unless and until:
+
+.. Security is deposited as required under this chapter in such amount as the department may then determine,
+
+.. When, following any such default and suspension, the person in default has paid the balance of the agreed amount,
+
+.. When, following any such default and suspension, the person in default has resumed installment payments under an agreement acceptable to the creditor, or
+
+.. Three years have elapsed following the accident and evidence satisfactory to the department has been filed with it that during such period no action at law upon such agreement has been instituted and is pending.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209032[2010 c 8 § 9032]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c309.pdf?cite=1981%20c%20309%20§%202[1981 c 309 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2014[1963 c 169 § 14]; ]
+
+== 46.29.150 - Payment upon judgment.
+The payment of a judgment arising out of an accident or the payment upon such judgment of an amount equal to the maximum amount which could be required for deposit under this chapter shall, for the purposes of this chapter, release the judgment debtor from the liability evidenced by such judgment.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2015[1963 c 169 § 15]; ]
+
+== 46.29.160 - Termination of security requirement.
+The department, if satisfied as to the existence of any fact which under RCW 46.29.120, 46.29.130, 46.29.140 or 46.29.150 would entitle a person to be relieved from the security requirements of this chapter, shall not require the deposit of security by the person so relieved from such requirement, or if security has previously been deposited by such person, the department shall immediately return such deposit to such person or to his or her personal representative.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209033[2010 c 8 § 9033]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2016[1963 c 169 § 16]; ]
+
+== 46.29.170 - Duration of suspension.
+Unless a suspension is terminated under other provisions of this chapter, any order of suspension by the department under this chapter shall remain in effect and no license shall be renewed for or issued to any person whose license is so suspended until:
+
+. Such person shall deposit or there shall be deposited on his or her behalf the security required under this chapter, or
+
+. Three years have elapsed following the date of the accident resulting in such suspension and evidence satisfactory to the department has been filed with it that during such period no action for damages arising out of the accident resulting in such suspension has been instituted.
+
+An affidavit of the applicant that no action at law for damages arising out of the accident has been filed against him or her or, if filed, that it is not still pending shall be prima facie evidence of that fact. The department may take whatever steps are necessary to verify the statement set forth in any said affidavit.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209034[2010 c 8 § 9034]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c309.pdf?cite=1981%20c%20309%20§%203[1981 c 309 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2017[1963 c 169 § 17]; ]
+
+== 46.29.180 - Application to nonresidents, unlicensed drivers, unregistered vehicles, and accidents in other states.
+. In case the driver or the owner of a vehicle of a type subject to registration under the laws of this state involved in an accident within this state has no driver's license in this state, then such driver shall not be allowed a driver's license until he or she has complied with the requirements of this chapter to the same extent that would be necessary if, at the time of the accident, he or she had held a license or been the owner of a vehicle registered in this state.
+
+. When a nonresident's driving privilege is suspended pursuant to RCW 46.29.110, the department shall transmit a certified copy of the record or abstract of such action to the official in charge of the issuance of licenses and registration certificates in the state in which such nonresident resides, if the law of such other state provided for action in relation thereto similar to that provided for in subsection (3) of this section.
+
+. Upon receipt of such certification that the driving privilege of a resident of this state has been suspended or revoked in any such other state pursuant to a law providing for its suspension or revocation for failure to deposit security for the payment of judgments arising out of a motor vehicle accident, under circumstances which would require the department to suspend a nonresident's driving privilege had the accident occurred in this state, the department shall suspend the license of such resident. Such suspension shall continue until such resident furnishes evidence of his or her compliance with the law of such other state relating to the deposit of such security.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209035[2010 c 8 § 9035]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c32.pdf?cite=1967%20c%2032%20§%2038[1967 c 32 § 38]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2018[1963 c 169 § 18]; ]
+
+== 46.29.190 - Authority of department to decrease amount of security.
+The department may reduce the amount of security ordered in any case if in its judgment the amount ordered is excessive. In case the security originally ordered has been deposited, the excess deposit over the reduced amount ordered shall be returned to the depositor or his or her personal representative forthwith.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209036[2010 c 8 § 9036]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c124.pdf?cite=1965%20c%20124%20§%203[1965 c 124 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2019[1963 c 169 § 19]; ]
+
+== 46.29.200 - Correction of action by department.
+Whenever the department has taken any action or has failed to take any action under this chapter by reason of having received erroneous information, then upon receiving correct information within three years after the date of an accident the department shall take appropriate action to carry out the purposes and effect of this chapter. The foregoing, however, shall not be deemed to require the department to reevaluate the amount of any deposit required under this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c61.pdf?cite=1967%20c%2061%20§%201[1967 c 61 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c124.pdf?cite=1965%20c%20124%20§%204[1965 c 124 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2020[1963 c 169 § 20]; ]
+
+== 46.29.210 - Custody of security.
+The department shall place any security deposited with it under this chapter in the custody of the state treasurer.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2021[1963 c 169 § 21]; ]
+
+== 46.29.220 - Disposition of security.
+. Such security shall be applicable and available only:
+
+.. For the payment of any settlement agreement covering any claim arising out of the accident upon instruction of the person who made the deposit, or
+
+.. For the payment of a judgment or judgments, rendered against the person required to make the deposit, for damages arising out of the accident in an action at law begun not later than three years after the date of the accident.
+
+. Every distribution of funds from the security deposits shall be subject to the limits of the department's evaluation on behalf of a claimant.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c309.pdf?cite=1981%20c%20309%20§%204[1981 c 309 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2022[1963 c 169 § 22]; ]
+
+== 46.29.230 - Return of deposit.
+Upon the expiration of three years from the date of the accident resulting in the security requirement, any security remaining on deposit shall be returned to the person who made such deposit or to his or her personal representative if an affidavit or other evidence satisfactory to the department has been filed with it:
+
+. That no action for damages arising out of the accident for which deposit was made is pending against any person on whose behalf the deposit was made, and
+
+. That there does not exist any unpaid judgment rendered against any such person in such an action.
+
+The foregoing provisions of this section shall not be construed to limit the return of any deposit of security under any other provision of this chapter authorizing such return.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209037[2010 c 8 § 9037]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c309.pdf?cite=1981%20c%20309%20§%205[1981 c 309 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2023[1963 c 169 § 23]; ]
+
+== 46.29.240 - Certain matters not evidence in civil suits.
+The report required following an accident, the action taken by the department pursuant to this chapter, the findings, if any, of the department upon which such action is based, and the security filed as provided in this chapter, shall not be referred to in any way, and shall not be any evidence of the negligence or due care of either party, at the trial of any action at law to recover damages.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2024[1963 c 169 § 24]; ]
+
+== 46.29.250 - Application of sections requiring deposit of proof of financial responsibility for the future.
+The provisions of this chapter requiring the deposit of proof of financial responsibility for the future, subject to certain exemptions, shall apply with respect to persons who have been convicted of or forfeited bail for certain offenses under motor vehicle laws, or who have failed to pay judgments upon causes of action arising out of ownership, maintenance or use of vehicles of a type subject to registration under the laws of this state, or who having driven or owned a vehicle involved in an accident are required to deposit security under the provisions of RCW 46.29.070.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2025[1963 c 169 § 25]; ]
+
+== 46.29.260 - "Proof of financial responsibility for the future" defined.
+The term "proof of financial responsibility for the future" as used in this chapter means: Proof of ability to respond in damages for liability, on account of accidents occurring subsequent to the effective date of said proof, arising out of the ownership, maintenance, or use of a vehicle of a type subject to registration under the laws of this state, in the amount of twenty-five thousand dollars because of bodily injury to or death of one person in any one accident, and, subject to said limit for one person, in the amount of fifty thousand dollars because of bodily injury to or death of two or more persons in any one accident, and in the amount of ten thousand dollars because of injury to or destruction of property of others in any one accident. Wherever used in this chapter the terms "proof of financial responsibility" or "proof" shall be synonymous with the term "proof of financial responsibility for the future."
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c117.pdf?cite=1980%20c%20117%20§%204[1980 c 117 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c3.pdf?cite=1967%20ex.s.%20c%203%20§%202[1967 ex.s. c 3 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2026[1963 c 169 § 26]; ]
+
+== 46.29.270 - "Judgment," "state" defined.
+The following words and phrases when used in this chapter shall, for the purpose of this chapter, have the meanings respectively ascribed to them in this section.
+
+. The term "judgment" shall mean: Any judgment which shall have become final by expiration without appeal of the time within which an appeal might have been perfected, or by final affirmation on appeal, rendered by a court of competent jurisdiction of any state or of the United States, upon a cause of action arising out of the ownership, maintenance or use of any vehicle of a type subject to registration under the laws of this state, for damages, including damages for care and loss of services, because of bodily injury to or death of any person, or for damages because of injury to or destruction of property, including the loss of use thereof, or upon a cause of action on an agreement of settlement for such damages. The first page of a judgment must include a judgment summary that states damages are awarded under this section and the judgment creditor must give notice as outlined in RCW 46.29.310.
+
+. The term "state" shall mean: Any state, territory, or possession of the United States, the District of Columbia, or any province of the Dominion of Canada.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2405-S.SL.pdf?cite=2016%20c%2093%20§%204[2016 c 93 § 4]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1232.SL.pdf?cite=1999%20c%20296%20§%202[1999 c 296 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2027[1963 c 169 § 27]; ]
+
+== 46.29.280 - Suspension continues until proof furnished.
+Whenever, under any law of this state, the license of any person is suspended or revoked by reason of a conviction, forfeiture of bail, or finding that a traffic infraction has been committed, the suspension or revocation hereinbefore required shall remain in effect and the department shall not issue to such person any new or renewal of license until permitted under the motor vehicle laws of this state, and not then unless and until such person shall give and thereafter maintain proof of financial responsibility for the future. Upon receiving notice of the termination or cancellation of proof of financial responsibility for the future, the department shall resuspend or rerevoke the person's driving privilege until the person again gives and thereafter maintains proof of financial responsibility for the future.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c157.pdf?cite=1985%20c%20157%20§%201[1985 c 157 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c136.pdf?cite=1979%20ex.s.%20c%20136%20§%2064[1979 ex.s. c 136 § 64]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2028[1963 c 169 § 28]; ]
+
+== 46.29.290 - Action in respect to unlicensed person.
+If a person has no license, but by final order or judgment is convicted of or forfeits any bail or collateral deposited to secure an appearance for trial for any offense requiring the suspension or revocation of license, no license shall be thereafter issued to such person unless he or she shall give and thereafter maintain proof of financial responsibility for the future.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209038[2010 c 8 § 9038]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c124.pdf?cite=1965%20c%20124%20§%205[1965 c 124 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2029[1963 c 169 § 29]; ]
+
+== 46.29.300 - Action in respect to nonresidents.
+Whenever the department suspends or revokes a nonresident's driving privilege by reason of a conviction, forfeiture of bail, or finding that a traffic infraction has been committed such privilege shall remain so suspended or revoked unless such person shall have previously given or shall immediately give and thereafter maintain proof of financial responsibility for the future.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c136.pdf?cite=1979%20ex.s.%20c%20136%20§%2065[1979 ex.s. c 136 § 65]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c32.pdf?cite=1967%20c%2032%20§%2039[1967 c 32 § 39]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2030[1963 c 169 § 30]; ]
+
+== 46.29.310 - When judgment creditors to report nonpayment of judgments.
+Whenever any person fails within thirty days to satisfy any judgment, then it shall be the duty of the judgment creditor to forward immediately to the department the following:
+
+. A certified copy or abstract of such judgment;
+
+. A certificate of facts relative to such judgment;
+
+. Where the judgment is by default, a certified copy or abstract of that portion of the record which indicates the manner in which service of summons was effectuated and all the measures taken to provide the defendant with timely and actual notice of the suit against him or her.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2405-S.SL.pdf?cite=2016%20c%2093%20§%205[2016 c 93 § 5]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209039[2010 c 8 § 9039]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c44.pdf?cite=1969%20ex.s.%20c%2044%20§%201[1969 ex.s. c 44 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2031[1963 c 169 § 31]; ]
+
+== 46.29.320 - Further action with respect to nonresidents.
+If the defendant named in any certified copy or abstract of a judgment reported to the department is a nonresident, the department shall transmit those certificates furnished to it under RCW 46.29.310 to the official in charge of the issuance of licenses and registrations of the state of which the defendant is a resident.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c44.pdf?cite=1969%20ex.s.%20c%2044%20§%202[1969 ex.s. c 44 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2032[1963 c 169 § 32]; ]
+
+== 46.29.330 - Suspension for nonpayment of judgments.
+The department upon receipt of the certificates provided for by RCW 46.29.310, on a form provided by the department, shall forthwith suspend the license and any nonresident's driving privilege of any person against whom such judgment was rendered, except as otherwise provided in this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c250.pdf?cite=1990%20c%20250%20§%2052[1990 c 250 § 52]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c44.pdf?cite=1969%20ex.s.%20c%2044%20§%203[1969 ex.s. c 44 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c32.pdf?cite=1967%20c%2032%20§%2040[1967 c 32 § 40]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2033[1963 c 169 § 33]; ]
+
+== 46.29.340 - Exception in relation to government vehicles.
+The provisions of RCW 46.29.330 shall not apply with respect to any such judgment arising out of an accident caused by the ownership or operation, with permission, of a vehicle owned or leased to the United States, this state or any political subdivision of this state or a municipality thereof.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2034[1963 c 169 § 34]; ]
+
+== 46.29.350 - Exception when consent granted by judgment creditor.
+If the judgment creditor consents in writing, in such form as the department may prescribe, that the judgment debtor be allowed a license or nonresident's driving privilege, the same may be allowed by the department, in its discretion, for six months from the date of such consent and thereafter until such consent is revoked in writing, notwithstanding default in the payment of such judgment, or of any installments thereof prescribed in RCW 46.29.400, provided the judgment debtor furnishes proof of financial responsibility.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c32.pdf?cite=1967%20c%2032%20§%2041[1967 c 32 § 41]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2035[1963 c 169 § 35]; ]
+
+== 46.29.360 - Exception when insurer liable.
+No license or nonresident's driving privilege of any person shall be suspended under the provisions of this chapter if the department shall find that an insurer was obligated to pay the judgment upon which suspension is based, at least to the extent and for the amounts required in this chapter, but has not paid such judgment for any reason. A finding by the department that an insurer is obligated to pay a judgment shall not be binding upon such insurer and shall have no legal effect whatever except for the purpose of administering this section. If the department finds that no insurer is obligated to pay such a judgment, the judgment debtor may file with the department a written notice of his or her intention to contest such finding by an action in the superior court. In such a case the license or the nonresident's driving privilege of such judgment debtor shall not be suspended by the department under the provisions of this chapter for thirty days from the receipt of such notice nor during the pendency of any judicial proceedings brought in good faith to determine the liability of an insurer so long as the proceedings are being diligently prosecuted to final judgment by such judgment debtor. Whenever in any judicial proceedings it shall be determined by any final judgment, decree, or order that an insurer is not obligated to pay any such judgment, the department, notwithstanding any contrary finding theretofore made by it, shall forthwith suspend the license and any nonresident's driving privilege of any person against whom such judgment was rendered, as provided in RCW 46.29.330.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209040[2010 c 8 § 9040]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c32.pdf?cite=1967%20c%2032%20§%2042[1967 c 32 § 42]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2036[1963 c 169 § 36]; ]
+
+== 46.29.370 - Suspension continues until judgments paid and proof given.
+Such license and nonresident's driving privilege shall remain so suspended and shall not be renewed, nor shall any such license be thereafter issued in the name of such person, including any such person not previously licensed, unless and until every such judgment is stayed, satisfied in full or to the extent hereinafter provided and until the said person gives proof of financial responsibility subject to the exemptions stated in RCW 46.29.350, 46.29.360 and 46.29.400.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c32.pdf?cite=1967%20c%2032%20§%2043[1967 c 32 § 43]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2037[1963 c 169 § 37]; ]
+
+== 46.29.390 - Payments sufficient to satisfy requirements.
+. Judgments herein referred to are, for the purpose of this chapter only, deemed satisfied:
+
+.. When twenty-five thousand dollars has been credited upon any judgment or judgments rendered in excess of that amount because of bodily injury to or death of one person as the result of any one accident; or
+
+.. When, subject to such limit of twenty-five thousand dollars because of bodily injury to or death of one person, the sum of fifty thousand dollars has been credited upon any judgment or judgments rendered in excess of that amount because of bodily injury to or death of two or more persons as the result of any one accident; or
+
+.. When ten thousand dollars has been credited upon any judgment or judgments rendered in excess of that amount because of injury to or destruction of property of others as a result of any one accident.
+
+. Payments made in settlements of any claims because of bodily injury, death, or property damage arising from such accident shall be credited in reduction of the amounts provided for in this section.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c117.pdf?cite=1980%20c%20117%20§%205[1980 c 117 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c61.pdf?cite=1979%20c%2061%20§%2014[1979 c 61 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c3.pdf?cite=1967%20ex.s.%20c%203%20§%203[1967 ex.s. c 3 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2039[1963 c 169 § 39]; ]
+
+== 46.29.400 - Installment payment of judgments—Default.
+. A judgment debtor upon due notice to the judgment creditor may apply to the court in which such judgment was rendered for the privilege of paying such judgment in installments and the court, in its discretion and without prejudice to any other legal remedies which the judgment creditor may have, may so order and fix the amounts and times of payment of the installments.
+
+. The department shall not suspend a license or nonresident's driving privilege, and shall restore any license or nonresident's driving privilege suspended following nonpayment of a judgment, when the judgment debtor gives proof of financial responsibility and obtain such an order permitting the payment of such judgment in installments, and while the payment of any said installments is not in default.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c32.pdf?cite=1967%20c%2032%20§%2044[1967 c 32 § 44]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2040[1963 c 169 § 40]; ]
+
+== 46.29.410 - Action if breach of agreement.
+In the event the judgment debtor fails to pay any installment as specified by such order, then upon notice of such default, the department shall forthwith suspend the license or nonresident's driving privilege of the judgment debtor until such judgment is satisfied, as provided in this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c32.pdf?cite=1967%20c%2032%20§%2045[1967 c 32 § 45]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2041[1963 c 169 § 41]; ]
+
+== 46.29.420 - Proof required in addition to deposit of security after accident.
+Any person required to deposit security under RCW 46.29.070, for the benefit or protection of another person injured or damaged in an accident, shall in addition be required to give proof of financial responsibility for the future. The department shall give written notice of such additional requirement to every such person at the time and in the manner provided in RCW 46.29.070 for giving notice of the requirement for security.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2042[1963 c 169 § 42]; ]
+
+== 46.29.430 - Additional proof required—Suspension or revocation for failure to give proof.
+If a person required to give proof of financial responsibility under RCW 46.29.420 fails to give such proof within sixty days after the department has sent notice as hereinbefore provided, the department shall suspend, or continue in effect any existing suspension or revocation of, the license or any nonresident's driving privilege of the person.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c250.pdf?cite=1990%20c%20250%20§%2053[1990 c 250 § 53]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c371.pdf?cite=1987%20c%20371%20§%201[1987 c 371 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c32.pdf?cite=1967%20c%2032%20§%2046[1967 c 32 § 46]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2043[1963 c 169 § 43]; ]
+
+== 46.29.440 - Additional proof required—Suspension to continue until proof given and maintained.
+Such license or nonresident's driving privilege shall remain so suspended and shall not be renewed, nor shall any such license be thereafter issued in the name of such person, including any such person not previously licensed, unless and until such person shall give and thereafter maintain proof of financial responsibility for the future. The furnishing of such proof shall permit such person to operate only a motor vehicle covered by such proof. The department shall endorse appropriate restrictions on the license held by such person or may issue a new license containing such restrictions.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c32.pdf?cite=1967%20c%2032%20§%2047[1967 c 32 § 47]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c124.pdf?cite=1965%20c%20124%20§%206[1965 c 124 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2044[1963 c 169 § 44]; ]
+
+== 46.29.450 - Alternate methods of giving proof.
+Proof of financial responsibility when required under this chapter, with respect to such a vehicle or with respect to a person who is not the owner of such a vehicle, may be given by filing:
+
+. A certificate of insurance as provided in RCW 46.29.460 or 46.29.470;
+
+. A bond as provided in RCW 46.29.520;
+
+. A certificate of deposit of money or securities as provided in RCW 46.29.550; or
+
+. A certificate of self-insurance, as provided in RCW 46.29.630, supplemented by an agreement by the self-insurer that, with respect to accidents occurring while the certificate is in force, he or she will pay the same amounts that an insurer would have been obliged to pay under an owner's motor vehicle liability policy if it had issued such a policy to said self-insurer.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209041[2010 c 8 § 9041]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2045[1963 c 169 § 45]; ]
+
+== 46.29.460 - Certificate of insurance as proof.
+Proof of financial responsibility for the future may be furnished by filing with the department the written certificate of any insurance carrier duly authorized to do business in this state certifying that there is in effect a motor vehicle liability policy for the benefit of the person required to furnish proof of financial responsibility. Such certificate shall give the effective date of such motor vehicle liability policy, which date shall be the same as the effective date of the certificate, and shall designate by explicit description or by appropriate reference all vehicles covered thereby, unless the policy is issued to a person who is not the owner of a motor vehicle.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2046[1963 c 169 § 46]; ]
+
+== 46.29.470 - Certificate furnished by nonresident as proof.
+A nonresident may give proof of financial responsibility by filing with the department a written certificate or certificates of an insurance carrier authorized to transact business in the state in which the vehicle, or vehicles, owned by such nonresident is registered, or in the state in which such nonresident resides, if he or she does not own a vehicle, provided such certificate otherwise conforms with the provisions of this chapter, and the department shall accept the same upon condition that said insurance carrier complies with the following provisions with respect to the policies so certified:
+
+. Said insurance carrier shall execute a power of attorney authorizing the director to accept service on its behalf of notice or process in any action arising out of a motor vehicle accident in this state;
+
+. Said insurance carrier shall agree in writing that such policies shall be deemed to conform with the laws of this state relating to the terms of motor vehicle liability policies issued therein.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209042[2010 c 8 § 9042]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2047[1963 c 169 § 47]; ]
+
+== 46.29.480 - Default by nonresident insurer.
+If any insurance carrier not authorized to transact business in this state, which has qualified to furnish proof of financial responsibility, defaults in any said undertakings or agreements, the department shall not thereafter accept as proof any certificate of said carrier whether theretofore filed or thereafter tendered as proof, so long as such default continues.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2048[1963 c 169 § 48]; ]
+
+== 46.29.490 - "Motor vehicle liability policy" defined.
+. Certification. A "motor vehicle liability policy" as said term is used in this chapter means an "owner's policy" or an "operator's policy" of liability insurance, certified as provided in RCW 46.29.460 or 46.29.470 as proof of financial responsibility for the future, and issued, except as otherwise provided in RCW 46.29.470, by an insurance carrier duly authorized to transact business in this state, to or for the benefit of the person named in the policy as insured.
+
+. Owner's policy. Such owner's policy of liability insurance:
+
+.. Shall designate by explicit description or by appropriate reference all vehicles with respect to which coverage is to be granted by the policy; and
+
+.. Shall insure the person named therein and any other person, as insured, using any such vehicle or vehicles with the express or implied permission of such named insured, against loss from the liability imposed by law for damages arising out of the ownership, maintenance, or use of such vehicle or vehicles within the United States of America or the Dominion of Canada, subject to limits exclusive of interest and costs, with respect to each such vehicle as follows: Twenty-five thousand dollars because of bodily injury to or death of one person in any one accident and, subject to said limit for one person, fifty thousand dollars because of bodily injury to or death of two or more persons in any one accident, and ten thousand dollars because of injury to or destruction of property of others in any one accident.
+
+. Operator's policy. Such operator's policy of liability insurance shall insure the person named as insured therein against loss from the liability imposed upon him or her by law for damages arising out of the use by him or her of any motor vehicle not owned by him or her, within the same territorial limits and subject to the same limits of liability as are set forth above with respect to an owner's policy of liability insurance.
+
+. Required statements in policies. Such motor vehicle liability policy shall state the name and address of the named insured, the coverage afforded by the policy, the premium charged therefor, the policy period, and the limits of liability, and shall contain an agreement or be endorsed that insurance is provided under the policy in accordance with the coverage defined in this chapter as respects bodily injury and death or property damage, or both, and is subject to all the provisions of this chapter.
+
+. Policy need not insure workers' compensation, etc. Such motor vehicle liability policy need not insure any liability under any workers' compensation law nor any liability on account of bodily injury or death of an employee of the insured while engaged in the employment, other than domestic, of the insured, or while engaged in the operation, maintenance, or repair of any such vehicle nor any liability for damage to property owned by, rented to, in charge of, or transported by the insured.
+
+. Provisions incorporated in policy. Every motor vehicle liability policy is subject to the following provisions which need not be contained therein:
+
+.. The liability of the insurance carrier with respect to the insurance required by this chapter becomes absolute whenever injury or damage covered by said motor vehicle liability policy occurs; said policy may not be canceled or annulled as to such liability by any agreement between the insurance carrier and the insured after the occurrence of the injury or damage; no statement made by the insured or on his or her behalf and no violation of said policy defeats or voids said policy.
+
+.. The satisfaction by the insured of a judgment for such injury or damage shall not be a condition precedent to the right or duty of the insurance carrier to make payment on account of such injury or damage.
+
+.. The insurance carrier may settle any claim covered by the policy, and if such settlement is made in good faith, the amount thereof is deductible from the limits of liability specified in subsection (2)(b) of this section.
+
+.. The policy, the written application therefor, if any, and any rider or endorsement which does not conflict with the provisions of this chapter constitutes the entire contract between the parties.
+
+. Excess or additional coverage. Any policy which grants the coverage required for a motor vehicle liability policy may also grant any lawful coverage in excess of or in addition to the coverage specified for a motor vehicle liability policy, and such excess or additional coverage is not subject to the provisions of this chapter. With respect to a policy which grants such excess or additional coverage the term "motor vehicle liability policy" applies only to that part of the coverage which is required by this section.
+
+. Reimbursement provision permitted. Any motor vehicle liability policy may provide that the insured shall reimburse the insurance carrier for any payment the insurance carrier would not have been obligated to make under the terms of the policy except for the provisions of this chapter.
+
+. Proration of insurance permitted. Any motor vehicle liability policy may provide for the prorating of the insurance thereunder with other valid and collectible insurance.
+
+. Multiple policies. The requirements for a motor vehicle liability policy may be fulfilled by the policies of one or more insurance carrier which policies together meet such requirements.
+
+. Binders. Any binder issued pending the issuance of a motor vehicle liability policy is deemed to fulfill the requirements for such a policy.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209043[2010 c 8 § 9043]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c117.pdf?cite=1980%20c%20117%20§%206[1980 c 117 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c3.pdf?cite=1967%20ex.s.%20c%203%20§%204[1967 ex.s. c 3 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2049[1963 c 169 § 49]; ]
+
+== 46.29.500 - Notice of cancellation or termination of certified policy.
+When an insurance carrier has certified a motor vehicle liability policy under RCW 46.29.460 or 46.29.470 the insurance so certified shall not be canceled or terminated until at least ten days after a notice of cancellation or termination of the insurance so certified shall be filed in the department, except that such a policy subsequently procured and certified shall, on the effective date of its certification, terminate the insurance previously certified with respect to any vehicle designated in both certificates.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2050[1963 c 169 § 50]; ]
+
+== 46.29.510 - Chapter not to affect other policies.
+. This chapter shall not be held to apply to or affect policies of automobile insurance against liability which may now or hereafter be required by any other law of this state, and such policies, if they contain an agreement or are endorsed to conform with the requirements of this chapter, may be certified as proof of financial responsibility under this chapter.
+
+. This chapter shall not be held to apply to or affect policies insuring solely the insured named in the policy against liability resulting from the maintenance or use by persons in the insured's employ or on his or her behalf of vehicles not owned by the insured.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209044[2010 c 8 § 9044]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2051[1963 c 169 § 51]; ]
+
+== 46.29.520 - Bond as proof.
+Proof of financial responsibility may be evidenced by the bond of a surety company duly authorized to transact business within this state, or a bond with at least two individual sureties each owning real estate within this state, and together having equities equal in value to at least twice the amount of the bond, which real estate shall be scheduled in the bond approved by a judge of the superior court, which said bond shall be conditioned for payment of the amounts specified in RCW 46.29.260. Such bond shall be filed with the department and shall not be cancellable except after ten days written notice to the department.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2052[1963 c 169 § 52]; ]
+
+== 46.29.530 - When bond constitutes a lien.
+Before a bond with individual sureties is accepted by the department it shall be recorded as other instruments affecting real property in the county or counties wherein any real estate scheduled in such bond is located. Such bond shall constitute a lien from the date of such recording in favor of the state upon the real estate so scheduled of any surety, which lien shall exist in favor of any holder of a final judgment against the person who has filed such bond, for damages, including damages for care and loss of services, because of bodily injury to or death of any person, or for damage because of injury to or destruction of property, including the loss of use thereof, resulting from the ownership, maintenance, use or operation of a vehicle of a type subject to registration under the laws of this state after such bond was filed.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2053[1963 c 169 § 53]; ]
+
+== 46.29.540 - Action on bond.
+If a judgment, rendered against the principal on any bond described in RCW 46.29.520, shall not be satisfied within thirty days after it has become final, the judgment creditor may, for his or her own use and benefit and at his or her sole expense, bring an action or actions in the name of the state against the company or persons executing such bond, including an action or proceeding to foreclose any lien that may exist upon the real estate of a person who has executed such bond. Such an action to foreclose a lien shall be prosecuted in the same manner as an action to foreclose a mortgage on real estate.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209045[2010 c 8 § 9045]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2054[1963 c 169 § 54]; ]
+
+== 46.29.550 - Money or securities as proof.
+Proof of financial responsibility may be evidenced by the certificate of the department that the person named therein has deposited with him or her sixty thousand dollars in cash, or securities such as may legally be purchased by savings banks or for trust funds of a market value of sixty thousand dollars. The department shall not accept any such deposit and issue a certificate therefor and the department shall not accept such certificate unless accompanied by evidence that there are no unsatisfied judgments of any character against the depositor in the county where the depositor resides.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2448-S.SL.pdf?cite=2014%20c%2017%20§%201[2014 c 17 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209046[2010 c 8 § 9046]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c117.pdf?cite=1980%20c%20117%20§%207[1980 c 117 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c3.pdf?cite=1967%20ex.s.%20c%203%20§%205[1967 ex.s. c 3 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2055[1963 c 169 § 55]; ]
+
+== 46.29.560 - Application of deposit.
+Such deposit shall be held by the department to satisfy, in accordance with the provisions of this chapter, any execution on a judgment issued against such person making the deposit, for damages, including damages for care and loss of services, because of bodily injury to or death of any person, or for damages because of injury to or destruction of property, including the loss of use thereof, resulting from the ownership, maintenance, use, or operation of a vehicle of a type subject to registration under the laws of this state after such deposit was made. Money or securities so deposited shall not be subject to attachment or execution unless such attachment or execution shall arise out of a suit for damages as aforesaid. Any interest or other income accruing to such money or securities, so deposited, shall be paid to the depositor, or his or her order, as received.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2448-S.SL.pdf?cite=2014%20c%2017%20§%202[2014 c 17 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209047[2010 c 8 § 9047]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2056[1963 c 169 § 56]; ]
+
+== 46.29.570 - Owner may give proof for others.
+The owner of a motor vehicle may give proof of financial responsibility on behalf of his or her employee or a member of his or her immediate family or household in lieu of the furnishing of proof by any said person. The furnishing of such proof shall permit such person to operate only a motor vehicle covered by such proof. The department shall endorse appropriate restrictions on the license held by such person, or may issue a new license containing such restrictions.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209048[2010 c 8 § 9048]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2057[1963 c 169 § 57]; ]
+
+== 46.29.580 - Substitution of proof.
+The department shall consent to the cancellation of any bond or certificate of insurance or the department shall direct and return any money or securities to the person entitled thereto upon the substitution and acceptance of other adequate proof of financial responsibility pursuant to this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2448-S.SL.pdf?cite=2014%20c%2017%20§%203[2014 c 17 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2058[1963 c 169 § 58]; ]
+
+== 46.29.590 - Other proof required, when.
+Whenever any proof of financial responsibility filed under the provisions of this chapter no longer fulfills the purposes for which required, the department shall, for the purpose of this chapter, require other proof as required by this chapter and shall suspend the license and registration pending the filing of such other proof.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2059[1963 c 169 § 59]; ]
+
+== 46.29.600 - Duration of proof—When proof may be canceled or returned.
+. The department shall upon request consent to the immediate cancellation of any bond or certificate of insurance, or the department shall direct and return to the person entitled thereto any money or securities deposited pursuant to this chapter as proof of financial responsibility, or the department shall waive the requirement of filing proof, in any of the following events:
+
+.. At any time after three years from the date such proof was required when, during the three-year period preceding the request, the department has not received record of a conviction, forfeiture of bail, or finding that a traffic infraction has been committed which would require or permit the suspension or revocation of the license of the person by or for whom such proof was furnished; or
+
+.. In the event of the death of the person on whose behalf such proof was filed or the permanent incapacity of such person to operate a motor vehicle; or
+
+.. In the event the person who has given proof surrenders his or her license to the department.
+
+. Provided, however, that the department shall not consent to the cancellation of any bond or the return of any money or securities in the event any action for damages upon a liability covered by such proof is then pending or any judgment upon any such liability is then unsatisfied, or in the event the person who has filed such bond or deposited such money or securities has within one year immediately preceding such request been involved as a driver or owner in any motor vehicle accident resulting in injury or damage to the person or property of others. An affidavit of the applicant as to the nonexistence of such facts, or that he or she has been released from all of his or her liability, or has been finally adjudicated not to be liable, for such injury or damage, shall be sufficient evidence thereof in the absence of evidence to the contrary in the records of the department.
+
+. Whenever any person whose proof has been canceled or returned under subsection (1)(c) of this section applies for a license within a period of three years from the date proof was originally required, any such application shall be refused unless the applicant shall reestablish such proof for the remainder of such three-year period.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2448-S.SL.pdf?cite=2014%20c%2017%20§%204[2014 c 17 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209049[2010 c 8 § 9049]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c136.pdf?cite=1979%20ex.s.%20c%20136%20§%2066[1979 ex.s. c 136 § 66]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2060[1963 c 169 § 60]; ]
+
+== 46.29.605 - Suspension of registration, notice—Surrender of license plates—Penalties.
+. Whenever the involvement in a motor vehicle accident in this state results in the driving privilege of a person being suspended for failure to pay a judgment or deposit security, the department shall suspend the Washington registration of the motor vehicle if the person driving at the time of the accident was also the registered owner of the motor vehicle.
+
+. A notice of suspension shall be mailed by first-class mail to the owner's last known address of record in the department and shall be effective notwithstanding the owner's failure to receive the notice.
+
+. Upon suspension of the registration of a motor vehicle, the registered owner shall surrender all vehicle license plates registered to the vehicle. The department shall destroy the license plates and, upon reinstatement of the registration, shall issue new vehicle license plates as provided in RCW 46.16A.200(9).
+
+. Failure to surrender license plates under subsection (3) of this section is a misdemeanor punishable by imprisonment for not less than one day nor more than five days and by a fine of not less than fifty dollars nor more than two hundred fifty dollars.
+
+. No vehicle license plates, certificate of title, or registration certificate for a motor vehicle may be issued, and no vehicle registration may be renewed during the time the registration of the motor vehicle is suspended.
+
+. Any person who operates a vehicle in this state while the registration of the vehicle is suspended is guilty of a gross misdemeanor and upon conviction thereof shall be imprisoned for not less than two days nor more than five days and fined not less than one hundred dollars nor more than five hundred dollars.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6379.SL.pdf?cite=2010%20c%20161%20§%201114[2010 c 161 § 1114]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c309.pdf?cite=1981%20c%20309%20§%206[1981 c 309 § 6]; ]
+
+== 46.29.610 - Surrender of license—Penalty.
+. Any person whose license shall have been suspended under any provision of this chapter, or whose policy of insurance or bond, when required under this chapter, shall have been canceled or terminated, shall immediately return the license to the department.
+
+. Any person willfully failing to return a license as required in subsection (1) of this section is guilty of a misdemeanor.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c250.pdf?cite=1990%20c%20250%20§%2054[1990 c 250 § 54]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2061[1963 c 169 § 61]; ]
+
+== 46.29.620 - Forged proof—Penalty.
+Any person who shall forge, or, without authority, sign any evidence of proof of financial responsibility for the future, or who files or offers for filing any such evidence of proof knowing or having reason to believe that it is forged or signed without authority, shall be guilty of a gross misdemeanor.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2062[1963 c 169 § 62]; ]
+
+== 46.29.630 - Self-insurers.
+. Any person in whose name more than twenty-five vehicles are registered in this state may qualify as a self-insurer by obtaining a certificate of self-insurance issued by the department as provided in subsection (2) of this section.
+
+. The department may, in its discretion, upon the application of such a person, issue a certificate of self-insurance when it is satisfied that such person is possessed and will continue to be possessed of ability to pay judgment obtained against such person. Such certificate may be issued authorizing a person to act as a self-insurer for either property damage or bodily injury, or both.
+
+. Upon not less than five days' notice and a hearing pursuant to such notice, the department may upon reasonable grounds cancel a certificate of self-insurance. Failure to pay any judgment within thirty days after such judgment shall have become final shall constitute a reasonable ground for the cancellation of a certificate of self-insurance.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2063[1963 c 169 § 63]; ]
+
+== 46.29.640 - Chapter not to prevent other process.
+Nothing in this chapter shall be construed as preventing the plaintiff in any action at law from relying for relief upon the other processes provided by law.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2064[1963 c 169 § 64]; ]
+
+== 46.29.900 - Construction—1963 c 169.
+RCW 46.29.010 through 46.29.640 shall be codified as a single chapter of the Revised Code of Washington. RCW 46.29.010 through 46.29.050 shall be captioned "ADMINISTRATION." RCW 46.29.060 through 46.29.240 shall be captioned "SECURITY FOLLOWING ACCIDENT." RCW 46.29.250 through 46.29.600 shall be captioned "PROOF OF FINANCIAL RESPONSIBILITY FOR THE FUTURE." RCW 46.29.610 through 46.29.620 shall be captioned "VIOLATIONS OF THIS CHAPTER." RCW 46.29.630 through 46.29.640 shall be captioned "MISCELLANEOUS PROVISIONS RELATING TO FINANCIAL RESPONSIBILITY." Such captions and subsection headings, as used in this chapter, do not constitute any part of the law.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2067[1963 c 169 § 67]; ]
+
+== 46.29.920 - Repeals and saving.
+Sections 46.24.010 through 46.24.910 and sections 46.28.010 through 46.28.200, chapter 12, Laws of 1961 and RCW 46.24.010 through 46.24.910 and RCW 46.28.010 through 46.28.200 are each repealed.
+
+Such repeals shall not be construed as affecting any existing right acquired under the statutes repealed, nor as affecting any proceeding instituted thereunder, nor any rule, regulation or order promulgated thereunder, nor any administrative action taken thereunder.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c169.pdf?cite=1963%20c%20169%20§%2069[1963 c 169 § 69]; ]
+

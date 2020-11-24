@@ -1,0 +1,86 @@
+= 70A.525 - Disposable wipes products—Labeling standards.
+:toc:
+
+== 70A.525.005 - Finding. (Effective July 1, 2022.)
+The legislature finds that creating labeling standards for disposable wipes products will protect public health, the environment, water quality, and public infrastructure used for the collection, transport, and treatment of wastewater. It is not the intent of the legislature to address standards for flushability with this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2565-S.SL.pdf?cite=2020%20c%20121%20§%201[2020 c 121 § 1]; ]
+
+== 70A.525.010 - Definitions. (Effective July 1, 2022.)
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Covered entity" means a manufacturer of a covered product and a wholesaler, supplier, or retailer that has contractually undertaken responsibility to the manufacturer for the "do not flush" labeling of a covered product.
+
+. "Covered product" means a nonflushable nonwoven disposable wipe that is a premoistened wipe constructed from nonwoven sheets and designed and marketed for diapering, personal hygiene, or household hard surface cleaning purposes. A nonflushable nonwoven disposable wipe excludes any wipe product designed or marketed for cleaning or medicating the anorectal or vaginal areas on the human body and labeled "flushable," "sewer safe," "septic safe," or otherwise indicating that the product is appropriate for disposal in a toilet including, but not limited to, premoistened toilet tissue.
+
+. "Label" means to represent by statement, word, picture, design, or emblem on a covered product package.
+
+. "Principal display panel" means the side of a product package that is most likely to be displayed, presented, or shown under customary conditions of display for retail sale. The term is further defined as follows:
+
+.. In the case of a cylindrical or nearly cylindrical package, the surface area of the principal display panel constitutes forty percent of the product package, as measured by multiplying the height of the container times the circumference.
+
+.. In the case of a flexible film package, in which a rectangular prism or nearly rectangular prism stack of wipes is housed within the film, the surface area of the principal display panel constitutes the length times the width of the side of the package when the flexible packaging film is pressed flat against the stack of wipes on all sides of the stack.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2565-S.SL.pdf?cite=2020%20c%20121%20§%202[2020 c 121 § 2]; ]
+
+== 70A.525.020 - Labeling requirements. (Effective July 1, 2022.)
+A covered entity must clearly and conspicuously label a covered product as "do not flush" as follows:
+
+. Use the "do not flush" symbol, or a gender equivalent thereof, described in the INDA/EDANA code of practice 2 (COP2, as published in "Guidelines for Assessing the Flushability of Disposable Nonwoven Products," Edition 4, May 2018, by INDA/EDANA);
+
+. Place the symbol on the principal display panel in a prominent and reasonably visible location on the package which, in the case of packaging intended to dispense individual wipes, is permanently affixed in a location that is visible to a person each time a wipe is dispensed from the package;
+
+. Size the symbol to cover at least two percent of the surface area of the principal display panel on which the symbol is presented;
+
+. Ensure the symbol is not obscured by packaging seams, folds, or other package design elements;
+
+. Ensure the symbol has sufficiently high contrast with the immediate background of the packaging to render it likely to be read by the ordinary individual under customary conditions of purchase and use. In the case of a printed symbol, "high contrast" is defined as follows:
+
+.. Provided with either a light symbol on a dark background or a dark symbol on a light background; and
+
+.. A minimum level or percentage of contrast between the symbol artwork and the background of at least seventy percent. Contrast in percent is determined by:
+
+... Contrast = (B1 - B2) x 100 / B1; and
+
+... Where B1 = light reflectance value of the lighter area and B2 = light reflectance value of the darker area; and
+
+. Beginning January 1, 2023, no package or box containing a covered product manufactured on or before July 1, 2022, may be offered for distribution or sale in the state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2565-S.SL.pdf?cite=2020%20c%20121%20§%203[2020 c 121 § 3]; ]
+
+== 70A.525.030 - Documentation demonstrating compliance with chapter. (Effective July 1, 2022.)
+Upon a request by a city or a county, a covered entity must submit to the requesting entity, within ninety days of the request, nonconfidential business information and documentation demonstrating compliance with this chapter, in a format that is easy to understand.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2565-S.SL.pdf?cite=2020%20c%20121%20§%204[2020 c 121 § 4]; ]
+
+== 70A.525.040 - Enforcement of chapter—Civil penalties. (Effective July 1, 2022.)
+. Cities and counties have concurrent and exclusive authority to enforce this chapter and to collect civil penalties for a violation of this chapter, subject to the conditions in this section. An enforcing government entity may impose a civil penalty in the amount of up to two thousand dollars for the first violation of this chapter, up to five thousand dollars for the second violation of this chapter, and up to ten thousand dollars for the third and any subsequent violation of this chapter. If a covered entity has paid a prior penalty for the same violation to a different government entity with enforcement authority under this subsection, the penalty imposed by a government entity is reduced by the amount of the payment.
+
+. Any civil penalties collected pursuant to this section must be paid to the enforcing governmental entity that brought the action.
+
+. The remedies provided by this section are not exclusive and are in addition to the remedies that may be available pursuant to chapter 19.86 RCW or other consumer protection laws, if applicable.
+
+. In addition to penalties recovered under this section, the enforcing government entity may recover reasonable enforcement costs and attorneys' fees from the liable covered entity.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2565-S.SL.pdf?cite=2020%20c%20121%20§%205[2020 c 121 § 5]; ]
+
+== 70A.525.050 - Violation of chapter—Written notice—First and subsequent penalties. (Effective July 1, 2022.)
+Covered entities that violate the requirements of this chapter are subject to civil penalties described in RCW 70A.525.040. A specific violation is deemed to have occurred upon the sale of a noncompliant product package. The repeated sale of the same noncompliant product package is considered part of the same, single violation. A city or county must send a written notice of an alleged violation and a copy of the requirements of this chapter to a noncompliant covered entity, which will have ninety days to become compliant. A city or county may assess a first penalty if the covered entity has not met the requirements of this chapter ninety days following the date the notification was sent. A city or county may impose a second, third, and subsequent penalties on a covered entity that remains noncompliant with the requirements of this chapter for every month of noncompliance.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2565-S.SL.pdf?cite=2020%20c%20121%20§%206[2020 c 121 § 6]; ]
+
+== 70A.525.900 - Effective date—2020 c 121.
+This act takes effect July 1, 2022.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2565-S.SL.pdf?cite=2020%20c%20121%20§%208[2020 c 121 § 8]; ]
+
+== 70A.525.901 - Application to certain products—July 1, 2023. (Effective July 1, 2022.)
+For a covered product required to be registered by the United States environmental protection agency under the federal insecticide, fungicide, and rodenticide act (7 U.S.C. Sec. 136 et seq. (1996)), chapter 121, Laws of 2020 applies beginning July 1, 2023.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2565-S.SL.pdf?cite=2020%20c%20121%20§%209[2020 c 121 § 9]; ]
+
+== 70A.525.902 - Preemption by chapter. (Effective July 1, 2022.)
+This chapter preempts all existing or future laws enacted by a county, city, town, or other political subdivision of the state regarding the labeling of a covered product. Nothing in this section is intended to preempt the enforcement authority of a city or county as provided under RCW 70A.525.040 and 70A.525.050.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2565-S.SL.pdf?cite=2020%20c%20121%20§%2010[2020 c 121 § 10]; ]
+

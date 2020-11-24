@@ -1,0 +1,669 @@
+= 18.85 - Real estate brokers and managing brokers.
+:toc:
+
+== 18.85.011 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Advertising" means any attempt by publication or broadcast, whether oral, written, or otherwise, to induce a person to use the services of a real estate firm, broker, managing broker, or designated broker.
+
+. "Broker" means a natural person acting on behalf of a real estate firm to perform real estate brokerage services under the supervision of a designated broker or managing broker.
+
+. "Business opportunity" means and includes business, business entity, and good will of an existing business or any one or combination thereof when the transaction or business includes an interest in real property.
+
+. "Clear and conspicuous" in an advertising statement means the representation or term being used is of such a color, contrast, size, or audibility, and presented in a manner so as to be readily noticed and understood.
+
+. "Clock hours of instruction" means actual hours spent in classroom instruction in any tax supported, public technical college, community college, or any other institution of higher learning or a correspondence course from any of the aforementioned institutions certified by such institution as the equivalent of the required number of clock hours, and the real estate commission may certify courses of instruction other than in the aforementioned institutions.
+
+. "Commercial real estate" means any parcel of real estate in this state other than real estate containing one to four residential units. "Commercial real estate" does not include a single-family residential lot or single-family residential units such as condominiums, townhouses, manufactured homes, or homes in a subdivision when sold, leased, or otherwise conveyed on a unit-by-unit basis, even when those units are part of a larger building or parcel of real estate, unless the property is sold or leased for a commercial purpose.
+
+. "Commission" means the real estate commission of the state of Washington.
+
+. "Controlling interest" means the ability to control either the operational or financial, or both, decisions of a firm.
+
+. "Department" means the Washington department of licensing.
+
+. "Designated broker" means:
+
+.. A natural person who owns a sole proprietorship real estate firm; or
+
+.. A natural person with a controlling interest in the firm who is designated by a legally recognized business entity such as a corporation, limited liability company, limited liability partnership, or partnership real estate firm, to act as a designated broker on behalf of the real estate firm, and whose managing broker's license receives an endorsement from the department of "designated broker."
+
+. "Director" means the director of the department of licensing.
+
+. "Inactive license" means the status of a license that is not expired and is not affiliated with a firm.
+
+. "Independent contractor relationship" means a relationship between a broker or managing broker and a real estate firm that satisfies both of the following conditions: (a) No written agreement with the broker or managing broker provides that the broker or managing broker is an employee of the firm; and (b) substantially all of the broker's or managing broker's compensation is for services related to real estate brokerage services provided by the firm. Nothing in this subsection is intended to relieve the managing broker or real estate firm of the supervisory duties identified in this chapter.
+
+. "Licensee" means a person holding a license as a real estate firm, managing broker, or broker.
+
+. "Managing broker" means a natural person acting on behalf of a real estate firm to perform real estate brokerage services under the supervision of the designated broker, and who may supervise other brokers or managing brokers licensed to the firm.
+
+. "Person" includes a natural person, corporation, limited liability company, limited liability partnership, partnership, or public or private organization or entity of any character, except where otherwise restricted.
+
+. "Real estate brokerage services" means any of the following services offered or rendered directly or indirectly to another, or on behalf of another for compensation or the promise or expectation of compensation, or by a licensee on the licensee's own behalf:
+
+.. Listing, selling, purchasing, exchanging, optioning, leasing, renting of real estate, or any real property interest therein; or any interest in a cooperative; or any interest in a floating home or floating on-water residence, as defined in RCW 90.58.270;
+
+.. Negotiating or offering to negotiate, either directly or indirectly, the purchase, sale, exchange, lease, or rental of real estate, or any real property interest therein; or any interest in a cooperative; or any interest in a floating home or floating on-water residence, as defined in RCW 90.58.270;
+
+.. Listing, selling, purchasing, exchanging, optioning, leasing, renting, or negotiating the purchase, sale, lease, or exchange of a manufactured or mobile home in conjunction with the purchase, sale, lease, exchange, or rental of the land upon which the manufactured or mobile home is or will be located;
+
+.. Advertising or holding oneself out to the public by any solicitation or representation that one is engaged in real estate brokerage services;
+
+.. Advising, counseling, or consulting buyers, sellers, landlords, or tenants in connection with a real estate transaction;
+
+.. Issuing a broker's price opinion. For the purposes of this chapter, "broker's price opinion" means an oral or written report of property value that is prepared by a licensee under this chapter and is not an appraisal as defined in RCW 18.140.010 unless it complies with the requirements established under chapter 18.140 RCW;
+
+.. Collecting, holding, or disbursing funds in connection with the negotiating, listing, selling, purchasing, exchanging, optioning, leasing, or renting of real estate or any real property interest; and
+
+.. Performing property management services, which includes with no limitation: Marketing; leasing; renting; the physical, administrative, or financial maintenance of real property; or the supervision of such actions.
+
+. "Real estate firm" or "firm" means a sole proprietorship, partnership, limited liability partnership, corporation, limited liability company, or other legally recognized business entity conducting real estate brokerage services in this state and licensed by the department as a real estate firm.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5125.SL.pdf?cite=2017%20c%2059%20§%201[2017 c 59 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1309.SL.pdf?cite=2015%20c%20133%20§%201[2015 c 133 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%201[2008 c 23 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5413.SL.pdf?cite=2003%20c%20201%20§%201[2003 c 201 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=1998%20c%2046%20§%202[1998 c 46 § 2]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5267-S.SL.pdf?cite=1997%20c%20322%20§%201[1997 c 322 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c332.pdf?cite=1987%20c%20332%20§%201[1987 c 332 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c305.pdf?cite=1981%20c%20305%20§%201[1981 c 305 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c158.pdf?cite=1979%20c%20158%20§%2068[1979 c 158 § 68]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c370.pdf?cite=1977%20ex.s.%20c%20370%20§%201[1977 ex.s. c 370 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c57.pdf?cite=1973%201st%20ex.s.%20c%2057%20§%201[1973 1st ex.s. c 57 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c139.pdf?cite=1972%20ex.s.%20c%20139%20§%201[1972 ex.s. c 139 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c78.pdf?cite=1969%20c%2078%20§%201[1969 c 78 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1953c235.pdf?cite=1953%20c%20235%20§%201[1953 c 235 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1951c222.pdf?cite=1951%20c%20222%20§%201[1951 c 222 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1943c118.pdf?cite=1943%20c%20118%20§%201[1943 c 118 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1941c252.pdf?cite=1941%20c%20252%20§%202[1941 c 252 § 2]; Rem. Supp. 1943 § 8340-25; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1925ex1c129.pdf?cite=1925%20ex.s.%20c%20129%20§%204[1925 ex.s. c 129 § 4]; ]
+
+== 18.85.021 - Real estate commission created—Qualifications, terms, appointment of members—Vacancies.
+There is established the real estate commission of the state of Washington, consisting of the director who is the chair of the commission and six commission members who shall act in an advisory capacity to the director. The commission shall annually elect a vice chair to conduct the commission meetings in the absence of the director.
+
+The governor must appoint six commission members for a term of six years each. At least two of the commission members shall be selected from the area in the state west of the Cascade mountain range and at least two shall be selected from that area of the state east of the Cascade mountain range. No commission member shall be appointed who has had less than five years' experience in performing real estate brokerage services in this state, or has had at least three years' experience in investigative work of a similar nature, preferably in connection with the administration of real estate license law of this state or elsewhere. The governor must fill by appointment any vacancies on the commission for the unexpired term.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%207[2008 c 23 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c139.pdf?cite=1972%20ex.s.%20c%20139%20§%206[1972 ex.s. c 139 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1953c235.pdf?cite=1953%20c%20235%20§%2017[1953 c 235 § 17]; ]
+
+== 18.85.025 - Commission—Compensation and travel expenses—Frequency of meetings.
+The six board members of the commission shall be compensated in accordance with RCW 43.03.240, plus travel expenses in accordance with RCW 43.03.050 and 43.03.060 when they are called into session by the director or when otherwise engaged in the business of the commission. The commission shall meet four times a year or at the call of the director.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%208[2008 c 23 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c287.pdf?cite=1984%20c%20287%20§%2049[1984 c 287 § 49]; 1975-'76 2nd ex.s. c 34 § 49; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1953c235.pdf?cite=1953%20c%20235%20§%204[1953 c 235 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1951c222.pdf?cite=1951%20c%20222%20§%206[1951 c 222 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1941c252.pdf?cite=1941%20c%20252%20§%2014[1941 c 252 § 14]; Rem. Supp. 1941 § 8340-37; ]
+
+== 18.85.031 - Commission—Educational conferences—Examinations of applicants for licenses.
+The commission shall have authority to hold educational conferences for the benefit of the industry, and shall conduct examinations of applicants for licenses under this chapter. The commission shall ensure that examinations are prepared and administered at examination centers throughout the state and may approve examination locations in foreign jurisdictions.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%209[2008 c 23 § 9]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5267-S.SL.pdf?cite=1997%20c%20322%20§%204[1997 c 322 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c24.pdf?cite=1977%20ex.s.%20c%2024%20§%201[1977 ex.s. c 24 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1953c235.pdf?cite=1953%20c%20235%20§%2018[1953 c 235 § 18]; ]
+
+== 18.85.035 - Commission—Home inspector referrals—Procedures.
+The commission must establish procedures, to be adopted in rule by the director, for real estate agents to follow when providing potential home buyers with home inspector referrals.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6606-S.SL.pdf?cite=2008%20c%20119%20§%2024[2008 c 119 § 24]; ]
+
+== 18.85.041 - Director—General powers and duties.
+. The director, with the advice and approval of the commission, may issue rules to govern the activities of real estate brokers, managing brokers, designated brokers, and real estate firms, consistent with this chapter and chapters 18.86 and 18.235 RCW, fix the times and places for holding examinations of applicants for licenses, and prescribe the method of conducting them.
+
+. [Empty]
+.. The director shall enforce all laws and rules relating to the licensing of real estate firms, brokers, managing brokers, and designated brokers, grant or deny licenses including temporary licenses to real estate firms, brokers, and managing brokers, and hold hearings.
+
+.. The director shall enforce all laws and rules relating to the issuance of certificates of approval to real estate schools, real estate school administrators and instructors, and approval of real estate education courses.
+
+. The director shall establish by rule standards for licensure of applicants licensed in other jurisdictions and for reciprocity including the use of written recognition agreements.
+
+. The director may issue rules requiring all applicants to submit to a criminal background check, and the applicant is responsible for the payment of any fees incurred.
+
+. The director shall adopt rules and establish standards relating to permissible forms of clear and conspicuous advertising by licensees.
+
+. The director shall institute a program of real estate education. The program may include courses at institutions of higher education in Washington, trade schools, private real estate schools, and preapproved forums and conferences. The program shall include establishing minimum levels of ongoing education for licensees relating to the practice of real estate under this chapter. The program may also include the development or implementation of curricula courses, educational materials, or approaches to education relating to real estate when required or approved for continuing education credit. The director may develop and provide educational programs and materials for members of the public. The director may enter into contracts with other persons or entities, whether publicly or privately owned or operated, to assist in developing or implementing the real estate education program.
+
+. The director shall charge a fee for the certification of courses of instruction, instructors, and schools.
+
+. The director may take disciplinary action against real estate schools and real estate school administrators and instructors based upon conduct, acts, or conditions prescribed by rule, and may impose any or all of the following sanctions and fines:
+
+.. Withdrawal of the certificate of approval;
+
+.. Suspension of the certificate of approval for a fixed or indefinite term;
+
+.. Stayed suspension for a designated period of time;
+
+.. Censure or reprimand;
+
+.. Payment of a fine for each violation not to exceed one thousand dollars per day per violation. Each day a violation continues or occurs is a separate violation for purposes of imposing a penalty;
+
+.. Denial of an initial or renewal application for a certificate of approval; and
+
+.. Other corrective action.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%203[2008 c 23 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2512-S.SL.pdf?cite=2002%20c%2086%20§%20229[2002 c 86 § 229]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6184.SL.pdf?cite=1992%20c%2092%20§%201[1992 c 92 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c205.pdf?cite=1988%20c%20205%20§%202[1988 c 205 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c332.pdf?cite=1987%20c%20332%20§%202[1987 c 332 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c139.pdf?cite=1972%20ex.s.%20c%20139%20§%203[1972 ex.s. c 139 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1953c235.pdf?cite=1953%20c%20235%20§%202[1953 c 235 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1951c222.pdf?cite=1951%20c%20222%20§%203[1951 c 222 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1941c252.pdf?cite=1941%20c%20252%20§%204[1941 c 252 § 4]; Rem. Supp. 1941 § 8340-27; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1925ex1c129.pdf?cite=1925%20ex.s.%20c%20129%20§%202[1925 ex.s. c 129 § 2]; ]
+
+== 18.85.045 - Director's seal.
+The director shall adopt a seal with the words "real estate director, state of Washington," and such other device as the director may approve engraved thereon, by which the director shall authenticate the proceedings of the office. Copies of all records and papers in the office of the director certified to be true copies under the hand and seal of the director shall be received in evidence in all cases equally and with like effect as the originals. The director may authorize one or more assistants to certify records and papers.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%206[2008 c 23 § 6]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5267-S.SL.pdf?cite=1997%20c%20322%20§%203[1997 c 322 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c139.pdf?cite=1972%20ex.s.%20c%20139%20§%205[1972 ex.s. c 139 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1941c252.pdf?cite=1941%20c%20252%20§%208[1941 c 252 § 8]; RRS § 8340-31; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1925ex1c129.pdf?cite=1925%20ex.s.%20c%20129%20§%207[1925 ex.s. c 129 § 7]; ]
+
+== 18.85.051 - Publication of chapter—Distribution.
+The director may publish a copy of this chapter and information relative to the enforcement of this chapter and may mail a copy of this chapter and the information to each licensed broker, managing broker, and firm.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2027[2008 c 23 § 27]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5267-S.SL.pdf?cite=1997%20c%20322%20§%2016[1997 c 322 § 16]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c139.pdf?cite=1972%20ex.s.%20c%20139%20§%2018[1972 ex.s. c 139 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1953c235.pdf?cite=1953%20c%20235%20§%2010[1953 c 235 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1947c203.pdf?cite=1947%20c%20203%20§%208[1947 c 203 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1941c252.pdf?cite=1941%20c%20252%20§%2027[1941 c 252 § 27]; Rem. Supp. 1947 § 8340-50; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1925ex1c129.pdf?cite=1925%20ex.s.%20c%20129%20§%2022[1925 ex.s. c 129 § 22]; ]
+
+== 18.85.053 - Controlling interest in a real estate business—Prohibited practices.
+. A real estate licensee or person who has a controlling interest in a real estate business shall not, directly or indirectly, give any fee, kickback, payment, or other thing of value to any other real estate licensee as an inducement, reward for placing title insurance business, referring title insurance business, or causing title insurance business to be given to a title insurance agent in which the real estate licensee or person having a controlling interest in a real estate business also has a financial interest.
+
+. A real estate licensee or person who has a controlling interest in a real estate business shall not either solicit or accept, or both, anything of value from: A title insurance company, a title insurance agent, or the employees or representatives of a title insurance company or title insurance agent, that a title insurance company or title insurance agent is not permitted by law or rule to give to the real estate licensee or person who has a controlling interest in a real estate business.
+
+. A real estate licensee or person who has a controlling interest in a real estate business shall not prevent or deter a title insurance company, title insurance agent, or their employees or representatives from delivering to a real estate licensee or its employees, independent contractors, and clients printed promotional material concerning only title insurance services as long as:
+
+.. The material is business appropriate and is not misleading or false;
+
+.. The material does not malign the real estate licensee, its employees, independent contractors, or affiliates;
+
+.. The delivery of the materials is limited to those areas of the real estate licensee's physical office reserved for unrestricted public access; and
+
+.. The conduct of the employees or representatives is appropriate for a business setting and does not threaten the safety or health of anyone in the real estate licensee's office.
+
+. A real estate licensee shall not require a consumer, as a condition of providing real estate services, to obtain title insurance from a title insurance agent in which the real estate licensee has a financial interest.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6847-S.SL.pdf?cite=2008%20c%20110%20§%2010[2008 c 110 § 10]; ]
+
+== 18.85.061 - License fees—Real estate commission account.
+All fees required under this chapter shall be set by the director in accordance with RCW 43.24.086 and shall be paid to the state treasurer. All fees paid under the provisions of this chapter shall be placed in the real estate commission account in the state treasury. All money derived from fines imposed under this chapter shall be deposited in the real estate education program account created in RCW 18.85.321. During the 2013-2015 and 2015-2017 fiscal biennium [biennia], the legislature may transfer to the state general fund such amounts as reflect the excess fund balance in the real estate commission account.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2376-S.SL.pdf?cite=2016%20sp.s.%20c%2036%20§%20914[2016 sp.s. c 36 § 914]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5034-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%204%20§%20955[2013 2nd sp.s. c 4 § 955]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2029[2008 c 23 § 29]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5358.SL.pdf?cite=1993%20c%2050%20§%201[1993 c 50 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1496-S.SL.pdf?cite=1991%20c%20277%20§%201[1991 c 277 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c332.pdf?cite=1987%20c%20332%20§%208[1987 c 332 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c22.pdf?cite=1967%20c%2022%20§%201[1967 c 22 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1953c235.pdf?cite=1953%20c%20235%20§%2011[1953 c 235 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1941c252.pdf?cite=1941%20c%20252%20§%207[1941 c 252 § 7]; Rem. Supp. 1941 § 8340-30; ]
+
+== 18.85.065 - Employees.
+The director shall appoint adequate staff to assist him or her.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%202[2008 c 23 § 2]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5267-S.SL.pdf?cite=1997%20c%20322%20§%202[1997 c 322 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c139.pdf?cite=1972%20ex.s.%20c%20139%20§%202[1972 ex.s. c 139 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1951c222.pdf?cite=1951%20c%20222%20§%202[1951 c 222 § 2]; 1945 c 111 § 1, part; 1941 c 252 § 5, part; Rem. Supp. 1945 § 8340-28, part; ]
+
+== 18.85.075 - Director and employees business interest prohibited.
+While employed with the department, the director and employees who administer, regulate, or enforce real estate laws and rules must relinquish interest in any real estate business regulated by this chapter. If any real estate licensee is employed by the director as an employee, the license of the broker, real estate firm, or managing broker is placed on inactive status and remains inactive until the cessation of employment with the director.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%204[2008 c 23 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c139.pdf?cite=1972%20ex.s.%20c%20139%20§%204[1972 ex.s. c 139 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1953c235.pdf?cite=1953%20c%20235%20§%203[1953 c 235 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1951c222.pdf?cite=1951%20c%20222%20§%204[1951 c 222 § 4]; 1945 c 111 § 1, part; 1941 c 252 § 5, part; Rem. Supp. 1945 § 8340-28, part; ]
+
+== 18.85.081 - Licensure of town, city, or county employees conducting real estate transactions.
+Persons licensed under this chapter who are employed by a town, city, or county, and who are conducting real estate transactions on behalf of the town, city, or county, may hold active licenses under this chapter, and their designated and managing brokers are not responsible for their real estate transactions on behalf of their town, city, or county employer.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%205[2008 c 23 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c514.pdf?cite=1987%20c%20514%20§%202[1987 c 514 § 2]; ]
+
+== 18.85.091 - Firm license—Requirements.
+. The minimum requirements for a firm to receive a license are that the firm:
+
+.. Designates a managing broker as the "designated broker" who has authority to act for the firm, and provides the director with the name of the owner or owners or any others with a controlling interest in the firm;
+
+.. Assures that no person with controlling interest in the firm is the subject of a final departmental order, as provided in chapter 34.05 RCW, suspending or revoking any type of real estate license; and
+
+.. Does not adopt a name that is the same or similar to currently issued licenses or that implies the real estate firm is a nonprofit or research organization, or is a public bureau or group.
+
+. An applicant for a real estate firm's license shall provide the director with:
+
+.. The firm name and unified business identifier number;
+
+.. Washington business mailing and street address, contact telephone number, if any, and a mailing and physical address for either the firm's trust account or business records location, or both;
+
+.. Internet home page site and business email address, if any;
+
+.. Application fee prescribed by the director; and
+
+.. Any other information the director may require.
+
+. The firm must provide the following to the department for renewal of the firm's license:
+
+.. Renewal fee;
+
+.. Notice of any change in controlling interest for the firm; and
+
+.. Notice of any change in the firm's registration or certificate of authority filed with the secretary of state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2010[2008 c 23 § 10]; ]
+
+== 18.85.101 - Broker's license—Requirements—Renewal.
+. The minimum requirements for an individual to receive a broker's license are that the individual:
+
+.. Is eighteen years of age or older;
+
+.. Has a high school diploma or its equivalent;
+
+.. Except as provided in RCW 18.85.141, has furnished proof, as the director may require, that the applicant has successfully completed ninety hours of instruction in real estate. Instruction must include courses as prescribed by the director including fundamentals and practices. Each course must be completed within two years before applying for the broker's license examination and be approved by the director. The applicant must pass a course examination, approved by the director for each course used to satisfy the broker's license requirement; and
+
+.. Has passed the broker's license examination.
+
+. The broker's license may be renewed upon completion of continuing education courses and payment of the renewal fee as prescribed by the director. The education requirements for the first renewal of the broker's license must include ninety hours of courses as prescribed by the director, including real estate law, advance practices, and continuing education.
+
+. The broker is licensed to one firm at a time and is supervised by a designated or managing broker.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2011[2008 c 23 § 11]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6284.SL.pdf?cite=1994%20c%20291%20§%201[1994 c 291 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c162.pdf?cite=1985%20c%20162%20§%201[1985 c 162 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c139.pdf?cite=1972%20ex.s.%20c%20139%20§%208[1972 ex.s. c 139 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1953c235.pdf?cite=1953%20c%20235%20§%205[1953 c 235 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1951c222.pdf?cite=1951%20c%20222%20§%207[1951 c 222 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1941c252.pdf?cite=1941%20c%20252%20§%2015[1941 c 252 § 15]; Rem. Supp. 1941 § 8340-38; ]
+
+== 18.85.111 - Managing broker's license—Requirements—Renewal.
+. The minimum requirements for an individual to receive a managing broker's license are that the individual:
+
+.. Is eighteen years of age or older;
+
+.. Has a high school diploma or its equivalent;
+
+.. Has had a minimum of three years of licensed experience as a full-time real estate broker in this state or in another jurisdiction having comparable requirements within the five years previous to applying for the managing broker's license examination or is otherwise qualified by reason of practical experience in a business allied with or related to real estate as prescribed by rule;
+
+.. Except as provided in RCW 18.85.141, has furnished proof, as the director may require, that the applicant has successfully completed ninety hours of instruction in real estate. Instruction must include courses as prescribed by the director including real estate brokerage management, business management, and advanced real estate law. The director may approve and accept other related education. Each course must be completed within three years before applying for the managing broker's license examination, be at least thirty clock hours, and be approved by the director. The applicant must pass a course examination, approved by the director for each course that is used to satisfy the managing broker's license requirement; and
+
+.. Has passed the managing broker's license examination.
+
+. A managing broker's license may be renewed upon completion of continuing education courses and payment of the renewal fee as prescribed by the director.
+
+. A managing broker can be licensed to one firm only at any one time.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2012[2008 c 23 § 12]; ]
+
+== 18.85.121 - Designated brokers—Registration—Endorsements.
+. A designated broker must hold a license as a managing broker in accordance with RCW 18.85.111, and may act as a designated broker for more than one firm. The department shall register designated brokers.
+
+. A managing broker for a firm must be registered to that firm as its designated broker if that managing broker accepts endorsements from other firms as their designated broker.
+
+. Registered designated brokers must immediately notify the department of additional firms for which they serve as designated broker, and shall receive a printed endorsement on their managing broker's licenses indicating the names of all firms for which they serve as designated broker.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2013[2008 c 23 § 13]; ]
+
+== 18.85.131 - Out-of-state licensees—Requirements in lieu of licensing.
+. Persons with licenses deemed equivalent to licenses held by Washington licensees, as determined by the director, for a fee, commission, or other valuable consideration, or in the expectation, or upon the promise of receiving or collecting a fee, commission, or other valuable consideration, may perform those acts that require a license under this chapter, with respect to commercial real estate, provided that the out-of-state licensee, as approved by the director, does all of the following:
+
+.. Works in cooperation with a Washington real estate designated broker who holds a valid, active managing broker license issued under this chapter;
+
+.. Enters into a written agreement with the Washington firm, through its designated broker, that includes the terms of cooperation, oversight by the Washington designated broker, compensation, and a statement that the approved out-of-state licensee and its agents will agree to adhere to the laws of Washington;
+
+.. Furnishes the Washington designated broker with a copy of the out-of-state approved licensee's current license in good standing from any jurisdiction where the out-of-state approved licensee maintains an active real estate license;
+
+.. Consents to jurisdiction that legal actions arising out of the conduct of the approved out-of-state licensee or its agents may be commenced against the approved licensee in the court of proper jurisdiction of any county in Washington where the cause of action arises or where the plaintiff resides;
+
+.. Includes the name of the Washington broker, managing broker, or firm on all advertising in accordance with RCW 18.85.361(8); and
+
+.. Deposits all documentation required by this section and records and documents related to the transaction with the Washington broker, managing broker, or firm for a period of three years after the date the documentation is provided, or the transaction occurred, as appropriate.
+
+. A person licensed in a jurisdiction where there is no legal distinction between a real estate broker license and a real estate salesperson license must meet the requirements of subsection (1) of this section before engaging in any activity described in this section that requires a real estate broker license in this state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2047[2008 c 23 § 47]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5413.SL.pdf?cite=2003%20c%20201%20§%202[2003 c 201 § 2]; ]
+
+== 18.85.141 - Substitution of educational requirements—Rules.
+The director may allow for substitution of the clock-hour requirements in RCW 18.85.101(1)(c) and 18.85.111(1)(d), if the director makes a determination that the individual is otherwise and similarly qualified by reason of completion of equivalent educational coursework in any institution of higher education as defined in RCW 28B.10.016 or any degree-granting institution as defined in RCW 28B.85.010 approved by the director. The director shall establish, by rule, guidelines for determining equivalent educational coursework.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2014[2008 c 23 § 14]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6284.SL.pdf?cite=1994%20c%20291%20§%204[1994 c 291 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c332.pdf?cite=1987%20c%20332%20§%2018[1987 c 332 § 18]; ]
+
+== 18.85.151 - Exemptions from licensing.
+This chapter shall not apply to:
+
+. Any person who purchases or disposes of property and/or a business opportunity for that individual's own account, or that of a group of which the person is a member, and their employees;
+
+. Any duly authorized attorney-in-fact acting under a power of attorney without compensation;
+
+. An attorney-at-law in the performance of the practice of law;
+
+. Any receiver, trustee in bankruptcy, executor, administrator, guardian, personal representative, or any person acting under the order of any court, selling under a deed of trust, or acting as trustee under a trust;
+
+. Any secretary, bookkeeper, accountant, or other office personnel who does not engage in any conduct or activity specified in any of the definitions under RCW 18.85.011;
+
+. Employees of towns, cities, counties, or governmental entities involved in an acquisition of property for right-of-way, eminent domain, or threat of eminent domain;
+
+. Only with respect to the rental or lease of individual storage space, any person who owns or manages a self-service storage facility as defined under chapter 19.150 RCW;
+
+. Any person providing referrals to licensees who is not involved in the negotiation, execution of documents, or related real estate brokerage services, and compensation is not contingent upon receipt of compensation by the licensee or the real estate firm;
+
+. Certified public accountants if they do not promote the purchase, listing, sale, exchange, optioning, leasing, or renting of a specific real property interest;
+
+. Any natural persons or entities including title or escrow companies, escrow agents, attorneys, or financial institutions acting as escrow agents if they do not promote the purchase, listing, sale, exchange, optioning, leasing, or renting of a specific real property interest;
+
+. Investment counselors if they do not promote the purchase, listing, sale, exchange, optioning, leasing, or renting of a specific real property interest;
+
+. Common interest community managers who, in an advisory capacity and for compensation or in expectation of compensation, provide management or financial services, negotiate agreements to provide management or financial services, or represent themselves as providing management or financial services to an association governed by chapter 64.32, 64.34, or 64.38 RCW, if they do not promote the purchase, listing, sale, exchange, optioning, leasing, or renting of a specific real property interest. This subsection (12) applies regardless of whether a common interest community manager acts as an independent contractor to, employee of, general manager or executive director of, or agent of an association governed by chapter 64.32, 64.34, or 64.38 RCW; and
+
+. Any person employed or retained by, for, or on behalf of the owner or on behalf of a designated or managing broker if the person is limited in property management to any of the following activities:
+
+.. Delivering a lease application, a lease, or any amendment thereof to any person;
+
+.. Receiving a lease application, lease, or amendment thereof, a security deposit, rental payment, or any related payment for delivery to and made payable to the real estate firm or owner;
+
+.. Showing a rental unit to any person, or executing leases or rental agreements, and the employee or retainee is acting under the direct instruction of the owner or designated or managing broker;
+
+.. Providing information about a rental unit, a lease, an application for lease, or a security deposit and rental amounts to any prospective tenant; or
+
+.. Assisting in the performance of property management functions by carrying out administrative, clerical, financial, or maintenance tasks.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6325-S.SL.pdf?cite=2012%20c%20126%20§%201[2012 c 126 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2016[2008 c 23 § 16]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5267-S.SL.pdf?cite=1997%20c%20322%20§%207[1997 c 322 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c161.pdf?cite=1989%20c%20161%20§%201[1989 c 161 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c240.pdf?cite=1988%20c%20240%20§%2020[1988 c 240 § 20]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c370.pdf?cite=1977%20ex.s.%20c%20370%20§%209[1977 ex.s. c 370 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c139.pdf?cite=1972%20ex.s.%20c%20139%20§%2010[1972 ex.s. c 139 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1951c222.pdf?cite=1951%20c%20222%20§%209[1951 c 222 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1941c252.pdf?cite=1941%20c%20252%20§%203[1941 c 252 § 3]; Rem. Supp. 1941 § 8340-26; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1925ex1c129.pdf?cite=1925%20ex.s.%20c%20129%20§%204[1925 ex.s. c 129 § 4]; ]
+
+== 18.85.171 - Applications—Conditions—Fees.
+. A person desiring a license as a real estate firm shall apply on a form prescribed by the director. A person desiring a license as a real estate broker or managing broker must pay an examination fee and pass an examination. The person shall apply for an examination and for a license on a form prescribed by the director. Concurrently, the applicant shall meet the following requirements:
+
+.. Furnish other proof as the director may require concerning the honesty, truthfulness, and good reputation, as well as the identity, which may include fingerprints and criminal background checks, of any applicants for a license, or of the officers of a corporation, limited liability company, other legally recognized business entity, or the partners of a limited liability partnership or partnership, making the application;
+
+.. If the applicant is a legally recognized business entity, except a general partnership, it must be registered with the secretary of state and must furnish a list of governors that includes:
+
+... For corporations, a list of officers and directors and their addresses;
+
+... For limited liability companies, a list of members and managers and their addresses;
+
+... For limited liability partnerships, a list of the partners and their addresses; or
+
+... For other legal business entities, a list of the governors and their addresses;
+
+.. If the applicant is a general partnership, the applicant shall furnish a copy of the signed partnership agreement and a list of the partners thereof and their addresses;
+
+.. Unless the applicant is a corporation or limited liability company, complete a fingerprint-based background check through the Washington state patrol criminal identification system and through the federal bureau of investigation. The applicant must submit the fingerprints and required fee for the background check to the director for submission to the Washington state patrol. The director may consider the recent issuance of a license that required a fingerprint-based national criminal information background check, or recent employment in a position that required a fingerprint-based national criminal information background check, in addition to fingerprints to accelerate the licensing and endorsement process. The director may adopt rules to establish a procedure to allow a person covered by this section to have the person's background rechecked under this subsection upon application for a renewal license.
+
+. The director must develop by rule a procedure and schedule to ensure all applicants for licensure have a fingerprint and background check done on a regular basis.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1176.SL.pdf?cite=2019%20c%20442%20§%204[2019 c 442 § 4]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2017[2008 c 23 § 17]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5267-S.SL.pdf?cite=1997%20c%20322%20§%208[1997 c 322 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c332.pdf?cite=1987%20c%20332%20§%204[1987 c 332 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c72.pdf?cite=1980%20c%2072%20§%201[1980 c 72 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c25.pdf?cite=1979%20c%2025%20§%201[1979 c 25 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c370.pdf?cite=1977%20ex.s.%20c%20370%20§%203[1977 ex.s. c 370 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c24.pdf?cite=1977%20ex.s.%20c%2024%20§%202[1977 ex.s. c 24 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c42.pdf?cite=1973%201st%20ex.s.%20c%2042%20§%201[1973 1st ex.s. c 42 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1953c235.pdf?cite=1953%20c%20235%20§%206[1953 c 235 § 6]; 1951 c 222 § 10. Formerly:  1947 c 203 § 1, part; 1945 c 111 § 3, part; 1943 c 118 § 2, part; 1941 c 252 § 11, part; Rem. Supp. 1947 § 8340-34, part; prior: 1925 ex.s. c 129 §§ 10, 11.   1947 c 203 § 3; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1945c111.pdf?cite=1945%20c%20111%20§%206[1945 c 111 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1941c252.pdf?cite=1941%20c%20252%20§%2016[1941 c 252 § 16]; Rem. Supp. 1947 § 8340-39; ]
+
+== 18.85.181 - Examinations—Sample questions—Scope—Moneys from sale.
+The director shall provide each original applicant for an examination a sample list of questions and answers pertaining to real estate law and the operation of the business and may provide the same at cost to any licensee or to other members of the public. The director shall ascertain by written examination, that each applicant has:
+
+. An appropriate knowledge of the English language, including reading, writing, and mathematics;
+
+. An understanding of the principles of conveying real estate and the general purposes and legal effect of deeds, finance contracts, and leases;
+
+. An understanding of the principles of real estate investment, property valuation, and appraisals;
+
+. An understanding of real estate broker agency relationships;
+
+. An understanding of the principles of real estate practice and the canons of business ethics pertaining thereto; and
+
+. An understanding of the provisions of chapters 18.86 and 18.235 RCW and this chapter.
+
+The examination for real estate managing brokers shall be more exacting than that for real estate brokers.
+
+All moneys received for the sale of educational literature to licensees and members of the public shall be placed in the real estate commission fund.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2018[2008 c 23 § 18]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5267-S.SL.pdf?cite=1997%20c%20322%20§%209[1997 c 322 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c139.pdf?cite=1972%20ex.s.%20c%20139%20§%2011[1972 ex.s. c 139 § 11]; 1951 c 222 § 11. Formerly: 1947 c 203 § 2, part; 1945 c 111 § 4, part; 1941 c 252 § 12, part; Rem. Supp. 1947 § 8340-35, part; ]
+
+== 18.85.191 - License fees—Expiration—Renewal—Identification cards—Background checks.
+Before receiving a license, every real estate broker, managing broker, and firm must pay a license fee as prescribed by the director by rule. A license issued under the provisions of this chapter expires two years from the issuance date. Licenses issued to real estate firms that are partnerships, limited liability partnerships, limited liability companies, corporations, and other legally recognized business entities expire on the date when the registration or certificate of authority filed with the secretary of state expires. Licenses must be renewed every two years on or before the date established under this section and a biennial renewal license fee as prescribed by the director by rule must be paid. A license is considered expired when the licensee fails to meet the renewal requirements as of the date of renewal for that license.
+
+If the director does not receive the application for a renewal license on or before the renewal date, a penalty fee as prescribed by the director by rule shall be paid. Acceptance by the director of an application for renewal after the renewal date shall not be a waiver of the delinquency.
+
+The license of a person whose license renewal fee is not received within one year from the date of expiration is canceled. This person may obtain a new license by satisfying the procedures and requirements as prescribed by the director by rule.
+
+The director may issue to each active licensee a license and a pocket identification card in the form and size as prescribed by rule.
+
+The director must develop by rule a procedure and a schedule to ensure all active licensees and licensees applying for active status, renewal, or reinstatement have a fingerprint and background check done on a regular basis.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2019[2008 c 23 § 19]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5267-S.SL.pdf?cite=1997%20c%20322%20§%2010[1997 c 322 § 10]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5231.SL.pdf?cite=1991%20c%20225%20§%202[1991 c 225 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c161.pdf?cite=1989%20c%20161%20§%202[1989 c 161 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c332.pdf?cite=1987%20c%20332%20§%205[1987 c 332 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c25.pdf?cite=1979%20c%2025%20§%202[1979 c 25 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c370.pdf?cite=1977%20ex.s.%20c%20370%20§%204[1977 ex.s. c 370 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c24.pdf?cite=1977%20ex.s.%20c%2024%20§%203[1977 ex.s. c 24 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c139.pdf?cite=1972%20ex.s.%20c%20139%20§%2012[1972 ex.s. c 139 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1953c235.pdf?cite=1953%20c%20235%20§%207[1953 c 235 § 7]; 1951 c 222 § 12. Formerly:  1947 c 203 § 2, part; 1945 c 111 § 4, part; 1941 c 252 § 12, part; Rem. Supp. 1947 § 8340-35, part.  1947 c 203 § 1, part; 1945 c 111 § 3, part; 1943 c 118 § 2, part; 1941 c 252 § 11, part; Rem. Supp. 1947 § 8340-34, part; prior: 1925 ex.s. c 129 §§ 10, 11; ]
+
+== 18.85.201 - Responsibility for conduct of subordinates.
+Responsibility for any real estate broker, managing broker, or branch manager in conduct covered by this chapter shall rest with the designated broker to which such licensees shall be licensed.
+
+In addition to the designated broker, a branch manager shall bear responsibility for brokers and managing brokers operating under the branch manager at a branch office.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2020[2008 c 23 § 20]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5267-S.SL.pdf?cite=1997%20c%20322%20§%2012[1997 c 322 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c370.pdf?cite=1977%20ex.s.%20c%20370%20§%206[1977 ex.s. c 370 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c139.pdf?cite=1972%20ex.s.%20c%20139%20§%2014[1972 ex.s. c 139 § 14]; ]
+
+== 18.85.211 - Licenses—Renewal—Continuing education.
+All real estate brokers and managing brokers shall furnish proof as prescribed by rule of the director that they have successfully completed at least the required minimum number of thirty clock hours of instruction every two years in real estate courses approved by the director to renew their licenses. The director may adopt rules to limit the number of hours of distance education courses that may be used for license renewal. Up to fifteen clock hours of instruction in excess of the required thirty clock hours acquired within the immediately preceding two-year period may be carried forward for credit in a subsequent two-year period.  Examinations shall not be required to fulfill any part of the education requirement in this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2022[2008 c 23 § 22]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5267-S.SL.pdf?cite=1997%20c%20322%20§%2013[1997 c 322 § 13]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5231.SL.pdf?cite=1991%20c%20225%20§%201[1991 c 225 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c205.pdf?cite=1988%20c%20205%20§%201[1988 c 205 § 1]; ]
+
+== 18.85.221 - Licenses—Names—Restrictions as to use.
+No license issued under the provisions of this chapter shall authorize any person other than the person named on the license to do any act by virtue thereof nor to operate in any other manner than under the name appearing on the license. A real estate firm has the option to utilize one or more assumed names in the conduct and operation of the firm's real estate business. However, before using a name other than that appearing on the license, the firm must obtain a separate license for each and every additional assumed name. All real estate brokerage services shall be conducted in the name of the real estate firm or its licensed assumed name or names.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2023[2008 c 23 § 23]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5267-S.SL.pdf?cite=1997%20c%20322%20§%2014[1997 c 322 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c139.pdf?cite=1972%20ex.s.%20c%20139%20§%2016[1972 ex.s. c 139 § 16]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1951c222.pdf?cite=1951%20c%20222%20§%2014[1951 c 222 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1945c111.pdf?cite=1945%20c%20111%20§%202[1945 c 111 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1941c252.pdf?cite=1941%20c%20252%20§%2010[1941 c 252 § 10]; Rem. Supp. 1945 § 8340-33; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1925ex1c129.pdf?cite=1925%20ex.s.%20c%20129%20§%209[1925 ex.s. c 129 § 9]; ]
+
+== 18.85.231 - Licenses—Office or records depositories required—Record maintenance and production.
+Every licensed real estate firm must have and maintain an office or records depositories accessible in this state to representatives of the director. The firm must maintain and produce a complete set of records as required by this chapter. The director may prescribe rules for alternative and electronic record storage.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2024[2008 c 23 § 24]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5267-S.SL.pdf?cite=1997%20c%20322%20§%2015[1997 c 322 § 15]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1957c52.pdf?cite=1957%20c%2052%20§%2041[1957 c 52 § 41]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1951c222.pdf?cite=1951%20c%20222%20§%2015[1951 c 222 § 15]; 1947 c 203 § 4, part; 1945 c 111 § 7, part; 1943 c 118 § 4, part; 1941 c 252 § 18, part; Rem. Supp. 1947 § 8340-41, part; prior: 1925 ex.s. c 129 § 12, part; ]
+
+== 18.85.241 - Licenses—Branch office.
+A designated broker may apply to the director for authority to establish one or more branch offices under the same name as the real estate firm upon the payment of a fee as prescribed by the director by rule. The director shall issue a duplicate license for each of the branch offices showing the location of the real estate firm and the particular branch. Each duplicate license shall be prominently displayed in the office for which it is issued. Each branch office shall be required to have a branch manager who shall be a managing broker authorized by the designated broker to perform the duties of a branch manager.
+
+A branch office license shall not be required where real estate sales activity is conducted on and, limited to a particular subdivision or tract, if a licensed office or branch office is located within thirty-five miles of the subdivision or tract.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2025[2008 c 23 § 25]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c161.pdf?cite=1989%20c%20161%20§%203[1989 c 161 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c332.pdf?cite=1987%20c%20332%20§%206[1987 c 332 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c24.pdf?cite=1977%20ex.s.%20c%2024%20§%205[1977 ex.s. c 24 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c139.pdf?cite=1972%20ex.s.%20c%20139%20§%2017[1972 ex.s. c 139 § 17]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1957c52.pdf?cite=1957%20c%2052%20§%2042[1957 c 52 § 42]; 1947 c 203 § 4, part; 1945 c 111 § 7, part; 1943 c 118 § 4, part; 1941 c 252 § 18, part; Rem. Supp. 1947 § 8340-41, part; prior: 1925 ex.s. c 129 § 12, part; ]
+
+== 18.85.255 - Licenses—Change of location.
+A designated broker, managing broker, or firm shall give notice in writing to the director of any change of that licensee's business or records depository location. Upon the surrender of the original license for the business and a payment of a fee as prescribed by the director by rule, the director shall issue a new license covering the new location.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2026[2008 c 23 § 26]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c332.pdf?cite=1987%20c%20332%20§%207[1987 c 332 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c266.pdf?cite=1971%20ex.s.%20c%20266%20§%2017[1971 ex.s. c 266 § 17]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1957c52.pdf?cite=1957%20c%2052%20§%2043[1957 c 52 § 43]; 1947 c 203 § 4, part; 1945 c 111 § 7, part; 1943 c 118 § 4, part; 1941 c 252 § 18, part; Rem. Supp. 1947 § 8340-41, part; prior: 1925 ex.s. c 129 § 12, part; ]
+
+== 18.85.265 - Inactive licenses.
+. Any license issued under this chapter and not otherwise revoked is deemed "inactive" at any time it is delivered to the director. Until reissued under this chapter, the holder of an inactive license is prohibited from conducting real estate brokerage services.
+
+. An inactive license may be renewed on the same terms and conditions as an active license, except that a person with an inactive license need not comply with the education requirements of RCW 18.85.101(1)(c) or 18.85.211. Failure to renew shall result in cancellation in the same manner as an active license.
+
+. An inactive license may be placed in an active status upon completion of an application as provided by the director and upon compliance with this chapter and the rules adopted pursuant thereto. If a holder has an inactive license for more than three years, the holder must show proof of successfully completing a thirty clock hour course in real estate within one year before the application for active status. Holders employed by the state and conducting real estate transactions on behalf of the state are exempt from this course requirement.
+
+. The provisions of this chapter relating to the denial, suspension, and revocation of a license are applicable to an inactive license as well as an active license, except that when proceedings to suspend or revoke an inactive license have been initiated, the license shall remain inactive until the proceedings have been completed.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2028[2008 c 23 § 28]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6284.SL.pdf?cite=1994%20c%20291%20§%203[1994 c 291 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c205.pdf?cite=1988%20c%20205%20§%204[1988 c 205 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c514.pdf?cite=1987%20c%20514%20§%201[1987 c 514 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c332.pdf?cite=1987%20c%20332%20§%2017[1987 c 332 § 17]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c162.pdf?cite=1985%20c%20162%20§%204[1985 c 162 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c370.pdf?cite=1977%20ex.s.%20c%20370%20§%208[1977 ex.s. c 370 § 8]; ]
+
+== 18.85.275 - Designated broker or managing broker—Authority and duties.
+. The designated broker or managing broker shall supervise the conduct of brokers and managing brokers for compliance with this chapter, chapter 18.235 RCW, and RCW 18.86.030.
+
+. Listings, transactions, management agreements, and other contracts relating to providing brokerage services are property of the real estate firm. Brokers shall timely deliver to their appointed managing broker all funds and records required to be held or maintained by the real estate firm. A managing broker is responsible for such funds and records only after they are received from the broker. A managing broker shall timely deliver to the designated broker all funds and records required to be held or maintained by the real estate firm. The designated broker is responsible for such funds and records only after they are received from the managing broker or broker.
+
+. The designated broker may delegate by written agreement the duties of safe handling of client funds, maintenance of trust accounts, and transaction and trust account records, along with supervision of brokers, to a managing broker licensed to the firm. The designated broker shall maintain a record of the firm's managing brokers and delegations to managing brokers.
+
+. The designated broker or the designated broker's delegate has the authority to amend, modify, bind, create, rescind, terminate, or release real estate brokerage service contracts on behalf of the real estate firm. The designated broker has the authority to accept new or transferred licensees to represent the real estate firm.
+
+. A broker who supervises or exercises right of control over other brokers in the performance of real estate brokerage services must be licensed as a managing broker.
+
+. During the first two years of a broker's licensure, a managing broker must provide a heightened level of supervision as provided by rule of the director.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2021[2008 c 23 § 21]; ]
+
+== 18.85.285 - Transactions and recordkeeping—Trust accounts—Requirements.
+. Brokers and managing brokers must submit complete copies of their transactions to their firm. The designated broker shall keep adequate records of all real estate transactions handled by or through the firm or firms to which the designated broker is registered. The records shall include, but are not limited to, a copy of the purchase and sale agreement, earnest money receipt, and an itemization of the receipts and disbursements with each transaction. These records and all other records specified by the director by rule are open to inspection by the director or the director's authorized representatives.
+
+. If any licensee exercises control over real estate transaction funds, those funds are considered trust funds.
+
+. Every real estate licensee shall deliver or cause to be delivered to all parties signing the same, within a reasonable time after signing, purchase and sale agreements, listing agreements, and all other like or similar instruments signed by the parties.
+
+. Every real estate firm that keeps separate real estate trust fund accounts must keep the accounts in a recognized Washington state depository. A real estate firm must maintain an adequate amount of funds in the trust fund accounts to facilitate the opening of the trust fund accounts or to prevent the closing of the trust fund accounts.
+
+. All licensees shall keep separate and apart and physically segregated from the licensees' own funds, all funds or moneys including advance fees of clients that are being held by the licensees pending the closing of a real estate sale or transaction, or that have been collected for the clients and are being held for disbursement for or to the clients.
+
+. A firm is not required to maintain a trust fund account for transactions concerning a purchase and sale agreement that instructs the broker to deliver the earnest money check directly to a named closing agent or to the seller.
+
+. Brokers must deposit all funds into their firm's trust bank account the next banking day following receipt of the funds unless the purchase and sale agreement provides for deferred deposit or delivery. In that event, the broker must promptly deposit or deliver funds in accordance with the terms of the purchase and sale agreement.
+
+. [Empty]
+.. If a real estate broker receives or maintains earnest money or client funds for deposit, the real estate firm shall maintain a pooled interest-bearing trust account for deposit of client funds, with the exception of property management trust accounts.
+
+.. The interest accruing on this account, net of any reasonable and appropriate financial institution service charges or fees, shall be paid to the state treasurer for deposit in the Washington housing trust fund created in RCW 43.185.030 and the real estate education program account created in RCW 18.85.321. Appropriate service charges or fees are those charges made by financial institutions on other demand deposit or "now" accounts. The firm or designated broker is not required to notify the client of the intended use of the funds.
+
+.. The department shall adopt rules that will serve as guidelines in the choice of an account specified in this subsection.
+
+. If trust funds are claimed by more than one party, the designated broker or designated broker's delegate must promptly provide written notification to all contracting parties to a real estate transaction of the intent of the designated broker or designated broker's delegate to disburse client funds. The notification must include the names and addresses of all parties to the contract, the amount of money held and to whom it will be disbursed, and the date of disbursement that must occur no later than thirty consecutive days after the notification date.
+
+. For an account created under subsection (8) of this section, the designated or managing broker shall direct the depository institution to:
+
+.. Remit interest or dividends, net of any reasonable and appropriate service charges or fees, on the average monthly balance in the account, or as otherwise computed in accordance with an institution's standard accounting practice, at least quarterly, to the state treasurer for deposit in the housing trust fund created by RCW 43.185.030 and the real estate education program account created in RCW 18.85.321; and
+
+.. Transmit to the *director of community, trade, and economic development a statement showing the name of the person or entity for whom the remittance is spent, the rate of interest applied, and the amount of service charges deducted, if any, and the account balance(s) of the period in which the report is made, with a copy of the statement to be transmitted to the depositing person or firm.
+
+. The *director of community, trade, and economic development shall forward a copy of the reports required by subsection (10) of this section to the department to aid in the enforcement of the requirements of this section consistent with the normal enforcement and auditing practices of the department.
+
+. [Empty]
+.. This section does not relieve any real estate broker, managing broker, or firm of any obligation with respect to the safekeeping of clients' funds.
+
+.. Any violation by real estate brokers, managing brokers, or firms of any of the provisions of this section, RCW 18.85.361, or chapter 18.235 RCW is grounds for disciplinary action against the licenses issued to the brokers, managing brokers, or firms.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2037[2008 c 23 § 37]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5442.SL.pdf?cite=1999%20c%2048%20§%201[1999 c 48 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1014.SL.pdf?cite=1995%20c%20399%20§%207[1995 c 399 § 7]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5358.SL.pdf?cite=1993%20c%2050%20§%202[1993 c 50 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c286.pdf?cite=1988%20c%20286%20§%202[1988 c 286 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c513.pdf?cite=1987%20c%20513%20§%201[1987 c 513 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1957c52.pdf?cite=1957%20c%2052%20§%2044[1957 c 52 § 44]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1953c235.pdf?cite=1953%20c%20235%20§%2013[1953 c 235 § 13]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1951c222.pdf?cite=1951%20c%20222%20§%2019[1951 c 222 § 19]; 1947 c 203 § 4, part; 1945 c 111 § 7, part; 1943 c 118 § 4, part; 1941 c 252 § 18, part; Rem. Supp. 1947 § 8340-41, part; prior: 1925 ex.s. c 129 § 12, part; ]
+
+== 18.85.291 - Brokers and managing brokers—Termination of affiliation with firm—Notice.
+The licenses of a real estate broker and managing broker shall be kept at all times by their firm and when real estate brokers or managing brokers cease to represent the firm, their licenses shall cease to be in force. Brokers and managing brokers must submit written notification to the designated broker for their firm when they terminate affiliation with their firm. The firm, through the designated broker, shall give notice to the director and such notice shall be accompanied by and include the surrender of the broker's or managing broker's license. Failure of any designated broker for the firm to promptly notify the director of a broker's or managing broker's termination after demand by the affected broker or managing broker shall be grounds for disciplinary action against the firm and designated broker. Upon application of the broker or managing broker, and the payment of a fee as prescribed by the director by rule, the director shall issue a new license for the unexpired term, if the broker or managing broker is otherwise entitled thereto. When the firm terminates a broker's or managing broker's services for a violation of this chapter, or chapter 18.86 or 18.235 RCW, the firm shall immediately file a written statement of the facts in reference thereto with the director.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2040[2008 c 23 § 40]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c332.pdf?cite=1987%20c%20332%20§%2014[1987 c 332 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1953c235.pdf?cite=1953%20c%20235%20§%2014[1953 c 235 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1947c203.pdf?cite=1947%20c%20203%20§%207[1947 c 203 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1943c118.pdf?cite=1943%20c%20118%20§%207[1943 c 118 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1941c252.pdf?cite=1941%20c%20252%20§%2026[1941 c 252 § 26]; Rem. Supp. 1947 § 8340-49; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1925ex1c129.pdf?cite=1925%20ex.s.%20c%20129%20§%2021[1925 ex.s. c 129 § 21]; ]
+
+== 18.85.301 - Sharing commissions.
+. Except under subsection (4) of this section, it is unlawful for any licensed firm, broker, or managing broker to pay any part of the licensee's commission or other compensation to any person who performs real estate brokerage services and who is not a licensed firm, real estate broker, or managing broker in any state of the United States or its possessions or any foreign jurisdiction with a real estate regulatory program.
+
+. Except under subsection (4) of this section, it is unlawful for any licensed real estate firm to pay any part of the firm's commission from brokerage services or other compensation to a real estate broker or managing broker not licensed to do business for the firm.
+
+. Except under subsection (4) of this section, it is unlawful for licensed brokers or managing brokers to pay any part of their commission from brokerage services or other compensation to any person, whether licensed or not, except through the firm's designated broker.
+
+. A commission may be shared with a manufactured housing retailer, licensed under chapter 46.70 RCW, on the sale of personal property manufactured housing sold in conjunction with the sale or lease of land.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2041[2008 c 23 § 41]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=1998%20c%2046%20§%203[1998 c 46 § 3]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5267-S.SL.pdf?cite=1997%20c%20322%20§%2020[1997 c 322 § 20]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1953c235.pdf?cite=1953%20c%20235%20§%2015[1953 c 235 § 15]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1943c118.pdf?cite=1943%20c%20118%20§%206[1943 c 118 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1941c252.pdf?cite=1941%20c%20252%20§%2024[1941 c 252 § 24]; Rem. Supp. 1943 § 8340-47; ]
+
+== 18.85.311 - Distribution of interest from brokers' trust accounts.
+Remittances received by the state treasurer pursuant to RCW 18.85.285 shall be divided between the housing trust fund created by RCW 43.185.030, which shall receive seventy-five percent and the real estate education program account created by RCW 18.85.321, which shall receive twenty-five percent.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2038[2008 c 23 § 38]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5358.SL.pdf?cite=1993%20c%2050%20§%203[1993 c 50 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c513.pdf?cite=1987%20c%20513%20§%209[1987 c 513 § 9]; ]
+
+== 18.85.321 - Real estate education program account.
+The real estate education program account is created in the custody of the state treasurer. All moneys received for credit to this account pursuant to RCW 18.85.311 and all moneys derived from fines imposed under this chapter shall be deposited into the account. Expenditures from the account may be made only upon the authorization of the director or a duly authorized representative of the director, and may be used only for the purposes of carrying out the director's programs for education of real estate licensees, others in the real estate industry, and members of the public as described in RCW 18.85.041(6). All expenses and costs relating to the implementation or administration of, or payment of contract fees or charges for, the director's real estate education programs may be paid from this account. The account is subject to appropriation under chapter 43.88 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2039[2008 c 23 § 39]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5267-S.SL.pdf?cite=1997%20c%20322%20§%2019[1997 c 322 § 19]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5358.SL.pdf?cite=1993%20c%2050%20§%204[1993 c 50 § 4]; ]
+
+== 18.85.331 - License required—Prerequisite to suit for commission.
+It is unlawful for any person to act as a real estate broker, managing broker, or real estate firm without first obtaining a license therefor, and otherwise complying with the provisions of this chapter.
+
+No suit or action shall be brought for the collection of compensation as a real estate broker, real estate firm, managing broker, or designated broker, without alleging and proving that the plaintiff was a duly licensed real estate broker, managing broker, or real estate firm before the time of offering to perform any real estate transaction or procuring any promise or contract for the payment of compensation for any contemplated real estate transaction.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2015[2008 c 23 § 15]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5267-S.SL.pdf?cite=1997%20c%20322%20§%206[1997 c 322 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c139.pdf?cite=1972%20ex.s.%20c%20139%20§%209[1972 ex.s. c 139 § 9]; 1951 c 222 § 8. Formerly:   1941 c 252 § 6; Rem. Supp. 1941 § 8340-29.   1941 c 252 § 25; Rem. Supp. 1941 § 8340-48; ]
+
+== 18.85.351 - License suspension—Noncompliance with support order—Reissuance.
+The director shall immediately suspend the license of any broker or managing broker who has been certified pursuant to RCW 74.20A.320 by the department of social and health services as an individual who is not in compliance with a support order or a visitation order. If the individual has continued to meet all other requirements for reinstatement during the suspension, reissuance of the license is automatic upon the director's receipt of a release issued by the department of social and health services stating that the individual is in compliance with the order.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2031[2008 c 23 § 31]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/3901.SL.pdf?cite=1997%20c%2058%20§%20826[1997 c 58 § 826]; ]
+
+== 18.85.361 - Disciplinary action—Grounds.
+In addition to the unprofessional conduct described in RCW 18.235.130, the director may take disciplinary action against any person engaged in the business or acting in the capacity of a real estate broker, managing broker, designated broker, or real estate firm, regardless of whether the transaction was for the person's own account or in a capacity as broker, managing broker, designated broker, or real estate firm, and may impose any of the sanctions and fines specified in RCW 18.235.110 for any holder or applicant who is guilty of:
+
+. Violating any of the provisions of this chapter or any lawful rules made by the director pursuant thereto or violating a provision of chapter 64.36, 19.105, or 18.235 RCW or RCW 18.86.030 or the rules adopted under those chapters or section;
+
+. Making, printing, publishing, distributing, or causing, authorizing, or knowingly permitting the making, printing, publication or distribution of false statements, descriptions or promises of such character as to reasonably induce any person to act thereon, if the statements, descriptions, or promises purport to be made or to be performed by either the licensee or his or her principal and the licensee then knew or, by the exercise of reasonable care and inquiry, could have known, of the falsity of the statements, descriptions or promises;
+
+. Knowingly committing, or being a party to, any material fraud, misrepresentation, concealment, conspiracy, collusion, trick, scheme, or device whereby any other person lawfully relies upon the word, representation or conduct of the licensee;
+
+. Accepting the services of, or continuing in a representative capacity, any broker or managing broker who has not been granted a license, or after his or her license has been revoked or during a suspension thereof;
+
+. Conversion of any money, contract, deed, note, mortgage, or abstract or other evidence of title, to the person's own use or to the use of that person's principal or of any other person, when delivered in trust or on condition, in violation of the trust or before the happening of the condition; and failure to return any money or contract, deed, note, mortgage, abstract, or other evidence of title within thirty days after the owner thereof is entitled thereto, and makes demand therefor, is prima facie evidence of such conversion;
+
+. Failing, upon demand, to disclose any information within the person's knowledge, or to produce any document, book, or record in the person's possession for inspection by the director or the director's authorized representatives acting by authority of law;
+
+. Continuing to sell any real estate, or operating according to a plan of selling, whereby the interests of the public are endangered, after the director has, by order in writing, stated objections thereto;
+
+. Advertising in any manner without including the real estate firm's name or assumed name as licensed in a clear and conspicuous manner in the advertisement; except, that real estate brokers, managing brokers, or firms advertising their personally owned real property must only disclose that they hold a real estate license;
+
+. Accepting other than cash or its equivalent as earnest money unless that fact is communicated to the owner before the owner's acceptance of the offer to purchase, and such fact is shown in the purchase and sale agreement;
+
+. Charging or accepting compensation from more than one party in any one transaction without first making full disclosure in writing of all the facts to all the parties interested in the transaction;
+
+. Accepting, taking, or charging any undisclosed commission, rebate, or direct profit on expenditures made for the principal;
+
+. Accepting employment or compensation for appraisal of real property contingent upon reporting a predetermined value;
+
+. Issuing a report on any real property in which the broker, managing broker, or real estate firm has an interest unless that interest is clearly stated in the report;
+
+. Misrepresentation of membership in any state or national real estate association;
+
+. Discrimination against any person in hiring or in real estate brokerage service activity, on the basis of any of the provisions of any local, county, state, or federal antidiscrimination law;
+
+. Failing to keep an escrow or trustee account of funds deposited relating to a real estate transaction, for a period of three years, showing to whom paid, and other pertinent information as the director may require, such records to be available to the director, or the director's representatives, on demand, or upon written notice given to the bank;
+
+. In the case of a firm and its designated broker, failing to preserve records relating to any real estate transaction for three years following the submission of the records to the firm;
+
+. Failing to furnish a copy of any listing, sale, lease, or other contract relevant to a real estate transaction to all signatories thereof within a reasonable time following execution;
+
+. In the case of a broker or managing broker, acceptance of a commission or any valuable consideration for the performance of any acts specified in this chapter, from any person, except the licensed real estate firm with whom the broker or managing broker is licensed;
+
+. To direct any transaction involving his or her principal, to any lending institution for financing or to any escrow company, in expectation of receiving a kickback or rebate therefrom, without first disclosing the expectation to his or her principal;
+
+. Buying, selling, or leasing directly, or through a third party, any interest in real property without disclosing in writing that the person is a real estate licensee;
+
+. In the case of real estate firms, and managing and designated brokers, failing to exercise adequate supervision over the activities of their brokers and managing brokers within the scope of this chapter;
+
+. Any conduct in a real estate transaction which demonstrates bad faith, dishonesty, untrustworthiness, or incompetence;
+
+. Acting as a vehicle dealer, as defined in RCW 46.70.011, without having a license to do so; or
+
+. Failing to ensure that the title is transferred under chapter 46.12 RCW when engaging in a transaction involving a mobile or manufactured home as a broker, managing or designated broker, or firm.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2032[2008 c 23 § 32]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2512-S.SL.pdf?cite=2002%20c%2086%20§%20230[2002 c 86 § 230]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5253.SL.pdf?cite=1999%20c%2046%20§%201[1999 c 46 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5267-S.SL.pdf?cite=1997%20c%20322%20§%2017[1997 c 322 § 17]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1659.SL.pdf?cite=1996%20c%20179%20§%2018[1996 c 179 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c85.pdf?cite=1990%20c%2085%20§%201[1990 c 85 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c205.pdf?cite=1988%20c%20205%20§%205[1988 c 205 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c370.pdf?cite=1987%20c%20370%20§%2015[1987 c 370 § 15]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c332.pdf?cite=1987%20c%20332%20§%209[1987 c 332 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c25.pdf?cite=1979%20c%2025%20§%204[1979 c 25 § 4]; prior:  1977 ex.s. c 261 § 1; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c204.pdf?cite=1977%20ex.s.%20c%20204%20§%201[1977 ex.s. c 204 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c139.pdf?cite=1972%20ex.s.%20c%20139%20§%2019[1972 ex.s. c 139 § 19]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c22.pdf?cite=1967%20c%2022%20§%203[1967 c 22 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1953c235.pdf?cite=1953%20c%20235%20§%2012[1953 c 235 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1951c222.pdf?cite=1951%20c%20222%20§%2016[1951 c 222 § 16]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1947c203.pdf?cite=1947%20c%20203%20§%205[1947 c 203 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1945c111.pdf?cite=1945%20c%20111%20§%208[1945 c 111 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1943c118.pdf?cite=1943%20c%20118%20§%205[1943 c 118 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1941c252.pdf?cite=1941%20c%20252%20§%2019[1941 c 252 § 19]; Rem. Supp. 1947 § 8340-42; prior:  1925 ex.s. c 129 § 13; ]
+
+== 18.85.370 - Disciplinary action—Director's delegation of authority.
+The director may authorize one or more assistants to perform the director's duties with reference to disciplinary action.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2033[2008 c 23 § 33]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c205.pdf?cite=1988%20c%20205%20§%206[1988 c 205 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c332.pdf?cite=1987%20c%20332%20§%2010[1987 c 332 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1957c52.pdf?cite=1957%20c%2052%20§%2045[1957 c 52 § 45]; 1945 c 111 § 9, part; 1941 c 252 § 20, part; 1925 ex.s. c 129 § 14, part; Rem. Supp. 1945 § 8340-43, part; ]
+
+== 18.85.380 - Disciplinary action—Hearing—Conduct of.
+The hearing officer shall cause a transcript of all adjudicative proceedings to be kept by a reporter and shall upon request after completion thereof, furnish a copy of the transcript to the licensed person or applicant accused in the proceedings at the expense of the licensee or applicant. The hearing officer shall certify the transcript of proceedings to be true and correct. If the director finds that the statement or accusation is not proved by a fair preponderance of evidence, the director shall notify the licensee or applicant and the person making the accusation and shall dismiss the case.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2034[2008 c 23 § 34]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2512-S.SL.pdf?cite=2002%20c%2086%20§%20231[2002 c 86 § 231]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c332.pdf?cite=1987%20c%20332%20§%2012[1987 c 332 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1951c222.pdf?cite=1951%20c%20222%20§%2024[1951 c 222 § 24]; ]
+
+== 18.85.390 - Disciplinary action—Order—Appeal.
+If the director decides, after an adjudicative hearing, that the evidence supports the accusation by a preponderance of evidence, the director may impose sanctions authorized under RCW 18.85.041. In such event the director shall enter an order to that effect and shall file the same in the director's office and immediately mail a copy to the affected party at the address of record with the department. Upon instituting appeal in the superior court, the appellant shall give a cash bond to the state of Washington, which bond shall be filed with the clerk of the court, in the sum of one thousand dollars to be approved by the judge of said court, conditioned to pay all costs that may be awarded against an appellant in the event of an adverse decision, the bond and notice to be filed within thirty days from the date of the director's decision.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2035[2008 c 23 § 35]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2512-S.SL.pdf?cite=2002%20c%2086%20§%20232[2002 c 86 § 232]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c175.pdf?cite=1989%20c%20175%20§%2066[1989 c 175 § 66]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c205.pdf?cite=1988%20c%20205%20§%208[1988 c 205 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c332.pdf?cite=1987%20c%20332%20§%2013[1987 c 332 § 13]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c139.pdf?cite=1972%20ex.s.%20c%20139%20§%2020[1972 ex.s. c 139 § 20]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1951c222.pdf?cite=1951%20c%20222%20§%2025[1951 c 222 § 25]; ]
+
+== 18.85.401 - Appeal—Transcript—Cost.
+The director shall prepare at appellant's expense and shall certify a transcript of the whole record of all matters involved in the appeal, which the director shall deliver to the court in which the appeal is pending. The appellant is notified of the filing of the transcript and the cost thereof and shall within fifteen days thereafter pay the cost of said transcript. If the cost is not paid in full within fifteen days the appeal is dismissed.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2036[2008 c 23 § 36]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5267-S.SL.pdf?cite=1997%20c%20322%20§%2018[1997 c 322 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1951c222.pdf?cite=1951%20c%20222%20§%2026[1951 c 222 § 26]; ]
+
+== 18.85.411 - Violations—Penalty.
+Any person acting as a real estate broker, managing broker, or real estate firm, without a license, or violating any of the provisions of this chapter, is guilty of a gross misdemeanor.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2042[2008 c 23 § 42]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5267-S.SL.pdf?cite=1997%20c%20322%20§%2021[1997 c 322 § 21]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1951c222.pdf?cite=1951%20c%20222%20§%2020[1951 c 222 § 20]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1941c252.pdf?cite=1941%20c%20252%20§%2023[1941 c 252 § 23]; Rem. Supp. 1941 § 8340-46; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1925ex1c129.pdf?cite=1925%20ex.s.%20c%20129%20§%2017[1925 ex.s. c 129 § 17]; ]
+
+== 18.85.420 - Attorney general as legal advisor.
+The attorney general shall give the director opinions upon all questions of law relating to the construction or interpretation of this chapter, or arising in the administration thereof, that may be submitted to the director, and shall act as attorney for the director in all actions and proceedings brought by or against the director under or pursuant to any provisions of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2043[2008 c 23 § 43]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5267-S.SL.pdf?cite=1997%20c%20322%20§%2023[1997 c 322 § 23]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1941c252.pdf?cite=1941%20c%20252%20§%209[1941 c 252 § 9]; Rem. Supp. 1941 § 8340-32; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1925ex1c129.pdf?cite=1925%20ex.s.%20c%20129%20§%208[1925 ex.s. c 129 § 8]; ]
+
+== 18.85.430 - Enforcement provisions.
+The director may refer a complaint for violation of any section of this chapter before any court of competent jurisdiction.
+
+The prosecuting attorney of each county shall prosecute any violation of the provisions of this chapter that occurs in the prosecuting attorney's county, and if the prosecuting attorney fails to act, the director may request the attorney general to take action in lieu of the prosecuting attorney.
+
+Process issued by the director shall extend to all parts of the state, and may be served by any person authorized to serve process of courts of record, or may be mailed by certified mail, return receipt requested, to the licensee's last business address of record in the office of the director.
+
+Whenever the director believes from evidence satisfactory to the director that a person has violated any of the provisions of this chapter, or any order, license, decision, demand or requirement, or any part or provision thereof, the director may bring an action, in the superior court in the county wherein the person resides, to enjoin that person from continuing the violation or engaging therein or doing any act or acts in furtherance thereof. In this action an order or judgment may be entered awarding a preliminary or final injunction as may be proper.
+
+The director may petition the superior court in any county in this state for the immediate appointment of a receiver to take over, operate or close any real estate office in this state which is found, upon inspection of its books and records to be operating in violation of the provisions of this chapter, pending a hearing.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2044[2008 c 23 § 44]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5267-S.SL.pdf?cite=1997%20c%20322%20§%2024[1997 c 322 § 24]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c22.pdf?cite=1967%20c%2022%20§%202[1967 c 22 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1957c52.pdf?cite=1957%20c%2052%20§%2048[1957 c 52 § 48]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1953c235.pdf?cite=1953%20c%20235%20§%2016[1953 c 235 § 16]; 1941 c 252 § 21, part; Rem. Supp. 1941 § 8340-44, part.   1947 c 203 § 6; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1941c252.pdf?cite=1941%20c%20252%20§%2022[1941 c 252 § 22]; Rem. Supp. 1947 § 8340-45; ]
+
+== 18.85.440 - Uniform regulation of business and professions act.
+The uniform regulation of business and professions act, chapter 18.235 RCW, governs unlicensed practice, the issuance and denial of licenses, and the discipline of licensees under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2512-S.SL.pdf?cite=2002%20c%2086%20§%20233[2002 c 86 § 233]; ]
+
+== 18.85.451 - Fee assessed. (Expires September 30, 2025.)
+. A fee of ten dollars is created and shall be assessed on each real estate broker and managing broker's original license and upon each renewal of a license with an expiration date after October 1, 1999, including renewals of inactive licenses.
+
+. This section expires September 30, 2025.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5288.SL.pdf?cite=2015%20c%20175%20§%201[2015 c 175 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2697.SL.pdf?cite=2010%20c%20156%20§%201[2010 c 156 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2045[2008 c 23 § 45]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1141.SL.pdf?cite=2005%20c%20185%20§%201[2005 c 185 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5720.SL.pdf?cite=1999%20c%20192%20§%201[1999 c 192 § 1]; ]
+
+== 18.85.461 - Washington real estate research account—Creation. (Expires September 30, 2025.)
+. The Washington real estate research account is created in the state treasury. All receipts from the fee under RCW 18.85.451 shall be deposited into the account. Moneys in the account may be spent only after appropriation. Expenditures from the account may be used only for the purposes of RCW 18.85.471.
+
+. During the 2015-2017 fiscal biennium, the legislature may transfer moneys from the real estate research account to the state general fund such amounts as reflect the excess fund balance of the account.
+
+. This section expires September 30, 2025.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2376-S.SL.pdf?cite=2016%20sp.s.%20c%2036%20§%20915[2016 sp.s. c 36 § 915]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5288.SL.pdf?cite=2015%20c%20175%20§%202[2015 c 175 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2697.SL.pdf?cite=2010%20c%20156%20§%202[2010 c 156 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2046[2008 c 23 § 46]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1141.SL.pdf?cite=2005%20c%20185%20§%202[2005 c 185 § 2]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5720.SL.pdf?cite=1999%20c%20192%20§%202[1999 c 192 § 2]; ]
+
+== 18.85.471 - Real estate research center—Purpose. (Expires September 30, 2025.)
+. The purpose of a real estate research center in Washington state is to provide credible research, value-added information, education services, and project-oriented research to real estate licensees, real estate consumers, real estate service providers, institutional customers, public agencies, and communities in Washington state and the Pacific Northwest region. The center may:
+
+.. Conduct studies and research on affordable housing and strategies to meet the affordable housing needs of the state;
+
+.. Conduct studies in all areas directly or indirectly related to real estate and urban or rural economics and economically isolated communities;
+
+.. Disseminate findings and results of real estate research conducted at or by the center or elsewhere, using a variety of dissemination media;
+
+.. Supply research results and educational expertise to the Washington state real estate commission to support its regulatory functions, as requested;
+
+.. Prepare information of interest to real estate consumers and make the information available to the general public, universities, or colleges, and appropriate state agencies;
+
+.. Encourage economic growth and development within the state of Washington;
+
+.. Support the professional development and continuing education of real estate licensees in Washington;
+
+.. Study and recommend changes in state statutes relating to real estate; and
+
+.. Develop a vacancy rate standard for low-income housing in the state.
+
+. The director shall establish a memorandum of understanding with an institution of higher learning that establishes a real estate research center for the purposes under subsection (1) of this section.
+
+. This section expires September 30, 2025.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5288.SL.pdf?cite=2015%20c%20175%20§%203[2015 c 175 § 3]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2697.SL.pdf?cite=2010%20c%20156%20§%203[2010 c 156 § 3]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1141.SL.pdf?cite=2005%20c%20185%20§%203[2005 c 185 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2060-S.SL.pdf?cite=2002%20c%20294%20§%205[2002 c 294 § 5]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5720.SL.pdf?cite=1999%20c%20192%20§%203[1999 c 192 § 3]; ]
+
+== 18.85.481 - Changes in licensing categories—Effect on status of proceedings, existing rules, forms, and licenses.
+. The changes made by chapter 23, Laws of 2008 regarding the licensing categories do not affect the status of a complaint, investigation, or other proceeding. A rule or form adopted by the director before July 1, 2010, remains in effect as a rule or form of the department until amended or changed.
+
+. After July 1, 2010, a salesperson's license is continued in effect but is recognized by the department as a broker's license; and associate broker's, branch manager's, and designated broker's licenses are continued in effect but are recognized by the department as managing broker's licenses. All licensees are required to take a transition course by the licensee's first renewal date after July 1, 2010. The department shall approve the transition course for continuing education credit. All licenses retain their renewal dates established prior to July 1, 2010. New licenses may be issued after completion of the transition course and at the time of the licensee's first renewal date after July 1, 2010.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2048[2008 c 23 § 48]; ]
+
+== 18.85.490 - Military training or experience.
+An applicant with military training or experience satisfies the training or experience requirements of this chapter unless the director determines that the military training or experience is not substantially equivalent to the standards of this state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1418.SL.pdf?cite=2011%20c%20351%20§%206[2011 c 351 § 6]; ]
+
+== 18.85.930 - Effective date—2008 c 23.
+This act takes effect July 1, 2010.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2778-S.SL.pdf?cite=2008%20c%2023%20§%2051[2008 c 23 § 51]; ]
+

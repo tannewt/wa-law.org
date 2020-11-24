@@ -1,0 +1,73 @@
+= 35.95 - Public transportation systems in municipalities.
+:toc:
+
+== 35.95.010 - Declaration of intent and purpose.
+We, the legislature find that an increasing number of municipally owned, or leased, and operated transportation systems in the urban areas of the state of Washington, as in the nation, are finding it impossible, from the revenues derived from tolls, tariffs and fares, to maintain the financial solvency of such systems, and as a result thereof such municipalities have been forced to subsidize such systems to the detriment of other essential public services.
+
+All persons in a community benefit from a solvent and adequate public transportation system, either directly or indirectly, and the responsibility of financing the operation, maintenance, and capital needs of such systems is a community obligation and responsibility which should be shared by all.
+
+We further find and declare that the maintenance and operation of an adequate public transportation system is an absolute necessity and is essential to the economic, industrial and cultural growth, development and prosperity of a municipality and of the state and nation, and to protect the health and welfare of the residents of such municipalities and the public in general.
+
+We further find and declare that the appropriation of general funds and levying and collection of taxes by such municipalities as authorized in the succeeding sections of this chapter is necessary, and any funds so derived and expended are for a public purpose for which public funds may properly be used.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c255.pdf?cite=1969%20ex.s.%20c%20255%20§%201[1969 ex.s. c 255 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c111.pdf?cite=1965%20ex.s.%20c%20111%20§%201[1965 ex.s. c 111 § 1]; ]
+
+== 35.95.020 - Definitions.
+The following terms however used or referred to in this chapter, shall have the following meanings, unless a different meaning is required by the context:
+
+. "Corporate authority" shall mean the council or other legislative body of a municipality.
+
+. "Municipality" shall mean any incorporated city, town, county pursuant to RCW 36.57.100 and 36.57.110, any county transportation authority created pursuant to chapter 36.57 RCW, any public transportation benefit area created pursuant to chapter 36.57A RCW, or any metropolitan municipal corporation created pursuant to RCW 35.58.010, et seq: PROVIDED, That the term "municipality" shall mean in respect to any county performing the public transportation function pursuant to RCW 36.57.100 and 36.57.110 only that portion of the unincorporated area lying wholly within such unincorporated transportation benefit area.
+
+. "Person" shall mean any individual, firm, partnership, corporation, company, association, joint stock association, school district or political subdivision of the state, fraternal, benevolent, religious or charitable society, club or organization, and shall include any trustee, receiver, assignee, or other person acting in a similar representative capacity. The term "person" shall not be construed to include the United States nor the state of Washington.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c270.pdf?cite=1975%201st%20ex.s.%20c%20270%20§%203[1975 1st ex.s. c 270 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c255.pdf?cite=1969%20ex.s.%20c%20255%20§%202[1969 ex.s. c 255 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c145.pdf?cite=1967%20ex.s.%20c%20145%20§%2065[1967 ex.s. c 145 § 65]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c111.pdf?cite=1965%20ex.s.%20c%20111%20§%202[1965 ex.s. c 111 § 2]; ]
+
+== 35.95.030 - Appropriation of funds for transportation systems authorized—Referendum.
+The corporate authorities of any municipality are authorized to appropriate general funds for the operation, maintenance, and capital needs of municipally owned or leased and municipally operated public transportation systems subject to the right of referendum as provided by statute or charter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c111.pdf?cite=1965%20ex.s.%20c%20111%20§%203[1965 ex.s. c 111 § 3]; ]
+
+== 35.95.040 - Levy and collection of excise taxes authorized—Business and occupation tax—Excise tax on residents—Appropriation and use of proceeds—Voter approval.
+The corporate authorities of a municipality are authorized to adopt ordinances for the levy and collection of excise taxes and/or for the imposition of an additional tax for the act or privilege of engaging in business activities. Such business and occupation tax shall be imposed in such amounts as fixed and determined by the corporate authorities of the municipality and shall be measured by the application of rates against value of products, gross proceeds of sales, or gross income of the business, as the case may be. The terms "business", "engaging in business", "gross proceeds of sales", and "gross income of the business" shall for the purpose of this chapter have the same meanings as defined and set forth in chapter 82.04 RCW or as said chapter may hereafter be amended.
+
+The excise taxes other than the business and occupation tax above provided for shall be levied and collected from all persons within the municipality in such amounts as shall be fixed and determined by the corporate authorities of the municipality: PROVIDED, That such excise tax shall not exceed one dollar per month for each housing unit. For the purposes of this section, the term "housing unit" shall mean a building or portion thereof designed for or used as the residence or living quarters of one or more persons living together, or of one family.
+
+All taxes herein authorized shall be taxes other than a retail sales tax defined in chapter 82.08 RCW and a use tax defined in chapter 82.12 RCW, and the municipality shall appropriate and use the proceeds derived from all taxes authorized herein only for the operation, maintenance and capital needs of its municipally owned or leased and municipally operated public transportation system.
+
+Before any county transportation authority established pursuant to chapter 36.57 RCW or any public transportation benefit area authority established pursuant to chapter 36.57A RCW may impose any of the excise taxes authorized pursuant to this section, the authorization for imposition of such taxes shall be approved by the voters residing within such respective area.
+
+The county on behalf of an unincorporated transportation benefit area established pursuant to RCW 36.57.100 and 36.57.110 may impose any of the excise taxes authorized pursuant to this section only within the boundaries of such unincorporated transportation benefit area.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c270.pdf?cite=1975%201st%20ex.s.%20c%20270%20§%204[1975 1st ex.s. c 270 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c111.pdf?cite=1965%20ex.s.%20c%20111%20§%204[1965 ex.s. c 111 § 4]; ]
+
+== 35.95.050 - Collection of tax—Billing.
+The tax levied under the provisions of RCW 35.95.040 shall be billed and collected at such times and in the manner fixed and determined by the corporate authorities in an ordinance levying the tax: PROVIDED, That the tax shall be designated and identified as a tax to be used solely for the operation, maintenance, and capital needs of the municipally owned or leased and municipally operated public transit system: AND PROVIDED FURTHER, That the corporate authorities may in connection with municipally owned or leased transit systems enter into contracts covering the operation and maintenance of such systems, including the employment of personnel.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c145.pdf?cite=1967%20ex.s.%20c%20145%20§%2066[1967 ex.s. c 145 § 66]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c111.pdf?cite=1965%20ex.s.%20c%20111%20§%205[1965 ex.s. c 111 § 5]; ]
+
+== 35.95.060 - Funds derived from taxes—Restrictions on classification, etc.
+No funds derived from any tax levied under the provisions of this chapter shall, for any purpose whatsoever, be classified as or constitute income, earnings, or revenue of the public transportation system for which the tax is levied nor of any other public utility owned or leased and operated by such municipality; nor shall such funds constitute or be classified as any part of the rate structure or rate charged for the public utility.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c111.pdf?cite=1965%20ex.s.%20c%20111%20§%206[1965 ex.s. c 111 § 6]; ]
+
+== 35.95.070 - Purchase of leased public transportation system—Purchase price.
+In the event the corporate authorities of any municipality during the term of a lease or any renewal thereof of a public transportation system desire to purchase the said system, the purchase price shall be no greater than the fair market value of the said system at the commencement of the lease.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c111.pdf?cite=1965%20ex.s.%20c%20111%20§%207[1965 ex.s. c 111 § 7]; ]
+
+== 35.95.080 - Referendum rights not impaired.
+Nothing contained in this chapter nor the provisions of any city charter shall prevent a referendum on any ordinance or action adopted or taken by any municipality under the provisions of this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c111.pdf?cite=1965%20ex.s.%20c%20111%20§%208[1965 ex.s. c 111 § 8]; ]
+
+== 35.95.090 - Corporate authorities may refer ordinance levying tax to voters.
+The corporate authorities of a municipality adopting an ordinance for the levy and collection of an excise tax or additional tax as provided in RCW 35.95.040 may refer such ordinance to the voters of the municipality before making such ordinance effective.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c145.pdf?cite=1967%20ex.s.%20c%20145%20§%2067[1967 ex.s. c 145 § 67]; ]
+
+== 35.95.100 - Public transportation systems.
+See RCW 35.58.272 through 35.58.2794.
+
+[ ]
+

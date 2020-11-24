@@ -1,0 +1,112 @@
+= 11.54 - Family support and postdeath creditor's claim exemptions.
+:toc:
+
+== 11.54.010 - Award to surviving spouse, domestic partner, or children—Petition.
+. Subject to RCW 11.54.030, the surviving spouse or surviving domestic partner of a decedent may petition the court for an award from the property of the decedent. If the decedent is survived by children of the decedent who are not also the children of the surviving spouse or surviving domestic partner, on petition of such a child the court may divide the award between the surviving spouse or surviving domestic partner and all or any of such children as it deems appropriate. If there is not a surviving spouse or surviving domestic partner, the minor children of the decedent may petition for an award.
+
+. The award may be made from either the community property or separate property of the decedent. Unless otherwise ordered by the court, the probate and nonprobate assets of the decedent abate in accordance with chapter 11.10 RCW in satisfaction of the award.
+
+. The award may be made whether or not probate proceedings have been commenced in the state of Washington. The court may not make this award unless the petition for the award is filed before the earliest of:
+
+.. Eighteen months from the date of the decedent's death if within twelve months of the decedent's death either:
+
+... A personal representative has been appointed; or
+
+... A notice agent has filed a declaration and oath as required in RCW 11.42.010(3)(a)(ii); or
+
+.. The termination of any probate proceeding for the decedent's estate that has been commenced in the state of Washington; or
+
+.. Six years from the date of the death of the decedent.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%20916[2008 c 6 § 916]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2048[1997 c 252 § 48]; ]
+
+== 11.54.020 - Amount of basic award.
+The amount of the basic award shall be the amount specified in RCW 6.13.030(2) with regard to lands. If an award is divided between a surviving spouse or surviving domestic partner and the decedent's children who are not the children of the surviving spouse or surviving domestic partner, the aggregate amount awarded to all the claimants under this section shall be the amount specified in RCW 6.13.030(2) with respect to lands. The amount of the basic award may be increased or decreased in accordance with RCW 11.54.040 and 11.54.050.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%20917[2008 c 6 § 917]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2049[1997 c 252 § 49]; ]
+
+== 11.54.030 - Conditions to award.
+. The court may not make an award unless the court finds that the funeral expenses, expenses of last sickness, and expenses of administration have been paid or provided for.
+
+. The court may not make an award to a surviving spouse or surviving domestic partner or child who has participated, either as a principal or as an accessory before the fact, in the willful and unlawful killing of the decedent.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%20918[2008 c 6 § 918]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2050[1997 c 252 § 50]; ]
+
+== 11.54.040 - Increase in amount of award—Factors for consideration.
+. If it is demonstrated to the satisfaction of the court with clear, cogent, and convincing evidence that a claimant's present and reasonably anticipated future needs during the pendency of any probate proceedings in the state of Washington with respect to basic maintenance and support will not otherwise be provided for from other resources, and that the award would not be inconsistent with the decedent's intentions, the amount of the award may be increased in an amount the court determines to be appropriate.
+
+. In determining the needs of the claimant, the court shall consider, without limitation, the resources available to the claimant and the claimant's dependents, and the resources reasonably expected to be available to the claimant and the claimant's dependents during the pendency of the probate, including income related to present or future employment and benefits flowing from the decedent's probate and nonprobate estate.
+
+. In determining the intentions of the decedent, the court shall consider, without limitation:
+
+.. Provisions made for the claimant by the decedent under the terms of the decedent's will or otherwise;
+
+.. Provisions made for third parties or other entities under the decedent's will or otherwise that would be affected by an increased award;
+
+.. If the claimant is the surviving spouse or surviving domestic partner, the duration and status of the marriage or the state registered domestic partnership of the decedent to the claimant at the time of the decedent's death;
+
+.. The effect of any award on the availability of any other resources or benefits to the claimant;
+
+.. The size and nature of the decedent's estate; and
+
+.. Oral or written statements made by the decedent that are otherwise admissible as evidence.
+
+The fact that the decedent has named beneficiaries other than the claimant as recipients of the decedent's estate is not of itself adequate to evidence such an intent as would prevent the award of an amount in excess of that provided for in RCW 6.13.030(2) with respect to lands.
+
+. [Empty]
+.. A petition for an increased award may only be made if a petition for an award has been granted under RCW 11.54.010. The request for an increased award may be made in conjunction with the petition for an award under RCW 11.54.010.
+
+.. Subject to (a) of this subsection, a request for an increased award may be made at any time during the pendency of the probate proceedings. A request to modify an increased award may also be made at any time during the pendency of the probate proceedings by a person having an interest in the decedent's estate that will be directly affected by the requested modification.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%20919[2008 c 6 § 919]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2051[1997 c 252 § 51]; ]
+
+== 11.54.050 - Decrease in amount of award—Factors for consideration.
+. The court may decrease the amount of the award below the amount provided in RCW 11.54.020 in the exercise of its discretion if the recipient is entitled to receive probate or nonprobate property, including insurance, by reason of the death of the decedent. In such a case the award must be decreased by no more than the value of such other property as is received by reason of the death of the decedent. The court shall consider the factors presented in RCW 11.54.040(2) in determining the propriety of the award and the proper amount of the award, if any.
+
+. An award to a surviving spouse or surviving domestic partner is also discretionary and the amount otherwise allowable may be reduced if: (a) The decedent is survived by children who are not the children of the surviving spouse or surviving domestic partner and the award would decrease amounts otherwise distributable to such children; or (b) the award would have the effect of reducing amounts otherwise distributable to any of the decedent's minor children. In either case the court shall consider the factors presented in RCW 11.54.040 (2) and (3) and whether the needs of the minor children with respect to basic maintenance and support are and will be adequately provided for, both during and after the pendency of any probate proceedings if such proceedings are pending, considering support from any source, including support from the surviving spouse or surviving domestic partner.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%20920[2008 c 6 § 920]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2052[1997 c 252 § 52]; ]
+
+== 11.54.060 - Priority of awarded property—Effect of purchase or encumbrance on property.
+. The award has priority over all other claims made in the estate. In determining which assets must be made available to satisfy the award, the claimant is to be treated as a general creditor of the estate, and unless otherwise ordered by the court the assets shall abate in satisfaction of the award in accordance with chapter 11.10 RCW.
+
+. If the property awarded is being purchased on contract or is subject to any encumbrance, for purposes of the award the property must be valued net of the balance due on the contract and the amount of the encumbrance. The property awarded will continue to be subject to any such contract or encumbrance, and any award in excess of the basic award under RCW 11.54.010, whether of community property or the decedent's separate property, is not immune from any lien for costs of medical expenses recoverable under RCW 43.20B.080.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2053[1997 c 252 § 53]; ]
+
+== 11.54.070 - Immunity of award from debts and claims of creditors.
+. Except as provided in RCW 11.54.060(2), property awarded and cash paid under this chapter is immune from all debts, including judgments and judgment liens, of the decedent and of the surviving spouse or surviving domestic partner existing at the time of death.
+
+. Both the decedent's and the surviving spouse's or surviving domestic partner's interests in any community property awarded to the spouse or domestic partner under this chapter are immune from the claims of creditors.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%20921[2008 c 6 § 921]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6181-S.SL.pdf?cite=1998%20c%20292%20§%20201[1998 c 292 § 201]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2054[1997 c 252 § 54]; ]
+
+== 11.54.080 - Exemption of additional assets from claims of creditors—Petition—Notice—Court order.
+. This section applies if the party entitled to petition for an award holds exempt property that is in an aggregate amount less than that specified in RCW 6.13.030(2) with respect to lands.
+
+. For purposes of this section, the party entitled to petition for an award is referred to as the "claimant." If multiple parties are entitled to petition for an award, all of them are deemed a "claimant" and may petition for an exemption of additional assets as provided in this section, if the aggregate amount of exempt property to be held by all the claimants after the making of the award does not exceed the amount specified in RCW 6.13.030(2) with respect to lands.
+
+. A claimant may petition the court for an order exempting other assets from the claims of creditors so that the aggregate amount of exempt property held by the claimants equals the amount specified in RCW 6.13.030(2) with respect to lands. The petition must:
+
+.. Set forth facts to establish that the petitioner is entitled to petition for an award under RCW 11.54.010;
+
+.. State the nature and value of those assets then held by all claimants that are exempt from the claims of creditors; and
+
+.. Describe the nonexempt assets then held by the claimants, including any interest the claimants may have in any probate or nonprobate property of the decedent.
+
+. Notice of a petition for an order exempting assets from the claims of creditors must be given in accordance with RCW 11.96A.110.
+
+. At the hearing on the petition, the court shall order that certain assets of the claimants are exempt from the claims of creditors so that the aggregate amount of exempt property held by the claimants after the entry of the order is in the amount specified in RCW 6.13.030(2) with respect to lands. In the order the court shall designate those assets of the claimants that are so exempt.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5196.SL.pdf?cite=1999%20c%2042%20§%20612[1999 c 42 § 612]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2055[1997 c 252 § 55]; ]
+
+== 11.54.090 - Venue for petition—Petition and hearing requirements—Notice of hearing.
+The petition for an award, for an increased or modified award, or for the exemption of assets from the claims of creditors as authorized by this chapter must be made to the court of the county in which the probate is being administered. If probate proceedings have not been commenced in the state of Washington, the petition must be made to the court of a county in which the decedent was domiciled at the time of death. If the decedent was not domiciled in the state of Washington at the time of death, the petition may be made to the court of any county in which the decedent's estate could be administered under RCW 11.96A.050. The petition and the hearing must conform to RCW 11.96A.080 through 11.96A.200. Notice of the hearing on the petition must be given in accordance with RCW 11.96A.110.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5196.SL.pdf?cite=1999%20c%2042%20§%20613[1999 c 42 § 613]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2056[1997 c 252 § 56]; ]
+
+== 11.54.100 - Exhaustion of estate—Closure of estate—Discharge of personal representative.
+If an award provided by this chapter will exhaust the estate, and probate proceedings have been commenced in the state of Washington, the court in the order of award or allowance shall order the estate closed, discharge the personal representative, and exonerate the personal representative's bond, if any.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2057[1997 c 252 § 57]; ]
+

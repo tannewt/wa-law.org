@@ -1,0 +1,122 @@
+= 59.22 - Office of mobile/manufactured home relocation assistance—Resident-owned mobile home parks.
+:toc:
+
+== 59.22.010 - Legislative findings.
+. The legislature finds:
+
+.. That manufactured housing and mobile home parks provide a source of low-cost housing to the low income, elderly, poor and infirmed, without which they could not afford private housing; but rising costs of mobile home park development and operation, as well as turnover in ownership, has resulted in mobile home park living becoming unaffordable to the low income, elderly, poor and infirmed, resulting in increased numbers of homeless persons, and persons who must look to public housing and public programs, increasing the burden on the state to meet the housing needs of its residents;
+
+.. That state government can play a vital role in addressing the problems confronted by mobile home park residents by providing assistance which makes it possible for mobile home park residents to acquire the mobile home parks in which they reside and convert them to resident ownership; and
+
+.. That to accomplish this purpose, information and technical support shall be made available through the department subject to the availability of amounts appropriated for this specific purpose.
+
+. Therefore, it is the intent of the legislature, in order to maintain low-cost housing in mobile home parks to benefit the low income, elderly, poor and infirmed, to encourage and facilitate the conversion of mobile home parks to resident ownership, to protect low-income mobile home park residents from both physical and economic displacement, to obtain a high level of private financing for mobile home park conversions, and to help establish acceptance for resident-owned mobile home parks in the private market.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1502-S.SL.pdf?cite=2011%20c%20158%20§%201[2011 c 158 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1014.SL.pdf?cite=1995%20c%20399%20§%20154[1995 c 399 § 154]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c482.pdf?cite=1987%20c%20482%20§%201[1987 c 482 § 1]; ]
+
+== 59.22.020 - Definitions.
+The following definitions shall apply throughout this chapter unless the context clearly requires otherwise:
+
+. "Affordable" means that, where feasible, low-income residents should not pay more than thirty percent of their monthly income for housing costs.
+
+. "Conversion costs" includes the cost of acquiring the mobile home park, the costs of planning and processing the conversion, the costs of any needed repairs or rehabilitation, and any expenditures required by a government agency or lender for the project.
+
+. "Department" means the department of commerce.
+
+. "Housing costs" means the total cost of owning, occupying, and maintaining a mobile home and a lot or space in a mobile home park.
+
+. "Individual interest in a mobile home park" means any interest which is fee ownership or a lesser interest which entitles the holder to occupy a lot or space in a mobile home park for a period of not less than either fifteen years or the life of the holder. Individual interests in a mobile home park include, but are not limited to, the following:
+
+.. Ownership of a lot or space in a mobile home park or subdivision;
+
+.. A membership or shares in a stock cooperative, or a limited equity housing cooperative; or
+
+.. Membership in a nonprofit mutual benefit corporation which owns, operates, or owns and operates the mobile home park.
+
+. "Landlord" shall have the same meaning as it does in RCW 59.20.030.
+
+. "Low-income resident" means an individual or household who resided in the mobile home park prior to application for a loan pursuant to this chapter and with an annual income at or below eighty percent of the median income for the county of standard metropolitan statistical area of residence. Net worth shall be considered in the calculation of income with the exception of the resident's mobile/manufactured home which is used as their primary residence.
+
+. "Low-income spaces" means those spaces in a mobile home park operated by a resident organization which are occupied by low-income residents.
+
+. "Manufactured housing" means residences constructed on one or more chassis for transportation, and which bear an insignia issued by a state or federal regulatory agency indication compliance with all applicable construction standards of the United States department of housing and urban development.
+
+. "Mobile home" shall have the same meaning as it does in RCW 43.22.335.
+
+. "Mobile home lot" shall have the same meaning as it does in RCW 59.20.030.
+
+. "Mobile home park" means a mobile home park, as defined in *RCW 59.20.030(10), or a manufactured home park subdivision as defined by *RCW 59.20.030(12) created by the conversion to resident ownership of a mobile home park.
+
+. "Resident organization" means a group of mobile home park residents who have formed a nonprofit corporation, cooperative corporation, or other entity or organization for the purpose of acquiring the mobile home park in which they reside and converting the mobile home park to resident ownership. The membership of a resident organization shall include at least two-thirds of the households residing in the mobile home park at the time of application for assistance from the department.
+
+. "Resident ownership" means, depending on the context, either the ownership, by a resident organization, as defined in this section, of an interest in a mobile home park which entitles the resident organization to control the operations of the mobile home park for a term of no less than fifteen years, or the ownership of individual interests in a mobile home park, or both.
+
+. "Tenant" means a person who rents a mobile home lot for a term of one month or longer and owns the mobile home on the lot.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6581-S.SL.pdf?cite=2012%20c%20198%20§%2017[2012 c 198 § 17]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1502-S.SL.pdf?cite=2011%20c%20158%20§%206[2011 c 158 § 6]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6379.SL.pdf?cite=2010%20c%20161%20§%201150[2010 c 161 § 1150]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2242.SL.pdf?cite=2009%20c%20565%20§%2048[2009 c 565 § 48]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1014.SL.pdf?cite=1995%20c%20399%20§%20155[1995 c 399 § 155]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5482-S.SL.pdf?cite=1993%20c%2066%20§%209[1993 c 66 § 9]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1440-S.SL.pdf?cite=1991%20c%20327%20§%202[1991 c 327 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c280.pdf?cite=1988%20c%20280%20§%203[1988 c 280 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c482.pdf?cite=1987%20c%20482%20§%202[1987 c 482 § 2]; ]
+
+== 59.22.032 - Loans for mobile home park conversion costs—Resident eligibility—Flexible repayment terms.
+. The department may make loans to resident organizations for the purpose of financing mobile home park conversion costs. The department may only make loans to resident organizations of mobile home parks where a significant portion of the residents are low-income or infirm.
+
+. The department may make loans to low-income residents of mobile home parks converted to resident ownership or which plan to convert to resident ownership. The purpose of providing loans under this subsection is to reduce the monthly housing costs for low-income residents to an affordable level. The department may establish flexible repayment terms for loans provided under this subsection if the terms are necessary to reduce the monthly housing costs for low-income residents to an affordable level, and do not represent an unacceptable risk. Flexible repayment terms may include, but are not limited to, graduated payment schedules with negative amortization.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6581-S.SL.pdf?cite=2012%20c%20198%20§%2018[2012 c 198 § 18]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5482-S.SL.pdf?cite=1993%20c%2066%20§%2010[1993 c 66 § 10]; ]
+
+== 59.22.034 - Loan duration—Rate of interest—Security—Administration of loan.
+. Any loans granted under RCW 59.22.032 shall be for a term of no more than thirty years.
+
+. The department shall establish the rate of interest to be paid on loans.
+
+. The department shall obtain security for loans made under this chapter. The security may be in the form of a note, deed of trust, assignment of lease, or other form of security on real or personal property which the department determines is adequate to protect the interests of the state. To the extent applicable, the documents evidencing the security shall be recorded or referenced in a recorded document in the office of the county auditor of the county in which the mobile home park is located.
+
+. The department may contract with private lenders, nonprofit organizations, or units of local government to provide program administration and to service loans made under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6581-S.SL.pdf?cite=2012%20c%20198%20§%2019[2012 c 198 § 19]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5482-S.SL.pdf?cite=1993%20c%2066%20§%2011[1993 c 66 § 11]; ]
+
+== 59.22.036 - Requirements for financing approval—Department's duties.
+Before providing financing under this chapter, the department shall require:
+
+. Verification that at least two-thirds of the households residing in the mobile home park support the plan for acquisition and conversion of the park;
+
+. Verification that either no park residents will be involuntarily displaced as a result of the park conversion, or the impacts of displacement will be mitigated so as not to impose a hardship on the displaced resident;
+
+. Projected costs and sources of funds for conversion activities;
+
+. A projected operating budget for the park during and after conversion; and
+
+. A management plan for the conversion and operation of the park.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5482-S.SL.pdf?cite=1993%20c%2066%20§%2012[1993 c 66 § 12]; ]
+
+== 59.22.038 - Eligibility for loans—Amount of loans—Determining factors.
+The department shall consider the following factors in determining the eligibility for, and the amount, of loans made under this chapter:
+
+. The reasonableness of the conversion costs relating to repairs, rehabilitation, construction, or other costs;
+
+. The number of available and affordable mobile home park spaces in the general area;
+
+. The adequacy of the management plan for the conversion and operation of the park; and
+
+. Other factors established by the department by rule.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5482-S.SL.pdf?cite=1993%20c%2066%20§%2013[1993 c 66 § 13]; ]
+
+== 59.22.039 - Technical assistance for mobile home park conversion.
+The department may provide technical assistance to resident organizations who wish to convert the mobile home park in which they reside to resident ownership. Technical assistance does not include details connected with the sale or conversion of a mobile home park which would require the department to act in a representative capacity, or the drafting of documents affecting legal or property rights of the parties by the department.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5482-S.SL.pdf?cite=1993%20c%2066%20§%2014[1993 c 66 § 14]; ]
+
+== 59.22.050 - Office of mobile/manufactured home relocation assistance—Duties.
+In order to provide general assistance to resident organizations, qualified tenant organizations, and tenants, the department shall establish an office of mobile/manufactured home relocation assistance. This office shall:
+
+. Subject to the availability of amounts appropriated for this specific purpose, provide, either directly or through contracted services, technical assistance to qualified tenant organizations as defined in RCW 59.20.030 and resident organizations or persons in the process of forming a resident organization pursuant to this chapter. The office will keep records of its activities in this area.
+
+. Administer the mobile home relocation assistance program established in chapter 59.21 RCW, including verifying the eligibility of tenants for relocation assistance.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1502-S.SL.pdf?cite=2011%20c%20158%20§%202[2011 c 158 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1621-S2.SL.pdf?cite=2008%20c%20116%20§%206[2008 c 116 § 6]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2118-S.SL.pdf?cite=2007%20c%20432%20§%209[2007 c 432 § 9]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1440-S.SL.pdf?cite=1991%20c%20327%20§%203[1991 c 327 § 3]; 2005 c 429 § 9; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c294.pdf?cite=1989%20c%20294%20§%201[1989 c 294 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c280.pdf?cite=1988%20c%20280%20§%202[1988 c 280 § 2]; ]
+
+== 59.22.901 - Construction—Chapter applicable to state registered domestic partnerships—2009 c 521.
+For the purposes of this chapter, the terms spouse, marriage, marital, husband, wife, widow, widower, next of kin, and family shall be interpreted as applying equally to state registered domestic partnerships or individuals in state registered domestic partnerships as well as to marital relationships and married persons, and references to dissolution of marriage shall apply equally to state registered domestic partnerships that have been terminated, dissolved, or invalidated, to the extent that such interpretation does not conflict with federal law. Where necessary to implement chapter 521, Laws of 2009, gender-specific terms such as husband and wife used in any statute, rule, or other law shall be construed to be gender neutral, and applicable to individuals in state registered domestic partnerships.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5688-S2.SL.pdf?cite=2009%20c%20521%20§%20142[2009 c 521 § 142]; ]
+

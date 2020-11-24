@@ -1,0 +1,243 @@
+= 19.340 - Pharmacy benefit managers.
+:toc:
+
+== 19.340.010 - Definitions. (Effective until January 1, 2022.)
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Claim" means a request from a pharmacy or pharmacist to be reimbursed for the cost of filling or refilling a prescription for a drug or for providing a medical supply or service.
+
+. "Commissioner" means the insurance commissioner established in chapter 48.02 RCW.
+
+. "Insurer" has the same meaning as in RCW 48.01.050.
+
+. "Pharmacist" has the same meaning as in RCW 18.64.011.
+
+. "Pharmacy" has the same meaning as in RCW 18.64.011.
+
+. [Empty]
+.. "Pharmacy benefit manager" means a person that contracts with pharmacies on behalf of an insurer, a third-party payor, or the prescription drug purchasing consortium established under RCW 70.14.060 to:
+
+... Process claims for prescription drugs or medical supplies or provide retail network management for pharmacies or pharmacists;
+
+... Pay pharmacies or pharmacists for prescription drugs or medical supplies; or
+
+... Negotiate rebates with manufacturers for drugs paid for or procured as described in this subsection.
+
+.. "Pharmacy benefit manager" does not include a health care service contractor as defined in RCW 48.44.010.
+
+. "Third-party payor" means a person licensed under RCW 48.39.005.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5857-S.SL.pdf?cite=2016%20c%20210%20§%203[2016 c 210 § 3]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6137-S.SL.pdf?cite=2014%20c%20213%20§%201[2014 c 213 § 1]; ]
+
+== 19.340.020 - Definitions applicable to RCW  19.340.040 through  19.340.090. (Effective until January 1, 2022. Recodified as RCW  48.200.210.)
+As used in this section and RCW 19.340.040 through 19.340.090:
+
+. "Audit" means an on-site or remote review of the records of a pharmacy by or on behalf of an entity.
+
+. "Clerical error" means a minor error:
+
+.. In the keeping, recording, or transcribing of records or documents or in the handling of electronic or hard copies of correspondence;
+
+.. That does not result in financial harm to an entity; and
+
+.. That does not involve dispensing an incorrect dose, amount or type of medication, or dispensing a prescription drug to the wrong person.
+
+. "Entity" includes:
+
+.. A pharmacy benefit manager;
+
+.. An insurer;
+
+.. A third-party payor;
+
+.. A state agency; or
+
+.. A person that represents or is employed by one of the entities described in this subsection.
+
+. "Fraud" means knowingly and willfully executing or attempting to execute a scheme, in connection with the delivery of or payment for health care benefits, items, or services, that uses false or misleading pretenses, representations, or promises to obtain any money or property owned by or under the custody or control of any person.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6137-S.SL.pdf?cite=2014%20c%20213%20§%203[2014 c 213 § 3]; ]
+
+== 19.340.030 - Pharmacy benefit managers—Registration—Renewal. (Effective until January 1, 2022.)
+. To conduct business in this state, a pharmacy benefit manager must register with the office of the insurance commissioner and annually renew the registration.
+
+. To register under this section, a pharmacy benefit manager must:
+
+.. Submit an application requiring the following information:
+
+... The identity of the pharmacy benefit manager;
+
+... The name, business address, phone number, and contact person for the pharmacy benefit manager; and
+
+... Where applicable, the federal tax employer identification number for the entity; and
+
+.. Pay a registration fee established in rule by the commissioner. The registration fee must be set to allow the registration and oversight activities to be self-supporting.
+
+. To renew a registration under this section, a pharmacy benefit manager must pay a renewal fee established in rule by the commissioner. The renewal fee must be set to allow the renewal and oversight activities to be self-supporting.
+
+. All receipts from registrations and renewals collected by the commissioner must be deposited into the insurance commissioner's regulatory account created in RCW 48.02.190.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5857-S.SL.pdf?cite=2016%20c%20210%20§%201[2016 c 210 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6137-S.SL.pdf?cite=2014%20c%20213%20§%202[2014 c 213 § 2]; ]
+
+== 19.340.040 - Auditing of claims—Requirements—Prohibited practices. (Effective until January 1, 2022. Recodified as RCW  48.200.220.)
+An entity that audits claims or an independent third party that contracts with an entity to audit claims:
+
+. Must establish, in writing, a procedure for a pharmacy to appeal the entity's findings with respect to a claim and must provide a pharmacy with a notice regarding the procedure, in writing or electronically, prior to conducting an audit of the pharmacy's claims;
+
+. May not conduct an audit of a claim more than twenty-four months after the date the claim was adjudicated by the entity;
+
+. Must give at least fifteen days' advance written notice of an on-site audit to the pharmacy or corporate headquarters of the pharmacy;
+
+. May not conduct an on-site audit during the first five days of any month without the pharmacy's consent;
+
+. Must conduct the audit in consultation with a pharmacist who is licensed by this or another state if the audit involves clinical or professional judgment;
+
+. May not conduct an on-site audit of more than two hundred fifty unique prescriptions of a pharmacy in any twelve-month period except in cases of alleged fraud;
+
+. May not conduct more than one on-site audit of a pharmacy in any twelve-month period;
+
+. Must audit each pharmacy under the same standards and parameters that the entity uses to audit other similarly situated pharmacies;
+
+. Must pay any outstanding claims of a pharmacy no more than forty-five days after the earlier of the date all appeals are concluded or the date a final report is issued under RCW 19.340.080(3);
+
+. May not include dispensing fees or interest in the amount of any overpayment assessed on a claim unless the overpaid claim was for a prescription that was not filled correctly;
+
+. May not recoup costs associated with:
+
+.. Clerical errors; or
+
+.. Other errors that do not result in financial harm to the entity or a consumer; and
+
+. May not charge a pharmacy for a denied or disputed claim until the audit and the appeals procedure established under subsection (1) of this section are final.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6137-S.SL.pdf?cite=2014%20c%20213%20§%204[2014 c 213 § 4]; ]
+
+== 19.340.050 - Basis of finding of claim. (Effective until January 1, 2022. Recodified as RCW  48.200.230.)
+An entity's finding that a claim was incorrectly presented or paid must be based on identified transactions and not based on probability sampling, extrapolation, or other means that project an error using the number of patients served who have a similar diagnosis or the number of similar prescriptions or refills for similar drugs.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6137-S.SL.pdf?cite=2014%20c%20213%20§%205[2014 c 213 § 5]; ]
+
+== 19.340.060 - Contract with third party—Prohibited practices. (Effective until January 1, 2022. Recodified as RCW48.200.240.)
+An entity that contracts with an independent third party to conduct audits may not:
+
+. Agree to compensate the independent third party based on a percentage of the amount of overpayments recovered; or
+
+. Disclose information obtained during an audit except to the contracting entity, the pharmacy subject to the audit, or the holder of the policy or certificate of insurance that paid the claim.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6137-S.SL.pdf?cite=2014%20c%20213%20§%206[2014 c 213 § 6]; ]
+
+== 19.340.070 - Evidence of validation of claim. (Effective until January 1, 2022. Recodified as RCW  48.200.250.)
+For purposes of RCW 19.340.020 and 19.340.040 through 19.340.090, an entity, or an independent third party that contracts with an entity to conduct audits, must allow as evidence of validation of a claim:
+
+. An electronic or physical copy of a valid prescription if the prescribed drug was, within fourteen days of the dispensing date:
+
+.. Picked up by the patient or the patient's designee;
+
+.. Delivered by the pharmacy to the patient; or
+
+.. Sent by the pharmacy to the patient using the United States postal service or other common carrier;
+
+. Point of sale electronic register data showing purchase of the prescribed drug, medical supply, or service by the patient or the patient's designee; or
+
+. Electronic records, including electronic beneficiary signature logs, electronically scanned and stored patient records maintained at or accessible to the audited pharmacy's central operations, and any other reasonably clear and accurate electronic documentation that corresponds to a claim.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6137-S.SL.pdf?cite=2014%20c%20213%20§%207[2014 c 213 § 7]; ]
+
+== 19.340.080 - Preliminary audit report—Dispute or denial of claim—Final audit report—Recoupment of disputed funds. (Effective until January 1, 2022. Recodified as RCW  48.200.260.)
+. [Empty]
+.. After conducting an audit, an entity must provide the pharmacy that is the subject of the audit with a preliminary report of the audit. The preliminary report must be received by the pharmacy no later than forty-five days after the date on which the audit was completed and must be sent:
+
+... By mail or common carrier with a return receipt requested; or
+
+... Electronically with electronic receipt confirmation.
+
+.. An entity shall provide a pharmacy receiving a preliminary report under this subsection no fewer than forty-five days after receiving the report to contest the report or any findings in the report in accordance with the appeals procedure established under RCW 19.340.040(1) and to provide additional documentation in support of the claim. The entity shall consider a reasonable request for an extension of time to submit documentation to contest the report or any findings in the report.
+
+. If an audit results in the dispute or denial of a claim, the entity conducting the audit shall allow the pharmacy to resubmit the claim using any commercially reasonable method, including facsimile, mail, or electronic mail.
+
+. An entity must provide a pharmacy that is the subject of an audit with a final report of the audit no later than sixty days after the later of the date the preliminary report was received or the date the pharmacy contested the report using the appeals procedure established under RCW 19.340.040(1). The final report must include a final accounting of all moneys to be recovered by the entity.
+
+. Recoupment of disputed funds from a pharmacy by an entity or repayment of funds to an entity by a pharmacy, unless otherwise agreed to by the entity and the pharmacy, shall occur after the audit and the appeals procedure established under RCW 19.340.040(1) are final. If the identified discrepancy for an individual audit exceeds forty thousand dollars, any future payments to the pharmacy may be withheld by the entity until the audit and the appeals procedure established under RCW 19.340.040(1) are final.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6137-S.SL.pdf?cite=2014%20c%20213%20§%208[2014 c 213 § 8]; ]
+
+== 19.340.090 - Application. (Effective until January 1, 2022. Recodified as RCW  48.200.270.)
+RCW 19.340.020 and 19.340.040 through 19.340.090 do not:
+
+. Preclude an entity from instituting an action for fraud against a pharmacy;
+
+. Apply to an audit of pharmacy records when fraud or other intentional and willful misrepresentation is indicated by physical review, review of claims data or statements, or other investigative methods; or
+
+. Apply to a state agency that is conducting audits or a person that has contracted with a state agency to conduct audits of pharmacy records for prescription drugs paid for by the state medical assistance program.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6137-S.SL.pdf?cite=2014%20c%20213%20§%209[2014 c 213 § 9]; ]
+
+== 19.340.100 - Predetermination of reimbursement costs—Appeals—Review by commissioner. (Effective until January 1, 2022. Recodified as RCW  48.200.280.)
+. As used in this section:
+
+.. "List" means the list of drugs for which predetermined reimbursement costs have been established, such as a maximum allowable cost or maximum allowable cost list or any other benchmark prices utilized by the pharmacy benefit manager and must include the basis of the methodology and sources utilized to determine multisource generic drug reimbursement amounts.
+
+.. "Multiple source drug" means a therapeutically equivalent drug that is available from at least two manufacturers.
+
+.. "Multisource generic drug" means any covered outpatient prescription drug for which there is at least one other drug product that is rated as therapeutically equivalent under the food and drug administration's most recent publication of "Approved Drug Products with Therapeutic Equivalence Evaluations;" is pharmaceutically equivalent or bioequivalent, as determined by the food and drug administration; and is sold or marketed in the state during the period.
+
+.. "Network pharmacy" means a retail drug outlet licensed as a pharmacy under RCW 18.64.043 that contracts with a pharmacy benefit manager.
+
+.. "Therapeutically equivalent" has the same meaning as in RCW 69.41.110.
+
+. A pharmacy benefit manager:
+
+.. May not place a drug on a list unless there are at least two therapeutically equivalent multiple source drugs, or at least one generic drug available from only one manufacturer, generally available for purchase by network pharmacies from national or regional wholesalers;
+
+.. Shall ensure that all drugs on a list are readily available for purchase by pharmacies in this state from national or regional wholesalers that serve pharmacies in Washington;
+
+.. Shall ensure that all drugs on a list are not obsolete;
+
+.. Shall make available to each network pharmacy at the beginning of the term of a contract, and upon renewal of a contract, the sources utilized to determine the predetermined reimbursement costs for multisource generic drugs of the pharmacy benefit manager;
+
+.. Shall make a list available to a network pharmacy upon request in a format that is readily accessible to and usable by the network pharmacy;
+
+.. Shall update each list maintained by the pharmacy benefit manager every seven business days and make the updated lists, including all changes in the price of drugs, available to network pharmacies in a readily accessible and usable format;
+
+.. Shall ensure that dispensing fees are not included in the calculation of the predetermined reimbursement costs for multisource generic drugs.
+
+. A pharmacy benefit manager must establish a process by which a network pharmacy may appeal its reimbursement for a drug subject to predetermined reimbursement costs for multisource generic drugs. A network pharmacy may appeal a predetermined reimbursement cost for a multisource generic drug if the reimbursement for the drug is less than the net amount that the network pharmacy paid to the supplier of the drug. An appeal requested under this section must be completed within thirty calendar days of the pharmacy submitting the appeal. If after thirty days the network pharmacy has not received the decision on the appeal from the pharmacy benefit manager, then the appeal is considered denied.
+
+The pharmacy benefit manager shall uphold the appeal of a pharmacy with fewer than fifteen retail outlets, within the state of Washington, under its corporate umbrella if the pharmacy or pharmacist can demonstrate that it is unable to purchase a therapeutically equivalent interchangeable product from a supplier doing business in Washington at the pharmacy benefit manager's list price.
+
+. A pharmacy benefit manager must provide as part of the appeals process established under subsection (3) of this section:
+
+.. A telephone number at which a network pharmacy may contact the pharmacy benefit manager and speak with an individual who is responsible for processing appeals; and
+
+.. If the appeal is denied, the reason for the denial and the national drug code of a drug that has been purchased by other network pharmacies located in Washington at a price that is equal to or less than the predetermined reimbursement cost for the multisource generic drug. A pharmacy with fifteen or more retail outlets, within the state of Washington, under its corporate umbrella may submit information to the commissioner about an appeal under subsection (3) of this section for purposes of information collection and analysis.
+
+. [Empty]
+.. If an appeal is upheld under this section, the pharmacy benefit manager shall make a reasonable adjustment on a date no later than one day after the date of determination.
+
+.. If the request for an adjustment has come from a critical access pharmacy, as defined by the state health care authority by rule for purposes related to the prescription drug purchasing consortium established under RCW 70.14.060, the adjustment approved under (a) of this subsection shall apply only to critical access pharmacies.
+
+. Beginning July 1, 2017, if a network pharmacy appeal to the pharmacy benefit manager is denied, or if the network pharmacy is unsatisfied with the outcome of the appeal, the pharmacy or pharmacist may dispute the decision and request review by the commissioner within thirty calendar days of receiving the decision.
+
+.. All relevant information from the parties may be presented to the commissioner, and the commissioner may enter an order directing the pharmacy benefit manager to make an adjustment to the disputed claim, deny the pharmacy appeal, or take other actions deemed fair and equitable. An appeal requested under this section must be completed within thirty calendar days of the request.
+
+.. Upon resolution of the dispute, the commissioner shall provide a copy of the decision to both parties within seven calendar days.
+
+.. The commissioner may authorize the office of administrative hearings, as provided in chapter 34.12 RCW, to conduct appeals under this subsection (6).
+
+.. A pharmacy benefit manager may not retaliate against a pharmacy for pursuing an appeal under this subsection (6).
+
+.. This subsection (6) applies only to a pharmacy with fewer than fifteen retail outlets, within the state of Washington, under its corporate umbrella.
+
+. This section does not apply to the state medical assistance program.
+
+. A pharmacy benefit manager shall comply with any requests for information from the commissioner for purposes of the study of the pharmacy chain of supply conducted under section 7, chapter 210, Laws of 2016.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5857-S.SL.pdf?cite=2016%20c%20210%20§%204[2016 c 210 § 4]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6137-S.SL.pdf?cite=2014%20c%20213%20§%2010[2014 c 213 § 10]; ]
+
+== 19.340.110 - Enforcement—Disputes—Civil penalties. (Effective until January 1, 2022. Recodified as RCW  48.200.290.)
+. The commissioner shall have enforcement authority over this chapter and shall have authority to render a binding decision in any dispute between a pharmacy benefit manager, or third-party administrator of prescription drug benefits, and a pharmacy arising out of an appeal under RCW 19.340.100(6) regarding drug pricing and reimbursement.
+
+. Any person, corporation, third-party administrator of prescription drug benefits, pharmacy benefit manager, or business entity which violates any provision of this chapter shall be subject to a civil penalty in the amount of one thousand dollars for each act in violation of this chapter or, if the violation was knowing and willful, a civil penalty of five thousand dollars for each violation of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5857-S.SL.pdf?cite=2016%20c%20210%20§%202[2016 c 210 § 2]; ]
+

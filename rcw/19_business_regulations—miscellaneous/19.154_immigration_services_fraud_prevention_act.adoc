@@ -1,0 +1,86 @@
+= 19.154 - Immigration services fraud prevention act.
+:toc:
+
+== 19.154.010 - Findings.
+The legislature finds and declares that the practice by nonlawyers and other unauthorized persons of providing legal advice and legal services to others in immigration matters substantially affects the public interest. The practice of nonlawyers and other unauthorized persons providing immigration-related legal advice and legal services for compensation may impact the ability of their customers to reside and work within the United States and to establish and maintain stable families and business relationships. The legislature further finds and declares that the previous scheme for regulating the behavior of nonlawyers and other unauthorized persons who provide immigration-related services is inadequate to address the level of unfair and deceptive practices that exists in the marketplace and often contributes to the unauthorized practice of law. It is the intent of the legislature, through chapter 244, Laws of 2011, to prohibit nonlawyers and other unauthorized persons from providing immigration-related services that constitute the practice of law.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5023-S.SL.pdf?cite=2011%20c%20244%20§%201[2011 c 244 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c117.pdf?cite=1989%20c%20117%20§%201[1989 c 117 § 1]; ]
+
+== 19.154.020 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Compensation" means money, property, or anything else of value.
+
+. "Immigration matter" means any proceeding, filing, or action affecting the nonimmigrant, immigrant, or citizenship status of any person arising under immigration and naturalization law, executive order, or presidential proclamation, or pursuant to any action of the United States citizenship and immigration services, the United States department of labor, the United States department of state, the United States department of justice, the United States department of homeland security, the board of immigration appeals, or any other entity or agency having jurisdiction over immigration law.
+
+. "Practice of law" has the definition given to it by the supreme court of Washington whether by rule or decision, and includes all exceptions and exclusions to that definition currently in place or hereafter created, whether by rule or decision.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5023-S.SL.pdf?cite=2011%20c%20244%20§%202[2011 c 244 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c117.pdf?cite=1989%20c%20117%20§%202[1989 c 117 § 2]; ]
+
+== 19.154.060 - Prohibited practices—Assistance with immigration matters.
+. Persons, other than those licensed to practice law in this state or otherwise permitted to practice law or represent others under federal law in an immigration matter, are prohibited from engaging in the practice of law in an immigration matter for compensation.
+
+. Persons, other than those licensed to practice law in this state or otherwise permitted to practice law or represent others under federal law in an immigration matter, are prohibited from engaging in the following acts or practices, for compensation:
+
+.. Advising or assisting another person in determining the person's legal or illegal status for the purpose of an immigration matter;
+
+.. Selecting or assisting another in selecting, or advising another as to his or her answers on, a government agency form or document in an immigration matter;
+
+.. Selecting or assisting another in selecting, or advising another in selecting, a benefit, visa, or program to apply for in an immigration matter;
+
+.. Soliciting to prepare documents for, or otherwise representing the interests of, another in a judicial or administrative proceeding in an immigration matter;
+
+.. Explaining, advising, or otherwise interpreting the meaning or intent of a question on a government agency form in an immigration matter;
+
+.. Charging a fee for referring another to a person licensed to practice law;
+
+.. Selecting, drafting, or completing legal documents affecting the legal rights of another in an immigration matter.
+
+. Persons, other than those holding an active license to practice law issued by the Washington state bar association or otherwise permitted to practice law or represent others under federal law in an immigration matter, are prohibited from engaging in the following acts or practices, regardless of whether compensation is sought:
+
+.. Representing, either orally or in any document, letterhead, advertisement, stationery, business card, web site, or other comparable written material, that he or she is a notario publico, notario, immigration assistant, immigration consultant, immigration specialist, or using any other designation or title, in any language, that conveys or implies that he or she possesses professional legal skills in the area of immigration law;
+
+.. Representing, in any language, either orally or in any document, letterhead, advertisement, stationery, business card, web site, or other comparable written material, that he or she can or is willing to provide services in an immigration matter, if such services would constitute the practice of law.
+
+. [Empty]
+.. The prohibitions of subsections (1) through (3) of this section shall not apply to the activities of nonlawyer assistants acting under the supervision of a person holding an active license to practice law issued by the Washington state bar association or otherwise permitted to practice law or represent others under federal law in an immigration matter.
+
+.. This section does not prohibit a person from offering translation services, regardless of whether compensation is sought. Translating words contained on a government form from English to another language and translating a person's words from another language to English does not constitute the unauthorized practice of law.
+
+. In addition to complying with the prohibitions of subsections (1) through (3) of this section, persons licensed as a notary public under chapter 42.45 RCW who do not hold an active license to practice law issued by the Washington state bar association shall not use the term notario publico, notario, immigration assistant, immigration consultant, immigration specialist, or any other designation or title, in any language, that conveys or implies that he or she possesses professional legal skills in the areas of immigration law, when advertising notary public services in the conduct of their business. A violation of any provision of this chapter by a person licensed as a notary public under chapter 42.45 RCW shall constitute unprofessional conduct under the uniform regulation of business and professions act, chapter 18.235 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5081-S.SL.pdf?cite=2017%20c%20281%20§%2039[2017 c 281 § 39]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5023-S.SL.pdf?cite=2011%20c%20244%20§%203[2011 c 244 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c117.pdf?cite=1989%20c%20117%20§%206[1989 c 117 § 6]; ]
+
+== 19.154.065 - Immigration-related services not prohibited.
+Persons who are not licensed to practice law in this state or who are not otherwise permitted to represent others under federal law in an immigration matter may engage in the following services for compensation:
+
+. Translate words on a government form that the person seeking services presents to the person providing translation services;
+
+. Secure existing documents for the person seeking services. Existing documents include, for example, birth and marriage certificates; and
+
+. Offer other immigration-related services that are not prohibited under this chapter or any other provision of law or do not constitute the practice of law.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5023-S.SL.pdf?cite=2011%20c%20244%20§%204[2011 c 244 § 4]; ]
+
+== 19.154.090 - Unfair and deceptive act—Unfair method of competition—Civil remedy.
+. The legislature finds and declares that any violation of this chapter substantially affects the public interest and is an unfair and deceptive act or practice and unfair method of competition in the conduct of trade or commerce as set forth in RCW 19.86.020.
+
+. In addition to all remedies available in chapter 19.86 RCW, a person injured by a violation of this chapter may bring a civil action to recover the actual damages proximately caused by a violation of this chapter, or one thousand dollars, whichever is greater.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5023-S.SL.pdf?cite=2011%20c%20244%20§%205[2011 c 244 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c117.pdf?cite=1989%20c%20117%20§%209[1989 c 117 § 9]; ]
+
+== 19.154.100 - Penalty.
+A violation of this chapter shall be punished as a gross misdemeanor according to chapter 9A.20 RCW.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c117.pdf?cite=1989%20c%20117%20§%2010[1989 c 117 § 10]; ]
+
+== 19.154.800 - Application.
+Nothing in this chapter shall apply to or regulate any business to the extent such regulation is prohibited or preempted by federal law.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5023-S.SL.pdf?cite=2011%20c%20244%20§%207[2011 c 244 § 7]; ]
+
+== 19.154.900 - Short title.
+This chapter shall be known and cited as the "immigration services fraud prevention act."
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5023-S.SL.pdf?cite=2011%20c%20244%20§%208[2011 c 244 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c117.pdf?cite=1989%20c%20117%20§%2011[1989 c 117 § 11]; ]
+

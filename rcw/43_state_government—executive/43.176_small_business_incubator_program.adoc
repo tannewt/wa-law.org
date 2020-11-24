@@ -1,0 +1,63 @@
+= 43.176 - Small business incubator program.
+:toc:
+
+== 43.176.010 - Policy.
+It is hereby declared to be the policy of the state of Washington to assist in the creation and expansion of innovative small commercial enterprises that produce marketable goods and services through the employment of Washington residents, the use of technology, and the application of best management practices. This policy is to be implemented through the use of small business incubators.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2784-S.SL.pdf?cite=2004%20c%20237%20§%201[2004 c 237 § 1]; ]
+
+== 43.176.020 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Business incubator" means a facility that offers:
+
+.. Space for start-up and expanding firms;
+
+.. The shared use of equipment and work areas;
+
+.. Daily management support services essential to high-quality commercial operations; and
+
+.. Technical assistance.
+
+. "Qualified small business incubator" means an incubator that is:
+
+.. [Empty]
+... Designated as a nonprofit organization under section 501(c)(3) of the internal revenue code, or (ii) consists of a partnership between a designated nonprofit organization under section 501(c)(3) of the internal revenue code and a government or quasi-government agency;
+
+.. Focused on developing small businesses in an economically distressed or disadvantaged area; and
+
+.. Structured around a sound business plan.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2784-S.SL.pdf?cite=2004%20c%20237%20§%202[2004 c 237 § 2]; ]
+
+== 43.176.030 - Small business incubator program—Grants.
+. The small business incubator program is created in the *department of community, trade, and economic development to provide start-up and operating assistance to qualified small business incubators.
+
+. The department shall award grants to qualified small business incubator organizations for:
+
+.. Construction and equipment costs, up to a maximum of three million dollars per recipient; and
+
+.. Provision of technical assistance to small businesses, up to a maximum of one hundred twenty-five thousand dollars per year per recipient.
+
+. The department shall:
+
+.. Require a grant recipient to show that it has the resources to complete the project in a timely manner and the state grant is not the sole source of funds;
+
+.. Develop, in conjunction with the Washington association of small business incubators, criteria for receipt of grant funds, including criteria related to organizational capacity, community need, and the availability of other economic development resources;
+
+.. Accept and receive grants, gifts, and pledges of funds for the support of the small business incubator program, which shall be deposited in the small business incubator account established in **RCW 43.176.040; and
+
+.. Integrate the promotion of small business incubators as economic development tools in its strategic plan.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2784-S.SL.pdf?cite=2004%20c%20237%20§%203[2004 c 237 § 3]; ]
+
+== 43.176.900 - Short title—2004 c 237.
+This act may be known as the Washington small business incubator and entrepreneurship assistance act of 2004.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2784-S.SL.pdf?cite=2004%20c%20237%20§%205[2004 c 237 § 5]; ]
+
+== 43.176.901 - Services dependent on legislative funding.
+The *department of community, trade, and economic development shall have no duty to provide services related to the small business incubator and entrepreneurship assistance act of 2004 unless and until the small business incubator program and related administrative expenses are funded by the legislature.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2784-S.SL.pdf?cite=2004%20c%20237%20§%206[2004 c 237 § 6]; ]
+

@@ -1,0 +1,69 @@
+= 11.118 - Trusts—Animals.
+:toc:
+
+== 11.118.005 - Purpose—Intent.
+The purpose of this chapter is to recognize and validate certain trusts that are established for the benefit of animals. Under the common law such trusts were unenforceable at law. The legislature intends that such trusts be recognized as valid, and that such trusts be enforceable in accordance with their terms.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2046-S.SL.pdf?cite=2001%20c%20327%20§%201[2001 c 327 § 1]; ]
+
+== 11.118.010 - Definition.
+As used in this chapter, "animal" means a nonhuman animal with vertebrae.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2046-S.SL.pdf?cite=2001%20c%20327%20§%202[2001 c 327 § 2]; ]
+
+== 11.118.020 - Validity of animal trust.
+A trust for the care of one or more animals is valid. The animals that are to be benefited by the trust may be individually identified, or may be identified in such other manner that they can be readily identified. Unless otherwise provided in the trust instrument or in this chapter, the trust will terminate when no animal that is designated as a beneficiary of the trust remains living.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2046-S.SL.pdf?cite=2001%20c%20327%20§%203[2001 c 327 § 3]; ]
+
+== 11.118.030 - Use of trust principal or income.
+Except as expressly provided otherwise in the trust instrument or in RCW 11.118.070, and except as may be necessary to pay the trustee reasonable compensation and to reimburse the trustee for reasonable costs incurred on behalf of the trust, no portion of the principal or income of the trust may be converted to the use of the trustee or to any use other than for the trust's purpose or for the benefit of the designated animal or animals.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2046-S.SL.pdf?cite=2001%20c%20327%20§%204[2001 c 327 § 4]; ]
+
+== 11.118.040 - Termination of trust.
+Upon termination of the trust, the trustee shall transfer the unexpended trust property in the following order:
+
+. As directed in the instrument;
+
+. If the trust was created in a nonresiduary clause in the trustor's will or in a codicil to the trustor's will and the will or codicil does not direct otherwise, under the residuary clause in the trustor's will, which shall be read as though the testator died on the date the trust terminated; and
+
+. If no taker is produced by the application of subsection (1) or (2) of this section, to the trustor's heirs under RCW 11.04.015, as it exists at the time of the trust's termination.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2046-S.SL.pdf?cite=2001%20c%20327%20§%205[2001 c 327 § 5]; ]
+
+== 11.118.050 - Enforcement of trust provisions.
+The intended use of the principal or income can be enforced by a person designated for that purpose in the trust instrument, by the person having custody of an animal that is a beneficiary of the trust, or by a person appointed by a court upon application to it by any person. Such person is considered to be a permissible distributee, as defined in RCW 11.98.002, of the trust. A person with an interest in the welfare of the animal may petition for an order appointing or removing a person designated or appointed to enforce the trust.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5344.SL.pdf?cite=2013%20c%20272%20§%2027[2013 c 272 § 27]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2046-S.SL.pdf?cite=2001%20c%20327%20§%206[2001 c 327 § 6]; ]
+
+== 11.118.060 - Accounting requirements.
+Except as ordered by the court or required by the trust instrument, no filing, report, registration, or periodic accounting shall be required of the trust or the trustee.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2046-S.SL.pdf?cite=2001%20c%20327%20§%207[2001 c 327 § 7]; ]
+
+== 11.118.070 - Appointment and removal of trustee.
+If no trustee is designated or no designated trustee is willing or able to serve, the court shall name a trustee. The court may order the removal of an acting trustee and the transfer of the property to another trustee if it is necessary or appropriate in order to assure that the intended use is carried out. A court may also make such other orders and determinations as shall be advisable to carry out the intent of the trustor and the purpose of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2046-S.SL.pdf?cite=2001%20c%20327%20§%208[2001 c 327 § 8]; ]
+
+== 11.118.080 - Construction of trust language.
+In construing the language of a trust for an animal, the governing instrument shall be liberally construed to provide the protections of this chapter. It is presumed that language contained in a trust for an animal is not merely precatory or honorary in nature unless it can be shown by clear and cogent evidence that such was the trustor's intent. Extrinsic evidence is admissible in determining the trustor's intent.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2046-S.SL.pdf?cite=2001%20c%20327%20§%209[2001 c 327 § 9]; ]
+
+== 11.118.090 - Application of rule against perpetuities—Effective date of trust.
+RCW 11.98.130 through 11.98.160 apply to trusts that are subject to this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2046-S.SL.pdf?cite=2001%20c%20327%20§%2011[2001 c 327 § 11]; ]
+
+== 11.118.100 - Trustee powers.
+Except as otherwise provided in the trust instrument or in this chapter, all powers and duties conferred on a trustee under Washington law also apply to the trustee of a trust for animals.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2046-S.SL.pdf?cite=2001%20c%20327%20§%2012[2001 c 327 § 12]; ]
+
+== 11.118.110 - Application of chapter.
+This chapter applies to trusts that are created on or after July 22, 2001, and to trusts that are in existence on July 22, 2001, but that are revocable by the trustor on July 22, 2001. If a trustor is incompetent to exercise a power of revocation on July 22, 2001, this chapter does not apply to such trust unless the trustor later becomes competent to exercise such power of revocation, in which case this chapter applies to such trust.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2046-S.SL.pdf?cite=2001%20c%20327%20§%2013[2001 c 327 § 13]; ]
+

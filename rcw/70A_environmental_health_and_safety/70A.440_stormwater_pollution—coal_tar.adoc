@@ -1,0 +1,25 @@
+= 70A.440 - Stormwater pollution—Coal tar.
+:toc:
+
+== 70A.440.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Coal tar" means a viscous substance obtained by the destructive distillation of coal and containing levels of polycyclic aromatic hydrocarbons in excess of ten thousand milligrams per kilogram. "Coal tar" includes, but is not limited to, refined coal tar, high temperature coal tar, coal tar pitch, or any substance identified by chemical abstract number 65996-93-2.
+
+. "Coal tar pavement product" means a material that contains coal tar that is intended for use as a pavement sealant.
+
+. "Department" means the department of ecology.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1721-S.SL.pdf?cite=2011%20c%20268%20§%201[2011 c 268 § 1]; ]
+
+== 70A.440.020 - Coal tar pavement product—Sale or application prohibited—Notice of corrective action—Authority to adopt ordinance to enforce section.
+. After January 1, 2012, no person may sell at wholesale or retail a coal tar pavement product that is labeled as containing coal tar.
+
+. After July 1, 2013, a person may not apply a coal tar pavement product on a driveway or parking area.
+
+. The department may issue a notice of corrective action to a person in violation of subsection (1) or (2) of this section.
+
+. A city or county may adopt an ordinance providing for enforcement of the requirements of subsection (1) or (2) of this section. A city or county adopting an ordinance has jurisdiction concurrent with the department to enforce this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1721-S.SL.pdf?cite=2011%20c%20268%20§%202[2011 c 268 § 2]; ]
+

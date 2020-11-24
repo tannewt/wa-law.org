@@ -1,0 +1,93 @@
+= 48.16 - Deposits of insurers.
+:toc:
+
+== 48.16.010 - Deposits of insurers—In general.
+The commissioner shall accept deposits of securities or funds by insurers as follows:
+
+. Deposits in amount as required to be made as prerequisite to a certificate of authority to transact insurance in this state.
+
+. Deposits of domestic or alien insurers in amount as required to be made by the laws of other states as prerequisite for authority to transact insurance in such other states.
+
+. Deposits in amounts as result from application of the retaliatory provision, RCW 48.14.040.
+
+. Deposits in other additional amounts permitted to be made by this code.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c86.pdf?cite=1955%20c%2086%20§%203[1955 c 86 § 3]; 1947 c 79 § .16.01; Rem. Supp. 1947 § 45.16.01; ]
+
+== 48.16.020 - Deposits to be held in trust.
+Each such deposit shall be held by the commissioner in trust for the protection of all policyholders in the United States of the insurer making it; except that deposits of alien insurers shall be so held for the security of such insurer's obligations arising out of its insurance transactions in the United States, and except as to deposits the purpose of which may be further limited pursuant to the retaliatory provision, RCW 48.14.040.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c86.pdf?cite=1955%20c%2086%20§%204[1955 c 86 § 4]; 1947 c 79 § .16.02; Rem. Supp. 1947 § 45.16.02; ]
+
+== 48.16.030 - Securities eligible for deposit.
+All such deposits shall consist of cash funds or public obligations as specified in *RCW 48.13.040; except, that with respect to deposits held on account of registered policies heretofore issued, the commissioner may accept deposit of such other kinds of securities as are expressly required to be deposited by the terms of such policies.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c86.pdf?cite=1955%20c%2086%20§%205[1955 c 86 § 5]; 1947 c 79 § .16.03; Rem. Supp. 1947 § 45.16.03; ]
+
+== 48.16.050 - Commissioner's receipt—Records.
+. The commissioner shall deliver to the insurer a receipt for all funds and securities so deposited by it.
+
+. The commissioner or the designated depositary shall keep a record in permanent form of all funds and securities so deposited.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c86.pdf?cite=1955%20c%2086%20§%206[1955 c 86 § 6]; 1947 c 79 § .16.05; Rem. Supp. 1947 § 45.16.05; ]
+
+== 48.16.060 - Transfer of securities.
+. No transfer of any funds or security so held on deposit, whether voluntary or by operation of law, shall be valid unless approved in writing by the commissioner.
+
+. A statement of each such transfer shall be entered on the records of the commissioner or designated depositary, showing the name of the insurer from whose deposit such transfer is made, the name of the transferee, and the par value of the securities so transferred.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c86.pdf?cite=1955%20c%2086%20§%207[1955 c 86 § 7]; 1947 c 79 § .16.06; Rem. Supp. 1947 § 45.16.06; ]
+
+== 48.16.070 - Depositaries—Designation.
+The commissioner may designate any solvent trust company or other solvent financial institution having trust powers as the commissioner's depositary to receive and hold any deposit of securities. Any deposit so held shall be at the expense of the insurer. Any solvent financial institution having trust powers, the deposits of which are insured by the Federal Deposit Insurance Corporation, may be designated as the commissioner's depositary to receive and hold any deposit of funds. All funds deposited shall be fully insured by the Federal Deposit Insurance Corporation. For purposes of this section, "solvent financial institution" means any national or state-chartered commercial bank or trust company, savings bank, or savings association, or branch or branches thereof, having trust powers located in this state and lawfully engaged in business.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2144.SL.pdf?cite=1998%20c%2025%20§%201[1998 c 25 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c264.pdf?cite=1985%20c%20264%20§%206[1985 c 264 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c86.pdf?cite=1955%20c%2086%20§%208[1955 c 86 § 8]; 1947 c 79 § .16.07; Rem. Supp. 1947 § 45.16.07; ]
+
+== 48.16.080 - Liability for safekeeping.
+The state of Washington shall be responsible for the safekeeping and return of all funds and securities deposited pursuant to this chapter with the commissioner or in any such depositary so designated by him or her.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5038.SL.pdf?cite=2009%20c%20549%20§%207061[2009 c 549 § 7061]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c86.pdf?cite=1955%20c%2086%20§%209[1955 c 86 § 9]; 1947 c 79 § .16.08; Rem. Supp. 1947 § 45.16.08; ]
+
+== 48.16.090 - Dividends and substitutions.
+While solvent and complying with this code an insurer shall be entitled:
+
+. To collect and receive interest and dividends accruing on the securities so held on deposit for its account, and
+
+. From time to time exchange and substitute for any of such securities, other securities eligible for deposit and of at least equal value.
+
+[ 1947 c 79 § .16.09; Rem. Supp. 1947 § 45.16.09; ]
+
+== 48.16.100 - Release of deposits—Generally.
+. Any such required deposit shall be released in these instances only:
+
+.. Upon extinguishment of all liabilities of the insurer for the security of which the deposit is held, by reinsurance contract or otherwise.
+
+.. If any such deposit or portion thereof is no longer required under this code.
+
+.. If the deposit has been made pursuant to the retaliatory provision, RCW 48.14.040, it shall be released in whole or in part when no longer so required.
+
+.. Upon proper order of a court of competent jurisdiction the deposit shall be released to the receiver, conservator, rehabilitator, or liquidator of the insurer for whose account the deposit is held.
+
+. No such release shall be made except on application to and written order of the commissioner made upon proof satisfactory to him or her of the existence of one of such grounds therefor. The commissioner shall have no personal liability for any such release of any deposit or part thereof so made by him or her in good faith.
+
+. All releases of deposits or any part thereof shall be made to the person then entitled thereto upon proof of title satisfactory to the commissioner.
+
+. Deposits held on account of title insurers are subject further to the provisions of chapter 48.29 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5038.SL.pdf?cite=2009%20c%20549%20§%207062[2009 c 549 § 7062]; 1947 c 79 § .16.10; Rem. Supp. 1947 § 45.16.10; ]
+
+== 48.16.110 - Release of existing deposits.
+Any part of any deposit of an insurer held by the commissioner which is in amount in excess of the deposit required or permitted to be made by such insurer under this code, shall, upon written order of the commissioner, be released; except, that no deposit held on account of any registered policies heretofore issued by the insurer shall be released except in accordance with the conditions under which such deposit was made.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c86.pdf?cite=1955%20c%2086%20§%2010[1955 c 86 § 10]; 1947 c 79 § .16.11; Rem. Supp. 1947 § 45.16.11; ]
+
+== 48.16.120 - Voluntary excess deposits.
+An insurer may deposit and maintain on deposit with the commissioner funds and eligible securities in amount exceeding its required deposit under this code by not more than one hundred thousand dollars, for the purpose of absorbing fluctuations in the value of securities held in its required deposit, and to facilitate the exchange and substitution of such required securities. During the solvency of the insurer any such excess deposit or any part thereof shall be released to it upon its request. During the insolvency of the insurer such excess deposit shall be released only as provided in RCW 48.16.100.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c86.pdf?cite=1955%20c%2086%20§%2011[1955 c 86 § 11]; 1947 c 79 § .16.12; Rem. Supp. 1947 § 45.16.12; ]
+
+== 48.16.130 - Immunity from levy.
+No judgment creditor or other claimant of an insurer shall levy upon any deposit held pursuant to this chapter, or upon any part thereof.
+
+[ 1947 c 79 § .16.13; Rem. Supp. 1947 § 45.16.13; ]
+

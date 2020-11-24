@@ -1,0 +1,126 @@
+= 50.38 - Labor market information and economic analysis.
+:toc:
+
+== 50.38.010 - Intent.
+It is the intent of this chapter to establish the duties and authority of the employment security department relating to labor market information and economic analysis. State and federal law mandate the use of labor market information in the planning, coordinating, management, implementation, and evaluation of certain programs. Often this labor market information is also needed in studies for the legislature and state programs, like those dealing with growth management, community diversification, export assistance, prison industries, energy, agriculture, social services, and environment. Employment, training, education, job creation, and other programs are often mandated without adequate federal or state funding for the needed labor market information. Clarification of the department's duties and authority will assist users of state and local labor market information products and services to have realistic expectations and provide the department authority to recover actual costs for labor market information products and services developed in response to individual requests.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5703.SL.pdf?cite=1993%20c%2062%20§%201[1993 c 62 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c43.pdf?cite=1982%20c%2043%20§%201[1982 c 43 § 1]; ]
+
+== 50.38.015 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Labor market information" means the body of information generated from measurement and evaluation of the socioeconomic factors and variables influencing the employment process in the state and specific labor market areas. These socioeconomic factors and variables affect labor demand and supply relationships and include:
+
+.. Labor force information, which includes but is not limited to employment, unemployment, labor force participation, labor turnover and mobility, average hours and earnings, and changes and characteristics of the population and labor force within specific labor market areas and the state;
+
+.. Occupational information, which includes but is not limited to occupational supply and demand estimates and projections, characteristics of occupations, wage levels, job duties, training and education requirements, conditions of employment, unionization, retirement practices, and training opportunities;
+
+.. Economic information, which includes but is not limited to number of business starts and stops by industry and labor market area, information on employment growth and decline by industry and labor market area, employer establishment data, and number of labor-management disputes by industry and labor market area; and
+
+.. Program information, which includes but is not limited to program participant or student information gathered in cooperation with other state and local agencies along with related labor market information to evaluate the effectiveness, efficiency, and impact of state and local employment, training, education, and job creation efforts in support of planning, management, implementation, and evaluation.
+
+. "Labor market area" means an economically integrated geographic area within which individuals can reside and find employment within a reasonable distance or can readily change employment without changing their place of residence. Such areas shall be identified in accordance with criteria used by the bureau of labor statistics of the department of labor in defining such areas or similar criteria established by the governor. The area generally takes the name of its community. The boundaries depend primarily on economic and geographic factors. Washington state is divided into labor market areas, which usually include a county or a group of contiguous counties.
+
+. "Labor market analysis" means the measurement and evaluation of economic forces as they relate to the employment process in the local labor market area. Variables affecting labor market relationships include, but are not limited to, such factors as labor force changes and characteristics, population changes and characteristics, industrial structure and development, technological developments, shifts in consumer demand, volume and extent of unionization and trade disputes, recruitment practices, wage levels, conditions of employment, and training opportunities.
+
+. "Public records" has the same meaning as set forth in RCW 42.56.010.
+
+. "Department" means the employment security department.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1048-S.SL.pdf?cite=2011%20c%2060%20§%2046[2011 c 60 § 46]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5703.SL.pdf?cite=1993%20c%2062%20§%202[1993 c 62 § 2]; ]
+
+== 50.38.020 - Occupational information responsibility—Forecast, criteria.
+The Washington state employment security department shall be the responsible state entity for the development, administration, and dissemination of Washington state occupational information, including the state occupational forecast. The generation of the forecast is subject to the following criteria:
+
+. The occupational forecast shall be consistent with the state economic forecast;
+
+. Standardized occupational classification codes shall be adopted, to be cross-referenced with other generally accepted occupational codes.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c43.pdf?cite=1982%20c%2043%20§%202[1982 c 43 § 2]; ]
+
+== 50.38.030 - Occupational forecast—Agency consultation.
+The employment security department shall consult with the following agencies prior to the issuance of the state occupational forecast:
+
+. Office of financial management;
+
+. *Department of community, trade, and economic development;
+
+. Department of labor and industries;
+
+. State board for community and technical colleges;
+
+. Superintendent of public instruction;
+
+. Department of social and health services;
+
+. Workforce training and education coordinating board; and
+
+. Other state and local agencies as deemed appropriate by the commissioner of the employment security department.
+
+These agencies shall cooperate with the employment security department, submitting information relevant to the generation of occupational forecasts.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1014.SL.pdf?cite=1995%20c%20399%20§%20142[1995 c 399 § 142]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5703.SL.pdf?cite=1993%20c%2062%20§%203[1993 c 62 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c466.pdf?cite=1985%20c%20466%20§%2066[1985 c 466 § 66]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c6.pdf?cite=1985%20c%206%20§%2018[1985 c 6 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c43.pdf?cite=1982%20c%2043%20§%203[1982 c 43 § 3]; ]
+
+== 50.38.040 - Annual report.
+The department shall submit an annual report to the legislature and the governor that includes, but is not limited to:
+
+. Identification and analysis of industries in the United States, Washington state, and local labor markets with high levels of seasonal, cyclical, and structural unemployment;
+
+. The industries and local labor markets with plant closures and mass lay-offs and the number of affected workers;
+
+. An analysis of the major causes of plant closures and mass lay-offs;
+
+. The number of dislocated workers and persons who have exhausted their unemployment benefits, classified by industry, occupation, and local labor markets;
+
+. The experience of the unemployed in their efforts to become reemployed. This should include research conducted on the continuous wage and benefit history;
+
+. Five-year industry and occupational employment projections; and
+
+. Annual and hourly average wage rates by industry and occupation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5703.SL.pdf?cite=1993%20c%2062%20§%204[1993 c 62 § 4]; ]
+
+== 50.38.050 - Department—Duties.
+The department shall have the following duties:
+
+. Oversight and management of a statewide comprehensive labor market and occupational supply and demand information system, including development of a five-year employment forecast for state and labor market areas;
+
+. Produce local labor market information packages for the state's counties, including special studies and job impact analyses in support of state and local employment, training, education, and job creation programs, especially activities that prevent job loss, reduce unemployment, and create jobs;
+
+. Coordinate with the office of financial management and the office of the forecast council to improve employment estimates by enhancing data on corporate officers, improving business establishment listings, expanding sample for employment estimates, and developing business entry/exit analysis relevant to the generation of occupational and economic forecasts;
+
+. In cooperation with the office of financial management, produce long-term industry and occupational employment forecasts. These forecasts shall be consistent with the official economic and revenue forecast council biennial economic and revenue forecasts; and
+
+. Analyze labor market and economic data, including the use of input-output models, for the purpose of identifying industry clusters and strategic industry clusters that meet the criteria identified by the working group convened by the department of commerce and the workforce training and education coordinating board under chapter 43.330 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2029-S2.SL.pdf?cite=2014%20c%20112%20§%20119[2014 c 112 § 119]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1323-S.SL.pdf?cite=2009%20c%20151%20§%202[2009 c 151 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5703.SL.pdf?cite=1993%20c%2062%20§%205[1993 c 62 § 5]; ]
+
+== 50.38.060 - Department—Powers.
+To implement this chapter, the department has authority to:
+
+. Establish mechanisms to recover actual costs incurred in producing and providing otherwise nonfunded labor market information.
+
+.. If the commissioner, in his or her discretion, determines that providing labor market information is in the public interest, the requested information may be provided at reduced costs.
+
+.. The department shall provide access to labor market information products that constitute public records available for public inspection and copying under chapter 42.56 RCW, at fees not exceeding those allowed under RCW 42.56.120 and consistent with the department's fee schedule;
+
+. Receive federal set aside funds from several federal programs that are authorized to fund state and local labor market information and are required to use such information in support of their programs;
+
+. Enter into agreements with other public agencies for statistical analysis, research, or evaluation studies of local, state, and federally funded employment, training, education, and job creation programs to increase the efficiency or quality of service provided to the public consistent with chapter 50.13 RCW;
+
+. Coordinate with other state agencies to study ways to standardize federal and state multiagency administrative records, such as unemployment insurance information and other information to produce employment, training, education, and economic analysis needed to improve labor market information products and services; and
+
+. Produce agricultural labor market information and economic analysis needed to facilitate the efficient and effective matching of the local supply and demand of agricultural labor critical to an effective agricultural labor exchange in Washington state. Information collected for an agricultural labor market information effort will be coordinated with other federal, state, and local statistical agencies to minimize reporting burden through cooperative data collection efforts for statistical analysis, research, or studies.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1133-S.SL.pdf?cite=2005%20c%20274%20§%20324[2005 c 274 § 324]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5703.SL.pdf?cite=1993%20c%2062%20§%206[1993 c 62 § 6]; ]
+
+== 50.38.065 - Moneys for nonfunded labor market information costs—Disposition.
+Moneys received under RCW 50.38.060(1) to cover the actual costs of nonfunded labor market information shall be deposited in the unemployment compensation administration fund and expenditures shall be authorized only by appropriation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5703.SL.pdf?cite=1993%20c%2062%20§%207[1993 c 62 § 7]; ]
+
+== 50.38.901 - Conflict with federal requirements—1993 c 62.
+If any part of this act is found to be in conflict with federal requirements which are a prescribed condition to the allocation of federal funds to the state or the eligibility of employers in this state for federal unemployment tax credits, the conflicting part of this act is hereby declared to be inoperative solely to the extent of the conflict, and such finding or determination shall not affect the operation of the remainder of this act. The rules under this act shall meet federal requirements which are a necessary condition to the receipt of federal funds by the state or the granting of federal unemployment tax credits to employers in this state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5703.SL.pdf?cite=1993%20c%2062%20§%2010[1993 c 62 § 10]; ]
+

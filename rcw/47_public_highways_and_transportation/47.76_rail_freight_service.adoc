@@ -1,0 +1,288 @@
+= 47.76 - Rail freight service.
+:toc:
+
+== 47.76.200 - Legislative findings.
+The legislature finds that a balanced multimodal transportation system is required to maintain the state's commitment to the growing mobility needs of its citizens and commerce. The state's freight rail system, including branch lines, mainlines, rail corridors, terminals, yards, and equipment, is an important element of this multimodal system. Washington's economy relies heavily upon the freight rail system to ensure movement of the state's agricultural, chemical, and natural resources and manufactured products to local, national, and international markets and thereby contributes to the economic vitality of the state.
+
+Since 1970, Washington has lost over one-third of its rail miles to abandonment and bankruptcies. The combination of rail abandonments and rail system capacity constraints may alter the delivery to market of many commodities. In addition, the resultant motor vehicle freight traffic increases the burden on state highways and county roads. In many cases, the cost of maintaining and upgrading the state highways and county roads exceeds the cost of maintaining rail freight service. Thus, the economy of the state will be best served by a policy of maintaining and encouraging a healthy rail freight system by creating mechanisms that keep rail freight lines operating if the benefits of the service outweigh the cost.
+
+Recognizing the implications of this trend for freight mobility and the state's economic future, the legislature finds that better freight rail planning, better cooperation to preserve rail lines, and increased financial assistance from the state are necessary to maintain and improve the freight rail system within the state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5655.SL.pdf?cite=1995%20c%20380%20§%201[1995 c 380 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5917.SL.pdf?cite=1993%20c%20224%20§%201[1993 c 224 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c303.pdf?cite=1983%20c%20303%20§%204[1983 c 303 § 4]; ]
+
+== 47.76.210 - State freight rail program.
+The Washington state department of transportation shall implement a state freight rail program that supports the freight rail service objectives identified in the state's multimodal transportation plan required under chapter 47.06 RCW. The support may be in the form of projects and strategies that support branch lines and light-density lines, provide access to ports, maintain adequate mainline capacity, and preserve or restore rail corridors and infrastructure.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5655.SL.pdf?cite=1995%20c%20380%20§%202[1995 c 380 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c43.pdf?cite=1990%20c%2043%20§%202[1990 c 43 § 2]; ]
+
+== 47.76.220 - State rail plan—Contents.
+. The department of transportation shall prepare and periodically update a state rail plan, the objective of which is to identify, evaluate, and encourage essential rail services. The plan shall:
+
+.. Identify and evaluate mainline capacity issues;
+
+.. Identify and evaluate port-to-rail access and congestion issues;
+
+.. Identify and evaluate those rail freight lines that may be abandoned or have recently been abandoned;
+
+.. Quantify the costs and benefits of maintaining rail service on those lines that are likely to be abandoned;
+
+.. Establish priorities for determining which rail lines should receive state support. The priorities should include the anticipated benefits to the state and local economy, the anticipated cost of road and highway improvements necessitated by the abandonment or capacity constraints of the rail line, the likelihood the rail line receiving funding can meet operating costs from freight charges, surcharges on rail traffic, and other funds authorized to be raised by a county or port district, and the impact of abandonment or capacity constraints on changes in energy utilization and air pollution;
+
+.. Identify and describe the state's rail system;
+
+.. Prepare a state freight rail system map;
+
+.. Identify and evaluate rail commodity flows and traffic types;
+
+.. Identify lines and corridors that have been rail banked or preserved; and
+
+.. Identify and evaluate other issues affecting the state's rail traffic.
+
+. The state rail plan may be prepared in conjunction with the rail plan prepared by the department pursuant to the federal Railroad Revitalization and Regulatory Reform Act.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5655.SL.pdf?cite=1995%20c%20380%20§%203[1995 c 380 § 3]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5917.SL.pdf?cite=1993%20c%20224%20§%202[1993 c 224 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c432.pdf?cite=1985%20c%20432%20§%201[1985 c 432 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c303.pdf?cite=1983%20c%20303%20§%205[1983 c 303 § 5]; ]
+
+== 47.76.230 - Freight rail planning—Railroad safety.
+. The department of transportation shall continue its responsibility for the development and implementation of the state rail plan and programs, and the utilities and transportation commission shall continue its responsibility for railroad safety issues.
+
+. The department of transportation shall maintain an enhanced data file on the rail system. Proprietary annual station traffic data from each railroad and the modal use of major shippers must be obtained to the extent that such information is available.
+
+. The department of transportation shall provide technical assistance, upon request, to state agencies and local interests. Technical assistance includes, but is not limited to, the following:
+
+.. Rail project cost-benefit analyses conducted in accordance with methodologies recommended by the federal railroad administration;
+
+.. Assistance in the formation of county rail districts and port districts; and
+
+.. Feasibility studies for rail service continuation or rail service assistance, or both.
+
+. With funding authorized by the legislature, the department of transportation, in collaboration with the *department of community, trade, and economic development, and local economic development agencies, and other interested public and private organizations, shall develop a cooperative process to conduct community and business information programs and to regularly disseminate information on rail matters.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1312-S.SL.pdf?cite=2007%20c%20234%20§%2094[2007 c 234 § 94]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5655.SL.pdf?cite=1995%20c%20380%20§%204[1995 c 380 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c43.pdf?cite=1990%20c%2043%20§%203[1990 c 43 § 3]; ]
+
+== 47.76.240 - Rail preservation program.
+The state, counties, local communities, ports, railroads, labor, and shippers all benefit from continuation of rail service and should participate in its preservation. Lines that provide benefits to the state and local jurisdictions, such as avoided roadway costs, reduced traffic congestion, economic development potential, environmental protection, and safety, should be assisted through the joint efforts of the state, local jurisdictions, and the private sector.
+
+State funding for rail service, rail preservation, and corridor preservation projects must benefit the state's interests. The state's interest is served by reducing public roadway maintenance and repair costs, increasing economic development opportunities, increasing domestic and international trade, preserving jobs, and enhancing safety. State funding for projects is contingent upon appropriate local jurisdiction and private sector participation and cooperation. Before spending state moneys on projects, the department shall seek federal, local, and private funding and participation to the greatest extent possible.
+
+. The department of transportation shall continue to monitor the status of the state's mainline and branchline common carrier railroads and preserved rail corridors through the state rail plan and various analyses, and shall seek alternatives to abandonment prior to interstate commerce commission proceedings, where feasible.
+
+. The utilities and transportation commission shall intervene in proceedings of the surface transportation board, or its successor agency, on abandonments, when necessary, to protect the state's interest.
+
+. The department of transportation, in consultation with the Washington state freight rail policy advisory committee, shall establish criteria for evaluating rail projects and corridors of significance to the state.
+
+. Local jurisdictions may implement rail service preservation projects in the absence of state participation.
+
+. The department of transportation shall continue to monitor projects for which it provides assistance.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1312-S.SL.pdf?cite=2007%20c%20234%20§%2095[2007 c 234 § 95]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5655.SL.pdf?cite=1995%20c%20380%20§%205[1995 c 380 § 5]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5917.SL.pdf?cite=1993%20c%20224%20§%203[1993 c 224 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c43.pdf?cite=1990%20c%2043%20§%204[1990 c 43 § 4]; ]
+
+== 47.76.250 - Essential rail assistance account—Purposes.
+. The essential rail assistance account is created in the state treasury. Moneys in the account may be appropriated only for the purposes specified in this section.
+
+. Moneys appropriated from the account to the department of transportation may be used by the department or distributed by the department to cities, county rail districts, counties, economic development councils, port districts, and privately or publicly owned railroads for the purpose of:
+
+.. Acquiring, rebuilding, rehabilitating, or improving rail lines;
+
+.. Purchasing or rehabilitating railroad equipment necessary to maintain essential rail service;
+
+.. Constructing railroad improvements to mitigate port access or mainline congestion;
+
+.. Construction of loading facilities to increase business on light density lines or to mitigate the impacts of abandonment;
+
+.. Preservation, including operation, of light density lines, as identified by the Washington state department of transportation, in compliance with this chapter; or
+
+.. Preserving rail corridors for future rail purposes by purchase of rights-of-way. The department shall first pursue transportation enhancement program funds, available under the federal surface transportation program, to the greatest extent practicable to preserve rail corridors. Purchase of rights-of-way may include track, bridges, and associated elements, and must meet the following criteria:
+
+... The right-of-way has been identified and evaluated in the state rail plan prepared under this chapter;
+
+... The right-of-way may be or has been abandoned; and
+
+... The right-of-way has potential for future rail service.
+
+. The department or the participating local jurisdiction is responsible for maintaining any right-of-way acquired under this chapter, including provisions for drainage management, fire and weed control, and liability associated with ownership.
+
+. Nothing in this section impairs the reversionary rights of abutting landowners, if any, without just compensation.
+
+. The department, cities, county rail districts, counties, and port districts may grant franchises to private railroads for the right to operate on lines acquired under this chapter.
+
+. The department, cities, county rail districts, counties, and port districts may grant trackage rights over rail lines acquired under this chapter.
+
+. If rail lines or rail rights-of-way are used by county rail districts, port districts, state agencies, or other public agencies for the purposes of rail operations and are later abandoned, the rail lines or rail rights-of-way cannot be used for any other purposes without the consent of the underlying fee title holder or reversionary rights holder, or until compensation has been made to the underlying fee title holder or reversionary rights holder.
+
+. The department of transportation shall develop criteria for prioritizing freight rail projects that meet the minimum eligibility requirements for state assistance under RCW 47.76.240. The department shall develop criteria in consultation with the Washington state freight rail policy advisory committee. Project criteria should consider the level of local financial commitment to the project as well as cost/benefit ratio. Counties, local communities, railroads, shippers, and others who benefit from the project should participate financially to the greatest extent practicable.
+
+. Moneys received by the department from franchise fees, trackage rights fees, and loan payments shall be redeposited in the essential rail assistance account. Repayment of loans made under this section shall occur within a period not longer than fifteen years, as set by the department. The repayment schedule and rate of interest, if any, shall be determined before the distribution of the moneys.
+
+. The state shall maintain a contingent interest in any equipment, property, rail line, or facility that has outstanding grants or loans. The owner may not use the line as collateral, remove track, bridges, or associated elements for salvage, or use it in any other manner subordinating the state's interest without permission from the department.
+
+. Moneys may be granted for improvements to privately owned railroads, railroad property, or other private property under this chapter for freight rail projects that meet the minimum eligibility criteria for state assistance under RCW 47.76.240, and which are supported by contractual consideration. At a minimum, such contractual consideration shall consist of defined benefits to the public with a value equal to or greater than the grant amount, and where the grant recipient provides the state a contingent interest adequate to ensure that such public benefits are realized.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1512-S.SL.pdf?cite=2009%20c%20160%20§%201[2009 c 160 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6776.SL.pdf?cite=1996%20c%2073%20§%202[1996 c 73 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5655.SL.pdf?cite=1995%20c%20380%20§%206[1995 c 380 § 6]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5917.SL.pdf?cite=1993%20c%20224%20§%204[1993 c 224 § 4]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1058-S.SL.pdf?cite=1991%20sp.s.%20c%2013%20§%2022[1991 sp.s. c 13 § 22]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1201-S.SL.pdf?cite=1991%20c%20363%20§%20125[1991 c 363 § 125]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c43.pdf?cite=1990%20c%2043%20§%2011[1990 c 43 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c432.pdf?cite=1985%20c%20432%20§%202[1985 c 432 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c57.pdf?cite=1985%20c%2057%20§%2064[1985 c 57 § 64]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c303.pdf?cite=1983%20c%20303%20§%206[1983 c 303 § 6]; ]
+
+== 47.76.255 - Essential rail assistance account—Deposit of revenue from lease or operations on Palouse River and Coulee City rail lines.
+All revenue received by the department of transportation from operating leases or other business operations on the Palouse River and Coulee City rail lines must be deposited in the essential rail assistance account created in RCW 47.76.250 and used only for the refurbishment or improvement of the Palouse River and Coulee City rail lines.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1861-S.SL.pdf?cite=2011%20c%20161%20§%203[2011 c 161 § 3]; ]
+
+== 47.76.270 - Essential rail banking account merged into essential rail assistance account.
+The essential rail banking account is merged into the essential rail assistance account created under RCW 47.76.250. Any appropriations made to the essential rail banking account are transferred to the essential rail assistance account, and are subject to the restrictions of that account.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5655.SL.pdf?cite=1995%20c%20380%20§%207[1995 c 380 § 7]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5917.SL.pdf?cite=1993%20c%20224%20§%206[1993 c 224 § 6]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1058-S.SL.pdf?cite=1991%20sp.s.%20c%2013%20§%20120[1991 sp.s. c 13 § 120]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1201-S.SL.pdf?cite=1991%20c%20363%20§%20127[1991 c 363 § 127]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c43.pdf?cite=1990%20c%2043%20§%207[1990 c 43 § 7]; ]
+
+== 47.76.280 - Sale or lease for use as rail service—Time limit.
+. The department may sell or lease property acquired under this chapter to a county rail district established under chapter 36.60 RCW, a county, a port district, or any other public or private entity authorized to operate rail service. Any public or private entity that originally donated funds to the department under this chapter shall receive credit against the purchase price for the amount donated to the department, less management costs, in the event such public or private entity purchases the property from the department.
+
+. If no county rail district, county, port district, or other public or private entity authorized to operate rail service purchases or leases the property within six years after its acquisition by the department, the department may sell or lease such property in the manner provided in RCW 47.76.290. Failing this, the department may sell or convey all such property in the manner provided in RCW 47.76.300 or 47.76.320.
+
+. Property acquired by the department under this chapter that is not essential for the operation of the rail service contemplated in subsections (1) and (2) of this section may be sold or leased at any time following acquisition in the manner provided in RCW 47.76.290.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1861-S.SL.pdf?cite=2011%20c%20161%20§%201[2011 c 161 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5655.SL.pdf?cite=1995%20c%20380%20§%208[1995 c 380 § 8]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5917.SL.pdf?cite=1993%20c%20224%20§%207[1993 c 224 § 7]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1231-S.SL.pdf?cite=1991%20sp.s.%20c%2015%20§%2061[1991 sp.s. c 15 § 61]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1201-S.SL.pdf?cite=1991%20c%20363%20§%20126[1991 c 363 § 126]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c432.pdf?cite=1985%20c%20432%20§%203[1985 c 432 § 3]; ]
+
+== 47.76.290 - Sale or lease for other use—Authorized buyers, notice, terms, deed, deposit of moneys.
+. If real property acquired by the department under this chapter that is essential for the operation of the rail service contemplated in RCW 47.76.280 is not sold or leased to a public or private entity authorized to operate rail service within six years of its acquisition by the department, the department may sell or lease the property at fair market value, except as provided in RCW 47.76.370, to any of the following governmental entities or persons:
+
+.. Any other state agency;
+
+.. The city or county in which the property is situated;
+
+.. Any other municipal corporation;
+
+.. The former owner, heir, or successor of the property from whom the property was acquired; or
+
+.. Any abutting private owner or owners.
+
+. [Empty]
+.. Real property acquired by the department under this chapter that is not essential for the operation of the rail service contemplated in RCW 47.76.280 may be leased or sold at fair market value, at any time following acquisition, to any entity or person in the following priority order:
+
+... The current tenant or lessee of the real property or real property abutting the property being sold;
+
+... An abutting private owner, but only after each other abutting private owner, if any, as shown in the records of the county assessor, is notified in writing of the proposed sale. If more than one abutting private owner requests in writing the right to purchase the real property within fifteen days after receiving notice of the proposed sale, the real property must be sold at public auction in the manner provided in RCW 47.76.320 (2) through (4);
+
+... Any other state agency;
+
+... The city or county in which the real property is situated;
+
+.. Any other municipal corporation; or
+
+.. The former owner, heir, or successor of the real property from whom the real property was acquired.
+
+.. If the department intends to sell or lease property under this subsection to an entity or person that is not the entity or person with the highest priority status under this subsection, the department must give written notice to each entity or person with higher priority status under this subsection that is reasonably considered to have an interest in the property. The entity with the highest priority status, willing to enter into a sale or lease at fair market value, must be given right of first refusal to buy or lease the property.
+
+. Notice of intention to sell under this section shall be given by publication in one or more newspapers of general circulation in the area in which the property is situated not less than thirty days prior to the intended date of sale.
+
+. Sales to purchasers under this section may, at the department's option, be for cash or by real estate contract, except that any such property of the Palouse River and Coulee City rail lines that was purchased with bond proceeds in November 2004 may be sold only for cash at fair market value.
+
+. Conveyances made under this section shall be by deed executed by the secretary of transportation and shall be duly acknowledged.
+
+. All moneys received under this section shall be deposited in the essential rail assistance account created in RCW 47.76.250. Any moneys deposited under this subsection from sales or leases of property that are related, in any way, to the Palouse River and Coulee City rail lines must be used and, in the case of moneys received from sales, expended within two years of receipt, only for the refurbishment or improvement of the Palouse River and Coulee City rail lines.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1586-S.SL.pdf?cite=2015%20c%20281%20§%202[2015 c 281 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1861-S.SL.pdf?cite=2011%20c%20161%20§%202[2011 c 161 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5917.SL.pdf?cite=1993%20c%20224%20§%208[1993 c 224 § 8]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1231-S.SL.pdf?cite=1991%20sp.s.%20c%2015%20§%2062[1991 sp.s. c 15 § 62]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c432.pdf?cite=1985%20c%20432%20§%204[1985 c 432 § 4]; ]
+
+== 47.76.300 - Sale for other use—Governmental entity.
+If real property acquired by the department under this chapter is not sold to a public or private entity authorized to operate rail service within six years of its acquisition by the department, the department may transfer and convey the property to the United States, its agencies or instrumentalities, to any other state agency, or to any county or city or port district of this state when, in the judgment of the secretary, the transfer and conveyance is consistent with the public interest. Whenever the secretary makes an agreement for any such transfer or conveyance, the secretary shall execute and deliver to the grantee a deed of conveyance, easement, or other instrument, duly acknowledged, as necessary to fulfill the terms of the agreement. All moneys paid to the state of Washington under this section shall be deposited in the essential rail banking account of the general fund.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5917.SL.pdf?cite=1993%20c%20224%20§%209[1993 c 224 § 9]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1231-S.SL.pdf?cite=1991%20sp.s.%20c%2015%20§%2063[1991 sp.s. c 15 § 63]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c432.pdf?cite=1985%20c%20432%20§%205[1985 c 432 § 5]; ]
+
+== 47.76.310 - Rent or lease of lands.
+The department is authorized subject to the provisions and requirements of zoning ordinances of political subdivisions of government, to rent or lease any lands acquired under this chapter, upon such terms and conditions as the department determines.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5917.SL.pdf?cite=1993%20c%20224%20§%2010[1993 c 224 § 10]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1231-S.SL.pdf?cite=1991%20sp.s.%20c%2015%20§%2064[1991 sp.s. c 15 § 64]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c432.pdf?cite=1985%20c%20432%20§%206[1985 c 432 § 6]; ]
+
+== 47.76.320 - Sale at public auction.
+. If real property acquired by the department under this chapter is not sold, conveyed, or leased to a public or private entity within six years of its acquisition by the department, the department may, in its discretion, sell the property at public auction in accordance with subsections (2) through (5) of this section.
+
+. The department shall first give notice of the sale by publication on the same day of the week for two consecutive weeks, with the first publication at least two weeks before the date of the auction, in a legal newspaper of general circulation in the area where the property to be sold is located. The notice shall be placed in both the legal notices section and the real estate classified section of the newspaper. The notice shall contain a description of the property, the time and place of the auction, and the terms of the sale. The sale may be for cash or by real estate contract.
+
+. In accordance with the terms set forth in the notice, the department shall sell the property at the public auction to the highest and best bidder if the bid is equal to or higher than the appraised fair market value of the property.
+
+. If no bids are received at the auction or if all bids are rejected, the department may, in its discretion, enter into negotiations for the sale of the property or may list the property with a licensed real estate broker. No property may be sold by negotiations or through a broker for less than the property's appraised fair market value. Any offer to purchase real property under this subsection shall be in writing and may be rejected at any time before written acceptance by the department.
+
+. Conveyances made under this section shall be by deed executed by the secretary of transportation and shall be duly acknowledged.
+
+. All moneys received under this section shall be deposited in the essential rail banking account of the general fund.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5917.SL.pdf?cite=1993%20c%20224%20§%2011[1993 c 224 § 11]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1231-S.SL.pdf?cite=1991%20sp.s.%20c%2015%20§%2065[1991 sp.s. c 15 § 65]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c432.pdf?cite=1985%20c%20432%20§%207[1985 c 432 § 7]; ]
+
+== 47.76.330 - Eminent domain exemptions.
+Transfers of ownership of property acquired under this chapter are exempt from chapters 8.25 and 8.26 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5917.SL.pdf?cite=1993%20c%20224%20§%2012[1993 c 224 § 12]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1231-S.SL.pdf?cite=1991%20sp.s.%20c%2015%20§%2066[1991 sp.s. c 15 § 66]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c432.pdf?cite=1985%20c%20432%20§%208[1985 c 432 § 8]; ]
+
+== 47.76.350 - Monitoring federal rail policies.
+The department of transportation shall continue to monitor federal rail policies and congressional action and communicate to Washington's congressional delegation and federal transportation agencies the need for a balanced transportation system and associated funding.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c43.pdf?cite=1990%20c%2043%20§%2010[1990 c 43 § 10]; ]
+
+== 47.76.360 - Transfer of funds in excess of grain train program operating needs or capital reserves authorized.
+Funds deemed by the department of transportation, in consultation with relevant port districts, to be in excess of current operating needs or capital reserves of the grain train program may be transferred from the miscellaneous program account to the essential rail assistance account created in RCW 47.76.250 for the purpose of sustaining the grain train program.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2190-S.SL.pdf?cite=2012%20c%2086%20§%20801[2012 c 86 § 801]; ]
+
+== 47.76.370 - Royal Slope railroad right-of-way—Transfer, reversion, agreement.
+. The department must transfer, at no cost, to the Port of Royal Slope the Royal Slope railroad right-of-way, and any materials, equipment, and supplies purchased as a part of the Royal Slope rehabilitation project (L1000053).
+
+. The Port of Royal Slope must maintain the Royal Slope railroad right-of-way and contract with an operator to provide service.
+
+. [Empty]
+.. If the Port of Royal Slope is unable to secure an operator for any continuous five-year period, the right-of-way and any materials, equipment, and remaining supplies revert to the department.
+
+.. If ownership of the right-of-way reverts to the department under this subsection, the property must be in at least substantially the same condition as when the right-of-way was initially transferred under this section.
+
+. Any operator agreement entered into under this section must not limit the state's ability to enter into a franchise agreement on the rail line. If the state enters into such a franchise agreement, the agreement must allow any person operating on that rail line pursuant to a valid contract to continue to operate under the terms of the contract.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1586-S.SL.pdf?cite=2015%20c%20281%20§%201[2015 c 281 § 1]; ]
+
+== 47.76.400 - Produce railcar pool—Findings—Intent.
+The legislature finds that an actively coordinated and cooperatively facilitated railcar pool for transportation of perishable agricultural commodities is necessary for the continued viability and competitiveness of Washington's agricultural industry. The legislature also finds that the rail transportation model established by the Washington Grain Train program has been successful in serving the shipping needs of the wheat industry.
+
+It is, therefore, the intent of the legislature to authorize and direct the Washington department of transportation to develop a railcar program for Washington's perishable commodity industries to be known as the Washington Produce Railcar Pool. This railcar program should be modeled from the Washington Grain Train program, but be made flexible enough to work with entities outside state government in order to fulfill its mission, including, but not limited to, the federal and local governments, commodity commissions, and private entities.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5912-S.SL.pdf?cite=2003%20c%20191%20§%201[2003 c 191 § 1]; ]
+
+== 47.76.410 - Produce railcar pool—Definition.
+As used in RCW 47.76.400 through 47.76.450 "short line railroad" means a Class II or Class III railroad as defined by the United States Surface Transportation Board.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5912-S.SL.pdf?cite=2003%20c%20191%20§%202[2003 c 191 § 2]; ]
+
+== 47.76.420 - Produce railcar pool—Departmental authority.
+In addition to powers otherwise granted by law, the department may establish a Washington Produce Railcar Pool to promote viable, cost-effective rail service for Washington produce, including but not limited to apples, onions, pears, and potatoes, both processed and fresh.
+
+To the extent that funds are appropriated, the department may:
+
+. Operate the Washington Produce Railcar Pool program while working in close coordination with the department of agriculture, interested commodity commissions, port districts, and other interested parties;
+
+. For the purposes of this program:
+
+.. Purchase or lease new or used refrigerated railcars;
+
+.. Accept donated refrigerated railcars; and
+
+.. Refurbish and remodel the railcars;
+
+. Hire, in consultation with affected stakeholders, including but not limited to short line railroads, commodity commissions, and port districts, a transportation management firm to perform the function outlined in RCW 47.76.440; and
+
+. Contribute the efforts of a short line rail-financing expert to find funding for the project to help interested short line railroads in this state to accomplish the necessary operating arrangements once the railcars are ready for service.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5912-S.SL.pdf?cite=2003%20c%20191%20§%203[2003 c 191 § 3]; ]
+
+== 47.76.430 - Produce railcar pool—Funding.
+To the extent that funds are appropriated, the department shall fund the program as follows: The department may accept funding from the federal government, or other public or private sources, to purchase or lease new or used railcars and to refurbish and remodel the railcars as needed. Nothing in this section precludes other entities, including but not limited to short line railroads, from performing the remodeling under RCW 47.76.400 through 47.76.450.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5912-S.SL.pdf?cite=2003%20c%20191%20§%204[2003 c 191 § 4]; ]
+
+== 47.76.440 - Produce railcar pool—Management.
+. The transportation management firm hired under RCW 47.76.420(3) shall manage the day-to-day operations of the railcars, such as monitoring the location of the cars, returning them to this state, distributing them, arranging for pretrips and repairs, and arranging for per diem, mileage allowances, and other freight billing charges with the railroads.
+
+. The railcar pool must be managed over the life of the railcars so that the railcars will be distributed to railroads and port districts around the state for produce loadings as market conditions warrant or to other users, including out-of-state users by contractual agreement, during times of excess capacity.
+
+. To maximize railcar availability and use, the department or the transportation management firm may make agreements with the transcontinental railroad systems to pool Washington-owned or Washington-managed railcars with those of the railroads. In such instances, the railroad must agree to provide immediately an equal number of railcars to the Washington railcar pool.
+
+. The department shall act in an oversight role to verify that the railcar pool is managed in accordance with subsections (2) and (3) of this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5912-S.SL.pdf?cite=2003%20c%20191%20§%205[2003 c 191 § 5]; ]
+
+== 47.76.450 - Produce railcar pool account.
+The produce railcar pool account is created in the custody of the state treasurer. All receipts from per diem charges, mileage charges, and freight billing charges paid by railroads and shippers that use the railcars in the Washington Produce Railcar Pool must be deposited into the account. Expenditures from the account may be used only for the purposes of RCW 47.76.400 through 47.76.440. Only the secretary of transportation or the secretary's designee may authorize expenditures from the account. The account is subject to allotment procedures under chapter 43.88 RCW, but an appropriation is not required for expenditures.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5912-S.SL.pdf?cite=2003%20c%20191%20§%206[2003 c 191 § 6]; ]
+

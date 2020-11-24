@@ -1,0 +1,62 @@
+= 46.30 - Mandatory liability insurance.
+:toc:
+
+== 46.30.010 - Legislative intent.
+It is a privilege granted by the state to operate a motor vehicle upon the highways of this state. The legislature recognizes the threat that uninsured drivers are to the people of the state. In order to alleviate the threat posed by uninsured drivers it is the intent of the legislature to require that all persons driving vehicles registered in this state satisfy the financial responsibility requirements of this chapter. By enactment of this chapter it is not the intent of the legislature to modify, amend, or invalidate existing insurance contract terms, conditions, limitations, or exclusions or to preclude insurance companies from using similar terms, conditions, limitations, or exclusions in future contracts.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c353.pdf?cite=1989%20c%20353%20§%201[1989 c 353 § 1]; ]
+
+== 46.30.020 - Liability insurance or other financial responsibility required—Violations—Exceptions.
+. [Empty]
+.. No person may operate a motor vehicle subject to registration under chapter 46.16A RCW in this state unless the person is insured under a motor vehicle liability policy with liability limits of at least the amounts provided in RCW 46.29.090, is self-insured as provided in RCW 46.29.630, is covered by a certificate of deposit in conformance with RCW 46.29.550, or is covered by a liability bond of at least the amounts provided in RCW 46.29.090. Proof of financial responsibility for motor vehicle operation must be provided on the request of a law enforcement officer in the format specified under RCW 46.30.030.
+
+.. A person who drives a motor vehicle that is required to be registered in another state that requires drivers and owners of vehicles in that state to maintain insurance or financial responsibility shall, when requested by a law enforcement officer, provide evidence of financial responsibility or insurance as is required by the laws of the state in which the vehicle is registered.
+
+.. When asked to do so by a law enforcement officer, failure to display proof of financial responsibility for motor vehicle operation as specified under RCW 46.30.030 creates a presumption that the person does not have motor vehicle insurance.
+
+.. Failure to provide proof of motor vehicle insurance is a traffic infraction and is subject to penalties as set by the supreme court under RCW 46.63.110 or community restitution.
+
+.. For the purposes of this section, when a person uses a portable electronic device to display proof of financial security to a law enforcement officer, the officer may only view the proof of financial security and is otherwise prohibited from viewing any other content on the portable electronic device.
+
+.. Whenever a person presents a portable electronic device pursuant to this section, that person assumes all liability for any damage to the portable electronic device.
+
+. If a person cited for a violation of subsection (1) of this section appears in person before the court or a violations bureau and provides written evidence that at the time the person was cited, he or she was in compliance with the financial responsibility requirements of subsection (1) of this section, the citation shall be dismissed and the court or violations bureau may assess court administrative costs of twenty-five dollars at the time of dismissal. In lieu of personal appearance, a person cited for a violation of subsection (1) of this section may, before the date scheduled for the person's appearance before the court or violations bureau, submit by mail to the court or violations bureau written evidence that at the time the person was cited, he or she was in compliance with the financial responsibility requirements of subsection (1) of this section, in which case the citation shall be dismissed without cost, except that the court or violations bureau may assess court administrative costs of twenty-five dollars at the time of dismissal.
+
+. The provisions of this chapter shall not govern:
+
+.. The operation of a motor vehicle registered under RCW 46.18.220 or 46.18.255, governed by RCW 46.16A.170, or registered with the Washington utilities and transportation commission as common or contract carriers; or
+
+.. The operation of a motor-driven cycle as defined in RCW 46.04.332, a moped as defined in RCW 46.04.304, or a wheeled all-terrain vehicle as defined in RCW 46.09.310.
+
+. RCW 46.29.490 shall not be deemed to govern all motor vehicle liability policies required by this chapter but only those certified for the purposes stated in chapter 46.29 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1014.SL.pdf?cite=2019%20c%2060%20§%201[2019 c 60 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1632-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2023%20§%2020[2013 2nd sp.s. c 23 § 20]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5095-S.SL.pdf?cite=2013%20c%20157%20§%201[2013 c 157 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5061.SL.pdf?cite=2011%20c%20171%20§%2076[2011 c 171 § 76]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6379.SL.pdf?cite=2010%20c%20161%20§%201115[2010 c 161 § 1115]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1576.SL.pdf?cite=2003%20c%20221%20§%201[2003 c 221 § 1]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6627.SL.pdf?cite=2002%20c%20175%20§%2035[2002 c 175 § 35]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5790-S.SL.pdf?cite=1991%20sp.s.%20c%2025%20§%201[1991 sp.s. c 25 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1704-S.SL.pdf?cite=1991%20c%20339%20§%2024[1991 c 339 § 24]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c353.pdf?cite=1989%20c%20353%20§%202[1989 c 353 § 2]; ]
+
+== 46.30.030 - Insurance identification card.
+. Whenever an insurance company issues or renews a motor vehicle liability insurance policy, the company shall provide the policyholder with an identification card as specified by the department of licensing. At the policyholder's request, the insurer shall provide the policyholder a card for each vehicle covered under the policy. The card required by this section may be provided in either paper or electronic format. Acceptable electronic formats include the display of electronic images on a cellular phone or any other type of portable electronic device.
+
+. The department of licensing shall adopt rules specifying the type, style, and content of insurance identification cards to be used for proof of compliance with RCW 46.30.020, including the method for issuance of such identification cards by persons or organizations providing proof of compliance through self-insurance, certificate of deposit, or bond. In adopting such rules the department shall consider the guidelines for insurance identification cards developed by the insurance industry committee on motor vehicle administration.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5095-S.SL.pdf?cite=2013%20c%20157%20§%202[2013 c 157 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c353.pdf?cite=1989%20c%20353%20§%203[1989 c 353 § 3]; ]
+
+== 46.30.040 - Providing false evidence of financial responsibility—Penalty.
+Any person who knowingly provides false evidence of financial responsibility to a law enforcement officer or to a court, including an expired or canceled insurance policy, bond, or certificate of deposit is guilty of a misdemeanor.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5790-S.SL.pdf?cite=1991%20sp.s.%20c%2025%20§%202[1991 sp.s. c 25 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c353.pdf?cite=1989%20c%20353%20§%204[1989 c 353 § 4]; ]
+
+== 46.30.050 - Autonomous motor vehicles—Self-certification testing pilot program—Liability insurance required.
+. No entity may test an autonomous motor vehicle on any public roadway under the department's autonomous vehicle self-certification testing pilot program unless:
+
+.. The entity holds an umbrella liability insurance policy that covers the entity in an amount not less than five million dollars per occurrence for damages by reason of bodily injury or death or property damage, caused by the operation of an autonomous motor vehicle for which information is provided under the autonomous vehicle self-certification testing pilot program; and
+
+.. The entity maintains proof of this policy with the department in a form and manner specified by the department.
+
+. Requirements related to proof of motor vehicle insurance under RCW 46.30.020 and penalties for providing false evidence of motor vehicle insurance under RCW 46.30.040 are applicable to this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=2020%20c%20182%20§%201[2020 c 182 § 1]; ]
+
+== 46.30.901 - Effective date—1989 c 353.
+This act shall take effect January 1, 1990. The director of the department of licensing may immediately take such steps as are necessary to ensure that this act is implemented on its effective date.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c353.pdf?cite=1989%20c%20353%20§%2013[1989 c 353 § 13]; ]
+

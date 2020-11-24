@@ -1,0 +1,274 @@
+= 18.25 - Chiropractic.
+:toc:
+
+== 18.25.002 - Purpose.
+This chapter is enacted:
+
+. In the exercise of the police power of the state and to provide an adequate public agency to act as a disciplinary body for the members of the chiropractic profession licensed to practice chiropractic in this state;
+
+. Because the health and well-being of the people of this state are of paramount importance;
+
+. Because the conduct of members of the chiropractic profession licensed to practice chiropractic in this state plays a vital role in preserving the health and well-being of the people of the state; and
+
+. Because practicing other healing arts while licensed to practice chiropractic and while holding one's self out to the public as a chiropractor affects the health and welfare of the people of the state.
+
+It is the purpose of the commission established under RCW 18.25.0151 to regulate the competency and quality of professional health care providers under its jurisdiction by establishing, monitoring, and enforcing qualifications for licensing, consistent standards of practice, continuing competency mechanisms, and discipline. Rules, policies, and procedures developed by the commission must promote the delivery of quality health care to the residents of the state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20101[1994 sp.s. c 9 § 101]; ]
+
+== 18.25.003 - Regulation of health care professions—Criteria.
+See chapter 18.120 RCW.
+
+[ ]
+
+== 18.25.005 - "Chiropractic" defined.
+. Chiropractic is the practice of health care that deals with the diagnosis or analysis and care or treatment of the vertebral subluxation complex and its effects, articular dysfunction, and musculoskeletal disorders, all for the restoration and maintenance of health and recognizing the recuperative powers of the body.
+
+. Chiropractic treatment or care includes the use of procedures involving spinal adjustments and extremity manipulation. Chiropractic treatment also includes the use of heat, cold, water, exercise, massage, trigger point therapy, dietary advice and recommendation of nutritional supplementation, the normal regimen and rehabilitation of the patient, first aid, and counseling on hygiene, sanitation, and preventive measures. Chiropractic care also includes such physiological therapeutic procedures as traction and light, but does not include procedures involving the application of sound, diathermy, or electricity.
+
+. As part of a chiropractic differential diagnosis, a chiropractor shall perform a physical examination, which may include diagnostic x-rays, to determine the appropriateness of chiropractic care or the need for referral to other health care providers. The chiropractic quality assurance commission shall provide by rule for the type and use of diagnostic and analytical devices and procedures consistent with this chapter.
+
+. Chiropractic care shall not include the prescription or dispensing of any medicine or drug, the practice of obstetrics or surgery, the use of x-rays or any other form of radiation for therapeutic purposes, colonic irrigation, or any form of venipuncture.
+
+. Nothing in this chapter prohibits or restricts any other practitioner of a "health profession" defined in RCW 18.120.020(4) from performing any functions or procedures the practitioner is licensed or permitted to perform, and the term "chiropractic" as defined in this chapter shall not prohibit a practitioner licensed under chapter 18.71 RCW from performing medical procedures, except such procedures shall not include the adjustment by hand of any articulation of the spine.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2501.SL.pdf?cite=2002%20c%20225%20§%201[2002 c 225 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20102[1994 sp.s. c 9 § 102]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6054.SL.pdf?cite=1992%20c%20241%20§%202[1992 c 241 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c97.pdf?cite=1974%20ex.s.%20c%2097%20§%207[1974 ex.s. c 97 § 7]; ]
+
+== 18.25.006 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Department" means the department of health.
+
+. "Secretary" means the secretary of the department of health or the secretary's designee.
+
+. "Chiropractor" means an individual licensed under this chapter.
+
+. "Commission" means the Washington state chiropractic quality assurance commission.
+
+. "Vertebral subluxation complex" means a functional defect or alteration of the biomechanical and physiological dynamics in a joint that may cause neuronal disturbances, with or without displacement detectable by X-ray. The effects of the vertebral subluxation complex may include, but are not limited to, any of the following: Fixation, hypomobility, hypermobility, periarticular muscle spasm, edema, or inflammation.
+
+. "Articular dysfunction" means an alteration of the biomechanical and physiological dynamics of a joint of the axial or appendicular skeleton.
+
+. "Musculoskeletal disorders" means abnormalities of the muscles, bones, and connective tissue.
+
+. "Chiropractic differential diagnosis" means a diagnosis to determine the existence of a vertebral subluxation complex, articular dysfunction, or musculoskeletal disorder, and the appropriateness of chiropractic care or the need for referral to other health care providers.
+
+. "Chiropractic adjustment" means chiropractic care of a vertebral subluxation complex, articular dysfunction, or musculoskeletal disorder. Such care includes manual or mechanical adjustment of any vertebral articulation and contiguous articulations beyond the normal passive physiological range of motion.
+
+. "Extremity manipulation" means a corrective thrust or maneuver applied to a joint of the appendicular skeleton.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2501.SL.pdf?cite=2002%20c%20225%20§%202[2002 c 225 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20103[1994 sp.s. c 9 § 103]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6054.SL.pdf?cite=1992%20c%20241%20§%203[1992 c 241 § 3]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%2036[1991 c 3 § 36]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c258.pdf?cite=1989%20c%20258%20§%2012[1989 c 258 § 12]; ]
+
+== 18.25.011 - License required.
+It is a violation of RCW 18.130.190 for any person to practice chiropractic in this state unless the person has obtained a license as provided in this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c150.pdf?cite=1987%20c%20150%20§%2014[1987 c 150 § 14]; ]
+
+== 18.25.0151 - Commission established—Membership.
+The Washington state chiropractic quality assurance commission is established, consisting of fourteen members appointed by the governor to four-year terms, and including eleven practicing chiropractors and three public members. No member may serve more than two consecutive full terms. In appointing the initial members of the commission, it is the intent of the legislature that, to the extent possible, the governor appoint members of the previous boards and committees regulating this profession to the commission. Members of the commission hold office until their successors are appointed. The governor may appoint the members of the initial commission to staggered terms of from one to four years. Thereafter, all members shall be appointed to full four-year terms. The governor may consider persons who are recommended for appointment by chiropractic associations of this state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2400.SL.pdf?cite=2000%20c%20171%20§%205[2000 c 171 § 5]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20104[1994 sp.s. c 9 § 104]; ]
+
+== 18.25.0161 - Commission—Removal of member—Order of removal—Vacancy.
+The governor may remove a member of the commission for neglect of duty, misconduct, or malfeasance or misfeasance in office. Whenever the governor is satisfied that a member of the commission has been guilty of neglect of duty, misconduct, or malfeasance or misfeasance in office, the governor shall file with the secretary of state a statement of the causes for and the order of removal from office, and the secretary shall forthwith send a certified copy of the order of removal and statement of causes by certified mail to the last known post office address of the member. If a vacancy occurs on the commission, the governor shall appoint a replacement to fill the remainder of the unexpired term.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20105[1994 sp.s. c 9 § 105]; ]
+
+== 18.25.0165 - Commission—Qualifications of members.
+Members must be citizens of the United States and residents of this state. Members must be licensed chiropractors for a period of five years before appointment. Public members of the commission may not be a member of any other health care licensing board or commission, or have a fiduciary obligation to a facility rendering health services regulated by the commission, or have a material or financial interest in the rendering of health services regulated by the commission.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20106[1994 sp.s. c 9 § 106]; ]
+
+== 18.25.0167 - Commission—Budget—Staff—Dispute resolution.
+. The secretary shall employ an executive director that is:
+
+.. Hired by and serves at the pleasure of the commission;
+
+.. Exempt from the provisions of the civil service law, chapter 41.06 RCW and whose salary is established by the commission in accordance with RCW 43.03.028; and
+
+.. Responsible for performing all administrative duties of the commission, including preparing an annual budget, and any other duties as delegated to the executive director by the commission.
+
+. Consistent with the budgeting and accounting act, the commission is responsible for proposing its own biennial budget which the secretary must submit to the office of financial management.
+
+. Prior to adopting credentialing fees under RCW 43.70.250, the secretary shall collaborate with the commission to determine the appropriate fees necessary to support the activities of the commission.
+
+. Prior to the secretary exercising the secretary's authority to adopt uniform rules and guidelines, or any other actions that might impact the licensing or disciplinary authority of the commission, the secretary shall first meet with the commission to determine how those rules or guidelines, or changes to rules or guidelines, might impact the commission's ability to effectively carry out its statutory duties. If the commission, in consultation with the secretary, determines that the proposed rules or guidelines, or changes to existing rules or guidelines, will negatively impact the commission's ability to effectively carry out its statutory duties, then the individual commission shall collaborate with the secretary to develop alternative solutions to mitigate the impacts. If an alternative solution cannot be reached, the parties may resolve the dispute through a mediator as set forth in subsection (6) of this section.
+
+. The commission shall negotiate with the secretary to develop performance-based expectations, including identification of key performance measures. The performance expectations should focus on consistent, timely regulation of health care professionals.
+
+. In the event there is a disagreement between the commission and the secretary, that is unable to be resolved through negotiation, a representative of both parties shall agree on the designation of a third party to mediate the dispute.
+
+. The secretary shall employ staff that are hired and managed by the executive director provided that nothing contained in this section may be construed to alter any existing collective bargaining unit or the provisions of any existing collective bargaining agreement.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2313.SL.pdf?cite=2018%20c%20215%20§%201[2018 c 215 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1518-S2.SL.pdf?cite=2013%20c%2081%20§%201[2013 c 81 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1048-S.SL.pdf?cite=2011%20c%2060%20§%205[2011 c 60 § 5]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1103-S4.SL.pdf?cite=2008%20c%20134%20§%2031[2008 c 134 § 31]; ]
+
+== 18.25.0171 - Commission—Duties and powers—Compensation—Rules.
+The commission shall elect officers each year. Meetings of the commission are open to the public, except that the commission may hold executive sessions to the extent permitted by chapter 42.30 RCW. The secretary of health shall furnish such secretarial, clerical, and other assistance as the commission may require.
+
+Each member of the commission shall be compensated in accordance with RCW 43.03.265. Members shall be reimbursed for travel expenses incurred in the actual performance of their duties, as provided in RCW 43.03.050 and 43.03.060.
+
+A majority of the commission members appointed and serving constitutes a quorum for the transaction of commission business. The affirmative vote of a majority of a quorum of the commission is required to carry a motion or resolution, to adopt a rule, or to pass a measure.
+
+The commission may appoint members of panels of at least three members. A quorum for transaction of any business by a panel is a minimum of three members. A majority vote of a quorum of the panel is required to transact business delegated to it by the commission.
+
+The members of the commission are immune from suit in an action, civil or criminal, based upon its disciplinary proceedings or other official acts performed in good faith as members of the commission.
+
+The commission may, whenever the workload of the commission requires, request that the secretary appoint pro tempore members. While serving as members pro tempore persons have all the powers, duties, and immunities, and are entitled to the emoluments, including travel expenses, of the commission.
+
+The commission shall prepare or determine the nature of the examinations for applicants to practice chiropractic.
+
+The commission may adopt such rules as are consistent with this chapter as may be deemed necessary and proper to carry out the purposes of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1863.SL.pdf?cite=1999%20c%20366%20§%202[1999 c 366 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20107[1994 sp.s. c 9 § 107]; ]
+
+== 18.25.0172 - Commission successor to other boards, committee.
+The commission is the successor in interest of the board of chiropractic examiners, the chiropractic disciplinary board, and the chiropractic peer review committee. All contracts, undertakings, agreements, rules, regulations, and policies of those bodies continue in full force and effect on July 1, 1994, unless otherwise repealed or rejected by chapter 9, Laws of 1994 sp. sess. or by the commission.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20119[1994 sp.s. c 9 § 119]; ]
+
+== 18.25.0181 - Commission—Information to legislature.
+In addition to the authority provided in RCW 42.52.804, the commission, its members, or staff as directed by the commission, may communicate, present information requested, volunteer information, testify before legislative committees, and educate the legislature, as the commission may from time to time see fit.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1518-S2.SL.pdf?cite=2013%20c%2081%20§%202[2013 c 81 § 2]; ]
+
+== 18.25.019 - Application of Uniform Disciplinary Act.
+The Uniform Disciplinary Act, chapter 18.130 RCW, governs unlicensed practice, the issuance and denial of licenses, and the discipline of licensees under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20108[1994 sp.s. c 9 § 108]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c150.pdf?cite=1987%20c%20150%20§%2012[1987 c 150 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c259.pdf?cite=1986%20c%20259%20§%2021[1986 c 259 § 21]; ]
+
+== 18.25.0192 - Discrimination—Legislative finding and declaration.
+The legislature finds and declares that the costs of health care to the people are rising disproportionately to other costs and that there is a paramount concern that the right of the people to obtain access to health care in all its facets is being impaired thereby. For this reason, the reliance on the mechanism of health care service contractors, whether profit or nonprofit, is the only effective manner in which the large majority of the people can attain access to quality health care, and it is therefore declared to be in the public interest that health care service contractors be regulated to assure that all the people have access to health care to the greatest extent possible. Chapter 97, Laws of 1974 ex. sess., prohibiting discrimination against the legally recognized and licensed profession of chiropractic, is necessary in the interest of the public health, welfare, and safety.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c97.pdf?cite=1974%20ex.s.%20c%2097%20§%201[1974 ex.s. c 97 § 1]; ]
+
+== 18.25.0193 - Discrimination—Acceptance of services required.
+Notwithstanding any other provision of law, the state and its political subdivisions shall accept the services of licensed chiropractors for any service covered by their licenses with relation to any person receiving benefits, salaries, wages, or any other type of compensation from the state, its agencies or subdivisions.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c97.pdf?cite=1974%20ex.s.%20c%2097%20§%202[1974 ex.s. c 97 § 2]; ]
+
+== 18.25.0194 - Discrimination by governments prohibited.
+The state and its political subdivisions, and all officials, agents, employees, or representatives thereof, are prohibited from in any way discriminating against licensed chiropractors in performing and receiving compensation for services covered by their licenses.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c97.pdf?cite=1974%20ex.s.%20c%2097%20§%203[1974 ex.s. c 97 § 3]; ]
+
+== 18.25.0195 - Discriminatory government contracts prohibited.
+Notwithstanding any other provision of law, the state and its political subdivisions, and all officials, agents, employees, or representatives thereof, are prohibited from entering into any agreement or contract with any individual, group, association, or corporation which in any way, directly or indirectly, discriminates against licensed chiropractors in performing and receiving compensation for services covered by their licenses.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c97.pdf?cite=1974%20ex.s.%20c%2097%20§%204[1974 ex.s. c 97 § 4]; ]
+
+== 18.25.0196 - Discrimination—Policy costs as additional compensation.
+Notwithstanding any other provision of law, for the purpose of RCW 18.25.0192 through 18.25.0195 and 18.25.0197 it is immaterial whether the cost of any policy, plan, agreement, or contract be deemed additional compensation for services, or otherwise.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2400.SL.pdf?cite=2000%20c%20171%20§%206[2000 c 171 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c97.pdf?cite=1974%20ex.s.%20c%2097%20§%205[1974 ex.s. c 97 § 5]; ]
+
+== 18.25.0197 - Discrimination—Application of RCW  18.25.0192 through  18.25.0196.
+RCW 18.25.0192 through 18.25.0196 shall apply to all agreements, renewals, or contracts issued on or after July 24, 1974.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2400.SL.pdf?cite=2000%20c%20171%20§%207[2000 c 171 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c97.pdf?cite=1974%20ex.s.%20c%2097%20§%206[1974 ex.s. c 97 § 6]; ]
+
+== 18.25.020 - Applications—Qualifications—Fees.
+. Any person not now licensed to practice chiropractic in this state and who desires to practice chiropractic in this state, before it shall be lawful for him or her to do so, shall make application therefor to the secretary, upon such form and in such manner as may be adopted and directed by the secretary. Each applicant who matriculates to a chiropractic college, shall have completed not less than one-half of the requirements for a baccalaureate degree at an accredited and approved college or university and shall be a graduate of a chiropractic school or college accredited and approved by the commission and shall show satisfactory evidence of completion by each applicant of a resident course of study of not less than four thousand classroom hours of instruction in such school or college. Applications shall be in writing and shall be signed by the applicant, and shall recite the history of the applicant as to his or her educational advantages, his or her experience in matters pertaining to a knowledge of the care of the sick, how long he or she has studied chiropractic, under what teachers, what collateral branches, if any, he or she has studied, the length of time he or she has engaged in clinical practice; accompanying the same by reference therein, with any proof thereof in the shape of diplomas, certificates, and shall accompany said application with satisfactory evidence of good character and reputation.
+
+. Applicants shall follow administrative procedures and administrative requirements and pay fees as provided in RCW 43.70.250 and 43.70.280.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5810-S.SL.pdf?cite=2015%20c%2072%20§%207[2015 c 72 § 7]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2151-S.SL.pdf?cite=1996%20c%20191%20§%208[1996 c 191 § 8]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20109[1994 sp.s. c 9 § 109]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%2038[1991 c 3 § 38]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c258.pdf?cite=1989%20c%20258%20§%203[1989 c 258 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c7.pdf?cite=1985%20c%207%20§%2014[1985 c 7 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c30.pdf?cite=1975%201st%20ex.s.%20c%2030%20§%2019[1975 1st ex.s. c 30 § 19]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c97.pdf?cite=1974%20ex.s.%20c%2097%20§%209[1974 ex.s. c 97 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c53.pdf?cite=1959%20c%2053%20§%203[1959 c 53 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1919c5.pdf?cite=1919%20c%205%20§%205[1919 c 5 § 5]; RRS § 10100; ]
+
+== 18.25.025 - Accreditation of schools and colleges—Standards—Assistants for examinations authorized.
+The commission shall have authority to grant accreditation to chiropractic schools and colleges.
+
+The commission shall have authority to adopt educational standards which may include standards of any accreditation agency recognized by the office of education of the department of health and human services or its successor agency, or any portion of such standards, as the commission's standards: PROVIDED, That such standards, so adopted, shall contain, as a minimum of on-campus instruction in chiropractic, the following: Principles of chiropractic, two hundred hours; adjustive technique, four hundred hours; spinal roentgenology, one hundred seventy-five hours; symptomatology and diagnosis, four hundred twenty-five hours; clinic, six hundred twenty-five hours: PROVIDED FURTHER, That such standards shall not mandate, as a requirement for either graduation or accreditation, or include in the computation of hours of chiropractic instruction required by this section, instruction in the following: Mechanotherapy, physiotherapy, acupuncture, acupressure, or any other therapy.
+
+The commission shall approve and accredit chiropractic colleges and schools which apply for commission accreditation and approval and which meet to the commission's satisfaction the educational standards adopted by the commission. It shall be the responsibility of the college to apply for accreditation and approval, and of a student to ascertain whether a college or school has been accredited or approved by the commission.
+
+The commission shall have authority to engage assistants in the giving of examinations called for under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20110[1994 sp.s. c 9 § 110]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c51.pdf?cite=1980%20c%2051%20§%203[1980 c 51 § 3]; ]
+
+== 18.25.030 - Examinations—Subjects—Grades.
+Examinations for license to practice chiropractic shall be developed and administered, or approved, or both, by the commission according to the method deemed by it to be the most practicable and expeditious to test the applicant's qualifications. The commission may approve an examination prepared or administered by a private testing agency or association of licensing authorities. The applicant shall be designated by a number instead of his or her name, so that the identity shall not be discovered or disclosed to the members of the commission until after the examination papers are graded.
+
+Examination subjects may include the following: Anatomy, physiology, spinal anatomy, microbiology-public health, general diagnosis, neuromuscularskeletal diagnosis, X-ray, principles of chiropractic and adjusting, as taught by chiropractic schools and colleges, and any other subject areas consistent with chapter 18.25 RCW. The commission shall set the standards for passing the examination. The commission may enact additional requirements for testing administered by the national board of chiropractic examiners.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5308-S.SL.pdf?cite=1995%20c%20198%20§%201[1995 c 198 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20111[1994 sp.s. c 9 § 111]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c258.pdf?cite=1989%20c%20258%20§%204[1989 c 258 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c97.pdf?cite=1974%20ex.s.%20c%2097%20§%2010[1974 ex.s. c 97 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c53.pdf?cite=1959%20c%2053%20§%204[1959 c 53 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1919c5.pdf?cite=1919%20c%205%20§%206[1919 c 5 § 6]; RRS § 10101; ]
+
+== 18.25.035 - Waiver of examination.
+The commission may, in its discretion, waive any examination required by this chapter of persons applying for a license to practice chiropractic if, in its opinion, the applicant has successfully passed an examination conducted by the national board of chiropractic examiners of the United States that is of equal or greater difficulty than the examination being waived by the commission.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20112[1994 sp.s. c 9 § 112]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c227.pdf?cite=1971%20ex.s.%20c%20227%20§%205[1971 ex.s. c 227 § 5]; ]
+
+== 18.25.040 - Licensure by endorsement.
+Persons licensed to practice chiropractic under the laws of any other state, territory of the United States, the District of Columbia, Puerto Rico, or province of Canada, having qualifications substantially equivalent to those required by this chapter, may, in the discretion of the commission, and after such examination as may be required by rule of the commission, be issued a license to practice in this state without further examination, upon payment of a fee determined by the secretary as provided in RCW 43.70.250.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20113[1994 sp.s. c 9 § 113]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1629-S.SL.pdf?cite=1991%20c%20320%20§%208[1991 c 320 § 8]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%2039[1991 c 3 § 39]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c7.pdf?cite=1985%20c%207%20§%2015[1985 c 7 § 15]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c30.pdf?cite=1975%201st%20ex.s.%20c%2030%20§%2020[1975 1st ex.s. c 30 § 20]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c227.pdf?cite=1971%20ex.s.%20c%20227%20§%206[1971 ex.s. c 227 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1919c5.pdf?cite=1919%20c%205%20§%2014[1919 c 5 § 14]; RRS § 10108; ]
+
+== 18.25.070 - License renewal—Continuing education—Rules.
+Every person practicing chiropractic shall, as a prerequisite to renewal of license, submit to the secretary at the time of application therefor, satisfactory proof showing attendance of at least twenty-five hours per year during the preceding credential period, at one or more chiropractic symposiums which are recognized and approved by the commission. The commission may, for good cause shown, waive said attendance. The following guidelines for such symposiums shall apply:
+
+. The commission shall set criteria for the course content of educational symposia concerning matters which are recognized by the state of Washington chiropractic licensing laws; it shall be the licensee's responsibility to determine whether the course content meets these criteria;
+
+. The commission shall adopt standards for distribution of annual continuing education credit requirements;
+
+. Rules shall be adopted by the commission for licensees practicing and residing outside the state who shall meet all requirements established by rule of the commission.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2151-S.SL.pdf?cite=1996%20c%20191%20§%209[1996 c 191 § 9]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20114[1994 sp.s. c 9 § 114]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%2040[1991 c 3 § 40]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c258.pdf?cite=1989%20c%20258%20§%205[1989 c 258 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c7.pdf?cite=1985%20c%207%20§%2017[1985 c 7 § 17]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c51.pdf?cite=1980%20c%2051%20§%202[1980 c 51 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c30.pdf?cite=1975%201st%20ex.s.%20c%2030%20§%2022[1975 1st ex.s. c 30 § 22]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c97.pdf?cite=1974%20ex.s.%20c%2097%20§%2011[1974 ex.s. c 97 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c266.pdf?cite=1971%20ex.s.%20c%20266%20§%205[1971 ex.s. c 266 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c53.pdf?cite=1959%20c%2053%20§%205[1959 c 53 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1919c5.pdf?cite=1919%20c%205%20§%2010[1919 c 5 § 10]; RRS § 10105; ]
+
+== 18.25.075 - Inactive status.
+. An individual may place his or her license on inactive status. The holder of an inactive license shall not practice chiropractic in this state without first activating the license.
+
+. The inactive renewal fee shall be established by the secretary pursuant to RCW 43.70.250. Failure to renew an inactive license shall result in cancellation in the same manner as an active license.
+
+. An inactive license may be placed in an active status upon compliance with the rules established by the commission.
+
+. The provisions relating to the denial, suspension, and revocation of a license shall be applicable to an inactive license, except that when proceedings to suspend or revoke an inactive license have been initiated, the license shall remain inactive until the proceedings have been completed.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20115[1994 sp.s. c 9 § 115]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%2041[1991 c 3 § 41]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c258.pdf?cite=1989%20c%20258%20§%2014[1989 c 258 § 14]; ]
+
+== 18.25.080 - Health regulations.
+Chiropractic practitioners shall observe and be subject to all state and municipal regulations relating to the control of contagious and infectious diseases, sign death certificates and any and all matters pertaining to public health, reporting to the proper health officers the same as other practitioners.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1919c5.pdf?cite=1919%20c%205%20§%2012[1919 c 5 § 12]; RRS § 10107; ]
+
+== 18.25.090 - Use of credentials in written materials—Treatment by prayer not regulated.
+On all cards, books, papers, signs or other written or printed means of giving information to the public, used by those licensed by this chapter to practice chiropractic, the practitioner shall use after or below his or her name the term chiropractor, chiropractic physician, D.C., or D.C.Ph.C., designating his or her line of drugless practice, and shall not use the letters M.D. or D.O.: PROVIDED, That the word doctor or "Dr." or physician may be used only in conjunction with the word "chiropractic" or "chiropractor". Nothing in this chapter shall be held to apply to or to regulate any kind of treatment by prayer.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1629-S.SL.pdf?cite=1991%20c%20320%20§%209[1991 c 320 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c258.pdf?cite=1989%20c%20258%20§%206[1989 c 258 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c259.pdf?cite=1986%20c%20259%20§%2024[1986 c 259 § 24]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c277.pdf?cite=1981%20c%20277%20§%203[1981 c 277 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c227.pdf?cite=1971%20ex.s.%20c%20227%20§%207[1971 ex.s. c 227 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1919c5.pdf?cite=1919%20c%205%20§%2015[1919 c 5 § 15]; RRS § 10109; ]
+
+== 18.25.100 - Prosecutions for violations.
+It shall be the duty of the several prosecuting attorneys of this state to prosecute all persons charged with the violation of any of the provisions of this chapter. It shall be the duty of the secretary to aid said attorneys of this state in the enforcement of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%2042[1991 c 3 § 42]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1919c5.pdf?cite=1919%20c%205%20§%2016[1919 c 5 § 16]; RRS § 10110; ]
+
+== 18.25.112 - "Unprofessional conduct"—Additional definition—Prosecution.
+. In addition to those acts defined in chapter 18.130 RCW, the term "unprofessional conduct" as used in this chapter includes failing to differentiate chiropractic care from any and all other methods of healing at all times.
+
+. Proceedings involving alleged unprofessional conduct shall be prosecuted by the attorney general upon the direction of the commission.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20116[1994 sp.s. c 9 § 116]; ]
+
+== 18.25.180 - Employment of X-ray technicians—Rules.
+. A chiropractor may employ a technician to operate X-ray equipment after the technician has registered with the commission.
+
+. The commission may adopt rules necessary and appropriate to carry out the purposes of this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20117[1994 sp.s. c 9 § 117]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2037.SL.pdf?cite=1991%20c%20222%20§%209[1991 c 222 § 9]; ]
+
+== 18.25.190 - Exemptions—Jurisdiction of commission.
+Nothing in this chapter shall be construed to prohibit:
+
+. The temporary practice in this state of chiropractic by any chiropractor licensed by another state, territory, or country in which he or she resides. However, the chiropractor shall not establish a practice open to the general public and shall not engage in temporary practice under this section for a period longer than thirty days. The chiropractor shall register his or her intention to engage in the temporary practice of chiropractic in this state with the commission before engaging in the practice of chiropractic, and shall agree to be bound by such conditions as may be prescribed by rule by the commission.
+
+. The practice of chiropractic by a person who is a regular senior student in an accredited school of chiropractic approved by the commission if the practice is part of a regular course of instruction offered by the school and the student is under the direct supervision and control of a chiropractor duly licensed pursuant to this chapter and approved by the commission. A senior student practicing chiropractic under this subsection must pass an open book written jurisprudence examination approved by the commission prior to administering a chiropractic adjustment. The commission may adopt rules requiring the student and his or her supervising licensed chiropractor to file information with the commission regarding the practice of chiropractic under this subsection, including the name and contact information of the student, the name and contact information of the supervising licensed chiropractor, and the location where the student will be practicing.
+
+. The practice of chiropractic by a person serving a period of postgraduate chiropractic training in a program of clinical chiropractic training sponsored by a school of chiropractic accredited in this state if the practice is part of his or her duties as a clinical postgraduate trainee and the trainee is under the direct supervision and control of a chiropractor duly licensed pursuant to this chapter and approved by the commission.
+
+. The practice of chiropractic by a person who is eligible and has applied to take the next available examination for licensing offered by the commission, except that the unlicensed chiropractor must provide all services under the direct control and supervision of a licensed chiropractor approved by the commission. The unlicensed chiropractor may continue to practice as provided by this subsection until the results of the next available examination are published, but in no case for a period longer than six months. The commission shall adopt rules necessary to effectuate the intent of this subsection.
+
+Any provision of chiropractic services by any individual under subsection (1), (2), (3), or (4) of this section shall be subject to the jurisdiction of the commission as provided in chapter 18.130 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5817.SL.pdf?cite=2019%20c%20405%20§%201[2019 c 405 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2400.SL.pdf?cite=2000%20c%20171%20§%208[2000 c 171 § 8]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20118[1994 sp.s. c 9 § 118]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1629-S.SL.pdf?cite=1991%20c%20320%20§%2010[1991 c 320 § 10]; ]
+
+== 18.25.200 - Service and fee limitations by health care purchasers—Pilot projects.
+All state health care purchasers shall have the authority to set service and fee limitations on chiropractic costs. The health care authority shall establish pilot projects in defined geographic regions of the state to contract with organizations of chiropractors for a prepaid capitated amount.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6054.SL.pdf?cite=1992%20c%20241%20§%204[1992 c 241 § 4]; ]
+

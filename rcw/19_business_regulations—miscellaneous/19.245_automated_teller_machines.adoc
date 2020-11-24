@@ -1,0 +1,12 @@
+= 19.245 - Automated teller machines.
+:toc:
+
+== 19.245.010 - Automated teller machine—Access fee or surcharge.
+. The owner of an automated teller machine may charge an access fee or surcharge to a customer conducting a transaction using an account from a financial institution that is located outside of the United States.
+
+. "Automated teller machine" means the same as defined in RCW 19.174.020.
+
+. "Financial institution" means the same as defined in *RCW 30.22.040.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1138.SL.pdf?cite=2005%20c%2098%20§%201[2005 c 98 § 1]; ]
+

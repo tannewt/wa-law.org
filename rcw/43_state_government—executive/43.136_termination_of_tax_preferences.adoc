@@ -1,0 +1,128 @@
+= 43.136 - Termination of tax preferences.
+:toc:
+
+== 43.136.011 - Findings—Intent.
+The legislature recognizes that tax preferences are enacted to meet objectives which are determined to be in the public interest. However, some tax preferences may not be efficient or equitable tools for the achievement of current public policy objectives. Given the changing nature of the economy and tax structures of other states, the legislature finds that periodic performance audits of tax preferences are needed to determine if their continued existence will serve the public interest. The legislature further finds that tax preferences that are enacted for economic development purposes must demonstrate growth in full-time family-wage jobs with health and retirement benefits. Given that an opportunity cost exists with each economic choice, it is the intent of the legislature that the overall impact of economic development-focused tax preferences benefit the state's economy.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5044.SL.pdf?cite=2011%20c%20335%20§%201[2011 c 335 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1069.SL.pdf?cite=2006%20c%20197%20§%201[2006 c 197 § 1]; ]
+
+== 43.136.021 - "Tax preference" defined.
+As used in this chapter, "tax preference" means an exemption, exclusion, or deduction from the base of a state tax; a credit against a state tax; a deferral of a state tax; or a preferential state tax rate.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1069.SL.pdf?cite=2006%20c%20197%20§%202[2006 c 197 § 2]; ]
+
+== 43.136.035 - Citizen commission for performance measurement of tax preferences.
+. The citizen commission for performance measurement of tax preferences is created.
+
+. The commission has seven members as follows:
+
+.. One member is the state auditor, who is a nonvoting member;
+
+.. One member is the chair of the joint legislative audit and review committee, who is a nonvoting member;
+
+.. The chair of each of the two largest caucuses of the senate and the two largest caucuses of the house of representatives shall each appoint a member. None of these appointees may be members of the legislature; and
+
+.. The governor shall select the seventh member.
+
+. Persons appointed by the caucus chairs should be individuals who represent a balance of perspectives and constituencies, and have a basic understanding of state tax policy, government operations, and public services. These appointees should have knowledge and expertise in performance management, fiscal analysis, strategic planning, economic development, performance assessments, or closely related fields.
+
+. The commission shall elect a chair from among its voting or nonvoting members. Decisions of the commission must be made using the sufficient consensus model. For the purposes of this subsection, "sufficient consensus" means the point at which the vast majority of the commission favors taking a particular action. If the commission determines that sufficient consensus cannot be reached, a vote must be taken. The commission must allow a minority report to be included with a decision of the commission, if requested by a member of the commission.
+
+. Members serve for terms of four years, with the terms expiring on June 30th on the fourth year of the term. However, in the case of the initial terms, the members appointed by the chairs of senate caucuses shall serve four-year terms, the members appointed by the chairs of house of representatives caucuses shall serve three-year terms, and the member appointed by the governor shall serve a two-year term, with each of the terms expiring on June 30th of the applicable year. Appointees may be reappointed to serve more than one term.
+
+. The joint legislative audit and review committee shall provide clerical, technical, and management personnel to the commission to serve as the commission's staff. The department of revenue shall provide necessary support and information to the joint legislative audit and review committee.
+
+. The commission shall meet at least once a quarter and may hold additional meetings at the call of the chair or by a majority vote of the members of the commission. The members of the commission shall be compensated in accordance with RCW 43.03.220 and reimbursed for travel expenses in accordance with RCW 43.03.050 and 43.03.060.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1069.SL.pdf?cite=2006%20c%20197%20§%203[2006 c 197 § 3]; ]
+
+== 43.136.045 - Schedule for review of tax preferences—Expedited review—Citizen input.
+. The citizen commission for performance measurement of tax preferences must develop a schedule to accomplish an orderly review of tax preferences at least once every ten years. In determining the schedule, the commission must consider the order the tax preferences were enacted into law, in addition to other factors including but not limited to grouping preferences for review by type of industry, economic sector, or policy area. The commission may elect to include, anywhere in the schedule, a tax preference that has a statutory expiration date. The commission must omit from the schedule tax preferences that are required by constitutional law, sales and use tax exemptions for machinery and equipment for manufacturing, research and development, or testing, the small business credit for the business and occupation tax, sales and use tax exemptions for food and prescription drugs, property tax relief for retired persons, and property tax valuations based on current use, and may omit any tax preference that the commission determines is a critical part of the structure of the tax system. As an alternative to the process under RCW 43.136.055, the commission may recommend to the joint legislative audit and review committee an expedited review process for any tax preference.
+
+. The commission must revise the schedule as needed each year, taking into account newly enacted or terminated tax preferences. The commission must deliver the schedule to the joint legislative audit and review committee by September 1st of each year.
+
+. The commission must provide a process for effective citizen input during its deliberations.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5044.SL.pdf?cite=2011%20c%20335%20§%202[2011 c 335 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1069.SL.pdf?cite=2006%20c%20197%20§%204[2006 c 197 § 4]; ]
+
+== 43.136.055 - Review of tax preferences by joint legislative audit and review committee—Recommendations.
+. The joint legislative audit and review committee must review tax preferences according to the schedule developed under RCW 43.136.045. The committee must consider, but not be limited to, the following factors in the review as relevant to each particular tax preference:
+
+.. The classes of individuals, types of organizations, or types of industries whose state tax liabilities are directly affected by the tax preference;
+
+.. Public policy objectives that might provide a justification for the tax preference, including but not limited to the legislative history, any legislative intent, or the extent to which the tax preference encourages business growth or relocation into this state, promotes growth or retention of high wage jobs, or helps stabilize communities;
+
+.. Evidence that the existence of the tax preference has contributed to the achievement of any of the public policy objectives;
+
+.. The extent to which continuation of the tax preference might contribute to any of the public policy objectives;
+
+.. The extent to which the tax preference may provide unintended benefits to an individual, organization, or industry other than those the legislature intended;
+
+.. The extent to which terminating the tax preference may have negative effects on the category of taxpayers that currently benefit from the tax preference, and the extent to which resulting higher taxes may have negative effects on employment and the economy;
+
+.. The feasibility of modifying the tax preference to provide for adjustment or recapture of the tax benefits of the tax preference if the objectives are not fulfilled;
+
+.. Fiscal impacts of the tax preference, including past impacts and expected future impacts if it is continued. For the purposes of this subsection, "fiscal impact" includes an analysis of the general effects of the tax preference on the overall state economy, including, but not limited to, the effects of the tax preference on the consumption and expenditures of persons and businesses within the state;
+
+.. The extent to which termination of the tax preference would affect the distribution of liability for payment of state taxes;
+
+.. The economic impact of the tax preference compared to the economic impact of government activities funded by the tax for which the tax preference is taken at the same level of expenditure as the tax preference. For purposes of this subsection the economic impact shall be determined using the Washington input-output model as published by the office of financial management;
+
+.. Consideration of similar tax preferences adopted in other states, and potential public policy benefits that might be gained by incorporating corresponding provisions in Washington.
+
+. For each tax preference, the committee must provide a recommendation as to whether the tax preference should be continued without modification, modified, scheduled for sunset review at a future date, or terminated immediately. The committee may recommend accountability standards for the future review of a tax preference.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5044.SL.pdf?cite=2011%20c%20335%20§%203[2011 c 335 § 3]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1069.SL.pdf?cite=2006%20c%20197%20§%205[2006 c 197 § 5]; ]
+
+== 43.136.057 - Review of hog fuel tax exemption by joint legislative audit and review committee. (Expires June 30, 2024.)
+. The intent of the tax exemption provided in RCW 82.08.956 and 82.12.956 is to promote the retention of relatively high wage jobs in the counties where facilities who purchase and use hog fuel are located. Specifically, in a time when there is increasing pressure to close industrial facilities like mills and relocate this economic activity out of state or overseas, rural areas of the state are at risk of losing critical jobs that directly, or indirectly, support entire communities. The legislature, in enacting the hog fuel tax exemption, hopes to retain seventy five percent of the jobs at each facility in the state at which the exemption is claimed, between now and June 30, 2024.
+
+. The joint legislative audit and review committee must review the performance through July 1, 2018, of the tax preferences established in RCW 82.08.956 and 82.12.956, and prepare a report to the legislature by October 31, 2019.
+
+. The department of revenue must provide the committee with annual survey information and any other tax data necessary to conduct the review required in subsection (2) of this section. The employment security department and other agencies, as requested, must cooperate with the committee by providing information about the average wage of employment in the county where each facility owned or operated by a company claiming the exemption is located. The report is not limited to, but must include, the following information:
+
+.. Identification of the baseline number of jobs existing as of January 1, 2013, in facilities where the preference has been claimed, as well as related wage and benefit information;
+
+.. Identification of how the number of jobs at these facilities has changed during the duration of the credit;
+
+.. Analysis of how the wages provided to employees at affected facilities compare to the average wages in the county in which the facility is located;
+
+.. Analysis of how the benefits, including medical and other health care benefits, provided to employees at affected facilities compare to the average wages in the county in which the facility is located; and
+
+.. Whether and to what extent the goal has been achieved, of retaining seventy-five percent of employment at the facilities at which the exemption has been claimed.
+
+. This section expires June 30, 2024.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5882-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2013%20§%201005[2013 2nd sp.s. c 13 § 1005]; ]
+
+== 43.136.065 - Reports to the citizen commission—Reports to the legislature—Public hearings.
+. The joint legislative audit and review committee shall report its findings and recommendations for scheduled tax preferences to the citizen commission for performance measurement of tax preferences by August 30th of each year. The commission may review and comment on the report of the committee. The committee may revise its report based on the comments of the commission. The committee shall prepare a final report that includes the comments of the commission and submit the final report to the finance committee of the house of representatives and the ways and means committee of the senate by December 30th.
+
+. The joint legislative audit and review committee shall submit a special report reviewing all tax preferences that have statutory expiration dates between June 30, 2005, and January 1, 2007. For the special report, the committee shall complete a review under RCW 43.136.055, and obtain comments of the citizen commission for performance measurement of tax preferences under subsection (1) of this section, to the extent possible. The committee shall submit the special report to the finance committee of the house of representatives and the ways and means committee of the senate by January 12, 2006.
+
+. Following receipt of a report under this section, the finance committee of the house of representatives and the ways and means committee of the senate shall jointly hold a public hearing to consider the final report and any related data.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1069.SL.pdf?cite=2006%20c%20197%20§%206[2006 c 197 § 6]; ]
+
+== 43.136.075 - Information from the department of revenue and the employment security department.
+Upon request of the citizen commission for performance measurement of tax preferences or the joint legislative audit and review committee, the department of revenue and the department of employment security shall provide information needed by the commission or committee to meet its responsibilities under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1069.SL.pdf?cite=2006%20c%20197%20§%207[2006 c 197 § 7]; ]
+
+== 43.136.080 - Tax preference performance statements—Task force created.
+. The legislative auditor, with the assistance of a task force, must make recommendations on the appropriate data and metrics that should be included in tax preference performance statements to evaluate new tax preferences, as provided under RCW 82.32.808.
+
+. [Empty]
+.. The task force is comprised of five members: (i) One person from the department of revenue; (ii) one person from an association representing Washington businesses; (iii) one person from the office of financial management; (iv) the legislative auditor or a designee of the legislative auditor; and (v) an economist with substantial experience in state taxes.
+
+.. The task force must choose its chair from among its membership.
+
+. By January 1, 2014, and in compliance with RCW 43.01.036, the legislative auditor must submit a report to the appropriate fiscal committees of the legislature the findings and recommendations of the task force.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5882-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2013%20§%201703[2013 2nd sp.s. c 13 § 1703]; ]
+
+== 43.136.090 - Economic impact report.
+By December 1, 2020, and in compliance with RCW 43.01.036, the joint legislative audit and review committee must provide an economic impact report to the legislature evaluating the impacts of changes made in chapter 207, Laws of 2014 regarding the leasehold tax and property tax treatment of property owned by a federally recognized Indian tribe. The economic impact report must indicate: The number of parcels and uses of land involved; the economic impacts to tribal governments; state and local government revenue reductions, increases, and shifts from all tax sources affected; impacts on public infrastructure and public services; impacts on business investment and business competition; a description of the types of business activities affected; impacts on the number of jobs created or lost; and any other data the joint legislative audit and review committee deems necessary in determining the economic impacts of chapter 207, Laws of 2014.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1287-S.SL.pdf?cite=2014%20c%20207%20§%2011[2014 c 207 § 11]; ]
+

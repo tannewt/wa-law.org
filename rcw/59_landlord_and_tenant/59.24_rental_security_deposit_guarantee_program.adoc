@@ -1,0 +1,49 @@
+= 59.24 - Rental security deposit guarantee program.
+:toc:
+
+== 59.24.010 - Legislative findings.
+The legislature finds that one of the most difficult problems that temporarily homeless persons or families face in seeking permanent housing is the necessity of paying a security deposit in addition to paying the first month's rent. The security deposit requirement is often impossible for the temporarily homeless person or family to meet because their savings are depleted due, for example, to purchasing temporary shelter in a motel when space at an emergency shelter was not available. A program to guarantee the security deposit for the temporarily homeless person or family will help the poor in this state achieve adequate permanent shelter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c237.pdf?cite=1988%20c%20237%20§%201[1988 c 237 § 1]; ]
+
+== 59.24.020 - Program established—Grants—Eligible participants.
+. The *department of community, trade, and economic development shall establish the rental security deposit guarantee program. Through this program the *department of community, trade, and economic development shall provide grants and technical assistance to local governments or nonprofit corporations, including local housing authorities as defined in RCW 35.82.030, who operate emergency housing shelters or transitional housing programs. The grants are to be used for the payment of residential rental security deposits under this chapter. The technical assistance is to help the local government or nonprofit corporation apply for grants and carry out the program. In order to be eligible for grants under this program, the recipient local government or nonprofit corporation shall provide fifteen percent of the total amount needed for the security deposit. The security deposit may include last month's rent where such rent is required as a normal practice by the landlord.
+
+. The grants and matching funds shall be placed by the recipient local government or nonprofit corporation in a revolving loan fund and deposited in a bank or savings institution in an account that is separate from all other funds of the recipient. The funds and interest earned on these funds shall be utilized only as collateral to guarantee the payment of a security deposit required by a residential rental property owner as a condition for entering into a rental agreement with a prospective tenant.
+
+. Prospective tenants who are eligible to participate in the rental security deposit guarantee program shall be limited to homeless persons or families who are residing in an emergency shelter or transitional housing operated by a local government or a nonprofit corporation, or to families who are temporarily residing in a park, car, or are otherwise without adequate shelter. The local government or nonprofit corporation shall make a determination regarding the person's or family's eligibility to participate in this program and a determination that a local rental unit is available for occupation. A determination of eligibility shall include, but is not limited to: (a) A determination that the person or family is homeless or is in transitional housing; (b) a verification of income and that the person or family can reasonably make the monthly rental payment; and (c) a determination that the person or family does not have the financial resources to make the rental security deposit.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1014.SL.pdf?cite=1995%20c%20399%20§%20157[1995 c 399 § 157]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c237.pdf?cite=1988%20c%20237%20§%202[1988 c 237 § 2]; ]
+
+== 59.24.030 - Contracts required—Terms.
+. A three-party contract shall be required of persons participating in the rental deposit guarantee program. The parties to the contract shall be the local government or nonprofit corporation operating a shelter for homeless persons or transitional housing, the tenant, and the rental property owner. The terms of the contract shall include, but are not limited to, all of the following:
+
+.. The owner of the rental property shall agree to allow the security deposit to be paid by the tenant over a specified number of months as an addition to the regular rental payment, rather than as a lump sum payment.
+
+.. Upon execution of the agreement, the local government or nonprofit corporation shall encumber or reserve funds in a special fund created under RCW 59.24.020, as a guarantee of the contract, an amount no less than eighty percent of the outstanding balance of the security deposit owed by the tenant to the landlord.
+
+.. The tenant shall agree to a payment schedule of a specified number of months in which time the total amount of the required deposit shall be paid to the property owner.
+
+.. At any time during the operation of the guarantee, the property owner shall make all claims first against amounts of the security deposit actually paid by the tenant and secondly against the guarantee. At no time during or after the tenancy may the property owner make claims against the guarantee in excess of that amount agreed to as the guarantee.
+
+.. If a deduction from the guarantee fund is required, it may be accomplished only to the extent permitted by the contract and in the manner provided by law, including notice to the legal agency or organization. The tenant shall have no direct use of guarantee funds, including funds which may be referred to as "last month's rent."
+
+. The department shall make available to local governments and nonprofit corporations receiving grants under this chapter the forms deemed necessary for the contracts and the determination of eligibility. Local governments and nonprofit corporations may develop and use their own forms as long as the forms meet the requirements specified in this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c237.pdf?cite=1988%20c%20237%20§%203[1988 c 237 § 3]; ]
+
+== 59.24.040 - Authority of grant recipients.
+A local government or nonprofit corporation receiving a grant under this chapter may utilize a portion of the allocation for costs of administering and operating its rental security deposit guarantee program. The department shall approve the amount so utilized prior to expenditure, and the amount may not exceed five percent of the allocation. The staff of the grant recipient shall be responsible for soliciting housing opportunities for low-income homeless persons, coordinating with local low-income rental property owners, making determinations regarding the eligibility of prospective tenants for the program, and providing information to prospective tenants on the tenant-property owner relationship, appropriate treatment of property, and the importance of timely rental payments. The staff of the grant recipient assigned to administer the program shall be reasonably available to property owners and tenants to answer questions or complaints about the program.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c237.pdf?cite=1988%20c%20237%20§%204[1988 c 237 § 4]; ]
+
+== 59.24.050 - Rules.
+The *department of community, trade, and economic development may adopt rules to implement this chapter, including but not limited to: (1) The eligibility of and the application process for local governments and nonprofit corporations; (2) the criteria by which grants and technical assistance shall be provided to local governments and nonprofit corporations; and (3) the criteria local governments and nonprofit corporations shall use in entering into contracts with tenants and rental property owners.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1014.SL.pdf?cite=1995%20c%20399%20§%20158[1995 c 399 § 158]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c237.pdf?cite=1988%20c%20237%20§%205[1988 c 237 § 5]; ]
+
+== 59.24.060 - Sources of funds.
+The *department of community, trade, and economic development may receive such gifts, grants, or endowments from public or private sources, as may be made from time to time, in trust or otherwise, to be used by the *department of community, trade, and economic development for its programs, including the rental security deposit guarantee program. Funds from the housing trust fund, chapter 43.185 RCW, up to one hundred thousand dollars, may be used for the rental security deposit guarantee program by the *department of community, trade, and economic development, local governments, and nonprofit organizations, provided all the requirements of this chapter and chapter 43.185 RCW are met.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1014.SL.pdf?cite=1995%20c%20399%20§%20159[1995 c 399 § 159]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c237.pdf?cite=1988%20c%20237%20§%206[1988 c 237 § 6]; ]
+

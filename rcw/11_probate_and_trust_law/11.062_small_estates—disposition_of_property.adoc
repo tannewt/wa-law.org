@@ -1,0 +1,72 @@
+= 11.62 - Small estates—Disposition of property.
+:toc:
+
+== 11.62.005 - Definitions.
+As used in this chapter, the following terms shall have the meanings indicated.
+
+. "Personal property" shall include any tangible personal property, any instrument evidencing a debt, obligation, stock, chose in action, license or ownership, any debt or any other intangible property.
+
+. [Empty]
+.. "Successor" and "successors" shall mean (subject to subsection (2)(b) of this section):
+
+... That person or those persons who are entitled to the claimed property pursuant to the terms and provisions of the last will and testament of the decedent or by virtue of the laws of intestate succession contained in this title; and/or
+
+... The surviving spouse or surviving domestic partner of the decedent to the extent that the surviving spouse or surviving domestic partner is entitled to the property claimed as his or her undivided one-half interest in the community property of said spouse or said domestic partner and the decedent; and/or
+
+... The department of social and health services, to the extent of funds expended or paid, in the case of claims provided under RCW 43.20B.080; and/or
+
+... This state, in the case of escheat property.
+
+.. Any person claiming to be a successor solely by reason of being a creditor of the decedent or of the decedent's estate, except for the state as set forth in (a)(iii) and (iv) of this subsection, shall be excluded from the definition of "successor".
+
+. "Person" shall mean any individual or organization, specifically including but not limited to a bank, credit union, brokerage firm or stock transfer agent, corporation, government or governmental subdivision or agency, business trust, estate, trust, partnership or association, two or more persons having a joint or common interest, or any other legal or commercial entity.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%20922[2008 c 6 § 922]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6597-S.SL.pdf?cite=2006%20c%20360%20§%2015[2006 c 360 § 15]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2492.SL.pdf?cite=1994%20c%2021%20§%201[1994 c 21 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c64.pdf?cite=1988%20c%2064%20§%2024[1988 c 64 § 24]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c234.pdf?cite=1977%20ex.s.%20c%20234%20§%2029[1977 ex.s. c 234 § 29]; ]
+
+== 11.62.010 - Disposition of personal property, debts by affidavit, proof of death—Contents of affidavit—Procedure—Securities.
+. At any time after forty days from the date of a decedent's death, any person who is indebted to or who has possession of any personal property belonging to the decedent or to the decedent and his or her surviving spouse or surviving domestic partner as a community, which debt or personal property is an asset which is subject to probate, shall pay such indebtedness or deliver such personal property, or so much of either as is claimed, to a person claiming to be a successor of the decedent upon receipt of proof of death and of an affidavit made by said person which meets the requirements of subsection (2) of this section.
+
+. An affidavit which is to be made pursuant to this section shall state:
+
+.. The claiming successor's name and address, and that the claiming successor is a "successor" as defined in RCW 11.62.005;
+
+.. That the decedent was a resident of the state of Washington on the date of his or her death;
+
+.. That the value of the decedent's entire estate subject to probate, not including the surviving spouse's or surviving domestic partner's community property interest in any assets which are subject to probate in the decedent's estate, wherever located, less liens and encumbrances, does not exceed one hundred thousand dollars;
+
+.. That forty days have elapsed since the death of the decedent;
+
+.. That no application or petition for the appointment of a personal representative is pending or has been granted in any jurisdiction;
+
+.. That all debts of the decedent including funeral and burial expenses have been paid or provided for;
+
+.. A description of the personal property and the portion thereof claimed, together with a statement that such personal property is subject to probate;
+
+.. That the claiming successor has given written notice, either by personal service or by mail, identifying his or her claim, and describing the property claimed, to all other successors of the decedent, and that at least ten days have elapsed since the service or mailing of such notice; and
+
+.. That the claiming successor is either personally entitled to full payment or delivery of the property claimed or is entitled to full payment or delivery thereof on the behalf and with the written authority of all other successors who have an interest therein.
+
+. A transfer agent of any security shall change the registered ownership of the security claimed from the decedent to the person claiming to be the successor with respect to such security upon the presentation of proof of death and of an affidavit made by such person which meets the requirements of subsection (2) of this section. Any governmental agency required to issue certificates of ownership or of license registration to personal property shall issue a new certificate of ownership or of license registration to a person claiming to be a successor of the decedent upon receipt of proof of death and of an affidavit made by such person which meets the requirements of subsection (2) of this section.
+
+. No release from any Washington state or local taxing authority may be required before any assets or debts are paid or delivered to a successor of a decedent as required under this section.
+
+. A copy of the affidavit, including the decedent's social security number, shall be mailed to the state of Washington, department of social and health services, office of financial recovery.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%20923[2008 c 6 § 923]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6597-S.SL.pdf?cite=2006%20c%20360%20§%2016[2006 c 360 § 16]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1908-S2.SL.pdf?cite=1995%201st%20sp.s.%20c%2018%20§%2060[1995 1st sp.s. c 18 § 60]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1078.SL.pdf?cite=1993%20c%20291%20§%201[1993 c 291 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c64.pdf?cite=1988%20c%2064%20§%2025[1988 c 64 § 25]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c29.pdf?cite=1988%20c%2029%20§%202[1988 c 29 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c157.pdf?cite=1987%20c%20157%20§%201[1987 c 157 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c234.pdf?cite=1977%20ex.s.%20c%20234%20§%2011[1977 ex.s. c 234 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c117.pdf?cite=1974%20ex.s.%20c%20117%20§%204[1974 ex.s. c 117 § 4]; ]
+
+== 11.62.020 - Effect of affidavit and proof of death—Discharge and release of transferor—Refusal to pay or deliver—Procedure—False affidavit—Conflicting affidavits—Accountability.
+The person paying, delivering, transferring, or issuing personal property pursuant to RCW 11.62.010 is discharged and released to the same extent as if such person has dealt with a personal representative of the decedent, unless at the time of such payment, delivery, transfer, or issuance, such person had actual knowledge of the falsity of any statement which is required by RCW 11.62.010(2) as now or hereafter amended to be contained in the successor's affidavit. Such person is not required to see to the application of the personal property, or to inquire into the truth of any matter specified in RCW 11.62.010 (1) or (2), or into the payment of any estate tax liability.
+
+An organization shall not be deemed to have actual knowledge of the falsity of any statement contained in an affidavit made pursuant to RCW 11.62.010(2) as now or hereafter amended until such time as said knowledge shall have been brought to the personal attention of the individual making the transfer, delivery, payment, or issuance of the personal property claimed under RCW 11.62.010 as now or hereafter amended.
+
+If any person to whom an affidavit and proof of death is delivered refuses to pay, deliver, or transfer any personal property, it may be recovered or its payment, delivery, transfer, or issuance compelled upon proof of their right in a proceeding brought for the purpose by or on behalf of the persons entitled thereto. If more than one affidavit is delivered with reference to the same personal property, the person to whom an affidavit is delivered may pay, deliver, transfer, or issue any personal property in response to the first affidavit received, provided that proof of death has also been received, or alternately implead such property into court for payment over to the person entitled thereto. Any person to whom payment, delivery, transfer, or issuance of personal property is made pursuant to RCW 11.62.010 as now or hereafter amended is answerable and accountable therefor to any personal representative of the estate of the decedent or to any other person having a superior right thereto.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c180.pdf?cite=1990%20c%20180%20§%204[1990 c 180 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c234.pdf?cite=1977%20ex.s.%20c%20234%20§%2012[1977 ex.s. c 234 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c117.pdf?cite=1974%20ex.s.%20c%20117%20§%205[1974 ex.s. c 117 § 5]; ]
+
+== 11.62.030 - Payment to surviving spouse or surviving domestic partner of moneys on deposit of deceased credit union member—Limitation—Affidavit—Accounting to personal representative.
+On the death of any member of any credit union organized under chapter 31.12 RCW or federal law, such credit union may pay to the surviving spouse or surviving domestic partner the moneys of such member on deposit to the credit of said deceased member, including moneys deposited as shares in said credit union, in cases where the amount of deposit does not exceed the sum of one thousand dollars, upon receipt of an affidavit from the surviving spouse or surviving domestic partner to the effect that the member died and no executor or administrator has been appointed for the member's estate, and the member had on deposit in said credit union money not exceeding the sum of one thousand dollars. The payment of such deposit made in good faith to the spouse or the domestic partner making the affidavit shall be a full acquittance and release of the credit union for the amount of the deposit so paid.
+
+No probate proceeding shall be necessary to establish the right of said surviving spouse to withdraw said deposits upon the filing of said affidavit: PROVIDED, That whenever a personal representative is appointed in an estate where a withdrawal of deposits has been had in compliance with this section, the spouse so withdrawing said deposits shall account for the same to the personal representative. The credit union may also pay out the moneys on deposit to the credit of the deceased upon presentation of an affidavit as provided in RCW 11.62.010, as now or hereafter amended.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%20924[2008 c 6 § 924]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c41.pdf?cite=1980%20c%2041%20§%2010[1980 c 41 § 10]; ]
+

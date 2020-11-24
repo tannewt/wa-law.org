@@ -1,0 +1,86 @@
+= 48.50 - Insurance fraud reporting immunity act.
+:toc:
+
+== 48.50.010 - Short title.
+This chapter shall be known and may be cited as the Insurance Fraud Reporting Immunity Act.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1557-S2.SL.pdf?cite=1995%20c%20285%20§%2020[1995 c 285 § 20]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c80.pdf?cite=1979%20ex.s.%20c%2080%20§%201[1979 ex.s. c 80 § 1]; ]
+
+== 48.50.020 - Definitions.
+As used in this chapter the following terms have the meanings indicated unless the context clearly requires otherwise.
+
+. "Authorized agency" means a public agency or its official representative having legal authority to investigate criminal activity or the cause of a fire or to initiate criminal proceedings, including the following persons and agencies:
+
+.. The chief of the Washington state patrol and the director of fire protection;
+
+.. The prosecuting attorney of the county where the criminal activity occurred;
+
+.. State, county, and local law enforcement agencies;
+
+.. The state attorney general;
+
+.. The federal bureau of investigation, or any other federal law enforcement agency;
+
+.. The United States attorney's office; and
+
+.. The office of the insurance commissioner.
+
+. "Insurer" means any insurer, as defined in RCW 48.01.050 and any self-insurer.
+
+. "Relevant information" means information having any tendency to make the existence of any fact that is of consequence to the investigation or determination of criminal activity or the cause of any fire more probable or less probable than it would be without the information.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6644-S.SL.pdf?cite=2000%20c%20254%20§%201[2000 c 254 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5093-S.SL.pdf?cite=1995%20c%20369%20§%2036[1995 c 369 § 36]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1557-S2.SL.pdf?cite=1995%20c%20285%20§%2021[1995 c 285 § 21]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c266.pdf?cite=1986%20c%20266%20§%2077[1986 c 266 § 77]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c470.pdf?cite=1985%20c%20470%20§%2027[1985 c 470 § 27]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c80.pdf?cite=1979%20ex.s.%20c%2080%20§%202[1979 ex.s. c 80 § 2]; ]
+
+== 48.50.030 - Release of information or evidence by insurer.
+. Any authorized agency may request, in writing, that an insurer release to the agency any or all relevant information or evidence which the insurer may have in its possession relating to criminal activity, if such information or evidence is deemed important by the agency in its discretion.
+
+. An insurer who has reason to believe that a person participated or is participating in criminal activity relating to a contract of insurance may report relevant information to an authorized agency.
+
+. The information provided to an authorized agency under this section may include, without limitation:
+
+.. Pertinent insurance policy information relating to a claim under investigation and any application for such a policy;
+
+.. Policy premium payment records which are available;
+
+.. History of previous claims in which the person was involved; and
+
+.. Material relating to the investigation of the loss, including statements of any person, proof of loss, and any other evidence found in the investigation.
+
+. The insurer receiving a request under subsection (1) of this section shall furnish all relevant information requested to the agency within a reasonable time, orally or in writing.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1557-S2.SL.pdf?cite=1995%20c%20285%20§%2022[1995 c 285 § 22]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c80.pdf?cite=1979%20ex.s.%20c%2080%20§%203[1979 ex.s. c 80 § 3]; ]
+
+== 48.50.040 - Notification by insurer.
+. When an insurer has reason to believe that a fire loss reported to the insurer may be of other than accidental cause, the insurer shall notify the chief of the Washington state patrol, through the director of fire protection, in the manner prescribed under RCW 48.05.320 concerning the circumstances of the fire loss, including any and all relevant material developed from the insurer's inquiry into the fire loss.
+
+. Notification of the chief of the Washington state patrol, through the director of fire protection, under subsection (1) of this section does not relieve the insurer of the duty to respond to a request for information from any other authorized agency and does not bar an insurer from other reporting under RCW 48.50.030(2).
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6644-S.SL.pdf?cite=2000%20c%20254%20§%202[2000 c 254 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5093-S.SL.pdf?cite=1995%20c%20369%20§%2037[1995 c 369 § 37]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1557-S2.SL.pdf?cite=1995%20c%20285%20§%2023[1995 c 285 § 23]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c266.pdf?cite=1986%20c%20266%20§%2091[1986 c 266 § 91]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c80.pdf?cite=1979%20ex.s.%20c%2080%20§%204[1979 ex.s. c 80 § 4]; ]
+
+== 48.50.050 - Release of information by authorized agencies.
+An authorized agency receiving information under RCW 48.50.030, 48.50.040, or 48.50.055 may release or provide such information to any other authorized agencies.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6644-S.SL.pdf?cite=2000%20c%20254%20§%203[2000 c 254 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c80.pdf?cite=1979%20ex.s.%20c%2080%20§%205[1979 ex.s. c 80 § 5]; ]
+
+== 48.50.055 - Release of information to requesting insurer.
+An insurer providing information to an authorized agency or agencies under RCW 48.50.030 or 48.50.040 may request that an authorized agency furnish to the insurer any or all relevant information possessed by the agency relating to the particular fire loss. At their discretion, and unless prohibited by any other provision of law, the agency or agencies may release or provide information to the requesting insurer.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6644-S.SL.pdf?cite=2000%20c%20254%20§%204[2000 c 254 § 4]; ]
+
+== 48.50.070 - Immunity from liability for releasing information.
+Any licensed insurance producer, title insurance agent, or insurer or person acting in the insurer's behalf, health maintenance organization or person acting in behalf of the health maintenance organization, health care service contractor or person acting in behalf of the health care service contractor, or any authorized agency which releases information, whether oral or written, to the commissioner, the national insurance crime bureau, the national association of insurance commissioners, other law enforcement agent or agency, or another insurer under RCW 48.50.030, 48.50.040, 48.50.050, 48.50.055, or 48.135.050 is immune from liability in any civil or criminal action, suit, or prosecution arising from the release of the information, unless actual malice on the part of the insurance producer, title insurance agent, insurer, health care maintenance organization, health care service contractor, or authorized agency against the insured is shown.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6591.SL.pdf?cite=2008%20c%20217%20§%2059[2008 c 217 § 59]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6234-S.SL.pdf?cite=2006%20c%20284%20§%2014[2006 c 284 § 14]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6644-S.SL.pdf?cite=2000%20c%20254%20§%205[2000 c 254 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c102.pdf?cite=1980%20c%20102%20§%209[1980 c 102 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c80.pdf?cite=1979%20ex.s.%20c%2080%20§%207[1979 ex.s. c 80 § 7]; ]
+
+== 48.50.075 - Immunity from liability for denying claim based on written opinion of authorized agency.
+In denying a claim, an insurer, health maintenance organization, or health care service contractor who relies upon a written opinion from an authorized agency specifically enumerated in RCW 48.50.020(1) (a) through (g) that criminal activity that is related to that claim is being investigated, or a crime has been charged, and that the claimant is a target of the investigation or has been charged with a crime, is not liable for bad faith or other noncontractual theory of damages as a result of this reliance.
+
+Immunity under this section shall exist only so long as the incident for which the claimant may be responsible is under active investigation or prosecution, or the authorized agency states its position that the claim includes or is a result of criminal activity in which the claimant was a participant.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6234-S.SL.pdf?cite=2006%20c%20284%20§%2015[2006 c 284 § 15]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1557-S2.SL.pdf?cite=1995%20c%20285%20§%2024[1995 c 285 § 24]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c320.pdf?cite=1981%20c%20320%20§%202[1981 c 320 § 2]; ]
+
+== 48.50.090 - Local ordinances not preempted.
+This chapter does not preempt or preclude any county or municipality from enacting ordinances relating to fire prevention or control of arson.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c80.pdf?cite=1979%20ex.s.%20c%2080%20§%209[1979 ex.s. c 80 § 9]; ]
+

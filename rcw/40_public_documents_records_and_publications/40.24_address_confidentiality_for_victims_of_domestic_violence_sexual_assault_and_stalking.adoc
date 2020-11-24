@@ -1,0 +1,143 @@
+= 40.24 - Address confidentiality for victims of domestic violence, sexual assault, and stalking.
+:toc:
+
+== 40.24.010 - Findings—Purpose—Intent.
+The legislature finds that persons attempting to escape from actual or threatened domestic violence, sexual assault, trafficking, or stalking frequently establish new addresses in order to prevent their assailants or probable assailants from finding them. The purpose of this chapter is to enable state and local agencies to respond to requests for public records without disclosing the location of a victim of domestic violence, sexual assault, trafficking, or stalking, to enable interagency cooperation with the secretary of state in providing address confidentiality for victims of domestic violence, sexual assault, trafficking, or stalking, and to enable state and local agencies to accept a program participant's use of an address designated by the secretary of state as a substitute mailing address. The legislature further intends to provide assistance to program participants who own or desire to own property in the state to protect such ownership from public disclosure.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1643-S.SL.pdf?cite=2019%20c%20122%20§%201[2019 c 122 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6339-S.SL.pdf?cite=2008%20c%20312%20§%201[2008 c 312 § 1]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1546.SL.pdf?cite=2001%20c%2028%20§%201[2001 c 28 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2351-S.SL.pdf?cite=1998%20c%20138%20§%201[1998 c 138 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5906.SL.pdf?cite=1991%20c%2023%20§%201[1991 c 23 § 1]; ]
+
+== 40.24.020 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Address" means a residential street address, school address, or work address of an individual, as specified on the individual's application to be a program participant under this chapter.
+
+. "Domestic violence" means an act as defined in RCW 10.99.020 and includes a threat of such acts committed against an individual in a domestic situation, regardless of whether these acts or threats have been reported to law enforcement officers.
+
+. "Program participant" means a person certified as a program participant under RCW 40.24.030.
+
+. "Stalking" means an act defined in RCW 9A.46.110 and includes a threat of such acts committed against an individual, regardless of whether these acts or threats have been reported to law enforcement officers.
+
+. "Trafficking" means an act as defined in RCW 9A.40.100 or an act recognized as a severe form of trafficking under 22 U.S.C. Sec. 7102(8) as it existed on June 12, 2008, or such subsequent date as may be provided by the secretary of state by rule, consistent with the purposes of this subsection, regardless of whether the act has been reported to law enforcement.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6339-S.SL.pdf?cite=2008%20c%20312%20§%202[2008 c 312 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1421-S.SL.pdf?cite=2008%20c%2018%20§%201[2008 c 18 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5906.SL.pdf?cite=1991%20c%2023%20§%202[1991 c 23 § 2]; ]
+
+== 40.24.030 - Address confidentiality program—Application—Certification—Form—Vehicle and vessel information.
+. [Empty]
+.. An adult person, a parent or guardian acting on behalf of a minor, or a guardian acting on behalf of an incapacitated person, as defined in *RCW 11.88.010, and (b) any criminal justice participant as defined in RCW 9A.46.020 who is a target for threats or harassment prohibited under RCW 9A.46.020(2)(b) (iii) or (iv), and any family members residing with him or her, may apply to the secretary of state to have an address designated by the secretary of state serve as the person's address or the address of the minor or incapacitated person. The secretary of state shall approve an application if it is filed in the manner and on the form prescribed by the secretary of state and if it contains:
+
+... A sworn statement, under penalty of perjury, by the applicant that the applicant has good reason to believe (A) that the applicant, or the minor or incapacitated person on whose behalf the application is made, is a victim of domestic violence, sexual assault, trafficking, or stalking and that the applicant fears for his or her safety or his or her children's safety, or the safety of the minor or incapacitated person on whose behalf the application is made; or (B) that the applicant, as a criminal justice participant as defined in RCW 9A.46.020, is a target for threats or harassment prohibited under RCW 9A.46.020(2)(b) (iii) or (iv);
+
+... If applicable, a sworn statement, under penalty of perjury, by the applicant, that the applicant has reason to believe they are a victim of (A) domestic violence, sexual assault, or stalking perpetrated by an employee of a law enforcement agency, or (B) threats or harassment prohibited under RCW 9A.46.020(2)(b) (iii) or (iv);
+
+... A designation of the secretary of state as agent for purposes of service of process and for the purpose of receipt of mail;
+
+... The residential address and any telephone number where the applicant can be contacted by the secretary of state, which shall not be disclosed because disclosure will increase the risk of (A) domestic violence, sexual assault, trafficking, or stalking, or (B) threats or harassment prohibited under RCW 9A.46.020(2)(b) (iii) or (iv);
+
+.. The signature of the applicant and of any individual or representative of any office designated in writing under RCW 40.24.080 who assisted in the preparation of the application, and the date on which the applicant signed the application.
+
+. Applications shall be filed with the office of the secretary of state.
+
+. Upon filing a properly completed application, the secretary of state shall certify the applicant as a program participant. Applicants shall be certified for four years following the date of filing unless the certification is withdrawn or invalidated before that date. The secretary of state shall by rule establish a renewal procedure.
+
+. [Empty]
+.. During the application process, the secretary of state shall provide each applicant a form to direct the department of licensing to change the address of registration for vehicles or vessels solely or jointly registered to the applicant and the address associated with the applicant's driver's license or identicard to the applicant's address as designated by the secretary of state upon certification in the program. The directive to the department of licensing is only valid if signed by the applicant. The directive may only include information required by the department of licensing to verify the applicant's identity and ownership information for vehicles and vessels. This information is limited to the:
+
+... Applicant's full legal name;
+
+... Applicant's Washington driver's license or identicard number;
+
+... Applicant's date of birth;
+
+... Vehicle identification number and license plate number for each vehicle solely or jointly registered to the applicant; and
+
+.. Hull identification number or vessel document number and vessel decal number for each vessel solely or jointly registered to the applicant.
+
+.. Upon certification of the applicants, the secretary of state shall transmit completed and signed directives to the department of licensing.
+
+.. Within thirty days of receiving a completed and signed directive, the department of licensing shall update the applicant's address on registration and licensing records.
+
+.. Applicants are not required to sign the directive to the department of licensing to be certified as a program participant.
+
+. A person who knowingly provides false or incorrect information upon making an application or falsely attests in an application that disclosure of the applicant's address would endanger (a) the applicant's safety or the safety of the applicant's children or the minor or incapacitated person on whose behalf the application is made, or (b) the safety of any criminal justice participant as defined in RCW 9A.46.020 who is a target for threats or harassment prohibited under RCW 9A.46.020(2)(b) (iii) or (iv), or any family members residing with him or her, shall be punished under RCW 40.16.030 or other applicable statutes.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2067.SL.pdf?cite=2019%20c%20278%20§%203[2019 c 278 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1206-S2.SL.pdf?cite=2011%20c%2064%20§%202[2011 c 64 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6339-S.SL.pdf?cite=2008%20c%20312%20§%203[2008 c 312 § 3]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1421-S.SL.pdf?cite=2008%20c%2018%20§%202[2008 c 18 § 2]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1546.SL.pdf?cite=2001%20c%2028%20§%202[2001 c 28 § 2]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2351-S.SL.pdf?cite=1998%20c%20138%20§%202[1998 c 138 § 2]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5906.SL.pdf?cite=1991%20c%2023%20§%203[1991 c 23 § 3]; ]
+
+== 40.24.040 - Certification cancellation.
+. If the program participant obtains a legal change of identity, he or she loses certification as a program participant.
+
+. The secretary of state may cancel a program participant's certification if there is a change in the residential address, unless the program participant provides the secretary of state with at least two days' prior notice in writing of the change of address.
+
+. The secretary of state may cancel certification of a program participant if mail forwarded by the secretary to the program participant's address is returned as nondeliverable, refused, or unclaimed.
+
+. The secretary of state shall cancel certification of a program participant who applies using false information.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1421-S.SL.pdf?cite=2008%20c%2018%20§%203[2008 c 18 § 3]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5906.SL.pdf?cite=1991%20c%2023%20§%204[1991 c 23 § 4]; ]
+
+== 40.24.050 - Agency use of designated address.
+. A program participant may request that state and local agencies use the address designated by the secretary of state as his or her address. When creating a new public record, state and local agencies shall accept the address designated by the secretary of state as a program participant's substitute address, unless the secretary of state has determined that:
+
+.. The agency has a bona fide statutory or administrative requirement for the use of the address which would otherwise be confidential under this chapter; and
+
+.. This address will be used only for those statutory and administrative purposes.
+
+. A program participant may use the address designated by the secretary of state as his or her work address.
+
+. The office of the secretary of state shall forward all first-class mail to the appropriate program participants.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5906.SL.pdf?cite=1991%20c%2023%20§%205[1991 c 23 § 5]; ]
+
+== 40.24.060 - Voting by program participant—Use of name or address by county auditor.
+The county auditor shall mail a ballot to a program participant qualified and registered at the mailing address provided. Neither the name nor the address of a program participant shall be included in any list of registered voters available to the public.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5124-S.SL.pdf?cite=2011%20c%2010%20§%2081[2011 c 10 § 81]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1421-S.SL.pdf?cite=2008%20c%2018%20§%204[2008 c 18 § 4]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5906.SL.pdf?cite=1991%20c%2023%20§%206[1991 c 23 § 6]; ]
+
+== 40.24.070 - Disclosure of records prohibited—Exceptions.
+The secretary of state may not make any records in a program participant's file available for inspection or copying, other than the address designated by the secretary of state, except under the following circumstances:
+
+. If requested by a law enforcement agency, to the law enforcement agency; and
+
+.. The participant's application contains no indication that he or she has been a victim of domestic violence, sexual assault, or stalking perpetrated by a law enforcement employee; and
+
+.. The request is in accordance with official law enforcement duties and is in writing on official law enforcement letterhead stationery and signed by the law enforcement agency's chief officer, or his or her designee; or
+
+. If directed by a court order, to a person identified in the order; and
+
+.. The request is made by a nonlaw enforcement agency; or
+
+.. The participant's file indicates he or she has reason to believe he or she is a victim of domestic violence, sexual assault, or stalking perpetrated by a law enforcement employee.
+
+. To the Washington state patrol solely for the use authorized in RCW 80.36.570, provided that participant information must clearly distinguish between those participants requesting disclosure to a law enforcement agency of the location of a telecommunications device and call information of the user, and those participants who request nondisclosure to a law enforcement agency of the location of a telecommunications device and call information of the user. The Washington state patrol may not use the information or make the information available for inspection and copying for any other purpose than authorized in RCW 80.36.570. The secretary of state may adopt rules to make available the information required for the purposes of this section and RCW 80.36.570. The secretary of state and the secretary of state's officers, employees, or custodian, are not liable, nor shall a cause of action exist, for any loss or damage based upon the release of information, or the nondisclosure of information, from the address confidentiality program to the Washington state patrol if the agency, officer, employee, or custodian acted in good faith in attempting to comply with the provisions of this section and RCW 80.36.570.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5158-S.SL.pdf?cite=2015%20c%20190%20§%202[2015 c 190 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1421-S.SL.pdf?cite=2008%20c%2018%20§%205[2008 c 18 § 5]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5772.SL.pdf?cite=1999%20c%2053%20§%201[1999 c 53 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2351-S.SL.pdf?cite=1998%20c%20138%20§%203[1998 c 138 § 3]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5906.SL.pdf?cite=1991%20c%2023%20§%207[1991 c 23 § 7]; ]
+
+== 40.24.075 - Court order for address confidentiality program participant information.
+A court order for address confidentiality program participant information may only be issued upon a probable cause finding by a judicial officer that release of address confidentiality program participant information is legally necessary:
+
+. In the course of a criminal investigation or prosecution; or
+
+. To prevent immediate risk to a minor and meet the statutory requirements of the Washington child welfare system.
+
+Any court order so issued will prohibit the release of the information to any other agency or person not a party to the order.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1421-S.SL.pdf?cite=2008%20c%2018%20§%206[2008 c 18 § 6]; ]
+
+== 40.24.080 - Assistance for program applicants.
+The secretary of state shall designate state and local agencies and nonprofit agencies that provide counseling and shelter services to victims of domestic violence, sexual assault, trafficking, or stalking to assist persons applying to be program participants. Any assistance and counseling rendered by the office of the secretary of state or its designees to applicants shall in no way be construed as legal advice.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6339-S.SL.pdf?cite=2008%20c%20312%20§%204[2008 c 312 § 4]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1546.SL.pdf?cite=2001%20c%2028%20§%203[2001 c 28 § 3]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2351-S.SL.pdf?cite=1998%20c%20138%20§%204[1998 c 138 § 4]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5906.SL.pdf?cite=1991%20c%2023%20§%208[1991 c 23 § 8]; ]
+
+== 40.24.090 - Adoption of rules.
+The secretary of state may adopt rules to facilitate the administration of this chapter by state and local agencies.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5906.SL.pdf?cite=1991%20c%2023%20§%209[1991 c 23 § 9]; ]
+
+== 40.24.100 - Property ownership—Resources.
+The secretary of state shall enter into an interagency agreement with the office of civil legal aid to develop and make available information, online self-help resources, and other legal aid services to help participants to own property in the state without public disclosure of such ownership. These resources must also include information to help participants purchase property in the name of a nonprofit organization or corporation, without public disclosure of ownership, in order to establish a safe house for other participants or for sex trafficking victims. The secretary of state and the state and local agencies and nonprofit agencies designated by the secretary of state under RCW 40.24.080 shall publicize the availability of legal resources and assistance under this section to program participants and applicants. The secretary of state may not provide direct legal resources and assistance to participants. No fee may be charged to the participants for legal assistance under this section. This section creates no individual right to legal assistance or representation in litigation at public expense.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1643-S.SL.pdf?cite=2019%20c%20122%20§%202[2019 c 122 § 2]; ]
+
+== 40.24.110 - Disclosure of name, address, or vehicle or vessel information.
+The department of licensing, county auditors, or agencies or firms authorized by the department of licensing may not disclose the name, any address, vehicle make, vehicle model, vehicle year, vehicle identification number, vessel make and model, vessel model year, hull identification number, vessel document number, vessel registration number, vessel decal number, or license plate number associated with a program participant under the disclosure authority provided in RCW 46.12.635 except as allowed in RCW 46.12.635(6) or if provided with a court order as allowed in RCW 40.24.075.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2067.SL.pdf?cite=2019%20c%20278%20§%202[2019 c 278 § 2]; ]
+

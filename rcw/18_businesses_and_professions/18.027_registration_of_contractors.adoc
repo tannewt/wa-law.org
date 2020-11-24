@@ -1,0 +1,606 @@
+= 18.27 - Registration of contractors.
+:toc:
+
+== 18.27.005 - Strict enforcement.
+This chapter shall be strictly enforced. Therefore, the doctrine of substantial compliance shall not be used by the department in the application and construction of this chapter. Anyone engaged in the activities of a contractor is presumed to know the requirements of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1903-S.SL.pdf?cite=1997%20c%20314%20§%201[1997 c 314 § 1]; ]
+
+== 18.27.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. [Empty]
+.. "Contractor" includes any person, firm, corporation, or other entity who or which, in the pursuit of an independent business undertakes to, or offers to undertake, or submits a bid to, construct, alter, repair, add to, subtract from, improve, develop, move, wreck, or demolish any building, highway, road, railroad, excavation or other structure, project, development, or improvement attached to real estate or to do any part thereof including the installation of carpeting or other floor covering, the erection of scaffolding or other structures or works in connection therewith, the installation or repair of roofing or siding, performing tree removal services, or cabinet or similar installation; or, who, to do similar work upon his or her own property, employs members of more than one trade upon a single job or project or under a single building permit except as otherwise provided in this chapter.
+
+.. "Contractor" also includes a consultant acting as a general contractor.
+
+.. "Contractor" also includes any person, firm, corporation, or other entity covered by this subsection (1), whether or not registered as required under this chapter or who are otherwise required to be registered or licensed by law, who offer to sell their property without occupying or using the structures, projects, developments, or improvements for more than one year from the date the structure, project, development, or improvement was substantially completed or abandoned. A person, firm, corporation, or other entity is not a contractor under this subsection (1)(c) if the person, firm, corporation, or other entity contracts with a registered general contractor and does not superintend the work.
+
+. "Department" means the department of labor and industries.
+
+. "Director" means the director of the department of labor and industries or designated representative employed by the department.
+
+. "Filing" means delivery of a document that is required to be filed with an agency to a place designated by the agency.
+
+. "General contractor" means a contractor whose business operations require the use of more than one building trade or craft upon a single job or project or under a single building permit. A general contractor also includes one who superintends, or consults on, in whole or in part, work falling within the definition of a contractor.
+
+. "Notice of infraction" means a form used by the department to notify contractors that an infraction under this chapter has been filed against them.
+
+. "Partnership" means a business formed under Title 25 RCW.
+
+. "Registration cancellation" means a written notice from the department that a contractor's action is in violation of this chapter and that the contractor's registration has been revoked.
+
+. "Registration suspension" means either an automatic suspension as provided in this chapter, or a written notice from the department that a contractor's action is a violation of this chapter and that the contractor's registration has been suspended for a specified time, or until the contractor shows evidence of compliance with this chapter.
+
+. "Residential homeowner" means an individual person or persons owning or leasing real property:
+
+.. Upon which one single-family residence is to be built and in which the owner or lessee intends to reside upon completion of any construction; or
+
+.. Upon which there is a single-family residence to which improvements are to be made and in which the owner or lessee intends to reside upon completion of any construction.
+
+. "Service," except as otherwise provided in RCW 18.27.225 and 18.27.370, means posting in the United States mail, properly addressed, postage prepaid, return receipt requested, or personal service. Service by mail is complete upon deposit in the United States mail to the last known address provided to the department.
+
+. "Specialty contractor" means a contractor whose operations do not fall within the definition of "general contractor". A specialty contractor may only subcontract work that is incidental to the specialty contractor's work.
+
+. "Substantial completion" means the same as "substantial completion of construction" in RCW 4.16.310.
+
+. "Unregistered contractor" means a person, firm, corporation, or other entity doing work as a contractor without being registered in compliance with this chapter. "Unregistered contractor" includes contractors whose registration is expired, revoked, or suspended. "Unregistered contractor" does not include a contractor who has maintained a valid bond and the insurance or assigned account required by RCW 18.27.050, and whose registration has lapsed for thirty or fewer days.
+
+. "Unsatisfied final judgment" means a judgment or final tax warrant that has not been satisfied either through payment, court approved settlement, discharge in bankruptcy, or assignment under RCW 19.72.070.
+
+. "Verification" means the receipt and duplication by the city, town, or county of a contractor registration card that is current on its face, checking the department's contractor registration database, or calling the department to confirm that the contractor is registered.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1749-S.SL.pdf?cite=2015%20c%2052%20§%201[2015 c 52 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1843-S.SL.pdf?cite=2007%20c%20436%20§%201[2007 c 436 § 1]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5101-S.SL.pdf?cite=2001%20c%20159%20§%201[2001 c 159 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1903-S.SL.pdf?cite=1997%20c%20314%20§%202[1997 c 314 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1505-S.SL.pdf?cite=1993%20c%20454%20§%202[1993 c 454 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c153.pdf?cite=1973%201st%20ex.s.%20c%20153%20§%201[1973 1st ex.s. c 153 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c118.pdf?cite=1972%20ex.s.%20c%20118%20§%201[1972 ex.s. c 118 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c126.pdf?cite=1967%20c%20126%20§%205[1967 c 126 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c77.pdf?cite=1963%20c%2077%20§%201[1963 c 77 § 1]; ]
+
+== 18.27.020 - Registration required—Prohibited acts—Criminal penalty—Monitoring program.
+. Every contractor shall register with the department.
+
+. It is a gross misdemeanor for any contractor to:
+
+.. Advertise, offer to do work, submit a bid, or perform any work as a contractor without being registered as required by this chapter;
+
+.. Advertise, offer to do work, submit a bid, or perform any work as a contractor when the contractor's registration is suspended or revoked;
+
+.. Use a false or expired registration number in purchasing or offering to purchase an advertisement for which a contractor registration number is required;
+
+.. Transfer a valid registration to an unregistered contractor or allow an unregistered contractor to work under a registration issued to another contractor; or
+
+.. Subcontract to or use an unregistered contractor.
+
+. It is not unlawful for a registered contractor to employ an unregistered contractor who was registered at the time he or she entered into a contract with the registered contractor, unless the registered contractor or his or her representative has been notified in writing by the department of labor and industries that the contractor has become unregistered.
+
+. All gross misdemeanor actions under this chapter shall be prosecuted in the county where the infraction occurs.
+
+. A person is guilty of a separate gross misdemeanor for each day worked if, after the person receives a citation from the department, the person works while unregistered, or while his or her registration is suspended or revoked, or works under a registration issued to another contractor. A person is guilty of a separate gross misdemeanor for each worksite on which he or she violates subsection (2) of this section. Nothing in this subsection applies to a registered contractor.
+
+. The director by rule shall establish a two-year audit and monitoring program for a contractor not registered under this chapter who becomes registered after receiving an infraction or conviction under this chapter as an unregistered contractor. The director shall notify the departments of revenue and employment security of the infractions or convictions and shall cooperate with these departments to determine whether any taxes or registration, license, or other fees or penalties are owed the state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1843-S.SL.pdf?cite=2007%20c%20436%20§%202[2007 c 436 § 2]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1903-S.SL.pdf?cite=1997%20c%20314%20§%203[1997 c 314 § 3]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1505-S.SL.pdf?cite=1993%20c%20454%20§%206[1993 c 454 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c362.pdf?cite=1987%20c%20362%20§%201[1987 c 362 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c197.pdf?cite=1986%20c%20197%20§%201[1986 c 197 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c2.pdf?cite=1983%201st%20ex.s.%20c%202%20§%2017[1983 1st ex.s. c 2 § 17]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c153.pdf?cite=1973%201st%20ex.s.%20c%20153%20§%202[1973 1st ex.s. c 153 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c77.pdf?cite=1963%20c%2077%20§%202[1963 c 77 § 2]; ]
+
+== 18.27.030 - Application for registration—Grounds for denial and suspension.
+. An applicant for registration as a contractor shall submit an application under oath upon a form to be prescribed by the director and which shall include the following information pertaining to the applicant:
+
+.. Employer social security number.
+
+.. Unified business identifier number.
+
+.. Evidence of workers' compensation coverage for the applicant's employees working in Washington, as follows:
+
+... The applicant's industrial insurance account number issued by the department;
+
+... The applicant's self-insurer number issued by the department; or
+
+... For applicants domiciled in a state or province of Canada subject to an agreement entered into under RCW 51.12.120(7), as permitted by the agreement, filing a certificate of coverage issued by the agency that administers the workers' compensation law in the applicant's state or province of domicile certifying that the applicant has secured the payment of compensation under the other state's or province's workers' compensation law.
+
+.. Employment security department number.
+
+.. Unified business identifier (UBI) account number may be substituted for the information required by (c) and (d) of this subsection if the applicant will not employ employees in Washington.
+
+.. Type of contracting activity, whether a general or a specialty contractor and if the latter, the type of specialty.
+
+.. The name and address of each partner if the applicant is a firm or partnership, or the name and address of the owner if the applicant is an individual proprietorship, or the name and address of the corporate officers and statutory agent, if any, if the applicant is a corporation or the name and address of all members of other business entities. The information contained in such application is a matter of public record and open to public inspection.
+
+. The department may verify the workers' compensation coverage information provided by the applicant under subsection (1)(c) of this section, including but not limited to information regarding the coverage of an individual employee of the applicant. If coverage is provided under the laws of another state, the department may notify the other state that the applicant is employing employees in Washington.
+
+. [Empty]
+.. The department shall deny an application for registration if: (i) The applicant has been previously performing work subject to this chapter as a sole proprietor, partnership, corporation, or other entity and the department has notice that the applicant has an unsatisfied final judgment against him or her in an action based on work performed subject to this chapter or the applicant owes the department money for penalties assessed or fees due under this chapter as a result of a final judgment; (ii) the applicant was an owner, principal, or officer of a partnership, corporation, or other entity that either has an unsatisfied final judgment against it in an action that was incurred for work performed subject to this chapter or owes the department money for penalties assessed or fees due under this chapter as a result of a final judgment; (iii) the applicant does not have a valid unified business identifier number; (iv) the department determines that the applicant has falsified information on the application, unless the error was inadvertent; or (v) the applicant does not have an active and valid certificate of registration with the department of revenue.
+
+.. The department shall suspend an active registration if (i) the department has determined that the registrant has an unsatisfied final judgment against it for work within the scope of this chapter; (ii) the department has determined that the registrant is a sole proprietor or an owner, principal, or officer of a registered contractor that has an unsatisfied final judgment against it for work within the scope of this chapter; (iii) the registrant does not maintain a valid unified business identifier number; (iv) the department has determined that the registrant falsified information on the application, unless the error was inadvertent; or (v) the registrant does not have an active and valid certificate of registration with the department of revenue.
+
+.. The department may suspend an active registration if the department has determined that an owner, principal, partner, or officer of the registrant was an owner, principal, or officer of a previous partnership, corporation, or other entity that has an unsatisfied final judgment against it.
+
+. The department shall not deny an application or suspend a registration because of an unsatisfied final judgment if the applicant's or registrant's unsatisfied final judgment was determined by the director to be the result of the fraud or negligence of another party.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6732-S2.SL.pdf?cite=2008%20c%20120%20§%201[2008 c 120 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1843-S.SL.pdf?cite=2007%20c%20436%20§%203[2007 c 436 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5101-S.SL.pdf?cite=2001%20c%20159%20§%202[2001 c 159 § 2]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2312-S.SL.pdf?cite=1998%20c%20279%20§%203[1998 c 279 § 3]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1903-S.SL.pdf?cite=1997%20c%20314%20§%204[1997 c 314 § 4]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2498-S.SL.pdf?cite=1996%20c%20147%20§%201[1996 c 147 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2686-S.SL.pdf?cite=1992%20c%20217%20§%201[1992 c 217 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c285.pdf?cite=1988%20c%20285%20§%201[1988 c 285 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c362.pdf?cite=1987%20c%20362%20§%202[1987 c 362 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c111.pdf?cite=1987%20c%20111%20§%209[1987 c 111 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c153.pdf?cite=1973%201st%20ex.s.%20c%20153%20§%203[1973 1st ex.s. c 153 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c77.pdf?cite=1963%20c%2077%20§%203[1963 c 77 § 3]; ]
+
+== 18.27.040 - Bond or other security required—Actions against—Suspension of registration upon impairment—Work group.
+. Each applicant shall file with the department a surety bond issued by a surety insurer who meets the requirements of chapter 48.28 RCW in the sum of twelve thousand dollars if the applicant is a general contractor and six thousand dollars if the applicant is a specialty contractor. If no valid bond is already on file with the department at the time the application is filed, a bond must accompany the registration application. The bond shall have the state of Washington named as obligee with good and sufficient surety in a form to be approved by the department. The bond shall be continuous and may be canceled by the surety upon the surety giving written notice to the director. A cancellation or revocation of the bond or withdrawal of the surety from the bond automatically suspends the registration issued to the contractor until a new bond or reinstatement notice has been filed and approved as provided in this section. The bond shall be conditioned that the applicant will pay all persons performing labor, including employee benefits, for the contractor, will pay all taxes and contributions due to the state of Washington, and will pay all persons furnishing material or renting or supplying equipment to the contractor and will pay all amounts that may be adjudged against the contractor by reason of breach of contract including improper work in the conduct of the contracting business. A change in the name of a business or a change in the type of business entity shall not impair a bond for the purposes of this section so long as one of the original applicants for such bond maintains partial ownership in the business covered by the bond.
+
+. At the time of initial registration or renewal, the contractor shall provide a bond or other security deposit as required by this chapter and comply with all of the other provisions of this chapter before the department shall issue or renew the contractor's certificate of registration. Any contractor registered as of July 1, 2001, who maintains that registration in accordance with this chapter is in compliance with this chapter until the next renewal of the contractor's certificate of registration.
+
+. Any person, firm, or corporation having a claim against the contractor for any of the items referred to in this section may bring suit against the contractor and the bond or deposit in the superior court of the county in which the work was done or of any county in which jurisdiction of the contractor may be had. The surety issuing the bond shall be named as a party to any suit upon the bond. Action upon the bond or deposit brought by a residential homeowner for breach of contract by a party to the construction contract shall be commenced by filing the summons and complaint with the clerk of the appropriate superior court within two years from the date the claimed contract work was substantially completed or abandoned, whichever occurred first. Action upon the bond or deposit brought by any other authorized party shall be commenced by filing the summons and complaint with the clerk of the appropriate superior court within one year from the date the claimed labor was performed and benefits accrued, taxes and contributions owing the state of Washington became due, materials and equipment were furnished, or the claimed contract work was substantially completed or abandoned, whichever occurred first. Service of process in an action filed under this chapter against the contractor and the contractor's bond or the deposit shall be exclusively by service upon the department. Three copies of the summons and complaint and a fee adopted by rule of not less than fifty dollars to cover the costs shall be served by registered or certified mail, or other delivery service requiring notice of receipt, upon the department at the time suit is started and the department shall maintain a record, available for public inspection, of all suits so commenced. Service is not complete until the department receives the fee and three copies of the summons and complaint. The service shall constitute service and confer personal jurisdiction on the contractor and the surety for suit on claimant's claim against the contractor and the bond or deposit and the department shall transmit the summons and complaint or a copy thereof to the contractor at the address listed in the contractor's application and to the surety within two days after it shall have been received.
+
+. The surety upon the bond shall not be liable in an aggregate amount in excess of the amount named in the bond nor for any monetary penalty assessed pursuant to this chapter for an infraction. The liability of the surety shall not cumulate where the bond has been renewed, continued, reinstated, reissued or otherwise extended. The surety upon the bond may, upon notice to the department and the parties, tender to the clerk of the court having jurisdiction of the action an amount equal to the claims thereunder or the amount of the bond less the amount of judgments, if any, previously satisfied therefrom and to the extent of such tender the surety upon the bond shall be exonerated but if the actions commenced and pending and provided to the department as required in subsection (3) of this section, at any one time exceed the amount of the bond then unimpaired, claims shall be satisfied from the bond in the following order:
+
+.. Employee labor and claims of laborers, including employee benefits;
+
+.. Claims for breach of contract by a party to the construction contract;
+
+.. Registered or licensed subcontractors, material, and equipment;
+
+.. Taxes and contributions due the state of Washington;
+
+.. Any court costs, interest, and attorneys' fees plaintiff may be entitled to recover. The surety is not liable for any amount in excess of the penal limit of its bond.
+
+A payment made by the surety in good faith exonerates the bond to the extent of any payment made by the surety.
+
+. The total amount paid from a bond or deposit required of a general contractor by this section to claimants other than residential homeowners must not exceed one-half of the bond amount. The total amount paid from a bond or deposit required of a specialty contractor by this section to claimants other than residential homeowners must not exceed one-half of the bond amount or four thousand dollars, whichever is greater.
+
+. The prevailing party in an action filed under this section against the contractor and contractor's bond or deposit, for breach of contract by a party to the construction contract involving a residential homeowner, is entitled to costs, interest, and reasonable attorneys' fees. The surety upon the bond or deposit is not liable in an aggregate amount in excess of the amount named in the bond or deposit nor for any monetary penalty assessed pursuant to this chapter for an infraction.
+
+. If a final judgment impairs the liability of the surety upon the bond or deposit so furnished that there is not in effect a bond or deposit in the full amount prescribed in this section, the registration of the contractor is automatically suspended until the bond or deposit liability in the required amount unimpaired by unsatisfied judgment claims is furnished.
+
+. In lieu of the surety bond required by this section the contractor may file with the department an assigned savings account, upon forms provided by the department.
+
+. Any person having filed and served a summons and complaint as required by this section having an unsatisfied final judgment against the registrant for any items referred to in this section may execute upon the security held by the department by serving a certified copy of the unsatisfied final judgment by registered or certified mail upon the department within one year of the date of entry of such judgment. Upon the receipt of service of such certified copy the department shall pay or order paid from the deposit, through the registry of the superior court which rendered judgment, towards the amount of the unsatisfied judgment. The priority of payment by the department shall be the order of receipt by the department, but the department shall have no liability for payment in excess of the amount of the deposit.
+
+. Within ten days after resolution of the case, a certified copy of the final judgment and order, or any settlement documents where a case is not disposed of by a court trial, a certified copy of the dispositive settlement documents must be provided to the department by the prevailing party. Failure to provide a copy of the final judgment and order or the dispositive settlement documents to the department within ten days of entry of such an order constitutes a violation of this chapter and a penalty adopted by rule of not less than two hundred fifty dollars may be assessed against the prevailing party.
+
+. The director may require an applicant applying to renew or reinstate a registration or applying for a new registration to file a bond of up to three times the normally required amount, if the director determines that an applicant, or a previous registration of a corporate officer, owner, or partner of a current applicant, has had in the past five years one final judgment in actions under this chapter involving a residential single-family dwelling.
+
+. The director may adopt rules necessary for the proper administration of the security.
+
+. [Empty]
+.. The department must convene a work group no later than August 1, 2019, to consider additional safeguards for consumers who engage contractors. The department must provide staff support for the work group and include in the work group: Department staff; large and small contractors that primarily contract with residential homeowners, those that build new and rehabilitate residences, and other interested contractors; surety bond companies; realtors or their representatives; workers and/or their representatives; representatives from the consumer protection division of the office of the attorney general; consumers and/or advocates representing them; and local building officials.
+
+The work group shall submit a report with recommendations to the department and, if applicable, the appropriate committees of the legislature by June 30, 2020. The report must address whether:
+
+... Bond amounts are sufficient and appropriate to protect consumers, workers, and suppliers and meet tax obligations;
+
+... Additional criteria for contractors would provide a greater level of protection;
+
+... Strategies to discourage the transfer of a business to a different entity for the purpose of evading penalties or judgments under this chapter should be implemented;
+
+... Any other registration requirements or options for consumer recovery under this chapter should be changed to increase protections for consumers; and
+
+.. Incentives to adopt industry best practices would increase consumer protections.
+
+.. The work group must dissolve once the report is submitted.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5795.SL.pdf?cite=2019%20c%20155%20§%201[2019 c 155 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1843-S.SL.pdf?cite=2007%20c%20436%20§%204[2007 c 436 § 4]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5101-S.SL.pdf?cite=2001%20c%20159%20§%203[2001 c 159 § 3]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1903-S.SL.pdf?cite=1997%20c%20314%20§%205[1997 c 314 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c139.pdf?cite=1988%20c%20139%20§%201[1988 c 139 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c362.pdf?cite=1987%20c%20362%20§%206[1987 c 362 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c2.pdf?cite=1983%201st%20ex.s.%20c%202%20§%2018[1983 1st ex.s. c 2 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c11.pdf?cite=1977%20ex.s.%20c%2011%20§%201[1977 ex.s. c 11 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c153.pdf?cite=1973%201st%20ex.s.%20c%20153%20§%204[1973 1st ex.s. c 153 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c118.pdf?cite=1972%20ex.s.%20c%20118%20§%202[1972 ex.s. c 118 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c126.pdf?cite=1967%20c%20126%20§%201[1967 c 126 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c77.pdf?cite=1963%20c%2077%20§%204[1963 c 77 § 4]; ]
+
+== 18.27.050 - Insurance or financial responsibility required—Suspension of registration upon impairment.
+. At the time of registration and subsequent reregistration, the applicant shall furnish insurance or financial responsibility in the form of an assigned account in the amount of fifty thousand dollars for injury or damages to property, and one hundred thousand dollars for injury or damage including death to any one person, and two hundred thousand dollars for injury or damage including death to more than one person.
+
+. An expiration, cancellation, or revocation of the insurance policy or withdrawal of the insurer from the insurance policy automatically suspends the registration issued to the registrant until a new insurance policy or reinstatement notice has been filed and approved as provided in this section.
+
+. [Empty]
+.. Proof of financial responsibility authorized in this section may be given by providing, in the amount required by subsection (1) of this section, an assigned account acceptable to the department. The assigned account shall be held by the department to satisfy any execution on a judgment issued against the contractor for damage to property or injury or death to any person occurring in the contractor's contracting operations, according to the provisions of the assigned account agreement. The department shall have no liability for payment in excess of the amount of the assigned account.
+
+.. The assigned account filed with the director as proof of financial responsibility shall be canceled at the expiration of three years after:
+
+... The contractor's registration has expired or been revoked; or
+
+... The contractor has furnished proof of insurance as required by subsection (1) of this section;
+
+if, in either case, no legal action has been instituted against the contractor or on the account at the expiration of the three-year period.
+
+.. If a contractor chooses to file an assigned account as authorized in this section, the contractor shall, on any contracting project, notify each person with whom the contractor enters into a contract or to whom the contractor submits a bid that the contractor has filed an assigned account in lieu of insurance and that recovery from the account for any claim against the contractor for property damage or personal injury or death occurring in the project requires the claimant to obtain a court judgment.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5101-S.SL.pdf?cite=2001%20c%20159%20§%204[2001 c 159 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c303.pdf?cite=1987%20c%20303%20§%201[1987 c 303 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c77.pdf?cite=1963%20c%2077%20§%205[1963 c 77 § 5]; ]
+
+== 18.27.060 - Certificate of registration—Issuance, duration, renewal—Suspension—Single registration/licensing document for those qualifying as both general and electrical contractor. (Effective until January 1, 2021.)
+. A certificate of registration shall be valid for two years and shall be renewed on or before the expiration date. The department shall issue to the applicant a certificate of registration upon compliance with the registration requirements of this chapter.
+
+. If the department approves an application, it shall issue a certificate of registration to the applicant.
+
+. If a contractor's surety bond or other security has an unsatisfied judgment against it or is canceled, or if the contractor's insurance policy is canceled, the contractor's registration shall be automatically suspended on the effective date of the impairment or cancellation. The department shall mail notice of the suspension to the contractor's address on the certificate of registration within two days after suspension using a method by which the mailing can be tracked or the delivery can be confirmed.
+
+. Renewal of registration is valid on the date the department receives the required fee and proof of bond and liability insurance, if sent by certified mail or other means requiring proof of delivery. The receipt or proof of delivery shall serve as the contractor's proof of renewed registration until he or she receives verification from the department.
+
+. The department shall immediately suspend the certificate of registration of a contractor who has been certified by the department of social and health services as a person who is not in compliance with a support order or a visitation order as provided in RCW 74.20A.320. The certificate of registration shall not be reissued or renewed unless the person provides to the department a release from the department of social and health services stating that he or she is in compliance with the order and the person has continued to meet all other requirements for certification during the suspension.
+
+. For a contractor who employs plumbers, as described in RCW 18.106.010(10)(c), and is also required to be licensed as an electrical contractor as required in RCW 19.28.041, while doing pump and irrigation or domestic pump work described in rule as authorized by RCW 19.28.251, the department shall establish a single registration/licensing document for those who qualify for both general contractor registration as defined by this chapter and an electrical contractor license as defined by chapter 19.28 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5067-S.SL.pdf?cite=2011%20c%20301%20§%201[2011 c 301 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6225-S.SL.pdf?cite=2006%20c%20185%20§%2014[2006 c 185 § 14]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5101-S.SL.pdf?cite=2001%20c%20159%20§%205[2001 c 159 § 5]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1903-S.SL.pdf?cite=1997%20c%20314%20§%206[1997 c 314 § 6]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/3901.SL.pdf?cite=1997%20c%2058%20§%20817[1997 c 58 § 817]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c2.pdf?cite=1983%201st%20ex.s.%20c%202%20§%2019[1983 1st ex.s. c 2 § 19]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c61.pdf?cite=1977%20ex.s.%20c%2061%20§%201[1977 ex.s. c 61 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c77.pdf?cite=1963%20c%2077%20§%206[1963 c 77 § 6]; ]
+
+== 18.27.062 - Inspection by department—Subcontractor list—Certificate of registration.
+A contractor must maintain and have available for inspection by the department a list of all direct subcontractors and a copy of their certificate of registration.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1555-S.SL.pdf?cite=2009%20c%20432%20§%201[2009 c 432 § 1]; ]
+
+== 18.27.065 - Partnership or joint venture deemed registered, when.
+A partnership or joint venture shall be deemed registered under this chapter if any one of the general partners or venturers whose name appears in the name under which the partnership or venture does business is registered.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c2.pdf?cite=1983%201st%20ex.s.%20c%202%20§%2016[1983 1st ex.s. c 2 § 16]; ]
+
+== 18.27.070 - Fees.
+The department shall charge fees for issuance, renewal, and reinstatement of certificates of registration; and changes of name, address, or business structure. The department shall set the fees by rule.
+
+The entire amount of the fees are to be used solely to cover the full cost of issuing certificates, filing papers and notices, and administering and enforcing this chapter. The costs shall include reproduction, travel, per diem, and administrative and legal support costs.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1903-S.SL.pdf?cite=1997%20c%20314%20§%207[1997 c 314 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c74.pdf?cite=1983%20c%2074%20§%201[1983 c 74 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c66.pdf?cite=1977%20ex.s.%20c%2066%20§%201[1977 ex.s. c 66 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c153.pdf?cite=1973%201st%20ex.s.%20c%20153%20§%205[1973 1st ex.s. c 153 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c126.pdf?cite=1967%20c%20126%20§%202[1967 c 126 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c77.pdf?cite=1963%20c%2077%20§%207[1963 c 77 § 7]; ]
+
+== 18.27.075 - Fees for issuing or renewing certificate of registration.
+The department shall charge a fee of one hundred dollars for issuing or renewing a certificate of registration during the 2001-2003 biennium. The department shall revise this amount at least once every two years for the purpose of recognizing economic changes as reflected by the fiscal growth factor under chapter 43.135 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5101-S.SL.pdf?cite=2001%20c%20159%20§%2014[2001 c 159 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c74.pdf?cite=1983%20c%2074%20§%202[1983 c 74 § 2]; ]
+
+== 18.27.080 - Registration prerequisite to suit.
+No person engaged in the business or acting in the capacity of a contractor may bring or maintain any action in any court of this state for the collection of compensation for the performance of any work or for breach of any contract for which registration is required under this chapter without alleging and proving that he or she was a duly registered contractor and held a current and valid certificate of registration at the time he or she contracted for the performance of such work or entered into such contract. For the purposes of this section, the court shall not find a contractor in substantial compliance with the registration requirements of this chapter unless: (1) The department has on file the information required by RCW 18.27.030; (2) the contractor has at all times had in force a current bond or other security as required by RCW 18.27.040; and (3) the contractor has at all times had in force current insurance as required by RCW 18.27.050. In determining under this section whether a contractor is in substantial compliance with the registration requirements of this chapter, the court shall take into consideration the length of time during which the contractor did not hold a valid certificate of registration.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20474[2011 c 336 § 474]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1843-S.SL.pdf?cite=2007%20c%20436%20§%205[2007 c 436 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c285.pdf?cite=1988%20c%20285%20§%202[1988 c 285 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c118.pdf?cite=1972%20ex.s.%20c%20118%20§%203[1972 ex.s. c 118 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c77.pdf?cite=1963%20c%2077%20§%208[1963 c 77 § 8]; ]
+
+== 18.27.090 - Exemptions. (Effective until January 1, 2021.)
+The registration provisions of this chapter do not apply to:
+
+. An authorized representative of the United States government, the state of Washington, or any incorporated city, town, county, township, irrigation district, reclamation district, or other municipal or political corporation or subdivision of this state;
+
+. Officers of a court when they are acting within the scope of their office;
+
+. Public utilities operating under the regulations of the utilities and transportation commission in construction, maintenance, or development work incidental to their own business;
+
+. Any construction, repair, or operation incidental to the discovering or producing of petroleum or gas, or the drilling, testing, abandoning, or other operation of any petroleum or gas well or any surface or underground mine or mineral deposit when performed by an owner or lessee;
+
+. The sale of any finished products, materials, or articles of merchandise that are not fabricated into and do not become a part of a structure under the common law of fixtures;
+
+. Any construction, alteration, improvement, or repair of personal property performed by the registered or legal owner, or by a mobile/manufactured home retail dealer or manufacturer licensed under chapter 46.70 RCW who shall warranty service and repairs under chapter 46.70 RCW;
+
+. Any construction, alteration, improvement, or repair carried on within the limits and boundaries of any site or reservation under the legal jurisdiction of the federal government;
+
+. Any person who only furnished materials, supplies, or equipment without fabricating them into, or consuming them in the performance of, the work of the contractor;
+
+. Any work or operation on one undertaking or project by one or more contracts, the aggregate contract price of which for labor and materials and all other items is less than five hundred dollars, such work or operations being considered as of a casual, minor, or inconsequential nature. The exemption prescribed in this subsection does not apply in any instance wherein the work or construction is only a part of a larger or major operation, whether undertaken by the same or a different contractor, or in which a division of the operation is made into contracts of amounts less than five hundred dollars for the purpose of evasion of this chapter or otherwise. The exemption prescribed in this subsection does not apply to a person who advertises or puts out any sign or card or other device which might indicate to the public that he or she is a contractor, or that he or she is qualified to engage in the business of contractor;
+
+. Any construction or operation incidental to the construction and repair of irrigation and drainage ditches of regularly constituted irrigation districts or reclamation districts; or to farming, dairying, agriculture, viticulture, horticulture, or stock or poultry raising; or to clearing or other work upon land in rural districts for fire prevention purposes; except when any of the above work is performed by a registered contractor;
+
+. An owner who contracts for a project with a registered contractor, except that this exemption shall not deprive the owner of the protections of this chapter against registered and unregistered contractors. The exemption prescribed in this subsection does not apply to a person who performs the activities of a contractor for the purpose of leasing or selling improved property he or she has owned for less than twelve months;
+
+. Any person working on his or her own property, whether occupied by him or her or not, and any person working on his or her personal residence, whether owned by him or her or not but this exemption shall not apply to any person who performs the activities of a contractor on his or her own property for the purpose of selling, demolishing, or leasing the property;
+
+. An owner who performs maintenance, repair, and alteration work in or upon his or her own properties, or who uses his or her own employees to do such work;
+
+. A licensed architect or civil or professional engineer acting solely in his or her professional capacity, an electrician certified under the laws of the state of Washington, or a plumber certified under the laws of the state of Washington or licensed by a political subdivision of the state of Washington while operating within the boundaries of such political subdivision. The exemption provided in this subsection is applicable only when the person certified is operating within the scope of his or her certification;
+
+. Any person who engages in the activities herein regulated as an employee of a registered contractor with wages as his or her sole compensation or as an employee with wages as his or her sole compensation;
+
+. Contractors on highway projects who have been prequalified as required by RCW 47.28.070, with the department of transportation to perform highway construction, reconstruction, or maintenance work;
+
+. A mobile/manufactured home dealer or manufacturer who subcontracts the installation, set-up, or repair work to actively registered contractors. This exemption only applies to the installation, set-up, or repair of the mobile/manufactured homes that were manufactured or sold by the mobile/manufactured home dealer or manufacturer;
+
+. An entity who holds a valid electrical contractor's license under chapter 19.28 RCW that employs a certified journey level electrician, a certified residential specialty electrician, or an electrical trainee meeting the requirements of chapter 19.28 RCW to perform plumbing work that is incidentally, directly, and immediately appropriate to the like-in-kind replacement of a household appliance or other small household utilization equipment that requires limited electric power and limited waste and/or water connections. An electrical trainee must be supervised by a certified electrician while performing plumbing work.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5077-S.SL.pdf?cite=2013%20c%2023%20§%2013[2013 c 23 § 13]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1843-S.SL.pdf?cite=2007%20c%20436%20§%206[2007 c 436 § 6]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5713-S.SL.pdf?cite=2003%20c%20399%20§%20401[2003 c 399 § 401]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5101-S.SL.pdf?cite=2001%20c%20159%20§%207[2001 c 159 § 7]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1903-S.SL.pdf?cite=1997%20c%20314%20§%208[1997 c 314 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c313.pdf?cite=1987%20c%20313%20§%201[1987 c 313 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c4.pdf?cite=1983%20c%204%20§%201[1983 c 4 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c68.pdf?cite=1980%20c%2068%20§%202[1980 c 68 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c25.pdf?cite=1974%20ex.s.%20c%2025%20§%202[1974 ex.s. c 25 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c161.pdf?cite=1973%201st%20ex.s.%20c%20161%20§%201[1973 1st ex.s. c 161 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c153.pdf?cite=1973%201st%20ex.s.%20c%20153%20§%206[1973 1st ex.s. c 153 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c126.pdf?cite=1967%20c%20126%20§%203[1967 c 126 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c170.pdf?cite=1965%20ex.s.%20c%20170%20§%2050[1965 ex.s. c 170 § 50]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c77.pdf?cite=1963%20c%2077%20§%209[1963 c 77 § 9]; ]
+
+== 18.27.100 - Business practices—Advertising—Penalty.
+. Except as provided in RCW 18.27.065 for partnerships and joint ventures, no person who has registered under one name as provided in this chapter shall engage in the business, or act in the capacity, of a contractor under any other name unless such name also is registered under this chapter.
+
+. All advertising and all contracts, correspondence, cards, signs, posters, papers, and documents which show a contractor's name or address shall show the contractor's name or address as registered under this chapter.
+
+. [Empty]
+.. All advertising that shows the contractor's name or address shall show the contractor's current registration number. The registration number may be omitted in an alphabetized listing of registered contractors stating only the name, address, and telephone number: PROVIDED, That signs on motor vehicles subject to RCW 46.16A.030 and on-premise [on-premises] signs shall not constitute advertising as provided in this section. All materials used to directly solicit business from retail customers who are not businesses shall show the contractor's current registration number. A contractor shall not use a false or expired registration number in purchasing or offering to purchase an advertisement for which a contractor registration number is required. Advertising by airwave transmission shall not be subject to this subsection (3)(a).
+
+.. The director may issue a subpoena to any person or entity selling any advertising subject to this section for the name, address, and telephone number provided to the seller of the advertising by the purchaser of the advertising. The subpoena must have enclosed a stamped, self-addressed envelope and blank form to be filled out by the seller of the advertising. If the seller of the advertising has the information on file, the seller shall, within a reasonable time, return the completed form to the department. The subpoena must be issued no more than two days after the expiration of the issue or publication containing the advertising or after the broadcast of the advertising. The good-faith compliance by a seller of advertising with a written request of the department for information concerning the purchaser of advertising shall constitute a complete defense to any civil or criminal action brought against the seller of advertising arising from such compliance. Advertising by airwave or electronic transmission is subject to this subsection (3)(b).
+
+. No contractor shall advertise that he or she is bonded and insured because of the bond required to be filed and sufficiency of insurance as provided in this chapter.
+
+. A contractor shall not falsify a registration number and use it, or use an expired registration number, in connection with any solicitation or identification as a contractor. All individual contractors and all partners, associates, agents, salespersons, solicitors, officers, and employees of contractors shall use their true names and addresses at all times while engaged in the business or capacity of a contractor or activities related thereto.
+
+. Any advertising by a person, firm, or corporation soliciting work as a contractor when that person, firm, or corporation is not registered pursuant to this chapter is a violation of this chapter.
+
+. An applicant or registrant who falsifies information on an application for registration commits a violation under this section.
+
+. [Empty]
+.. The finding of a violation of this section by the director at a hearing held in accordance with the Administrative Procedure Act, chapter 34.05 RCW, shall subject the person committing the violation to a penalty of not more than ten thousand dollars as determined by the director.
+
+.. Penalties under this section shall not apply to a violation determined to be an inadvertent error.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20475[2011 c 336 § 475]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5061.SL.pdf?cite=2011%20c%20171%20§%204[2011 c 171 § 4]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6732-S2.SL.pdf?cite=2008%20c%20120%20§%202[2008 c 120 § 2]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5101-S.SL.pdf?cite=2001%20c%20159%20§%208[2001 c 159 § 8]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1903-S.SL.pdf?cite=1997%20c%20314%20§%209[1997 c 314 § 9]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2498-S.SL.pdf?cite=1996%20c%20147%20§%202[1996 c 147 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1505-S.SL.pdf?cite=1993%20c%20454%20§%203[1993 c 454 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c46.pdf?cite=1990%20c%2046%20§%201[1990 c 46 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c362.pdf?cite=1987%20c%20362%20§%203[1987 c 362 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c68.pdf?cite=1980%20c%2068%20§%201[1980 c 68 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c116.pdf?cite=1979%20ex.s.%20c%20116%20§%201[1979 ex.s. c 116 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c77.pdf?cite=1963%20c%2077%20§%2010[1963 c 77 § 10]; ]
+
+== 18.27.102 - Unlawful advertising—Liability.
+When determining a violation of RCW 18.27.100, the director and administrative law judge shall hold responsible the person who purchased or offered to purchase the advertising.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1505-S.SL.pdf?cite=1993%20c%20454%20§%204[1993 c 454 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c362.pdf?cite=1987%20c%20362%20§%204[1987 c 362 § 4]; ]
+
+== 18.27.104 - Unlawful advertising—Citations.
+. If, upon investigation, the director or the director's designee has probable cause to believe that a person holding a registration, an applicant for registration, or a person acting in the capacity of a contractor who is not otherwise exempted from this chapter, has violated RCW 18.27.100 by unlawfully advertising for work covered by this chapter, the department may issue a citation containing an order of correction. Such order shall require the violator to cease the unlawful advertising.
+
+. If the person to whom a citation is issued under subsection (1) of this section notifies the department in writing that he or she contests the citation, the department shall afford an opportunity for an adjudicative proceeding under chapter 34.05 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1843-S.SL.pdf?cite=2007%20c%20436%20§%207[2007 c 436 § 7]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1903-S.SL.pdf?cite=1997%20c%20314%20§%2010[1997 c 314 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c175.pdf?cite=1989%20c%20175%20§%2061[1989 c 175 § 61]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c362.pdf?cite=1987%20c%20362%20§%205[1987 c 362 § 5]; ]
+
+== 18.27.110 - Building permits—Verification of registration required—Responsibilities of issuing entity—Penalties.
+. No city, town or county shall issue a construction building permit for work which is to be done by any contractor required to be registered under this chapter without verification that such contractor is currently registered as required by law. When such verification is made, nothing contained in this section is intended to be, nor shall be construed to create, or form the basis for any liability under this chapter on the part of any city, town or county, or its officers, employees or agents. However, failure to verify the contractor registration number results in liability to the city, town, or county to a penalty to be imposed according to *RCW 18.27.100(7)(a).
+
+. At the time of issuing the building permit, all cities, towns, or counties are responsible for:
+
+.. Printing the contractor registration number on the building permit; and
+
+.. Providing a written notice to the building permit applicant informing them of contractor registration laws and the potential risk and monetary liability to the homeowner for using an unregistered contractor.
+
+. If a building permit is obtained by an applicant or contractor who falsifies information to obtain an exemption provided under RCW 18.27.090, the building permit shall be forfeited.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1903-S.SL.pdf?cite=1997%20c%20314%20§%2011[1997 c 314 § 11]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1505-S.SL.pdf?cite=1993%20c%20454%20§%205[1993 c 454 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c197.pdf?cite=1986%20c%20197%20§%2014[1986 c 197 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c126.pdf?cite=1967%20c%20126%20§%204[1967 c 126 § 4]; ]
+
+== 18.27.111 - Public works, contracts with unregistered contractors prohibited.
+See RCW 39.06.010.
+
+[ ]
+
+== 18.27.114 - Disclosure statement required—Prerequisite to lien claim.
+. Any contractor agreeing to perform any contracting project: (a) For the repair, alteration, or construction of four or fewer residential units or accessory structures on such residential property when the bid or contract price totals one thousand dollars or more; or (b) for the repair, alteration, or construction of a commercial building when the bid or contract price totals one thousand dollars or more but less than sixty thousand dollars, must provide the customer with the following disclosure statement in substantially the following form using lower case and upper case twelve-point and bold type where appropriate, prior to starting work on the project:
+
+"NOTICE TO CUSTOMER
+
+This contractor is registered with the state of Washington, registration no. . . ., and has posted with the state a bond or deposit of . . . . . for the purpose of satisfying claims against the contractor for breach of contract including negligent or improper work in the conduct of the contractor's business. The expiration date of this contractor's registration is . . . . ..
+
+THIS BOND OR DEPOSIT MIGHT NOT BE SUFFICIENT TO COVER A CLAIM THAT MIGHT ARISE FROM THE WORK DONE UNDER YOUR CONTRACT.
+
+This bond or deposit is not for your exclusive use because it covers all work performed by this contractor. The bond or deposit is intended to pay valid claims up to . . . . . that you and other customers, suppliers, subcontractors, or taxing authorities may have.
+
+FOR GREATER PROTECTION YOU MAY WITHHOLD A PERCENTAGE OF YOUR CONTRACT.
+
+You may withhold a contractually defined percentage of your construction contract as retainage for a stated period of time to provide protection to you and help insure that your project will be completed as required by your contract.
+
+YOUR PROPERTY MAY BE LIENED.
+
+If a supplier of materials used in your construction project or an employee or subcontractor of your contractor or subcontractors is not paid, your property may be liened to force payment and you could pay twice for the same work.
+
+FOR ADDITIONAL PROTECTION, YOU MAY REQUEST THE CONTRACTOR TO PROVIDE YOU WITH ORIGINAL "LIEN RELEASE" DOCUMENTS FROM EACH SUPPLIER OR SUBCONTRACTOR ON YOUR PROJECT.
+
+The contractor is required to provide you with further information about lien release documents if you request it. General information is also available from the state Department of Labor and Industries.
+
+I have received a copy of this disclosure statement.
+
+. . . . . . . . . . . . . . . . . .
+
+(Signature of customer)"
+
+. The contractor must retain a signed copy of the disclosure statement in his or her files for a minimum of three years, and produce a copy of the signed disclosure statement to the department upon request.
+
+. A contractor subject to this section shall notify any consumer to whom notice is required under subsection (1) of this section if the contractor's registration has expired or is revoked or suspended by the department prior to completion or other termination of the contract with the consumer.
+
+. No contractor subject to this section may bring or maintain any lien claim under chapter 60.04 RCW based on any contract to which this section applies without alleging and proving that the contractor has provided the customer with a copy of the disclosure statement as required in subsection (1) of this section.
+
+. This section does not apply to contracts authorized under chapter 39.04 RCW or to contractors contracting with other contractors.
+
+. Failure to comply with this section shall constitute an infraction under the provisions of this chapter.
+
+. The department shall produce model disclosure statements, and public service announcements detailing the information needed to assist contractors and contractors' customers to comply under this section. As necessary, the department shall periodically update these education materials.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6028-S.SL.pdf?cite=2020%20c%2057%20§%2026[2020 c 57 § 26]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1843-S.SL.pdf?cite=2007%20c%20436%20§%208[2007 c 436 § 8]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5101-S.SL.pdf?cite=2001%20c%20159%20§%209[2001 c 159 § 9]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1903-S.SL.pdf?cite=1997%20c%20314%20§%2012[1997 c 314 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c182.pdf?cite=1988%20c%20182%20§%201[1988 c 182 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c419.pdf?cite=1987%20c%20419%20§%201[1987 c 419 § 1]; ]
+
+== 18.27.117 - Violations relating to mobile/manufactured homes.
+The legislature finds that setting up and siting mobile/manufactured homes must be done properly for the health, safety, and enjoyment of the occupants. Therefore, when any of the following cause a health and safety risk to the occupants of a mobile/manufactured home, or severely hinder the use and enjoyment of the mobile/manufactured home, a violation of RCW 19.86.020 shall have occurred:
+
+. The mobile/manufactured home has been improperly installed by a contractor registered under chapter 18.27 RCW, or a mobile/manufactured dealer or manufacturer licensed under chapter 46.70 RCW;
+
+. A warranty given under chapter 18.27 RCW or chapter 46.70 RCW has not been fulfilled by the person or business giving the warranty; and
+
+. A bonding company that issues a bond under chapter 18.27 RCW or chapter 46.70 RCW does not reasonably and professionally investigate and resolve claims made by injured parties.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1903-S.SL.pdf?cite=1997%20c%20314%20§%2013[1997 c 314 § 13]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c313.pdf?cite=1987%20c%20313%20§%202[1987 c 313 § 2]; ]
+
+== 18.27.120 - List of registered contractors—Availability, fee.
+. The department shall compile a list of all contractors registered under this chapter and update the list at least bimonthly. The list shall be considered as public record information and shall be available to the public upon request: PROVIDED, That the department may charge a reasonable fee under RCW 42.56.120.
+
+. The department shall inform any person, firm, or corporation, if a contractor is registered, and if a contractor is bonded or insured, without charge except for a reasonable fee under RCW 42.56.120 for copies made.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1133-S.SL.pdf?cite=2005%20c%20274%20§%20221[2005 c 274 § 221]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c2.pdf?cite=1983%201st%20ex.s.%20c%202%20§%2020[1983 1st ex.s. c 2 § 20]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c153.pdf?cite=1973%201st%20ex.s.%20c%20153%20§%207[1973 1st ex.s. c 153 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c118.pdf?cite=1972%20ex.s.%20c%20118%20§%205[1972 ex.s. c 118 § 5]; ]
+
+== 18.27.125 - Rules.
+The director shall adopt rules in compliance with chapter 34.05 RCW to effect the purposes of this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c197.pdf?cite=1986%20c%20197%20§%2012[1986 c 197 § 12]; ]
+
+== 18.27.130 - Chapter exclusive—Certain authority of cities and towns not limited or abridged.
+The provisions of this chapter relating to the registration or licensing of any person, firm, or corporation, including the requirement of a bond with the state of Washington named as obligee therein and the collection of a fee therefor, shall be exclusive and no political subdivision of the state of Washington shall require or issue any registrations, licenses, or bonds nor charge any fee for the same or a similar purpose: PROVIDED, That nothing herein shall limit or abridge the authority of any city or town to levy and collect a general and nondiscriminatory license fee levied upon all businesses, or to levy a tax based upon gross business conducted by any firm within said city: PROVIDED, FURTHER, That nothing herein shall limit the authority of any city or town with respect to contractors not required to be registered under this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c118.pdf?cite=1972%20ex.s.%20c%20118%20§%204[1972 ex.s. c 118 § 4]; ]
+
+== 18.27.140 - Purpose.
+It is the purpose of this chapter to afford protection to the public including all persons, firms, and corporations furnishing labor, materials, or equipment to a contractor from unreliable, fraudulent, financially irresponsible, or incompetent contractors.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c2.pdf?cite=1983%201st%20ex.s.%20c%202%20§%2021[1983 1st ex.s. c 2 § 21]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c161.pdf?cite=1973%201st%20ex.s.%20c%20161%20§%202[1973 1st ex.s. c 161 § 2]; ]
+
+== 18.27.200 - Violation—Infraction.
+. It is a violation of this chapter and an infraction for any contractor to:
+
+.. Advertise, offer to do work, submit a bid, or perform any work as a contractor without being registered as required by this chapter;
+
+.. Advertise, offer to do work, submit a bid, or perform any work as a contractor when the contractor's registration is suspended or revoked;
+
+.. Transfer a valid registration to an unregistered contractor or allow an unregistered contractor to work under a registration issued to another contractor;
+
+.. If the contractor is a [plumbing] contractor as defined in RCW 18.106.010, violate RCW 18.106.320; or
+
+.. Subcontract to, or use, an unregistered contractor.
+
+. Each day that a contractor works without being registered as required by this chapter, works while the contractor's registration is suspended or revoked, or works under a registration issued to another contractor is a separate infraction. Each worksite at which a contractor works without being registered as required by this chapter, works while the contractor's registration is suspended or revoked, or works under a registration issued to another contractor is a separate infraction.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1843-S.SL.pdf?cite=2007%20c%20436%20§%209[2007 c 436 § 9]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2470-S.SL.pdf?cite=2002%20c%2082%20§%206[2002 c 82 § 6]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1903-S.SL.pdf?cite=1997%20c%20314%20§%2014[1997 c 314 § 14]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1505-S.SL.pdf?cite=1993%20c%20454%20§%207[1993 c 454 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c2.pdf?cite=1983%201st%20ex.s.%20c%202%20§%201[1983 1st ex.s. c 2 § 1]; ]
+
+== 18.27.205 - Violations or infractions—Penalties—Subject to RCW  39.12.055.
+A contractor found to have committed an infraction or violation under this chapter for performing work as an unregistered contractor shall, in addition to any penalties under this chapter, be subject to the penalties in RCW 39.12.055.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6732-S2.SL.pdf?cite=2008%20c%20120%20§%204[2008 c 120 § 4]; ]
+
+== 18.27.210 - Violations—Investigations—Evidence.
+. The director shall appoint compliance inspectors to investigate alleged or apparent violations of this chapter.
+
+.. The director, or authorized compliance inspector, upon presentation of appropriate credentials, may inspect and investigate jobsites at which a contractor had bid or presently is working to determine whether the contractor is registered in accordance with this chapter or the rules adopted under this chapter or whether there is a violation of this chapter.
+
+.. Upon request of the compliance inspector of the department, a contractor or an employee of the contractor shall provide information identifying the contractor.
+
+.. The director or the director's authorized representative may apply to a court of competent jurisdiction for a search warrant authorizing access to any jobsite at which a contractor is presently working. The court may, upon such an application, issue a search warrant for the purpose requested. The costs for obtaining the search warrant must be added to the penalty for a violation of this chapter if such a violation becomes final.
+
+. If the employee of an unregistered contractor is cited by a compliance inspector, that employee is cited as the agent of the employer-contractor, and issuance of the infraction to the employee is notice to the employer-contractor that the contractor is in violation of this chapter. An employee who is cited by a compliance inspector shall not be liable for any of the alleged violations contained in the citation unless the employee is also the contractor.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1843-S.SL.pdf?cite=2007%20c%20436%20§%2010[2007 c 436 § 10]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1505-S.SL.pdf?cite=1993%20c%20454%20§%208[1993 c 454 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c419.pdf?cite=1987%20c%20419%20§%202[1987 c 419 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c197.pdf?cite=1986%20c%20197%20§%202[1986 c 197 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c2.pdf?cite=1983%201st%20ex.s.%20c%202%20§%202[1983 1st ex.s. c 2 § 2]; ]
+
+== 18.27.215 - Authority of director—Evidence.
+If he or she has reason to believe there has been a violation of this chapter, the director and the director's authorized representatives may issue subpoenas to enforce the production and examination of any of the following, whether written or electronic: A listing of the contractors working on the property; contracts between the contractor and any suppliers or subcontractors; and any other information necessary to enforce this chapter. The subpoena may be issued only if a contractor fails to provide the above information when requested by the department. The superior court has the power to enforce such a subpoena by proper proceedings. This section applies to registered and unregistered contractors.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1843-S.SL.pdf?cite=2007%20c%20436%20§%2011[2007 c 436 § 11]; ]
+
+== 18.27.220 - Investigations—Penalty for failure to identify contractor.
+Wilful refusal to provide information identifying a contractor as required by RCW 18.27.210 is a misdemeanor.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c2.pdf?cite=1983%201st%20ex.s.%20c%202%20§%2012[1983 1st ex.s. c 2 § 12]; ]
+
+== 18.27.225 - Violations—Restraining orders—Injunctions.
+. If, upon inspection or investigation, the director or authorized compliance inspector reasonably believes that a contractor has failed to register in accordance with this chapter or the rules adopted under this chapter, the director shall issue an order immediately restraining further construction work at the jobsite by the contractor. The order shall describe the specific violation that necessitated issuance of the restraining order. The contractor or representative to whom the restraining order is directed may request a hearing before an administrative law judge, such hearing to be conducted pursuant to chapter 34.05 RCW. A request for hearing shall not stay the effect of the restraining order.
+
+. In addition to and after having invoked the powers of restraint vested in the director as provided in subsection (1) of this section, the director, through the attorney general, may petition the superior court of the state of Washington to enjoin any activity in violation of this chapter. A prima facie case for issuance of an injunction shall be established by affidavits and supporting documentation demonstrating that a restraining order was served upon the contractor and that the contractor continued to work after service of the order. Upon the filing of the petition, the superior court shall have jurisdiction to grant injunctive or other appropriate relief, pending the outcome of enforcement proceedings under this chapter, or to enforce restraining orders issued by the director. If the contractor fails to comply with any court order, the director shall request the attorney general to petition the superior court for an order holding the contractor in contempt of court and for any other appropriate relief.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c419.pdf?cite=1987%20c%20419%20§%203[1987 c 419 § 3]; ]
+
+== 18.27.230 - Notice of infraction—Service.
+The department may issue a notice of infraction if the department reasonably believes that the contractor has committed an infraction under this chapter. A notice of infraction issued under this section shall be personally served on the contractor named in the notice by the department's compliance inspectors or service can be made using a method by which the mailing can be tracked or the delivery can be confirmed directed to the contractor named in the notice of infraction at the contractor's last known address of record. If the contractor named in the notice of infraction is a firm or corporation, the notice may be personally served on any employee of the firm or corporation. If a notice of infraction is personally served upon an employee of a firm or corporation, the department shall send a copy of the notice using a method by which the mailing can be tracked or the delivery can be confirmed to the contractor if the department is able to obtain the contractor's address.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5067-S.SL.pdf?cite=2011%20c%20301%20§%202[2011 c 301 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1843-S.SL.pdf?cite=2007%20c%20436%20§%2012[2007 c 436 § 12]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1903-S.SL.pdf?cite=1997%20c%20314%20§%2015[1997 c 314 § 15]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1505-S.SL.pdf?cite=1993%20c%20454%20§%209[1993 c 454 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c197.pdf?cite=1986%20c%20197%20§%203[1986 c 197 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c2.pdf?cite=1983%201st%20ex.s.%20c%202%20§%203[1983 1st ex.s. c 2 § 3]; ]
+
+== 18.27.240 - Notice—Contents.
+The form of the notice of infraction issued under this chapter shall include the following:
+
+. A statement that the notice represents a determination that the infraction has been committed by the contractor named in the notice and that the determination shall be final unless contested as provided in this chapter;
+
+. A statement that the infraction is a noncriminal offense for which imprisonment shall not be imposed as a sanction;
+
+. A statement of the violation which necessitated issuance of the infraction;
+
+. A statement of penalty involved if the infraction is established;
+
+. A statement of the options provided in this chapter for responding to the notice and the procedures necessary to exercise these options;
+
+. A statement that at any hearing to contest the notice of infraction the state has the burden of proving, by a preponderance of the evidence, that the infraction was committed; and that the contractor may subpoena witnesses, including the compliance inspector of the department who issued and served the notice of infraction;
+
+. A statement that at any hearing to contest the notice of infraction against an unregistered contractor, the unregistered contractor has the burden of proving that the infraction did not occur;
+
+. A statement that the contractor must respond to the notice of infraction in one of the ways provided in this chapter; and
+
+. A statement that a contractor's failure to timely select one of the options for responding to the notice of infraction after receiving a statement of the options provided in this chapter for responding to the notice of infraction and the procedures necessary to exercise these options is guilty of a gross misdemeanor and may be punished by a fine or imprisonment in jail.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1843-S.SL.pdf?cite=2007%20c%20436%20§%2013[2007 c 436 § 13]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1650-S.SL.pdf?cite=2006%20c%20270%20§%208[2006 c 270 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c197.pdf?cite=1986%20c%20197%20§%204[1986 c 197 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c2.pdf?cite=1983%201st%20ex.s.%20c%202%20§%205[1983 1st ex.s. c 2 § 5]; ]
+
+== 18.27.250 - Notice—Filing—Administrative hearing—Appeal.
+A violation designated as an infraction under this chapter shall be heard and determined by an administrative law judge of the office of administrative hearings. If a party desires to contest the notice of infraction, the party shall file a notice of appeal with the department specifying the grounds of the appeal within thirty days of service of the infraction in a manner provided by this chapter. The appeal must be accompanied by a certified check for two hundred dollars or ten percent of the penalty amount, whichever is less, but in no event less than one hundred dollars, which shall be returned to the assessed party if the decision of the department is not sustained following the final decision in the appeal. If the final decision sustains the decision of the department, the department must apply the amount of the check to the payment of the expenses of the appeal, including costs charged by the office of administrative hearings. The administrative law judge shall conduct hearings in these cases at locations in the county where the infraction occurred.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2146-S.SL.pdf?cite=2014%20c%20190%20§%201[2014 c 190 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1055-S.SL.pdf?cite=2011%20c%2015%20§%201[2011 c 15 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1843-S.SL.pdf?cite=2007%20c%20436%20§%2014[2007 c 436 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c197.pdf?cite=1986%20c%20197%20§%205[1986 c 197 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c2.pdf?cite=1983%201st%20ex.s.%20c%202%20§%204[1983 1st ex.s. c 2 § 4]; ]
+
+== 18.27.260 - Notice—Determination infraction committed.
+Unless contested in accordance with this chapter, the notice of infraction represents a determination that the contractor to whom the notice was issued committed the infraction.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c2.pdf?cite=1983%201st%20ex.s.%20c%202%20§%206[1983 1st ex.s. c 2 § 6]; ]
+
+== 18.27.270 - Notice—Response—Failure to respond, appear, pay penalties, or register.
+. A contractor who is issued a notice of infraction shall respond within thirty days of the date of issuance of the notice of infraction.
+
+. If the contractor named in the notice of infraction does not elect to contest the notice of infraction, then the contractor shall pay to the department, by check or money order, the amount of the penalty prescribed for the infraction. When a response which does not contest the notice of infraction is received by the department with the appropriate penalty, the department shall make the appropriate entry in its records.
+
+. If the contractor named in the notice of infraction elects to contest the notice of infraction, the contractor shall respond by filing an appeal to the department in the manner specified in RCW 18.27.250.
+
+. If any contractor issued a notice of infraction fails to respond within the prescribed response period, the contractor shall be guilty of a misdemeanor and prosecuted in the county where the infraction occurred.
+
+. After final determination by an administrative law judge that an infraction has been committed, a contractor who fails to pay a monetary penalty within thirty days, that is not waived pursuant to RCW 18.27.340(2), and who fails to file an appeal pursuant to RCW 18.27.310(4), shall be guilty of a misdemeanor and be prosecuted in the county where the infraction occurred.
+
+. A contractor who fails to pay a monetary penalty within thirty days after exhausting appellate remedies pursuant to RCW 18.27.310(4), shall be guilty of a misdemeanor and be prosecuted in the county where the infraction occurred.
+
+. If a contractor who is issued a notice of infraction is a contractor who has failed to register as a contractor under this chapter, the contractor is subject to a monetary penalty per infraction as provided in the schedule of penalties established by the department, and each day the person works without becoming registered is a separate infraction.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1055-S.SL.pdf?cite=2011%20c%2015%20§%202[2011 c 15 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1843-S.SL.pdf?cite=2007%20c%20436%20§%2015[2007 c 436 § 15]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2400.SL.pdf?cite=2000%20c%20171%20§%209[2000 c 171 § 9]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1903-S.SL.pdf?cite=1997%20c%20314%20§%2016[1997 c 314 § 16]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c197.pdf?cite=1986%20c%20197%20§%206[1986 c 197 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c2.pdf?cite=1983%201st%20ex.s.%20c%202%20§%207[1983 1st ex.s. c 2 § 7]; ]
+
+== 18.27.290 - Notice—Penalty for contractor failing to respond.
+It is a gross misdemeanor for a contractor who has been personally served with a notice of infraction to willfully fail to respond to a notice of infraction as provided in this chapter, regardless of the ultimate disposition of the infraction.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1843-S.SL.pdf?cite=2007%20c%20436%20§%2016[2007 c 436 § 16]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c2.pdf?cite=1983%201st%20ex.s.%20c%202%20§%2011[1983 1st ex.s. c 2 § 11]; ]
+
+== 18.27.300 - Representation by attorney, attorney general.
+A contractor subject to proceedings under this chapter may appear or be represented by counsel. The department shall be represented by the attorney general in administrative proceedings and any subsequent appeals under this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c197.pdf?cite=1986%20c%20197%20§%207[1986 c 197 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c2.pdf?cite=1983%201st%20ex.s.%20c%202%20§%208[1983 1st ex.s. c 2 § 8]; ]
+
+== 18.27.310 - Infraction—Administrative hearing—Procedure—Burden of proof—Order—Appeal.
+. The administrative law judge shall conduct contractors' notice of infraction cases pursuant to chapter 34.05 RCW.
+
+. The burden of proof is on the department to establish the commission of the infraction by a preponderance of the evidence, unless the infraction is issued against an unregistered contractor in which case the burden of proof is on the contractor. The notice of infraction shall be dismissed if the appellant establishes that, at the time the advertising occurred, offer or bid was made, or work was performed, the appellant was registered by the department, without suspension, or was exempt from registration.
+
+. After consideration of the evidence and argument, the administrative law judge shall determine whether the infraction was committed. If it has not been established that the infraction was committed, an order dismissing the notice shall be entered in the record of the proceedings. If it has been established that the infraction was committed, the administrative law judge shall issue findings of fact and conclusions of law in its decision and order determining whether the infraction was committed.
+
+. An appeal from the administrative law judge's determination or order shall be to the superior court. The decision of the superior court is subject only to discretionary review pursuant to Rule 2.3 of the Rules of Appellate Procedure.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1843-S.SL.pdf?cite=2007%20c%20436%20§%2017[2007 c 436 § 17]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5101-S.SL.pdf?cite=2001%20c%20159%20§%2010[2001 c 159 § 10]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1505-S.SL.pdf?cite=1993%20c%20454%20§%2010[1993 c 454 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c197.pdf?cite=1986%20c%20197%20§%208[1986 c 197 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c2.pdf?cite=1983%201st%20ex.s.%20c%202%20§%209[1983 1st ex.s. c 2 § 9]; ]
+
+== 18.27.320 - Infraction—Dismissal, when.
+The administrative law judge shall dismiss the notice of infraction at any time upon written notification from the department that the contractor named in the notice of infraction was registered, without suspension, at the time the work was performed.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5101-S.SL.pdf?cite=2001%20c%20159%20§%2011[2001 c 159 § 11]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1505-S.SL.pdf?cite=1993%20c%20454%20§%2011[1993 c 454 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c197.pdf?cite=1986%20c%20197%20§%209[1986 c 197 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c2.pdf?cite=1983%201st%20ex.s.%20c%202%20§%2013[1983 1st ex.s. c 2 § 13]; ]
+
+== 18.27.340 - Infraction—Monetary penalty.
+. Except as otherwise provided in subsection (3) of this section, a contractor found to have committed an infraction under RCW 18.27.200 shall be assessed a monetary penalty of not less than two hundred dollars and not more than five thousand dollars.
+
+. The director may waive collection in favor of payment of restitution to a consumer complainant.
+
+. A contractor found to have committed an infraction under RCW 18.27.200 for failure to register shall be assessed a fine of not less than one thousand dollars, nor more than five thousand dollars. The director may reduce the penalty for failure to register, but in no case below five hundred dollars, if the person becomes registered within ten days of receiving a notice of infraction and the notice of infraction is for a first offense.
+
+. Monetary penalties collected under this chapter shall be deposited in the general fund.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1903-S.SL.pdf?cite=1997%20c%20314%20§%2017[1997 c 314 § 17]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c197.pdf?cite=1986%20c%20197%20§%2010[1986 c 197 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c2.pdf?cite=1983%201st%20ex.s.%20c%202%20§%2015[1983 1st ex.s. c 2 § 15]; ]
+
+== 18.27.350 - Violations—Consumer Protection Act.
+The consumers of this state have a right to be protected from unfair or deceptive acts or practices when they enter into contracts with contractors. The fact that a contractor is found to have committed a misdemeanor or infraction under this chapter shall be deemed to affect the public interest and shall constitute a violation of chapter 19.86 RCW. The surety bond shall not be liable for monetary penalties or violations of chapter 19.86 RCW.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c197.pdf?cite=1986%20c%20197%20§%2011[1986 c 197 § 11]; ]
+
+== 18.27.370 - Notices of infraction—Filing—Warrant—Notice and order, withhold property—Service—Civil penalties.
+. A notice of infraction issued under this chapter constitutes a notice of assessment for purposes of this section.
+
+. A notice of infraction becomes final thirty days from the date it is served upon the contractor unless a timely appeal of the infraction is received as provided in RCW 18.27.270.
+
+. When a notice of infraction becomes final, the director or the director's designee may file with the clerk of any county within the state, a warrant in the amount of the notice of infraction, plus interest, penalties, and a filing fee of twenty dollars. The clerk of the county in which the warrant is filed shall immediately designate a superior court cause number for the warrant, and the clerk shall cause to be entered in the judgment docket under the superior court cause number assigned to the warrant, the name of the contractor mentioned in the warrant, the amount of payment, penalty, fine due on it, or filing fee, and the date when the warrant was filed. The aggregate amount of the warrant as docketed shall become a lien upon the title to, and interest in, all real and personal property of the contractor against whom the warrant is issued, the same as a judgment in a civil case docketed in the office of the clerk. The sheriff shall proceed upon the warrant in all respects and with like effect as prescribed by law with respect to execution or other process issued against rights or property upon judgment in a court of competent jurisdiction. The warrant so docketed is sufficient to support the issuance of writs of garnishment in favor of the state in a manner provided by law in case of judgment, wholly or partially unsatisfied. The clerk of the court is entitled to a filing fee which will be added to the amount of the warrant. A copy of the warrant shall be mailed to the contractor within three days of filing with the clerk.
+
+. The director or the director's designee may issue to any person, firm, corporation, other entity, municipal corporation, political subdivision of the state, a public corporation, or any agency of the state, a notice and order to withhold and deliver property of any kind whatsoever when he or she has reason to believe that there is in the possession of the person, firm, corporation, other entity, municipal corporation, political subdivision of the state, public corporation, or agency of the state, property that is or will become due, owing, or belonging to a contractor upon whom a notice of infraction has been served by the department for payments, penalties, or fines due to the department. The effect of a notice and order is continuous from the date the notice and order is first made until the liability out of which the notice and order arose is satisfied or becomes unenforceable because of lapse of time. The department shall release the notice and order when the liability out of which the notice and order arose is satisfied or becomes unenforceable by reason of lapse of time and shall notify the person against whom the notice and order was made that the notice and order has been released.
+
+The notice and order to withhold and deliver must be served by the sheriff of the county or by the sheriff's deputy, using a method by which the mailing can be tracked or the delivery can be confirmed, or by an authorized representative of the director. A person, firm, corporation, other entity, municipal corporation, political subdivision of the state, public corporation, or agency of the state upon whom service has been made shall answer the notice within twenty days exclusive of the day of service, under oath and in writing, and shall make true answers to the matters inquired of in the notice and order. Upon service of the notice and order, if the party served possesses any property that may be subject to the claim of the department, the party shall promptly deliver the property to the director or the director's authorized representative. The director shall hold the property in trust for application on the contractor's indebtedness to the department, or for return without interest, in accordance with a final determination of a petition for review. In the alternative, the party shall furnish a good and sufficient surety bond satisfactory to the director conditioned upon final determination of liability. If a party served and named in the notice fails to answer the notice within the time prescribed in this section, the court may render judgment by default against the party for the full amount claimed by the director in the notice, together with costs. If a notice and order to withhold and deliver wages is served upon a contractor upon whom a notice of infraction has been served, the contractor may assert in the answer all exemptions provided for by chapter 6.27 RCW to which the wage earner is entitled.
+
+. In addition to the procedure for collection of a payment, penalty, or fine due to the department as set forth in this section, the department may recover civil penalties imposed under this chapter in a civil action in the name of the department brought in a court of competent jurisdiction of the county where the violation is alleged to have occurred.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5067-S.SL.pdf?cite=2011%20c%20301%20§%203[2011 c 301 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1055-S.SL.pdf?cite=2011%20c%2015%20§%203[2011 c 15 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5101-S.SL.pdf?cite=2001%20c%20159%20§%206[2001 c 159 § 6]; ]
+
+== 18.27.380 - Consumer/contractor awareness of chapter.
+. The department shall use reasonable means, including working cooperatively with construction industry, financial institution, local government, consumer, media, and other interested organizations and individuals, to increase:
+
+.. Consumer awareness of the requirements of this chapter and the methods available to consumers to protect themselves against loss; and
+
+.. Contractor awareness of the obligations imposed on contractors by this chapter.
+
+. The department shall accomplish the tasks listed in this section within existing resources, including but not limited to fees charged under RCW 18.27.075.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5101-S.SL.pdf?cite=2001%20c%20159%20§%2012[2001 c 159 § 12]; ]
+
+== 18.27.385 - Marketing campaign.
+The department shall create an expanded social marketing campaign using currently available materials and newly created materials as needed. This campaign should be aimed at consumers and warn them of the risks and potential consequences of hiring unregistered contractors or otherwise assisting in the furtherance of the underground economy. The campaign may include: Providing public service announcements and other similar materials, made available in English as well as other languages, to the media and to community groups; providing information on violations and penalties; and encouraging legitimate contractors and the public to report fraud.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6732-S2.SL.pdf?cite=2008%20c%20120%20§%2012[2008 c 120 § 12]; ]
+
+== 18.27.390 - Finding—Unregistered contractors enforcement team.
+. The legislature finds that it is contrary to public policy to allow unregistered contractors to continue doing business illegally.
+
+. The department of labor and industries, the employment security department, and the department of revenue shall establish an unregistered contractors enforcement team. The team shall develop a written plan to coordinate the activities of the participating agencies to enforce the state's contractor registration laws and rules and other state laws and rules deemed appropriate by the team. In developing the plan, the team shall seek the input and advice of interested stakeholders who support the work of the team.
+
+. The director or the director's designee shall call the initial meeting of the unregistered contractors enforcement team by September 1, 2001. The team shall complete the plan and forward it to the appropriate standing committees of the legislature and to the departments that contribute members to the team by December 1, 2001.
+
+. The department of labor and industries, the employment security department, and the department of revenue shall accomplish the tasks listed in this section within existing resources, including but not limited to fees charged under RCW 18.27.075.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5101-S.SL.pdf?cite=2001%20c%20159%20§%2013[2001 c 159 § 13]; ]
+
+== 18.27.400 - Deposit of moneys from chapter.
+All moneys, except fines and penalties, received or collected under the terms of this chapter must be deposited into the construction registration inspection account. All fines and penalties received or collected under the terms of this chapter shall be deposited in the general fund.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1716.SL.pdf?cite=2017%203rd%20sp.s.%20c%2011%20§%201[2017 3rd sp.s. c 11 § 1]; ]
+
+== 18.27.800 - Report—2009 c 432.
+The department of labor and industries, the employment security department, and the department of revenue shall coordinate and report to the appropriate committees of the legislature by December 1st of each year on the effectiveness of efforts implemented since July 1, 2008, to address the underground economy. The agencies shall use benchmarks and measures established by the institute for public policy and other measures it determines appropriate.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1555-S.SL.pdf?cite=2009%20c%20432%20§%2013[2009 c 432 § 13]; ]
+

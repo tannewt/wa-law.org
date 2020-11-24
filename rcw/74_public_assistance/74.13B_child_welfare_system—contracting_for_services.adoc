@@ -1,0 +1,159 @@
+= 74.13B - Child welfare system—Contracting for services.
+:toc:
+
+== 74.13B.005 - Findings—Intent.
+. The legislature finds that:
+
+.. The state of Washington and several Indian tribes in the state of Washington assume legal responsibility for abused or neglected children when their parents or caregivers are unable or unwilling to adequately provide for their safety, health, and welfare;
+
+.. Washington state has a strong history of partnership between the department and contracted service providers who currently serve children and families in the child welfare system. The department and its contracted service providers have responsibility for providing services to address parenting deficiencies resulting in child maltreatment, and the needs of children impacted by maltreatment;
+
+.. Department caseworkers and contracted service providers each play a critical and complementary role in the child welfare system;
+
+.. The current system of contracting for services needed by children and families in the child welfare system is fragmented, inflexible, and lacks incentives for improving outcomes for children and families.
+
+. The legislature intends:
+
+.. To reform the delivery of certain services to children and families in the child welfare system by creating a flexible, accountable community-based system of care that utilizes performance-based contracting, maximizes the use of evidence-based, research-based, and promising practices, and expands the capacity of community-based agencies to leverage local funding and other resources to benefit children and families served by the department;
+
+.. To achieve improved child safety, child permanency, including reunification, and child well-being outcomes through the collaborative efforts of the department and contracted service providers and the prioritization of these goals in performance-based contracting; and
+
+.. To implement performance-based contracting under chapter 205, Laws of 2012 in a manner that supports and complies with the federal and Washington state Indian child welfare act.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1661-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%206%20§%20504[2017 3rd sp.s. c 6 § 504]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2264-S2.SL.pdf?cite=2012%20c%20205%20§%201[2012 c 205 § 1]; ]
+
+== 74.13B.010 - Definitions.
+For purposes of this chapter:
+
+. "Case management" means convening family meetings, developing, revising, and monitoring implementation of any case plan or individual service and safety plan, coordinating and monitoring services needed by the child and family, caseworker-child visits, family visits, and the assumption of court-related duties, excluding legal representation, including preparing court reports, attending judicial hearings and permanency hearings, and ensuring that the child is progressing toward permanency within state and federal mandates, including the Indian child welfare act.
+
+. "Child" means:
+
+.. A person less than eighteen years of age; or
+
+.. A person age eighteen to twenty-one years who is eligible to receive the extended foster care services authorized under RCW 74.13.031.
+
+. "Child-placing agency" has the same meaning as in RCW 74.15.020.
+
+. "Child welfare services" means social services including voluntary and in-home services, out-of-home care, case management, and adoption services which strengthen, supplement, or substitute for, parental care and supervision for the purpose of:
+
+.. Preventing or remedying, or assisting in the solution of problems which may result in families in conflict, or the neglect, abuse, exploitation, or criminal behavior of children;
+
+.. Protecting and caring for dependent, abused, or neglected children;
+
+.. Assisting children who are in conflict with their parents, and assisting parents who are in conflict with their children, with services designed to resolve such conflicts;
+
+.. Protecting and promoting the welfare of children, including the strengthening of their own homes where possible, or, where needed;
+
+.. Providing adequate care of children away from their homes in foster family homes or day care or other child care agencies or facilities.
+
+. "Department" means the department of children, youth, and families.
+
+. "Evidence-based" means a program or practice that is cost-effective and includes at least two randomized or statistically controlled evaluations that have demonstrated improved outcomes for its intended population.
+
+. "Network administrator" means an entity that contracts with the department to provide defined services to children and families in the child welfare system through its provider network, as provided in RCW 74.13B.020.
+
+. "Performance-based contracting" means structuring all aspects of the procurement of services around the purpose of the work to be performed and the desired results with the contract requirements set forth in clear, specific, and objective terms with measurable outcomes and linking payment for services to contractor performance.
+
+. "Promising practice" means a practice that presents, based upon preliminary information, potential for becoming a research-based or consensus-based practice.
+
+. "Provider network" means those service providers who contract with a network administrator to provide services to children and families in the geographic area served by the network administrator.
+
+. "Research-based" means a program or practice that has some research demonstrating effectiveness, but that does not yet meet the standard of evidence-based practices.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1661-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%206%20§%20505[2017 3rd sp.s. c 6 § 505]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2264-S2.SL.pdf?cite=2012%20c%20205%20§%202[2012 c 205 § 2]; ]
+
+== 74.13B.020 - Family support and related services—Performance-based contracting.
+. The department shall enter into performance-based contracts for the provision of family support and related services. The department may enter into performance-based contracts for additional services, other than case management.
+
+. It is the goal of the legislature to expand the coverage area of network administrators to encompass the entire state. Recognizing that phased implementation may be necessary, the department shall conduct one or more procurement processes to expand the geographic coverage of network administrators for family support and related services. Expenditures for family support and related services purchased under this section must remain within the levels appropriated in the operating budget.
+
+. [Empty]
+.. Network administrators shall, directly or through subcontracts with service providers:
+
+... Assist caseworkers in meeting their responsibility for implementation of case plans and individual service and safety plans;
+
+... Provide the family support and related services within the categories of contracted services that are included in a child or family's case plan or individual service and safety plan within funds available under contract;
+
+... Manage the entire family support and related service array within the geographic boundaries of a given network; and
+
+... Have the authority to redistribute funding within the network based on provider performance and the need to address service gaps if approval is provided by the department.
+
+.. While the department caseworker retains responsibility for case management, nothing in chapter 205, Laws of 2012 limits the ability of the department to continue to contract for the provision of case management services by child-placing agencies, behavioral rehabilitation services agencies, or other entities that provided case management under contract with the department prior to July 1, 2005.
+
+. The procurement process must be developed and implemented in a manner that complies with applicable provisions of intergovernmental agreements between the state of Washington and tribal governments and must provide an opportunity for tribal governments to contract for service delivery through network administrators.
+
+. The procurement and resulting contracts must include, but are not limited to, the following standards and requirements:
+
+.. The use of family engagement approaches to successfully motivate families to engage in services and training of the network's contracted providers to apply such approaches;
+
+.. The use of parents and youth who are successful veterans of the child welfare system to act as mentors through activities that include, but are not limited to, helping families navigate the system, facilitating parent engagement, and minimizing distrust of the child welfare system;
+
+.. The establishment of qualifications for service providers participating in provider networks, such as appropriate licensure or certification, education, and accreditation by professional accrediting entities;
+
+.. Adequate provider capacity to meet the anticipated service needs in the network administrator's contracted service area. The network administrator must be able to demonstrate that its provider network is culturally competent and has adequate capacity to address disproportionality, including utilization of tribal and other ethnic providers capable of serving children and families of color or who need language-appropriate services;
+
+.. Fiscal solvency of network administrators and providers participating in the network;
+
+.. The use of evidence-based, research-based, and promising practices, where appropriate, including fidelity and quality assurance provisions;
+
+.. Network administrator quality assurance activities, including monitoring of the performance of providers in their provider network, with respect to meeting measurable service outcomes;
+
+.. Network administrator data reporting, including data on contracted provider performance and service outcomes; and
+
+.. Network administrator compliance with applicable provisions of intergovernmental agreements between the state of Washington and tribal governments and the federal and Washington state Indian child welfare act.
+
+. As part of the procurement process under this section to expand the coverage of network administrators, the department shall issue the request for proposals or request for information no later than September 30, 2018, to expand the coverage area of the existing network administrator or expand the number of network administrators so that there is expanded network administrator coverage on the east side of the crest of the Cascade mountain range. Expanded implementation of performance-based contracting must begin no later than January 30, 2019, if a qualified organization responds to the procurement process. Based on the costs and benefits of the network administrator expansion in this subsection, the department shall submit a recommendation to the oversight board for children, youth, and families established pursuant to RCW 43.216.015 and the appropriate committees of the legislature by September 1, 2020, regarding the time frame for expansion of network administrator coverage to additional regions of the state.
+
+. Performance-based payment methodologies must be used in network administrator contracting. Performance measures should relate to successful engagement by a child or parent in services included in their case plan, and resulting improvement in identified problem behaviors and interactions. For the initial three-year period of implementation of performance-based contracting, the department may transfer financial risk for the provision of services to network administrators only to the limited extent necessary to implement a performance-based payment methodology, such as phased payment for services. However, the department may develop a shared savings methodology through which the network administrator will receive a defined share of any savings that result from improved performance. If the department receives a Title IV-E waiver, the shared savings methodology must be consistent with the terms of the waiver. If a shared savings methodology is adopted, the network administrator shall reinvest the savings in enhanced services to better meet the needs of the families and children they serve.
+
+. The department must actively monitor network administrator compliance with the terms of contracts executed under this section.
+
+. The use of performance-based contracts under this section must be done in a manner that does not adversely affect the state's ability to continue to obtain federal funding for child welfare-related functions currently performed by the state and with consideration of options to further maximize federal funding opportunities and increase flexibility in the use of such funds, including use for preventive and in-home child welfare services.
+
+. The department shall, consistent with state and federal confidentiality requirements:
+
+.. Share all relevant data with the network administrators in order for the network administrators to track the performance and effectiveness of the services in the network; and
+
+.. Make all performance data available to the public.
+
+. The department must not require existing network administrators to reapply to provide network administrator services in the coverage area of the existing network administrator on June 7, 2018.
+
+. Beginning January 1, 2019, and in compliance with RCW 43.01.036, the department shall annually submit to the oversight board for children, youth, and families established pursuant to RCW 43.216.015 and the appropriate committees of the legislature a report detailing the status of the network administrator procurement and implementation process.
+
+. In determining the cost estimate for expanded network administrator implementation, the department shall consider the value of the existing data platform for child welfare services.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6407.SL.pdf?cite=2018%20c%20284%20§%2064[2018 c 284 § 64]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1774-S.SL.pdf?cite=2013%20c%20205%20§%203[2013 c 205 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2264-S2.SL.pdf?cite=2012%20c%20205%20§%203[2012 c 205 § 3]; ]
+
+== 74.13B.030 - Selection of service providers.
+. For those services included in contracts under RCW 74.13B.020, the service providers must be chosen by the department caseworker from among those in the network administrator's provider network. The criteria for provider selection must include the geographic proximity of the provider to the child or family, and the performance of the provider based upon data collected and provided by the network administrator. If a reasonably qualified provider is not available through the network administrator's provider network, at the request of a department caseworker, a provider who is not currently under contract with the network administrator may be offered a provisional contract by the network administrator, pending that provider demonstrating that he or she meets applicable provider qualifications to participate in the administrator's provider network.
+
+. The department shall develop a dispute resolution process to be used when the network administrator disagrees with the department caseworker's choice of a service provider due to factors such as the service provider's performance history or ability to serve culturally diverse families. The mediator or decision maker must be a neutral employee of the department who has not been previously involved in the case. The dispute resolution process must not result in a delay of more than two business days in the receipt of needed services by the child or family.
+
+. The department and network administrator shall collaborate to identify and respond to patterns or trends in service utilization that may indicate overutilization or underutilization of family support and related services, or may indicate a need to enhance service capacity.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2264-S2.SL.pdf?cite=2012%20c%20205%20§%204[2012 c 205 § 4]; ]
+
+== 74.13B.040 - Performance-based contracting—Review.
+. On an annual basis, beginning in the 2015-2017 biennium, the department and contracted network administrators shall:
+
+.. Review and update the services offered through performance-based contracts in response to service outcome data for currently contracted services and any research that has identified new evidence-based or research-based services not included in a previous procurement; and
+
+.. Review service utilization and outcome data to determine whether changes are needed in procurement policies or performance-based contracts to better meet the goals established in RCW 74.13B.005.
+
+. In conducting the review under subsection (1) of this section, the department must consult with department caseworkers, the exclusive bargaining representative for employees of the department, tribal representatives, parents who were formerly involved in the child welfare system, youth currently or previously in foster care, child welfare services researchers, representatives of child welfare service providers, and the Washington state institute for public policy.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2264-S2.SL.pdf?cite=2012%20c%20205%20§%205[2012 c 205 § 5]; ]
+
+== 74.13B.050 - Express mandate.
+. To achieve the service delivery improvements and efficiencies intended in RCW 74.13B.005, 74.13B.020, 74.13B.030, and 74.13B.060 and in *RCW 74.13.370, and pursuant to **RCW 41.06.142(3), contracting with network administrators to provide services needed by children and families in the child welfare system, pursuant to RCW 74.13B.020 and 74.13B.030, and execution and monitoring of individual provider contracts, pursuant to RCW 74.13B.020, are expressly mandated by the legislature and are not subject to the processes set forth in **RCW 41.06.142 (1), (4), and (5).
+
+. The express mandate in subsection (1) of this section is limited to those services and activities provided in RCW 74.13B.020 and 74.13B.030. If the department includes services customarily and historically performed by department employees in the classified service in a procurement for network administrators that exceeds the scope of services or activities provided in RCW 74.13B.020 and 74.13B.030, such contracting is not specifically mandated and will be subject to all applicable contractual and legal obligations.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2264-S2.SL.pdf?cite=2012%20c%20205%20§%206[2012 c 205 § 6]; ]
+
+== 74.13B.060 - Preferred service providers.
+For the purposes of the provision of child welfare services by provider networks, when all other elements of the responses to any procurement under RCW 74.13B.020 are equal, private nonprofit entities and federally recognized Indian tribes located in this state must receive primary preference over private for-profit entities.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2264-S2.SL.pdf?cite=2012%20c%20205%20§%207[2012 c 205 § 7]; ]
+

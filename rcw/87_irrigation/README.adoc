@@ -1,0 +1,18 @@
+= 87 IRRIGATION
+
+* link:87.03_irrigation_districts_generally.adoc[87.03 - Irrigation districts generally.]
+* link:87.04_director_divisions.adoc[87.04 - Director divisions.]
+* link:87.06_delinquent_assessments.adoc[87.06 - Delinquent assessments.]
+* link:87.19_refunding_bonds—1923_act.adoc[87.19 - Refunding bonds—1923 act.]
+* link:87.22_refunding_bonds—1929_act.adoc[87.22 - Refunding bonds—1929 act.]
+* link:87.25_certification_of_bonds.adoc[87.25 - Certification of bonds.]
+* link:87.28_revenue_bonds_for_water_power_drains_etc.adoc[87.28 - Revenue bonds for water, power, drains, etc.]
+* link:87.48_indemnity_to_state_on_land_settlement_contracts.adoc[87.48 - Indemnity to state on land settlement contracts.]
+* link:87.52_dissolution_of_districts_without_bonds.adoc[87.52 - Dissolution of districts without bonds.]
+* link:87.53_dissolution_of_districts_with_bonds.adoc[87.53 - Dissolution of districts with bonds.]
+* link:87.56_dissolution_of_insolvent_districts.adoc[87.56 - Dissolution of insolvent districts.]
+* link:87.64_adjustment_of_irrigation_diking_and_drainage_district_indebtedness.adoc[87.64 - Adjustment of irrigation, diking, and drainage district indebtedness.]
+* link:87.68_districts_under_contract_with_united_states.adoc[87.68 - Districts under contract with United States.]
+* link:87.76_association_of_irrigation_districts.adoc[87.76 - Association of irrigation districts.]
+* link:87.80_joint_control_of_irrigation_districts.adoc[87.80 - Joint control of irrigation districts.]
+* link:87.84_irrigation_and_rehabilitation_districts.adoc[87.84 - Irrigation and rehabilitation districts.]

@@ -1,0 +1,67 @@
+= 5.51 - Uniform interstate depositions and discovery act.
+:toc:
+
+== 5.51.010 - Definitions.
+In this chapter:
+
+. "Foreign jurisdiction" means a state other than Washington state.
+
+. "Foreign subpoena" means a subpoena issued under authority of a court of record of a foreign jurisdiction.
+
+. "Person" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, public corporation, government, or governmental subdivision, agency or instrumentality, or any other legal or commercial entity.
+
+. "State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, a federally recognized Indian tribe, or any territory or insular possession subject to the jurisdiction of the United States.
+
+. "Subpoena" means a document, however denominated, issued under authority of a court of record requiring a person to:
+
+.. Attend and give testimony at a deposition;
+
+.. Produce and permit inspection and copying of designated books, documents, records, electronically stored information, or tangible things in the possession, custody, or control of the person; or
+
+.. Permit inspection of premises under the control of the person.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2195.SL.pdf?cite=2012%20c%2095%20§%202[2012 c 95 § 2]; ]
+
+== 5.51.020 - Issuance of subpoena.
+. To request issuance of a subpoena under this section, a party must submit a foreign subpoena to a clerk of court in the county in which discovery is sought to be conducted in this state. A request for the issuance of a subpoena under this chapter does not constitute an appearance in the courts of Washington state.
+
+. When a party submits a foreign subpoena to a clerk of court in this state, the clerk, in accordance with that court's procedure, shall promptly issue a subpoena for service upon the person to which the foreign subpoena is directed.
+
+. A subpoena under subsection (2) of this section must:
+
+.. Incorporate the terms used in the foreign subpoena; and
+
+.. Contain or be accompanied by the names, addresses, and telephone numbers of all counsel of record in the proceeding to which the subpoena relates and of any party not represented by counsel.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2195.SL.pdf?cite=2012%20c%2095%20§%203[2012 c 95 § 3]; ]
+
+== 5.51.030 - Service of subpoena.
+A subpoena issued by a clerk of court under RCW 5.51.020 must be served in compliance with superior court civil rule (CR) 45.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2195.SL.pdf?cite=2012%20c%2095%20§%204[2012 c 95 § 4]; ]
+
+== 5.51.040 - Subpoenas—Deposition, production, and inspection.
+Superior court civil rules (CR) 26 through 37 apply to subpoenas issued under RCW 5.51.020.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2195.SL.pdf?cite=2012%20c%2095%20§%205[2012 c 95 § 5]; ]
+
+== 5.51.050 - Protective order—Application to court.
+An application to the court for a protective order or to enforce, quash, or modify a subpoena issued by a clerk of court under RCW 5.51.020 must comply with the rules or statutes of Washington state and be submitted to the court in the county in which discovery is to be conducted.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2195.SL.pdf?cite=2012%20c%2095%20§%206[2012 c 95 § 6]; ]
+
+== 5.51.900 - Short title.
+This act [chapter] may be known and cited as the uniform interstate depositions and discovery act.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2195.SL.pdf?cite=2012%20c%2095%20§%201[2012 c 95 § 1]; ]
+
+== 5.51.901 - Uniformity of application and construction.
+In applying and construing this chapter, consideration must be given to the need to promote uniformity of the law with respect to its subject matter among states that enact this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2195.SL.pdf?cite=2012%20c%2095%20§%207[2012 c 95 § 7]; ]
+
+== 5.51.902 - Application to pending actions.
+This chapter applies to requests for discovery in cases pending on June 7, 2012.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2195.SL.pdf?cite=2012%20c%2095%20§%208[2012 c 95 § 8]; ]
+

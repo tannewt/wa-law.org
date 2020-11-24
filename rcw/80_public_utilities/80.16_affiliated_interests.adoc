@@ -1,0 +1,65 @@
+= 80.16 - Affiliated interests.
+:toc:
+
+== 80.16.010 - Definitions.
+As used in this chapter the term "public service company" shall include every corporation engaged in business as a public utility and subject to regulation as to rates and service by the utilities and transportation commission under the provisions of this title.
+
+As used in this chapter, the term "affiliated interest" means:
+
+Every corporation and person owning or holding directly or indirectly five percent or more of the voting securities of any public service company engaged in any intrastate business in this state;
+
+Every corporation and person, other than those above specified, in any chain of successive ownership of five percent or more of voting securities, the chain beginning with the holder of the voting securities of such public service company;
+
+Every corporation five percent or more of whose voting securities are owned by any person or corporation owning five percent or more of the voting securities of such public service company or by any person or corporation in any such chain of successive ownership of five percent or more of voting securities;
+
+Every corporation or person with which the public service company has a management or service contract; and
+
+Every person who is an officer or director of such public service company or of any corporation in any chain of successive ownership of five percent or more of voting securities.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c14.pdf?cite=1961%20c%2014%20§%2080.16.010[1961 c 14 § 80.16.010]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1953c95.pdf?cite=1953%20c%2095%20§%207[1953 c 95 § 7]; 1933 c 152 § 1, part; RRS § 10440-1, part; ]
+
+== 80.16.020 - Dealings with affiliated interests—Prior filing with commission required—Commission may disapprove.
+Every public service company shall file with the commission a verified copy, or a verified summary if unwritten, of a contract or arrangement providing for the furnishing of management, supervisory[,] construction, engineering, accounting, legal, financial, or similar services, or any contract or arrangement for the purchase, sale, lease, or exchange of any property, right, or thing, or for the furnishing of any service, property, right, or thing, other than those enumerated in this section, hereafter made or entered into between a public service company and any affiliated interest as defined in this chapter, including open account advances from or to the affiliated interests. The filing must be made prior to the effective date of the contract or arrangement. Modifications or amendments to the contracts or arrangements with affiliated interests must be filed with the commission prior to the effective date of the modification or amendment. Any time after receipt of the contract or arrangement, the commission may institute an investigation and disapprove the contract, arrangement, modification, or amendment thereto if the commission finds the public service company has failed to prove that it is reasonable and consistent with the public interest. The commission may disapprove any such contract or arrangement if satisfactory proof is not submitted to the commission of the cost to the affiliated interest of rendering the services or of furnishing the property or service described in this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2663.SL.pdf?cite=1998%20c%2047%20§%201[1998 c 47 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c14.pdf?cite=1961%20c%2014%20§%2080.16.020[1961 c 14 § 80.16.020]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1941c160.pdf?cite=1941%20c%20160%20§%201[1941 c 160 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1933c152.pdf?cite=1933%20c%20152%20§%202[1933 c 152 § 2]; Rem. Supp. 1941 § 10440-2; ]
+
+== 80.16.030 - Payments to affiliated interest disallowed if not reasonable.
+In any proceeding, whether upon the commission's own motion or upon complaint, involving the rates or practices of any public service company, the commission may exclude from the accounts of the public service company any payment or compensation to an affiliated interest for any services rendered or property or service furnished, as described in this section, under existing contracts or arrangements with the affiliated interest unless the public service company establishes the reasonableness of the payment or compensation. In the proceeding the commission shall disallow the payment or compensation, in whole or in part, in the absence of satisfactory proof that it is reasonable in amount. In such a proceeding, any payment or compensation may be disapproved or disallowed by the commission, in whole or in part, if satisfactory proof is not submitted to the commission of the cost to the affiliated interest of rendering the service or furnishing the property or service described in this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2663.SL.pdf?cite=1998%20c%2047%20§%202[1998 c 47 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c14.pdf?cite=1961%20c%2014%20§%2080.16.030[1961 c 14 § 80.16.030]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1933c152.pdf?cite=1933%20c%20152%20§%203[1933 c 152 § 3]; RRS § 10440-3; ]
+
+== 80.16.040 - Satisfactory proof, what constitutes.
+No proof shall be satisfactory, within the meaning of RCW 80.16.010 through 80.16.030, unless it includes the original (or verified copies) of the relevant cost records and other relevant accounts of the affiliated interest, or such abstract thereof or summary taken therefrom, as the commission may deem adequate, properly identified and duly authenticated: PROVIDED, HOWEVER, That the commission may, where reasonable, approve or disapprove such contracts or arrangements without the submission of such cost records or accounts.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c14.pdf?cite=1961%20c%2014%20§%2080.16.040[1961 c 14 § 80.16.040]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1933c152.pdf?cite=1933%20c%20152%20§%204[1933 c 152 § 4]; RRS § 10440-4; ]
+
+== 80.16.050 - Commission's control is continuing.
+The commission shall have continuing supervisory control over the terms and conditions of such contracts and arrangements as are herein described so far as necessary to protect and promote the public interest. The commission shall have the same jurisdiction over the modifications or amendment of contracts or arrangements as are herein described as it has over such original contracts or arrangements. The fact that a contract or arrangement has been filed with, or the commission has approved entry into such contracts or arrangements as described herein shall not preclude disallowance or disapproval of payments made pursuant thereto, if upon actual experience under such contract or arrangement, it appears that the payments provided for or made were or are unreasonable. Every order of the commission approving any such contract or arrangement shall be expressly conditioned upon the reserved power of the commission to revise and amend the terms and conditions thereof, if, when, and as necessary to protect and promote the public interest.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2663.SL.pdf?cite=1998%20c%2047%20§%203[1998 c 47 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c14.pdf?cite=1961%20c%2014%20§%2080.16.050[1961 c 14 § 80.16.050]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1933c152.pdf?cite=1933%20c%20152%20§%205[1933 c 152 § 5]; RRS § 10440-5; ]
+
+== 80.16.055 - Small local exchange company—Chapter does not apply.
+Subject to RCW 80.04.530(1), this chapter does not apply to a local exchange company that serves less than two percent of the access lines in the state of Washington.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1744-S.SL.pdf?cite=1995%20c%20110%20§%204[1995 c 110 § 4]; ]
+
+== 80.16.060 - Summary order on nonapproved payments.
+Whenever the commission shall find upon investigation that any public service company is giving effect to any such contract or arrangement without such contract or arrangement having been filed or approved, the commission may issue a summary order prohibiting the public service company from treating any payments made under the terms of such contract or arrangement as operating expenses or as capital expenditures for rate or valuation purposes, unless and until such contract or arrangement has been filed with the commission or until payments have received the approval of the commission.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2663.SL.pdf?cite=1998%20c%2047%20§%204[1998 c 47 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c14.pdf?cite=1961%20c%2014%20§%2080.16.060[1961 c 14 § 80.16.060]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1933c152.pdf?cite=1933%20c%20152%20§%206[1933 c 152 § 6]; RRS § 10440-6; ]
+
+== 80.16.070 - Summary order on payments after disallowance.
+Whenever the commission finds upon investigation that any public service company is making payments to an affiliated interest, although the payments have been disallowed or disapproved by the commission in a proceeding involving the public service company's rates or practices, the commission shall issue a summary order directing the public service company to not treat the payments as operating expenses or capital expenditures for rate or valuation purposes, unless and until the payments have received the approval of the commission.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2663.SL.pdf?cite=1998%20c%2047%20§%205[1998 c 47 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c14.pdf?cite=1961%20c%2014%20§%2080.16.070[1961 c 14 § 80.16.070]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1933c152.pdf?cite=1933%20c%20152%20§%207[1933 c 152 § 7]; RRS § 10440-7; ]
+
+== 80.16.080 - Court action to enforce orders.
+The superior court of Thurston county is authorized to enforce such orders to cease and desist by appropriate process, including the issuance of a preliminary injunction, upon the suit of the commission.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c14.pdf?cite=1961%20c%2014%20§%2080.16.080[1961 c 14 § 80.16.080]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1933c152.pdf?cite=1933%20c%20152%20§%208[1933 c 152 § 8]; RRS § 10440-8; ]
+
+== 80.16.090 - Review of orders.
+Any public service company or affiliated interest deeming any decision or order of the commission to be in any respect or manner improper, unjust or unreasonable may have the same reviewed in the courts in the same manner and by the same procedure as is now provided by law for review of any other order or decision of the commission.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c14.pdf?cite=1961%20c%2014%20§%2080.16.090[1961 c 14 § 80.16.090]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1933c152.pdf?cite=1933%20c%20152%20§%209[1933 c 152 § 9]; RRS § 10440-9; ]
+

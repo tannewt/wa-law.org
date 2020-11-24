@@ -1,0 +1,63 @@
+= 70A.410 - Detergent phosphorus content.
+:toc:
+
+== 70A.410.005 - Finding.
+The legislature hereby finds and declares that:
+
+. Phosphorus loading of surface waters can stimulate the growth of weeds and algae, and that such growth can have adverse environmental, health, and aesthetic effects;
+
+. Household detergents contribute to phosphorus loading, and that a limit on detergents containing phosphorus can significantly reduce the discharge of phosphorus into the state's surface and ground waters;
+
+. Household detergents containing no or very low phosphorus are readily available and that over thirty percent of the United States population lives in areas with a ban on detergents containing phosphorus; 
+
+. Phosphorus limits on household detergents can significantly reduce treatment costs at those sewage treatment facilities that remove phosphorus from the waste stream; and
+
+. While significant reductions of phosphorus from laundry detergent have been accomplished, similar progress in reducing phosphorus contributions from dishwashing detergents has not been achieved.
+
+It is therefore the intent of the legislature to impose a statewide limit on the phosphorus content of household detergents.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2322.SL.pdf?cite=2006%20c%20223%20§%201[2006 c 223 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5320-S.SL.pdf?cite=1993%20c%20118%20§%201[1993 c 118 § 1]; ]
+
+== 70A.410.010 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout RCW 70A.410.005 through 70A.410.030.
+
+. "Department" means the department of ecology.
+
+. "Dishwashing detergent" means a cleaning agent sold, used, or manufactured for the purpose of cleaning dishes, whether by hand or by household machine.
+
+. "Laundry detergent" means a cleaning agent sold, used, or manufactured for the purpose of cleaning laundry, whether by hand or by household machine.
+
+. "Person" means an individual, firm, association, copartnership, political subdivision, government agency, municipality, industry, public or private corporation, or any other entity whatsoever.
+
+. "Phosphorus" means elemental phosphorus.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201243[2020 c 20 § 1243]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5320-S.SL.pdf?cite=1993%20c%20118%20§%202[1993 c 118 § 2]; ]
+
+== 70A.410.020 - Phosphorus content regulated.
+. After July 1, 1994, a person may not sell or distribute for sale a laundry detergent that contains 0.5 percent or more phosphorus by weight.
+
+. [Empty]
+.. After July 1, 1994, and until the dates specified in this subsection, a person may not sell or distribute for sale a dishwashing detergent that contains 8.7 percent or more phosphorus by weight.
+
+.. Beginning July 1, 2008, in counties located east of the crest of the Cascade mountains with populations greater than four hundred thousand, as determined by office of financial management population estimates, a person may not sell or distribute for sale a dishwashing detergent that contains 0.5 percent or more phosphorus by weight.
+
+.. From July 1, 2008, to June 30, 2010, in counties located west of the crest of the Cascade mountains with populations greater than one hundred eighty thousand and less than two hundred twenty thousand, as determined by office of financial management population estimates, a person may not sell or distribute for sale a dishwashing detergent that contains 0.5 percent or more phosphorus by weight except in a single-use package containing no more than 2.0 grams of phosphorus.
+
+.. Beginning July 1, 2010, a person may not sell or distribute for sale a dishwashing detergent that contains 0.5 percent or more phosphorus by weight in the state.
+
+.. For purposes of this section, "single-use package" means a tablet or other form of dishwashing detergent that is constituted and intended for use in a single washing.
+
+. This section does not apply to the sale or distribution of detergents for commercial and industrial uses.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2263.SL.pdf?cite=2008%20c%20193%20§%201[2008 c 193 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2322.SL.pdf?cite=2006%20c%20223%20§%202[2006 c 223 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5320-S.SL.pdf?cite=1993%20c%20118%20§%203[1993 c 118 § 3]; ]
+
+== 70A.410.030 - Notice to distributors and wholesalers.
+The department is responsible for notifying major distributors and wholesalers of the statewide limit on phosphorus in detergents.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5320-S.SL.pdf?cite=1993%20c%20118%20§%204[1993 c 118 § 4]; ]
+
+== 70A.410.040 - Injunction.
+The attorney general or appropriate city or county prosecuting attorney is authorized to bring an appropriate action to enjoin any violation of the provisions of RCW 70A.410.020.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201244[2020 c 20 § 1244]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5320-S.SL.pdf?cite=1993%20c%20118%20§%205[1993 c 118 § 5]; ]
+

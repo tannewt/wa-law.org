@@ -1,0 +1,88 @@
+= 7.24 - Uniform declaratory judgments act.
+:toc:
+
+== 7.24.010 - Authority of courts to render.
+Courts of record within their respective jurisdictions shall have power to declare rights, status and other legal relations whether or not further relief is or could be claimed. An action or proceeding shall not be open to objection on the ground that a declaratory judgment or decree is prayed for. The declaration may be either affirmative or negative in form and effect; and such declarations shall have the force and effect of a final judgment or decree.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1937c14.pdf?cite=1937%20c%2014%20§%201[1937 c 14 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c113.pdf?cite=1935%20c%20113%20§%201[1935 c 113 § 1]; RRS § 784-1; ]
+
+== 7.24.020 - Rights and status under written instruments, statutes, ordinances.
+A person interested under a deed, will, written contract or other writings constituting a contract, or whose rights, status or other legal relations are affected by a statute, municipal ordinance, contract or franchise, may have determined any question of construction or validity arising under the instrument, statute, ordinance, contract or franchise and obtain a declaration of rights, status or other legal relations thereunder.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c113.pdf?cite=1935%20c%20113%20§%202[1935 c 113 § 2]; RRS § 784-2; ]
+
+== 7.24.030 - Construction of contracts.
+A contract may be construed either before or after there has been a breach thereof.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c113.pdf?cite=1935%20c%20113%20§%203[1935 c 113 § 3]; RRS § 784-3; ]
+
+== 7.24.050 - General powers not restricted by express enumeration.
+The enumeration in RCW 7.24.020 and 7.24.030 does not limit or restrict the exercise of the general powers conferred in RCW 7.24.010, in any proceeding where declaratory relief is sought, in which a judgment or decree will terminate the controversy or remove an uncertainty.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c9.pdf?cite=1985%20c%209%20§%202[1985 c 9 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c149.pdf?cite=1984%20c%20149%20§%203[1984 c 149 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c113.pdf?cite=1935%20c%20113%20§%205[1935 c 113 § 5]; RRS § 784-5; ]
+
+== 7.24.060 - Refusal of declaration where judgment would not terminate controversy.
+The court may refuse to render or enter a declaratory judgment or decree where such judgment or decree, if rendered or entered, would not terminate the uncertainty or controversy giving rise to the proceeding.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c113.pdf?cite=1935%20c%20113%20§%206[1935 c 113 § 6]; RRS § 784-6; ]
+
+== 7.24.070 - Review.
+All orders, judgments and decrees under this chapter may be reviewed as other orders, judgments and decrees.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c113.pdf?cite=1935%20c%20113%20§%207[1935 c 113 § 7]; RRS § 784-7; ]
+
+== 7.24.080 - Further relief.
+Further relief based on a declaratory judgment or decree may be granted whenever necessary or proper. The application therefor shall be by petition to a court having jurisdiction to grant the relief. When the application is deemed sufficient, the court shall, on reasonable notice, require any adverse party whose rights have been adjudicated by the declaratory judgment or decree, to show cause why further relief should not be granted forthwith.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c113.pdf?cite=1935%20c%20113%20§%208[1935 c 113 § 8]; RRS § 784-8; ]
+
+== 7.24.090 - Determination of issues of fact.
+When a proceeding under this chapter involves the determination of an issue of fact, such issue may be tried and determined in the same manner as issues of fact are tried and determined in other civil actions, in the court in which the proceeding is pending.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c113.pdf?cite=1935%20c%20113%20§%209[1935 c 113 § 9]; RRS § 784-9; ]
+
+== 7.24.100 - Costs.
+In any proceeding under this chapter, the court may make such award of costs as may seem equitable and just.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c113.pdf?cite=1935%20c%20113%20§%2010[1935 c 113 § 10]; RRS § 784-10; ]
+
+== 7.24.110 - Parties—City as party—Attorney general to be served, when.
+When declaratory relief is sought, all persons shall be made parties who have or claim any interest which would be affected by the declaration, and no declaration shall prejudice the rights of persons not parties to the proceeding. In any proceeding which involves the validity of a municipal ordinance or franchise, such municipality shall be made a party, and shall be entitled to be heard, and if the statute, ordinance or franchise is alleged to be unconstitutional, the attorney general shall also be served with a copy of the proceeding and be entitled to be heard.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c113.pdf?cite=1935%20c%20113%20§%2011[1935 c 113 § 11]; RRS § 784-11; ]
+
+== 7.24.120 - Construction of chapter.
+This chapter is declared to be remedial; its purpose is to settle and to afford relief from uncertainty and insecurity with respect to rights, status and other legal relations; and is to be liberally construed and administered.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c113.pdf?cite=1935%20c%20113%20§%2012[1935 c 113 § 12]; RRS § 784-12; ]
+
+== 7.24.130 - "Person" defined.
+The word "person" wherever used in this chapter, shall be construed to mean any person, partnership, joint stock company, unincorporated association or society, or municipal or other corporation of any character whatsoever.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c113.pdf?cite=1935%20c%20113%20§%2013[1935 c 113 § 13]; RRS § 784-13; ]
+
+== 7.24.135 - Severability—1935 c 113.
+The several sections and provisions of this chapter, except RCW 7.24.010 and 7.24.020, are hereby declared independent and severable, and the invalidity, if any, of any part or feature thereof shall not affect or render the remainder of the chapter invalid or inoperative.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c113.pdf?cite=1935%20c%20113%20§%2014[1935 c 113 § 14]; RRS § 784-14; ]
+
+== 7.24.140 - General purpose stated.
+This chapter shall be so interpreted and construed as to effectuate its general purpose to make uniform the law of those states which enact it, and to harmonize, as far as possible, with federal laws and regulations on the subject of declaratory judgments and decrees.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c113.pdf?cite=1935%20c%20113%20§%2015[1935 c 113 § 15]; RRS § 784-15; ]
+
+== 7.24.144 - Short title.
+This chapter may be cited as the Uniform Declaratory Judgments Act.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c113.pdf?cite=1935%20c%20113%20§%2016[1935 c 113 § 16]; RRS § 784-16; ]
+
+== 7.24.146 - Application of chapter—Validation of proceedings.
+This chapter shall apply to all actions and proceedings now pending in the courts of record of the state of Washington seeking relief under the terms of the uniform declaratory judgments act [this chapter]; and all judgments heretofore rendered; and all such actions and proceedings heretofore instituted and now pending in said courts of record of the state of Washington, seeking such relief, are hereby validated, and the respective courts of record in said actions shall have jurisdiction and power to proceed in said actions and to declare the rights, status and other legal relations sought to have been declared in said pending actions and proceedings in accordance with the provisions of said chapter. This chapter does not apply to state agency action reviewable under chapter 34.05 RCW.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c175.pdf?cite=1989%20c%20175%20§%2039[1989 c 175 § 39]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1937c14.pdf?cite=1937%20c%2014%20§%202[1937 c 14 § 2]; RRS § 784-17; ]
+
+== 7.24.190 - Court may stay proceedings and restrain parties.
+The court, in its discretion and upon such conditions and with or without such bond or other security as it deems necessary and proper, may stay any ruling, order, or any court proceedings prior to final judgment or decree and may restrain all parties involved in order to secure the benefits and preserve and protect the rights of all parties to the court proceedings.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c131.pdf?cite=1965%20c%20131%20§%201[1965 c 131 § 1]; ]
+

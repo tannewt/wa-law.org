@@ -1,0 +1,93 @@
+= 82.23A - Petroleum products—Underground storage tank program funding.
+:toc:
+
+== 82.23A.005 - Intent. (Expires July 1, 2030.)
+It is the intent of this chapter to impose a tax only once for each petroleum product possessed in this state and to tax the first possession of all petroleum products. This chapter is not intended to exempt any person from tax liability under any other law.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c383.pdf?cite=1989%20c%20383%20§%2014[1989 c 383 § 14]; ]
+
+== 82.23A.010 - Definitions. (Expires July 1, 2030.)
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Petroleum product" means plant condensate, lubricating oil, gasoline, aviation fuel, kerosene, diesel motor fuel, benzol, fuel oil, residual oil, and every other product derived from the refining of crude oil, but the term does not include crude oil or liquefiable gases.
+
+. "Possession" means the control of a petroleum product located within this state and includes both actual and constructive possession. "Actual possession" occurs when the person with control has physical possession. "Constructive possession" occurs when the person with control does not have physical possession. "Control" means the power to sell or use a petroleum product or to authorize the sale or use by another.
+
+. "Previously taxed petroleum product" means a petroleum product in respect to which a tax has been paid under this chapter and that has not been remanufactured or reprocessed in any manner (other than mere repackaging or recycling for beneficial reuse) since the tax was paid.
+
+. "Rack" means a mechanism for delivering petroleum products from a refinery or terminal into a truck, trailer, railcar, or other means of nonbulk transfer. For the purposes of this definition:
+
+.. "Terminal" has the same meaning as provided in RCW 82.38.020; and
+
+.. "Nonbulk transfer" means a transfer that does not meet the definition of "bulk transfer" as defined in RCW 82.38.020.
+
+. "Wholesale value" means fair market wholesale value, determined as nearly as possible according to the wholesale selling price at the place of use of similar products of like quality and character, in accordance with rules of the department.
+
+. Except for terms defined in this section, the definitions in chapters 82.04, 82.08, and 82.12 RCW apply to this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5402.SL.pdf?cite=2020%20c%20139%20§%2028[2020 c 139 § 28]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2590-S.SL.pdf?cite=2012%201st%20sp.s.%20c%203%20§%204[2012 1st sp.s. c 3 § 4]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6286-S.SL.pdf?cite=2004%20c%20203%20§%204[2004 c 203 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c383.pdf?cite=1989%20c%20383%20§%2015[1989 c 383 § 15]; ]
+
+== 82.23A.020 - Tax imposed—Revenues to be deposited in the pollution liability insurance program trust account. (Expires July 1, 2030.)
+. A tax is imposed on the privilege of possession of petroleum products in this state. The rate of the tax shall be thirty one-hundredths of one percent multiplied by the wholesale value of the petroleum product. After July 1, 2021, the rate of tax is fifteen one-hundredths of one percent multiplied by the wholesale value of the petroleum product. For purposes of determining the tax imposed under this section for petroleum products introduced at the rack, the wholesale value is determined when the petroleum product is removed at the rack unless the removal is to an exporter licensed under chapter 82.38 RCW for direct delivery to a destination outside of the state. For all other cases, the wholesale value is determined upon the first nonbulk possession in the state.
+
+. Except as identified in RCW 70A.345.130, moneys collected under this chapter shall be deposited in the pollution liability insurance program trust account under RCW 70A.325.020.
+
+. Chapter 82.32 RCW applies to the tax imposed in this chapter. The tax due dates, reporting periods, and return requirements applicable to chapter 82.04 RCW apply equally to the tax imposed in this chapter.
+
+. Within thirty days after the end of each calendar quarter the department shall determine the "quarterly balance," which shall be the cash balance in the pollution liability insurance program trust account as of the last day of that calendar quarter, after excluding the reserves determined for that quarter under RCW 70A.325.020(2). Balance determinations by the department under this section are final and shall not be used to challenge the validity of any tax imposed under this section. For each subsequent calendar quarter, tax shall be imposed under this section during the entire calendar quarter unless:
+
+.. Tax was imposed under this section during the immediately preceding calendar quarter, and the most recent quarterly balance is more than fifteen million dollars; or
+
+.. Tax was not imposed under this section during the immediately preceding calendar quarter, and the most recent quarterly balance is more than seven million five hundred thousand dollars.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201484[2020 c 20 § 1484]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2357-S.SL.pdf?cite=2016%20c%20161%20§%2018[2016 c 161 § 18]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2590-S.SL.pdf?cite=2012%201st%20sp.s.%20c%203%20§%205[2012 1st sp.s. c 3 § 5]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5806-S.SL.pdf?cite=1991%20c%204%20§%208[1991 c 4 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c64.pdf?cite=1990%20c%2064%20§%2012[1990 c 64 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c383.pdf?cite=1989%20c%20383%20§%2016[1989 c 383 § 16]; ]
+
+== 82.23A.030 - Exemptions from tax. (Expires July 1, 2030.)
+The following are exempt from the tax imposed in this chapter:
+
+. Any successive possession of a previously taxed petroleum product. If tax due under this chapter has not been paid with respect to a petroleum product, the department may collect the tax from any person who has had possession of the petroleum product. If the tax is paid by any person other than the first person having taxable possession of a petroleum product, the amount of tax paid shall constitute a debt owed by the first person having taxable possession to the person who paid the tax.
+
+. Any possession of a petroleum product by a natural person under circumstances where the substance is used, or is to be used, for a personal or domestic purpose (and not for any business purpose) by that person or a relative of, or person residing in the same dwelling as, that person.
+
+. Persons or activities which the state is prohibited from taxing under the United States Constitution.
+
+. Any persons possessing a petroleum product where such possession first occurred before July 1, 1989.
+
+. Any possession of (a) natural gas, (b) petroleum coke, or (c) liquid fuel or fuel gas used in petroleum processing.
+
+. Any possession of petroleum products that are exported for use or sale outside this state as fuel.
+
+. Any possession of petroleum products packaged for sale to ultimate consumers.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c383.pdf?cite=1989%20c%20383%20§%2017[1989 c 383 § 17]; ]
+
+== 82.23A.040 - Credit authorized. (Expires July 1, 2030.)
+. Credit shall be allowed in accordance with rules of the department of revenue for taxes paid under this chapter with respect to fuel carried from this state in the fuel tank of any airplane, ship, truck, or other vehicle.
+
+. Credit shall be allowed, in accordance with rules of the department, against the taxes imposed in this chapter for any petroleum product tax paid to another state with respect to the same petroleum product. The amount of the credit shall not exceed the tax liability arising under this chapter with respect to that petroleum product. For the purpose of this subsection:
+
+.. "Petroleum product tax" means a tax:
+
+... That is imposed on the act or privilege of possessing petroleum products, and that is not generally imposed on other activities or privileges; and
+
+... That is measured by the value of the petroleum product, in terms of wholesale value or other terms, and in the determination of which the deductions allowed would not constitute the tax an income tax or value added tax.
+
+.. "State" means (i) a state of the United States other than Washington, or any political subdivision of such other state, (ii) the District of Columbia, and (iii) any foreign country or political subdivision thereof.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c383.pdf?cite=1989%20c%20383%20§%2018[1989 c 383 § 18]; ]
+
+== 82.23A.050 - Tax preferences—Expiration dates.
+See RCW 82.32.805 for the expiration date of new tax preferences for the tax imposed under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5882-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2013%20§%201712[2013 2nd sp.s. c 13 § 1712]; ]
+
+== 82.23A.900 - Effective date—1989 c 383. (Expires July 1, 2030.)
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect immediately, except RCW 82.23A.005 through 82.23A.040 shall take effect July 1, 1989.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c383.pdf?cite=1989%20c%20383%20§%2022[1989 c 383 § 22]; ]
+
+== 82.23A.902 - Expiration of chapter.
+This chapter expires July 1, 2030, coinciding with the expiration of chapter 70A.325 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201485[2020 c 20 § 1485]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2357-S.SL.pdf?cite=2016%20c%20161%20§%2019[2016 c 161 § 19]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2590-S.SL.pdf?cite=2012%201st%20sp.s.%20c%203%20§%206[2012 1st sp.s. c 3 § 6]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2678-S.SL.pdf?cite=2006%20c%20276%20§%205[2006 c 276 § 5]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2590-S.SL.pdf?cite=2000%20c%2016%20§%203[2000 c 16 § 3]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2591.SL.pdf?cite=1996%20c%2088%20§%203[1996 c 88 § 3]; ]
+

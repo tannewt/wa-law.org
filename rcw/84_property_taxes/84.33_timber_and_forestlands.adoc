@@ -1,0 +1,761 @@
+= 84.33 - Timber and forestlands.
+:toc:
+
+== 84.33.010 - Legislative findings.
+As a result of the study and analysis of systems of taxation of standing timber and forestlands by the forest tax committee pursuant to Senate Concurrent Resolution No. 30 of the 41st session of the legislature, and the recommendations of the committee based thereon, the legislature hereby finds that:
+
+. The public welfare requires that this state's system for taxation of timber and forestlands be modernized to assure the citizens of this state and its future generations the advantages to be derived from the continuous production of timber and forest products from the significant area of privately owned forests in this state. It is this state's policy to encourage forestry and restocking and reforesting of such forests so that present and future generations will enjoy the benefits which forest areas provide in enhancing water supply, in minimizing soil erosion, storm and flood damage to persons or property, in providing a habitat for wild game, in providing scenic and recreational spaces, in maintaining land areas whose forests contribute to the natural ecological equilibrium, and in providing employment and profits to its citizens and raw materials for products needed by everyone.
+
+. The combination of variations in quantities, qualities and locations of timber and forestlands, the fact that market areas for timber products are nationwide and worldwide and the unique long term nature of investment costs and risks associated with growing timber, all make exceedingly difficult the function of valuing and assessing timber and forestlands.
+
+. The existing ad valorem property tax system is unsatisfactory for taxation of standing timber and forestland and will significantly frustrate, to an ever increasing degree with the passage of time, the perpetual enjoyment of the benefits enumerated above.
+
+. For these reasons it is desirable, in exercise of the powers to promote the general welfare and to impose taxes; that
+
+.. the ad valorem system for taxing timber be modified and discontinued in stages over a three year period during which such system will be replaced by one under which timber will be taxed on the basis of stumpage value at the time of harvest, and
+
+.. forestland remain under the ad valorem taxation system but be taxed only as provided in this chapter and RCW 28A.150.250.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c33.pdf?cite=1990%20c%2033%20§%20598[1990 c 33 § 598]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c204.pdf?cite=1984%20c%20204%20§%2016[1984 c 204 § 16]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c294.pdf?cite=1971%20ex.s.%20c%20294%20§%201[1971 ex.s. c 294 § 1]; ]
+
+== 84.33.035 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Agricultural methods" means the cultivation of trees that are grown on land prepared by intensive cultivation and tilling, such as irrigating, plowing, or turning over the soil, and on which all unwanted plant growth is controlled continuously for the exclusive purpose of raising trees such as Christmas trees and short-rotation hardwoods.
+
+. "Average rate of inflation" means the annual rate of inflation as determined by the department averaged over the period of time as provided in RCW 84.33.220 (1) and (2). This rate must be published in the state register by the department not later than January 1st of each year for use in that assessment year.
+
+. "Composite property tax rate" for a county means the total amount of property taxes levied upon forestlands by all taxing districts in the county other than the state, divided by the total assessed value of all forestland in the county.
+
+. "Contiguous" means land adjoining and touching other property held by the same ownership. Land divided by a public road, but otherwise an integral part of a timber growing and harvesting operation, is considered contiguous. Solely for the purposes of this subsection (4), "same ownership" has the same meaning as in RCW 84.34.020(6).
+
+. "Forestland" is synonymous with "designated forestland" and means any parcel of land that is five or more acres or multiple parcels of land that are contiguous and total five or more acres that is or are devoted primarily to growing and harvesting timber. Designated forestland means the land only and does not include a residential homesite. The term includes land used for incidental uses that are compatible with the growing and harvesting of timber but no more than ten percent of the land may be used for such incidental uses. It also includes the land on which appurtenances necessary for the production, preparation, or sale of the timber products exist in conjunction with land producing these products.
+
+. "Harvested" means the time when in the ordinary course of business the quantity of timber by species is first definitely determined. The amount harvested must be determined by the Scribner Decimal C Scale or other prevalent measuring practice adjusted to arrive at substantially equivalent measurements, as approved by the department.
+
+. "Harvester" means every person who from the person's own land or from the land of another under a right or license granted by lease or contract, either directly or by contracting with others for the necessary labor or mechanical services, fells, cuts, or takes timber for sale or for commercial or industrial use. When the United States or any instrumentality thereof, the state, including its departments and institutions and political subdivisions, or any municipal corporation therein so fells, cuts, or takes timber for sale or for commercial or industrial use, the harvester is the first person other than the United States or any instrumentality thereof, the state, including its departments and institutions and political subdivisions, or any municipal corporation therein, who acquires title to or a possessory interest in the timber. The term "harvester" does not include persons performing under contract the necessary labor or mechanical services for a harvester.
+
+. "Harvesting and marketing costs" means only those costs directly associated with harvesting the timber from the land and delivering it to the buyer and may include the costs of disposing of logging residues. Any other costs that are not directly and exclusively related to harvesting and marketing of the timber, such as costs of permanent roads or costs of reforesting the land following harvest, are not harvesting and marketing costs.
+
+. "Incidental use" means a use of designated forestland that is compatible with its purpose for growing and harvesting timber. An incidental use may include a gravel pit, a shed or land used to store machinery or equipment used in conjunction with the timber enterprise, and any other use that does not interfere with or indicate that the forestland is no longer primarily being used to grow and harvest timber.
+
+. "Local government" means any city, town, county, water-sewer district, public utility district, port district, irrigation district, flood control district, or any other municipal corporation, quasi-municipal corporation, or other political subdivision authorized to levy special benefit assessments for sanitary or storm sewerage systems, domestic water supply or distribution systems, or road construction or improvement purposes.
+
+. "Local improvement district" means any local improvement district, utility local improvement district, local utility district, road improvement district, or any similar unit created by a local government for the purpose of levying special benefit assessments against property specially benefited by improvements relating to the districts.
+
+. "Owner" means the party or parties having the fee interest in land, except where land is subject to a real estate contract "owner" means the contract vendee.
+
+. "Primarily" or "primary use" means the existing use of the land is so prevalent that when the characteristic use of the land is evaluated any other use appears to be conflicting or nonrelated.
+
+. "Short-rotation hardwoods" means hardwood trees, such as but not limited to hybrid cottonwoods, cultivated by agricultural methods in growing cycles shorter than fifteen years.
+
+. "Small harvester" means every person who from his or her own land or from the land of another under a right or license granted by lease or contract, either directly or by contracting with others for the necessary labor or mechanical services, fells, cuts, or takes timber for sale or for commercial or industrial use in an amount not exceeding two million board feet in a calendar year. When the United States or any instrumentality thereof, the state, including its departments and institutions and political subdivisions, or any municipal corporation therein so fells, cuts, or takes timber for sale or for commercial or industrial use, not exceeding these amounts, the small harvester is the first person other than the United States or any instrumentality thereof, the state, including its departments and institutions and political subdivisions, or any municipal corporation therein, who acquires title to or a possessory interest in the timber. Small harvester does not include persons performing under contract the necessary labor or mechanical services for a harvester, and it does not include the harvesters of Christmas trees or short-rotation hardwoods.
+
+. "Special benefit assessments" means special assessments levied or capable of being levied in any local improvement district or otherwise levied or capable of being levied by a local government to pay for all or part of the costs of a local improvement and which may be levied only for the special benefits to be realized by property by reason of that local improvement.
+
+. "Stumpage value of timber" means the appropriate stumpage value shown on tables prepared by the department under RCW 84.33.091. However, for timber harvested from public land and sold under a competitive bidding process, stumpage value means the actual amount paid to the seller in cash or other consideration. The stumpage value of timber from public land does not include harvesting and marketing costs if the timber from public land is harvested by, or under contract for, the United States or any instrumentality of the United States, the state, including its departments and institutions and political subdivisions, or any municipal corporation therein. Whenever payment for the stumpage includes considerations other than cash, the value is the fair market value of the other consideration. If the other consideration is permanent roads, the value of the roads must be the appraised value as appraised by the seller.
+
+. "Timber" means forest trees, standing or down, on privately or publicly owned land, and except as provided in RCW 84.33.170 includes Christmas trees and short-rotation hardwoods.
+
+. "Timber assessed value" for a county means the sum of: (a) The total stumpage value of timber harvested from publicly owned land in the county multiplied by the public timber ratio, plus; (b) the total stumpage value of timber harvested from privately owned land in the county multiplied by the private timber ratio. The numerator of the public timber ratio is the rate of tax imposed by the county under RCW 84.33.051 on public timber harvests for the year of the calculation. The numerator of the private timber ratio is the rate of tax imposed by the county under RCW 84.33.051 on private timber harvests for the year of the calculation. The denominator of the private timber ratio and the public timber ratio is the composite property tax rate for the county for taxes due in the year of the calculation, expressed as a percentage of assessed value. The department must use the stumpage value of timber harvested during the most recent four calendar quarters for which the information is available. The department must calculate the timber assessed value for each county before October 1st of each year.
+
+. "Timber assessed value" for a taxing district means the timber assessed value for the county multiplied by a ratio. The numerator of the ratio is the total assessed value of forestland in the taxing district. The denominator is the total assessed value of forestland in the county. As used in this section, "assessed value of forestland" means the assessed value of forestland for taxes due in the year the timber assessed value for the county is calculated plus an additional value for public forestland. The additional value for public forestland is the product of the number of acres of public forestland that are available for timber harvesting determined under RCW 84.33.089 and the average assessed value per acre of private forestland in the county.
+
+. "Timber management plan" means a plan prepared by a trained forester, or any other person with adequate knowledge of timber management practices, concerning the use of the land to grow and harvest timber. Such a plan may include:
+
+.. A legal description of the forestland;
+
+.. A statement that the forestland is held in contiguous ownership of five or more acres and is primarily devoted to and used to grow and harvest timber;
+
+.. A brief description of the timber on the forestland or, if the timber on the land has been harvested, the owner's plan to restock the land with timber;
+
+.. A statement about whether the forestland is also used to graze livestock;
+
+.. A statement about whether the land has been used in compliance with the restocking, forest management, fire protection, insect and disease control, and forest debris provisions of Title 76 RCW; and
+
+.. If the land has been recently harvested or supports a growth of brush and noncommercial type timber, a description of the owner's plan to restock the forestland within three years.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6180.SL.pdf?cite=2014%20c%20137%20§%201[2014 c 137 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5359-S.SL.pdf?cite=2011%20c%20101%20§%202[2011 c 101 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2693-S.SL.pdf?cite=2004%20c%20177%20§%201[2004 c 177 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5074-S2.SL.pdf?cite=2003%20c%20313%20§%2012[2003 c 313 § 12]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5702-S.SL.pdf?cite=2001%20c%20249%20§%201[2001 c 249 § 1]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5108.SL.pdf?cite=2001%20c%2097%20§%201[2001 c 97 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1067-S.SL.pdf?cite=1995%20c%20165%20§%201[1995 c 165 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c315.pdf?cite=1986%20c%20315%20§%201[1986 c 315 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c204.pdf?cite=1984%20c%20204%20§%201[1984 c 204 § 1]; ]
+
+== 84.33.040 - Timber exempt from ad valorem taxation.
+Timber is exempt from ad valorem taxation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2693-S.SL.pdf?cite=2004%20c%20177%20§%203[2004 c 177 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c204.pdf?cite=1984%20c%20204%20§%2018[1984 c 204 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c62.pdf?cite=1983%201st%20ex.s.%20c%2062%20§%207[1983 1st ex.s. c 62 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c294.pdf?cite=1971%20ex.s.%20c%20294%20§%204[1971 ex.s. c 294 § 4]; ]
+
+== 84.33.041 - State excise tax on harvesters of timber imposed—Credit for county tax—Deposit of moneys in timber tax distribution account.
+. An excise tax is imposed on every person engaging in this state in business as a harvester of timber on privately or publicly owned land. The tax is equal to the stumpage value of timber harvested for sale or for commercial or industrial use multiplied by the rate provided in this chapter.
+
+. A credit is allowed against the tax imposed under this section for any tax paid under RCW 84.33.051.
+
+. Moneys received as payment for the tax imposed under this section and RCW 84.33.051 shall be deposited in the timber tax distribution account hereby established in the state treasury.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1058-S.SL.pdf?cite=1991%20sp.s.%20c%2013%20§%2026[1991 sp.s. c 13 § 26]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c57.pdf?cite=1985%20c%2057%20§%2087[1985 c 57 § 87]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c204.pdf?cite=1984%20c%20204%20§%202[1984 c 204 § 2]; ]
+
+== 84.33.046 - Excise tax rate July 1, 1988, and thereafter.
+The rate of tax imposed under RCW 84.33.041 for timber harvested July 1, 1988, and thereafter, shall be five percent.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c204.pdf?cite=1984%20c%20204%20§%207[1984 c 204 § 7]; ]
+
+== 84.33.051 - County excise tax on harvesters of timber authorized—Rate—Administration and collection—Deposit of moneys in timber tax distribution account—Use.
+. The legislative body of any county may impose a tax upon every person engaging in the county in business as a harvester effective October 1, 1984. The tax shall be equal to the stumpage value of timber harvested from privately owned land multiplied by a rate of 4 percent; and equal to the stumpage value of timber harvested from publicly owned land multiplied by the following rates:
+
+.. For timber harvested January 1, 2005, through December 31, 2005, 1.2 percent;
+
+.. For timber harvested January 1, 2006, through December 31, 2006, 1.5 percent;
+
+.. For timber harvested January 1, 2007, through December 31, 2007, 1.8 percent;
+
+.. For timber harvested January 1, 2008, through December 31, 2008, 2.1 percent;
+
+.. For timber harvested January 1, 2009, through December 31, 2009, 2.4 percent;
+
+.. For timber harvested January 1, 2010, through December 31, 2010, 2.7 percent;
+
+.. For timber harvested January 1, 2011, through December 31, 2011, 3.1 percent;
+
+.. For timber harvested January 1, 2012, through December 31, 2012, 3.4 percent;
+
+.. For timber harvested January 1, 2013, through December 31, 2013, 3.7 percent;
+
+.. For timber harvested January 1, 2014, and thereafter, 4.0 percent.
+
+. Before the effective date of any ordinance imposing a tax under this section, the county shall contract with the department of revenue for administration and collection of the tax. The tax collected by the department of revenue under this section shall be deposited by the department in the timber tax distribution account. Moneys in the account may be spent only for distributions to counties under RCW 84.33.081 and, after appropriation by the legislature, for the activities undertaken by the department of revenue relating to the collection and administration of the taxes imposed under this section and RCW 84.33.041. Appropriations are not required for distributions to counties under RCW 84.33.081.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2693-S.SL.pdf?cite=2004%20c%20177%20§%202[2004 c 177 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c204.pdf?cite=1984%20c%20204%20§%208[1984 c 204 § 8]; ]
+
+== 84.33.074 - Excise tax on harvesters of timber—Calculation of tax by small harvesters—Election—Filing form.
+. A small harvester may elect to calculate the tax imposed by this chapter in the manner provided in this section.
+
+. Timber shall be considered harvested at the time when in the ordinary course of business the quantity thereof by species is first definitely determined. The amount harvested shall be determined by the Scribner Decimal C Scale or other prevalent measuring practice adjusted to arrive at substantially equivalent measurements, as approved by the department of revenue.
+
+. Timber values shall be determined by either of the following methods, whichever is most appropriate to the circumstances of the harvest:
+
+.. When standing timber is sold on the stump, the taxable value is the actual gross receipts received by the landowner from the sale of the standing timber.
+
+.. When timber is sold after it has been harvested, the taxable value is the actual gross receipts from sale of the harvested timber minus the costs of harvesting and marketing the timber. When the taxpayer is unable to provide documented proof of harvesting and marketing costs, this deduction for harvesting and marketing costs shall be a percentage of the gross receipts from sale of the harvested timber as determined by the department of revenue but in no case less than twenty-five percent.
+
+. The department of revenue shall prescribe a short filing form which shall be as simple as possible.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c204.pdf?cite=1984%20c%20204%20§%2019[1984 c 204 § 19]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c146.pdf?cite=1981%20c%20146%20§%202[1981 c 146 § 2]; ]
+
+== 84.33.075 - Excise tax on harvesters of timber—Exemption for certain nonprofit organizations, associations, or corporations.
+The excise tax imposed by this chapter shall not apply to any timber harvested by a nonprofit organization, association, or corporation from forestlands owned by it, where such lands are exempt from property taxes under RCW 84.36.030, and where all of the income and receipts of the nonprofit organization, association, or corporation derived from such timber sales are used solely for the expense of promoting, operating, and maintaining youth programs which are equally available to all, regardless of race, color, national origin, ancestry, or religious belief.
+
+In order to determine whether the harvesting of timber by a nonprofit organization, association, or corporation is exempt, the director of the department of revenue shall have access to its books.
+
+For the purposes of this section, a "nonprofit" organization, association, or corporation is one: (1) Which pays no part of its income directly or indirectly to its members, stockholders, officers, directors, or trustees except in the form of services rendered by the organization, association, or corporation in accordance with its purposes and bylaws; and (2) which pays salary or compensation to its officers only for actual services rendered, and at levels comparable to the salary or compensation of like positions within the public services of the state.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c204.pdf?cite=1984%20c%20204%20§%2020[1984 c 204 § 20]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c134.pdf?cite=1980%20c%20134%20§%206[1980 c 134 § 6]; ]
+
+== 84.33.0775 - Timber harvest tax credit.
+. A taxpayer is allowed a credit against the tax imposed under RCW 84.33.041 for timber harvested on and after January 1, 2000, under a forest practices notification filed or application approved under RCW 76.09.050 and subject to enhanced aquatic resources requirements.
+
+. [Empty]
+.. For a person other than a small harvester who elects to calculate tax under RCW 84.33.074, the credit is equal to the stumpage value of timber harvested for sale or for commercial or industrial use multiplied by eight-tenths of one percent.
+
+.. For a small harvester who elects to calculate tax under RCW 84.33.074, the credit is equal to sixteen percent of the tax imposed under this chapter.
+
+.. The amount of credit claimed by a taxpayer under this section shall be reduced by the amount of any compensation received from the federal government for reduced timber harvest due to enhanced aquatic resource requirements. If the amount of compensation from the federal government exceeds the amount of credit available to a taxpayer in any reporting period, the excess shall be carried forward and applied against credits in future reporting periods. This subsection does not apply to small harvesters as defined in *RCW 84.33.073.
+
+.. Refunds may not be given in place of credits. Credit may not be claimed in excess of tax owed. The department of revenue shall disallow any credits, used or unused, upon written notification from the department of natural resources of a final decision that timber for which credit was claimed was not harvested under a forest practices notification filed or application approved under RCW 76.09.050 and subject to enhanced aquatic resources requirements.
+
+. As used in this section, a forest practices notification or application is subject to enhanced aquatic resource requirements if it includes, in whole or in part, riparian area, wetland, or steep or unstable slope from which the operator is limited, by rule adopted under RCW 76.09.055, 34.05.090, 43.21C.250, and 76.09.370, or any federally approved habitat conservation plan or department of natural resources approved watershed analysis, from harvesting timber, or if a road is included within or adjacent to the area covered by such notification or application and the road is covered by a road maintenance plan approved by the department of natural resources under rules adopted under chapter 76.09 RCW, the forest practices act, or a federally approved habitat conservation plan.
+
+. For forest practices notification or applications submitted after January 1, 2000, the department of natural resources shall indicate whether the notification or application is subject to enhanced aquatic resource requirements and, unless notified of a contrary determination by the pollution control hearings board, the department of revenue shall use such indication in determining the credit to be allowed against the tax assessed under RCW 84.33.041. The department of natural resources shall develop revisions to the form of the forest practices notifications and applications to provide a space for the applicant to indicate and the department of natural resources to confirm or not confirm, whether the notification or application is subject to enhanced aquatic resource requirements. For forest practices notifications or applications submitted before January 1, 2000, the applicant may submit the approved notification or application to the department of natural resources for confirmation that the notification or application is subject to enhanced aquatic resource requirements. Upon any such submission, the department of natural resources will within thirty days confirm or deny that the notification or application is subject to enhanced aquatic resource requirements and will forward separate evidence of each confirmation to the department of revenue. Unless notified of a contrary ruling by the pollution control hearings board, the department of revenue shall use the separate confirmations in determining the credit to be allowed against the tax assessed under RCW 84.33.041.
+
+. A refusal by the department of natural resources to confirm that a notification or application is subject to enhanced aquatic resources requirements may be appealed to the pollution control hearings board.
+
+. A person receiving approval of credit must keep records necessary for the department of revenue to verify eligibility under this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2935-S.SL.pdf?cite=2010%20c%20210%20§%2035[2010 c 210 § 35]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2303.SL.pdf?cite=1999%20sp.s.%20c%205%20§%201[1999 sp.s. c 5 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2091-S.SL.pdf?cite=1999%20sp.s.%20c%204%20§%20401[1999 sp.s. c 4 § 401]; ]
+
+== 84.33.0776 - Timber harvest excise tax agreement credit.
+A credit is allowed against the tax imposed under RCW 84.33.041 and 84.33.051 for a tribal tax imposed under an agreement authorized by RCW 43.06.480.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2008-S.SL.pdf?cite=2007%20c%2069%20§%204[2007 c 69 § 4]; ]
+
+== 84.33.078 - Harvesting and marketing costs for state or local government harvests.
+If the timber from public land is harvested by the state, its departments and institutions and political subdivisions, or any municipal corporation therein, the governmental unit, or governmental units, that harvest or market the timber must provide the harvester purchasing the timber with its harvesting and marketing costs as defined in RCW 84.33.035.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5359-S.SL.pdf?cite=2011%20c%20101%20§%203[2011 c 101 § 3]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2693-S.SL.pdf?cite=2004%20c%20177%20§%204[2004 c 177 § 4]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5074-S2.SL.pdf?cite=2003%20c%20313%20§%2011[2003 c 313 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c65.pdf?cite=1986%20c%2065%20§%201[1986 c 65 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c204.pdf?cite=1984%20c%20204%20§%2022[1984 c 204 § 22]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c62.pdf?cite=1983%201st%20ex.s.%20c%2062%20§%209[1983 1st ex.s. c 62 § 9]; ]
+
+== 84.33.081 - Distributions from timber tax distribution account—Distributions from county timber tax account.
+. On the last business day of the second month of each calendar quarter, the state treasurer shall distribute from the timber tax distribution account to each county the amount of tax collected on behalf of each county under RCW 84.33.051, less each county's proportionate share of appropriations for collection and administration activities under RCW 84.33.051, and shall transfer to the state general fund the amount of tax collected on behalf of the state under RCW 84.33.041, less the amount of the distribution under subsection (7) of this section and the state's proportionate share of appropriations for collection and administration activities under RCW 84.33.041. The county treasurer shall deposit moneys received under this section in a county timber tax account which shall be established by each county. Following receipt of moneys under this section, the county treasurer shall make distributions from any moneys available in the county timber tax account to taxing districts in the county, except the state, under subsections (2) through (4) of this section.
+
+. From moneys available, there first shall be a distribution to each taxing district having debt service payments due during the calendar year, based upon bonds issued under authority of a vote of the people conducted pursuant to RCW 84.52.056 and based upon excess levies for a capital project fund authorized pursuant to RCW 84.52.053, of an amount equal to the timber assessed value of the district multiplied by the tax rate levied for payment of the debt service and capital projects: PROVIDED, That in respect to levies for a debt service or capital project fund authorized before July 1, 1984, the amount allocated shall not be less than an amount equal to the same percentage of such debt service or capital project fund represented by timber tax allocations to such payments in calendar year 1984. Distribution under this subsection (2) shall be used only for debt service and capital projects payments. The distribution under this subsection shall be made as follows: One-half of such amount shall be distributed in the first quarter of the year and one-half shall be distributed in the third quarter of the year.
+
+. From the moneys remaining after the distributions under subsection (2) of this section, the county treasurer shall distribute to each school district an amount equal to one-half of the timber assessed value of the district or eighty percent of the timber roll of such district in calendar year 1983 as determined under this chapter, whichever is greater, multiplied by the tax rate, if any, levied by the district under RCW 84.52.052 or 84.52.053 for purposes other than debt service payments and capital projects supported under subsection (2) of this section. The distribution under this subsection shall be made as follows: One-half of such amount shall be distributed in the first quarter of the year and one-half shall be distributed in the third quarter of the year.
+
+. After the distributions directed under subsections (2) and (3) of this section, if any, each taxing district shall receive an amount equal to the timber assessed value of the district multiplied by the tax rate, if any, levied as a regular levy of the district or as a special levy not included in subsection (2) or (3) of this section.
+
+. If there are insufficient moneys in the county timber tax account to make full distribution under subsection (4) of this section, the county treasurer shall multiply the amount to be distributed to each taxing district under that subsection by a fraction. The numerator of the fraction is the county timber tax account balance before making the distribution under that subsection. The denominator of the fraction is the account balance which would be required to make full distribution under that subsection.
+
+. After making the distributions under subsections (2) through (4) of this section in the full amount indicated for the calendar year, the county treasurer shall place any excess revenue up to twenty percent of the total distributions made for the year under subsections (2) through (4) of this section in a reserve status until the beginning of the next calendar year. Any moneys remaining in the county timber tax account after this amount is placed in reserve shall be distributed to each taxing district in the county in the same proportions as the distributions made under subsection (4) of this section.
+
+. On the last business day of the second month of each calendar quarter, the state treasurer shall distribute from the timber tax distribution account to each county an amount of tax collected by the state under RCW 84.33.041 equal to the amount of any tribal tax credited against the county's tax under an agreement entered into under RCW 43.06.480.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2008-S.SL.pdf?cite=2007%20c%2069%20§%205[2007 c 69 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c184.pdf?cite=1985%20c%20184%20§%201[1985 c 184 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c204.pdf?cite=1984%20c%20204%20§%209[1984 c 204 § 9]; ]
+
+== 84.33.086 - Payment of tax.
+. The taxes imposed under this chapter shall be computed with respect to timber harvested each calendar quarter and shall be due and payable in quarterly installments. Remittance shall be made on or before the last day of the month next succeeding the end of the quarterly period in which the tax accrues. The taxpayer on or before such date shall make out a return, upon such forms and setting forth such information as the department of revenue may require, showing the amount of tax for which the taxpayer is liable for the preceding quarterly period and shall sign and transmit the same to the department of revenue, together with a remittance for the amount of tax.
+
+. The taxes imposed by this chapter are in addition to any taxes imposed upon the same persons under chapter 82.04 RCW.
+
+. Any harvester incurring less than fifty dollars tax liability under this section in any calendar quarter is excused from the payment of such tax, but may be required by the department of revenue to file a return even though no tax may be due.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c166.pdf?cite=1987%20c%20166%20§%201[1987 c 166 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c204.pdf?cite=1984%20c%20204%20§%2010[1984 c 204 § 10]; ]
+
+== 84.33.088 - Reporting requirements on timber purchase. (Expires July 1, 2021.)
+. A purchaser of privately owned timber in an amount in excess of two hundred thousand board feet in a voluntary sale made in the ordinary course of business must, on or before the last day of the month following the purchase of the timber, report the particulars of the purchase to the department as required in subsection (2) of this section.
+
+. The report required in subsection (1) of this section must contain all information relevant to the value of the timber purchased including, but not limited to, the following, as applicable: Purchaser's name, address, and contact information; seller's name, address, and contact information; sale date; termination date in sale agreement; total sale price; legal description of sale area, sale name if applicable; forest practice application/harvest permit number if available; total acreage involved in the sale; estimated net volume of timber purchased by tree species and log grade; and description and value of property improvements. For the purposes of this subsection property improvements may include, but are not limited to: Road construction or road improvements, reforestation, land clearing, stock piling of rock, or any other agreed upon property improvement. A report may be submitted in any reasonable form or, at the purchaser's option, by submitting relevant excerpts of the timber sales contract. A purchaser may comply by submitting the information in the following form:
+
+Purchaser's name, address, and contact information:. . . .
+
+Seller's name, address, and contact information:. . . .
+
+Sale date:. . . .
+
+Termination date:. . . .
+
+Total sale price:. . . .
+
+Legal description of sale area:. . . .
+
+Sale name (if applicable):. . . .
+
+Forest practice application/Harvest permit
+
+number (if available):. . . .
+
+Total acreage involved:. . . .
+
+Estimated net volume of timber purchased by tree species
+
+and log grade:. . . .
+
+Description and value of property improvements, such as road construction or road improvements, reforestation, land clearing, stock piling of rock, or any other agreed upon property improvement:. . . .
+
+. . . .
+
+. A purchaser of privately owned timber involved in a purchase described in subsection (1) of this section, who fails to report a purchase as required, may be liable for a penalty of two hundred fifty dollars for each failure to report, as determined by the department.
+
+. Privately purchased timber reports are confidential taxpayer information under RCW 82.32.330.
+
+. This section expires July 1, 2021.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1148.SL.pdf?cite=2017%20c%2055%20§%201[2017 c 55 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2099.SL.pdf?cite=2014%20c%20152%20§%201[2014 c 152 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2659.SL.pdf?cite=2010%20c%20197%20§%201[2010 c 197 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1185.SL.pdf?cite=2007%20c%2047%20§%201[2007 c 47 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2063.SL.pdf?cite=2003%20c%20315%20§%201[2003 c 315 § 1]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1361.SL.pdf?cite=2001%20c%20320%20§%2016[2001 c 320 § 16]; ]
+
+== 84.33.089 - Estimates of harvestable public forestland—Adjustments.
+. The department must estimate the number of acres of public forestland that are available for timber harvesting. The department must provide the estimates for each county and for each taxing district within each county by October 1st of each year except that the department may authorize a county, at the county's option, to make its own estimates for public forestland in that county. In estimating the number of acres, the department must use the best available information to include public land comparable to private land that qualifies as forestland for assessment purposes and exclude other public lands. The department is not required to update the estimates unless improved information becomes available. The department of natural resources must assist the department with these determinations by providing any data and information in the possession of the department of natural resources on public forestlands, broken out by county and legal description, including a detailed map of each county showing the location of the described lands. The data and information must be provided to the department by July 15th of each year. In addition, the department may contract with other parties to provide data or assistance necessary to implement this section.
+
+. To accommodate the phase-in of the county forest excise tax on the harvest of timber from public lands as provided in RCW 84.33.051, the department must adjust its actual estimates of the number of acres of public forestland that are available for timber harvesting. The department must reduce its estimates for the following years by the following amounts:
+
+.. For calendar year 2005, 70 percent;
+
+.. For calendar year 2006, 62.5 percent;
+
+.. For calendar year 2007, 55 percent;
+
+.. For calendar year 2008, 47.5 percent;
+
+.. For calendar year 2009, 40 percent;
+
+.. For calendar year 2010, 32.5 percent;
+
+.. For calendar year 2011, 22.5 percent;
+
+.. For calendar year 2012, 15 percent;
+
+.. For calendar year 2013, 7.5 percent; and
+
+.. For calendar year 2014 and thereafter, the department may not reduce its estimates of the number of acres of public forestland that are available for timber harvesting.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5358-S.SL.pdf?cite=2017%20c%20323%20§%20901[2017 c 323 § 901]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2693-S.SL.pdf?cite=2004%20c%20177%20§%206[2004 c 177 § 6]; ]
+
+== 84.33.091 - Tables of stumpage values—Revised tables—Legislative review—Appeal.
+. The department of revenue shall designate areas containing timber having similar growing, harvesting, and marketing conditions to be used as units for the preparation and application of stumpage values. Each year on or before December 31 for use the following January through June 30, and on or before June 30 for use the following July through December 31, the department shall prepare tables of stumpage values of each species or subclassification of timber within these units. The stumpage value shall be the amount that each such species or subclassification would sell for at a voluntary sale made in the ordinary course of business for purposes of immediate harvest. These stumpage values, expressed in terms of a dollar amount per thousand board feet or other unit measure, shall be determined in a manner which makes reasonable and adequate allowances for age, size, quality, costs of removal, accessibility to point of conversion, market conditions, and all other relevant factors from:
+
+.. Gross proceeds from sales on the stump of similar timber of like quality and character at similar locations, and in similar quantities;
+
+.. Gross proceeds from sales of logs adjusted to reflect only the portion of such proceeds attributable to value on the stump immediately prior to harvest; or
+
+.. A combination of (a) and (b) of this subsection.
+
+. Upon application from any person who plans to harvest damaged timber, the stumpage values for which have been materially reduced from the values shown in the applicable tables due to damage resulting from fire, blow down, ice storm, flood, or other sudden unforeseen cause, the department shall revise the stumpage value tables for any area in which such timber is located and shall specify any additional accounting or other requirements to be complied with in reporting and paying the tax.
+
+. The preliminary area designations and stumpage value tables and any revisions thereof are subject to review by the ways and means committees of the house of representatives and senate prior to finalization. Tables of stumpage values shall be signed by the director or the director's designee. A copy thereof shall be mailed to anyone who has submitted to the department a written request for a copy.
+
+. On or before the sixtieth day after the date of final adoption of any stumpage value tables, any harvester may appeal to the board of tax appeals for a revision of stumpage values for an area determined pursuant to subsection (3) of this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2315-S.SL.pdf?cite=1998%20c%20311%20§%2013[1998 c 311 § 13]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c204.pdf?cite=1984%20c%20204%20§%2011[1984 c 204 § 11]; ]
+
+== 84.33.096 - Application of excise taxes' administrative provisions and definitions.
+All sections of chapter 82.32 RCW, except RCW 82.32.045 and 82.32.270, apply to the taxes imposed under this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c204.pdf?cite=1984%20c%20204%20§%2013[1984 c 204 § 13]; ]
+
+== 84.33.130 - Forestland valuation—Application by owner that land be designated and valued as forestland—Hearing—Rules—Approval, denial of application—Appeal.
+. [Empty]
+.. [Empty]
+... Notwithstanding any other provision of law, lands that were assessed as classified forestland before July 22, 2001, or as timberland under chapter 84.34 RCW before the merger date adopted by the county under RCW 84.34.400, are designated forestland for the purposes of this chapter.
+
+... The owners of land subject to the requirements of (a)(i) of this subsection are not required to apply for designation under this chapter. The land and timber on such land must be assessed and taxed in accordance with the provisions of this chapter as of the date the land is designated forestland under (a)(i) of this subsection.
+
+.. If a county legislative authority opts under RCW 84.34.400 to merge its timberland classification with the designated forestland program of the county, the following provisions apply beginning on the adopted merger date:
+
+... The date the property was classified as timberland is considered to be the date the property was designated as forestland under this chapter;
+
+... The county assessor must notify each owner of timberland of the merger by certified mail; and
+
+... For any forestland subject to the provisions of (b)(i) of this subsection that is then removed from designation, only compensating tax will be collected as a result of the removal in accordance with RCW 84.33.140(12), unless otherwise provided by law.
+
+. An owner of land desiring that it be designated as forestland and valued under RCW 84.33.140 as of January 1st of any year must submit an application to the assessor of the county in which the land is located before January 1st of that year. The application must be accompanied by a reasonable processing fee when the county legislative authority has established the requirement for such a fee.
+
+. No application of designation is required when publicly owned forestland is exchanged for privately owned forestland designated under this chapter. The land exchanged and received by an owner subject to ad valorem taxation is automatically granted designation under this chapter if the following conditions are met:
+
+.. The land will be used to grow and harvest timber; and
+
+.. The owner of the land submits a document to the assessor's office that explains the details of the forestland exchange within sixty days of the closing date of the exchange. However, if the owner fails to submit information regarding the exchange by the end of this sixty-day period, the owner must file an application for designation as forestland under this chapter and the regular application process will be followed.
+
+. The application must be made upon forms prepared by the department and supplied by the assessor, and must include the following:
+
+.. A legal description of, or assessor's parcel numbers for, all land the applicant desires to be designated as forestland;
+
+.. The date or dates of acquisition of the land;
+
+.. A brief description of the timber on the land, or if the timber has been harvested, the owner's plan for restocking;
+
+.. A copy of the timber management plan, if one exists, for the land prepared by a trained forester or any other person with adequate knowledge of timber management practices;
+
+.. If a timber management plan exists, an explanation of the nature and extent to which the management plan has been implemented;
+
+.. Whether the land is used for grazing;
+
+.. Whether the land has been subdivided or a plat has been filed with respect to the land;
+
+.. Whether the land and the applicant are in compliance with the restocking, forest management, fire protection, insect and disease control, and forest debris provisions of Title 76 RCW or any applicable rules under Title 76 RCW;
+
+.. Whether the land is subject to forest fire protection assessments under RCW 76.04.610;
+
+.. Whether the land is subject to a lease, option, or other right that permits it to be used for any purpose other than growing and harvesting timber;
+
+.. A summary of the past experience and activity of the applicant in growing and harvesting timber;
+
+.. A summary of current and continuing activity of the applicant in growing and harvesting timber;
+
+.. A statement that the applicant is aware of the potential tax liability involved when the land ceases to be designated as forestland;
+
+.. An affirmation that the statements contained in the application are true and that the land described in the application meets the definition of forestland in RCW 84.33.035; and
+
+.. A description and/or drawing showing what areas of land for which designation is sought are used for incidental uses compatible with the definition of forestland in RCW 84.33.035.
+
+. The assessor must afford the applicant an opportunity to be heard if the applicant so requests.
+
+. The assessor must act upon the application with due regard to all relevant evidence and without any one or more items of evidence necessarily being determinative, except that the application may be denied for one of the following reasons, without regard to other items:
+
+.. The land does not contain a "merchantable stand of timber" as defined in chapter 76.09 RCW and applicable rules. This reason alone is not sufficient to deny the application (i) if the land has been recently harvested or supports a growth of brush or noncommercial type timber, and the application includes a plan for restocking within three years or a longer period necessitated by unavailability of seed or seedlings, or (ii) if only isolated areas within the land do not meet the minimum standards due to rock outcroppings, swamps, unproductive soil or other natural conditions;
+
+.. The applicant, with respect to the land, has failed to comply with a final administrative or judicial order with respect to a violation of the restocking, forest management, fire protection, insect and disease control, and forest debris provisions of Title 76 RCW or any applicable rules under Title 76 RCW; or
+
+.. The land abuts a body of salt water and lies between the line of ordinary high tide and a line paralleling the ordinary high tide line and two hundred feet horizontally landward from the high tide line. However, if the assessor determines that a higher and better use exists for the land but this use would not be permitted or economically feasible by virtue of any federal, state, or local law or regulation, the land must be assessed and valued under RCW 84.33.140 without being designated as forestland.
+
+. The application is deemed to have been approved unless, prior to July 1st of the year after the application was mailed or delivered to the assessor, the assessor notifies the applicant in writing of the extent to which the application is denied.
+
+. An owner who receives notice that his or her application has been denied, in whole or in part, may appeal the denial to the county board of equalization in accordance with the provisions of RCW 84.40.038.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6180.SL.pdf?cite=2014%20c%20137%20§%202[2014 c 137 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1075-S.SL.pdf?cite=2003%20c%20170%20§%204[2003 c 170 § 4]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5702-S.SL.pdf?cite=2001%20c%20249%20§%202[2001 c 249 § 2]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1202-S.SL.pdf?cite=2001%20c%20185%20§%204[2001 c 185 § 4]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5372-S2.SL.pdf?cite=1994%20c%20301%20§%2032[1994 c 301 § 32]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c100.pdf?cite=1986%20c%20100%20§%2057[1986 c 100 § 57]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c148.pdf?cite=1981%20c%20148%20§%208[1981 c 148 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c187.pdf?cite=1974%20ex.s.%20c%20187%20§%206[1974 ex.s. c 187 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c294.pdf?cite=1971%20ex.s.%20c%20294%20§%2013[1971 ex.s. c 294 § 13]; ]
+
+== 84.33.140 - Forestland valuation—Notation of forestland designation upon assessment and tax rolls—Notice of continuance—Removal of designation—Compensating tax.
+. When land has been designated as forestland under RCW 84.33.130, a notation of the designation must be made each year upon the assessment and tax rolls. A copy of the notice of approval together with the legal description or assessor's parcel numbers for the land must, at the expense of the applicant, be filed by the assessor in the same manner as deeds are recorded.
+
+. In preparing the assessment roll as of January 1, 2002, for taxes payable in 2003 and each January 1st thereafter, the assessor must list each parcel of designated forestland at a value with respect to the grade and class provided in this subsection and adjusted as provided in subsection (3) of this section. The assessor must compute the assessed value of the land using the same assessment ratio applied generally in computing the assessed value of other property in the county. Values for the several grades of bare forestland are as follows:
+
+LANDGRADEOPERABILITYCLASSVALUESPER ACRE 1$23412229 3217 4157 119822190 3183 4132 115432149 3148 4113 111742114 3113 486 1855278 377 452 1436239 339 437 1217221 320 4208 1
+
+LAND
+
+GRADE
+
+OPERABILITY
+
+CLASS
+
+VALUES
+
+PER ACRE
+
+ 
+
+1
+
+$234
+
+1
+
+2
+
+229
+
+ 
+
+3
+
+217
+
+ 
+
+4
+
+157
+
+ 
+
+1
+
+198
+
+2
+
+2
+
+190
+
+ 
+
+3
+
+183
+
+ 
+
+4
+
+132
+
+ 
+
+1
+
+154
+
+3
+
+2
+
+149
+
+ 
+
+3
+
+148
+
+ 
+
+4
+
+113
+
+ 
+
+1
+
+117
+
+4
+
+2
+
+114
+
+ 
+
+3
+
+113
+
+ 
+
+4
+
+86
+
+ 
+
+1
+
+85
+
+5
+
+2
+
+78
+
+ 
+
+3
+
+77
+
+ 
+
+4
+
+52
+
+ 
+
+1
+
+43
+
+6
+
+2
+
+39
+
+ 
+
+3
+
+39
+
+ 
+
+4
+
+37
+
+ 
+
+1
+
+21
+
+7
+
+2
+
+21
+
+ 
+
+3
+
+20
+
+ 
+
+4
+
+20
+
+8
+
+ 
+
+1
+
+. On or before December 31, 2001, the department must adjust by rule under chapter 34.05 RCW, the forestland values contained in subsection (2) of this section in accordance with this subsection, and must certify the adjusted values to the assessor who will use these values in preparing the assessment roll as of January 1, 2002. For the adjustment to be made on or before December 31, 2001, for use in the 2002 assessment year, the department must:
+
+.. Divide the aggregate value of all timber harvested within the state between July 1, 1996, and June 30, 2001, by the aggregate harvest volume for the same period, as determined from the harvester excise tax returns filed with the department under RCW 84.33.074; and
+
+.. Divide the aggregate value of all timber harvested within the state between July 1, 1995, and June 30, 2000, by the aggregate harvest volume for the same period, as determined from the harvester excise tax returns filed with the department under RCW 84.33.074; and
+
+.. Adjust the forestland values contained in subsection (2) of this section by a percentage equal to one-half of the percentage change in the average values of harvested timber reflected by comparing the resultant values calculated under (a) and (b) of this subsection.
+
+. For the adjustments to be made on or before December 31, 2002, and each succeeding year thereafter, the same procedure described in subsection (3) of this section must be followed using harvester excise tax returns filed under RCW 84.33.074. However, this adjustment must be made to the prior year's adjusted value, and the five-year periods for calculating average harvested timber values must be successively one year more recent.
+
+. Land graded, assessed, and valued as forestland must continue to be so graded, assessed, and valued until removal of designation by the assessor upon the occurrence of any of the following:
+
+.. Receipt of notice of request to withdraw land classified under RCW 84.34.020(3) within two years before the date of the merger under RCW 84.34.400. Land previously classified under chapter 84.34 RCW will be removed under the provisions of this chapter when two assessment years have passed following receipt of the notice as described in RCW 84.34.070(1);
+
+.. Receipt of notice from the owner to remove the designation;
+
+.. Sale or transfer to an ownership making the land exempt from ad valorem taxation;
+
+.. Sale or transfer of all or a portion of the land to a new owner, unless the new owner has signed a notice of forestland designation continuance, except transfer to an owner who is an heir or devisee of a deceased owner or transfer by a transfer on death deed, does not, by itself, result in removal of designation. The signed notice of continuance must be attached to the real estate excise tax affidavit provided for in RCW 82.45.150. The notice of continuance must be on a form prepared by the department. If the notice of continuance is not signed by the new owner and attached to the real estate excise tax affidavit, all compensating taxes calculated under subsection (11) of this section are due and payable by the seller or transferor at time of sale. The auditor may not accept an instrument of conveyance regarding designated forestland for filing or recording unless the new owner has signed the notice of continuance or the compensating tax has been paid, as evidenced by the real estate excise tax stamp affixed thereto by the treasurer. The seller, transferor, or new owner may appeal the new assessed valuation calculated under subsection (11) of this section to the county board of equalization in accordance with the provisions of RCW 84.40.038. Jurisdiction is hereby conferred on the county board of equalization to hear these appeals;
+
+.. Determination by the assessor, after giving the owner written notice and an opportunity to be heard, that:
+
+... The land is no longer primarily devoted to and used for growing and harvesting timber. However, land may not be removed from designation if a governmental agency, organization, or other recipient identified in subsection (13) or (14) of this section as exempt from the payment of compensating tax has manifested its intent in writing or by other official action to acquire a property interest in the designated forestland by means of a transaction that qualifies for an exemption under subsection (13) or (14) of this section. The governmental agency, organization, or recipient must annually provide the assessor of the county in which the land is located reasonable evidence in writing of the intent to acquire the designated land as long as the intent continues or within sixty days of a request by the assessor. The assessor may not request this evidence more than once in a calendar year;
+
+... The owner has failed to comply with a final administrative or judicial order with respect to a violation of the restocking, forest management, fire protection, insect and disease control, and forest debris provisions of Title 76 RCW or any applicable rules under Title 76 RCW; or
+
+... Restocking has not occurred to the extent or within the time specified in the application for designation of such land.
+
+. Land may not be removed from designation if there is a governmental restriction that prohibits, in whole or in part, the owner from harvesting timber from the owner's designated forestland. If only a portion of the parcel is impacted by governmental restrictions of this nature, the restrictions cannot be used as a basis to remove the remainder of the forestland from designation under this chapter. For the purposes of this section, "governmental restrictions" includes: (a) Any law, regulation, rule, ordinance, program, or other action adopted or taken by a federal, state, county, city, or other governmental entity; or (b) the land's zoning or its presence within an urban growth area designated under RCW 36.70A.110.
+
+. The assessor has the option of requiring an owner of forestland to file a timber management plan with the assessor upon the occurrence of one of the following:
+
+.. An application for designation as forestland is submitted;
+
+.. Designated forestland is sold or transferred and a notice of continuance, described in subsection (5)(d) of this section, is signed; or
+
+.. The assessor has reason to believe that forestland sized less than twenty acres is no longer primarily devoted to and used for growing and harvesting timber. The assessor may require a timber management plan to assist with determining continuing eligibility as designated forestland.
+
+. If land is removed from designation because of any of the circumstances listed in subsection (5)(a) through (d) of this section, the removal applies only to the land affected. If land is removed from designation because of subsection (5)(e) of this section, the removal applies only to the actual area of land that is no longer primarily devoted to the growing and harvesting of timber, without regard to any other land that may have been included in the application and approved for designation, as long as the remaining designated forestland meets the definition of forestland contained in RCW 84.33.035.
+
+. Within thirty days after the removal of designation as forestland, the assessor must notify the owner in writing, setting forth the reasons for the removal. The seller, transferor, or owner may appeal the removal to the county board of equalization in accordance with the provisions of RCW 84.40.038.
+
+. Unless the removal is reversed on appeal a copy of the notice of removal with a notation of the action, if any, upon appeal, together with the legal description or assessor's parcel numbers for the land removed from designation must, at the expense of the applicant, be filed by the assessor in the same manner as deeds are recorded and a notation of removal from designation must immediately be made upon the assessment and tax rolls. The assessor must revalue the land to be removed with reference to its true and fair value as of January 1st of the year of removal from designation. Both the assessed value before and after the removal of designation must be listed. Taxes based on the value of the land as forestland are assessed and payable up until the date of removal and taxes based on the true and fair value of the land are assessed and payable from the date of removal from designation.
+
+. Except as provided otherwise in this section, a compensating tax is imposed on land removed from designation as forestland. The compensating tax is due and payable to the treasurer thirty days after the owner is notified of the amount of this tax. As soon as possible after the land is removed from designation, the assessor must compute the amount of compensating tax, and the treasurer must mail a notice to the owner of the amount of compensating tax owed and the date on which payment of this tax is due. The amount of compensating tax is equal to the difference between the amount of tax last levied on the land as designated forestland and an amount equal to the new assessed value of the land multiplied by the dollar rate of the last levy extended against the land, multiplied by a number, in no event greater than nine, equal to the number of years for which the land was designated as forestland, plus compensating taxes on the land at forestland values up until the date of removal and the prorated taxes on the land at true and fair value from the date of removal to the end of the current tax year.
+
+. Compensating tax, together with applicable interest thereon, becomes a lien on the land, which attaches at the time the land is removed from designation as forestland and has priority and must be fully paid and satisfied before any recognizance, mortgage, judgment, debt, obligation, or responsibility to or with which the land may become charged or liable. The lien may be foreclosed upon expiration of the same period after delinquency and in the same manner provided by law for foreclosure of liens for delinquent real property taxes as provided in RCW 84.64.050. Any compensating tax unpaid on its due date will thereupon become delinquent. From the date of delinquency until paid, interest is charged at the same rate applied by law to delinquent ad valorem property taxes.
+
+. The compensating tax specified in subsection (11) of this section may not be imposed if the removal of designation under subsection (5) of this section resulted solely from:
+
+.. Transfer to a government entity in exchange for other forestland located within the state of Washington;
+
+.. [Empty]
+... A taking through the exercise of the power of eminent domain, or (ii) a sale or transfer to an entity having the power of eminent domain in anticipation of the exercise of such power based on official action taken by the entity and confirmed in writing;
+
+.. A donation of fee title, development rights, or the right to harvest timber, to a government agency or organization qualified under RCW 84.34.210 and 64.04.130 for the purposes enumerated in those sections, or the sale or transfer of fee title to a governmental entity or a nonprofit nature conservancy corporation, as defined in RCW 64.04.130, exclusively for the protection and conservation of lands recommended for state natural area preserve purposes by the natural heritage council and natural heritage plan as defined in chapter 79.70 RCW or approved for state natural resources conservation area purposes as defined in chapter 79.71 RCW, or for acquisition and management as a community forest trust as defined in chapter 79.155 RCW. At such time as the land is not used for the purposes enumerated, the compensating tax specified in subsection (11) of this section is imposed upon the current owner;
+
+.. The sale or transfer of fee title to the parks and recreation commission for park and recreation purposes;
+
+.. Official action by an agency of the state of Washington or by the county or city within which the land is located that disallows the present use of the land;
+
+.. The creation, sale, or transfer of forestry riparian easements under RCW 76.13.120;
+
+.. The creation, sale, or transfer of a conservation easement of private forestlands within unconfined channel migration zones or containing critical habitat for threatened or endangered species under RCW 76.09.040;
+
+.. The sale or transfer of land within two years after the death of the owner of at least a fifty percent interest in the land if the land has been assessed and valued as classified forestland, designated as forestland under this chapter, or classified under chapter 84.34 RCW continuously since 1993. The date of death shown on a death certificate is the date used for the purposes of this subsection (13)(h); or
+
+.. [Empty]
+... The discovery that the land was designated under this chapter in error through no fault of the owner. For purposes of this subsection (13)(i), "fault" means a knowingly false or misleading statement, or other act or omission not in good faith, that contributed to the approval of designation under this chapter or the failure of the assessor to remove the land from designation under this chapter.
+
+... For purposes of this subsection (13), the discovery that land was designated under this chapter in error through no fault of the owner is not the sole reason for removal of designation under subsection (5) of this section if an independent basis for removal exists. An example of an independent basis for removal includes the land no longer being devoted to and used for growing and harvesting timber.
+
+. In a county with a population of more than six hundred thousand inhabitants or in a county with a population of at least two hundred forty-five thousand inhabitants that borders Puget Sound as defined in RCW 90.71.010, the compensating tax specified in subsection (11) of this section may not be imposed if the removal of designation as forestland under subsection (5) of this section resulted solely from:
+
+.. An action described in subsection (13) of this section; or
+
+.. A transfer of a property interest to a government entity, or to a nonprofit historic preservation corporation or nonprofit nature conservancy corporation, as defined in RCW 64.04.130, to protect or enhance public resources, or to preserve, maintain, improve, restore, limit the future use of, or otherwise to conserve for public use or enjoyment, the property interest being transferred. At such time as the property interest is not used for the purposes enumerated, the compensating tax is imposed upon the current owner.
+
+. Compensating tax authorized in this section may not be imposed on land removed from designation as forestland solely as a result of a natural disaster such as a flood, windstorm, earthquake, wildfire, or other such calamity rather than by virtue of the act of the landowner changing the use of the property.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5977-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2037%20§%201002[2017 3rd sp.s. c 37 § 1002]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6180.SL.pdf?cite=2014%20c%20137%20§%203[2014 c 137 § 3]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6333-S.SL.pdf?cite=2014%20c%2097%20§%20309[2014 c 97 § 309]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1117-S.SL.pdf?cite=2014%20c%2058%20§%2027[2014 c 58 § 27]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5367-S2.SL.pdf?cite=2013%202nd%20sp.s.%20c%2011%20§%2013[2013 2nd sp.s. c 11 § 13]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2502-S.SL.pdf?cite=2012%20c%20170%20§%201[2012 c 170 § 1]; prior:  2009 c 354 § 2; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1733-S.SL.pdf?cite=2009%20c%20255%20§%203[2009 c 255 § 3]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5401-S.SL.pdf?cite=2009%20c%20246%20§%202[2009 c 246 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1381-S.SL.pdf?cite=2007%20c%2054%20§%2024[2007 c 54 § 24]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5396-S.SL.pdf?cite=2005%20c%20303%20§%2013[2005 c 303 § 13]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1075-S.SL.pdf?cite=2003%20c%20170%20§%205[2003 c 170 § 5]; prior:  2001 c 305 § 2; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5702-S.SL.pdf?cite=2001%20c%20249%20§%203[2001 c 249 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1202-S.SL.pdf?cite=2001%20c%20185%20§%205[2001 c 185 § 5]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2091-S.SL.pdf?cite=1999%20sp.s.%20c%204%20§%20703[1999 sp.s. c 4 § 703]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1647-S.SL.pdf?cite=1999%20c%20233%20§%2021[1999 c 233 § 21]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5230-S.SL.pdf?cite=1997%20c%20299%20§%202[1997 c 299 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1700-S.SL.pdf?cite=1995%20c%20330%20§%202[1995 c 330 § 2]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2928-S.SL.pdf?cite=1992%20c%2069%20§%202[1992 c 69 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c238.pdf?cite=1986%20c%20238%20§%202[1986 c 238 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c148.pdf?cite=1981%20c%20148%20§%209[1981 c 148 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c134.pdf?cite=1980%20c%20134%20§%203[1980 c 134 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c187.pdf?cite=1974%20ex.s.%20c%20187%20§%207[1974 ex.s. c 187 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c195.pdf?cite=1973%201st%20ex.s.%20c%20195%20§%2093[1973 1st ex.s. c 195 § 93]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c148.pdf?cite=1972%20ex.s.%20c%20148%20§%206[1972 ex.s. c 148 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c294.pdf?cite=1971%20ex.s.%20c%20294%20§%2014[1971 ex.s. c 294 § 14]; ]
+
+== 84.33.145 - Compensating tax.
+. If no later than thirty days after removal of designation under this chapter the owner applies for classification under:
+
+.. RCW 84.34.020(1);
+
+.. RCW 84.34.020(2); or
+
+.. RCW 84.34.020(3), unless the timberland classification and designated forestland program are merged under RCW 84.34.400, then, for the purposes of (a), (b), or (c) of this subsection, the designated forestland may not be considered removed from designation for purposes of the compensating tax under RCW 84.33.140 until the application for current use classification under chapter 84.34 RCW is denied or the property is removed from classification under RCW 84.34.108.
+
+. Upon removal of classification under RCW 84.34.108, the amount of compensating tax due under this chapter is equal to:
+
+.. The difference, if any, between the amount of tax last levied on the land as designated forestland and an amount equal to the new assessed valuation of the land when removed from classification under RCW 84.34.108 multiplied by the dollar rate of the last levy extended against the land, multiplied by
+
+.. A number equal to:
+
+... The number of years the land was designated under this chapter, if the total number of years the land was designated under this chapter and classified under chapter 84.34 RCW is less than ten; or
+
+... Ten minus the number of years the land was classified under chapter 84.34 RCW, if the total number of years the land was designated under this chapter and classified under chapter 84.34 RCW is at least ten.
+
+. Nothing in this section authorizes the continued designation under this chapter or defers or reduces the compensating tax imposed upon forestland not transferred to classification under subsection (1) of this section that does not meet the definition of forestland under RCW 84.33.035. Nothing in this section affects the additional tax imposed under RCW 84.34.108.
+
+. In a county with a population of more than six hundred thousand inhabitants or in a county with a population of at least two hundred forty-five thousand inhabitants that borders Puget Sound as defined in RCW 90.71.010, no amount of compensating tax is due under this section if the removal from classification under RCW 84.34.108 results from a transfer of property described in RCW 84.34.108(6).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6180.SL.pdf?cite=2014%20c%20137%20§%204[2014 c 137 § 4]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2502-S.SL.pdf?cite=2012%20c%20170%20§%202[2012 c 170 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1484-S2.SL.pdf?cite=2009%20c%20354%20§%204[2009 c 354 § 4]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5702-S.SL.pdf?cite=2001%20c%20249%20§%204[2001 c 249 § 4]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2091-S.SL.pdf?cite=1999%20sp.s.%20c%204%20§%20704[1999 sp.s. c 4 § 704]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5230-S.SL.pdf?cite=1997%20c%20299%20§%203[1997 c 299 § 3]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2928-S.SL.pdf?cite=1992%20c%2069%20§%203[1992 c 69 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c315.pdf?cite=1986%20c%20315%20§%203[1986 c 315 § 3]; ]
+
+== 84.33.170 - Application of chapter to Christmas trees.
+Notwithstanding any provision of this chapter to the contrary, this chapter shall not exempt from the ad valorem tax nor subject to the excise tax imposed by this chapter, Christmas trees and short-rotation hardwoods, which are cultivated by agricultural methods, and the land on which the Christmas trees and short-rotation hardwoods stand shall not be taxed as provided in RCW 84.33.140. However, short-rotation hardwoods, which are cultivated by agricultural methods, on land classified as timberland under chapter 84.34 RCW, shall be subject to the excise tax imposed under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5702-S.SL.pdf?cite=2001%20c%20249%20§%205[2001 c 249 § 5]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1067-S.SL.pdf?cite=1995%20c%20165%20§%202[1995 c 165 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c204.pdf?cite=1984%20c%20204%20§%2024[1984 c 204 § 24]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c3.pdf?cite=1983%20c%203%20§%20226[1983 c 3 § 226]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c294.pdf?cite=1971%20ex.s.%20c%20294%20§%2017[1971 ex.s. c 294 § 17]; ]
+
+== 84.33.175 - Application of tax—Sale of land to governmental agency with reservation of rights to timber—Conveyance by governmental agency of trees.
+The excise tax imposed under this chapter applies to forest trees harvested after April 4, 1986, from lands sold to any governmental agency by warranty deed or contract where the seller reserved to itself the right to take all merchantable timber for a specific period of years, or in perpetuity, and to forest trees harvested after April 4, 1986, that any governmental agency, by quit claim deed, as partial consideration for payment of the purchase price, conveyed for a specific period of years, or in perpetuity, all forest trees, standing, growing, or lying on the described land, to the taxpayer, regardless of the date on which the contract was entered.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c315.pdf?cite=1986%20c%20315%20§%208[1986 c 315 § 8]; ]
+
+== 84.33.200 - Legislative review of timber tax system—Information and data to be furnished.
+. The legislature shall review the system of distribution and allocation of all timber excise tax revenues in January 1975 and each year thereafter to provide a uniform and equitable distribution and allocation of such revenues to the state and local taxing districts.
+
+. In order to allow legislative review of the rules to be adopted by the department of revenue establishing the stumpage values provided for in RCW 84.33.091, such rules shall be effective not less than thirty days after transmitting to the staffs of the senate and house ways and means committees (or their successor committees) the same proposed rules as have been previously filed with the office of the code reviser pursuant to RCW 34.05.320.
+
+. The department of revenue and the department of natural resources shall make available to the revenue committees of the senate and house of representatives of the state legislature information and data, as it may be available, pertaining to the status of forestland grading throughout the state, the collection of timber excise tax revenues, the distribution and allocation of timber excise tax revenues to the state and local taxing districts, and any other information as may be necessary for the proper legislative review and implementation of the timber excise tax system, and in addition, the departments shall provide an annual report of such matters in January of each year to such committees.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1361.SL.pdf?cite=2001%20c%20320%20§%2017[2001 c 320 § 17]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6219.SL.pdf?cite=1998%20c%20245%20§%20170[1998 c 245 § 170]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c175.pdf?cite=1989%20c%20175%20§%20179[1989 c 175 § 179]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c204.pdf?cite=1984%20c%20204%20§%2025[1984 c 204 § 25]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c6.pdf?cite=1979%20c%206%20§%204[1979 c 6 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c187.pdf?cite=1974%20ex.s.%20c%20187%20§%209[1974 ex.s. c 187 § 9]; ]
+
+== 84.33.210 - Forestland valuation—Special benefit assessments.
+. Any land that is designated as forestland under this chapter at the earlier of the times the legislative authority of a local government adopts a resolution, ordinance, or legislative act (a) to create a local improvement district, in which the land is included or would have been included but for the designation, or (b) to approve or confirm a final special benefit assessment roll relating to a sanitary or storm sewerage system, domestic water supply or distribution system, or road construction or improvement, which roll would have included the land but for the designation, shall be exempt from special benefit assessments, charges in lieu of assessment, or rates and charges for stormwater control facilities under RCW 36.89.080 for such purposes as long as that land remains designated as forestland, except as otherwise provided in RCW 84.33.250.
+
+. Whenever a local government creates a local improvement district, the levying, collection, and enforcement of assessments shall be in the manner and subject to the same procedures and limitations as are provided under the law concerning the initiation and formation of local improvement districts for the particular local government. Notice of the creation of a local improvement district that includes designated forestland shall be filed with the assessor and the legislative authority of the county in which the land is located. The assessor, upon receiving notice of the creation of a local improvement district, shall send a notice to the owners of the designated forestlands listed on the tax rolls of the applicable treasurer of:
+
+.. The creation of the local improvement district;
+
+.. The exemption of that land from special benefit assessments;
+
+.. The fact that the designated forestland may become subject to the special benefit assessments if the owner waives the exemption by filing a notarized document with the governing body of the local government creating the local improvement district before the confirmation of the final special benefit assessment roll; and
+
+.. The potential liability, pursuant to RCW 84.33.220, if the exemption is not waived and the land is subsequently removed from designated forestland status.
+
+. When a local government approves and confirms a special benefit assessment roll, from which designated forestland has been exempted under this section, it shall file a notice of this action with the assessor and the legislative authority of the county in which the land is located and with the treasurer of that local government. The notice shall describe the action taken, the type of improvement involved, the land exempted, and the amount of the special benefit assessment that would have been levied against the land if it had not been exempted. The filing of the notice with the assessor and the treasurer of that local government shall constitute constructive notice to a purchaser or encumbrancer of the affected land, and every person whose conveyance or encumbrance is subsequently executed or subsequently recorded, that the exempt land is subject to the charges provided in RCW 84.33.220 and 84.33.230, if the land is removed from its designation as forestland.
+
+. The owner of the land exempted from special benefit assessments under this section may waive that exemption by filing a notarized document to that effect with the legislative authority of the local government upon receiving notice from said local government concerning the assessment roll hearing and before the local government confirms the final special benefit assessment roll. A copy of that waiver shall be filed by the local government with the assessor, but the failure to file this copy shall not affect the waiver.
+
+. Except to the extent provided in RCW 84.33.250, the local government shall have no duty to furnish service from the improvement financed by the special benefit assessment to the exempted land.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2088-S.SL.pdf?cite=2003%20c%20394%20§%207[2003 c 394 § 7]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5702-S.SL.pdf?cite=2001%20c%20249%20§%206[2001 c 249 § 6]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2330-S.SL.pdf?cite=1992%20c%2052%20§%207[1992 c 52 § 7]; ]
+
+== 84.33.220 - Forestland valuation—Withdrawal from designation or change in use—Liability.
+Whenever forestland has been exempted from special benefit assessments under RCW 84.33.210, any removal from designation or change in use from forestland under this chapter shall result in the following:
+
+. If the bonds used to fund the improvement in the local improvement district have not been completely retired, the land shall immediately become liable for:
+
+.. The amount of the special benefit assessment listed in the notice provided for in RCW 84.33.210; plus
+
+.. Interest on the amount determined in (a) of this subsection, compounded annually at a rate equal to the average rate of inflation from the time the initial notice is filed by the governmental entity that created the local improvement district as provided in RCW 84.33.210, to the time the owner or the assessor removes the land from the exemption category provided by this chapter; or
+
+. If the bonds used to fund the improvement in the local improvement district have been completely retired, the land shall immediately become liable for:
+
+.. The amount of the special benefit assessment listed in the notice provided for in RCW 84.33.210; plus
+
+.. Interest on the amount determined in (a) of this subsection compounded annually at a rate equal to the average rate of inflation from the time the initial notice is filed by the governmental entity that created the local improvement district as provided in RCW 84.33.210, to the time the bonds used to fund the improvement have been retired; plus
+
+.. Interest on the total amount determined in (a) and (b) of this subsection at a simple per annum rate equal to the average rate of inflation from the time the bonds used to fund the improvement have been retired to the time the owner or the assessor removes the land from the exemption category provided by this chapter;
+
+. The amount payable under this section shall become due on the date the land is removed from its forestland designation. This amount shall be a lien on the land prior and superior to any other lien whatsoever except for the lien for general taxes, and shall be enforceable in the same manner as the collection of special benefit assessments are enforced by that local government.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5702-S.SL.pdf?cite=2001%20c%20249%20§%207[2001 c 249 § 7]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2330-S.SL.pdf?cite=1992%20c%2052%20§%208[1992 c 52 § 8]; ]
+
+== 84.33.230 - Forestland valuation—Change in designation—Notice.
+Whenever forestland is removed from its forestland designation, the assessor of the county in which the land is located shall forthwith give written notice of the removal to the local government or its successor that filed with the assessor the notice required by RCW 84.33.210. Upon receipt of the notice from the assessor, the local government shall mail a written statement to the owner of the land for the amounts payable as provided in RCW 84.33.220. The amounts due shall be delinquent if not paid within one hundred eighty days after the date of mailing of the statement. The amount payable shall be subject to the same interest, penalties, lien priority, and enforcement procedures that are applicable to delinquent assessments on the assessment roll from which that land had been exempted, except that the rate of interest charged shall not exceed the rate provided in RCW 84.33.220.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5702-S.SL.pdf?cite=2001%20c%20249%20§%208[2001 c 249 § 8]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2330-S.SL.pdf?cite=1992%20c%2052%20§%209[1992 c 52 § 9]; ]
+
+== 84.33.240 - Forestland valuation—Change in classification or use—Application of payments.
+Payments collected pursuant to RCW 84.33.220 and 84.33.230, or by enforcement procedures referred to therein, after the payment of the expenses of their collection, shall first be applied to the payment of general or special debt incurred to finance the improvements related to the special benefit assessments, and, if such debt is retired, then into the maintenance fund or general fund of the governmental entity that created the local improvement district, or its successor, for any of the following purposes: (1) Redemption or servicing of outstanding obligations of the district; (2) maintenance expenses of the district; or (3) construction or acquisition of any facilities necessary to carry out the purpose of the district.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2330-S.SL.pdf?cite=1992%20c%2052%20§%2010[1992 c 52 § 10]; ]
+
+== 84.33.250 - Forestland valuation—Special benefit assessments.
+The department shall adopt rules it shall deem necessary to implement RCW 84.33.210 through 84.33.270, which shall include, but not be limited to, procedures to determine the extent to which a portion of the land otherwise exempt may be subject to a special benefit assessment for: (1) The actual connection to the domestic water system or sewerage facilities; (2) access to the road improvement in relation to its value as forestland as distinguished from its value under more intensive uses; and (3) the lands that benefit from or cause the need for a local improvement district. The provision for limited special benefit assessments shall not relieve the land from liability for the amounts provided in RCW 84.33.220 and 84.33.230 when the land is removed from its forestland designation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5702-S.SL.pdf?cite=2001%20c%20249%20§%209[2001 c 249 § 9]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2330-S.SL.pdf?cite=1992%20c%2052%20§%2011[1992 c 52 § 11]; ]
+
+== 84.33.260 - Forestland valuation—Withdrawal from designation or change in use—Benefit assessments.
+Whenever a portion of a parcel of land that was designated as forestland under this chapter is removed from designation or there is a change in use, and the land has been exempted from any benefit assessments under RCW 84.33.210, the previously exempt benefit assessments shall become due on only that portion of the land that is removed or changed in use.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5702-S.SL.pdf?cite=2001%20c%20249%20§%2010[2001 c 249 § 10]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2330-S.SL.pdf?cite=1992%20c%2052%20§%2012[1992 c 52 § 12]; ]
+
+== 84.33.270 - Forestland valuation—Government future development right—Conserving forestland—Exemptions.
+. Forestland on which the right of future development has been acquired by any local government, the state of Washington, or the United States government shall be exempt from special benefit assessments in lieu of assessment for the purposes in the same manner, and under the same liabilities for payment and interest, as land designated under this chapter as forestland, for as long as the designation applies.
+
+. Any interest, development right, easement, covenant, or other contractual right that effectively protects, preserves, maintains, improves, restores, prevents the future nonforest use of, or otherwise conserves forestland shall be exempt from special benefit assessments as long as the development right or other interest effectively serves to prevent nonforest development of the land.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5702-S.SL.pdf?cite=2001%20c%20249%20§%2011[2001 c 249 § 11]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2330-S.SL.pdf?cite=1992%20c%2052%20§%2013[1992 c 52 § 13]; ]
+
+== 84.33.280 - Applicant for forest riparian easement program—Department to rely on certain documents.
+The department shall, when contacted by the department of natural resources under RCW 76.13.160, rely on submitted tax-related documents to confirm or deny that an applicant for the forest riparian easement program established in RCW 76.13.120 satisfies the definition of a small forestland owner, as that term is defined in RCW 76.13.120. Nothing in this section, or RCW 76.13.160, prohibits the department from providing the department of natural resources with aggregate or general information.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2318.SL.pdf?cite=2004%20c%20102%20§%203[2004 c 102 § 3]; ]
+

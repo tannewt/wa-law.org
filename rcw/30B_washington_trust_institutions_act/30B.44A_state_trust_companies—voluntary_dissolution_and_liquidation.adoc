@@ -1,0 +1,92 @@
+= 30B.44A - State trust companies—Voluntary dissolution and liquidation.
+:toc:
+
+== 30B.44A.005 - Required vote of shareholders.
+A state trust company may go into voluntary liquidation and be closed, and may surrender its certificate of authority and franchise as a corporation or limited liability company of Washington state by the affirmative votes of its shareholders owning two-thirds of its shares.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2055[2019 c 389 § 55]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20376[2014 c 37 § 376]; ]
+
+== 30B.44A.010 - Corporate procedure.
+. Shareholder action to liquidate a state trust company shall be taken at a meeting of the shareholders duly called and noticed as provided for in Title 23B RCW, if the state trust company is a corporation, and as provided in chapter 25.15 RCW, if the state trust company is a limited liability company.
+
+. If the shareholders shall, by the required vote, elect to liquidate the state trust company, a copy of all proceedings of the meeting at which such action shall have been taken, verified by the oath of the president or manager and the secretary, shall be transmitted to the director for approval.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2056[2019 c 389 § 56]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20377[2014 c 37 § 377]; ]
+
+== 30B.44A.020 - Authority to liquidate—Notice.
+. If the director approves the liquidation, the director shall issue to the state trust company written notice of approval for such purpose.
+
+. Such approval shall be deemed granted unless the director issues a written determination, no later than sixty days from notice by the state trust company to voluntarily liquidate, that adequate provision has not been made to satisfy all allowable creditors and further provide for successor trustees or other disposition of all trust assets under management.
+
+. If the director has made such a determination within the time set forth in subsection (2) of this section, the director is authorized to take possession of the state trust company and its assets and business and liquidate it in the manner provided for in chapter 30B.44B RCW.
+
+. If the director approves the voluntary liquidation of a state trust company under this chapter, the state trust company shall provide notice to creditors and the public of voluntary dissolution in the manner provided for in Title 23B RCW, if the state trust company is a corporation, and chapter 25.15 RCW, if the state trust company is a limited liability company.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2057[2019 c 389 § 57]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20378[2014 c 37 § 378]; ]
+
+== 30B.44A.030 - Examination and reports.
+While a state trust company is in process of voluntary liquidation under this chapter, it is subject to examination by the director and shall continue to furnish to the director such reports as required of a state trust company.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2058[2019 c 389 § 58]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20379[2014 c 37 § 379]; ]
+
+== 30B.44A.040 - Unclaimed property and moneys.
+. All unclaimed property remaining in the possession of a state trust company that has been voluntarily liquidated according to this chapter is subject to the provisions of chapter 11.08 RCW, except to the extent set forth in this section.
+
+. Any funds, less outstanding fees and assessments owed to the director under RCW 30A.04.070, payment of allowable third-party claims, and disposition of fiduciary assets in compliance with this title, which remain uncalled for and unpaid at the conclusion of the state trust company's voluntary liquidation, shall be transmitted to the director and shall be deposited by him or her in a bank to the director's credit in trust for the benefit of any persons entitled thereto, and shall be paid by the director to such persons upon receipt of evidence, reasonably satisfactory to the director, of such persons' rights to such funds.
+
+. All moneys so deposited remaining unclaimed for two years after deposit shall escheat to the state for the benefit of the state financial literacy and education programs as authorized by RCW 43.320.150 and administered by the department or, in the absence of such programs, as otherwise directed by the state treasurer.
+
+. It shall not be necessary to have the escheat adjudged in a suit or action.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2060[2019 c 389 § 60]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20380[2014 c 37 § 380]; ]
+
+== 30B.44A.050 - Sale and transfer of property—Conditions for sale without shareholder approval.
+. Any state trust company may sell and transfer to any other trust institution all of its assets of every kind upon such terms as may be agreed upon and approved by the director and by two-thirds vote of its shareholders.
+
+. A copy of the minutes of any meeting at which such action is taken, together with a copy of the asset purchase agreement, shall be filed with the director.
+
+. Notwithstanding any other provision of this title, the board of a state trust company, with the director's approval, may cause a state trust company to sell all or substantially all of its assets, including the right to control accounts established with the trust company, without shareholder or participant approval if the director finds:
+
+.. The interests of the state trust company's clients and creditors are jeopardized because of insolvency or imminent insolvency of the state trust company; and
+
+.. The sale is in the best interest of the state trust company's clients and creditors.
+
+. A sale under this section must include an assumption and promise by the buyer to pay or otherwise discharge:
+
+.. All of the state trust company's liabilities to clients and depositors;
+
+.. All of the state trust company's liabilities for salaries of the state trust company's employees incurred before the date of the sale;
+
+.. Obligations incurred by the director arising out of the supervision or sale of the state trust company; and
+
+.. Fees and assessments due the department.
+
+. This section does not limit the incidental power of a state trust company to buy and sell assets in the ordinary course of business.
+
+. This section does not affect the director's authority to take action under state law.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2062[2019 c 389 § 62]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20381[2014 c 37 § 381]; ]
+
+== 30B.44A.060 - Procedures for voluntary liquidation.
+Except as set forth in this chapter to the contrary, the procedures for voluntary liquidation of a state trust company shall be consistent with Title 23B RCW, if the state trust company is a corporation, and chapter 25.15 RCW, if the state trust company is a limited liability company.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2059[2019 c 389 § 59]; ]
+
+== 30B.44A.070 - Naming of successor trustee upon dissolution of state trust company—Contingency for director as statutory custodian.
+. In the event of a voluntary dissolution of a trust company pursuant to this chapter, the provisions of RCW 11.98.039 (1), (2), and (3) shall apply, if applicable, to the selection of a successor trustee, subject to the director's option to approve a successor trustee as part of the director's approval of a voluntary liquidation under RCW 30B.44A.020.
+
+. If, however, RCW 11.98.039(4) is applicable but a trust beneficiary, trustor, if alive, or trustee does not petition the superior court for appointment of successor trustee within thirty days of the last publication of notice of the voluntary dissolution of the trust company pursuant to RCW 30B.44A.020, then the director may:
+
+.. Appoint himself or herself as a custodian of any affected trust until such time as the superior court makes a determination of successor trustee; or
+
+.. At his or her option, bring before the superior court a petition for appointment of a successor trustee, other than an employee or independent contractor of the department, pursuant to chapter 11.96A RCW.
+
+. In no event may the director or any employee or independent contractor of the department serve as a successor trustee under chapter 11.98 RCW or as a receiver of trust assets under chapter 7.60 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2061[2019 c 389 § 61]; ]
+
+== 30B.44A.080 - Cancellation of state trust company's certificate of authority.
+Whenever voluntary liquidation is approved by the director or the sale and transfer of the assets of any state trust company is approved by the director pursuant to this chapter, a certified copy of such approval, filed in the office of the secretary of state, shall authorize the cancellation of the certificate of authority of such state trust company, subject, however, to its continued existence, as either a general corporation under Title 23B RCW or a general limited liability company under chapter 25.15 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2063[2019 c 389 § 63]; ]
+

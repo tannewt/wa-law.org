@@ -1,0 +1,209 @@
+= 11.68 - Settlement of estates without administration.
+:toc:
+
+== 11.68.011 - Settlement without court intervention—Petition—Conditions—Exceptions.
+. A personal representative may petition the court for nonintervention powers, whether the decedent died testate or intestate.
+
+. Unless the decedent has specified in the decedent's will, if any, that the court not grant nonintervention powers to the personal representative, the court shall grant nonintervention powers to a personal representative who petitions for the powers if the court determines that the decedent's estate is solvent, taking into account probate and nonprobate assets, and that:
+
+.. The petitioning personal representative was named in the decedent's probated will as the personal representative;
+
+.. The decedent died intestate, the petitioning personal representative is the decedent's surviving spouse or surviving domestic partner, the decedent's estate is composed of community property only, and the decedent had no issue: (i) Who is living or in gestation on the date of the petition; (ii) whose identity is reasonably ascertainable on the date of the petition; and (iii) who is not also the issue of the petitioning spouse or petitioning domestic partner; or
+
+.. The personal representative was not a creditor of the decedent at the time of the decedent's death and the administration and settlement of the decedent's will or estate with nonintervention powers would be in the best interests of the decedent's beneficiaries and creditors. However, the administration and settlement of the decedent's will or estate with nonintervention powers will be presumed to be in the beneficiaries' and creditors' best interest until a person entitled to notice under RCW 11.68.041 rebuts that presumption by coming forward with evidence that the grant of nonintervention powers would not be in the beneficiaries' or creditors' best interests.
+
+. The court may base its findings of facts necessary for the grant of nonintervention powers on: (a) Statements of witnesses appearing before the court; (b) representations contained in a verified petition for nonintervention powers, in an inventory made and returned upon oath into the court, or in an affidavit filed with the court; or (c) other proof submitted to the court.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%20925[2008 c 6 § 925]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2059[1997 c 252 § 59]; ]
+
+== 11.68.021 - Hearing on petition for nonintervention powers.
+A hearing on a petition for nonintervention powers may be held at the time of the appointment of the personal representative or at any later time.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2060[1997 c 252 § 60]; ]
+
+== 11.68.041 - Petition for nonintervention powers—Notice requirements—Exceptions.
+. Advance notice of the hearing on a petition for nonintervention powers referred to in RCW 11.68.011 is not required in those circumstances in which the court is required to grant nonintervention powers under RCW 11.68.011(2) (a) and (b).
+
+. In all other cases, if the petitioner wishes to obtain nonintervention powers, the personal representative shall give notice of the petitioner's intention to apply to the court for nonintervention powers to all heirs, all beneficiaries of a gift under the decedent's will, and all persons who have requested, and who are entitled to, notice under RCW 11.28.240, except that:
+
+.. A person is not entitled to notice if the person has, in writing, either waived notice of the hearing or consented to the grant of nonintervention powers; and
+
+.. An heir who is not also a beneficiary of a gift under a will is not entitled to notice if the will has been probated and the time for contesting the validity of the will has expired.
+
+. The notice required by this section must be either personally served or sent by regular mail at least ten days before the date of the hearing, and proof of mailing of the notice must be by affidavit filed in the cause. The notice must contain the decedent's name, the probate cause number, the name and address of the personal representative, and must state in substance as follows:
+
+.. The personal representative has petitioned the superior court of the state of Washington for . . . . . county, for the entry of an order granting nonintervention powers and a hearing on that petition will be held on . . . . ., the . . . . . day of . . . . ., . . . ., at . . . . . o'clock, . . M.;
+
+.. The petition for an order granting nonintervention powers has been filed with the court;
+
+.. Following the entry by the court of an order granting nonintervention powers, the personal representative is entitled to administer and close the decedent's estate without further court intervention or supervision; and
+
+.. A person entitled to notice has the right to appear at the time of the hearing on the petition for an order granting nonintervention powers and to object to the granting of nonintervention powers to the personal representative.
+
+. If notice is not required, or all persons entitled to notice have either waived notice of the hearing or consented to the entry of an order granting nonintervention powers as provided in this section, the court may hear the petition for an order granting nonintervention powers at any time.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2061[1997 c 252 § 61]; ]
+
+== 11.68.050 - Objections to granting of nonintervention powers—Restrictions.
+. If at the time set for the hearing upon a petition for nonintervention powers, any person entitled to notice of the hearing on the petition under RCW 11.68.041 shall appear and object to the granting of nonintervention powers to the personal representative of the estate, the court shall consider the objections, if any, in connection with its determination under RCW 11.68.011(2)(c) of whether a grant of nonintervention powers would be in the best interests of the decedent's beneficiaries.
+
+. The nonintervention powers of a personal representative may not be restricted at a hearing on a petition for nonintervention powers in which the court is required to grant nonintervention powers under RCW 11.68.011(2) (a) and (b), unless a will specifies that the nonintervention powers of a personal representative may be restricted when the powers are initially granted. In all other cases, including without limitation any hearing on a petition that alleges that the personal representative has breached its duties to the beneficiaries of the estate, the court may restrict the powers of the personal representative in such manner as the court determines to be in the best interests of the decedent's beneficiaries.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2062[1997 c 252 § 62]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c234.pdf?cite=1977%20ex.s.%20c%20234%20§%2021[1977 ex.s. c 234 § 21]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c117.pdf?cite=1974%20ex.s.%20c%20117%20§%2017[1974 ex.s. c 117 § 17]; ]
+
+== 11.68.060 - Death, resignation, or disablement of personal representative—Successor to administer nonintervention powers—Petition.
+If any personal representative of the estate of the decedent dies, resigns, or otherwise becomes disabled from any cause from acting as the nonintervention personal representative, the successor personal representative, or a person who has petitioned to be appointed as a successor personal representative, may petition the court for nonintervention powers, and the court shall act, in accordance with RCW 11.68.011 through 11.68.041 and 11.68.050.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2063[1997 c 252 § 63]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c234.pdf?cite=1977%20ex.s.%20c%20234%20§%2022[1977 ex.s. c 234 § 22]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c117.pdf?cite=1974%20ex.s.%20c%20117%20§%2018[1974 ex.s. c 117 § 18]; ]
+
+== 11.68.065 - Report of affairs of estate—Petition by beneficiary—Filing—Notice—Hearing—Other accounting and information.
+A beneficiary whose interest in an estate has not been fully paid or distributed may petition the court for an order directing the personal representative to deliver a report of the affairs of the estate signed and verified by the personal representative. The petition may be filed at any time after one year from the day on which the report was last delivered, or, if none, then one year after the order appointing the personal representative. Upon hearing of the petition after due notice as required in RCW 11.96A.110, the court may, for good cause shown, order the personal representative to deliver to the petitioner the report for any period not covered by a previous report. The report for the period shall include such of the following as the court may order: A description of the amount and nature of all property, real and personal, that has come into the hands of the personal representative; a statement of all property collected and paid out or distributed by the personal representative; a statement of claims filed and allowed against the estate and those rejected; any estate, inheritance, or fiduciary income tax returns filed by the personal representative; and such other information as the order may require. This subsection does not limit any power the court might otherwise have at any time during the administration of the estate to require the personal representative to account or furnish other information to any person interested in the estate.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5196.SL.pdf?cite=1999%20c%2042%20§%20614[1999 c 42 § 614]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2064[1997 c 252 § 64]; ]
+
+== 11.68.070 - Procedure when personal representative recreant to trust or subject to removal.
+If any personal representative who has been granted nonintervention powers fails to execute his or her trust faithfully or is subject to removal for any reason specified in RCW 11.28.250 as now or hereafter amended, upon petition of any unpaid creditor of the estate who has filed a claim or any heir, devisee, legatee, or of any person on behalf of any incompetent heir, devisee, or legatee, such petition being supported by affidavit which makes a prima facie showing of cause for removal or restriction of powers, the court shall cite such personal representative to appear before it, and if, upon hearing of the petition it appears that said personal representative has not faithfully discharged said trust or is subject to removal for any reason specified in RCW 11.28.250 as now or hereafter amended, then, in the discretion of the court the powers of the personal representative may be restricted or the personal representative may be removed and a successor appointed. In the event the court shall restrict the powers of the personal representative in any manner, it shall endorse the words "Powers restricted" upon the original order of solvency together with the date of said endorsement, and in all such cases the cost of the citation, hearing, and reasonable attorney's fees may be awarded as the court determines.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%202057[2010 c 8 § 2057]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c234.pdf?cite=1977%20ex.s.%20c%20234%20§%2023[1977 ex.s. c 234 § 23]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c117.pdf?cite=1974%20ex.s.%20c%20117%20§%2019[1974 ex.s. c 117 § 19]; ]
+
+== 11.68.080 - Vacation or restriction of nonintervention powers following insolvency—Notice—Determinations affecting prior grants of nonintervention powers upon petition—Endorsement on prior orders.
+. Within ten days after the personal representative has received from alleged creditors under chapter 11.40 RCW claims that have an aggregate face value that, when added to the other debts and to the taxes and expenses of greater priority under applicable law, would appear to cause the estate to be insolvent, the personal representative shall notify in writing all beneficiaries under the decedent's will and, if any of the decedent's property will pass according to the laws of intestate succession, all heirs, together with any unpaid creditors, other than a creditor whose claim is then barred under chapter 11.40 RCW or the otherwise applicable statute of limitations, that the estate might be insolvent. The personal representative shall file a copy of the written notice with the court.
+
+. Within ten days after an estate becomes insolvent, the personal representative shall petition under RCW 11.96A.080 for a determination of whether the court should reaffirm, rescind, or restrict in whole or in part any prior grant of nonintervention powers. Notice of the hearing must be given in accordance with RCW 11.96A.110.
+
+. If, upon a petition under RCW 11.96A.080 of any personal representative, beneficiary under the decedent's will, heir if any of the decedent's property passes according to the laws of intestate succession, or any unpaid creditor with a claim that has been accepted or judicially determined to be enforceable, the court determines that the decedent's estate is insolvent, the court shall reaffirm, rescind, or restrict in whole or in part any prior grant of nonintervention powers to the extent necessary to protect the best interests of the beneficiaries and creditors of the estate.
+
+. If the court rescinds or restricts a prior grant of nonintervention powers, the court shall endorse the term "powers rescinded" or "powers restricted" upon the prior order together with the date of the endorsement.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5196.SL.pdf?cite=1999%20c%2042%20§%20615[1999 c 42 § 615]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2065[1997 c 252 § 65]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c234.pdf?cite=1977%20ex.s.%20c%20234%20§%2024[1977 ex.s. c 234 § 24]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c117.pdf?cite=1974%20ex.s.%20c%20117%20§%2020[1974 ex.s. c 117 § 20]; ]
+
+== 11.68.090 - Powers of personal representative under nonintervention will—Scope—Relief from duties, restrictions, liabilities by will.
+. Any personal representative acting under nonintervention powers may borrow money on the general credit of the estate and may mortgage, encumber, lease, sell, exchange, convey, and otherwise have the same powers, and be subject to the same limitations of liability, that a trustee has under chapters 11.98, 11.100, and 11.102 RCW with regard to the assets of the estate, both real and personal, all without an order of court and without notice, approval, or confirmation, and in all other respects administer and settle the estate of the decedent without intervention of court. Except as otherwise specifically provided in this title or by order of court, a personal representative acting under nonintervention powers may exercise the powers granted to a personal representative under chapter 11.76 RCW but is not obligated to comply with the duties imposed on personal representatives by that chapter. A party to such a transaction and the party's successors in interest are entitled to have it conclusively presumed that the transaction is necessary for the administration of the decedent's estate.
+
+. Except as otherwise provided in chapter 11.108 RCW or elsewhere in order to preserve a marital deduction from estate taxes, a testator may by a will relieve the personal representative from any or all of the duties, restrictions, and liabilities imposed: Under common law; by chapters 11.54, 11.56, 11.100, 11.102, and 11.104A RCW; or by RCW 11.28.270 and 11.28.280, 11.68.095, and 11.98.070. In addition, a testator may likewise alter or deny any or all of the privileges and powers conferred by this title, and may add duties, restrictions, liabilities, privileges, or powers to those imposed or granted by this title. If any common law or any statute referenced earlier in this subsection is in conflict with a will, the will controls whether or not specific reference is made in the will to this section. However, notwithstanding the rest of this subsection, a personal representative may not be relieved of the duty to act in good faith and with honest judgment.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1051-S.SL.pdf?cite=2011%20c%20327%20§%203[2011 c 327 § 3]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1351.SL.pdf?cite=2003%20c%20254%20§%203[2003 c 254 § 3]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2066[1997 c 252 § 66]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c29.pdf?cite=1988%20c%2029%20§%203[1988 c 29 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c30.pdf?cite=1985%20c%2030%20§%207[1985 c 30 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c149.pdf?cite=1984%20c%20149%20§%2010[1984 c 149 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c117.pdf?cite=1974%20ex.s.%20c%20117%20§%2021[1974 ex.s. c 117 § 21]; ]
+
+== 11.68.095 - Co-personal representatives—Powers.
+All of the provisions of RCW 11.98.016 regarding the exercise of powers by co-trustees of a trust shall apply to the co-personal representatives of an estate in which the co-personal representatives have been granted nonintervention powers, as if, for purposes of the interpretation of that law, co-personal representatives were co-trustees and an estate were a trust.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2067[1997 c 252 § 67]; ]
+
+== 11.68.100 - Closing of estate—Alternative decrees—Notice—Hearing—Fees.
+. When the estate is ready to be closed, the court, upon application by the personal representative who has nonintervention powers, shall have the authority and it shall be its duty, to make and cause to be entered a decree which either:
+
+.. Finds and adjudges that all approved claims of the decedent have been paid, finds and adjudges the heirs of the decedent or those persons entitled to take under his or her will, and distributes the property of the decedent to the persons entitled thereto; or
+
+.. Approves the accounting of the personal representative and settles the estate of the decedent in the manner provided for in the administration of those estates in which the personal representative has not acquired nonintervention powers.
+
+. Either decree provided for in this section shall be made after notice given as provided for in the settlement of estates by a personal representative who has not acquired nonintervention powers. The petition for either decree provided for in this section shall state the fees paid or proposed to be paid to the personal representative, his or her attorneys, accountants, and appraisers, and any heir, devisee, or legatee whose interest in the assets of a decedent's estate would be reduced by the payment of said fees shall receive a copy of said petition with the notice of hearing thereon; at the request of the personal representative or any said heir, devisee, or legatee, the court shall, at the time of the hearing on either petition, determine the reasonableness of said fees. The court shall take into consideration all criteria forming the basis for the determination of the amount of such fees as contained in the code of professional responsibility; in determining the reasonableness of the fees charged by any personal representative, accountants, and appraisers the court shall take into consideration the criteria forming the basis for the determination of attorney's fees, to the extent applicable, and any other factors which the court determines to be relevant in the determination of the amount of fees to be paid to such personal representative.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%202058[2010 c 8 § 2058]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c234.pdf?cite=1977%20ex.s.%20c%20234%20§%2025[1977 ex.s. c 234 § 25]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c117.pdf?cite=1974%20ex.s.%20c%20117%20§%2022[1974 ex.s. c 117 § 22]; ]
+
+== 11.68.110 - Declaration of completion of probate—Contents—Notice—Discharge of personal representative—Waiver of notice.
+. If a personal representative who has acquired nonintervention powers does not apply to the court for either of the final decrees provided for in RCW 11.68.100 as now or hereafter amended, the personal representative shall, when the administration of the estate has been completed, file a declaration that must state as follows:
+
+.. The date of the decedent's death and the decedent's residence at the time of death;
+
+.. Whether or not the decedent died testate or intestate;
+
+.. If the decedent died testate, the date of the decedent's last will and testament and the date of the order probating the will;
+
+.. That each creditor's claim which was justly due and properly presented as required by law has been paid or otherwise disposed of by agreement with the creditor, and that the amount of estate taxes due as the result of the decedent's death has been determined, settled, and paid;
+
+.. That the personal representative has completed the administration of the decedent's estate without court intervention, and the estate is ready to be closed;
+
+.. If the decedent died intestate, the names, addresses (if known), and relationship of each heir of the decedent, together with the distributive share of each heir; and
+
+.. The amount of fees paid or to be paid to each of the following: (i) Personal representative or representatives; (ii) lawyer or lawyers; (iii) appraiser or appraisers; and (iv) accountant or accountants; and that the personal representative believes the fees to be reasonable and does not intend to obtain court approval of the amount of the fees or to submit an estate accounting to the court for approval.
+
+. Subject to the requirement of notice as provided in this section, unless an heir, devisee, or legatee of a decedent petitions the court either for an order requiring the personal representative to obtain court approval of the amount of fees paid or to be paid to the personal representative, lawyers, appraisers, or accountants, or for an order requiring an accounting, or both, within thirty days from the date of filing a declaration of completion of probate, the personal representative will be automatically discharged without further order of the court and the representative's powers will cease thirty days after the filing of the declaration of completion of probate, and the declaration of completion of probate shall, at that time, be the equivalent of the entry of a decree of distribution in accordance with chapter 11.76 RCW for all legal intents and purposes.
+
+. Within five days of the date of the filing of the declaration of completion, the personal representative or the personal representative's lawyer shall mail a copy of the declaration of completion to each heir, legatee, or devisee of the decedent, who: (a) Has not waived notice of the filing, in writing, filed in the cause; and (b) either has not received the full amount of the distribution to which the heir, legatee, or devisee is entitled or has a property right that might be affected adversely by the discharge of the personal representative under this section, together with a notice which shall be substantially as follows:
+
+ CAPTIONOFCASENOTICE OF FILING OFDECLARATION OF COMPLETIONOF PROBATENOTICE IS GIVEN that the attached Declaration of Completion of Probate was filed by the undersigned in the above-entitled court on the  . . . . day of  . . . . . ., (year) . . . .; unless you shall file a petition in the above-entitled court requesting the court to approve the reasonableness of the fees, or for an accounting, or both, and serve a copy thereof upon the personal representative or the personal representative's lawyer, within thirty days after the date of the filing, the amount of fees paid or to be paid will be deemed reasonable, the acts of the personal representative will be deemed approved, the personal representative will be automatically discharged without further order of the court, and the Declaration of Completion of Probate will be final and deemed the equivalent of a Decree of Distribution entered under chapter 11.76 RCW.If you file and serve a petition within the period specified, the undersigned will request the court to fix a time and place for the hearing of your petition, and you will be notified of the time and place thereof, by mail, or personal service, not less than ten days before the hearing on the petition.Dated this  . . . . day of  . . . . . ., (year) . . . .. . . . Personal Representative
+
+ 
+
+CAPTION
+
+OF
+
+CASE
+
+NOTICE OF FILING OF
+
+DECLARATION OF COMPLETION
+
+OF PROBATE
+
+NOTICE IS GIVEN that the attached Declaration of Completion of Probate was filed by the undersigned in the above-entitled court on the  . . . . day of  . . . . . ., (year) . . . .; unless you shall file a petition in the above-entitled court requesting the court to approve the reasonableness of the fees, or for an accounting, or both, and serve a copy thereof upon the personal representative or the personal representative's lawyer, within thirty days after the date of the filing, the amount of fees paid or to be paid will be deemed reasonable, the acts of the personal representative will be deemed approved, the personal representative will be automatically discharged without further order of the court, and the Declaration of Completion of Probate will be final and deemed the equivalent of a Decree of Distribution entered under chapter 11.76 RCW.
+
+If you file and serve a petition within the period specified, the undersigned will request the court to fix a time and place for the hearing of your petition, and you will be notified of the time and place thereof, by mail, or personal service, not less than ten days before the hearing on the petition.
+
+Dated this  . . . . day of  . . . . . ., (year) . . . .
+
+. . . .
+
+ 
+
+Personal Representative
+
+. If all heirs, devisees, and legatees of the decedent entitled to notice under this section waive, in writing, the notice required by this section, the personal representative will be automatically discharged without further order of the court and the declaration of completion of probate will become effective as a decree of distribution upon the date of filing thereof. In those instances where the personal representative has been required to furnish bond, and a declaration of completion is filed pursuant to this section, any bond furnished by the personal representative shall be automatically discharged upon the discharge of the personal representative.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2359-S.SL.pdf?cite=2016%20c%20202%20§%208[2016 c 202 § 8]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6181-S.SL.pdf?cite=1998%20c%20292%20§%20202[1998 c 292 § 202]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2068[1997 c 252 § 68]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c180.pdf?cite=1990%20c%20180%20§%205[1990 c 180 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c30.pdf?cite=1985%20c%2030%20§%208[1985 c 30 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c149.pdf?cite=1984%20c%20149%20§%2011[1984 c 149 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c234.pdf?cite=1977%20ex.s.%20c%20234%20§%2026[1977 ex.s. c 234 § 26]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c117.pdf?cite=1974%20ex.s.%20c%20117%20§%2023[1974 ex.s. c 117 § 23]; ]
+
+== 11.68.112 - Final distribution upon declaration and notice of filing of declaration of completion of probate—Special powers of personal representative—Discharge from liability.
+If the declaration of completion of probate and the notice of filing of declaration of completion of probate state that the personal representative intends to make final distribution within five business days after the final date on which a beneficiary could petition for an order to approve fees or to require an accounting, which date is referred to in this section as the "effective date of the declaration of completion," and if the notice of filing of declaration of completion of probate sent to each beneficiary who has not received everything to which that beneficiary is entitled from the decedent's estate specifies the amount of the minimum distribution to be made to that beneficiary, the personal representative retains, for five business days following the effective date of the declaration of completion, the power to make the stated minimum distributions. In this case, the personal representative is discharged from all claims other than those relating to the actual distribution of the reserve, at the effective date of the declaration of completion. The personal representative is only discharged from liability for the distribution of the reserve when the whole reserve has been distributed and each beneficiary has received at least the distribution which that beneficiary's notice stated that the beneficiary would receive.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2069[1997 c 252 § 69]; ]
+
+== 11.68.114 - Declaration of completion of probate—Special powers of personal representative to hold reserve and deal with taxing authorities—Notice of filing of declaration—Discharge from liability.
+. The personal representative retains the powers to: Deal with the taxing authority of any federal, state, or local government; hold a reserve in an amount not to exceed three thousand dollars, for the determination and payment of any additional taxes, interest, and penalties, and of all reasonable expenses related directly or indirectly to such determination or payment; pay from the reserve the reasonable expenses, including compensation for services rendered or goods provided by the personal representative or by the personal representative's employees, independent contractors, and other agents, in addition to any taxes, interest, or penalties assessed by a taxing authority; receive and hold any credit, including interest, from any taxing authority; and distribute the residue of the reserve to the intended beneficiaries of the reserve; if:
+
+.. In lieu of the statement set forth in RCW 11.68.110(1)(e), the declaration of completion of probate states that:
+
+The personal representative has completed the administration of the decedent's estate without court intervention, and the estate is ready to be closed, except for the determination of taxes and of interest and penalties thereon as permitted under this section;
+
+and
+
+.. The notice of the filing of declaration of completion of probate must be in substantially the following form:
+
+CAPTIONNOTICE OF FILING OFOFDECLARATION OF COMPLETIONCASEOF PROBATE
+
+CAPTION
+
+NOTICE OF FILING OF
+
+OF
+
+DECLARATION OF COMPLETION
+
+CASE
+
+OF PROBATE
+
+NOTICE IS GIVEN that the attached Declaration of Completion of Probate was filed by the undersigned in the above-entitled court on the . . . day of . . . . , . . . .; unless you file a petition in the above-entitled court requesting the court to approve the reasonableness of the fees, or for an accounting, or both, and serve a copy thereof upon the personal representative or the personal representative's lawyer, within thirty days after the date of the filing:
+
+... The schedule of fees set forth in the Declaration of Completion of Probate will be deemed reasonable;
+
+... The Declaration of Completion of Probate will be final and deemed the equivalent of a Decree of Distribution entered under chapter 11.76 RCW;
+
+... The acts that the personal representative performed before the Declaration of Completion of Probate was filed will be deemed approved, and the personal representative will be automatically discharged without further order of the court with respect to all such acts; and
+
+... The personal representative will retain the power to deal with the taxing authorities, together with $. . . . for the determination and payment of all remaining tax obligations. Only that portion of the reserve that remains after the settlement of any tax liability, and the payment of any expenses associated with such settlement, will be distributed to the persons legally entitled to the reserve.
+
+. If the requirements in subsection (1) of this section are met, the personal representative is discharged from all claims other than those relating to the settlement of any tax obligations and the actual distribution of the reserve, at the effective date of the declaration of completion. The personal representative is discharged from liability from the settlement of any tax obligations and the distribution of the reserve, and the personal representative's powers cease, thirty days after the personal representative has mailed to those persons who would have shared in the distribution of the reserve had the reserve remained intact and has filed with the court copies of checks or receipts showing how the reserve was in fact distributed, unless a person with an interest in the reserve petitions the court earlier within the thirty-day period for an order requiring an accounting of the reserve or an order determining the reasonableness, or lack of reasonableness, of distributions made from the reserve. If the personal representative has been required to furnish a bond, any bond furnished by the personal representative is automatically discharged upon the final discharge of the personal representative.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6181-S.SL.pdf?cite=1998%20c%20292%20§%20203[1998 c 292 § 203]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2070[1997 c 252 § 70]; ]
+
+== 11.68.120 - Nonintervention powers not deemed waived by obtaining order or decree.
+A personal representative who has acquired nonintervention powers in accordance with this chapter shall not be deemed to have waived his or her nonintervention powers by obtaining any order or decree during the course of his or her administration of the estate.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%202059[2010 c 8 § 2059]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c117.pdf?cite=1974%20ex.s.%20c%20117%20§%2024[1974 ex.s. c 117 § 24]; ]
+
+== 11.68.900 - Construction—Chapter applicable to state registered domestic partnerships—2009 c 521.
+For the purposes of this chapter, the terms spouse, marriage, marital, husband, wife, widow, widower, next of kin, and family shall be interpreted as applying equally to state registered domestic partnerships or individuals in state registered domestic partnerships as well as to marital relationships and married persons, and references to dissolution of marriage shall apply equally to state registered domestic partnerships that have been terminated, dissolved, or invalidated, to the extent that such interpretation does not conflict with federal law. Where necessary to implement chapter 521, Laws of 2009, gender-specific terms such as husband and wife used in any statute, rule, or other law shall be construed to be gender neutral, and applicable to individuals in state registered domestic partnerships.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5688-S2.SL.pdf?cite=2009%20c%20521%20§%2034[2009 c 521 § 34]; ]
+

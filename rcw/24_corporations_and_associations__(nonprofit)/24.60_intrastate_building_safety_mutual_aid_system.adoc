@@ -1,0 +1,104 @@
+= 24.60 - Intrastate building safety mutual aid system.
+:toc:
+
+== 24.60.005 - System established—Member jurisdictions.
+. The intrastate building safety mutual aid system is established to provide for mutual assistance among member jurisdictions in the case of a building safety emergency or to participate in training and exercises.
+
+. Unless otherwise provided in subsection (3) of this section, the following governmental entities are member jurisdictions of the intrastate building safety mutual aid system:
+
+.. Counties;
+
+.. Cities and towns;
+
+.. Tribal governmental entities that declare an intention, in writing, to participate as a member jurisdiction in the intrastate building safety mutual aid system; and
+
+.. Other governmental entities with responsibilities of ensuring building safety.
+
+. Nothing in this section precludes a governmental entity participating in the intrastate building safety mutual aid system from entering into other mutual aid agreements otherwise permitted by law.
+
+. Mutual assistance may include immediate responses to a building safety emergency, effort to mitigate or prevent further damages, or recovery activities.
+
+. Nothing in this section is intended to interfere with other mutual aid systems established by law. Existing mutual aid systems including fire and law enforcement mobilization systems established by RCW 43.43.960 through 43.43.975 are unaffected by this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1406-S.SL.pdf?cite=2011%20c%20215%20§%201[2011 c 215 § 1]; ]
+
+== 24.60.010 - Definitions.
+Unless the context clearly indicates otherwise, the definitions in this section apply throughout the chapter.
+
+. "Building safety emergency" means a situation that temporarily renders a building safety department incapable of providing building safety services and includes, but is not limited to, declared states of emergency, declared disasters, and other situations that temporarily impair the jurisdictions ability to provide building safety operations.
+
+. "Chief executive officer" means the county executive in those charter counties with an elective office of county executive, however designated, and, in the case of other counties, the county legislative authority. In the case of cities and towns, it means the mayor in those cities and towns with mayor-council or commission forms of government, where the mayor is directly elected, and it means the city manager in those cities and towns with council manager forms of government. Cities and towns may also designate a chief executive officer for the purposes of this chapter by ordinance.
+
+. "Command" means the ultimate authority over emergency responders and resources, held by the responding member jurisdiction.
+
+. "Emergency responder" means a person with skills, qualifications, training, knowledge, and experience to respond in the case of a declared emergency, as defined by law, including expertise in such areas as law enforcement, firefighting, emergency medical services, medicine, nursing, public health, emergency management, public works, building safety specialized equipment operations skills, or other skills needed to provide aid in a state of emergency.
+
+. "Operational control" means the subset of command, granted by the responding member jurisdiction to the requesting member jurisdiction for the duration of the deployment of emergency responders or resources, under the intrastate building safety mutual aid system. Operational control includes the day-to-day direction and operation of emergency responders or resources while deployed under the intrastate building safety mutual aid system, but does not include discipline, promotion, hiring, and firing of emergency responders, nor ownership nor disposition of resources.
+
+. "Requesting member jurisdiction" means a member jurisdiction that requests assistance from another member jurisdiction under the process established by the intrastate building safety mutual aid system.
+
+. "Resources" includes supplies, materials, equipment, facilities, energy, services, information, or systems used to prevent, mitigate, respond to, or recover from any incident resulting in a deployment under this chapter.
+
+. "Responding member jurisdiction" means a member jurisdiction that has or intends to provide emergency responders and/or resources to a requesting member jurisdiction under the process established by the intrastate building safety mutual aid system.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1406-S.SL.pdf?cite=2011%20c%20215%20§%209[2011 c 215 § 9]; ]
+
+== 24.60.020 - Request for assistance—Conditions.
+A member jurisdiction may request assistance from other member jurisdictions to respond to, mitigate, or recover from a building safety emergency, or for participation of other member jurisdictions in authorized drills or exercises, subject to the following provisions:
+
+. A member jurisdiction requesting assistance under the intrastate building safety mutual aid system must (a) be experiencing a building safety emergency as defined in RCW 24.60.010 or (b) anticipate undertaking drills or exercises.
+
+. The chief executive officer of a requesting member jurisdiction, or his or her authorized designee, must request assistance under the intrastate building safety mutual aid system directly from the chief executive officer of another member jurisdiction.
+
+. A verbal request for assistance must be confirmed by a written request as soon as practicable.
+
+. A responding member jurisdiction may withhold requested resources for any reason.
+
+. Emergency responders from a responding member jurisdiction are under the general command of the responding member jurisdiction and the operational control of the requesting member jurisdiction. All emergency intrastate building safety mutual aid system responders shall work within the infrastructure of any established incident command system as defined in RCW 38.52.010.
+
+. Resources from a responding member jurisdiction are under the command of the responding member jurisdiction and the operational control of the requesting member jurisdiction.
+
+. Response under this agreement is voluntary. Unless otherwise provided by this section, a requesting member jurisdiction shall reimburse responding member jurisdictions for the true and full value of assistance provided pursuant to the intrastate building safety mutual aid system. Requests for reimbursement must be made within thirty days in accordance with procedures and rates developed by the *intrastate building safety mutual aid oversight committee.
+
+. If not otherwise prohibited, a responding member jurisdiction may donate requested emergency responder assistance and resources to a requesting member jurisdiction.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1406-S.SL.pdf?cite=2011%20c%20215%20§%202[2011 c 215 § 2]; ]
+
+== 24.60.030 - Emergency responders—Qualifications.
+An emergency responder holding a license, certificate, or other permit issued by a responding member jurisdiction evidencing qualification in a professional, mechanical, or other skill shall be deemed to be licensed, certified, or permitted in the requesting member jurisdiction, subject to any limitations and conditions the chief executive of the requesting member jurisdiction may prescribe.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1406-S.SL.pdf?cite=2011%20c%20215%20§%203[2011 c 215 § 3]; ]
+
+== 24.60.040 - Employee death—Benefits.
+An employee of a responding member jurisdiction that dies or sustains an injury in the course of his or her employment, while providing assistance under the intrastate building safety mutual aid system, is eligible to receive the benefits that would otherwise be available for injuries sustained or death in the course of employment.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1406-S.SL.pdf?cite=2011%20c%20215%20§%204[2011 c 215 § 4]; ]
+
+== 24.60.050 - Temporary emergency responders.
+. A responding member jurisdiction may designate, in writing, persons to serve as temporary emergency responders for the purposes of deploying such persons under the intrastate building safety mutual aid system. A designation as a temporary emergency responder does not grant any right to wages, salary, pensions, health benefits, seniority or other benefits.
+
+. The *intrastate building safety mutual aid oversight committee will develop guidelines and procedures detailing this temporary designation process.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1406-S.SL.pdf?cite=2011%20c%20215%20§%205[2011 c 215 § 5]; ]
+
+== 24.60.060 - Disputes regarding reimbursement—Arbitration.
+. A member jurisdiction that has a disagreement with another member jurisdiction regarding reimbursement for assistance under the provisions of this chapter may send a written request to the other member jurisdiction to resolve the matter within thirty days.
+
+. If the dispute is not resolved within thirty days of the receipt of the written request, either party may request arbitration.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1406-S.SL.pdf?cite=2011%20c%20215%20§%206[2011 c 215 § 6]; ]
+
+== 24.60.070 - Tort liability or immunity—Good faith.
+. For purposes of tort liability or immunity, an emergency responder of a responding member jurisdiction is considered an agent of the requesting member jurisdiction.
+
+. A responding member jurisdiction rendering aid under this system is not liable for the acts or omissions in good faith of the responding member jurisdiction's emergency responders or resources.
+
+. For purposes of this section, good faith does not include willful misconduct, gross negligence, or recklessness.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1406-S.SL.pdf?cite=2011%20c%20215%20§%207[2011 c 215 § 7]; ]
+
+== 24.60.080 - Person responds without request or authorization.
+The intrastate building safety mutual aid system does not provide rights or privileges to any person responding for any reason if a member jurisdiction has not requested or authorized that person to respond to the building safety emergency.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1406-S.SL.pdf?cite=2011%20c%20215%20§%208[2011 c 215 § 8]; ]
+

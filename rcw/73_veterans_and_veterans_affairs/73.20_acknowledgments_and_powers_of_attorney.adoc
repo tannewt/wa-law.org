@@ -1,0 +1,40 @@
+= 73.20 - Acknowledgments and powers of attorney.
+:toc:
+
+== 73.20.010 - Acknowledgments.
+In addition to the acknowledgment of instruments and the performance of other notarial acts in the manner and form and as otherwise authorized by law, instruments may be acknowledged, documents attested, oaths and affirmations administered, depositions and affidavits executed, and other notarial acts performed, before or by any commissioned officer in active service of the armed forces of the United States with the rank of second lieutenant or higher in the army or marine corps, or with the rank of ensign or higher in the navy or coast guard, or with equivalent rank in any other component part of the armed forces of the United States, by any person who either:
+
+. Is a member of the armed forces of the United States; or
+
+. Is serving as a merchant seaman or seawoman outside the limits of the United States included within the forty-eight states and the District of Columbia; or
+
+. Is outside said limits by permission, assignment, or direction of any department or official of the United States government, in connection with any activity pertaining to the prosecution of any war in which the United States is then engaged.
+
+Such acknowledgment of instruments, attestation of documents, administration of oaths and affirmations, execution of depositions and affidavits, and performance of other notarial acts, heretofore or hereafter made or taken, are hereby declared legal, valid, and binding, and instruments and documents so acknowledged, authenticated, or sworn to shall be admissible in evidence and eligible to record in this state under the same circumstances, and with the same force and effect as if such acknowledgment, attestation, oath, affirmation, deposition, affidavit, or other notarial act, had been made or taken within this state before or by a duly qualified officer or official as otherwise provided by law.
+
+In the taking of acknowledgments and the performing of other notarial acts requiring certification, a certificate endorsed upon or attached to the instrument or documents, which shows the date of the notarial act and which states, in substance, that the person appearing before the officer acknowledged the instrument as his or her act or made or signed the instrument or document under oath, shall be sufficient for all intents and purposes. The instrument or document shall not be rendered invalid by the failure to state the place of execution or acknowledgment.
+
+If the signature, rank, and branch of service or subdivision thereof, of any such commissioned officer appear upon such instrument or document or certificate, no further proof of the authority of such officer so to act shall be required and such action by such commissioned officer shall be prima facie evidence that the person making such oath or acknowledgment is within the purview of this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5077-S.SL.pdf?cite=2013%20c%2023%20§%20191[2013 c 23 § 191]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1945c271.pdf?cite=1945%20c%20271%20§%201[1945 c 271 § 1]; Rem. Supp. 1945 § 10758-13a. See also, 1943 c 47; ]
+
+== 73.20.050 - Agency created by power of attorney not revoked by unverified report of death.
+No agency created by a power of attorney in writing given by a principal who is at the time of execution, or who, after executing such power of attorney, becomes either (1) a member of the armed forces of the United States, or (2) a person serving as a merchant seaman outside the limits of the United States, included within the forty-eight states and the District of Columbia; or (3) a person outside said limits by permission, assignment or direction of any department or official of the United States government, in connection with any activity pertaining to or connected with the prosecution of any war in which the United States is then engaged, shall be revoked or terminated by the death of the principal, as to the agent or other person who, without actual knowledge or actual notice of the death of the principal, shall have acted or shall act, in good faith, under or in reliance upon such power of attorney or agency, and any action so taken, unless otherwise invalid or unenforceable, shall be binding on the heirs, devisees, legatees, or personal representatives of the principal.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1945c139.pdf?cite=1945%20c%20139%20§%201[1945 c 139 § 1]; Rem. Supp. 1945 § 10758-70; ]
+
+== 73.20.060 - Affidavit of agent as to knowledge of revocation.
+An affidavit, executed by the attorney-in-fact or agent, setting forth that the maker of the power of attorney is a member of the armed forces of the United States or within the class of persons described in RCW 73.20.050, and that he or she has not or had not, at the time of doing any act pursuant to the power of attorney, received actual knowledge or actual notice of the revocation or termination of the power of attorney, by death or otherwise, or notice of any facts indicating the same, shall, in the absence of fraud, be conclusive proof of the nonrevocation or nontermination of the power at such time. If the exercise of the power requires execution and delivery of any instrument which is recordable under the laws of this state, such affidavit shall likewise be recordable.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20507[2012 c 117 § 507]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1945c139.pdf?cite=1945%20c%20139%20§%202[1945 c 139 § 2]; Rem. Supp. 1945 § 10758-71; ]
+
+== 73.20.070 - "Missing in action" report not construed as actual knowledge.
+No report or listing, either official or otherwise, of "missing" or "missing in action", as such words are used in military parlance, shall constitute or be interpreted as constituting actual knowledge or actual notice of the death of such principal or notice of any facts indicating the same, or shall operate to revoke the agency.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1945c139.pdf?cite=1945%20c%20139%20§%203[1945 c 139 § 3]; Rem. Supp. 1945 § 10758-72; ]
+
+== 73.20.080 - Provision in power for revocation not affected.
+RCW 73.20.050 through 73.20.070 shall not be construed so as to alter or affect any provision for revocation or termination contained in such power of attorney.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1945c139.pdf?cite=1945%20c%20139%20§%204[1945 c 139 § 4]; Rem. Supp. 1945 § 10758-73; ]
+

@@ -1,0 +1,91 @@
+= 9A.68 - Bribery and corrupt influence.
+:toc:
+
+== 9A.68.010 - Bribery.
+. A person is guilty of bribery if:
+
+.. With the intent to secure a particular result in a particular matter involving the exercise of the public servant's vote, opinion, judgment, exercise of discretion, or other action in his or her official capacity, he or she offers, confers, or agrees to confer any pecuniary benefit upon such public servant; or
+
+.. Being a public servant, he or she requests, accepts, or agrees to accept any pecuniary benefit pursuant to an agreement or understanding that his or her vote, opinion, judgment, exercise of discretion, or other action as a public servant will be used to secure or attempt to secure a particular result in a particular matter.
+
+. It is no defense to a prosecution under this section that the public servant sought to be influenced was not qualified to act in the desired way, whether because he or she had not yet assumed office, lacked jurisdiction, or for any other reason.
+
+. Bribery is a class B felony.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20386[2011 c 336 § 386]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.68.010[1975 1st ex.s. c 260 § 9A.68.010]; ]
+
+== 9A.68.020 - Requesting unlawful compensation.
+. A public servant is guilty of requesting unlawful compensation if he or she requests a pecuniary benefit for the performance of an official action knowing that he or she is required to perform that action without compensation or at a level of compensation lower than that requested.
+
+. Requesting unlawful compensation is a class C felony.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20387[2011 c 336 § 387]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.68.020[1975 1st ex.s. c 260 § 9A.68.020]; ]
+
+== 9A.68.030 - Receiving or granting unlawful compensation.
+. A person is guilty of receiving or granting unlawful compensation if:
+
+.. Being a public servant, he or she requests, accepts, or agrees to accept compensation for advice or other assistance in preparing a bill, contract, claim, or transaction regarding which he or she knows he or she is likely to have an official discretion to exercise; or
+
+.. He or she knowingly offers, pays, or agrees to pay compensation to a public servant for advice or other assistance in preparing or promoting a bill, contract, claim, or other transaction regarding which the public servant is likely to have an official discretion to exercise.
+
+. Receiving or granting unlawful compensation is a class C felony.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20388[2011 c 336 § 388]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.68.030[1975 1st ex.s. c 260 § 9A.68.030]; ]
+
+== 9A.68.040 - Trading in public office.
+. A person is guilty of trading in public office if:
+
+.. He or she offers, confers, or agrees to confer any pecuniary benefit upon a public servant pursuant to an agreement or understanding that such actor will or may be appointed to a public office; or
+
+.. Being a public servant, he or she requests, accepts, or agrees to accept any pecuniary benefit from another person pursuant to an agreement or understanding that such person will or may be appointed to a public office.
+
+. Trading in public office is a class C felony.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20389[2011 c 336 § 389]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.68.040[1975 1st ex.s. c 260 § 9A.68.040]; ]
+
+== 9A.68.050 - Trading in special influence.
+. A person is guilty of trading in special influence if:
+
+.. He or she offers, confers, or agrees to confer any pecuniary benefit upon another person pursuant to an agreement or understanding that such other person will offer or confer a benefit upon a public servant or procure another to do so with intent thereby to secure or attempt to secure a particular result in a particular matter; or
+
+.. He or she requests, accepts, or agrees to accept any pecuniary benefit pursuant to an agreement or understanding that he or she will offer or confer a benefit upon a public servant or procure another to do so with intent thereby to secure or attempt to secure a particular result in a particular matter.
+
+. Trading in special influence is a class C felony.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20390[2011 c 336 § 390]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.68.050[1975 1st ex.s. c 260 § 9A.68.050]; ]
+
+== 9A.68.060 - Commercial bribery.
+. For purposes of this section:
+
+.. "Claimant" means a person who has or is believed by an actor to have an insurance claim.
+
+.. "Service provider" means a person who directly or indirectly provides, advertises, or otherwise claims to provide services.
+
+.. "Services" means health care services, motor vehicle body or other motor vehicle repair, and preparing, processing, presenting, or negotiating an insurance claim.
+
+.. "Trusted person" means:
+
+... An agent, employee, or partner of another;
+
+... An administrator, executor, conservator, guardian, receiver, or trustee of a person or an estate, or any other person acting in a fiduciary capacity;
+
+... An accountant, appraiser, attorney, physician, or other professional adviser;
+
+... An officer or director of a corporation, or any other person who participates in the affairs of a corporation, partnership, or unincorporated association; or
+
+.. An arbitrator, mediator, or other purportedly disinterested adjudicator or referee.
+
+. A person is guilty of commercial bribery if:
+
+.. He or she offers, confers, or agrees to confer a pecuniary benefit directly or indirectly upon a trusted person under a request, agreement, or understanding that the trusted person will violate a duty of fidelity or trust arising from his or her position as a trusted person;
+
+.. Being a trusted person, he or she requests, accepts, or agrees to accept a pecuniary benefit for himself, herself, or another under a request, agreement, or understanding that he or she will violate a duty of fidelity or trust arising from his or her position as a trusted person; or
+
+.. Being an employee or agent of an insurer, he or she requests, accepts, or agrees to accept a pecuniary benefit for himself or herself, or a person other than the insurer, under a request, agreement, or understanding that he or she will or a threat that he or she will not refer or induce claimants to have services performed by a service provider.
+
+. It is not a defense to a prosecution under this section that the person sought to be influenced was not qualified to act in the desired way, whether because the person had not yet assumed his or her position, lacked authority, or for any other reason.
+
+. Commercial bribery is a class B felony.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1614.SL.pdf?cite=2001%20c%20224%20§%202[2001 c 224 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1557-S2.SL.pdf?cite=1995%20c%20285%20§%2029[1995 c 285 § 29]; ]
+

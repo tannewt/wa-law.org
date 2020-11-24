@@ -1,0 +1,91 @@
+= 9A.08 - Principles of liability.
+:toc:
+
+== 9A.08.010 - General requirements of culpability.
+. Kinds of Culpability Defined.
+
+.. INTENT. A person acts with intent or intentionally when he or she acts with the objective or purpose to accomplish a result which constitutes a crime.
+
+.. KNOWLEDGE. A person knows or acts knowingly or with knowledge when:
+
+... He or she is aware of a fact, facts, or circumstances or result described by a statute defining an offense; or
+
+... He or she has information which would lead a reasonable person in the same situation to believe that facts exist which facts are described by a statute defining an offense.
+
+.. RECKLESSNESS. A person is reckless or acts recklessly when he or she knows of and disregards a substantial risk that a wrongful act may occur and his or her disregard of such substantial risk is a gross deviation from conduct that a reasonable person would exercise in the same situation.
+
+.. CRIMINAL NEGLIGENCE. A person is criminally negligent or acts with criminal negligence when he or she fails to be aware of a substantial risk that a wrongful act may occur and his or her failure to be aware of such substantial risk constitutes a gross deviation from the standard of care that a reasonable person would exercise in the same situation.
+
+. Substitutes for Criminal Negligence, Recklessness, and Knowledge. When a statute provides that criminal negligence suffices to establish an element of an offense, such element also is established if a person acts intentionally, knowingly, or recklessly. When recklessness suffices to establish an element, such element also is established if a person acts intentionally or knowingly. When acting knowingly suffices to establish an element, such element also is established if a person acts intentionally.
+
+. Culpability as Determinant of Grade of Offense. When the grade or degree of an offense depends on whether the offense is committed intentionally, knowingly, recklessly, or with criminal negligence, its grade or degree shall be the lowest for which the determinative kind of culpability is established with respect to any material element of the offense.
+
+. Requirement of Wilfulness Satisfied by Acting Knowingly. A requirement that an offense be committed wilfully is satisfied if a person acts knowingly with respect to the material elements of the offense, unless a purpose to impose further requirements plainly appears.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5038.SL.pdf?cite=2009%20c%20549%20§%201002[2009 c 549 § 1002]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.08.010[1975 1st ex.s. c 260 § 9A.08.010]; ]
+
+== 9A.08.020 - Liability for conduct of another—Complicity.
+. A person is guilty of a crime if it is committed by the conduct of another person for which he or she is legally accountable.
+
+. A person is legally accountable for the conduct of another person when:
+
+.. Acting with the kind of culpability that is sufficient for the commission of the crime, he or she causes an innocent or irresponsible person to engage in such conduct; or
+
+.. He or she is made accountable for the conduct of such other person by this title or by the law defining the crime; or
+
+.. He or she is an accomplice of such other person in the commission of the crime.
+
+. A person is an accomplice of another person in the commission of a crime if:
+
+.. With knowledge that it will promote or facilitate the commission of the crime, he or she:
+
+... Solicits, commands, encourages, or requests such other person to commit it; or
+
+... Aids or agrees to aid such other person in planning or committing it; or
+
+.. His or her conduct is expressly declared by law to establish his or her complicity.
+
+. A person who is legally incapable of committing a particular crime himself or herself may be guilty thereof if it is committed by the conduct of another person for which he or she is legally accountable, unless such liability is inconsistent with the purpose of the provision establishing his or her incapacity.
+
+. Unless otherwise provided by this title or by the law defining the crime, a person is not an accomplice in a crime committed by another person if:
+
+.. He or she is a victim of that crime; or
+
+.. He or she terminates his or her complicity prior to the commission of the crime, and either gives timely warning to the law enforcement authorities or otherwise makes a good faith effort to prevent the commission of the crime.
+
+. A person legally accountable for the conduct of another person may be convicted on proof of the commission of the crime and of his or her complicity therein, though the person claimed to have committed the crime has not been prosecuted or convicted or has been convicted of a different crime or degree of crime or has an immunity to prosecution or conviction or has been acquitted.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20351[2011 c 336 § 351]; 1975-'76 2nd ex.s. c 38 § 1; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.08.020[1975 1st ex.s. c 260 § 9A.08.020]; ]
+
+== 9A.08.030 - Entity and personal liability.
+. As used in this section:
+
+.. "Agent" means any director, officer, or employee of an entity, or any other person who is authorized to act on behalf of the entity;
+
+.. "Entity" includes any domestic entity formed under or governed as to its internal affairs by Title 23, 23B, 24, or 25 RCW or any foreign business entity formed under or governed as to its internal affairs by the laws of a jurisdiction other than this state;
+
+.. "Governor" has the same meaning as provided in RCW 23.95.105.
+
+.. "High managerial agent" means a governor or person in a position of comparable authority in an entity not governed by chapter 23.95 RCW, and any other agent who manages subordinate employees.
+
+. An entity is guilty of an offense when:
+
+.. The conduct constituting the offense consists of an omission to discharge a specific duty of performance imposed on entities by law; or
+
+.. The conduct constituting the offense is engaged in, authorized, solicited, requested, commanded, or tolerated by a high managerial agent acting within the scope of his or her duties and on behalf of the entity; or
+
+.. The conduct constituting the offense is engaged in by an agent of the entity, other than a high managerial agent, while acting within the scope of his or her duties and on behalf of the entity and (i) the offense is a gross misdemeanor or misdemeanor, or (ii) the offense is one defined by a statute which clearly indicates a legislative intent to impose such criminal liability on an entity.
+
+. A person is criminally liable for conduct constituting an offense which he or she performs or causes to be performed in the name of or on behalf of an entity to the same extent as if such conduct were performed in his or her own name or behalf.
+
+. Whenever a duty to act is imposed by law upon an entity, any agent of the entity who knows he or she has or shares primary responsibility for the discharge of the duty is criminally liable for a reckless omission or, if a high managerial agent, criminally negligent omission to perform the required act to the same extent as if the duty were by law imposed directly upon such agent.
+
+. Every entity, whether foreign or domestic, which shall violate any provision of RCW 9A.28.040, shall forfeit every right and franchise to do business in this state. The attorney general shall begin and conduct all actions and proceedings necessary to enforce the provisions of this subsection.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1252.SL.pdf?cite=2019%20c%20211%20§%202[2019 c 211 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20352[2011 c 336 § 352]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.08.030[1975 1st ex.s. c 260 § 9A.08.030]; ]
+
+== 9A.08.040 - Diminished capacity—Victim identity.
+A defendant does not suffer from diminished capacity based on the discovery of, knowledge about, or potential disclosure of the victim's actual or perceived gender, gender identity, gender expression, or sexual orientation, including under circumstances in which the victim made an unwanted nonforcible romantic or sexual advance towards the defendant, or in which the defendant and victim dated or had a romantic or sexual relationship.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1687.SL.pdf?cite=2020%20c%203%20§%201[2020 c 3 § 1]; ]
+

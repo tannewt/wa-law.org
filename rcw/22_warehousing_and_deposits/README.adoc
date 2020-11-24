@@ -1,0 +1,6 @@
+= 22 WAREHOUSING AND DEPOSITS
+
+* link:22.09_agricultural_commodities.adoc[22.09 - Agricultural commodities.]
+* link:22.16_warehouses_and_elevators—eminent_domain.adoc[22.16 - Warehouses and elevators—Eminent domain.]
+* link:22.28_safe_deposit_companies.adoc[22.28 - Safe deposit companies.]
+* link:22.32_general_penalties.adoc[22.32 - General penalties.]

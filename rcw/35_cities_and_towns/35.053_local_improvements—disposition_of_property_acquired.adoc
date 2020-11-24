@@ -1,0 +1,60 @@
+= 35.53 - Local improvements—Disposition of property acquired.
+:toc:
+
+== 35.53.010 - Property to be held in trust—Taxability.
+Property bid in by the city or town or struck off to it pursuant to proceedings for the foreclosure of local improvement assessment liens shall be held in trust by the city or town for the fund of the improvement district or the revenue bond fund into which assessments in utility local improvement districts are pledged to be paid for the benefit of which the property was sold. Any property so held in trust shall be exempt from taxation for general state, county and municipal purposes during the period that it is so held.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c52.pdf?cite=1967%20c%2052%20§%2020[1967 c 52 § 20]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.53.010[1965 c 7 § 35.53.010]; 1933 c 107 § 1, part; 1927 c 275 § 3, part; 1911 c 98 § 31, part; RRS § 9383, part; ]
+
+== 35.53.020 - Discharge of trust.
+The city or town may relieve itself of its trust relation to a local improvement district fund or revenue bond fund into which utility local improvement assessments are pledged to be paid as to any lot, tract, or parcel of property by paying into the fund the amount of the delinquent assessment for which the property was sold and all accrued interest, together with interest to the time of the next call of bonds or warrants against such fund at the rate provided thereon. Upon such payment the city or town shall hold the property discharged of the trust.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c52.pdf?cite=1967%20c%2052%20§%2021[1967 c 52 § 21]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.53.020[1965 c 7 § 35.53.020]; 1933 c 107 § 1, part; 1927 c 275 § 3, part; 1911 c 98 § 31, part; RRS § 9383, part; ]
+
+== 35.53.030 - Sale or lease of trust property.
+A city or town may lease or sell and convey any such property held in trust by it, by virtue of the conveyance thereof to it by a local improvement assessment deed. The sale may be public or private and for such price and upon such terms as may be determined by resolution of the council, any provisions of law, charter, or ordinance to the contrary notwithstanding. After first reimbursing any funds which may have advanced moneys on account of any lot, tract, or parcel, all proceeds resulting from lease or sale thereof shall ratably belong and be paid into the funds of the local improvement concerned.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.53.030[1965 c 7 § 35.53.030]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1927c275.pdf?cite=1927%20c%20275%20§%204[1927 c 275 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1911c98.pdf?cite=1911%20c%2098%20§%2032[1911 c 98 § 32]; RRS § 9384; ]
+
+== 35.53.040 - Termination of trust in certain property.
+A city or town which has heretofore acquired or hereafter acquires any property through foreclosure of delinquent assessments for local improvements initiated or proceedings commenced before June 8, 1927, may terminate its trust therein by an action in the superior court, if all the bonds and warrants outstanding in the local improvement district in which the assessments were levied are delinquent.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.53.040[1965 c 7 § 35.53.040]; 1929 c 142 § 1, part; RRS § 9384-1, part; ]
+
+== 35.53.050 - Termination of trust in certain property—Complaint—Allegations.
+The complaint in any such action by a city or town to terminate its trust in property acquired at a local improvement assessment sale shall set forth:
+
+. The number of the local improvement district or utility local improvement district,
+
+. The bonds and warrants owing thereby,
+
+. The owners thereof or that the owners are unknown,
+
+. A description of the assets of the district with the estimated value thereof,
+
+. The amount of the assessments, including penalty and interest, of any other local improvement districts or utility local improvement districts which are a lien upon the same property,
+
+. The amount of the bonds and warrants owing by such other districts and the names of the owners thereof unless they are unknown, except where the bonds and warrants are guaranteed by a local improvement guaranty fund or pursuant to any other form of guaranty authorized by law.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c52.pdf?cite=1967%20c%2052%20§%2022[1967 c 52 § 22]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.53.050[1965 c 7 § 35.53.050]; 1929 c 142 § 1, part; RRS § 9384-1, part; ]
+
+== 35.53.060 - Termination of trust in certain property—Property—Parties—Summons.
+Two or more delinquent districts and all property, bonds and warrants therein may be included in one action to terminate the trust.
+
+All persons owning any bonds or warrants of the districts involved in the action or having an interest therein shall be made parties defendant except in cases where the bonds or warrants are guaranteed by a local improvement guaranty fund or pursuant to any other form of guaranty authorized by law.
+
+Summons shall be served as in other actions. Unknown owners and unknown parties shall be served by publication.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.53.060[1965 c 7 § 35.53.060]; 1929 c 142 § 1, part; RRS § 9384-1, part; ]
+
+== 35.53.070 - Termination of trust in certain property—Receivership—Regulations.
+In such an action the court after acquiring jurisdiction shall proceed as in the case of a receivership except that the city or town shall serve as trustee in lieu of a receiver.
+
+The assets of the improvement districts involved shall be sold at such prices and in such manner as the court may deem advisable and be applied to the costs and expenses of the action and the liquidation of the bonds and warrants of the districts or revenue bonds to which utility local improvement assessments are pledged to pay.
+
+No notice to present claims other than the summons in the action shall be necessary. Any claim presented shall be accompanied by the bonds and warrants upon which it is based. Dividends upon any bonds or warrants for which no claim was filed shall be paid into the general fund of the city or town, but the owner thereof may obtain it at any time within five years thereafter upon surrender and cancellation of his or her bonds and warrants.
+
+Upon the termination of the receivership the city or town shall be discharged from all trusts relating to the property, funds, bonds, and warrants involved in the action.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5038.SL.pdf?cite=2009%20c%20549%20§%202091[2009 c 549 § 2091]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c52.pdf?cite=1967%20c%2052%20§%2023[1967 c 52 § 23]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.53.070[1965 c 7 § 35.53.070]; 1929 c 142 § 1, part; RRS § 9384-1, part; ]
+

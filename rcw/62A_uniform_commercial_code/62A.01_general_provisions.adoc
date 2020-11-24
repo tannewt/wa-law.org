@@ -1,0 +1,371 @@
+= 62A.1 - General provisions.
+:toc:
+
+== 62A.1-101 - Short titles.
+.. This title may be cited as the Uniform Commercial Code.
+
+.. This Article may be cited as Uniform Commercial Code—General Provisions.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2197-S.SL.pdf?cite=2012%20c%20214%20§%20101[2012 c 214 § 101]; 1965 ex.s. c 157 § 1-101; ]
+
+== 62A.1-102 - Scope of Article.
+This Article applies to a transaction to the extent that it is governed by another article of this title.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2197-S.SL.pdf?cite=2012%20c%20214%20§%20102[2012 c 214 § 102]; 1965 ex.s. c 157 § 1-102. Cf. former RCW sections:  RCW  22.04.580; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1913c99.pdf?cite=1913%20c%2099%20§%2057[1913 c 99 § 57]; RRS § 3643.  RCW  23.80.190; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1939c100.pdf?cite=1939%20c%20100%20§%2019[1939 c 100 § 19]; RRS § 3803-119. (iii) RCW  63.04.745; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1925ex1c142.pdf?cite=1925%20ex.s.%20c%20142%20§%2074[1925 ex.s. c 142 § 74]; RRS § 5836-74; formerly RCW  63.04.770. (iv) RCW  81.32.521; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c14.pdf?cite=1961%20c%2014%20§%2081.32.521[1961 c 14 § 81.32.521]; prior:  1915 c 159 § 52; RRS § 3698; formerly RCW  81.32.610; ]
+
+== 62A.1-103 - Construction of uniform commercial code to promote its purposes and policies; applicability of supplemental principles of law.
+.. This title must be liberally construed and applied to promote its underlying purposes and policies, which are:
+
+. To simplify, clarify, and modernize the law governing commercial transactions;
+
+. To permit the continued expansion of commercial practices through custom, usage, and agreement of the parties; and
+
+. To make uniform the law among the various jurisdictions.
+
+.. Unless displaced by the particular provisions of this title, the principles of law and equity, including the law merchant and the law relative to capacity to contract, principal and agent, estoppel, fraud, misrepresentation, duress, coercion, mistake, bankruptcy, and other validating or invalidating cause supplement its provisions.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2197-S.SL.pdf?cite=2012%20c%20214%20§%20103[2012 c 214 § 103]; 1965 ex.s. c 157 § 1-103. Cf. former RCW sections:  RCW  22.04.570; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1913c99.pdf?cite=1913%20c%2099%20§%2056[1913 c 99 § 56]; RRS § 3642.  RCW  23.80.180; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1939c100.pdf?cite=1939%20c%20100%20§%2018[1939 c 100 § 18]; RRS § 3803-118; formerly RCW  23.20.190. (iii) RCW  62.01.196; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c35.pdf?cite=1955%20c%2035%20§%20196[1955 c 35 § 196]; RRS § 3586. (iv) RCW  63.04.030; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1925ex1c142.pdf?cite=1925%20ex.s.%20c%20142%20§%202[1925 ex.s. c 142 § 2]; RRS § 5836-2. (v) RCW  81.32.511; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c14.pdf?cite=1961%20c%2014%20§%2081.32.511[1961 c 14 § 81.32.511]; prior:  1915 c 159 § 51; RRS § 3697; formerly RCW  81.32.600; ]
+
+== 62A.1-104 - Construction against implied repeal.
+This title being a general act intended as a unified coverage of its subject matter, no part of it shall be deemed to be impliedly repealed by subsequent legislation if such construction can reasonably be avoided.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2197-S.SL.pdf?cite=2012%20c%20214%20§%20104[2012 c 214 § 104]; 1965 ex.s. c 157 § 1-104; ]
+
+== 62A.1-105 - Severability.
+If any provision or clause of this title or its application to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of this title which can be given effect without the invalid provision or application, and to this end the provisions of this title are severable.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2197-S.SL.pdf?cite=2012%20c%20214%20§%20105[2012 c 214 § 105]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5053.SL.pdf?cite=2001%20c%2032%20§%208[2001 c 32 § 8]; 2000 c 250 § 9A-801; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1799-S.SL.pdf?cite=1997%20c%2056%20§%2019[1997 c 56 § 19]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5335-S.SL.pdf?cite=1995%20c%2048%20§%2054[1995 c 48 § 54]; 1993 c 395 § 6-102; 1993 c 230 § 2A-601; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c41.pdf?cite=1981%20c%2041%20§%201[1981 c 41 § 1]; 1965 ex.s. c 157 § 1-105; ]
+
+== 62A.1-106 - Use of singular and plural; gender.
+In this title, unless the statutory context otherwise requires:
+
+. Words in the singular number include the plural, and those in the plural include the singular; and
+
+. Words of any gender also refer to any other gender.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2197-S.SL.pdf?cite=2012%20c%20214%20§%20106[2012 c 214 § 106]; 1965 ex.s. c 157 § 1-106. Cf. former: RCW  63.04.730; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1925ex1c142.pdf?cite=1925%20ex.s.%20c%20142%20§%2072[1925 ex.s. c 142 § 72]; RRS § 5836-72; ]
+
+== 62A.1-107 - Section captions.
+Section captions are part of this title.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2197-S.SL.pdf?cite=2012%20c%20214%20§%20107[2012 c 214 § 107]; 1965 ex.s. c 157 § 1-107. Cf. former RCW sections:  RCW  62.01.119(3); http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c35.pdf?cite=1955%20c%2035%20§%2062.01.119[1955 c 35 § 62.01.119]; prior:  1899 c 149 § 119; RRS § 3509.  RCW  62.01.120; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c35.pdf?cite=1955%20c%2035%20§%2062.01.120[1955 c 35 § 62.01.120]; prior:  1899 c 149 § 120; RRS § 3510. (iii) RCW  62.01.122; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c35.pdf?cite=1955%20c%2035%20§%2062.01.122[1955 c 35 § 62.01.122]; prior:  1899 c 149 § 122; RRS § 3512; ]
+
+== 62A.1-108 - Relation to electronic signatures in global and national commerce act.
+Except as provided in this section, this Article modifies, limits, and supersedes the federal electronic signatures in global and national commerce act, 15 U.S.C. Sec. 7001 et seq., except that nothing in this Article modifies, limits, or supersedes section 7001(c) of that act, and nothing in this section either authorizes or prohibits electronic delivery of any of the notices described in section 7003(b) of that act. This section does not modify, limit, or supersede application of the federal electronic signatures in global and national commerce act, 15 U.S.C. Sec. 7001 et seq., to transactions governed by Article 2 or 2A of this title.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2197-S.SL.pdf?cite=2012%20c%20214%20§%20108[2012 c 214 § 108]; 1965 ex.s. c 157 § 1-108. Cf. former RCW  62.98.030; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c35.pdf?cite=1955%20c%2035%20§%2062.98.030[1955 c 35 § 62.98.030]; ]
+
+== 62A.1-110 - Art dealers and artists—Contracts—Duties, etc.
+Chapter 18.110 RCW shall control over any conflicting provision of this title.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c33.pdf?cite=1981%20c%2033%20§%207[1981 c 33 § 7]; ]
+
+== 62A.1-190 - Construction—Title applicable to state registered domestic partnerships—2009 c 521.
+For the purposes of this title, the terms spouse, marriage, marital, husband, wife, widow, widower, next of kin, and family shall be interpreted as applying equally to state registered domestic partnerships or individuals in state registered domestic partnerships as well as to marital relationships and married persons, and references to dissolution of marriage shall apply equally to state registered domestic partnerships that have been terminated, dissolved, or invalidated, to the extent that such interpretation does not conflict with federal law. Where necessary to implement chapter 521, Laws of 2009, gender-specific terms such as husband and wife used in any statute, rule, or other law shall be construed to be gender neutral, and applicable to individuals in state registered domestic partnerships.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5688-S2.SL.pdf?cite=2009%20c%20521%20§%20143[2009 c 521 § 143]; ]
+
+== 62A.1-201 - General definitions.
+.. Unless the context otherwise requires, words or phrases defined in this section, or in the additional definitions contained in other articles of this title that apply to particular articles or parts thereof, have the meanings stated.
+
+.. Subject to definitions contained in other articles of this title that apply to particular articles or parts thereof:
+
+. "Action," in the sense of a judicial proceeding, includes recoupment, counterclaim, set-off, suit in equity, and any other proceeding in which rights are determined.
+
+. "Aggrieved party" means a party entitled to pursue a remedy.
+
+. "Agreement," as distinguished from "contract," means the bargain of the parties in fact, as found in their language or inferred from other circumstances, including course of performance, course of dealing, or usage of trade as provided in RCW 62A.1-303. 
+
+. "Bank" means a person engaged in the business of banking and includes a savings bank, savings and loan association, credit union, and trust company.
+
+. "Bearer" means a person in control of a negotiable electronic document of title or a person in possession of a negotiable instrument, negotiable tangible document of title, or certificated security that is payable to bearer or indorsed in blank.
+
+. "Bill of lading" means a document of title evidencing the receipt of goods for shipment issued by a person engaged in the business of directly or indirectly transporting or forwarding goods. The term does not include a warehouse receipt.
+
+. "Branch" includes a separately incorporated foreign branch of a bank.
+
+. "Burden of establishing" a fact means the burden of persuading the trier of fact that the existence of the fact is more probable than its nonexistence.
+
+. "Buyer in ordinary course of business" means a person that buys goods in good faith, without knowledge that the sale violates the rights of another person in the goods, and in the ordinary course from a person, other than a pawnbroker, in the business of selling goods of that kind. A person buys goods in the ordinary course if the sale to the person comports with the usual or customary practices in the kind of business in which the seller is engaged or with the seller's own usual or customary practices. A person that sells oil, gas, or other minerals at the wellhead or minehead is a person in the business of selling goods of that kind. A buyer in ordinary course of business may buy for cash, by exchange of other property, or on secured or unsecured credit, and may acquire goods or documents of title under a preexisting contract for sale. Only a buyer that takes possession of the goods or has a right to recover the goods from the seller under Article 2 of this title may be a buyer in ordinary course of business. "Buyer in ordinary course of business" does not include a person that acquires goods in a transfer in bulk or as security for or in total or partial satisfaction of a money debt.
+
+. "Conspicuous," with reference to a term, means so written, displayed, or presented that a reasonable person against which it is to operate ought to have noticed it. Whether a term is "conspicuous" or not is a decision for the court. Conspicuous terms include the following:
+
+(A) A heading in capitals equal to or greater in size than the surrounding text, or in contrasting type, font, or color to the surrounding text of the same or lesser size; and
+
+(B) Language in the body of a record or display in larger type than the surrounding text, or in contrasting type, font, or color to the surrounding text of the same size, or set off from surrounding text of the same size by symbols or other marks that call attention to the language.
+
+. "Consumer" means an individual who enters into a transaction primarily for personal, family, or household purposes.
+
+. "Contract," as distinguished from "agreement," means the total legal obligation that results from the parties' agreement as determined by this title as supplemented by any other applicable laws.
+
+. "Creditor" includes a general creditor, a secured creditor, a lien creditor, and any representative of creditors, including an assignee for the benefit of creditors, a trustee in bankruptcy, a receiver in equity, and an executor or administrator of an insolvent debtor's or assignor's estate.
+
+. "Defendant" includes a person in the position of defendant in a counterclaim, cross-claim, or third-party claim.
+
+. "Delivery," with respect to an electronic document of title means voluntary transfer of control and with respect to an instrument, a tangible document of title, or chattel paper, means voluntary transfer of possession.
+
+. "Document of title" means a record (i) that in the regular course of business or financing is treated as adequately evidencing that the person in possession or control of the record is entitled to receive, control, hold, and dispose of the record and the goods the record covers and (ii) that purports to be issued by or addressed to a bailee and to cover goods in the bailee's possession which are either identified or are fungible portions of an identified mass. The term includes a bill of lading, transport document, dock warrant, dock receipt, warehouse receipt, and order for delivery of goods. An electronic document of title means a document of title evidenced by a record consisting of information stored in an electronic medium. A tangible document of title means a document of title evidenced by a record consisting of information that is inscribed on a tangible medium.
+
+. "Fault" means a default, breach, or wrongful act or omission.
+
+. "Fungible goods" means:
+
+(A) Goods of which any unit, by nature or usage of trade, is the equivalent of any other like unit; or
+
+(B) Goods that by agreement are treated as equivalent.
+
+. "Genuine" means free of forgery or counterfeiting.
+
+. "Good faith," except as otherwise provided in Article 5 of this title, means honesty in fact and the observance of reasonable commercial standards of fair dealing.
+
+. "Holder" with respect to a negotiable instrument, means:
+
+(A) The person in possession of a negotiable instrument that is payable either to bearer or to an identified person that is the person in possession;
+
+(B) The person in possession of a negotiable tangible document of title if the goods are deliverable either to bearer or to the order of the person in possession; or
+
+(C) The person in control of a negotiable electronic document of title.
+
+. "Insolvency proceeding" includes an assignment for the benefit of creditors or other proceeding intended to liquidate or rehabilitate the estate of the person involved.
+
+. "Insolvent" means:
+
+(A) Having generally ceased to pay debts in the ordinary course of business other than as a result of bona fide dispute;
+
+(B) Being unable to pay debts as they become due; or
+
+(C) Being insolvent within the meaning of federal bankruptcy law.
+
+. "Money" means a medium of exchange currently authorized or adopted by a domestic or foreign government. The term includes a monetary unit of account established by an intergovernmental organization or by agreement between two or more countries.
+
+. "Organization" means a person other than an individual.
+
+. "Party," as distinguished from "third party," means a person that has engaged in a transaction or made an agreement subject to this title.
+
+. "Person" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, government, governmental subdivision, agency, or instrumentality, public corporation, or any other legal or commercial entity.
+
+. "Present value" means the amount as of a date certain of one or more sums payable in the future, discounted to the date certain by use of either an interest rate specified by the parties if that rate is not manifestly unreasonable at the time the transaction is entered into or, if an interest rate is not so specified, a commercially reasonable rate that takes into account the facts and circumstances at the time the transaction is entered into.
+
+. "Purchase" means taking by sale, lease, discount, negotiation, mortgage, pledge, lien, security interest, issue or reissue, gift, or any other voluntary transaction creating an interest in property.
+
+. "Purchaser" means a person that takes by purchase.
+
+. "Record" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.
+
+. "Remedy" means any remedial right to which an aggrieved party is entitled with or without resort to a tribunal.
+
+. "Representative" means a person empowered to act for another, including an agent, an officer of a corporation or association, and a trustee, executor, or administrator of an estate.
+
+. "Right" includes remedy.
+
+. "Security interest" means an interest in personal property or fixtures which secures payment or performance of an obligation. "Security interest" includes any interest of a consignor and a buyer of accounts, chattel paper, a payment intangible, or a promissory note in a transaction that is subject to Article 9A of this title. "Security interest" does not include the special property interest of a buyer of goods on identification of those goods to a contract for sale under RCW 62A.2-401, but a buyer may also acquire a "security interest" by complying with Article 9A of this title. Except as otherwise provided in RCW 62A.2-505, the right of a seller or lessor of goods under Article 2 or 2A of this title to retain or acquire possession of the goods is not a "security interest," but a seller or lessor may also acquire a "security interest" by complying with Article 9A of this title. The retention or reservation of title by a seller of goods notwithstanding shipment or delivery to the buyer under RCW 62A.2-401 is limited in effect to a reservation of a "security interest." Whether a transaction in the form of a lease creates a "security interest" is determined pursuant to RCW 62A.1-203.
+
+. "Send" in connection with a writing, record, or notice means:
+
+(A) To deposit in the mail or deliver for transmission by any other usual means of communication with postage or cost of transmission provided for and properly addressed and, in the case of an instrument, to an address specified thereon or otherwise agreed, or if there be none to any address reasonable under the circumstances; or
+
+(B) In any other way to cause to be received any record or notice within the time it would have arrived if properly sent.
+
+. "Signed" includes using any symbol executed or adopted with present intention to adopt or accept a writing.
+
+. "State" means a State of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States.
+
+. "Surety" includes a guarantor or other secondary obligor.
+
+. "Term" means a portion of an agreement that relates to a particular matter.
+
+. "Unauthorized signature" means a signature made without actual, implied, or apparent authority. The term includes a forgery.
+
+. "Warehouse receipt" means a document of title issued by a person engaged in the business of storing goods for hire.
+
+. "Writing" includes printing, typewriting, or any other intentional reduction to tangible form. "Written" has a corresponding meaning.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2197-S.SL.pdf?cite=2012%20c%20214%20§%20109[2012 c 214 § 109]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5053.SL.pdf?cite=2001%20c%2032%20§%209[2001 c 32 § 9]; 2000 c 250 § 9A-802; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1182-S2.SL.pdf?cite=1996%20c%2077%20§%201[1996 c 77 § 1]; 1993 c 230 § 2A-602; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1014-S.SL.pdf?cite=1993%20c%20229%20§%201[1993 c 229 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2299-S.SL.pdf?cite=1992%20c%20134%20§%2014[1992 c 134 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c228.pdf?cite=1990%20c%20228%20§%201[1990 c 228 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c35.pdf?cite=1986%20c%2035%20§%2053[1986 c 35 § 53]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c41.pdf?cite=1981%20c%2041%20§%202[1981 c 41 § 2]; 1965 ex.s. c 157 § 1-201; ]
+
+== 62A.1-202 - Notice; knowledge.
+.. Subject to subsection (f) of this section, a person has "notice" of a fact if the person:
+
+. Has actual knowledge of it;
+
+. Has received a notice or notification of it; or
+
+. From all the facts and circumstances known to the person at the time in question, has reason to know that it exists.
+
+.. "Knowledge" means actual knowledge. "Knows" has a corresponding meaning.
+
+.. "Discover," "learn," or words of similar import refer to knowledge rather than to reason to know.
+
+.. A person "notifies" or "gives" a notice or notification to another person by taking such steps as may be reasonably required to inform the other person in ordinary course, whether or not the other person actually comes to know of it.
+
+.. Subject to subsection (f) of this section, a person "receives" a notice or notification when:
+
+. It comes to that person's attention; or
+
+. It is duly delivered in a form reasonable under the circumstances at the place of business through which the contract was made or at another location held out by that person as the place for receipt of such communications.
+
+.. Notice, knowledge, or a notice or notification received by an organization is effective for a particular transaction from the time it is brought to the attention of the individual conducting that transaction and, in any event, from the time it would have been brought to the individual's attention if the organization had exercised due diligence. An organization exercises due diligence if it maintains reasonable routines for communicating significant information to the person conducting the transaction and there is reasonable compliance with the routines. Due diligence does not require an individual acting for the organization to communicate information unless the communication is part of the individual's regular duties or the individual has reason to know of the transaction and that the transaction would be materially affected by the information.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2197-S.SL.pdf?cite=2012%20c%20214%20§%20110[2012 c 214 § 110]; 1965 ex.s. c 157 § 1-202; ]
+
+== 62A.1-203 - Lease distinguished from security interest.
+.. Whether a transaction in the form of a lease creates a lease or security interest is determined by the facts of each case.
+
+.. A transaction in the form of a lease creates a security interest if the consideration that the lessee is to pay the lessor for the right to possession and use of the goods is an obligation for the term of the lease and is not subject to termination by the lessee, and:
+
+. The original term of the lease is equal to or greater than the remaining economic life of the goods;
+
+. The lessee is bound to renew the lease for the remaining economic life of the goods or is bound to become the owner of the goods;
+
+. The lessee has an option to renew the lease for the remaining economic life of the goods for no additional consideration or for nominal additional consideration upon compliance with the lease agreement; or
+
+. The lessee has an option to become the owner of the goods for no additional consideration or for nominal additional consideration upon compliance with the lease agreement.
+
+.. A transaction in the form of a lease does not create a security interest merely because:
+
+. The present value of the consideration the lessee is obligated to pay the lessor for the right to possession and use of the goods is substantially equal to or is greater than the fair market value of the goods at the time the lease is entered into;
+
+. The lessee assumes risk of loss of the goods;
+
+. The lessee agrees to pay, with respect to the goods, taxes, insurance, filing, recording, or registration fees, or service or maintenance costs;
+
+. The lessee has an option to renew the lease or to become the owner of the goods;
+
+. The lessee has an option to renew the lease for a fixed rent that is equal to or greater than the reasonably predictable fair market rent for the use of the goods for the term of the renewal at the time the option is to be performed;
+
+. The lessee has an option to become the owner of the goods for a fixed price that is equal to or greater than the reasonably predictable fair market value of the goods at the time the option is to be performed; or
+
+. The amount of rental payments may or will be increased or decreased by reference to the amount realized by the lessor upon sale or disposition of the goods.
+
+.. Additional consideration is nominal if it is less than the lessee's reasonably predictable cost of performing under the lease agreement if the option is not exercised. Additional consideration is not nominal if:
+
+. When the option to renew the lease is granted to the lessee, the rent is stated to be the fair market rent for the use of the goods for the term of the renewal determined at the time the option is to be performed; or
+
+. When the option to become the owner of the goods is granted to the lessee, the price is stated to be the fair market value of the goods determined at the time the option is to be performed.
+
+.. The "remaining economic life of the goods" and "reasonably predictable" fair market rent, fair market value, or cost of performing under the lease agreement must be determined with reference to the facts and circumstances at the time the transaction is entered into.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5032.SL.pdf?cite=2015%20c%20107%20§%201[2015 c 107 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2197-S.SL.pdf?cite=2012%20c%20214%20§%20111[2012 c 214 § 111]; 1965 ex.s. c 157 § 1-203; ]
+
+== 62A.1-204 - Value.
+Except as otherwise provided in Articles 3, 4, and 5 of this title, a person gives value for rights if the person acquires them:
+
+. In return for a binding commitment to extend credit or for the extension of immediately available credit, whether or not drawn upon and whether or not a charge-back is provided for in the event of difficulties in collection;
+
+. As security for, or in total or partial satisfaction of, a preexisting claim;
+
+. By accepting delivery under a preexisting contract for purchase; or
+
+. In return for any consideration sufficient to support a simple contract.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2197-S.SL.pdf?cite=2012%20c%20214%20§%20112[2012 c 214 § 112]; 1965 ex.s. c 157 § 1-204; ]
+
+== 62A.1-205 - Reasonable time; seasonableness.
+.. Whether a time for taking an action required by this title is reasonable depends on the nature, purpose, and circumstances of the action.
+
+.. An action is taken seasonably if it is taken at or within the time agreed or, if no time is agreed, at or within a reasonable time.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2197-S.SL.pdf?cite=2012%20c%20214%20§%20113[2012 c 214 § 113]; 1965 ex.s. c 157 § 1-205. Cf. former RCW sections:  RCW  63.04.100; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1925ex1c142.pdf?cite=1925%20ex.s.%20c%20142%20§%209[1925 ex.s. c 142 § 9]; RRS § 5836-9.  RCW  63.04.160(5); http://leg.wa.gov/CodeReviser/documents/sessionlaw/1925ex1c142.pdf?cite=1925%20ex.s.%20c%20142%20§%2015[1925 ex.s. c 142 § 15]; RRS § 5836-15. (iii) RCW  63.04.190; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1925ex1c142.pdf?cite=1925%20ex.s.%20c%20142%20§%2018[1925 ex.s. c 142 § 18]; RRS § 5836-18. (iv) RCW  63.04.720; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1925ex1c142.pdf?cite=1925%20ex.s.%20c%20142%20§%2071[1925 ex.s. c 142 § 71]; RRS § 5836-71; ]
+
+== 62A.1-206 - Presumptions.
+Whenever this title creates a "presumption" with respect to a fact, or provides that a fact is "presumed," the trier of fact must find the existence of the fact unless and until evidence is introduced that supports a finding of its nonexistence.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2197-S.SL.pdf?cite=2012%20c%20214%20§%20114[2012 c 214 § 114]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5335-S.SL.pdf?cite=1995%20c%2048%20§%2055[1995 c 48 § 55]; 1965 ex.s. c 157 § 1-206. Cf. former RCW  63.04.050; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1925ex1c142.pdf?cite=1925%20ex.s.%20c%20142%20§%204[1925 ex.s. c 142 § 4]; RRS § 5836-4; prior: Code 1881 § 2326; ]
+
+== 62A.1-301 - Territorial applicability; parties' power to choose applicable law.
+.. Except as otherwise provided in this section, when a transaction bears a reasonable relation to this state and also to another state or nation the parties may agree that the law either of this state or of such other state or nation shall govern their rights and duties.
+
+.. In the absence of an agreement effective under subsection (a) of this section, and except as provided in subsection (c) of this section, this title applies to transactions bearing an appropriate relation to this state.
+
+.. If one of the following provisions of this title specifies the applicable law, that provision governs and a contrary agreement is effective only to the extent permitted by the law so specified:
+
+. RCW 62A.2-402;
+
+. RCW 62A.2A-105 and 62A.2A-106;
+
+. RCW 62A.4-102;
+
+. RCW 62A.4A-507;
+
+. RCW 62A.5-116;
+
+. RCW 62A.8-110;
+
+. RCW 62A.9A-301 through 62A.9A-307.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2197-S.SL.pdf?cite=2012%20c%20214%20§%20115[2012 c 214 § 115]; ]
+
+== 62A.1-302 - Variation by agreement.
+.. Except as otherwise provided in subsection (b) of this section or elsewhere in this title, the effect of provisions of this title may be varied by agreement.
+
+.. The obligations of good faith, diligence, reasonableness, and care prescribed by this title may not be disclaimed by agreement. The parties, by agreement, may determine the standards by which the performance of those obligations is to be measured if those standards are not manifestly unreasonable. Whenever this title requires an action to be taken within a reasonable time, a time that is not manifestly unreasonable may be fixed by agreement.
+
+.. The presence in certain provisions of this title of the phrase "unless otherwise agreed," or words of similar import, does not imply that the effect of other provisions may not be varied by agreement under this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2197-S.SL.pdf?cite=2012%20c%20214%20§%20116[2012 c 214 § 116]; ]
+
+== 62A.1-303 - Course of performance, course of dealing, and usage of trade.
+.. A "course of performance" is a sequence of conduct between the parties to a particular transaction that exists if:
+
+. The agreement of the parties with respect to the transaction involves repeated occasions for performance by a party; and
+
+. The other party, with knowledge of the nature of the performance and opportunity for objection to it, accepts the performance or acquiesces in it without objection.
+
+.. A "course of dealing" is a sequence of conduct concerning previous transactions between the parties to a particular transaction that is fairly to be regarded as establishing a common basis of understanding for interpreting their expressions and other conduct.
+
+.. A "usage of trade" is any practice or method of dealing having such regularity of observance in a place, vocation, or trade as to justify an expectation that it will be observed with respect to the transaction in question. The existence and scope of such a usage must be proved as facts. If it is established that such a usage is embodied in a trade code or similar record, the interpretation of the record is a question of law.
+
+.. A course of performance or course of dealing between the parties or usage of trade in the vocation or trade in which they are engaged or of which they are or should be aware is relevant in ascertaining the meaning of the parties' agreement, may give particular meaning to specific terms of the agreement, and may supplement or qualify the terms of the agreement. A usage of trade applicable in the place in which part of the performance under the agreement is to occur may be so utilized as to that part of the performance.
+
+.. Except as otherwise provided in subsection (f) of this section, the express terms of an agreement and any applicable course of performance, course of dealing, or usage of trade must be construed whenever reasonable as consistent with each other. If such a construction is unreasonable:
+
+. Express terms prevail over course of performance, course of dealing, and usage of trade;
+
+. Course of performance prevails over course of dealing and usage of trade; and
+
+. Course of dealing prevails over usage of trade.
+
+.. Subject to RCW 62A.2-209 and 62A.2A-208, a course of performance is relevant to show a waiver or modification of any term inconsistent with the course of performance.
+
+.. Evidence of a relevant usage of trade offered by one party is not admissible unless that party has given the other party notice that the court finds sufficient to prevent unfair surprise to the other party.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2197-S.SL.pdf?cite=2012%20c%20214%20§%20117[2012 c 214 § 117]; ]
+
+== 62A.1-304 - Obligation of good faith.
+Every contract or duty within this title imposes an obligation of good faith in its performance and enforcement.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2197-S.SL.pdf?cite=2012%20c%20214%20§%20118[2012 c 214 § 118]; ]
+
+== 62A.1-305 - Remedies to be liberally administered.
+.. The remedies provided by this title must be liberally administered to the end that the aggrieved party may be put in as good a position as if the other party had fully performed but neither consequential or special damages nor penal damages may be had except as specifically provided in this title or by other rule of law.
+
+.. Any right or obligation declared by this title is enforceable by action unless the provision declaring it specifies a different and limited effect.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2197-S.SL.pdf?cite=2012%20c%20214%20§%20119[2012 c 214 § 119]; ]
+
+== 62A.1-306 - Waiver or renunciation of claim or right after breach.
+A claim or right arising out of an alleged breach may be discharged in whole or in part without consideration by agreement of the aggrieved party in an authenticated record.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2197-S.SL.pdf?cite=2012%20c%20214%20§%20120[2012 c 214 § 120]; ]
+
+== 62A.1-307 - Prima facie evidence by third-party documents.
+A document in due form purporting to be a bill of lading, policy or certificate of insurance, official weigher's or inspector's certificate, consular invoice, or any other document authorized or required by the contract to be issued by a third party is prima facie evidence of its own authenticity and genuineness and of the facts stated in the document by the third party.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2197-S.SL.pdf?cite=2012%20c%20214%20§%20121[2012 c 214 § 121]; ]
+
+== 62A.1-308 - Performance or acceptance under reservation of rights.
+.. A party that with explicit reservation of rights performs or promises performance or assents to performance in a manner demanded or offered by the other party does not thereby prejudice the rights reserved. Such words as "without prejudice," "under protest," or the like are sufficient.
+
+.. Subsection (a) of this section does not apply to an accord and satisfaction.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2197-S.SL.pdf?cite=2012%20c%20214%20§%20122[2012 c 214 § 122]; ]
+
+== 62A.1-309 - Option to accelerate at will.
+A term providing that one party or that party's successor in interest may accelerate payment or performance or require collateral or additional collateral "at will" or when the party "deems itself insecure," or words of similar import, means that the party has power to do so only if that party in good faith believes that the prospect of payment or performance is impaired. The burden of establishing lack of good faith is on the party against which the power has been exercised.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2197-S.SL.pdf?cite=2012%20c%20214%20§%20123[2012 c 214 § 123]; ]
+
+== 62A.1-310 - Subordinated obligations.
+An obligation may be issued as subordinated to performance of another obligation of the person obligated, or a creditor may subordinate its right to performance of an obligation by agreement with either the person obligated or another creditor of the person obligated. Subordination does not create a security interest as against either the common debtor or a subordinated creditor.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2197-S.SL.pdf?cite=2012%20c%20214%20§%20124[2012 c 214 § 124]; ]
+

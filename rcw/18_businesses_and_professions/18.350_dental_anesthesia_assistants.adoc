@@ -1,0 +1,83 @@
+= 18.350 - Dental anesthesia assistants.
+:toc:
+
+== 18.350.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Close supervision" has the same meaning as in RCW 18.260.010.
+
+. "Commission" means the dental quality assurance commission established in RCW 18.32.0351.
+
+. "Department" means the department of health.
+
+. "Direct visual supervision" means supervision by an oral and maxillofacial surgeon or dental anesthesiologist by verbal command and under direct line of sight.
+
+. "Oral and maxillofacial surgeon" has the same meaning as in RCW 18.32.020.
+
+. "Secretary" means [the] secretary of health.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5620-S2.SL.pdf?cite=2012%20c%2023%20§%201[2012 c 23 § 1]; ]
+
+== 18.350.020 - Use of title—Certification or registration required.
+. No person may practice or represent himself or herself as a certified dental anesthesia assistant by use of any title or description without being certified by the commission as having met the standards established for certification under this chapter.
+
+. A certified dental anesthesia assistant may not practice or represent himself or herself as a registered dental assistant without being registered by the commission as having met the standards for registration under chapter 18.260 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5620-S2.SL.pdf?cite=2012%20c%2023%20§%202[2012 c 23 § 2]; ]
+
+== 18.350.030 - Application for certification.
+. Each applicant for certification as a dental anesthesia assistant must submit to the department:
+
+.. An application, on a form provided by the department, with the applicant's name, address, and name and location of the oral and maxillofacial surgeon or dental anesthesiologist where the assistant will be performing his or her services;
+
+.. An application fee, as determined by the secretary of health as provided in RCW 43.70.250 and 43.70.280; and
+
+.. Satisfactory evidence of:
+
+... Completion of a commission-approved dental anesthesia assistant training course, to include intravenous access or phlebotomy. This training must include experience starting and maintaining intravenous lines;
+
+... Completion of a commission-approved basic life support/cardiac pulmonary resuscitation course; and
+
+... The valid general anesthesia permit of the oral and maxillofacial surgeon or dental anesthesiologist where the assistant will be performing his or her services.
+
+. The commission may adopt rules for the requirements for renewal of the certification, including continuing education requirements consistent with national oral and maxillofacial surgery requirements.
+
+. The secretary shall establish the administrative procedures, administrative requirements, and fees for renewal of certifications as provided in RCW 43.70.250 and 43.70.280.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5620-S2.SL.pdf?cite=2012%20c%2023%20§%203[2012 c 23 § 3]; ]
+
+== 18.350.040 - Authorized functions—Supervision.
+. Any dental anesthesia assistant certified pursuant to this chapter shall perform the functions authorized in this chapter only by delegation of authority from the oral and maxillofacial surgeon or dental anesthesiologist and under the supervision, as described in subsections (2) and (3) of this section, of the oral and maxillofacial surgeon or dental anesthesiologist acting within the scope of his or her license. The responsibility for monitoring a patient and determining the selection of the drug, dosage, and timing of all anesthetic medications rests solely with the oral and maxillofacial surgeon or dental anesthesiologist.
+
+. Under close supervision, the dental anesthesia assistant may:
+
+.. Initiate and discontinue an intravenous line for a patient being prepared to receive intravenous medications, sedation, or general anesthesia; and
+
+.. Adjust the rate of intravenous fluids infusion only to maintain or keep the line patent or open.
+
+. Under direct visual supervision, the dental anesthesia assistant may:
+
+.. Draw up and prepare medications;
+
+.. Follow instructions to deliver medications into an intravenous line upon verbal command;
+
+.. Adjust the rate of intravenous fluids infusion beyond a keep open rate;
+
+.. Adjust an electronic device to provide medications, such as an infusion pump;
+
+.. Administer emergency medications to a patient in order to assist the oral and maxillofacial surgeon or dental anesthesiologist in an emergency.
+
+. Any oral and maxillofacial surgeon or dental anesthesiologist delegating duties under this section must have a valid general anesthesia permit and, if the dental anesthesia assistant does not possess advanced cardiac life support training, must be current in such training.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5620-S2.SL.pdf?cite=2012%20c%2023%20§%204[2012 c 23 § 4]; ]
+
+== 18.350.050 - Uniform disciplinary act—Application.
+The uniform disciplinary act, chapter 18.130 RCW, governs unlicensed practice, the issuance and denial of certification, and the discipline of certified dental anesthesia assistants under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5620-S2.SL.pdf?cite=2012%20c%2023%20§%205[2012 c 23 § 5]; ]
+
+== 18.350.060 - Limitation of chapter.
+Nothing in this chapter may be construed to prohibit or restrict dental health aide therapist services to the extent authorized under chapter 70.350 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5079-S.SL.pdf?cite=2017%20c%205%20§%207[2017 c 5 § 7]; ]
+

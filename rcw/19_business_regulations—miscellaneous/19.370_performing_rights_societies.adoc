@@ -1,0 +1,96 @@
+= 19.370 - Performing rights societies.
+:toc:
+
+== 19.370.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Copyright owner" means the owner of a copyright of a nondramatic musical work recognized and enforceable under the copyright laws of the United States pursuant to Title 17 of the United States Code (17 U.S.C. Sec. 101 et seq.). "Copyright owner" does not include the owner of a copyright in a motion picture or audiovisual work, or in part of a motion picture or audiovisual work.
+
+. "Music licensing agency" means a performing rights society.
+
+. "Performing rights society" means an association or corporation that licenses the public performance of nondramatic musical works on behalf of copyright owners, such as the American Society of Composers, Authors and Publishers (ASCAP), Broadcast Music, Inc. (BMI), and SESAC, Inc.
+
+. "Proprietor" means the owner of a retail establishment, restaurant, inn, bar, tavern, sports or entertainment facility, or any other similar place of business or professional office located in this state in which the public may assemble and in which nondramatic musical works or similar copyrighted works may be performed, broadcast, or otherwise transmitted for the enjoyment of members of the public there assembled.
+
+. "Royalty" or "royalties" means the fees payable to a copyright owner or performing rights society for the public performance of nondramatic musical works or other similar works.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1763-S2.SL.pdf?cite=2016%20c%2038%20§%201[2016 c 38 § 1]; ]
+
+== 19.370.020 - Requirement to register.
+A performing rights society that licenses the performing rights to music may not license or attempt to license the use of or collect or attempt to collect any compensation on account of any sale, license, or other disposition regarding the performance rights of music unless the performing rights society:
+
+. Registers and files annually with the department of licensing an electronic copy of each performing rights form agreement providing for the payment of royalties made available from the performing rights society to any proprietor within the state; and
+
+. Has a valid Washington unified business identifier number.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1763-S2.SL.pdf?cite=2016%20c%2038%20§%202[2016 c 38 § 2]; ]
+
+== 19.370.030 - List of members and affiliates—List of works licensed—Availability.
+A performing rights society must make available electronically to business proprietors the most current available list of members and affiliates represented by the performing rights society and the most current available list of the performed works that the performing rights society licenses.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1763-S2.SL.pdf?cite=2016%20c%2038%20§%203[2016 c 38 § 3]; ]
+
+== 19.370.040 - Violations—Penalties—Attorney general enforcement.
+A person who willfully violates any of the provisions of this chapter may be liable for a civil penalty of not more than one thousand dollars per violation. Multiple violations on a single day may be considered separate violations. The attorney general, acting in the name of the state, may seek recovery of all such penalties in a civil action. The attorney general may issue civil investigative demands for the inspection of documents, interrogatory responses, and oral testimony in the enforcement of this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1763-S2.SL.pdf?cite=2016%20c%2038%20§%204[2016 c 38 § 4]; ]
+
+== 19.370.050 - Contact with proprietors—Requirements—Prohibited acts.
+. Before seeking payment or a contract for payment of royalties for the use of copyrighted works by that proprietor, a representative or agent for a performing rights society must: Identify himself or herself to the proprietor or the proprietor's employees, disclose that he or she is acting on behalf of a performing rights society, and disclose the purpose for being on the premises.
+
+. A representative or agent of a performing rights society must not:
+
+.. Use obscene, abusive, or profane language when communicating with the proprietor or his or her employees;
+
+.. Communicate by telephone or in-person with a proprietor other than at the proprietor's place of business during the hours when the proprietor's business is open to the public. However, such communications may occur at a location other than the proprietor's place of business or during hours when the proprietor's business is not open to the public if the proprietor or the proprietor's agents, employees, or representatives so authorizes;
+
+.. Engage in any coercive conduct, act, or practice that is substantially disruptive to a proprietor's business;
+
+.. Use or attempt to use any unfair or deceptive act or practice in negotiating with a proprietor; or
+
+.. Communicate with an unlicensed proprietor about licensing performances of musical works at the proprietor's establishment after receiving notification in writing from an attorney representing the proprietor that all further communications related to the licensing of the proprietor's establishment by the performing rights society should be addressed to the attorney. However, the performing rights society may resume communicating directly with the proprietor if the attorney fails to respond to communications from the performing rights society within sixty days, or the attorney becomes nonresponsive for a period of sixty days or more.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1763-S2.SL.pdf?cite=2016%20c%2038%20§%205[2016 c 38 § 5]; ]
+
+== 19.370.060 - Information on proprietors' rights and responsibilities.
+. The department of revenue shall inform proprietors of their rights and responsibilities regarding the public performance of copyrighted music as part of the business licensing service.
+
+. Performing rights societies are encouraged to conduct outreach campaigns to educate existing proprietors on their rights and responsibilities regarding the public performance of copyrighted music.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1763-S2.SL.pdf?cite=2016%20c%2038%20§%206[2016 c 38 § 6]; ]
+
+== 19.370.070 - Contracts for the payment of royalties—Requirements.
+. No performing rights society may enter into, or offer to enter into, a contract for the payment of royalties by a proprietor unless at least seventy-two hours prior to the execution of that contract it provides to the proprietor or the proprietor's employees, in writing, the following:
+
+.. A schedule of the rates and terms of royalties under the contract; and
+
+.. Notice that the proprietor is entitled to the information contained in RCW 19.370.030.
+
+. A contract for the payment of royalties executed in this state must:
+
+.. Be in writing;
+
+.. Be signed by the parties; and
+
+.. Include, at least, the following information:
+
+... The proprietor's name and business address;
+
+... The name and location of each place of business to which the contract applies;
+
+... The duration of the contract; and
+
+... The schedule of rates and terms of the royalties to be collected under the contract, including any sliding scale or schedule for any increase or decrease of those rates for the duration of that contract.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1763-S2.SL.pdf?cite=2016%20c%2038%20§%207[2016 c 38 § 7]; ]
+
+== 19.370.080 - Applicability to investigations and notices.
+Nothing in chapter 38, Laws of 2016 may be construed to prohibit a performing rights society from conducting investigations to determine the existence of music use by a proprietor's business or informing a proprietor of the proprietor's obligations under the copyright laws of the United States pursuant to Title 17 of the United States Code (17 U.S.C. Sec. 101 et seq.).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1763-S2.SL.pdf?cite=2016%20c%2038%20§%208[2016 c 38 § 8]; ]
+
+== 19.370.900 - Effective date—2016 c 38.
+This act takes effect January 1, 2017.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1763-S2.SL.pdf?cite=2016%20c%2038%20§%2010[2016 c 38 § 10]; ]
+

@@ -1,0 +1,308 @@
+= 16.67 - Washington state beef commission.
+:toc:
+
+== 16.67.010 - Short title.
+This chapter shall be known and may be cited as the Washington state beef commission act.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c133.pdf?cite=1969%20c%20133%20§%201[1969 c 133 § 1]; ]
+
+== 16.67.030 - Definitions.
+For the purpose of this chapter:
+
+. "Commission" means the Washington state beef commission.
+
+. "Director" means the director of agriculture of the state of Washington or an appointed representative.
+
+. "Ex officio members" means those advisory members of the commission who do not have a vote.
+
+. "Department" means the department of agriculture of the state of Washington.
+
+. "Person" includes any individual, firm, corporation, trust, association, partnership, society, or any other organization of individuals.
+
+. "Beef producer" means any person who raises, breeds, grows, or purchases cattle or calves for beef production.
+
+. "Dairy (beef) producer" means any person who raises, breeds, grows, or purchases cattle for dairy production and who is actively engaged in the production of fluid milk.
+
+. "Feeder" means any person actively engaged in the business of feeding cattle and usually operating a feed lot.
+
+. "Producer" means any person actively engaged in the cattle industry including beef producers and dairy (beef) producers.
+
+. "Washington cattle" shall mean all cattle owned or controlled by affected producers and located or sold in the state of Washington.
+
+. "Meat packer" means any person operating a slaughtering establishment subject to inspection under a federal meat inspection act.
+
+. "Livestock salesyard operator" means any person licensed to operate a cattle auction market or salesyard under the provisions of chapter 16.65 RCW as enacted or hereafter amended.
+
+. "Mail" or "send" for purposes of any notice relating to rule making means regular mail or electronic distribution, as provided in RCW 34.05.260 for rule making. "Electronic distribution" or "electronically" means distribution by electronic mail or facsimile mail.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2688-S.SL.pdf?cite=2002%20c%20313%20§%2080[2002 c 313 § 80]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1151.SL.pdf?cite=1999%20c%20291%20§%2030[1999 c 291 § 30]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c133.pdf?cite=1969%20c%20133%20§%202[1969 c 133 § 2]; ]
+
+== 16.67.035 - Legislative declaration—Focus of the beef commission—Regulating beef and beef products—Existing comprehensive scheme—Laws applicable.
+The legislature declares:
+
+. That the history, economy, culture, and the future of Washington state's agriculture involves the beef industry. It is vital to the economy and to citizens' health that the beef industry continue to progress and thrive. The Washington state beef commission is part of an existing comprehensive system to regulate and promote beef and beef products;
+
+. That the focus of the beef commission shall include the following responsibilities:
+
+.. The beef industry is to be promoted in a manner that showcases the varied aspects and segments of the industry;
+
+.. Research, education, and programs related to health and safety of beef are to be advanced in cooperation with the Washington state department of agriculture, Washington State University, other institutions of higher learning as appropriate, and other governmental or nongovernmental organizations doing research on trade or health issues;
+
+.. Support is to be provided to the beef industry in establishing orderly, fair, sound, efficient, and unhampered marketing, grading, and standardizing of beef and beef products; and
+
+.. Maintain efforts to increase consumption of beef and beef products within the state, the nation, and internationally;
+
+. That beef producers operate within a regulatory environment that imposes burdens on them for the benefit of society and the citizens of the state and includes restrictions on marketing autonomy. Those restrictions may impair the beef producer's ability to compete in local, domestic, and foreign markets;
+
+. That it is in the overriding public interest that support for the beef industry be clearly expressed, that adequate protection be given to agricultural commodities, uses, activities, and operations, and that beef and beef products be promoted individually, and as part of a comprehensive industry to:
+
+.. Enhance the reputation and image of Washington state's agriculture industry;
+
+.. Increase the sale and use of beef products in local, domestic, and foreign markets;
+
+.. Protect the public by educating the public in reference to sustainable stewardship of cattle and the environment, quality, care, and methods used in the production of beef and beef products, and in reference to the various cuts and grades of beef and the uses to which each should be put;
+
+.. Increase the knowledge of the health-giving qualities and dietetic value of beef products; and
+
+.. Support and engage in programs or activities that benefit the care and well-being of the cattle, and the production, handling, processing, marketing, and uses of beef and beef products;
+
+. That this chapter is enacted in the exercise of the police powers of this state for the purpose of protecting the health, peace, safety, and general welfare of the people of this state; and
+
+. That the beef industry is a highly regulated industry and that this chapter and the rules adopted under it are only one aspect of the regulated industry. Other regulations and restraints applicable to the beef industry include the:
+
+.. Beef promotion and research act of 1985, U.S.C. Title 7, chapter 62;
+
+.. Beef promotion and research, 7 C.F.R., Part 1260;
+
+.. Agricultural marketing act, 7 U.S.C., section 1621;
+
+.. USDA meat grading, certification, and standards, 7 C.F.R., Part 54;
+
+.. Mandatory price reporting, 7 C.F.R., Part 57;
+
+.. Grazing permits, 43 C.F.R., Part 2920;
+
+.. Capper-Volstead act, U.S.C. Title 7, chapters 291 and 292;
+
+.. Livestock identification under chapter 16.57 RCW and rules;
+
+.. Organic products act under chapter 15.86 RCW and rules;
+
+.. The food safety and security act under chapter 15.130 RCW;
+
+.. Washington food processing act under chapter 69.07 RCW and rules;
+
+.. Washington food storage warehouses act under chapter 69.10 RCW and rules;
+
+.. Animal health under chapter 16.36 RCW and rules; and
+
+.. Weights and measures under chapter 19.94 RCW and rules.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6318-S.SL.pdf?cite=2018%20c%20236%20§%20711[2018 c 236 § 711]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2073.SL.pdf?cite=2017%20c%20256%20§%201[2017 c 256 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5374-S.SL.pdf?cite=2011%20c%20103%20§%2034[2011 c 103 § 34]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2688-S.SL.pdf?cite=2002%20c%20313%20§%2079[2002 c 313 § 79]; ]
+
+== 16.67.040 - Beef commission created—Generally.
+There is hereby created a Washington state beef commission to be thus known and designated. The commission shall be composed of two beef producers, two dairy (beef) producers, two feeders, one livestock salesyard operator, one meat packer, and the director, who shall be a voting member. If an otherwise voting member is elected as the chair of the commission, the member may, during the member's term as chair of the commission, cast a vote as a member of the commission only to break a tie vote. If the commission so chooses, there may be one additional nonvoting member in an advisory capacity appointed by the members of the commission for such a term as the members may set.
+
+A majority of voting members shall constitute a quorum for the transaction of any business.
+
+All appointed members as stated in RCW 16.67.060 shall be citizens and residents of this state, over the age of twenty-five years, each of whom is and has been actually engaged in that phase of the cattle industry he or she represents for a period of five years, and has during that period derived a substantial portion of his or her income therefrom, or have a substantial investment in cattle as an owner, lessee, partner, or a stockholder owning at least ten percent of the voting stock in a corporation engaged in the production of cattle or dressed beef, or a manager or executive officer of such corporation. Producer members of the commission shall not be directly engaged in the business of being a meat packer, or as a feeder, feeding cattle other than their own. Said qualifications must continue throughout each member's term of office.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1361.SL.pdf?cite=2003%20c%20396%20§%2033[2003 c 396 § 33]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6720-S.SL.pdf?cite=2000%20c%20146%20§%201[2000 c 146 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5659.SL.pdf?cite=1997%20c%20363%20§%201[1997 c 363 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5262-S.SL.pdf?cite=1993%20c%2040%20§%201[1993 c 40 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1702-S.SL.pdf?cite=1991%20c%209%20§%201[1991 c 9 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c133.pdf?cite=1969%20c%20133%20§%203[1969 c 133 § 3]; ]
+
+== 16.67.051 - Designation of positions—Terms.
+Commencing on July 1, 1993, the appointive positions on the commission shall be designated as follows: The beef producers shall be designated position one and position six; the dairy (beef) producers shall be designated position two and position seven; the feeders shall be designated position three and position eight; the livestock salesyard operator shall be designated position four; and the meat packer shall be designated position five.
+
+The initial terms of positions one and four shall terminate July 1, 1994; positions two and five shall terminate July 1, 1995; and position three shall terminate July 1, 1996. The initial terms of position six shall terminate July 1, 1998; position seven shall terminate July 1, 1999; and position eight shall terminate July 1, 2000. The regular term of office of subsequent appointees shall be three years from the date of appointment and until their successors are appointed.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5659.SL.pdf?cite=1997%20c%20363%20§%202[1997 c 363 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5262-S.SL.pdf?cite=1993%20c%2040%20§%203[1993 c 40 § 3]; ]
+
+== 16.67.060 - Director to appoint members—Recommendations by industry.
+The director shall appoint the members of the commission. In making such appointments, the director shall take into consideration recommendations made to him or her by organizations who represent or who are engaged in the same type of production or business as the person recommended for appointment as a member of the commission.
+
+Commencing on June 1, 1993, and by June 1 of each subsequent year, organizations under this section shall make a recommendation as required, to the director of a person to serve on the commission.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5262-S.SL.pdf?cite=1993%20c%2040%20§%204[1993 c 40 § 4]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1702-S.SL.pdf?cite=1991%20c%209%20§%203[1991 c 9 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c133.pdf?cite=1969%20c%20133%20§%205[1969 c 133 § 5]; ]
+
+== 16.67.070 - Vacancies—Compensation and travel expenses.
+. In the event a position on the commission becomes vacant due to resignation, disqualification, death, or for any other reason, the unexpired term of such position shall be filled by the director forthwith.
+
+. Each member of the commission shall be compensated in accordance with RCW 43.03.230.
+
+. Each member or employee shall be reimbursed for actual travel expenses incurred in carrying out the provisions of this chapter as defined by the commission in rule. Otherwise if not defined in rule, reimbursement for travel expenses shall be at the rates allowed by RCW 43.03.050 and 43.03.060.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2688-S.SL.pdf?cite=2002%20c%20313%20§%2081[2002 c 313 § 81]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1702-S.SL.pdf?cite=1991%20c%209%20§%204[1991 c 9 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c287.pdf?cite=1984%20c%20287%20§%2019[1984 c 287 § 19]; 1975-'76 2nd ex.s. c 34 § 22; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c133.pdf?cite=1969%20c%20133%20§%206[1969 c 133 § 6]; ]
+
+== 16.67.080 - Commission records as evidence.
+Copies of the proceedings, records, and acts of the commission, when certified by the secretary of the commission and authenticated by the commission seal, shall be admissible in any court as prima facie evidence of the truth of the statements contained therein.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c133.pdf?cite=1969%20c%20133%20§%207[1969 c 133 § 7]; ]
+
+== 16.67.090 - Powers and duties—Rule making.
+The powers and duties of the commission shall include the following:
+
+. To administer and enforce the provisions of this chapter, and do all things reasonably necessary to effectuate the purposes of this chapter;
+
+. To elect a chair and such other officers as it deems advisable;
+
+. To employ and discharge at its discretion a manager, secretary, and such other personnel, including attorneys engaged in the private practice of law subject to the review of the attorney general, as the commission determines are necessary and proper to carry out the purposes of this chapter, and to prescribe their duties and powers and fix their compensation;
+
+. To adopt, rescind, and amend rules, regulations, and orders for the exercise of its powers hereunder subject to the provisions of chapter 34.05 RCW, except that rule-making proceedings conducted under this chapter are exempt from compliance with RCW 34.05.310, the provisions of chapter 19.85 RCW, the regulatory fairness act, and the provisions of RCW 43.135.055 when adoption of the rule is determined by a referendum vote of the affected parties;
+
+. To establish by resolution, a headquarters which shall continue as such unless and until so changed by the commission. All records, books, and minutes of the commission shall be kept at such headquarters;
+
+. To require a bond of all commission members and employees of the commission in a position of trust in the amount the commission shall deem necessary. The premium for such bond or bonds shall be paid by the commission from assessments collected. Such bond shall not be necessary if any such commission member or employee is covered by any blanket bond covering officials or employees of the state of Washington;
+
+. To establish a beef commission revolving fund, such fund to be deposited in a bank or banks or financial institution or institutions, approved for the deposit of state funds, in which all money received by the commission, except an amount of petty cash for each day's needs not to exceed one hundred dollars, shall be deposited each day or as often during the day as advisable; none of the provisions of RCW 43.01.050 as now or hereafter amended shall apply to money collected under this chapter;
+
+. To prepare a detailed and explanatory budget or budgets covering anticipated income and expenses to be incurred in carrying out the provisions of this chapter during each fiscal year;
+
+. To incur expense and enter into contracts and to create such liabilities as may be reasonable for the proper administration and enforcement of this chapter;
+
+. To borrow money, not in excess of its estimate of its revenue from the current year's contributions;
+
+. To keep or cause to be kept in accordance with accepted standards of good accounting practice, accurate records of all assessments, expenditures, moneys, and other financial transactions made and done pursuant to this chapter. Such records, books, and accounts shall be audited at least every five years subject to procedures and methods lawfully prescribed by the state auditor. Such books and accounts shall be closed as of the last day of each fiscal year. A copy of such audit shall be delivered within thirty days after completion thereof to the director, the state auditor, and the commission. On such years and in such event the state auditor is unable to audit the records, books, and accounts within six months following the close of the audit period it shall be mandatory that the commission employ a private auditor to make such audit;
+
+. To sue and be sued as a commission, without individual liability for acts of the commission within the scope of the powers conferred upon it by this chapter;
+
+. To cooperate with any other local, state, or national commission, organization, or agency, whether voluntary or established by state or federal law, including recognized livestock groups, engaged in work or activities similar to the work and activities of the commission created by this chapter and make contracts and agreements with such organizations or agencies for carrying on joint programs beneficial to the beef industry and sustainable stewardship of cattle;
+
+. To accept grants, donations, contributions, or gifts from any governmental agency or private source for expenditures for any purpose consistent with the provisions of this chapter; and
+
+. To operate jointly with beef commissions or similar agencies established by state laws in adjoining states.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2073.SL.pdf?cite=2017%20c%20256%20§%202[2017 c 256 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20436[2011 c 336 § 436]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2688-S.SL.pdf?cite=2002%20c%20313%20§%2082[2002 c 313 § 82]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6720-S.SL.pdf?cite=2000%20c%20146%20§%202[2000 c 146 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c81.pdf?cite=1982%20c%2081%20§%203[1982 c 81 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c133.pdf?cite=1969%20c%20133%20§%208[1969 c 133 § 8]; ]
+
+== 16.67.091 - Commission's plans, programs, and projects—Director's approval required.
+. The commission shall develop and submit to the director for approval any plans, programs, and projects concerning the following:
+
+.. The establishment, issuance, effectuation, and administration of appropriate programs or projects for the advertising and promotion of its affected commodities;
+
+.. The establishment, effectuation, and administration of research, education, and programs related to health and safety of cattle, beef, and beef products; and
+
+.. The establishment and effectuation of market research projects, market development projects, or industry specific educational projects to the end that the marketing and utilization of its affected commodities may be encouraged, expanded, improved, or made more efficient.
+
+. The director shall review the commission's advertising or promotion program to ensure that no false claims are being made concerning its affected commodities.
+
+. The commission, prior to the beginning of its fiscal year, shall prepare and submit to the director for approval its research plan, its commodity-related education and training plan, and its budget on a fiscal period basis.
+
+. The director shall review and make a determination of all submissions described in this section in a timely manner.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2073.SL.pdf?cite=2017%20c%20256%20§%203[2017 c 256 § 3]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1361.SL.pdf?cite=2003%20c%20396%20§%2034[2003 c 396 § 34]; ]
+
+== 16.67.093 - Subpoenas.
+The commission has the power to subpoena witnesses and to issue subpoenas for the production of any books, records, or documents of any kind for the purpose of enforcing this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2688-S.SL.pdf?cite=2002%20c%20313%20§%2085[2002 c 313 § 85]; ]
+
+== 16.67.095 - Commission speaks for state—Director's oversight.
+The commission exists primarily for the benefit of the people of the state of Washington and its economy. The legislature hereby charges the commission, with oversight by the director, to speak on behalf of Washington state government with regard to its particular commodities.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1361.SL.pdf?cite=2003%20c%20396%20§%2035[2003 c 396 § 35]; ]
+
+== 16.67.097 - Reimbursement for costs.
+. The commission shall reimburse the director for necessary costs for services conducted on behalf of the commission under this chapter.
+
+. The commission may enter into an agreement with the director to administer this chapter or chapter 34.05 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2688-S.SL.pdf?cite=2002%20c%20313%20§%2086[2002 c 313 § 86]; ]
+
+== 16.67.100 - Meetings—Notice.
+The commission shall hold regular meetings, at least quarterly, with the time and date thereof to be fixed by resolution of the commission.
+
+The commission shall hold an annual meeting. The proposed budget shall be presented for discussion at the meeting. Notice of the annual meeting shall be given by the commission at least ten days prior to the meeting by public notice of such meeting published in newspapers of general circulation in the state of Washington, by radio and press releases and through trade publications.
+
+The commission shall establish by resolution, the time, place and manner of calling special meetings of the commission with reasonable notice to the members: PROVIDED, That, the notice of any special meeting may be waived by a waiver thereof by each member of the commission.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6720-S.SL.pdf?cite=2000%20c%20146%20§%203[2000 c 146 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c133.pdf?cite=1969%20c%20133%20§%209[1969 c 133 § 9]; ]
+
+== 16.67.110 - Promotional programs, research, rate studies, labeling.
+The commission shall provide for programs designed to support sustainable stewardship of cattle and the environment; increase the consumption of beef; develop more efficient methods for the production, processing, handling and marketing of beef; eliminate transportation rate inequalities on feed grains and supplements and other production supplies adversely affecting Washington producers; properly identify beef and beef products for consumers as to quality and origin. For these purposes the commission may:
+
+. Provide for programs for advertising, sales promotion and education, locally, nationally or internationally, for maintaining present markets and/or creating new or larger markets for beef. Such programs shall be directed toward increasing the sale of beef and shall neither make use of false or unwarranted claims in behalf of beef nor disparage the quality, value, sale or use of any other agricultural commodity;
+
+. Provide for research: (a) To develop and discover the health, food, therapeutic, and dietetic value of beef and beef products; and (b) to develop materials, education, and programs related to health and safety of beef and beef products and the sustainable stewardship of cattle and the environment;
+
+. Make grants to research agencies for financing studies related to beef health, beef production, processing, handling, and marketing, which may include funds for the acquisition of equipment and facilities;
+
+. Disseminate reliable information founded upon the research undertaken under this chapter or otherwise available;
+
+. Provide for rate studies and participate in rate hearings connected with problems of beef production, processing, handling or marketing; and
+
+. Provide for proper labeling of beef and beef products so that the purchaser and the consuming public of the state will be readily apprised of the quality of the product and how and where it was processed.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2073.SL.pdf?cite=2017%20c%20256%20§%204[2017 c 256 § 4]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6720-S.SL.pdf?cite=2000%20c%20146%20§%204[2000 c 146 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c133.pdf?cite=1969%20c%20133%20§%2010[1969 c 133 § 10]; ]
+
+== 16.67.120 - Levy of assessment—Collections—Federal orders.
+. There is hereby levied an assessment of one dollar per head on all Washington cattle sold in this state or elsewhere to be paid by the seller at the time of sale: PROVIDED, That if such sale is accompanied by a brand inspection by the department such assessment may be collected at the same time, place and in the same manner as brand inspection fees. Such fees may be collected by the livestock services division of the department and transmitted to the commission: PROVIDED FURTHER, That, if such sale is made without a brand inspection by the department the assessment shall be paid by the seller and transmitted directly to the commission by the fifteenth day of the month following the month the transaction occurred.
+
+. The procedures for collecting all state and federal assessments under this chapter shall be as required by the federal order and as described by rules adopted by the commission.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2688-S.SL.pdf?cite=2002%20c%20313%20§%2083[2002 c 313 § 83]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6720-S.SL.pdf?cite=2000%20c%20146%20§%205[2000 c 146 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c393.pdf?cite=1987%20c%20393%20§%2011[1987 c 393 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c190.pdf?cite=1986%20c%20190%20§%202[1986 c 190 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c47.pdf?cite=1982%20c%2047%20§%201[1982 c 47 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c93.pdf?cite=1975%201st%20ex.s.%20c%2093%20§%201[1975 1st ex.s. c 93 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c133.pdf?cite=1969%20c%20133%20§%2011[1969 c 133 § 11]; ]
+
+== 16.67.122 - Additional assessment—National beef promotion and research program—Contingency.
+In addition to the assessment authorized pursuant to RCW 16.67.120, the commission has the authority to collect an additional assessment of fifty cents per head for cattle subject to assessment by federal order for the purpose of providing funds for a national beef promotion and research program. The manner in which this assessment will be levied and collected shall be established by rule. The authority to collect this assessment shall be contingent upon the implementation of federal legislation providing for a national beef promotion and research program and the establishment of the assessment requirement to fund its activities.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2688-S.SL.pdf?cite=2002%20c%20313%20§%2084[2002 c 313 § 84]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6720-S.SL.pdf?cite=2000%20c%20146%20§%206[2000 c 146 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c190.pdf?cite=1986%20c%20190%20§%201[1986 c 190 § 1]; ]
+
+== 16.67.123 - Transfer of cattle by meat packer as sale.
+The transfer of cattle owned by a meat packer from a feed lot to a slaughterhouse for slaughter shall be deemed a sale of such cattle for the purpose of chapter 16.67 RCW. Such packer shall pay directly to the beef commission the same assessment as required of all other cattle owners selling cattle.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971c64.pdf?cite=1971%20c%2064%20§%201[1971 c 64 § 1]; ]
+
+== 16.67.130 - Assessments personal debt—Delinquent charge—Civil action to collect.
+Any due and payable assessment levied under the provisions of this chapter shall constitute a personal debt of every person so assessed or who otherwise owes the same and shall be due and payable on the fifteenth day of the month following the month the transaction occurred. In the event any such person fails to pay the full amount within such time, the commission shall add to such unpaid assessment an amount of ten percent of the unpaid assessment to defray the cost of collecting the same. In the event of failure of such person to pay such due and payable assessment, the commission may bring civil action against such person in a state court of competent jurisdiction for the collection thereof, together with the above specified ten percent thereon and any other additional necessary reasonable costs including attorneys' fees. Such action shall be tried and judgment rendered as in any other cause of action for debt due and payable.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6720-S.SL.pdf?cite=2000%20c%20146%20§%207[2000 c 146 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c133.pdf?cite=1969%20c%20133%20§%2012[1969 c 133 § 12]; ]
+
+== 16.67.140 - Livestock purchasers to provide list of sellers to commission.
+The commission may adopt regulations requiring the purchasers of livestock subject to the assessments under this chapter, to furnish the commission with the names of persons from whom such livestock was purchased. Refusal or failure to furnish the commission with such a list shall constitute a misdemeanor.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c133.pdf?cite=1969%20c%20133%20§%2013[1969 c 133 § 13]; ]
+
+== 16.67.160 - Liability of commission's assets—Immunity of state, commission employees, etc.
+Obligations incurred by the commission and liabilities or claims against the commission shall be enforced only against the assets of the commission in the same manner as if it were a corporation and no liability for the debts or actions of the commission shall exist against either the state of Washington or any subdivision or instrumentality thereof or against any member officer, employee, or agent of the commission in his or her individual capacity. The members of the commission including employees of the commission shall not be held responsible individually or any way whatsoever to any person for errors in judgment, mistakes, or other acts, either of commission or omission, as principal, agent, person, or employees, except for their own individual acts of dishonesty or crime. No such person or employee shall be held responsible individually for any act or omission of any other member of the commission. The liability of the members of the commission shall be several and not joint and no member shall be liable for the default of any other member.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20437[2011 c 336 § 437]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c133.pdf?cite=1969%20c%20133%20§%2015[1969 c 133 § 15]; ]
+
+== 16.67.180 - Certain records exempt from public disclosure—Exceptions—Actions not prohibited by chapter.
+. Under RCW 42.56.380, certain agricultural business records, commission records, and department of agriculture records relating to the commission and producers of agricultural commodities are exempt from public disclosure.
+
+. Financial and commercial information and records submitted to either the department or the commission for the purpose of administering this chapter may be shared between the department and the commission. They may also be used, if required, in any suit or administrative hearing involving any provision of this chapter or a marketing order.
+
+. This chapter does not prohibit:
+
+.. The issuance of general statements based upon the reports of persons subject to this chapter as long as the statements do not identify the information furnished by any person; or
+
+.. The publication by the director or the commission of the name of any person violating this chapter and a statement of the manner of the violation by that person.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1133-S.SL.pdf?cite=2005%20c%20274%20§%20220[2005 c 274 § 220]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2688-S.SL.pdf?cite=2002%20c%20313%20§%2071[2002 c 313 § 71]; ]
+
+== 16.67.190 - Funding staff support—Rules.
+The director may provide by rule for a method to fund staff support for all commodity boards or commissions in accordance with RCW 43.23.033 if a position is not directly funded by the legislature and costs related to the specific activity undertaken on behalf of an individual commodity board or commission. The commission shall provide funds to the department according to the rules adopted by the director.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2688-S.SL.pdf?cite=2002%20c%20313%20§%2077[2002 c 313 § 77]; ]
+
+== 16.67.195 - Costs of implementing RCW  16.67.091.
+The costs incurred by the department associated with the implementation of RCW 16.67.091 shall be paid for by the commission.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1361.SL.pdf?cite=2003%20c%20396%20§%2036[2003 c 396 § 36]; ]
+
+== 16.67.200 - Budget—Report to the legislature.
+. The budget required in RCW 16.67.090(8) must set forth the complete and detailed financial program of the commission, showing the revenues and expenditures of the commission. The budget must be explanatory, describing how the funding is used to administer and implement the commission's programs and priorities, and include the reasons for salient changes from the previous fiscal period in expenditure or revenue items. The budget must explain any major changes to financial policy and contain an outline of the proposed financial policies of the commission for the ensuing fiscal period and describe performance indicators that demonstrate measurable progress toward the commission's priorities.
+
+. The budget must be sufficiently detailed to provide transparency for the commission's actions on behalf of the industry.
+
+. The commission must submit to the legislature a concise yet detailed report of the commission's activities and expenditures after the completion of each fiscal year.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2073.SL.pdf?cite=2017%20c%20256%20§%205[2017 c 256 § 5]; ]
+
+== 16.67.900 - Liberal construction—1969 c 133.
+This chapter shall be liberally construed.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c133.pdf?cite=1969%20c%20133%20§%2020[1969 c 133 § 20]; ]
+
+== 16.67.920 - Effective date—1969 c 133.
+This chapter is necessary for the immediate preservation of the public peace, health and safety, the support of the state government and its existing public institutions, and shall take effect June 1, 1969.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c133.pdf?cite=1969%20c%20133%20§%2021[1969 c 133 § 21]; ]
+

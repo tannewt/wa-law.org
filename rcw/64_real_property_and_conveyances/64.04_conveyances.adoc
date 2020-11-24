@@ -1,0 +1,388 @@
+= 64.04 - Conveyances.
+:toc:
+
+== 64.04.005 - Liquidated damages—Earnest money deposit—Exclusive remedy—Definition.
+. A provision in a written agreement for the purchase and sale of real estate which provides for liquidated damages or the forfeiture of an earnest money deposit to the seller as the seller's sole and exclusive remedy if a party fails, without legal excuse, to complete the purchase, is valid and enforceable, regardless of whether the other party incurs any actual damages. However, the amount of liquidated damages or amount of earnest money to be forfeited under this subsection may not exceed five percent of the purchase price.
+
+. For purposes of this section:
+
+.. "Earnest money deposit" means any deposit, deposits, payment, or payments of a part of the purchase price for the property, made in the form of cash, check, promissory note, or other things of value for the purpose of binding the purchaser to the agreement and identified in the agreement as an earnest money deposit, and does not include other deposits or payments made by the purchaser; and
+
+.. "Liquidated damages" means an amount agreed by the parties as the amount of damages to be recovered for a breach of the agreement by the other and identified in the agreement as liquidated damages, and does not include other deposits or payments made by the purchaser.
+
+. This section does not prohibit, or supersede the common law with respect to, liquidated damages or earnest money forfeiture provisions in excess of five percent of the purchase price. A liquidated damages or earnest money forfeiture provision not meeting the requirements of subsection (1) of this section shall be interpreted and enforced without regard to this statute.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1699-S.SL.pdf?cite=2005%20c%20186%20§%201[2005 c 186 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2042-S.SL.pdf?cite=1991%20c%20210%20§%201[1991 c 210 § 1]; ]
+
+== 64.04.007 - Owner-occupied real property—Release of security interest—Outstanding debt—Notice to borrower—Definition.
+. If the beneficiary or mortgagee, or its assignees, of debt secured by owner-occupied real property intends to release its deed of trust or mortgage in the real property for less than full payment of the secured debt, it shall provide upon its first written notice to the borrower the following information in substantially the following form:
+
+"To: [Name of borrower]          DATE:
+
+Please take note that [name of beneficiary or mortgagee, or its assignees], in releasing its security interest in this owner-occupied real property, [waives or reserves] the right to collect that amount that constitutes full payment of the secured debt. The amount of debt outstanding as of the date of this letter is $. . . . . .. However, nothing in this letter precludes the borrower from negotiating with the [name of beneficiary or mortgagee, or its assignees] for a full release of this outstanding debt.
+
+If [name of beneficiary or mortgagee, or its assignees] does not initiate a court action to collect the outstanding debt within three years on the date which it released its security interest, the right to collect the outstanding debt is forfeited."
+
+. If the beneficiary or mortgagee, or its assignees, of debt secured by owner-occupied real property intends to pursue collection of the outstanding debt, it must initiate a court action to collect the remaining debt within three years from the date on which it released its deed of trust or mortgage in the owner-occupied real property or else it forfeits any right to collect the remaining debt.
+
+. This section applies only to debts incurred by individuals primarily for personal, family, or household purposes. This section does not apply to debts for business, commercial, or agricultural purposes.
+
+. For the purposes of this section, "owner-occupied real property" means real property consisting solely of a single-family residence, a residential condominium unit, or a residential cooperative unit that is the principal residence of the borrower.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2614-S.SL.pdf?cite=2012%20c%20185%20§%201[2012 c 185 § 1]; ]
+
+== 64.04.010 - Conveyances and encumbrances to be by deed.
+Every conveyance of real estate, or any interest therein, and every contract creating or evidencing any encumbrance upon real estate, shall be by deed: PROVIDED, That when real estate, or any interest therein, is held in trust, the terms and conditions of which trust are of record, and the instrument creating such trust authorizes the issuance of certificates or written evidence of any interest in said real estate under said trust, and authorizes the transfer of such certificates or evidence of interest by assignment by the holder thereof by a simple writing or by endorsement on the back of such certificate or evidence of interest or delivery thereof to the vendee, such transfer shall be valid, and all such assignments or transfers hereby authorized and heretofore made in accordance with the provisions of this section are hereby declared to be legal and valid.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1929c33.pdf?cite=1929%20c%2033%20§%201[1929 c 33 § 1]; RRS § 10550; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1888%20p%2050%20§%201[1888 p 50 § 1]; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1886%20p%20177%20§%201[1886 p 177 § 1]; Code 1881 § 2311; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1877%20p%20312%20§%201[1877 p 312 § 1]; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1873%20p%20465%20§%201[1873 p 465 § 1]; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1863%20p%20430%20§%201[1863 p 430 § 1]; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1860%20p%20299%20§%201[1860 p 299 § 1]; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1854%20p%20402%20§%201[1854 p 402 § 1]; ]
+
+== 64.04.020 - Requisites of a deed.
+Every deed shall be in writing, signed by the party bound thereby, and acknowledged by the party before some person authorized by *this act to take acknowledgments of deeds.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1929c33.pdf?cite=1929%20c%2033%20§%202[1929 c 33 § 2]; RRS § 10551; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1915c172.pdf?cite=1915%20c%20172%20§%201[1915 c 172 § 1]; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1888%20p%2050%20§%202[1888 p 50 § 2]; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1886%20p%20177%20§%202[1886 p 177 § 2]; Code 1881 § 2312; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1854%20p%20402%20§%202[1854 p 402 § 2]; ]
+
+== 64.04.030 - Warranty deed—Form and effect.
+Warranty deeds for the conveyance of land may be substantially in the following form, without express covenants:
+
+The grantor (here insert the name or names and place or residence) for and in consideration of (here insert consideration) in hand paid, conveys and warrants to (here insert the grantee's name or names) the following described real estate (here insert description), situated in the county of . . . . . ., state of Washington. Dated this . . . . day of . . . . . ., (year) . . . .
+
+Every deed in substance in the above form, when otherwise duly executed, shall be deemed and held a conveyance in fee simple to the grantee, his or her heirs and assigns, with covenants on the part of the grantor: (1) That at the time of the making and delivery of such deed he or she was lawfully seized of an indefeasible estate in fee simple, in and to the premises therein described, and had good right and full power to convey the same; (2) that the same were then free from all encumbrances; and (3) that he or she warrants to the grantee, his or her heirs and assigns, the quiet and peaceable possession of such premises, and will defend the title thereto against all persons who may lawfully claim the same, and such covenants shall be obligatory upon any grantor, his or her heirs and personal representatives, as fully and with like effect as if written at full length in such deed.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2359-S.SL.pdf?cite=2016%20c%20202%20§%2037[2016 c 202 § 37]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20186[2012 c 117 § 186]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1929c33.pdf?cite=1929%20c%2033%20§%209[1929 c 33 § 9]; RRS § 10552; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1886%20p%20177%20§%203[1886 p 177 § 3]; ]
+
+== 64.04.040 - Bargain and sale deed—Form and effect.
+Bargain and sale deeds for the conveyance of land may be substantially in the following form, without express covenants:
+
+The grantor (here insert name or names and place of residence), for and in consideration of (here insert consideration) in hand paid, bargains, sells, and conveys to (here insert the grantee's name or names) the following described real estate (here insert description) situated in the county of . . . . . ., state of Washington. Dated this . . . . day of . . . . . ., (year) . . . .
+
+Every deed in substance in the above form when otherwise duly executed, shall convey to the grantee, his or her heirs or assigns an estate of inheritance in fee simple, and shall be adjudged an express covenant to the grantee, his or her heirs or assigns, to wit: That the grantor was seized of an indefeasible estate in fee simple, free from encumbrances, done or suffered from the grantor, except the rents and services that may be reserved, and also for quiet enjoyment against the grantor, his or her heirs and assigns, unless limited by express words contained in such deed; and the grantee, his or her heirs, executors, administrators, and assigns may recover in any action for breaches as if such covenants were expressly inserted.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2359-S.SL.pdf?cite=2016%20c%20202%20§%2038[2016 c 202 § 38]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20187[2012 c 117 § 187]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1929c33.pdf?cite=1929%20c%2033%20§%2010[1929 c 33 § 10]; RRS § 10553; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1886%20p%20178%20§%204[1886 p 178 § 4]; ]
+
+== 64.04.050 - Quitclaim deed—Form and effect.
+Quitclaim deeds may be in substance in the following form:
+
+The grantor (here insert the name or names and place of residence), for and in consideration of (here insert consideration) conveys and quitclaims to (here insert grantee's name or names) all interest in the following described real estate (here insert description), situated in the county of . . . . . ., state of Washington. Dated this . . . . day of . . . . . ., (year) . . . .
+
+Every deed in substance in the above form, when otherwise duly executed, shall be deemed and held a good and sufficient conveyance, release and quitclaim to the grantee, his or her heirs and assigns in fee of all the then existing legal and equitable rights of the grantor in the premises therein described, but shall not extend to the after acquired title unless words are added expressing such intention.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2359-S.SL.pdf?cite=2016%20c%20202%20§%2039[2016 c 202 § 39]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20188[2012 c 117 § 188]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1929c33.pdf?cite=1929%20c%2033%20§%2011[1929 c 33 § 11]; RRS § 10554; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1886%20p%20178%20§%205[1886 p 178 § 5]; ]
+
+== 64.04.055 - Deeds for conveyance of apartments under horizontal property regimes act.
+All deeds for the conveyance of apartments as provided for in chapter 64.32 RCW shall be substantially in the form required by law for the conveyance of any other land or real property and shall in addition thereto contain the contents described in RCW 64.32.120.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%2029[1963 c 156 § 29]; ]
+
+== 64.04.060 - Word "heirs" unnecessary.
+The term "heirs", or other technical words of inheritance, shall not be necessary to create and convey an estate in fee simple. All conveyances heretofore made omitting the word "heirs", or other technical words of inheritance, but not limiting the estate conveyed, are hereby validated as and are declared to be conveyances of an estate in fee simple.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1931c20.pdf?cite=1931%20c%2020%20§%201[1931 c 20 § 1]; RRS § 10558; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1888%20p%2051%20§%204[1888 p 51 § 4]; ]
+
+== 64.04.070 - After acquired title follows deed.
+Whenever any person or persons having sold and conveyed by deed any lands in this state, and who, at the time of such conveyance, had no title to such land, and any person or persons who may hereafter sell and convey by deed any lands in this state, and who shall not at the time of such sale and conveyance have the title to such land, shall acquire a title to such lands so sold and conveyed, such title shall inure to the benefit of the purchasers or conveyee or conveyees of such lands to whom such deed was executed and delivered, and to his or her and their heirs and assigns forever. And the title to such land so sold and conveyed shall pass to and vest in the conveyee or conveyees of such lands and to his or her or their heirs and assigns, and shall thereafter run with such land.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20189[2012 c 117 § 189]; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1871%20p%20195%20§%201[1871 p 195 § 1]; RRS § 10571. Cf. Code 1881 (Supp.) p 25 § 1; ]
+
+== 64.04.090 - Private seals abolished.
+The use of private seals upon all deeds, mortgages, leases, bonds, and other instruments, and contracts in writing, including deeds from a husband to his wife and from a wife to her husband for their respective community right, title, interest or estate in all or any portion of their community real property, is hereby abolished, and the addition of a private seal to any such instrument or contract in writing hereafter made, shall not affect its validity or legality in any respect.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1923c23.pdf?cite=1923%20c%2023%20§%201[1923 c 23 § 1]; RRS § 10556; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1888%20p%20184%20§%201[1888 p 184 § 1]; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1888%20p%2050%20§%203[1888 p 50 § 3]; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1886%20p%20165%20§%201[1886 p 165 § 1]; 1871 p 83 §§ 1, 2; ]
+
+== 64.04.100 - Private seals abolished—Validation.
+All deeds, mortgages, leases, bonds and other instruments and contracts in writing, including deeds from a husband to his wife and from a wife to her husband for their respective community right, title, interest or estate in all or any portion of their community real property, which have heretofore been executed without the use of a private seal, are, notwithstanding, hereby declared to be legal and valid.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1923c23.pdf?cite=1923%20c%2023%20§%202[1923 c 23 § 2]; RRS § 10557; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1888%20p%20184%20§%202[1888 p 184 § 2]; ]
+
+== 64.04.105 - Corporate seals—Effect of absence from instrument.
+The absence of a corporate seal on any deed, mortgage, lease, bond or other instrument or contract in writing shall not affect its validity, legality or character in any respect.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1957c200.pdf?cite=1957%20c%20200%20§%201[1957 c 200 § 1]; ]
+
+== 64.04.130 - Interests in land for purposes of conservation, protection, preservation, etc.—Ownership by certain entities—Conveyances—Definitions.
+A development right, easement, covenant, restriction, or other right, or any interest less than the fee simple, to protect, preserve, maintain, improve, restore, limit the future use of, or conserve for open space purposes, any land or improvement on the land, whether the right or interest be appurtenant or in gross, may be held or acquired by any state agency, federal agency, county, city, town, federally recognized Indian tribe, or metropolitan municipal corporation, nonprofit historic preservation corporation, or nonprofit nature conservancy corporation. Any such right or interest constitutes and is classified as real property. All instruments for the conveyance thereof must be substantially in the form required by law for the conveyance of any land or other real property.
+
+The definitions in this section apply throughout this section unless the context clearly requires otherwise.
+
+. "Nonprofit historic preservation corporation" means an organization which qualifies as being tax exempt under 26 U.S.C. section 501(c)(3) of the United States Internal Revenue Code of 1954, as amended, and which has as one of its principal purposes the conducting or facilitating of historic preservation activities within the state, including conservation or preservation of historic sites, districts, buildings, and artifacts.
+
+. "Nonprofit nature conservancy corporation" means an organization which qualifies as being tax exempt under 26 U.S.C. section 501(c)(3) (of the United States Internal Revenue Code of 1954, as amended) as it existed on June 25, 1976, and which has as one of its principal purposes the conducting or facilitating of scientific research; the conserving of natural resources, including but not limited to biological resources, for the general public; or the conserving of natural areas including but not limited to wildlife or plant habitat.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1277.SL.pdf?cite=2013%20c%20120%20§%201[2013 c 120 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c341.pdf?cite=1987%20c%20341%20§%201[1987 c 341 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c21.pdf?cite=1979%20ex.s.%20c%2021%20§%201[1979 ex.s. c 21 § 1]; ]
+
+== 64.04.135 - Criteria for monitoring historical conformance not to exceed those in original donation agreement—Exception.
+The criteria for monitoring historical conformance shall not exceed those included in the original donation agreement, unless agreed to in writing between grantor and grantee.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c341.pdf?cite=1987%20c%20341%20§%204[1987 c 341 § 4]; ]
+
+== 64.04.140 - Legislative declaration—Solar energy systems—Solar easements authorized.
+The legislature declares that the potential economic and environmental benefits of solar energy use are considered to be in the public interest; therefore, local governments are authorized to encourage and protect access to direct sunlight for solar energy systems. The legislature further declares that solar easements appropriate to assuring continued access to direct sunlight for solar energy systems may be created and may be privately negotiated.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c170.pdf?cite=1979%20ex.s.%20c%20170%20§%201[1979 ex.s. c 170 § 1]; ]
+
+== 64.04.150 - Solar easements—Definitions.
+. As used in this chapter:
+
+.. "Solar energy system" means any device or combination of devices or elements which rely upon direct sunlight as an energy source, including but not limited to any substance or device which collects sunlight for use in:
+
+... The heating or cooling of a structure or building;
+
+... The heating or pumping of water;
+
+... Industrial, commercial, or agricultural processes; or
+
+... The generation of electricity.
+
+A solar energy system may be used for purposes in addition to the collection of solar energy. These uses include, but are not limited to, serving as a structural member or part of a roof of a building or structure and serving as a window or wall; and
+
+.. "Solar easement" means a right, expressed as an easement, restriction, covenant, or condition contained in any deed, contract, or other written instrument executed by or on behalf of any landowner for the purpose of assuring adequate access to direct sunlight for solar energy systems.
+
+. A solar easement is an interest in real property, and shall be created in writing and shall be subject to the same conveyancing and instrument recording requirements as other easements.
+
+. A solar easement shall be appurtenant and run with the land or lands benefited and burdened, unless otherwise provided in the easement.
+
+. Any instrument creating a solar easement shall include but not be limited to:
+
+.. A description of the real property subject to the solar easement and a description of the real property benefiting from the solar easement; and
+
+.. A description of the extent of the solar easement which is sufficiently certain to allow the owner of the real property subject to the easement to ascertain the extent of the easement. Such description may be made by describing the vertical and horizontal angles, expressed in degrees, at which the solar easement extends over the real property subject to the easement and the points from which those angles are to be measured, or the height over the property above which the solar easement extends, or a prohibited shadow pattern, or any other reasonably certain description.
+
+. Any instrument creating a solar easement may include:
+
+.. The terms or conditions or both under which the solar easement is granted or will be terminated; and
+
+.. Any provisions for compensation to the owner of property benefiting from the solar easement in the event of interference with the enjoyment of the solar easement, or compensation to the owner of the property subject to the solar easement for maintaining the solar easement.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c170.pdf?cite=1979%20ex.s.%20c%20170%20§%2012[1979 ex.s. c 170 § 12]; ]
+
+== 64.04.160 - Solar easements—Creation.
+A solar easement created under this chapter may only be created by written agreement. Nothing in this chapter shall be deemed to create or authorize the creation of an implied easement or a prescriptive easement.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c170.pdf?cite=1979%20ex.s.%20c%20170%20§%2014[1979 ex.s. c 170 § 14]; ]
+
+== 64.04.170 - Interference with solar easement—Remedies.
+In any action for interference with a solar easement, if the instrument creating the easement does not specify any appropriate and applicable remedies, the court may choose one or more remedies including but not limited to the following:
+
+. Actual damages as measured by increased charges for supplemental energy, the capital cost of the solar energy system, and/or the cost of additional equipment necessary to supply sufficient energy:
+
+.. From the time the interference began until the actual or expected cessation of the interference; or
+
+.. If the interference is not expected to cease, in a lump sum which represents the present value of the damages from the time the interference began until the normally expected end of the useful life of the equipment which was interfered with;
+
+. Reasonable and necessary attorney's fees as fixed by the court; and
+
+. An injunction against the interference.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c170.pdf?cite=1979%20ex.s.%20c%20170%20§%2013[1979 ex.s. c 170 § 13]; ]
+
+== 64.04.175 - Easements established by dedication—Extinguishing or altering.
+Easements established by a dedication are property rights that cannot be extinguished or altered without the approval of the easement owner or owners, unless the plat or other document creating the dedicated easement provides for an alternative method or methods to extinguish or alter the easement.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1265-S.SL.pdf?cite=1991%20c%20132%20§%201[1991 c 132 § 1]; ]
+
+== 64.04.180 - Railroad properties as public utility and transportation corridors—Declaration of availability for public use—Acquisition of reversionary interest.
+Railroad properties, including but not limited to rights-of-way, land held in fee and used for railroad operations, bridges, tunnels, and other facilities, are declared to be suitable for public use upon cessation of railroad operations on the properties. It is in the public interest of the state of Washington that such properties retain their character as public utility and transportation corridors, and that they may be made available for public uses including highways, other forms of mass transportation, conservation, energy production or transmission, or recreation. Nothing in this section or in RCW 64.04.190 authorizes a public agency or utility to acquire reversionary interests in public utility and transportation corridors without payment of just compensation.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c16.pdf?cite=1988%20c%2016%20§%201[1988 c 16 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c143.pdf?cite=1984%20c%20143%20§%2022[1984 c 143 § 22]; ]
+
+== 64.04.190 - Public utility and transportation corridors—Defined.
+Public utility and transportation corridors are railroad properties (1) on which railroad operations have ceased; (2) that have been found suitable for public use by an order of the Interstate Commerce Commission of the United States; and (3) that have been acquired by purchase, lease, donation, exchange, or other agreement by the state, one of its political subdivisions, or a public utility.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c16.pdf?cite=1988%20c%2016%20§%202[1988 c 16 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c143.pdf?cite=1984%20c%20143%20§%2023[1984 c 143 § 23]; ]
+
+== 64.04.200 - Existing rate or charge for energy conservation—Seller's duty to disclose.
+Prior to closing, the seller of real property subject to a rate or charge for energy conservation measures, services, or payments provided under a tariff approved by the utilities and transportation commission pursuant to RCW 80.28.065 shall disclose to the purchaser of the real property the existence of the obligation and the possibility that the purchaser may be responsible for the payment obligation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1326-S.SL.pdf?cite=1993%20c%20245%20§%203[1993 c 245 § 3]; ]
+
+== 64.04.210 - Requests for notice of transfer or encumbrance—Disclosure—Notice to department of social and health services.
+. If the department of social and health services has filed a request for notice of transfer or encumbrance under RCW 43.20B.750:
+
+.. A title insurance company or agent that discovers the presence of a request for notice of transfer or encumbrance when performing a title search on real property shall disclose the presence of the request for notice of transfer or encumbrance in any report preliminary to, or any commitment to offer, a certificate of title insurance for the real property; and
+
+.. Any individual who transfers or encumbers real property shall provide the department of social and health services with a notice of transfer or encumbrance. The department of social and health services shall adopt by rule a model form for notice of transfer or encumbrance to be used by a purchaser or lender when notifying the department.
+
+. If the department of social and health services has caused to be recorded a termination of request for notice of transfer or encumbrance in the deed and mortgage records under RCW 43.20B.750, an individual transferring or encumbering the real property is not required to provide the notice of transfer or encumbrance required by subsection (1)(b) of this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2304-S.SL.pdf?cite=2005%20c%20292%20§%202[2005 c 292 § 2]; ]
+
+== 64.04.220 - Handling of earnest money—Definitions—Notice from holder—Interpleader action, forms—Application.
+. As used in this section:
+
+.. "Day" means calendar day.
+
+.. "Earnest money" means money placed with a holder by a prospective buyer of residential real property to show a good-faith intention to perform pursuant to an executed purchase and sale agreement.
+
+.. "Holder" means the party holding the earnest money pursuant to an executed purchase and sale agreement including, but not limited to, any of the following:
+
+... A real estate firm, as defined in RCW 18.85.011;
+
+... An escrow agent, as defined in RCW 18.44.011;
+
+... A title insurance company issued a certificate of authority pursuant to chapters 48.05 and 48.29 RCW; or
+
+... A title insurance agent licensed pursuant to chapter 48.29 RCW.
+
+.. "Party" means a person or entity identified as a buyer or seller in an executed purchase and sale agreement for residential real property.
+
+.. "Residential real property" has the same meaning as defined in RCW 64.06.005.
+
+. If a holder receives a written demand from a party to a transaction for all or any part of the earnest money held by the holder in relation to that transaction, the holder must, within fifteen days of receipt of the written demand: (a) Notify all other parties to the transaction of the demand in writing and comply with the other requirements of this section; (b) release the earnest money to one or more of the parties; or (c) commence an interpleader action.
+
+. The holder's notice to the other parties must include a copy of the demand and advise the other parties that: (a) They have twenty days from the date of the holder's notice to notify the holder in writing of their objection to the release of the earnest money; and (b) their failure to deliver a timely written objection will result in the holder releasing the earnest money to the demanding party in accordance with the demand upon expiration of the twenty-day period. The holder's notice must also specify an address where written objections to the release of the earnest money must be sent.
+
+. The twenty-day period commences upon the date the holder places the holder's notice in the United States postal service mail and sends an email pursuant to subsection (6) of this section. The holder must maintain a log or other method of evidencing the mailing of the holder's notice.
+
+. If the holder does not receive, at the address specified in the holder's notice, a written objection from one or more of the other parties within the twenty-day period, the holder must, within ten days of the expiration of the twenty-day period, deliver the earnest money to the demanding party in accordance with the party's written demand. If the holder receives, at the specified address, a written objection or inconsistent demand from another party to the transaction within the twenty-day period, the holder must not release the funds to any party, but must commence an interpleader action within sixty days of receipt of the objection or inconsistent demand, unless the parties provide subsequent consistent instructions that authorize the holder to (a) disburse the earnest money or (b) refrain from commencing an interpleader action for a specified period of time.
+
+. The notice from the holder to the other parties must be sent via United States postal service mail and via email using the last known mailing address and email address for such parties to the extent such information is provided by the parties and is contained in the holder's records for that transaction. The holder has no obligation to search outside its records to determine the current mailing or email address of the other parties, and is not liable for unsuccessfully locating the other parties' current mailing or email addresses if outside records are used.
+
+. Unless a holder releases the earnest money pursuant to subsection (2)(b) of this section, a holder that complies with this section is not liable to any party to the transaction, or to any other person, for releasing the earnest money to the demanding party.
+
+. This section does not prohibit a holder from interpleading the earnest money at any time, including after receiving a written demand as described in subsection (2) of this section and before the expiration of the twenty-day period as described in subsections (3) and (4) of this section.
+
+. If the holder commences an interpleader action, the court must award the holder its reasonable attorneys' fees and costs.
+
+. The holder may use the following form of summons for the interpleader action:
+
+SUPERIOR COURT OF WASHINGTONFOR . . . . . COUNTY. . . .,Interpleader Plaintiff,vs.. . . .,Defendant Seller,and. . . .,Defendant Buyer.NO.INTERPLEADERSUMMONS
+
+SUPERIOR COURT OF WASHINGTON
+
+FOR . . . . . COUNTY
+
+. . . .,
+
+Interpleader Plaintiff,
+
+vs.
+
+. . . .,
+
+Defendant Seller,
+
+and
+
+. . . .,
+
+Defendant Buyer.
+
+
+
+
+
+
+
+
+
+
+
+NO.
+
+INTERPLEADER
+
+SUMMONS
+
+TO: THE DEFENDANTS
+
+This interpleader lawsuit has been started against you in the above court. The plaintiff's claim is stated in the complaint.
+
+In order to protect any right you have in the money described in the complaint, you must file a response to the complaint and serve a copy of your response on the other defendant within twenty (20) days after the service of this summons, if served within the state of Washington [or within sixty (60) days after service if served outside the state of Washington], excluding the day of service. The day of service is the day that this summons is personally served or postmarked, if served by mail. If you do not respond to the complaint within this time period, the other defendant may enter a default judgment against you, without notice and you would lose any interest you may have in the money described in the complaint. If you serve a "Notice of Appearance" on the other defendant, you are entitled to notice before such a default judgment is entered.
+
+The plaintiff has waived all claims to the money deposited with the court, except for reimbursement of its reasonable attorneys' fees and costs.
+
+You may wish to seek the advice of an attorney. In such case, you should do so promptly so that your response, if any, can be served within the applicable time.
+
+This summons is issued pursuant to Rule 4 of the superior court civil rules of the state of Washington.
+
+Interpleader Plaintiff
+
+By:
+
+Dated:
+
+Address:
+
+. The holder may use the following form of complaint for the interpleader action:
+
+SUPERIOR COURT OF WASHINGTONFOR . . . . . COUNTY. . . .,Interpleader Plaintiff,vs.. . . .,Defendant Seller,and. . . .,Defendant Buyer.NO.INTERPLEADERCOMPLAINT
+
+SUPERIOR COURT OF WASHINGTON
+
+FOR . . . . . COUNTY
+
+. . . .,
+
+Interpleader Plaintiff,
+
+vs.
+
+. . . .,
+
+Defendant Seller,
+
+and
+
+. . . .,
+
+Defendant Buyer.
+
+
+
+
+
+
+
+
+
+
+
+NO.
+
+INTERPLEADER
+
+COMPLAINT
+
+COMES NOW the interpleader plaintiff, and alleges as follows:
+
+1. INTERPLEADER. Plaintiff is holding earnest money related to the attached real estate purchase and sale agreement (the "agreement").
+
+2. DEFENDANTS' AGREEMENT. Defendants are the "buyer" and "seller" under the agreement.
+
+3. EARNEST MONEY - CONFLICTING CLAIMS. Pursuant to the agreement, buyer deposited the earnest money with plaintiff in the amount of $. . . . .. The sale contemplated by the agreement did not close. Both buyer and seller have made conflicting claims for the earnest money.
+
+4. DEPOSIT WITH COURT. At the time of filing of this complaint, plaintiff has deposited the earnest money with the clerk of the court pursuant to RCW 4.08.170 and superior court civil rule 22.
+
+5. PLAINTIFF'S CLAIM. Plaintiff disclaims any interest in the earnest money, except for reimbursement of its reasonable attorneys' fees and costs. Pursuant to RCW 4.08.170, plaintiff asks that this complaint be accepted without payment of a filing fee or other cost to plaintiff.
+
+6. The defendants' names and addresses last known to plaintiff are:
+
+Defendant Buyer:
+
+Address:
+
+Defendant Seller:
+
+Address:
+
+WHEREFORE, Plaintiff having interplead the earnest money, respectfully requests:
+
+1. That the court adjudicate who is entitled to the earnest money.
+
+2. That the court award plaintiff its reasonable attorneys' fees and costs.
+
+Interpleader Plaintiff
+
+By:
+
+Dated:
+
+Address:
+
+. This section:
+
+.. Applies to all earnest money held by a holder on July 24, 2015, even if the earnest money was deposited with the holder before July 24, 2015;
+
+.. Applies only to a transaction involving improved residential real property and unimproved residential real property as each are defined in RCW 64.06.005.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1730-S.SL.pdf?cite=2015%20c%2051%20§%201[2015 c 51 § 1]; ]
+

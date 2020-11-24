@@ -1,0 +1,254 @@
+= 28B.92 - State student financial aid programs.
+:toc:
+
+== 28B.92.005 - Financial aid application due dates and information—Notification.
+Community and technical colleges shall provide financial aid application due dates and information on whether or not financial aid will be awarded on a rolling basis to their admitted students at the time of acceptance. State universities, regional universities, and The Evergreen State College shall provide financial aid application due dates and distribution policies on their web sites, including whether financial aid is awarded on a rolling basis, for prospective and admitted students.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5328-S.SL.pdf?cite=2015%20c%20212%20§%201[2015 c 212 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6358.SL.pdf?cite=2014%20c%2053%20§%202[2014 c 53 § 2]; ]
+
+== 28B.92.030 - Definitions.
+As used in this chapter:
+
+. "Council" means the student achievement council.
+
+. "Financial aid" means either loans, grants, or both, to students who demonstrate financial need enrolled or accepted for enrollment as a student at institutions of higher education.
+
+. "Financial need" means a demonstrated financial inability to bear the total cost of education as directed in rule by the office.
+
+. "Institution" or "institutions of higher education" means:
+
+.. Any public university, college, community college, or technical college operated by the state of Washington or any political subdivision thereof; or
+
+.. Any other university, college, school, or institute in the state of Washington offering instruction beyond the high school level that is a member institution of an accrediting association recognized by rule of the council for the purposes of this section and that agrees to and complies with program rules adopted pursuant to RCW 28B.92.150. However, any institution, branch, extension or facility operating within the state of Washington that is affiliated with an institution operating in another state must be:
+
+... A separately accredited member institution of any such accrediting association;
+
+... A branch of a member institution of an accrediting association recognized by rule of the council for purposes of this section, that is eligible for federal student financial aid assistance and has operated as a nonprofit college or university delivering on-site classroom instruction for a minimum of twenty consecutive years within the state of Washington, and has an annual enrollment of at least seven hundred full-time equivalent students;
+
+... A nonprofit institution recognized by the state of Washington as provided in RCW 28B.77.240; or
+
+... An approved apprenticeship program under chapter 49.04 RCW.
+
+. "Maximum Washington college grant":
+
+.. For students attending two or four-year institutions of higher education as defined in RCW 28B.10.016, is tuition and estimated fees for fifteen quarter credit hours or the equivalent, as determined by the office, including operating fees, building fees, and services and activities fees.
+
+.. For students attending private four-year not-for-profit institutions of higher education in Washington, in the 2019-20 academic year, is nine thousand seven hundred thirty-nine dollars and may increase each year afterwards by no more than the tuition growth factor.
+
+.. For students attending two-year private not-for-profit institutions of higher education in Washington, in the 2019-20 academic year, is three thousand six hundred ninety-four dollars and may increase each year afterwards by no more than the tuition growth factor.
+
+.. For students attending four-year private for-profit institutions of higher education in Washington, in the 2019-20 academic year, is eight thousand five hundred seventeen dollars and may increase each year afterwards by no more than the tuition growth factor.
+
+.. For students attending two-year private for-profit institutions of higher education in Washington, in the 2019-20 academic year, is two thousand eight hundred twenty-three dollars and may increase each year afterwards by no more than the tuition growth factor.
+
+.. For students attending Western Governors University-Washington, as established in RCW 28B.77.240, in the 2019-20 academic year, is five thousand six hundred nineteen dollars and may increase each year afterwards by no more than the tuition growth factor.
+
+.. For students attending approved apprenticeship programs, is tuition and fees, as determined by the office, in addition to required program supplies and equipment.
+
+. "Office" means the office of student financial assistance.
+
+. "Tuition growth factor" means an increase of no more than the average annual percentage growth rate of the median hourly wage for Washington for the previous fourteen years as the wage is determined by the federal bureau of labor statistics.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2158-S2.SL.pdf?cite=2019%20c%20406%20§%2021[2019 c 406 § 21]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5195-S.SL.pdf?cite=2013%20c%20248%20§%202[2013 c 248 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2483-S2.SL.pdf?cite=2012%20c%20229%20§%20557[2012 c 229 § 557]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5182-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2011%20§%20159[2011 1st sp.s. c 11 § 159]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1355-S2.SL.pdf?cite=2009%20c%20238%20§%207[2009 c 238 § 7]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2021-S2.SL.pdf?cite=2009%20c%20215%20§%205[2009 c 215 § 5]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/3103-S.SL.pdf?cite=2004%20c%20275%20§%2035[2004 c 275 § 35]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5166-S.SL.pdf?cite=2002%20c%20187%20§%201[2002 c 187 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c254.pdf?cite=1989%20c%20254%20§%202[1989 c 254 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c370.pdf?cite=1985%20c%20370%20§%2056[1985 c 370 § 56]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c235.pdf?cite=1979%20ex.s.%20c%20235%20§%201[1979 ex.s. c 235 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c132.pdf?cite=1975%201st%20ex.s.%20c%20132%20§%2016[1975 1st ex.s. c 132 § 16]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c222.pdf?cite=1969%20ex.s.%20c%20222%20§%208[1969 ex.s. c 222 § 8]; ]
+
+== 28B.92.040 - Guidelines in performance of office duties.
+The office shall be cognizant of the following guidelines in the performance of its duties:
+
+. The office shall be research oriented, not only at its inception but continually through its existence.
+
+. The office shall coordinate all existing programs of financial aid except those specifically dedicated to a particular institution by the donor.
+
+. The office shall take the initiative and responsibility for coordinating all federal student financial aid programs to ensure that the state recognizes the maximum potential effect of these programs, and shall design state programs that complement existing federal, state, and institutional programs.
+
+. Counseling is a paramount function of the Washington college grant program and other state student financial aid programs, and in most cases could only be properly implemented at the institutional levels; therefore, state student financial aid programs shall be concerned with the attainment of those goals which, in the judgment of the office, are the reasons for the existence of a student financial aid program, and not solely with administration of the program on an individual basis.
+
+. The "package" approach of combining loans, grants and employment for student financial aid shall be the conceptual element of the state's involvement.
+
+. The office shall ensure that allocations of state appropriations for financial aid are made to individuals and institutions in a timely manner and shall closely monitor expenditures to avoid under or overexpenditure of appropriated funds.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2158-S2.SL.pdf?cite=2019%20c%20406%20§%2027[2019 c 406 § 27]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5182-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2011%20§%20160[2011 1st sp.s. c 11 § 160]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/3103-S.SL.pdf?cite=2004%20c%20275%20§%2036[2004 c 275 § 36]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1140-S2.SL.pdf?cite=1999%20c%20345%20§%203[1999 c 345 § 3]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1107-S.SL.pdf?cite=1995%20c%20269%20§%20801[1995 c 269 § 801]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c222.pdf?cite=1969%20ex.s.%20c%20222%20§%2010[1969 ex.s. c 222 § 10]; ]
+
+== 28B.92.060 - State need grant awards.
+In awarding need grants, the office shall proceed substantially as follows: PROVIDED, That nothing contained herein shall be construed to prevent the office, in the exercise of its sound discretion, from following another procedure when the best interest of the program so dictates:
+
+. The office shall annually select the financial aid award recipients from among Washington residents applying for student financial aid who have been ranked according to:
+
+.. College bound scholarship eligibility. Eligible students as defined in RCW 28B.118.010 who meet the requirements in RCW 28B.118.010(4)(b)(i) for the college bound scholarship may not be denied state need grant funding due to institutional policies or delayed awarding of college bound scholarship students. College bound scholarship eligible students whose family income exceeds sixty-five percent of the state median family income, but who are eligible for the state need grant, shall be prioritized and awarded the maximum state need grant for which the student is eligible;
+
+.. Financial need as determined by the amount of the family contribution; and
+
+.. Other considerations, such as whether the student is a former foster youth, or is a placebound student who has completed an associate of arts or associate of science degree or its equivalent.
+
+. The financial need of the highest ranked students shall be met by grants depending upon the evaluation of financial need until the total allocation has been disbursed. Funds from grants which are declined, forfeited or otherwise unused shall be reawarded until disbursed, except that eligible former foster youth shall be assured receipt of a grant. The office, in consultation with four-year institutions of higher education, the council, and the state board for community and technical colleges, shall develop award criteria and methods of disbursement based on level of need, and not solely rely on a first-come, first-served basis.
+
+. A student shall be eligible to receive a state need grant for up to five years, or the credit or clock hour equivalent of five years, or up to one hundred twenty-five percent of the published length of time of the student's program. A student may not start a new associate degree program as a state need grant recipient until at least five years have elapsed since earning an associate degree as a need grant recipient, except that a student may earn two associate degrees concurrently. Qualifications for renewal will include maintaining satisfactory academic progress toward completion of an eligible program as determined by the office. Should the recipient terminate his or her enrollment for any reason during the academic year, the unused portion of the grant shall be returned to the state educational grant fund by the institution according to the institution's own policy for issuing refunds, except as provided in RCW 28B.92.070.
+
+. In computing financial need, the office shall determine a maximum student expense budget allowance, not to exceed an amount equal to the total maximum student expense budget at the public institutions plus the current average state appropriation per student for operating expense in the public institutions. Any child support payments received by students who are parents attending less than half-time shall not be used in computing financial need.
+
+. [Empty]
+.. A student who is enrolled in three to six credit-bearing quarter credits, or the equivalent semester credits, may receive a grant for up to one academic year before beginning a program that leads to a degree or certificate.
+
+.. An eligible student enrolled on a less-than-full-time basis shall receive a prorated portion of his or her state need grant for any academic period in which he or she is enrolled on a less-than-full-time basis, as long as funds are available.
+
+.. An institution of higher education may award a state need grant to an eligible student enrolled in three to six credit-bearing quarter credits, or the semester equivalent, on a provisional basis if:
+
+... The student has not previously received a state need grant from that institution;
+
+... The student completes the required free application for federal student aid;
+
+... The institution has reviewed the student's financial condition, and the financial condition of the student's family if the student is a dependent student, and has determined that the student is likely eligible for a state need grant; and
+
+... The student has signed a document attesting to the fact that the financial information provided on the free application for federal student aid and any additional financial information provided directly to the institution is accurate and complete, and that the student agrees to repay the institution for the grant amount if the student submitted false or incomplete information.
+
+. As used in this section, "former foster youth" means a person who is at least eighteen years of age, but not more than twenty-four years of age, who was a dependent of the department of social and health services at the time he or she attained the age of eighteen.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1311-S2.SL.pdf?cite=2019%20c%20298%20§%204[2019 c 298 § 4]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2483-S2.SL.pdf?cite=2012%20c%20229%20§%20558[2012 c 229 § 558]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5182-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2011%20§%20162[2011 1st sp.s. c 11 § 162]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1795-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2010%20§%209[2011 1st sp.s. c 10 § 9]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2021-S2.SL.pdf?cite=2009%20c%20215%20§%204[2009 c 215 § 4]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1179-S.SL.pdf?cite=2007%20c%20404%20§%202[2007 c 404 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1079-S.SL.pdf?cite=2005%20c%2093%20§%203[2005 c 93 § 3]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/3103-S.SL.pdf?cite=2004%20c%20275%20§%2037[2004 c 275 § 37]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1140-S2.SL.pdf?cite=1999%20c%20345%20§%205[1999 c 345 § 5]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2027-S.SL.pdf?cite=1991%20c%20164%20§%204[1991 c 164 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c254.pdf?cite=1989%20c%20254%20§%204[1989 c 254 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c222.pdf?cite=1969%20ex.s.%20c%20222%20§%2012[1969 ex.s. c 222 § 12]; ]
+
+== 28B.92.065 - Washington college grant program appropriations reduction.
+Beginning with the 2015-2017 omnibus appropriations act and each biennium thereafter, reductions in tuition levels resulting from section 3, chapter 36, Laws of 2015 3rd sp. sess. will allow the legislature to reduce Washington college grant program appropriations by an equal amount from the 2013-2015 fiscal biennium amounts. The legislature does not intend to reduce award levels for private colleges and universities below the 2014-15 academic year levels.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2158-S2.SL.pdf?cite=2019%20c%20406%20§%2028[2019 c 406 § 28]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5954-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%2036%20§%204[2015 3rd sp.s. c 36 § 4]; ]
+
+== 28B.92.070 - Persian Gulf veterans—Limited application of RCW  28B.92.060.
+Under rules adopted by the council, the provisions of *RCW 28B.92.060(3) shall not apply to eligible students, as defined in RCW 28B.10.017, and eligible students shall not be required to repay the unused portions of grants received under the state student financial aid program.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2483-S2.SL.pdf?cite=2012%20c%20229%20§%20559[2012 c 229 § 559]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/3103-S.SL.pdf?cite=2004%20c%20275%20§%2038[2004 c 275 § 38]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2027-S.SL.pdf?cite=1991%20c%20164%20§%203[1991 c 164 § 3]; ]
+
+== 28B.92.085 - Part-time students—Review of financial aid policies and procedures.
+Institutions of higher education are encouraged to review their policies and procedures regarding financial aid for students taking a less-than-half-time course load, and to implement policies and procedures providing students taking a less-than-half-time course load with the same access to institutional aid, including tuition waivers, as provided to students enrolled half time or more.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1179-S.SL.pdf?cite=2007%20c%20404%20§%203[2007 c 404 § 3]; ]
+
+== 28B.92.086 - Dual credit programs—Review of financial aid policies and programs.
+Institutions of higher education are encouraged to review their policies and procedures regarding financial aid for students enrolled in dual credit programs as defined in RCW 28B.15.821. Institutions of higher education are further encouraged to implement policies and procedures providing students enrolled in dual credit programs with the same access to institutional aid, including all educational expenses, as provided to resident undergraduate students.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2021-S2.SL.pdf?cite=2009%20c%20215%20§%2010[2009 c 215 § 10]; ]
+
+== 28B.92.090 - Aid granted without regard to applicant's race, creed, color, religion, sex, or ancestry.
+All student financial aid shall be granted by the commission without regard to the applicant's race, creed, color, religion, sex, or ancestry.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c222.pdf?cite=1969%20ex.s.%20c%20222%20§%2014[1969 ex.s. c 222 § 14]; ]
+
+== 28B.92.100 - Theology student denied aid.
+No aid shall be awarded to any student who is pursuing a degree in theology.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c222.pdf?cite=1969%20ex.s.%20c%20222%20§%2015[1969 ex.s. c 222 § 15]; ]
+
+== 28B.92.110 - Application of award.
+A state financial aid recipient under this chapter shall apply the award toward the cost of tuition, room, board, books, and fees at the institution of higher education attended. An opportunity internship graduate who enters an apprenticeship program may use the award for the costs of related and supplemental instruction provided through an institution of higher education, tools, and other costs associated with the apprenticeship program.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1355-S2.SL.pdf?cite=2009%20c%20238%20§%2010[2009 c 238 § 10]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/3103-S.SL.pdf?cite=2004%20c%20275%20§%2040[2004 c 275 § 40]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c222.pdf?cite=1969%20ex.s.%20c%20222%20§%2016[1969 ex.s. c 222 § 16]; ]
+
+== 28B.92.120 - Office to determine how funds disbursed.
+Funds appropriated for student financial assistance to be granted pursuant to this chapter shall be disbursed as determined by the office.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5182-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2011%20§%20164[2011 1st sp.s. c 11 § 164]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/3103-S.SL.pdf?cite=2004%20c%20275%20§%2041[2004 c 275 § 41]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c222.pdf?cite=1969%20ex.s.%20c%20222%20§%2017[1969 ex.s. c 222 § 17]; ]
+
+== 28B.92.130 - Grants, gifts, bequests, and devises of property.
+The office shall be authorized to accept grants, gifts, bequests, and devises of real and personal property from any source for the purpose of granting financial aid in addition to that funded by the state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5182-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2011%20§%20165[2011 1st sp.s. c 11 § 165]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/3103-S.SL.pdf?cite=2004%20c%20275%20§%2042[2004 c 275 § 42]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c222.pdf?cite=1969%20ex.s.%20c%20222%20§%2018[1969 ex.s. c 222 § 18]; ]
+
+== 28B.92.140 - State educational trust fund—Deposits—Expenditures.
+The state educational trust fund is hereby established in the state treasury. The primary purpose of the trust is to pledge statewide available college student assistance to needy or disadvantaged students, especially middle and high school youth, considered at-risk of dropping out of secondary education who participate in approved early awareness and outreach programs and who enter any accredited Washington institution of postsecondary education within two years of high school graduation.
+
+The office shall deposit refunds and recoveries of student financial aid funds expended in prior fiscal periods in such account. The office may also deposit moneys that have been contributed from other state, federal, or private sources.
+
+Expenditures from the fund shall be for financial aid to needy or disadvantaged students. The office may annually expend such sums from the fund as may be necessary to fulfill the purposes of this section, including not more than three percent for the costs to administer aid programs supported by the fund. All earnings of investments of balances in the state educational trust fund shall be credited to the trust fund. Expenditures from the fund shall not be subject to appropriation but are subject to allotment procedures under chapter 43.88 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5182-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2011%20§%20166[2011 1st sp.s. c 11 § 166]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1054.SL.pdf?cite=1997%20c%20269%20§%201[1997 c 269 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2294-S.SL.pdf?cite=1996%20c%20107%20§%201[1996 c 107 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1058-S.SL.pdf?cite=1991%20sp.s.%20c%2013%20§%2012[1991 sp.s. c 13 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c57.pdf?cite=1985%20c%2057%20§%2010[1985 c 57 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c55.pdf?cite=1981%20c%2055%20§%201[1981 c 55 § 1]; ]
+
+== 28B.92.150 - Rules.
+The office shall adopt rules as may be necessary or appropriate for effecting the provisions of this chapter, in accordance with the provisions of chapter 34.05 RCW, the administrative procedure act.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5182-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2011%20§%20167[2011 1st sp.s. c 11 § 167]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/3103-S.SL.pdf?cite=2004%20c%20275%20§%2043[2004 c 275 § 43]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1140-S2.SL.pdf?cite=1999%20c%20345%20§%207[1999 c 345 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973c62.pdf?cite=1973%20c%2062%20§%204[1973 c 62 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c222.pdf?cite=1969%20ex.s.%20c%20222%20§%2019[1969 ex.s. c 222 § 19]; ]
+
+== 28B.92.200 - Washington college grant program.
+. The Washington college grant program is created to provide a statewide free college program for eligible participants and greater access to postsecondary education for Washington residents. The Washington college grant program is intended to increase the number of high school graduates and adults that can attain a postsecondary credential and provide them with the qualifications needed to compete for job opportunities in Washington.
+
+. The office shall implement and administer the Washington college grant program and is authorized to establish rules necessary for implementation of the program.
+
+. The legislature shall appropriate funding for the Washington college grant program. Allocations must be made on the basis of estimated eligible participants enrolled in eligible institutions of higher education or apprenticeship programs. All eligible students are entitled to a Washington college grant beginning in academic year 2020-21.
+
+. The office shall award Washington college grants to all eligible students beginning in academic year 2020-21.
+
+. To be eligible for the Washington college grant, students must meet the following requirements:
+
+.. Demonstrate financial need under RCW 28B.92.205;
+
+.. [Empty]
+... Be enrolled or accepted for enrollment for at least three quarter credits or the equivalent semester credits at an institution of higher education in Washington as defined in RCW  28B.92.030; or
+
+... Be enrolled in a registered apprenticeship program approved under chapter 49.04 RCW;
+
+.. Be a resident student as defined in RCW  28B.15.012(2) (a) through (e);
+
+.. File an annual application for financial aid as approved by the office; and
+
+.. Must not have earned a baccalaureate degree or higher from a postsecondary institution.
+
+. Washington college grant eligibility may not extend beyond five years or one hundred twenty-five percent of the published length of the program in which the student is enrolled or the credit or clock-hour equivalent.
+
+. Institutional aid administrators shall determine whether a student eligible for the Washington college grant in a given academic year may remain eligible for the ensuing year if the student's family income increases by no more than three percent.
+
+. Qualifications for receipt and renewal include maintaining satisfactory academic progress toward completion of an eligible program as determined by the office and established in rule.
+
+. Should a recipient terminate his or her enrollment for any reason during the academic year, the unused portion of the grant shall be returned to the state educational grant fund by the institution of higher education according to the institution of higher education's policy for issuing refunds, except as provided in RCW 28B.92.070.
+
+. An eligible student enrolled on a part-time basis shall receive a prorated portion of the Washington college grant for any academic period in which he or she is enrolled on a part-time basis.
+
+. The Washington college grant is intended to be used to meet the costs of postsecondary education for students with financial need. The student shall be awarded all need-based financial aid for which the student qualifies as determined by the institution.
+
+. Students and participating institutions of higher education shall comply with all the rules adopted by the council for the administration of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2158-S2.SL.pdf?cite=2019%20c%20406%20§%2019[2019 c 406 § 19]; ]
+
+== 28B.92.205 - Washington college grant program—Financial need.
+In addition to other eligibility requirements outlined in this chapter, students who demonstrate financial need are eligible to receive the Washington college grant. Financial need is as follows:
+
+. Until academic year 2020-21, students with family incomes between zero and fifty percent of the state median family income, adjusted for family size, shall receive the maximum Washington college grant as defined in RCW 28B.92.030. Grants for students with incomes between fifty-one and seventy percent of the state median family income, adjusted for family size, shall be prorated at the following percentages of the maximum Washington college grant amount:
+
+.. Seventy percent for students with family incomes between fifty-one and fifty-five percent of the state median family income;
+
+.. Sixty-five percent for students with family incomes between fifty-six and sixty percent of the state median family income;
+
+.. Sixty percent for students with family incomes between sixty-one and sixty-five percent of the state median family income; and
+
+.. Fifty percent for students with family incomes between sixty-six and seventy percent of the state median family income.
+
+. Beginning with academic year 2020-21, students with family incomes between zero and fifty-five percent of the state median family income, adjusted for family size, shall receive the maximum Washington college grant as defined in RCW 28B.92.030. Grants for students with incomes between fifty-six and one hundred percent of the state median family income, adjusted for family size, shall be prorated at the following percentages of the maximum Washington college grant amount:
+
+.. Seventy percent for students with family incomes between fifty-six and sixty percent of the state median family income;
+
+.. Sixty percent for students with family incomes between sixty-one and sixty-five percent of the state median family income;
+
+.. Fifty percent for students with family incomes between sixty-six and seventy percent of the state median family income;
+
+.. Twenty-four and one-half percent for students with family incomes between seventy-one and seventy-five percent of the state median family income; and
+
+.. Ten percent for students with family incomes between seventy-six and one hundred percent of the state median family income.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2158-S2.SL.pdf?cite=2019%20c%20406%20§%2020[2019 c 406 § 20]; ]
+
+== 28B.92.210 - Washington college grant program—Caseload forecast.
+The caseload forecast council shall estimate the anticipated caseload of the Washington college grant program and submit the caseload forecast as specified in RCW 43.88C.020.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2158-S2.SL.pdf?cite=2019%20c%20406%20§%2023[2019 c 406 § 23]; ]
+
+== 28B.92.220 - Postsecondary institution student-level data—Education data center.
+. In order to be eligible for state student financial aid programs, postsecondary institutions shall submit student-level data to the education data center established in RCW 43.41.400 in accordance with RCW 28B.77.090 for the purposes of legislatively authorized research and evaluation of state postsecondary student aid programs.
+
+. The education data center shall determine the appropriate student-level data each postsecondary institution shall report in order to meet the state goals for research and evaluation under subsection (1) of this section.
+
+. The education data center shall enter data-sharing agreements to facilitate the transfer of required data.
+
+. Religious postsecondary institutions that maintain a religious exemption under RCW 28B.85.040 may request an exemption from the council from submitting student-level data to the education data center.
+
+. Postsecondary institutions, except for those exempt under subsection (4) of this section, that do not submit student-level data to the education data center may be found ineligible for the state's federally required eligible training provider list and may lose eligibility to participate in the Washington college grant program, established in this chapter. The council's office of student financial assistance shall determine penalties for postsecondary institutions in accordance with chapter 34.05 RCW.
+
+. Nothing in this section allows the sharing of confidential information that is prohibited by state or federal law.
+
+. For the purposes of this section, "postsecondary institution" means an institution of higher education as defined in RCW 28B.10.016, a degree-granting institution as defined in RCW 28B.85.010, a private vocational school as defined in RCW 28C.10.020, and a school as defined in RCW 18.16.020.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2158-S2.SL.pdf?cite=2019%20c%20406%20§%2022[2019 c 406 § 22]; ]
+

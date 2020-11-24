@@ -1,0 +1,80 @@
+= 35.100 - Downtown and neighborhood commercial districts.
+:toc:
+
+== 35.100.010 - Findings—Intent.
+. The legislature finds:
+
+.. The continued economic vitality of downtown and neighborhood commercial districts in our state's cities is essential to community preservation, social cohesion, and economic growth;
+
+.. In recent years there has been a deterioration of downtown and neighborhood commercial districts in both rural and urban communities due to a shifting population base, changes in the marketplace, and greater competition from suburban shopping malls, discount centers, and through the internet;
+
+.. This decline has eroded the ability of businesses and property owners to renovate and enhance their commercial and residential properties;
+
+.. In many areas of the state, downtown and neighborhood commercial areas are burdened further by deteriorating buildings, vacant building that cannot be legally occupied, and vacant brownfield infill sites which pose significant health and safety problems to tenants and pedestrians, and constitute a significant blight and detrimental impact on the health, safety, and welfare of the community, as well as its economic health;
+
+.. Business owners in these districts need to maintain their local economies in order to provide goods and services to adjacent residents, to provide employment opportunities, to restore blighted properties, and to avoid disinvestment and economic dislocations, and have developed downtown and neighborhood commercial district revitalization programs to address these problems; and
+
+.. It is in the best interest of the state of Washington to stop the decay of community areas and to promote and facilitate the orderly redevelopment of these areas.
+
+. It is the intent of the legislature to establish a program to:
+
+.. Provide for the allocation of a portion of locally imposed excise taxes to assist local governments in the financing of needed health and safety improvements, public improvements, and other public investments, to encourage private development and to enhance and revitalize neighborhood business districts and downtown areas; and
+
+.. Provide technical assistance and training to local governments, business organizations, downtown and neighborhood commercial district organizations, and business and property owners to accomplish community and economic revitalization and development of business districts.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2437-S.SL.pdf?cite=2002%20c%2079%20§%201[2002 c 79 § 1]; ]
+
+== 35.100.020 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Community revitalization project" means:
+
+.. Health and safety improvements authorized to be publicly financed under chapter 35.80 or 35.81 RCW;
+
+.. Publicly owned or leased facilities within the jurisdiction of a local government which the sponsor has authority to provide; and
+
+.. Expenditure for any of the following purposes:
+
+... Providing environmental analysis, professional management, planning, and promotion within a downtown or neighborhood commercial district including the management and promotion of retail trade activities in the district;
+
+... Providing maintenance and security for common or public areas in the downtown or neighborhood commercial district;
+
+... Historic preservation activities authorized under RCW 35.21.395; or
+
+... Project design and planning, land acquisition, site preparation, construction, reconstruction, rehabilitation, improvement, operation, and installation of a public facility; the costs of financing, including interest during construction, legal and other professional services, taxes, and insurance; the costs of complying with this chapter and other applicable law; and the administrative costs reasonably necessary and related to these costs.
+
+. "Downtown or neighborhood commercial district" means (a) an area or areas designated by the legislative authority of a city or town with a population over one hundred thousand and that are typically limited to the pedestrian core area or the central commercial district and compact business districts that serve specific neighborhoods within the city or town; or (b) commercial areas designated as main street areas by the department of archaeology and historic preservation.
+
+. "Local retail sales and use tax" means the tax levied by a city or town under RCW 82.14.030, excluding that portion which a county is entitled to receive under RCW 82.14.030.
+
+. "Local retail sales and use tax increment revenue" means that portion of the local retail sales and use tax collected in each year upon any retail sale or any use of an article of tangible personal property within a downtown or neighborhood commercial district that is in excess of the amount of local retail sales and use tax collected on sales or uses within the downtown or neighborhood commercial district in the year preceding.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2704-S.SL.pdf?cite=2010%20c%2030%20§%202[2010 c 30 § 2]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2437-S.SL.pdf?cite=2002%20c%2079%20§%202[2002 c 79 § 2]; ]
+
+== 35.100.030 - Local retail sales and use tax increment revenue—Applications.
+Local retail sales and use tax increment revenue, or any portion thereof, may be applied as follows:
+
+. To pay downtown or neighborhood commercial district community revitalization costs;
+
+. To pay into bond redemption funds established to pay the principal and interest on general obligation or revenue bonds issued to finance a downtown or neighborhood commercial district community revitalization project;
+
+. In combination with any other public or private funds available to the city or town for the purposes provided in this section; or
+
+. To pay any combination of costs under subsection (1), (2), or (3) of this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2437-S.SL.pdf?cite=2002%20c%2079%20§%203[2002 c 79 § 3]; ]
+
+== 35.100.040 - Local sales and use tax increment revenue—Authorization of use by legislative authority.
+. The legislative authority of a city or town may authorize the use of local sales and use tax increment revenue for any purpose authorized in this chapter within the boundaries of a downtown or one or more neighborhood commercial districts.
+
+. Prior to authorizing the use of local sales and use tax increment revenue, the legislative authority must designate the boundaries of each downtown or neighborhood commercial district.
+
+. The legislative authority of a city or town may choose to pool the local sales and use tax increment revenue collected in the various downtown and neighborhood commercial districts within the city or town for the purposes authorized in this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2437-S.SL.pdf?cite=2002%20c%2079%20§%204[2002 c 79 § 4]; ]
+
+== 35.100.050 - Determination of amount of revenue.
+A city or town shall determine at its own cost the amount of local sales and use tax increment revenue that may be generated in the downtown and neighborhood commercial districts it designates. The department of revenue may, at its discretion, provide advice or other assistance to cities and towns to assist in determining local sales and use tax increment revenue.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2437-S.SL.pdf?cite=2002%20c%2079%20§%205[2002 c 79 § 5]; ]
+

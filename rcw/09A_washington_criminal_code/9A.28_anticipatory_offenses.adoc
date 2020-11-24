@@ -1,0 +1,71 @@
+= 9A.28 - Anticipatory offenses.
+:toc:
+
+== 9A.28.010 - Prosecutions based on felonies defined outside Title 9A RCW.
+In any prosecution under this title for attempt, solicitation, or conspiracy to commit a felony defined by a statute of this state which is not in this title, unless otherwise provided:
+
+. If the maximum sentence of imprisonment authorized by law upon conviction of such felony is twenty years or more, such felony shall be treated as a class A felony for purposes of this title;
+
+. If the maximum sentence of imprisonment authorized by law upon conviction of such felony is eight years or more but less than twenty years, such felony shall be treated as a class B felony for purposes of this title;
+
+. If the maximum sentence of imprisonment authorized by law upon conviction of such felony is less than eight years, such felony shall be treated as a class C felony for purposes of this title.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.28.010[1975 1st ex.s. c 260 § 9A.28.010]; ]
+
+== 9A.28.020 - Criminal attempt.
+. A person is guilty of an attempt to commit a crime if, with intent to commit a specific crime, he or she does any act which is a substantial step toward the commission of that crime.
+
+. If the conduct in which a person engages otherwise constitutes an attempt to commit a crime, it is no defense to a prosecution of such attempt that the crime charged to have been attempted was, under the attendant circumstances, factually or legally impossible of commission.
+
+. An attempt to commit a crime is a:
+
+.. Class A felony when the crime attempted is murder in the first degree, murder in the second degree, arson in the first degree, child molestation in the first degree, indecent liberties by forcible compulsion, rape in the first degree, rape in the second degree, rape of a child in the first degree, or rape of a child in the second degree;
+
+.. Class B felony when the crime attempted is a class A felony other than an offense listed in (a) of this subsection;
+
+.. Class C felony when the crime attempted is a class B felony;
+
+.. Gross misdemeanor when the crime attempted is a class C felony;
+
+.. Misdemeanor when the crime attempted is a gross misdemeanor or misdemeanor.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6151-S.SL.pdf?cite=2001%202nd%20sp.s.%20c%2012%20§%20354[2001 2nd sp.s. c 12 § 354]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6007-S.SL.pdf?cite=1994%20c%20271%20§%20101[1994 c 271 § 101]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c203.pdf?cite=1981%20c%20203%20§%203[1981 c 203 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.28.020[1975 1st ex.s. c 260 § 9A.28.020]; ]
+
+== 9A.28.030 - Criminal solicitation.
+. A person is guilty of criminal solicitation when, with intent to promote or facilitate the commission of a crime, he or she offers to give or gives money or other thing of value to another to engage in specific conduct which would constitute such crime or which would establish complicity of such other person in its commission or attempted commission had such crime been attempted or committed.
+
+. Criminal solicitation shall be punished in the same manner as criminal attempt under RCW 9A.28.020.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20356[2011 c 336 § 356]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.28.030[1975 1st ex.s. c 260 § 9A.28.030]; ]
+
+== 9A.28.040 - Criminal conspiracy.
+. A person is guilty of criminal conspiracy when, with intent that conduct constituting a crime be performed, he or she agrees with one or more persons to engage in or cause the performance of such conduct, and any one of them takes a substantial step in pursuance of such agreement.
+
+. It shall not be a defense to criminal conspiracy that the person or persons with whom the accused is alleged to have conspired:
+
+.. Has not been prosecuted or convicted; or
+
+.. Has been convicted of a different offense; or
+
+.. Is not amenable to justice; or
+
+.. Has been acquitted; or
+
+.. Lacked the capacity to commit an offense; or
+
+.. Is a law enforcement officer or other government agent who did not intend that a crime be committed.
+
+. Criminal conspiracy is a:
+
+.. Class A felony when an object of the conspiratorial agreement is murder in the first degree;
+
+.. Class B felony when an object of the conspiratorial agreement is a class A felony other than murder in the first degree;
+
+.. Class C felony when an object of the conspiratorial agreement is a class B felony;
+
+.. Gross misdemeanor when an object of the conspiratorial agreement is a class C felony;
+
+.. Misdemeanor when an object of the conspiratorial agreement is a gross misdemeanor or misdemeanor.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5085.SL.pdf?cite=1997%20c%2017%20§%201[1997 c 17 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.28.040[1975 1st ex.s. c 260 § 9A.28.040]; ]
+

@@ -1,0 +1,58 @@
+= 53.54 - Aircraft noise abatement.
+:toc:
+
+== 53.54.010 - Programs for abatement of aircraft noise authorized.
+A port district operating an airport serving more than nine hundred scheduled jet aircraft flights per day may undertake any of the programs or combinations of such programs, as authorized by this chapter, for the purpose of alleviating and abating the impact of jet aircraft noise on areas surrounding such airport.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1847-S.SL.pdf?cite=2020%20c%20105%20§%201[2020 c 105 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c121.pdf?cite=1974%20ex.s.%20c%20121%20§%201[1974 ex.s. c 121 § 1]; ]
+
+== 53.54.020 - Investigation and monitoring of noise impact—Programs to conform to needs—"Impacted areas."
+. Prior to initiating programs as authorized in this chapter, the port commission shall undertake the investigation and monitoring of aircraft noise impact to determine the nature and extent of the impact. The port commission shall adopt a program of noise impact abatement based upon the investigations and as amended periodically to conform to needs demonstrated by the monitoring programs. In no case may the port district undertake any of the programs prescribed in this chapter in an area that is:
+
+.. More than ten miles beyond the paved north end of any runway;
+
+.. More than thirteen miles beyond the paved south end of any runway; or
+
+.. More than two miles from the centerline of any runway ten miles north and thirteen miles south from the paved end of such runway.
+
+. Such areas as determined in this section, shall be known as "impacted areas."
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1847-S.SL.pdf?cite=2020%20c%20105%20§%202[2020 c 105 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c193.pdf?cite=1984%20c%20193%20§%201[1984 c 193 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c85.pdf?cite=1979%20c%2085%20§%201[1979 c 85 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c121.pdf?cite=1974%20ex.s.%20c%20121%20§%202[1974 ex.s. c 121 § 2]; ]
+
+== 53.54.030 - Authorized programs—When property deemed within impacted area (as amended by 2020 c 105).
+. For the purposes of this chapter, in developing a remedial program, the port commission may ((utilize))take steps as appropriate including, but not limited to, one or more of the following programs:
+
+(((1)))(a) Acquisition of property or property rights within the impacted area, which shall be deemed necessary to accomplish a port purpose. The port district may purchase such property or property rights by time payment notwithstanding the time limitations provided for in RCW 53.08.010. The port district may mortgage or otherwise pledge any such properties acquired to secure such transactions. The port district may assume any outstanding mortgages.
+
+(((2)))(b) Transaction assistance programs, including assistance with real estate fees and mortgage assistance, and other neighborhood remedial programs as compensation for impacts due to aircraft noise and noise associated conditions. Any such programs shall be in connection with properties located within an impacted area and shall be provided upon terms and conditions as the port district shall determine appropriate.
+
+(((3)))(c) Programs of soundproofing structures located within an impacted area. Such programs may be executed without regard to the ownership, provided the owner waives damages and conveys an easement for the operation of aircraft, and for noise and noise associated conditions therewith, to the port district.
+
+(((4)))(d) Mortgage insurance of private owners of lands or improvements within such noise impacted area where such private owners are unable to obtain mortgage insurance solely because of noise impact. In this regard, the port district may establish reasonable regulations and may impose reasonable conditions and charges upon the granting of such mortgage insurance((: PROVIDED, That)). Such mortgage insurance fees and charges shall at no time exceed fees established for federal mortgage insurance programs for like service.
+
+(((5) An individual property may be provided benefits by the port district under each of the programs described in subsections (1) through (4) of this section. However, an individual property may not be provided benefits under any one of these programs more than once, unless the property is subjected to increased aircraft noise or differing aircraft noise impacts that would have afforded different levels of mitigation, even if the property owner had waived all damages and conveyed a full and unrestricted easement.
+
+.))(e) Management of all lands, easements, or development rights acquired, including but not limited to the following:
+
+(((a)))(i) Rental of any or all lands or structures acquired;
+
+(((b)))(ii) Redevelopment of any such lands for any economic use consistent with airport operations, local zoning and the state environmental policy;
+
+(((c)))(iii) Sale of such properties for cash or for time payment and subjection of such property to mortgage or other security transaction: PROVIDED, That any such sale shall reserve to the port district by covenant an unconditional right of easement for the operation of all aircraft and for all noise or noise conditions associated therewith.
+
+(((7)))(2) An individual property may be provided benefits by the port district under each of the programs described in subsection (1) of this section. However, an individual property may not be provided benefits under any one of these programs more than once, unless the property is subjected to increased aircraft noise or differing aircraft noise impacts that would have afforded different levels of mitigation, even if the property owner had waived all damages and conveyed a full and unrestricted easement.
+
+. A property shall be considered within the impacted area if any part thereof is within the impacted area.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1847-S.SL.pdf?cite=2020%20c%20105%20§%203[2020 c 105 § 3]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1915-S.SL.pdf?cite=1993%20c%20150%20§%201[1993 c 150 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c115.pdf?cite=1985%20c%20115%20§%201[1985 c 115 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c121.pdf?cite=1974%20ex.s.%20c%20121%20§%203[1974 ex.s. c 121 § 3]; ]
+
+== 53.54.040 - Fund authorized—Sources.
+A port district may establish a fund to be utilized in effectuating the intent of this chapter. The port district may finance such fund by: The proceeds of any grants or loans made by federal agencies; rentals, charges and other revenues as may be generated by programs authorized by this chapter, airport revenues; and revenue bonds based upon such revenues. The port district may also finance such fund, as necessary, in whole or in part, with the proceeds of general obligation bond issues of not more than one-eighth of one percent of the value of taxable property in the port district: PROVIDED, That any such bond issue shall be in addition to bonds authorized by RCW 53.36.030: PROVIDED FURTHER, That any such general obligation bond issue may be subject to referendum by petition as provided by county charter, the same as if it were a county ordinance.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c121.pdf?cite=1974%20ex.s.%20c%20121%20§%204[1974 ex.s. c 121 § 4]; ]
+
+== 53.54.900 - Liberal construction—Powers additional.
+The rule of strict construction shall have no application to this chapter, which shall be liberally construed to carry out the purposes and objects for which this chapter is intended. The powers granted in this chapter shall be in addition to all others granted to port districts.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c121.pdf?cite=1974%20ex.s.%20c%20121%20§%205[1974 ex.s. c 121 § 5]; ]
+

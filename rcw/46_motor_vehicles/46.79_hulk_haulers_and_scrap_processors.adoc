@@ -1,0 +1,153 @@
+= 46.79 - Hulk haulers and scrap processors.
+:toc:
+
+== 46.79.010 - Definitions.
+The definitions set forth in this section apply throughout this chapter unless the context indicates otherwise.
+
+. "Junk vehicle" means a motor vehicle certified under RCW 46.55.230 as meeting all the following requirements:
+
+.. Is three years old or older;
+
+.. Is extensively damaged, such damage including but not limited to any of the following: A broken window or windshield or missing wheels, tires, motor, or transmission;
+
+.. Is apparently inoperable;
+
+.. Is without a valid, current registration plate;
+
+.. Has a fair market value equal only to the value of the scrap in it.
+
+. "Scrap processor" means a licensed establishment that maintains a hydraulic baler and shears, or a shredder for recycling salvage.
+
+. "Demolish" means to destroy completely by use of a hydraulic baler and shears, or a shredder.
+
+. "Hulk hauler" means any person who deals in vehicles for the sole purpose of transporting and/or selling them to a licensed vehicle wrecker or scrap processor in substantially the same form in which they are obtained. A hulk hauler may not sell secondhand motor vehicle parts to anyone other than a licensed vehicle wrecker or scrap processor, except for those parts specifically enumerated in RCW 46.79.020(2), as now or hereafter amended, which may be sold to a licensed vehicle wrecker or disposed of at a public facility for waste disposal.
+
+. "Director" means the director of licensing.
+
+. "Major component parts" include engines and short blocks, frames, transmissions or transfer cases, cabs, doors, front or rear differentials, front or rear clips, quarter panels or fenders, bumpers, truck beds or boxes, seats, and hoods.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5305.SL.pdf?cite=2001%20c%2064%20§%2010[2001 c 64 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c250.pdf?cite=1990%20c%20250%20§%2069[1990 c 250 § 69]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c142.pdf?cite=1983%20c%20142%20§%202[1983 c 142 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c158.pdf?cite=1979%20c%20158%20§%20190[1979 c 158 § 190]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c110.pdf?cite=1971%20ex.s.%20c%20110%20§%201[1971 ex.s. c 110 § 1]; ]
+
+== 46.79.020 - Transporting junk vehicles to scrap processor—Removal of parts, restrictions.
+Any hulk hauler or scrap processor licensed under the provisions of this chapter may:
+
+. Notwithstanding any other provision of law, transport any flattened or junk vehicle whether such vehicle is from in state or out of state, to a scrap processor upon obtaining the certificate of title or release of interest from the owner or an affidavit of sale from the landowner who has complied with RCW 46.55.230. The scrap processor shall forward such document(s) to the department, together with a monthly report of all vehicles acquired from other than a licensed automobile wrecker, and no further identification shall be necessary.
+
+. Prepare vehicles and vehicle salvage for transportation and delivery to a scrap processor or vehicle wrecker only by removing the following vehicle parts:
+
+.. Gas tanks;
+
+.. Vehicle seats containing springs;
+
+.. Tires;
+
+.. Wheels;
+
+.. Scrap batteries;
+
+.. Scrap radiators.
+
+Such parts may not be removed if they will be accepted by a scrap processor or wrecker. Such parts may be removed only at a properly zoned location, and all preparation activity, vehicles, and vehicle parts shall be obscured from public view. Storage is limited to two vehicles or the parts thereof which are authorized by this subsection, and any such storage may take place only at a properly zoned location. Any vehicle parts removed under the authority of this subsection shall be lawfully disposed of at or through a public facility or service for waste disposal or by sale to a licensed vehicle wrecker.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5305.SL.pdf?cite=2001%20c%2064%20§%2011[2001 c 64 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c250.pdf?cite=1990%20c%20250%20§%2070[1990 c 250 § 70]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c62.pdf?cite=1987%20c%2062%20§%201[1987 c 62 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c142.pdf?cite=1983%20c%20142%20§%203[1983 c 142 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c158.pdf?cite=1979%20c%20158%20§%20191[1979 c 158 § 191]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c110.pdf?cite=1971%20ex.s.%20c%20110%20§%202[1971 ex.s. c 110 § 2]; ]
+
+== 46.79.030 - Application for license, renewal—Form—Signature—Contents.
+Application for a hulk hauler's license or a scrap processor's license or renewal of a hulk hauler's license or a scrap processor's license shall be made on a form for this purpose, furnished by the director, and shall be signed by the applicant or his or her authorized agent and shall include the following information:
+
+. Name and address of the person, firm, partnership, association, or corporation under which name the business is to be conducted;
+
+. Names and residence address of all persons having an interest in the business or, if the owner is a corporation, the names and addresses of the officers thereof;
+
+. Certificate of approval of the chief of police of any city or town, wherever located, having a population of over five thousand persons and in all other instances a member of the state patrol certifying that the applicant can be found at the address shown on the application; and
+
+. Any other information that the director may require.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209094[2010 c 8 § 9094]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c110.pdf?cite=1971%20ex.s.%20c%20110%20§%203[1971 ex.s. c 110 § 3]; ]
+
+== 46.79.040 - Application forwarded with fees—Issuance of license—Disposition of fees—Display of license.
+Application for a hulk hauler's license, together with a fee of ten dollars, or application for a scrap processor's license, together with a fee of twenty-five dollars, shall be forwarded to the director. Upon receipt of the application the director shall, if the application be in order, issue the license applied for authorizing him or her to do business as such and forward the fee, together with an itemized and detailed report, to the state treasurer, to be deposited in the motor vehicle fund. Upon receiving the certificate the owner shall cause it to be prominently displayed at the address shown in his or her application, where it may be inspected by an investigating officer at any time.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209095[2010 c 8 § 9095]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c110.pdf?cite=1971%20ex.s.%20c%20110%20§%204[1971 ex.s. c 110 § 4]; ]
+
+== 46.79.050 - License expiration—Renewal fee—Surrender of license, when.
+A license issued pursuant to this chapter expires on the date assigned by the director, and may be renewed by filing a proper application and payment of a fee of ten dollars.
+
+Whenever a hulk hauler or scrap processor ceases to do business or the license has been suspended or revoked, the license shall immediately be surrendered to the director.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c109.pdf?cite=1985%20c%20109%20§%205[1985 c 109 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c142.pdf?cite=1983%20c%20142%20§%204[1983 c 142 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c110.pdf?cite=1971%20ex.s.%20c%20110%20§%205[1971 ex.s. c 110 § 5]; ]
+
+== 46.79.055 - Staggering renewal periods.
+Notwithstanding any provision of law to the contrary, the director may extend or diminish the licensing period of hulk haulers and scrap processors for the purpose of staggering renewal periods. The extension or diminishment shall be by rule of the department adopted in accordance with chapter 34.05 RCW.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c109.pdf?cite=1985%20c%20109%20§%206[1985 c 109 § 6]; ]
+
+== 46.79.060 - Special license plates, indicator tabs—Fee.
+The hulk hauler or scrap processor shall obtain a special set of license plates or an indicator tab pursuant to RCW 46.55.065 in addition to the regular licenses and plates required for the operation of vehicles owned and/or operated by him or her and used in the conduct of his or her business. Such special license shall be displayed on the operational vehicles and shall be in lieu of a trip permit or current license on any vehicle being transported. The fee for these plates shall be five dollars for the original plates and two dollars for each additional set of plates bearing the same license number.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2612-S.SL.pdf?cite=2018%20c%20135%20§%208[2018 c 135 § 8]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209096[2010 c 8 § 9096]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c110.pdf?cite=1971%20ex.s.%20c%20110%20§%206[1971 ex.s. c 110 § 6]; ]
+
+== 46.79.070 - Acts subject to penalties.
+The director may by order pursuant to the provisions of chapter 34.05 RCW, deny, suspend, or revoke the license of any hulk hauler or scrap processor or, in lieu thereof or in addition thereto, may by order assess monetary penalties of a civil nature not to exceed five hundred dollars per violation, whenever the director finds that the applicant or licensee:
+
+. Removed a vehicle or vehicle major component part from property without obtaining both the written permission of the property owner and documentation approved by the department for acquiring vehicles, junk vehicles, or major component parts thereof;
+
+. Acquired, disposed of, or possessed a vehicle or major component part thereof when he or she knew that such vehicle or part had been stolen or appropriated without the consent of the owner;
+
+. Sold, bought, received, concealed, had in his or her possession, or disposed of a vehicle or major component part thereof having a missing, defaced, altered, or covered manufacturer's identification number, unless approved by a law enforcement officer;
+
+. Committed forgery or made any material misrepresentation on any document relating to the acquisition, disposition, registration, titling, or licensing of a vehicle pursuant to Title 46 RCW;
+
+. Committed any dishonest act or omission which has caused loss or serious inconvenience as a result of the acquisition or disposition of a vehicle or any major component part thereof;
+
+. Failed to comply with any of the provisions of this chapter or other applicable law relating to registration and certificates of title of vehicles and any other document releasing any interest in a vehicle;
+
+. Been authorized to remove a particular vehicle or vehicles and failed to take all remnants and debris from those vehicles from that area unless requested not to do so by the person authorizing the removal;
+
+. Removed parts from a vehicle at other than an approved location or removed or sold parts or vehicles beyond the scope authorized by this chapter or any rule adopted hereunder;
+
+. Been adjudged guilty of a crime which directly relates to the business of a hulk hauler or scrap processor and the time elapsed since the adjudication is less than five years. For the purposes of this section adjudged guilty means, in addition to a final conviction in either a federal, state, or municipal court, an unvacated forfeiture of bail or collateral deposited to secure a defendant's appearance in court, the payment of a fine, a plea of guilty, or a finding of guilt regardless of whether the imposition of sentence is deferred or the penalty is suspended; or
+
+. Been the holder of a license issued pursuant to this chapter which was revoked for cause and never reissued by the department, or which license was suspended for cause and the terms of the suspension have not been fulfilled, or which license was assessed a civil penalty and the assessed amount has not been paid.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c250.pdf?cite=1990%20c%20250%20§%2071[1990 c 250 § 71]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c142.pdf?cite=1983%20c%20142%20§%205[1983 c 142 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c110.pdf?cite=1971%20ex.s.%20c%20110%20§%207[1971 ex.s. c 110 § 7]; ]
+
+== 46.79.080 - Rules.
+The director is hereby authorized to promulgate and adopt reasonable rules and regulations not in conflict with provisions hereof for the proper operation and enforcement of this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c110.pdf?cite=1971%20ex.s.%20c%20110%20§%208[1971 ex.s. c 110 § 8]; ]
+
+== 46.79.090 - Inspection of premises and records—Certificate of inspection.
+It shall be the duty of the chiefs of police, or the Washington state patrol, in cities having a population of over five thousand persons, and in all other cases the Washington state patrol, to make periodic inspection of the hulk hauler's or scrap processor's premises and records provided for in this chapter, and furnish a certificate of inspection to the director in such manner as may be determined by the director: PROVIDED, That the above inspection in any instance can be made by an authorized representative of the department.
+
+The department is hereby authorized to enlist the services and cooperation of any law enforcement officer or state agency of another state to inspect the premises of any hulk hauler or scrap processor whose established place of business is in that other state but who is licensed to transport automobile hulks within Washington state.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c142.pdf?cite=1983%20c%20142%20§%206[1983 c 142 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c110.pdf?cite=1971%20ex.s.%20c%20110%20§%209[1971 ex.s. c 110 § 9]; ]
+
+== 46.79.100 - Other provisions to comply with chapter.
+Any municipality or political subdivision of this state which now has or subsequently makes provision for the regulation of hulk haulers or scrap processors shall comply strictly with the provisions of this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c110.pdf?cite=1971%20ex.s.%20c%20110%20§%2010[1971 ex.s. c 110 § 10]; ]
+
+== 46.79.110 - Chapter not to prohibit individual towing of vehicles to wreckers or processors, registered tow truck operators from transporting abandoned recreational vehicles.
+Nothing contained in this chapter shall be construed to prohibit: Any individual not engaged in business as a hulk hauler or scrap processor from towing any vehicle owned by him or her to any vehicle wrecker or scrap processor, or a registered tow truck operator from transporting an abandoned recreational vehicle under RCW 46.53.010 in compliance with this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6437-S.SL.pdf?cite=2018%20c%20287%20§%203[2018 c 287 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5305.SL.pdf?cite=2001%20c%2064%20§%2012[2001 c 64 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c142.pdf?cite=1983%20c%20142%20§%207[1983 c 142 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c110.pdf?cite=1971%20ex.s.%20c%20110%20§%2011[1971 ex.s. c 110 § 11]; ]
+
+== 46.79.120 - Unlicensed hulk hauling or scrap processing—Penalty.
+Any hulk hauler or scrap processor who engages in the business of hulk hauling or scrap processing without holding a current license issued by the department for authorization to do so, or, holding such a license, exceeds the authority granted by that license, is guilty of a gross misdemeanor.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c142.pdf?cite=1983%20c%20142%20§%208[1983 c 142 § 8]; ]
+
+== 46.79.130 - Wholesale motor vehicle auction dealers.
+. A wholesale motor vehicle auction dealer may:
+
+.. Sell any classification of motor vehicle;
+
+.. Sell only to motor vehicle dealers and vehicle wreckers licensed under Title 46 RCW by the state of Washington or licensed by any other state; or
+
+.. Sell a motor vehicle belonging to the United States government, the state of Washington, or a political subdivision to nonlicensed persons as may be required by the contracting public agency. However, a publicly owned "wrecked vehicle" as defined in RCW 46.80.010 may be sold to motor vehicle dealers and vehicle wreckers licensed under Title 46 RCW by the state of Washington or licensed by any other state.
+
+. If the wholesale motor vehicle auction dealer knows that a vehicle is a "wrecked vehicle" as defined by RCW 46.80.010, the dealer must disclose this fact on the bill of sale.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2501.SL.pdf?cite=1998%20c%20282%20§%204[1998 c 282 § 4]; ]
+

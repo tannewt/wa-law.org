@@ -1,0 +1,473 @@
+= 19.100 - Franchise investment protection.
+:toc:
+
+== 19.100.010 - Definitions.
+When used in this chapter, unless the context otherwise requires:
+
+. "Advertisement" means any written or printed communication or any communication by means of recorded telephone messages or spoken on radio, television, or similar communication media published in connection with an offer or sale of a franchise.
+
+. "Affiliate" means a person controlling, controlled by, or under common control with another person, every officer or director of such person, and every person occupying a similar status or performing similar functions.
+
+. "Bank credit card plan" means a credit card plan in which the issuer of credit cards is a national bank, state bank, trust company or any other banking institution subject to the supervision of the director of financial institutions of this state or any parent or subsidiary of such bank.
+
+. "Director" means the director of financial institutions.
+
+. "File," "filed," or "filing," except in the phrase "filed with and subject to the approval of the superior court," means the receipt under this chapter of a record by the director or a designee of the director.
+
+. "Franchise" means:
+
+.. An agreement, express or implied, oral or written, by which:
+
+... A person is granted the right to engage in the business of offering, selling, or distributing goods or services under a marketing plan prescribed or suggested in substantial part by the grantor or its affiliate;
+
+... The operation of the business is substantially associated with a trademark, service mark, trade name, advertising, or other commercial symbol designating, owned by, or licensed by the grantor or its affiliate; and
+
+... The person pays, agrees to pay, or is required to pay, directly or indirectly, a franchise fee.
+
+.. The following shall not be construed as a franchise within the meaning of this chapter:
+
+... The payment of a reasonable service charge to the issuer of a credit card by an establishment accepting or honoring such credit card or any transaction relating to a bank credit card plan;
+
+... Actions or transactions otherwise permitted, prohibited or regulated under laws administered by the insurance commissioner of this state;
+
+... Any motor vehicle dealer franchise subject to the provisions of chapter 46.70 RCW.
+
+. "Franchise broker" means a person who directly or indirectly engages in the business of the offer or sale of franchises. The term does not include a franchisor, subfranchisor, or their officers, directors, or employees.
+
+. "Franchise fee" means any fee or charge that a franchisee or subfranchisor is required to pay or agrees to pay for the right to enter into a business or to continue a business under a franchise agreement, including, but not limited to, the payment either in lump sum or by installments of an initial capital investment fee, any fee or charges based upon a percentage of gross or net sales whether or not referred to as royalty fees, any payment for the mandatory purchase of goods or services or any payment for goods or services available only from the franchisor, or any training fees or training school fees or charges; however, the following shall not be considered payment of a franchise fee: (a) The purchase or agreement to purchase goods at a bona fide wholesale price; (b) the purchase or agreement to purchase goods by consignment; if, and only if the proceeds remitted by the franchisee from any such sale shall reflect only the bona fide wholesale price of such goods; (c) a bona fide loan to the franchisee from the franchisor; (d) the purchase or agreement to purchase goods at a bona fide retail price subject to a bona fide commission or compensation plan that in substance reflects only a bona fide wholesale transaction; (e) the purchase or lease or agreement to purchase or lease supplies or fixtures necessary to enter into the business or to continue the business under the franchise agreement at their fair market or rental value; (f) the purchase or lease or agreement to purchase or lease real property necessary to enter into the business or to continue the business under the franchise agreement at the fair market or rental value; (g) amounts paid for trading stamps redeemable in cash only; (h) amounts paid for trading stamps to be used as incentives only and not to be used in, with, or for the sale of any goods.
+
+. "Franchisee" means a person to whom a franchise is offered or granted.
+
+. "Franchisor" means a person who grants a franchise to another person.
+
+. "Marketing plan" means a plan or system concerning an aspect of conducting business. A marketing plan may include one or more of the following:
+
+.. Price specifications, special pricing systems or discount plans;
+
+.. Sales or display equipment or merchandising devices;
+
+.. Sales techniques;
+
+.. Promotional or advertising materials or cooperative advertising;
+
+.. Training regarding the promotion, operation, or management of the business; or
+
+.. Operational, managerial, technical, or financial guidelines or assistance.
+
+. "Offer" or "offer to sell" includes every attempt or offer to dispose of or solicitation of an offer to buy a franchise or an interest in a franchise.
+
+. "Person" means a natural person, corporation, partnership, trust, or other entity and in the case of an entity, it shall include any other entity which has a majority interest in such an entity or effectively controls such other entity as well as the individual officers, directors, and other persons in act of control of the activities of each such entity.
+
+. "Prospective franchisee" means any person, including any agent, representative, or employee, who approaches or is approached by a franchise seller to discuss the possible establishment of a franchise relationship.
+
+. "Publish" means publicly to issue or circulate by newspaper, mail, radio, or television or otherwise to disseminate to the public.
+
+. "Record" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.
+
+. "Sale" or "sell" includes every contract of sale, contract to sell, or disposition of a franchise.
+
+. "Subfranchise" means an agreement, express or implied, oral or written, by which a person pays or agrees to pay, directly or indirectly, a franchisor or affiliate for the right to grant, sell or negotiate the sale of a franchise.
+
+. "Subfranchisor" means a person to whom a subfranchise is granted.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6172.SL.pdf?cite=2012%20c%20121%20§%201[2012 c 121 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%203[1994 c 92 § 3]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5256-S.SL.pdf?cite=1991%20c%20226%20§%201[1991 c 226 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c158.pdf?cite=1979%20c%20158%20§%2083[1979 c 158 § 83]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c33.pdf?cite=1973%201st%20ex.s.%20c%2033%20§%203[1973 1st ex.s. c 33 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c116.pdf?cite=1972%20ex.s.%20c%20116%20§%201[1972 ex.s. c 116 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%201[1971 ex.s. c 252 § 1]; ]
+
+== 19.100.020 - Unlawful in certain instances to sell or offer to sell franchise if unregistered or not exempt.
+. It is unlawful for any franchisor or subfranchisor to sell or offer to sell any franchise in this state unless the offer of the franchise has been registered under this chapter or exempted under RCW 19.100.030.
+
+. For the purpose of this section, an offer to sell a franchise is made in this state when: (a) The offer is directed by the offeror into this state from within or outside this state and is received where it is directed, (b) the offer originates from this state and violates the franchise or business opportunity law of the state or foreign jurisdiction into which it is directed, (c) the prospective franchisee is a resident of this state, or (d) the franchise business that is the subject of the offer is to be located or operated, wholly or partly, in this state.
+
+. For the purpose of this section, a sale of any franchise is made in this state when: (a) An offer to sell is accepted in this state, (b) an offer originating from this state is accepted and violates the franchise or business opportunity law of the state or foreign jurisdiction in which it is accepted, (c) the purchaser of the franchise is a resident of this state, or (d) the franchise business that is the subject of the sale is to be located or operated, wholly or partly, in this state.
+
+. For the purpose of this section, an offer to sell is not made in this state solely because the offer appears: (a) In a newspaper or other publication of general and regular circulation if the publication has had more than two-thirds of its circulation outside this state during the twelve months before the offer is published, or (b) in a broadcast or transmission originating outside this state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6172.SL.pdf?cite=2012%20c%20121%20§%202[2012 c 121 § 2]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5256-S.SL.pdf?cite=1991%20c%20226%20§%202[1991 c 226 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%202[1971 ex.s. c 252 § 2]; ]
+
+== 19.100.030 - Exemptions from registration requirements.
+The registration requirements of this chapter shall not apply to:
+
+. The offer or sale or transfer of a franchise by a franchisee who is not an affiliate of the franchisor for the franchisee's own account if the franchisee's entire franchise is sold and the sale is not effected by or through the franchisor. A sale is not effected by or through a franchisor merely because a franchisor has a right to approve or disapprove the sale or requires payment of a reasonable transfer fee. Such right to approve or disapprove the sale shall be exercised in a reasonable manner.
+
+. The offer or sale of a franchise by an executor, administrator, sheriff, marshal, receiver, trustee in bankruptcy, guardian, conservator, or pursuant to a court-approved offer or sale, on behalf of a person other than the franchisor or the estate of the franchisor.
+
+. The offer or sale of a franchise to a bank, savings institution, trust company, insurance company, investment company as defined in the Investment Company Act of 1940, pension or profit sharing trust, or other financial institution or institutional buyer or to a broker dealer where the purchaser is acting for itself or in some fiduciary capacity.
+
+. The offer or sale of a franchise by a franchisor:
+
+.. Who has delivered in writing to each prospective franchisee, at least fourteen calendar days prior to the execution by the prospective franchisee of any binding franchise or other agreement, or at least fourteen calendar days prior to the receipt of any consideration, whichever occurs first, a disclosure document complying with guidelines adopted by rule of the director. The director shall be guided in adopting such a rule by the guidelines for the preparation of the disclosure document adopted by the federal trade commission or the North American Securities Administrators Association, Inc., or its successor, as such guidelines may be revised from time to time; and
+
+.. Who either:
+
+...(A) Has a net worth on a consolidated basis, according to its most recent audited financial statement, of not less than five million dollars or who has a net worth, according to its most recent audited financial statement, of not less than one million dollars and is at least eighty percent owned by a corporation which has a net worth on a consolidated basis, according to its most recent audited financial statement, of not less than five million dollars; and
+
+(B) Has had at least twenty-five franchisees conducting business at all times during the five-year period immediately preceding the offer or sale or has conducted business which is the subject of the franchise continuously for not less than five years preceding the offer or sale or if any corporation which owns at least eighty percent of the franchisor, has had at least twenty-five franchisees conducting business at all times during the five-year period immediately preceding the offer or sale or such corporation has conducted business which is the subject of the franchise continuously for not less than five years preceding the offer or sale; and
+
+(C) Requires an initial investment by the franchisee of more than one hundred thousand dollars; and
+
+(D) Files annually with the director a statement prescribed by rule of the director giving notice of such claim, and pays a filing fee as set forth in RCW 19.100.240; or
+
+...(A) Has no outstanding franchises granted for businesses located or to be located outside the state of Washington; and
+
+(B) Has granted and grants no more than three franchises for franchise businesses to be situated within the state of Washington; and
+
+(C) Does not publish an advertisement or engage in general solicitation for the franchise offering; and
+
+(D) The buyer is represented or advised in the transaction by independent legal counsel or certified public accountant; or
+
+... Does not charge a franchise fee, as defined in *RCW 19.100.010(12), in excess of five hundred dollars; and
+
+.. Who has not been found by a court of competent jurisdiction to have been in violation of this chapter, chapter 19.86 RCW, or any of the various federal statutes dealing with the same or similar matters, within seven years of any sale or offer to sell franchise business under franchise agreement in the state of Washington.
+
+. The offer or sale of a franchise to an accredited investor, as defined by rule adopted by the director. The director shall be guided in adopting such a rule by the rules defining accredited investor promulgated by the federal securities and exchange commission.
+
+. The offer or sale of an additional franchise to an existing franchisee of the franchisor for the franchisee's own account that is substantially the same as the franchise that the franchisee has operated for at least two years at the time of the offer or sale, provided the prior sale to the franchisee was pursuant to a franchise offering that was registered in the state of Washington.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6172.SL.pdf?cite=2012%20c%20121%20§%203[2012 c 121 § 3]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5256-S.SL.pdf?cite=1991%20c%20226%20§%203[1991 c 226 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c116.pdf?cite=1972%20ex.s.%20c%20116%20§%202[1972 ex.s. c 116 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%203[1971 ex.s. c 252 § 3]; ]
+
+== 19.100.040 - Application for registration—Contents—Filing.
+. The application for registration of the offer, signed by the franchisor, subfranchisor, or by any person on whose behalf the offering is to be made, must be filed with the director and shall contain:
+
+.. A copy of the franchisor's or subfranchisor's disclosure document which shall be prepared in compliance with guidelines adopted by rule of the director. The director shall be guided in adopting such rule by the guidelines for the preparation of the disclosure document adopted by the federal trade commission or the North American Securities Administrators Association, Inc., or its successor, as such guidelines may be revised from time to time;
+
+.. A copy of all agreements to be proposed to franchisees;
+
+.. A consent to service of process as required by RCW 19.100.160;
+
+.. The application for registration of a franchise broker, if any;
+
+.. The applicable filing fee; and
+
+.. Such other information as the director determines, by rule or order, to be necessary or appropriate to facilitate the administration of this chapter.
+
+. The director may require the filing of financial statements of the franchisor or subfranchisor audited by an independent certified public accountant and prepared in accordance with generally accepted accounting principles.
+
+When the person filing the application for registration is a subfranchisor, the application shall also include the same information concerning the subfranchisor as is required from the franchisor pursuant to this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6172.SL.pdf?cite=2012%20c%20121%20§%204[2012 c 121 § 4]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5256-S.SL.pdf?cite=1991%20c%20226%20§%204[1991 c 226 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c116.pdf?cite=1972%20ex.s.%20c%20116%20§%203[1972 ex.s. c 116 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%204[1971 ex.s. c 252 § 4]; ]
+
+== 19.100.050 - Escrow or impoundment of franchise fees as registration condition—Rules or orders—Procedure to rescind.
+The director may by rule or order require as a condition to the effectiveness of the registration the escrow or impound of franchise fees if he or she finds that such requirement is necessary and appropriate to protect prospective franchisees. At any time after the issuance of such rule or order under this section the franchisor may in writing request the rule or order be rescinded. Upon receipt of such a written request, the matter shall be set down for hearing to commence within fifteen days after such receipt unless the person making the request consents to a later date. After such hearing, which shall be conducted in accordance with the provisions of the administrative procedure act, chapter 34.05 RCW, the director shall determine whether to affirm and to continue or to rescind such order and the director shall have all powers granted under such act.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20558[2011 c 336 § 558]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c116.pdf?cite=1972%20ex.s.%20c%20116%20§%204[1972 ex.s. c 116 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%205[1971 ex.s. c 252 § 5]; ]
+
+== 19.100.060 - Registration statement—Effective, when.
+If no stop order is in effect and no proceeding is pending under RCW 19.100.120, a registration statement becomes effective at 3:00 P.M. Pacific Standard Time on the afternoon of the fifteenth business day after the filing of the registration statement or the last amendment or at such earlier time as the director determines.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%206[1971 ex.s. c 252 § 6]; ]
+
+== 19.100.070 - Registration—Claim of exemption filing—Duration—Renewal—Supplemental report.
+. A franchise offering shall be deemed duly registered, and a claim of exemption under RCW 19.100.030(4)(b)(i) shall be duly filed, for a period of one year from the effective date of registration or filing unless the director by rule or order specifies a different period.
+
+. Registration of a franchise offer may be renewed for additional periods of one year each, unless the director by rule or order specifies a different period, by filing with the director no later than twenty calendar days prior to the expiration thereof a renewal application containing such information as the director may require to indicate any substantial changes in the information contained in the original application or the previous renewal application and payment of the prescribed fee.
+
+. If a material adverse change in the condition of the franchisor or the subfranchisor or any material change in the information contained in its disclosure document should occur the franchisor or subfranchisor shall so amend the registration on file with the director as soon as reasonably possible and in any case, before the further sale of any franchise.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6172.SL.pdf?cite=2012%20c%20121%20§%205[2012 c 121 § 5]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5256-S.SL.pdf?cite=1991%20c%20226%20§%205[1991 c 226 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c116.pdf?cite=1972%20ex.s.%20c%20116%20§%205[1972 ex.s. c 116 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%207[1971 ex.s. c 252 § 7]; ]
+
+== 19.100.080 - Unlawful acts—Sale of franchise—Terms of franchise agreement.
+. It is unlawful for any person to sell a franchise that is registered or required to be registered under this chapter without first furnishing to the prospective franchisee a copy of the franchisor's current disclosure document, as described in RCW 19.100.040 and 19.100.070, at least fourteen calendar days prior to the execution by the prospective franchisee of any binding franchise or other agreement, or at least fourteen calendar days before the prospective franchisee signs a binding agreement with, or makes any payment to, the franchisor or an affiliate in connection with the proposed franchise sale.
+
+. It is unlawful for any franchisor to alter unilaterally and materially the terms and conditions of the basic franchise agreement or any related agreements attached to the disclosure document without furnishing the prospective franchisee with a copy of each revised agreement at least seven calendar days before the prospective franchisee signs the revised agreement. Changes to an agreement that arise out of negotiations initiated by the prospective franchisee do not trigger this seven calendar day period.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6172.SL.pdf?cite=2012%20c%20121%20§%206[2012 c 121 § 6]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5256-S.SL.pdf?cite=1991%20c%20226%20§%206[1991 c 226 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c116.pdf?cite=1972%20ex.s.%20c%20116%20§%206[1972 ex.s. c 116 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%208[1971 ex.s. c 252 § 8]; ]
+
+== 19.100.090 - Filings, registration, or finding of director—Construction.
+. Neither (a) the fact that application for registration under this law has been filed nor (b) the fact that such registration has become effective constitutes a finding by the director that any document filed under this law is true, complete, or not misleading. Neither any such fact or the fact that an exemption is available for a transaction means that the director has passed in any way on the merit or qualifications of or recommended or given approval to any person, franchise, or transaction.
+
+. It is unlawful to make or cause to be made to any prospective franchisee any representation inconsistent with this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6172.SL.pdf?cite=2012%20c%20121%20§%207[2012 c 121 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%209[1971 ex.s. c 252 § 9]; ]
+
+== 19.100.100 - Advertisements—Copy to be filed.
+No person shall publish in this state any advertisements offering a franchise subject to the registration requirements of this law unless a true copy of the advertisement has been filed in the office of the director at least seven days prior to the publication or such shorter period as the director by rule or order may allow.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5256-S.SL.pdf?cite=1991%20c%20226%20§%207[1991 c 226 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%2010[1971 ex.s. c 252 § 10]; ]
+
+== 19.100.110 - Advertisements—False or misleading—Notice—Procedure.
+No person shall publish in this state any advertisement concerning a franchise subject to the registration requirements of this chapter after the director finds that the advertisement contains any statements that are false or misleading or omits to make any statement necessary in order to make the statements made, in the light of the circumstances in which they were made, not misleading and so notifies the person in writing. Such notification may be given summarily without notice or hearing. At any time after the issuance of a notification under this section the person desiring to use the advertisement may in writing request the order be rescinded. Upon receipt of such a written request, the matter shall be set down for hearing to commence within fifteen days after such receipt unless the person making the request consents to a later date. After such hearing, which shall be conducted in accordance with the provisions of the administrative procedure act, chapter 34.05 RCW, the director shall determine whether to affirm and to continue or to rescind such order and the director shall have all powers granted under such act.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c116.pdf?cite=1972%20ex.s.%20c%20116%20§%207[1972 ex.s. c 116 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%2011[1971 ex.s. c 252 § 11]; ]
+
+== 19.100.120 - Registration statement—Stop order—Grounds.
+The director may issue a stop order denying effectiveness to or suspending or revoking the effectiveness of any registration statement if he or she finds that the order is in the public interest and that:
+
+. The registration statement as of its effective date, or as of any earlier date in the case of an order denying effectiveness, is incomplete in any material respect or contains any statement which was in the light of the circumstances under which it was made false or misleading with respect to any material fact;
+
+. Any provision of this chapter or any rule or order or condition lawfully imposed under this chapter has been violated in connection with the offering by:
+
+.. The person filing the registration statement but only if such person is directly or indirectly controlled by or acting for the franchisor; or
+
+.. The franchisor, any partner, officer, or director of a franchisor, or any person occupying a similar status or performing similar functions or any person directly or indirectly controlling or controlled by the franchisor.
+
+. The franchise offering registered or sought to be registered is the subject of a permanent or temporary injunction of any court of competent jurisdiction entered under any federal or state act applicable to the offering but the director may not:
+
+.. Institute a proceeding against an effective registration statement under this clause more than one year from the date of the injunctive relief thereon unless the injunction is thereafter violated; and
+
+.. Enter an order under this clause on the basis of an injunction entered under any other state act unless that order or injunction is based on facts that currently constitute a ground for stop order under this section;
+
+. A franchisor's enterprise or method of business includes or would include activities which are illegal where performed;
+
+. The offering has worked or tended to work a fraud upon purchasers or would so operate;
+
+. The applicant has failed to comply with any rule or order of the director issued pursuant to RCW 19.100.050.
+
+. The applicant or registrant has failed to pay the proper registration fee but the director may enter only a denial order under this subsection and he or she shall vacate such order when the deficiency has been corrected.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20559[2011 c 336 § 559]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c116.pdf?cite=1972%20ex.s.%20c%20116%20§%208[1972 ex.s. c 116 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%2012[1971 ex.s. c 252 § 12]; ]
+
+== 19.100.130 - Registration statement—Stop order—Notice—Hearing—Modification or vacation of order.
+Upon the entry of a stop order under any part of RCW 19.100.120, the director shall promptly notify the applicant that the order has been entered and that the reasons therefor and that within fifteen days after receipt of a written request, the matter will be set down for hearing. If no hearing is requested within twenty calendar days and none is ordered by the director, the director shall enter his or her written findings of fact and conclusions of law and the order will remain in effect until it is modified or vacated by the director. If a hearing is requested or ordered, the director after notice of an opportunity for hearings to the issuer and to the applicant or registrant shall enter his or her written findings of fact and conclusions of law and may modify or vacate the order. The director may modify or vacate a stop order if he or she finds that the conditions which prompted his or her entry have changed or that it is otherwise in the public interest to do so.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6172.SL.pdf?cite=2012%20c%20121%20§%209[2012 c 121 § 9]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20560[2011 c 336 § 560]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%2013[1971 ex.s. c 252 § 13]; ]
+
+== 19.100.140 - Registration of franchise brokers required.
+. It is unlawful for any franchise broker to offer to sell or sell a franchise in this state unless the franchise broker is registered under this chapter. It is unlawful for any franchisor, subfranchisor, or franchisee to employ a franchise broker unless the franchise broker is registered.
+
+. The franchise broker shall apply for registration by filing with the director an application together with a consent to service of process in such form as the director shall prescribe and payment of the fee prescribed in RCW 19.100.240.
+
+. The application shall contain whatever information the director requires concerning such matters as:
+
+.. The applicant's form and place of organization.
+
+.. The applicant's proposed method of doing business.
+
+.. The qualifications and business history of the applicant.
+
+.. Any injunction or administrative order or conviction of a misdemeanor involving a security or any aspect of the securities business and any conviction of a felony; and
+
+.. The applicant's financial condition and history.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5256-S.SL.pdf?cite=1991%20c%20226%20§%208[1991 c 226 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c116.pdf?cite=1972%20ex.s.%20c%20116%20§%209[1972 ex.s. c 116 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%2014[1971 ex.s. c 252 § 14]; ]
+
+== 19.100.150 - Records and accounts—Reports.
+Every person offering franchises for sale shall at all times keep and maintain a complete set of books, records, and accounts of such and the disposition of the proceeds thereof and shall thereafter at such times as are required by the director make and file in the office of the director a report setting forth the franchises sold by it, the proceeds derived therefrom, and the disposition thereof.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%2015[1971 ex.s. c 252 § 15]; ]
+
+== 19.100.160 - Application of chapter—Jurisdiction—Service of process—Consent.
+Any person who is engaged or hereafter engaged directly or indirectly in the sale or offer to sell a franchise or a subfranchise or in business dealings concerning a franchise, either in person or in any other form of communication, shall be subject to the provisions of this chapter, shall be amenable to the jurisdiction of the courts of this state and shall be amenable to the service of process under RCW 4.28.180, 4.28.185, and 19.86.160. Every applicant for registration of a franchise under this law (by other than a Washington corporation) shall file with the director in such form as he or she by rule prescribed, an irrevocable consent appointing the director or his or her successor in office to be his or her attorney, to receive service or any lawful process in any noncriminal suit, action, or proceeding against him or her or his or her successors, executor, or administrator which arises under this law or any rule or order hereunder after the consent has been filed, with the same force and validity as if served personally on the person filing consent. A person who has filed such a consent in connection with a previous registration under this law need not file another. Service may be made by leaving a copy of the process in the office of the director but it is not as effective unless:
+
+. The plaintiff, who may be the director, in a suit, action, or proceeding instituted by him or her forthwith sends notice of the service and a copy of the process by registered or certified mail to the defendant or respondent at his or her last address on file with the director; and
+
+. The plaintiff's affidavit of compliance with this section is filed in the case on or before the return day of the process, if any, or within such further times the court allows.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20561[2011 c 336 § 561]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5256-S.SL.pdf?cite=1991%20c%20226%20§%209[1991 c 226 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%2016[1971 ex.s. c 252 § 16]; ]
+
+== 19.100.170 - Violations.
+It is unlawful for any person in connection with the offer, sale, or purchase of any franchise or subfranchise in this state directly or indirectly:
+
+. To make any untrue statement of a material fact in any application, notice, or report filed with the director under this law or willfully to omit to state in any application, notice or report, any material fact which is required to be stated therein or fails to notify the director of any material change as required by RCW 19.100.070(3).
+
+. To sell or offer to sell by means of any written or oral communication which includes an untrue statement of a material fact or omits to state a material fact necessary in order to make the statements made in light of the circumstances under which they were made not misleading.
+
+. To employ any device, scheme, or artifice to defraud.
+
+. To engage in any act, practice, or course of business which operates or would operate as a fraud or deceit upon any person.
+
+. To violate any order of the director.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5256-S.SL.pdf?cite=1991%20c%20226%20§%2010[1991 c 226 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%2017[1971 ex.s. c 252 § 17]; ]
+
+== 19.100.180 - Relation between franchisor and franchisee—Rights and prohibitions.
+Without limiting the other provisions of this chapter, the following specific rights and prohibitions shall govern the relation between the franchisor or subfranchisor and the franchisees:
+
+. The parties shall deal with each other in good faith.
+
+. For the purposes of this chapter and without limiting its general application, it shall be an unfair or deceptive act or practice or an unfair method of competition and therefore unlawful and a violation of this chapter for any person to:
+
+.. Restrict or inhibit the right of the franchisees to join an association of franchisees.
+
+.. Require a franchisee to purchase or lease goods or services of the franchisor or from approved sources of supply unless and to the extent that the franchisor satisfies the burden of proving that such restrictive purchasing agreements are reasonably necessary for a lawful purpose justified on business grounds, and do not substantially affect competition: PROVIDED, That this provision shall not apply to the initial inventory of the franchise. In determining whether a requirement to purchase or lease goods or services constitutes an unfair or deceptive act or practice or an unfair method of competition the courts shall be guided by the decisions of the courts of the United States interpreting and applying the anti-trust laws of the United States.
+
+.. Discriminate between franchisees in the charges offered or made for royalties, goods, services, equipment, rentals, advertising services, or in any other business dealing, unless and to the extent that the franchisor satisfies the burden of proving that any classification of or discrimination between franchisees is: (i) Reasonable, (ii) based on franchises granted at materially different times and such discrimination is reasonably related to such difference in time, or is based on other proper and justifiable distinctions considering the purposes of this chapter, and (iii) is not arbitrary. However, nothing in (c) of this subsection precludes negotiation of the terms and conditions of a franchise at the initiative of the franchisees.
+
+.. Sell, rent, or offer to sell to a franchisee any product or service for more than a fair and reasonable price.
+
+.. Obtain money, goods, services, anything of value, or any other benefit from any other person with whom the franchisee does business on account of such business unless such benefit is disclosed to the franchisee.
+
+.. If the franchise provides that the franchisee has an exclusive territory, which exclusive territory shall be specified in the franchise agreement, for the franchisor or subfranchisor to compete with the franchisee in an exclusive territory or to grant competitive franchises in the exclusive territory area previously granted to another franchisee.
+
+.. Require franchisee to assent to a release, assignment, novation, or waiver which would relieve any person from liability imposed by this chapter, except as otherwise permitted by RCW 19.100.220.
+
+.. Impose on a franchisee by contract, rule, or regulation, whether written or oral, any standard of conduct unless the person so doing can sustain the burden of proving such to be reasonable and necessary.
+
+.. Refuse to renew a franchise without fairly compensating the franchisee for the fair market value, at the time of expiration of the franchise, of the franchisee's inventory, supplies, equipment, and furnishings purchased from the franchisor, and good will, exclusive of personalized materials which have no value to the franchisor, and inventory, supplies, equipment, and furnishings not reasonably required in the conduct of the franchise business: PROVIDED, That compensation need not be made to a franchisee for good will if (i) the franchisee has been given one year's notice of nonrenewal and (ii) the franchisor agrees in writing not to enforce any covenant which restrains the franchisee from competing with the franchisor: PROVIDED FURTHER, That a franchisor may offset against amounts owed to a franchisee under this subsection any amounts owed by such franchisee to the franchisor.
+
+.. Terminate a franchise prior to the expiration of its term except for good cause. Good cause shall include, without limitation, the failure of the franchisee to comply with lawful material provisions of the franchise or other agreement between the franchisor and the franchisee and to cure such default after being given written notice thereof and a reasonable opportunity, which in no event need be more than thirty days, to cure such default, or if such default cannot reasonably be cured within thirty days, the failure of the franchisee to initiate within thirty days substantial and continuing action to cure such default: PROVIDED, That after three willful and material breaches of the same term of the franchise agreement occurring within a twelve-month period, for which the franchisee has been given notice and an opportunity to cure as provided in this subsection, the franchisor may terminate the agreement upon any subsequent willful and material breach of the same term within the twelve-month period without providing notice or opportunity to cure: PROVIDED FURTHER, That a franchisor may terminate a franchise without giving prior notice or opportunity to cure a default if the franchisee: (i) Is adjudicated a bankrupt or insolvent; (ii) makes an assignment for the benefit of creditors or similar disposition of the assets of the franchise business; (iii) voluntarily abandons the franchise business; or (iv) is convicted of or pleads guilty or no contest to a charge of violating any law relating to the franchise business. Upon termination for good cause, the franchisor shall purchase from the franchisee at a fair market value at the time of termination, the franchisee's inventory and supplies, exclusive of (i) personalized materials which have no value to the franchisor; (ii) inventory and supplies not reasonably required in the conduct of the franchise business; and (iii), if the franchisee is to retain control of the premises of the franchise business, any inventory and supplies not purchased from the franchisor or on his or her express requirement: PROVIDED, That a franchisor may offset against amounts owed to a franchisee under this subsection any amounts owed by such franchisee to the franchisor.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20562[2011 c 336 § 562]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5256-S.SL.pdf?cite=1991%20c%20226%20§%2011[1991 c 226 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c63.pdf?cite=1980%20c%2063%20§%201[1980 c 63 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c33.pdf?cite=1973%201st%20ex.s.%20c%2033%20§%204[1973 1st ex.s. c 33 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c116.pdf?cite=1972%20ex.s.%20c%20116%20§%2010[1972 ex.s. c 116 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%2018[1971 ex.s. c 252 § 18]; ]
+
+== 19.100.184 - Terms and conditions from negotiations initiated by franchisee.
+This chapter does not preclude negotiation of the terms and conditions of a franchise at the initiative of the franchisee, provided that such negotiated terms and conditions do not violate any provision of this chapter. After the initial offer to a franchisee using the disclosure document required by RCW 19.100.030, 19.100.040, or 19.100.070 a franchisor need not provide an amended disclosure document to that franchisee by reason of a change in the terms and conditions of a franchise being negotiated at the initiative of that franchisee or amend the registration by reason of such change.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6172.SL.pdf?cite=2012%20c%20121%20§%208[2012 c 121 § 8]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5256-S.SL.pdf?cite=1991%20c%20226%20s%2012[1991 c 226 s 12]; ]
+
+== 19.100.190 - Unfair or deceptive acts—Suits for damages—Violations of other acts, use in evidence.
+. The commission of any unfair or deceptive acts or practices or unfair methods of competition prohibited by RCW 19.100.180 as now or hereafter amended shall constitute an unfair or deceptive act or practice under the provisions of chapter 19.86 RCW.
+
+. Any person who sells or offers to sell a franchise in violation of this chapter shall be liable to the franchisee or subfranchisor who may sue at law or in equity for damages caused thereby for rescission or other relief as the court may deem appropriate. In the case of a violation of RCW 19.100.170 rescission is not available to the plaintiff if the defendant proves that the plaintiff knew the facts concerning the untruth or omission or that the defendant exercised reasonable care and did not know or if he or she had exercised reasonable care would not have known of the untruth or omission.
+
+. The suit authorized under subsection (2) of this section may be brought to recover the actual damages sustained by the plaintiff and the court may in its discretion increase the award of damages to an amount not to exceed three times the actual damages sustained: PROVIDED, That the prevailing party may in the discretion of the court recover the costs of said action including a reasonable attorneys' fee.
+
+. Any person who becomes liable to make payments under this section may recover contributions as in cases of contracts from any persons who, if sued separately, would have been liable to make the same payment.
+
+. A final judgment, order, or decree heretofore or hereafter rendered against a person in any civil, criminal, or administrative proceedings under the United States anti-trust laws, under the federal trade commission act, under the Washington state consumer protection act, or this chapter shall be regarded as evidence against such persons in any action brought by any party against such person under subsections (1) and (2) of this section as to all matters which said judgment or decree would be an estoppel between the parties thereto.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20563[2011 c 336 § 563]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c116.pdf?cite=1972%20ex.s.%20c%20116%20§%2011[1972 ex.s. c 116 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%2019[1971 ex.s. c 252 § 19]; ]
+
+== 19.100.200 - Pendency of other proceedings tolls limitation of action.
+The pendency of any civil, criminal, or administrative proceedings against a person brought by the federal or Washington state governments or any of their agencies under the anti-trust laws, the Federal Trade Commission Act, the Consumer Protection Act, or any federal or state act related to anti-trust laws or to franchising, or under this chapter shall toll the limitation of this action if the action is then instituted within one year after the final judgment or order in such proceedings: PROVIDED, That said limitation of actions shall in any case toll the law so long as there is actual concealment on the part of the person.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c116.pdf?cite=1972%20ex.s.%20c%20116%20§%2012[1972 ex.s. c 116 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%2020[1971 ex.s. c 252 § 20]; ]
+
+== 19.100.210 - Violations—Injunctions—Assurance of discontinuance—Civil and criminal penalties—Chapter nonexclusive.
+. The attorney general or director may bring an action in the name of the state against any person to restrain and prevent the doing of any act herein prohibited or declared to be unlawful. Upon a proper showing, a permanent or temporary injunction, restraining order, or writ of mandamus shall be granted and a receiver or conservator may be appointed for the defendant or the defendant's assets. The prevailing party may in the discretion of the court recover the costs of such action including a reasonable attorneys' fee.
+
+. Every person who shall violate the terms of any injunction issued as in this chapter provided shall forfeit and pay a civil penalty of not more than twenty-five thousand dollars.
+
+. Every person who violates RCW 19.100.020, 19.100.080, 19.100.150, and 19.100.170 shall forfeit a civil penalty of not more than two thousand dollars for each violation.
+
+. For the purpose of this section the superior court issuing an injunction shall retain jurisdiction and the cause shall be continued and in such cases the attorney general or director acting in the name of the state may petition for the recovery of civil penalties.
+
+. In the enforcement of this chapter, the attorney general or director may accept an assurance of discontinuance with the provisions of this chapter from any person deemed by the attorney general or director in violation hereof. Any such assurance shall be in writing, shall state that the person giving such assurance does not admit to any violation of this chapter or to any facts alleged by the attorney general or director, and shall be filed with and subject to the approval of the superior court of the county in which the alleged violator resides or has his or her principal place of business, or in Thurston county. Proof of failure to comply with the assurance of discontinuance shall be prima facie evidence of a violation of this chapter.
+
+. Any person who willfully violates any provision of this chapter or who willfully violates any rule adopted or order issued under this chapter is guilty of a class B felony and shall upon conviction be fined not more than five thousand dollars or imprisoned for not more than ten years or both, but no person may be imprisoned for the violation of any rule or order if he or she proves that he or she had no knowledge of the rule or order. No indictment or information may be returned under this chapter more than five years after the alleged violation.
+
+. Nothing in this chapter limits the power of the state to punish any person for any conduct which constitutes a crime by statute or at common law.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%20151[2003 c 53 § 151]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c63.pdf?cite=1980%20c%2063%20§%202[1980 c 63 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c13.pdf?cite=1979%20ex.s.%20c%2013%20§%201[1979 ex.s. c 13 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c116.pdf?cite=1972%20ex.s.%20c%20116%20§%2013[1972 ex.s. c 116 § 13]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%2021[1971 ex.s. c 252 § 21]; ]
+
+== 19.100.220 - Exceptions or exemptions—Burden of proof—Waivers of compliance void—Settlement release or waiver—Chapter as fundamental policy.
+. In any proceeding under this chapter, the burden of proving an exception from a definition or an exemption from registration is upon the person claiming it.
+
+. Any agreement, condition, stipulation or provision, including a choice of law provision, purporting to bind any person to waive compliance with any provision of this chapter or any rule or order hereunder is void. A release or waiver executed by any person pursuant to a negotiated settlement in connection with a bona fide dispute between a franchisee and a franchisor, arising after their franchise agreement has taken effect, in which the person giving the release or waiver is represented by independent legal counsel, is not an agreement prohibited by this subsection.
+
+. This chapter represents a fundamental policy of the state of Washington.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5256-S.SL.pdf?cite=1991%20c%20226%20s%2013[1991 c 226 s 13]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c116.pdf?cite=1972%20ex.s.%20c%20116%20s%2014[1972 ex.s. c 116 s 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20s%2022[1971 ex.s. c 252 s 22]; ]
+
+== 19.100.230 - Referral of evidence to attorney general or prosecuting attorney.
+The director may refer such evidence as may be available concerning violations of this chapter or any rule or order hereunder to the attorney general or the proper prosecuting attorney who may in his or her discretion with or without such a reference institute the appropriate criminal proceeding under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20564[2011 c 336 § 564]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%2023[1971 ex.s. c 252 § 23]; ]
+
+== 19.100.240 - Fees.
+The director shall charge and collect fees fixed by this section. All fees collected under this chapter shall be deposited in the state treasury and shall not be refundable except as herein provided:
+
+. The fee for filing an application for registration on the sale of franchise under RCW 19.100.040 is six hundred dollars;
+
+. The fee for filing an application for renewal of a registration under RCW 19.100.070 is one hundred dollars;
+
+. The fee for filing an amendment to the application filed under RCW 19.100.040 is one hundred dollars;
+
+. The fee for registration of a franchise broker shall be fifty dollars for original registration and twenty-five dollars for each annual renewal;
+
+. The fee for filing a notice of claim of exemption is one hundred dollars for the original filing and one hundred dollars for each annual renewal.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5256-S.SL.pdf?cite=1991%20c%20226%20§%2014[1991 c 226 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%2024[1971 ex.s. c 252 § 24]; ]
+
+== 19.100.242 - Investigations by director.
+The director, in the director's discretion, may: (1) Annually, or more frequently, make such public or private investigations within or without this state as the director deems necessary to determine whether any registration should be granted, denied, revoked, or suspended, or whether any person has violated or is about to violate a provision of this chapter or any rule adopted or order issued under this chapter, or to aid in the enforcement of this chapter or in the prescribing of rules and forms under this chapter; and (2) publish information concerning a violation of this chapter or a rule adopted or order issued under this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c13.pdf?cite=1979%20ex.s.%20c%2013%20§%202[1979 ex.s. c 13 § 2]; ]
+
+== 19.100.243 - Subpoena authority—Application—Contents—Notice—Fees.
+. The director or authorized assistants may apply for and obtain a superior court order approving and authorizing a subpoena in advance of its issuance. The application may be made in the county where the subpoenaed person resides or is found, or the county where the subpoenaed documents, records, or evidence are located, or in Thurston county. The application must:
+
+.. State that an order is sought under this section;
+
+.. Adequately specify the documents, records, evidence, or testimony; and
+
+.. Include a declaration made under oath that an investigation is being conducted for a lawfully authorized purpose related to an investigation within the department's authority and that the subpoenaed documents, records, evidence, or testimony are reasonably related to an investigation within the department's authority.
+
+. When an application under this section is made to the satisfaction of the court, the court must issue an order approving the subpoena. An order under this subsection constitutes authority of law for the agency to subpoena the documents, records, evidence, or testimony.
+
+. The director or authorized assistants may seek approval and a court may issue an order under this section without prior notice to any person, including the person to whom the subpoena is directed and the person who is the subject of an investigation. An application for court approval is subject to the fee and process set forth in RCW 36.18.012(3).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5076.SL.pdf?cite=2011%20c%2093%20§%203[2011 c 93 § 3]; ]
+
+== 19.100.245 - Investigatory powers—Proceedings for contempt.
+For the purpose of any investigation or proceeding under this chapter, the director or any officer designated by the director may administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, agreements, or other documents or records which the director deems relevant or material to the inquiry.
+
+In case of wilful failure on the part of a person to comply with a subpoena lawfully issued by the director, or on the refusal of a witness to testify to matters regarding which the witness may be lawfully interrogated, the superior court of any county, on application of the director and after satisfactory evidence of wilful disobedience, may compel obedience by proceedings for contempt, as in the case of disobedience of a subpoena issued from the court or a refusal to testify therein.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c13.pdf?cite=1979%20ex.s.%20c%2013%20§%203[1979 ex.s. c 13 § 3]; ]
+
+== 19.100.248 - Cease and desist orders.
+If it appears to the director that a person has engaged or is about to engage in an act or practice constituting a violation of a provision of this chapter or a rule adopted or order issued under this chapter, the director may, in the director's discretion, issue an order directing the person to cease and desist from continuing the act or practice. Reasonable notice of and opportunity for a hearing shall be given. The director may issue a temporary order pending the hearing, which shall remain in effect until ten days after the hearing is held and which shall become final if the person to whom notice is addressed does not request a hearing within twenty calendar days after the receipt of the notice.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6172.SL.pdf?cite=2012%20c%20121%20§%2010[2012 c 121 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c13.pdf?cite=1979%20ex.s.%20c%2013%20§%204[1979 ex.s. c 13 § 4]; ]
+
+== 19.100.250 - Powers of director as to rules, forms, orders and defining terms—Interpretive opinions.
+The director may from time to time make, amend, and rescind such rules, forms, and orders as are necessary to carry out the provisions of this chapter including rules and forms governing applications and reports and defining any terms whether or not used in this chapter insofar as the definitions are consistent with this chapter. The director in his or her discretion may honor requests from interested persons for interpretive opinions.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20565[2011 c 336 § 565]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c116.pdf?cite=1972%20ex.s.%20c%20116%20§%2015[1972 ex.s. c 116 § 15]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%2025[1971 ex.s. c 252 § 25]; ]
+
+== 19.100.252 - Denial, suspension, or revocation of franchise broker by director.
+The director may by order deny, suspend, or revoke registration of any franchise broker if the director finds that the order is in the public interest and that the applicant or registrant, or any partner, officer, or director of the applicant or registrant:
+
+. Has filed an application for registration as a franchise broker under RCW 19.100.140 which, as of its effective date, or as of any date after filing in the case of an order denying effectiveness, was incomplete in any material respect or contained any statement which was, in the light of the circumstances under which it was made, false or misleading with respect to any material fact;
+
+. Has willfully violated or willfully failed to comply with any provision of this chapter;
+
+. Has been convicted, within the past five years of any misdemeanor involving a franchise, or any felony involving moral turpitude;
+
+. Is permanently or temporarily enjoined by any court of competent jurisdiction from engaging in or continuing any aspect of the franchise industry;
+
+. Is the subject of an order of the director denying, suspending, or revoking registration as a franchise broker;
+
+. Has engaged in dishonest or unethical practices in the franchise industry;
+
+. Is insolvent, either in the sense that his or her liabilities exceed his or her assets or in the sense that he or she cannot meet his or her obligations as they mature.
+
+The director may by order summarily postpone or suspend registration pending final determination of any proceeding under this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5256-S.SL.pdf?cite=1991%20c%20226%20§%2016[1991 c 226 § 16]; ]
+
+== 19.100.255 - Denial, suspension, or revocation of exemption by director.
+The director may by order deny, suspend, or revoke any exemption from registration otherwise available under RCW 19.100.030 for the offer or sale of the franchise if he or she finds that the order is in the public interest and that:
+
+. Any provision of this chapter or any rule or order or condition lawfully imposed under this chapter has been violated or is about to be violated in connection with the offering by the franchisor, any partner, officer, or director of a franchisor, or any person occupying a similar status or performing similar functions or any person directly or indirectly controlled by the franchisor, or any franchise broker offering or selling the offering;
+
+. The franchise offering is the subject of a permanent or temporary injunction of a court of competent jurisdiction entered under any federal or state act applicable to the offering; but (a) the director may not enter an order of revocation or suspension under this subsection more than one year from the date of the injunction relied on, and (b) the director may not enter an order under this subsection on the basis of an injunction unless that injunction was based on facts that currently constitute a ground for an order under this section;
+
+. The franchisor's enterprise or method of business includes or would include activities which are illegal where performed;
+
+. The offering has worked or tended to work or would tend to work a fraud on purchasers;
+
+. The franchisor has failed to pay the required filing fee for a claim of exemption but the director may enter only a denial order under this subsection and shall vacate such order when the deficiency has been corrected;
+
+. The franchisor has made a claim of exemption which is incomplete in a material respect or contains any statement which in the light of the circumstances under which it was made is false or misleading with respect to any material fact.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5256-S.SL.pdf?cite=1991%20c%20226%20§%2017[1991 c 226 § 17]; ]
+
+== 19.100.260 - Applicability of administrative procedure act.
+The administrative procedure act, chapter 34.05 RCW, shall wherever applicable herein govern the rights, remedies, and procedures respecting the administration of this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%2026[1971 ex.s. c 252 § 26]; ]
+
+== 19.100.270 - Administrator of securities.
+The director shall appoint a competent person to administer this chapter who shall be designated administrator of securities. The director shall delegate to the administrator such powers, subject to the authority of the director, as may be necessary to carry out the provisions of this chapter. The administrator shall hold office at the pleasure of the director.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%2027[1971 ex.s. c 252 § 27]; ]
+
+== 19.100.900 - Chapter applicable to existing and future franchises and contracts.
+The provisions of this chapter shall be applicable to all franchises and contracts existing between franchisors and franchisees and to all future franchises and contracts.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%2028[1971 ex.s. c 252 § 28]; ]
+
+== 19.100.910 - Chapter cumulative and nonexclusive.
+The provisions of this chapter shall be cumulative and nonexclusive and shall not affect any other remedy available at law.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%2029[1971 ex.s. c 252 § 29]; ]
+
+== 19.100.920 - Effective date—1971 ex.s. c 252.
+This act shall become effective May 1, 1972: PROVIDED, That the director is authorized and empowered to undertake and perform duties and conduct activities necessary for the implementation of this act prior to that date.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%2030[1971 ex.s. c 252 § 30]; ]
+
+== 19.100.940 - Short title.
+This chapter shall be known and designated as the "Franchise Investment Protection Act".
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c252.pdf?cite=1971%20ex.s.%20c%20252%20§%2032[1971 ex.s. c 252 § 32]; ]
+

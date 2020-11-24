@@ -1,0 +1,381 @@
+= 48.23A - Life insurance policy illustrations.
+:toc:
+
+== 48.23A.005 - Purpose—Standards for life insurance policy illustrations.
+The purpose of this chapter is to provide standards for life insurance policy illustrations that will protect consumers and foster consumer education by providing illustration formats, prescribing standards to be followed when illustrations are used, and specifying the disclosures that are required in connection with illustrations. The goals of these standards are to ensure that illustrations do not mislead purchasers of life insurance and to make illustrations more understandable. Insurers will, as far as possible, eliminate the use of footnotes and caveates and define terms used in the illustration in language that would be understood by a typical person within the segment of the public to which the illustration is directed.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1899-S.SL.pdf?cite=1997%20c%20313%20§%201[1997 c 313 § 1]; ]
+
+== 48.23A.010 - Scope of chapter—Exceptions.
+This chapter applies to all group and individual life insurance policies and certificates except:
+
+. Variable life insurance;
+
+. Individual and group annuity contracts;
+
+. Credit life insurance; or
+
+. Life insurance policies with no illustrated death benefits on any individual exceeding ten thousand dollars.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1899-S.SL.pdf?cite=1997%20c%20313%20§%202[1997 c 313 § 2]; ]
+
+== 48.23A.015 - Definitions.
+The definitions in this section apply throughout this chapter unless the context requires otherwise.
+
+. "Actuarial standards board" means the board established by the American academy of actuaries to develop and adopt standards of actuarial practice.
+
+. "Contract premium" means the gross premium that is required to be paid under a fixed premium policy, including the premium for a rider for which benefits are shown in the illustration.
+
+. "Currently payable scale" means a scale of nonguaranteed elements in effect for a policy form as of the preparation date of the illustration or declared to become effective within the next ninety-five days.
+
+. "Disciplined current scale" means a scale of nonguaranteed elements constituting a limit on illustrations currently being illustrated by an insurer that is reasonably based on actual recent historical experience, as certified annually by an illustration actuary designated by the insurer. Further guidance in determining the disciplined current scale as contained in standards established by the actuarial standards board may be relied upon if the standards:
+
+.. Are consistent with all provisions of this chapter;
+
+.. Limit a disciplined current scale to reflect only actions that have already been taken or events that have already occurred;
+
+.. Do not permit a disciplined current scale to include any projected trends of improvements in experience or any assumed improvements in experience beyond the illustration date; and
+
+.. Do not permit assumed expenses to be less than minimum assumed expenses.
+
+. "Generic name" means a short title descriptive of the policy being illustrated, such as whole life, term life, or flexible premium adjustable life.
+
+. "Guaranteed elements" means the premiums, benefits, values, credits, or charges under a policy of life insurance that are guaranteed and determined at issue.
+
+. "Nonguaranteed elements" means the premiums, benefits, values, credits, or charges under a policy of life insurance that are not guaranteed or not determined at issue.
+
+. "Illustrated scale" means a scale of nonguaranteed elements currently being illustrated that is not more favorable to the policy owner than the lesser of:
+
+.. The disciplined current scale; or
+
+.. The currently payable scale.
+
+. "Illustration" means a presentation or depiction that includes nonguaranteed elements of a policy of life insurance over a period of years and that is one of the three types defined below:
+
+.. "Basic illustration" means a ledger or proposal used in the sale of a life insurance policy that shows both guaranteed and nonguaranteed elements.
+
+.. "Supplemental illustration" means an illustration furnished in addition to a basic illustration that meets the applicable requirements of this chapter, and that may be presented in a format differing from the basic illustration, but may only depict a scale of nonguaranteed elements that is permitted in a basic illustration.
+
+.. "In-force illustration" means an illustration furnished at any time after the policy that it depicts has been in force for one year or more.
+
+. "Illustration actuary" means an actuary meeting the requirements of RCW 48.23A.080 who certifies to illustrations based on the standard of practice adopted by the actuarial standards board.
+
+. "Lapse-supported illustration" means an illustration of a policy form failing the test of self-supporting, as defined in this section, under a modified persistency rate assumption using persistency rates underlying the disciplined current scale for the first five years and one hundred percent policy persistency thereafter.
+
+.. "Minimum assumed expenses" means the minimum expenses that may be used in the calculation of the disciplined current scale for a policy form. The insurer may choose to designate each year the method of determining assumed expenses for all policy forms from the following:
+
+... Fully allocated expenses;
+
+... Marginal expenses; and
+
+... A generally recognized expense table based on fully allocated expenses representing a significant portion of insurance companies and approved by the national association of insurance commissioners.
+
+.. Marginal expenses may be used only if greater than a generally recognized expense table. If no generally recognized expense table is approved, fully allocated expenses must be used.
+
+. "Nonterm group life" means a group policy or individual policies of life insurance issued to members of an employer group or other permitted group where:
+
+.. Every plan of coverage was selected by the employer or other group representative;
+
+.. Some portion of the premium is paid by the group or through payroll deduction; and
+
+.. Group underwriting or simplified underwriting is used.
+
+. "Policy owner" means the owner named in the policy or the certificate holder in the case of a group policy.
+
+. "Premium outlay" means the amount of premium assumed to be paid by the policy owner or other premium payer out-of-pocket.
+
+. "Self-supporting illustration" means an illustration of a policy form for which it can be demonstrated that, when using experience assumptions underlying the disciplined current scale, for all illustrated points in time on or after the fifteenth policy anniversary or the twentieth policy anniversary for second-or-later-to-die policies, or upon policy expiration if sooner, the accumulated value of all policy cash flows equals or exceeds the total policy owner value available. For this purpose, policy owner value will include cash surrender values and any other illustrated benefit amounts available at the policy owner's election.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1899-S.SL.pdf?cite=1997%20c%20313%20§%203[1997 c 313 § 3]; ]
+
+== 48.23A.020 - Marketing with or without an illustration—Notice to commissioner—Conditions—Availability.
+. Each insurer marketing policies to which this chapter is applicable shall notify the commissioner whether a policy form is to be marketed with or without an illustration. For all policy forms being actively marketed on January 1, 1998, the insurer shall identify in writing those forms and whether or not an illustration will be used with them. For policy forms filed after January 1, 1998, the identification shall be made at the time of filing. Any previous identification may be changed by notice to the commissioner.
+
+. If the insurer identifies a policy form as one to be marketed without an illustration, any use of an illustration for any policy using that form prior to the first policy anniversary is prohibited.
+
+. If a policy form is identified by the insurer as one to be marketed with an illustration, a basic illustration prepared and delivered in accordance with this chapter is required, except that a basic illustration need not be provided to individual members of a group or to individuals insured under multiple lives coverage issued to a single applicant unless the coverage is marketed to these individuals. The illustration furnished an applicant for a group life insurance policy or policies issued to a single applicant on multiple lives may be either an individual or composite illustration representative of the coverage on the lives of members of the group or the multiple lives covered.
+
+. Potential enrollees of nonterm group life subject to this chapter shall be furnished a quotation with the enrollment materials. The quotation shall show potential policy values for sample ages and policy years on a guaranteed and nonguaranteed basis appropriate to the group and the coverage. This quotation is not considered an illustration for purposes of this chapter, but all information provided shall be consistent with the illustrated scale. A basic illustration shall be provided at delivery of the certificate to enrollees for nonterm group life who enroll for more than the minimum premium necessary to provide pure death benefit protection. In addition, the insurer shall make a basic illustration available to any nonterm group life enrollee who requests it.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1899-S.SL.pdf?cite=1997%20c%20313%20§%204[1997 c 313 § 4]; ]
+
+== 48.23A.030 - Illustration used in sale—Label—Required basic information—Prohibitions—Use of interest rate.
+. An illustration used in the sale of a life insurance policy shall satisfy the applicable requirements of this chapter, be clearly labeled "life insurance illustration," and contain the following basic information:
+
+.. Name of insurer;
+
+.. Name and business address of producer or insurer's authorized representative, if any;
+
+.. Name, age, and sex of proposed insured, except where a composite illustration is permitted under this chapter;
+
+.. Underwriting or rating classification upon which the illustration is based;
+
+.. Generic name of policy, the company product name, if different, and form number;
+
+.. Initial death benefit; and
+
+.. Dividend option election or application of nonguaranteed elements, if applicable.
+
+. When using an illustration in the sale of a life insurance policy, an insurer or its producers or other authorized representatives shall not:
+
+.. Represent the policy as anything other than life insurance policy;
+
+.. Use or describe nonguaranteed elements in a manner that is misleading or has the capacity or tendency to mislead;
+
+.. State or imply that the payment or amount of nonguaranteed elements is guaranteed;
+
+.. Use an illustration that does not comply with the requirements of this chapter;
+
+.. Use an illustration that at any policy duration depicts policy performance more favorable to the policy owner than that produced by the illustrated scale of the insurer whose policy is being illustrated;
+
+.. Provide an applicant with an incomplete illustration;
+
+.. Represent in any way that premium payments will not be required for each year of the policy in order to maintain the illustrated death benefits, unless that is the fact;
+
+.. Use the term "vanish" or "vanishing premium," or a similar term that implies the policy becomes paid up, to describe a plan for using nonguaranteed elements to pay a portion of future premiums;
+
+.. Except for policies that can never develop nonforfeiture values, use an illustration that is "lapse-supported"; or
+
+.. Use an illustration that is not "self-supporting."
+
+. If an interest rate used to determine the illustrated nonguaranteed elements is shown, it shall not be greater than the earned interest rate underlying the disciplined current scale.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1899-S.SL.pdf?cite=1997%20c%20313%20§%205[1997 c 313 § 5]; ]
+
+== 48.23A.040 - Basic illustration—Conforming requirements—Brief descriptions—Numeric summaries—Required statements.
+. A basic illustration shall conform with the following requirements:
+
+.. The illustration shall be labeled with the date on which it was prepared.
+
+.. Each page, including any explanatory notes or pages, shall be numbered and show its relationship to the total number of pages in the illustration (for example, the fourth page of a seven-page illustration shall be labeled "page 4 of 7 pages").
+
+.. The assumed dates of payment receipt and benefit payout within a policy year shall be clearly identified.
+
+.. If the age of the proposed insured is shown as a component of the tabular detail, it shall be issue age plus the numbers of years the policy is assumed to have been in force.
+
+.. The assumed payments on which the illustrated benefits and values are based shall be identified as premium outlay or contract premium, as applicable. For policies that do not require a specific contract premium, the illustrated payments shall be identified as premium outlay.
+
+.. Guaranteed death benefits and values available upon surrender, if any, for the illustrated premium outlay or contract premium shall be shown and clearly labeled guaranteed.
+
+.. If the illustration shows any nonguaranteed elements, they cannot be based on a scale more favorable to the policy owner than the insurer's illustrated scale at any duration. These elements shall be clearly labeled nonguaranteed.
+
+.. The guaranteed elements, if any, shall be shown before corresponding nonguaranteed elements and shall be specifically referred to on any page of an illustration that shows or describes only the nonguaranteed elements (for example, "see page one for guaranteed elements").
+
+.. The account or accumulation value of a policy, if shown, shall be identified by the name this value is given in the policy being illustrated and shown in close proximity to the corresponding value available upon surrender.
+
+.. The value available upon surrender shall be identified by the name this value is given in the policy being illustrated and shall be the amount available to the policy owner in a lump sum after deduction of surrender charges, policy loans, and policy loan interest, as applicable.
+
+.. Illustrations may show policy benefits and values in graphic or chart form in addition to the tabular form.
+
+.. Any illustration of nonguaranteed elements shall be accompanied by a statement indicating that:
+
+... The benefits and values are not guaranteed;
+
+... The assumptions on which they are based are subject to change by the insurer; and
+
+... Actual results may be more or less favorable.
+
+.. If the illustration shows that the premium payer may have the option to allow policy charges to be paid using nonguaranteed values, the illustration must clearly disclose that a charge continues to be required and that, depending on actual results, the premium payer may need to continue or resume premium outlays. Similar disclosure shall be made for premium outlay of lesser amounts or shorter durations than the contract premium. If a contract premium is due, the premium outlay display shall not be left blank or show zero unless accompanied by an asterisk or similar mark to draw attention to the fact that the policy is not paid up.
+
+.. If the applicant plans to use dividends or policy values, guaranteed or nonguaranteed, to pay all or a portion of the contract premium or policy charges, or for any other purpose, the illustration may reflect those plans and the impact on future policy benefits and values.
+
+. A basic illustration shall include the following:
+
+.. A brief description of the policy being illustrated, including a statement that it is a life insurance policy;
+
+.. A brief description of the premium outlay or contract premium, as applicable, for the policy. For a policy that does not require payment of a specific contract premium, the illustration shall show the premium outlay that must be paid to guarantee coverage for the term of the contract, subject to maximum premiums allowable to qualify as a life insurance policy under the applicable provisions of the internal revenue code;
+
+.. A brief description of any policy features, riders, or options, guaranteed or nonguaranteed, shown in the basic illustration and the impact they may have on the benefits and values of the policy;
+
+.. Identification and a brief definition of column headings and key terms used in the illustration; and
+
+.. A statement containing in substance the following: "This illustration assumes that the currently illustrated, nonguaranteed elements will continue unchanged for all years shown. This is not likely to occur, and actual results may be more or less favorable than those shown."
+
+. [Empty]
+.. Following the narrative summary, a basic illustration shall include a numeric summary of the death benefits and values and the premium outlay and contract premium, as applicable. For a policy that provides for a contract premium, the guaranteed death benefits and values shall be based on the contract premium. This summary shall be shown for at least policy years five, ten, and twenty and at age seventy, if applicable, on the three bases shown below. For multiple life policies the summary shall show policy years five, ten, twenty, and thirty.
+
+... Policy guarantees;
+
+... Insurer's illustrated scale;
+
+... Insurer's illustrated scale used but with the nonguaranteed elements reduced as follows:
+
+(A) Dividends at fifty percent of the dividends contained in the illustrated scale used;
+
+(B) Nonguaranteed credited interest at rates that are the average of the guaranteed rates and the rates contained in the illustrated scale used; and
+
+(C) All nonguaranteed charges, including but not limited to, term insurance charges and mortality and expense charges, at rates that are the average of the guaranteed rates and the rates contained in the illustrated scale used.
+
+.. In addition, if coverage would cease prior to policy maturity or age one hundred, the year in which coverage ceases shall be identified for each of the three bases.
+
+. Statements substantially similar to the following shall be included on the same page as the numeric summary and signed by the applicant, or the policy owner in the case of an illustration provided at time of delivery, as required in this chapter.
+
+.. A statement to be signed and dated by the applicant or policy owner reading as follows: "I have received a copy of this illustration and understand that any nonguaranteed elements illustrated are subject to change and could be either higher or lower. The insurance producer has told me they are not guaranteed."
+
+.. A statement to be signed and dated by the insurance producer or other authorized representative of the insurer reading as follows: "I certify that this illustration has been presented to the applicant and that I have explained that any nonguaranteed elements illustrated are subject to change. I have made no statements that are inconsistent with the illustration."
+
+. [Empty]
+.. A basic illustration shall include the following for at least each policy year from one to ten and for every fifth policy year thereafter ending at age one hundred, policy maturity, or final expiration; and except for term insurance beyond the twentieth year, for any year in which the premium outlay and contract premium, if applicable, is to change:
+
+... The premium outlay and mode the applicant plans to pay and the contract premium, as applicable;
+
+... The corresponding guaranteed death benefit, as provided in the policy; and
+
+... The corresponding guaranteed value available upon surrender, as provided in the policy.
+
+.. For a policy that provides for a contract premium, the guaranteed death benefit and value available upon surrender shall correspond to the contract premium.
+
+.. Nonguaranteed elements may be shown if described in the contract. In the case of an illustration for a policy on which the insurer intends to credit terminal dividends, they may be shown if the insurer's current practice is to pay terminal dividends. If any nonguaranteed elements are shown, they must be shown at the same durations as the corresponding guaranteed elements, if any. If no guaranteed benefit or value is available at any duration for which a nonguaranteed benefit or value is shown, a zero shall be displayed in the guaranteed column.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6591.SL.pdf?cite=2008%20c%20217%20§%2028[2008 c 217 § 28]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1899-S.SL.pdf?cite=1997%20c%20313%20§%206[1997 c 313 § 6]; ]
+
+== 48.23A.050 - Supplemental illustration—Conditions for use—Reference to basic illustration.
+. A supplemental illustration may be provided so long as:
+
+.. It is appended to, accompanied by, or preceded by a basic illustration that complies with this chapter;
+
+.. The nonguaranteed elements shown are not more favorable to the policy owner than the corresponding elements based on the scale used in the basic illustration;
+
+.. It contains the same statement required of a basic illustration that nonguaranteed elements are not guaranteed; and
+
+.. For a policy that has a contract premium, the contract premium underlying the supplemental illustration is equal to the contract premium shown in the basic illustration. For policies that do not require a contract premium, the premium outlay underlying the supplemental illustration shall be equal to the premium outlay shown in the basic illustration.
+
+. The supplemental illustration shall include a notice referring to the basic illustration for guaranteed elements and other important information.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1899-S.SL.pdf?cite=1997%20c%20313%20§%207[1997 c 313 § 7]; ]
+
+== 48.23A.060 - Illustration used or not used during sale—Signed copy of illustration or acknowledgment of no use—Computer screen—Retained copies.
+. [Empty]
+.. If a basic illustration is used by an insurance producer or other authorized representative of the insurer in the sale of a life insurance policy and the policy is applied for as illustrated, a copy of that illustration, signed in accordance with this chapter, shall be submitted to the insurer at the time of policy application. A copy shall also be provided to the applicant.
+
+.. If the policy is issued other than as applied for, a revised basic illustration conforming to the policy as issued shall be sent with the policy. The revised illustration shall conform to the requirements of this chapter, be labeled "revised illustration," and be signed and dated by the applicant or policy owner and producer or other authorized representative of the insurer no later than the time the policy is delivered. A copy shall be provided to the insurer and the policy owner.
+
+. [Empty]
+.. If no illustration is used by an insurance producer or other authorized representative in the sale of a life insurance policy, or if the policy is applied for other than as illustrated, the producer or representative shall certify to that effect in writing on a form provided by the insurer. On the same form the applicant shall acknowledge that no illustration conforming to the policy applied for was provided and shall further acknowledge an understanding that an illustration conforming to the policy as issued will be provided no later than at the time of policy delivery. This form shall be submitted to the insurer at the time of policy application.
+
+.. If the policy is issued, a basic illustration conforming to the policy as issued shall be sent with the policy and signed no later than the time the policy is delivered. A copy shall be provided to the insurer and the policy owner.
+
+. [Empty]
+.. Where a computer screen illustration is used that cannot be printed out during use, the producer shall certify in writing on a form provided by the insurer that a computer screen illustration was displayed. Such form shall require the producer to provide, as applicable, the generic name of the policy and any riders illustrated, the guaranteed and nonguaranteed interest rates illustrated, the number of policy years illustrated, the initial death benefit, the premium amount illustrated, and the assumed number of years of premiums. On the same form the applicant shall acknowledge that an illustration matching that which was displayed on the computer screen will be provided no later than the time of policy delivery. A copy of this signed form shall be provided to the applicant at the time it is signed.
+
+.. If the policy is issued, a basic illustration conforming to the policy as issued shall be sent with the policy and signed by the policy owner no later than the time the policy is delivered. A copy shall be provided to the policy owner and retained by the insurer.
+
+.. If a computer screen illustration is used that can be printed during use, a copy of that illustration, signed in accordance with this chapter, shall be submitted to the insurer at the time of policy application. A copy shall also be provided to the applicant.
+
+.. If the basic illustration or revised illustration is sent to the applicant or policy owner by mail from the insurer, it shall include instructions for the applicant or policy owner to sign the duplicate copy of the numeric summary page of the illustration for the policy issued and return the signed copy to the insurer. The insurer's obligation under this subsection is satisfied if it can demonstrate that it has made a diligent effort to secure a signed copy of the numeric summary page. The requirement to make a diligent effort shall be deemed satisfied if the insurer includes in the mailing a self-addressed, postage prepaid envelope with instructions for the return of the signed numeric summary page.
+
+. A copy of the basic illustration and a revised basic illustration, if any, signed as applicable, along with any certification that either no illustration was used or that the policy was applied for other than as illustrated, shall be retained by the insurer until three years after the policy is no longer in force. A copy need not be retained if no policy is issued.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1899-S.SL.pdf?cite=1997%20c%20313%20§%208[1997 c 313 § 8]; ]
+
+== 48.23A.070 - Policy designated for use of illustrations—Annual report—Required information—In-force illustrations—Notice of adverse changes.
+. In the case of a policy designated as one for which illustrations will be used, the insurer shall provide each policy owner with an annual report on the status of the policy that shall contain at least the following information:
+
+.. For universal life policies, the report shall include the following:
+
+... The beginning and end date of the current report period;
+
+... The policy value at the end of the previous report period and at the end of the current report period;
+
+... The total amounts that have been credited or debited to the policy value during the current report period, identifying each type, such as interest, mortality, expense, and riders;
+
+... The current death benefit at the end of the current report period on each life covered by the policy;
+
+.. The net cash surrender value of the policy as of the end of the current report period;
+
+.. The amount of outstanding loans, if any, as of the end of the current report period; and
+
+.. For fixed premium policies: If, assuming guaranteed interest, mortality, and expense loads and continued scheduled premium payments, the policy's net cash surrender value is such that it would not maintain insurance in force until the end of the next reporting period, a notice to this effect shall be included in the report; or
+
+.. For flexible premium policies: If, assuming guaranteed interest, mortality, and expense loads, the policy's net cash surrender value will not maintain insurance in force until the end of the next reporting period unless further premium payments are made, a notice to this effect shall be included in the report.
+
+.. For all other policies, where applicable:
+
+... Current death benefit;
+
+... Annual contract premium;
+
+... Current cash surrender value;
+
+... Current dividend;
+
+.. Application of current dividend; and
+
+.. Amount of outstanding loan.
+
+.. Insurers writing life insurance policies that do not build nonforfeiture values shall only be required to provide an annual report with respect to these policies for those years when a change has been made to nonguaranteed policy elements by the insurer.
+
+. If the annual report does not include an in-force illustration, it shall contain the following notice displayed prominently: "IMPORTANT POLICY OWNER NOTICE: You should consider requesting more detailed information about your policy to understand how it may perform in the future. You should not consider replacement of your policy or make changes in your coverage without requesting a current illustration. You may annually request, without charge, such an illustration by calling (insurer's phone number), writing to (insurer's name) at (insurer's address) or contacting your insurance producer. If you do not receive a current illustration of your policy within 30 days from your request, you should contact your state insurance department." The insurer may vary the sequential order of the methods for obtaining an in-force illustration.
+
+. Upon the request of the policy owner, the insurer shall furnish an in-force illustration of current and future benefits and values based on the insurer's present illustrated scale. This illustration shall comply with the requirements of RCW 48.23A.030 (1) and (2) and 48.23A.040 (1) and (5). No signature or other acknowledgment of receipt of this illustration shall be required.
+
+. If an adverse change in nonguaranteed elements that could affect the policy has been made by the insurer since the last annual report, the annual report shall contain a notice of that fact and the nature of the change prominently displayed.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6591.SL.pdf?cite=2008%20c%20217%20§%2029[2008 c 217 § 29]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1899-S.SL.pdf?cite=1997%20c%20313%20§%209[1997 c 313 § 9]; ]
+
+== 48.23A.080 - Illustration actuaries—Conditions for appointment—Duties—Certifications—Disclosures to commissioner.
+. The board of directors of each insurer shall appoint one or more illustration actuaries.
+
+. The illustration actuary shall certify that the disciplined current scale used in illustrations is in conformity with the actuarial standard of practice for compliance with the national association of insurance commissioners model regulation on life insurance illustrations adopted by the actuarial standards board, and that the illustrated scales used in insurer-authorized illustrations meet the requirements of this chapter.
+
+. The illustration actuary shall:
+
+.. Be a member in good standing of the American academy of actuaries;
+
+.. Be familiar with the standard of practice regarding life insurance policy illustrations;
+
+.. Not have been found by the commissioner, following appropriate notice and hearing to have:
+
+... Violated any provision of, or any obligation imposed by, the insurance law or other law in the course of his or her dealings as an illustration actuary;
+
+... Been found guilty of fraudulent or dishonest practices;
+
+... Demonstrated his or her incompetence, lack of cooperation, or untrustworthiness to act as an illustration actuary; or
+
+... Resigned or been removed as an illustration actuary within the past five years as a result of acts or omissions indicated in any adverse report on examination or as a result of a failure to adhere to generally acceptable actuarial standards;
+
+.. Not fail to notify the commissioner of any action taken by a commissioner of another state similar to that under (c) of this subsection;
+
+.. Disclose in the annual certification whether, since the last certification, a currently payable scale applicable for business issued within the previous five years and within the scope of the certification has been reduced for reasons other than changes in the experience factors underlying the disciplined current scale. If nonguaranteed elements illustrated for new policies are not consistent with those illustrated for similar in-force policies, this must be disclosed in the annual certification. If nonguaranteed elements illustrated for both new and in-force policies are not consistent with the nonguaranteed elements actually being paid, charged, or credited to the same or similar forms, this must be disclosed in the annual certification; and
+
+.. Disclose in the annual certification the method used to allocate overhead expenses for all illustrations:
+
+... Fully allocated expenses;
+
+... Marginal expenses; or
+
+... A generally recognized expense table based on fully allocated expenses representing a significant portion of insurance companies and approved by the national association of insurance commissioners.
+
+. [Empty]
+.. The illustration actuary shall file a certification with the board of directors and with the commissioner:
+
+... Annually for all policy forms for which illustrations are used; and
+
+... Before a new policy form is illustrated.
+
+.. If an error in a previous certification is discovered, the illustration actuary shall notify the board of directors of the insurer and the commissioner promptly.
+
+. If an illustration actuary is unable to certify the scale for any policy form illustration the insurer intends to use, the actuary shall notify the board of directors of the insurer and the commissioner promptly of his or her inability to certify.
+
+. A responsible officer of the insurer, other than the illustration actuary, shall certify annually:
+
+.. That the illustration formats meet the requirements of this chapter and that the scales used in insurer-authorized illustrations are those scales certified by the illustration actuary; and
+
+.. That the company has provided its insurance producers with information about the expense allocation method used by the company in its illustrations and disclosed as required in subsection (3)(f) of this section.
+
+. The annual certifications shall be provided to the commissioner each year by a date determined by the insurer.
+
+. If an insurer changes the illustration actuary responsible for all or a portion of the company's policy forms, the insurer shall notify the commissioner of that fact promptly and disclose the reason for the change.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6591.SL.pdf?cite=2008%20c%20217%20§%2030[2008 c 217 § 30]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1899-S.SL.pdf?cite=1997%20c%20313%20§%2010[1997 c 313 § 10]; ]
+
+== 48.23A.090 - Violations—RCW  48.30.010(1).
+In addition to any other penalties provided by law, an insurer or producer that violates a requirement of this chapter is guilty of a violation of RCW 48.30.010(1).
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1899-S.SL.pdf?cite=1997%20c%20313%20§%2011[1997 c 313 § 11]; ]
+
+== 48.23A.901 - Effective date—Application—1997 c 313.
+This act takes effect January 1, 1998, and applies to policies sold on or after January 1, 1998.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1899-S.SL.pdf?cite=1997%20c%20313%20§%2013[1997 c 313 § 13]; ]
+

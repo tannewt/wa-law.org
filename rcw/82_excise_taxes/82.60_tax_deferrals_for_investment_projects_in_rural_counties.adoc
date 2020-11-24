@@ -1,0 +1,184 @@
+= 82.60 - Tax deferrals for investment projects in rural counties.
+:toc:
+
+== 82.60.010 - Legislative findings and declaration.
+The legislature finds that there are several areas in the state that are characterized by very high levels of unemployment and poverty. The legislature further finds that economic stagnation is the primary cause of this high unemployment rate and poverty; that new state policies are necessary in order to promote economic stimulation and new employment opportunities in these distressed areas; and that policies providing incentives for economic growth in these distressed areas are essential. For these reasons, the legislature reestablishes a tax deferral program to be effective solely in distressed counties. The legislature declares that this limited program serves the vital public purpose of creating employment opportunities and reducing poverty in the distressed counties of the state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/3014-S.SL.pdf?cite=2010%201st%20sp.s.%20c%2016%20§%201[2010 1st sp.s. c 16 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c232.pdf?cite=1985%20c%20232%20§%201[1985 c 232 § 1]; ]
+
+== 82.60.020 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Applicant" means a person applying for a tax deferral under this chapter.
+
+. "Department" means the department of revenue.
+
+. "Eligible area" means:
+
+.. Through June 30, 2010, a rural county as defined in RCW 82.14.370; and
+
+.. Beginning July 1, 2010, a qualifying county.
+
+. [Empty]
+.. "Eligible investment project" means an investment project that is located, as of the date the application required by *RCW 82.60.030 is received by the department, in an eligible area as defined in subsection (3) of this section.
+
+.. "Eligible investment project" does not include any portion of an investment project undertaken by a light and power business as defined in RCW 82.16.010(4), other than that portion of a cogeneration project that is used to generate power for consumption within the manufacturing site of which the cogeneration project is an integral part, or investment projects that have already received deferrals under this chapter.
+
+. "Initiation of construction" has the same meaning as in RCW 82.63.010.
+
+. "Investment project" means an investment in qualified buildings or qualified machinery and equipment, including labor and services rendered in the planning, installation, and construction of the project.
+
+. "Manufacturing" means the same as defined in RCW 82.04.120. "Manufacturing" also includes:
+
+.. Before July 1, 2010: (i) Computer programming, the production of computer software, and other computer-related services, but only when the computer programming, production of computer software, or other computer-related services are performed by a manufacturer as defined in RCW 82.04.110 and contribute to the production of a new, different, or useful substance or article of tangible personal property for sale; (ii) the activities performed by research and development laboratories and commercial testing laboratories; and (iii) the conditioning of vegetable seeds; and
+
+.. Beginning July 1, 2010: (i) The activities performed by research and development laboratories and commercial testing laboratories; and (ii) the conditioning of vegetable seeds.
+
+. "Person" has the meaning given in RCW 82.04.030.
+
+. "Qualified buildings" means construction of new structures, and expansion or renovation of existing structures for the purpose of increasing floor space or production capacity used for manufacturing or research and development activities, including plant offices and warehouses or other facilities for the storage of raw material or finished goods if such facilities are an essential or an integral part of a factory, mill, plant, or laboratory used for manufacturing or research and development. If a building is used partly for manufacturing or research and development and partly for other purposes, the applicable tax deferral must be determined by apportionment of the costs of construction under rules adopted by the department.
+
+. "Qualified employment position" means a permanent full-time employee employed in the eligible investment project during the entire tax year. The term "entire tax year" means a full-time position that is filled for a period of twelve consecutive months. The term "full-time" means at least thirty-five hours a week, four hundred fifty-five hours a quarter, or one thousand eight hundred twenty hours a year.
+
+. "Qualified machinery and equipment" means all new industrial and research fixtures, equipment, and support facilities that are an integral and necessary part of a manufacturing or research and development operation. "Qualified machinery and equipment" includes: Computers; software; data processing equipment; laboratory equipment; manufacturing components such as belts, pulleys, shafts, and moving parts; molds, tools, and dies; operating structures; and all equipment used to control or operate the machinery.
+
+. "Qualifying county" means a county that has an unemployment rate, as determined by the employment security department, which is at least twenty percent above the state average for the three calendar years immediately preceding the year in which the list of qualifying counties is established or updated, as the case may be, as provided in RCW 82.60.120.
+
+. "Recipient" means a person receiving a tax deferral under this chapter.
+
+. "Research and development" means the development, refinement, testing, marketing, and commercialization of a product, service, or process before commercial sales have begun, but only when such activities are intended to ultimately result in the production of a new, different, or useful substance or article of tangible personal property for sale. As used in this subsection, "commercial sales" excludes sales of prototypes or sales for market testing if the total gross receipts from such sales of the product, service, or process do not exceed one million dollars.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/3014-S.SL.pdf?cite=2010%201st%20sp.s.%20c%2016%20§%202[2010 1st sp.s. c 16 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/3066-S.SL.pdf?cite=2010%20c%20114%20§%20138[2010 c 114 § 138]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1523-S.SL.pdf?cite=2006%20c%20142%20§%201[2006 c 142 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6240-S.SL.pdf?cite=2004%20c%2025%20§%203[2004 c 25 § 3]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2295.SL.pdf?cite=1999%20sp.s.%20c%209%20§%202[1999 sp.s. c 9 § 2]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5594-S2.SL.pdf?cite=1999%20c%20164%20§%20301[1999 c 164 § 301]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2337.SL.pdf?cite=1996%20c%20290%20§%204[1996 c 290 § 4]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5201-S.SL.pdf?cite=1995%201st%20sp.s.%20c%203%20§%205[1995 1st sp.s. c 3 § 5]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2319-S2.SL.pdf?cite=1994%20sp.s.%20c%207%20§%20704[1994 sp.s. c 7 § 704]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2664.SL.pdf?cite=1994%20sp.s.%20c%201%20§%201[1994 sp.s. c 1 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5967-S.SL.pdf?cite=1993%20sp.s.%20c%2025%20§%20403[1993 sp.s. c 25 § 403]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c42.pdf?cite=1988%20c%2042%20§%2016[1988 c 42 § 16]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c116.pdf?cite=1986%20c%20116%20§%2012[1986 c 116 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c232.pdf?cite=1985%20c%20232%20§%202[1985 c 232 § 2]; ]
+
+== 82.60.025 - Deferral eligibility requirements.
+The lessor or owner of a qualified building is not eligible for a deferral unless:
+
+. The underlying ownership of the buildings, machinery, and equipment vests exclusively in the same person; or
+
+. [Empty]
+.. The lessor by written contract agrees to pass the economic benefit of the deferral to the lessee;
+
+.. The lessee that receives the economic benefit of the deferral agrees in writing with the department to complete the annual tax performance report required under RCW 82.60.070; and
+
+.. The economic benefit of the deferral passed to the lessee is no less than the amount of tax deferred by the lessor and is evidenced by written documentation of any type of payment, credit, or other financial arrangement between the lessor or owner of the qualified building and the lessee.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5402.SL.pdf?cite=2020%20c%20139%20§%2041[2020 c 139 § 41]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/3014-S.SL.pdf?cite=2010%201st%20sp.s.%20c%2016%20§%204[2010 1st sp.s. c 16 § 4]; ]
+
+== 82.60.049 - Additional eligible projects.
+. For the purposes of this section:
+
+.. "Eligible area" also means a designated community empowerment zone approved under RCW 43.31C.020.
+
+.. "Eligible investment project" also means an investment project in an eligible area as defined in this section.
+
+. In addition to the provisions of *RCW 82.60.040, the department shall issue a sales and use tax deferral certificate for state and local sales and use taxes due under chapters 82.08, 82.12, and 82.14 RCW, on each eligible investment project that is located in an eligible area, if the applicant establishes that at the time the project is operationally complete:
+
+.. The applicant will hire at least one qualified employment position for each seven hundred fifty thousand dollars of investment for which a deferral is requested; and
+
+.. The positions will be filled by persons who at the time of hire are residents of the community empowerment zone. As used in this subsection, "resident" means the person makes his or her home in the community empowerment zone or the county in which the zone is located. A mailing address alone is insufficient to establish that a person is a resident for the purposes of this section. The persons must be hired after the date the application is filed with the department.
+
+. All other provisions and eligibility requirements of this chapter apply to applicants eligible under this section.
+
+. The qualified employment position must be filled by the end of the calendar year following the year in which the project is certified as operationally complete. If a person does not meet the requirements for qualified employment positions by the end of the second calendar year following the year in which the project is certified as operationally complete, all deferred taxes are immediately due.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/3014-S.SL.pdf?cite=2010%201st%20sp.s.%20c%2016%20§%207[2010 1st sp.s. c 16 § 7]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6240-S.SL.pdf?cite=2004%20c%2025%20§%205[2004 c 25 § 5]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2519.SL.pdf?cite=2000%20c%20106%20§%208[2000 c 106 § 8]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5594-S2.SL.pdf?cite=1999%20c%20164%20§%20304[1999 c 164 § 304]; ]
+
+== 82.60.060 - Repayment schedule.
+. The recipient must begin paying the deferred taxes in the third year after the date certified by the department as the date on which the investment project has been operationally completed. The first payment will be due on December 31st of the third calendar year after such certified date, with subsequent annual payments due on December 31st of the following four years with amounts of payment scheduled as follows:
+
+Repayment Year% of Deferred Tax Repaid110%215%320%425%530%
+
+Repayment Year
+
+% of Deferred Tax Repaid
+
+1
+
+10%
+
+2
+
+15%
+
+3
+
+20%
+
+4
+
+25%
+
+5
+
+30%
+
+. The department may authorize an accelerated repayment schedule upon request of the recipient.
+
+. Interest may not be charged on any taxes deferred under this chapter for the period of deferral, although all other penalties and interest applicable to delinquent excise taxes may be assessed and imposed for delinquent payments under this chapter. The debt for deferred taxes will not be extinguished by insolvency or other failure of the recipient. Transfer of ownership does not terminate the deferral. The deferral is transferred, subject to the successor meeting the eligibility requirements of this chapter, for the remaining periods of the deferral.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/3014-S.SL.pdf?cite=2010%201st%20sp.s.%20c%2016%20§%208[2010 1st sp.s. c 16 § 8]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2519.SL.pdf?cite=2000%20c%20106%20§%205[2000 c 106 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c232.pdf?cite=1985%20c%20232%20§%205[1985 c 232 § 5]; ]
+
+== 82.60.063 - Repayment of deferred taxes—Relief.
+. Subject to the conditions in this section, a person is not liable for the amount of deferred taxes outstanding for an investment project when the person temporarily ceases to use its qualified buildings and qualified machinery and equipment for manufacturing or research and development activities in a county with a population of less than twenty thousand persons for a period not to exceed twenty-four months from the date that the department sent its assessment for the amount of outstanding deferred taxes to the taxpayer.
+
+. The relief from repayment of deferred taxes under this section does not apply unless the number of qualified employment positions maintained at the investment project after manufacturing or research and development activities are temporarily ceased is at least ten percent of the number of qualified employment positions employed at the investment project at the time the deferral was approved by the department. If a person has been approved for more than one deferral under this chapter, relief from repayment of deferred taxes under this section does not apply unless the number of qualified employment positions maintained at the investment project after manufacturing or research and development activities are temporarily ceased is at least ten percent of the highest number of qualified employment positions at the investment project at the time any of the deferrals were approved by the department. If, at any time during the twenty-four month period after the department has sent the taxpayer an assessment for outstanding deferred taxes resulting from the person temporarily ceasing to use its qualified buildings and qualified machinery and equipment for manufacturing or research and development activities, the number of qualified employment positions falls below the ten percent threshold in this subsection, the amount of deferred taxes outstanding for the project is immediately due.
+
+. The lessor of an investment project for which a deferral has been granted under this chapter who has passed the economic benefits of the deferral to the lessee is not eligible for relief from the payment of deferred taxes under this section.
+
+. A person seeking relief from the payment of deferred taxes under this section must apply to the department in a form and manner prescribed by the department. The application required under this subsection must be received by the department within thirty days of the date that the department sent its assessment for outstanding deferred taxes resulting from the person temporarily ceasing to use its qualified buildings and qualified machinery and equipment for manufacturing or research and development activities. The department must approve applications that meet the requirements in this section for relief from the payment of deferred taxes.
+
+. A person is entitled to relief under this section only once.
+
+. A person whose application for relief from the payment of deferred taxes has been approved under this section must continue to file an annual tax performance report as required under RCW 82.60.070(1) or any successor statute. In addition, the person must file, in a form and manner prescribed by the department, a report on the status of the business and the outlook for commencing manufacturing or research and development activities.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5402.SL.pdf?cite=2020%20c%20139%20§%2042[2020 c 139 § 42]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/3014-S.SL.pdf?cite=2010%201st%20sp.s.%20c%2016%20§%2010[2010 1st sp.s. c 16 § 10]; ]
+
+== 82.60.065 - Tax deferral on construction labor and investment projects—Repayment forgiven.
+Except as provided in RCW 82.60.070:
+
+. Taxes deferred under this chapter on the sale or use of labor that is directly used in the construction of an investment project for which a deferral has been granted under this chapter after June 11, 1986, and prior to July 1, 1994, need not be repaid.
+
+. Taxes deferred under this chapter on an investment project for which a deferral has been granted under this chapter after June 30, 1994, need not be repaid.
+
+. Taxes deferred under this chapter need not be repaid on machinery and equipment for lumber and wood products industries, and sales of or charges made for labor and services, of the type which qualifies for exemption under RCW 82.08.02565 or 82.12.02565 to the extent the taxes have not been repaid before July 1, 1995.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5201-S.SL.pdf?cite=1995%201st%20sp.s.%20c%203%20§%208[1995 1st sp.s. c 3 § 8]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2664.SL.pdf?cite=1994%20sp.s.%20c%201%20§%206[1994 sp.s. c 1 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c116.pdf?cite=1986%20c%20116%20§%2014[1986 c 116 § 14]; ]
+
+== 82.60.070 - Annual tax performance report by recipients—Assessment of taxes, interest.
+. [Empty]
+.. Each recipient of a deferral of taxes granted under this chapter must file a complete annual tax performance report with the department under RCW 82.32.534. If the economic benefits of the deferral are passed to a lessee as provided in RCW 82.60.025, the lessee must file a complete annual tax performance report, and the applicant is not required to file a complete annual tax performance report.
+
+.. The department must use the information reported on the annual tax performance report required by this section to study the tax deferral program authorized under this chapter. The department must report to the legislature by December 1, 2018. The report must measure the effect of the program on job creation, the number of jobs created for residents of eligible areas, company growth, and such other factors as the department selects.
+
+. Except as provided in RCW 82.60.063, if, on the basis of a tax performance report under RCW 82.32.534 or other information, the department finds that an investment project is not eligible for tax deferral under this chapter, the amount of deferred taxes outstanding for the project, according to the repayment schedule in RCW 82.60.060, is immediately due. For purposes of this subsection (2), the repayment schedule in RCW 82.60.060 is tolled during the period of time that a taxpayer is receiving relief from repayment of deferred taxes under RCW 82.60.063.
+
+. A recipient who must repay deferred taxes under subsection (2) of this section because the department has found that an investment project is not eligible for tax deferral under this chapter is no longer required to file annual tax performance reports under RCW 82.32.534 beginning on the date an investment project is used for nonqualifying purposes.
+
+. Notwithstanding any other provision of this section or RCW 82.32.534, deferred taxes on the following need not be repaid:
+
+.. Machinery and equipment, and sales of or charges made for labor and services, which at the time of purchase would have qualified for exemption under RCW 82.08.02565; and
+
+.. Machinery and equipment which at the time of first use would have qualified for exemption under RCW 82.12.02565.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1296-S.SL.pdf?cite=2017%20c%20135%20§%2036[2017 c 135 § 36]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/3014-S.SL.pdf?cite=2010%201st%20sp.s.%20c%2016%20§%209[2010 1st sp.s. c 16 § 9]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/3066-S.SL.pdf?cite=2010%20c%20114%20§%20139[2010 c 114 § 139]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6240-S.SL.pdf?cite=2004%20c%2025%20§%207[2004 c 25 § 7]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5594-S2.SL.pdf?cite=1999%20c%20164%20§%20303[1999 c 164 § 303]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5201-S.SL.pdf?cite=1995%201st%20sp.s.%20c%203%20§%209[1995 1st sp.s. c 3 § 9]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2664.SL.pdf?cite=1994%20sp.s.%20c%201%20§%205[1994 sp.s. c 1 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c232.pdf?cite=1985%20c%20232%20§%206[1985 c 232 § 6]; ]
+
+== 82.60.080 - Employment and wage determinations.
+The employment security department shall make, and certify to the department of revenue, all determinations of employment and wages as requested by the department under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2519.SL.pdf?cite=2000%20c%20106%20§%206[2000 c 106 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c232.pdf?cite=1985%20c%20232%20§%207[1985 c 232 § 7]; ]
+
+== 82.60.090 - Applicability of general administrative provisions.
+Chapter 82.32 RCW applies to the administration of this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c232.pdf?cite=1985%20c%20232%20§%208[1985 c 232 § 8]; ]
+
+== 82.60.100 - Applications, reports, and information subject to disclosure.
+Applications, reports, and any other information received by the department under this chapter, except applications not approved by the department, are not confidential and are subject to disclosure.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1597-S2.SL.pdf?cite=2010%20c%20106%20§%20106[2010 c 106 § 106]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c49.pdf?cite=1987%20c%2049%20§%201[1987 c 49 § 1]; ]
+
+== 82.60.120 - Qualifying county list—2010 1st sp.s. c 16.
+The department, with the assistance of the employment security department, must establish a list of qualifying counties effective July 1, 2010. The list of qualifying counties is effective for a twenty-four month period and must be updated by July 1st of the year that is two calendar years after the list was established or last updated, as the case may be.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/3014-S.SL.pdf?cite=2010%201st%20sp.s.%20c%2016%20§%203[2010 1st sp.s. c 16 § 3]; ]
+

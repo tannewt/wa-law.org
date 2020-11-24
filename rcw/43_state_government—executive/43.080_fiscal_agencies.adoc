@@ -1,0 +1,49 @@
+= 43.80 - Fiscal agencies.
+:toc:
+
+== 43.80.100 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly indicates otherwise.
+
+. "Bond" has the meaning given in RCW 39.46.020.
+
+. "Fiscal agent contract" means the contract entered into by the state finance committee with each designated fiscal agent, as provided in RCW 43.80.120.
+
+. "Local government" has the meaning given in RCW 39.46.020.
+
+. "Obligation" has the meaning given in RCW 39.46.020.
+
+. "State" has the meaning given in RCW 39.46.020.
+
+. "State fiscal agents" means those banks or trust companies designated as provided in RCW 43.80.120.
+
+. "Treasurer" has the meaning given in RCW 39.46.020.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2741.SL.pdf?cite=2016%20c%20105%20§%201[2016 c 105 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c7.pdf?cite=1984%20c%207%20§%2048[1984 c 7 § 48]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c80.pdf?cite=1969%20ex.s.%20c%2080%20§%201[1969 ex.s. c 80 § 1]; ]
+
+== 43.80.120 - Designation of state fiscal agents—Qualifications—Duration of designation—Compensation.
+The state finance committee may designate one or more responsible banks or trust companies as state fiscal agents. The duties of a state fiscal agent to the state and its local governments may be determined by the state finance committee and may include, without limitation, acting as authenticating agent, transfer agent, registrar, and paying agent for bonds and other obligations of the state and local governments. The state finance committee shall designate state fiscal agents by any method deemed in the best interests of the state and its local governments. On behalf of the state, the state finance committee shall enter into a contract with each designated state fiscal agent, which contract shall set forth the scope of services to be provided by the state fiscal agent and the terms and conditions, including compensation, for the provision of those services.
+
+If no qualified bank or trust company is willing to accept designation as state fiscal agent, or if the state finance committee considers unsatisfactory the terms under which such bank or trust company is willing so to act, the bonds and other obligations normally payable by the state fiscal agent shall thereupon become payable at the state treasury or at the office of the treasurer of the local government, as the case may be.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2741.SL.pdf?cite=2016%20c%20105%20§%202[2016 c 105 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c80.pdf?cite=1969%20ex.s.%20c%2080%20§%203[1969 ex.s. c 80 § 3]; ]
+
+== 43.80.125 - Appointment of state fiscal agents in connection with registered bonds—Contracting of services.
+The state treasurer or the treasurer of a local government may appoint a state fiscal agent to act as registrar, authenticating agent, transfer agent, paying agent, or other agent in connection with the issuance by the state or local government of registered bonds or other obligations pursuant to a system of registration as provided by RCW 39.46.030.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2741.SL.pdf?cite=2016%20c%20105%20§%203[2016 c 105 § 3]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5098.SL.pdf?cite=1995%20c%2038%20§%2010[1995 c 38 § 10]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5372-S2.SL.pdf?cite=1994%20c%20301%20§%2014[1994 c 301 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c84.pdf?cite=1985%20c%2084%20§%203[1985 c 84 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c167.pdf?cite=1983%20c%20167%20§%2011[1983 c 167 § 11]; ]
+
+== 43.80.150 - Treasurers not responsible for funds received—Risk of loss under fiscal agent contract.
+Neither the state treasurer nor the treasurer or other fiscal officer of any local government shall be held responsible for funds received by a state fiscal agent. The state fiscal agent bears the risk of loss for any funds transferred to it under the fiscal agent contract.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2741.SL.pdf?cite=2016%20c%20105%20§%204[2016 c 105 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c80.pdf?cite=1969%20ex.s.%20c%2080%20§%206[1969 ex.s. c 80 § 6]; ]
+
+== 43.80.170 - Rule-making authority.
+The state finance committee may adopt appropriate rules to carry out the purposes of this chapter, including without limitation rules relating to the responsibilities of state fiscal agents and the responsibilities of the state and local governments with respect to state fiscal agents.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2741.SL.pdf?cite=2016%20c%20105%20§%205[2016 c 105 § 5]; ]
+
+== 43.80.900 - Effective date—1969 ex.s. c 80.
+This act shall take effect on April 1, 1971, or at such time that the present fiscal agent agreement, contracted through April 1, 1971, is abrogated.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c80.pdf?cite=1969%20ex.s.%20c%2080%20§%208[1969 ex.s. c 80 § 8]; ]
+

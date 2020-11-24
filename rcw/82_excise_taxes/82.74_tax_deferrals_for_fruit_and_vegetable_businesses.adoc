@@ -1,0 +1,131 @@
+= 82.74 - Tax deferrals for fruit and vegetable businesses.
+:toc:
+
+== 82.74.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Applicant" means a person applying for a tax deferral under this chapter.
+
+. "Cold storage warehouse" means a storage warehouse owned or operated by a wholesaler or third-party warehouser as those terms are defined in RCW 82.08.820 to store fresh and/or frozen perishable fruits or vegetables, dairy products, seafood products, or any combination thereof, at a desired temperature to maintain the quality of the product for orderly marketing.
+
+. "Dairy product" means dairy products that as of September 20, 2001, are identified in 21 C.F.R., chapter 1, parts 131, 133, and 135, including by-products from the manufacturing of the dairy products such as whey and casein.
+
+. "Dairy product manufacturing" means manufacturing, as defined in RCW 82.04.120, of dairy products.
+
+. "Department" means the department of revenue.
+
+. "Eligible investment project" means an investment in qualified buildings or qualified machinery and equipment, including labor and services rendered in the planning, installation, and construction of the project. The lessor or owner of a qualified building is not eligible for a deferral unless (a) the underlying ownership of the buildings, machinery, and equipment vests exclusively in the same person; or (b)(i) the lessor by written contract agrees to pass the economic benefit of the deferral to the lessee in the form of reduced rent payments, and (ii) the lessee that receives the economic benefit of the deferral agrees in writing with the department to complete the annual tax performance report under RCW 82.74.040. The economic benefit of the deferral to the lessee may be evidenced by any type of payment, credit, or any other financial arrangement between the lessor or owner of the qualified building and the lessee.
+
+. "Fresh fruit and vegetable processing" means manufacturing as defined in RCW 82.04.120 which consists of the canning, preserving, freezing, processing, or dehydrating fresh fruits and/or vegetables.
+
+. [Empty]
+.. "Initiation of construction" means the date that a building permit is issued under the building code adopted under RCW 19.27.031 for:
+
+... Construction of the qualified building, if the underlying ownership of the building vests exclusively with the person receiving the economic benefit of the deferral;
+
+... Construction of the qualified building, if the economic benefits of the deferral are passed to a lessee as provided in subsection (6) of this section; or
+
+... Tenant improvements for a qualified building, if the economic benefits of the deferral are passed to a lessee as provided in subsection (6) of this section.
+
+.. "Initiation of construction" does not include soil testing, site clearing and grading, site preparation, or any other related activities that are initiated before the issuance of a building permit for the construction of the foundation of the building.
+
+.. If the investment project is a phased project, "initiation of construction" applies separately to each phase.
+
+. "Person" has the meaning given in RCW 82.04.030.
+
+. "Qualified buildings" means construction of new structures, and expansion or renovation of existing structures for the purpose of increasing floor space or production capacity used for fresh fruit and vegetable processing, dairy product manufacturing, seafood product manufacturing, cold storage warehousing, and research and development activities, including plant offices and warehouses or other facilities for the storage of raw material or finished goods if such facilities are an essential or an integral part of a factory, plant, or laboratory used for fresh fruit and vegetable processing, dairy product manufacturing, seafood product manufacturing, cold storage warehousing, or research and development. If a building is used partly for fresh fruit and vegetable processing, dairy product manufacturing, seafood product manufacturing, cold storage warehousing, or research and development and partly for other purposes, the applicable tax deferral is determined by apportionment of the costs of construction under rules adopted by the department.
+
+. "Qualified machinery and equipment" means all industrial and research fixtures, equipment, and support facilities that are an integral and necessary part of a fresh fruit and vegetable processing, dairy product manufacturing, seafood product manufacturing, cold storage warehousing, or research and development operation. "Qualified machinery and equipment" includes: Computers; software; data processing equipment; laboratory equipment; manufacturing components such as belts, pulleys, shafts, and moving parts; molds, tools, and dies; operating structures; and all equipment used to control or operate the machinery.
+
+. "Recipient" means a person receiving a tax deferral under this chapter.
+
+. "Research and development" means the development, refinement, testing, marketing, and commercialization of a product, service, or process related to fresh fruit and vegetable processing, dairy product manufacturing, seafood product manufacturing, or cold storage warehousing before commercial sales have begun. As used in this subsection, "commercial sales" excludes sales of prototypes or sales for market testing if the total gross receipts from such sales of the product, service, or process do not exceed one million dollars.
+
+. "Seafood product" means any edible marine fish and shellfish that remains in a raw, raw frozen, or raw salted state.
+
+. "Seafood product manufacturing" means the manufacturing, as defined in RCW 82.04.120, of seafood products.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5402.SL.pdf?cite=2020%20c%20139%20§%2044[2020 c 139 § 44]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/3159.SL.pdf?cite=2006%20c%20354%20§%206[2006 c 354 § 6]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2221-S.SL.pdf?cite=2005%20c%20513%20§%204[2005 c 513 § 4]; ]
+
+== 82.74.020 - Application for tax deferral.
+. Application for deferral of taxes under this chapter must be made before initiation of the construction of the investment project or acquisition of equipment or machinery. The application shall be made to the department in a form and manner prescribed by the department. The application shall contain information regarding the location of the investment project, the applicant's average employment in the state for the prior year, estimated or actual new employment related to the project, estimated or actual wages of employees related to the project, estimated or actual costs, time schedules for completion and operation, and other information required by the department.
+
+. The department shall rule on the application within sixty days. The department shall keep a running total of all deferrals granted under this chapter during each fiscal biennium.
+
+. No application may be made under this chapter for a project for which a refund is requested under RCW 82.08.820 or 82.12.820.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2221-S.SL.pdf?cite=2005%20c%20513%20§%205[2005 c 513 § 5]; ]
+
+== 82.74.040 - Annual tax performance report.
+. Each recipient of a deferral of taxes granted under this chapter must file a complete annual tax performance report with the department under RCW 82.32.534. If the economic benefits of the deferral are passed to a lessee as provided in RCW 82.74.010(6), the lessee must file a complete annual tax performance report, and the applicant is not required to file the annual tax performance report.
+
+. A recipient who must repay deferred taxes under RCW 82.74.050(2) because the department has found that an investment project is used for purposes other than fresh fruit and vegetable processing, dairy product manufacturing, seafood product manufacturing, cold storage warehousing, or research and development is no longer required to file annual tax performance reports under RCW 82.32.534 beginning on the date an investment project is used for nonqualifying purposes.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1296-S.SL.pdf?cite=2017%20c%20135%20§%2039[2017 c 135 § 39]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/3066-S.SL.pdf?cite=2010%20c%20114%20§%20142[2010 c 114 § 142]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/3159.SL.pdf?cite=2006%20c%20354%20§%208[2006 c 354 § 8]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2221-S.SL.pdf?cite=2005%20c%20513%20§%207[2005 c 513 § 7]; ]
+
+== 82.74.050 - Repayment of deferred taxes.
+. Except as provided in subsection (2) of this section and RCW 82.32.534, taxes deferred under this chapter need not be repaid.
+
+. [Empty]
+.. If, on the basis of the tax performance report under RCW 82.32.534 or other information, the department finds that an investment project is used for purposes other than fresh fruit and vegetable processing, dairy product manufacturing, seafood product manufacturing, cold storage warehousing, or research and development at any time during the calendar year in which the investment project is certified by the department as having been operationally completed, or at any time during any of the seven succeeding calendar years, a portion of deferred taxes is immediately due according to the following schedule:
+
+Year in which nonqualifying use occurs% of deferred taxes due1100%287.5%375%462.5%550%637.5%725%812.5%
+
+Year in which nonqualifying use occurs
+
+% of deferred taxes due
+
+1
+
+100%
+
+2
+
+87.5%
+
+3
+
+75%
+
+4
+
+62.5%
+
+5
+
+50%
+
+6
+
+37.5%
+
+7
+
+25%
+
+8
+
+12.5%
+
+.. If the economic benefits of the deferral are passed to a lessee as provided in RCW 82.74.010(6), the lessee is responsible for payment to the extent the lessee has received the economic benefit.
+
+. The department must assess interest, but not penalties, on the deferred taxes under subsection (2) of this section. The interest must be assessed at the rate provided for delinquent taxes under chapter 82.32 RCW, retroactively to the date of deferral, and will accrue until the deferred taxes are repaid. The debt for deferred taxes will not be extinguished by insolvency or other failure of the recipient. Transfer of ownership does not terminate the deferral. The deferral is transferred, subject to the successor meeting the eligibility requirements of this chapter, for the remaining periods of the deferral.
+
+. Notwithstanding subsection (2) of this section or RCW 82.32.534, deferred taxes on the following need not be repaid:
+
+.. Machinery and equipment, and sales of or charges made for labor and services, which at the time of purchase would have qualified for exemption under RCW 82.08.02565; and
+
+.. Machinery and equipment which at the time of first use would have qualified for exemption under RCW 82.12.02565.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1296-S.SL.pdf?cite=2017%20c%20135%20§%2040[2017 c 135 § 40]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/3066-S.SL.pdf?cite=2010%20c%20114%20§%20143[2010 c 114 § 143]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/3159.SL.pdf?cite=2006%20c%20354%20§%209[2006 c 354 § 9]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2221-S.SL.pdf?cite=2005%20c%20513%20§%208[2005 c 513 § 8]; ]
+
+== 82.74.060 - Application of chapter  82.32 RCW.
+Chapter 82.32 RCW applies to the administration of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2221-S.SL.pdf?cite=2005%20c%20513%20§%209[2005 c 513 § 9]; ]
+
+== 82.74.070 - Confidentiality of applications.
+Applications approved by the department under this chapter are not confidential and are subject to disclosure.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1597-S2.SL.pdf?cite=2010%20c%20106%20§%20109[2010 c 106 § 109]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2221-S.SL.pdf?cite=2005%20c%20513%20§%2010[2005 c 513 § 10]; ]
+

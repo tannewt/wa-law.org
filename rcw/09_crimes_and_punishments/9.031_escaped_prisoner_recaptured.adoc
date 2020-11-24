@@ -1,0 +1,8 @@
+= 9.31 - Escaped prisoner recaptured.
+:toc:
+
+== 9.31.090 - Escaped prisoner recaptured.
+Every person in custody, under sentence of imprisonment for any crime, who shall escape from custody, may be recaptured and imprisoned for a term equal to the unexpired portion of the original term.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1909c249.pdf?cite=1909%20c%20249%20§%2089[1909 c 249 § 89]; RRS § 2341; ]
+

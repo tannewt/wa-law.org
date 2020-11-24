@@ -1,0 +1,358 @@
+= 18.165 - Private investigators.
+:toc:
+
+== 18.165.010 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Armed private investigator" means a private investigator who has a current firearms certificate issued by the commission and is licensed as an armed private investigator under this chapter.
+
+. "Chief law enforcement officer" means the elected or appointed police administrator of a municipal, county, or state police or sheriff's department that has full law enforcement powers in its jurisdiction.
+
+. "Commission" means the criminal justice training commission established in chapter 43.101 RCW.
+
+. "Department" means the department of licensing.
+
+. "Director" means the director of the department of licensing.
+
+. "Employer" includes any individual, firm, corporation, partnership, association, company, society, manager, contractor, subcontractor, bureau, agency, service, office, or an agent of any of the foregoing that employs or seeks to enter into an arrangement to employ any person as a private investigator.
+
+. "Firearms certificate" means a certificate issued by the commission.
+
+. "Forensic scientist" or "accident reconstructionist" means a person engaged exclusively in collecting and analyzing physical evidence and data relating to an accident or other matter and compiling such evidence or data to render an opinion of likely cause, fault, or circumstance of the accident or matter.
+
+. "Person" includes any individual, firm, corporation, partnership, association, company, society, manager, contractor, subcontractor, bureau, agency, service, office, or an agent or employee of any of the foregoing.
+
+. "Principal" of a private investigator agency means the owner or manager appointed by a corporation.
+
+. "Private investigator" means a person who is licensed under this chapter and is employed by a private investigator agency for the purpose of investigation, escort or body guard services, or property loss prevention activities.
+
+. "Private investigator agency" means a person or entity licensed under this chapter and engaged in the business of detecting, discovering, or revealing one or more of the following:
+
+.. Crime, criminals, or related information;
+
+.. The identity, habits, conduct, business, occupation, honesty, integrity, credibility, knowledge, trustworthiness, efficiency, loyalty, activity, movement, whereabouts, affiliations, associations, transactions, acts, reputation, or character of any person or thing;
+
+.. The location, disposition, or recovery of lost or stolen property;
+
+.. The cause or responsibility for fires, libels, losses, accidents, or damage or injury to persons or to property;
+
+.. Evidence to be used before a court, board, officer, or investigative committee;
+
+.. Detecting the presence of electronic eavesdropping devices; or
+
+.. The truth or falsity of a statement or representation.
+
+. "Qualifying agent" means an officer or manager of a corporation who meets the requirements set forth in this chapter for obtaining a private investigator agency license.
+
+. "Sworn peace officer" means a person who is an employee of the federal government, the state, or a political subdivision, agency, or department branch of a municipality or other unit of local government, and has law enforcement powers.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1679-S.SL.pdf?cite=1995%20c%20277%20§%2017[1995 c 277 § 17]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1991%20c%20328%20§%201[1991 c 328 § 1]; ]
+
+== 18.165.020 - Exemptions.
+The requirements of this chapter do not apply to:
+
+. A person who is employed exclusively or regularly by one employer and performs investigations solely in connection with the affairs of that employer, if the employer is not a private investigator agency;
+
+. An officer or employee of the United States or of this state or a political subdivision thereof, while engaged in the performance of the officer's official duties;
+
+. A person engaged exclusively in the business of obtaining and furnishing information about the financial rating of persons;
+
+. An attorney-at-law while performing the attorney's duties as an attorney;
+
+. A licensed collection agency or its employee, while acting within the scope of that person's employment and making an investigation incidental to the business of the agency;
+
+. Insurers, agents, and insurance brokers licensed by the state, while performing duties in connection with insurance transacted by them;
+
+. A bank subject to the jurisdiction of the department of financial institutions or the comptroller of currency of the United States, or a savings and loan association subject to the jurisdiction of this state or the federal home loan bank board;
+
+. A licensed insurance adjuster performing the adjuster's duties within the scope of the adjuster's license;
+
+. A secured creditor engaged in the repossession of the creditor's collateral, or a lessor engaged in the repossession of leased property in which it claims an interest;
+
+. A person who is a forensic scientist, accident reconstructionist, or other person who performs similar functions and does not hold himself or herself out to be an investigator in any other capacity;
+
+. A person solely engaged in the business of securing information about persons or property from public records; or
+
+. A certified public accountant regulated under chapter 18.04 RCW or the employee of a certified public accountant performing duties within the scope of public accountancy.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1263.SL.pdf?cite=2015%20c%20105%20§%201[2015 c 105 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2400.SL.pdf?cite=2000%20c%20171%20§%2037[2000 c 171 § 37]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1679-S.SL.pdf?cite=1995%20c%20277%20§%2018[1995 c 277 § 18]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1991%20c%20328%20§%202[1991 c 328 § 2]; ]
+
+== 18.165.030 - Private investigator license—Requirements.
+An applicant must meet the following minimum requirements to obtain a private investigator license:
+
+. Be at least eighteen years of age;
+
+. Be a citizen or resident alien of the United States;
+
+. Not have been convicted of a crime in any jurisdiction, if the director determines that the applicant's particular crime directly relates to his or her capacity to perform the duties of a private investigator and the director determines that the license should be withheld to protect the citizens of Washington state. The director shall make her or his determination to withhold a license because of previous convictions notwithstanding the restoration of employment rights act, chapter 9.96A RCW;
+
+. Be employed by or have an employment offer from a private investigator agency or be licensed as a private investigator agency;
+
+. Submit a set of fingerprints; however, if an applicant has been issued a license as a private security guard under chapter 18.170 RCW within the last twelve months, the applicant is not required to undergo a separate background check to become licensed under this chapter;
+
+. Pay the required nonrefundable fee for each application; and
+
+. Submit a fully completed application that includes proper identification on a form prescribed by the director for each company of employment.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6098.SL.pdf?cite=2012%20c%20118%20§%201[2012 c 118 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1679-S.SL.pdf?cite=1995%20c%20277%20§%2019[1995 c 277 § 19]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1991%20c%20328%20§%203[1991 c 328 § 3]; ]
+
+== 18.165.040 - Armed private investigator license—Requirements.
+. An applicant must meet the following minimum requirements to obtain an armed private investigator license:
+
+.. Be licensed as a private investigator;
+
+.. Be at least twenty-one years of age;
+
+.. Have a current firearms certificate issued by the commission; 
+
+.. Have a license to carry a concealed pistol; and
+
+.. Pay the fee established by the director.
+
+. The armed private investigator license may take the form of an endorsement to the private investigator license if deemed appropriate by the director.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1679-S.SL.pdf?cite=1995%20c%20277%20§%2021[1995 c 277 § 21]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1991%20c%20328%20§%204[1991 c 328 § 4]; ]
+
+== 18.165.050 - Private investigator agency license—Requirements, restrictions—Assignment or transfer.
+. In addition to meeting the minimum requirements to obtain a license as a private investigator, an applicant, or, in the case of a partnership or limited partnership, each partner, or, in the case of a corporation, the qualifying agent must meet the following additional requirements to obtain a private investigator agency license:
+
+.. Pass an examination determined by the director to measure the person's knowledge and competence in the private investigator agency business; or
+
+.. Have had at least three years' experience in investigative work or its equivalent as determined by the director. A year's experience means not less than two thousand hours of actual compensated work performed before the filing of an application. An applicant shall substantiate the experience by written certifications from previous employers. If the applicant is unable to supply written certifications from previous employers, applicants may offer written certifications from professional persons other than employers who, based on personal professional knowledge, can substantiate the employment.
+
+. An agency license issued pursuant to this section may not be assigned or transferred without prior written approval of the director.
+
+. No license to own or operate a private investigator company may be issued to an applicant if the name of the company portrays the company as a public law enforcement agency, or in association with a public law enforcement agency, or includes the word "police."
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1679-S.SL.pdf?cite=1995%20c%20277%20§%2022[1995 c 277 § 22]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1991%20c%20328%20§%205[1991 c 328 § 5]; ]
+
+== 18.165.060 - Armed private investigator license authority—Registration of firearms.
+. An armed private investigator license grants authority to the holder, while in the performance of his or her duties, to carry a firearm with which the holder has met the proficiency requirements established by the commission.
+
+. All firearms carried by armed private investigators in the performance of their duties must be owned by the employer and, if required by law, must be registered with the proper government agency.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1679-S.SL.pdf?cite=1995%20c%20277%20§%2023[1995 c 277 § 23]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1991%20c%20328%20§%206[1991 c 328 § 6]; ]
+
+== 18.165.070 - Investigation of applicants.
+. Applications for licenses required under this chapter shall be filed with the director on a form provided by the director. The director may require any information and documentation that reasonably relates to the need to determine whether the applicant meets the criteria.
+
+. After receipt of an application for a license, the director shall conduct an investigation to determine whether the facts set forth in the application are true and shall request that the Washington state patrol compare the fingerprints submitted with the application to fingerprint records available to the Washington state patrol. The Washington state patrol shall forward the fingerprints of applicants for an armed private investigator license to the federal bureau of investigation for a national criminal history records check. The director may require that fingerprint cards of licensees be periodically reprocessed to identify criminal convictions subsequent to registration.
+
+. The director shall solicit comments from the chief law enforcement officer of the county and city or town in which the applicant's employer is located on issuance of a permanent private investigator license.
+
+. A summary of the information acquired under this section, to the extent that it is public information, may be forwarded by the department to the applicant's employer.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1679-S.SL.pdf?cite=1995%20c%20277%20§%2025[1995 c 277 § 25]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1991%20c%20328%20§%207[1991 c 328 § 7]; ]
+
+== 18.165.080 - License cards and certificates—Issuance and requirements.
+. The director shall issue a private investigator license card to each licensed private investigator and an armed private investigator license card to each armed private investigator.
+
+.. The license card may not be used as security clearance.
+
+.. A private investigator shall carry the license card whenever he or she is performing the duties of a private investigator and shall exhibit the card upon request.
+
+.. An armed private investigator shall carry the license card whenever he or she is performing the duties of an armed private investigator and shall exhibit the card upon request.
+
+. The director shall issue a license certificate to each licensed private investigator agency.
+
+.. Within seventy-two hours after receipt of the license certificate, the licensee shall post and display the certificate in a conspicuous place in the principal office of the licensee within the state.
+
+.. It is unlawful for any person holding a license certificate to knowingly and willfully post the license certificate upon premises other than those described in the license certificate or to materially alter a license certificate.
+
+.. Every advertisement by a licensee that solicits or advertises business shall contain the name of the licensee, the address of record, and the license number as they appear in the records of the director.
+
+.. The licensee shall notify the director within thirty days of any change in the licensee's officers or directors or any material change in the information furnished or required to be furnished to the director.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1679-S.SL.pdf?cite=1995%20c%20277%20§%2026[1995 c 277 § 26]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1991%20c%20328%20§%208[1991 c 328 § 8]; ]
+
+== 18.165.090 - Preassignment training and testing.
+. The director shall adopt rules establishing preassignment training and testing requirements. The director may establish, by rule, continuing education requirements for private investigators.
+
+. The director shall consult with the private investigator industry and law enforcement before adopting or amending the preassignment training or continuing education requirements of this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1679-S.SL.pdf?cite=1995%20c%20277%20§%2027[1995 c 277 § 27]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1991%20c%20328%20§%209[1991 c 328 § 9]; ]
+
+== 18.165.100 - Agency license—Surety bond or certificate of insurance required.
+. No private investigator agency license may be issued under the provisions of this chapter unless the applicant files with the director a surety bond, executed by a surety company authorized to do business in this state, in the sum of ten thousand dollars conditioned to recover against the principal and its servants, officers, agents, and employees by reason of its wrongful or illegal acts in conducting business licensed under this chapter. The bond shall be made payable to the state of Washington, and anyone so injured by the principal or its servants, officers, agents, or employees shall have the right and shall be permitted to sue directly upon this obligation in his or her own name. This obligation shall be subject to successive suits for recovery until the face amount is completely exhausted.
+
+. Every licensee must at all times maintain on file with the director the surety bond required by this section in full force and effect. Upon failure by a licensee to do so, the director shall suspend the licensee's license and shall not reinstate the license until this requirement is met.
+
+. In lieu of posting bond, a licensed private investigator agency may file with the director a certificate of insurance as evidence that it has comprehensive general liability coverage of at least twenty-five thousand dollars for bodily or personal injury and twenty-five thousand dollars for property damage.
+
+. The director may approve alternative methods of guaranteeing financial responsibility.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1679-S.SL.pdf?cite=1995%20c%20277%20§%2028[1995 c 277 § 28]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1991%20c%20328%20§%2010[1991 c 328 § 10]; ]
+
+== 18.165.110 - Regulatory provisions exclusive—Authority of the state and political subdivisions.
+. The provisions of this chapter relating to the licensing for regulatory purposes of private investigators, armed private investigators, and private investigator agencies are exclusive. No governmental subdivision of this state may enact any laws or rules licensing for regulatory purposes such persons, except as provided in subsections (2) and (3) of this section.
+
+. This section shall not be construed to prevent a political subdivision of this state from levying a business fee, business and occupation tax, or other tax upon private investigator agencies if such fees or taxes are levied by the state on other types of businesses within its boundaries.
+
+. This section shall not be construed to prevent this state or a political subdivision of this state from licensing for regulatory purposes private investigator agencies with respect to activities that are not regulated under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1679-S.SL.pdf?cite=1995%20c%20277%20§%2029[1995 c 277 § 29]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1991%20c%20328%20§%2011[1991 c 328 § 11]; ]
+
+== 18.165.120 - Out-of-state private investigators operating across state lines.
+Private investigators or armed private investigators whose duties require them to operate across state lines may operate in this state for up to thirty days per year, if they are properly registered and certified in another state with training and certification requirements that the director finds are at least equal to the requirements of this state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1679-S.SL.pdf?cite=1995%20c%20277%20§%2030[1995 c 277 § 30]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1991%20c%20328%20§%2012[1991 c 328 § 12]; ]
+
+== 18.165.130 - Required notice of certain occurrences.
+. A private investigator agency shall notify the director within thirty days after the death or termination of employment of any employee who is a licensed private investigator or armed private investigator by returning the license to the department with the word "terminated" written across the face of the license, the date of termination, and the signature of the principal of the private investigator company.
+
+. A private investigator agency shall notify the director within seventy-two hours and the chief law enforcement officer of the county, city, or town in which the agency is located immediately upon receipt of information affecting a licensed private investigator's or armed private investigator's continuing eligibility to hold a license under the provisions of this chapter.
+
+. A private investigator company shall notify the local law enforcement agency whenever an employee who is an armed private investigator discharges his or her firearm while on duty other than on a supervised firearm range. The notification shall be made within ten business days of the date the firearm is discharged.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2400.SL.pdf?cite=2000%20c%20171%20§%2038[2000 c 171 § 38]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1679-S.SL.pdf?cite=1995%20c%20277%20§%2031[1995 c 277 § 31]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1991%20c%20328%20§%2013[1991 c 328 § 13]; ]
+
+== 18.165.140 - Out-of-state private investigators—Application—Fee—Temporary assignment.
+. Any person from another state that the director determines has selection, training, and other requirements at least equal to those required by this chapter, and who holds a valid license, registration, identification, or similar card issued by the other state, may apply for a private investigator license card or armed private investigator license card on a form prescribed by the director. Upon receipt of an application fee to be determined by the director, the director shall issue the individual a private investigator license card or armed private investigator license card.
+
+. A valid license, registration, identification, or similar card issued by any other state of the United States is valid in this state for a period of ninety days, but only if the licensee is on temporary assignment for the same employer that employs the licensee in the state in which he or she is a permanent resident.
+
+. A person from another state on temporary assignment in Washington may not solicit business in this state or represent himself or herself as licensed in this state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1679-S.SL.pdf?cite=1995%20c%20277%20§%2032[1995 c 277 § 32]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1991%20c%20328%20§%2014[1991 c 328 § 14]; ]
+
+== 18.165.150 - Licenses required—Use of public law enforcement insignia prohibited—Penalties—Enforcement.
+. After June 30, 1992, any person who performs the functions and duties of a private investigator in this state without being licensed in accordance with the provisions of this chapter, or any person presenting or attempting to use as his or her own the license of another, or any person who gives false or forged evidence of any kind to the director in obtaining a license, or any person who falsely impersonates any other licensee, or any person who attempts to use an expired or revoked license, or any person who violates any of the provisions of this chapter is guilty of a gross misdemeanor.
+
+. After January 1, 1992, a person is guilty of a gross misdemeanor if he or she owns or operates a private investigator agency in this state without first obtaining a private investigator agency license.
+
+. After June 30, 1992, the owner or qualifying agent of a private investigator agency is guilty of a gross misdemeanor if he or she employs any person to perform the duties of a private investigator without the employee having in his or her possession a permanent private investigator license issued by the department. This shall not preclude a private investigator agency from requiring applicants to attend preassignment training classes or from paying wages for attending the required preassignment training classes.
+
+. After June 30, 1992, a person is guilty of a gross misdemeanor if he or she performs the functions and duties of an armed private investigator in this state unless the person holds a valid armed private investigator license issued by the department.
+
+. After June 30, 1992, it is a gross misdemeanor for a private investigator agency to hire, contract with, or otherwise engage the services of an unlicensed armed private investigator knowing that the private investigator does not have a valid armed private investigator license issued by the director.
+
+. It is a gross misdemeanor for a person to possess or use any vehicle or equipment displaying the word "police" or "law enforcement officer" or having any sign, shield, marking, accessory, or insignia that indicates that the equipment or vehicle belongs to a public law enforcement agency.
+
+. It is the duty of all officers of the state and political subdivisions thereof to enforce the provisions of this chapter. The attorney general shall act as legal adviser of the director, and render such legal assistance as may be necessary in carrying out the provisions of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1679-S.SL.pdf?cite=1995%20c%20277%20§%2033[1995 c 277 § 33]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1991%20c%20328%20§%2015[1991 c 328 § 15]; ]
+
+== 18.165.155 - Transfer of license.
+A licensee who transfers from one company to another must submit a transfer application on a form prescribed by the director along with a transfer fee established by the director.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1679-S.SL.pdf?cite=1995%20c%20277%20§%2020[1995 c 277 § 20]; ]
+
+== 18.165.160 - Unprofessional conduct.
+In addition to the unprofessional conduct described in RCW 18.235.130, the director may take disciplinary action for the following conduct, acts, or conditions:
+
+. Violating any of the provisions of this chapter or the rules adopted under this chapter;
+
+. Making a material misstatement or omission in the application for or renewal of a firearms certificate, including falsifying requested identification information;
+
+. Not meeting the qualifications set forth in RCW 18.165.030, 18.165.040, or 18.165.050;
+
+. Failing to return immediately on demand a firearm issued by an employer;
+
+. Carrying a firearm in the performance of his or her duties if not the holder of a valid armed private investigator license, or carrying a firearm not meeting the provisions of this chapter while in the performance of his or her duties;
+
+. Failing to return immediately on demand company identification, badges, or other items issued to the private investigator by an employer;
+
+. Making any statement that would reasonably cause another person to believe that the private investigator is a sworn peace officer;
+
+. Divulging confidential information obtained in the course of any investigation to which he or she was assigned;
+
+. Acceptance of employment that is adverse to a client or former client and relates to a matter about which a licensee has obtained confidential information by reason of or in the course of the licensee's employment by the client;
+
+. Assigning or transferring any license issued pursuant to the provisions of this chapter, except as provided in RCW 18.165.050;
+
+. Assisting a client to locate, trace, or contact a person when the investigator knows that the client is prohibited by any court order from harassing or contacting the person whom the investigator is being asked to locate, trace, or contact, as it pertains to domestic violence, stalking, or minor children;
+
+. Failure to maintain bond or insurance;
+
+. Failure to have a qualifying principal in place; or
+
+. Being certified as not in compliance with a support order as provided in RCW 74.20A.320.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2512-S.SL.pdf?cite=2002%20c%2086%20§%20245[2002 c 86 § 245]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/3901.SL.pdf?cite=1997%20c%2058%20§%20835[1997 c 58 § 835]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1679-S.SL.pdf?cite=1995%20c%20277%20§%2034[1995 c 277 § 34]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1991%20c%20328%20§%2016[1991 c 328 § 16]; ]
+
+== 18.165.165 - Display of firearms while soliciting clients.
+No licensee, employee or agent of a licensee, or anyone accompanying a licensee, employee, or agent may display a firearm while soliciting a client.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1679-S.SL.pdf?cite=1995%20c%20277%20§%2024[1995 c 277 § 24]; ]
+
+== 18.165.170 - Authority of director.
+The director or the director's designee has the following authority in administering this chapter:
+
+. To adopt, amend, and rescind rules as deemed necessary to carry out this chapter;
+
+. To enter into contracts for professional services determined to be necessary for adequate enforcement of this chapter; and
+
+. To adopt standards of professional conduct or practice.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1574-S.SL.pdf?cite=2007%20c%20256%20§%208[2007 c 256 § 8]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2512-S.SL.pdf?cite=2002%20c%2086%20§%20246[2002 c 86 § 246]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1679-S.SL.pdf?cite=1995%20c%20277%20§%2035[1995 c 277 § 35]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1991%20c%20328%20§%2017[1991 c 328 § 17]; ]
+
+== 18.165.180 - Complaints—Investigation—Immunity.
+A person, including but not limited to consumers, licensees, corporations, organizations, and state and local governmental agencies, may submit a written complaint to the department charging a license holder or applicant with unprofessional or unlawful conduct and specifying the grounds for the charge. If the director determines that the complaint merits investigation, or if the director has reason to believe, without a formal complaint, that a license holder or applicant may have engaged in unprofessional or unlawful conduct, the director shall investigate to determine if there has been unprofessional or unlawful conduct. A person who files a complaint under this section in good faith is immune from suit in any civil action related to the filing or contents of the complaint.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1679-S.SL.pdf?cite=1995%20c%20277%20§%2036[1995 c 277 § 36]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1991%20c%20328%20§%2018[1991 c 328 § 18]; ]
+
+== 18.165.210 - Inability to practice by reason of a mental or physical condition—Statement of charges—Hearing—Sanctions—Mental or physical examinations—Presumed consent for examination.
+. If the director believes a license holder or applicant may be unable to practice with reasonable skill and safety to the public by reason of any mental or physical condition, a statement of charges shall be served on the license holder or applicant and notice shall also be issued providing an opportunity for a hearing. The hearing shall be limited to the sole issue of the capacity of the license holder or applicant to practice with reasonable skill or safety. If the director determines that the license holder or applicant is unable to practice with reasonable skill and safety for one of the reasons stated in this subsection, the director shall impose such sanctions as are deemed necessary to protect the public.
+
+. In investigating or adjudicating a complaint or report that a license holder or applicant may be unable to practice with reasonable skill or safety by reason of a mental or physical condition, the department may require a license holder or applicant to submit to a mental or physical examination by one or more licensed or certified health professionals designated by the director. The cost of the examinations ordered by the department shall be paid by the department. In addition to any examinations ordered by the department, the licensee may submit physical or mental examination reports from licensed or certified health professionals of the license holder's or applicant's choosing and expense. Failure of the license holder or applicant to submit to examination when directed constitutes grounds for immediate suspension or withholding of the license, consequent upon which a default and final order may be entered without the taking of testimony or presentations of evidence, unless the failure was due to circumstances beyond the person's control. A determination by a court of competent jurisdiction that a license holder or applicant is mentally incompetent or mentally ill is presumptive evidence of the license holder's or applicant's inability to practice with reasonable skill and safety. An individual affected under this section shall at reasonable intervals be afforded an opportunity to demonstrate that the individual can resume competent practice with reasonable skill and safety to the public.
+
+. For the purpose of subsection (2) of this section, an applicant or license holder governed by this chapter, by making application, practicing, or filing a license renewal, is deemed to have given consent to submit to a mental, physical, or psychological examination if directed in writing by the department and further to have waived all objections to the admissibility or use of the examining health professional's testimony or examination reports by the director on the ground that the testimony or reports constitute hearsay or privileged communications.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1991%20c%20328%20§%2021[1991 c 328 § 21]; ]
+
+== 18.165.220 - Unprofessional, unlawful conduct or inability to practice—Penalties.
+Upon a finding that a license holder or applicant has committed unprofessional or unlawful conduct or is unable to practice with reasonable skill and safety due to a physical or mental condition, the director may issue an order providing for one or any combination of the following:
+
+. Revocation of the license;
+
+. Suspension of the license for a fixed or indefinite term;
+
+. Restriction or limitation of the practice;
+
+. Requiring the satisfactory completion of a specific program of remedial education or treatment;
+
+. Monitoring of the practice by a supervisor approved by the director;
+
+. Censure or reprimand;
+
+. Compliance with conditions of probation for a designated period of time;
+
+. Withholding a license request;
+
+. Other corrective action; 
+
+. Refund of fees billed to and collected from the consumer; or
+
+. Assessing administrative penalties.
+
+Any of the actions under this section may be totally or partly stayed by the director. All costs associated with compliance with orders issued under this section are the obligation of the license holder or applicant.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1679-S.SL.pdf?cite=1995%20c%20277%20§%2038[1995 c 277 § 38]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1991%20c%20328%20§%2022[1991 c 328 § 22]; ]
+
+== 18.165.230 - Enforcement of orders for payment of fines.
+If an order for payment of a fine is made as a result of a hearing and timely payment is not made as directed in the final order, the director may enforce the order for payment in the superior court in the county in which the hearing was held. This right of enforcement shall be in addition to any other rights the director may have as to a licensee ordered to pay a fine but shall not be construed to limit a licensee's ability to seek judicial review.
+
+In an action for enforcement of an order of payment of a fine, the director's order is conclusive proof of the validity of the order of payment of a fine and the terms of payment.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1991%20c%20328%20§%2023[1991 c 328 § 23]; ]
+
+== 18.165.270 - Application of administrative procedure act to acts of the director.
+The director, in implementing and administering the provisions of this chapter, shall act in accordance with the administrative procedure act, chapter 34.05 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1991%20c%20328%20§%2027[1991 c 328 § 27]; ]
+
+== 18.165.290 - License suspension—Noncompliance with support order—Reissuance.
+The director shall immediately suspend a license issued under this chapter if the holder has been certified pursuant to RCW 74.20A.320 by the department of social and health services as a person who is not in compliance with a support order or a *residential or visitation order. If the person has continued to meet all other requirements for reinstatement during the suspension, reissuance of the license shall be automatic upon the director's receipt of a release issued by the department of social and health services stating that the person is in compliance with the order.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/3901.SL.pdf?cite=1997%20c%2058%20§%20836[1997 c 58 § 836]; ]
+
+== 18.165.300 - Uniform regulation of business and professions act.
+The uniform regulation of business and professions act, chapter 18.235 RCW, governs unlicensed practice, the issuance and denial of licenses, and the discipline of licensees under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2512-S.SL.pdf?cite=2002%20c%2086%20§%20247[2002 c 86 § 247]; ]
+
+== 18.165.310 - Military training or experience.
+An applicant with military training or experience satisfies the training or experience requirements of this chapter unless the director determines that the military training or experience is not substantially equivalent to the standards of this state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1418.SL.pdf?cite=2011%20c%20351%20§%2010[2011 c 351 § 10]; ]
+

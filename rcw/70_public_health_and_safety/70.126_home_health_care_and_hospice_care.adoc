@@ -1,0 +1,88 @@
+= 70.126 - Home health care and hospice care.
+:toc:
+
+== 70.126.001 - Legislative finding.
+The legislature finds that the cost of medical care in general and hospital care in particular has risen dramatically in recent years, and that in 1981, such costs rose faster than in any year since World War II. The purpose of RCW 70.126.001 through * 70.126.050 is to support the provision of less expensive and more appropriate levels of care, home health care and hospice care, in order to avoid hospitalization or shorten hospital stays.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c249.pdf?cite=1983%20c%20249%20§%204[1983 c 249 § 4]; ]
+
+== 70.126.010 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Hospice" means a private or public agency or organization that administers and provides hospice care and is licensed by the department of social and health services as a hospice care agency.
+
+. "Hospice care" means care prescribed and supervised by the attending physician and provided by the hospice to the terminally ill in accordance with the standards of RCW 70.126.030.
+
+. "Home health agency" means a private or public agency or organization that administers and provides home health care and is licensed by the department of social and health services as a home health care agency.
+
+. "Home health care" means services, supplies, and medical equipment that meet the standards of RCW 70.126.020, prescribed and supervised by the attending physician, and provided through a home health agency and rendered to members in their residences when hospitalization would otherwise be required.
+
+. "Home health aide" means a person employed by a home health agency or a hospice who is providing part-time or intermittent care under the supervision of a registered nurse, a physical therapist, occupational therapist, or speech therapist. Such care includes ambulation and exercise, assistance with self-administered medications, reporting changes in patients' conditions and needs, completing appropriate records, and personal care or household services that are needed to achieve the medically desired results.
+
+. "Home health care plan of treatment" means a written plan of care established and periodically reviewed by a physician that describes medically necessary home health care to be provided to a patient for treatment of illness or injury.
+
+. "Hospice plan of care" means a written plan of care established and periodically reviewed by a physician that describes hospice care to be provided to a terminally ill patient for palliation or medically necessary treatment of an illness or injury.
+
+. "Physician" means a physician licensed under chapter 18.57 or 18.71 RCW.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c245.pdf?cite=1988%20c%20245%20§%2029[1988 c 245 § 29]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c22.pdf?cite=1984%20c%2022%20§%204[1984 c 22 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c249.pdf?cite=1983%20c%20249%20§%205[1983 c 249 § 5]; ]
+
+== 70.126.020 - Home health care—Services and supplies included, not included.
+. Home health care shall be provided by a home health agency and shall:
+
+.. Be delivered by a registered nurse, physical therapist, occupational therapist, speech therapist, or home health aide on a part-time or intermittent basis;
+
+.. Include, as applicable under the written plan, supplies and equipment such as:
+
+... Drugs and medicines that are legally obtainable only upon a physician's written prescription, and insulin;
+
+... Rental of durable medical apparatus and medical equipment such as wheelchairs, hospital beds, respirators, splints, trusses, braces, or crutches needed for treatment;
+
+... Supplies normally used for hospital inpatients and dispensed by the home health agency such as oxygen, catheters, needles, syringes, dressings, materials used in aseptic techniques, irrigation solutions, and intravenous fluids.
+
+. The following services may be included when medically necessary, ordered by the attending physician, and included in the approved plan of treatment:
+
+.. Licensed practical nurses;
+
+.. Respiratory therapists;
+
+.. Social workers holding a master's degree or further advanced degree from a social work educational program accredited and approved as provided in RCW 18.320.010;
+
+.. Ambulance service that is certified by the physician as necessary in the approved plan of treatment because of the patient's physical condition or for unexpected emergency situations.
+
+. Services not included in home health care include:
+
+.. Nonmedical, custodial, or housekeeping services except by home health aides as ordered in the approved plan of treatment;
+
+.. "Meals on Wheels" or similar food services;
+
+.. Nutritional guidance;
+
+.. Services performed by family members;
+
+.. Services not included in an approved plan of treatment;
+
+.. Supportive environmental materials such as handrails, ramps, telephones, air conditioners, and similar appliances and devices.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5020-S.SL.pdf?cite=2011%20c%2089%20§%2012[2011 c 89 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c22.pdf?cite=1984%20c%2022%20§%205[1984 c 22 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c249.pdf?cite=1983%20c%20249%20§%206[1983 c 249 § 6]; ]
+
+== 70.126.030 - Hospice care—Provider, plan, services included.
+. Hospice care shall be provided by a hospice and shall meet the standards of RCW 70.126.020(1) (a) and (b)(ii) and (iii).
+
+. A written hospice care plan shall be approved by a physician and shall be reviewed at designated intervals.
+
+. The following services for necessary medical or palliative care shall be included when ordered by the attending physician and included in the approved plan of treatment:
+
+.. Short-term care as an inpatient;
+
+.. Care of the terminally ill in an individual's home on an outpatient basis as included in the approved plan of treatment;
+
+.. Respite care that is continuous care in the most appropriate setting for a maximum of five days per three-month period of hospice care.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c22.pdf?cite=1984%20c%2022%20§%206[1984 c 22 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c249.pdf?cite=1983%20c%20249%20§%207[1983 c 249 § 7]; ]
+
+== 70.126.060 - Application of chapter.
+The provisions of this chapter apply only for the purposes of determining benefits to be included in the offering of optional coverage for home health and hospice care services, as provided in RCW 48.21.220, 48.21A.090, and 48.44.320 and do not apply for the purposes of licensure.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c245.pdf?cite=1988%20c%20245%20§%2030[1988 c 245 § 30]; ]
+

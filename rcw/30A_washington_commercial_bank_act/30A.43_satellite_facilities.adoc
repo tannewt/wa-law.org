@@ -1,0 +1,8 @@
+= 30A.43 - Satellite facilities.
+:toc:
+
+== 30A.43.005 - Finding—Definition of "off-premises electronic facilities."
+The legislature finds that the establishment and operation of off-premises electronic facilities, inside and outside the state of Washington, and the participation by financial institutions in arrangements for the sharing of such facilities, facilitates the delivery of financial services to the citizens of the state of Washington. The term "off-premises electronic facilities" includes, without limitation, automated teller machines, cash-dispensing machines, point-of-sale terminals, and merchant-operated terminals.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6285.SL.pdf?cite=1994%20c%20256%20§%2057[1994 c 256 § 57]; ]
+

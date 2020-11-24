@@ -1,0 +1,408 @@
+= 26.10 - Nonparental actions for child custody.
+:toc:
+
+== 26.10.010 - Intent. (Effective until January 1, 2021.)
+It is the intent of the legislature to reenact and continue the law relating to third-party actions involving custody of minor children in order to distinguish that body of law from the *1987 parenting act amendments to chapter 26.09 RCW, which previously contained these provisions.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c460.pdf?cite=1987%20c%20460%20§%2025[1987 c 460 § 25]; ]
+
+== 26.10.015 - Mandatory use of approved forms. (Effective until January 1, 2021.)
+. Effective January 1, 1992, a party shall not file any pleading with the clerk of the court in an action commenced under this chapter unless on forms approved by the administrator for the courts.
+
+. The parties shall comply with requirements for submission to the court of forms as provided in RCW 26.18.220.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2784-S.SL.pdf?cite=1992%20c%20229%20§%204[1992 c 229 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990ex1c2.pdf?cite=1990%201st%20ex.s.%20c%202%20§%2027[1990 1st ex.s. c 2 § 27]; ]
+
+== 26.10.020 - Civil practice to govern—Designation of proceedings—Decrees. (Effective until January 1, 2021.)
+. Except as otherwise specifically provided in this chapter, the practice in civil action shall govern all proceedings under this chapter, except that trial by jury is dispensed with.
+
+. In cases where a party other than a parent seeks custody of a minor child, a separate custody proceeding shall be entitled "In re the custody of . . . . . ."
+
+. The initial pleading in all proceedings under this chapter shall be denominated a petition. A responsive pleading shall be denominated a response. Other pleadings, and all pleadings in other matters under this chapter shall be denominated as provided in the civil rules for superior court.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c460.pdf?cite=1987%20c%20460%20§%2026[1987 c 460 § 26]; ]
+
+== 26.10.030 - Child custody proceeding—Commencement—Notice—Intervention. (Effective until January 1, 2021.)
+. Except as authorized for proceedings brought under chapter 13.34 RCW, or chapter 26.50 RCW in district or municipal courts, a child custody proceeding is commenced in the superior court by a person other than a parent, by filing a petition seeking custody of the child in the county where the child is permanently resident or where the child is found, but only if the child is not in the physical custody of one of its parents or if the petitioner alleges that neither parent is a suitable custodian. In proceedings in which the juvenile court has not exercised concurrent jurisdiction and prior to a child custody hearing, the court shall determine if the child is the subject of a pending dependency action.
+
+. Notice of a child custody proceeding shall be given to the child's parent, guardian and custodian, who may appear and be heard and may file a responsive pleading. The court may, upon a showing of good cause, permit the intervention of other interested parties.
+
+. The petitioner shall include in the petition the names of any adult members of the petitioner's household.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1878.SL.pdf?cite=2003%20c%20105%20§%203[2003 c 105 § 3]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6389-S.SL.pdf?cite=2000%20c%20135%20§%203[2000 c 135 § 3]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1121-S.SL.pdf?cite=1998%20c%20130%20§%204[1998 c 130 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c460.pdf?cite=1987%20c%20460%20§%2027[1987 c 460 § 27]; ]
+
+== 26.10.032 - Child custody motion—Affidavit required—Notice—Denial of motion—Show cause hearing. (Effective until January 1, 2021.)
+. A party seeking a custody order shall submit, along with his or her motion, an affidavit declaring that the child is not in the physical custody of one of its parents or that neither parent is a suitable custodian and setting forth facts supporting the requested order. The party seeking custody shall give notice, along with a copy of the affidavit, to other parties to the proceedings, who may file opposing affidavits. 
+
+. The court shall deny the motion unless it finds that adequate cause for hearing the motion is established by the affidavits, in which case it shall set a date for hearing on an order to show cause why the requested order should not be granted.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1878.SL.pdf?cite=2003%20c%20105%20§%206[2003 c 105 § 6]; ]
+
+== 26.10.034 - Petitions—Indian child statement—Application of federal Indian child welfare act. (Effective until January 1, 2021.)
+. Every petition filed in proceedings under this chapter shall contain a statement alleging whether the child is or may be an Indian child as defined in RCW 13.38.040. If the child is an Indian child, chapter 13.38 RCW shall apply.
+
+. Every order or decree entered in any proceeding under this chapter shall contain a finding that the federal Indian child welfare act or chapter 13.38 RCW does or does not apply. Where there is a finding that the federal Indian child welfare act or chapter 13.38 RCW does apply, the decree or order must also contain a finding that all notice and evidentiary requirements under the federal Indian child welfare act and chapter 13.38 RCW have been satisfied.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5656-S.SL.pdf?cite=2011%20c%20309%20§%2031[2011 c 309 § 31]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/3051-S.SL.pdf?cite=2004%20c%2064%20§%201[2004 c 64 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1878.SL.pdf?cite=2003%20c%20105%20§%207[2003 c 105 § 7]; ]
+
+== 26.10.040 - Provisions for child support, custody, and visitation—Federal tax exemption—Continuing restraining orders—Domestic violence or antiharassment protection orders—Notice of modification or termination of restraining order. (Effective until January 1, 2021.)
+. In entering an order under this chapter, the court shall consider, approve, or make provision for:
+
+.. Child custody, visitation, and the support of any child entitled to support;
+
+.. The allocation of the children as a federal tax exemption;
+
+.. Any necessary continuing restraining orders, including the provisions contained in RCW 9.41.800;
+
+.. A domestic violence protection order under chapter 26.50 RCW or an antiharassment protection order under chapter 10.14 RCW. The court may grant any of the relief provided in RCW 26.50.060 except relief pertaining to residential provisions for the children which provisions shall be provided for under this chapter, and any of the relief provided in RCW 10.14.080;
+
+.. Restraining orders issued under this section restraining or enjoining the person from molesting or disturbing another party, or from going onto the grounds of or entering the home, workplace, or school of the other party or the day care or school of any child, or prohibiting the person from knowingly coming within, or knowingly remaining within, a specified distance of a location, shall prominently bear on the front page of the order the legend: VIOLATION OF THIS ORDER WITH ACTUAL NOTICE OF ITS TERMS IS A CRIMINAL OFFENSE UNDER CHAPTER 26.50 RCW AND WILL SUBJECT A VIOLATOR TO ARREST.
+
+. The court shall order that any restraining order bearing a criminal offense legend, any domestic violence protection order, or any antiharassment protection order granted under this section, in addition to the law enforcement information sheet or proof of service of the order, be forwarded by the clerk of the court on or before the next judicial day to the appropriate law enforcement agency specified in the order. Upon receipt of the order, the law enforcement agency shall enter the order into any computer-based criminal intelligence information system available in this state used by law enforcement agencies to list outstanding warrants. The order is fully enforceable in any county in the state.
+
+. If a restraining order issued pursuant to this section is modified or terminated, the clerk of the court shall notify the law enforcement agency specified in the order on or before the next judicial day. Upon receipt of notice that an order has been terminated, the law enforcement agency shall remove the order from any computer-based criminal intelligence system.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6400-S2.SL.pdf?cite=2000%20c%20119%20§%208[2000 c 119 § 8]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5835-S.SL.pdf?cite=1995%20c%2093%20§%203[1995 c 93 § 3]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2319-S2.SL.pdf?cite=1994%20sp.s.%20c%207%20§%20453[1994 sp.s. c 7 § 453]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c375.pdf?cite=1989%20c%20375%20§%2031[1989 c 375 § 31]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c460.pdf?cite=1987%20c%20460%20§%2028[1987 c 460 § 28]; ]
+
+== 26.10.045 - Child support schedule. (Effective until January 1, 2021.)
+A determination of child support shall be based upon the child support schedule and standards adopted under *RCW 26.19.040.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c275.pdf?cite=1988%20c%20275%20§%2012[1988 c 275 § 12]; ]
+
+== 26.10.050 - Child support by parents—Apportionment of expense. (Effective until January 1, 2021.)
+In a custody proceeding, the court may order either or both parents owing a duty of support to any child of the marriage or the domestic partnership dependent upon either or both spouses or either or both domestic partners to pay an amount reasonable or necessary for the child's support.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%201023[2008 c 6 § 1023]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c460.pdf?cite=1987%20c%20460%20§%2029[1987 c 460 § 29]; ]
+
+== 26.10.060 - Health insurance coverage—Conditions. (Effective until January 1, 2021.)
+In entering or modifying a custody order under this chapter, the court shall require either or both parents to maintain or provide health insurance coverage for any dependent child if the following conditions are met:
+
+. Health insurance that can be extended to cover the child is available to that parent through an employer or other organization; and
+
+. The employer or other organization offering health insurance will contribute all or a part of the premium for coverage of the child.
+
+A parent who is required to extend insurance coverage to a child under this section is liable for any covered health care costs for which the parent receives direct payment from an insurer.
+
+This section shall not be construed to limit the authority of the court to enter or modify support orders containing provisions for payment of medical expenses, medical costs, or insurance premiums which are in addition to and not inconsistent with this section. "Health insurance" as used in this section does not include medical assistance provided under chapter 74.09 RCW.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c375.pdf?cite=1989%20c%20375%20§%2019[1989 c 375 § 19]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c460.pdf?cite=1987%20c%20460%20§%2030[1987 c 460 § 30]; ]
+
+== 26.10.070 - Minor or dependent child—Court appointed attorney to represent—Payment of costs, fees, and disbursements. (Effective until January 1, 2021.)
+The court may appoint an attorney to represent the interests of a minor or dependent child with respect to custody, support, and visitation. The court shall enter an order for costs, fees, and disbursements in favor of the child's attorney. The order shall be made against any or all parties, except that, if all parties are indigent, the costs, fees, and disbursements shall be borne by the county.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c375.pdf?cite=1989%20c%20375%20§%2020[1989 c 375 § 20]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c460.pdf?cite=1987%20c%20460%20§%2031[1987 c 460 § 31]; ]
+
+== 26.10.080 - Payment of costs, attorney's fees, etc. (Effective until January 1, 2021.)
+The court from time to time, after considering the financial resources of all parties, may order a party to pay a reasonable amount for the cost to the other party of maintaining or defending any proceeding under this chapter and for reasonable attorney's fees or other professional fees in connection therewith, including sums for legal services rendered and costs incurred prior to the commencement of the proceeding or enforcement or modification proceedings after entry of judgment.
+
+Upon any appeal, the appellate court may, in its discretion, order a party to pay for the cost to the other party of maintaining the appeal and attorney's fees in addition to statutory costs.
+
+The court may order that the attorney's fees be paid directly to the attorney who may enforce the order in his or her name.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c460.pdf?cite=1987%20c%20460%20§%2035[1987 c 460 § 35]; ]
+
+== 26.10.090 - Failure to comply with decree or temporary injunction—Obligation to make support payments or permit visitation not suspended—Motion. (Effective until January 1, 2021.)
+If a party fails to comply with a provision of an order or temporary order of injunction, the obligation of the other party to make payments for support or to permit visitation is not suspended, but the party may move the court to grant an appropriate order.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c460.pdf?cite=1987%20c%20460%20§%2036[1987 c 460 § 36]; ]
+
+== 26.10.100 - Determination of custody—Child's best interests. (Effective until January 1, 2021.)
+The court shall determine custody in accordance with the best interests of the child.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c460.pdf?cite=1987%20c%20460%20§%2038[1987 c 460 § 38]; ]
+
+== 26.10.110 - Temporary custody order—Vacation of order. (Effective until January 1, 2021.)
+A party to a custody proceeding may move for a temporary custody order. The motion must be supported by an affidavit as provided in RCW 26.10.200. The court may award temporary custody after a hearing, or, if there is no objection, solely on the basis of the affidavits.
+
+If a custody proceeding commenced under this chapter is dismissed, any temporary order is vacated.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c460.pdf?cite=1987%20c%20460%20§%2039[1987 c 460 § 39]; ]
+
+== 26.10.115 - Temporary orders—Support—Restraining orders—Domestic violence or antiharassment protection orders—Notice of modification or termination of restraining order—Preservation of support debt.
+. In a proceeding under this chapter either party may file a motion for temporary support of children entitled to support. The motion shall be accompanied by an affidavit setting forth the factual basis for the motion and the amount requested.
+
+. In a proceeding under this chapter either party may file a motion for a temporary restraining order or preliminary injunction, providing relief proper in the circumstances, and restraining or enjoining any person from:
+
+.. Molesting or disturbing the peace of the other party or of any child;
+
+.. Entering the family home or the home of the other party upon a showing of the necessity therefor;
+
+.. Knowingly coming within, or knowingly remaining within, a specified distance from a specified location; and
+
+.. Removing a child from the jurisdiction of the court.
+
+. Either party may request a domestic violence protection order under chapter 26.50 RCW or an antiharassment protection order under chapter 10.14 RCW on a temporary basis. The court may grant any of the relief provided in RCW 26.50.060 except relief pertaining to residential provisions for the children which provisions shall be provided for under this chapter, and any of the relief provided in RCW 10.14.080. Ex parte orders issued under this subsection shall be effective for a fixed period not to exceed fourteen days, or upon court order, not to exceed twenty-four days if necessary to ensure that all temporary motions in the case can be heard at the same time.
+
+. In issuing the order, the court shall consider the provisions of RCW 9.41.800, and shall order the respondent to surrender, and prohibit the respondent from possessing, all firearms, dangerous weapons, and any concealed pistol license as required in RCW 9.41.800.
+
+. The court may issue a temporary restraining order without requiring notice to the other party only if it finds on the basis of the moving affidavit or other evidence that irreparable injury could result if an order is not issued until the time for responding has elapsed.
+
+. The court may issue a temporary restraining order or preliminary injunction and an order for temporary support in such amounts and on such terms as are just and proper in the circumstances.
+
+. Restraining orders issued under this section restraining or enjoining the person from molesting or disturbing another party, or from going onto the grounds of or entering the home, workplace, or school of the other party or the day care or school of any child, or prohibiting the person from knowingly coming within, or knowingly remaining within, a specified distance of a location, shall prominently bear on the front page of the order the legend: VIOLATION OF THIS ORDER WITH ACTUAL NOTICE OF ITS TERMS IS A CRIMINAL OFFENSE UNDER CHAPTER 26.50 RCW AND WILL SUBJECT A VIOLATOR TO ARREST.
+
+. The court shall order that any temporary restraining order bearing a criminal offense legend, any domestic violence protection order, or any antiharassment protection order granted under this section be forwarded by the clerk of the court on or before the next judicial day to the appropriate law enforcement agency specified in the order. Upon receipt of the order, the law enforcement agency shall enter the order into any computer-based criminal intelligence information system available in this state used by law enforcement agencies to list outstanding warrants. Entry into the computer-based criminal intelligence information system constitutes notice to all law enforcement agencies of the existence of the order. The order is fully enforceable in any county in the state.
+
+. If a restraining order issued pursuant to this section is modified or terminated, the clerk of the court shall notify the law enforcement agency specified in the order on or before the next judicial day. Upon receipt of notice that an order has been terminated, the law enforcement agency shall remove the order from any computer-based criminal intelligence system.
+
+. A temporary order, temporary restraining order, or preliminary injunction:
+
+.. Does not prejudice the rights of a party or any child which are to be adjudicated at subsequent hearings in the proceeding;
+
+.. May be revoked or modified;
+
+.. Terminates when the final order is entered or when the motion is dismissed;
+
+.. May be entered in a proceeding for the modification of an existing order.
+
+. A support debt owed to the state for public assistance expenditures which has been charged against a party pursuant to RCW 74.20A.040 and/or 74.20A.055 shall not be merged in, or otherwise extinguished by, the final decree or order, unless the office of support enforcement has been given notice of the final proceeding and an opportunity to present its claim for the support debt to the court and has failed to file an affidavit as provided in this subsection. Notice of the proceeding shall be served upon the office of support enforcement personally, or by certified mail, and shall be given no fewer than thirty days prior to the date of the final proceeding. An original copy of the notice shall be filed with the court either before service or within a reasonable time thereafter. The office of support enforcement may present its claim, and thereby preserve the support debt, by filing an affidavit setting forth the amount of the debt with the court, and by mailing a copy of the affidavit to the parties or their attorney prior to the date of the final proceeding.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1786-S.SL.pdf?cite=2019%20c%20245%20§%2018[2019 c 245 § 18]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6400-S2.SL.pdf?cite=2000%20c%20119%20§%209[2000 c 119 § 9]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5219-S.SL.pdf?cite=1995%20c%20246%20§%2029[1995 c 246 § 29]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2319-S2.SL.pdf?cite=1994%20sp.s.%20c%207%20§%20454[1994 sp.s. c 7 § 454]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c375.pdf?cite=1989%20c%20375%20§%2032[1989 c 375 § 32]; ]
+
+== 26.10.120 - Interview with child by court—Advice of professional personnel. (Effective until January 1, 2021.)
+The court may interview the child in chambers to ascertain the child's wishes as to his or her custodian and as to visitation privileges. The court may permit counsel to be present at the interview. The court shall cause a record of the interview to be made and to be made part of the record in the case.
+
+The court may seek the advice of professional personnel whether or not they are employed on a regular basis by the court. The advice given shall be in writing and shall be made available by the court to counsel upon request. Counsel may call for cross-examination any professional personnel consulted by the court.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c460.pdf?cite=1987%20c%20460%20§%2040[1987 c 460 § 40]; ]
+
+== 26.10.130 - Investigation and report. (Effective until January 1, 2021.)
+. In contested custody proceedings, and in other custody proceedings if a parent or the child's custodian so requests, the court may order an investigation and report concerning custodian arrangements for the child, or may appoint a guardian ad litem pursuant to RCW 26.12.175, or both. The investigation and report may be made by the guardian ad litem, the staff of the juvenile court, or other professional social service organization experienced in counseling children and families.
+
+. In preparing the report concerning a child, the investigator may consult any person who may have information about the child and potential custodian arrangements. Upon order of the court, the investigator may refer the child to professional personnel for diagnosis. The investigator may consult with and obtain information from medical, psychiatric, or other expert persons who have served the child in the past without obtaining the consent of the parent or the child's custodian; but the child's consent must be obtained if the child has reached the age of twelve, unless the court finds that the child lacks mental capacity to consent. If the requirements of subsection (3) of this section are fulfilled, the investigator's report may be received in evidence at the hearing.
+
+. The investigator shall mail the investigator's report to counsel and to any party not represented by counsel at least ten days prior to the hearing unless a shorter time is ordered by the court for good cause shown. The investigator shall make available to counsel and to any party not represented by counsel the investigator's file of underlying data and reports, complete texts of diagnostic reports made to the investigator pursuant to the provisions of subsection (2) of this section, and the names and addresses of all persons whom the investigator has consulted. Any party to the proceeding may call the investigator and any person whom the investigator has consulted for cross-examination. A party may not waive the right of cross-examination prior to the hearing.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1072-S.SL.pdf?cite=1993%20c%20289%20§%202[1993 c 289 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c460.pdf?cite=1987%20c%20460%20§%2041[1987 c 460 § 41]; ]
+
+== 26.10.135 - Custody orders—Background information to be consulted. (Effective until January 1, 2021.)
+. Before granting any order regarding the custody of a child under this chapter, the court shall consult the judicial information system, if available, to determine the existence of any information and proceedings that are relevant to the placement of the child.
+
+. Before entering a final order, the court shall:
+
+.. Direct the department of children, youth, and families to release information as provided under RCW 13.50.100; and
+
+.. Require the petitioner to provide the results of an examination of state and national criminal identification data provided by the Washington state patrol criminal identification system as described in chapter 43.43 RCW for the petitioner and adult members of the petitioner's household.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1661-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%206%20§%20333[2017 3rd sp.s. c 6 § 333]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1878.SL.pdf?cite=2003%20c%20105%20§%201[2003 c 105 § 1]; ]
+
+== 26.10.140 - Hearing—Record—Expenses of witnesses. (Effective until January 1, 2021.)
+Custody proceedings shall receive priority in being set for hearing.
+
+A party may petition the court to authorize the payment of necessary travel and other expenses incurred by any witness whose presence at the hearing the court deems necessary to determine the best interests of the child.
+
+The court without a jury shall determine questions of law and fact. If it finds that a public hearing may be detrimental to the child's best interests, the court may exclude the public from a custody hearing, but may admit any person who has a direct and legitimate interest in the work of the court.
+
+If the court finds it necessary to protect the child's welfare that the record of any interview, report, investigation, or testimony in a custody proceeding be kept secret, the court may make an appropriate order sealing the record.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c460.pdf?cite=1987%20c%20460%20§%2042[1987 c 460 § 42]; ]
+
+== 26.10.150 - Access to child's education and medical records. (Effective until January 1, 2021.)
+Each parent shall have full and equal access to the education and medical records of the child absent a court order to the contrary.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c460.pdf?cite=1987%20c%20460%20§%2043[1987 c 460 § 43]; ]
+
+== 26.10.160 - Visitation rights—Limitations. (Effective until January 1, 2021.)
+. A parent not granted custody of the child is entitled to reasonable visitation rights except as provided in subsection (2) of this section.
+
+. [Empty]
+.. Visitation with the child shall be limited if it is found that the parent seeking visitation has engaged in any of the following conduct: (i) Willful abandonment that continues for an extended period of time or substantial refusal to perform parenting functions; (ii) physical, sexual, or a pattern of emotional abuse of a child; (iii) a history of acts of domestic violence as defined in RCW 26.50.010(3) or an assault or sexual assault which causes grievous bodily harm or the fear of such harm; or (iv) the parent has been convicted as an adult of a sex offense under:
+
+(A) RCW 9A.44.076 if, because of the difference in age between the offender and the victim, no rebuttable presumption exists under (d) of this subsection;
+
+(B) RCW 9A.44.079 if, because of the difference in age between the offender and the victim, no rebuttable presumption exists under (d) of this subsection;
+
+(C) RCW 9A.44.086 if, because of the difference in age between the offender and the victim, no rebuttable presumption exists under (d) of this subsection;
+
+(D) RCW 9A.44.089;
+
+(E) RCW 9A.44.093;
+
+(F) RCW 9A.44.096;
+
+(G) RCW 9A.64.020 (1) or (2) if, because of the difference in age between the offender and the victim, no rebuttable presumption exists under (d) of this subsection;
+
+(H) Chapter 9.68A RCW;
+
+(I) Any predecessor or antecedent statute for the offenses listed in (a)(iv)(A) through (H) of this subsection;
+
+(J) Any statute from any other jurisdiction that describes an offense analogous to the offenses listed in (a)(iv)(A) through (H) of this subsection.
+
+This subsection (2)(a) shall not apply when (c) or (d) of this subsection applies.
+
+.. The parent's visitation with the child shall be limited if it is found that the parent resides with a person who has engaged in any of the following conduct: (i) Physical, sexual, or a pattern of emotional abuse of a child; (ii) a history of acts of domestic violence as defined in RCW 26.50.010(3) or an assault or sexual assault that causes grievous bodily harm or the fear of such harm; or (iii) the person has been convicted as an adult or as a juvenile has been adjudicated of a sex offense under:
+
+(A) RCW 9A.44.076 if, because of the difference in age between the offender and the victim, no rebuttable presumption exists under (e) of this subsection;
+
+(B) RCW 9A.44.079 if, because of the difference in age between the offender and the victim, no rebuttable presumption exists under (e) of this subsection;
+
+(C) RCW 9A.44.086 if, because of the difference in age between the offender and the victim, no rebuttable presumption exists under (e) of this subsection;
+
+(D) RCW 9A.44.089;
+
+(E) RCW 9A.44.093;
+
+(F) RCW 9A.44.096;
+
+(G) RCW 9A.64.020 (1) or (2) if, because of the difference in age between the offender and the victim, no rebuttable presumption exists under (e) of this subsection;
+
+(H) Chapter 9.68A RCW;
+
+(I) Any predecessor or antecedent statute for the offenses listed in (b)(iii)(A) through (H) of this subsection;
+
+(J) Any statute from any other jurisdiction that describes an offense analogous to the offenses listed in (b)(iii)(A) through (H) of this subsection.
+
+This subsection (2)(b) shall not apply when (c) or (e) of this subsection applies.
+
+.. If a parent has been found to be a sexual predator under chapter 71.09 RCW or under an analogous statute of any other jurisdiction, the court shall restrain the parent from contact with a child that would otherwise be allowed under this chapter. If a parent resides with an adult or a juvenile who has been found to be a sexual predator under chapter 71.09 RCW or under an analogous statute of any other jurisdiction, the court shall restrain the parent from contact with the parent's child except contact that occurs outside that person's presence.
+
+.. There is a rebuttable presumption that a parent who has been convicted as an adult of a sex offense listed in (d)(i) through (ix) of this subsection poses a present danger to a child. Unless the parent rebuts this presumption, the court shall restrain the parent from contact with a child that would otherwise be allowed under this chapter:
+
+... RCW 9A.64.020 (1) or (2), provided that the person convicted was at least five years older than the other person;
+
+... RCW 9A.44.073;
+
+... RCW 9A.44.076, provided that the person convicted was at least eight years older than the victim;
+
+... RCW 9A.44.079, provided that the person convicted was at least eight years older than the victim;
+
+.. RCW 9A.44.083;
+
+.. RCW 9A.44.086, provided that the person convicted was at least eight years older than the victim;
+
+.. RCW 9A.44.100;
+
+.. Any predecessor or antecedent statute for the offenses listed in (d)(i) through (vii) of this subsection;
+
+... Any statute from any other jurisdiction that describes an offense analogous to the offenses listed in (d)(i) through (vii) of this subsection.
+
+.. There is a rebuttable presumption that a parent who resides with a person who, as an adult, has been convicted, or as a juvenile has been adjudicated, of the sex offenses listed in (e)(i) through (ix) of this subsection places a child at risk of abuse or harm when that parent exercises visitation in the presence of the convicted or adjudicated person. Unless the parent rebuts the presumption, the court shall restrain the parent from contact with the parent's child except for contact that occurs outside of the convicted or adjudicated person's presence:
+
+... RCW 9A.64.020 (1) or (2), provided that the person convicted was at least five years older than the other person;
+
+... RCW 9A.44.073;
+
+... RCW 9A.44.076, provided that the person convicted was at least eight years older than the victim;
+
+... RCW 9A.44.079, provided that the person convicted was at least eight years older than the victim;
+
+.. RCW 9A.44.083;
+
+.. RCW 9A.44.086, provided that the person convicted was at least eight years older than the victim;
+
+.. RCW 9A.44.100;
+
+.. Any predecessor or antecedent statute for the offenses listed in (e)(i) through (vii) of this subsection;
+
+... Any statute from any other jurisdiction that describes an offense analogous to the offenses listed in (e)(i) through (vii) of this subsection.
+
+.. The presumption established in (d) of this subsection may be rebutted only after a written finding that:
+
+... If the child was not the victim of the sex offense committed by the parent requesting visitation, (A) contact between the child and the offending parent is appropriate and poses minimal risk to the child, and (B) the offending parent has successfully engaged in treatment for sex offenders or is engaged in and making progress in such treatment, if any was ordered by a court, and the treatment provider believes such contact is appropriate and poses minimal risk to the child; or
+
+... If the child was the victim of the sex offense committed by the parent requesting visitation, (A) contact between the child and the offending parent is appropriate and poses minimal risk to the child, (B) if the child is in or has been in therapy for victims of sexual abuse, the child's counselor believes such contact between the child and the offending parent is in the child's best interest, and (C) the offending parent has successfully engaged in treatment for sex offenders or is engaged in and making progress in such treatment, if any was ordered by a court, and the treatment provider believes such contact is appropriate and poses minimal risk to the child.
+
+.. The presumption established in (e) of this subsection may be rebutted only after a written finding that:
+
+... If the child was not the victim of the sex offense committed by the person who is residing with the parent requesting visitation, (A) contact between the child and the parent residing with the convicted or adjudicated person is appropriate and that parent is able to protect the child in the presence of the convicted or adjudicated person, and (B) the convicted or adjudicated person has successfully engaged in treatment for sex offenders or is engaged in and making progress in such treatment, if any was ordered by a court, and the treatment provider believes such contact is appropriate and poses minimal risk to the child; or
+
+... If the child was the victim of the sex offense committed by the person who is residing with the parent requesting visitation, (A) contact between the child and the parent in the presence of the convicted or adjudicated person is appropriate and poses minimal risk to the child, (B) if the child is in or has been in therapy for victims of sexual abuse, the child's counselor believes such contact between the child and the parent residing with the convicted or adjudicated person in the presence of the convicted or adjudicated person is in the child's best interest, and (C) the convicted or adjudicated person has successfully engaged in treatment for sex offenders or is engaged in and making progress in such treatment, if any was ordered by a court, and the treatment provider believes contact between the parent and child in the presence of the convicted or adjudicated person is appropriate and poses minimal risk to the child.
+
+.. If the court finds that the parent has met the burden of rebutting the presumption under (f) of this subsection, the court may allow a parent who has been convicted as an adult of a sex offense listed in (d)(i) through (ix) of this subsection to have visitation with the child supervised by a neutral and independent adult and pursuant to an adequate plan for supervision of such visitation. The court shall not approve of a supervisor for contact between the child and the parent unless the court finds, based on the evidence, that the supervisor is willing and capable of protecting the child from harm. The court shall revoke court approval of the supervisor upon finding, based on the evidence, that the supervisor has failed to protect the child or is no longer willing or capable of protecting the child.
+
+.. If the court finds that the parent has met the burden of rebutting the presumption under (g) of this subsection, the court may allow a parent residing with a person who has been adjudicated as a juvenile of a sex offense listed in (e)(i) through (ix) of this subsection to have visitation with the child in the presence of the person adjudicated as a juvenile, supervised by a neutral and independent adult and pursuant to an adequate plan for supervision of such visitation. The court shall not approve of a supervisor for contact between the child and the parent unless the court finds, based on the evidence, that the supervisor is willing and capable of protecting the child from harm. The court shall revoke court approval of the supervisor upon finding, based on the evidence, that the supervisor has failed to protect the child or is no longer willing or capable of protecting the child.
+
+.. If the court finds that the parent has met the burden of rebutting the presumption under (g) of this subsection, the court may allow a parent residing with a person who, as an adult, has been convicted of a sex offense listed in (e)(i) through (ix) of this subsection to have visitation with the child in the presence of the convicted person supervised by a neutral and independent adult and pursuant to an adequate plan for supervision of such visitation. The court shall not approve of a supervisor for contact between the child and the parent unless the court finds, based on the evidence, that the supervisor is willing and capable of protecting the child from harm. The court shall revoke court approval of the supervisor upon finding, based on the evidence, that the supervisor has failed to protect the child or is no longer willing or capable of protecting the child.
+
+.. A court shall not order unsupervised contact between the offending parent and a child of the offending parent who was sexually abused by that parent. A court may order unsupervised contact between the offending parent and a child who was not sexually abused by the parent after the presumption under (d) of this subsection has been rebutted and supervised visitation has occurred for at least two years with no further arrests or convictions of sex offenses involving children under chapter 9A.44 RCW, RCW 9A.64.020, or chapter 9.68A RCW and (i) the sex offense of the offending parent was not committed against a child of the offending parent, and (ii) the court finds that unsupervised contact between the child and the offending parent is appropriate and poses minimal risk to the child, after consideration of the testimony of a state-certified therapist, mental health counselor, or social worker with expertise in treating child sexual abuse victims who has supervised at least one period of visitation between the parent and the child, and after consideration of evidence of the offending parent's compliance with community supervision requirements, if any. If the offending parent was not ordered by a court to participate in treatment for sex offenders, then the parent shall obtain a psychosexual evaluation conducted by a certified sex offender treatment provider or a certified affiliate sex offender treatment provider indicating that the offender has the lowest likelihood of risk to reoffend before the court grants unsupervised contact between the parent and a child.
+
+.. A court may order unsupervised contact between the parent and a child which may occur in the presence of a juvenile adjudicated of a sex offense listed in (e)(i) through (ix) of this subsection who resides with the parent after the presumption under (e) of this subsection has been rebutted and supervised visitation has occurred for at least two years during which time the adjudicated juvenile has had no further arrests, adjudications, or convictions of sex offenses involving children under chapter 9A.44 RCW, RCW 9A.64.020, or chapter 9.68A RCW, and (i) the court finds that unsupervised contact between the child and the parent that may occur in the presence of the adjudicated juvenile is appropriate and poses minimal risk to the child, after consideration of the testimony of a state-certified therapist, mental health counselor, or social worker with expertise in treatment of child sexual abuse victims who has supervised at least one period of visitation between the parent and the child in the presence of the adjudicated juvenile, and after consideration of evidence of the adjudicated juvenile's compliance with community supervision or parole requirements, if any. If the adjudicated juvenile was not ordered by a court to participate in treatment for sex offenders, then the adjudicated juvenile shall obtain a psychosexual evaluation conducted by a certified sex offender treatment provider or a certified affiliate sex offender treatment provider indicating that the adjudicated juvenile has the lowest likelihood of risk to reoffend before the court grants unsupervised contact between the parent and a child which may occur in the presence of the adjudicated juvenile who is residing with the parent.
+
+.. [Empty]
+... The limitations imposed by the court under (a) or (b) of this subsection shall be reasonably calculated to protect the child from the physical, sexual, or emotional abuse or harm that could result if the child has contact with the parent requesting visitation. If the court expressly finds based on the evidence that limitations on visitation with the child will not adequately protect the child from the harm or abuse that could result if the child has contact with the parent requesting visitation, the court shall restrain the person seeking visitation from all contact with the child.
+
+... The court shall not enter an order under (a) of this subsection allowing a parent to have contact with a child if the parent has been found by clear and convincing evidence in a civil action or by a preponderance of the evidence in a dependency action to have sexually abused the child, except upon recommendation by an evaluator or therapist for the child that the child is ready for contact with the parent and will not be harmed by the contact. The court shall not enter an order allowing a parent to have contact with the child in the offender's presence if the parent resides with a person who has been found by clear and convincing evidence in a civil action or by a preponderance of the evidence in a dependency action to have sexually abused a child, unless the court finds that the parent accepts that the person engaged in the harmful conduct and the parent is willing to and capable of protecting the child from harm from the person.
+
+... If the court limits visitation under (a) or (b) of this subsection to require supervised contact between the child and the parent, the court shall not approve of a supervisor for contact between a child and a parent who has engaged in physical, sexual, or a pattern of emotional abuse of the child unless the court finds based upon the evidence that the supervisor accepts that the harmful conduct occurred and is willing to and capable of protecting the child from harm. The court shall revoke court approval of the supervisor upon finding, based on the evidence, that the supervisor has failed to protect the child or is no longer willing to or capable of protecting the child.
+
+.. If the court expressly finds based on the evidence that contact between the parent and the child will not cause physical, sexual, or emotional abuse or harm to the child and that the probability that the parent's or other person's harmful or abusive conduct will recur is so remote that it would not be in the child's best interests to apply the limitations of (a), (b), and (m)(i) and (iii) of this subsection, or if the court expressly finds that the parent's conduct did not have an impact on the child, then the court need not apply the limitations of (a), (b), and (m)(i) and (iii) of this subsection. The weight given to the existence of a protection order issued under chapter 26.50 RCW as to domestic violence is within the discretion of the court. This subsection shall not apply when (c), (d), (e), (f), (g), (h), (i), (j), (k), (l), and (m)(ii) of this subsection apply.
+
+. The court may modify an order granting or denying visitation rights whenever modification would serve the best interests of the child. Modification of a parent's visitation rights shall be subject to the requirements of subsection (2) of this section.
+
+. For the purposes of this section:
+
+.. "A parent's child" means that parent's natural child, adopted child, or stepchild; and
+
+.. "Social worker" means a person with a master's or further advanced degree from a social work educational program accredited and approved as provided in RCW 18.320.010.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5598.SL.pdf?cite=2018%20c%20183%20§%207[2018 c 183 § 7]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5020-S.SL.pdf?cite=2011%20c%2089%20§%207[2011 c 89 § 7]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2849-S.SL.pdf?cite=2004%20c%2038%20§%2013[2004 c 38 § 13]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5676-S2.SL.pdf?cite=1996%20c%20303%20§%202[1996 c 303 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5061-S.SL.pdf?cite=1994%20c%20267%20§%202[1994 c 267 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c326.pdf?cite=1989%20c%20326%20§%202[1989 c 326 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c460.pdf?cite=1987%20c%20460%20§%2044[1987 c 460 § 44]; ]
+
+== 26.10.170 - Powers and duties of custodian—Supervision by appropriate agency when necessary. (Effective until January 1, 2021.)
+Except as otherwise agreed by the parties in writing at the time of the custody decree, the custodian may determine the child's upbringing, including education, health care, and religious training, unless the court after hearing, finds, upon motion by the noncustodial parent, that in the absence of a specific limitation of the custodian's authority, the child's physical, mental, or emotional health would be endangered.
+
+If both parents or all contestants agree to the order, or if the court finds that in the absence of the order the child's physical, mental, or emotional health would be endangered, the court may order an appropriate agency which regularly deals with children to exercise continuing supervision over the case to assure that the custodial or visitation terms of the decree are carried out. Such order may be modified by the court at any time upon petition by either party.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c460.pdf?cite=1987%20c%20460%20§%2045[1987 c 460 § 45]; ]
+
+== 26.10.180 - Remedies when a child is taken, enticed, or concealed. (Effective until January 1, 2021.)
+. A relative may bring civil action against any other relative who, with intent to deny access to a child by another relative of the child who has a right to physical custody of or visitation with the child, takes, entices, or conceals the child from that relative. The plaintiff may be awarded, in addition to any damages awarded by the court, the reasonable expenses incurred by the plaintiff in locating the child, including, but not limited to, investigative services and reasonable attorneys' fees.
+
+. "Relative" means an ancestor, descendant, or sibling including a relative of the same degree through marriage, domestic partnership, or adoption, or a spouse or domestic partner.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%201024[2008 c 6 § 1024]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c375.pdf?cite=1989%20c%20375%20§%2021[1989 c 375 § 21]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c460.pdf?cite=1987%20c%20460%20§%2046[1987 c 460 § 46]; ]
+
+== 26.10.190 - Petitions for modification and proceedings concerning relocation of child—Assessment of attorneys' fees. (Effective until January 1, 2021.)
+. The court shall hear and review petitions for modifications of a parenting plan, custody order, visitation order, or other order governing the residence of a child, and conduct any proceedings concerning a relocation of the residence where the child resides a majority of the time, pursuant to chapter 26.09 RCW.
+
+. If the court finds that a motion to modify a prior custody decree has been brought in bad faith, the court shall assess the attorney's fees and court costs of the custodian against the petitioner.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2884-S.SL.pdf?cite=2000%20c%2021%20§%2021[2000 c 21 § 21]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c375.pdf?cite=1989%20c%20375%20§%2024[1989 c 375 § 24]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c460.pdf?cite=1987%20c%20460%20§%2047[1987 c 460 § 47]; ]
+
+== 26.10.200 - Temporary custody order or modification of custody decree—Affidavits required. (Effective until January 1, 2021.)
+A party seeking a temporary custody order or modification of a custody decree shall submit together with his or her motion, an affidavit setting forth facts supporting the requested order or modification and shall give notice, together with a copy of the affidavit, to other parties to the proceedings, who may file opposing affidavits. The court shall deny the motion unless it finds that adequate cause for hearing the motion is established by the affidavits, in which case it shall set a date for hearing on an order to show cause why the requested order or modification should not be granted.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c460.pdf?cite=1987%20c%20460%20§%2048[1987 c 460 § 48]; ]
+
+== 26.10.210 - Venue. (Effective until January 1, 2021.)
+Every action or proceeding to change, modify, or enforce any final order, judgment, or decree heretofore or hereafter entered, whether under this chapter or prior law, in relation to the care, custody, control, or support of the minor children may be brought in the county where the minor children are then residing, or in the court in which the final order, judgment, or decree was entered, or in the county where the parent or other person who has the care, custody, or control of the children is then residing.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c460.pdf?cite=1987%20c%20460%20§%2049[1987 c 460 § 49]; ]
+
+== 26.10.220 - Restraining orders—Notice—Refusal to comply—Arrest—Penalty—Defense—Peace officers, immunity. (Effective until January 1, 2021.)
+. Whenever a restraining order is issued under this chapter, and the person to be restrained knows of the order, a violation of the provisions restricting the person from acts or threats of violence or of a provision restraining the person from going onto the grounds of or entering the residence, workplace, school, or day care of another, or prohibiting the person from knowingly coming within, or knowingly remaining within, a specified distance of a location, is punishable under RCW 26.50.110.
+
+. A person is deemed to have notice of a restraining order if:
+
+.. The person to be restrained or the person's attorney signed the order;
+
+.. The order recites that the person to be restrained or the person's attorney appeared in person before the court;
+
+.. The order was served upon the person to be restrained; or
+
+.. The peace officer gives the person oral or written evidence of the order by reading from it or handing to the person a certified copy of the original order, certified to be an accurate copy of the original by a notary public or by the clerk of the court.
+
+. A peace officer shall verify the existence of a restraining order by:
+
+.. Obtaining information confirming the existence and terms of the order from a law enforcement agency; or
+
+.. Obtaining a certified copy of the order, certified to be an accurate copy of the original by a notary public or by the clerk of the court.
+
+. A peace officer shall arrest and take into custody, pending release on bail, personal recognizance, or court order, a person without a warrant when the officer has probable cause to believe that:
+
+.. A restraining order has been issued under this chapter;
+
+.. The respondent or person to be restrained knows of the order; and
+
+.. The person to be arrested has violated the terms of the order restraining the person from acts or threats of violence or restraining the person from going onto the grounds of or entering the residence, workplace, school, or day care of another, or prohibiting the person from knowingly coming within, or knowingly remaining within, a specified distance of a location.
+
+. It is a defense to prosecution under subsection (1) of this section that the court order was issued contrary to law or court rule.
+
+. No peace officer may be held criminally or civilly liable for making an arrest under subsection (4) of this section if the officer acts in good faith and without malice.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6400-S2.SL.pdf?cite=2000%20c%20119%20§%2022[2000 c 119 § 22]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5134-S.SL.pdf?cite=1999%20c%20184%20§%2011[1999 c 184 § 11]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2472.SL.pdf?cite=1996%20c%20248%20§%2010[1996 c 248 § 10]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5219-S.SL.pdf?cite=1995%20c%20246%20§%2030[1995 c 246 § 30]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c460.pdf?cite=1987%20c%20460%20§%2050[1987 c 460 § 50]; ]
+
+== 26.10.910 - Short title—1987 c 460. (Effective until January 1, 2021.)
+See RCW 26.09.910.
+
+[ ]
+

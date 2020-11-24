@@ -1,0 +1,113 @@
+= 71A.14 - Local services.
+:toc:
+
+== 71A.14.010 - Coordinated and comprehensive state and local program.
+The legislative policy to provide a coordinated and comprehensive state and local program of services for persons with developmental disability is expressed in RCW 71A.12.010.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c176.pdf?cite=1988%20c%20176%20§%20301[1988 c 176 § 301]; ]
+
+== 71A.14.020 - County developmental disability boards—Composition—Expenses.
+. The county governing authority of any county may appoint a developmental disability board to plan services for persons with developmental disabilities, to provide directly or indirectly a continuum of care and services to persons with developmental disabilities within the county or counties served by the community board. The governing authorities of more than one county by joint action may appoint a single developmental disability board. Nothing in this section shall prohibit a county or counties from combining the developmental disability board with another county board, such as a mental health board.
+
+. Members appointed to the board shall include but not be limited to representatives of public, private, or voluntary agencies, representatives of local governmental units, and citizens knowledgeable about developmental disabilities or interested in services to persons with developmental disabilities in the community.
+
+. The board shall consist of not less than nine nor more than fifteen members.
+
+. Members shall be appointed for terms of three years and until their successors are appointed and qualified.
+
+. The members of the developmental disability board shall not be compensated for the performance of their duties as members of the board, but may be paid subsistence rates and mileage in the amounts prescribed by RCW 42.24.090.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c176.pdf?cite=1988%20c%20176%20§%20302[1988 c 176 § 302]; ]
+
+== 71A.14.030 - County authorities—State fund eligibility—Rules—Application.
+Pursuant to RCW 71A.14.040 the secretary shall work with the county governing authorities and developmental disability boards who apply for state funds to coordinate and provide local services for persons with developmental disabilities and their families. The secretary is authorized to promulgate rules establishing the eligibility of each county and the developmental disability board for state funds to be used for the work of the board in coordinating and providing services to persons with developmental disabilities and their families. An application for state funds shall be made by the board with the approval of the county governing authority, or by the county governing authority on behalf of the board.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c176.pdf?cite=1988%20c%20176%20§%20303[1988 c 176 § 303]; ]
+
+== 71A.14.040 - Applications for state funds—Review—Approval—Rules.
+The secretary shall review the applications from the county governing authority made under RCW 71A.14.030. The secretary may approve an application if it meets the requirements of this chapter and the rules promulgated by the secretary. The secretary shall promulgate rules to assist in determining the amount of the grant. In promulgating the rules, the secretary shall consider the population of the area served, the needs of the area, and the ability of the community to provide funds for the developmental disability program provided in this title.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c176.pdf?cite=1988%20c%20176%20§%20304[1988 c 176 § 304]; ]
+
+== 71A.14.050 - Services to community may be required.
+The department may require by rule that in order to be eligible for state funds, the county and the developmental disability board shall provide the following indirect services to the community:
+
+. Serve as an informational and referral agency within the community for persons with developmental disabilities and their families;
+
+. Coordinate all local services for persons with developmental disabilities and their families to insure the maximum utilization of all available services;
+
+. Prepare comprehensive plans for present and future development of services and for reasonable progress toward the coordination of all local services to persons with developmental disabilities.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c176.pdf?cite=1988%20c%20176%20§%20305[1988 c 176 § 305]; ]
+
+== 71A.14.060 - Local authority to provide services.
+The secretary by rule may authorize the county and the developmental disability board to provide any service for persons with developmental disabilities that the department is authorized to provide, except for operating residential habilitation centers under chapter 71A.20 RCW.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c176.pdf?cite=1988%20c%20176%20§%20306[1988 c 176 § 306]; ]
+
+== 71A.14.070 - Confidentiality of information—Oath.
+In order for the developmental disability board to plan, coordinate, and provide required services for persons with developmental disabilities, the county governing authority and the board shall be eligible to obtain such confidential information from public or private schools and the department as is necessary to accomplish the purposes of this chapter. Such information shall be kept in accordance with state law and rules promulgated by the secretary under chapter 34.05 RCW to permit the use of the information to coordinate and plan services. All persons permitted to have access to or to use such information shall sign an oath of confidentiality, substantially as follows:
+
+"As a condition of obtaining information from (fill in facility, agency, or person) I, . . . . . ., agree not to divulge, publish, or otherwise make known to unauthorized persons or the public any information obtained in the course of using such confidential information, where release of such information may possibly make the person who received such services identifiable. I recognize that unauthorized release of confidential information may subject me to civil liability under state law."
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c176.pdf?cite=1988%20c%20176%20§%20307[1988 c 176 § 307]; ]
+
+== 71A.14.080 - Local authority to receive and spend funds.
+The county governing authority and the developmental disability board created under RCW 71A.14.020 are authorized to receive and spend funds received from the state under this chapter, or any federal funds received through any state agency, or any gifts or donations received by it for the benefit of persons with developmental disabilities.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c176.pdf?cite=1988%20c%20176%20§%20308[1988 c 176 § 308]; ]
+
+== 71A.14.090 - Local authority to participate in federal programs.
+RCW 71A.12.120 authorizes local governments to participate in federal programs for persons with developmental disabilities.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c176.pdf?cite=1988%20c%20176%20§%20309[1988 c 176 § 309]; ]
+
+== 71A.14.100 - Funds from tax levy under RCW  71.20.110.
+Counties are authorized by RCW 71.20.110 to fund county activities under this chapter. Expenditures of county funds under this chapter shall be subject to the provisions of chapter 36.40 RCW and other statutes relating to expenditures by counties.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c176.pdf?cite=1988%20c%20176%20§%20310[1988 c 176 § 310]; ]
+
+== 71A.14.110 - Contracts by boundary counties or cities in boundary counties.
+Any county or city within a county either of which is situated on the state boundaries is authorized to contract for developmental disability services with a county situated in either the states of Oregon or Idaho, which county is located on boundaries with the state of Washington.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c176.pdf?cite=1988%20c%20176%20§%20311[1988 c 176 § 311]; ]
+
+== 71A.14.120 - Parent to parent program—Goals.
+The goals of the parent to parent program are to:
+
+. Provide early outreach, support, and education to parents who have a child with special health care needs;
+
+. Match a trained volunteer support parent with a new parent who has a child with similar needs to the child of the support parent; and
+
+. Provide parents with tools and resources to be successful as they learn to understand the support and advocacy needs of their children.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2394.SL.pdf?cite=2016%20c%2092%20§%202[2016 c 92 § 2]; ]
+
+== 71A.14.130 - Parent to parent program—Activities.
+Subject to the availability of funds appropriated for this specific purpose, activities of the parent to parent program may include:
+
+. Outreach and support to newly identified parents of children with special health care needs;
+
+. Trainings that educate parents in ways to support their child and navigate the complex health, educational, and social systems;
+
+. Ongoing peer support from a trained volunteer support parent; and
+
+. Regular communication with other local programs to ensure consistent practices.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2394.SL.pdf?cite=2016%20c%2092%20§%203[2016 c 92 § 3]; ]
+
+== 71A.14.140 - Parent to parent program—Funding—Administration—Training.
+. Subject to the availability of funds appropriated for this specific purpose, the parent to parent program must be funded through the department and centrally administered through a pass-through to a Washington state lead organization that has extensive experience supporting and training support parents.
+
+. Through the contract with the lead organization, each local program must be locally administered by an organization that shall serve as the host organization.
+
+. Parents shall serve as advisors to the host organizations.
+
+. A parent or grandparent of a child with developmental disabilities or special health care needs shall provide program coordination and local program information.
+
+. The lead organization shall provide ongoing training to the host organizations and statewide program oversight and maintain statewide program information.
+
+. For the purpose of chapter 92, Laws of 2016, "special health care needs" means disabilities, chronic illnesses or conditions, health-related educational or behavioral problems, or the risk of developing such disabilities, conditions, illnesses[,] or problems.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2394.SL.pdf?cite=2016%20c%2092%20§%204[2016 c 92 § 4]; ]
+

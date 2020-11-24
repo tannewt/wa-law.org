@@ -1,0 +1,83 @@
+= 43.86A - Surplus funds—Investment program.
+:toc:
+
+== 43.86A.010 - Finding—Objectives.
+The legislature finds that a procedure should be established for the management of short term treasury surplus funds by the state treasurer in order to insure a maximum return while they are on deposit in public depositaries. The objectives of this procedure are to minimize noninterest earning demand deposits and provide fair compensation to financial institutions for services rendered to the state through the investment of state funds in time deposits.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c66.pdf?cite=1983%20c%2066%20§%2020[1983 c 66 § 20]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973c123.pdf?cite=1973%20c%20123%20§%201[1973 c 123 § 1]; ]
+
+== 43.86A.020 - Surplus funds held as demand deposits to be limited.
+After March 19, 1973, the state treasurer shall limit surplus funds held as demand deposits to an amount necessary for current operating expenses including direct warrant redemption payments, investments and revenue collection. The state treasurer may hold such additional funds as demand deposits as he or she deems necessary to insure efficient treasury management.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5038.SL.pdf?cite=2009%20c%20549%20§%205164[2009 c 549 § 5164]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973c123.pdf?cite=1973%20c%20123%20§%202[1973 c 123 § 2]; ]
+
+== 43.86A.030 - Time certificate of deposit investment program—Available funds—Allocation.
+. [Empty]
+.. The state treasurer shall make funds available for a time certificate of deposit investment program according to the following formula: The state treasurer shall apportion to all participating depositaries an amount equal to five percent of the three year average mean of general state revenues as certified in accordance with Article VIII, section 1(b) of the state Constitution, or fifty percent of the total surplus treasury investment availability, whichever is less. Within thirty days after certification, an amount equal to those funds determined to be available according to this formula for the time certificate of deposit investment program shall be available for deposit in qualified public depositaries. These funds shall be allocated among the participating depositaries on a basis to be determined by the state treasurer.
+
+.. The funds made available by the treasurer for a time certificate of deposit investment program under (a) of this subsection (1) may be provided from either treasury surplus funds or funds held pursuant to chapter 43.250 RCW.
+
+. Of all state funds available under this section, the state treasurer may use up to one hundred seventy-five million dollars per year for the purposes of RCW 43.86A.060(2)(c) (i) and (iii) and up to fifteen million dollars per year for the purposes of RCW 43.86A.060(2)(c)(ii). The amounts made available to these public depositaries shall be equal to the amounts of outstanding loans made under RCW 43.86A.060.
+
+. The formula so devised shall be a matter of public record giving consideration to, but not limited to, deposits, assets, loans, capital structure, investments, or some combination of these factors. However, if in the judgment of the state treasurer the amount of allocation for certificates of deposit as determined by this section will impair the cash flow needs of the state treasury, the state treasurer may adjust the amount of the allocation accordingly.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6219.SL.pdf?cite=2010%20c%20139%20§%201[2010 c 139 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1166.SL.pdf?cite=2009%20c%20384%20§%202[2009 c 384 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3360.SL.pdf?cite=2008%20c%20187%20§%202[2008 c 187 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1512-S.SL.pdf?cite=2007%20c%20500%20§%201[2007 c 500 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5782-S2.SL.pdf?cite=2005%20c%20302%20§%202[2005 c 302 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1493-S.SL.pdf?cite=1993%20c%20512%20§%2033[1993 c 512 § 33]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c74.pdf?cite=1982%20c%2074%20§%201[1982 c 74 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973c123.pdf?cite=1973%20c%20123%20§%203[1973 c 123 § 3]; ]
+
+== 43.86A.040 - Other investment powers of state treasurer not limited.
+Except as provided in RCW 43.86A.020 and 43.86A.030, nothing in this chapter shall be construed as a limitation upon the powers of the state treasurer to determine the amount of surplus treasury funds which may be invested in time certificates of deposit.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973c123.pdf?cite=1973%20c%20123%20§%204[1973 c 123 § 4]; ]
+
+== 43.86A.050 - Implementation of chapter by state treasurer.
+The state treasurer shall devise the necessary formulae and methodology to implement the provisions of this chapter. Periodically, but at least once every six months, the state treasurer shall review all rules and shall adopt, amend or repeal them as may be necessary. These rules and a list of time certificate of deposit allocations shall be published in the treasurer's monthly financial report as required under the provisions of RCW 43.08.150.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973c123.pdf?cite=1973%20c%20123%20§%205[1973 c 123 § 5]; ]
+
+== 43.86A.060 - Linked deposit program—Eligible entities—Interest rates—Rule-making authority.
+. The state treasurer shall establish a linked deposit program for investment of deposits in qualified public depositaries. As a condition of participating in the program, qualified public depositaries must make qualifying loans as provided in this section. The state treasurer may purchase a certificate of deposit that is equal to the amount of the qualifying loan made by the qualified public depositary or may purchase a certificate of deposit that is equal to the aggregate amount of two or more qualifying loans made by one or more qualified public depositaries.
+
+. Qualifying loans made under this section are those:
+
+.. Having terms that do not exceed ten years;
+
+.. Where an individual loan does not exceed one million dollars;
+
+.. [Empty]
+... That are made to a minority or women's business enterprise that has received state certification under chapter 39.19 RCW; 
+
+... That are made to a veteran-owned business that has received state certification under RCW 43.60A.190; or
+
+... That are made to a community development financial institution that is: (A) Certified by the United States department of the treasury pursuant to 12 U.S.C. Sec. 4701 et seq.; and (B) using that loan to make qualifying loans under (c)(i) of this subsection;
+
+.. Where the interest rate on the loan to the minority or women's business enterprise or veteran-owned business does not exceed an interest rate that is two hundred basis points below the interest rate the qualified public depositary would charge for a loan for a similar purpose and a similar term, except that, if the preference given by the state treasurer to the qualified public depositary under subsection (3) of this section is less than two hundred basis points, the qualified public depositary may reduce the preference given on the loan by an amount that corresponds to the reduction in preference below two hundred basis points given to the qualified public depositary; and
+
+.. Where the points or fees charged at loan closing do not exceed one percent of the loan amount.
+
+. In setting interest rates of time certificate of deposits, the state treasurer shall offer rates so that a two hundred basis point preference will be given to the qualified public depositary, except that the treasurer may lower the amount of the preference to ensure that the effective interest rate on the deposit is not less than zero percent.
+
+. Upon notification by the state treasurer that a minority or women's business enterprise is no longer certified under chapter 39.19 RCW or that a veteran-owned business is no longer certified under RCW 43.60A.190, the qualified public depositary shall reduce the amount of qualifying loans by the outstanding balance of the loan made under this section to the minority or women's business enterprise or the veteran-owned business, as applicable.
+
+. The office of minority and women's business enterprises has the authority to adopt rules to:
+
+.. Ensure that when making a qualified loan under the linked deposit program, businesses that have never received a loan under the linked deposit program are given first priority;
+
+.. Limit the total principal loan amount that any one business receives in qualified loans under the linked deposit program over the lifetime of the businesses;
+
+.. Limit the total principal loan amount that an owner of one or more businesses receives in qualified loans under the linked deposit program during the owner's lifetime; 
+
+.. Limit the total amount of any one qualified loan made under the linked deposit program; and
+
+.. Ensure that loans made by community development financial institutions are qualifying loans under subsection (2)(c)(i) of this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1167.SL.pdf?cite=2009%20c%20385%20§%203[2009 c 385 § 3]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1166.SL.pdf?cite=2009%20c%20384%20§%201[2009 c 384 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3360.SL.pdf?cite=2008%20c%20187%20§%203[2008 c 187 § 3]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1512-S.SL.pdf?cite=2007%20c%20500%20§%202[2007 c 500 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5782-S2.SL.pdf?cite=2005%20c%20302%20§%203[2005 c 302 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2456-S.SL.pdf?cite=2002%20c%20305%20§%201[2002 c 305 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1493-S.SL.pdf?cite=1993%20c%20512%20§%2030[1993 c 512 § 30]; ]
+
+== 43.86A.070 - Linked deposit program—Liability.
+The state and those acting as its agents are not liable in any manner for payment of the principal or interest on qualifying loans made under RCW 43.86A.060. Any delay in payments or defaults on the part of the borrower does not in any manner affect the deposit agreement between the qualified public depositary and the state treasurer.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1493-S.SL.pdf?cite=1993%20c%20512%20§%2034[1993 c 512 § 34]; ]
+
+== 43.86A.080 - Linked deposit program—Minority and women's business enterprises—Public depositories' participation.
+Public depositories participating in the linked deposit program are encouraged to increase the funds available to certified minority and women's business enterprises by taking full advantage of the linked deposit program loans to qualify for the community reinvestment act community programs under federal law (12 U.S.C. Sec. 2901 et seq.).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5782-S2.SL.pdf?cite=2005%20c%20302%20§%204[2005 c 302 § 4]; ]
+

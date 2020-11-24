@@ -1,0 +1,23 @@
+= 5.45 - Uniform business records as evidence act.
+:toc:
+
+== 5.45.010 - "Business" defined.
+The term "business" shall include every kind of business, profession, occupation, calling or operation of institutions, whether carried on for profit or not.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1947c53.pdf?cite=1947%20c%2053%20§%201[1947 c 53 § 1]; Rem. Supp. 1947 § 1263-1; ]
+
+== 5.45.020 - Business records as evidence.
+A record of an act, condition or event, shall in so far as relevant, be competent evidence if the custodian or other qualified witness testifies to its identity and the mode of its preparation, and if it was made in the regular course of business, at or near the time of the act, condition or event, and if, in the opinion of the court, the sources of information, method and time of preparation were such as to justify its admission.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1947c53.pdf?cite=1947%20c%2053%20§%202[1947 c 53 § 2]; Rem. Supp. 1947 § 1263-2; ]
+
+== 5.45.900 - Construction—1947 c 53.
+This chapter shall be so interpreted and construed as to effectuate its general purpose to make uniform the law of those states which enact it.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1947c53.pdf?cite=1947%20c%2053%20§%203[1947 c 53 § 3]; Rem. Supp. 1947 § 1263-3; ]
+
+== 5.45.910 - Short title.
+This chapter may be cited as The Uniform Business Records as Evidence Act.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1947c53.pdf?cite=1947%20c%2053%20§%204[1947 c 53 § 4]; Rem. Supp. 1947 § 1263-4; ]
+

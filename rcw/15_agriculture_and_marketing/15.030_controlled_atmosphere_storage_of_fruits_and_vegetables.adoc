@@ -1,0 +1,180 @@
+= 15.30 - Controlled atmosphere storage of fruits and vegetables.
+:toc:
+
+== 15.30.010 - Definitions.
+For the purpose of this chapter:
+
+. "Department" means the department of agriculture of the state of Washington.
+
+. "Director" means the director of the department or his or her duly appointed representative.
+
+. "Person" means a natural person, individual, or firm, partnership, corporation, company, society, and association and every officer, agent, or employee thereof. This term shall import either the singular or plural, as the case may be.
+
+. "Controlled atmosphere storage" means any storage warehouse consisting of one or more rooms, or one or more rooms in any one facility in which atmospheric gases are controlled in their amount and in degrees of temperature for the purpose of controlling the condition and maturity of any fresh fruits or vegetables in order that, upon removal, they may be designated as having been exposed to controlled atmosphere.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%206047[2010 c 8 § 6047]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%201[1961 c 29 § 1]; ]
+
+== 15.30.020 - Annual license required—Expiration date.
+It shall be unlawful for any person to engage in the business of operating a controlled atmosphere storage warehouse or warehouses without first obtaining an annual license from the director. Such license shall expire on August 31st of any one year.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%202[1961 c 29 § 2]; ]
+
+== 15.30.030 - Application for license, contents—Issuance, prerequisites.
+Application for a license to operate a controlled atmosphere warehouse shall be on a form prescribed by the director and shall include the following:
+
+. The full name of the person applying for the license.
+
+. If such applicant is an individual, receiver, trustee, firm, partnership, association, or corporation, the full name of each member of the firm or partnership or the names of the officers of the association or corporation shall be given on the application.
+
+. The principal business address of the applicant in the state and elsewhere.
+
+. The name of a person domiciled in this state authorized to receive and accept service or legal notices of all kinds.
+
+. The storage capacity of each controlled atmosphere storage warehouse the applicant intends to operate by cubic capacity or volume.
+
+. The kind of fruits or vegetables for which the applicant intends to provide controlled atmosphere storage.
+
+. Any other information prescribed by the director necessary to carry out the purposes and provisions of this chapter.
+
+The director shall issue a license to an applicant upon his or her satisfaction that the applicant has satisfied the requirements of this chapter and rules adopted hereunder and that such applicant has paid the required license fee.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%206048[2010 c 8 § 6048]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%203[1961 c 29 § 3]; ]
+
+== 15.30.040 - Annual license fee.
+The application for an annual license to engage in the business of operating a controlled atmosphere storage warehouse or warehouses shall be accompanied by an annual license fee prescribed by the director by rule.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c254.pdf?cite=1988%20c%20254%20§%206[1988 c 254 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%204[1961 c 29 § 4]; ]
+
+== 15.30.050 - Enforcement—Rules authorized, procedure.
+The director shall enforce and carry out the provisions of this chapter and may adopt the necessary rules to carry out its purposes. The adoption of rules shall be subject to the provisions of chapter 34.05 RCW, concerning the adoption of rules, as enacted or hereafter amended.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%205[1961 c 29 § 5]; ]
+
+== 15.30.060 - Rules—Oxygen content, temperature, and time period to be maintained—Classification of fruits, vegetables as controlled atmosphere stored.
+The director shall adopt rules:
+
+. Prescribing the maximum amount of oxygen that may be retained in a sealed controlled atmosphere storage warehouse: PROVIDED, That such maximum amount of oxygen retained shall not exceed five percent when apples are stored in such controlled atmosphere storage warehouse.
+
+. Prescribing the period in which the oxygen content shall be reduced to the amount prescribed in subsection (1) of this section: PROVIDED, That such period shall not exceed twenty days when apples are stored in such controlled atmosphere warehouse.
+
+. The length of time and the degrees of temperature at which any fruits or vegetables shall be retained in controlled atmosphere storage, before they may be classified as having been stored in controlled atmosphere storage: PROVIDED, That such period shall not be less than forty-five days for Gala and Jonagold varieties and not less than sixty days for other apples.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2181.SL.pdf?cite=1999%20c%2070%20§%201[1999 c 70 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2561.SL.pdf?cite=1994%20c%2023%20§%201[1994 c 23 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c215.pdf?cite=1967%20c%20215%20§%201[1967 c 215 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%206[1961 c 29 § 6]; ]
+
+== 15.30.070 - License renewal date—Penalty for late renewal, exception.
+If an application for renewal of the license provided for in RCW 15.30.020 is not filed prior to September 1st of any one year, a penalty of two dollars and fifty cents shall be assessed and added to the original fee and shall be paid by the applicant before the renewal license shall be issued: PROVIDED, That such penalty shall not apply if the applicant furnishes an affidavit that he or she has not engaged in the business of operating a controlled atmosphere storage warehouse subsequent to the expiration of his or her prior license.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%206049[2010 c 8 § 6049]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%207[1961 c 29 § 7]; ]
+
+== 15.30.080 - Denial, suspension, revocation of license—Grounds—Hearing required.
+The director is authorized to deny, suspend, or revoke the license provided for in RCW 15.30.020 subsequent to a hearing, in any case in which he or she finds that there has been a failure or refusal to comply with the provisions of this chapter or rules adopted hereunder.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%206050[2010 c 8 § 6050]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%208[1961 c 29 § 8]; ]
+
+== 15.30.090 - Denial, suspension, revocation of license—Hearings subject to Administrative Procedure Act.
+All hearings for a denial, suspension, or revocation of the license provided for in RCW 15.30.020 shall be subject to the provisions of chapter 34.05 RCW concerning adjudicative proceedings.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c175.pdf?cite=1989%20c%20175%20§%2045[1989 c 175 § 45]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%209[1961 c 29 § 9]; ]
+
+== 15.30.100 - Subpoenas—Witnesses and fees.
+The director may issue subpoenas to compel the attendance of witnesses and/or the production of books, documents and records, anywhere in the state in any hearing affecting the authority or privilege granted by a license issued under the provisions of this chapter. Witnesses shall be entitled to fees for attendance and travel, as provided for in chapter 2.40 RCW, as enacted or hereafter amended.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%2010[1961 c 29 § 10]; ]
+
+== 15.30.110 - Issuance of warehouse number—Use of letters "CA"—Marking containers with letters and number.
+The director when issuing a license to an applicant shall include a warehouse number which shall be preceded by the letters "CA". If the applicant in applying for a license includes a request for a specific warehouse number, the director shall issue such number to the applicant if such number has not been issued to a prior applicant. The letters "CA" and the number issued as provided in this section shall be marked in a manner provided by the director on all containers in which fruits or vegetables subject to the provisions of this chapter are placed or packed.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%2011[1961 c 29 § 11]; ]
+
+== 15.30.120 - Licensee to make daily determination of air components—Record, form, contents.
+The licensee shall make air component determinations as to the percentage of carbon dioxide, oxygen and temperature at least once each day. A record of such determinations shall be kept on a form prescribed by the director for a period of two years and shall include the following:
+
+. The name and address of the licensee.
+
+. The number of the warehouse and the storage capacity of the warehouse.
+
+. The date of sealing of the warehouse.
+
+. Date of opening of the warehouse.
+
+. A daily record of the date and time of the tests, including the percentage of carbon dioxide, percentage of oxygen and the temperature.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%2012[1961 c 29 § 12]; ]
+
+== 15.30.130 - Identity of fruit and vegetables to be maintained by CA number and inspection number to retail market.
+The identity of any fruits or vegetables represented as having been stored in a room or warehouse subject to the provisions of this chapter shall be maintained, by the CA number issued to the licensee in whose warehouse such fruits and vegetables were stored and the state lot inspection number issued by the director for such fruits or vegetables, from the time it leaves such warehouse through the various channels of trade and transportation to the retailer.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%2013[1961 c 29 § 13]; ]
+
+== 15.30.140 - Maturity and condition standards may be higher than for fruit and vegetables not subject to chapter.
+The director may by rule establish condition and maturity standards for fruits or vegetables subject to the provisions of this chapter which may be higher than maturity and condition standards established for similar grades or classifications of such fruits or vegetables which are not subject to the provisions of this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%2014[1961 c 29 § 14]; ]
+
+== 15.30.150 - Minimum condition and maturity standards for apples.
+Minimum condition and maturity standards for apples subject to the provisions of this chapter shall be the U.S. condition and maturity standards for export as provided in 7 Code of Federal Regulations 51.317 on February 21, 1961: PROVIDED, That the director may adopt any subsequent amendment to such U.S. condition and maturity standards for export prescribed by the secretary of agriculture of the United States.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%2015[1961 c 29 § 15]; ]
+
+== 15.30.160 - Inspection, certification prior to using "CA" or similar designation—Eradication required, when.
+No person in this state shall place or stamp the letters "CA" or a similar designation in conjunction with a number or numbers upon any container or subcontainer of any fruits or vegetables, unless the director has inspected such fruits or vegetables and issued a state lot number for such fruits or vegetables in conjunction with a certificate stating their quality and condition, that they were stored in a warehouse licensed under the provisions of this chapter and that they meet all other requirements of this chapter or rules adopted hereunder: PROVIDED, That if such fruits or vegetables are not allowed to enter the channels of commerce within two weeks of such inspection or a subsequent similar inspection by the director the letters "CA" and the state lot number shall be eradicated by the licensee.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%2016[1961 c 29 § 16]; ]
+
+== 15.30.170 - Inspection, certification may be requested by financially interested person.
+Any person financially interested in any fruits or vegetables subject to the provisions of this chapter may apply to the director for inspection and certification as to whether such fruits or vegetables meet the requirements provided for in this chapter or rules adopted hereunder.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%2017[1961 c 29 § 17]; ]
+
+== 15.30.180 - Fees for inspection and certification.
+The director shall prescribe the necessary fees to be charged to the licensee or owner for the inspection and certification of any fruits or vegetables subject to the provisions of this chapter or rules adopted hereunder. The fees provided for in this section shall become due and payable by the end of the next business day and if such fees are not paid within the prescribed time, the director may withdraw inspection or refuse to perform any inspection or certification services for the person in arrears: PROVIDED, That the director in such instances may demand and collect inspection and certification fees prior to inspecting and certifying any fruits or vegetables for such person.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%2018[1961 c 29 § 18]; ]
+
+== 15.30.190 - Certificate as evidence.
+Every inspection certificate issued by the director under the provisions of this chapter shall be received in all courts of the state as prima facie evidence of the statement therein.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%2019[1961 c 29 § 19]; ]
+
+== 15.30.200 - Disposition of fees.
+All moneys collected under the provisions of this chapter for the inspection and certification of any fruits or vegetables subject to the provisions of this chapter shall be handled and deposited in the manner provided for in chapter 15.17 RCW, as enacted or hereafter amended, for the handling of inspection and certification fees derived for the inspection of any fruits and vegetables.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5374-S.SL.pdf?cite=2011%20c%20103%20§%202[2011 c 103 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%2020[1961 c 29 § 20]; ]
+
+== 15.30.210 - Unlawful sales, acts, or use of words "controlled atmosphere storage" and terms of similar import.
+It shall be unlawful for any person to sell, offer for sale, hold for sale, or transport for sale any fruits or vegetables represented as having been exposed to "controlled atmosphere storage" or to use any such term or form of words or symbols of similar import unless such fruits or vegetables have been stored in controlled atmosphere storage which meets the requirements of this chapter or rules adopted hereunder.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%2021[1961 c 29 § 21]; ]
+
+== 15.30.220 - Injunctions authorized.
+The director may bring an action to enjoin the violation or threatened violation of any provision of this chapter or any rule adopted pursuant to this chapter in the superior court in the county in which such violation occurs or is about to occur, notwithstanding the existence of any other remedies at law.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%2022[1961 c 29 § 22]; ]
+
+== 15.30.230 - Chapter cumulative and nonexclusive.
+The provisions of this chapter shall be cumulative and nonexclusive and shall not affect any other remedy.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%2023[1961 c 29 § 23]; ]
+
+== 15.30.240 - Prior civil or criminal liability not affected.
+The enactment of this chapter shall not have the effects of terminating, or in any way modifying any liability, civil or criminal, which shall already be in existence on February 21, 1961.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%2024[1961 c 29 § 24]; ]
+
+== 15.30.250 - Penalties for violating chapter.
+. Except as provided in subsection (2) of this section, any person violating the provisions of this chapter or rules adopted hereunder is guilty of a misdemeanor.
+
+. A second or subsequent violation is a gross misdemeanor. Any offense committed more than five years after a previous conviction shall be considered a first offense.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%20106[2003 c 53 § 106]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%2025[1961 c 29 § 25]; ]
+
+== 15.30.260 - Cooperation, agreements with other governmental agencies.
+The director may cooperate with and enter into agreements with governmental agencies of this state, other states and agencies of federal government in order to carry out the purpose and provisions of this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%2026[1961 c 29 § 26]; ]
+
+== 15.30.900 - Fruits and vegetables in storage prior to enactment of chapter.
+Any fruits or vegetables now in controlled atmosphere storage and removed after February 21, 1961 may be marked, shipped, represented and sold as having been exposed to controlled atmosphere storage if such fruits and vegetables meet the requirements of this chapter and the rules and regulations adopted hereunder.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c29.pdf?cite=1961%20c%2029%20§%2028[1961 c 29 § 28]; ]
+

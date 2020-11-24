@@ -1,0 +1,23 @@
+= 39.40 - Vote required at bond elections.
+:toc:
+
+== 39.40.010 - Forty percent poll of voters required.
+No general obligation bonds of any county, port district, or metropolitan park district upon which a vote of the people is required under existing laws shall be issued, nor shall they become a lien upon the taxable property within such county or district unless, in addition to all other requirements provided by law in the matter of the issuance of general obligation bonds by such county or district, the total vote cast upon such proposition shall exceed forty percent of the total number of voters voting in such county or district at the general county or state election next preceding such bond election.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961ex1c15.pdf?cite=1961%20ex.s.%20c%2015%20§%201[1961 ex.s. c 15 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c290.pdf?cite=1959%20c%20290%20§%203[1959 c 290 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1925c13.pdf?cite=1925%20c%2013%20§%201[1925 c 13 § 1]; RRS § 5646-1; ]
+
+== 39.40.020 - Existing election laws to apply.
+In all such elections the provisions of existing law with respect to registration, opening and closing of registration books and the duties of officers and the appointment and selection of election officials shall apply.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1925c13.pdf?cite=1925%20c%2013%20§%202[1925 c 13 § 2]; RRS § 5646-2; ]
+
+== 39.40.030 - Certification of votes—Canvass.
+The election officials in each of the precincts included within any such district shall, as soon as possible and in no case later than five days after the closing of the polls of any election involving the issuance of bonds, certify to the county auditor of the county within which such district is located the total number of votes cast for and against each separate proposal and the vote shall be canvassed and certified by a canvassing board consisting of the chair of the board of county commissioners, the county auditor, and the prosecuting attorney who shall declare the result thereof.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20806[2011 c 336 § 806]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c290.pdf?cite=1959%20c%20290%20§%204[1959 c 290 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1925c13.pdf?cite=1925%20c%2013%20§%203[1925 c 13 § 3]; RRS § 5646-3; ]
+
+== 39.40.040 - Prior bonds not affected.
+This chapter shall not affect the validity or the issuance of any such bonds voted at any lawful election held prior to the taking effect of this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1925c13.pdf?cite=1925%20c%2013%20§%204[1925 c 13 § 4]; RRS § 5646-4; ]
+

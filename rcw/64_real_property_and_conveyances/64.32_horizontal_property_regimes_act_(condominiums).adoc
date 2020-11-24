@@ -1,0 +1,308 @@
+= 64.32 - Horizontal property regimes act (Condominiums).
+:toc:
+
+== 64.32.010 - Definitions.
+As used in this chapter unless the context otherwise requires:
+
+. "Apartment" means a part of the property intended for any type of independent use, including one or more rooms or spaces located on one or more floors (or part or parts thereof) in a building, or if not in a building, a separately delineated place of storage or moorage of a boat, plane, or motor vehicle, regardless of whether it is destined for a residence, an office, storage or moorage of a boat, plane, or motor vehicle, the operation of any industry or business, or for any other use not prohibited by law, and which has a direct exit to a public street or highway, or to a common area leading to such street or highway. The boundaries of an apartment located in a building are the interior surfaces of the perimeter walls, floors, ceilings, windows and doors thereof, and the apartment includes both the portions of the building so described and the air space so encompassed. If the apartment is a separately delineated place of storage or moorage of a boat, plane, or motor vehicle the boundaries are those specified in the declaration. In interpreting declarations, deeds, and plans, the existing physical boundaries of the apartment as originally constructed or as reconstructed in substantial accordance with the original plans thereof shall be conclusively presumed to be its boundaries rather than the metes and bounds expressed or depicted in the declaration, deed or plan, regardless of settling or lateral movement of the building and regardless of minor variance between boundaries shown in the declaration, deed, or plan and those of apartments in the building.
+
+. "Apartment owner" means the person or persons owning an apartment, as herein defined, in fee simple absolute or qualified, by way of leasehold or by way of a periodic estate, or in any other manner in which real property may be owned, leased or possessed in this state, together with an undivided interest in a like estate of the common areas and facilities in the percentage specified and established in the declaration as duly recorded or as it may be lawfully amended.
+
+. "Apartment number" means the number, letter, or combination thereof, designating the apartment in the declaration as duly recorded or as it may be lawfully amended.
+
+. "Association of apartment owners" means all of the apartment owners acting as a group in accordance with the bylaws and with the declaration as it is duly recorded or as they may be lawfully amended.
+
+. "Building" means a building, containing two or more apartments, or two or more buildings each containing one or more apartments, and comprising a part of the property.
+
+. "Common areas and facilities", unless otherwise provided in the declaration as duly recorded or as it may be lawfully amended, includes:
+
+.. The land on which the building is located;
+
+.. The foundations, columns, girders, beams, supports, main walls, roofs, halls, corridors, lobbys, stairs, stairways, fire escapes, and entrances and exits of the building;
+
+.. The basements, yards, gardens, parking areas and storage spaces;
+
+.. The premises for the lodging of janitors or persons in charge of the property;
+
+.. The installations of central services such as power, light, gas, hot and cold water, heating, refrigeration, air conditioning and incinerating;
+
+.. The elevators, tanks, pumps, motors, fans, compressors, ducts and in general all apparatus and installations existing for common use;
+
+.. Such community and commercial facilities as may be provided for in the declaration as duly recorded or as it may be lawfully amended;
+
+.. All other parts of the property necessary or convenient to its existence, maintenance and safety, or normally in common use.
+
+. "Common expenses" include:
+
+.. All sums lawfully assessed against the apartment owners by the association of apartment owners;
+
+.. Expenses of administration, maintenance, repair, or replacement of the common areas and facilities;
+
+.. Expenses agreed upon as common expenses by the association of apartment owners;
+
+.. Expenses declared common expenses by the provisions of this chapter, or by the declaration as it is duly recorded, or by the bylaws, or as they may be lawfully amended.
+
+. "Common profits" means the balance of all income, rents, profits and revenues from the common areas and facilities remaining after the deduction of the common expenses.
+
+. "Declaration" means the instrument by which the property is submitted to provisions of this chapter, as hereinafter provided, and as it may be, from time to time, lawfully amended.
+
+. "Land" means the material of the earth, whatever may be the ingredients of which it is composed, whether soil, rock, or other substance, whether or not submerged, and includes free or occupied space for an indefinite distance upwards as well as downwards, subject to limitations upon the use of airspace imposed, and rights in the use of the airspace granted, by the laws of this state or of the United States.
+
+. "Limited common areas and facilities" includes those common areas and facilities designated in the declaration, as it is duly recorded or as it may be lawfully amended, as reserved for use of certain apartment or apartments to the exclusion of the other apartments.
+
+. "Majority" or "majority of apartment owners" means the apartment owners with fifty-one percent or more of the votes in accordance with the percentages assigned in the declaration, as duly recorded or as it may be lawfully amended, to the apartments for voting purposes.
+
+. "Person" includes any individual, corporation, partnership, association, trustee, or other legal entity.
+
+. "Property" means the land, the building, all improvements and structures thereon, all owned in fee simple absolute or qualified, by way of leasehold or by way of a periodic estate, or in any other manner in which real property may be owned, leased or possessed in this state, and all easements, rights and appurtenances belonging thereto, none of which shall be considered as a security or security interest, and all articles of personalty intended for use in connection therewith, which have been or are intended to be submitted to the provisions of this chapter.
+
+. "Percent of the apartment owners" means the apartment owners with the stated percent or more of the votes in accordance with the percentages assigned in the declaration, as duly recorded or as it may be lawfully amended, to the apartments for voting purposes.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3071-S.SL.pdf?cite=2008%20c%20114%20§%203[2008 c 114 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c383.pdf?cite=1987%20c%20383%20§%201[1987 c 383 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c304.pdf?cite=1981%20c%20304%20§%2034[1981 c 304 § 34]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c11.pdf?cite=1965%20ex.s.%20c%2011%20§%201[1965 ex.s. c 11 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%201[1963 c 156 § 1]; ]
+
+== 64.32.020 - Application of chapter.
+This chapter shall be applicable only to property, the sole owner or all of the owners, lessees or possessors of which submit the same to the provisions hereof by duly executing and recording a declaration as hereinafter provided.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%202[1963 c 156 § 2]; ]
+
+== 64.32.030 - Apartments and common areas declared real property.
+Each apartment, together with its undivided interest in the common areas and facilities shall not be considered as an intangible or a security or any interest therein but shall for all purposes constitute and be classified as real property.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%203[1963 c 156 § 3]; ]
+
+== 64.32.040 - Ownership and possession of apartments and common areas.
+Each apartment owner shall be entitled to the exclusive ownership and possession of his or her apartment but any apartment may be jointly or commonly owned by more than one person. Each apartment owner shall have the common right to a share, with other apartment owners, in the common areas and facilities.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20197[2012 c 117 § 197]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%204[1963 c 156 § 4]; ]
+
+== 64.32.050 - Common areas and facilities.
+. Each apartment owner shall be entitled to an undivided interest in the common areas and facilities in the percentage expressed in the declaration. Such percentage shall be computed by taking as a basis the value of the apartment in relation to the value of the property.
+
+. The percentage of the undivided interest of each apartment owner in the common areas and facilities as expressed in the declaration shall not be altered except in accordance with procedures set forth in the bylaws and by amending the declaration. The percentage of the undivided interest in the common areas and facilities shall not be separated from the apartment to which it appertains even though such interest is not expressly mentioned or described in the conveyance or other instrument. Nothing in this section or this chapter shall be construed to detract from or limit the powers and duties of any assessing or taxing unit or official which is otherwise granted or imposed by law, rule, or regulation.
+
+. The common areas and facilities shall remain undivided and no apartment owner or any other person shall bring any action for partition or division of any part thereof, unless the property has been removed from the provisions of this chapter as provided in RCW 64.32.150 and 64.32.230. Any covenant to the contrary shall be void. Nothing in this chapter shall be construed as a limitation on the right of partition by joint owners or owners in common of one or more apartments as to the ownership of such apartment or apartments.
+
+. Each apartment owner shall have a nonexclusive easement for, and may use the common areas and facilities in accordance with the purpose for which they were intended without hindering or encroaching upon the lawful right of the other apartment owners.
+
+. The necessary work of maintenance, repair and replacement of the common areas and facilities and the making of any addition or improvement thereto shall be carried out only as provided in this chapter and in the bylaws.
+
+. The association of apartment owners shall have the irrevocable right, to be exercised by the manager or board of directors, to have access to each apartment from time to time during reasonable hours as may be necessary for the maintenance, repair, or replacement of any of the common areas and facilities therein or accessible therefrom, or for making emergency repairs therein necessary to prevent damage to the common areas and facilities or to another apartment or apartments.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c11.pdf?cite=1965%20ex.s.%20c%2011%20§%202[1965 ex.s. c 11 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%205[1963 c 156 § 5]; ]
+
+== 64.32.060 - Compliance with covenants, bylaws, and administrative rules and regulations.
+Each apartment owner shall comply strictly with the bylaws and with the administrative rules and regulations adopted pursuant thereto, as either may be lawfully amended from time to time, and with the covenants, conditions, and restrictions set forth in the declaration or in the deed to his or her apartment. Failure to comply with any of the foregoing shall be ground for an action to recover sums due, for damages or injunctive relief, or both, maintainable by the manager or board of directors on behalf of the association of apartment owners or by a particularly aggrieved apartment owner.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20198[2012 c 117 § 198]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%206[1963 c 156 § 6]; ]
+
+== 64.32.070 - Liens or encumbrances—Enforcement—Satisfaction.
+. Subsequent to recording the declaration as provided in this chapter, and while the property remains subject to this chapter, no lien shall thereafter arise or be effective against the property. During such period, liens or encumbrances shall arise or be created only against each apartment and the percentage of undivided interest in the common areas and facilities and appurtenant to such apartment in the same manner and under the same conditions in every respect as liens or encumbrances may arise or be created upon or against any other separate parcel of real property subject to individual ownership: PROVIDED, That no labor performed or materials furnished with the consent of or at the request of the owner of any apartment, or such owner's agent, contractor, or subcontractor, shall be the basis for the filing of a lien against any other apartment or any other property of any other apartment owner not expressly consenting to or requesting the same, except that such express consent shall be deemed to be given by any apartment owner in the case of emergency repairs. Labor performed or materials furnished for the common areas and facilities, if authorized by the association of apartment owners, the manager or board of directors shall be deemed to be performed or furnished with the express consent of each apartment owner and shall be the basis for the filing of a lien against each of the apartments and shall be subject to the provisions of subsection (2) of this section.
+
+. In the event a lien against two or more apartments becomes effective, the apartment owners of the separate apartments may remove their apartment and the percentage of undivided interest in the common areas and facilities appurtenant to such apartment from the lien by payment of the fractional or proportional amounts attributable to each of the apartments affected. Such individual payments shall be computed by reference to the percentages appearing on the declaration. Subsequent to any such payment, discharge, or satisfaction, the apartment and the percentage of undivided interest in the common areas and facilities appurtenant thereto shall thereafter be free and clear of the liens so paid, satisfied, or discharged. Such partial payment, satisfaction, or discharge shall not prevent the lienor from proceeding to enforce his or her rights against any apartment and the percentage of undivided interest in the common areas and facilities appurtenant thereto not so paid, satisfied, or discharged.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20199[2012 c 117 § 199]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%207[1963 c 156 § 7]; ]
+
+== 64.32.080 - Common profits and expenses.
+The common profits of the property shall be distributed among, and the common expenses shall be charged to, the apartment owners according to the percentage of the undivided interest in the common areas and facilities.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%208[1963 c 156 § 8]; ]
+
+== 64.32.090 - Contents of declaration.
+The declaration shall contain the following:
+
+. A description of the land on which the building and improvement are or are to be located;
+
+. A description of the building, stating the number of stories and basements, the number of apartments and the principal materials of which it is or is to be constructed;
+
+. The apartment number of each apartment, and a statement of its location, approximate area, number of rooms, and immediate common area to which it has access, and any other data necessary for its proper identification;
+
+. A description of the common areas and facilities;
+
+. A description of the limited common areas and facilities, if any, stating to which apartments their use is reserved;
+
+. The value of the property and of each apartment, and the percentage of undivided interest in the common areas and facilities appertaining to each apartment and its owner for all purposes, including voting;
+
+. A statement of the purposes for which the building and each of the apartments are intended and restricted as to use;
+
+. The name of a person to receive service of process in the cases provided for in this chapter, together with a residence or place of business of such person which shall be within the county in which the building is located;
+
+. A provision as to the percentage of votes by the apartment owners which shall be determinative of whether to rebuild, repair, restore, or sell the property in event of damage or destruction of all or part of the property;
+
+. A provision authorizing and establishing procedures for the subdividing and/or combining of any apartment or apartments, common areas and facilities or limited common areas and facilities, which procedures may provide for the accomplishment thereof through means of a metes and bounds description;
+
+. A provision requiring the adoption of bylaws for the administration of the property or for other purposes not inconsistent with this chapter, which may include whether administration of the property shall be by a board of directors elected from among the apartment owners, by a manager, or managing agent, or otherwise, and the procedures for the adoption thereof and amendments thereto;
+
+. Any further details in connection with the property which the person executing the declaration may deem desirable to set forth consistent with this chapter; and
+
+. The method by which the declaration may be amended, consistent with this chapter: PROVIDED, That not less than sixty percent of the apartment owners shall consent to any amendment except that any amendment altering the value of the property and of each apartment and the percentage of undivided interest in the common areas and facilities shall require the unanimous consent of the apartment owners.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%209[1963 c 156 § 9]; ]
+
+== 64.32.100 - Copy of survey map, building plans to be filed—Contents of plans.
+Simultaneously with the recording of the declaration there shall be filed in the office of the county auditor of the county in which the property is located a survey map of the surface of the land submitted to the provisions of this chapter showing the location or proposed location of the building or buildings thereon.
+
+There also shall be filed simultaneously, a set of plans of the building or buildings showing as to each apartment:
+
+. The vertical and horizontal boundaries, as defined in RCW 64.32.010(1), in sufficient detail to identify and locate such boundaries relative to the survey map of the surface of the land by the use of standard survey methods;
+
+. The number of the apartment and its dimensions;
+
+. The approximate square footage of each unit;
+
+. The number of bathrooms, whole or partial;
+
+. The number of rooms to be used primarily as bedrooms; 
+
+. The number of built-in fireplaces;
+
+. A statement of any scenic view which might affect the value of the apartment; and
+
+. The initial value of the apartment relative to the other apartments in the building.
+
+The set of plans shall bear the verified statement of a registered architect, registered professional engineer, or registered land surveyor certifying that the plans accurately depict the location and dimensions of the apartments as built.
+
+If such plans do not include such verified statement there shall be recorded prior to the first conveyance of any apartment an amendment to the declaration to which shall be attached a verified statement of a registered architect, registered professional engineer, or registered land surveyor, certifying that the plans theretofore filed or being filed simultaneously with such amendment, fully and accurately depict the apartment numbers, dimensions, and locations of the apartments as built.
+
+Such plans shall each contain a reference to the date of recording of the declaration and the volume, page and county auditor's receiving number of the recorded declaration. Correspondingly, the record of the declaration or amendment thereof shall contain a reference to the file number of the plans of the building affected thereby.
+
+All plans filed shall be in such style, size, form and quality as shall be prescribed by the county auditor of the county where filed, and a copy shall be delivered to the county assessor.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c383.pdf?cite=1987%20c%20383%20§%202[1987 c 383 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c11.pdf?cite=1965%20ex.s.%20c%2011%20§%203[1965 ex.s. c 11 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%2010[1963 c 156 § 10]; ]
+
+== 64.32.110 - Ordinances, resolutions, or zoning laws—Construction.
+Local ordinances, resolutions, or laws relating to zoning shall be construed to treat like structures, lots, or parcels in like manner regardless of whether the ownership thereof is divided by sale of apartments under this chapter rather than by lease of apartments.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%2011[1963 c 156 § 11]; ]
+
+== 64.32.120 - Contents of deeds or other conveyances of apartments.
+Deeds or other conveyances of apartments shall include the following:
+
+. A description of the land as provided in RCW 64.32.090, or the post office address of the property, including in either case the date of recording of the declaration and the volume and page or county auditor's recording number of the recorded declaration;
+
+. The apartment number of the apartment in the declaration and any other data necessary for its proper identification;
+
+. A statement of the use for which the apartment is intended;
+
+. The percentage of undivided interest appertaining to the apartment, the common areas and facilities and limited common areas and facilities appertaining thereto, if any;
+
+. Any further details which the grantor and grantee may deem desirable to set forth consistent with the declaration and with this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1647-S.SL.pdf?cite=1999%20c%20233%20§%209[1999 c 233 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c11.pdf?cite=1965%20ex.s.%20c%2011%20§%204[1965 ex.s. c 11 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%2012[1963 c 156 § 12]; ]
+
+== 64.32.130 - Mortgages, liens or encumbrances affecting an apartment at time of first conveyance.
+At the time of the first conveyance of each apartment, every mortgage, lien, or other encumbrance affecting such apartment, including the percentage of undivided interest of the apartment in the common areas and facilities, shall be paid and satisfied of record, or the apartment being conveyed and its percentage of undivided interest in the common areas and facilities shall be released therefrom by partial release duly recorded.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%2013[1963 c 156 § 13]; ]
+
+== 64.32.140 - Recording.
+The declaration, any amendment thereto, any instrument by which the property may be removed from this chapter and every instrument affecting the property or any apartment shall be entitled to be recorded in the office of the auditor of the county in which the property is located. Neither the declaration nor any amendment thereof shall be valid unless duly recorded.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%2014[1963 c 156 § 14]; ]
+
+== 64.32.150 - Removal of property from provisions of chapter.
+. All of the apartment owners may remove a property from the provisions of this chapter by an instrument to that effect duly recorded: PROVIDED, That the mortgagees and holders of all liens affecting any of the apartments consent thereto or agree, in either case by instrument duly recorded, that their mortgages and liens be transferred to the percentage of the undivided interest of the apartment owner in the property as hereinafter provided;
+
+. Upon removal of the property from the provisions of this chapter, the property shall be deemed to be owned in common by the apartment owners. The undivided interest in the property owned in common which shall appertain to each apartment owner shall be the percentage of the undivided interest previously owned by such owners in the common areas and facilities.
+
+. Subject to RCW 64.34.010 (1) and (2) and the rights of mortgagees and the holders of all liens affecting any of the apartments, the apartment owners may remove a property from the provisions of this chapter and terminate the condominium in the manner set forth in RCW 64.34.268 (1) through (7) and (10), in which event all of the provisions of RCW 64.34.268 (1) through (7) and (10) shall apply to such removal in lieu of subsections (1) and (2) of this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3071-S.SL.pdf?cite=2008%20c%20114%20§%202[2008 c 114 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%2015[1963 c 156 § 15]; ]
+
+== 64.32.160 - Removal of property from provisions of chapter—No bar to subsequent resubmission.
+The removal provided for in RCW 64.32.150 shall in no way bar the subsequent resubmission of the property to the provisions of this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%2016[1963 c 156 § 16]; ]
+
+== 64.32.170 - Records and books—Availability for examination—Audits.
+The manager or board of directors, as the case may be, shall keep complete and accurate books and records of the receipts and expenditures affecting the common areas and facilities, specifying and itemizing the maintenance and repair expenses of the common areas and facilities and any other expenses incurred. Such books and records and the vouchers authorizing payments shall be available for examination by the apartment owners, their agents or attorneys, at any reasonable time or times. All books and records shall be kept in accordance with good accounting procedures and be audited at least once a year by an auditor outside of the organization.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c11.pdf?cite=1965%20ex.s.%20c%2011%20§%205[1965 ex.s. c 11 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%2017[1963 c 156 § 17]; ]
+
+== 64.32.180 - Exemption from liability for contribution for common expenses prohibited.
+No apartment owner may exempt himself or herself from liability for his or her contribution towards the common expenses by waiver of the use or enjoyment of any of the common areas and facilities or by abandonment of his or her apartment.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20200[2012 c 117 § 200]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%2018[1963 c 156 § 18]; ]
+
+== 64.32.190 - Separate assessments and taxation.
+Each apartment and its undivided interest in the common areas and facilities shall be deemed to be a parcel and shall be subject to separate assessments and taxation by each assessing unit for all types of taxes authorized by law including but not limited to special ad valorem levies and special assessments. Neither the building, nor the property, nor any of the common areas and facilities shall be deemed to be a security or a parcel for any purpose.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%2019[1963 c 156 § 19]; ]
+
+== 64.32.200 - Assessments for common expenses—Enforcement of collection—Liens and foreclosures—Liability of mortgagee or purchaser.
+. The declaration may provide for the collection of all sums assessed by the association of apartment owners for the share of the common expenses chargeable to any apartment and the collection may be enforced in any manner provided in the declaration including, but not limited to, (a) ten days notice shall be given the delinquent apartment owner to the effect that unless such assessment is paid within ten days any or all utility services will be forthwith severed and shall remain severed until such assessment is paid, or (b) collection of such assessment may be made by such lawful method of enforcement, judicial or extra-judicial, as may be provided in the declaration and/or bylaws.
+
+. All sums assessed by the association of apartment owners but unpaid for the share of the common expenses chargeable to any apartment shall constitute a lien on such apartment prior to all other liens except only (a) tax liens on the apartment in favor of any assessing unit and/or special district, and (b) all sums unpaid on all mortgages of record. Such lien is not subject to the ban against execution or forced sales of homesteads under RCW 6.13.080 and may be foreclosed by suit by the manager or board of directors, acting on behalf of the apartment owners, in like manner as a mortgage of real property. In any such foreclosure the apartment owner shall be required to pay a reasonable rental for the apartment, if so provided in the bylaws, and the plaintiff in such foreclosures shall be entitled to the appointment of a receiver to collect the same. The manager or board of directors, acting on behalf of the apartment owners, shall have power, unless prohibited by the declaration, to bid on the apartment at foreclosure sale, and to acquire and hold, lease, mortgage, and convey the same. Upon an express waiver in the complaint of any right to a deficiency judgment, the period of redemption shall be eight months after the sale. Suit to recover any judgment for any unpaid common expenses shall be maintainable without foreclosing or waiving the liens securing the same.
+
+. Where the mortgagee of a mortgage of record or other purchaser of an apartment obtains possession of the apartment as a result of foreclosure of the mortgage, such possessor, his or her successors and assigns shall not be liable for the share of the common expenses or assessments by the association of apartment owners chargeable to such apartment which became due prior to such possession. Such unpaid share of common expenses of assessments shall be deemed to be common expenses collectible from all of the apartment owners including such possessor, his or her successors and assigns.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20201[2012 c 117 § 201]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c192.pdf?cite=1988%20c%20192%20§%202[1988 c 192 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c11.pdf?cite=1965%20ex.s.%20c%2011%20§%206[1965 ex.s. c 11 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%2020[1963 c 156 § 20]; ]
+
+== 64.32.210 - Conveyance—Liability of grantor and grantee for unpaid common expenses.
+In a voluntary conveyance the grantee of an apartment shall be jointly and severally liable with the grantor for all unpaid assessments against the latter for his or her share of the common expenses up to the time of the grantor's conveyance, without prejudice to the grantee's right to recover from the grantor the amounts paid by the grantee therefor. Any such grantee shall be entitled to a statement from the manager or board of directors, as the case may be, setting forth the amount of the unpaid assessments against the grantor and such grantee shall not be liable for, nor shall the apartment conveyed be subject to a lien for, any unpaid assessments against the grantor in excess of the amount therein set forth.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20202[2012 c 117 § 202]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%2021[1963 c 156 § 21]; ]
+
+== 64.32.220 - Insurance.
+The manager or board of directors, if required by the declaration, bylaws, or by a majority of the apartment owners, or at the request of a mortgagee having a mortgage of record covering an apartment, shall obtain insurance for the property against loss or damage by fire and such other hazards under such terms and for such amounts as shall be required or requested. Such insurance coverage shall be written on the property in the name of the manager or of the board of directors of the association of apartment owners, as trustee for each of the apartment owners in the percentages established in the declaration. Premiums shall be common expenses. Provision for such insurance shall be without prejudice to the right of each apartment owner to insure his or her own apartment and/or the personal contents thereof for his or her benefit.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20203[2012 c 117 § 203]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%2022[1963 c 156 § 22]; ]
+
+== 64.32.230 - Destruction or damage to all or part of property—Disposition.
+If, within ninety days of the date of damage or destruction to all or part of the property it is not determined by the apartment owners to repair, reconstruct, or rebuild in accordance with the original plan, or by a unanimous vote of all apartment owners to do otherwise, then and in that event:
+
+. The property shall be owned in common by the apartment owners;
+
+. The undivided interest in the property owned in common which appertains to each apartment owner shall be the percentage of undivided interest previously owned by such owner in the common areas and facilities;
+
+. Any mortgages or liens affecting any of the apartments shall be deemed transferred in accordance with the existing priorities to the percentage of the undivided interest of the apartment owner in the property as provided herein; and
+
+. The property shall be subject to an action for partition at the suit of any apartment owner, in which event the net proceeds of sale, together with the net proceeds of the insurance of the property, if any, shall be considered as one fund; such fund shall be divided into separate shares one for each apartment owner in a percentage equal to the percentage of undivided interest owned by each such owner in the property; then, after first paying out of the respective share of each apartment owner, to the extent sufficient for the purpose, all mortgages and liens on the undivided interest in the property owned by such apartment owner, the balance remaining in each share shall then be distributed to each apartment owner respectively.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c11.pdf?cite=1965%20ex.s.%20c%2011%20§%207[1965 ex.s. c 11 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%2023[1963 c 156 § 23]; ]
+
+== 64.32.240 - Actions.
+Without limiting the rights of any apartment owner, actions may be brought as provided by law and by the rules of court by the manager or board of directors, in either case in the discretion of the board of directors, on behalf of two or more of the apartment owners, as their respective interests may appear, with respect to any cause of action relating to the common areas and facilities or more than one apartment. Service of process on two or more apartment owners in any action relating to the common areas and facilities or more than one apartment may be made on the person designated in the declaration to receive service of process. Actions relating to the common areas and facilities for damages arising out of tortious conduct shall be maintained only against the association of apartment owners and any judgment lien or other charge resulting therefrom shall be deemed a common expense, which judgment lien or other charge shall be removed from any apartment and its percentage of undivided interest in the common areas and facilities upon payment by the respective owner of his or her proportionate share thereof based on the percentage of undivided interest owned by such apartment owner.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20204[2012 c 117 § 204]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%2024[1963 c 156 § 24]; ]
+
+== 64.32.250 - Application of chapter, declaration and bylaws.
+. All apartment owners, tenants of such owners, employees of such owners and tenants, and any other person that may in any manner use the property or any part thereof submitted to the provisions of this chapter, shall be subject to this chapter and to the declaration and bylaws of the association of apartment owners adopted pursuant to the provisions of this chapter.
+
+. All agreements, decisions and determinations made by the association of apartment owners under the provisions of this chapter, the declaration, or the bylaws and in accordance with the voting percentages established in this chapter, the declaration, or the bylaws, shall be deemed to be binding on all apartment owners.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%2025[1963 c 156 § 25]; ]
+
+== 64.32.260 - Applicability to common interest communities.
+. This chapter does not apply to common interest communities as defined in RCW 64.90.010:
+
+.. Created on or after July 1, 2018; or
+
+.. That have amended their governing documents to provide that chapter 64.90 RCW will apply to the common interest community pursuant to RCW 64.90.095.
+
+. Pursuant to RCW 64.90.080, the following provisions of chapter 64.90 RCW apply, and any inconsistent provisions of this chapter do not apply, to a common interest community created before July 1, 2018:
+
+.. RCW 64.90.095;
+
+.. RCW 64.90.405(1) (b) and (c);
+
+.. RCW 64.90.525; and
+
+.. RCW 64.90.545.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5334.SL.pdf?cite=2019%20c%20238%20§%20217[2019 c 238 § 217]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6175-S.SL.pdf?cite=2018%20c%20277%20§%20503[2018 c 277 § 503]; ]
+
+== 64.32.900 - Short title.
+This chapter shall be known as the horizontal property regimes act.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%2026[1963 c 156 § 26]; ]
+
+== 64.32.910 - Construction of term "this chapter."
+The term "this chapter" means RCW 64.32.010 through 64.32.250 and 64.32.900 through 64.32.920, and as they may hereafter be amended or supplemented by subsequent legislation.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%2027[1963 c 156 § 27]; ]
+
+== 64.32.920 - Severability—1963 c 156.
+If any provision of this chapter, or its application to any person or circumstance is held invalid, the remainder of the chapter, or the application of the provisions to other persons or circumstances is not affected.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c156.pdf?cite=1963%20c%20156%20§%2028[1963 c 156 § 28]; ]
+

@@ -1,0 +1,242 @@
+= 70.42 - Medical test sites.
+:toc:
+
+== 70.42.005 - Intent—Construction.
+The legislature intends that medical test sites meet criteria known to promote accurate and reliable analysis, thus improving health care through uniform test site licensure and regulation including quality control, quality assurance, and proficiency testing. The legislature also intends to meet the requirements of federal laws licensing and regulating medical testing.
+
+The legislature intends that nothing in this chapter shall be interpreted to place any liability whatsoever on the state for the action or inaction of test sites or test site personnel. The legislature further intends that nothing in this chapter shall be interpreted to expand the state's role regarding medical testing beyond the provisions of this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c386.pdf?cite=1989%20c%20386%20§%201[1989 c 386 § 1]; ]
+
+== 70.42.010 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Department" means the *department of health if enacted, otherwise the department of social and health services.
+
+. "Designated test site supervisor" means the available individual who is responsible for the technical functions of the test site and who meets the department's qualifications set out in rule by the department.
+
+. "Person" means any individual, or any public or private organization, agent, agency, corporation, firm, association, partnership, or business.
+
+. "Proficiency testing program" means an external service approved by the department which provides samples to evaluate the accuracy, reliability and performance of the tests at each test site.
+
+. "Quality assurance" means a comprehensive set of policies, procedures, and practices to assure that a test site's results are accurate and reliable. Quality assurance means a total program of internal and external quality control, equipment preventative maintenance, calibration, recordkeeping, and proficiency testing evaluation, including a written quality assurance plan.
+
+. "Quality control" means internal written procedures and day-to-day analysis of laboratory reference materials at each test site to insure precision and accuracy of test methodology, equipment, and results.
+
+. "Test" means any examination or procedure conducted on a sample taken from the human body, including screening.
+
+. "Test site" means any facility or site, public or private, which analyzes materials derived from the human body for the purposes of health care, treatment, or screening. A test site does not mean a facility or site, including a residence, where a test approved for home use by the federal food and drug administration is used by an individual to test himself or herself without direct supervision or guidance by another and where this test is not part of a commercial transaction.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c386.pdf?cite=1989%20c%20386%20§%202[1989 c 386 § 2]; ]
+
+== 70.42.020 - License required.
+After July 1, 1990, no person may advertise, operate, manage, own, conduct, open, or maintain a test site without first obtaining a license for the tests to be performed, except as provided in RCW 70.42.030.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c386.pdf?cite=1989%20c%20386%20§%203[1989 c 386 § 3]; ]
+
+== 70.42.030 - Waiver of license—Conditions.
+. As a part of the application for licensure, a test site may request a waiver from licensure under this chapter if the test site performs only examinations which are determined to have insignificant risk of an erroneous result, including those which (a) are approved by the federal food and drug administration for home use; (b) are so simple and accurate as to render the likelihood of erroneous results negligible; or (c) pose no reasonable risk of harm to the patient if performed incorrectly.
+
+. The department shall determine by rule which tests meet the criteria in subsection (1) of this section and shall be exempt from coverage of this chapter. The standards applied in developing the list shall be consistent with federal law and regulations.
+
+. The department shall grant a waiver from licensure for two years for a valid request based on subsections (1) and (2) of this section.
+
+. Any test site which has received a waiver under subsection (3) of this section shall report to the department any changes in the type of tests it intends to perform thirty days in advance of the changes. In no case shall a test site with a waiver perform tests which require a license under this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c386.pdf?cite=1989%20c%20386%20§%204[1989 c 386 § 4]; ]
+
+== 70.42.040 - Sites approved under federal law—Automatic licensure.
+Test sites accredited, certified, or licensed by an organization or agency approved by the department consistent with federal law and regulations shall receive a license under RCW 70.42.110.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c386.pdf?cite=1989%20c%20386%20§%205[1989 c 386 § 5]; ]
+
+== 70.42.050 - Permission to perform tests not covered by license—License amendment.
+A licensee that desires to perform tests for which it is not currently licensed shall notify the department. To the extent allowed by federal law and regulations, upon notification and pending the department's determination, the department shall grant the licensee temporary permission to perform the additional tests. The department shall amend the license if it determines that the licensee meets all applicable requirements.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c386.pdf?cite=1989%20c%20386%20§%206[1989 c 386 § 6]; ]
+
+== 70.42.060 - Quality control, quality assurance, recordkeeping, and personnel standards.
+The department shall adopt standards established in rule governing test sites for quality control, quality assurance, recordkeeping, and personnel consistent with federal laws and regulations. "Recordkeeping" for purposes of this chapter means books, files, or records necessary to show compliance with the quality control and quality assurance requirements adopted by the department.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c386.pdf?cite=1989%20c%20386%20§%207[1989 c 386 § 7]; ]
+
+== 70.42.070 - Proficiency testing program.
+. Except where there is no reasonable proficiency test, each licensed test site must participate in a department-approved proficiency testing program appropriate to the test or tests which it performs. The department may approve proficiency testing programs offered by private or public organizations when the program meets the standards set by the department. Testing shall be conducted quarterly except as otherwise provided for in rule.
+
+. The department shall establish proficiency testing standards by rule which include a measure of acceptable performance for tests, and a system for grading proficiency testing performance for tests. The standards may include an evaluation of the personnel performing tests.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c386.pdf?cite=1989%20c%20386%20§%208[1989 c 386 § 8]; ]
+
+== 70.42.080 - Test site supervisor.
+A test site shall have a designated test site supervisor who shall meet the qualifications determined by the department in rule. The designated test site supervisor shall be responsible for the testing functions of the test site.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c386.pdf?cite=1989%20c%20386%20§%209[1989 c 386 § 9]; ]
+
+== 70.42.090 - Fees—Account.
+. The department shall establish a schedule of fees for license applications, renewals, amendments, and waivers. In fixing said fees, the department shall set the fees at a sufficient level to defray the cost of administering the licensure program. All such fees shall be fixed by rule adopted in accordance with the provisions of the administrative procedure act, chapter 34.05 RCW. In determining the fee schedule, the department shall consider the following: (a) Complexity of the license required; (b) number and type of tests performed at the test site; (c) degree of supervision required from the department staff; (d) whether the license is granted under RCW 70.42.040; and (e) general administrative costs of the test site licensing program established under this chapter. For each category of license, fees charged shall be related to program costs.
+
+. The medical test site licensure account is created in the state treasury. The state treasurer shall transfer into the medical test site licensure account all revenue received from medical test site license fees. Funds for this account may only be appropriated for the support of the activities defined under this chapter. For the 2013-2015 fiscal biennium, moneys in the account may be spent for laboratory services in the department of health.
+
+. The department may establish separate fees for repeat inspections and repeat audits it performs under RCW 70.42.170.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5034-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%204%20§%20988[2013 2nd sp.s. c 4 § 988]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c386.pdf?cite=1989%20c%20386%20§%2010[1989 c 386 § 10]; ]
+
+== 70.42.100 - Applicants—Requirements.
+An applicant for issuance or renewal of a medical test site license shall:
+
+. File a written application on a form provided by the department;
+
+. Demonstrate ability to comply with this chapter and the rules adopted under this chapter;
+
+. Cooperate with any on-site review which may be conducted by the department prior to licensure or renewal.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c386.pdf?cite=1989%20c%20386%20§%2011[1989 c 386 § 11]; ]
+
+== 70.42.110 - Issuance of license—Renewal.
+Upon receipt of an application for a license and the license fee, the department shall issue a license if the applicant meets the requirements established under this chapter. All persons operating test sites before July 1, 1990, shall submit applications by July 1, 1990. A license issued under this chapter shall not be transferred or assigned without thirty days' prior notice to the department and the department's timely approval. A license, unless suspended or revoked, shall be effective for a period of two years. The department may establish penalty fees or take other appropriate action pursuant to this chapter for failure to apply for licensure or renewal as required by this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c386.pdf?cite=1989%20c%20386%20§%2012[1989 c 386 § 12]; ]
+
+== 70.42.120 - Denial of license.
+Under this chapter, and chapter 34.05 RCW, the department may deny a license to any applicant who:
+
+. Refuses to comply with the requirements of this chapter or the standards or rules adopted under this chapter;
+
+. Was the holder of a license under this chapter which was revoked for cause and never reissued by the department;
+
+. Has knowingly or with reason to know made a false statement of a material fact in the application for a license or in any data attached thereto or in any record required by the department;
+
+. Refuses to allow representatives of the department to examine any book, record, or file required by this chapter to be maintained;
+
+. Willfully prevented, interfered with, or attempted to impede in any way the work of a representative of the department; or
+
+. Misrepresented, or was fraudulent in, any aspect of the applicant's business.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c386.pdf?cite=1989%20c%20386%20§%2013[1989 c 386 § 13]; ]
+
+== 70.42.130 - Conditions upon license.
+Under this chapter, and chapter 34.05 RCW, the department may place conditions on a license which limit or cancel a test site's authority to conduct any of the tests or groups of tests of any licensee who:
+
+. Fails or refuses to comply with the requirements of this chapter or the rules adopted under this chapter;
+
+. Has knowingly or with reason to know made a false statement of a material fact in the application for a license or in any data attached thereto or in any record required by the department;
+
+. Refuses to allow representatives of the department to examine any book, record, or file required by this chapter to be maintained;
+
+. Willfully prevented, interfered with, or attempted to impede in any way the work of a representative of the department;
+
+. Willfully prevented or interfered with preservation of evidence of a known violation of this chapter or the rules adopted under this chapter; or
+
+. Misrepresented, or was fraudulent in, any aspect of the licensee's business.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c386.pdf?cite=1989%20c%20386%20§%2014[1989 c 386 § 14]; ]
+
+== 70.42.140 - Suspension of license.
+Under this chapter, and chapter 34.05 RCW, the department may suspend the license of any licensee who:
+
+. Fails or refuses to comply with the requirements of this chapter or the rules adopted under this chapter;
+
+. Has knowingly or with reason to know made a false statement of a material fact in the application for a license or in any data attached thereto or in any record required by the department;
+
+. Refuses to allow representatives of the department to examine any book, record, or file required by this chapter to be maintained;
+
+. Willfully prevented, interfered with, or attempted to impede in any way the work of a representative of the department;
+
+. Willfully prevented or interfered with preservation of evidence of a known violation of this chapter or the rules adopted under this chapter;
+
+. Misrepresented, or was fraudulent in, any aspect of the licensee's business;
+
+. Used false or fraudulent advertising; or
+
+. Failed to pay any civil monetary penalty assessed by the department under this chapter within twenty-eight days after the assessment becomes final.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c386.pdf?cite=1989%20c%20386%20§%2015[1989 c 386 § 15]; ]
+
+== 70.42.150 - Revocation of license.
+Under this chapter, and chapter 34.05 RCW, the department may revoke the license of any licensee who:
+
+. Fails or refuses to comply with the requirements of this chapter or the rules adopted under this chapter;
+
+. Has knowingly or with reason to know made a false statement of a material fact in the application for a license or in any data attached thereto or in any record required by the department;
+
+. Refuses to allow representatives of the department to examine any book, record, or file required by this chapter to be maintained;
+
+. Willfully prevented, interfered with, or attempted to impede in any way the work of a representative of the department;
+
+. Willfully prevented or interfered with preservation of evidence of a known violation of this chapter or the rules adopted under this chapter;
+
+. Misrepresented, or was fraudulent in, any aspect of the licensee's business;
+
+. Used false or fraudulent advertising; or
+
+. Failed to pay any civil monetary penalty assessed by the department pursuant to this chapter within twenty-eight days after the assessment becomes final.
+
+The department may summarily revoke a license when it finds continued licensure of a test site immediately jeopardizes the public health, safety, or welfare.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c386.pdf?cite=1989%20c%20386%20§%2016[1989 c 386 § 16]; ]
+
+== 70.42.160 - Penalties—Acts constituting violations.
+Under this chapter, and chapter 34.05 RCW, the department may assess monetary penalties of up to ten thousand dollars per violation in addition to or in lieu of conditioning, suspending, or revoking a license. A violation occurs when a licensee:
+
+. Fails or refuses to comply with the requirements of this chapter or the standards or rules adopted under this chapter;
+
+. Has knowingly or with reason to know made a false statement of a material fact in the application for a license or in any data attached thereto or in any record required by the department;
+
+. Refuses to allow representatives of the department to examine any book, record, or file required by this chapter to be maintained;
+
+. Willfully prevents, interferes with, or attempts to impede in any way the work of any representative of the department;
+
+. Willfully prevents or interferes with preservation of evidence of any known violation of this chapter or the rules adopted under this chapter;
+
+. Misrepresents or was fraudulent in any aspect of the applicant's business; or
+
+. Uses advertising which is false or fraudulent.
+
+Each day of a continuing violation is a separate violation.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c386.pdf?cite=1989%20c%20386%20§%2017[1989 c 386 § 17]; ]
+
+== 70.42.162 - Pattern of balance billing protection act violations by medical test site—Fines and disciplinary action.
+If the insurance commissioner reports to the department that he or she has cause to believe that a medical testing [test] site has engaged in a pattern of violations of RCW 48.49.020 or 48.49.030, and the report is substantiated after investigation, the department may levy a fine upon the medical testing [test] site in an amount not to exceed one thousand dollars per violation and take other formal or informal disciplinary action as permitted under the authority of the department.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1065-S2.SL.pdf?cite=2019%20c%20427%20§%2020[2019 c 427 § 20]; ]
+
+== 70.42.170 - On-site reviews.
+The department may at any time conduct an on-site review of a licensee or applicant in order to determine compliance with this chapter. When the department has reason to believe a waivered site is conducting tests requiring a license, the department may conduct an on-site review of the waivered site in order to determine compliance. The department may also examine and audit records necessary to determine compliance with this chapter. The right to conduct an on-site review and audit and examination of records shall extend to any premises and records of persons whom the department has reason to believe are opening, owning, conducting, maintaining, managing, or otherwise operating a test site without a license.
+
+Following an on-site review, the department shall give written notice of any violation of this chapter or the rules adopted under this chapter. The notice shall describe the reasons for noncompliance and inform the licensee or applicant or test site operator that it shall comply within a specified reasonable time. If the licensee or applicant or test site operator fails to comply, the department may take disciplinary action under RCW 70.42.120 through 70.42.150, or further action as authorized by this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c386.pdf?cite=1989%20c%20386%20§%2018[1989 c 386 § 18]; ]
+
+== 70.42.180 - Operating without a license—Injunctions or other remedies—Penalty.
+Notwithstanding the existence or use of any other remedy, the department may, in the manner provided by law and upon the advice of the attorney general, who shall represent the department in the proceedings, maintain an action in the name of the state for an injunction or other process against any person to restrain or prevent the advertising, operating, maintaining, managing, or opening of a test site without a license under this chapter. It is a misdemeanor to own, operate, or maintain a test site without a license.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c386.pdf?cite=1989%20c%20386%20§%2019[1989 c 386 § 19]; ]
+
+== 70.42.190 - Petition of superior court for review of disciplinary action.
+Any test site which has had a denial, condition, suspension, or revocation of its license, or a civil monetary penalty upheld after administrative review under chapter 34.05 RCW, may, within sixty days of the administrative determination, petition the superior court for review of the decision.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c386.pdf?cite=1989%20c%20386%20§%2020[1989 c 386 § 20]; ]
+
+== 70.42.200 - Persons who may not own or operate test site.
+No person who has owned or operated a test site that has had its license revoked may own or operate a test site within two years of the final adjudication of a license revocation.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c386.pdf?cite=1989%20c%20386%20§%2021[1989 c 386 § 21]; ]
+
+== 70.42.210 - Confidentiality of certain information.
+All information received by the department through filed reports, audits, or on-site reviews, as authorized under this chapter shall not be disclosed publicly in any manner that would identify persons who have specimens of material from their bodies at a test site, absent a written release from the person, or a court order.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c386.pdf?cite=1989%20c%20386%20§%2022[1989 c 386 § 22]; ]
+
+== 70.42.220 - Rules.
+The department shall adopt rules under chapter 34.05 RCW necessary to implement the purposes of this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c386.pdf?cite=1989%20c%20386%20§%2023[1989 c 386 § 23]; ]
+
+== 70.42.900 - Effective dates—1989 c 386.
+. RCW 70.42.005 through 70.42.210 shall take effect July 1, 1990.
+
+. RCW 70.42.220 is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect July 1, 1989.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c386.pdf?cite=1989%20c%20386%20§%2025[1989 c 386 § 25]; ]
+

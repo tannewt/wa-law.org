@@ -1,0 +1,74 @@
+= 2.24 - Court commissioners and referees.
+:toc:
+
+== 2.24.010 - Appointment of court commissioners, criminal commissioners—Qualifications—Term of office.
+. There may be appointed in each county or judicial district, by the judges of the superior court having jurisdiction therein, one or more court commissioners for said county or judicial district. Each such commissioner shall be a citizen of the United States and shall hold the office during the pleasure of the judges making the appointment.
+
+. [Empty]
+.. There may be appointed in counties with a population of more than four hundred thousand, by the presiding judge of the superior court having jurisdiction therein, one or more attorneys to act as criminal commissioners to assist the superior court in disposing of adult criminal cases. Such criminal commissioners shall have power, authority, and jurisdiction, concurrent with the superior court and the judges thereof, in adult criminal cases, to preside over arraignments, preliminary appearances, initial extradition hearings, and noncompliance proceedings pursuant to RCW 9.94A.6333 or 9.94B.040; accept pleas if authorized by local court rules; appoint counsel; make determinations of probable cause; set, amend, and review conditions of pretrial release; set bail; set trial and hearing dates; authorize continuances; accept waivers of the right to speedy trial; and authorize and issue search warrants and orders to intercept, monitor, or record wired or wireless telecommunications or for the installation of electronic taps or other devices to include, but not be limited to, vehicle global positioning system or other mobile tracking devices with all the powers conferred upon the judge of the superior court in such matters.
+
+.. The county legislative authority must approve the creation of criminal commissioner positions.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5165-S.SL.pdf?cite=2013%20c%2027%20§%203[2013 c 27 § 3]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5151-S.SL.pdf?cite=2009%20c%20140%20§%201[2009 c 140 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c191.pdf?cite=1990%20c%20191%20§%201[1990 c 191 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c54.pdf?cite=1979%20ex.s.%20c%2054%20§%201[1979 ex.s. c 54 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c87.pdf?cite=1967%20ex.s.%20c%2087%20§%201[1967 ex.s. c 87 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c42.pdf?cite=1961%20c%2042%20§%201[1961 c 42 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1909c124.pdf?cite=1909%20c%20124%20§%201[1909 c 124 § 1]; RRS § 83; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1895c83.pdf?cite=1895%20c%2083%20§%201[1895 c 83 § 1]; ]
+
+== 2.24.020 - Oath.
+Court commissioners appointed hereunder shall, before entering upon the duties of such office, take and subscribe an oath to support the Constitution of the United States, the Constitution of the state of Washington, and to perform the duties of such office fairly and impartially and to the best of his or her ability.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%2038[2011 c 336 § 38]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1909c124.pdf?cite=1909%20c%20124%20§%205[1909 c 124 § 5]; RRS § 88; ]
+
+== 2.24.030 - Salary.
+Each court commissioner appointed hereunder shall be allowed a salary, in addition to the fees herein provided for, in such sum as the board of county commissioners may designate, said salary to be paid at the time and in the manner as the salary of other county officials.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1909c124.pdf?cite=1909%20c%20124%20§%204[1909 c 124 § 4]; RRS § 87; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1895c83.pdf?cite=1895%20c%2083%20§%203[1895 c 83 § 3]; ]
+
+== 2.24.040 - Powers—Fees.
+Such court commissioner shall have power, authority, and jurisdiction, concurrent with the superior court and the judge thereof, in the following particulars:
+
+. To hear and determine all matters in probate, to make and issue all proper orders therein, and to issue citations in all cases where same are authorized by the probate statutes of this state.
+
+. To grant and enter defaults and enter judgment thereon.
+
+. To issue temporary restraining orders and temporary injunctions, and to fix and approve bonds thereon.
+
+. To act as referee in all matters and actions referred to him or her by the superior court as such, with all the powers now conferred upon referees by law.
+
+. To hear and determine all proceedings supplemental to execution, with all the powers conferred upon the judge of the superior court in such matters.
+
+. To hear and determine all petitions for the adoption of children and for the dissolution of incorporations.
+
+. To hear and determine all applications for the commitment of any person to the hospital for the insane, with all the powers of the superior court in such matters: PROVIDED, That in cases where a jury is demanded, same shall be referred to the superior court for trial.
+
+. To hear and determine all complaints for the commitments of minors with all powers conferred upon the superior court in such matters.
+
+. To hear and determine ex parte and uncontested civil matters of any nature.
+
+. To grant adjournments, administer oaths, preserve order, compel attendance of witnesses, and to punish for contempts in the refusal to obey or the neglect of the court commissioner's lawful orders made in any matter before the court commissioner as fully as the judge of the superior court.
+
+. To take acknowledgments and proofs of deeds, mortgages and all other instruments requiring acknowledgment under the laws of this state, and to take affidavits and depositions in all cases.
+
+. To provide an official seal, upon which shall be engraved the words "Court Commissioner," and the name of the county for which he or she may be appointed, and to authenticate his official acts therewith in all cases where same is necessary.
+
+. To charge and collect, for his or her own use, the same fees for the official performance of official acts mentioned in subsections (4) and (11) of this section as are provided by law for referees and notaries public.
+
+. To hear and determine small claims appeals as provided in chapter 12.36 RCW.
+
+. In adult criminal cases, to preside over arraignments, preliminary appearances, initial extradition hearings, and noncompliance proceedings pursuant to RCW 9.94A.6333 or 9.94B.040; accept pleas if authorized by local court rules; appoint counsel; make determinations of probable cause; set, amend, and review conditions of pretrial release; set bail; set trial and hearing dates; authorize continuances; and accept waivers of the right to speedy trial.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5190-S.SL.pdf?cite=2009%20c%2028%20§%201[2009 c 28 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6351-S.SL.pdf?cite=2000%20c%2073%20§%201[2000 c 73 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5295-S.SL.pdf?cite=1997%20c%20352%20§%2014[1997 c 352 § 14]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1824-S.SL.pdf?cite=1991%20c%2033%20§%206[1991 c 33 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c54.pdf?cite=1979%20ex.s.%20c%2054%20§%202[1979 ex.s. c 54 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c188.pdf?cite=1963%20c%20188%20§%201[1963 c 188 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1909c124.pdf?cite=1909%20c%20124%20§%202[1909 c 124 § 2]; RRS § 85; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1895c83.pdf?cite=1895%20c%2083%20§%202[1895 c 83 § 2]; ]
+
+== 2.24.050 - Revision by court.
+All of the acts and proceedings of court commissioners hereunder shall be subject to revision by the superior court. Any party in interest may have such revision upon demand made by written motion, filed with the clerk of the superior court, within ten days after the entry of any order or judgment of the court commissioner. Such revision shall be upon the records of the case, and the findings of fact and conclusions of law entered by the court commissioner, and unless a demand for revision is made within ten days from the entry of the order or judgment of the court commissioner, the orders and judgments shall be and become the orders and judgments of the superior court, and appellate review thereof may be sought in the same fashion as review of like orders and judgments entered by the judge.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c202.pdf?cite=1988%20c%20202%20§%201[1988 c 202 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971c81.pdf?cite=1971%20c%2081%20§%2010[1971 c 81 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1909c124.pdf?cite=1909%20c%20124%20§%203[1909 c 124 § 3]; RRS § 86; ]
+
+== 2.24.060 - Referees—Definition—Powers.
+A referee is a person appointed by the court or judicial officer with power—
+
+. To try an issue of law or of fact in a civil action or proceeding and report thereon.
+
+. To ascertain any other fact in a civil action or proceeding when necessary for the information of the court, and report the fact or to take and report the evidence in an action.
+
+. To execute an order, judgment or decree or to exercise any other power or perform any other duty expressly authorized by law.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1891c25.pdf?cite=1891%20c%2025%20§%201[1891 c 25 § 1]; RRS § 82; ]
+

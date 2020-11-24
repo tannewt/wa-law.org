@@ -1,0 +1,47 @@
+= 50.06 - Temporary total disability.
+:toc:
+
+== 50.06.020 - Allowable beneficiaries.
+The benefits of this chapter shall be allowed only to:
+
+. Individuals who have suffered a temporary total disability and have received compensation under the industrial insurance or crime victims compensation laws of this state, any other state or the United States for a period of not less than thirteen consecutive calendar weeks by reason of such temporary total disability; or
+
+. Individuals who are reentering the workforce after an absence of not less than thirteen consecutive calendar weeks resulting from temporary total physical disability because of a nonwork-related injury or illness: PROVIDED, That individuals authorized to receive benefits under this subsection are required to meet other eligibility requirements under Title 50 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5702-S.SL.pdf?cite=1993%20c%20483%20§%204[1993 c 483 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c65.pdf?cite=1984%20c%2065%20§%202[1984 c 65 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c228.pdf?cite=1975%201st%20ex.s.%20c%20228%20§%208[1975 1st ex.s. c 228 § 8]; ]
+
+== 50.06.030 - Application for initial determination of disability—Special base year—Special individual benefit year.
+. In the case of individuals eligible under RCW 50.06.020(1), an application for initial determination made pursuant to this chapter, to be considered timely, must be filed in accordance with RCW 50.20.140 within twenty-six weeks following the week in which the period of temporary total disability commenced. Notice from the department of labor and industries shall satisfy this requirement. The records of the agency supervising the award of compensation shall be conclusive evidence of the fact of temporary disability and the beginning date of such disability.
+
+. In the case of individuals eligible under RCW 50.06.020(2), an application for initial determination must be filed in accordance with RCW 50.20.140 within twenty-six weeks following the week in which the period of temporary total physical disability commenced. This filing requirement is satisfied by filing a signed statement from the attending physician stating the date that the disability commenced and stating that the individual was unable to reenter the workforce during the time of the disability. The department may examine any medical information related to the disability. If the claim is appealed, a base year employer may examine the medical information related to the disability and require, at the employer's expense, that the individual obtain the opinion of a second health care provider selected by the employer concerning any information related to the disability.
+
+. The employment security department shall process and issue an initial determination of entitlement or nonentitlement as the case may be.
+
+. For the purpose of this chapter, a special base year is established for an individual consisting of either the first four of the last five completed calendar quarters or the last four completed calendar quarters immediately prior to the first day of the calendar week in which the individual's temporary total disability commenced, and a special individual benefit year is established consisting of the entire period of disability and a fifty-two consecutive week period commencing with the first day of the calendar week immediately following the week or part thereof with respect to which the individual received his or her final temporary total disability compensation under the applicable industrial insurance or crime victims compensation laws, or the week in which the individual reentered the workforce after an absence under subsection (2) of this section, as applicable, except that no special benefit year shall have a duration in excess of three hundred twelve calendar weeks: PROVIDED HOWEVER, That such special benefit year will not be established unless the criteria contained in RCW 50.04.030 has been met, except that an individual meeting the eligibility requirements of this chapter and who has an unexpired benefit year established which would overlap the special benefit year provided by this chapter, notwithstanding the provisions in RCW 50.04.030 relating to the establishment of a subsequent benefit year and RCW 50.40.010 relating to waiver of rights, may elect to establish a special benefit year under this chapter: PROVIDED FURTHER, that the unexpired benefit year shall be terminated with the beginning of the special benefit year if the individual elects to establish such special benefit year.
+
+. For the purposes of establishing a benefit year, the department shall initially use the first four of the last five completed calendar quarters as the base year. If a benefit year is not established using the first four of the last five calendar quarters as the base year, the department shall use the last four completed calendar quarters as the base year.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%2013010[2010 c 8 § 13010]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2302.SL.pdf?cite=2002%20c%2073%20§%201[2002 c 73 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5702-S.SL.pdf?cite=1993%20c%20483%20§%205[1993 c 483 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c278.pdf?cite=1987%20c%20278%20§%203[1987 c 278 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c65.pdf?cite=1984%20c%2065%20§%203[1984 c 65 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c228.pdf?cite=1975%201st%20ex.s.%20c%20228%20§%209[1975 1st ex.s. c 228 § 9]; ]
+
+== 50.06.040 - Laws and regulations governing amounts payable and right to benefits.
+The individual's weekly benefit amount and maximum amount payable during the special benefit year shall be governed by the provision contained in RCW 50.20.120. The individual's basic and continuing right to benefits shall be governed by the general laws and regulations relating to the payment of unemployment compensation benefits to the extent that they are not in conflict with the provisions of this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c228.pdf?cite=1975%201st%20ex.s.%20c%20228%20§%2010[1975 1st ex.s. c 228 § 10]; ]
+
+== 50.06.050 - Use of wages and time worked for prior claims—Effect.
+The fact that wages, hours or weeks worked during the special base year may have been used in the computation of a prior valid claim for unemployment compensation shall not affect a claim for benefits made pursuant to the provisions of this chapter; however, wages, hours and weeks worked used in computing entitlement on a claim filed pursuant to this chapter shall not be available or used for establishing entitlement or amount of benefits in any succeeding benefit year.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c228.pdf?cite=1975%201st%20ex.s.%20c%20228%20§%2011[1975 1st ex.s. c 228 § 11]; ]
+
+== 50.06.900 - Application of chapter—Recipients of industrial insurance or crime victims compensation.
+. This chapter shall be available to individuals who suffer a temporary total disability, compensable by an industrial insurance program, after June 29, 1975.
+
+. This chapter shall also be available to individuals who suffer a temporary total disability compensable under crime victims compensation laws, after June 7, 1984.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c65.pdf?cite=1984%20c%2065%20§%204[1984 c 65 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c228.pdf?cite=1975%201st%20ex.s.%20c%20228%20§%2012[1975 1st ex.s. c 228 § 12]; ]
+
+== 50.06.910 - Partial invalidity of chapter.
+Should any part of this chapter be declared unconstitutional by the final decision of any court or declared out of conformity by the United States secretary of labor, the commissioner shall immediately discontinue the payment of benefits based on this chapter, declare it inoperative and report that fact to the governor and the legislature.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c228.pdf?cite=1975%201st%20ex.s.%20c%20228%20§%2013[1975 1st ex.s. c 228 § 13]; ]
+

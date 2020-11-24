@@ -1,0 +1,754 @@
+= 26.44 - Abuse of children.
+:toc:
+
+== 26.44.010 - Declaration of purpose.
+The Washington state legislature finds and declares: The bond between a child and his or her parent, custodian, or guardian is of paramount importance, and any intervention into the life of a child is also an intervention into the life of the parent, custodian, or guardian; however, instances of nonaccidental injury, neglect, death, sexual abuse and cruelty to children by their parents, custodians or guardians have occurred, and in the instance where a child is deprived of his or her right to conditions of minimal nurture, health, and safety, the state is justified in emergency intervention based upon verified information; and therefore the Washington state legislature hereby provides for the reporting of such cases to the appropriate public authorities. It is the intent of the legislature that, as a result of such reports, protective services shall be made available in an effort to prevent further abuses, and to safeguard the general welfare of such children. When the child's physical or mental health is jeopardized, or the safety of the child conflicts with the legal rights of a parent, custodian, or guardian, the health and safety interests of the child should prevail. When determining whether a child and a parent, custodian, or guardian should be separated during or immediately following an investigation of alleged child abuse or neglect, the safety of the child shall be the department's paramount concern. Reports of child abuse and neglect shall be maintained and disseminated with strictest regard for the privacy of the subjects of such reports and so as to safeguard against arbitrary, malicious or erroneous information or actions. This chapter shall not be construed to authorize interference with child-raising practices, including reasonable parental discipline, which are not proved to be injurious to the child's health, welfare and safety.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6555-S.SL.pdf?cite=2012%20c%20259%20§%2012[2012 c 259 § 12]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1620-S.SL.pdf?cite=1999%20c%20176%20§%2027[1999 c 176 § 27]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c206.pdf?cite=1987%20c%20206%20§%201[1987 c 206 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c97.pdf?cite=1984%20c%2097%20§%201[1984 c 97 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c80.pdf?cite=1977%20ex.s.%20c%2080%20§%2024[1977 ex.s. c 80 § 24]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c217.pdf?cite=1975%201st%20ex.s.%20c%20217%20§%201[1975 1st ex.s. c 217 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c35.pdf?cite=1969%20ex.s.%20c%2035%20§%201[1969 ex.s. c 35 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c13.pdf?cite=1965%20c%2013%20§%201[1965 c 13 § 1]; ]
+
+== 26.44.015 - Limitations of chapter.
+. This chapter shall not be construed to authorize interference with child-raising practices, including reasonable parental discipline, which are not injurious to the child's health, welfare, or safety.
+
+. Nothing in this chapter may be used to prohibit the reasonable use of corporal punishment as a means of discipline.
+
+. No parent or guardian may be deemed abusive or neglectful solely by reason of the parent's or child's blindness, deafness, developmental disability, or other disability.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2390.SL.pdf?cite=2020%20c%20274%20§%208[2020 c 274 § 8]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5922-S.SL.pdf?cite=2005%20c%20512%20§%204[2005 c 512 § 4]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1620-S.SL.pdf?cite=1999%20c%20176%20§%2028[1999 c 176 § 28]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5710-S2.SL.pdf?cite=1997%20c%20386%20§%2023[1997 c 386 § 23]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1512-S.SL.pdf?cite=1993%20c%20412%20§%2011[1993 c 412 § 11]; ]
+
+== 26.44.020 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Abuse or neglect" means sexual abuse, sexual exploitation, or injury of a child by any person under circumstances which cause harm to the child's health, welfare, or safety, excluding conduct permitted under RCW 9A.16.100; or the negligent treatment or maltreatment of a child by a person responsible for or providing care to the child. An abused child is a child who has been subjected to child abuse or neglect as defined in this section.
+
+. "Child" or "children" means any person under the age of eighteen years of age.
+
+. "Child forensic interview" means a developmentally sensitive and legally sound method of gathering factual information regarding allegations of child abuse, child neglect, or exposure to violence. This interview is conducted by a competently trained, neutral professional utilizing techniques informed by research and best practice as part of a larger investigative process.
+
+. "Child protective services" means those services provided by the department designed to protect children from child abuse and neglect and safeguard such children from future abuse and neglect, and conduct investigations of child abuse and neglect reports. Investigations may be conducted regardless of the location of the alleged abuse or neglect. Child protective services includes referral to services to ameliorate conditions that endanger the welfare of children, the coordination of necessary programs and services relevant to the prevention, intervention, and treatment of child abuse and neglect, and services to children to ensure that each child has a permanent home. In determining whether protective services should be provided, the department shall not decline to provide such services solely because of the child's unwillingness or developmental inability to describe the nature and severity of the abuse or neglect.
+
+. "Child protective services section" means the child protective services section of the department.
+
+. "Child who is a candidate for foster care" means a child who the department identifies as being at imminent risk of entering foster care but who can remain safely in the child's home or in a kinship placement as long as services or programs that are necessary to prevent entry of the child into foster care are provided, and includes but is not limited to a child whose adoption or guardianship arrangement is at risk of a disruption or dissolution that would result in a foster care placement. The term includes a child for whom there is reasonable cause to believe that any of the following circumstances exist:
+
+.. The child has been abandoned by the parent as defined in RCW 13.34.030 and the child's health, safety, and welfare is seriously endangered as a result;
+
+.. The child has been abused or neglected as defined in chapter 26.44 RCW and the child's health, safety, and welfare is seriously endangered as a result;
+
+.. There is no parent capable of meeting the child's needs such that the child is in circumstances that constitute a serious danger to the child's development;
+
+.. The child is otherwise at imminent risk of harm.
+
+. "Children's advocacy center" means a child-focused facility in good standing with the state chapter for children's advocacy centers and that coordinates a multidisciplinary process for the investigation, prosecution, and treatment of sexual and other types of child abuse. Children's advocacy centers provide a location for forensic interviews and coordinate access to services such as, but not limited to, medical evaluations, advocacy, therapy, and case review by multidisciplinary teams within the context of county protocols as defined in RCW 26.44.180 and 26.44.185.
+
+. "Clergy" means any regularly licensed or ordained minister, priest, or rabbi of any church or religious denomination, whether acting in an individual capacity or as an employee or agent of any public or private organization or institution.
+
+. "Court" means the superior court of the state of Washington, juvenile department.
+
+. "Department" means the department of children, youth, and families.
+
+. "Family assessment" means a comprehensive assessment of child safety, risk of subsequent child abuse or neglect, and family strengths and needs that is applied to a child abuse or neglect report. Family assessment does not include a determination as to whether child abuse or neglect occurred, but does determine the need for services to address the safety of the child and the risk of subsequent maltreatment.
+
+. "Family assessment response" means a way of responding to certain reports of child abuse or neglect made under this chapter using a differential response approach to child protective services. The family assessment response shall focus on the safety of the child, the integrity and preservation of the family, and shall assess the status of the child and the family in terms of risk of abuse and neglect including the parent's or guardian's or other caretaker's capacity and willingness to protect the child and, if necessary, plan and arrange the provision of services to reduce the risk and otherwise support the family. No one is named as a perpetrator, and no investigative finding is entered in the record as a result of a family assessment.
+
+. "Founded" means the determination following an investigation by the department that, based on available information, it is more likely than not that child abuse or neglect did occur.
+
+. "Inconclusive" means the determination following an investigation by the department of social and health services, prior to October 1, 2008, that based on available information a decision cannot be made that more likely than not, child abuse or neglect did or did not occur.
+
+. "Institution" means a private or public hospital or any other facility providing medical diagnosis, treatment, or care.
+
+. "Law enforcement agency" means the police department, the prosecuting attorney, the state patrol, the director of public safety, or the office of the sheriff.
+
+. "Malice" or "maliciously" means an intent, wish, or design to intimidate, annoy, or injure another person. Such malice may be inferred from an act done in willful disregard of the rights of another, or an act wrongfully done without just cause or excuse, or an act or omission of duty betraying a willful disregard of social duty.
+
+. "Negligent treatment or maltreatment" means an act or a failure to act, or the cumulative effects of a pattern of conduct, behavior, or inaction, that evidences a serious disregard of consequences of such magnitude as to constitute a clear and present danger to a child's health, welfare, or safety, including but not limited to conduct prohibited under RCW 9A.42.100. When considering whether a clear and present danger exists, evidence of a parent's substance abuse as a contributing factor to negligent treatment or maltreatment shall be given great weight. The fact that siblings share a bedroom is not, in and of itself, negligent treatment or maltreatment. Poverty, homelessness, or exposure to domestic violence as defined in RCW 26.50.010 that is perpetrated against someone other than the child does not constitute negligent treatment or maltreatment in and of itself.
+
+. "Pharmacist" means any registered pharmacist under chapter 18.64 RCW, whether acting in an individual capacity or as an employee or agent of any public or private organization or institution.
+
+. "Practitioner of the healing arts" or "practitioner" means a person licensed by this state to practice podiatric medicine and surgery, optometry, chiropractic, nursing, dentistry, osteopathic medicine and surgery, or medicine and surgery or to provide other health services. The term "practitioner" includes a duly accredited Christian Science practitioner. A person who is being furnished Christian Science treatment by a duly accredited Christian Science practitioner will not be considered, for that reason alone, a neglected person for the purposes of this chapter.
+
+. "Prevention and family services and programs" means specific mental health prevention and treatment services, substance abuse prevention and treatment services, and in-home parent skill-based programs that qualify for federal funding under the federal family first prevention services act, P.L. 115-123. For purposes of this chapter, prevention and family services and programs are not remedial services or family reunification services as described in RCW 13.34.025(2).
+
+. "Professional school personnel" include, but are not limited to, teachers, counselors, administrators, child care facility personnel, and school nurses.
+
+. "Psychologist" means any person licensed to practice psychology under chapter 18.83 RCW, whether acting in an individual capacity or as an employee or agent of any public or private organization or institution.
+
+. "Screened-out report" means a report of alleged child abuse or neglect that the department has determined does not rise to the level of a credible report of abuse or neglect and is not referred for investigation.
+
+. "Sexual exploitation" includes: (a) Allowing, permitting, or encouraging a child to engage in prostitution by any person; or (b) allowing, permitting, encouraging, or engaging in the obscene or pornographic photographing, filming, or depicting of a child by any person.
+
+. "Sexually aggressive youth" means a child who is defined in RCW 74.13.075(1)(b) as being a sexually aggressive youth.
+
+. "Social service counselor" means anyone engaged in a professional capacity during the regular course of employment in encouraging or promoting the health, welfare, support, or education of children, or providing social services to adults or families, including mental health, drug and alcohol treatment, and domestic violence programs, whether in an individual capacity, or as an employee or agent of any public or private organization or institution.
+
+. "Unfounded" means the determination following an investigation by the department that available information indicates that, more likely than not, child abuse or neglect did not occur, or that there is insufficient evidence for the department to determine whether the alleged child abuse did or did not occur.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1900.SL.pdf?cite=2019%20c%20172%20§%205[2019 c 172 § 5]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6407.SL.pdf?cite=2018%20c%20284%20§%2033[2018 c 284 § 33]; 2018 c 284 § 32; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2700-S.SL.pdf?cite=2018%20c%20171%20§%203[2018 c 171 § 3]; 2018 c 171 § 2; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1661-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%206%20§%20321[2017 3rd sp.s. c 6 § 321]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6555-S.SL.pdf?cite=2012%20c%20259%20§%201[2012 c 259 § 1]; prior:  2010 c 176 § 1; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2106-S2.SL.pdf?cite=2009%20c%20520%20§%2017[2009 c 520 § 17]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5321-S.SL.pdf?cite=2007%20c%20220%20§%201[2007 c 220 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6239-S2.SL.pdf?cite=2006%20c%20339%20§%20108[2006 c 339 § 108]; 2006 c 339 § 107; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5922-S.SL.pdf?cite=2005%20c%20512%20§%205[2005 c 512 § 5]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2372-S.SL.pdf?cite=2000%20c%20162%20§%2019[2000 c 162 § 19]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1620-S.SL.pdf?cite=1999%20c%20176%20§%2029[1999 c 176 § 29]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2556-S.SL.pdf?cite=1998%20c%20314%20§%207[1998 c 314 § 7]; prior:  1997 c 386 § 45; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5710-S2.SL.pdf?cite=1997%20c%20386%20§%2024[1997 c 386 § 24]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5511-S.SL.pdf?cite=1997%20c%20282%20§%204[1997 c 282 § 4]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1496.SL.pdf?cite=1997%20c%20132%20§%202[1997 c 132 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1627.SL.pdf?cite=1996%20c%20178%20§%2010[1996 c 178 § 10]; prior:  1993 c 412 § 12; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1110.SL.pdf?cite=1993%20c%20402%20§%201[1993 c 402 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c142.pdf?cite=1988%20c%20142%20§%201[1988 c 142 § 1]; prior:  1987 c 524 § 9; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c206.pdf?cite=1987%20c%20206%20§%202[1987 c 206 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c97.pdf?cite=1984%20c%2097%20§%202[1984 c 97 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c129.pdf?cite=1982%20c%20129%20§%206[1982 c 129 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c164.pdf?cite=1981%20c%20164%20§%201[1981 c 164 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c80.pdf?cite=1977%20ex.s.%20c%2080%20§%2025[1977 ex.s. c 80 § 25]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c217.pdf?cite=1975%201st%20ex.s.%20c%20217%20§%202[1975 1st ex.s. c 217 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c35.pdf?cite=1969%20ex.s.%20c%2035%20§%202[1969 ex.s. c 35 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c13.pdf?cite=1965%20c%2013%20§%202[1965 c 13 § 2]; ]
+
+== 26.44.030 - Reports—Duty and authority to make—Duty of receiving agency—Duty to notify—Case planning and consultation—Penalty for unauthorized exchange of information—Filing dependency petitions—Investigations—Interviews of children—Records—Risk assessment process.
+. [Empty]
+.. When any practitioner, county coroner or medical examiner, law enforcement officer, professional school personnel, registered or licensed nurse, social service counselor, psychologist, pharmacist, employee of the department of children, youth, and families, licensed or certified child care providers or their employees, employee of the department of social and health services, juvenile probation officer, placement and liaison specialist, responsible living skills program staff, HOPE center staff, state family and children's ombuds or any volunteer in the ombuds's office, or host home program has reasonable cause to believe that a child has suffered abuse or neglect, he or she shall report such incident, or cause a report to be made, to the proper law enforcement agency or to the department as provided in RCW 26.44.040.
+
+.. When any person, in his or her official supervisory capacity with a nonprofit or for-profit organization, has reasonable cause to believe that a child has suffered abuse or neglect caused by a person over whom he or she regularly exercises supervisory authority, he or she shall report such incident, or cause a report to be made, to the proper law enforcement agency, provided that the person alleged to have caused the abuse or neglect is employed by, contracted by, or volunteers with the organization and coaches, trains, educates, or counsels a child or children or regularly has unsupervised access to a child or children as part of the employment, contract, or voluntary service. No one shall be required to report under this section when he or she obtains the information solely as a result of a privileged communication as provided in RCW 5.60.060.
+
+Nothing in this subsection (1)(b) shall limit a person's duty to report under (a) of this subsection.
+
+For the purposes of this subsection, the following definitions apply:
+
+... "Official supervisory capacity" means a position, status, or role created, recognized, or designated by any nonprofit or for-profit organization, either for financial gain or without financial gain, whose scope includes, but is not limited to, overseeing, directing, or managing another person who is employed by, contracted by, or volunteers with the nonprofit or for-profit organization.
+
+... "Organization" includes a sole proprietor, partnership, corporation, limited liability company, trust, association, financial institution, governmental entity, other than the federal government, and any other individual or group engaged in a trade, occupation, enterprise, governmental function, charitable function, or similar activity in this state whether or not the entity is operated as a nonprofit or for-profit entity.
+
+... "Reasonable cause" means a person witnesses or receives a credible written or oral report alleging abuse, including sexual contact, or neglect of a child.
+
+... "Regularly exercises supervisory authority" means to act in his or her official supervisory capacity on an ongoing or continuing basis with regards to a particular person.
+
+.. "Sexual contact" has the same meaning as in RCW 9A.44.010.
+
+.. The reporting requirement also applies to department of corrections personnel who, in the course of their employment, observe offenders or the children with whom the offenders are in contact. If, as a result of observations or information received in the course of his or her employment, any department of corrections personnel has reasonable cause to believe that a child has suffered abuse or neglect, he or she shall report the incident, or cause a report to be made, to the proper law enforcement agency or to the department as provided in RCW 26.44.040.
+
+.. The reporting requirement shall also apply to any adult who has reasonable cause to believe that a child who resides with them, has suffered severe abuse, and is able or capable of making a report. For the purposes of this subsection, "severe abuse" means any of the following: Any single act of abuse that causes physical trauma of sufficient severity that, if left untreated, could cause death; any single act of sexual abuse that causes significant bleeding, deep bruising, or significant external or internal swelling; or more than one act of physical abuse, each of which causes bleeding, deep bruising, significant external or internal swelling, bone fracture, or unconsciousness.
+
+.. The reporting requirement also applies to guardians ad litem, including court-appointed special advocates, appointed under Titles 11 and 13 RCW and this title, who in the course of their representation of children in these actions have reasonable cause to believe a child has been abused or neglected.
+
+.. The reporting requirement in (a) of this subsection also applies to administrative and academic or athletic department employees, including student employees, of institutions of higher education, as defined in RCW 28B.10.016, and of private institutions of higher education.
+
+.. The report must be made at the first opportunity, but in no case longer than forty-eight hours after there is reasonable cause to believe that the child has suffered abuse or neglect. The report must include the identity of the accused if known.
+
+. The reporting requirement of subsection (1) of this section does not apply to the discovery of abuse or neglect that occurred during childhood if it is discovered after the child has become an adult. However, if there is reasonable cause to believe other children are or may be at risk of abuse or neglect by the accused, the reporting requirement of subsection (1) of this section does apply.
+
+. Any other person who has reasonable cause to believe that a child has suffered abuse or neglect may report such incident to the proper law enforcement agency or to the department as provided in RCW 26.44.040.
+
+. The department, upon receiving a report of an incident of alleged abuse or neglect pursuant to this chapter, involving a child who has died or has had physical injury or injuries inflicted upon him or her other than by accidental means or who has been subjected to alleged sexual abuse, shall report such incident to the proper law enforcement agency, including military law enforcement, if appropriate. In emergency cases, where the child's welfare is endangered, the department shall notify the proper law enforcement agency within twenty-four hours after a report is received by the department. In all other cases, the department shall notify the law enforcement agency within seventy-two hours after a report is received by the department. If the department makes an oral report, a written report must also be made to the proper law enforcement agency within five days thereafter.
+
+. Any law enforcement agency receiving a report of an incident of alleged abuse or neglect pursuant to this chapter, involving a child who has died or has had physical injury or injuries inflicted upon him or her other than by accidental means, or who has been subjected to alleged sexual abuse, shall report such incident in writing as provided in RCW 26.44.040 to the proper county prosecutor or city attorney for appropriate action whenever the law enforcement agency's investigation reveals that a crime may have been committed. The law enforcement agency shall also notify the department of all reports received and the law enforcement agency's disposition of them. In emergency cases, where the child's welfare is endangered, the law enforcement agency shall notify the department within twenty-four hours. In all other cases, the law enforcement agency shall notify the department within seventy-two hours after a report is received by the law enforcement agency.
+
+. Any county prosecutor or city attorney receiving a report under subsection (5) of this section shall notify the victim, any persons the victim requests, and the local office of the department, of the decision to charge or decline to charge a crime, within five days of making the decision.
+
+. The department may conduct ongoing case planning and consultation with those persons or agencies required to report under this section, with consultants designated by the department, and with designated representatives of Washington Indian tribes if the client information exchanged is pertinent to cases currently receiving child protective services. Upon request, the department shall conduct such planning and consultation with those persons required to report under this section if the department determines it is in the best interests of the child. Information considered privileged by statute and not directly related to reports required by this section must not be divulged without a valid written waiver of the privilege.
+
+. Any case referred to the department by a physician licensed under chapter 18.57 or 18.71 RCW on the basis of an expert medical opinion that child abuse, neglect, or sexual assault has occurred and that the child's safety will be seriously endangered if returned home, the department shall file a dependency petition unless a second licensed physician of the parents' choice believes that such expert medical opinion is incorrect. If the parents fail to designate a second physician, the department may make the selection. If a physician finds that a child has suffered abuse or neglect but that such abuse or neglect does not constitute imminent danger to the child's health or safety, and the department agrees with the physician's assessment, the child may be left in the parents' home while the department proceeds with reasonable efforts to remedy parenting deficiencies.
+
+. Persons or agencies exchanging information under subsection (7) of this section shall not further disseminate or release the information except as authorized by state or federal statute. Violation of this subsection is a misdemeanor.
+
+. Upon receiving a report that a child is a candidate for foster care as defined in RCW 26.44.020, the department may provide prevention and family services and programs to the child's parents, guardian, or caregiver. The department may not be held civilly liable for the decision regarding whether to provide prevention and family services and programs, or for the provision of those services and programs, for a child determined to be a candidate for foster care.
+
+. Upon receiving a report of alleged abuse or neglect, the department shall make reasonable efforts to learn the name, address, and telephone number of each person making a report of abuse or neglect under this section. The department shall provide assurances of appropriate confidentiality of the identification of persons reporting under this section. If the department is unable to learn the information required under this subsection, the department shall only investigate cases in which:
+
+.. The department believes there is a serious threat of substantial harm to the child;
+
+.. The report indicates conduct involving a criminal offense that has, or is about to occur, in which the child is the victim; or
+
+.. The department has a prior founded report of abuse or neglect with regard to a member of the household that is within three years of receipt of the referral.
+
+. [Empty]
+.. Upon receiving a report of alleged abuse or neglect, the department shall use one of the following discrete responses to reports of child abuse or neglect that are screened in and accepted for departmental response:
+
+... Investigation; or
+
+... Family assessment.
+
+.. In making the response in (a) of this subsection the department shall:
+
+... Use a method by which to assign cases to investigation or family assessment which are based on an array of factors that may include the presence of: Imminent danger, level of risk, number of previous child abuse or neglect reports, or other presenting case characteristics, such as the type of alleged maltreatment and the age of the alleged victim. Age of the alleged victim shall not be used as the sole criterion for determining case assignment;
+
+... Allow for a change in response assignment based on new information that alters risk or safety level;
+
+... Allow families assigned to family assessment to choose to receive an investigation rather than a family assessment;
+
+... Provide a full investigation if a family refuses the initial family assessment;
+
+.. Provide voluntary services to families based on the results of the initial family assessment. If a family refuses voluntary services, and the department cannot identify specific facts related to risk or safety that warrant assignment to investigation under this chapter, and there is not a history of reports of child abuse or neglect related to the family, then the department must close the family assessment response case. However, if at any time the department identifies risk or safety factors that warrant an investigation under this chapter, then the family assessment response case must be reassigned to investigation;
+
+.. Conduct an investigation, and not a family assessment, in response to an allegation that, the department determines based on the intake assessment:
+
+(A) Indicates a child's health, safety, and welfare will be seriously endangered if not taken into custody for reasons including, but not limited to, sexual abuse and sexual exploitation of the child as defined in this chapter;
+
+(B) Poses a serious threat of substantial harm to a child;
+
+(C) Constitutes conduct involving a criminal offense that has, or is about to occur, in which the child is the victim;
+
+(D) The child is an abandoned child as defined in RCW 13.34.030;
+
+(E) The child is an adjudicated dependent child as defined in RCW 13.34.030, or the child is in a facility that is licensed, operated, or certified for care of children by the department under chapter 74.15 RCW.
+
+.. In addition, the department may use a family assessment response to assess for and provide prevention and family services and programs, as defined in RCW 26.44.020, for the following children and their families, consistent with requirements under the federal family first prevention services act and this section:
+
+... A child who is a candidate for foster care, as defined in RCW 26.44.020; and
+
+... A child who is in foster care and who is pregnant, parenting, or both.
+
+.. The department may not be held civilly liable for the decision to respond to an allegation of child abuse or neglect by using the family assessment response under this section unless the state or its officers, agents, or employees acted with reckless disregard.
+
+. [Empty]
+.. For reports of alleged abuse or neglect that are accepted for investigation by the department, the investigation shall be conducted within time frames established by the department in rule. In no case shall the investigation extend longer than ninety days from the date the report is received, unless the investigation is being conducted under a written protocol pursuant to RCW 26.44.180 and a law enforcement agency or prosecuting attorney has determined that a longer investigation period is necessary. At the completion of the investigation, the department shall make a finding that the report of child abuse or neglect is founded or unfounded.
+
+.. If a court in a civil or criminal proceeding, considering the same facts or circumstances as are contained in the report being investigated by the department, makes a judicial finding by a preponderance of the evidence or higher that the subject of the pending investigation has abused or neglected the child, the department shall adopt the finding in its investigation.
+
+. For reports of alleged abuse or neglect that are responded to through family assessment response, the department shall:
+
+.. Provide the family with a written explanation of the procedure for assessment of the child and the family and its purposes;
+
+.. Collaborate with the family to identify family strengths, resources, and service needs, and develop a service plan with the goal of reducing risk of harm to the child and improving or restoring family well-being;
+
+.. Complete the family assessment response within forty-five days of receiving the report except as follows:
+
+... Upon parental agreement, the family assessment response period may be extended up to one hundred twenty days. The department's extension of the family assessment response period must be operated within the department's appropriations;
+
+... For cases in which the department elects to use a family assessment response as authorized under subsection (12)(c) of this section, and upon agreement of the child's parent, legal guardian, legal custodian, or relative placement, the family assessment response period may be extended up to one year. The department's extension of the family assessment response must be operated within the department's appropriations.
+
+.. Offer services to the family in a manner that makes it clear that acceptance of the services is voluntary;
+
+.. Implement the family assessment response in a consistent and cooperative manner;
+
+.. Have the parent or guardian agree to participate in services before services are initiated. The department shall inform the parents of their rights under family assessment response, all of their options, and the options the department has if the parents do not agree to participate in services.
+
+. [Empty]
+.. In conducting an investigation or family assessment of alleged abuse or neglect, the department or law enforcement agency:
+
+... May interview children. If the department determines that the response to the allegation will be family assessment response, the preferred practice is to request a parent's, guardian's, or custodian's permission to interview the child before conducting the child interview unless doing so would compromise the safety of the child or the integrity of the assessment. The interviews may be conducted on school premises, at day-care facilities, at the child's home, or at other suitable locations outside of the presence of parents. If the allegation is investigated, parental notification of the interview must occur at the earliest possible point in the investigation that will not jeopardize the safety or protection of the child or the course of the investigation. Prior to commencing the interview the department or law enforcement agency shall determine whether the child wishes a third party to be present for the interview and, if so, shall make reasonable efforts to accommodate the child's wishes. Unless the child objects, the department or law enforcement agency shall make reasonable efforts to include a third party in any interview so long as the presence of the third party will not jeopardize the course of the investigation; and
+
+... Shall have access to all relevant records of the child in the possession of mandated reporters and their employees.
+
+.. The Washington state school directors' association shall adopt a model policy addressing protocols when an interview, as authorized by this subsection, is conducted on school premises. In formulating its policy, the association shall consult with the department and the Washington association of sheriffs and police chiefs.
+
+. If a report of alleged abuse or neglect is founded and constitutes the third founded report received by the department within the last twelve months involving the same child or family, the department shall promptly notify the office of the family and children's ombuds of the contents of the report. The department shall also notify the ombuds of the disposition of the report.
+
+. In investigating and responding to allegations of child abuse and neglect, the department may conduct background checks as authorized by state and federal law.
+
+. [Empty]
+.. The department shall maintain investigation records and conduct timely and periodic reviews of all founded cases of abuse and neglect. The department shall maintain a log of screened-out nonabusive cases.
+
+.. In the family assessment response, the department shall not make a finding as to whether child abuse or neglect occurred. No one shall be named as a perpetrator and no investigative finding shall be entered in the department's child abuse or neglect database.
+
+. The department shall use a risk assessment process when investigating alleged child abuse and neglect referrals. The department shall present the risk factors at all hearings in which the placement of a dependent child is an issue. Substance abuse must be a risk factor.
+
+. Upon receipt of a report of alleged abuse or neglect the law enforcement agency may arrange to interview the person making the report and any collateral sources to determine if any malice is involved in the reporting.
+
+. Upon receiving a report of alleged abuse or neglect involving a child under the court's jurisdiction under chapter 13.34 RCW, the department shall promptly notify the child's guardian ad litem of the report's contents. The department shall also notify the guardian ad litem of the disposition of the report. For purposes of this subsection, "guardian ad litem" has the meaning provided in RCW 13.34.030.
+
+. The department shall make efforts as soon as practicable to determine the military status of parents whose children are subject to abuse or neglect allegations. If the department determines that a parent or guardian is in the military, the department shall notify a department of defense family advocacy program that there is an allegation of abuse and neglect that is screened in and open for investigation that relates to that military parent or guardian.
+
+. The department shall make available on its public web site a downloadable and printable poster that includes the reporting requirements included in this section. The poster must be no smaller than eight and one-half by eleven inches with all information on one side. The poster must be made available in both the English and Spanish languages. Organizations that include employees or volunteers subject to the reporting requirements of this section must clearly display this poster in a common area. At a minimum, this poster must include the following:
+
+.. Who is required to report child abuse and neglect;
+
+.. The standard of knowledge to justify a report;
+
+.. The definition of reportable crimes;
+
+.. Where to report suspected child abuse and neglect; and
+
+.. What should be included in a report and the appropriate timing.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1900.SL.pdf?cite=2019%20c%20172%20§%206[2019 c 172 § 6]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6309-S.SL.pdf?cite=2018%20c%2077%20§%201[2018 c 77 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5890-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2020%20§%2024[2017 3rd sp.s. c 20 § 24]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1661-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%206%20§%20322[2017 3rd sp.s. c 6 § 322]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1931.SL.pdf?cite=2017%20c%20118%20§%201[2017 c 118 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2440-S.SL.pdf?cite=2016%20c%20166%20§%204[2016 c 166 § 4]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5079.SL.pdf?cite=2015%201st%20sp.s.%20c%206%20§%201[2015 1st sp.s. c 6 § 1]; prior:  2013 c 273 § 2; 2013 c 273 § 1; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5316-S.SL.pdf?cite=2013%20c%2048%20§%202[2013 c 48 § 2]; 2013 c 48 § 1; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5077-S.SL.pdf?cite=2013%20c%2023%20§%2043[2013 c 23 § 43]; 2013 c 23 § 42; prior:  2012 c 259 § 3; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5991-S.SL.pdf?cite=2012%20c%2055%20§%201[2012 c 55 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5285-S.SL.pdf?cite=2009%20c%20480%20§%201[2009 c 480 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6206-S2.SL.pdf?cite=2008%20c%20211%20§%205[2008 c 211 § 5]; 2008 c 211 § 4; prior:  2007 c 387 § 3; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5321-S.SL.pdf?cite=2007%20c%20220%20§%202[2007 c 220 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5308-S.SL.pdf?cite=2005%20c%20417%20§%201[2005 c 417 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1561.SL.pdf?cite=2003%20c%20207%20§%204[2003 c 207 § 4]; prior:  1999 c 267 § 20; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1620-S.SL.pdf?cite=1999%20c%20176%20§%2030[1999 c 176 § 30]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6238-S.SL.pdf?cite=1998%20c%20328%20§%205[1998 c 328 § 5]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5710-S2.SL.pdf?cite=1997%20c%20386%20§%2025[1997 c 386 § 25]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6672.SL.pdf?cite=1996%20c%20278%20§%202[1996 c 278 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5885-S.SL.pdf?cite=1995%20c%20311%20§%2017[1995 c 311 § 17]; prior:  1993 c 412 § 13; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1993%20c%20237%20§%201[1993 c 237 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1054-S.SL.pdf?cite=1991%20c%20111%20§%201[1991 c 111 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c22.pdf?cite=1989%20c%2022%20§%201[1989 c 22 § 1]; prior:  1988 c 142 § 2; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c39.pdf?cite=1988%20c%2039%20§%201[1988 c 39 § 1]; prior:  1987 c 524 § 10; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c512.pdf?cite=1987%20c%20512%20§%2023[1987 c 512 § 23]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c206.pdf?cite=1987%20c%20206%20§%203[1987 c 206 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c145.pdf?cite=1986%20c%20145%20§%201[1986 c 145 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c259.pdf?cite=1985%20c%20259%20§%202[1985 c 259 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c97.pdf?cite=1984%20c%2097%20§%203[1984 c 97 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c129.pdf?cite=1982%20c%20129%20§%207[1982 c 129 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c164.pdf?cite=1981%20c%20164%20§%202[1981 c 164 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c80.pdf?cite=1977%20ex.s.%20c%2080%20§%2026[1977 ex.s. c 80 § 26]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c217.pdf?cite=1975%201st%20ex.s.%20c%20217%20§%203[1975 1st ex.s. c 217 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c167.pdf?cite=1971%20ex.s.%20c%20167%20§%201[1971 ex.s. c 167 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c35.pdf?cite=1969%20ex.s.%20c%2035%20§%203[1969 ex.s. c 35 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c13.pdf?cite=1965%20c%2013%20§%203[1965 c 13 § 3]; ]
+
+== 26.44.031 - Records—Maintenance and disclosure—Destruction of screened-out, unfounded, or inconclusive reports—Rules—Proceedings for enforcement.
+. To protect the privacy in reporting and the maintenance of reports of nonaccidental injury, neglect, death, sexual abuse, and cruelty to children by their parents, and to safeguard against arbitrary, malicious, or erroneous information or actions, the department shall not disclose or maintain information related to reports of child abuse or neglect except as provided in this section or as otherwise required by state and federal law.
+
+. The department shall destroy all of its records concerning:
+
+.. A screened-out report, within three years from the receipt of the report; and
+
+.. An unfounded or inconclusive report, within six years of completion of the investigation, unless a prior or subsequent founded report has been received regarding the child who is the subject of the report, a sibling or half-sibling of the child, or a parent, guardian, or legal custodian of the child, before the records are destroyed.
+
+. The department may keep records concerning founded reports of child abuse or neglect as the department determines by rule.
+
+. No unfounded, screened-out, or inconclusive report or information about a family's participation or nonparticipation in the family assessment response may be disclosed to a child-placing agency, private adoption agency, or any other provider licensed under chapter 74.15 RCW without the consent of the individual who is the subject of the report or family assessment, unless:
+
+.. The individual seeks to become a licensed foster parent or adoptive parent; or
+
+.. The individual is the parent or legal custodian of a child being served by one of the agencies referenced in this subsection.
+
+. [Empty]
+.. If the department fails to comply with this section, an individual who is the subject of a report may institute proceedings for injunctive or other appropriate relief for enforcement of the requirement to purge information. These proceedings may be instituted in the superior court for the county in which the person resides or, if the person is not then a resident of this state, in the superior court for Thurston county.
+
+.. If the department fails to comply with subsection (4) of this section and an individual who is the subject of the report or family assessment response information is harmed by the disclosure of information, in addition to the relief provided in (a) of this subsection, the court may award a penalty of up to one thousand dollars and reasonable attorneys' fees and court costs to the petitioner.
+
+.. A proceeding under this subsection does not preclude other methods of enforcement provided for by law.
+
+. Nothing in this section shall prevent the department from retaining general, nonidentifying information which is required for state and federal reporting and management purposes.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6555-S.SL.pdf?cite=2012%20c%20259%20§%204[2012 c 259 § 4]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5321-S.SL.pdf?cite=2007%20c%20220%20§%203[2007 c 220 § 3]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5511-S.SL.pdf?cite=1997%20c%20282%20§%201[1997 c 282 § 1]; ]
+
+== 26.44.032 - Legal defense of public employee.
+In cases in which a public employee subject to RCW 26.44.030 acts in good faith and without gross negligence in his or her reporting duty, and if the employee's judgment as to what constitutes reasonable cause to believe that a child has suffered abuse or neglect is being challenged, the public employer shall provide for the legal defense of the employee.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1620-S.SL.pdf?cite=1999%20c%20176%20§%2031[1999 c 176 § 31]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c87.pdf?cite=1988%20c%2087%20§%201[1988 c 87 § 1]; ]
+
+== 26.44.035 - Response to complaint by more than one agency—Procedure—Written records.
+. If the department or a law enforcement agency responds to a complaint of alleged child abuse or neglect and discovers that another agency has also responded to the complaint, the agency shall notify the other agency of their presence, and the agencies shall coordinate the investigation and keep each other apprised of progress.
+
+. The department, each law enforcement agency, each county prosecuting attorney, each city attorney, and each court shall make as soon as practicable a written record and shall maintain records of all incidents of suspected child abuse reported to that person or agency.
+
+. Every employee of the department who conducts an interview of any person involved in an allegation of abuse or neglect shall retain his or her original written records or notes setting forth the content of the interview unless the notes were entered into the electronic system operated by the department which is designed for storage, retrieval, and preservation of such records.
+
+. Written records involving child sexual abuse shall, at a minimum, be a near verbatim record for the disclosure interview. The near verbatim record shall be produced within fifteen calendar days of the disclosure interview, unless waived by management on a case-by-case basis.
+
+. Records kept under this section shall be identifiable by means of an agency code for child abuse.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5127.SL.pdf?cite=1999%20c%20389%20§%207[1999 c 389 § 7]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5710-S2.SL.pdf?cite=1997%20c%20386%20§%2026[1997 c 386 § 26]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c259.pdf?cite=1985%20c%20259%20§%203[1985 c 259 § 3]; ]
+
+== 26.44.040 - Reports—Oral, written—Contents.
+An immediate oral report must be made by telephone or otherwise to the proper law enforcement agency or the department and, upon request, must be followed by a report in writing. Such reports must contain the following information, if known:
+
+. The name, address, and age of the child;
+
+. The name and address of the child's parents, stepparents, guardians, or other persons having custody of the child;
+
+. The nature and extent of the alleged injury or injuries;
+
+. The nature and extent of the alleged neglect;
+
+. The nature and extent of the alleged sexual abuse;
+
+. Any evidence of previous injuries, including their nature and extent; and
+
+. Any other information that may be helpful in establishing the cause of the child's death, injury, or injuries and the identity of the alleged perpetrator or perpetrators.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1661-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%206%20§%20323[2017 3rd sp.s. c 6 § 323]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1620-S.SL.pdf?cite=1999%20c%20176%20§%2032[1999 c 176 § 32]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5710-S2.SL.pdf?cite=1997%20c%20386%20§%2027[1997 c 386 § 27]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1512-S.SL.pdf?cite=1993%20c%20412%20§%2014[1993 c 412 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c206.pdf?cite=1987%20c%20206%20§%204[1987 c 206 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c97.pdf?cite=1984%20c%2097%20§%204[1984 c 97 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c80.pdf?cite=1977%20ex.s.%20c%2080%20§%2027[1977 ex.s. c 80 § 27]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c217.pdf?cite=1975%201st%20ex.s.%20c%20217%20§%204[1975 1st ex.s. c 217 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c167.pdf?cite=1971%20ex.s.%20c%20167%20§%202[1971 ex.s. c 167 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c35.pdf?cite=1969%20ex.s.%20c%2035%20§%204[1969 ex.s. c 35 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c13.pdf?cite=1965%20c%2013%20§%204[1965 c 13 § 4]; ]
+
+== 26.44.050 - Abuse or neglect of child—Duty of law enforcement agency or department of children, youth, and families—Taking child into custody without court order, when.
+Except as provided in *RCW 26.44.030(11), upon the receipt of a report alleging that abuse or neglect has occurred, the law enforcement agency or the department must investigate and provide the protective services section with a report in accordance with chapter 74.13 RCW, and where necessary to refer such report to the court.
+
+A law enforcement officer may take, or cause to be taken, a child into custody without a court order if there is probable cause to believe that the child is abused or neglected and that the child would be injured or could not be taken into custody if it were necessary to first obtain a court order pursuant to RCW 13.34.050. The law enforcement agency or the department investigating such a report is hereby authorized to photograph such a child for the purpose of providing documentary evidence of the physical condition of the child.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6423.SL.pdf?cite=2020%20c%2071%20§%201[2020 c 71 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1661-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%206%20§%20324[2017 3rd sp.s. c 6 § 324]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6555-S.SL.pdf?cite=2012%20c%20259%20§%205[2012 c 259 § 5]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1620-S.SL.pdf?cite=1999%20c%20176%20§%2033[1999 c 176 § 33]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c450.pdf?cite=1987%20c%20450%20§%207[1987 c 450 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c206.pdf?cite=1987%20c%20206%20§%205[1987 c 206 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c97.pdf?cite=1984%20c%2097%20§%205[1984 c 97 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c164.pdf?cite=1981%20c%20164%20§%203[1981 c 164 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c291.pdf?cite=1977%20ex.s.%20c%20291%20§%2051[1977 ex.s. c 291 § 51]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c80.pdf?cite=1977%20ex.s.%20c%2080%20§%2028[1977 ex.s. c 80 § 28]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c217.pdf?cite=1975%201st%20ex.s.%20c%20217%20§%205[1975 1st ex.s. c 217 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c302.pdf?cite=1971%20ex.s.%20c%20302%20§%2015[1971 ex.s. c 302 § 15]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c35.pdf?cite=1969%20ex.s.%20c%2035%20§%205[1969 ex.s. c 35 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c13.pdf?cite=1965%20c%2013%20§%205[1965 c 13 § 5]; ]
+
+== 26.44.053 - Guardian ad litem, appointment—Examination of person having legal custody—Hearing—Procedure.
+. In any judicial proceeding under this chapter or chapter 13.34 RCW in which it is alleged that a child has been subjected to child abuse or neglect, the court shall appoint a guardian ad litem for the child as provided in chapter 13.34 RCW. The requirement of a guardian ad litem may be deemed satisfied if the child is represented by counsel in the proceedings.
+
+. At any time prior to or during a hearing in such a case, the court may, on its own motion, or the motion of the guardian ad litem, or other parties, order the examination by a physician, psychologist, or psychiatrist, of any parent or child or other person having custody of the child at the time of the alleged child abuse or neglect, if the court finds such an examination is necessary to the proper determination of the case. The hearing may be continued pending the completion of such examination. The physician, psychologist, or psychiatrist conducting such an examination may be required to testify concerning the results of such examination and may be asked to give his or her opinion as to whether the protection of the child requires that he or she not be returned to the custody of his or her parents or other persons having custody of him or her at the time of the alleged child abuse or neglect. Persons so testifying shall be subject to cross-examination as are other witnesses. No information given at any such examination of the parent or any other person having custody of the child may be used against such person in any subsequent criminal proceedings against such person or custodian concerning the alleged abuse or neglect of the child.
+
+. A parent or other person having legal custody of a child alleged to be abused or neglected shall be a party to any proceeding that may impair or impede such person's interest in and custody or control of the child.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5710-S2.SL.pdf?cite=1997%20c%20386%20§%2028[1997 c 386 § 28]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6257-S.SL.pdf?cite=1996%20c%20249%20§%2016[1996 c 249 § 16]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2180-S.SL.pdf?cite=1994%20c%20110%20§%201[1994 c 110 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1165.SL.pdf?cite=1993%20c%20241%20§%204[1993 c 241 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c524.pdf?cite=1987%20c%20524%20§%2011[1987 c 524 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c206.pdf?cite=1987%20c%20206%20§%207[1987 c 206 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c217.pdf?cite=1975%201st%20ex.s.%20c%20217%20§%208[1975 1st ex.s. c 217 § 8]; ]
+
+== 26.44.056 - Protective detention or custody of abused child—Reasonable cause—Notice—Time limits—Monitoring plan—Liability.
+. An administrator of a hospital or similar institution or any physician, licensed pursuant to chapters 18.71 or 18.57 RCW, may detain a child without consent of a person legally responsible for the child whether or not medical treatment is required, if the circumstances or conditions of the child are such that the detaining individual has reasonable cause to believe that permitting the child to continue in his or her place of residence or in the care and custody of the parent, guardian, custodian or other person legally responsible for the child's care would present an imminent danger to that child's safety: PROVIDED, That such administrator or physician shall notify or cause to be notified the appropriate law enforcement agency or child protective services pursuant to RCW 26.44.040. Such notification shall be made as soon as possible and in no case longer than seventy-two hours. Such temporary protective custody by an administrator or doctor shall not be deemed an arrest. Child protective services may detain the child until the court assumes custody, but in no case longer than seventy-two hours, excluding Saturdays, Sundays, and holidays.
+
+. Whenever an administrator or physician has reasonable cause to believe that a child would be in imminent danger if released to a parent, guardian, custodian, or other person or is in imminent danger if left in the custody of a parent, guardian, custodian, or other person, the administrator or physician may notify a law enforcement agency and the law enforcement agency shall take the child into custody or cause the child to be taken into custody. The law enforcement agency shall release the child to the custody of child protective services. Child protective services shall detain the child until the court assumes custody or upon a documented and substantiated record that in the professional judgment of the child protective services the child's safety will not be endangered if the child is returned. If the child is returned, the department shall establish a six-month plan to monitor and assure the continued safety of the child's life or health. The monitoring period may be extended for good cause.
+
+. A child protective services employee, an administrator, doctor, or law enforcement officer shall not be held liable in any civil action for the decision for taking the child into custody, if done in good faith under this section.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c246.pdf?cite=1983%20c%20246%20§%203[1983 c 246 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c129.pdf?cite=1982%20c%20129%20§%208[1982 c 129 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c217.pdf?cite=1975%201st%20ex.s.%20c%20217%20§%209[1975 1st ex.s. c 217 § 9]; ]
+
+== 26.44.060 - Immunity from civil or criminal liability—Confidential communications not violated—Actions against state not affected—False report, penalty.
+. [Empty]
+.. Except as provided in (b) of this subsection, any person participating in good faith in the making of a report pursuant to this chapter, testifying as to alleged child abuse or neglect in a judicial proceeding, or otherwise providing information or assistance, including medical evaluations or consultations, in connection with a report, investigation, or legal intervention pursuant to a good faith report of child abuse or neglect shall in so doing be immune from any civil or criminal liability arising out of such reporting or testifying under any law of this state or its political subdivisions.
+
+.. A person convicted of a violation of subsection (4) of this section shall not be immune from liability under (a) of this subsection.
+
+. An administrator of a hospital or similar institution or any physician licensed pursuant to chapters 18.71 or 18.57 RCW taking a child into custody pursuant to RCW 26.44.056 shall not be subject to criminal or civil liability for such taking into custody.
+
+. Conduct conforming with the reporting requirements of this chapter shall not be deemed a violation of the confidential communication privilege of RCW 5.60.060 (3) and (4), 18.53.200 and 18.83.110. Nothing in this chapter shall be construed as to supersede or abridge remedies provided in chapter 4.92 RCW.
+
+. A person who, intentionally and in bad faith, knowingly makes a false report of alleged abuse or neglect shall be guilty of a misdemeanor punishable in accordance with RCW 9A.20.021.
+
+. A person who, in good faith and without gross negligence, cooperates in an investigation arising as a result of a report made pursuant to this chapter, shall not be subject to civil liability arising out of his or her cooperation. This subsection does not apply to a person who caused or allowed the child abuse or neglect to occur.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6423.SL.pdf?cite=2020%20c%2071%20§%202[2020 c 71 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5839-S.SL.pdf?cite=2007%20c%20118%20§%201[2007 c 118 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/3083-S.SL.pdf?cite=2004%20c%2037%20§%201[2004 c 37 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5710-S2.SL.pdf?cite=1997%20c%20386%20§%2029[1997 c 386 § 29]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c142.pdf?cite=1988%20c%20142%20§%203[1988 c 142 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c129.pdf?cite=1982%20c%20129%20§%209[1982 c 129 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c217.pdf?cite=1975%201st%20ex.s.%20c%20217%20§%206[1975 1st ex.s. c 217 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c13.pdf?cite=1965%20c%2013%20§%206[1965 c 13 § 6]; ]
+
+== 26.44.061 - False reporting—Statement warning against—Determination letter and referral.
+. The child protective services section shall prepare a statement warning against false reporting of alleged child abuse or neglect for inclusion in any instructions, informational brochures, educational forms, and handbooks developed or prepared for or by the department and relating to the reporting of abuse or neglect of children. Such statement shall include information on the criminal penalties that apply to false reports of alleged child abuse or neglect under RCW 26.44.060(4). It shall not be necessary to reprint existing materials if any other less expensive technique can be used. Materials shall be revised when reproduced.
+
+. The child protective services section shall send a letter by certified mail to any person determined by the section to have made a false report of child abuse or neglect informing the person that such a determination has been made and that a second or subsequent false report will be referred to the proper law enforcement agency for investigation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5839-S.SL.pdf?cite=2007%20c%20118%20§%202[2007 c 118 § 2]; ]
+
+== 26.44.063 - Temporary restraining order or preliminary injunction—Enforcement—Notice of modification or termination of restraining order.
+. It is the intent of the legislature to minimize trauma to a child involved in an allegation of sexual or physical abuse. The legislature declares that removing the child from the home or the care of a parent, guardian, or legal custodian often has the effect of further traumatizing the child. It is, therefore, the legislature's intent that the alleged abuser, rather than the child, shall be removed or restrained from the child's residence and that this should be done at the earliest possible point of intervention in accordance with RCW 10.31.100, chapter 13.34 RCW, this section, and RCW 26.44.130.
+
+. In any judicial proceeding in which it is alleged that a child has been subjected to sexual or physical abuse, if the court finds reasonable grounds to believe that an incident of sexual or physical abuse has occurred, the court may, on its own motion, or the motion of the guardian ad litem or other parties, issue a temporary restraining order or preliminary injunction restraining or enjoining the person accused of committing the abuse from:
+
+.. Molesting or disturbing the peace of the alleged victim;
+
+.. Entering the family home of the alleged victim except as specifically authorized by the court;
+
+.. Having any contact with the alleged victim, except as specifically authorized by the court;
+
+.. Knowingly coming within, or knowingly remaining within, a specified distance of a specified location.
+
+. If the caretaker is willing, and does comply with the duties prescribed in subsection (8) of this section, uncertainty by the caretaker that the alleged abuser has in fact abused the alleged victim shall not, alone, be a basis to remove the alleged victim from the caretaker, nor shall it be considered neglect.
+
+. In issuing a temporary restraining order or preliminary injunction, the court may impose any additional restrictions that the court in its discretion determines are necessary to protect the child from further abuse or emotional trauma pending final resolution of the abuse allegations.
+
+. The court shall issue a temporary restraining order prohibiting a person from entering the family home if the court finds that the order would eliminate the need for an out-of-home placement to protect the child's right to nurturance, health, and safety and is sufficient to protect the child from further sexual or physical abuse or coercion.
+
+. The court may issue a temporary restraining order without requiring notice to the party to be restrained or other parties only if it finds on the basis of the moving affidavit or other evidence that irreparable injury could result if an order is not issued until the time for responding has elapsed.
+
+. A temporary restraining order or preliminary injunction:
+
+.. Does not prejudice the rights of a party or any child which are to be adjudicated at subsequent hearings in the proceeding; and
+
+.. May be revoked or modified.
+
+. The person having physical custody of the child shall have an affirmative duty to assist in the enforcement of the restraining order including but not limited to a duty to notify the court as soon as practicable of any violation of the order, a duty to request the assistance of law enforcement officers to enforce the order, and a duty to notify the department of any violation of the order as soon as practicable if the department is a party to the action. Failure by the custodial party to discharge these affirmative duties shall be subject to contempt proceedings.
+
+. Willful violation of a court order entered under this section is a misdemeanor. A written order shall contain the court's directive and shall bear the legend: "Violation of this order with actual notice of its terms is a criminal offense under chapter 26.44 RCW, is also subject to contempt proceedings, and will subject a violator to arrest."
+
+. If a restraining order issued under this section is modified or terminated, the clerk of the court shall notify the law enforcement agency specified in the order on or before the next judicial day. Upon receipt of notice that an order has been terminated, the law enforcement agency shall remove the order from any computer-based criminal intelligence system.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1661-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%206%20§%20325[2017 3rd sp.s. c 6 § 325]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6792-S.SL.pdf?cite=2008%20c%20267%20§%204[2008 c 267 § 4]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6400-S2.SL.pdf?cite=2000%20c%20119%20§%2012[2000 c 119 § 12]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1512-S.SL.pdf?cite=1993%20c%20412%20§%2015[1993 c 412 § 15]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c190.pdf?cite=1988%20c%20190%20§%203[1988 c 190 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c35.pdf?cite=1985%20c%2035%20§%201[1985 c 35 § 1]; ]
+
+== 26.44.067 - Temporary restraining order or preliminary injunction—Contents—Notice—Noncompliance—Defense—Penalty.
+. Any person having had actual notice of the existence of a restraining order issued by a court of competent jurisdiction pursuant to RCW 26.44.063 who refuses to comply with the provisions of such order shall be guilty of a misdemeanor.
+
+. The notice requirements of subsection (1) of this section may be satisfied by the peace officer giving oral or written evidence to the person subject to the order by reading from or handing to that person a copy certified by a notary public or the clerk of the court to be an accurate copy of the original court order which is on file. The copy may be supplied by the court or any party.
+
+. The remedies provided in this section shall not apply unless restraining orders subject to this section bear this legend: VIOLATION OF THIS ORDER WITH ACTUAL NOTICE OF ITS TERMS IS A CRIMINAL OFFENSE UNDER CHAPTER 26.44 RCW AND IS ALSO SUBJECT TO CONTEMPT PROCEEDINGS.
+
+. It is a defense to prosecution under subsection (1) of this section that the court order was issued contrary to law or court rule. No right of action shall accrue against any peace officer acting upon a properly certified copy of a court order lawful on its face if such officer employs otherwise lawful means to effect the arrest.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6400-S2.SL.pdf?cite=2000%20c%20119%20§%2013[2000 c 119 § 13]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1512-S.SL.pdf?cite=1993%20c%20412%20§%2016[1993 c 412 § 16]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c373.pdf?cite=1989%20c%20373%20§%2023[1989 c 373 § 23]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c35.pdf?cite=1985%20c%2035%20§%202[1985 c 35 § 2]; ]
+
+== 26.44.075 - Inclusion of number of child abuse reports and cases in prosecuting attorney's annual report.
+Commencing in 1986, the prosecuting attorney shall include in the annual report a section stating the number of child abuse reports received by the office under this chapter and the number of cases where charges were filed.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c259.pdf?cite=1985%20c%20259%20§%204[1985 c 259 § 4]; ]
+
+== 26.44.080 - Violation—Penalty.
+Every person who is required to make, or to cause to be made, a report pursuant to RCW 26.44.030 and 26.44.040, and who knowingly fails to make, or fails to cause to be made, such report, shall be guilty of a gross misdemeanor.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c129.pdf?cite=1982%20c%20129%20§%2010[1982 c 129 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c167.pdf?cite=1971%20ex.s.%20c%20167%20§%203[1971 ex.s. c 167 § 3]; ]
+
+== 26.44.100 - Information about rights—Legislative purpose—Notification of investigation, report, and findings.
+. The legislature finds parents and children often are not aware of their due process rights when agencies are investigating allegations of child abuse and neglect. The legislature reaffirms that all citizens, including parents, shall be afforded due process, that protection of children remains the priority of the legislature, and that this protection includes protecting the family unit from unnecessary disruption. To facilitate this goal, the legislature wishes to ensure that parents and children be advised in writing and orally, if feasible, of their basic rights and other specific information as set forth in this chapter, provided that nothing contained in this chapter shall cause any delay in protective custody action.
+
+. The department shall notify the parent, guardian, or legal custodian of a child of any allegations of child abuse or neglect made against such person at the initial point of contact with such person, in a manner consistent with the laws maintaining the confidentiality of the persons making the complaints or allegations. Investigations of child abuse and neglect should be conducted in a manner that will not jeopardize the safety or protection of the child or the integrity of the investigation process.
+
+Whenever the department completes an investigation of a child abuse or neglect report under this chapter, the department shall notify the subject of the report of the department's investigative findings. The notice shall also advise the subject of the report that:
+
+.. A written response to the report may be provided to the department and that such response will be filed in the record following receipt by the department;
+
+.. Information in the department's record may be considered in subsequent investigations or proceedings related to child protection or child custody;
+
+.. Founded reports of child abuse and neglect may be considered in determining whether the person is disqualified from being licensed to provide child care, employed by a licensed child care agency, or authorized by the department to care for children; and
+
+.. A subject named in a founded report of child abuse or neglect has the right to seek review of the finding as provided in this chapter.
+
+. The founded finding notification required by this section shall be made by certified mail, return receipt requested, to the person's last known address.
+
+. The unfounded finding notification required by this section must be made by regular mail to the person's last known address or by email.
+
+. The duty of notification created by this section is subject to the ability of the department to ascertain the location of the person to be notified. The department shall exercise reasonable, good-faith efforts to ascertain the location of persons entitled to notification under this section.
+
+. The department shall provide training to all department personnel who conduct investigations under this section that shall include, but is not limited to, training regarding the legal duties of the department from the initial time of contact during investigation through treatment in order to protect children and families.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1814-S.SL.pdf?cite=2017%20c%20269%20§%202[2017 c 269 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5922-S.SL.pdf?cite=2005%20c%20512%20§%201[2005 c 512 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2556-S.SL.pdf?cite=1998%20c%20314%20§%208[1998 c 314 § 8]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5511-S.SL.pdf?cite=1997%20c%20282%20§%202[1997 c 282 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1512-S.SL.pdf?cite=1993%20c%20412%20§%2017[1993 c 412 § 17]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c183.pdf?cite=1985%20c%20183%20§%201[1985 c 183 § 1]; ]
+
+== 26.44.105 - Information about rights—Oral and written information—Copies of dependency petition and any court order.
+Whenever a dependency petition is filed by the department, it shall advise the parents, and any child over the age of twelve who is subject to the dependency action, of their respective rights under RCW 13.34.090. The parents and the child shall be provided a copy of the dependency petition and a copy of any court orders which have been issued. This advice of rights under RCW 13.34.090 shall be in writing. The department caseworker shall also make reasonable efforts to advise the parent and child of these same rights orally.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1661-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%206%20§%20326[2017 3rd sp.s. c 6 § 326]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c183.pdf?cite=1985%20c%20183%20§%202[1985 c 183 § 2]; ]
+
+== 26.44.110 - Information about rights—Custody without court order—Written statement required—Contents.
+If a child has been taken into custody by law enforcement pursuant to RCW 26.44.050, the law enforcement agency shall leave a written statement with a parent or in the residence of the parent if no parent is present. The statement shall give the reasons for the removal of the child from the home and the telephone number of the child protective services office in the parent's jurisdiction.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c183.pdf?cite=1985%20c%20183%20§%203[1985 c 183 § 3]; ]
+
+== 26.44.115 - Child taken into custody under court order—Information to parents.
+If a child is taken into custody by child protective services pursuant to a court order issued under RCW 13.34.062, the child protective services worker shall take reasonable steps to advise the parents immediately, regardless of the time of day, that the child has been taken into custody, the reasons why the child was taken into custody, and general information about the child's placement. The department shall comply with RCW 13.34.060 when providing notice under this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6217-S.SL.pdf?cite=2000%20c%20122%20§%2039[2000 c 122 § 39]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c246.pdf?cite=1990%20c%20246%20§%2010[1990 c 246 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c183.pdf?cite=1985%20c%20183%20§%204[1985 c 183 § 4]; ]
+
+== 26.44.120 - Information about rights—Notice to noncustodial parent.
+Whenever the child protective services worker is required to notify parents and children of their basic rights and other specific information as set forth in RCW 26.44.105 through 26.44.115, the child protective services worker shall also make a reasonable effort to notify the noncustodial parent of the same information in a timely manner.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c183.pdf?cite=1985%20c%20183%20§%205[1985 c 183 § 5]; ]
+
+== 26.44.125 - Alleged perpetrators—Right to review and amendment of finding—Hearing.
+. A person who is named as an alleged perpetrator after October 1, 1998, in a founded report of child abuse or neglect has the right to seek review and amendment of the finding as provided in this section.
+
+. Within thirty calendar days after the department has notified the alleged perpetrator under RCW 26.44.100 that the person is named as an alleged perpetrator in a founded report of child abuse or neglect, he or she may request that the department review the finding. The request must be made in writing. The written notice provided by the department must contain at least the following information in plain language:
+
+.. Information about the department's investigative finding as it relates to the alleged perpetrator;
+
+.. Sufficient factual information to apprise the alleged perpetrator of the date and nature of the founded reports;
+
+.. That the alleged perpetrator has the right to submit to child protective services a written response regarding the child protective services finding which, if received, shall be filed in the department's records;
+
+.. That information in the department's records, including information about this founded report, may be considered in a later investigation or proceeding related to a different allegation of child abuse or neglect or child custody;
+
+.. That founded allegations of child abuse or neglect may be used by the department in determining:
+
+... If a perpetrator is qualified to be licensed or approved to care for children or vulnerable adults; or
+
+... If a perpetrator is qualified to be employed by the department in a position having unsupervised access to children or vulnerable adults;
+
+.. That the alleged perpetrator has a right to challenge a founded allegation of child abuse or neglect.
+
+. If a request for review is not made as provided in this subsection, the alleged perpetrator may not further challenge the finding and shall have no right to agency review or to an adjudicative hearing or judicial review of the finding, unless he or she can show that the department did not comply with the notice requirements of RCW 26.44.100.
+
+. Upon receipt of a written request for review, the department shall review and, if appropriate, may amend the finding. Management level staff within the department designated by the secretary shall be responsible for the review. The review must be completed within thirty days after receiving the written request for review. The review must be conducted in accordance with procedures the department establishes by rule. Upon completion of the review, the department shall notify the alleged perpetrator in writing of the agency's determination. The notification must be sent by certified mail, return receipt requested, to the person's last known address.
+
+. If, following agency review, the report remains founded, the person named as the alleged perpetrator in the report may request an adjudicative hearing to contest the finding. The adjudicative proceeding is governed by chapter 34.05 RCW and this section. The request for an adjudicative proceeding must be filed within thirty calendar days after receiving notice of the agency review determination. If a request for an adjudicative proceeding is not made as provided in this subsection, the alleged perpetrator may not further challenge the finding and shall have no right to agency review or to an adjudicative hearing or judicial review of the finding.
+
+. Reviews and hearings conducted under this section are confidential and shall not be open to the public. Information about reports, reviews, and hearings may be disclosed only in accordance with federal and state laws pertaining to child welfare records and child protective services reports.
+
+. The department may adopt rules to implement this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6287.SL.pdf?cite=2018%20c%2058%20§%2064[2018 c 58 § 64]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6555-S.SL.pdf?cite=2012%20c%20259%20§%2011[2012 c 259 § 11]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2556-S.SL.pdf?cite=1998%20c%20314%20§%209[1998 c 314 § 9]; ]
+
+== 26.44.130 - Arrest without warrant.
+When a peace officer responds to a call alleging that a child has been subjected to sexual or physical abuse or criminal mistreatment and has probable cause to believe that a crime has been committed or responds to a call alleging that a temporary restraining order or preliminary injunction has been violated, the peace officer has the authority to arrest the person without a warrant pursuant to RCW 10.31.100.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2382-S.SL.pdf?cite=2002%20c%20219%20§%2011[2002 c 219 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c190.pdf?cite=1988%20c%20190%20§%204[1988 c 190 § 4]; ]
+
+== 26.44.140 - Treatment for abusive person removed from home.
+The court shall require that an individual who, while acting in a parental role, has physically or sexually abused a child and has been removed from the home pursuant to a court order issued in a proceeding under chapter 13.34 RCW, prior to being permitted to reside in the home where the child resides, complete the treatment and education requirements necessary to protect the child from future abuse. The court may require the individual to continue treatment as a condition for remaining in the home where the child resides. Unless a parent, custodian, or guardian has been convicted of the crime for the acts of abuse determined in a fact-finding hearing under chapter 13.34 RCW, such person shall not be required to admit guilt in order to begin to fulfill any necessary treatment and education requirements under this section.
+
+The department or supervising agency shall be responsible for advising the court as to appropriate treatment and education requirements, providing referrals to the individual, monitoring and assessing the individual's progress, informing the court of such progress, and providing recommendations to the court.
+
+The person removed from the home shall pay for these services unless the person is otherwise eligible to receive financial assistance in paying for such services. Nothing in this section shall be construed to create in any person an entitlement to services or financial assistance in paying for services.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1661-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%206%20§%20327[2017 3rd sp.s. c 6 § 327]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5512-S.SL.pdf?cite=1997%20c%20344%20§%201[1997 c 344 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1884-S.SL.pdf?cite=1991%20c%20301%20§%2015[1991 c 301 § 15]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c3.pdf?cite=1990%20c%203%20§%201301[1990 c 3 § 1301]; ]
+
+== 26.44.150 - Temporary restraining order restricting visitation for persons accused of sexually or physically abusing a child—Penalty for violating court order.
+. If a person who has unsupervised visitation rights with a minor child pursuant to a court order is accused of sexually or physically abusing a child and the alleged abuse has been reported to the proper authorities for investigation, the law enforcement officer conducting the investigation may file an affidavit with the prosecuting attorney stating that the person is currently under investigation for sexual or physical abuse of a child and that there is a risk of harm to the child if a temporary restraining order is not entered. Upon receipt of the affidavit, the prosecuting attorney shall determine whether there is a risk of harm to the child if a temporary restraining order is not entered. If the prosecutor determines there is a risk of harm, the prosecutor shall immediately file a motion for an order to show cause seeking to restrict visitation with the child, and seek a temporary restraining order. The restraining order shall be issued for up to ninety days or until the investigation has been concluded in favor of the alleged abuser, whichever is shorter.
+
+. Willful violation of a court order entered under this section is a misdemeanor. The court order shall state: "Violation of this order is a criminal offense under chapter 26.44 RCW and will subject the violator to arrest."
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1512-S.SL.pdf?cite=1993%20c%20412%20§%2018[1993 c 412 § 18]; ]
+
+== 26.44.160 - Allegations that child under twelve committed sex offense—Investigation—Referral to prosecuting attorney—Referral to department—Referral for treatment.
+. If a law enforcement agency receives a complaint that alleges that a child under age twelve has committed a sex offense as defined in RCW 9.94A.030, the agency shall investigate the complaint. If the investigation reveals that probable cause exists to believe that the youth may have committed a sex offense and the child is at least eight years of age, the agency shall refer the case to the proper county prosecuting attorney for appropriate action to determine whether the child may be prosecuted or is a sexually aggressive youth. If the child is less than eight years old, the law enforcement agency shall refer the case to the department.
+
+. If the prosecutor or a judge determines the child cannot be prosecuted for the alleged sex offense because the child is incapable of committing a crime as provided in RCW 9A.04.050 and the prosecutor believes that probable cause exists to believe that the child engaged in acts that would constitute a sex offense, the prosecutor shall refer the child as a sexually aggressive youth to the department. The prosecutor shall provide the department with an affidavit stating that the prosecutor has determined that probable cause exists to believe that the juvenile has committed acts that could be prosecuted as a sex offense but the case is not being prosecuted because the juvenile is incapable of committing a crime as provided in RCW 9A.04.050.
+
+. The department shall investigate any referrals that allege that a child is a sexually aggressive youth. The purpose of the investigation shall be to determine whether the child is abused or neglected, as defined in this chapter, and whether the child or the child's parents are in need of services or treatment. The department may offer appropriate available services and treatment to a sexually aggressive youth and his or her parents or legal guardians as provided in RCW 74.13.075 and may refer the child and his or her parents to appropriate treatment and services available within the community. If the parents refuse to accept or fail to obtain appropriate treatment or services under circumstances that indicate that the refusal or failure is child abuse or neglect, as defined in this chapter, the department may pursue a dependency action as provided in chapter 13.34 RCW.
+
+. Nothing in this section shall affect the responsibility of a law enforcement agency to report incidents of abuse or neglect as required in RCW 26.44.030(5).
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1110.SL.pdf?cite=1993%20c%20402%20§%202[1993 c 402 § 2]; ]
+
+== 26.44.170 - Alleged child abuse or neglect—Use of alcohol or controlled substances as contributing factor—Evaluation.
+. When, as a result of a report of alleged child abuse or neglect, an investigation is made that includes an in-person contact with the person who is alleged to have committed the abuse or neglect, there shall be a determination of whether it is probable that the use of alcohol or controlled substances is a contributing factor to the alleged abuse or neglect.
+
+. The department shall provide appropriate training for persons who conduct the investigations under subsection (1) of this section. The training shall include methods of identifying indicators of abuse of alcohol or controlled substances.
+
+. If a determination is made under subsection (1) of this section that there is probable cause to believe abuse of alcohol or controlled substances has contributed to the child abuse or neglect, the department shall, within available funds, cause a comprehensive chemical dependency evaluation to be made of the person or persons so identified. The evaluation shall be conducted by a physician or persons certified under rules adopted by the department to make such evaluation. The department shall perform the duties assigned under this section within existing personnel resources.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5710-S2.SL.pdf?cite=1997%20c%20386%20§%2048[1997 c 386 § 48]; ]
+
+== 26.44.175 - Multidisciplinary child protection teams—Information sharing—Confidentiality—Immunity from liability.
+. The legislature finds that the purpose of multidisciplinary child protection teams as described in RCW 26.44.180 (1) and (2) is to ensure the protection and well-being of the child and to advance and coordinate the prompt investigation of suspected cases of child abuse or neglect to reduce the trauma of any child victim.
+
+. [Empty]
+.. When a case as described in RCW 26.44.180 (1) or (2) is referred to the team, records pertaining to the case must be made available to team members. Any member of the team may use or disclose records made available by the team members under this subsection only as necessary for the performance of the member's duties as a member of the multidisciplinary child protection team.
+
+.. Team members may share information about criminal child abuse investigations and case planning following such investigations with other participants in the multidisciplinary coordination to the extent necessary to protect a child from abuse or neglect. This section is not intended to permit, direct, or compel team members to share information if sharing would constitute a violation of their professional ethical obligations or disclose privileged communications as described in RCW 5.60.060, or if sharing is otherwise impermissible under chapter 13.50 RCW or other applicable statutes.
+
+. [Empty]
+.. Every member of the multidisciplinary child protection team who receives information or records regarding children and families in his or her capacity as a member of the team is subject to the same privacy and confidentiality obligations and confidentiality penalties as the person disclosing or providing the information or records. The information or records obtained by any team member must be maintained in a manner that ensures the maximum protection of privacy and confidentiality rights.
+
+.. Multidisciplinary child protection team members must execute a confidentiality agreement every year.
+
+.. This section must not be construed to restrict guarantees of confidentiality provided under state or federal law.
+
+. As convened by the county prosecutor, or his or her designee, a multidisciplinary child protection team should meet regularly, at least monthly, unless the needs and resources of each team dictate less frequent meetings. Team meetings are closed to the public and are not subject to chapter 42.30 RCW.
+
+. Information and records communicated or provided to the multidisciplinary child protection team members by all providers and agencies, as well as information and records created in the course of a child abuse or neglect case investigation, are deemed private and confidential and are protected from discovery and disclosure by all applicable statutory and common law protections. Existing civil and criminal penalties apply to the inappropriate disclosure of information held by team members. To the extent that the records communicated or provided are confidential under RCW 13.50.100, these records may only be further released as authorized by RCW 13.50.100 or other applicable law.
+
+. Any person who presented information before the multidisciplinary child protection team or who is a team member may testify as to matters within the person's knowledge. However, in a civil or criminal proceeding, such person or team member may not be questioned about opinions formed as a result of the case consultation meetings.
+
+. Any multidisciplinary child protection team member whose action in facilitating the exchange and sharing of information in serving any child in the course of the member's profession, specialties, interests, or occupation, for the purpose of ensuring the safety of the child and the community and providing early intervention to avert more serious problems, is immune from any civil liability arising out of any good faith act relevant to participation on the team that might otherwise be incurred or imposed under this section. In a proceeding regarding immunity from liability, there is a rebuttable presumption of good faith.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5461-S.SL.pdf?cite=2019%20c%2082%20§%203[2019 c 82 § 3]; ]
+
+== 26.44.180 - Multidisciplinary child protection teams—Investigation of child sexual abuse, online sexual exploitation and commercial sexual exploitation of minors, child fatality, child physical abuse, and criminal child neglect cases—Protocols.
+. Each agency involved in investigating child sexual abuse, online sexual exploitation and commercial sexual exploitation of minors, as well as investigations of child fatality, child physical abuse, and criminal child neglect cases, shall document its role in handling cases and how it will coordinate with other local agencies or systems and shall adopt a local protocol based on the state guidelines. The department and local law enforcement agencies may include other agencies and systems that are involved with child sexual abuse victims in the multidisciplinary coordination.
+
+. [Empty]
+.. Each county shall develop a written protocol for handling investigations of criminal child sexual abuse, online sexual exploitation and commercial sexual exploitation of minors, and child fatality, child physical abuse, and criminal child neglect cases. The protocol shall address the coordination of such criminal investigations among multidisciplinary child protection team members, identified as representatives from the prosecutor's office, law enforcement, children's protective services, children's advocacy centers where available, local advocacy groups, community sexual assault programs as defined in RCW 70.125.030, licensed physical and mental health practitioners that are involved with child sexual abuse victims, and any other local agency involved in such criminal investigations, including those investigations involving multiple victims and multiple offenders. The protocol shall be developed by the prosecuting attorney with the assistance of the agencies referenced in this subsection.
+
+.. County protocol for handling investigations of online sexual exploitation and commercial sexual exploitation of minors must be implemented by July 1, 2021.
+
+. Local protocols under this section shall be adopted and in place by July 1, 2000, and shall be submitted to the legislature prior to that date. Beginning on July 28, 2019, local protocols under subsection (1) of this section must be reviewed every two years to determine whether modifications are needed.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5461-S.SL.pdf?cite=2019%20c%2082%20§%202[2019 c 82 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2596-S.SL.pdf?cite=2010%20c%20176%20§%202[2010 c 176 § 2]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5127.SL.pdf?cite=1999%20c%20389%20§%204[1999 c 389 § 4]; ]
+
+== 26.44.185 - Investigation of child sexual abuse—Revision and expansion of protocols—Child fatality, child physical abuse, and criminal child neglect cases.
+. Each county shall revise and expand its existing child sexual abuse investigation protocol to address investigations of child fatality, child physical abuse, and criminal child neglect cases and to incorporate the statewide guidelines for first responders to child fatalities developed by the criminal justice training commission. The protocols shall address the coordination of child fatality, child physical abuse, and criminal child neglect investigations between the county and city prosecutor's offices, law enforcement, children's protective services, children's advocacy centers, where available, local advocacy groups, emergency medical services, and any other local agency involved in the investigation of such cases. The protocol shall include the handling of child forensic interview audio and video recordings in accordance with RCW 26.44.186. The protocol revision and expansion shall be developed by the prosecuting attorney in collaboration with the agencies referenced in this section.
+
+. Revised and expanded protocols under this section shall be adopted and in place by July 1, 2008. Thereafter, the protocols shall be reviewed every two years to determine whether modifications are needed.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2700-S.SL.pdf?cite=2018%20c%20171%20§%205[2018 c 171 § 5]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2596-S.SL.pdf?cite=2010%20c%20176%20§%203[2010 c 176 § 3]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1333-S.SL.pdf?cite=2007%20c%20410%20§%203[2007 c 410 § 3]; ]
+
+== 26.44.186 - Child forensic interview recordings disclosed in a criminal or civil proceeding subject to protective order—Civil penalties and sanctions.
+. Any and all audio and video recordings of child forensic interviews disclosed in a criminal or civil proceeding must be subject to a protective order, or other such order, unless the court finds good cause that the interview should not be subject to such an order. The protective order shall include the following: (a) That the recording be used only for the purposes of conducting the party's side of the case, unless otherwise agreed by the parties or ordered by the court; (b) that the recording not be copied, photographed, duplicated, or otherwise reproduced except as a written transcript that does not reveal the identity of the child; (c) that the recording not be given, displayed, or in any way provided to a third party, except as permitted in (d) or (e) of this subsection or as necessary at trial; (d) that the recording remain in the exclusive custody of the attorneys, their employees, or agents, including expert witnesses retained by either party, who shall be provided a copy of the protective order; (e) that, if the party is not represented by an attorney, the party, their employees, and agents, including expert witnesses, shall not be given a copy of the recording but shall be given reasonable access to view the recording by the custodian of the recording; and (f) that upon termination of representation or upon disposition of the matter at the trial court level, attorneys and other custodians of recordings promptly return all copies of the recording.
+
+. A violation of a court order pursuant to this section is subject to a civil penalty of up to ten thousand dollars, in addition to any other appropriate sanction by the court.
+
+. Nothing in this section is intended to restrict the ability of the department or law enforcement to share child welfare information as authorized or required by state or federal law.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2700-S.SL.pdf?cite=2018%20c%20171%20§%206[2018 c 171 § 6]; ]
+
+== 26.44.187 - Child forensic interviews—Audio/video recordings exempt from disclosure under public records act—Court order required for disclosure.
+Any and all audio and video recordings of child forensic interviews as defined in this chapter are exempt from disclosure under the public records act, chapter 42.56 RCW. Such recordings are confidential under chapter 13.50 RCW and federal law and may only be disclosed pursuant to a court order entered upon a showing of good cause and with advance notice to the child's parent, guardian, or legal custodian. However, if the child is an emancipated minor or has attained the age of majority as defined in RCW 26.28.010, advance notice must be to the child. Failure to disclose an audio or video recording of a child forensic interview as defined in this chapter is not grounds for penalties or other sanctions available under chapter 42.56 RCW or RCW 13.50.100(10). Nothing in this section is intended to restrict the ability of the department or law enforcement to share child welfare information as authorized or required by state or federal law.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2700-S.SL.pdf?cite=2018%20c%20171%20§%204[2018 c 171 § 4]; ]
+
+== 26.44.188 - Finding—Intent—Restrictions on dissemination of child forensic interview recordings.
+The legislature recognizes an inherent privacy interest that a child has with respect to the child's recorded voice and image when describing the highly sensitive details of abuse or neglect upon the child as defined in RCW 26.44.020. The legislature further finds that reasonable restrictions on the dissemination of these recordings can accommodate both privacy interests and due process. To that end, the legislature intends to exempt these recordings from dissemination under the public records act and provide additional sanction authority for violations of protective orders that set forth such terms and conditions as are necessary to protect the privacy of the child.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2700-S.SL.pdf?cite=2018%20c%20171%20§%201[2018 c 171 § 1]; ]
+
+== 26.44.190 - Investigation of child abuse or neglect—Participation by law enforcement officer.
+A law enforcement agency shall not allow a law enforcement officer to participate as an investigator in the investigation of alleged abuse or neglect concerning a child for whom the law enforcement officer is, or has been, a parent, guardian, or foster parent. This section is not intended to limit the authority or duty of a law enforcement officer to report, testify, or be examined as authorized or required by this chapter, or to perform other official duties as a law enforcement officer.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5127.SL.pdf?cite=1999%20c%20389%20§%209[1999 c 389 § 9]; ]
+
+== 26.44.195 - Negligent treatment or maltreatment—Offer of services—Evidence of substance abuse—In-home services—Initiation of dependency proceedings.
+. If the department, upon investigation of a report that a child has been abused or neglected as defined in this chapter, determines that the child has been subject to negligent treatment or maltreatment, the department may offer services to the child's parents, guardians, or legal custodians to: (a) Ameliorate the conditions that endangered the welfare of the child; or (b) address or treat the effects of mistreatment or neglect upon the child.
+
+. When evaluating whether the child has been subject to negligent treatment or maltreatment, evidence of a parent's substance abuse as a contributing factor to a parent's failure to provide for a child's basic health, welfare, or safety shall be given great weight.
+
+. If the child's parents, guardians, or legal custodians are available and willing to participate on a voluntary basis in in-home services, and the department determines that in-home services on a voluntary basis are appropriate for the family, the department may offer such services.
+
+. In cases where the department has offered appropriate and reasonable services under subsection (1) of this section, and the parents, guardians, or legal custodians refuse to accept or fail to obtain available and appropriate treatment or services, or are unable or unwilling to participate in or successfully and substantially complete the treatment or services identified by the department, the department may initiate a dependency proceeding under chapter 13.34 RCW on the basis that the negligent treatment or maltreatment by the parent, guardian, or legal custodian constitutes neglect. When evaluating whether to initiate a dependency proceeding on this basis, the evidence of a parent's substance abuse as a contributing factor to the negligent treatment or maltreatment shall be given great weight.
+
+. Nothing in this section precludes the department from filing a dependency petition as provided in chapter 13.34 RCW if it determines that such action is necessary to protect the child from abuse or neglect.
+
+. Nothing in this section shall be construed to create in any person an entitlement to services or financial assistance in paying for services or to create judicial authority to order the provision of services to any person or family if the services are unavailable or unsuitable or if the child or family is not eligible for such services.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5922-S.SL.pdf?cite=2005%20c%20512%20§%206[2005 c 512 § 6]; ]
+
+== 26.44.200 - Methamphetamine manufacture—Presence of child.
+A law enforcement agency in the course of investigating: (1) An allegation under RCW 69.50.401 (1) and (2) (a) through (e) relating to manufacture of methamphetamine; or (2) an allegation under RCW 69.50.440 relating to possession of ephedrine or any of its salts or isomers or salts of isomers, pseudoephedrine or any of its salts or isomers or salts of isomers, pressurized ammonia gas, or pressurized ammonia gas solution with intent to manufacture methamphetamine, that discovers a child present at the site, shall contact the department immediately.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2106-S2.SL.pdf?cite=2009%20c%20520%20§%2018[2009 c 520 § 18]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6233-S.SL.pdf?cite=2002%20c%20134%20§%204[2002 c 134 § 4]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5995-S.SL.pdf?cite=2001%20c%2052%20§%203[2001 c 52 § 3]; ]
+
+== 26.44.210 - Alleged child abuse or neglect at the state school for the deaf—Investigation by department—Investigation report.
+. The department must investigate referrals of alleged child abuse or neglect occurring at the state school for the deaf, including alleged incidents involving students abusing other students; determine whether there is a finding of abuse or neglect; and determine whether a referral to law enforcement is appropriate under this chapter.
+
+. The department must send a copy of the investigation report, including the finding, regarding any incidents of alleged child abuse or neglect at the state school for the deaf to the director of the Washington center for deaf and hard of hearing youth, or the director's designee. The department may include recommendations to the director and the board of trustees or its successor board for increasing the safety of the school's students.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1604.SL.pdf?cite=2019%20c%20266%20§%2013[2019 c 266 § 13]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1879-S2.SL.pdf?cite=2009%20c%20381%20§%2023[2009 c 381 § 23]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2568-S.SL.pdf?cite=2002%20c%20208%20§%201[2002 c 208 § 1]; ]
+
+== 26.44.220 - Abuse of adolescents—Staff training curriculum.
+. Within existing resources, the department shall develop a curriculum designed to train department staff who assess or provide services to adolescents on how to screen and respond to referrals to child protective services when those referrals may involve victims of abuse or neglect between the ages of eleven and eighteen. At a minimum, the curriculum developed pursuant to this section shall include:
+
+.. Review of relevant laws and regulations, including the requirement that the department investigate complaints if a parent's or caretaker's actions result in serious physical or emotional harm or present an imminent risk of serious harm to any person under eighteen;
+
+.. Review of departmental policies that require assessment and screening of abuse and neglect referrals on the basis of risk and not age;
+
+.. Explanation of safety assessment and risk assessment models;
+
+.. Case studies of situations in which the department has received reports of alleged abuse or neglect of older children and adolescents;
+
+.. Discussion of best practices in screening and responding to referrals involving older children and adolescents; and
+
+.. Discussion of how abuse and neglect referrals related to adolescents are investigated and when law enforcement must be notified.
+
+. As it develops its curriculum pursuant to this section, the department shall request that the office of the family and children's ombuds review and comment on its proposed training materials. The department shall consider the comments and recommendations of the office of the family and children's ombuds as it develops the curriculum required by this section.
+
+. The department shall complete the curriculum materials required by this section no later than December 31, 2005.
+
+. Within existing resources, the department shall incorporate training on the curriculum developed pursuant to this section into existing training for child protective services workers who screen intake calls, department staff responsible for assessing or providing services to older children and adolescents, and all new employees of the department responsible for assessing or providing services to older children and adolescents.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6287.SL.pdf?cite=2018%20c%2058%20§%2046[2018 c 58 § 46]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5077-S.SL.pdf?cite=2013%20c%2023%20§%2044[2013 c 23 § 44]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5583.SL.pdf?cite=2005%20c%20345%20§%201[2005 c 345 § 1]; ]
+
+== 26.44.240 - Out-of-home care—Emergency placement—Criminal history record check.
+. During an emergency situation when a child must be placed in out-of-home care due to the absence of appropriate parents or custodians, the department shall, or an authorized agency of a federally recognized tribe may, request a federal name-based criminal history record check of each adult residing in the home of the potential placement resource. Upon receipt of the results of the name-based check, the department shall, or an authorized agency of a federally recognized tribe may, provide a complete set of each adult resident's fingerprints to the Washington state patrol for submission to the federal bureau of investigation within fifteen calendar days from the date the name search was conducted. The child shall be removed from the home immediately if any adult resident fails to provide fingerprints and written permission to perform a federal criminal history record check when requested.
+
+. When placement of a child in a home is denied as a result of a name-based criminal history record check of a resident, and the resident contests that denial, the resident shall, within fifteen calendar days, submit to the department or an authorized agency of a federally recognized tribe a complete set of the resident's fingerprints with written permission allowing the department or an authorized agency of a federally recognized tribe to forward the fingerprints to the Washington state patrol for submission to the federal bureau of investigation.
+
+. The Washington state patrol and the federal bureau of investigation may each charge a reasonable fee for processing a fingerprint-based criminal history record check.
+
+. As used in this section, "emergency placement" refers to those limited instances when the department or an authorized agency of a federally recognized tribe is placing a child in the home of private individuals, including neighbors, friends, or relatives, as a result of a sudden unavailability of the child's primary caretaker.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2694.SL.pdf?cite=2016%20c%2049%20§%201[2016 c 49 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2835.SL.pdf?cite=2008%20c%20232%20§%202[2008 c 232 § 2]; ]
+
+== 26.44.250 - Arrest upon drug or alcohol-related driving offense—Child protective services notified if child is present and operator is a parent, guardian, or custodian.
+A law enforcement officer shall promptly notify child protective services whenever a child is present in a vehicle being driven by his or her parent, guardian, or legal custodian and that person is being arrested for a drug or alcohol-related driving offense. This section does not require law enforcement to take custody of the child unless there is no other responsible person, or an agency having the right to physical custody of the child that can be contacted, or the officer has reasonable grounds to believe the child should be taken into custody pursuant to RCW 13.34.050 or 26.44.050. For purposes of this section, "child" means any person under thirteen years of age.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/3124-S.SL.pdf?cite=2010%20c%20214%20§%202[2010 c 214 § 2]; ]
+
+== 26.44.260 - Family assessment response.
+. No later than December 1, 2013, the department shall implement the family assessment response. The department may implement the family assessment response on a phased-in basis, by geographical area.
+
+. The department shall develop an implementation plan in consultation with stakeholders, including tribes. The department shall submit a report of the implementation plan to the appropriate committees of the legislature by December 31, 2012. At a minimum, the following must be developed before implementation and included in the report to the legislature:
+
+.. Description of the family assessment response practice model;
+
+.. Identification of possible additional noninvestigative responses or pathways;
+
+.. Development of an intake screening tool and a family assessment tool specifically to be used in the family assessment response. The family assessment tool must, at minimum, evaluate the safety of the child and determine services needed by the family to improve or restore family well-being;
+
+.. Delineation of staff training requirements;
+
+.. Development of strategies to reduce disproportionality;
+
+.. Development of strategies to assist and connect families with the appropriate private or public housing support agencies, for those parents whose inability to obtain or maintain safe housing creates a risk of harm to the child, risk of out-of-home placement of the child, or a barrier to reunification;
+
+.. Identification of methods to involve local community partners in the development of community-based resources to meet families' needs. Local community partners may include, but are not limited to: Alumni of the foster care system and veteran parents, local private service delivery agencies, schools, local health departments and other health care providers, juvenile court, law enforcement, office of public defense social workers or local defense attorneys, domestic violence victims advocates, and other available community-based entities;
+
+.. Delineation of procedures to assure continuous quality assurance;
+
+.. Identification of current departmental expenditures for services appropriate for the family assessment response, to the greatest practicable extent;
+
+.. Identification of philanthropic funding and other private funding available to supplement public resources in response to identified family needs;
+
+.. Mechanisms to involve the child's Washington state tribe, if any, in any family assessment response, when the child subject to the family assessment response is an Indian child, as defined in RCW 13.38.040;
+
+.. A potential phase-in schedule if proposed; and
+
+.. Recommendations for legislative action required to implement the plan.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6555-S.SL.pdf?cite=2012%20c%20259%20§%202[2012 c 259 § 2]; ]
+
+== 26.44.270 - Family assessment—Recommendation of services.
+. Within ten days of the conclusion of the family assessment, the department must meet with the child's parent or guardian to discuss the recommendation for services to address child safety concerns or significant risk of subsequent child maltreatment.
+
+. If the parent or guardian disagrees with the department's recommendation regarding the provision of services, the department shall convene a family team decision-making meeting to discuss the recommendations and objections. The caseworker's supervisor and area administrator shall attend the meeting.
+
+. If the department determines, based on the results of the family assessment, that services are not recommended then the department shall close the family assessment response case.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6555-S.SL.pdf?cite=2012%20c%20259%20§%206[2012 c 259 § 6]; ]
+
+== 26.44.272 - Family assessment—Assessment for child safety and well-being—Referral to preschool, child care, or early learning programs—Communicating with and assisting families.
+. The family assessment response worker must assess for child safety and child well-being when collaborating with a family to determine the need for child care, preschool, or home visiting services and, as appropriate, the family assessment response worker must refer children to preschool programs that are enrolled in the early achievers program and rate at a level 3, 4, or 5 unless:
+
+.. The family lives in an area with no local preschool programs that rate at a level 3, 4, or 5 in the early achievers program;
+
+.. The local preschool programs that rate at a level 3, 4, or 5 in the early achievers program are not able to meet the needs of the child; or
+
+.. The child is attending a preschool program prior to participating in family assessment response and the parent or caregiver does not want the child to change preschool programs.
+
+. The family assessment response worker may make child care referrals for nonschool-aged children to licensed child care programs that rate at a level 3, 4, or 5 in the early achievers program described in *RCW 43.215.100 unless:
+
+.. The family lives in an area with no local programs that rate at level 3, 4, or 5 in the early achievers program;
+
+.. The local child care programs that rate at a level 3, 4, or 5 in the early achievers program are not able to meet the needs of the child; or
+
+.. The child is attending a child care program prior to participating in family assessment response and the parent or caregiver does not want the child to change child care programs.
+
+. The family assessment response worker shall, when appropriate, provide referrals to high quality child care and early learning programs.
+
+. The family assessment response worker shall, when appropriate, provide referrals to state and federally subsidized programs such as, but not limited to, licensed child care programs that receive state subsidy pursuant to *RCW 43.215.135; early childhood education and assistance programs; head start programs; and early head start programs.
+
+. Prior to closing the family assessment response case, the family assessment response worker must, when appropriate, discuss child care and early learning services with the child's parent or caregiver.
+
+If the family plans to use child care or early learning services, the family assessment response worker must work with the family to facilitate enrollment.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2519-S.SL.pdf?cite=2014%20c%20160%20§%201[2014 c 160 § 1]; ]
+
+== 26.44.280 - Liability limited.
+Consistent with the paramount concern of the department to protect the child's interests of basic nurture, physical and mental health, and safety, and the requirement that the child's health and safety interests prevail over conflicting legal interests of a parent, custodian, or guardian, the liability of governmental entities, and their officers, agents, employees, and volunteers, to parents, custodians, or guardians accused of abuse or neglect is limited as provided in RCW 4.24.595.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6555-S.SL.pdf?cite=2012%20c%20259%20§%2014[2012 c 259 § 14]; ]
+
+== 26.44.290 - Near fatalities—Review of case files—Investigation.
+. When a case worker or other employee of the department responds to an allegation of child abuse or neglect that is screened in and open for investigation and there is a subsequent allegation of abuse or neglect resulting in a near fatality within one year of the initial allegation that is screened in and open for investigation, the department is to immediately conduct a review of the case worker's and case worker's supervisor's case files and actions taken during the initial report of alleged child abuse or neglect. The purpose of the review is to determine if there were any errors by the employees under department policy, rule, or state statute. If any violations of policy, rule, or statute are found, the department is to conduct a formal employee investigation.
+
+. A review conducted under this section is subject to the restrictions of RCW 74.13.640(4).
+
+. "Near fatality" has the same meaning as in RCW 74.13.640.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5888-S2.SL.pdf?cite=2015%20c%20298%20§%202[2015 c 298 § 2]; ]
+
+== 26.44.901 - Construction—Prevention services.
+Nothing in this chapter may be construed to limit the department's authority to offer or provide prevention services or primary prevention services as defined in chapters 13.34 and 74.13 RCW, respectively.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1900.SL.pdf?cite=2019%20c%20172%20§%2016[2019 c 172 § 16]; ]
+

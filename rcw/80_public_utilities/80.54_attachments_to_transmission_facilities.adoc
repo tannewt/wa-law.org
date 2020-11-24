@@ -1,0 +1,44 @@
+= 80.54 - Attachments to transmission facilities.
+:toc:
+
+== 80.54.010 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Attachment" means any wire or cable for the transmission of intelligence by telecommunications or television, including cable television, light waves, or other phenomena, or for the transmission of electricity for light, heat, or power, and any related device, apparatus, or auxiliary equipment, installed upon any pole or in any telecommunications, electrical, cable television, or communications right-of-way, duct, conduit, manhole or handhole, or other similar facilities owned or controlled, in whole or in part, by one or more utilities, where the installation has been made with the consent of the one or more utilities.
+
+. "Licensee" means any person, firm, corporation, partnership, company, association, joint stock association, or cooperatively organized association, other than a utility, which is authorized to construct attachments upon, along, under, or across the public ways.
+
+. "Utility" means any electrical company or telecommunications company as defined in RCW 80.04.010, and does not include any entity cooperatively organized, or owned by federal, state, or local government, or a subdivision of state or local government.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c450.pdf?cite=1985%20c%20450%20§%2040[1985 c 450 § 40]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c33.pdf?cite=1979%20c%2033%20§%201[1979 c 33 § 1]; ]
+
+== 80.54.020 - Regulation of rates, terms, and conditions—Criteria.
+The commission shall have the authority to regulate in the public interest the rates, terms, and conditions for attachments by licensees or utilities. All rates, terms, and conditions made, demanded, or received by any utility for any attachment by a licensee or by a utility must be just, fair, reasonable, and sufficient.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c33.pdf?cite=1979%20c%2033%20§%202[1979 c 33 § 2]; ]
+
+== 80.54.030 - Commission order fixing rates, terms, or conditions.
+Whenever the commission shall find, after hearing had upon complaint by a licensee or by a utility, that the rates, terms, or conditions demanded, exacted, charged, or collected by any utility in connection with attachments are unjust, unreasonable, or that the rates or charges are insufficient to yield a reasonable compensation for the attachment, the commission shall determine the just, reasonable, or sufficient rates, terms, and conditions thereafter to be observed and in force and shall fix the same by order. In determining and fixing the rates, terms, and conditions, the commission shall consider the interest of the customers of the attaching utility or licensee, as well as the interest of the customers of the utility upon which the attachment is made.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c33.pdf?cite=1979%20c%2033%20§%203[1979 c 33 § 3]; ]
+
+== 80.54.040 - Criteria for just and reasonable rate.
+A just and reasonable rate shall assure the utility the recovery of not less than all the additional costs of procuring and maintaining pole attachments, nor more than the actual capital and operating expenses, including just compensation, of the utility attributable to that portion of the pole, duct, or conduit used for the pole attachment, including a share of the required support and clearance space, in proportion to the space used for the pole attachment, as compared to all other uses made of the subject facilities, and uses which remain available to the owner or owners of the subject facilities.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c33.pdf?cite=1979%20c%2033%20§%204[1979 c 33 § 4]; ]
+
+== 80.54.050 - Exemptions from chapter.
+Nothing in this chapter shall be deemed to apply to any attachment by one or more electrical companies on the facilities of one or more other electrical companies.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c33.pdf?cite=1979%20c%2033%20§%205[1979 c 33 § 5]; ]
+
+== 80.54.060 - Adoption of rules.
+The commission shall adopt rules, regulations and procedures relative to the implementation of this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c33.pdf?cite=1979%20c%2033%20§%206[1979 c 33 § 6]; ]
+
+== 80.54.070 - Uniform attachment rates within utility service area.
+Notwithstanding any other provision of law, a utility as defined in RCW 80.54.010(3) and any utility not regulated by the utilities and transportation commission shall levy attachment rates which are uniform for all licensees within the utility service area.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c33.pdf?cite=1979%20c%2033%20§%207[1979 c 33 § 7]; ]
+

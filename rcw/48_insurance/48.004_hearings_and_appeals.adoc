@@ -1,0 +1,66 @@
+= 48.04 - Hearings and appeals.
+:toc:
+
+== 48.04.010 - Hearings—Waiver—Administrative law judge.
+. The commissioner may hold a hearing for any purpose within the scope of this code as he or she may deem necessary. The commissioner shall hold a hearing:
+
+.. If required by any provision of this code; or
+
+.. Except under RCW 48.13.475, upon written demand for a hearing made by any person aggrieved by any act, threatened act, or failure of the commissioner to act, if such failure is deemed an act under any provision of this code, or by any report, promulgation, or order of the commissioner other than an order on a hearing of which such person was given actual notice or at which such person appeared as a party, or order pursuant to the order on such hearing.
+
+. Any such demand for a hearing shall specify in what respects such person is so aggrieved and the grounds to be relied upon as basis for the relief to be demanded at the hearing.
+
+. Unless a person aggrieved by a written order of the commissioner demands a hearing thereon within ninety days after receiving notice of such order, or in the case of a licensee under Title 48 RCW within ninety days after the commissioner has mailed the order to the licensee at the most recent address shown in the commissioner's licensing records for the licensee, the right to such hearing shall conclusively be deemed to have been waived.
+
+. If a hearing is demanded by a licensee whose license has been temporarily suspended pursuant to RCW 48.17.540, the commissioner shall hold such hearing demanded within thirty days after receipt of the demand or within thirty days of the effective date of a temporary license suspension issued after such demand, unless postponed by mutual consent.
+
+. A licensee under this title may request that a hearing authorized under this section be presided over by an administrative law judge assigned under chapter 34.12 RCW. Any such request shall not be denied.
+
+. Any hearing held relating to RCW 48.20.025, 48.44.017, or 48.46.062 shall be presided over by an administrative law judge assigned under chapter 34.12 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2848.SL.pdf?cite=2000%20c%20221%20§%208[2000 c 221 § 8]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6067-S2.SL.pdf?cite=2000%20c%2079%20§%201[2000 c 79 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990ex1c3.pdf?cite=1990%201st%20ex.s.%20c%203%20§%201[1990 1st ex.s. c 3 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c248.pdf?cite=1988%20c%20248%20§%202[1988 c 248 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c237.pdf?cite=1967%20c%20237%20§%2016[1967 c 237 § 16]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c195.pdf?cite=1963%20c%20195%20§%202[1963 c 195 § 2]; 1947 c 79 § .04.01; Rem. Supp. 1947 § 45.04.01; ]
+
+== 48.04.020 - Stay of action.
+. Such demand for a hearing received by the commissioner prior to the effective date of action taken or proposed to be taken by him or her shall stay such action pending the hearing, except as to action taken or proposed
+
+.. under an order on hearing, or
+
+.. under an order pursuant to an order on hearing, or
+
+.. under an order to make good an impairment of the assets of an insurer, or
+
+.. under an order of temporary suspension of license issued pursuant to RCW 48.17.540 as now or hereafter amended.
+
+. In any case where an automatic stay is not provided for, and if the commissioner after written request therefor fails to grant a stay, the person aggrieved thereby may apply to the superior court for Thurston county for a stay of the commissioner's action.
+
+. A stay of action is not available for actions taken by the commissioner under RCW 48.13.475.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2848.SL.pdf?cite=2000%20c%20221%20§%209[2000 c 221 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c181.pdf?cite=1982%20c%20181%20§%202[1982 c 181 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1949c190.pdf?cite=1949%20c%20190%20§%203[1949 c 190 § 3]; 1947 c 79 § .04.02; Rem. Supp. 1949 § 45.04.02; ]
+
+== 48.04.030 - Place of hearing.
+The hearing shall be held at the place designated by the commissioner, and at his or her discretion it may be open to the public.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5038.SL.pdf?cite=2009%20c%20549%20§%207014[2009 c 549 § 7014]; 1947 c 79 § .04.03; Rem. Supp. 1947 § 45.04.03; ]
+
+== 48.04.050 - Show cause notice.
+If any person is entitled to a hearing by any provision of this code before any proposed action is taken, the notice of the proposed action may be in the form of a notice to show cause stating that the proposed action may be taken unless such person shows cause at a hearing to be held as specified in the notice, why the proposed action should not be taken, and stating the basis of the proposed action.
+
+[ 1947 c 79 § .04.05; Rem. Supp. 1947 § 45.04.05; ]
+
+== 48.04.060 - Adjourned hearings.
+The commissioner may adjourn any hearing from time to time and from place to place without other notice of the adjourned hearing than announcement thereof at the hearing.
+
+[ 1947 c 79 § .04.06; Rem. Supp. 1947 § 45.04.06; ]
+
+== 48.04.070 - Nonattendance, effect of.
+The validity of any hearing held in accordance with the notice thereof shall not be affected by failure of any person to attend or to remain in attendance.
+
+[ 1947 c 79 § .04.07; Rem. Supp. 1947 § 45.04.07; ]
+
+== 48.04.140 - Stay of action on appeal.
+. The taking of an appeal shall not stay any action taken or proposed to be taken by the commissioner under the order appealed from unless a stay is granted by the court at a hearing held as part of the proceedings on appeal.
+
+. A stay shall not be granted by the court in any case where the granting of a stay would tend to injure the public interest. In granting a stay, the court may require of the person taking the appeal such security or other conditions as it deems proper.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c248.pdf?cite=1988%20c%20248%20§%203[1988 c 248 § 3]; 1947 c 79 § .04.14; Rem. Supp. 1947 § 45.04.14; ]
+

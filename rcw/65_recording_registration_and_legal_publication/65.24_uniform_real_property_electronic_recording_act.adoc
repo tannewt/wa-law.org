@@ -1,0 +1,90 @@
+= 65.24 - Uniform real property electronic recording act.
+:toc:
+
+== 65.24.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Document" means information that is:
+
+.. Inscribed on a tangible medium or that is stored in an electronic or other medium, and is retrievable in perceivable form; and
+
+.. Eligible to be recorded in the land records maintained by the recording officer.
+
+. "Electronic" means relating to technology having electrical, digital, magnetic, wireless, optical, electromagnetic, or similar capabilities.
+
+. "Electronic document" means a document that is received by the recording officer in an electronic form.
+
+. "Electronic signature" means an electronic sound, symbol, or process attached to or logically associated with a document and executed or adopted by a person with the intent to sign the document.
+
+. "Person" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, public corporation, government, or governmental subdivision, agency, or instrumentality, or any other legal or commercial entity.
+
+. "State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States.
+
+. "E-recording standards commission" means the body of stakeholders appointed by the secretary of state to review electronic recording standards and make recommendations to the secretary under RCW 65.24.040.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2459.SL.pdf?cite=2008%20c%2057%20§%202[2008 c 57 § 2]; ]
+
+== 65.24.020 - Electronic authentication.
+. If a law requires, as a condition for recording, that a document be an original, be on paper or another tangible medium, or be in writing, the requirement is satisfied by an electronic document satisfying this chapter.
+
+. If a law requires, as a condition for recording, that a document be signed, the requirement is satisfied by an electronic signature.
+
+. A requirement that a document or a signature associated with a document be notarized, acknowledged, verified, witnessed, or made under oath is satisfied if the electronic signature of the person authorized to perform that act, and all other information required to be included, is attached to or logically associated with the document or signature. A physical or electronic image of a stamp, impression, or seal need not accompany an electronic signature.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2459.SL.pdf?cite=2008%20c%2057%20§%203[2008 c 57 § 3]; ]
+
+== 65.24.030 - Recording officer—Powers and duties.
+. In this section, "paper document" means a document that is received by the recording officer in a form that is not electronic.
+
+. A recording officer:
+
+.. Who performs any of the functions listed in this section shall do so in compliance with the rules adopted by the secretary of state for the electronic recording of documents;
+
+.. May receive, index, store, archive, and transmit electronic documents;
+
+.. May provide for access to, and for search and retrieval of, documents and information by electronic means;
+
+.. Who accepts electronic documents for recording shall continue to accept paper documents as authorized by state law and shall place entries for both types of documents in the same index;
+
+.. May convert paper documents accepted for recording into electronic form;
+
+.. May convert information previously recorded into electronic form;
+
+.. May, after receiving approval pursuant to RCW 36.29.190, accept electronically any fee or tax that the recording officer is authorized to collect;
+
+.. May agree with other officials of a state, or a political subdivision thereof, or of the United States, on procedures or processes to facilitate the electronic satisfaction of prior approvals and conditions precedent to recording and the electronic payment of fees or taxes.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2459.SL.pdf?cite=2008%20c%2057%20§%204[2008 c 57 § 4]; ]
+
+== 65.24.040 - E-recording standards commission.
+The office of the secretary of state shall create and appoint an e-recording standards commission. The e-recording standards commission shall review electronic recording standards and make recommendations to the secretary of state for rules necessary to implement this chapter. A majority of the commission must be county recorders or auditors. The commission may include assessors, treasurers, land title company representatives, escrow agents, and mortgage brokers, the state archivist, and any other party the secretary of state deems appropriate. The term of the commissioners will be set by the secretary of state.
+
+To keep the standards and practices of recording officers in this state in harmony with the standards and practices of recording offices in other jurisdictions that enact this chapter and to keep the technology used by recording officers in this state compatible with technology used by recording offices in other jurisdictions that enact this chapter, the office of the secretary of state, so far as is consistent with the purposes, policies, and provisions of this chapter, in adopting, amending, and repealing standards shall consider:
+
+. The standards and practices of other jurisdictions;
+
+. The most recent standards adopted by national standard-setting bodies, such as the property records industry association;
+
+. The views of interested persons and governmental officials and entities;
+
+. The needs of counties of varying size, population, and resources; and
+
+. Standards requiring adequate information security protection to ensure that electronic documents are accurate, authentic, adequately preserved, and resistant to tampering.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2459.SL.pdf?cite=2008%20c%2057%20§%205[2008 c 57 § 5]; ]
+
+== 65.24.050 - Electronic signatures in global and national commerce act.
+This chapter modifies, limits, and supersedes the federal electronic signatures in global and national commerce act (15 U.S.C. Sec. 7001, et seq.) but does not modify, limit, or supersede section 101(c) of that act or authorize electronic delivery of any of the notices described in section 103(b) of that act.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2459.SL.pdf?cite=2008%20c%2057%20§%207[2008 c 57 § 7]; ]
+
+== 65.24.900 - Short title.
+This chapter may be known and cited as the uniform real property electronic recording act.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2459.SL.pdf?cite=2008%20c%2057%20§%201[2008 c 57 § 1]; ]
+
+== 65.24.901 - Application—Construction.
+In applying and construing this chapter, consideration must be given to the need to promote uniformity of the law with respect to its subject matter among states that enact a uniform real property electronic recording act.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2459.SL.pdf?cite=2008%20c%2057%20§%206[2008 c 57 § 6]; ]
+

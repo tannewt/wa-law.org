@@ -1,0 +1,125 @@
+= 70A.35 - Low-income residential weatherization program.
+:toc:
+
+== 70A.35.010 - Legislative findings.
+. The legislature finds and declares that weatherization of the residences of low-income households will help conserve energy resources in this state and can reduce the need to obtain energy from more costly conventional energy resources. The legislature also finds that while many efforts have been made by the federal government and by the state, including its cities, counties, and utilities, to increase both the habitability and the energy efficiency of residential structures within the state, stronger coordination of these efforts will result in even greater energy efficiencies, increased cost savings to the state's residents in the form of lower utility bills, improvements in health and safety, lower greenhouse gas emissions and associated climate impacts, as well as increased employment for the state's workforce. The legislature further finds that there is emerging scientific evidence linking residents' health outcomes such as asthma, lead poisoning, and unintentional injuries to substandard housing.
+
+. Therefore, it is the intent of the legislature that state funds be dedicated to weatherization and energy efficiency activities as well as the moderate to significant repair and rehabilitation of residential structures that are required as a necessary antecedent to those activities. It is also the intent of the legislature that the department prioritize weatherization, energy efficiency activities, and structural repair of residential structures to facilitate the expeditious allocation of funds from federal energy efficiency programs including, but not limited to, the weatherization assistance program, the weatherization plus health initiative, the energy efficiency and conservation block grant program, residential energy efficiency components of the state energy program, and the retrofit ramp-up program for energy efficiency projects. The legislature further intends to allocate future distributions of energy-related federal jobs stimulus funding to strengthen these programs, and to coordinate energy retrofit and rehabilitation improvements as authorized by chapter 287, Laws of 2010 to increase the number of structures qualifying for assistance under these multiple state and federal energy efficiency programs.
+
+. The program implementing the policy of this chapter is necessary to support the poor and infirm and also to benefit the health, safety, and general welfare of all citizens of the state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1720.SL.pdf?cite=2015%20c%2050%20§%201[2015 c 50 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6468-S.SL.pdf?cite=2010%20c%20287%20§%201[2010 c 287 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c36.pdf?cite=1987%20c%2036%20§%201[1987 c 36 § 1]; ]
+
+== 70A.35.020 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Department" means the department of commerce.
+
+. "Direct outreach" means:
+
+.. The use of door-to-door contact, community events, and other methods of direct interaction with customers to inform them of energy efficiency and weatherization opportunities; and
+
+.. The performance of energy audits.
+
+. "Energy audit" means an analysis of a dwelling unit to determine the need for cost-effective energy conservation measures as determined by the department.
+
+. "Healthy housing improvements" means increasing the health and safety of a home by integrating energy efficiency activities and indoor environmental quality measures, consistent with the weatherization plus health initiative of the federal department of energy and the healthy housing principles adopted by the federal department of housing and urban development.
+
+. "Household" means an individual or group of individuals living in a dwelling unit as defined by the department.
+
+. "Low income" means household income as defined by the department, provided that the definition may not exceed eighty percent of median household income, adjusted for household size, for the county in which the dwelling unit to be weatherized is located.
+
+. "Nonutility sponsor" means any sponsor other than a public service company, municipality, public utility district, mutual or cooperative, furnishing gas or electricity used to heat low-income residences.
+
+. "Residence" means a dwelling unit as defined by the department.
+
+. "Sponsor" means any entity that submits a proposal under RCW 70A.35.040, including but not limited to any local community action agency, tribal nation, community service agency, or any other participating agency or any public service company, municipality, public utility district, mutual or cooperative, or any combination of such entities that jointly submits a proposal.
+
+. "Sponsor match" means the share of the cost of weatherization to be paid by the sponsor.
+
+. "Sustainable residential weatherization" or "weatherization" means activities that use funds administered by the department for one or more of the following: (a) Energy and resource conservation; (b) energy efficiency improvements; (c) repairs, indoor air quality improvements, and health and safety improvements; and (d) client education. Funds administered by the department for activities authorized under this subsection may only be used for the preservation of a dwelling unit occupied by a low-income household and must, to the extent feasible, be used to support and advance sustainable technologies.
+
+. "Weatherizing agency" means any approved department grantee, tribal nation, or any public service company, municipality, public utility district, mutual or cooperative, or other entity that bears the responsibility for ensuring the performance of weatherization of residences under this chapter and has been approved by the department.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201392[2020 c 20 § 1392]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1720.SL.pdf?cite=2015%20c%2050%20§%202[2015 c 50 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6468-S.SL.pdf?cite=2010%20c%20287%20§%202[2010 c 287 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2242.SL.pdf?cite=2009%20c%20565%20§%2051[2009 c 565 § 51]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5649-S2.SL.pdf?cite=2009%20c%20379%20§%20201[2009 c 379 § 201]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1014.SL.pdf?cite=1995%20c%20399%20§%20199[1995 c 399 § 199]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c36.pdf?cite=1987%20c%2036%20§%202[1987 c 36 § 2]; ]
+
+== 70A.35.030 - Low-income weatherization and structural rehabilitation assistance account.
+. The low-income weatherization and structural rehabilitation assistance account is created in the state treasury. All moneys from the money distributed to the state pursuant to Exxon v. United States, 561 F.Supp. 816 (1983), affirmed 773 F.2d 1240 (1985), or any other oil overcharge settlements or judgments distributed by the federal government, that are allocated to the low-income weatherization and structural rehabilitation assistance account shall be deposited in the account. The department may accept such gifts, grants, and endowments from public or private sources as may be made from time to time, in trust or otherwise, and shall deposit such funds in the account. Any moneys received from sponsor match payments shall be deposited in the account. The legislature may also appropriate moneys to the account. Moneys in the account shall be spent pursuant to appropriation and only for the purposes and in the manner provided in RCW 70A.35.040. Any moneys appropriated that are not spent by the department shall return to the account.
+
+. The purposes of the low-income weatherization and structural rehabilitation assistance account are to:
+
+.. Maximize the number of energy efficient residential structures in the state;
+
+.. Achieve the greatest possible expected monetary and energy savings by low-income households and other energy consumers over the longest period of time;
+
+.. Identify and correct, to the extent practicable, health and safety problems for residents of low-income households, including asbestos, lead, and mold hazards;
+
+.. Leverage the many available state and federal programs aimed at increasing the quality and energy efficiency of low-income residences in the state;
+
+.. Create family-wage jobs that may lead to careers in the construction trades or in the energy efficiency sectors; and
+
+.. Leverage, to the extent feasible, sustainable technologies, practices, and designs, including renewable energy systems.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201393[2020 c 20 § 1393]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6468-S.SL.pdf?cite=2010%20c%20287%20§%203[2010 c 287 § 3]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1058-S.SL.pdf?cite=1991%20sp.s.%20c%2013%20§%2062[1991 sp.s. c 13 § 62]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c36.pdf?cite=1987%20c%2036%20§%203[1987 c 36 § 3]; ]
+
+== 70A.35.040 - Proposals for low-income weatherization programs—Matching funds.
+. The department shall solicit proposals for low-income weatherization programs from potential sponsors. A proposal shall state the amount of the sponsor match, the amount requested, the name of the weatherizing agency, and any other information required by the department.
+
+. [Empty]
+.. A sponsor may use its own moneys, including corporate or ratepayer moneys, or moneys provided by landlords, charitable groups, government programs, the Bonneville power administration, or other sources to pay the sponsor match.
+
+.. Moneys provided by a sponsor pursuant to requirements in this section shall be in addition to and shall not supplant any funding for low-income weatherization that would otherwise have been provided by the sponsor or any other entity enumerated in (a) of this subsection.
+
+.. No proposal may require any contribution as a condition of weatherization from any household whose residence is weatherized under the proposal.
+
+.. Proposals shall provide that full levels of all cost-effective, structurally feasible, sustainable residential weatherization materials, measures, and practices, as determined by the department, shall be installed when a low-income residence is weatherized.
+
+. Sponsors may propose to utilize grant awards and matching funds to make healthy housing improvements to homes undergoing weatherization.
+
+. [Empty]
+.. The department may in its discretion accept, accept in part, or reject proposals submitted.
+
+.. The department shall prioritize allocating funds from the low-income weatherization and structural rehabilitation assistance account to projects that maximize energy efficiency, extend the usable life of an affordable home, and improve the health and safety of its residents by: (i) Installing energy efficiency measures; and (ii) providing structural rehabilitation and repairs, so that funding from federal energy efficiency programs such as the weatherization assistance program, the weatherization plus health initiative, the energy efficiency and conservation block grant program, residential energy efficiency components of the state energy program, and the retrofit ramp-up program is distributed expeditiously.
+
+.. When allocating funds from the low-income weatherization and structural rehabilitation assistance account, the department shall, to the extent feasible, consider local and state benefits including pledged sponsor match, available energy efficiency, repair, and rehabilitation funds from other sources, the preservation of affordable housing, and balance of participation in proportion to population among low-income households for: (i) Geographic regions in the state; (ii) types of fuel used for heating, except that the department shall encourage the use of energy efficient sustainable technologies; (iii) owner-occupied and rental residences; and (iv) single-family and multifamily dwellings.
+
+.. The department shall then allocate funds appropriated from the low-income weatherization and structural rehabilitation assistance account for energy efficiency and repair activities among proposals accepted or accepted in part.
+
+.. The department shall develop policies to ensure prudent, cost-effective investments are made in homes and buildings requiring energy efficiency, repair, and rehabilitation improvements that will maximize energy savings, extend the life of a home, and improve the health and safety of its residents.
+
+.. The department shall give priority to the structural rehabilitation and weatherization of dwelling units occupied by low-income households with incomes at or below one hundred twenty-five percent of the federally established poverty level.
+
+.. The department may allocate funds to a nonutility sponsor without requiring a sponsor match if the department determines that such an allocation is necessary to provide the greatest benefits to low-income residents of the state.
+
+.. The department shall require weatherizing agencies to employ individuals trained from workforce training and apprentice programs established under chapter 536, Laws of 2009 if these workers are available, pay prevailing wages under chapter 39.12 RCW, hire from the community in which the program is located, and create employment opportunities for veterans, members of the national guard, and low-income and disadvantaged populations.
+
+. [Empty]
+.. A sponsor may elect to: (i) Pay a sponsor match as a lump sum at the time of structural rehabilitation or weatherization; or (ii) make yearly payments to the low-income weatherization and structural rehabilitation assistance account over a period not to exceed ten years. If a sponsor elects to make yearly payments, the value of the payments shall not be less than the value of the lump sum payment that would have been made under (a)(i) of this subsection.
+
+.. The department may permit a sponsor to meet its match requirement in whole or in part through providing labor, materials, or other in-kind expenditures.
+
+. Service providers receiving funding under this section must report to the department at least quarterly, or in alignment with federal reporting, whichever is the greater frequency, the project costs, and the number of dwelling units repaired, rehabilitated, and weatherized, the number of jobs created or maintained, and the number of individuals trained through workforce training and apprentice programs. The director of the department shall review the accuracy of these reports.
+
+. The department shall adopt rules to carry out this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1720.SL.pdf?cite=2015%20c%2050%20§%203[2015 c 50 § 3]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6468-S.SL.pdf?cite=2010%20c%20287%20§%204[2010 c 287 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5649-S2.SL.pdf?cite=2009%20c%20379%20§%20202[2009 c 379 § 202]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c36.pdf?cite=1987%20c%2036%20§%204[1987 c 36 § 4]; ]
+
+== 70A.35.050 - Program compliance with laws and rules—Energy audit required.
+. The department is responsible for ensuring that sponsors and weatherizing agencies comply with the state laws, the department's rules, and the sponsor's proposal in carrying out proposals.
+
+. Before a residence is weatherized, the department shall require that an energy audit be conducted.
+
+. To the greatest extent practicable and allowable under federal rules and regulations, the department shall maximize available federal low-income home energy assistance program funding for weatherization projects.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5649-S2.SL.pdf?cite=2009%20c%20379%20§%20203[2009 c 379 § 203]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c36.pdf?cite=1987%20c%2036%20§%205[1987 c 36 § 5]; ]
+
+== 70A.35.060 - Weatherization of leased or rented residences—Limitations.
+Before a leased or rented residence is weatherized, written permission shall be obtained from the owner of the residence for the weatherization. The department shall adopt rules to ensure that: (1) The benefits of weatherization assistance, including utility bill reduction and preservation of affordable housing stock, accrue primarily to low-income tenants occupying a leased or rented residence; (2) as a result of weatherization provided under this chapter, the rent on the residence is not increased and the tenant is not evicted; and (3) as a result of weatherization provided under this chapter, no undue or excessive enhancement occurs in the value of the residence. This section is in the public interest and any violation by a landlord of the rules adopted under this section shall be an act in trade or commerce violating chapter 19.86 RCW, the consumer protection act.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5649-S2.SL.pdf?cite=2009%20c%20379%20§%20204[2009 c 379 § 204]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c36.pdf?cite=1987%20c%2036%20§%206[1987 c 36 § 6]; ]
+
+== 70A.35.070 - Payments to low-income weatherization and structural rehabilitation assistance account.
+Payments to the low-income weatherization and structural rehabilitation assistance account shall be treated, for purposes of state law, as payments for energy conservation and shall be eligible for any tax credits or deductions, equity returns, or other benefits for which conservation investments are eligible.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6468-S.SL.pdf?cite=2010%20c%20287%20§%205[2010 c 287 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c36.pdf?cite=1987%20c%2036%20§%207[1987 c 36 § 7]; ]
+

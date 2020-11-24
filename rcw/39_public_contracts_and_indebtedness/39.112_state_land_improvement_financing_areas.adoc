@@ -1,0 +1,154 @@
+= 39.112 - State land improvement financing areas.
+:toc:
+
+== 39.112.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Assessed value" means the valuation of taxable real property as placed on the last completed assessment roll.
+
+. "Bond" means a bond, note, or other evidence of indebtedness, including but not limited to a lease-purchase agreement or an executory conditional sales contract.
+
+. "City" means a city with a population greater than sixty thousand that is located east of the Cascade mountains and abutted by the Columbia river to the south and that is the sponsor of a state land improvement financing area.
+
+. "Fiscal year" means the twelve-month period beginning July 1st and ending the following June 30th.
+
+. "Ordinance" means any appropriate method of taking legislative action by a local government.
+
+. "Property tax revenue" means tax revenue derived from the receipt of all regular property taxes levied on the state land improvement financing area and used for state land improvement financing.
+
+. "Public improvement costs" means the costs of:
+
+.. Design, planning, acquisition, including land acquisition, site preparation, including land clearing, construction, reconstruction, rehabilitation, improvement, and installation of public improvements;
+
+.. Demolishing, relocating, maintaining, and operating property pending construction of public improvements;
+
+.. Relocating utilities as a result of public improvements;
+
+.. Financing public improvements, including interest during construction, legal and other professional services, taxes, insurance, principal and interest costs on general indebtedness issued to finance public improvements, and any necessary reserves for general indebtedness; and
+
+.. Administrative expenses and feasibility studies reasonably necessary and related to these costs, including related costs that may have been incurred before adoption of the ordinance authorizing the public improvements and the use of state land improvement financing to fund the costs of the public improvements.
+
+. "Public improvements" means:
+
+.. Infrastructure improvements within the state land improvement financing area including:
+
+... Street, road, bridge, and rail construction and maintenance;
+
+... Water and sewer system construction and improvements;
+
+... Sidewalks, streetlights, landscaping, and streetscaping;
+
+... Parking facilities;
+
+.. Park facilities, recreational areas, and environmental remediation;
+
+.. Stormwater and drainage management systems;
+
+.. Electric, gas, fiber, and other utility infrastructures; and
+
+.. Expenditures for any of the following purposes:
+
+... Providing environmental analysis, professional management, planning, and promotion within the state land improvement financing area;
+
+... Providing maintenance and security for common or public areas in the state land improvement financing area; and
+
+... Historic preservation activities authorized under RCW 35.21.395.
+
+. "Real property" has the same meaning as in RCW 84.04.090 and also includes any privately owned improvements located on publicly owned land that are subject to property taxation.
+
+. "Regular property taxes" means regular property taxes as defined in RCW 84.04.140, except regular property taxes levied by the state for the support of the common schools under RCW 84.52.065. "Regular property taxes" do not include excess property tax levies that are exempt from the aggregate limits for junior and senior taxing districts as provided in RCW 84.52.043.
+
+. "State land improvement financing" means the use of regular property tax revenue dedicated to pay the public improvement costs within the state land improvement financing area.
+
+. "State land improvement financing area" means the geographic area adopted by a city and from which property tax revenues are derived for state land improvement financing, and which meets the following conditions:
+
+.. The state of Washington is the current owner of the land, and the land is being sold for private development; or
+
+.. The state of Washington was the most recent owner of the land, prior to it being sold for private development.
+
+. "Taxing district" means a government entity that levies or has levied for it regular property taxes upon real property located within a proposed or approved state land improvement financing area.
+
+. "Value of taxable property" means the value of the taxable property as defined in RCW 39.36.015.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2842.SL.pdf?cite=2016%20c%20192%20§%201[2016 c 192 § 1]; ]
+
+== 39.112.020 - Conditions for using state land improvement financing.
+A city may finance public improvements using state land improvement financing subject to the following conditions:
+
+. The city has adopted an ordinance designating a state land improvement financing area within its boundaries and specified the public improvements proposed to be financed in whole or in part with the use of state land improvement financing.
+
+. The public improvements proposed to be financed in whole or in part using state land improvement financing are expected to encourage private development within the state land improvement financing area and to increase the fair market value of real property within the state land improvement financing area.
+
+. Private development that is anticipated to occur within the state land improvement financing area, as a result of the public improvements, will be consistent with the countywide planning policy adopted by the county under RCW 36.70A.210 and the city's comprehensive plan and development regulations adopted under chapter 36.70A RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2842.SL.pdf?cite=2016%20c%20192%20§%202[2016 c 192 § 2]; ]
+
+== 39.112.030 - Procedures for creating a state land improvement financing area.
+Before adopting an ordinance creating the state land improvement financing area, a city must:
+
+. Provide written notice of a public hearing to each taxing jurisdiction that levies regular property taxes in the state land improvement financing area, publish notice of the public hearing in a legal newspaper of general circulation within the proposed state land improvement financing area at least ten days before the public hearing, and post the notice in at least six conspicuous public places located in the proposed state land improvement financing area. Notices must describe the contemplated public improvements, estimate the costs of the public improvements, describe the portion of the costs of the public improvements to be borne by state land improvement financing, describe any other sources of revenue to finance the public improvements, describe the boundaries of the proposed state land improvement financing area, and estimate the period during which state land improvement financing is contemplated to be used. The public hearing may be held by either the governing body of the city, or a committee of the governing body that includes at least a majority of the whole governing body;
+
+. Hold a public hearing on the proposed financing of the public improvement in whole or in part with state land improvement financing; and
+
+. Adopt an ordinance establishing the state land improvement financing area that describes the public improvements, describes the boundaries of the state land improvement financing area, estimates the cost of the public improvements and the portion of these costs to be financed by state land improvement financing, estimates the time during which regular property taxes are to be apportioned, provides the date when the apportionment of the regular property taxes will commence, and finds that the conditions of RCW 39.112.020 are met.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2842.SL.pdf?cite=2016%20c%20192%20§%203[2016 c 192 § 3]; ]
+
+== 39.112.040 - Public notice—Notice to officials.
+The city must:
+
+. Publish notice in a legal newspaper of general circulation within the state land improvement financing area that describes the public improvement, describes the boundaries of the state land improvement financing area, and identifies the location and times where the ordinance and other public information concerning the public improvement may be inspected; and
+
+. Deliver a certified copy of the ordinance to the county treasurer, the county assessor, and the governing body of each taxing district within which the state land improvement financing area is located.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2842.SL.pdf?cite=2016%20c%20192%20§%204[2016 c 192 § 4]; ]
+
+== 39.112.050 - Limitations on state land improvement financing areas.
+A state land improvement financing area is subject to the following limitations:
+
+. A state land improvement financing area is limited to contiguous tracts, lots, pieces, or parcels of land without the creation of islands of property not included in the state land improvement financing area.
+
+. The public improvements financed through bonds issued under RCW 39.112.070 and public improvements made on a pay-as-you-go basis must be located in the state land improvement financing area.
+
+. A state land improvement financing area cannot comprise an area containing more than twenty-five percent of the total assessed value of the taxable real property within the boundaries of the city at the time the state land improvement financing area is created.
+
+. The boundaries of the state land improvement financing area may not be changed for the time period that receipts from regular property taxes are used to pay bonds issued under RCW 39.112.070 and public improvement costs within the state land improvement financing area on a pay-as-you-go basis, as provided under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2842.SL.pdf?cite=2016%20c%20192%20§%205[2016 c 192 § 5]; ]
+
+== 39.112.060 - Apportionment of revenues.
+. Commencing in the calendar year following the passage of the ordinance, the county treasurer must distribute receipts from regular taxes imposed on real property located in the state land improvement financing area to the city.
+
+. The city may agree to receive less than the full amount of the regular property taxes under subsection (1) of this section as long as bond debt service, reserve, and other bond covenant requirements are satisfied, in which case the balance of these tax receipts must be allocated to the taxing districts that levied regular property taxes, or have regular property taxes levied for them, in the state land improvement financing area for collection that year in proportion to their regular tax levy rates for collection that year.
+
+. The city may request that the treasurer transfer the property taxes to its designated agent. The tax receipts distributed to the city or its agent under this section may only be expended to finance public improvement costs associated with the public improvements financed in whole or in part by state land improvement financing.
+
+. This section does not authorize revaluations of real property by the assessor for property taxation that are not made in accordance with the assessor's revaluation plan under chapter 84.41 RCW or under other authorized revaluation procedures.
+
+. The distribution of regular property tax revenue to the city must cease when regular property taxes are no longer obligated to pay the costs of the public improvements. Any excess regular property tax revenues, and earnings on the revenues, remaining at the time the distribution of regular property tax revenue terminates, must be returned to the county treasurer and distributed to the participating taxing districts that imposed regular property taxes, or had regular property taxes imposed for it, in the state land improvement financing area for collection that year, in proportion to the rates of their regular property tax levies for collection that year.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2842.SL.pdf?cite=2016%20c%20192%20§%206[2016 c 192 § 6]; ]
+
+== 39.112.070 - General indebtedness—Requirements.
+. A city creating a state land improvement financing area and authorizing the use of state land improvement financing may incur general indebtedness, including issuing general obligation bonds, to finance the public improvements and retire the indebtedness in whole or in part from state land improvement financing it receives, subject to the following requirements:
+
+.. The ordinance adopted by the city creating the state land improvement financing area and authorizing the use of state land improvement financing indicates an intent to incur this indebtedness and the maximum amount of this indebtedness that is contemplated; and
+
+.. The city includes this statement of intent in all notices required by RCW 39.112.040.
+
+. The general indebtedness incurred under subsection (1) of this section may be payable from other tax revenues, the full faith and credit of the city, and nontax income, revenues, fees, and rents from the public improvements, as well as contributions, grants, and nontax money available to the city for payment of costs of the public improvements or associated debt service on the general indebtedness.
+
+. In addition to the requirements in subsection (1) of this section, a city creating a state land improvement financing area and authorizing the use of state land improvement financing may require any nonpublic participants to provide adequate security to protect the public investment in the public improvement within the state land improvement financing area.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2842.SL.pdf?cite=2016%20c%20192%20§%207[2016 c 192 § 7]; ]
+
+== 39.112.080 - Use of tax revenue for bond repayment.
+A city that issues bonds issued under RCW 39.112.070 to finance public improvements may pledge for the payment of such bonds all or part of any regular property tax revenues derived from the public improvements.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2842.SL.pdf?cite=2016%20c%20192%20§%208[2016 c 192 § 8]; ]
+
+== 39.112.090 - Limitation on bonds issued.
+The bonds issued by a city under RCW 39.112.070 to finance public improvements do not constitute an obligation of the state of Washington, either general or special.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2842.SL.pdf?cite=2016%20c%20192%20§%209[2016 c 192 § 9]; ]
+

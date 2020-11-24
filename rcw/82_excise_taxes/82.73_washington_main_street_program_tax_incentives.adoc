@@ -1,0 +1,85 @@
+= 82.73 - Washington main street program tax incentives.
+:toc:
+
+== 82.73.010 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Applicant" means a person applying for a tax credit under this chapter.
+
+. "Contribution" means cash contributions.
+
+. "Department" means the department of revenue.
+
+. "Main street trust fund" means the Washington main street trust fund account under RCW 43.360.050.
+
+. "Person" has the meaning given in RCW 82.04.030.
+
+. "Program" means a nonprofit organization under internal revenue code sections 501(c)(3) or 501(c)(6), with the sole mission of revitalizing a downtown or neighborhood commercial district area, that is designated by the department of archaeology and historic preservation as described in RCW 43.360.010 through 43.360.050.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2704-S.SL.pdf?cite=2010%20c%2030%20§%204[2010 c 30 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2242.SL.pdf?cite=2009%20c%20565%20§%2055[2009 c 565 § 55]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2314-S.SL.pdf?cite=2005%20c%20514%20§%20902[2005 c 514 § 902]; ]
+
+== 82.73.020 - Application for credit. (Contingent expiration date.)
+. Application for tax credits under this chapter must be submitted to the department before making a contribution to a program or the main street trust fund. The application must be made to the department in a form and manner prescribed by the department. The application must contain information regarding the proposed amount of contribution to a program or the main street trust fund, and other information required by the department to determine eligibility under this chapter. The department must rule on the application within forty-five days. Except as provided in RCW 82.73.030(5), applications must be approved on a first-come basis.
+
+. The department may not accept any applications before the second Monday in January of each calendar year.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5977-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2037%20§%20102[2017 3rd sp.s. c 37 § 102]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2314-S.SL.pdf?cite=2005%20c%20514%20§%20903[2005 c 514 § 903]; ]
+
+== 82.73.025 - Approved contribution deadline for tax credit. (Contingent expiration date.)
+. A person that was approved for credit as provided in RCW 82.73.020 must make the total approved contribution by November 15th of the calendar year in which the application is approved. If November 15th falls upon a Saturday, Sunday, or legal holiday, the payment of the contribution will be considered timely if made on the next business day.
+
+. [Empty]
+.. A person that does not make a contribution as required in subsection (1) of this section forfeits all credits for the approved contribution.
+
+.. The department must make credits forfeited as provided in (a) of this subsection available to new applicants.
+
+. A person that was approved for credit as provided in RCW 82.73.020 after November 15th must make the total approved contribution by the end of the calendar year in which the contribution was approved.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5977-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2037%20§%20104[2017 3rd sp.s. c 37 § 104]; ]
+
+== 82.73.030 - Credit authorized—Limitations. (Contingent expiration date.)
+. Subject to the limitations in this chapter, a credit is allowed against the tax imposed by chapters 82.04 and 82.16 RCW for approved contributions that are made by a person to a program or the main street trust fund.
+
+. The credit allowed under this section is limited to an amount equal to:
+
+.. Seventy-five percent of the approved contribution made by a person to a program; or
+
+.. Fifty percent of the approved contribution made by a person to the main street trust fund.
+
+. The department may not approve credit with respect to a program in a city or town with a population of one hundred ninety thousand persons or more.
+
+. The department must keep a running total of all credits approved under this chapter for each calendar year. The department may not approve any credits under this section that would cause the total amount of approved credits statewide to exceed two million five hundred thousand dollars in any calendar year.
+
+. [Empty]
+.. [Empty]
+... The total credits allowed under this chapter for contributions made to each program may not exceed one hundred thousand dollars in a calendar year.
+
+... Between the second Monday in January and March 31st of the same calendar year, the department must evenly allocate the amount of statewide credits allowed under subsection (4) of this section based on the total number of programs and the main street trust fund as of January 1st in the same calendar year. The department may not approve contributions for a program or the main street trust fund that would cause the total amount of approved credits for a program or the main street trust fund to exceed the allocated amount.
+
+.. The total credits allowed under this chapter for a person may not exceed two hundred fifty thousand dollars in a calendar year.
+
+. The credit may be claimed against any tax due under chapters 82.04 and 82.16 RCW only in the calendar year immediately following the calendar year in which the credit was approved by the department and the contribution was made to the program or the main street trust fund. Credits may not be carried over to subsequent years. No refunds may be granted for credits under this chapter.
+
+. The total amount of the credit claimed in any calendar year by a person may not exceed the lesser amount of:
+
+.. The approved credit; or
+
+.. Seventy-five percent of the amount of the contribution that is made by the person to a program and fifty percent of the amount of the contribution that is made by the person to the main street trust fund, in the prior calendar year.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5977-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2037%20§%20103[2017 3rd sp.s. c 37 § 103]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2314-S.SL.pdf?cite=2005%20c%20514%20§%20904[2005 c 514 § 904]; ]
+
+== 82.73.040 - Filing requirements.
+To claim a credit under this chapter, a person must electronically file with the department all returns, forms, and other information the department requires in an electronic format as provided or approved by the department. Any return, form, or information required to be filed in an electronic format under this section is not filed until received by the department in an electronic format. As used in this section, "returns" has the same meaning as "return" in RCW 82.32.050.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2314-S.SL.pdf?cite=2005%20c%20514%20§%20905[2005 c 514 § 905]; ]
+
+== 82.73.050 - Administrative assistance by archaeology and historic preservation.
+The department of archaeology and historic preservation shall provide information to the department to administer this chapter, including a list of designated programs that shall be updated as necessary.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2704-S.SL.pdf?cite=2010%20c%2030%20§%205[2010 c 30 § 5]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2314-S.SL.pdf?cite=2005%20c%20514%20§%20906[2005 c 514 § 906]; ]
+
+== 82.73.060 - Application of chapter  82.32 RCW.
+Chapter 82.32 RCW applies to the administration of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2314-S.SL.pdf?cite=2005%20c%20514%20§%20907[2005 c 514 § 907]; ]
+

@@ -1,0 +1,44 @@
+= 19.345 - Ticket sellers.
+:toc:
+
+== 19.345.005 - Intent.
+It is the intent of the legislature to protect consumers and ticket sellers from software that simulates the action of a human being purchasing tickets from a ticket seller in order to evade controls and measures on a ticket seller's web site. The legislature is concerned by the use of software, commonly referred to as BOTs (web robots), to interfere with the operation of ticket sales over the internet, gaining unauthorized priority access to purchasing tickets, and thereby reducing access to the general public of online ticket sales at the intended original price. In order to protect consumers and ticket sellers, the legislature intends to prohibit acts and practices of persons that use or sell software to circumvent, thwart, interfere with, or evade a security measure, access control system, or other control or measure on a ticket seller's internet web site. It is not the intent of the legislature to interrupt the online ticket buying process established by the authorized ticket seller, including the distribution of tickets to season ticket holders.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1091.SL.pdf?cite=2015%20c%20129%20§%201[2015 c 129 § 1]; ]
+
+== 19.345.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Admission ticket" means evidence of a right of entry to a venue or an entertainment event.
+
+. "Affinity group" means an identifiable group of people who are members of the same organization, or who are customers of the same person, and who enjoy special privileges.
+
+. "Event" means a concert, theatrical performance, sporting event, exhibition, show, or other similar activity held in this state.
+
+. "Initial sale" means the first sale of an admission ticket by the ticket seller. "Initial sale" also includes the distribution of admission tickets under an agreement between the ticket seller and the recipient.
+
+. "Person" means any individual, partnership, corporation, limited liability company, other organization, or any combination thereof.
+
+. "Place of entertainment" means any privately or publicly owned or operated entertainment facility within this state, such as a theater, stadium, museum, arena, park, racetrack, or other place where concerts, theatrical performances, sporting events, exhibitions, shows, or other similar activities are held and for which an entry fee is charged.
+
+. "Presale" means a sale of admission tickets at or below the price printed on the ticket by, or with the permission of, a ticket seller, prior to their release to the general public.
+
+. "Promoter" means a person who organizes financing and publicity for an entertainment event.
+
+. "Ticket seller" means a person that makes admission tickets available, directly or indirectly, at an initial presale or sale to the general public, and may include an owner or operator of a place of entertainment, a sponsor or promoter of an event, a sports team participating in an event, a fan club or affinity group, a theater company, a musical group, or similar participant in an event, or an employee or agent of any such person.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1091.SL.pdf?cite=2015%20c%20129%20§%202[2015 c 129 § 2]; ]
+
+== 19.345.020 - Prohibited acts—Application of consumer protection act.
+. A person may not:
+
+.. Use software to circumvent, thwart, interfere with, or evade a security measure, access control system, or other control or measure on a ticket seller's internet web site; or
+
+.. Sell software that is advertised for profit with the express purpose to circumvent, thwart, interfere with, or evade a security measure, access control system, or other control or measure on a ticket seller's internet web site.
+
+. The use or sale of software as described in subsection (1) of this section only violates this section if the user or seller knows or should know that the purpose of the software is to circumvent, thwart, interfere with, or evade a security measure, access control system, or other control or measure on a ticket seller's internet web site.
+
+. The legislature finds that the conduct described in subsection (1) of this section vitally affects the public interest for the purpose of applying the consumer protection act, chapter 19.86 RCW. Using or selling software to circumvent, thwart, or evade a control or measure, which is used on a ticket seller's internet web site to ensure an equitable distribution of tickets, is not reasonable in relation to the development and preservation of business and is an unfair or deceptive act in trade or commerce and an unfair method of competition for the purposes of applying the consumer protection act, chapter 19.86 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1091.SL.pdf?cite=2015%20c%20129%20§%203[2015 c 129 § 3]; ]
+

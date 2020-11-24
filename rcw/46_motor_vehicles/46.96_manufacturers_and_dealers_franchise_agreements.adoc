@@ -1,0 +1,585 @@
+= 46.96 - Manufacturers' and dealers' franchise agreements.
+:toc:
+
+== 46.96.010 - Legislative findings.
+The legislature finds and declares that the distribution and sale of motor vehicles in this state vitally affect the general economy of the state and the public interest and public welfare, that provision for warranty service to motor vehicles is of substantial concern to the people of this state, that the maintenance of fair competition among dealers and others is in the public interest, and that the maintenance of strong and sound dealerships is essential to provide continuing and necessary reliable services to the consuming public in this state and to provide stable employment to the citizens of this state. The legislature further finds that there is a substantial disparity in bargaining power between automobile manufacturers and their dealers, and that in order to promote the public interest and the public welfare, and in the exercise of its police power, it is necessary to regulate the relationship between motor vehicle dealers and motor vehicle manufacturers, importers, distributors, and their representatives doing business in this state, not only for the protection of dealers but also for the benefit for the public in assuring the continued availability and servicing of automobiles sold to the public.
+
+The legislature recognizes it is in the best interest for manufacturers and dealers of motor vehicles to conduct business with each other in a fair, efficient, and competitive manner. The legislature declares the public interest is best served by dealers being assured of the ability to manage their business enterprises under a contractual obligation with manufacturers where dealers do not experience unreasonable interference and are assured of the ability to transfer ownership of their business without undue constraints. It is the intent of the legislature to impose a regulatory scheme and to regulate competition in the motor vehicle industry to the extent necessary to balance fairness and efficiency. These actions will permit motor vehicle dealers to better serve consumers and allow dealers to devote their best competitive efforts and resources to the sale and services of the manufacturer's products to consumers.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c415.pdf?cite=1989%20c%20415%20§%201[1989 c 415 § 1]; ]
+
+== 46.96.020 - Definitions.
+In addition to the definitions contained in RCW 46.70.011, which are incorporated by reference into this chapter, the definitions set forth in this section apply only for the purposes of this chapter.
+
+. "Completed vehicle" means a vehicle that requires no further manufacturing operations to perform its intended function.
+
+. "Dealer management computer system" means a computer hardware and software system that is owned or leased by a new motor vehicle dealer, including the dealer's use of internet applications, software, or hardware, whether located at an existing dealership facility or provided at a remote location, that provides access to customer records and transactions by a motor vehicle dealer located in this state, and that allows the new motor vehicle dealer timely information in order to sell vehicles, parts, or services through the existing dealership facility.
+
+. "Dealer management computer system vendor" means a seller or reseller of dealer management computer systems, to the extent that the seller or reseller is engaged in such activities.
+
+. "Designated successor" means:
+
+.. The spouse, biological or adopted child, stepchild, grandchild, parent, brother, or sister of the owner of a new motor vehicle dealership who, in the case of the owner's death, is entitled to inherit the ownership interest in the new motor vehicle dealership under the terms of the owner's will or similar document, and if there is no such will or similar document, then under applicable intestate laws;
+
+.. A qualified person experienced in the business of a new motor vehicle dealer who has been nominated by the owner of a new motor vehicle dealership as the successor in a written, notarized, and witnessed instrument submitted to the manufacturer; or
+
+.. In the case of an incapacitated owner of a new motor vehicle dealership, the person who has been appointed by a court as the legal representative of the incapacitated owner's property.
+
+. "Final-stage manufacturer" means a person who purchases an incomplete vehicle from a licensed motor vehicle dealer and performs such manufacturing operations that the incomplete vehicle becomes a completed vehicle.
+
+. "Franchise" means one or more agreements, whether oral or written, between a manufacturer and a new motor vehicle dealer, under which the new motor vehicle dealer is authorized to sell, service, and repair new motor vehicles, parts, and accessories under a common name, trade name, trademark, or service mark of the manufacturer.
+
+"Franchise" includes an oral or written contract and includes a dealer agreement, either expressed or implied, between a manufacturer and a new motor vehicle dealer that purports to fix the legal rights and liabilities between the parties and under which (a) the dealer is granted the right to purchase and resell motor vehicles manufactured, distributed, or imported by the manufacturer; (b) the dealer's business is associated with the trademark, trade name, commercial symbol, or advertisement designating the franchisor or the products distributed by the manufacturer; and (c) the dealer's business relies on the manufacturer for a continued supply of motor vehicles, parts, and accessories.
+
+. "Good faith" means honesty in fact and fair dealing in the trade as defined and interpreted in *RCW 62A.2-103.
+
+. "Incomplete vehicle" means an assemblage consisting of, at a minimum, chassis (including the frame) structure, power train, steering system, suspension system, and braking system, in the state that those systems are to be part of the completed vehicle, but requires further manufacturing operations to become a completed vehicle.
+
+. A "new motor vehicle" is a vehicle that has not been titled by a state and ownership of which may be transferred on a manufacturer's statement of origin (MSO).
+
+. "New motor vehicle dealer" means a motor vehicle dealer engaged in the business of buying, selling, exchanging, or otherwise dealing in new motor vehicles or new and used motor vehicles at an established place of business, under a franchise, sales and service agreement, or contract with the manufacturer of the new motor vehicles. However, "new motor vehicle dealer" does not include a miscellaneous vehicle dealer as defined in RCW 46.70.011(17)(c) or a motorcycle dealer as defined in **chapter 46.94 RCW.
+
+. "Owner" means a person holding an ownership interest in the business entity operating as a new motor vehicle dealer and who is the designated dealer in the new motor vehicle franchise agreement.
+
+. "Person" means every natural person, partnership, corporation, association, trust, estate, or any other legal entity.
+
+. "Security breach" means an incident of unauthorized access to and acquisition of records or data containing new motor vehicle dealer or dealer customer information where unauthorized use of the dealer's customer or dealer information has occurred or is reasonably likely to occur or that creates a material risk of harm to the dealer or dealer's customer. Any incident of unauthorized access to and acquisition of records or data containing dealer or dealer customer information, or any incident of disclosure of dealer customer information to one or more third parties that has not been specifically authorized by the dealer or dealer's customer, constitutes a security breach.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6272-S.SL.pdf?cite=2014%20c%20214%20§%202[2014 c 214 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1445-S.SL.pdf?cite=2003%20c%2021%20§%201[2003 c 21 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c415.pdf?cite=1989%20c%20415%20§%202[1989 c 415 § 2]; ]
+
+== 46.96.030 - Termination, cancellation, or nonrenewal of franchise restricted.
+Notwithstanding the terms of a franchise and notwithstanding the terms of a waiver, no manufacturer may terminate, cancel, or fail to renew a franchise with a new motor vehicle dealer, unless the manufacturer has complied with the notice requirements of RCW 46.96.070 and an administrative law judge has determined, if requested in writing by the new motor vehicle dealer within the applicable time period specified in RCW 46.96.070 (1), (2), or (3), after hearing, that there is good cause for the termination, cancellation, or nonrenewal of the franchise and that the manufacturer has acted in good faith, as defined in this chapter, regarding the termination, cancellation, or nonrenewal. Between the time of issuance of the notice required under RCW 46.96.070 and the effective termination, cancellation, or nonrenewal of the franchise under this chapter, the rights, duties, and obligations of the new motor vehicle dealer and the manufacturer under the franchise and this chapter are unaffected, including those under RCW 46.96.200.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2547-S.SL.pdf?cite=2010%20c%20178%20§%201[2010 c 178 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c415.pdf?cite=1989%20c%20415%20§%203[1989 c 415 § 3]; ]
+
+== 46.96.035 - Payment of fair market value of dealer goodwill upon request and termination, cancellation, or nonrenewal of franchise.
+. In the event of a termination, cancellation, or nonrenewal under this chapter, except for a termination, cancellation, or nonrenewal under RCW 46.96.070(2), or a voluntary termination, cancellation, or nonrenewal initiated by the dealer, the manufacturer shall, at the request and option of the new motor vehicle dealer, also pay to the new motor vehicle dealer the fair market value of the motor vehicle dealer's goodwill for the make or line as of the date immediately preceding any communication to the public or dealer regarding termination. To the extent the franchise agreement provides for the payment or reimbursement to the new motor vehicle dealer in excess of the value specified in this section, the provisions of the franchise agreement control.
+
+. The manufacturer shall pay the new motor vehicle dealer the value specified in subsection (1) of this section within ninety days after the date of termination.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2547-S.SL.pdf?cite=2010%20c%20178%20§%208[2010 c 178 § 8]; ]
+
+== 46.96.040 - Determination of good cause, good faith—Petition, notice, decision, appeal.
+A new motor vehicle dealer who has received written notification from the manufacturer of the manufacturer's intent to terminate, cancel, or not renew the franchise may file a petition with the department for a determination as to the existence of good cause and good faith for the termination, cancellation, or nonrenewal of a franchise. The petition shall contain a short statement setting forth the reasons for the dealer's objection to the termination, cancellation, or nonrenewal of the franchise. Upon the filing of the petition and the receipt of the filing fee, the department shall promptly notify the manufacturer that a timely petition has been filed and shall request the appointment of an administrative law judge under chapter 34.12 RCW to conduct a hearing. The franchise in question shall continue in full force and effect pending the administrative law judge's decision. If the decision of the administrative law judge terminating, canceling, or failing to renew a dealer's franchise is appealed by a dealer, the franchise in question shall continue in full force and effect until the appeal to superior court is finally determined or until the expiration of one hundred eighty days from the date of issuance of the administrative law judge's written decision, whichever is less. Nothing in this section precludes a manufacturer or dealer from petitioning the superior court for a stay or other relief pending judicial review.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c415.pdf?cite=1989%20c%20415%20§%204[1989 c 415 § 4]; ]
+
+== 46.96.050 - Determination of good cause, good faith—Hearing, decision, procedures—Judicial review.
+. The administrative law judge shall conduct the hearing and render a final decision as expeditiously as possible, but in any event not later than one hundred eighty days after a petition is filed. If the termination, cancellation, or nonrenewal is under RCW 46.96.070(2), the administrative law judge shall give the proceeding priority consideration and shall render a final decision not later than sixty days after a petition is filed.
+
+. The administrative law judge shall conduct the hearing as an adjudicative proceeding in accordance with the procedures provided for in the Administrative Procedure Act, chapter 34.05 RCW. The administrative law judge shall render the final decision and shall enter a final order. Except as otherwise provided in RCW 34.05.446 and 34.05.449, all hearing costs shall be borne on an equal basis by the parties to the hearing.
+
+. A party to a hearing under this chapter may be represented by counsel. A party to a hearing aggrieved by the final order of the administrative law judge concerning the termination, cancellation, or nonrenewal of a franchise may seek judicial review of the order in the superior court in the manner provided for in RCW 34.05.510 through 34.05.598. A petitioner for judicial review need not exhaust all administrative appeals or administrative review processes as a prerequisite for seeking judicial review under this section.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c415.pdf?cite=1989%20c%20415%20§%205[1989 c 415 § 5]; ]
+
+== 46.96.060 - Good cause, what constitutes—Burden of proof.
+. Notwithstanding the terms of a franchise or the terms of a waiver, and except as otherwise provided in RCW 46.96.070(2) (a) through (d), good cause exists for termination, cancellation, or nonrenewal when there is a failure by the new motor vehicle dealer to comply with a provision of the franchise that is both reasonable and of material significance to the franchise relationship, if the new motor vehicle dealer was notified of the failure within one hundred eighty days after the manufacturer first acquired knowledge of the failure and the new motor vehicle dealer did not correct the failure after being requested to do so.
+
+If, however, the failure of the new motor vehicle dealer relates to the performance of the new motor vehicle dealer in sales, service, or level of customer satisfaction, good cause is the failure of the new motor vehicle dealer to comply with reasonable performance standards determined by the manufacturer in accordance with uniformly applied criteria, and:
+
+.. The new motor vehicle dealer was advised, in writing, by the manufacturer of the failure;
+
+.. The notice under this subsection stated that notice was provided of a failure of performance under this section;
+
+.. The manufacturer provided the new motor vehicle dealer with specific, reasonable goals or reasonable performance standards with which the dealer must comply, together with a suggested timetable or program for attaining those goals or standards, and the new motor vehicle dealer was given a reasonable opportunity, for a period not less than one hundred eighty days, to comply with the goals or standards; and
+
+.. The new motor vehicle dealer did not substantially comply with the manufacturer's performance standards during that period and the failure to demonstrate substantial compliance was not due to market or economic factors within the new motor vehicle dealer's relevant market area that were beyond the control of the dealer.
+
+. If the new motor vehicle dealer claims insufficient allocation, a manufacturer does not have good cause for termination, cancellation, or nonrenewal, unless:
+
+.. The manufacturer or distributor allocated sufficient inventory in the new motor vehicle dealer's primary allocation, both in quantity and product mix, for the dealers' assigned market area. The inventory must have been delivered in a manner that allowed the dealer to reasonably meet the manufacturer's performance standards; and
+
+.. The manufacturer provides to the new motor vehicle dealer, upon the dealers' request, documentation sufficient to develop a market analysis. This documentation must include, but is not limited to, the allocation of inventory to the dealer and other dealers in the same zone during the period established by the manufacturer, and must not be shared by the dealer with any party not involved in preparing a market analysis or otherwise engaged in the termination proceeding.
+
+. The manufacturer has the burden of proof of establishing good cause and good faith for the termination, cancellation, or nonrenewal of the franchise under this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6272-S.SL.pdf?cite=2014%20c%20214%20§%203[2014 c 214 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c415.pdf?cite=1989%20c%20415%20§%206[1989 c 415 § 6]; ]
+
+== 46.96.070 - Notice of termination, cancellation, or nonrenewal.
+Before the termination, cancellation, or nonrenewal of a franchise, the manufacturer shall give written notification to both the department and the new motor vehicle dealer. For the purposes of this chapter, the discontinuance of the sale and distribution of a new motor vehicle line, or the constructive discontinuance by material reduction in selection offered, such that continuing to retail the line is no longer economically viable for a dealer is, at the option of the dealer, considered a termination, cancellation, or nonrenewal of a franchise. The notice shall be by certified mail or personally delivered to the new motor vehicle dealer and shall state the intention to terminate, cancel, or not renew the franchise, the reasons for the termination, cancellation, or nonrenewal, and the effective date of the termination, cancellation, or nonrenewal. The notice shall be given:
+
+. Not less than ninety days before the effective date of the termination, cancellation, or nonrenewal;
+
+. Not less than fifteen days before the effective date of the termination, cancellation, or nonrenewal with respect to any of the following that constitute good cause for termination, cancellation, or nonrenewal:
+
+.. Insolvency of the new motor vehicle dealer or the filing of any petition by or against the new motor vehicle dealer under bankruptcy or receivership law;
+
+.. Failure of the new motor vehicle dealer to conduct sales and service operations during customary business hours for seven consecutive business days, except for acts of God or circumstances beyond the direct control of the new motor vehicle dealer;
+
+.. Conviction of the new motor vehicle dealer, or principal operator of the dealership, of a felony punishable by imprisonment; or
+
+.. Suspension or revocation of a license that the new motor vehicle dealer is required to have to operate the new motor vehicle dealership where the suspension or revocation is for a period in excess of thirty days;
+
+. Not less than one hundred eighty days before the effective date of termination, cancellation, or nonrenewal, where the manufacturer intends to discontinue sale and distribution of the new motor vehicle line.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2547-S.SL.pdf?cite=2010%20c%20178%20§%202[2010 c 178 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c415.pdf?cite=1989%20c%20415%20§%207[1989 c 415 § 7]; ]
+
+== 46.96.080 - Payments by manufacturer to dealer for inventory, equipment, etc.
+. Upon the termination, cancellation, or nonrenewal of a franchise, the manufacturer shall pay the new motor vehicle dealer, at a minimum:
+
+.. Dealer cost plus any charges by the manufacturer for distribution, delivery, and taxes, less all allowances paid or credited to the dealer by the manufacturer, of unused, undamaged, and unsold new motor vehicles in the new motor vehicle dealer's inventory that were acquired from the manufacturer or another new motor vehicle dealer of the same line make in the ordinary course of business within the previous twelve months;
+
+.. Dealer cost for all unused, undamaged, and unsold supplies, parts, and accessories in original packaging, except that in the case of sheet metal, a comparable substitute for original packaging may be used, if the supply, part, or accessory was acquired from the manufacturer or from another new motor vehicle dealer ceasing operations as a part of the new motor vehicle dealer's initial inventory as long as the supplies, parts, and accessories appear in the manufacturer's current parts catalog, list, or current offering;
+
+.. Dealer cost for all unused, undamaged, and unsold inventory, whether vehicles, parts, or accessories, the purchase of which was required by the manufacturer;
+
+.. The fair market value of each undamaged sign owned by the new motor vehicle dealer that bears a common name, trade name, or trademark of the manufacturer, if acquisition of the sign was recommended or required by the manufacturer and the sign is in good and usable condition less reasonable wear and tear, and has not been depreciated by the dealer more than fifty percent of the value of the sign;
+
+.. The fair market value of all equipment, furnishings, and special tools owned or leased by the new motor vehicle dealer that were acquired from the manufacturer or sources approved by the manufacturer and that were recommended or required by the manufacturer and are in good and usable condition, less reasonable wear and tear. However, if the equipment, furnishings, or tools are leased by the new motor vehicle dealer, the manufacturer shall pay the new motor vehicle dealer such amounts that are required by the lessor to terminate the lease under the terms of the lease agreement; and
+
+.. The cost of transporting, handling, packing, and loading of new motor vehicles, supplies, parts, accessories, signs, special tools, equipment, and furnishings purchased from the manufacturer or manufacturer-approved vendor.
+
+To the extent the franchise agreement provides for payment or reimbursement to the new motor vehicle dealer in excess of that specified in this section, the provisions of the franchise agreement shall control.
+
+. [Empty]
+.. For the nonrenewal or termination of a franchise that is implemented as a result of the sale of assets or stock of the motor vehicle dealer, the party purchasing the assets or stock of the motor vehicle dealer may negotiate for the purchase or other transfer of some or all unused, undamaged, and unsold new motor vehicles in the selling new motor vehicle dealer's inventory that were acquired from the manufacturer or another new motor vehicle dealer of the same line make in the ordinary course of business within the previous twelve months.
+
+.. For the nonrenewal or termination of a franchise that is implemented as a result of the sale of assets or stock of the motor vehicle dealer, this section does not prohibit a manufacturer from negotiating with the purchasing party for the purchase or other transfer of some or all unused, undamaged, and unsold new motor vehicles in the selling new motor vehicle dealer's inventory that were acquired from the manufacturer or another new motor vehicle dealer of the same line make in the ordinary course of business within the previous twelve months.
+
+.. A manufacturer's obligation under (a) of this subsection extends only to vehicles not purchased or otherwise transferred to the party purchasing the assets or stock of the motor vehicle dealer.
+
+. The manufacturer shall pay the new motor vehicle dealer the sums specified in subsection (1) of this section (a) within ninety days after the termination, cancellation, or nonrenewal of the franchise, if the new motor vehicle dealer has clear title to the property or can provide clear title to the property upon payment by the manufacturer and is in a position to convey that title to the manufacturer, or (b) on the date of delivery of the assets to the manufacturer, whichever is earlier.
+
+. In the case of motor homes, this section applies only to manufacturer-initiated termination, cancellation, or nonrenewal of a franchise.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6272-S.SL.pdf?cite=2014%20c%20214%20§%204[2014 c 214 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5595-S.SL.pdf?cite=2009%20c%2012%20§%201[2009 c 12 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c415.pdf?cite=1989%20c%20415%20§%208[1989 c 415 § 8]; ]
+
+== 46.96.090 - Payments by manufacturer for dealership facilities.
+. In the event of a termination, cancellation, or nonrenewal under this chapter, except for termination, cancellation, or nonrenewal under RCW 46.96.070(2) or a voluntary termination, cancellation, or nonrenewal initiated by the dealer, the manufacturer shall, at the request and option of the new motor vehicle dealer, also pay to the new motor vehicle dealer the dealer costs for any relocation, substantial alteration, or remodeling of a dealer's facilities required by a manufacturer for the granting of a franchise or the continuance or renewal of a franchise agreement completed within three years of the termination, cancellation, or nonrenewal and:
+
+.. A sum equivalent to rent for the unexpired term of the lease or one year, whichever is less, or such longer term as provided in the franchise, if the new motor vehicle dealer is leasing the new motor vehicle dealership facilities from a lessor other than the manufacturer; or
+
+.. A sum equivalent to the reasonable rental value of the new motor vehicle dealership facilities for one year or until the facilities are leased or sold, whichever is less, if the new motor vehicle dealer owns the new motor vehicle dealership facilities.
+
+. The rental payment required under subsection (1) of this section is only required to the extent that the facilities were used for activities under the franchise and only to the extent the facilities were not leased for unrelated purposes. If the rental payment under subsection (1) of this section is made, the manufacturer is entitled to possession and use of the new motor vehicle dealership facilities for the period rent is paid.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6272-S.SL.pdf?cite=2014%20c%20214%20§%205[2014 c 214 § 5]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2547-S.SL.pdf?cite=2010%20c%20178%20§%203[2010 c 178 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c415.pdf?cite=1989%20c%20415%20§%209[1989 c 415 § 9]; ]
+
+== 46.96.095 - Compensation by manufacturer for labor and parts required to perform recall repairs—Applicability to certain used vehicles—Reimbursement claims—Recovery of costs—Remedy, exclusive.
+. A manufacturer shall compensate its new motor vehicle dealers for all labor and parts required by the manufacturer to perform recall repairs at rates no lower than those set in accordance with RCW 46.96.105. If parts or a remedy are not reasonably available to perform a recall service or repair on a used vehicle held for sale by a dealer authorized to sell new vehicles of the same line make within fifteen days of the manufacturer issuing the initial notice of recall, and the manufacturer has issued a stop-sale, do-not-drive order, or the manufacturer has not certified that the issue identified in the notice of recall does not affect the safe operation of the vehicle, commencing on the fifteenth day after the notice or order was issued and ending on the earlier of the date that the remedy or repair parts necessary to resolve the recall, stop-sale, or do-not-drive order are available to the dealer for vehicles in the dealer's inventory or the dealer sells, trades, or otherwise disposes of the vehicle, the manufacturer shall compensate the dealer at a prorated rate of at least 1.75 percent of the average trade-in value as indicated in an independent third-party guide for the year, make, model, and mileage of the recalled vehicle, per month, or portion of a month, while the recall or remedy parts are unavailable and the order remains in effect. A manufacturer is not required to compensate a motor vehicle dealer for more than the total trade-in value of the vehicle as established under this section. A manufacturer is not required to compensate a motor vehicle dealer for vehicles purchased by the dealer at a wholesale auction after the date the order was issued. A stop-sale or do-not-drive order is defined as a notification issued by a vehicle manufacturer to its franchised dealers stating that certain used vehicles in inventory should not be sold or leased, at retail or wholesale, due to a federal safety recall for a defect or a noncompliance, or a federal or California emissions recall.
+
+. This section applies only to used vehicles subject to safety or emissions recalls pursuant to and recalled in accordance with federal law and regulations adopted thereunder and where a stop-sale, do-not-drive order has been issued, or the manufacturer has not certified that the issue identified in the notice of recall does not affect the safe operation of the vehicle. This section further applies only to new motor vehicle dealers holding used vehicles for sale that are a line make that the dealer is franchised to sell or on which the dealer is authorized to perform recall repairs.
+
+. All reimbursement claims made by new motor vehicle dealers pursuant to this section for recall remedies or repairs, or for compensation where no part or repair is reasonably available and the vehicle is subject to a stop-sale, do-not-drive, or the manufacturer has not certified that the issue identified in the notice of recall does not affect the safe operation of the vehicle, is subject to the same limitations and requirements as a warranty reimbursement claim made under RCW 46.96.105. Claims shall be either approved or disapproved within thirty days after they are submitted to the manufacturer in the manner and on the forms the manufacturer reasonably prescribes. A manufacturer shall pay a claim within thirty days following approval. Any claim not specifically disapproved in writing within thirty days following receipt is approved.
+
+. A manufacturer may compensate its franchised dealers under a national recall compensation program provided the compensation under the program is equal to or greater than that provided in subsection (1) of this section.
+
+. A manufacturer may not otherwise recover all or any portion of its costs for compensating its dealers licensed in this state for recalled vehicles, parts, and service either by reduction in the amount due to the dealer or by separate charge, surcharge, or other imposition.
+
+. Any remedy provided to a new motor vehicle dealer under this section is exclusive and may not be combined with any other state or federal recall compensation remedy.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6137-S.SL.pdf?cite=2018%20c%20296%20§%201[2018 c 296 § 1]; ]
+
+== 46.96.100 - Mitigation of damages.
+RCW 46.96.030 through 46.96.090 do not relieve a new motor vehicle dealer from the obligation to mitigate the dealer's damages upon termination, cancellation, or nonrenewal of the franchise.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c415.pdf?cite=1989%20c%20415%20§%2010[1989 c 415 § 10]; ]
+
+== 46.96.105 - Warranty work.
+. Each manufacturer shall specify in its franchise agreement, or in a separate written agreement, with each of its dealers licensed in this state, the dealer's obligation to perform warranty work or service on the manufacturer's products. Each manufacturer shall provide each of its dealers with a schedule of compensation to be paid to the dealer for any warranty work or service, including parts, labor, and diagnostic work, required of the dealer by the manufacturer in connection with the manufacturer's products. The schedule of compensation must not be less than the rates charged by the dealer for similar service to retail customers for nonwarranty service and repairs, and must not be less than the schedule of compensation for an existing dealer as of June 10, 2010.
+
+.. The rates charged by the dealer for nonwarranty service or work for parts means the price paid by the dealer for those parts, including all shipping and other charges, increased by the franchisee's average percentage markup. A dealer must establish and declare the dealer's average percentage markup by submitting to the manufacturer one hundred sequential customer-paid service repair orders or ninety days of customer-paid service repair orders, whichever is less, covering repairs made no more than one hundred eighty days before the submission. A change in a dealer's established average percentage markup takes effect thirty days following the submission. A manufacturer may not require a dealer to establish average percentage markup by another methodology. A manufacturer may not require information that the dealer believes is unduly burdensome or time-consuming to provide, including, but not limited to, part-by-part or transaction-by-transaction calculations. In calculating the retail rate customarily charged by the dealer for parts and labor, the following work must not be included in the calculation:
+
+... Repairs for manufacturer or distributor special events, specials, or promotional discounts for retail customer repairs;
+
+... Parts sold at wholesale or at reduced or specially negotiated rates for insurance repairs;
+
+... Routine maintenance not covered under warranty, such as fluids, filters, and belts not provided in the course of repairs;
+
+... Nuts, bolts, fasteners, and similar items that do not have an individual part number;
+
+.. Tires;
+
+.. Batteries and light bulbs; and
+
+.. Vehicle reconditioning.
+
+.. A manufacturer shall compensate a dealer for labor and diagnostic work at the rates charged by the dealer to its retail customers for such work and for any documentation work required by the manufacturer to authorize or verify the work including, but not limited to, photographs, paperwork, and electronic data entry. However, a manufacturer is not required to compensate a dealer more than once for the same documentation work. If a manufacturer can demonstrate that the rates unreasonably exceed those of all other franchised motor vehicle dealers in the same relevant market area offering the same or a competitive motor vehicle line, the manufacturer is not required to honor the rate increase proposed by the dealer. If the manufacturer is not required to honor the rate increase proposed by the dealer, the dealer is entitled to resubmit a new proposed rate for labor and diagnostic work.
+
+.. A dealer may not be granted an increase in the average percentage markup or labor and diagnostic work rate more than once in one calendar year.
+
+. All claims for warranty work for parts and labor made by dealers under this section must be submitted to the manufacturer within ninety days of the date the work was performed. All claims submitted must be paid by the manufacturer within thirty days following receipt, provided the claim has been approved by the manufacturer. The manufacturer has the right to audit claims for warranty work and to charge the dealer for any unsubstantiated, incorrect, or false claims for a period of nine months following payment. However, the manufacturer may audit and charge the dealer for any fraudulent claims during any period for which an action for fraud may be commenced under applicable state law.
+
+. All claims submitted by dealers on the forms and in the manner specified by the manufacturer shall be either approved or disapproved within thirty days following their receipt. The manufacturer shall notify the dealer in writing of any disapproved claim, and shall set forth the reasons why the claim was not approved. Any claim not specifically disapproved in writing within thirty days following receipt is approved, and the manufacturer is required to pay that claim within thirty days of receipt of the claim.
+
+. A manufacturer may not otherwise recover all or any portion of its costs for compensating its dealers licensed in this state for warranty parts and service either by reduction in the amount due to the dealer or by separate charge, surcharge, or other imposition.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6272-S.SL.pdf?cite=2014%20c%20214%20§%206[2014 c 214 § 6]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2547-S.SL.pdf?cite=2010%20c%20178%20§%204[2010 c 178 § 4]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1445-S.SL.pdf?cite=2003%20c%2021%20§%202[2003 c 21 § 2]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6301.SL.pdf?cite=1998%20c%20298%20§%201[1998 c 298 § 1]; ]
+
+== 46.96.110 - Designated successor to franchise ownership.
+. Notwithstanding the terms of a franchise, (a) an owner may appoint a designated successor to succeed to the ownership of the new motor vehicle dealer franchise upon the owner's death or incapacity, or (b) if an owner who has owned the franchise for not less than five consecutive years, the owner may appoint a designated successor to be effective on a date of the owner's choosing that is prior to the owner's death or disability.
+
+. Notwithstanding the terms of a franchise, a designated successor described under subsection (1) of this section may succeed to the ownership interest of the owner under the existing franchise, if:
+
+.. In the case of a designated successor who meets the definition of a designated successor under *RCW 46.96.020(5)(a), but who is not experienced in the business of a new motor vehicle dealer, the person will employ an individual who is qualified and experienced in the business of a new motor vehicle dealer to help manage the day-to-day operations of the motor vehicle dealership; or in the case of a designated successor who meets the definition of a designated successor under *RCW 46.96.020(5) (b) or (c), the person is qualified and experienced in the business of a new motor vehicle dealer and meets the normal, reasonable, and uniformly applied standards for grant of an application as a new motor vehicle dealer by the manufacturer; and
+
+.. The designated successor furnishes written notice to the manufacturer of his or her intention to succeed to the ownership of the new motor vehicle dealership within sixty days after the owner's death or incapacity, or if the appointment is under subsection (1)(b) of this section, at least thirty days before the designated successor's proposed succession; and
+
+.. The designated successor agrees to be bound by all terms and conditions of the franchise.
+
+. The manufacturer may request, and the designated successor shall promptly provide, such personal and financial information as is reasonably necessary to determine whether the succession should be honored.
+
+. A manufacturer may refuse to honor the succession to the ownership of a new motor vehicle dealer franchise by a designated successor if the manufacturer establishes that good cause exists for its refusal to honor the succession. If the designated successor of a new motor vehicle dealer franchise fails to meet the requirements set forth in subsections (2)(a), (b), and (c) of this section, good cause for refusing to honor the succession is presumed to exist. If a manufacturer believes that good cause exists for refusing to honor the succession to the ownership of a new motor vehicle dealer franchise by a designated successor, the manufacturer shall serve written notice on the designated successor and on the department of its refusal to honor the succession no earlier than sixty days from the date the notice is served. The notice must be served not later than sixty days after the manufacturer's receipt of:
+
+.. Notice of the designated successor's intent to succeed to the ownership interest of the new motor vehicle dealer's franchise; or
+
+.. Any personal or financial information requested by the manufacturer.
+
+. The notice in subsection (4) of this section shall state the specific grounds for the refusal to honor the succession. If the notice of refusal is not timely and properly served, the designated successor may continue the franchise in full force and effect, subject to termination only as otherwise provided under this chapter.
+
+. Within twenty days after receipt of the notice or within twenty days after the end of any appeal procedure provided by the manufacturer, whichever is greater, the designated successor may file a petition with the department protesting the refusal to honor the succession. The petition shall contain a short statement setting forth the reasons for the designated successor's protest. Upon the filing of a protest and the receipt of the filing fee, the department shall promptly notify the manufacturer that a timely protest has been filed and shall request the appointment of an administrative law judge under chapter 34.12 RCW to conduct a hearing. The manufacturer shall not terminate or otherwise discontinue the existing franchise until the administrative law judge has held a hearing and has determined that there is good cause for refusing to honor the succession. If an appeal is taken, the manufacturer shall not terminate or discontinue the franchise until the appeal to superior court is finally determined or until the expiration of one hundred eighty days from the date of issuance of the administrative law judge's written decision, whichever is less. Nothing in this section precludes a manufacturer or dealer from petitioning the superior court for a stay or other relief pending judicial review.
+
+. The manufacturer has the burden of proof to show that good cause exists for the refusal to honor the succession.
+
+. The administrative law judge shall conduct the hearing and render a final decision as expeditiously as possible, but in any event not later than one hundred eighty days after a protest is filed.
+
+. The administrative law judge shall conduct any hearing concerning the refusal to the succession as provided in RCW 46.96.050(2) and all hearing costs shall be borne as provided in that subsection. A party to such a hearing aggrieved by the final order of the administrative law judge may appeal as provided and allowed in RCW 46.96.050(3).
+
+. This section does not preclude the owner of a new motor vehicle dealer franchise from designating any person as his or her successor by a written, notarized, and witnessed instrument filed with the manufacturer. In the event of a conflict between such a written instrument that has not been revoked by written notice from the owner to the manufacturer and this section, the written instrument governs.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2547-S.SL.pdf?cite=2010%20c%20178%20§%205[2010 c 178 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c415.pdf?cite=1989%20c%20415%20§%2011[1989 c 415 § 11]; ]
+
+== 46.96.140 - Relevant market area—Definition—New or relocated dealerships, notice of.
+. For the purposes of this section, and throughout this chapter, the term "relevant market area" is defined as follows:
+
+.. If the population in the county in which the proposed new or relocated dealership is to be located is four hundred thousand or more, the relevant market area is the geographic area within a radius of eight miles around the proposed site;
+
+.. If the population in the county in which the proposed new or relocated dealership is to be located is two hundred thousand or more and less than four hundred thousand, the relevant market area is the geographic area within a radius of twelve miles around the proposed site;
+
+.. If the population in the county in which the proposed new or relocated dealership is to be located is less than two hundred thousand, the relevant market area is the geographic area within a radius of sixteen miles around the proposed site.
+
+In determining population for this definition, the most recent census by the United States Bureau of Census or the most recent population update, either from the National Planning Data Corporation or other similar recognized source, shall be accumulated for all census tracts either wholly or partially within the relevant market area.
+
+. For the purpose of RCW 46.96.140 through 46.96.180, the term "motor vehicle dealer" does not include dealerships who exclusively market vehicles 19,000 pounds gross vehicle weight and above.
+
+. Notwithstanding the terms of a franchise and notwithstanding the terms of a waiver, if a manufacturer intends or proposes to enter into a franchise to establish an additional new motor vehicle dealer or to relocate an existing new motor vehicle dealer within or into a relevant market area in which the same line make of motor vehicle is then represented, the manufacturer shall provide at least sixty days advance written notice to the department and to each new motor vehicle dealer of the same line make in the relevant market area, of the manufacturer's intention to establish an additional new motor vehicle dealer or to relocate an existing new motor vehicle dealer within or into the relevant market area. The notice shall be sent by certified mail to each such party and shall include the following information:
+
+.. The specific location at which the additional or relocated motor vehicle dealer will be established;
+
+.. The date on or after which the additional or relocated motor vehicle dealer intends to commence business at the proposed location;
+
+.. The identity of all motor vehicle dealers who are franchised to sell the same line make vehicles as the proposed dealer and who have licensed locations within the relevant market area;
+
+.. The names and addresses, if available, of the owners of and principal investors in the proposed additional or relocated motor vehicle dealership; and
+
+.. The specific grounds or reasons for the proposed establishment of an additional motor vehicle dealer or relocation of an existing dealer.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6039-S.SL.pdf?cite=1994%20c%20274%20§%201[1994 c 274 § 1]; ]
+
+== 46.96.150 - Protest of new or relocated dealership—Hearing—Arbitration.
+. Within thirty days after receipt of the notice under RCW 46.96.140, or within thirty days after the end of an appeal procedure provided by the manufacturer, whichever is greater, a new motor vehicle dealer so notified or entitled to notice may file a petition with the department protesting the proposed establishment or relocation. The petition shall contain a short statement setting forth the reasons for the dealer's objection to the proposed establishment or relocation. Upon the filing of a protest and the receipt of the filing fee, the department shall promptly notify the manufacturer that a timely protest has been filed and shall request the appointment of an administrative law judge under chapter 34.12 RCW to conduct a hearing. The manufacturer shall not establish or relocate the new motor vehicle dealer until the administrative law judge has held a hearing and has determined that there is good cause for permitting the proposed establishment or relocation. When more than one protest is filed against the establishment or relocation of the same dealer, the administrative law judge shall consolidate the hearings to expedite disposition of the matter.
+
+. If a manufacturer provides in the franchise agreement or by written statement distributed and provided to its dealers for arbitration under the Uniform Arbitration Act, chapter 7.04A RCW, as a mechanism for resolving disputes relating to the establishment of an additional new motor vehicle dealer or the relocation of a new motor vehicle dealer, then the provisions of this section and RCW 46.96.170 relating to hearings by an administrative law judge do not apply, and a dispute regarding the establishment of an additional new motor vehicle dealer or the relocation of an existing new motor vehicle dealer shall be determined in an arbitration proceeding conducted in accordance with the Uniform Arbitration Act, chapter 7.04A RCW. The thirty-day period for filing a protest under this section still applies except that the protesting dealer shall file his or her protest with the manufacturer within thirty days after receipt of the notice under RCW 46.96.140.
+
+. The dispute shall be referred for arbitration to such arbitrator as may be agreed upon by the parties to the dispute. If the parties cannot agree upon a single arbitrator within thirty days from the date the protest is filed, the protesting dealer will select an arbitrator, the manufacturer will select an arbitrator, and the two arbitrators will then select a third. If a third arbitrator is not agreed upon within thirty days, any party may apply to the superior court, and the judge of the superior court having jurisdiction will appoint the third arbitrator. The protesting dealer will pay the arbitrator selected by him or her, and the manufacturer will pay the arbitrator it selected. The expense of the third arbitrator and all other expenses of arbitration will be shared equally by the parties. Attorneys' fees and fees paid to expert witnesses are not expenses of arbitration and will be paid by the person incurring them.
+
+. Notwithstanding the terms of a franchise or written statement of the manufacturer and notwithstanding the terms of a waiver, the arbitration will take place in the state of Washington in the county where the protesting dealer has his or her principal place of business. RCW 46.96.160 applies to a determination made by the arbitrator or arbitrators in determining whether good cause exists for permitting the proposed establishment or relocation of a new motor vehicle dealer, and the manufacturer has the burden of proof to establish that good cause exists for permitting the proposed establishment or relocation. After a hearing has been held, the arbitrator or arbitrators shall render a decision as expeditiously as possible, but in any event not later than one hundred twenty days from the date the arbitrator or arbitrators are selected or appointed. The manufacturer shall not establish or relocate the new motor vehicle dealer until the arbitration hearing has been held and the arbitrator or arbitrators have determined that there is good cause for permitting the proposed establishment or relocation. The written decision of the arbitrator is binding upon the parties unless modified, corrected, or vacated under the Washington Arbitration Act. Any party may appeal the decision of the arbitrator under the Uniform Arbitration Act, chapter 7.04A RCW.
+
+. If the franchise agreement or the manufacturer's written statement distributed and provided to its dealers does not provide for arbitration under the Uniform Arbitration Act as a mechanism for resolving disputes relating to the establishment of an additional new motor vehicle dealer or the relocation of a new motor vehicle dealer, then the hearing provisions of this section and RCW 46.96.170 apply. Nothing in this section is intended to preclude a new motor vehicle dealer from electing to use any other dispute resolution mechanism offered by a manufacturer.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209102[2010 c 8 § 9102]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1054-S.SL.pdf?cite=2005%20c%20433%20§%2043[2005 c 433 § 43]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6039-S.SL.pdf?cite=1994%20c%20274%20§%202[1994 c 274 § 2]; ]
+
+== 46.96.160 - Factors considered by administrative law judge.
+In determining whether good cause exists for permitting the proposed establishment or relocation of a new motor vehicle dealer of the same line make, the administrative law judge shall take into consideration the existing circumstances, including, but not limited to:
+
+. The extent, nature, and permanency of the investment of both the existing motor vehicle dealers of the same line make in the relevant market area and the proposed additional or relocating new motor vehicle dealer, including obligations reasonably incurred by the existing dealers to perform their obligations under their respective franchises;
+
+. The growth or decline in population and new motor vehicle registrations during the past five years in the relevant market area;
+
+. The effect on the consuming public in the relevant market area;
+
+. The effect on the existing new motor vehicle dealers in the relevant market area, including any adverse financial impact;
+
+. The reasonably expected or anticipated vehicle market for the relevant market area, including demographic factors such as age of population, income, education, size class preference, product popularity, retail lease transactions, or other factors affecting sales to consumers in the relevant market area;
+
+. Whether it is injurious or beneficial to the public welfare for an additional new motor vehicle dealer to be established;
+
+. Whether the new motor vehicle dealers of the same line make in the relevant market area are providing adequate competition and convenient customer care for the motor vehicles of the same line make in the relevant market area, including the adequacy of motor vehicle sales and service facilities, equipment, supply of vehicle parts, and qualified service personnel;
+
+. Whether the establishment of an additional new motor vehicle dealer would increase competition and be in the public interest;
+
+. Whether the manufacturer is motivated principally by good faith to establish an additional or new motor vehicle dealer and not by noneconomic considerations;
+
+. Whether the manufacturer has denied its existing new motor vehicle dealers of the same line make the opportunity for reasonable growth, market expansion, establishment of a subagency, or relocation;
+
+. Whether the protesting dealer or dealers are in substantial compliance with their dealer agreements or franchises; and
+
+. Whether the manufacturer has complied with the requirements of RCW 46.96.140 and 46.96.150.
+
+In considering the factors set forth in this section, the administrative law judge shall give the factors equal weight, and in making a determination as to whether good cause exists for permitting the proposed establishment or relocation of a new motor vehicle dealer of the same line make, the administrative law judge must find that at least nine of the factors set forth in this section weigh in favor of the manufacturer and in favor of the proposed establishment or relocation of a new motor vehicle dealer.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6039-S.SL.pdf?cite=1994%20c%20274%20§%203[1994 c 274 § 3]; ]
+
+== 46.96.170 - Hearing—Procedures, costs, appeal.
+. The manufacturer has the burden of proof to establish that good cause exists for permitting the proposed establishment or relocation.
+
+. The administrative law judge shall conduct any hearing as provided in RCW 46.96.050(2), and all hearing costs shall be borne as provided in that subsection. The administrative law judge shall render the final decision as expeditiously as possible, but in any event not later than one hundred twenty days after a protest is filed. If more than one protest is filed, the one hundred twenty days commences to run from the date the last protest is filed. A party to such a hearing aggrieved by the final order of the administrative law judge may appeal as provided and allowed in RCW 46.96.050(3).
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6039-S.SL.pdf?cite=1994%20c%20274%20§%204[1994 c 274 § 4]; ]
+
+== 46.96.180 - Exceptions.
+RCW 46.96.140 through 46.96.170 do not apply:
+
+. To the sale or transfer of the ownership or assets of an existing new motor vehicle dealer where the transferee proposes to engage in business representing the same line make at the same location or within two miles of that location;
+
+. To the relocation of an existing new motor vehicle dealer within the dealer's relevant market area, if the relocation is not at a site within eight miles of any new motor vehicle dealer of the same line make;
+
+. If the proposed new motor vehicle dealer is to be established at or within two miles of a location at which a former new motor vehicle dealer of the same line make had ceased operating within the previous twenty-four months;
+
+. Where the proposed relocation is two miles or less from the existing location of the relocating new motor vehicle dealer; or
+
+. Where the proposed relocation is to be further away from all other existing new motor vehicle dealers of the same line make in the relevant market area.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6039-S.SL.pdf?cite=1994%20c%20274%20§%205[1994 c 274 § 5]; ]
+
+== 46.96.185 - Unfair practices—Exemptions—Definitions.
+. Notwithstanding the terms of a franchise agreement, a manufacturer, distributor, factory branch, or factory representative, or an agent, officer, parent company, wholly or partially owned subsidiary, affiliated entity, or other person controlled by or under common control with a manufacturer, distributor, factory branch, or factory representative, shall not:
+
+.. Discriminate between new motor vehicle dealers by selling or offering to sell a like vehicle to one dealer at a lower actual price than the actual price offered to another dealer for the same model similarly equipped;
+
+.. Discriminate between new motor vehicle dealers by selling or offering to sell parts or accessories to one dealer at a lower actual price than the actual price offered to another dealer;
+
+.. Discriminate between new motor vehicle dealers by using a promotion plan, marketing plan, or other similar device that results in a lower actual price on vehicles, parts, or accessories being charged to one dealer over another dealer;
+
+.. Discriminate between new motor vehicle dealers by adopting a method, or changing an existing method, for the allocation, scheduling, or delivery of new motor vehicles, parts, or accessories to its dealers that is not fair, reasonable, and equitable. Upon the request of a dealer, a manufacturer, distributor, factory branch, or factory representative shall disclose in writing to the dealer the method by which new motor vehicles, parts, and accessories are allocated, scheduled, or delivered to its dealers handling the same line or make of vehicles;
+
+.. Discriminate against a new motor vehicle dealer by preventing, offsetting, or otherwise impairing the dealer's right to request a documentary service fee on affinity or similar program purchases. This prohibition applies to, but is not limited to, any promotion plan, marketing plan, manufacturer or dealer employee or employee friends or family purchase programs, or similar plans or programs;
+
+.. Give preferential treatment to some new motor vehicle dealers over others by refusing or failing to deliver, in reasonable quantities and within a reasonable time after receipt of an order, to a dealer holding a franchise for a line or make of motor vehicles sold or distributed by the manufacturer, distributor, factory branch, or factory representative, a new vehicle, parts, or accessories, if the vehicle, parts, or accessories are being delivered to other dealers, or require a dealer to purchase unreasonable advertising displays or other materials, or unreasonably require a dealer to remodel or renovate existing facilities as a prerequisite to receiving a model or series of vehicles;
+
+.. Compete with a new motor vehicle dealer of any make or line by acting in the capacity of a new motor vehicle dealer, or by owning, operating, or controlling, whether directly or indirectly, a motor vehicle dealership in this state. It is not, however, a violation of this subsection for:
+
+... A manufacturer, distributor, factory branch, or factory representative to own or operate a dealership for a temporary period, not to exceed two years, during the transition from one owner of the dealership to another where the dealership was previously owned by a franchised dealer and is currently for sale to any qualified independent person at a fair and reasonable price. The temporary operation may be extended for one twelve-month period on petition of the temporary operator to the department. The matter will be handled as an adjudicative proceeding under chapter 34.05 RCW. A dealer who is a franchisee of the petitioning manufacturer or distributor may intervene and participate in a proceeding under this subsection (1)(g)(i). The temporary operator has the burden of proof to show justification for the extension and a good faith effort to sell the dealership to an independent person at a fair and reasonable price;
+
+... A manufacturer, distributor, factory branch, or factory representative to own or operate a dealership in conjunction with an independent person in a bona fide business relationship for the purpose of broadening the diversity of its dealer body and enhancing opportunities for qualified persons who are part of a group who have historically been underrepresented in its dealer body, or other qualified persons who lack the resources to purchase a dealership outright, and where the independent person: (A) Has made, or within a period of two years from the date of commencement of operation will have made, a significant, bona fide capital investment in the dealership that is subject to loss; (B) has an ownership interest in the dealership; and (C) operates the dealership under a bona fide written agreement with the manufacturer, distributor, factory branch, or factory representative under which he or she will acquire all of the ownership interest in the dealership within a reasonable period of time and under reasonable terms and conditions. The manufacturer, distributor, factory branch, or factory representative has the burden of proof of establishing that the acquisition of the dealership by the independent person was made within a reasonable period of time and under reasonable terms and conditions. Nothing in this subsection (1)(g)(ii) relieves a manufacturer, distributor, factory branch, or factory representative from complying with (a) through (f) of this subsection;
+
+... A manufacturer, distributor, factory branch, or factory representative to own or operate a dealership in conjunction with an independent person in a bona fide business relationship where the independent person: (A) Has made, or within a period of two years from the date of commencement of operation will have made, a significant, bona fide capital investment in the dealership that is subject to loss; (B) has an ownership interest in the dealership; and (C) operates the dealership under a bona fide written agreement with the manufacturer, distributor, factory branch, or factory representative under which he or she will acquire all of the ownership interest in the dealership within a reasonable period of time and under reasonable terms and conditions. The manufacturer, distributor, factory branch, or factory representative has the burden of proof of establishing that the acquisition of the dealership by the independent person was made within a reasonable period of time and under reasonable terms and conditions. The number of dealerships operated under this subsection (1)(g)(iii) may not exceed four percent rounded up to the nearest whole number of a manufacturer's total of new motor vehicle dealer franchises in this state. Nothing in this subsection (1)(g)(iii) relieves a manufacturer, distributor, factory branch, or factory representative from complying with (a) through (f) of this subsection;
+
+... A truck manufacturer to own, operate, or control a new motor vehicle dealership that sells only trucks of that manufacturer's line make with a gross vehicle weight rating of 12,500 pounds or more, and the truck manufacturer has been continuously engaged in the retail sale of the trucks at least since January 1, 1993;
+
+.. A manufacturer to own, operate, or control a new motor vehicle dealership trading exclusively in a single line make of the manufacturer if (A) the manufacturer does not own, directly or indirectly, in the aggregate, in excess of forty-five percent of the total ownership interest in the dealership, (B) at the time the manufacturer first acquires ownership or assumes operation or control of any such dealership, the distance between any dealership thus owned, operated, or controlled and the nearest new motor vehicle dealership trading in the same line make of vehicle and in which the manufacturer has no ownership or control is not less than fifteen miles and complies with the applicable provisions in the relevant market area sections of this chapter, (C) all of the manufacturer's franchise agreements confer rights on the dealer of that line make to develop and operate within a defined geographic territory or area, as many dealership facilities as the dealer and the manufacturer agree are appropriate, and (D) as of January 1, 2000, the manufacturer had no more than four new motor vehicle dealers of that manufacturer's line make in this state, and at least half of those dealers owned and operated two or more dealership facilities in the geographic territory or area covered by their franchise agreements with the manufacturer;
+
+.. A final-stage manufacturer to own, operate, or control a new motor vehicle dealership; or
+
+.. A manufacturer that held a vehicle dealer license in this state on January 1, 2014, to own, operate, or control a new motor vehicle dealership that sells new vehicles that are only of that manufacturer's makes or lines and that are not sold new by a licensed independent franchise dealer, or to own, operate, or control or contract with companies that provide finance, leasing, or service for vehicles that are of that manufacturer's makes or lines;
+
+.. Compete with a new motor vehicle dealer by owning, operating, or controlling, whether directly or indirectly, a service facility in this state for the repair or maintenance of motor vehicles under the manufacturer's new car warranty and extended warranty. Nothing in this subsection (1)(h), however, prohibits a manufacturer, distributor, factory branch, or factory representative from owning or operating a service facility for the purpose of providing or performing maintenance, repair, or service work on motor vehicles that are owned by the manufacturer, distributor, factory branch, or factory representative;
+
+.. Use confidential or proprietary information obtained from a new motor vehicle dealer to unfairly compete with the dealer. For purposes of this subsection (1)(i), "confidential or proprietary information" means trade secrets as defined in RCW 19.108.010, business plans, marketing plans or strategies, customer lists, contracts, sales data, revenues, or other financial information;
+
+.. [Empty]
+... Terminate, cancel, or fail to renew a franchise with a new motor vehicle dealer based upon any of the following events, which do not constitute good cause for termination, cancellation, or nonrenewal under RCW 46.96.060: (A) The fact that the new motor vehicle dealer owns, has an investment in, participates in the management of, or holds a franchise agreement for the sale or service of another make or line of new motor vehicles; (B) the fact that the new motor vehicle dealer has established another make or line of new motor vehicles or service in the same dealership facilities as those of the manufacturer or distributor; (C) that the new motor vehicle dealer has or intends to relocate the manufacturer or distributor's make or line of new motor vehicles or service to an existing dealership facility that is within the relevant market area, as defined in RCW 46.96.140, of the make or line to be relocated, except that, in any nonemergency circumstance, the dealer must give the manufacturer or distributor at least sixty days' notice of his or her intent to relocate and the relocation must comply with RCW 46.96.140 and 46.96.150 for any same make or line facility; or (D) the failure of a franchisee to change the location of the dealership or to make substantial alterations to the use or number of franchises on the dealership premises or facilities.
+
+... Notwithstanding the limitations of this section, a manufacturer may, for separate consideration, enter into a written contract with a dealer to exclusively sell and service a single make or line of new motor vehicles at a specific facility for a defined period of time. The penalty for breach of the contract must not exceed the amount of consideration paid by the manufacturer plus a reasonable rate of interest;
+
+.. Coerce or attempt to coerce a motor vehicle dealer to refrain from, or prohibit or attempt to prohibit a new motor vehicle dealer from acquiring, owning, having an investment in, participating in the management of, or holding a franchise agreement for the sale or service of another make or line of new motor vehicles or related products, or establishing another make or line of new motor vehicles or service in the same dealership facilities, if the prohibition against acquiring, owning, investing, managing, or holding a franchise for such additional make or line of vehicles or products, or establishing another make or line of new motor vehicles or service in the same dealership facilities, is not supported by reasonable business considerations. The burden of proving that reasonable business considerations support or justify the prohibition against the additional make or line of new motor vehicles or products or nonexclusive facilities is on the manufacturer;
+
+.. Require, by contract or otherwise, a new motor vehicle dealer to make a material alteration, expansion, or addition to any dealership facility, unless the required alteration, expansion, or addition is uniformly required of other similarly situated new motor vehicle dealers of the same make or line of vehicles and is reasonable in light of all existing circumstances, including economic conditions. In any proceeding in which a required facility alteration, expansion, or addition is an issue, the manufacturer or distributor has the burden of proof. Except for a program or any renewal or modification of a program that is in effect with one or more new motor vehicle dealers in this state on June 12, 2014, a manufacturer shall not require, coerce, or attempt to coerce any new motor vehicle dealer by program, policy, standard, or otherwise to change the location of the dealership or construct, replace, renovate, or make any substantial changes, alterations, or remodeling to a new motor vehicle dealer's sales or service facilities, except as necessary to comply with health or safety laws or to comply with technology requirements without which a dealer would be unable to service a vehicle the dealer has elected to sell, before the tenth anniversary of the date of issuance of the certificate of occupancy or the manufacturer's approval, whichever is later, from:
+
+... The date construction of the dealership at that location was completed if the construction was in substantial compliance with standards or plans provided by a manufacturer, distributor, or representative or through a subsidiary or agent of the manufacturer, distributor, or representative; or
+
+... The date a prior change, alteration, or remodel of the dealership at that location was completed if the construction was in substantial compliance with standards or plans provided by a manufacturer, distributor, or representative or through a subsidiary or agent of the manufacturer, distributor, or representative;
+
+.. Prevent or attempt to prevent by contract or otherwise any new motor vehicle dealer from changing the executive management of a new motor vehicle dealer unless the manufacturer or distributor, having the burden of proof, can show that a proposed change of executive management will result in executive management by a person or persons who are not of good moral character or who do not meet reasonable, preexisting, and equitably applied standards of the manufacturer or distributor. If a manufacturer or distributor rejects a proposed change in the executive management, the manufacturer or distributor shall give written notice of its reasons to the dealer within sixty days after receiving written notice from the dealer of the proposed change and all related information reasonably requested by the manufacturer or distributor, or the change in executive management must be considered approved;
+
+.. Condition the sale, transfer, relocation, or renewal of a franchise agreement or condition manufacturer, distributor, factory branch, or factory representative sales, services, or parts incentives upon the manufacturer obtaining site control, including rights to purchase or lease the dealer's facility, or an agreement to make improvements or substantial renovations to a facility. For purposes of this section, a substantial renovation has a gross cost to the dealer in excess of five thousand dollars;
+
+.. Fail to provide to a new motor vehicle dealer purchasing or leasing building materials or other facility improvements the right to purchase or lease franchisor image elements of like kind and quality from an alternative vendor selected by the dealer if the goods or services are to be supplied by a vendor selected, identified, or designated by the manufacturer or distributor. If the vendor selected by the manufacturer or distributor is the only available vendor of like kind and quality materials, the new motor vehicle dealer must be given the opportunity to purchase the franchisor image elements at a price substantially similar to the capitalized lease costs of the elements. This subsection (1)(o) must not be construed to allow a new motor vehicle dealer or vendor to gain additional intellectual property rights they are not otherwise entitled to or to impair or eliminate the intellectual property rights of the manufacturer or distributor or to permit a new motor vehicle dealer to erect or maintain signs that do not conform to the reasonable intellectual property usage guidelines of the manufacturer or distributor;
+
+.. Take any adverse action against a new motor vehicle dealer including, but not limited to, charge backs or reducing vehicle allocations, for sales and service performance within a designated area of primary responsibility unless that area is reasonable in light of proximity to relevant census tracts to the dealership and competing dealerships, highways and road networks, any natural or man-made barriers, demographics, including economic factors, buyer behavior information, and contains only areas inside the state of Washington unless specifically approved by the new motor vehicle dealer;
+
+.. Require, coerce, or attempt to coerce any new motor vehicle dealer by program, policy, facility guide, standard, or otherwise to order or accept delivery of any service or repair appliances, equipment, parts, or accessories, or any other commodity not required by law, which the dealer has not voluntarily ordered or which the dealer does not have the right to return unused for a full refund within ninety days or a longer period as mutually agreed upon by the dealer and manufacturer; or
+
+.. Modify the franchise agreement for any new motor vehicle dealer unless the manufacturer notifies the dealer in writing of its intention to modify the agreement at least ninety days before the effective date thereof, stating the specific grounds for the modification, and undertakes the modification in good faith, for good cause, and in a manner that would not adversely and substantially alter the rights, obligations, investment, or return on investment of the franchised new motor vehicle dealer under the existing agreement.
+
+. Subsection (1)(a), (b), and (c) of this section do not apply to sales to a motor vehicle dealer: (a) For resale to a federal, state, or local government agency; (b) where the vehicles will be sold or donated for use in a program of driver's education; (c) where the sale is made under a manufacturer's bona fide promotional program offering sales incentives or rebates; (d) where the sale of parts or accessories is under a manufacturer's bona fide quantity discount program; or (e) where the sale is made under a manufacturer's bona fide fleet vehicle discount program. For purposes of this subsection, "fleet" means a group of fifteen or more new motor vehicles purchased or leased by a dealer at one time under a single purchase or lease agreement for use as part of a fleet, and where the dealer has been assigned a fleet identifier code by the department of licensing.
+
+. The following definitions apply to this section:
+
+.. "Actual price" means the price to be paid by the dealer less any incentive paid by the manufacturer, distributor, factory branch, or factory representative, whether paid to the dealer or the ultimate purchaser of the vehicle.
+
+.. "Control" or "controlling" means (i) the possession of, title to, or control of ten percent or more of the voting equity interest in a person, whether directly or indirectly through a fiduciary, agent, or other intermediary, or (ii) the possession, direct or indirect, of the power to direct or cause the direction of the management or policies of a person, whether through the ownership of voting securities, through director control, by contract, or otherwise, except as expressly provided under the franchise agreement.
+
+.. "Motor vehicles" does not include trucks that are 14,001 pounds gross vehicle weight and above or recreational vehicles as defined in RCW 43.22.335.
+
+.. "Operate" means to manage a dealership, whether directly or indirectly.
+
+.. "Own" or "ownership" means to hold the beneficial ownership of one percent or more of any class of equity interest in a dealership, whether the interest is that of a shareholder, partner, limited liability company member, or otherwise. To hold an ownership interest means to have possession of, title to, or control of the ownership interest, whether directly or indirectly through a fiduciary, agent, or other intermediary.
+
+. A violation of this section is deemed to affect the public interest and constitutes an unlawful and unfair practice under chapter 19.86 RCW. A person aggrieved by an alleged violation of this section may petition the department to have the matter handled as an adjudicative proceeding under chapter 34.05 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6137-S.SL.pdf?cite=2018%20c%20296%20§%202[2018 c 296 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6272-S.SL.pdf?cite=2014%20c%20214%20§%207[2014 c 214 § 7]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2547-S.SL.pdf?cite=2010%20c%20178%20§%206[2010 c 178 § 6]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1445-S.SL.pdf?cite=2003%20c%2021%20§%203[2003 c 21 § 3]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6220-S.SL.pdf?cite=2000%20c%20203%20§%201[2000 c 203 § 1]; ]
+
+== 46.96.190 - Prohibited practices by manufacturer.
+A manufacturer shall not coerce, threaten, intimidate, or require a new motor vehicle dealer, as a condition to granting or renewing a franchise, to waive, limit, or disclaim a right that the dealer may have to protest the establishment or relocation of another motor vehicle dealer in the relevant market area as provided in RCW 46.96.150.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6039-S.SL.pdf?cite=1994%20c%20274%20§%206[1994 c 274 § 6]; ]
+
+== 46.96.192 - Prohibited practices by manufacturer—Adverse action against dealer if vehicle exported or resold by customer.
+A manufacturer may not take or threaten to take any adverse action against a new motor vehicle dealer, including charge backs, reducing vehicle allocations, or terminating or threatening to terminate a franchise, because the dealer sold or leased a vehicle to a customer who exported the vehicle to a foreign country or who resold the vehicle, unless the manufacturer or distributor definitively proves that the dealer knew or reasonably should have known that the customer intended to export or resell the vehicle. A manufacturer or distributor shall, upon demand, indemnify, hold harmless, and defend any existing or former franchisee or franchisee's successors or assigns from any and all claims asserted, or damages sustained and attorneys' fees and other expenses reasonably incurred by the franchisee that result from or relate to any claim made or asserted, by a third party against the franchisee for any policy, program, or other behavior suggested by the manufacturer for sales of vehicles to parties that intend to export a vehicle purchased from the franchisee.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2547-S.SL.pdf?cite=2010%20c%20178%20§%2010[2010 c 178 § 10]; ]
+
+== 46.96.194 - Prohibited practices by manufacturer—Dealer waiver of chapter—Exceptions.
+A manufacturer or distributor shall not enter into an agreement or understanding with a new motor vehicle dealer that requires the dealer to waive any provisions of this chapter. However, a dealer may, by written contract and for valuable and reasonable separate consideration, waive, limit, or disclaim a manufacturer's obligations or a dealer's rights under RCW 46.96.080, 46.96.090, 46.96.105, 46.96.140, and 46.96.150, if the contract sets forth the specific provisions of this chapter that are waived, limited, or disclaimed. A manufacturer shall not coerce, threaten, intimidate, or require a new motor vehicle dealer, as a condition to granting or renewing a franchise, to enter into such an agreement or understanding.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2547-S.SL.pdf?cite=2010%20c%20178%20§%2012[2010 c 178 § 12]; ]
+
+== 46.96.196 - Practices by brand owner.
+. Notwithstanding the terms of a franchise agreement, a brand owner shall not directly or indirectly:
+
+.. Require a new motor vehicle dealer to offer a secondary product;
+
+.. Require a new motor vehicle dealer to provide a customer with a disclosure not otherwise required by law; or
+
+.. Prohibit a new motor vehicle dealer from offering a secondary product including, but not limited to:
+
+... Service contracts;
+
+... Maintenance agreements;
+
+... Extended warranties;
+
+... Protection product guarantees;
+
+.. Guaranteed asset protection waivers;
+
+.. Insurance;
+
+.. Replacement parts;
+
+.. Vehicle accessories;
+
+... Oil; or
+
+.. Supplies.
+
+. It is not a violation of this section for a brand owner to offer an incentive program to new motor vehicle dealers to encourage them to sell or offer to sell a secondary product approved, endorsed, sponsored, or offered by the brand owner, provided the program does not provide vehicle sales or service incentives.
+
+. It is not a violation of this section for a brand owner to prohibit a new motor vehicle dealer from using secondary products for any repair work paid for by the brand owner under the terms of a warranty, recall, service contract, extended warranty, maintenance plan, or certified preowned vehicle program established or offered by the brand owner.
+
+. For the purposes of this section:
+
+.. "Brand owner" means a manufacturer, distributor, factory branch, factory representative, agent, officer, parent company, wholly or partially owned subsidiary, affiliate entity, or other person under common control with a factory, importer, or distributor.
+
+.. "Common control" has the same meaning as in RCW 48.31B.005.
+
+.. "Customer" means the retail purchaser of a vehicle or secondary product from a new motor vehicle dealer.
+
+.. "Original equipment manufacturer parts" means parts manufactured by or for a vehicle's original manufacturer or its designee.
+
+.. "Secondary product" means all products that are not new motor vehicles or original equipment manufacturer parts.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2374-S.SL.pdf?cite=2020%20c%20174%20§%201[2020 c 174 § 1]; ]
+
+== 46.96.200 - Sale, transfer, or exchange of franchise.
+. Notwithstanding the terms of a franchise, a manufacturer shall not withhold consent to the sale, transfer, or exchange of a franchise to a qualified buyer who meets the normal, reasonable, and uniformly applied standards established by the manufacturer for the appointment of a new dealer who does not already hold a franchise with the manufacturer or is capable of being licensed as a new motor vehicle dealer in the state of Washington. A decision or determination made by the administrative law judge as to whether a qualified buyer is capable of being licensed as a new motor vehicle dealer in the state of Washington is not conclusive or determinative of any ultimate determination made by the department of licensing as to the buyer's qualification for a motor vehicle dealer license. A manufacturer's failure to respond in writing to a request for consent under this subsection within sixty days after receipt of a written request on the forms, if any, generally used by the manufacturer containing the information and reasonable promises required by a manufacturer is deemed to be consent to the request. A manufacturer may request, and, if so requested, the applicant for a franchise (a) shall promptly provide such personal and financial information as is reasonably necessary to determine whether the sale, transfer, or exchange should be approved, and (b) shall agree to be bound by all reasonable terms and conditions of the franchise.
+
+. If a manufacturer refuses to approve the sale, transfer, or exchange of a franchise, the manufacturer shall serve written notice on the applicant, the transferring, selling, or exchanging new motor vehicle dealer, and the department of its refusal to approve the transfer of the franchise no later than sixty days after the date the manufacturer receives the written request from the new motor vehicle dealer. If the manufacturer has requested personal or financial information from the applicant under subsection (1) of this section, the notice shall be served not later than sixty days after the receipt of all of such documents. Service of all notices under this section shall be made by personal service or by certified mail, return receipt requested.
+
+. The notice in subsection (2) of this section shall state the specific grounds for the refusal to approve the sale, transfer, or exchange of the franchise.
+
+. Within twenty days after receipt of the notice of refusal to approve the sale, transfer, or exchange of the franchise by the transferring new motor vehicle dealer, the new motor vehicle dealer may file a petition with the department to protest the refusal to approve the sale, transfer, or exchange. The petition shall contain a short statement setting forth the reasons for the dealer's protest. Upon the filing of a protest and the receipt of the filing fee, the department shall promptly notify the manufacturer that a timely protest has been filed, and the department shall arrange for a hearing with an administrative law judge as the presiding officer to determine if the manufacturer unreasonably withheld consent to the sale, transfer, or exchange of the franchise.
+
+. The administrative law judge shall conduct a hearing and render a final decision as expeditiously as possible, but in any event not later than one hundred twenty days after a protest is filed. Only the selling, transferring, or exchanging new motor vehicle dealer and the manufacturer may be parties to the hearing.
+
+. The administrative law judge shall conduct any hearing as provided in RCW 46.96.050(2), and all hearing costs shall be borne as provided in that subsection. Only the manufacturer and the selling, transferring, or exchanging new motor vehicle dealer may appeal the final order of the administrative law judge as provided in RCW 46.96.050(3).
+
+. This section and RCW 46.96.030 through 46.96.110 apply to all franchises and contracts existing on July 23, 1989, between manufacturers and new motor vehicle dealers as well as to all future franchises and contracts between manufacturers and new motor vehicle dealers.
+
+. RCW 46.96.140 through 46.96.190 apply to all franchises and contracts existing on October 1, 1994, between manufacturers and new motor vehicle dealers as well as to all future franchises and contracts between manufacturers and new motor vehicle dealers.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2547-S.SL.pdf?cite=2010%20c%20178%20§%207[2010 c 178 § 7]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6039-S.SL.pdf?cite=1994%20c%20274%20§%207[1994 c 274 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c415.pdf?cite=1989%20c%20415%20§%2018[1989 c 415 § 18]; ]
+
+== 46.96.210 - Petition and hearing—Filing fee, costs, security.
+The department shall determine and establish the amount of the filing fee required in RCW 46.96.040, 46.96.110, 46.96.150, and 46.96.200. The fees shall be set in accordance with RCW 43.24.086.
+
+The department may also require the petitioning or protesting party to give security, in such sum as the department deems proper but not in any event to exceed one thousand dollars, for the payment of such costs as may be incurred in conducting the hearing as required under this chapter. The security may be given in the form of a bond or stipulation or other undertaking with one or more sureties.
+
+At the conclusion of the hearing, the department shall assess, in equal shares, each of the parties to the hearing for the cost of conducting the hearing. Upon receipt of payment of the costs, the department shall refund and return to the petitioning party such excess funds, if any, initially posted by the party as security for the hearing costs. If the petitioning party provided security in the form of a bond or other undertaking with one or more sureties, the bond or other undertaking shall then be exonerated and the surety or sureties under it discharged.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6039-S.SL.pdf?cite=1994%20c%20274%20§%208[1994 c 274 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c415.pdf?cite=1989%20c%20415%20§%2019[1989 c 415 § 19]; ]
+
+== 46.96.220 - Right of first refusal.
+. In the event of a proposed sale or transfer of a new motor vehicle dealership involving the transfer or sale of more than fifty percent of the ownership interest in, or more than fifty percent of the assets of, the dealership at the time of the transfer or sale, where the franchise agreement for the dealership contains a right of first refusal in favor of the manufacturer or distributor, then notwithstanding the terms of the franchise agreement, the manufacturer or distributor must be permitted to exercise a right of first refusal to acquire the dealership only if all of the following requirements are met:
+
+.. The manufacturer or distributor sends by certified mail, return receipt requested, or delivers by personal service, notice of its intent to exercise its right of first refusal within the lesser of (i) forty-five days of receipt of the completed proposal for the proposed sale or transfer, or (ii) the time period specified in the dealership's franchise agreement; and
+
+.. The exercise of the right of first refusal will result in the motor vehicle dealer receiving consideration, terms, and conditions that are equal to or better than that for which the dealer has contracted in connection with the proposed transaction.
+
+. Notwithstanding subsection (1) of this section, the manufacturer's or distributor's right of first refusal does not apply to transfer of a dealership under RCW 46.96.110, and does not apply to a proposed transaction involving any of the following purchasers or transferees:
+
+.. A purchaser or transferee who has been preapproved by the manufacturer or distributor with respect to the transaction;
+
+.. A family member or members, including the spouse, biological or adopted child, stepchild, grandchild, spouse of a child or grandchild, brother, sister, or parent of the dealer-operator, or one or more of the dealership's owners;
+
+.. A manager continuously employed by the motor vehicle dealer in the dealership during the previous three years who is otherwise qualified as a dealer-operator by meeting the reasonable and uniformly applied standards for approval of an application as a new motor vehicle dealer-operator by the manufacturer;
+
+.. A partnership, corporation, limited liability company, or other entity controlled by any of the family members, identified in (b) of this subsection, of the dealer-operator; or
+
+.. A trust established or to be established for the purpose of allowing the new motor vehicle dealer to continue to qualify as such under the manufacturer's or distributor's standards, or provides for the succession of the franchise agreement to designated family members identified in (b) of this subsection, or qualified management identified in (c) of this subsection, in the event of the death or incapacity of the dealer-operator or its principal owner or owners.
+
+. As a condition to the manufacturer or distributor exercising its right of first refusal, the manufacturer or distributor shall pay the reasonable expenses, including attorneys' fees, incurred by the dealer's proposed purchaser or transferee in negotiating, and undertaking any action to consummate, the contract for the proposed sale of the dealership up to the time of the manufacturer's or distributor's exercise of that right. In addition, the manufacturer or distributor shall pay any fees and expenses of the motor vehicle dealer arising on and after the date the manufacturer or distributor gives notice of the exercise of its right of first refusal, and incurred by the motor vehicle dealer as a result of alterations to documents, or additional appraisals, valuations, or financial analyses caused or required of the dealer by the manufacturer or distributor to consummate the contract for the sale of the dealership to the manufacturer's or distributor's proposed transferee, that would not have been incurred but for the manufacturer's or distributor's exercise of its right of first refusal. These expenses and fees must be paid by the manufacturer or distributor to the dealer and to the dealer's proposed purchaser or transferee on or before the closing date of the sale of the dealership to the manufacturer or distributor if the party entitled to reimbursement has submitted or caused to be submitted to the manufacturer or distributor, an accounting of these expenses and fees within thirty days after receipt of the manufacturer's or distributor's written request for the accounting. A manufacturer or distributor may request the accounting before exercising its right of first refusal.
+
+. As a further condition to the exercise of its right of first refusal, a manufacturer or distributor shall assume and guarantee the lease or shall acquire the real property on which the motor vehicle franchise is conducted. Unless otherwise agreed to by the dealer and manufacturer or distributor, the lease terms or the real property acquisition terms must be the same as those on which the lease or property was to be transferred or sold to the dealer's proposed purchaser or transferee.
+
+. If the selling dealer has disclosed to the proposed purchaser or transferee, in writing, the existence of the manufacturer's or distributor's right of first refusal, then the selling dealer has no liability to the proposed purchaser or transferee for a claim for damages resulting from the manufacturer or distributor exercising its right of first refusal. If the existence of the manufacturer's or distributor's right of first refusal was disclosed by the selling dealer to the proposed purchaser or transferee, in writing, before or at the time of execution of the purchase and sale or transfer agreement, the manufacturer or distributor shall indemnify, hold harmless, and defend the selling dealer from and against any and all claims, damages, losses, actions, or causes of action asserted by the dealer's proposed purchaser or transferee against the selling dealer arising from the manufacturer's or distributor's exercise of its right of first refusal, and has the right, under this section, to file a motion on behalf of the dealer to dismiss the actions or causes of action asserted by the dealer's proposed purchaser or transferee.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1445-S.SL.pdf?cite=2003%20c%2021%20§%204[2003 c 21 § 4]; ]
+
+== 46.96.230 - Manufacturer incentive programs.
+. A manufacturer or distributor shall pay a motor vehicle dealer's claim for payment or other compensation due under a manufacturer incentive program within thirty days after approval of the claim. A claim that is not disapproved or disallowed within thirty days after the manufacturer or distributor receives the claim is deemed automatically approved. If the motor vehicle dealer's claim is not approved, the manufacturer or distributor shall provide the dealer with written notice of the reasons for the disapproval at the time notice of disapproval is given.
+
+. A manufacturer may not deny a claim based solely on a motor vehicle dealer's incidental failure to comply with a specific claim-processing requirement that results in a clerical error or other administrative technicality.
+
+. Notwithstanding the terms of a franchise agreement or other contract with a manufacturer or distributor, a motor vehicle dealer has one year after the expiration of a manufacturer or distributor incentive program to submit a claim for payment or compensation under the program.
+
+. Notwithstanding the terms of a franchise agreement or other contract with a dealer and except as provided in subsection (5) of this section, after the expiration of one year after the date of payment of a claim under a manufacturer or distributor incentive program, a manufacturer or distributor may not:
+
+.. Charge back to a motor vehicle dealer, whether directly or indirectly, the amount of a claim that has been approved and paid by the manufacturer or distributor under an incentive program;
+
+.. Charge back to a motor vehicle dealer, whether directly or indirectly, the cash value of a prize or other thing of value awarded to the dealer under an incentive program; or
+
+.. Audit the records of a motor vehicle dealer to determine compliance with the terms of an incentive program. Where, however, a manufacturer or distributor has reasonable grounds to believe that the dealer committed fraud with respect to the incentive program, the manufacturer or distributor may audit the dealer for a fraudulent claim during any period for which an action for fraud may be commenced under applicable state law.
+
+. Notwithstanding subsection (4)(a) and (b) of this section, a manufacturer or distributor may make charge-backs to a motor vehicle dealer if, after completion of an audit of the dealer's records, the manufacturer or distributor can show, by a preponderance of the evidence, that (a) the claim was intentionally false or fraudulent at the time it was submitted to the manufacturer or distributor, or (b) with respect to a claim under a service incentive program, the repair work was improperly performed in a substandard manner or was unnecessary to correct a defective condition.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1445-S.SL.pdf?cite=2003%20c%2021%20§%205[2003 c 21 § 5]; ]
+
+== 46.96.240 - Venue.
+Notwithstanding the provisions of a franchise agreement or other provision of law to the contrary, the venue for a cause of action, claim, lawsuit, administrative hearing or proceeding, arbitration, or mediation, whether arising under this chapter or otherwise, in which the parties or litigants are a manufacturer or distributor and one or more motor vehicle dealers, is the state of Washington. It is the public policy of this state that venue provided for in this section may not be modified or waived in any contract or other agreement, and any provision contained in a franchise agreement that requires arbitration or litigation to be conducted outside the state of Washington is void and unenforceable.
+
+This section does not apply to a voluntary dispute resolution procedure that is not binding on the dealer.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1445-S.SL.pdf?cite=2003%20c%2021%20§%206[2003 c 21 § 6]; ]
+
+== 46.96.250 - Immunity of franchisees and assigns.
+A manufacturer shall, upon demand, indemnify and hold harmless any existing or former franchisee and the franchisee's successors and assigns from any and all damages sustained and attorneys' fees and other expenses reasonably incurred by the franchisee that result from or relate to any claim made or asserted by a third party against the franchisee to the extent the claim results from any of the following:
+
+. The condition, characteristics, manufacture, assembly, or design of any vehicle, parts, accessories, tools, or equipment, or the selection or combination of parts or components manufactured or distributed by the manufacturer or distributor;
+
+. Service systems, procedures, or methods that the franchisor required or recommended the franchisee to use;
+
+. Improper use by the manufacturer, its assignees, contractors, representatives, or licensees of nonpublic personal information obtained from a franchisee concerning any consumer, customer, or employee of the franchisee; or
+
+. Any act or omission of the manufacturer or distributor for which the franchisee would have a claim for contribution or indemnity under applicable law or under the franchise, irrespective of any prior termination or expiration of the franchise.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2547-S.SL.pdf?cite=2010%20c%20178%20§%209[2010 c 178 § 9]; ]
+
+== 46.96.260 - Civil actions for violations.
+A new motor vehicle dealer who is injured in his or her business or property by a violation of this chapter, or any corporation or association that is primarily owned by or composed of new motor vehicle dealers and that primarily represents the interests of new motor vehicle dealers and is acting for itself or by, for, or on behalf of one or more new motor vehicle dealers, has standing to file a petition to the department to have the matter handled as an adjudicative proceeding under chapter 34.05 RCW, or may bring a civil action in a court of competent jurisdiction to recover the actual damages sustained by the dealer, to seek declaratory relief, or to enjoin further violations, together with the costs of the suit, including reasonable attorneys' fees if the new motor vehicle dealer, corporation, or association prevails. In addition, the court may, in its discretion, increase the award of damages up to an amount not to exceed three times the actual damages sustained for a willful violation. If a petition is filed with the department, the petition must be accompanied with a filing fee in accordance with RCW 46.96.210.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6137-S.SL.pdf?cite=2018%20c%20296%20§%203[2018 c 296 § 3]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2547-S.SL.pdf?cite=2010%20c%20178%20§%2011[2010 c 178 § 11]; ]
+
+== 46.96.270 - Release of dealer and customer data and information—Access to management computer systems—Immunity.
+. Notwithstanding the terms or conditions of any consent, authorization, release, novation, franchise, or other contract or agreement, whenever any manufacturer, factory branch, distributor, distributor branch, dealer management computer system vendor, or any third party acting on behalf of or through, or approved, referred, endorsed, authorized, certified, granted preferred status, or recommended by, any manufacturer, factory branch, distributor, distributor branch, or dealer management computer system vendor, requires that a new motor vehicle dealer provide any other new motor vehicle dealer, consumer, or customer data or information through direct access to the dealer's management computer system, the new motor vehicle dealer is not required to provide, and may not be required to consent to provide in any written agreement, such direct access to its management computer system.
+
+However, the new motor vehicle dealer may provide any other new motor vehicle dealer, consumer, or customer data or information specified by the requesting party by timely obtaining and pushing or otherwise furnishing the requested data to the requesting party in a widely accepted file format, such as comma delimited, provided that when a new motor vehicle dealer would otherwise be required to provide direct access to its management computer system under the terms of a consent, authorization, release, novation, franchise, or other contract or agreement, a new motor vehicle dealer that elects to provide data or information through other means may be charged a reasonable initial set-up fee and reasonable processing fee based on the actual incremental costs incurred by the party requesting the data for establishing and implementing the process for the dealer. Any term or provision contained in any consent, authorization, release, novation, franchise, or other contract or agreement that is inconsistent with this subsection is voidable at the option of the new motor vehicle dealer.
+
+. Notwithstanding the terms or conditions of any consent, authorization, release, novation, franchise, or other contract or agreement, every manufacturer, factory branch, distributor, distributor branch, or any third party acting on behalf of or through any manufacturer, factory branch, distributor, or distributor branch, having electronic access to consumer or customer data or other information in a computer system utilized by a new motor vehicle dealer, or who has otherwise been provided consumer or customer data or information by the dealer, shall fully indemnify and hold harmless the dealer from whom it has acquired the consumer or customer data or other information from all damages, costs, and expenses incurred by the dealer including, but not limited to, judgments, settlements, fines, penalties, litigation costs, defense costs, court costs, costs related to the disclosure of security breaches, and attorneys' fees arising out of complaints, claims, security breaches, civil or administrative actions, and, to the fullest extent allowable under the law, governmental investigations and prosecutions to the extent caused by the manufacturer, factory branch, distributor, distributor branch, or third party acting on behalf of the manufacturer, factory branch, distributor, or distributor branch's access, storage, maintenance, use, sharing, disclosure, or retention of the dealer's consumer or customer data or other information, or maintenance or services provided to any computer system utilized by the dealer by the manufacturer, factory branch, distributor, distributor branch, or third party acting on behalf of or through the manufacturer, factory branch, distributor, or distributor branch.
+
+. Notwithstanding the terms or conditions of any consent, authorization, release, novation, franchise, or other contract or agreement, a dealer management computer system vendor or any third party acting on behalf of or through any dealer management computer system vendor, having electronic access to consumer or customer data or other information in a computer system utilized by a new motor vehicle dealer, or who has otherwise been provided consumer or customer data or information by the dealer, shall fully indemnify and hold harmless the dealer from whom it has acquired the consumer or customer data or other information from all damages, costs, and expenses incurred by the dealer including, but not limited to, judgments, settlements, fines, penalties, litigation costs, defense costs, court costs, costs related to the disclosure of security breaches, and attorneys' fees arising out of complaints, claims, security breaches, civil or administrative actions, and, to the fullest extent allowable under the law, governmental investigations and prosecutions to the extent caused by the dealer management computer system vendor or any third party acting on behalf of the dealer management computer system vendor's access, storage, maintenance, use, sharing, disclosure, or retention of the dealer's consumer or customer data or other information, or maintenance or services provided to any computer system utilized by the dealer, by the dealer management computer system vendor or third party acting on behalf of or through the dealer management computer system vendor.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6272-S.SL.pdf?cite=2014%20c%20214%20§%208[2014 c 214 § 8]; ]
+

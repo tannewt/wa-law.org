@@ -1,0 +1,18 @@
+= 35A.84 - Taxation—Property.
+:toc:
+
+== 35A.84.010 - Procedure and rules relating to ad valorem taxes.
+The taxation of property in code cities shall be governed by general provisions of the law including, but not limited to, the provisions of: (1) Chapter 84.09 RCW, relating to the time for establishment of official boundaries of taxing districts on the first day of March of each year; (2) chapter 84.12 RCW relating to the assessment and taxation of public utilities; (3) chapter 84.16 RCW, relating to the apportionment of taxation on private car companies; (4) chapter 84.20 RCW, relating to the taxation of easements of public utilities; (5) *chapter 84.24 RCW, relating to the reassessment of property; (6) chapter 84.36 RCW, relating to property subject to taxation and exemption therefrom; (7) chapter 84.40 RCW relating to the listing of property for assessment; (8) chapter 84.41 RCW, relating to reevaluation of property; (9) chapter 84.44 RCW, relating to the taxable situs of personalty; (10) chapter 84.48 RCW, relating to the equalization of assessments; (11) chapter 84.52 RCW, relating to the levy of taxes, both regular and excess; (12) chapter 84.56 RCW, relating to the collection of taxes; (13) chapter 84.60 RCW, relating to the lien of taxes and the priority thereof; (14) chapter 84.69 RCW, relating to refunds and claims therefor against the code city; and (15) RCW 41.16.060, relating to taxation for firefighters' pension fund.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5077-S.SL.pdf?cite=2013%20c%2023%20§%2066[2013 c 23 § 66]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c119.pdf?cite=1967%20ex.s.%20c%20119%20§%2035A.84.010[1967 ex.s. c 119 § 35A.84.010]; ]
+
+== 35A.84.020 - Assessment for and collection of ad valorem taxes.
+For the purpose of assessment of all property in all code cities, other than code cities having a population of more than twenty thousand inhabitants, the county assessor of the county wherein such code city is situated shall be the ex officio assessor, and as to the code cities having a population of more than twenty thousand inhabitants such county assessor shall perform the duties as provided in *RCW 36.21.020.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c119.pdf?cite=1967%20ex.s.%20c%20119%20§%2035A.84.020[1967 ex.s. c 119 § 35A.84.020]; ]
+
+== 35A.84.030 - Ex officio collector of code city taxes.
+The treasurer of the county wherein a code city is situated shall be the ex officio collector of such code city's taxes and give bond, and account for the city's funds as provided in chapter 36.29 RCW.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c119.pdf?cite=1967%20ex.s.%20c%20119%20§%2035A.84.030[1967 ex.s. c 119 § 35A.84.030]; ]
+

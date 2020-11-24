@@ -1,0 +1,13 @@
+= 60.66 - Lien of hotels, lodging and boarding houses—1890 act.
+:toc:
+
+== 60.66.010 - Lien on property of guest.
+Hereafter all hotel keepers, inn keepers, lodging house keepers and boarding house keepers in this state shall have a lien upon the baggage, property, or other valuables of their guests, lodgers or boarders, brought into such hotel, inn, lodging house or boarding house by such guests, lodgers or boarders, for the proper charges due from such guests, lodgers or boarders for their accommodation, board or lodging and such other extras as are furnished at their request, and shall have the right to retain in their possession such baggage, property or other valuables until such charges are fully paid, and to sell such baggage, property or other valuables for the payment of such charges in the manner provided in RCW 60.66.020.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1890c96.pdf?cite=1890%20p%2096%20§%201[1890 p 96 § 1]; RRS § 1201; ]
+
+== 60.66.020 - Sale to satisfy lien—Notice.
+Whenever any baggage, property, or other valuables which have been retained by any hotel keeper, inn keeper, lodging house keeper, or boarding house keeper, in his or her possession by virtue of the provision of RCW 60.66.010, shall remain unredeemed for the period of three months after the same shall have been so retained, then it shall be lawful for such hotel keeper, inn keeper, lodging house keeper, or boarding house keeper to sell such baggage, property, or other valuables at public auction, after giving the owner thereof ten days' notice of the time and place of such sale, through the post office, or by advertising in some newspaper published in the county where such sale is made, or by posting notices in three conspicuous places in such county, and out of the proceeds of such sale to pay all legal charges due from the owner of such baggage, property, or valuables, including proper charges for storage of the same, and the overplus, if any, shall be paid to the owner upon demand.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20157[2012 c 117 § 157]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1890c96.pdf?cite=1890%20p%2096%20§%202[1890 p 96 § 2]; RRS § 1202; ]
+

@@ -1,0 +1,30 @@
+= 70A.30 - Motor vehicle emission standards.
+:toc:
+
+== 70A.30.010 - Department of ecology to adopt rules to implement California motor vehicle emission standards.
+. Pursuant to the federal clean air act, the legislature adopts the California motor vehicle emission standards in Title 13 of the California Code of Regulations. The department of ecology shall adopt rules to implement the motor vehicle emission standards of the state of California, including the zero emission vehicle program, and shall amend the rules from time to time, to maintain consistency with the California motor vehicle emission standards and 42 U.S.C. Sec. 7507 (section 177 of the federal clean air act).
+
+. The provisions of this chapter do not apply with respect to the use by a resident of this state of a motor vehicle acquired and used while the resident is a member of the armed services and is stationed outside this state pursuant to military orders.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5811.SL.pdf?cite=2020%20c%20143%20§%201[2020 c 143 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201366[2020 c 20 § 1366]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6365.SL.pdf?cite=2010%20c%2076%20§%201[2010 c 76 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1397-S.SL.pdf?cite=2005%20c%20295%20§%202[2005 c 295 § 2]; ]
+
+== 70A.30.020 - Warranty repair service—Manufacturers, repair shops.
+Individual automobile manufacturers may certify independent automobile repair shops to perform warranty service on the manufacturers' vehicles. Upon certification of the independent automobile repair shops, the manufacturers shall compensate the repair shops at the same rate as franchised dealers for covered warranty repair services.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1397-S.SL.pdf?cite=2005%20c%20295%20§%204[2005 c 295 § 4]; ]
+
+== 70A.30.030 - New vehicle greenhouse gas emissions disclosure—Rule-making authority.
+. No model year 2010 or subsequent model year new passenger car, light duty truck, or medium duty vehicle may be sold in Washington unless there is securely and conspicuously affixed in a clearly visible location a label on which the manufacturer clearly discloses comparative greenhouse gas emissions for that new vehicle.
+
+. The label required by this section should include a greenhouse gas index or rating system that contains quantitative and graphical information presented in a continuous, easy-to-read scale that compares the greenhouse gas emissions from the vehicle with the average projected greenhouse gas emissions from all passenger cars, light duty trucks, and medium duty vehicles of the same model year. For reference purposes, the index or rating system should also identify the greenhouse gas emissions from the vehicle model of that same model year that has the lowest greenhouse gas emissions.
+
+. The index or rating system included in the label under subsection (2) of this section shall be updated as necessary to ensure that the differences in greenhouse gas emissions among vehicles are readily apparent to the consumer.
+
+. An automobile manufacturer may apply to the department of ecology for approval of an alternative to the disclosure labeling requirement that is at least as effective in providing notification and disclosure of the vehicle's greenhouse gas emissions as is the labeling required by this section.
+
+. A label that complies with the requirements of the California greenhouse gas vehicle labeling program shall be deemed to meet the requirements of this section and any rules adopted under this section.
+
+. The department of ecology may adopt such rules as are necessary to implement this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5811.SL.pdf?cite=2020%20c%20143%20§%202[2020 c 143 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2636.SL.pdf?cite=2014%20c%2076%20§%208[2014 c 76 § 8]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6309-S.SL.pdf?cite=2008%20c%2032%20§%202[2008 c 32 § 2]; ]
+

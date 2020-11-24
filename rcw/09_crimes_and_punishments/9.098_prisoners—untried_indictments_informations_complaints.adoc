@@ -1,0 +1,29 @@
+= 9.98 - Prisoners—Untried indictments, informations, complaints.
+:toc:
+
+== 9.98.010 - Disposition of untried indictment, information, complaint—Procedure—Escape, effect.
+. Whenever a person has entered upon a term of imprisonment in a penal or correctional institution of this state, and whenever during the continuance of the term of imprisonment there is pending in this state any untried indictment, information, or complaint against the prisoner, he or she shall be brought to trial within one hundred twenty days after he or she shall have caused to be delivered to the prosecuting attorney and the superior court of the county in which the indictment, information, or complaint is pending written notice of the place of his or her imprisonment and his or her request for a final disposition to be made of the indictment, information, or complaint: PROVIDED, That for good cause shown in open court, the prisoner or his or her counsel shall have the right to be present, the court having jurisdiction of the matter may grant any necessary or reasonable continuance. The request of the prisoner shall be accompanied by a certificate of the superintendent having custody of the prisoner, stating the term of commitment under which the prisoner is being held, the time already served, the time remaining to be served on the sentence, the amount of good time earned, the time of parole eligibility of the prisoner, and any decisions of the indeterminate sentence review board relating to the prisoner.
+
+. The written notice and request for final disposition referred to in subsection (1) of this section shall be given or sent by the prisoner to the superintendent having custody of him or her, who shall promptly forward it together with the certificate to the appropriate prosecuting attorney and superior court by certified mail, return receipt requested.
+
+. The superintendent having custody of the prisoner shall promptly inform him or her in writing of the source and contents of any untried indictment, information, or complaint against him or her concerning which the superintendent has knowledge and of his or her right to make a request for final disposition thereof.
+
+. Escape from custody by the prisoner subsequent to his or her execution of the request for final disposition referred to in subsection (1) of this section shall void the request.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20345[2011 c 336 § 345]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1142.SL.pdf?cite=1999%20c%20143%20§%2033[1999 c 143 § 33]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c56.pdf?cite=1959%20c%2056%20§%201[1959 c 56 § 1]; ]
+
+== 9.98.020 - Loss of jurisdiction and failure of indictment, information, complaint—Dismissal.
+In the event that the action is not brought to trial within the period of time as herein provided, no court of this state shall any longer have jurisdiction thereof, nor shall the untried indictment, information or complaint be of any further force or effect, and the court shall enter an order dismissing the same with prejudice.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c56.pdf?cite=1959%20c%2056%20§%202[1959 c 56 § 2]; ]
+
+== 9.98.030 - Chapter not applicable to mentally ill.
+The provisions of this chapter shall not apply to any person adjudged to be mentally ill.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c56.pdf?cite=1959%20c%2056%20§%203[1959 c 56 § 3]; ]
+
+== 9.98.040 - Court not prohibited from ordering prisoner to trial.
+This chapter shall not be construed as preempting the right of the superior court on the motion of the county prosecuting attorney from ordering the superintendent of a state penal or correctional institution to cause a prisoner to be transported to the superior court of the county for trial upon any untried indictment, information or complaint.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c56.pdf?cite=1959%20c%2056%20§%204[1959 c 56 § 4]; ]
+

@@ -1,0 +1,444 @@
+= 77.135 - Invasive species.
+:toc:
+
+== 77.135.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Aquatic conveyance" means transportable personal property having the potential to move an aquatic invasive species from one aquatic environment to another. Aquatic conveyances include but are not limited to vessels and associated equipment, float planes, construction equipment, fish tanker trucks, hydroelectric and irrigation equipment, personal fishing and hunting gear, and materials used for aquatic habitat mitigation or restoration.
+
+. "Aquatic invasive species" means an invasive species of the animal kingdom with a life cycle that is at least partly dependent upon fresh, brackish, or marine waters. Examples include nutria, waterfowl, amphibians, fish, and shellfish.
+
+. "Aquatic plant" means a native or nonnative emergent, submersed, partially submersed, free-floating, or floating-leaved plant species that is dependent upon fresh, brackish, or marine water ecosystems and includes all stages of development and parts.
+
+. "Certificate of inspection" means a department-approved document that declares, to the extent technically or measurably possible, that an aquatic conveyance does not carry or contain an invasive species. Certification may be in the form of a decal, label, rubber stamp imprint, tag, permit, locking seal, or written statement.
+
+. "Clean and drain" means to remove the following from areas on or within an aquatic conveyance to the extent technically and measurably possible:
+
+.. Visible native and nonnative aquatic animals, plants, or other organisms; and
+
+.. Raw water.
+
+. "Commercial vessel" means a management category of aquatic conveyances:
+
+.. Required to have valid marine documentation as a vessel of the United States or similar required documentation for a country other than the United States; and
+
+.. Not subject to vessel registration requirements under chapter 88.02 RCW or ballast water requirements under chapter 77.120 RCW.
+
+. "Cryptogenic species" means a species that scientists cannot commonly agree are native or nonnative or are part of the animal kingdom.
+
+. "Decontaminate" means, to the extent technically and measurably possible, the application of a treatment to kill, destroy, remove, or otherwise eliminate all known or suspected invasive species carried on or contained within an aquatic conveyance or structural property by use of physical, chemical, or other methods. Decontamination treatments may include drying an aquatic conveyance for a time sufficient to kill aquatic invasive species through desiccation.
+
+. "Detect" means the verification of invasive species' presence as defined by the department.
+
+. "Eradicate" means, to the extent technically and measurably possible, to kill, destroy, remove, or otherwise eliminate an invasive species from a water body or property using physical, chemical, or other methods.
+
+. "Infested site management" means management actions as provided under RCW 77.135.070 that may include long-term actions to contain, control, or eradicate a prohibited species.
+
+. "Introduce" means to intentionally or unintentionally release, place, or allow the escape, dissemination, or establishment of an invasive species on or into a water body or property as a result of human activity or a failure to act.
+
+. "Invasive species" means nonnative species of the animal kingdom that are not naturally occurring in Washington for purposes of breeding, resting, or foraging, and that pose an invasive risk of harming or threatening the state's environmental, economic, or human resources. Invasive species include all stages of species development and body parts. They may also include genetically modified or cryptogenic species.
+
+. "Invasive species council" means the Washington invasive species council established in RCW 79A.25.310 or a similar collaborative state agency forum. The term includes the council and all of its officers, employees, agents, and contractors.
+
+. "Mandatory check station" means a location where a person transporting an aquatic conveyance must stop and allow the conveyance to be inspected for aquatic invasive species.
+
+. "Possess" means to have authority over the use of an invasive species or use of an aquatic conveyance that may carry or contain an invasive species. For the purposes of this subsection, "authority over" includes the ability to intentionally or unintentionally hold, import, export, transport, purchase, sell, barter, distribute, or propagate an invasive species.
+
+. "Prohibited species" means a classification category of nonnative species as provided in RCW 77.135.030.
+
+. "Property" means both real and personal property.
+
+. "Quarantine declaration" means a management action as provided under RCW 77.135.050 involving the prohibition or conditioning of the movement of aquatic conveyances and waters from a place or an area that is likely to contain a prohibited species.
+
+. "Rapid response" means expedited management actions as provided under RCW 77.135.060 triggered when invasive species are detected, for the time-sensitive purpose of containing or eradicating the species before it spreads or becomes further established.
+
+. "Raw water" means water from a water body and held on or within property. "Raw water" does not include water from precipitation that is captured in a conveyance, structure, or depression that is not otherwise intended to function as a water body, or water from a potable water supply system, unless the water contains visible aquatic organisms.
+
+. "Registered vessel" means a management category of aquatic conveyances required to register as vessels under RCW 88.02.550 or similar requirements for a state other than Washington or a country other than the United States.
+
+. "Regulated species" means a classification category of nonnative species as provided in RCW 77.135.030.
+
+. "Seaplane" means a management category of aquatic conveyances capable of landing on or taking off from water and required to register as an aircraft under RCW 47.68.250 or similar registration in a state other than Washington or a country other than the United States.
+
+. "Small vessel" means a management category of aquatic conveyances including every description of vessel on the water used or capable of being used as a means of transportation on the water, except:
+
+.. Inner tubes, air mattresses, sailboards, and small rafts or flotation devices or toys customarily used by swimmers;
+
+.. Vessels meeting registration requirements under chapter 88.02 RCW; and
+
+.. Seaplanes.
+
+. "Water body" means an area that carries or contains a collection of water, regardless of whether the feature carrying or containing the water is natural or nonnatural. Examples include basins, bays, coves, streams, rivers, springs, lakes, wetlands, reservoirs, ponds, tanks, irrigation canals, and ditches.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5303-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2017%20§%20305[2017 3rd sp.s. c 17 § 305]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6040-S.SL.pdf?cite=2014%20c%20202%20§%20102[2014 c 202 § 102]; ]
+
+== 77.135.020 - Department is lead agency for managing invasive species—Responsibilities—Limitation of chapter.
+. The department is the lead agency for managing invasive species of the animal kingdom statewide. This lead responsibility excludes pests, domesticated animals, or livestock managed by the department of agriculture under Titles 15, 16, and 17 RCW, forest invasive insect and disease species managed by the department of natural resources under Title 76 RCW, and mosquito and algae control and shellfish sanitation managed by the department of health under Titles 69, 70, and 90 RCW.
+
+. Subject to the availability of funding for these specific purposes, the department may:
+
+.. Develop and implement integrated invasive species management actions and programs authorized by this chapter, including rapid response, early detection and monitoring, prevention, containment, control, eradication, and enforcement;
+
+.. Establish and maintain an invasive species outreach and education program, in coordination with the Washington invasive species council, that covers public, commercial, and professional pathways and interests;
+
+.. Align management classifications, standards, and enforcement provisions by rule with regional, national, and international standards and enforcement provisions;
+
+.. Manage invasive species to support the preservation of native species, salmon recovery, and the overall protection of threatened or endangered species;
+
+.. Participate in local, state, regional, national, and international efforts regarding invasive species to support the intent of this chapter;
+
+.. Provide technical assistance or other support to tribes, federal agencies, local governments, and private groups to promote an informed public and assist the department in meeting the intent of this chapter;
+
+.. Enter into partnerships, cooperative agreements, and state or interstate compacts as necessary to accomplish the intent of this chapter;
+
+.. Research and develop invasive species management tools, including standard methods for decontaminating aquatic conveyances and controlling or eradicating invasive species from water bodies and properties;
+
+.. Post invasive species signs and information at port districts, privately or publicly owned marinas, state parks, and all boat launches owned or leased by state agencies or political subdivisions; and
+
+.. Adopt rules as needed to implement the provisions of this chapter.
+
+. The department may delegate selected and clearly identified elements of its authorities and duties to another agency of the state with appropriate expertise or administrative capacity upon cooperative agreement with that agency. This delegation may include provisions of funding for implementation of the delegations. The department retains primary authority and responsibility for all requirements of this chapter unless otherwise directed in this chapter.
+
+. This chapter does not apply to the possession or introduction of nonnative aquatic animal species by:
+
+.. Ballast water held or discharged by vessels regulated under chapter 77.120 RCW; or
+
+.. Private sector aquaculture operations, transfers, or conveyances regulated under chapter 77.115 RCW.
+
+. This chapter does not preempt or replace other department species classification systems or other management requirements under this title. However, the department must streamline invasive species requirements under this chapter into existing permits and cooperative agreements as possible.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6040-S.SL.pdf?cite=2014%20c%20202%20§%20103[2014 c 202 § 103]; ]
+
+== 77.135.030 - Classification of species—Rules.
+. The department, in consultation with the invasive species council, may classify or reclassify and list by rule nonnative aquatic animal species as prohibited level 1, level 2, or level 3, based on the degree of invasive risk, the type of management action required, and resources available to conduct the management action.
+
+.. Species classified as prohibited level 1 pose a high invasive risk and are a priority for prevention and expedited rapid response management actions.
+
+.. Species classified as prohibited level 2 pose a high invasive risk and are a priority for long-term infested site management actions.
+
+.. Species classified as prohibited level 3 pose a moderate to high invasive risk and may be appropriate for prevention, rapid response, or other prohibited species management plan actions by the department, another agency, a local government, tribes, or the public.
+
+. The department, in consultation with the invasive species council, may classify and list by rule regulated type A species. This classification is used for nonnative aquatic animal species that pose a low to moderate invasive risk that can be managed based on intended use or geographic scope of introduction, have a beneficial use, and are a priority for department-led or department-approved management of the species' beneficial use and invasive risks.
+
+. Nonnative aquatic animal species not classified as prohibited level 1, level 2, or level 3 under subsection (1) of this section, or as regulated type A species under subsection (2) of this section, are automatically managed statewide as regulated type B species or regulated type C species and do not require listing by rule.
+
+.. Species managed as regulated type B pose a low or unknown invasive risk and are possessed for personal or commercial purposes, such as for aquariums, live food markets, or as nondomesticated pets.
+
+.. Species managed as regulated type C pose a low or unknown invasive risk and include all other species that do not meet the criteria for management as a regulated type B invasive species.
+
+. Classification of prohibited and regulated species:
+
+.. May be by individual species or larger taxonomic groups up to the family name;
+
+.. Must align, as practical and appropriate, with regional and national classification levels;
+
+.. Must be statewide unless otherwise designated by a water body, property, or other geographic region or area; and
+
+.. May define general possession and introduction conditions acceptable under department authorization, a permit, or as otherwise provided by rule.
+
+. Prior to or at the time of classifying species by rule as prohibited or regulated under subsections (1) and (2) of this section, the department, in consultation with the invasive species council, must adopt rules establishing standards for determining invasive risk levels and criteria for determining beneficial use that take into consideration environmental impacts, and especially effects on the preservation of native species, salmon recovery, and threatened or endangered species.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6040-S.SL.pdf?cite=2014%20c%20202%20§%20104[2014 c 202 § 104]; ]
+
+== 77.135.040 - Prohibited and regulated species—Required authorization.
+. Prohibited level 1, level 2, and level 3 species may not be possessed, introduced on or into a water body or property, or trafficked, without department authorization, a permit, or as otherwise provided by rule.
+
+. Regulated type A, type B, and type C species may not be introduced on or into a water body or property without department authorization, a permit, or as otherwise provided by rule.
+
+. Regulated type B species, when being actively used for commercial purposes, must be readily and clearly identified in writing by taxonomic species name or subspecies name to distinguish the subspecies from another prohibited species or a regulated type A species. Nothing in this section precludes using additional descriptive language or trade names to describe regulated type B species as long as the labeling requirements of this section are met.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6040-S.SL.pdf?cite=2014%20c%20202%20§%20106[2014 c 202 § 106]; ]
+
+== 77.135.050 - Department-declared quarantine.
+. If the department determines it is necessary to protect the environmental, economic, or human health interests of the state from the threat of a prohibited level 1 or level 2 species, the department may declare a quarantine against a water body, property, or region within the state. The department may prohibit or condition the movement of aquatic conveyances and waters from such a quarantined place or area that are likely to contain a prohibited species.
+
+. A quarantine declaration under this section may be implemented separately or in conjunction with rapid response management actions under RCW 77.135.060 and infested site management actions under RCW 77.135.070 in a manner and for a duration necessary to protect the interests of the state from the threat of a prohibited level 1 or level 2 species. A quarantine declaration must include:
+
+.. The reasons for the action including the prohibited level 1 or level 2 species triggering the quarantine;
+
+.. The boundaries of the area affected;
+
+.. The action timeline;
+
+.. Types of aquatic conveyances and waters affected by the quarantine and any prohibition or conditions on the movement of those aquatic conveyances and waters from the quarantine area; and
+
+.. Inspection and decontamination requirements for aquatic conveyances.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6040-S.SL.pdf?cite=2014%20c%20202%20§%20107[2014 c 202 § 107]; ]
+
+== 77.135.060 - Rapid response management actions.
+. The department may implement rapid response management actions where a prohibited level 1 species is detected in or on a water body or property. Rapid response management actions may: Include expedited actions to contain, control, or eradicate the prohibited species; and, if applicable, be implemented in conjunction with a quarantine declaration. Rapid response management actions must be terminated by the department when it determines that the targeted prohibited level 1 species are:
+
+.. Eradicated;
+
+.. Contained or controlled without need for further management actions;
+
+.. Reclassified for that water body; or
+
+.. Being managed under infested site management actions pursuant to RCW 77.135.070.
+
+. If a rapid response management action exceeds seven days, the department may implement an incident command system for rapid response management including scope, duration, and types of actions and to support mutual assistance and cooperation between the department and other affected state and federal agencies, tribes, local governments, and private water body or property owners. The purpose of this system is to coordinate a rapid, effective, and efficient response to contain, control, and eradicate if feasible, a prohibited level 1 species. Mutual assistance and coordination by other state agencies is especially important to assist the department in expediting necessary state and federal environmental permits.
+
+. The department may enter into cooperative agreements with national, regional, state, and local rapid response management action partners to establish incident command system structures, secure or prepare submission-ready environmental permits, and identify mutual assistance commitments in preparation for potential future actions.
+
+. The department may perform simulated rapid response exercises, testing, or other training activities to prepare for future rapid response management actions.
+
+. In implementing rapid response management actions, the department may enter upon property consistent with the process established under RCW 77.135.170.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6040-S.SL.pdf?cite=2014%20c%20202%20§%20108[2014 c 202 § 108]; ]
+
+== 77.135.070 - Infested site management actions.
+. The department may implement infested site management actions where a prohibited level 2 species is detected in or on a water body or property. Infested site management actions may: Include long-term actions to contain, control, or eradicate the prohibited species; and, if applicable, be implemented in conjunction with a quarantine declaration. Infested site management actions must be terminated by the department when it determines that the targeted prohibited level 2 species are:
+
+.. Eradicated;
+
+.. Contained or controlled without need for further management actions; or
+
+.. Reclassified for that water body.
+
+. The department must consult with affected state and federal agencies, tribes, local governments, and private water body or property owners prior to implementing infested site management actions. The purpose of the consultation is to support mutual assistance and cooperation in providing an effective and efficient response to contain, control, and eradicate, if feasible, a prohibited level 2 species.
+
+. The department may enter into cooperative agreements with national, regional, state, and local infested site management action partners to establish management responsibilities, secure or prepare submission-ready environmental permits, and identify mutual assistance commitments.
+
+. In implementing infested site management actions, the department may enter upon property consistent with the process established under RCW 77.135.170.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6040-S.SL.pdf?cite=2014%20c%20202%20§%20109[2014 c 202 § 109]; ]
+
+== 77.135.080 - Implementation of department's duties—Department is lead agency—Notice.
+. To the extent possible, the department's quarantine declarations under RCW 77.135.050, rapid response management actions under RCW 77.135.060, and infested site management actions under RCW 77.135.070 must be implemented in a manner best suited to contain, control, and eradicate prohibited level 1 and level 2 species while protecting human safety, minimizing adverse environmental impacts to a water body or property, and minimizing adverse economic impacts to owners of an affected water body or property.
+
+. The department is the lead agency for quarantine declarations, rapid response, and infested site management actions. Where the infested water body is subject to tribal, federal, or other sovereign jurisdiction, the department:
+
+.. Must consult with appropriate federal agencies, tribal governments, other states, and Canadian government entities to develop and implement coordinated management actions on affected water bodies under shared jurisdiction;
+
+.. May assist in infested site management actions where these actions may prevent the spread of prohibited species into state water bodies; and
+
+.. May assist other states and Canadian government entities, in the Columbia river basin, in management actions on affected water bodies outside of the state where these actions may prevent the spread of the species into state water bodies.
+
+. [Empty]
+.. The department must provide notice of quarantine declarations, rapid response, and infested site management actions to owners of an affected water body or property. Notice may be provided by any reasonable means, such as in person, by United States postal service, by publication in a local newspaper, by electronic publication including social media or postings on the department's public web site, or by posting signs at the water body.
+
+.. The department must provide updates to owners of an affected water body or property based on management action type as follows:
+
+... Every seven days for a rapid response management action and, if applicable, a quarantine declaration implemented in conjunction with a rapid response management action;
+
+... Every six months for a separate quarantine declaration;
+
+... Annually for the duration of an infested site management action and, if applicable, a quarantine declaration implemented in conjunction with an infested site management action; and
+
+... A final update at the conclusion of any management action.
+
+.. In addition to owners of an affected water body or property, the department must provide notice of a quarantine declaration to members of the public by any reasonable means for an area subject to a quarantine declaration, such as by publication in a local newspaper, by electronic publication including social media or postings on the department's public web site, or by posting signs at the water body. The department must provide updates at reasonable intervals and a final update at the conclusion of the quarantine declaration.
+
+. The department must publicly list those water bodies or portions of water bodies in which a prohibited level 1 or level 2 species has been detected. The department may list those areas in which a prohibited level 3 species has been detected.
+
+. When posting signs at a water body or property where a prohibited species has been detected, the department must consult with owners of the affected water body or property regarding placement of those signs.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6040-S.SL.pdf?cite=2014%20c%20202%20§%20110[2014 c 202 § 110]; ]
+
+== 77.135.090 - Emergency measures.
+. If the director finds that there exists an imminent danger of a prohibited level 1 or level 2 species detection that seriously endangers or threatens the environment, economy, human health, or well-being of the state of Washington, the director must ask the governor to order, under RCW 43.06.010(14), emergency measures to prevent or abate the prohibited species. The director's findings must contain an evaluation of the effect of the emergency measures on environmental factors such as fish listed under the endangered species act, economic factors such as public and private access, human health factors such as water quality, or well-being factors such as cultural resources.
+
+. If an emergency is declared pursuant to RCW 43.06.010(14), the director may consult with the invasive species council to advise the governor on emergency measures necessary under RCW 43.06.010(14) and this section, and make subsequent recommendations to the governor. The invasive species council must involve owners of the affected water body or property, state and local governments, federal agencies, tribes, public health interests, technical service providers, and environmental organizations, as appropriate.
+
+. Upon the governor's approval of emergency measures, the director may implement these measures to prevent, contain, control, or eradicate invasive species that are the subject of the emergency order, notwithstanding the provisions of chapter 15.58 or 17.21 RCW or any other statute. These measures, after evaluation of all other alternatives, may include the surface and aerial application of pesticides.
+
+. The director must continually evaluate the effects of the emergency measures and report these to the governor at intervals of not less than ten days. The director must immediately advise the governor if the director finds that the emergency no longer exists or if certain emergency measures should be discontinued.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6040-S.SL.pdf?cite=2014%20c%20202%20§%20111[2014 c 202 § 111]; ]
+
+== 77.135.100 - Aquatic conveyance—Certificate of inspection—Adoption of rules.
+. A person in possession of an aquatic conveyance who enters Washington by road, air, or water is required to have a certificate of inspection. A person must provide this certificate of inspection upon request by a fish and wildlife officer or ex officio fish and wildlife officer.
+
+. The department must adopt rules to implement this section including:
+
+.. Types of aquatic conveyances required to have a certificate of inspection;
+
+.. Allowable certificate of inspection forms including passport type systems and integration with existing similar permits;
+
+.. Situations when authorization can be obtained for transporting an aquatic conveyance not meeting inspection requirements to a specified location within the state where certificate of inspection requirements can be provided; and
+
+.. Situations where aquatic conveyances are using shared boundary waters of the state, such as portions of the Columbia river, lake Osoyoos, and the Puget Sound.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6040-S.SL.pdf?cite=2014%20c%20202%20§%20112[2014 c 202 § 112]; ]
+
+== 77.135.110 - Aquatic conveyance—Clean and drain requirements—Enforcement—Adoption of rules.
+. A person in possession of an aquatic conveyance must meet clean and drain requirements after the conveyance's use in or on a water body or property. A certificate of inspection is not needed to meet clean and drain requirements.
+
+. A fish and wildlife officer or ex officio fish and wildlife officer may order a person transporting an aquatic conveyance not meeting clean and drain requirements to:
+
+.. Clean and drain the conveyance at the discovery site, if the department determines there are sufficient resources available; or
+
+.. Transport the conveyance to a reasonably close location where resources are sufficient to meet the clean and drain requirements.
+
+. This section may be enforced immediately on the transportation of aquatic plants by registered vessels, small vessels, seaplanes, and commercial vessels. The department must adopt rules to implement all other aspects of clean and drain requirements, including:
+
+.. Other types of aquatic conveyances subject to this requirement;
+
+.. When transport of an aquatic conveyance is authorized if clean and drain services are not readily available at the last water body used; and
+
+.. Exemptions to clean and drain requirements where the department determines there is minimal risk of spreading invasive species.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5303-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2017%20§%20308[2017 3rd sp.s. c 17 § 308]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6040-S.SL.pdf?cite=2014%20c%20202%20§%20113[2014 c 202 § 113]; ]
+
+== 77.135.120 - Mandatory check stations.
+. The department may establish mandatory check stations to inspect aquatic conveyances for clean and drain requirements and aquatic invasive species. The check stations must be operated by at least one fish and wildlife officer, an ex officio fish and wildlife officer in coordination with the department, or department-authorized representative, and must be plainly marked by signs and operated in a safe manner.
+
+. Aquatic conveyances required to stop at mandatory check stations include registered vessels, commercial vessels, and small vessels. The department may establish rules governing other types of aquatic conveyances that must stop at mandatory check stations. The rules must provide sufficient guidance so that a person transporting the aquatic conveyance readily understands that he or she is required to stop.
+
+. A person who encounters a mandatory check station while transporting an aquatic conveyance must:
+
+.. Stop at the mandatory check station;
+
+.. Allow the aquatic conveyance to be inspected for clean and drain requirements and aquatic invasive species;
+
+.. Follow clean and drain orders if clean and drain requirements are not met pursuant to RCW 77.135.110; and
+
+.. Follow decontamination orders pursuant to RCW 77.135.130 if an aquatic invasive species is found.
+
+. A person who complies with the department directives under this section is exempt from criminal penalties under RCW 77.15.809 and 77.15.811, civil penalties under *RCW 77.15.160(4), and civil forfeiture under RCW 77.15.070, unless the person has a prior conviction for an invasive species violation within the past five years.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5303-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2017%20§%20309[2017 3rd sp.s. c 17 § 309]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6040-S.SL.pdf?cite=2014%20c%20202%20§%20114[2014 c 202 § 114]; ]
+
+== 77.135.130 - Decontamination order.
+. Upon discovery of an aquatic conveyance that carries or contains an aquatic invasive species without department authorization, a permit, or as otherwise provided by rule, a fish and wildlife officer or ex officio fish and wildlife officer may issue a decontamination order:
+
+.. Requiring decontamination at the discovery site, if the situation presents a low risk of aquatic invasive species introduction, and sufficient department resources are available at the discovery site;
+
+.. Prohibiting the launch of the aquatic conveyance in a water body until decontamination is completed and certified, if the situation presents a low risk of aquatic invasive species introduction, and sufficient department resources are not available at the discovery site;
+
+.. Requiring immediate transport of the conveyance to an approved decontamination station, and prohibiting the launch of the conveyance in a water body until decontamination is completed and certified, if the situation presents a moderate risk of aquatic invasive species introduction, and sufficient department resources are not available at the discovery site; or
+
+.. Seizing and transporting the aquatic conveyance to an approved decontamination station until decontamination is completed and certified, if the situation presents a high risk of aquatic invasive species introduction, and sufficient department resources are not available at the discovery site.
+
+. The person possessing the aquatic conveyance that is subject to orders issued under subsection (1)(b) through (d) of this section must bear any costs for seizure, transportation, or decontamination.
+
+. Orders issued under subsection (1)(b) through (d) of this section must be in writing and must include notice of the opportunity for a hearing pursuant to RCW 77.135.140 to determine the validity of the orders.
+
+. If a decontamination order is issued under subsection (1)(d) of this section, the department may seize the aquatic conveyance for two working days or a reasonable additional period of time thereafter as needed to meet decontamination requirements. The decontamination period must be based on factors including conveyance size and complexity, type and number of aquatic invasive species present, and decontamination station resource capacity.
+
+. If an aquatic conveyance is subject to forfeiture under RCW 77.15.070, the timelines and other provisions under that section apply to the seizure.
+
+. Upon decontamination and issuing a certificate of inspection, an aquatic conveyance must be released to the person in possession of the aquatic conveyance at the time the decontamination order was issued, or to the owner of the aquatic conveyance.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6040-S.SL.pdf?cite=2014%20c%20202%20§%20115[2014 c 202 § 115]; ]
+
+== 77.135.140 - Person aggrieved or adversely affected by department's action—Hearing.
+. A person aggrieved or adversely affected by a quarantine declaration under RCW 77.135.050, a rapid response management action under RCW 77.135.060, an infested site management action under RCW 77.135.070, or a decontamination order under RCW 77.135.130 may contest the validity of the department's actions by requesting a hearing in writing within twenty days of the department's actions.
+
+. Hearings must be conducted pursuant to chapter 34.05 RCW and the burden of demonstrating the invalidity of agency action is on the party asserting invalidity. The hearing may be conducted by the director or the director's designee and may occur telephonically.
+
+. A hearing on a decontamination order is limited to the issues of whether decontamination was necessary and the reasonableness of costs assessed for any seizure, transportation, and decontamination. If the person in possession of the aquatic conveyance that was decontaminated prevails at the hearing, the person is entitled to reimbursement by the department for any costs assessed by the department or decontamination station operator for the seizure, transportation, and decontamination. If the department prevails at the hearing, the department is not responsible for and may not reimburse any costs.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6040-S.SL.pdf?cite=2014%20c%20202%20§%20116[2014 c 202 § 116]; ]
+
+== 77.135.150 - Aquatic conveyance inspection and decontamination stations—Adoption of rules.
+. The department may operate aquatic conveyance inspection and decontamination stations statewide for voluntary use by the public or for mandatory use where directed by the department to meet inspection and decontamination requirements of this chapter. Decontamination stations can be part of or separate from inspection stations. Inspection and decontamination stations are separate from commercial vehicle weigh stations operated by the Washington state patrol.
+
+. Inspection station staff must inspect aquatic conveyances to determine whether the conveyances carry or contain aquatic invasive species. If an aquatic conveyance is free of aquatic invasive species, then inspection station staff must issue a certificate of inspection. A certificate of inspection is valid until the conveyance's next use in a water body.
+
+. If a conveyance carries or contains aquatic invasive species, then inspection station staff must require the conveyance's decontamination before issuing a certificate of inspection. The certificate of inspection is valid until the conveyance's next use in a water body.
+
+. The department must identify, in a way that is readily available to the public, the location and contact information for inspection and decontamination stations.
+
+. The department must adopt by rule standards for inspection and decontamination that, where practical and appropriate, align with regional, national, and international standards.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6040-S.SL.pdf?cite=2014%20c%20202%20§%20117[2014 c 202 § 117]; ]
+
+== 77.135.160 - Department-authorized representatives—Adoption of rules—Fee schedule.
+. The department may authorize representatives to operate its inspection and decontamination stations and mandatory check stations. Department-authorized representatives may be department volunteers, other law enforcement agencies, or independent businesses.
+
+. The department must adopt rules governing the types of services that department-authorized representatives may perform under this chapter.
+
+. Department-authorized representatives must have official identification, training, and administrative capacity to fulfill their responsibilities under this section.
+
+. By December 1, 2018, the department must provide the legislature with recommendations for a fee schedule that department-authorized representatives may charge users whose aquatic conveyances receive inspection and decontamination services.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5303-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2017%20§%20306[2017 3rd sp.s. c 17 § 306]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6040-S.SL.pdf?cite=2014%20c%20202%20§%20118[2014 c 202 § 118]; ]
+
+== 77.135.170 - Department's authority to enter upon property/water body—Notification—Application, issuance of warrant.
+. The department may enter upon a property or water body at any reasonable time for the purpose of administering this chapter, including inspecting and decontaminating aquatic conveyances, collecting invasive species samples, implementing rapid response management actions or infested site management actions, and containing, controlling, or eradicating invasive species.
+
+. Prior to entering the property or water body, the department shall make a reasonable attempt to notify the owner of the property or water body as to the purpose and need for the entry. Should the department be denied access to any property or water body where access is sought for the purposes set forth in this chapter, the department may apply to any court of competent jurisdiction for a warrant authorizing access to the property.
+
+. Upon such an application, the court may issue the warrant for the purposes requested where the court finds reasonable cause to believe it is necessary to achieve the purposes of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6040-S.SL.pdf?cite=2014%20c%20202%20§%20119[2014 c 202 § 119]; ]
+
+== 77.135.180 - Chapter must be liberally construed.
+The provisions of this chapter must be liberally construed to carry out the intent of the legislature.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6040-S.SL.pdf?cite=2014%20c%20202%20§%20120[2014 c 202 § 120]; ]
+
+== 77.135.200 - Aquatic invasive species management account.
+The aquatic invasive species management account is created in the state treasury. All receipts directed to the account from RCW 88.02.640 and 77.135.230, as well as legislative appropriations, gifts, donations, fees, and penalties received by the department for aquatic invasive species management, must be deposited into the account. Moneys in the account may be used only after appropriation. Expenditures from the account may only be used to implement aquatic invasive species-related provisions under this title.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5303-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2017%20§%20101[2017 3rd sp.s. c 17 § 101]; ]
+
+== 77.135.210 - Aquatic invasive species prevention permit—Operators of vessels and aquatic conveyances.
+. The department may issue aquatic invasive species prevention permits to operators of vessels and aquatic conveyances.
+
+. A person must obtain a Washington state aquatic invasive species prevention permit for each seaplane or vessel registered in another state, before placing or operating such a vessel or seaplane on any water body in the state.
+
+. The valid aquatic invasive species prevention permit must be present and readily available for inspection by a fish and wildlife officer or ex officio fish and wildlife officer at the location where the vessel or seaplane is placed or operated.
+
+. Aquatic invasive species prevention permits for conveyances listed in subsection (2) of this section are not transferable.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5303-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2017%20§%20201[2017 3rd sp.s. c 17 § 201]; ]
+
+== 77.135.220 - Aquatic invasive species prevention permits—Commercial transporters and aquatic conveyances.
+. The department may issue aquatic invasive species prevention permits to commercial transporters of vessels and aquatic conveyances.
+
+. A person must obtain a Washington state aquatic invasive species prevention permit before commercially transporting into or through the state one or more of the following conveyances that have previously been placed or operated in the waters of any state or country: (a) A small vessel; (b) a registered vessel; (c) a seaplane; or (d) a commercial vessel.
+
+. The valid aquatic invasive species prevention permit must be present and readily available for inspection upon request by a fish and wildlife officer or ex officio fish and wildlife officer at any location where the listed conveyance is associated with the transport vehicle.
+
+. The aquatic invasive species prevention permit is transferable between vehicles and vehicle operators of the same business used to commercially transport aquatic conveyances but a separate permit is required for each vehicle operator commercially transporting aquatic conveyances at any given time.
+
+. An aquatic invasive species prevention permit is not required to commercially transport new conveyances if the vehicle operator has documentation present and readily available proving all conveyances originated from the manufacturer or vendor and the conveyances have never been placed or operated in waters of any state or country.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5303-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2017%20§%20202[2017 3rd sp.s. c 17 § 202]; ]
+
+== 77.135.230 - Aquatic invasive species prevention permit—Fee—Exempt vessels.
+. Washington state aquatic invasive species prevention permits are valid for one year beginning from the date that the permit is marked for activation unless otherwise directed by the department. The permits must be made available for purchase throughout the year through the department's automated licensing system consistent with RCW 77.32.050.
+
+. The aquatic invasive species prevention permit fee for a nonresident registered vessel or seaplane as required under RCW 77.135.210 is twenty dollars.
+
+. The aquatic invasive species prevention permit fee for a person commercially transporting a small vessel, registered vessel, seaplane, or commercial vessel as required under RCW 77.135.220 is twenty dollars.
+
+. The department may adopt rules addressing conditions and costs of obtaining duplicate aquatic invasive species prevention permits.
+
+. Permit fees collected under this section must be deposited into the aquatic invasive species management account created in RCW 77.135.200.
+
+. Exemptions for aquatic invasive species prevention permits include:
+
+.. A military vessel or seaplane owned by the United States government; and
+
+.. A vessel clearly identified as being owned by any federal, tribal, state, or local government agency or other public corporations, and used primarily for governmental purposes.
+
+. [Empty]
+.. The following nonresident aquatic conveyances are exempt from aquatic invasive species prevention permit requirements under this section while placed or operated on shared boundary waters of the state:
+
+... Vessels having valid state of Idaho or Oregon registration or numbering; and
+
+... Seaplanes or commercial vessels having a valid Idaho or Oregon aquatic invasive species prevention or similar permit.
+
+.. The department may adopt by rule a regional reciprocity process to further exempt aquatic conveyances from permit requirements under this section in part or whole. A reciprocity system may be implemented only where the participating state or country does not require a Washington resident to purchase an equivalent permit.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5303-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2017%20§%20203[2017 3rd sp.s. c 17 § 203]; ]
+
+== 77.135.240 - Aquatic invasive species local management grant program.
+. Money in the aquatic invasive species management account created in RCW 77.135.200 may be appropriated to the department to establish an aquatic invasive species local management grant program. The department shall enter into agreement with the recreation and conservation office to administer the grant funds or other financial assistance, assist the department in developing grant program policies and funding criteria, and consult with the department prior to awarding grants. State agencies, cities, counties, tribes, special purpose districts, academic institutions, and nonprofit groups are eligible for competitive grants to:
+
+.. Manage prohibited level 1 or level 2 aquatic [invasive] species at a local level;
+
+.. Develop rapid response management cooperative agreements for local water bodies;
+
+.. Develop or implement prohibited species management cooperative agreements for local water bodies; and
+
+.. Conduct innovative applied research that directly supports on-the-ground prevention, control, and eradication efforts.
+
+. The department may give preference to projects that have matching funds, provide in-kind services, or maintain or enhance outdoor recreational opportunities.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5303-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2017%20§%20302[2017 3rd sp.s. c 17 § 302]; ]
+

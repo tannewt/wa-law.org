@@ -1,0 +1,116 @@
+= 39.53 - Refunding bond act.
+:toc:
+
+== 39.53.010 - Definitions.
+Except where the context otherwise requires, the definitions in this section apply throughout this chapter:
+
+. "Bond" means any revenue bond or general obligation bond.
+
+. "General obligation bond" means any bond, note, warrant, certificate of indebtedness, or other obligation of a public body which constitutes an indebtedness within the meaning of the constitutional debt limitation.
+
+. "Governing body" means the council, commission, board of commissioners, board of directors, board of trustees, board of regents, or other legislative body of the public body designated herein in which the legislative powers of the public body are vested. With respect to the state, "governing body" means the state finance committee.
+
+. "Government obligations" means any of the following: (a) Direct obligations of, or obligations the principal of and interest on which are unconditionally guaranteed by the United States of America and bank certificates of deposit secured by such obligations; (b) bonds, debentures, notes, participation certificates, or other obligations issued by the banks for cooperatives, the federal intermediate credit bank, the federal home loan bank system, the export-import bank of the United States, federal land banks, or the federal national mortgage association; (c) public housing bonds and project notes fully secured by contracts with the United States; and (d) obligations of financial institutions insured by the federal deposit insurance corporation or the federal savings and loan insurance corporation, to the extent insured or to the extent guaranteed as permitted under any other provision of state law.
+
+. "Issuer" means the public body issuing any bond or bonds.
+
+. "Ordinance" means an ordinance of a city or town, or ordinance, resolution or other instrument by which the governing body of the public body exercising any power under this chapter takes formal action and adopts legislative provisions and matters of some permanency.
+
+. "Public body" means the state of Washington, its agencies, institutions, political subdivisions, and municipal and quasi-municipal corporations now or hereafter existing under the laws of the state of Washington.
+
+. "Refunding bonds" means bonds issued for the purpose of paying the principal of or redemption premiums or interest on any outstanding bonds of the issuer, its predecessor, or a related public body.
+
+. "Refunding plan" means the plan adopted by an ordinance of a public body to issue refunding bonds and redeem the bonds to be refunded.
+
+. "Revenue bond" means any bond, note, warrant, certificate of indebtedness, or other obligation for the payment of money that is payable from designated revenues, special assessments, or a special fund but excluding any obligation constituting an indebtedness within the meaning of the constitutional debt limitation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1495.SL.pdf?cite=1999%20c%20230%20§%201[1999 c 230 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c186.pdf?cite=1984%20c%20186%20§%2068[1984 c 186 § 68]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c25.pdf?cite=1973%201st%20ex.s.%20c%2025%20§%201[1973 1st ex.s. c 25 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c138.pdf?cite=1965%20ex.s.%20c%20138%20§%202[1965 ex.s. c 138 § 2]; ]
+
+== 39.53.020 - Issuance authorized—Purposes—Saving to public body, criteria.
+The governing body of any public body may by ordinance provide for the issuance of refunding bonds without an election (1) in order to pay or discharge all or any part of an outstanding series or issue of bonds, including any redemption premiums or interest thereon, in arrears or about to become due, and for which sufficient funds are not available, (2) when necessary or in the best interest of the public body to modify debt service or reserve requirements, sources of payment, covenants, or other terms of the bonds to be refunded, or (3) in order to effect a saving to the public body. To determine whether or not a saving will be effected, consideration shall be given to the interest to fixed maturities of the refunding bonds and the bonds to be refunded, the costs of issuance of the refunding bonds, including any sale discount, the redemption premiums, if any, to be paid, and the known earned income from the investment of the refunding bond proceeds pending redemption of the bonds to be refunded.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1495.SL.pdf?cite=1999%20c%20230%20§%202[1999 c 230 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c262.pdf?cite=1977%20ex.s.%20c%20262%20§%201[1977 ex.s. c 262 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c111.pdf?cite=1974%20ex.s.%20c%20111%20§%202[1974 ex.s. c 111 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c138.pdf?cite=1965%20ex.s.%20c%20138%20§%203[1965 ex.s. c 138 § 3]; ]
+
+== 39.53.030 - Refunding bonds may be exchanged for bonds to be refunded or sold.
+Any refunding bonds issued may be delivered in exchange for the bonds to be refunded or may be sold in such manner and at such price as the governing body may in its discretion determine advisable.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1495.SL.pdf?cite=1999%20c%20230%20§%203[1999 c 230 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c25.pdf?cite=1973%201st%20ex.s.%20c%2025%20§%202[1973 1st ex.s. c 25 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c138.pdf?cite=1965%20ex.s.%20c%20138%20§%204[1965 ex.s. c 138 § 4]; ]
+
+== 39.53.040 - What bonds may be refunded—Refunding plans—Redemption of refunding bonds.
+Bonds may be refunded under this chapter or under any other law of this state which authorizes the issuance of refunding bonds. In any refunding plan under this chapter the governing body shall provide irrevocably in the ordinance authorizing the issuance of the advance refunding bonds for the redemption or payment of the bonds to be refunded.
+
+The ordinance authorizing the issuance of refunding bonds under this chapter may contain such provisions for the redemption of the refunding bonds prior to maturity and for payment of a premium upon such redemption as the governing body in its discretion may determine advisable.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1495.SL.pdf?cite=1999%20c%20230%20§%204[1999 c 230 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c262.pdf?cite=1977%20ex.s.%20c%20262%20§%202[1977 ex.s. c 262 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c25.pdf?cite=1973%201st%20ex.s.%20c%2025%20§%203[1973 1st ex.s. c 25 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c138.pdf?cite=1965%20ex.s.%20c%20138%20§%205[1965 ex.s. c 138 § 5]; ]
+
+== 39.53.045 - Bonds payable from special assessments—Not subject to refunding.
+Bonds payable solely from special assessments or special assessments and a guaranty fund issued on or prior to June 7, 1984, shall not be subject to refunding under this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c186.pdf?cite=1984%20c%20186%20§%2069[1984 c 186 § 69]; ]
+
+== 39.53.050 - Refunding bonds, principal amount—Disposition of reserves held to secure the bonds to be refunded.
+ The principal amount of refunding bonds may exceed the principal amount of the bonds to be refunded by an amount deemed reasonably required to effect such refunding. The principal amount of the refunding bonds may be less than or the same as the principal amount of the bonds to be refunded so long as provision is duly and sufficiently made for the retirement or redemption of such bonds to be refunded. Any reserves held to secure the bonds to be refunded, or other available money, may be used to accomplish the refunding in accordance with the refunding plan. Reserves not so used shall be pledged as security for the refunding bonds to the extent the reserves, if any, are required. The balance of any such reserves may be used for any lawful purpose.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1495.SL.pdf?cite=1999%20c%20230%20§%205[1999 c 230 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c69.pdf?cite=1983%201st%20ex.s.%20c%2069%20§%201[1983 1st ex.s. c 69 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c262.pdf?cite=1977%20ex.s.%20c%20262%20§%203[1977 ex.s. c 262 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c111.pdf?cite=1974%20ex.s.%20c%20111%20§%203[1974 ex.s. c 111 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c138.pdf?cite=1965%20ex.s.%20c%20138%20§%206[1965 ex.s. c 138 § 6]; ]
+
+== 39.53.060 - Application of proceeds of sale of refunding bonds and other funds—Investment in government obligations—Incidental expenses.
+Prior to the application of the proceeds derived from the sale of refunding bonds to the purposes for which such bonds have been issued, such proceeds, together with any other funds the governing body may set aside for the payment of the bonds to be refunded, may be invested and reinvested only in government obligations maturing or having guaranteed redemption prices at the option of the holder at such time or times as may be required to provide funds sufficient to pay principal, interest and redemption premiums, if any, in accordance with the refunding plan. To the extent incidental expenses have been capitalized, such bond proceeds may be used to defray such expenses.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1495.SL.pdf?cite=1999%20c%20230%20§%206[1999 c 230 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c25.pdf?cite=1973%201st%20ex.s.%20c%2025%20§%204[1973 1st ex.s. c 25 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c138.pdf?cite=1965%20ex.s.%20c%20138%20§%207[1965 ex.s. c 138 § 7]; ]
+
+== 39.53.070 - Application of proceeds of sale of refunding bonds and other funds—Contracts for safekeeping and application—Use to pay and secure refunding bonds—Pledge of revenues—Duty to provide sufficient money to accomplish refunding.
+The governing body may contract with respect to the safekeeping and application of the refunding bond proceeds and other funds included therewith and the income therefrom including the right to appoint a trustee which may be any trust company or state or national bank having powers of a trust company within or without the state of Washington. The governing body may provide in the refunding plan that until such moneys are required to redeem or retire the bonds to be refunded, the refunding bond proceeds and other funds, and the income therefrom shall be used to pay and secure the payment of the principal of and interest on the refunding bonds. The governing body may additionally pledge for the payment of revenue refunding bonds any revenues which might legally be pledged for the payment of revenue bonds of the issuer of the type to be refunded. Provisions must be made by the governing body for moneys sufficient in amount to accomplish the refunding as scheduled.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1495.SL.pdf?cite=1999%20c%20230%20§%207[1999 c 230 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c25.pdf?cite=1973%201st%20ex.s.%20c%2025%20§%205[1973 1st ex.s. c 25 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c138.pdf?cite=1965%20ex.s.%20c%20138%20§%208[1965 ex.s. c 138 § 8]; ]
+
+== 39.53.080 - Pledge of revenues to payment of refunding bonds when amounts sufficient to pay revenue bonds to be refunded are irrevocably set aside.
+When a public body has irrevocably set aside for and pledged to the payment of revenue bonds to be refunded refunding bond proceeds and other moneys in amounts which together with known earned income from the investment thereof are sufficient in amount to pay the principal of and interest and any redemption premiums on such revenue bonds as the same become due and to accomplish the refunding as scheduled, the governing body may provide that the refunding revenue bonds shall be payable from any source which, either at the time of the issuance of the refunding bonds or the revenue bonds to be refunded, might legally be or have been pledged for the payment of the revenue bonds to be refunded to the extent it may legally do so, notwithstanding the pledge of such revenues for the payment of the revenue bonds to be refunded.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1495.SL.pdf?cite=1999%20c%20230%20§%208[1999 c 230 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c138.pdf?cite=1965%20ex.s.%20c%20138%20§%209[1965 ex.s. c 138 § 9]; ]
+
+== 39.53.090 - Annual maturities of general obligation refunding bonds issued to refund voted general obligation bonds.
+The various annual maturities of general obligation refunding bonds issued to refund voted general obligation bonds shall not extend over a longer period of time than the bonds to be refunded. Such maturities may be changed in amount or shortened in term if the estimated respective annual principal and interest requirements of the refunding bonds, computed upon the anticipated effective interest rate the governing body shall in its discretion determine will be borne by such bonds, will not exceed the respective annual principal and interest requirements of the bonds to be refunded, except the issuer may increase the principal amount of annual maturities for the purpose of rounding out maturities to the nearest five thousand dollars.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1495.SL.pdf?cite=1999%20c%20230%20§%209[1999 c 230 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c138.pdf?cite=1965%20ex.s.%20c%20138%20§%2010[1965 ex.s. c 138 § 10]; ]
+
+== 39.53.100 - Use of deposit moneys and investments in computing indebtedness.
+In computing indebtedness for the purpose of any constitutional or statutory debt limitation there shall be deducted from the amount of outstanding indebtedness the amounts of money and investments credited to or on deposit for general obligation bond retirement.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c25.pdf?cite=1973%201st%20ex.s.%20c%2025%20§%206[1973 1st ex.s. c 25 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c138.pdf?cite=1965%20ex.s.%20c%20138%20§%2011[1965 ex.s. c 138 § 11]; ]
+
+== 39.53.110 - Refunding and other bonds may be issued in combination.
+Refunding bonds and bonds for any other purpose or purposes authorized may be issued separately or issued in combination in one or more series or issues by the same issuer.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1495.SL.pdf?cite=1999%20c%20230%20§%2010[1999 c 230 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c138.pdf?cite=1965%20ex.s.%20c%20138%20§%2012[1965 ex.s. c 138 § 12]; ]
+
+== 39.53.120 - Refunding bonds to be issued in accordance with laws applicable to type of bonds to be refunded—Transfer of funds to applicable bond retirement account.
+. Except as specifically provided in this chapter, refunding bonds issued under this chapter shall be issued in accordance with the provisions of law applicable to the type of bonds of the issuer to be refunded, at the time of the issuance of either the refunding bonds or the bonds to be refunded.
+
+. For all refunding bonds previously or hereafter issued by the state of Washington under this chapter, the state treasurer shall transfer from the designated funds or accounts the amount necessary for the payment of principal of and interest on the refunding bonds to the applicable bond retirement account for such refunding bonds on each date on which the interest or principal and interest payment is due on such refunding bonds unless an earlier transfer date, as determined by the state finance committee, is necessary or appropriate to the financial framework of the refunding bonds.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2299-S.SL.pdf?cite=2005%20c%20487%20§%207[2005 c 487 § 7]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1495.SL.pdf?cite=1999%20c%20230%20§%2011[1999 c 230 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c138.pdf?cite=1965%20ex.s.%20c%20138%20§%2013[1965 ex.s. c 138 § 13]; ]
+
+== 39.53.130 - Amendment of power contracts pursuant to refunding of certain bond issues.
+If bonds are to be issued under this chapter for refunding of any bonds issued specifically to finance any electric power and energy project or facility and there are contracts in existence for the sale of electric power and energy generated by such project or facility wherein the cost of power to a purchaser specifically includes a portion of the debt service on the bonds to be refunded, such power contracts shall be amended to reflect in each year during the remaining terms of such contracts that portion of the savings to be realized from such refunding during each such year equal to the percentage of power output from such project or facility purchased by the purchaser under such power contracts. Nothing in this chapter shall be construed to alter, modify or change any such power contracts without the mutual agreement of the parties thereto.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c138.pdf?cite=1965%20ex.s.%20c%20138%20§%2015[1965 ex.s. c 138 § 15]; ]
+
+== 39.53.140 - Issuance of general obligation refunding bonds to refund general obligation or revenue bonds.
+Any public body may issue general obligation refunding bonds to refund any general obligation or revenue bonds of such issuer or its agencies or instrumentalities. The payment of general obligation refunding bonds may be additionally secured by a pledge of the revenues pledged to the payment of the revenue bonds to be refunded.
+
+If the payment of revenue bonds to be refunded by general obligation bonds of the state is secured by (1) fees collected by the state as license fees for motor vehicles, or (2) excise taxes collected by the state on the sale, distribution or use of motor vehicle fuel, or (3) interest on the permanent school fund, then the state shall also pledge to the payment of such refunding bonds the same fees, excise taxes, or interest that were pledged to the payment of the revenue bonds to be refunded.
+
+Any public body may issue revenue refunding bonds to refund any general obligation of such issuer or its agencies or instrumentalities if the bonds to be refunded were issued for purposes for which those revenue refunding bonds could be issued.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1495.SL.pdf?cite=1999%20c%20230%20§%2012[1999 c 230 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c111.pdf?cite=1974%20ex.s.%20c%20111%20§%204[1974 ex.s. c 111 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c25.pdf?cite=1973%201st%20ex.s.%20c%2025%20§%207[1973 1st ex.s. c 25 § 7]; ]
+
+== 39.53.900 - Short title.
+This chapter shall be known as the "Refunding Bond Act."
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c138.pdf?cite=1965%20ex.s.%20c%20138%20§%201[1965 ex.s. c 138 § 1]; ]
+
+== 39.53.910 - Additional authority—Effect as to other laws.
+The authority of a public body to issue refunding bonds pursuant to this chapter is additional to any existing authority to issue such bonds and nothing in this chapter shall prevent the issuance of such bonds pursuant to any other law, and this chapter shall not be construed to amend any existing law authorizing the issuance of refunding bonds by a public body.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c138.pdf?cite=1965%20ex.s.%20c%20138%20§%2014[1965 ex.s. c 138 § 14]; ]
+

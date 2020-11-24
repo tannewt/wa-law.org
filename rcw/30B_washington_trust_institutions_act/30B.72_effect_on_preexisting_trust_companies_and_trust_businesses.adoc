@@ -1,0 +1,23 @@
+= 30B.72 - Effect on preexisting trust companies and trust businesses.
+:toc:
+
+== 30B.72.005 - Trust companies under former Title 30 RCW.
+Trust companies under Title 30 RCW, as it existed on January 5, 2015, shall automatically succeed to and be subject to all powers and authorities, rights and obligations, privileges and immunities, and discretions of a state trust company under this title.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20401[2014 c 37 § 401]; ]
+
+== 30B.72.010 - Preexisting approved out-of-state trust institutions.
+. An out-of-state trust institution that has, prior to July 28, 2019, obtained approval from the director under authority of Title 30 RCW, as it existed before January 5, 2015, or under authority of this title, as it existed prior to July 28, 2019, to engage in trust business in Washington state and has continuously since the date of such approval held itself out to the public as engaging in trust business in Washington state, shall be exempt from the requirement of notice to or obtaining approval from the director pursuant to chapter 30B.38 RCW.
+
+. For purposes of this section, the term "director" includes the former office of the supervisor of banks that merged into the department under authority of chapter 43.320 RCW.
+
+. For purposes of this section, satisfactory evidence of approval from the director may be established only by written evidence that the director gave his or her approval prior to July 28, 2019, in the form of a certificate of authority, declaration of reciprocity between Washington state and the home state of the out-of-state trust institution, or the equivalent. Authorization from the secretary of state to transact business in Washington state as a foreign corporation or foreign limited liability company is not by itself satisfactory evidence of such approval from the director.
+
+. For purposes of this section, an out-of-state trust institution with satisfactory evidence of the director's approval to engage in trust business prior to July 28, 2019, is presumed to have:
+
+.. Complied with chapter 30B.38 RCW; and
+
+.. Continuously held itself out to the public as engaging in trust business in Washington state since the date of the director's approval.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%20101[2019 c 389 § 101]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20402[2014 c 37 § 402]; ]
+

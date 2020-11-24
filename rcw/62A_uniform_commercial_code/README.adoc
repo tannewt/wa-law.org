@@ -1,0 +1,14 @@
+= 62A UNIFORM COMMERCIAL CODE
+
+* link:62A.01_general_provisions.adoc[62A.1 - General provisions.]
+* link:62A.02_sales.adoc[62A.2 - Sales.]
+* link:62A.02A_leases.adoc[62A.2A - Leases.]
+* link:62A.03_negotiable_instruments.adoc[62A.3 - Negotiable instruments.]
+* link:62A.04_bank_deposits_and_collections.adoc[62A.4 - Bank deposits and collections.]
+* link:62A.04A_funds_transfers.adoc[62A.4A - Funds transfers.]
+* link:62A.05_letters_of_credit.adoc[62A.5 - Letters of credit.]
+* link:62A.07_warehouse_receipts_bills_of_lading_and_other_documents_of_title.adoc[62A.7 - Warehouse receipts, bills of lading and other documents of title.]
+* link:62A.08_investment_securities.adoc[62A.8 - Investment securities.]
+* link:62A.09A_secured_transactions;_sales_of_accounts_contract_rights_and_chattel_paper.adoc[62A.9A - Secured transactions; sales of accounts, contract rights and chattel paper.]
+* link:62A.10_effective_date_and_repealer.adoc[62A.10 - Effective date and repealer.]
+* link:62A.11_effective_date_and_transition_provisions.adoc[62A.11 - Effective date and transition provisions.]

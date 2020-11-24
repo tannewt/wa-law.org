@@ -1,0 +1,43 @@
+= 11.36 - Qualifications of personal representatives.
+:toc:
+
+== 11.36.010 - Parties disqualified—Result of disqualification after appointment.
+. Except as provided in subsections (2), (3), and (4) of this section, the following persons are not qualified to act as personal representatives: Corporations, limited liability companies, limited liability partnerships, minors, persons of unsound mind, or persons who have been convicted of (a) any felony or (b) any crime involving moral turpitude.
+
+. Trust companies regularly organized under the laws of this state and national banks when authorized so to do may act as the personal representative of an individual's estate or of the estate of an incapacitated person upon petition of any person having a right to such appointment and may act as personal representatives or guardians when so appointed by will. No trust company or national bank may qualify as such personal representative or guardian under any will hereafter drawn by it or its agents or employees, and no salaried attorney of any such company may be allowed any attorney fee for probating any such will or in relation to the administration or settlement of any such estate, and no part of any attorney fee may inure, directly or indirectly, to the benefit of any trust company or national bank.
+
+. Professional service corporations, professional limited liability companies, or limited liability partnerships, that are duly organized under the laws of this state and whose shareholders, members, or partners, respectively, are exclusively attorneys, may act as personal representatives.
+
+. Any nonprofit corporation may act as personal representative if the articles of incorporation or bylaws of that corporation permit the action and the corporation is in compliance with all applicable provisions of Title 24 RCW.
+
+. When any person to whom letters testamentary or of administration have been issued becomes disqualified to act because of becoming of unsound mind or being convicted of (a) any felony or (b) any crime involving moral turpitude, the court having jurisdiction must revoke his or her letters.
+
+. A nonresident may be appointed to act as personal representative if the nonresident appoints an agent who is a resident of the county where such estate is being probated or who is an attorney of record of the estate, upon whom service of all papers may be made; such appointment to be made in writing and filed by the clerk with other papers of such estate; and, unless bond has been waived as provided by RCW 11.28.185, such nonresident personal representative must file a bond to be approved by the court.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5344.SL.pdf?cite=2013%20c%20272%20§%201[2013 c 272 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c51.pdf?cite=1983%20c%2051%20§%201[1983 c 51 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c3.pdf?cite=1983%20c%203%20§%2014[1983 c 3 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c145.pdf?cite=1965%20c%20145%20§%2011.36.010[1965 c 145 § 11.36.010]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c43.pdf?cite=1959%20c%2043%20§%201[1959 c 43 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1917c156.pdf?cite=1917%20c%20156%20§%2087[1917 c 156 § 87]; RRS § 1457; prior: Code 1881 § 1409; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1863%20p%20227%20§%20164[1863 p 227 § 164]; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1860%20p%20189%20§%20131[1860 p 189 § 131]; ]
+
+== 11.36.021 - Trustees—Who may serve.
+. The following may serve as trustees:
+
+.. Any suitable persons over the age of eighteen years, if not otherwise disqualified;
+
+.. Any trust company regularly organized under the laws of this state and national banks when authorized to do so;
+
+.. Any nonprofit corporation, if the articles of incorporation or bylaws of that corporation permit the action and if the corporation is in compliance with all applicable provisions of Title 24 RCW;
+
+.. Any professional service corporations, professional limited liability companies, or limited liability partnerships, that are duly organized under the laws of this state and whose shareholders, members, or partners, respectively, are exclusively attorneys;
+
+.. Any state or regional college or university, as those institutions are defined in RCW 28B.10.016;
+
+.. Any community or technical college, as those institutions are defined in RCW 28B.50.030; and
+
+.. Any other entity so authorized under the laws of the state of Washington.
+
+. The following are disqualified to serve as trustees:
+
+.. Minors, persons of unsound mind, or persons who have been convicted of (i) any felony or (ii) any crime involving moral turpitude; and
+
+.. A corporation organized under Title 23B RCW that is not authorized under the laws of the state of Washington to act as a fiduciary.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5344.SL.pdf?cite=2013%20c%20272%20§%202[2013 c 272 § 2]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=1991%20c%2072%20§%201[1991 c 72 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c30.pdf?cite=1985%20c%2030%20§%206[1985 c 30 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c149.pdf?cite=1984%20c%20149%20§%209[1984 c 149 § 9]; ]
+

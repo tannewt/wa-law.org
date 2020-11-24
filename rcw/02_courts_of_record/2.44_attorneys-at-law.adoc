@@ -1,0 +1,43 @@
+= 2.44 - Attorneys-at-law.
+:toc:
+
+== 2.44.010 - Authority of attorney.
+An attorney and counselor has authority:
+
+. To bind his or her client in any of the proceedings in an action or special proceeding by his or her agreement duly made, or entered upon the minutes of the court; but the court shall disregard all agreements and stipulations in relation to the conduct of, or any of the proceedings in, an action or special proceeding unless such agreement or stipulation be made in open court, or in presence of the clerk, and entered in the minutes by him or her, or signed by the party against whom the same is alleged, or his or her attorney;
+
+. To receive money claimed by his or her client in an action or special proceeding, during the pendency thereof, or after judgment upon the payment thereof, and not otherwise, to discharge the same or acknowledge satisfaction of the judgment;
+
+. This section shall not prevent a party from employing a new attorney or from issuing an execution upon a judgment, or from taking other proceedings prescribed by statute for its enforcement.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%2057[2011 c 336 § 57]; Code 1881 § 3280; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1863%20p%20404%20§%206[1863 p 404 § 6]; RRS § 130; ]
+
+== 2.44.020 - Appearance without authority—Procedure.
+If it be alleged by a party for whom an attorney appears, that he or she does so without authority, the court may, at any stage of the proceedings, relieve the party for whom the attorney has assumed to appear from the consequences of his or her act; it may also summarily, upon motion, compel the attorney to repair the injury to either party consequent upon his or her assumption of authority.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%2058[2011 c 336 § 58]; Code 1881 § 3281; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1863%20p%20405%20§%207[1863 p 405 § 7]; RRS § 131; ]
+
+== 2.44.030 - Production of authority to act.
+The court, or a judge, may, on motion of either party, and on showing reasonable grounds therefor, require the attorney for the adverse party, or for any one of several adverse parties, to produce or prove the authority under which he or she appears, and until he or she does so, may stay all proceedings by him or her on behalf of the party for whom he or she assumes to appear.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%2059[2011 c 336 § 59]; Code 1881 § 3282; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1863%20p%20405%20§%208[1863 p 405 § 8]; RRS § 132; ]
+
+== 2.44.040 - Change of attorneys.
+The attorney in an action or special proceeding, may be changed at any time before judgment or final determination as follows:
+
+. Upon his or her own consent, filed with the clerk or entered upon the minutes; or
+
+. Upon the order of the court, or a judge thereof, on the application of the client, or for other sufficient cause; but no such change can be made until the charges of such attorney have been paid by the party asking such change to be made.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%2060[2011 c 336 § 60]; Code 1881 § 3283; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1863%20p%20405%20§%209[1863 p 405 § 9]; RRS § 133; ]
+
+== 2.44.050 - Notice of change and substitution.
+When an attorney is changed, as provided in RCW 2.44.040, written notice of the change, and of the substitution of a new attorney, or of the appearance of the party in person, must be given to the adverse party; until then, he or she shall be bound to recognize the former attorney.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%2061[2011 c 336 § 61]; Code 1881 § 3284; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1863%20p%20405%20§%2010[1863 p 405 § 10]; RRS § 134; ]
+
+== 2.44.060 - Death or removal of attorney—Proceedings.
+When an attorney dies, or is removed, or suspended, or ceases to act as such, a party to an action for whom he or she was acting as attorney, must, at least twenty days before any further proceedings against him or her, be required by the adverse party, by written notice, to appoint another attorney, or to appear in person.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%2062[2011 c 336 § 62]; Code 1881 § 3285; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1863%20p%20405%20§%2011[1863 p 405 § 11]; RRS § 135; ]
+

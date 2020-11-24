@@ -1,0 +1,65 @@
+= 70A.435 - Replacement of lead wheel weights.
+:toc:
+
+== 70A.435.010 - Findings.
+The legislature finds that:
+
+. Environmental health hazards associated with lead wheel weights are a preventable problem. People are exposed to lead fragments and dust when lead wheel weights fall from motor vehicles onto Washington roadways and are then abraded and pulverized by traffic. Lead wheel weights on and alongside roadways can contribute to soil, surface, and groundwater contamination and pose hazards to downstream aquatic life.
+
+. Lead negatively affects every bodily system. While it is injurious to people of all ages, lead is especially harmful to fetuses, children, and adults of childbearing age. Effects of lead on a child's cognitive, behavioral, and developmental abilities may necessitate large expenditures of public funds for health care and special education. Irreversible damage to children and subsequent expenditures could be avoided if exposure to lead is reduced.
+
+. There are no federal regulatory controls governing use of lead wheel weights. The legislature recognizes the state's need to protect the public from exposure to lead hazards.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1033-S.SL.pdf?cite=2009%20c%20243%20§%201[2009 c 243 § 1]; ]
+
+== 70A.435.020 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Department" means the department of ecology.
+
+. "Environmentally preferred wheel weight" means any wheel weight used for balancing motor vehicle wheels that do not include more than 0.5 percent by weight of any chemical, group of chemicals, or metal of concern identified by rule under chapter 173-333 WAC.
+
+. "Lead wheel weight" means any externally affixed or attached wheel weight used for balancing motor vehicle wheels and composed of greater than 0.1 percent lead by weight.
+
+. "Person" includes any individual, firm, association, partnership, corporation, governmental entity, organization, or joint venture.
+
+. "Vehicle" means any motor vehicle registered in Washington with a wheel diameter of less than 19.5 inches or a gross vehicle weight of fourteen thousand pounds or less.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1033-S.SL.pdf?cite=2009%20c%20243%20§%202[2009 c 243 § 2]; ]
+
+== 70A.435.030 - Replacement of lead wheel weights with environmentally preferred wheel weights—Failure to comply.
+. On and after January 1, 2011, a person who replaces or balances motor vehicle tires must replace lead wheel weights with environmentally preferred wheel weights on all vehicles when they replace or balance tires in Washington. However, the person may use alternatives to lead wheel weights that are determined by the department to not qualify as environmentally preferred wheel weights for up to two years following the date of that determination, but must thereafter use environmentally preferred wheel weights.
+
+. A person who is subject to the requirement in subsection (1) of this section must recycle the lead wheel weights that they remove.
+
+. A person who fails to comply with subsection (1) of this section is subject to penalties prescribed in RCW 70A.435.050. A violation of subsection (1) of this section occurs with respect to each vehicle for which lead wheel weights are not replaced in compliance with subsection (1) of this section.
+
+. An owner of a vehicle is not subject to any requirement in this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201411[2020 c 20 § 1411]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1033-S.SL.pdf?cite=2009%20c%20243%20§%203[2009 c 243 § 3]; ]
+
+== 70A.435.040 - Department's duties—Enforcement sequence.
+. The department shall achieve compliance with RCW 70A.435.030 through the enforcement sequence specified in this section.
+
+. To provide assistance in identifying environmentally preferred wheel weights, the department shall, by October 1, 2010, prepare and distribute information regarding this chapter to the maximum extent practicable to:
+
+.. Persons that replace or balance motor vehicle tires in Washington; and
+
+.. Persons generally in the motor vehicle tire and wheel weight manufacturing, distribution, wholesale, and retail industries.
+
+. The department shall issue a warning letter to a person who fails to comply with RCW 70A.435.030 and offer information or other appropriate assistance. If the person does not comply with RCW 70A.435.030(1) within one year of the department's issuance of the warning letter, the department may assess civil penalties under RCW 70A.435.050.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201412[2020 c 20 § 1412]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1033-S.SL.pdf?cite=2009%20c%20243%20§%204[2009 c 243 § 4]; ]
+
+== 70A.435.050 - Penalties.
+. An initial violation of RCW 70A.435.030(1) is punishable by a civil penalty not to exceed five hundred dollars. Subsequent violations of RCW 70A.435.030(1) are punishable by civil penalties not to exceed one thousand dollars for each violation.
+
+. Penalties collected under this section must be deposited in the model toxics control operating account created in RCW 70A.305.180.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201413[2020 c 20 § 1413]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5993-S.SL.pdf?cite=2019%20c%20422%20§%20408[2019 c 422 § 408]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1033-S.SL.pdf?cite=2009%20c%20243%20§%205[2009 c 243 § 5]; ]
+
+== 70A.435.060 - Adoption of rules.
+The department may adopt rules to fully implement this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1033-S.SL.pdf?cite=2009%20c%20243%20§%206[2009 c 243 § 6]; ]
+

@@ -1,0 +1,214 @@
+= 11.11 - Testamentary disposition of nonprobate assets act.
+:toc:
+
+== 11.11.003 - Purposes.
+The purposes of this chapter are to:
+
+. Enhance and facilitate the power of testators to control the disposition of assets that pass outside their wills;
+
+. Provide simple procedures for resolution of disputes regarding entitlement to such assets; and
+
+. Protect any financial institution or other third party having possession of or control over such an asset and transferring it to a beneficiary duly designated by the testator, unless that third party has been provided notice of a testamentary disposition as required in this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6181-S.SL.pdf?cite=1998%20c%20292%20§%20102[1998 c 292 § 102]; ]
+
+== 11.11.005 - Construction.
+. When construing sections and provisions of this chapter, the sections and provisions must:
+
+.. Be liberally construed and applied to promote the purposes of this chapter;
+
+.. Be considered part of a general act that is intended as unified coverage of the subject matter, and no part of this chapter may be deemed impliedly repealed by subsequent legislation if the construction can be reasonably avoided;
+
+.. Not be held invalid because of the invalidity of other sections or provisions of this chapter as long as the section or provision in question can be given effect without regard to the invalid section or provision, and to this end the sections or provisions of this chapter are severable;
+
+.. Not be construed by reference to section or subsection headings as used in this chapter, since these do not constitute any part of the law;
+
+.. Not be deemed to alter the community or separate property nature of any asset passing outside a testator's will or any individual's community or separate rights to the asset, and a testator's community or separate property rights to the asset are not affected by whether it passes outside the will or, under this chapter, by disposition under the will; and
+
+.. Not be construed as authorizing or extending the authority of any financial institution or other third party to sell or otherwise create assets that would pass outside a testator's will upon such terms as would contravene any other applicable federal or state law.
+
+. The sections and provisions of this chapter apply to an owner who dies while a resident of this state on or after July 1, 1999, and to a nonprobate asset the disposition of which on the death of the owner would otherwise be governed by the law of this state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6181-S.SL.pdf?cite=1998%20c%20292%20§%20103[1998 c 292 § 103]; ]
+
+== 11.11.007 - Intent—Controversies between beneficiaries and testamentary beneficiaries.
+This chapter is intended to establish ownership rights to nonprobate assets upon the death of the owner, as between beneficiaries and testamentary beneficiaries. This chapter is relevant only as to controversies between these persons, and has no bearing on the right of a person to transfer a nonprobate asset under its terms in the absence of a testamentary provision under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6181-S.SL.pdf?cite=1998%20c%20292%20§%20107[1998 c 292 § 107]; ]
+
+== 11.11.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. [Empty]
+.. "Actual knowledge" means:
+
+... For a financial institution, whether acting as personal representative or otherwise, or other third party in possession or control of a nonprobate asset, receipt of written notice that: (A) Complies with RCW 11.11.050; (B) pertains to the testamentary disposition or ownership of a nonprobate asset in its possession or control; and (C) is received by the financial institution or third party after the death of the owner in a time sufficient to afford the financial institution or third party a reasonable opportunity to act upon the knowledge; and
+
+... For a personal representative that is not a financial institution, personal knowledge or possession of documents relating to the testamentary disposition or ownership of a nonprobate asset of the owner sufficient to afford the personal representative reasonable opportunity to act upon the knowledge, including reasonable opportunity for the personal representative to provide the written notice under RCW 11.11.050.
+
+.. For the purposes of (a) of this subsection, notice of more than thirty days is presumed to be notice that is sufficient to afford the party a reasonable opportunity to act upon the knowledge, but notice of less than five business days is presumed not to be a sufficient notice for these purposes. These presumptions may be rebutted only by clear and convincing evidence to the contrary.
+
+. "Beneficiary" means the person designated to receive a nonprobate asset upon the death of the owner by means other than the owner's will.
+
+. "Broker" means a person defined as a broker or dealer under the federal securities laws.
+
+. "Date of will" means, as to any nonprobate asset, the date of signature of the will or codicil that refers to the asset and disposes of it.
+
+. "Designate" means a written means by which the owner selects a beneficiary, including but not limited to instruments under contractual arrangements and registration of accounts, and "designation" means the selection.
+
+. "Financial institution" means: A bank, trust company, mutual savings bank, savings and loan association, credit union, broker, or issuer of stock or its transfer agent.
+
+. [Empty]
+.. "Nonprobate asset" means a nonprobate asset within the meaning of RCW 11.02.005, but excluding the following:
+
+... A right or interest in real property passing under a joint tenancy with right of survivorship;
+
+... A deed or conveyance for which possession has been postponed until the death of the owner;
+
+... A transfer on death deed;
+
+... A right or interest passing under a community property agreement; and
+
+.. An individual retirement account or bond.
+
+.. For the definition of "nonprobate asset" relating to revocation of a provision for a former spouse or former domestic partner upon dissolution of marriage or state registered domestic partnership or declaration of invalidity of marriage or state registered domestic partnership, see RCW 11.07.010(5).
+
+. "Owner" means a person who, during life, has beneficial ownership of the nonprobate asset.
+
+. "Request" means a request by the beneficiary for transfer of a nonprobate asset after the death of the owner, if it complies with all conditions of the arrangement, including reasonable special requirements concerning necessary signatures and regulations of the financial institution or other third party, or by the personal representative of the owner's estate or the testamentary beneficiary, if it complies with the owner's will and any additional conditions of the financial institution or third party for such transfer.
+
+. "Testamentary beneficiary" means a person named under the owner's will to receive a nonprobate asset under this chapter, including but not limited to the trustee of a testamentary trust.
+
+. "Third party" means a person, including a financial institution, having possession of or control over a nonprobate asset at the death of the owner, including the trustee of a revocable living trust and surviving joint tenant or tenants.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1117-S.SL.pdf?cite=2014%20c%2058%20§%2020[2014 c 58 § 20]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%20909[2008 c 6 § 909]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6181-S.SL.pdf?cite=1998%20c%20292%20§%20104[1998 c 292 § 104]; ]
+
+== 11.11.020 - Disposition of nonprobate assets under will.
+. Subject to community property rights, upon the death of an owner the owner's interest in any nonprobate asset specifically referred to in the owner's will belongs to the testamentary beneficiary named to receive the nonprobate asset, notwithstanding the rights of any beneficiary designated before the date of the will.
+
+. A general residuary gift in an owner's will, or a will making general disposition of all of the owner's property, does not entitle the devisees or legatees to receive nonprobate assets of the owner.
+
+. A disposition in a will of the owner's interest in "all nonprobate assets" or of all of a category of nonprobate asset under RCW 11.11.010(7), such as "all of my payable on death bank accounts" or similar language, is deemed to be a disposition of all the nonprobate assets the beneficiaries of which are designated before the date of the will.
+
+. If the owner designates a beneficiary for a nonprobate asset after the date of the will, the specific provisions in the will that attempt to control the disposition of that asset do not govern the disposition of that nonprobate asset, even if the subsequent beneficiary designation is later revoked. If the owner revokes the later beneficiary designation, and there is no other provision controlling the disposition of the asset, the asset shall be treated as any other general asset of the owner's estate, subject to disposition under the other applicable provisions of the will. A beneficiary designation with respect to an asset that renews without the signature of the owner is deemed to have been made on the date on which the account was first opened.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2379.SL.pdf?cite=2006%20c%20203%20§%201[2006 c 203 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6181-S.SL.pdf?cite=1998%20c%20292%20§%20105[1998 c 292 § 105]; ]
+
+== 11.11.030 - Waiver of right to dispose of a nonprobate asset under will—Revocation of waiver.
+An owner may waive the right to dispose of a specific nonprobate asset by will under this chapter, with or without consideration, by a written instrument signed by the owner and delivered to the financial institution or other third party, including but not limited to signature cards or deposit agreements. The waiver is revocable by written instrument delivered to the financial institution or other third party unless the owner has stated that the waiver is to be irrevocable.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6181-S.SL.pdf?cite=1998%20c%20292%20§%20106[1998 c 292 § 106]; ]
+
+== 11.11.040 - Right to rely on form of nonprobate asset—Discharge of financial institution or other third party.
+In transferring nonprobate assets, a personal representative, a financial institution, or other third party may rely conclusively and entirely upon the form of the nonprobate asset and the terms of the nonprobate asset arrangement in effect on the date of death of the owner, and a personal representative or third party may rely on information provided by a financial institution or other party who has possession or control of a nonprobate asset concerning the form of the nonprobate asset and the terms of the nonprobate asset arrangement in effect on the date of death of the owner, unless the personal representative, financial institution, or other third party has actual knowledge of the existence of a claim by a testamentary beneficiary. A financial institution or other third party is not required to inquire as to either the source or ownership of any nonprobate asset in its possession or under its control, or as to the proposed application of an asset so transferred. A transfer of a nonprobate asset in accordance with this section constitutes a complete release and discharge of the financial institution or other third party from all claims relating to the nonprobate asset, regardless of whether or not the transfer is consistent with the actual ownership of the nonprobate asset.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2379.SL.pdf?cite=2006%20c%20203%20§%202[2006 c 203 § 2]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6181-S.SL.pdf?cite=1998%20c%20292%20§%20108[1998 c 292 § 108]; ]
+
+== 11.11.050 - Notice—Affidavit—Form—Limitation on liability for failure to provide notice.
+. Written notice under this chapter must be served personally or by certified mail, return receipt requested and postage prepaid, on the financial institution or other third party having the nonprobate asset in its possession or control, on the beneficiary, on the testamentary beneficiary, and on the personal representative, and proof of the mailing or service must be made by affidavit and filed under the cause number assigned to the owner's estate. Notice to a financial institution must include notice delivered as follows:
+
+.. If the nonprobate asset was maintained at a specific office of the financial institution, notice must be delivered to the office at which the nonprobate asset was maintained, which notice must be directed to the manager of the office;
+
+.. If the nonprobate asset was held in a trust administered by a financial institution, notice must be delivered to the office at which the trust was administered, which notice must be directed to a named officer responsible for the administration of the trust; and
+
+.. In all cases, notice must be delivered to any other location and in any other manner specifically designated in a written agreement signed by the owner and the financial institution, including but not limited to a signature card or deposit agreement.
+
+. Written notice to a financial institution or other third party of the testamentary disposition of a nonprobate asset under this chapter must be in a form substantially similar to the following:
+
+NOTICE OF TESTAMENTARY
+
+DISPOSITION OF NONPROBATE ASSET
+
+The undersigned personal representative, petitioner for appointment as personal representative, attorney for the personal representative or petitioner, or testamentary beneficiary under the will of the decedent named above (as that term is defined in RCW 11.11.010) hereby notifies you that the decedent named above died on (DATE MUST BE SUPPLIED) and left a will dated (DATE OF WILL MUST BE SUPPLIED) disposing of the following nonprobate asset or assets in your possession or control:
+
+(EACH SUCH ASSET MUST BE DESCRIBED WITH REASONABLE SPECIFICITY. FOR ACCOUNTS AT FINANCIAL INSTITUTIONS, THE WRITTEN NOTICE MUST SPECIFY THE OFFICE AT WHICH THE ACCOUNT WAS MAINTAINED, THE NAME OR NAMES IN WHICH THE ACCOUNT WAS HELD, AND THE FULL ACCOUNT NUMBER. FOR ASSETS HELD IN TRUST, THE WRITTEN NOTICE MUST SPECIFY THE NAME OR NAMES OF THE GRANTOR, THE NAME OF THE TRUST, IF ANY, AND THE DATE OF THE TRUST INSTRUMENT.)
+
+Under chapter 11.11 RCW, you may not transfer, deliver, or otherwise dispose of the asset or assets listed above in accordance with the beneficiary designation, account registration, or other arrangement made with you by the decedent. You may transfer, deliver, or otherwise dispose of the asset or assets listed above only upon receipt of the written direction of the personal representative or of the testamentary beneficiary, if the personal representative consents.
+
+ . . . . . . . . (CAPACITY OF SIGNER)
+
+ 
+
+. . . .
+
+ 
+
+. . . .
+
+ 
+
+(CAPACITY OF SIGNER)
+
+. The personal representative of the estate of the owner, a petitioner for appointment as personal representative, or the testamentary beneficiary may provide written notice under this section. The personal representative has no duty to provide written notice under this section and has no liability for failing or refusing to give the notice.
+
+. Written notice under this section may be provided at any time after the death of the owner and before discharge of the personal representative on closing of the estate, and may be provided before admission to probate of the will.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6181-S.SL.pdf?cite=1998%20c%20292%20§%20109[1998 c 292 § 109]; ]
+
+== 11.11.060 - Vesting of rights and powers under chapter.
+The right to provide notice under RCW 11.11.050 and the entitlement of the testamentary beneficiary to the nonprobate asset vest immediately upon death of the owner. The power of the personal representative to direct the financial institution or other third party having the nonprobate asset in its possession or under its control to transfer or otherwise dispose of the asset arises upon the later of appointment of the personal representative or admission of the will to probate.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6181-S.SL.pdf?cite=1998%20c%20292%20§%20110[1998 c 292 § 110]; ]
+
+== 11.11.070 - Ownership rights as between individuals preserved—Testamentary beneficiary may recover nonprobate asset from beneficiary—Limitation on action to recover.
+. The protection accorded to financial institutions and other third parties under RCW 11.11.040 has no bearing on the actual rights of ownership to nonprobate assets as between beneficiaries and testamentary beneficiaries, and their heirs, successors, personal representatives, and assigns.
+
+. A testamentary beneficiary entitled to a nonprobate asset otherwise transferred to a beneficiary not so entitled, and a personal representative of the owner's estate on behalf of the testamentary beneficiary, may petition the superior court having jurisdiction over the owner's estate for an order declaring that the testamentary beneficiary is so entitled, the hearing of the petition to be held in accordance with *chapter 11.96 RCW.
+
+. A testamentary beneficiary claiming a nonprobate asset who has not filed such a petition within the earlier of: (a) Six months from the date of admission of the will to probate; and (b) one year from the date of the owner's death, shall be forever barred from making such a claim or commencing such an action.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6181-S.SL.pdf?cite=1998%20c%20292%20§%20111[1998 c 292 § 111]; ]
+
+== 11.11.080 - Nonprobate assets not property of estate—Effect of notice on administration—Effect of preceding death of devisee or legatee.
+. Notwithstanding any provision of this chapter, a nonprobate asset disposed of under the owner's will may not be treated as a part of the owner's probate estate for any other purpose under this title, unless:
+
+.. The nonprobate asset is subject to liabilities and claims, estate taxes, and expenses of administration under RCW 11.18.200; or
+
+.. Any section of this title directs otherwise, by specifically referring to this section.
+
+. Provision of notice under this chapter has no effect on the administration of other assets of the estate of the owner. The personal representative has no duty to administer upon a nonprobate asset because of providing the notice, unless specifically required by this chapter or under RCW 11.18.200.
+
+. RCW 11.12.110, regarding death of a devisee or legatee before the testator, does not apply to disposition of a nonprobate asset under a will.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6181-S.SL.pdf?cite=1998%20c%20292%20§%20112[1998 c 292 § 112]; ]
+
+== 11.11.090 - Transfer of nonprobate asset to testamentary beneficiary.
+. A financial institution's or third party's obligation to transfer a nonprobate asset to a testamentary beneficiary arises only after it has actual knowledge of the claim of the testamentary beneficiary, and after receiving written direction from the personal representative of the owner's estate, or if the personal representative consents in writing, from the testamentary beneficiary, to make the transfer. The financial institution may also require that its customary procedures be followed in effectuating a transfer of the nonprobate asset.
+
+. Subject to subsection (1) of this section, financial institutions and other third parties may transfer a nonprobate asset that has not already been distributed to the testamentary beneficiary entitled to the nonprobate asset under the owner's will, subject to liabilities and claims, estate taxes, and expenses of administration under RCW 11.18.200.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6181-S.SL.pdf?cite=1998%20c%20292%20§%20113[1998 c 292 § 113]; ]
+
+== 11.11.100 - Authority to withhold transfer—Notice—Expenses of obtaining consent, authorization, direction.
+. This chapter does not require any financial institution or other third party to transfer a nonprobate asset to a beneficiary, testamentary beneficiary, or other person claiming an interest in the nonprobate asset if the financial institution or third party has actual knowledge of the existence of a dispute between beneficiaries, testamentary beneficiaries, or other persons concerning rights or ownership to the nonprobate asset under this chapter, or if the financial institution or third party is otherwise uncertain as to who is entitled to receive the nonprobate asset under this chapter. In any such case, the financial institution or third party may, without liability, notify in writing all beneficiaries, testamentary beneficiaries, or other persons claiming an interest in the nonprobate asset of either its uncertainty as to who is entitled to transfer of the nonprobate asset or the existence of any dispute, and it may also, without liability, refuse to transfer a nonprobate asset to a beneficiary or a testamentary beneficiary until such time as either:
+
+.. All the beneficiaries, testamentary beneficiaries, and other interested persons have consented in writing to the transfer; or
+
+.. The transfer is authorized or directed by a court of proper jurisdiction.
+
+. The expense of obtaining the written consent or court authorization or direction may, by order of the court, be paid by the personal representative as an expense of administration.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6181-S.SL.pdf?cite=1998%20c%20292%20§%20114[1998 c 292 § 114]; ]
+
+== 11.11.110 - Adverse claim bond.
+Notwithstanding RCW 11.11.100, a financial institution or other third party having actual knowledge of the existence of a dispute between beneficiaries, a testamentary beneficiary, or other persons concerning rights to a nonprobate asset under this chapter may condition transfer of the nonprobate asset on execution, in form and with security acceptable to the financial institution or other third party, of a bond in an amount that is double the fair market value of the nonprobate asset on the date of the owner's death or the amount of any adverse claim, whichever is the lesser, indemnifying the financial institution or other third party from any and all liability, loss, damage, costs, and expenses, for and on account of transfer of the nonprobate asset.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6181-S.SL.pdf?cite=1998%20c%20292%20§%20115[1998 c 292 § 115]; ]
+
+== 11.11.900 - Short title.
+This chapter may be known and cited as the testamentary disposition of nonprobate assets act.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6181-S.SL.pdf?cite=1998%20c%20292%20§%20101[1998 c 292 § 101]; ]
+
+== 11.11.901 - Application of chapter.
+This chapter applies to any will of an owner who dies while a resident of this state on or after July 1, 1999, regardless of whether the will was executed or republished before or after July 1, 1999, and regardless of whether the beneficiary of the nonprobate asset was designated before or after July 1, 1999.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6181-S.SL.pdf?cite=1998%20c%20292%20§%20116[1998 c 292 § 116]; ]
+
+== 11.11.903 - Effective dates—1998 c 292.
+. Sections 101 through 116 and 118 of this act take effect July 1, 1999.
+
+. Sections 117, 201 through 205, 301, 401, 501 through 507, and 604 of this act are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect immediately [April 2, 1998].
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6181-S.SL.pdf?cite=1998%20c%20292%20§%20603[1998 c 292 § 603]; ]
+

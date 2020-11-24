@@ -1,0 +1,141 @@
+= 70.136 - Hazardous materials incidents.
+:toc:
+
+== 70.136.010 - Legislative intent.
+It is the intent of the legislature to promote and encourage advance planning, cooperation, and mutual assistance between applicable political subdivisions of the state and persons with equipment, personnel, and expertise in the handling of hazardous materials incidents, by establishing limitations on liability for those persons responding in accordance with the provisions of RCW 70.136.020 through 70.136.070.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c172.pdf?cite=1982%20c%20172%20§%201[1982 c 172 § 1]; ]
+
+== 70.136.020 - Definitions.
+The definitions set forth in this section apply throughout RCW 70.136.010 through 70.136.070.
+
+. "Hazardous materials" means:
+
+.. Materials which, if not contained may cause unacceptable risks to human life within a specified area adjacent to the spill, seepage, fire, explosion, or other release, and will, consequently, require evacuation;
+
+.. Materials that, if spilled, could cause unusual risks to the general public and to emergency response personnel responding at the scene;
+
+.. Materials that, if involved in a fire will pose unusual risks to emergency response personnel;
+
+.. Materials requiring unusual storage or transportation conditions to assure safe containment; or
+
+.. Materials requiring unusual treatment, packaging, or vehicles during transportation to assure safe containment.
+
+. "Applicable political subdivisions of the state" means cities, towns, counties, fire districts, and those port authorities with emergency response capabilities.
+
+. "Person" means an individual, partnership, corporation, or association.
+
+. "Public agency" means any agency, political subdivision, or unit of local government of this state including, but not limited to, municipal corporations, quasi-municipal corporations, special purpose districts, and local service districts; any agency of the state government; any agency of the United States; any Indian tribe recognized as such by the federal government; and any political subdivision of another state.
+
+. "Hazardous materials incident" means an incident creating a danger to persons, property, or the environment as a result of spillage, seepage, fire, explosion, or release of hazardous materials, or the possibility thereof.
+
+. "Governing body" means the elected legislative council, board, or commission or the chief executive of the applicable political subdivision of the state with public safety responsibility.
+
+. "Incident command agency" means the predesignated or appointed agency charged with coordinating all activities and resources at the incident scene.
+
+. "Representative" means an agent from the designated hazardous materials incident command agency with the authority to secure the services of persons with hazardous materials expertise or equipment.
+
+. "Profit" means compensation for rendering care, assistance, or advice in excess of expenses actually incurred.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c238.pdf?cite=1987%20c%20238%20§%201[1987 c 238 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c172.pdf?cite=1982%20c%20172%20§%202[1982 c 172 § 2]; ]
+
+== 70.136.030 - Incident command agencies—Designation by political subdivisions.
+The governing body of each applicable political subdivision of this state shall designate a hazardous materials incident command agency within its respective boundaries, and file this designation with the *director of community, trade, and economic development. In designating an incident command agency, the political subdivision shall consider the training, manpower, expertise, and equipment of various available agencies as well as the Uniform Fire Code and other existing codes and regulations. Along state and interstate highway corridors, the Washington state patrol shall be the designated incident command agency unless by mutual agreement that role has been assumed by another designated incident command agency. If a political subdivision has not designated an incident command agency within six months after July 26, 1987, the Washington state patrol shall then assume the role of incident command agency by action of the chief until a designation has been made.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1014.SL.pdf?cite=1995%20c%20399%20§%20197[1995 c 399 § 197]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c238.pdf?cite=1987%20c%20238%20§%202[1987 c 238 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c266.pdf?cite=1986%20c%20266%20§%2050[1986 c 266 § 50]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c7.pdf?cite=1985%20c%207%20§%20132[1985 c 7 § 132]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c165.pdf?cite=1984%20c%20165%20§%201[1984 c 165 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c172.pdf?cite=1982%20c%20172%20§%204[1982 c 172 § 4]; ]
+
+== 70.136.035 - Incident command agencies—Assistance from state patrol.
+In political subdivisions where an incident command agency has been designated, the Washington state patrol shall continue to respond with a supervisor to provide assistance to the incident command agency.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c238.pdf?cite=1987%20c%20238%20§%203[1987 c 238 § 3]; ]
+
+== 70.136.040 - Incident command agencies—Emergency assistance agreements.
+Hazardous materials incident command agencies, so designated by all applicable political subdivisions of the state, are authorized and encouraged, prior to a hazardous materials incident, to enter individually or jointly into written hazardous materials emergency assistance agreements with any person whose knowledge or expertise is deemed potentially useful.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c172.pdf?cite=1982%20c%20172%20§%203[1982 c 172 § 3]; ]
+
+== 70.136.050 - Persons and agencies rendering emergency aid in hazardous materials incidents—Immunity from liability—Limitations.
+An incident command agency in the good faith performance of its duties, is not liable for civil damages resulting from any act or omission in the performance of its duties, other than acts or omissions constituting gross negligence or wilful or wanton misconduct.
+
+Any person or public agency whose assistance has been requested by an incident command agency, who has entered into a written hazardous materials assistance agreement before or at the scene of the incident pursuant to RCW 70.136.060 and 70.136.070, and who, in good faith, renders emergency care, assistance, or advice with respect to a hazardous materials incident, is not liable for civil damages resulting from any act or omission in the rendering of such care, assistance, or advice, other than acts or omissions constituting gross negligence or wilful or wanton misconduct.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c238.pdf?cite=1987%20c%20238%20§%204[1987 c 238 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c165.pdf?cite=1984%20c%20165%20§%202[1984 c 165 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c172.pdf?cite=1982%20c%20172%20§%205[1982 c 172 § 5]; ]
+
+== 70.136.060 - Written emergency assistance agreements—Terms and conditions—Records.
+Hazardous materials emergency assistance agreements which are executed prior to a hazardous materials incident shall include the following terms and conditions:
+
+. The person or public agency requested to assist shall not be obligated to assist;
+
+. The person or public agency requested to assist may act only under the direction of the incident command agency or its representative;
+
+. The person or public agency requested to assist may withdraw its assistance if it deems the actions or directions of the incident command agency to be contrary to accepted hazardous materials response practices;
+
+. The person or public agency requested to assist shall not profit from rendering the assistance;
+
+. Any person responsible for causing the hazardous materials incident shall not be covered by the liability standard defined in RCW 70.136.050.
+
+It is the responsibility of both parties to ensure that mutually agreeable procedures are established for identifying the incident command agency when assistance is requested, for recording the name of the person or public agency whose assistance is requested, and the time and date of the request, which records shall be retained for three years by the incident command agency. A copy of the official incident command agency designation shall be a part of the assistance agreement specified in this section.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c238.pdf?cite=1987%20c%20238%20§%205[1987 c 238 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c172.pdf?cite=1982%20c%20172%20§%206[1982 c 172 § 6]; ]
+
+== 70.136.070 - Verbal emergency assistance agreements—Good Samaritan law—Notification—Form.
+. Verbal hazardous materials emergency assistance agreements may be entered into at the scene of an incident where execution of a written agreement prior to the incident is not possible. A notification of the terms of this section shall be presented at the scene by the incident command agency or its representative to the person or public agency whose assistance is requested. The incident command agency and the person or public agency whose assistance is requested shall both sign the notification which appears in subsection (2) of this section, indicating the date and time of signature. If a requesting incident command agency deliberately misrepresents individual or agency status, that agency shall assume full liability for any damages resulting from the actions of the person or public agency whose assistance is requested, other than those damages resulting from gross negligence or wilful or wanton misconduct.
+
+. The notification required by subsection (1) of this section shall be in substantially the following form:
+
+NOTIFICATION OF "GOOD SAMARITAN" LAW
+
+You have been requested to provide emergency assistance by a representative of a hazardous materials incident command agency. To encourage your assistance, the Washington state legislature has passed "Good Samaritan" legislation (RCW 70.136.050) to protect you from potential liability. The law reads, in part:
+
+"Any person or public agency whose assistance has been requested by an incident command agency, who has entered into a written hazardous materials assistance agreement . . . at the scene of the incident pursuant to . . . RCW 70.136.070, and who, in good faith, renders emergency care, assistance, or advice with respect to a hazardous materials incident, is not liable for civil damages resulting from any act or omission in the rendering of such care, assistance, or advice, other than acts or omissions constituting gross negligence or wilful or wanton misconduct."
+
+The law requires that you be advised of certain conditions to ensure your protection:
+
+1.You are not obligated to assist and you may withdraw your assistance at any time.2.You cannot profit from assisting.3.You must agree to act under the direction of the incident command agency.4.You are not covered by this law if you caused the initial accident. I have read and understand the above. (Name) . . . . Date  . . . . . . Time . . . . I am a representative of a designated hazardous materials incident command agency and I am authorized to make this request for assistance. (Name) . . . . (Agency) . . . . Date  . . . . . . Time . . . .
+
+1.
+
+You are not obligated to assist and you may withdraw your assistance at any time.
+
+2.
+
+You cannot profit from assisting.
+
+3.
+
+You must agree to act under the direction of the incident command agency.
+
+4.
+
+You are not covered by this law if you caused the initial accident.
+
+ 
+
+I have read and understand the above.
+
+ 
+
+(Name) . . . .
+
+ 
+
+Date  . . . . . . Time . . . .
+
+ 
+
+I am a representative of a designated hazardous materials incident command agency and I am authorized to make this request for assistance.
+
+ 
+
+(Name) . . . .
+
+ 
+
+(Agency) . . . .
+
+ 
+
+Date  . . . . . . Time . . . .
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c238.pdf?cite=1987%20c%20238%20§%206[1987 c 238 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c172.pdf?cite=1982%20c%20172%20§%207[1982 c 172 § 7]; ]
+

@@ -1,0 +1,201 @@
+= 3.66 - Jurisdiction and venue.
+:toc:
+
+== 3.66.010 - Powers of district court.
+. The justices of the peace elected in accordance with chapters 3.30 through 3.74 RCW are authorized to hold court as judges of the district court for the trial of all actions enumerated in chapters 3.30 through 3.74 RCW or assigned to the district court by law; to hear, try, and determine the same according to the law, and for that purpose where no special provision is otherwise made by law, such court shall be vested with all the necessary powers which are possessed by courts of record in this state; and all laws of a general nature shall apply to such district court as far as the same may be applicable and not inconsistent with the provisions of chapters 3.30 through 3.74 RCW. The district court shall, upon the demand of either party, impanel a jury to try any civil or criminal case in accordance with the provisions of chapter 12.12 RCW. No jury trial may be held in a proceeding involving a traffic infraction.
+
+. A district court participating in the program established by the administrative office of the courts pursuant to RCW 2.56.160 shall have jurisdiction to take recognizance, approve bail, and arraign defendants held within its jurisdiction on warrants issued by any other court of limited jurisdiction participating in the program.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1668.SL.pdf?cite=2005%20c%20282%20§%2015[2005 c 282 § 15]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2799-S.SL.pdf?cite=2000%20c%20111%20§%202[2000 c 111 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c258.pdf?cite=1984%20c%20258%20§%2040[1984 c 258 § 40]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c136.pdf?cite=1979%20ex.s.%20c%20136%20§%2020[1979 ex.s. c 136 § 20]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c299.pdf?cite=1961%20c%20299%20§%20112[1961 c 299 § 112]; ]
+
+== 3.66.020 - Civil jurisdiction.
+If, for each claimant, the value of the claim or the amount at issue does not exceed one hundred thousand dollars, exclusive of interest, costs, and attorneys' fees, the district court shall have jurisdiction and cognizance of the following civil actions and proceedings:
+
+. Actions arising on contract for the recovery of money;
+
+. Actions for damages for injuries to the person, or for taking or detaining personal property, or for injuring personal property, or for an injury to real property when no issue raised by the answer involves the plaintiff's title to or possession of the same and actions to recover the possession of personal property;
+
+. Actions for a penalty;
+
+. Actions upon a bond conditioned for the payment of money, when the amount claimed does not exceed fifty thousand dollars, though the penalty of the bond exceeds that sum, the judgment to be given for the sum actually due, not exceeding the amount claimed in the complaint;
+
+. Actions on an undertaking or surety bond taken by the court;
+
+. Actions for damages for fraud in the sale, purchase, or exchange of personal property;
+
+. Proceedings to take and enter judgment on confession of a defendant;
+
+. Proceedings to issue writs of attachment, garnishment and replevin upon goods, chattels, moneys, and effects;
+
+. Actions arising under the provisions of chapter 19.190 RCW;
+
+. Proceedings to civilly enforce any money judgment entered in any municipal court or municipal department of a district court organized under the laws of this state; and
+
+. All other actions and proceedings of which jurisdiction is specially conferred by statute, when the title to, or right of possession of, real property is not involved.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5125.SL.pdf?cite=2015%20c%20260%20§%201[2015 c 260 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2557-S2.SL.pdf?cite=2008%20c%20227%20§%201[2008 c 227 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1144-S.SL.pdf?cite=2007%20c%2046%20§%201[2007 c 46 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5574.SL.pdf?cite=2003%20c%2027%20§%201[2003 c 27 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2522.SL.pdf?cite=2000%20c%2049%20§%201[2000 c 49 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5151.SL.pdf?cite=1997%20c%20246%20§%201[1997 c 246 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1824-S.SL.pdf?cite=1991%20c%2033%20§%201[1991 c 33 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c258.pdf?cite=1984%20c%20258%20§%2041[1984 c 258 § 41]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c331.pdf?cite=1981%20c%20331%20§%207[1981 c 331 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c102.pdf?cite=1979%20c%20102%20§%203[1979 c 102 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c95.pdf?cite=1965%20c%2095%20§%201[1965 c 95 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c299.pdf?cite=1961%20c%20299%20§%20113[1961 c 299 § 113]; ]
+
+== 3.66.030 - Restrictions on civil jurisdiction.
+The jurisdiction covered by RCW 3.66.020 shall not extend to the following civil actions:
+
+. Actions involving title to real property;
+
+. Actions for the foreclosure of a mortgage or enforcement of a lien on real estate;
+
+. Actions for false imprisonment, libel, slander, malicious prosecution, criminal conversation, or seduction; and
+
+. Actions against an executor or administrator as such.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c299.pdf?cite=1961%20c%20299%20§%20114[1961 c 299 § 114]; ]
+
+== 3.66.040 - Venue—Civil action.
+. An action arising under RCW 3.66.020 (1), (4), (6), (7), and (11) may be brought in any district in which the defendant, or, if there be more than one defendant, where some one of the defendants, resides at the time the complaint is filed or in which the defendant, or if there be more than one defendant, where some one of the defendants may be served with the notice and complaint in which latter case, however, the district where the defendant or defendants is or are served must be within the county in which the defendant or defendants reside. If the residence of the defendant is not ascertained by reasonable efforts, the action may be brought in the district in which the defendant's place of actual physical employment is located.
+
+. An action arising under RCW 3.66.020(2) for the recovery of possession of personal property and RCW 3.66.020(8) shall be brought in the district in which the subject matter of the action or some part thereof is situated.
+
+. An action arising under RCW 3.66.020 (3) and (5) shall be brought in the district in which the cause of action, or some part thereof arose.
+
+. An action arising under RCW 3.66.020(2) for the recovery of damages for injuries to the person or for injury to personal property may be brought, at the plaintiff's option, either in the district in which the cause of action, or some part thereof, arose, or in the district in which the defendant, or, if there be more than one defendant, where some one of the defendants, resides at the time the complaint is filed.
+
+. A proceeding under RCW 3.66.020(10) may be brought in the district within which the municipal court or municipal department is located.
+
+. An action against a nonresident of this state, including an action arising under the provisions of chapter 19.190 RCW, may be brought in any district where service of process may be had, or in which the cause of action or some part thereof arose, or in which the plaintiff or one of them resides.
+
+. An action upon the unlawful issuance of a check or draft may be brought in any district in which the defendant resides or may be brought in any district in which the check was issued or presented as payment.
+
+. For the purposes of chapters 3.30 through 3.74 RCW, the residence of a corporation defendant shall be deemed to be in any district where the corporation transacts business or has an office for the transaction of business or transacted business at the time the cause of action arose or where any person resides upon whom process may be served upon the corporation, unless herein otherwise provided.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1144-S.SL.pdf?cite=2007%20c%2046%20§%202[2007 c 46 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5574.SL.pdf?cite=2003%20c%2027%20§%202[2003 c 27 § 2]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5241-S.SL.pdf?cite=2001%20c%2045%20§%201[2001 c 45 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c71.pdf?cite=1988%20c%2071%20§%201[1988 c 71 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c258.pdf?cite=1984%20c%20258%20§%2042[1984 c 258 § 42]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c299.pdf?cite=1961%20c%20299%20§%20115[1961 c 299 § 115]; ]
+
+== 3.66.050 - Transfer of proceedings.
+If a civil action is brought in the wrong district, the action may nevertheless be tried therein unless the defendant, at the time the defendant appears, requests a transfer of the action to the proper district. Upon such demand an order shall be entered transferring the action to the proper district and awarding the defendant a reasonable attorney's fee to be paid by the plaintiff.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c258.pdf?cite=1984%20c%20258%20§%2043[1984 c 258 § 43]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c299.pdf?cite=1961%20c%20299%20§%20116[1961 c 299 § 116]; ]
+
+== 3.66.060 - Criminal jurisdiction.
+The district court shall have jurisdiction: (1) Concurrent with the superior court of all misdemeanors and gross misdemeanors committed in their respective counties and of all violations of city ordinances. It shall in no event impose a greater punishment than a fine of five thousand dollars, or imprisonment for one year in the county or city jail as the case may be, or both such fine and imprisonment, unless otherwise expressly provided by statute. It may suspend and revoke vehicle operators' licenses in the cases provided by law; (2) to sit as a committing magistrate and conduct preliminary hearings in cases provided by law; (3) concurrent with the superior court of a proceeding to keep the peace in their respective counties; (4) concurrent with the superior court of all violations under Title 77 RCW; (5) to hear and determine traffic infractions under chapter 46.63 RCW; and (6) to take recognizance, approve bail, and arraign defendants held within its jurisdiction on warrants issued by other courts of limited jurisdiction when those courts are participating in the program established under RCW 2.56.160.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5172.SL.pdf?cite=2003%20c%2039%20§%201[2003 c 39 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2799-S.SL.pdf?cite=2000%20c%20111%20§%203[2000 c 111 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c258.pdf?cite=1984%20c%20258%20§%2044[1984 c 258 § 44]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c46.pdf?cite=1983%201st%20ex.s.%20c%2046%20§%20176[1983 1st ex.s. c 46 § 176]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c150.pdf?cite=1982%20c%20150%20§%201[1982 c 150 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c299.pdf?cite=1961%20c%20299%20§%20117[1961 c 299 § 117]; ]
+
+== 3.66.065 - Assessment of punishment.
+If a defendant is found guilty, a judge holding office pursuant to chapters 3.30 through 3.74 RCW, or chapter 35.20 RCW, and not the jury, shall assess punishment, notwithstanding the provisions of RCW 10.04.100. If the judge determines that the punishment authorized is inadequate compared to the gravity of the offense he or she may order such defendant to enter recognizance to appear in the superior court of the county and may also recognize the witnesses and shall proceed as a committing magistrate.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c258.pdf?cite=1984%20c%20258%20§%2045[1984 c 258 § 45]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975c29.pdf?cite=1975%20c%2029%20§%201[1975 c 29 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c110.pdf?cite=1965%20ex.s.%20c%20110%20§%207[1965 ex.s. c 110 § 7]; ]
+
+== 3.66.067 - Assessment of punishment—Suspension or deferral of sentence—Dismissal of charges.
+After a conviction, the court may impose sentence by suspending all or a portion of the defendant's sentence or by deferring the sentence of the defendant and may place the defendant on probation for a period of no longer than two years and prescribe the conditions thereof. A defendant who has been sentenced, or whose sentence has been deferred, and who then fails to appear for any hearing to address the defendant's compliance with the terms of probation when ordered to do so by the court, shall have the term of probation tolled until such time as the defendant makes his or her presence known to the court on the record. During the time of the deferral, the court may, for good cause shown, permit a defendant to withdraw the plea of guilty and to enter a plea of not guilty, and the court may dismiss the charges. A court shall not defer sentence for an offense sentenced under RCW 46.61.5055.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5912-S2.SL.pdf?cite=2013%202nd%20sp.s.%20c%2035%20§%203[2013 2nd sp.s. c 35 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5970-S.SL.pdf?cite=2001%20c%2094%20§%201[2001 c 94 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c258.pdf?cite=1984%20c%20258%20§%2046[1984 c 258 § 46]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c156.pdf?cite=1983%20c%20156%20§%201[1983 c 156 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c75.pdf?cite=1969%20c%2075%20§%201[1969 c 75 § 1]; ]
+
+== 3.66.068 - Assessment of punishment—Suspension or deferral of sentence—Terms.
+. A court has continuing jurisdiction and authority to suspend the execution of all or any part of its sentence upon stated terms, including installment payment of fines for a period not to exceed:
+
+.. Five years after imposition of sentence for a defendant sentenced for a domestic violence offense or under RCW 46.61.5055; and
+
+.. Two years after imposition of sentence for all other offenses.
+
+. [Empty]
+.. Except as provided in (b) of this subsection, a court has continuing jurisdiction and authority to defer the execution of all or any part of its sentence upon stated terms, including installment payment of fines for a period not to exceed:
+
+... Five years after imposition of sentence for a defendant sentenced for a domestic violence offense; and
+
+... Two years after imposition of sentence for all other offenses.
+
+.. A court shall not defer sentence for an offense sentenced under RCW 46.61.5055.
+
+. A defendant who has been sentenced, or whose sentence has been deferred, and who then fails to appear for any hearing to address the defendant's compliance with the terms of probation when ordered to do so by the court, shall have the term of probation tolled until such time as the defendant makes his or her presence known to the court on the record.
+
+. However, the court's jurisdiction period in this section does not apply to the enforcement of orders issued under RCW 46.20.720.
+
+. For the purposes of this section, "domestic violence offense" means a crime listed in RCW 10.99.020 that is not a felony offense.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5912-S2.SL.pdf?cite=2013%202nd%20sp.s.%20c%2035%20§%204[2013 2nd sp.s. c 35 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2777-S.SL.pdf?cite=2010%20c%20274%20§%20405[2010 c 274 § 405]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5970-S.SL.pdf?cite=2001%20c%2094%20§%202[2001 c 94 § 2]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5211.SL.pdf?cite=1999%20c%2056%20§%202[1999 c 56 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c156.pdf?cite=1983%20c%20156%20§%202[1983 c 156 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c75.pdf?cite=1969%20c%2075%20§%202[1969 c 75 § 2]; ]
+
+== 3.66.069 - Assessment of punishment—Revocation of deferred or suspended sentence—Limitations—Termination of probation.
+Deferral of sentence and suspension of execution of sentence may be revoked if the defendant violates or fails to carry out any of the conditions of the deferral or suspension. Upon the revocation of the deferral or suspension, the court may impose the sentence previously suspended or any unexecuted portion thereof. In no case shall the court impose a sentence greater than the original sentence, with credit given for time served and money paid on fine and costs.
+
+Any time before entering an order terminating probation, the court may revoke or modify its order suspending the imposition or execution of the sentence. Whenever the ends of justice will be served and when warranted by the reformation of the probationer, the court may terminate the period of probation and discharge the person so held.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c156.pdf?cite=1983%20c%20156%20§%203[1983 c 156 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c75.pdf?cite=1969%20c%2075%20§%203[1969 c 75 § 3]; ]
+
+== 3.66.0691 - Sentencing—Crimes against property—Criminal history check.
+Before a sentence is imposed upon a defendant convicted of a crime against property, the court or the prosecuting authority shall check existing judicial information systems to determine the criminal history of the defendant.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6167.SL.pdf?cite=2009%20c%20431%20§%2017[2009 c 431 § 17]; ]
+
+== 3.66.070 - Venue—Criminal actions—Temporary venue.
+. All criminal actions shall be brought in the district where the alleged violation occurred: PROVIDED, That (a) the prosecuting attorney may file felony cases in the district in which the county seat is located, (b) with the consent of the defendant criminal actions other than those arising out of violations of city ordinances may be brought in or transferred to the district in which the county seat is located, (c) if the alleged violation relates to driving, or being in actual physical control of, a motor vehicle while under the influence of intoxicating liquor or any drug and the alleged violation occurred within a judicial district which has been designated an enhanced enforcement district under RCW 2.56.110, the charges may be filed in that district or in a district within the same county which is adjacent to the district in which the alleged violation occurred, and (d) a district court participating in the program established by the administrative office of the courts pursuant to RCW 2.56.160 shall have jurisdiction to take recognizance, approve bail, and arraign defendants held within its jurisdiction on warrants issued by any other court of limited jurisdiction participating in the program.
+
+. In the event of an emergency created by act of nature, civil unrest, technological failure, or other hazardous condition, temporary venue for court of limited jurisdiction matters may be had in a court district not impacted by the emergency. Such emergency venue is appropriate only for the duration of the emergency.
+
+. A criminal action commenced under a local ordinance or state statute is deemed to be properly heard by the court of original jurisdiction even though the hearing may take place by video or other electronic means as approved by the supreme court and the defendant is appearing by an electronic method from a location outside the court's geographic jurisdiction or boundaries.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1668.SL.pdf?cite=2005%20c%20282%20§%2016[2005 c 282 § 16]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6293.SL.pdf?cite=2002%20c%2059%20§%201[2002 c 59 § 1]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5252.SL.pdf?cite=2001%20c%2015%20§%201[2001 c 15 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2799-S.SL.pdf?cite=2000%20c%20111%20§%204[2000 c 111 § 4]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1757.SL.pdf?cite=1991%20c%20290%20§%202[1991 c 290 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c258.pdf?cite=1984%20c%20258%20§%2047[1984 c 258 § 47]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c165.pdf?cite=1983%20c%20165%20§%2032[1983 c 165 § 32]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c299.pdf?cite=1961%20c%20299%20§%20118[1961 c 299 § 118]; ]
+
+== 3.66.080 - Criminal venue corrected.
+If a criminal action is commenced in an improper district under RCW 3.66.070, the court may of its own volition or at the request of either party order the case removed for trial to a proper district.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c258.pdf?cite=1984%20c%20258%20§%2048[1984 c 258 § 48]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c299.pdf?cite=1961%20c%20299%20§%20119[1961 c 299 § 119]; ]
+
+== 3.66.090 - Change of venue.
+A change of venue may be allowed upon motion:
+
+. Where there is reason to believe that an impartial trial cannot be had in the district or municipal court in which the action was commenced; or
+
+. Where the convenience of witnesses or the ends of justice would be forwarded by the change.
+
+When such change is ordered, it shall be to the district court of another district in the same county, if any, otherwise to the district court of an adjacent district in another county: PROVIDED, That where an affidavit of prejudice is filed against a judge of a municipal court the cause shall be transferred to another department of the municipal court, if one exists, otherwise to a judge pro tempore appointed in the manner prescribed by law. The court to which a case is removed on change of venue under this section shall have the same jurisdiction, either civil or criminal to hear and determine the case as the court from which the case was removed.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c258.pdf?cite=1984%20c%20258%20§%2049[1984 c 258 § 49]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c241.pdf?cite=1967%20c%20241%20§%201[1967 c 241 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c299.pdf?cite=1961%20c%20299%20§%20120[1961 c 299 § 120]; ]
+
+== 3.66.100 - Territorial jurisdiction—Process—Limitation.
+. Every district judge having authority to hear a particular case may issue criminal process in and to any place in the state.
+
+. Every district judge having authority to hear a particular case may issue civil process, including writs of execution, attachment, garnishment, and replevin, in and to any place as permitted by statute or rule. This statute does not authorize service of process pursuant to RCW 4.28.180 in actions filed pursuant to chapter 12.40 RCW, except in actions brought against an owner under chapter 59.18 RCW, or in civil infraction matters.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1266-S.SL.pdf?cite=2011%20c%20132%20§%203[2011 c 132 § 3]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2499.SL.pdf?cite=1998%20c%2073%20§%201[1998 c 73 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c442.pdf?cite=1987%20c%20442%20§%201101[1987 c 442 § 1101]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c258.pdf?cite=1984%20c%20258%20§%20701[1984 c 258 § 701]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c299.pdf?cite=1961%20c%20299%20§%20121[1961 c 299 § 121]; ]
+
+== 3.66.110 - Advertising authority to solemnize marriages is breach of judicial ethics.
+It shall be a breach of judicial ethics for any judge of any court of limited jurisdiction, as defined in RCW 3.02.010, to advertise in any manner that he or she is authorized to solemnize marriages. Any violation of this section shall be grounds for forfeiture of office.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c186.pdf?cite=1983%20c%20186%20§%203[1983 c 186 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c299.pdf?cite=1961%20c%20299%20§%20122[1961 c 299 § 122]; ]
+
+== 3.66.120 - Court-ordered restitution—Enforcement.
+All court-ordered restitution obligations that are ordered as a result of a conviction for a criminal offense in a court of limited jurisdiction may be enforced in the same manner as a judgment in a civil action by the party or entity to whom the legal financial obligation is owed. The judgment and sentence must identify the party or entity to whom restitution is owed so that the state, party, or entity may enforce the judgment.
+
+All court-ordered restitution obligations may be enforced at any time during the ten-year period following the offender's release from total confinement or within ten years of entry of the judgment and sentence, whichever period is longer. Prior to the expiration of the initial ten-year period, the court may extend the criminal judgment an additional ten years for payment of court-ordered restitution only if the court finds that the offender has not made a good faith attempt to pay.
+
+The party or entity to whom the court-ordered restitution obligation is owed may utilize any other remedies available to the party or entity to collect the court-ordered financial obligation.
+
+Nothing in this section may be construed to deprive the court of the authority to determine whether the offender's failure to pay the legal financial obligation constitutes a violation of a condition of probation or to impose a sanction upon the offender if such a violation is found.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1117-S.SL.pdf?cite=2001%20c%20115%20§%201[2001 c 115 § 1]; ]
+
+== 3.66.130 - Court-ordered restitution—Payment.
+If the party or entity for whom a court-ordered restitution obligation has been entered pursuant to this title seeks to enforce the judgment as a lien on real estate, he or she shall commence a lien of judgment upon the real estate of the judgment debtor/obligor as provided in RCW 4.56.200.
+
+When any court-ordered restitution obligation entered pursuant to this title is paid or satisfied, the clerk of the court of limited jurisdiction in which the restitution obligation was ordered shall note upon the record of the court of limited jurisdiction satisfaction thereof including the date of the satisfaction.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1117-S.SL.pdf?cite=2001%20c%20115%20§%202[2001 c 115 § 2]; ]
+
+== 3.66.140 - Offender supervision by another state.
+. If a person placed on probation for one year or more for a misdemeanor or gross misdemeanor by a district court requests permission to travel or transfer to another state, the assigned probation officer shall determine whether such request is subject to RCW 9.94A.745, the interstate compact for adult offender supervision. If such request is subject to the compact, the probation officer shall:
+
+.. Notify the department of corrections of the probationer's request;
+
+.. Provide the department of corrections with the supporting documentation it requests for processing an application for transfer;
+
+.. Notify the probationer of the fee due to the department of corrections for processing an application under the compact;
+
+.. Cease supervision of the probationer while another state supervises the probationer pursuant to the compact;
+
+.. Resume supervision if the probationer returns to this state before the term of probation expires.
+
+. The probationer shall receive credit for time served while being supervised by another state.
+
+. If the probationer is returned to the state at the request of the receiving state under rules of the interstate compact for adult offender supervision, the department of corrections is responsible for the cost of returning the probationer.
+
+. The state of Washington, the department of corrections and its employees, and any county and its employees are not liable for civil damages resulting from any act or omission authorized or required under this section unless the act or omission constitutes gross negligence.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1402-S.SL.pdf?cite=2005%20c%20400%20§%204[2005 c 400 § 4]; ]
+

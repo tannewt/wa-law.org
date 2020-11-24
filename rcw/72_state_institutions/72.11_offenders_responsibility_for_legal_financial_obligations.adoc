@@ -1,0 +1,39 @@
+= 72.11 - Offenders' responsibility for legal financial obligations.
+:toc:
+
+== 72.11.010 - Definitions.
+Unless a different meaning is plainly required by the context, the following words and phrases as hereafter used in this chapter shall have the following meanings:
+
+. "Court-ordered legal financial obligation" means a sum of money that is ordered by a superior court of the state of Washington for payment of restitution to a victim, statutorily imposed crime victims compensation fee, court costs, a county or interlocal drug fund, court-appointed attorneys' fees and costs of defense, fines, and any other legal financial obligation that is assessed as a result of a felony conviction.
+
+. "Department" means the department of corrections.
+
+. "Offender" means an individual who is currently under the jurisdiction of the Washington state department of corrections, and who also has a court-ordered legal financial obligation as a result of a felony conviction.
+
+. "Secretary" means the secretary of the department of corrections or the secretary's designee.
+
+. "Superintendent" means the superintendent of a correctional facility under the jurisdiction of the Washington state department of corrections.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c252.pdf?cite=1989%20c%20252%20§%2022[1989 c 252 § 22]; ]
+
+== 72.11.020 - Inmate funds—Legal financial obligations—Disbursal by secretary.
+The secretary shall be custodian of all funds of a convicted person that are in his or her possession upon admission to a state institution, or that are sent or brought to the person, or earned by the person while in custody, or that are forwarded to the superintendent on behalf of a convicted person. All such funds shall be deposited in the personal account of the convicted person within the institutional resident deposit account as established by the office of financial management pursuant to RCW 43.88.195, and the secretary shall have authority to disburse money from such person's personal account for the purposes of satisfying a court-ordered legal financial obligation to the court. Legal financial obligation deductions shall be made as stated in RCW 72.09.111(1) and 72.65.050 without exception. Unless specifically granted authority herein, at no time shall the withdrawal of funds for the payment of a legal financial obligation result in reducing the inmate's account to an amount less than the defined level of indigency to be determined by the department.
+
+Further, unless specifically altered herein, court-ordered legal financial obligations shall be paid.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6402-S.SL.pdf?cite=2002%20c%20126%20§%201[2002 c 126 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c252.pdf?cite=1989%20c%20252%20§%2023[1989 c 252 § 23]; ]
+
+== 72.11.030 - Inmate accounts—Legal financial obligations—Priority—Deductions.
+. Except as otherwise provided herein, all court-ordered legal financial obligations shall take priority over any other statutorily imposed mandatory withdrawals from inmate's accounts.
+
+. For those inmates who are on work release pursuant to chapter 72.65 RCW, before any legal financial obligations are withdrawn from the inmate's account, the inmate is entitled to payroll deductions that are required by law, or such payroll deductions as may reasonably be required by the nature of the employment unless any such amount which his or her work release plan specifies should be retained to help meet the inmate's needs, including costs necessary for his or her participation in the work release plan such as travel, meals, clothing, tools, and other incidentals.
+
+. Before the payment of any court-ordered legal financial obligation is required, the department is entitled to reimbursement for any expenses advanced for vocational training pursuant to RCW 72.65.020(2), for expenses incident to a work release plan pursuant to RCW 72.65.090, payments for board and room charges for the work release participant, and payments that are necessary for the support of the work release participant's dependents, if any.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c252.pdf?cite=1989%20c%20252%20§%2024[1989 c 252 § 24]; ]
+
+== 72.11.040 - Cost of supervision fund.
+The cost of supervision fund is created in the custody of the state treasurer. All receipts from assessments made under RCW 9.94A.780, 9.94A.74504, and 72.04A.120 shall be deposited into the fund. Expenditures from the fund may be used only to support the collection of legal financial obligations. Only the secretary of the department of corrections or the secretary's designee may authorize expenditures from the fund. The fund is subject to allotment procedures under chapter 43.88 RCW, but no appropriation is required for expenditures.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5891-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2040%20§%2013[2011 1st sp.s. c 40 § 13]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6090-S.SL.pdf?cite=2005%20c%20518%20§%20943[2005 c 518 § 943]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5404-S.SL.pdf?cite=2003%201st%20sp.s.%20c%2025%20§%20936[2003 1st sp.s. c 25 § 936]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6153-S.SL.pdf?cite=2001%202nd%20sp.s.%20c%207%20§%20919[2001 2nd sp.s. c 7 § 919]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2487.SL.pdf?cite=2000%202nd%20sp.s.%20c%201%20§%20914[2000 2nd sp.s. c 1 § 914]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5180-S.SL.pdf?cite=1999%20c%20309%20§%20921[1999 c 309 § 921]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c252.pdf?cite=1989%20c%20252%20§%2026[1989 c 252 § 26]; ]
+

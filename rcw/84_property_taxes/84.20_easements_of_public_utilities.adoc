@@ -1,0 +1,28 @@
+= 84.20 - Easements of public utilities.
+:toc:
+
+== 84.20.010 - Easements taxable as personalty.
+Easements and the property constructed upon or occupying such easements owned by public service corporations shall be assessed and taxed together as personal property and the taxes thereon shall be collected as personal property taxes.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c15.pdf?cite=1961%20c%2015%20§%2084.20.010[1961 c 15 § 84.20.010]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1929c199.pdf?cite=1929%20c%20199%20§%201[1929 c 199 § 1]; RRS § 11188; ]
+
+== 84.20.020 - Servient estate taxable as realty.
+Real estate subject to any such easement shall be assessed and taxed as real estate subject to such easement.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c15.pdf?cite=1961%20c%2015%20§%2084.20.020[1961 c 15 § 84.20.020]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1929c199.pdf?cite=1929%20c%20199%20§%202[1929 c 199 § 2]; RRS § 11189; ]
+
+== 84.20.030 - Sale for taxes—Realty to be sold subject to easement.
+When any such real estate is sold for delinquent taxes thereon it shall be sold subject to such easement, and the purchaser at any such tax sale shall acquire no title to such easement or the property constructed upon or occupying the same.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c15.pdf?cite=1961%20c%2015%20§%2084.20.030[1961 c 15 § 84.20.030]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1929c199.pdf?cite=1929%20c%20199%20§%203[1929 c 199 § 3]; RRS § 11190; ]
+
+== 84.20.040 - Realty not subject to tax on easement or property thereon.
+Real estate subject to any such easement shall not be chargeable with any tax levied upon such easement or the property constructed upon or occupying such easement and shall not be sold for the nonpayment of any such tax.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c15.pdf?cite=1961%20c%2015%20§%2084.20.040[1961 c 15 § 84.20.040]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1929c199.pdf?cite=1929%20c%20199%20§%204[1929 c 199 § 4]; RRS § 11191; ]
+
+== 84.20.050 - Railroads excepted.
+This chapter shall not apply to railroad easements or property.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c15.pdf?cite=1961%20c%2015%20§%2084.20.050[1961 c 15 § 84.20.050]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1929c199.pdf?cite=1929%20c%20199%20§%205[1929 c 199 § 5]; RRS § 11192; ]
+

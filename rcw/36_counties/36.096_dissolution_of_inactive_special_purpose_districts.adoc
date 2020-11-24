@@ -1,0 +1,100 @@
+= 36.96 - Dissolution of inactive special purpose districts.
+:toc:
+
+== 36.96.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context requires otherwise:
+
+. "Special purpose district" means every municipal and quasi-municipal corporation other than counties, cities, and towns. Such special purpose districts shall include, but are not limited to, water-sewer districts, fire protection districts, port districts, public utility districts, county park and recreation service areas, flood control zone districts, diking districts, drainage improvement districts, and solid waste collection districts, but shall not include industrial development districts created by port districts, and shall not include local improvement districts, utility local improvement districts, and road improvement districts;
+
+. "Governing authority" means the commission, council, or other body which directs the affairs of a special purpose district;
+
+. "Inactive" means that a special purpose district is characterized by any of the following criteria:
+
+.. Has not carried out any of the special purposes or functions for which it was formed within the preceding consecutive five-year period;
+
+.. No election has been held for the purpose of electing a member of the governing body within the preceding consecutive seven-year period or, in those instances where members of the governing body are appointed and not elected, where no member of the governing body has been appointed within the preceding seven-year period; or
+
+.. The special purpose district has been determined to be unauditable by the state auditor;
+
+. "Unauditable" means a special purpose district that the state auditor has determined to be incapable of being audited because the special purpose district has improperly maintained, failed to maintain, or failed to submit adequate accounts, records, files, or reports for an audit to be completed.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2588-S.SL.pdf?cite=2020%20c%20179%20§%202[2020 c 179 § 2]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1264.SL.pdf?cite=1999%20c%20153%20§%2050[1999 c 153 § 50]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c5.pdf?cite=1979%20ex.s.%20c%205%20§%201[1979 ex.s. c 5 § 1]; ]
+
+== 36.96.020 - Notice of inactive special purpose districts by county auditor.
+On or before June 1st of 1980, and on or before June 1st of every year thereafter, each county auditor shall search available records and notify the county legislative authority if any special purpose districts located wholly or partially within the county appear to be inactive. If the territory of any special purpose district is located within more than one county, the legislative authorities of all other counties within whose boundaries such a special purpose district lies shall also be notified by the county auditor. However, the authority to dissolve such a special purpose district as provided by this chapter shall rest solely with the legislative authority of the county which contains the greatest geographic portion of such special purpose district.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1583-S.SL.pdf?cite=2009%20c%20337%20§%2012[2009 c 337 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c5.pdf?cite=1979%20ex.s.%20c%205%20§%202[1979 ex.s. c 5 § 2]; ]
+
+== 36.96.030 - Determination of inactive special purpose districts—Public hearing—Notice.
+. Upon receipt of notice from the county auditor as provided in RCW 36.96.020, the county legislative authority within whose boundaries all or the greatest portion of such special purpose district lies shall hold one or more public hearings on or before September 1st of the same year to determine whether or not such special purpose district or districts meet any of the criteria for being "inactive" as provided in RCW 36.96.010. In addition, at any time a county legislative authority may hold hearings on the dissolution of any special purpose district that appears to meet the criteria of being "inactive" and dissolve such a district pursuant to the proceedings provided for in RCW 36.96.030 through 36.96.080.
+
+. Notice of such public hearings shall be given by publication at least once each week for not less than three successive weeks in a newspaper that is in general circulation within the boundaries of the special purpose district or districts. Notice of such hearings shall also be mailed to each member of the governing authority of such special purpose districts, if such members are known, and to all persons known to have claims against any of the special purpose districts. Notice of such public hearings shall be posted in at least three conspicuous places within the boundaries of each special purpose district that is a subject of such hearings. Whenever a county legislative authority that is conducting such a public hearing on the dissolution of one or more of a particular kind of special purpose district is aware of the existence of an association of such special purpose districts, it shall also mail notice of the hearing to the association. In addition, whenever a special purpose district that lies in more than one county is a subject of such a public hearing, notice shall also be mailed to the legislative authorities of all other counties within whose boundaries the special purpose district lies. All notices shall state the purpose, time, and place of such hearings, and that all interested persons may appear and be heard.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2588-S.SL.pdf?cite=2020%20c%20179%20§%203[2020 c 179 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c5.pdf?cite=1979%20ex.s.%20c%205%20§%203[1979 ex.s. c 5 § 3]; ]
+
+== 36.96.040 - Dissolution of inactive special purpose district by county legislative authority—Written findings.
+After such hearings, the county legislative authority shall make written findings whether each of the special purpose districts that was a subject of the hearings meets each of the criteria of being "inactive." Whenever a special purpose district other than a public utility district has been found to meet a criterion of being inactive, or a public utility district has been found to meet both criteria of being inactive, the county legislative authority shall adopt an ordinance dissolving the special purpose district if it also makes additional written findings detailing why it is in the public interest that the special purpose district be dissolved, and shall provide a copy of the ordinance to the county treasurer. Except for the purpose of winding up its affairs as provided by this chapter, a special purpose district that is so dissolved shall cease to exist and the authority and obligation to carry out the purposes for which it was created shall cease thirty-one days after adoption of the dissolution ordinance.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5638-S.SL.pdf?cite=2001%20c%20299%20§%2012[2001 c 299 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c5.pdf?cite=1979%20ex.s.%20c%205%20§%204[1979 ex.s. c 5 § 4]; ]
+
+== 36.96.050 - Application for writ of prohibition or mandamus by interested party—Procedure.
+The action of the county legislative authority dissolving a special purpose district pursuant to RCW 36.96.040 shall be final and conclusive unless within thirty days of the adoption of the ordinance an interested party makes application to a court of competent jurisdiction for a writ of prohibition or writ of mandamus. At the hearing upon such a writ, the applicant shall have the full burden of demonstrating that the particular special purpose district, other than a public utility district, does not meet either of the criteria of being inactive or that it is not in the public interest that the special purpose district be dissolved: PROVIDED, That where the particular special purpose district subject to the dissolution proceedings is a public utility district, the applicant shall have the full burden of demonstrating that the public utility district either does not meet both the criteria of being inactive or that it is not in the public interest to dissolve the public utility district.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c5.pdf?cite=1979%20ex.s.%20c%205%20§%205[1979 ex.s. c 5 § 5]; ]
+
+== 36.96.060 - Dissolution of inactive special purpose district by county legislative authority—Powers and duties.
+For the sole and exclusive purpose of winding up the affairs of a dissolved special purpose district, the county legislative authority, acting as a board of trustees, shall have the same powers and duties as the governing authority of the dissolved special purpose district including the following:
+
+. To exchange, sell, or otherwise dispose of all property, real and personal, of the dissolved special purpose district; and
+
+. To settle all obligations of such special purpose district. Such powers and duties shall commence upon the effective date of dissolution and shall continue thereafter until such time as the affairs of the dissolved special purpose district have been completely wound up.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c5.pdf?cite=1979%20ex.s.%20c%205%20§%206[1979 ex.s. c 5 § 6]; ]
+
+== 36.96.070 - Dissolved special purpose district—Disposition of property.
+Any moneys or funds of the dissolved special purpose district and any moneys or funds received by the board of trustees from the sale or other disposition of any property of the dissolved special purpose district shall be used, to the extent necessary, for the payment or settlement of any outstanding obligations of the dissolved special purpose district. Any remaining moneys or funds shall be used to pay the county legislative authority for all costs and expenses incurred in the dissolution and liquidation of the dissolved special purpose district. Thereafter, any remaining moneys, funds, or property shall become that of the county in which the dissolved special purpose district was located. However, if the territory of the dissolved special purpose district was located within more than one county, the remaining moneys, funds, and personal property shall be apportioned and distributed to each county in the proportion that the geographical area of the dissolved special purpose district within the county bears to the total geographical area of the dissolved special purpose district, and any remaining real property or improvements to real property shall be transferred to the county within whose boundaries it lies. A county to which real property or improvements to real property are transferred under this section may, but does not have an obligation to, use the property or improvements for the purposes for which the dissolved special purpose district used the property or improvements and the county does not assume the obligations or liabilities of the dissolved special purpose district as a result of the transfer unless the county expressly assumes such obligations or liabilities through the adoption of a resolution.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2588-S.SL.pdf?cite=2020%20c%20179%20§%204[2020 c 179 § 4]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5638-S.SL.pdf?cite=2001%20c%20299%20§%2013[2001 c 299 § 13]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c5.pdf?cite=1979%20ex.s.%20c%205%20§%207[1979 ex.s. c 5 § 7]; ]
+
+== 36.96.080 - Dissolved special purpose district—Satisfaction of outstanding obligations.
+If the proceeds from the sale of any property of the special district together with any moneys or funds of the special purpose district are insufficient to satisfy the outstanding obligations of the special purpose district, the county legislative authority, acting as a board of trustees, shall exercise any and all powers conferred upon it to satisfy such outstanding obligations: PROVIDED, That in no case shall the board of trustees be obligated to satisfy such outstanding obligations from county moneys, funds, or other sources of revenue unless it would have been so obligated before initiation of the dissolution proceedings under this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c5.pdf?cite=1979%20ex.s.%20c%205%20§%208[1979 ex.s. c 5 § 8]; ]
+
+== 36.96.085 - Dissolved special purpose district—Property tax levies or special assessments—When authorized.
+A county that dissolves a special purpose district under this chapter may impose a separate regular property tax levy or a special assessment as provided in RCW 84.55.135 if that county assumes responsibility of the services previously provided by the special purpose district.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2588-S.SL.pdf?cite=2020%20c%20179%20§%205[2020 c 179 § 5]; ]
+
+== 36.96.090 - New special purpose districts—Duties of county auditor.
+For every newly created special purpose district, the auditor of each county in which the special purpose district is located shall provide the state auditor with the following information:
+
+. The name of the special purpose district and a general description of its location;
+
+. The name, address, and telephone number of each member of its governing authority; and
+
+. The functions that the special purpose district is then presently performing and the purposes for which it was created.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1583-S.SL.pdf?cite=2009%20c%20337%20§%2013[2009 c 337 § 13]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c5.pdf?cite=1979%20ex.s.%20c%205%20§%209[1979 ex.s. c 5 § 9]; ]
+
+== 36.96.800 - Alternative dissolution procedure—Drainage and drainage improvement districts—Conditions.
+As an alternative to this chapter a drainage district or drainage improvement district located within the boundaries of a county storm drainage and surface water management utility, and which is not currently imposing assessments, may be dissolved by ordinance of the county legislative authority. If the alternative dissolution procedure in this section is used the following shall apply:
+
+. The county storm drainage and surface water management utility shall assume responsibility for payment or settlement of outstanding debts of the dissolved drainage district or drainage improvement district.
+
+. All assets, including money, funds, improvements, or property, real or personal, shall become assets of the county in which the dissolved drainage district or drainage improvement district was located.
+
+. Notwithstanding RCW 85.38.220, the county storm drainage and surface water management utility may determine how to best manage, operate, maintain, improve, exchange, sell, or otherwise dispose of all property, real and personal, of the dissolved drainage district or drainage improvement district.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1460-S.SL.pdf?cite=1991%20c%2028%20§%201[1991 c 28 § 1]; ]
+
+== 36.96.900 - Chapter not exclusive.
+The provisions of this chapter to dissolve inactive special purpose districts shall not be exclusive, and shall be in addition to any other method or methods provided by law to dissolve a special purpose district.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c5.pdf?cite=1979%20ex.s.%20c%205%20§%2010[1979 ex.s. c 5 § 10]; ]
+
+== 36.96.910 - Savings—1979 ex.s. c 5.
+The enactment of this act shall not have the effect of terminating, or in any way modifying, any liability, civil or criminal, which shall already be in existence on September 1, 1979.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c5.pdf?cite=1979%20ex.s.%20c%205%20§%2011[1979 ex.s. c 5 § 11]; ]
+

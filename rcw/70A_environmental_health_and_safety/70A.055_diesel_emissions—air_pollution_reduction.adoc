@@ -1,0 +1,58 @@
+= 70A.55 - Diesel emissions—Air pollution reduction.
+:toc:
+
+== 70A.55.010 - Findings—Intent.
+The legislature finds that investments in diesel engine idling reduction projects cost-effectively improve public health by reducing harmful diesel emissions. The legislature further finds that these investments also result in long-term savings in fuel and maintenance costs. It is therefore the intent of the legislature to establish a stable, wholly self-sustaining account for the department of ecology to use for investments in diesel idle reduction projects.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2569-S2.SL.pdf?cite=2014%20c%2074%20§%201[2014 c 74 § 1]; ]
+
+== 70A.55.020 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Account" means the diesel idle reduction account created in RCW 70A.55.040.
+
+. "Department" means the department of ecology.
+
+. "Loan recipient" means a state, local, or other governmental entity that owns diesel vehicles or equipment.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201432[2020 c 20 § 1432]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2569-S2.SL.pdf?cite=2014%20c%2074%20§%202[2014 c 74 § 2]; ]
+
+== 70A.55.030 - Diesel idle emission reduction technologies and infrastructure—Loans.
+. The department shall use the moneys in the account to provide loans with low or no interest to loan recipients for the purpose of reducing exposure to diesel emissions and improving public health by investing in diesel idle emission reduction technologies and infrastructure. The department shall, to the extent practical, integrate communications, outreach, and other aspects of the administration of loans from the account with the administration of existing grant programs to reduce diesel emissions from vehicles and equipment. In selecting loan recipients, the department shall consider anticipated human health, environmental, and greenhouse gas benefits from reduced exposure to harmful air emissions associated with diesel idling.
+
+. The department shall make loans in such a manner that the remittances from loan recipients are of equal value over a long-term planning horizon to the disbursals from the fund.
+
+. Loan moneys may not be spent on vehicles or equipment that spend less than one-half of their operating time in Washington. Permissible diesel idle reduction expenditures include, but are not limited to:
+
+.. Electrified parking spaces and truck stops;
+
+.. Shore connection systems and alternative maritime power;
+
+.. Shore connection systems for locomotives;
+
+.. Auxiliary power units and generator sets;
+
+.. Fuel-operated heaters or direct-fired heaters, including engine fluid preheaters and cab air heaters;
+
+.. Battery powered systems, including battery powered heating and air conditioning systems;
+
+.. Thermal storage systems;
+
+.. Automatic engine start-up and shutdown systems;
+
+.. Projects to augment or replace diesel engines or power systems with engines or power systems that use liquefied or compressed natural gas; and
+
+.. Other operation or maintenance efficiencies that achieve emission reduction benefits for the public.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2569-S2.SL.pdf?cite=2014%20c%2074%20§%203[2014 c 74 § 3]; ]
+
+== 70A.55.040 - Diesel idle reduction account.
+The diesel idle reduction account is created in the state treasury. All receipts from remittances made by loan recipients pursuant to RCW 70A.55.030 and any moneys appropriated to the account by law must be deposited in the account. Moneys in the account may be spent only after appropriation. Expenditures from the account may be used only for the purposes of this chapter, including the costs of program administration.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201433[2020 c 20 § 1433]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2569-S2.SL.pdf?cite=2014%20c%2074%20§%204[2014 c 74 § 4]; ]
+
+== 70A.55.050 - Adoption of rules.
+The department may adopt rules necessary to implement this chapter only after the legislature appropriates moneys to the account created in RCW 70A.55.040.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201434[2020 c 20 § 1434]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2569-S2.SL.pdf?cite=2014%20c%2074%20§%207[2014 c 74 § 7]; ]
+

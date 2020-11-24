@@ -1,0 +1,81 @@
+= 69.60 - Over-the-counter medications.
+:toc:
+
+== 69.60.010 - Legislative findings.
+The legislature of the state of Washington finds that:
+
+. Accidental and purposeful ingestions of solid medication forms continue to be the most frequent cause of poisoning in our state;
+
+. Modern treatment is dependent upon knowing the ingredients of the ingestant;
+
+. The imprinting of identifying characteristics on all tablets, capsules, and caplets of prescription medication forms, both trade name products and generic products, has been extremely beneficial in our state and was accomplished at trivial cost to the manufacturers and consumers;
+
+. Although over-the-counter medications usually constitute a lower order of risk to ingestees, treatment after overdose is equally dependent upon knowing the ingredients involved, but there is no coding index uniformly used by this class of medication;
+
+. Approximately seventy percent of over-the-counter medications in solid form already have some type of an identifier imprinted on their surfaces;
+
+. While particular efforts are being instituted to prevent recurrent tampering with over-the-counter medications, the added benefit of rapid and prompt identification of all possible contaminated products, including over-the-counter medications, would make for a significant improvement in planning for appropriate tracking and monitoring programs;
+
+. At the same time, health care professionals serving the elderly find it especially advantageous to be able to identify and confirm the ingredients of their multiple medications, including over-the-counter products, as are often consumed by such patients;
+
+. The legislature supports and encourages efforts that are being made to establish a national, legally enforceable system governing the imprinting of solid dosage form over-the-counter medications, which system is consistent with the requirements of this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c247.pdf?cite=1989%20c%20247%20§%201[1989 c 247 § 1]; ]
+
+== 69.60.020 - Definitions.
+The terms defined in this section shall have the meanings indicated when used in this chapter.
+
+. "Commission" means the pharmacy quality assurance commission.
+
+. "Over-the-counter medication" means a drug that can be obtained without a prescription and is not restricted to use by prescribing practitioners. For purposes of this chapter, over-the-counter medication does not include vitamins.
+
+. "Purveyor" means any corporation, person, or other entity that offers over-the-counter medications for wholesale, retail, or other type of sale.
+
+. "Solid dosage form" means capsules or tablets or similar over-the-counter medication products intended for administration and which could be ingested orally.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1609.SL.pdf?cite=2013%20c%2019%20§%20117[2013 c 19 § 117]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c247.pdf?cite=1989%20c%20247%20§%203[1989 c 247 § 3]; ]
+
+== 69.60.030 - Identification required.
+. No over-the-counter medication in solid dosage form may be manufactured or commercially distributed within this state unless it has clearly marked or imprinted on it an individual symbol, number, company name, words, letters, marking, or national drug code number identifying the medication and the manufacturer or distributor of the medication: PROVIDED, HOWEVER, That an over-the-counter medication which has clearly marked or imprinted on it a distinctive logo, symbol, product name, letters, or other identifying mark, or which by its color, shape, or size together with a distinctive logo, symbol, product name, letters, or other mark is identifiable, shall be deemed in compliance with the provisions of this chapter.
+
+. No manufacturer may sell any over-the-counter medication in solid dosage form contained within a bottle, vial, carton, or other container, or in any way affixed or appended to or enclosed within a package of any kind designed or intended for delivery in such container or package to an ultimate consumer within this state unless such container or package has clearly and permanently marked or imprinted on it an individual symbol, number, company name, words, letters, marking, or national drug code number identifying the medication and the manufacturer, packer, or distributor of the medication.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1415.SL.pdf?cite=1993%20c%20135%20§%201[1993 c 135 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c247.pdf?cite=1989%20c%20247%20§%202[1989 c 247 § 2]; ]
+
+== 69.60.040 - Imprint information—Publication—Availability.
+Each manufacturer shall publish and provide to the commission printed material which will identify each current imprint used by the manufacturer and the commission shall be notified of any change. This information shall be provided by the commission to all pharmacies licensed in the state of Washington, poison control centers, and hospital emergency rooms.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1609.SL.pdf?cite=2013%20c%2019%20§%20118[2013 c 19 § 118]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c247.pdf?cite=1989%20c%20247%20§%204[1989 c 247 § 4]; ]
+
+== 69.60.050 - Noncompliance—Contraband—Fine.
+. Any over-the-counter medication prepared or manufactured or offered for sale in violation of this chapter or implementing rules shall be contraband and subject to seizure, in the same manner as contraband legend drugs under RCW 69.41.060.
+
+. A purveyor who fails to comply with this chapter after one notice of noncompliance by the board is subject to a one thousand dollar civil fine for each instance of noncompliance.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c247.pdf?cite=1989%20c%20247%20§%205[1989 c 247 § 5]; ]
+
+== 69.60.060 - Rules.
+The commission shall have authority to promulgate rules for the enforcement and implementation of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1609.SL.pdf?cite=2013%20c%2019%20§%20119[2013 c 19 § 119]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c247.pdf?cite=1989%20c%20247%20§%206[1989 c 247 § 6]; ]
+
+== 69.60.070 - Imprinting requirements—Retailers and wholesalers.
+All over-the-counter medications manufactured in, received by, distributed to, or shipped to any retailer or wholesaler in this state after January 1, 1994, shall meet the requirements of this chapter. No over-the-counter medication may be sold to a consumer in this state after January 1, 1995, unless such over-the-counter medication complies with the imprinting requirements of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1415.SL.pdf?cite=1993%20c%20135%20§%202[1993 c 135 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c247.pdf?cite=1989%20c%20247%20§%207[1989 c 247 § 7]; ]
+
+== 69.60.080 - Exemptions—Application by manufacturer.
+The commission, upon application of a manufacturer, may exempt an over-the-counter drug from the requirements of chapter 69.60 RCW on the grounds that imprinting is infeasible because of size, texture, or other unique characteristics.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1609.SL.pdf?cite=2013%20c%2019%20§%20120[2013 c 19 § 120]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c247.pdf?cite=1989%20c%20247%20§%208[1989 c 247 § 8]; ]
+
+== 69.60.090 - Implementation of federal system—Termination of state system.
+Before January 1, 1994, the commission will consult with the state toxicologist to determine whether the federal government has established a legally enforceable system that is substantially equivalent to the requirements of this chapter that govern the imprinting of solid dosage form over-the-counter medication. To be substantially equivalent, the effective dates for implementation of the federal system for imprinting solid dosage form over-the-counter medication must be the same or earlier than the dates of implementation set out in the state system for imprinting solid dosage form over-the-counter medication. If the commission determines that the federal system for imprinting solid dosage form over-the-counter medication is substantially equivalent to the state system for imprinting solid dosage form over-the-counter medication, this chapter will cease to exist on January 1, 1994. If the commission determines that the federal system is substantially equivalent, except that the federal dates for implementation are later than the Washington state dates, this chapter will cease to exist when the federal system is implemented.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1609.SL.pdf?cite=2013%20c%2019%20§%20121[2013 c 19 § 121]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1415.SL.pdf?cite=1993%20c%20135%20§%203[1993 c 135 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c247.pdf?cite=1989%20c%20247%20§%209[1989 c 247 § 9]; ]
+
+== 69.60.901 - Effective date—1993 c 135.
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect immediately [April 30, 1993].
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1415.SL.pdf?cite=1993%20c%20135%20§%205[1993 c 135 § 5]; ]
+

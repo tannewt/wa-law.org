@@ -1,0 +1,111 @@
+= 35.103 - Fire departments—Performance measures.
+:toc:
+
+== 35.103.010 - Intent.
+The legislature intends for city fire departments to set standards for addressing the reporting and accountability of substantially career fire departments, and to specify performance measures applicable to response time objectives for certain major services. The legislature acknowledges the efforts of the international city/county management association, the international association of fire chiefs, and the national fire protection association for the organization and deployment of resources for fire departments. The arrival of first responders with automatic external defibrillator capability before the onset of brain death, and the arrival of adequate fire suppression resources before flash-over is a critical event during the mitigation of an emergency, and is in the public's best interest. For these reasons, this chapter contains performance measures, comparable to that research, relating to the organization and deployment of fire suppression operations, emergency medical operations, and special operations by substantially career fire departments. This chapter does not, and is not intended to, in any way modify or limit the authority of cities and towns to set levels of service.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1756-S.SL.pdf?cite=2005%20c%20376%20§%20101[2005 c 376 § 101]; ]
+
+== 35.103.020 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Advanced life support" means functional provision of advanced airway management, including intubation, advanced cardiac monitoring, manual defibrillation, establishment and maintenance of intravenous access, and drug therapy.
+
+. "Aircraft rescue and firefighting" means the firefighting actions taken to rescue persons and to control or extinguish fire involving or adjacent to aircraft on the ground.
+
+. "Brain death" as defined by the American heart association means the irreversible death of brain cells that begins four to six minutes after cardiac arrest.
+
+. "City" means a first-class city or a second-class city that provides fire protection services in a specified geographic area.
+
+. "Fire department" means a city or town fire department responsible for firefighting actions, emergency medical services, and other special operations in a specified geographic area. The department must be a substantially career fire department, and not a substantially volunteer fire department.
+
+. "Fire suppression" means the activities involved in controlling and extinguishing fires.
+
+. "First responder" means provision of initial assessment and basic first-aid intervention, including cardiac pulmonary resuscitation and automatic external defibrillator capability.
+
+. "Flash-over" as defined by national institute of standards and technology means when all combustibles in a room burst into flame and the fire spreads rapidly.
+
+. "Marine rescue and firefighting" means the firefighting actions taken to prevent, control, or extinguish fire involved in or adjacent to a marine vessel and the rescue actions for occupants using normal and emergency routes for egress.
+
+. "Response time" means the time immediately following the turnout time that begins when units are en route to the emergency incident and ends when units arrive at the scene.
+
+. "Special operations" means those emergency incidents to which the fire department responds that require specific and advanced training and specialized tools and equipment.
+
+. "Town" means a town that provides fire protection services, which may include firefighting actions, emergency medical services, and other special operations, in a specified geographic area.
+
+. "Turnout time" means the time beginning when units receive notification of the emergency to the beginning point of response time.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1756-S.SL.pdf?cite=2005%20c%20376%20§%20102[2005 c 376 § 102]; ]
+
+== 35.103.030 - Policy statement—Service delivery objectives.
+. Every city and town shall maintain a written statement or policy that establishes the following:
+
+.. The existence of a fire department;
+
+.. Services that the fire department is required to provide;
+
+.. The basic organizational structure of the fire department;
+
+.. The expected number of fire department employees; and
+
+.. Functions that fire department employees are expected to perform.
+
+. Every city and town shall include service delivery objectives in the written statement or policy required under subsection (1) of this section. These objectives shall include specific response time objectives for the following major service components, if appropriate:
+
+.. Fire suppression;
+
+.. Emergency medical services;
+
+.. Special operations;
+
+.. Aircraft rescue and firefighting;
+
+.. Marine rescue and firefighting; and
+
+.. Wildland firefighting.
+
+. Every city and town, in order to measure the ability to arrive and begin mitigation operations before the critical events of brain death or flash-over, shall establish time objectives for the following measurements:
+
+.. Turnout time;
+
+.. Response time for the arrival of the first arriving engine company at a fire suppression incident and response time for the deployment of a full first alarm assignment at a fire suppression incident;
+
+.. Response time for the arrival of a unit with first responder or higher level capability at an emergency medical incident; and
+
+.. Response time for the arrival of an advanced life support unit at an emergency medical incident, where this service is provided by the fire department.
+
+. Every city and town shall also establish a performance objective of not less than ninety percent for the achievement of each response time objective established under subsection (3) of this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1756-S.SL.pdf?cite=2005%20c%20376%20§%20103[2005 c 376 § 103]; ]
+
+== 35.103.040 - Annual evaluations—Annual report.
+. Every city and town shall evaluate its level of service and deployment delivery and response time objectives on an annual basis. The evaluations shall be based on data relating to level of service, deployment, and the achievement of each response time objective in each geographic area within the jurisdiction of the city or town.
+
+. Beginning in 2007, every city and town shall issue an annual written report which shall be based on the annual evaluations required by subsection (1) of this section.
+
+.. The annual report shall define the geographic areas and circumstances in which the requirements of this standard are not being met.
+
+.. The annual report shall explain the predictable consequences of any deficiencies and address the steps that are necessary to achieve compliance.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1756-S.SL.pdf?cite=2005%20c%20376%20§%20104[2005 c 376 § 104]; ]
+
+== 35.103.050 - Maintenance of response times in newly annexed areas—Firefighter transfers.
+Cities and towns conducting annexations of all or part of fire protection districts shall, at least through the budget cycle, or the following budget cycle if the annexation occurs in the last half of the current budget cycle, in which the annexation occurs, maintain existing fire protection and emergency services response times in the newly annexed areas consistent with response times recorded prior to the annexation as defined in the previous annual report for the fire protection district and as reported in RCW 52.33.040. If the city or town is unable to maintain these service levels in the newly annexed area, the transfer of firefighters from the annexed fire protection district as a direct result of the annexation must occur pursuant to RCW 35.13.238 (4) through (8).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5808-S.SL.pdf?cite=2009%20c%2060%20§%208[2009 c 60 § 8]; ]
+
+== 35.103.060 - Hazardous material cleanup or removal—Cost recovery.
+. A municipal fire department, or department, is entitled to recover from any liable party the actual costs associated with the cleanup or removal of hazardous waste and other hazardous materials, including debris or vehicle operating fluids, when responding to a vehicle accident on private or public property, including public roadways. A liable party may submit an invoice for those actual costs incurred by the department, for the department's cleanup or removal services, to their insurer that provides coverage for property damage for which the party becomes legally obligated, if coverage is found within a liable party's insurance policy. An insurer providing such coverage may issue payment directly to the department from available property damage liability coverage contained in the policy. If there are multiple liable partiesinvolved, the department may only recover the proportional amount of liability legally determined for each party. The department may not recover from any one liable party, or all liable parties combined, more than the actual costs incurred with the cleanup and removal of the hazardous waste and other hazardous materials, including debris or vehicle operating fluids, when responding to a vehicle accident on private or public property, including public roadways.
+
+. For the purposes of this section, the definitions in this subsection apply:
+
+.. "Actual costs" means the amount necessary to compensate for reasonable personnel time spent at the scene of a vehicle accident and the reasonable cost of any supplies used in the cleanup or removal of hazardous waste and other hazardous materials, including debris or vehicle operating fluids, when responding to a vehicle accident on private or public property, including public roadways.
+
+.. "Insurer" has the same meaning as in RCW 48.01.050.
+
+.. "Liable party" means a person or entity that is legally obligated or responsible for causing a vehicle accident.
+
+.. "Vehicle" means any mode of transportation operated by a liable party and involved in a vehicle accident including, but not limited to, automobiles, trucks, and motorcycles.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6078.SL.pdf?cite=2020%20c%20198%20§%202[2020 c 198 § 2]; ]
+

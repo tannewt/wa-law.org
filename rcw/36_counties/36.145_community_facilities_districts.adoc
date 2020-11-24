@@ -1,0 +1,265 @@
+= 36.145 - Community facilities districts.
+:toc:
+
+== 36.145.005 - Findings.
+The legislature finds that:
+
+. The state is projected to experience substantial population growth in the next two decades and this growth will require substantial new housing, places of employment, community facilities, and supporting local, subregional, and regional infrastructure;
+
+. In most areas of the state projected to accommodate substantial growth, there are inadequate community facilities and infrastructure to facilitate and support such growth. In addition, current public financing options and resources are not adequate to provide the needed community facilities and local, subregional, and regional infrastructure;
+
+. A more flexible type of financing mechanism known as a community facilities district should be available to counties, cities, and towns so that needed community facilities and local, subregional, and regional infrastructure can be provided;
+
+. This chapter is intended to facilitate voluntary landowner financing of community facilities and local, subregional, and regional infrastructure by authorizing the creation of community facilities districts, while creating jobs and facilitating economic development; and
+
+. It is in the interest of the people of the state of Washington to authorize the establishment of community facility [facilities] districts as independently governed, special purpose districts, vested with the corporate authority included under Article VII, section 9 of the state Constitution to make local improvements in accordance with this chapter and to carry out the purposes specifically authorized under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6241-S.SL.pdf?cite=2010%20c%207%20§%20101[2010 c 7 § 101]; ]
+
+== 36.145.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Board of supervisors" or "board" means the governing body of a community facilities district.
+
+. "Community facilities district" or "district" means a district created under this chapter.
+
+. "Facility" or "facilities" means the local improvements included under RCW 36.145.100.
+
+. "Legislative authority" means the governing body of a county, city, or town to which a petition or amended petition is submitted.
+
+.. If the proposed district is located entirely within unincorporated land, then the county is the exclusive "legislative authority" for purposes of approving formation of the district under RCW 36.145.020 through 36.145.070, inclusive, and RCW 36.145.080.
+
+.. If all or a portion of the proposed district is located within unincorporated land that is entirely surrounded by an incorporated city or town, then the "legislative authority" for purposes of approving formation of the district under RCW 36.145.020 through 36.145.070, inclusive, and RCW 36.145.080 includes the governing bodies of the county and the city or town surrounding the unincorporated land.
+
+.. If the proposed district is located entirely within incorporated land, then the city or town is the exclusive "legislative authority" for purposes of this chapter, and all powers and responsibilities of a county under this chapter must be exercised by that city or town.
+
+. "Petition" means a request, meeting the requirements of RCW 36.145.020, made by landowners to form a community facilities district and to voluntarily submit their land to the assessments authorized under this chapter and includes an amended petition meeting the requirements of RCW 36.145.020(3).
+
+. "Special assessment" means an assessment imposed in accordance with the requirements of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6241-S.SL.pdf?cite=2010%20c%207%20§%20102[2010 c 7 § 102]; ]
+
+== 36.145.020 - Formation by petition—Requirements—Amendment.
+Community facilities districts are authorized to be formed for the purposes authorized under this chapter. Community facilities districts may only include land within urban growth areas designated under the state growth management act, located in portions of one or more cities, towns, or counties when created in accordance with this chapter. A district may include one or more noncontiguous tracts, lots, parcels, or other properties meeting the requirements of this chapter.
+
+. To form a community facilities district, a petition must be presented to the applicable legislative authorities. The petition must:
+
+.. Designate and describe the boundaries of the district by metes and bounds or reference to United States townships, ranges, and legal subdivisions;
+
+.. Be executed by one hundred percent of all owners of private property located within the boundaries of the proposed district. The property owners must include a request to subject their property to the assessments, up to the amount included in the petition and authorized under this chapter;
+
+.. Include a certification by the petitioners that they want to voluntarily submit their property to the authority of the district under this chapter to approve the petitioner's request to submit their property to the assessments, up to the amount included in the petition and authorized under this chapter;
+
+.. Include a general explanation of the objective and plan of the district and describe the specific facilities that the district anticipates financing;
+
+.. Declare the district will be conducive to public health, safety, and welfare;
+
+.. Assert that the purpose for forming the district will be a benefit to the land located in the district;
+
+.. Be accompanied by an "obligation" signed by at least two petitioners who agree to pay the costs of the formation process;
+
+.. Include a list of petitioners or representatives thereof who are willing and able to serve on the board of supervisors. All petitioners within a proposed district who are natural persons, or natural persons who are designated representatives of petitioners, are eligible to include their name on the list of eligible supervisors. The petitioners may nominate qualified professions to serve on the board of supervisors in lieu of the petitioners or representatives of the petitioners;
+
+.. If it proposes a special assessment, include: (i) A diagram showing each separate lot, tract, parcel of land, or other property in the district; (ii) the acreage of the property; (iii) the name and address of the owner or reputed owner of each lot, tract, parcel of land, or other property as shown on the tax rolls of the county assessor; (iv) a preliminary assessment roll showing the special assessment proposed to be imposed on each lot, tract, parcel of land, or other property; and (v) a proposed method or combination of methods for computing special assessments, determining the benefit to assessed property or use from facilities or improvements funded directly or indirectly by special assessments under this chapter; and
+
+.. Include an explanation of what security will be provided to ensure the timely payment of assessments and the timely payment of bonds issued by the district.
+
+. The petition must be filed with the auditor of each county in which property included within the proposed district is located. The auditor for the county in which the largest geographic portion of the proposed district is located must be the lead auditor for the purposes of this section. Within thirty days of the lead auditor's receipt of the petition, the lead auditor must confirm that the petition has been validly executed by one hundred percent of all owners of the property located within the proposed district, including confirmation by the auditors of all other counties with whom the petition was filed. Within ten days of the lead auditor's finding that the petition either does or does not contain the required signatures, the lead auditor must either (a) transmit the petition, together with a certificate of sufficiency attached thereto, to each legislative authority petitioned for formation of the district; or (b) return the petition to the petitioners with a list of property owners who must sign the petition in order to comply with this section. There are no restrictions on the number of petitions that may be submitted by one or more property owners.
+
+. A petition may be amended for any reason if the amendment is signed by one hundred percent of the owners of property located within the district proposed in the amended petition.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6241-S.SL.pdf?cite=2010%20c%207%20§%20201[2010 c 7 § 201]; ]
+
+== 36.145.030 - Public hearing on petition—When held.
+A public hearing on the petition for formation of a district must be held by each applicable legislative authority, not less than thirty, but not more than sixty days, from the date that the lead county auditor issues the certificate of sufficiency required under RCW 36.145.020.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6241-S.SL.pdf?cite=2010%20c%207%20§%20202[2010 c 7 § 202]; ]
+
+== 36.145.040 - Public hearing on petition—Notice requirements.
+Notice of all public hearings must include a description of the proposal, be mailed to all petitioners, and must be published once a week for three consecutive weeks in the official paper for each applicable legislative authority, prior to the date set for the hearing. The notice must be posted for not less than fifteen days prior to the date of the hearing in each of three public places within the boundaries of the proposed district and in three public places for each applicable legislative authority. Each notice must contain the time, date, and place of the public hearing.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6241-S.SL.pdf?cite=2010%20c%207%20§%20203[2010 c 7 § 203]; ]
+
+== 36.145.050 - Receipt of material evidence—Inclusion and removal of land.
+At the time and place of the public hearing, the legislative authority must consider the petition. The legislative authority may receive any evidence it deems material that supports or opposes the formation of the district, including the inclusion or exclusion of land. Unless an amended petition satisfying the requirements of RCW 36.145.020 is approved in accordance with the requirements of this chapter, no land outside the boundaries described in the petition may be included within the proposed district. No land inside the boundaries of an approved petition may be removed from the district unless an amended petition satisfying the requirements of RCW 36.145.020 is approved in accordance with the requirements of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6241-S.SL.pdf?cite=2010%20c%207%20§%20204[2010 c 7 § 204]; ]
+
+== 36.145.060 - Approval of petition—Requirements.
+. The legislative authority may act on the petition to form a community facilities district at the public hearing held under RCW 36.145.050 and in no event may the legislative authority's decision be issued later than thirty days after the day of the public hearing. The applicable legislative authority may approve the petition by resolution if the applicable legislative authority determines, in its sole discretion, that the petitioners will benefit from the proposed district and that the formation of the district will be in the best interest of the county, city or town, as applicable, and that formation of the district is consistent with the requirements of Washington's growth management act.
+
+. A community facilities district may not be formed unless each applicable legislative authority makes the finding required under subsection (1) of this section.
+
+. All resolutions approving a petition must conform to the terms and conditions contained in the petition, including the maximum amounts of special assessments set forth in the petition, and must designate the name and number of the community facilities district being formed.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6241-S.SL.pdf?cite=2010%20c%207%20§%20205[2010 c 7 § 205]; ]
+
+== 36.145.070 - Appeals to formation.
+. Any person who objects to formation of the district may appeal the final decision of a legislative authority to approve a petition for formation of a community facilities district by filing an appeal with the superior court of the county in which any part of the district is located within thirty days of the effective date of the resolution approving formation of the district.
+
+. If no appeal is timely filed, then the legislative authority's decision is deemed valid, complete, and final, and neither the legal existence of the district, nor the terms and conditions of an approved petition can thereafter be challenged or questioned by any person on the grounds of procedural defect or otherwise. Certified copies of each resolution approving a district must be filed with the auditor of the county or counties in which the community facilities district is located.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6241-S.SL.pdf?cite=2010%20c%207%20§%20206[2010 c 7 § 206]; ]
+
+== 36.145.080 - Board of supervisors—Members—Vacancies.
+. A community facilities district must be governed by a board of supervisors possessing the powers set forth under RCW 36.145.090. The board of supervisors must be appointed by each applicable legislative authority within sixty days of the formation of the district. Except as expressly provided under this section, each applicable legislative authority is authorized to appoint members to the board of supervisors only from among the members of its own governing body. Each applicable legislative authority must appoint the petitioner members or nominees required under subsection (2) or (3) of this section. The term of office of each supervisor is three years and until a successor is appointed, except that the supervisors first appointed serve for one and two years respectively from the date of their appointments, as designated in their appointments.
+
+. Except as provided in subsection (3) of this section, if the proposed district is located entirely within a single jurisdiction, then the board of supervisors consists of: (a) Three members of the legislative authority of the jurisdiction; and (b) two members appointed from among the list of eligible supervisors included in the petition as provided in RCW 36.145.020(1)(h). All members of the board of supervisors must be natural persons.
+
+. If all or a portion of the proposed district is located within unincorporated land that is entirely surrounded by an incorporated city or town, then the board of supervisors consists of: (a) Two members appointed from the county legislative authority; (b) two members appointed from the legislative authority of the city or town that is the additional legislative authority under RCW 36.145.010(4); and (c) one member appointed from the list of eligible petitioners included in the petition as provided in RCW 36.145.020(1)(h), depending on the number of additional members that are required to result in an overall odd number of supervisors.
+
+. If the county, city, or town is the exclusive legislative authority pursuant to RCW 36.145.010, then the board of supervisors consists of: (a) Three members appointed from such county, city, or town; and (b) two members from the list of eligible petitioners or nominees included in the petition, as provided in RCW 36.145.020(1)(h), to result in an overall odd number of supervisors.
+
+. The legislative authorities may appoint qualified professionals with expertise in municipal finance in lieu of one or more appointments authorized in this section. A jurisdiction's appointments to the board of supervisors may consist of a combination of qualified professionals authorized under this section and one or more members from the applicable legislative authority. Nothing contained in this section authorizes a legislative authority to exceed the maximum number of appointments set forth under subsection (2) or (3) of this section.
+
+. A vacancy on the board must be filled by the legislative authority authorized to make the appointment to the applicable supervisor position under this section. Vacancies must be filled by a person in the same position vacating the board, which for initial petitioner members or nominees includes successor owners of property located within the boundaries of an approved district. If the approved district was originally located entirely on unincorporated land and the unincorporated land has been annexed into a city or town, then, as of the effective date of annexation, the city or town is deemed the exclusive legislative authority for the purposes of this chapter and the composition of the board must be structured accordingly, as provided in this section. Supervisors must serve without compensation, but they are entitled to expenses, including traveling expenses, necessarily incurred in discharge of their duties. The board must designate a chair from time to time.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6241-S.SL.pdf?cite=2010%20c%207%20§%20301[2010 c 7 § 301]; ]
+
+== 36.145.090 - Powers.
+. A community facilities district created in accordance with this chapter is an independently governed, special purpose district, vested with the corporate authority included under Article VII, section 9 of the state Constitution to make local improvements by special assessment in accordance with this chapter. Nothing in this chapter exempts the public improvements and facilities provided by a district from the regulatory and land use permitting requirements of the county, city, or town in which the improvements are to be located.
+
+. Subject to the terms and conditions of an approved petition, a community facilities district has the powers necessary to carry out the specific purposes authorized under this chapter in order to carry out the specific objectives, plan, and facilities identified in the approved petition including, but not limited to, the authority to:
+
+.. Acquire, purchase, hold, lease, finance, manage, occupy, construct, and sell real and personal property, facilities, or any interest therein, either inside or outside of the boundaries of the district, except that any such property, facilities, or interests outside the boundaries of the district must directly serve facilities or benefit properties within the district;
+
+.. Finance and construct facilities authorized under this chapter;
+
+.. Enter into and perform any and all contracts;
+
+.. Levy and enforce the collection of special assessments against the property included within a district;
+
+.. Enter into lease-purchase agreements with or without an option to purchase;
+
+.. Enter into executory conditional sales contracts, leases, and installment promissory notes;
+
+.. Borrow money to the extent and in the manner authorized by this chapter;
+
+.. Hold in trust property useful to accomplishment of the authority granted under this chapter;
+
+.. Issue revenue bonds in accordance with chapter 39.46 RCW and assessment bonds in accordance with chapter 35.45 RCW, and the requirements of this chapter, payable from revenue or assessments, respectively, of the district that is legally available to be pledged to secure the bonds;
+
+.. Contract with any municipal corporation, governmental, or private agencies to carry out the purposes authorized by this chapter;
+
+.. Sue and be sued;
+
+.. Accept and receive on behalf of the district any money or property donated, devised, or bequeathed to the district and carry out the terms of the donation, devise, or bequest, if it is within the powers granted by law to community facilities districts or, in the absence of such terms, expend or use the money or property for district purposes as determined by the board of supervisors;
+
+.. Transfer to any county, city, or other municipal corporation, without compensation, any property or other assets of the district; and
+
+.. Do any and all lawful acts required and expedient to carry out the express authority provided in this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6241-S.SL.pdf?cite=2010%20c%207%20§%20401[2010 c 7 § 401]; ]
+
+== 36.145.100 - Financing district costs, expenses, and facilities—Prohibitions.
+. Through the use of district revenue derived through special assessments and bonds authorized under this chapter and, consistent with the terms and conditions of a petition approved in accordance with this chapter, a community facilities district may finance all or a portion of the following costs, expenses, and facilities whether located inside or outside the boundaries of an approved district:
+
+.. The cost, or any portion thereof, of the purchase, finance, lease, sublease, construction, expansion, improvement, or rehabilitation of any facility with an estimated life of five years or longer;
+
+.. The planning and design work that is directly related to the purchase, construction, expansion, improvement, or rehabilitation of a facility, including engineering, architectural, planning, and inspection costs;
+
+.. Facilities listed in RCW 35.43.040 to the extent not specified in this section;
+
+.. Sanitary sewage systems, including collection, transport, storage, treatment, dispersal, effluent use, and discharge;
+
+.. Drainage and flood control systems, including collection, transport, diversion, storage, detention, retention, dispersal, use, and discharge;
+
+.. Water systems for domestic, industrial, irrigation, municipal, or community facilities purposes, including production, collection, storage, treatment, transport, delivery, connection, and dispersal;
+
+.. Highways, streets, roadways, and parking facilities, including all areas for vehicular use for travel, ingress, egress, and parking;
+
+.. Areas for pedestrian, equestrian, bicycle, or other nonmotor vehicle use for travel, ingress, egress, and parking;
+
+.. Pedestrian malls, parks, recreational facilities, and open-space facilities for the use of members of the public for entertainment, assembly, and recreation;
+
+.. Landscaping, including earthworks, structures, lakes, and other water features, plants, trees, and related water delivery systems;
+
+.. Public buildings, public safety facilities, and community facilities;
+
+.. Publicly owned natural gas transmission and distribution facilities, facilities for the transmission or distribution of electrical energy, and limited communications facilities, specifically poles, trenches, and conduits, for use of any communications provider;
+
+.. Street lighting;
+
+.. Traffic control systems and devices, including signals, controls, markings, and signage;
+
+.. Systems of surface, underground, or overhead railways, tramways, buses, or any other means of mass transportation facilities, including passenger, terminal, station parking, and related facilities and areas for passenger and vehicular use for travel, ingress, egress, and parking;
+
+.. Library, educational, and cultural facilities; and
+
+.. Facilities similar to those listed in this section.
+
+. The district may not finance public or private residential dwellings, nonprofit facilities as defined in RCW 43.180.300, health care facilities as defined in RCW 70.37.020, higher education institutions as defined in RCW 28B.07.020, or economic development activities as defined in RCW 43.163.010.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6241-S.SL.pdf?cite=2010%20c%207%20§%20501[2010 c 7 § 501]; ]
+
+== 36.145.110 - Special assessments—Procedures and requirements—Notice.
+. The board of supervisors of a community facilities district may impose special assessments on property located inside the district and benefited by the facilities and improvements provided, or to be provided, by a district, whether the facilities and improvements are located inside or outside of the boundaries of the proposed district. The requirements and powers of a district relating to the formation, assessment, collection, foreclosure, and other powers of a special assessment district are as set forth in chapters 35.43, 35.44, 35.49, and 35.50 RCW, except where otherwise addressed under this chapter. In any case where the provisions of this chapter conflict with the requirements under any other chapter that applies to the formation, assessment, collection, foreclosure, or other powers of a special assessment district, the provisions of this chapter control.
+
+. Except as otherwise expressly provided under this chapter, the special assessments imposed and collected on property within a district may not exceed the amount set forth in a petition or amended petition approved in accordance with this chapter.
+
+. The term of the special assessment is limited to the lesser of (a) thirty-five years or (b) the full term of any bonds issued by or on behalf of the district to which the assessments or other revenue of the district is specifically dedicated, pledged, or obligated.
+
+. The computation of special assessments must follow the requirements of chapter 35.44 RCW, including the authority to use any method or combination of methods to compute assessments which may be deemed by the board of supervisors to fairly reflect the benefit to the properties being assessed. The method of assessment may utilize the supplemental authority granted under chapter 35.51 RCW. A petition meeting the requirements of RCW 36.145.020 may provide for the reduction or waiver of special assessments for low-income households as that term is defined in RCW 36.130.010.
+
+. The board must set a date, time, and place for hearing any objections to the assessment roll, which hearing must occur no later than one hundred twenty days from final approval of formation of the district. Petitioners or representatives thereof serving on the board of supervisors must not participate in the determination of the special assessment roll or vote on the confirmation of that assessment roll. The restriction in this subsection does not apply to members of the board of supervisors appointed from among the qualified professionals that petitioners may nominate under RCW 36.145.020(1)(h).
+
+. The procedures and requirements for assessments, hearings on the assessment roll, filing of objections to the assessment roll, and appeals from the decision of the board approving or rejecting the assessment roll, must be as set forth in RCW 35.44.010 through 35.44.020, 35.44.080 through 35.44.110, and 35.44.190 through 35.44.270.
+
+. At the hearing on the assessment roll, and in no event later than thirty days after the day of the hearing, the board may adopt a resolution approving the assessment roll or may correct, revise, raise, lower, change, or modify the assessment roll or any part thereof, and provide the petitioner with a detailed explanation of the changes made by the board.
+
+. If the assessment roll is revised by the board in any way, then, within thirty days of the board's decision, the petitioner(s) must unanimously make one of the following elections: (a) Rescind the petition; or (b) accept the changes made by the board, upon which occurrence the board must adopt a resolution approving the assessment roll as modified by the board.
+
+. Reassessments, assessments on omitted property, and supplemental assessments are governed by the provisions set forth under chapter 35.44 RCW.
+
+. Any assessment approved under the provisions of this chapter may be segregated upon a petition of one hundred percent of the owners of the property subject to the assessment to be segregated. The segregation must be made as nearly as possible on the same basis as the original assessment was levied and approved by the board. The board, in approving a petition for segregation and amendment of the assessment roll, must do so in a fashion such that the total of the segregated parts of the assessment equal the assessment before segregation. As to any property originally entered upon the roll the assessment upon which has not been raised, no objections to the approval of the petition for segregation, the resulting assessment, or the amended assessment roll may be considered by the jurisdiction in which the district is located, the board, or by any court on appeal. Assessments must be collected in districts pursuant to the district's previous assessment roll until the amendment to the assessment roll is finalized under this section.
+
+. Except as provided under chapter 35.44 RCW, assessments may not be increased without the approval of one hundred percent of the property owners subject to the proposed increase.
+
+. Special assessments must be collected by the district treasurer determined in accordance with RCW 36.145.140.
+
+. A notice of any special assessment imposed under this chapter must be provided to the owner of the assessed property, not less than once per year, with the following appearing at the top of the page in at least fourteen point, bold font:
+
+****NOTICE****
+
+
+
+THIS PROPERTY IS SUBJECT TO THE ASSESSMENTS ITEMIZED BELOW AND APPROVED BY COMMUNITY FACILITIES DISTRICT # . . . . .. AS THE OWNER OR POTENTIAL BUYER OF THIS PROPERTY, YOU ARE, OR WOULD BE, RESPONSIBLE FOR PAYMENT OF THE AMOUNTS ITEMIZED BELOW.
+
+PLEASE REFER TO RCW 36.145.110 OR CONTACT YOUR COUNTY AUDITOR FOR ADDITIONAL INFORMATION.
+
+. The district treasurer responsible for collecting special assessments may account for the costs of handling the assessments and may collect a fee not to exceed the measurable costs incurred by the treasurer.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1366.SL.pdf?cite=2019%20c%20260%20§%201[2019 c 260 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6241-S.SL.pdf?cite=2010%20c%207%20§%20502[2010 c 7 § 502]; ]
+
+== 36.145.120 - Payment of bonds—Related costs.
+. The district may utilize the special assessments and revenue derived in accordance with this chapter for the payment of principal and interest on bonds issued pursuant to the authority granted under this chapter to fund or reimburse the costs of facilities authorized under this chapter and prior to the issuance of bonds, may utilize the revenue to directly fund the costs of providing the facilities authorized under this chapter on a pay-as-you-go basis.
+
+. The board of supervisors may establish, administer, and pay or otherwise dedicate, pledge, or obligate the assessments and revenue generated in accordance with this chapter into a specific fund created by or on behalf of the district, in order to guarantee payment of obligations incurred in connection with facilities provided under this chapter, including the payment of principal and interest on any bonds issued by or on behalf of the district.
+
+. The proceeds of any bond issued pursuant to this chapter may be used to pay any and all costs related to providing the facilities authorized under this chapter, including expenses incurred in connection with issuance of the bonds.
+
+. The reporting requirements of RCW 39.44.210 apply to any bond issuance under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6241-S.SL.pdf?cite=2010%20c%207%20§%20503[2010 c 7 § 503]; ]
+
+== 36.145.130 - Bonds sole obligation of district.
+No bonds issued by or on behalf of a community facilities district are obligations of any city, town, county, or the state of Washington or any political subdivision thereof other than the district and the bonds must so state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6241-S.SL.pdf?cite=2010%20c%207%20§%20504[2010 c 7 § 504]; ]
+
+== 36.145.140 - District treasurer—How appointed, duties and powers.
+. If a district includes land that is entirely within a county and the land is not surrounded entirely by a city or town, then the treasurer of that county is the treasurer of the district. If a district includes land that is entirely within a county and the land is entirely surrounded by a city or town, or, if parts of the district include land within or surrounded by more than one jurisdiction, then the board of supervisors may, with the concurrence of the treasurers of all jurisdictions within which the district lies, appoint the treasurer of any of those jurisdictions to serve as the district treasurer. Except as specifically provided under this chapter, the duties of a district treasurer are as provided under applicable law.
+
+. The district treasurer must establish a community facilities district fund, into which must be paid all district revenues. The district treasurer must also maintain any special funds created by the board of supervisors of the community facilities district, into which the district treasurer must place all money as the board of supervisors may, by resolution, direct. The treasurer may create such subfunds, accounts, and subaccounts as he or she deems necessary, consistent with applicable law.
+
+. The district treasurer must pay assessment bonds and revenue bonds and the accrued interest thereon in accordance with their terms from the appropriate fund when interest or principal payments become due.
+
+. All interest collected on community facilities district funds belongs to the district and must be deposited to its credit in the proper district funds.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6241-S.SL.pdf?cite=2010%20c%207%20§%20505[2010 c 7 § 505]; ]
+
+== 36.145.150 - Individual assessments on district property—Liens.
+All assessments imposed on the respective lots, tracts, parcels of land, and other property included within the boundaries of an approved district in accordance with this chapter are a lien upon the property from the date of final approval and are paramount and superior to any other lien or encumbrance whatsoever, theretofore or thereafter created, except a lien for general taxes.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6241-S.SL.pdf?cite=2010%20c%207%20§%20601[2010 c 7 § 601]; ]
+

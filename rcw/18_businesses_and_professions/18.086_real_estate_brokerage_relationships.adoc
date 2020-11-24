@@ -1,0 +1,275 @@
+= 18.86 - Real estate brokerage relationships.
+:toc:
+
+== 18.86.010 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Agency relationship" means the agency relationship created under this chapter or by written agreement between a real estate firm and a buyer and/or seller relating to the performance of real estate brokerage services.
+
+. "Agent" means a broker who has entered into an agency relationship with a buyer or seller.
+
+. "Broker" means broker, managing broker, and designated broker, collectively, as defined in chapter 18.85 RCW, unless the context requires the terms to be considered separately.
+
+. "Business opportunity" means and includes a business, business opportunity, and goodwill of an existing business, or any one or combination thereof when the transaction or business includes an interest in real property.
+
+. "Buyer" means an actual or prospective purchaser in a real estate transaction, or an actual or prospective tenant in a real estate rental or lease transaction, as applicable.
+
+. "Buyer's agent" means a broker who has entered into an agency relationship with only the buyer in a real estate transaction, and includes subagents engaged by a buyer's agent.
+
+. "Confidential information" means information from or concerning a principal of a broker that:
+
+.. Was acquired by the broker during the course of an agency relationship with the principal;
+
+.. The principal reasonably expects to be kept confidential;
+
+.. The principal has not disclosed or authorized to be disclosed to third parties;
+
+.. Would, if disclosed, operate to the detriment of the principal; and
+
+.. The principal personally would not be obligated to disclose to the other party.
+
+. "Dual agent" means a broker who has entered into an agency relationship with both the buyer and seller in the same transaction.
+
+. "Material fact" means information that substantially adversely affects the value of the property or a party's ability to perform its obligations in a real estate transaction, or operates to materially impair or defeat the purpose of the transaction. The fact or suspicion that the property, or any neighboring property, is or was the site of a murder, suicide or other death, rape or other sex crime, assault or other violent crime, robbery or burglary, illegal drug activity, gang-related activity, political or religious activity, or other act, occurrence, or use not adversely affecting the physical condition of or title to the property is not a material fact.
+
+. "Principal" means a buyer or a seller who has entered into an agency relationship with a broker.
+
+. "Real estate brokerage services" means the rendering of services for which a real estate license is required under chapter 18.85 RCW.
+
+. "Real estate firm" or "firm" have the same meaning as defined in chapter 18.85 RCW.
+
+. "Real estate transaction" or "transaction" means an actual or prospective transaction involving a purchase, sale, option, or exchange of any interest in real property or a business opportunity, or a lease or rental of real property. For purposes of this chapter, a prospective transaction does not exist until a written offer has been signed by at least one of the parties.
+
+. "Seller" means an actual or prospective seller in a real estate transaction, or an actual or prospective landlord in a real estate rental or lease transaction, as applicable.
+
+. "Seller's agent" means a broker who has entered into an agency relationship with only the seller in a real estate transaction, and includes subagents engaged by a seller's agent.
+
+. "Subagent" means a broker who is engaged to act on behalf of a principal by the principal's agent where the principal has authorized the broker in writing to appoint subagents.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5352-S.SL.pdf?cite=2013%20c%2058%20§%201[2013 c 58 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1659.SL.pdf?cite=1996%20c%20179%20§%201[1996 c 179 § 1]; ]
+
+== 18.86.020 - Agency relationship.
+. A broker who performs real estate brokerage services for a buyer is a buyer's agent unless the:
+
+.. Broker's firm has appointed the broker to represent the seller pursuant to a written agency agreement between the firm and the seller, in which case the broker is a seller's agent;
+
+.. Broker has entered into a subagency agreement with the seller's agent's firm, in which case the broker is a seller's agent;
+
+.. Broker's firm has appointed the broker to represent the seller pursuant to a written agency agreement between the firm and the seller, and the broker's firm has appointed the broker to represent the buyer pursuant to a written agency agreement between the firm and the buyer, in which case the broker is a dual agent;
+
+.. Broker is the seller or one of the sellers; or
+
+.. Parties agree otherwise in writing after the broker has complied with RCW 18.86.030(1)(f).
+
+. In a transaction in which different brokers affiliated with the same firm represent different parties, the firm's designated broker and any managing broker responsible for the supervision of both brokers, is a dual agent, and must obtain the written consent of both parties as required under RCW 18.86.060. In such case, each of the brokers shall solely represent the party with whom the broker has an agency relationship, unless all parties agree in writing that the broker is a dual agent.
+
+. A broker may work with a party in separate transactions pursuant to different relationships, including, but not limited to, representing a party in one transaction and at the same time not representing that party in a different transaction involving that party, if the broker complies with this chapter in establishing the relationships for each transaction.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5352-S.SL.pdf?cite=2013%20c%2058%20§%202[2013 c 58 § 2]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1955-S.SL.pdf?cite=1997%20c%20217%20§%201[1997 c 217 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1659.SL.pdf?cite=1996%20c%20179%20§%202[1996 c 179 § 2]; ]
+
+== 18.86.030 - Duties of broker.
+. Regardless of whether a broker is an agent, the broker owes to all parties to whom the broker renders real estate brokerage services the following duties, which may not be waived:
+
+.. To exercise reasonable skill and care;
+
+.. To deal honestly and in good faith;
+
+.. To present all written offers, written notices and other written communications to and from either party in a timely manner, regardless of whether the property is subject to an existing contract for sale or the buyer is already a party to an existing contract to purchase;
+
+.. To disclose all existing material facts known by the broker and not apparent or readily ascertainable to a party; provided that this subsection shall not be construed to imply any duty to investigate matters that the broker has not agreed to investigate;
+
+.. To account in a timely manner for all money and property received from or on behalf of either party;
+
+.. To provide a pamphlet on the law of real estate agency in the form prescribed in RCW 18.86.120 to all parties to whom the broker renders real estate brokerage services, before the party signs an agency agreement with the broker, signs an offer in a real estate transaction handled by the broker, consents to dual agency, or waives any rights, under RCW 18.86.020(1)(e), 18.86.040(1)(e), 18.86.050(1)(e), or 18.86.060(2) (e) or (f), whichever occurs earliest; and
+
+.. To disclose in writing to all parties to whom the broker renders real estate brokerage services, before the party signs an offer in a real estate transaction handled by the broker, whether the broker represents the buyer, the seller, both parties, or neither party. The disclosure shall be set forth in a separate paragraph entitled "Agency Disclosure" in the agreement between the buyer and seller or in a separate writing entitled "Agency Disclosure."
+
+. Unless otherwise agreed, a broker owes no duty to conduct an independent inspection of the property or to conduct an independent investigation of either party's financial condition, and owes no duty to independently verify the accuracy or completeness of any statement made by either party or by any source reasonably believed by the broker to be reliable.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5352-S.SL.pdf?cite=2013%20c%2058%20§%203[2013 c 58 § 3]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1659.SL.pdf?cite=1996%20c%20179%20§%203[1996 c 179 § 3]; ]
+
+== 18.86.031 - Violation of licensing law.
+A violation of RCW 18.86.030 is a violation of RCW 18.85.361.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5352-S.SL.pdf?cite=2013%20c%2058%20§%204[2013 c 58 § 4]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1659.SL.pdf?cite=1996%20c%20179%20§%2014[1996 c 179 § 14]; ]
+
+== 18.86.040 - Seller's agent—Duties.
+. Unless additional duties are agreed to in writing signed by a seller's agent, the duties of a seller's agent are limited to those set forth in RCW 18.86.030 and the following, which may not be waived except as expressly set forth in (e) of this subsection:
+
+.. To be loyal to the seller by taking no action that is adverse or detrimental to the seller's interest in a transaction;
+
+.. To timely disclose to the seller any conflicts of interest;
+
+.. To advise the seller to seek expert advice on matters relating to the transaction that are beyond the agent's expertise;
+
+.. Not to disclose any confidential information from or about the seller, except under subpoena or court order, even after termination of the agency relationship; and
+
+.. Unless otherwise agreed to in writing after the seller's agent has complied with RCW 18.86.030(1)(f), to make a good faith and continuous effort to find a buyer for the property; except that a seller's agent is not obligated to seek additional offers to purchase the property while the property is subject to an existing contract for sale.
+
+. [Empty]
+.. The showing of properties not owned by the seller to prospective buyers or the listing of competing properties for sale by a seller's agent does not in and of itself breach the duty of loyalty to the seller or create a conflict of interest.
+
+.. The representation of more than one seller by different brokers affiliated with the same firm in competing transactions involving the same buyer does not in and of itself breach the duty of loyalty to the sellers or create a conflict of interest.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5352-S.SL.pdf?cite=2013%20c%2058%20§%205[2013 c 58 § 5]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1955-S.SL.pdf?cite=1997%20c%20217%20§%202[1997 c 217 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1659.SL.pdf?cite=1996%20c%20179%20§%204[1996 c 179 § 4]; ]
+
+== 18.86.050 - Buyer's agent—Duties.
+. Unless additional duties are agreed to in writing signed by a buyer's agent, the duties of a buyer's agent are limited to those set forth in RCW 18.86.030 and the following, which may not be waived except as expressly set forth in (e) of this subsection:
+
+.. To be loyal to the buyer by taking no action that is adverse or detrimental to the buyer's interest in a transaction;
+
+.. To timely disclose to the buyer any conflicts of interest;
+
+.. To advise the buyer to seek expert advice on matters relating to the transaction that are beyond the agent's expertise;
+
+.. Not to disclose any confidential information from or about the buyer, except under subpoena or court order, even after termination of the agency relationship; and
+
+.. Unless otherwise agreed to in writing after the buyer's agent has complied with RCW 18.86.030(1)(f), to make a good faith and continuous effort to find a property for the buyer; except that a buyer's agent is not obligated to: (i) Seek additional properties to purchase while the buyer is a party to an existing contract to purchase; or (ii) show properties as to which there is no written agreement to pay compensation to the buyer's agent.
+
+. [Empty]
+.. The showing of property in which a buyer is interested to other prospective buyers by a buyer's agent does not in and of itself breach the duty of loyalty to the buyer or create a conflict of interest.
+
+.. The representation of more than one buyer by different brokers affiliated with the same firm in competing transactions involving the same property does not in and of itself breach the duty of loyalty to the buyer or create a conflict of interest.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5352-S.SL.pdf?cite=2013%20c%2058%20§%206[2013 c 58 § 6]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1955-S.SL.pdf?cite=1997%20c%20217%20§%203[1997 c 217 § 3]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1659.SL.pdf?cite=1996%20c%20179%20§%205[1996 c 179 § 5]; ]
+
+== 18.86.060 - Dual agent—Duties.
+. Notwithstanding any other provision of this chapter, a broker may act as a dual agent only with the written consent of both parties to the transaction after the dual agent has complied with RCW 18.86.030(1)(f), which consent must include a statement of the terms of compensation.
+
+. Unless additional duties are agreed to in writing signed by a dual agent, the duties of a dual agent are limited to those set forth in RCW 18.86.030 and the following, which may not be waived except as expressly set forth in (e) and (f) of this subsection:
+
+.. To take no action that is adverse or detrimental to either party's interest in a transaction;
+
+.. To timely disclose to both parties any conflicts of interest;
+
+.. To advise both parties to seek expert advice on matters relating to the transaction that are beyond the dual agent's expertise;
+
+.. Not to disclose any confidential information from or about either party, except under subpoena or court order, even after termination of the agency relationship;
+
+.. Unless otherwise agreed to in writing after the dual agent has complied with RCW 18.86.030(1)(f), to make a good faith and continuous effort to find a buyer for the property; except that a dual agent is not obligated to seek additional offers to purchase the property while the property is subject to an existing contract for sale; and
+
+.. Unless otherwise agreed to in writing after the dual agent has complied with RCW 18.86.030(1)(f), to make a good faith and continuous effort to find a property for the buyer; except that a dual agent is not obligated to: (i) Seek additional properties to purchase while the buyer is a party to an existing contract to purchase; or (ii) show properties as to which there is no written agreement to pay compensation to the dual agent.
+
+. [Empty]
+.. The showing of properties not owned by the seller to prospective buyers or the listing of competing properties for sale by a dual agent does not in and of itself constitute action that is adverse or detrimental to the seller or create a conflict of interest.
+
+.. The representation of more than one seller by different brokers licensed to the same firm in competing transactions involving the same buyer does not in and of itself constitute action that is adverse or detrimental to the sellers or create a conflict of interest.
+
+. [Empty]
+.. The showing of property in which a buyer is interested to other prospective buyers or the presentation of additional offers to purchase property while the property is subject to a transaction by a dual agent does not in and of itself constitute action that is adverse or detrimental to the buyer or create a conflict of interest.
+
+.. The representation of more than one buyer by different brokers licensed to the same firm in competing transactions involving the same property does not in and of itself constitute action that is adverse or detrimental to the buyers or create a conflict of interest.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5352-S.SL.pdf?cite=2013%20c%2058%20§%207[2013 c 58 § 7]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1955-S.SL.pdf?cite=1997%20c%20217%20§%204[1997 c 217 § 4]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1659.SL.pdf?cite=1996%20c%20179%20§%206[1996 c 179 § 6]; ]
+
+== 18.86.070 - Duration of agency relationship.
+. The agency relationships set forth in this chapter commence at the time that the broker undertakes to provide real estate brokerage services to a principal and continue until the earliest of the following:
+
+.. Completion of performance by the broker;
+
+.. Expiration of the term agreed upon by the parties;
+
+.. Termination of the relationship by mutual agreement of the parties; or
+
+.. Termination of the relationship by notice from either party to the other. However, such a termination does not affect the contractual rights of either party.
+
+. Except as otherwise agreed to in writing, a broker owes no further duty after termination of the agency relationship, other than the duties of:
+
+.. Accounting for all moneys and property received during the relationship; and
+
+.. Not disclosing confidential information.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5352-S.SL.pdf?cite=2013%20c%2058%20§%208[2013 c 58 § 8]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1955-S.SL.pdf?cite=1997%20c%20217%20§%205[1997 c 217 § 5]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1659.SL.pdf?cite=1996%20c%20179%20§%207[1996 c 179 § 7]; ]
+
+== 18.86.080 - Compensation.
+. In any real estate transaction, a firm's compensation may be paid by the seller, the buyer, a third party, or by sharing the compensation between firms.
+
+. An agreement to pay or payment of compensation does not establish an agency relationship between the party who paid the compensation and the broker.
+
+. A seller may agree that a seller's agent's firm may share with another firm the compensation paid by the seller.
+
+. A buyer may agree that a buyer's agent's firm may share with another firm the compensation paid by the buyer.
+
+. A firm may be compensated by more than one party for real estate brokerage services in a real estate transaction, if those parties consent in writing at or before the time of signing an offer in the transaction.
+
+. A firm may receive compensation based on the purchase price without breaching any duty to the buyer or seller.
+
+. Nothing contained in this chapter negates the requirement that an agreement authorizing or employing a broker to sell or purchase real estate for compensation or a commission be in writing and signed by the seller or buyer.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5352-S.SL.pdf?cite=2013%20c%2058%20§%209[2013 c 58 § 9]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1955-S.SL.pdf?cite=1997%20c%20217%20§%206[1997 c 217 § 6]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1659.SL.pdf?cite=1996%20c%20179%20§%208[1996 c 179 § 8]; ]
+
+== 18.86.090 - Vicarious liability.
+. A principal is not liable for an act, error, or omission by an agent or subagent of the principal arising out of an agency relationship:
+
+.. Unless the principal participated in or authorized the act, error, or omission; or
+
+.. Except to the extent that: (i) The principal benefited from the act, error, or omission; and (ii) the court determines that it is highly probable that the claimant would be unable to enforce a judgment against the agent or subagent.
+
+. A broker is not liable for an act, error, or omission of a subagent under this chapter, unless that broker participated in or authorized the act, error or omission. This subsection does not limit the liability of a firm for an act, error, or omission by a broker licensed to the firm.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5352-S.SL.pdf?cite=2013%20c%2058%20§%2010[2013 c 58 § 10]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1659.SL.pdf?cite=1996%20c%20179%20§%209[1996 c 179 § 9]; ]
+
+== 18.86.100 - Imputed knowledge and notice.
+. Unless otherwise agreed to in writing, a principal does not have knowledge or notice of any facts known by an agent or subagent of the principal that are not actually known by the principal.
+
+. Unless otherwise agreed to in writing, a broker does not have knowledge or notice of any facts known by a subagent that are not actually known by the broker. This subsection does not limit the knowledge imputed to the designated broker or any managing broker responsible for the supervision of the broker of any facts known by the broker.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5352-S.SL.pdf?cite=2013%20c%2058%20§%2011[2013 c 58 § 11]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1659.SL.pdf?cite=1996%20c%20179%20§%2010[1996 c 179 § 10]; ]
+
+== 18.86.110 - Application.
+The duties under this chapter are statutory duties and not fiduciary duties. This chapter supersedes the fiduciary duties of an agent to a principal under the common law. The common law continues to apply to the parties in all other respects. This chapter does not affect the duties of a broker while engaging in the authorized or unauthorized practice of law as determined by the courts of this state. This chapter shall be construed broadly.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5352-S.SL.pdf?cite=2013%20c%2058%20§%2012[2013 c 58 § 12]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1659.SL.pdf?cite=1996%20c%20179%20§%2011[1996 c 179 § 11]; ]
+
+== 18.86.120 - Pamphlet on the law of real estate agency—Content—Definition.
+. The pamphlet required under RCW 18.86.030(1)(f) shall consist of the entire text of RCW 18.86.010 through 18.86.030 and 18.86.040 through 18.86.110 with a separate cover page. The pamphlet shall be 8 1/2 by 11 inches in size, the text shall be in print no smaller than 10-point type, the cover page shall be in print no smaller than 12-point type, and the title of the cover page "The Law of Real Estate Agency" shall be in print no smaller than 18-point type. The cover page shall be in the following form:
+
+The Law of Real Estate AgencyThis pamphlet describes your legal rights in dealing with a real estate firm or broker. Please read it carefully before signing any documents.
+
+The Law of Real Estate Agency
+
+This pamphlet describes your legal rights in dealing with a real estate firm or broker. Please read it carefully before signing any documents.
+
+The following is only a brief summary of the attached law:
+
+Sec. 1. Definitions. Defines the specific terms used in the law.
+
+Sec. 2. Relationships between Brokers and the Public. Prescribes that a broker who works with a buyer or tenant represents that buyer or tenant—unless the broker is the listing agent, a seller's subagent, a dual agent, the seller personally or the parties agree otherwise. Also prescribes that in a transaction involving two different brokers licensed to the same real estate firm, the firm's designated broker and any managing broker responsible for the supervision of both brokers, are dual agents and each broker solely represents his or her client—unless the parties agree in writing that both brokers are dual agents.
+
+Sec. 3. Duties of a Broker Generally. Prescribes the duties that are owed by all brokers, regardless of who the broker represents. Requires disclosure of the broker's agency relationship in a specific transaction.
+
+Sec. 4. Duties of a Seller's Agent. Prescribes the additional duties of a broker representing the seller or landlord only.
+
+Sec. 5. Duties of a Buyer's Agent. Prescribes the additional duties of a broker representing the buyer or tenant only.
+
+Sec. 6. Duties of a Dual Agent. Prescribes the additional duties of a broker representing both parties in the same transaction, and requires the written consent of both parties to the broker acting as a dual agent.
+
+Sec. 7. Duration of Agency Relationship. Describes when an agency relationship begins and ends. Provides that the duties of accounting and confidentiality continue after the termination of an agency relationship.
+
+Sec. 8. Compensation. Allows real estate firms to share compensation with cooperating real estate firms. States that payment of compensation does not necessarily establish an agency relationship. Allows brokers to receive compensation from more than one party in a transaction with the parties' consent.
+
+Sec. 9. Vicarious Liability. Eliminates the liability of a party for the conduct of the party's agent or subagent, unless the principal participated in or benefited from the conduct or the agent or subagent is insolvent. Also limits the liability of a broker for the conduct of a subagent.
+
+Sec. 10. Imputed Knowledge and Notice. Eliminates the common law rule that notice to or knowledge of an agent constitutes notice to or knowledge of the principal.
+
+Sec. 11. Interpretation. This law establishes statutory duties which replace common law fiduciary duties owed by an agent to a principal.
+
+Sec. 12. Short Sale. Prescribes an additional duty of a firm representing the seller of owner-occupied real property in a short sale.
+
+. [Empty]
+.. The pamphlet required under RCW 18.86.030(1)(f) must also include the following disclosure: When the seller of owner-occupied residential real property enters into a listing agreement with a real estate firm where the proceeds from the sale may be insufficient to cover the costs at closing, it is the responsibility of the real estate firm to disclose to the seller in writing that the decision by any beneficiary or mortgagee, or its assignees, to release its interest in the real property, for less than the amount the borrower owes, does not automatically relieve the seller of the obligation to pay any debt or costs remaining at closing, including fees such as the real estate firm's commission.
+
+.. For the purposes of this subsection, "owner-occupied real property" means real property consisting solely of a single-family residence, a residential condominium unit, or a residential cooperative unit that is the principal residence of the borrower.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5352-S.SL.pdf?cite=2013%20c%2058%20§%2013[2013 c 58 § 13]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2614-S.SL.pdf?cite=2012%20c%20185%20§%202[2012 c 185 § 2]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1955-S.SL.pdf?cite=1997%20c%20217%20§%207[1997 c 217 § 7]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1659.SL.pdf?cite=1996%20c%20179%20§%2013[1996 c 179 § 13]; ]
+
+== 18.86.900 - Effective date—1996 c 179.
+This chapter shall take effect on January 1, 1997. This chapter does not apply to an agency relationship entered into before January 1, 1997, unless the principal and agent agree in writing that this chapter will, as of January 1, 1997, apply to such agency relationship.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1659.SL.pdf?cite=1996%20c%20179%20§%2012[1996 c 179 § 12]; ]
+
+== 18.86.902 - Effective date—1996 c 179.
+This act shall take effect January 1, 1997.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1659.SL.pdf?cite=1996%20c%20179%20§%2019[1996 c 179 § 19]; ]
+

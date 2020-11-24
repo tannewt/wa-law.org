@@ -1,0 +1,24 @@
+= 15.48 - Seed bailment contracts.
+:toc:
+
+== 15.48.270 - Definitions.
+As used in this chapter:
+
+. "Seed bailment contract" means any bailment contract for the increase of agricultural seeds where the bailor retains title to seed, seed stock, plant life and the seed crop resulting therefrom.
+
+. "Bailee" is any tenant farmer or landowner or both, who, for an agreed compensation agrees to plant agricultural seeds furnished by the bailor and to care for, cultivate, harvest and deliver to the bailor the seed resulting therefrom.
+
+. "Bailor" is any seed contractor who delivers agricultural seed to a bailee under the terms of a seed bailment contract which requires the bailee to plant, care for, cultivate, harvest and deliver the resultant seed crop to the bailor and requires the bailor to pay the bailee the amount of compensation agreed upon in the contract for the bailees' services in producing the seed.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c114.pdf?cite=1967%20c%20114%20§%2014[1967 c 114 § 14]; ]
+
+== 15.48.280 - Security interest not created by contract—Filing, recording or notice of contract not required to establish validity of contract or title in bailor.
+Seed bailment contracts for the increase of agricultural seeds shall not create a security interest under the terms of the Uniform Commercial Code, chapter 62A.9A RCW. No filing, recording, or notice of a seed bailment contract shall be required under any of the laws of the state to establish, during the term of a seed bailment contract the validity of any such contracts, nor to establish and confirm in the bailor the title to all seed, seed stock, plant life and the resulting seed crop thereof grown or produced by the bailee under the terms of a bailment contract.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5374-S.SL.pdf?cite=2011%20c%20103%20§%204[2011 c 103 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c114.pdf?cite=1967%20c%20114%20§%2015[1967 c 114 § 15]; ]
+
+== 15.48.290 - Payments required to be made by bailor to bailee subject to security interests and agricultural liens.
+All payments of money required by the terms of a seed bailment contract to be made by a bailor to a bailee shall be subject to security interests perfected as required by *chapter 62A.9 RCW, as amended, and all agricultural liens provided for and perfected in accordance with Title 60 RCW.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c114.pdf?cite=1967%20c%20114%20§%2016[1967 c 114 § 16]; ]
+

@@ -1,0 +1,25 @@
+= 70.86 - Earthquake standards for construction.
+:toc:
+
+== 70.86.010 - Definitions.
+The word "person" includes any individual, corporation, or group of two or more individuals acting together for a common purpose, whether acting in an individual, representative, or official capacity.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c278.pdf?cite=1955%20c%20278%20§%201[1955 c 278 § 1]; ]
+
+== 70.86.020 - Buildings to resist earthquake intensities.
+Hospitals, schools, except one story, portable, frame school buildings, buildings designed or constructed as places of assembly accommodating more than three hundred persons; and all structures owned by the state, county, special districts, or any municipal corporation within the state of Washington shall hereafter be designed and constructed to resist probable earthquake intensities at the location thereof in accordance with RCW 70.86.030, unless other standards of design and construction for earthquake resistance are prescribed by enactments of the legislative authority of counties, special districts, and/or municipal corporations in which the structure is constructed.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c278.pdf?cite=1955%20c%20278%20§%202[1955 c 278 § 2]; ]
+
+== 70.86.030 - Standards for design and construction.
+Structural frames, exterior walls, and all appendages of the buildings described in RCW 70.86.020, whose collapse will endanger life and property shall be designed and constructed to withstand horizontal forces from any direction of not less than the following fractions of the weight of the structure and its parts acting at the centers of gravity:
+
+Western Washington 0.05.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c278.pdf?cite=1955%20c%20278%20§%203[1955 c 278 § 3]; ]
+
+== 70.86.040 - Penalty.
+Any person violating any provision of this chapter shall be guilty of a misdemeanor: PROVIDED, That any person causing such a building to be built shall be entitled to rely on the certificate of a licensed professional engineer and/or registered architect that the standards of design set forth above have been met.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c278.pdf?cite=1955%20c%20278%20§%204[1955 c 278 § 4]; ]
+

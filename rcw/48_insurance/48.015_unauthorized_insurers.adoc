@@ -1,0 +1,444 @@
+= 48.15 - Unauthorized insurers.
+:toc:
+
+== 48.15.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Affiliate" means, with respect to an insured, any entity that controls, is controlled by, or is under common control with the insured.
+
+. "Affiliated group" means any group of entities that are all affiliated.
+
+. With respect to an insured, an entity has "control" over another entity when:
+
+.. The entity directly or indirectly or acting through one or more other persons owns, controls, or has the power to vote twenty-five percent or more of any class of voting securities of the other entity; or
+
+.. The entity controls in any manner the election of a majority of the directors or trustees of the other entity.
+
+. [Empty]
+.. "Exempt commercial purchaser" means any person purchasing commercial insurance that, at the time of placement, meets the following requirements:
+
+... The person employs or retains a qualified risk manager to negotiate insurance coverage;
+
+... The person has paid aggregate nationwide commercial property and casualty insurance premiums in excess of one hundred thousand dollars in the immediately preceding twelve months; and
+
+... The person meets at least one of the following criteria:
+
+(A) The person possesses a net worth in excess of twenty million dollars, as the amount is adjusted under (b) of this subsection;
+
+(B) The person generates annual revenues in excess of fifty million dollars, as the amount is adjusted under (b) of this subsection;
+
+(C) The person employs more than five hundred full-time or full-time equivalent employees per insured or is a member of an affiliated group employing more than one thousand employees in the aggregate;
+
+(D) The person is a not-for-profit organization or public entity generating annual budgeted expenditures of at least thirty million dollars, as the amount is adjusted under (b) of this subsection; or
+
+(E) The person is a municipality with a population in excess of fifty thousand persons.
+
+.. The amounts in (a)(iii)(A), (B), and (D) of this subsection must be adjusted to reflect the percentage change for the five-year period in the consumer price index for all urban consumers published by the bureau of labor statistics of the United States department of labor.
+
+.. For the purpose of this subsection, "commercial insurance" means property and casualty insurance pertaining to a business, profession, occupation, nonprofit organization, or public entity.
+
+. [Empty]
+.. Except as provided in (b) of this subsection, "insured's home state" means, with respect to an insured:
+
+... The state in which an insured maintains its principal place of business or, in the case of an individual, the individual's principal residence; or
+
+... If one hundred percent of the insured risk is located out of the state referred to in this subsection, the state to which the greatest percentage of the insured's taxable premium for that insurance contract is allocated.
+
+.. If more than one insured from an affiliated group are named insureds on a single insurance contract issued by an unauthorized insurer, the term "insured's home state" means the insured's home state, as determined pursuant to (a) of this subsection, of the member of the affiliated group that has the largest percentage of premium attributed to it under the insurance contract.
+
+.. To determine the home state of the insured, the principal place of business is the state where the insured maintains its headquarters and where the insured's high-level officers direct, control, and coordinate the business activities of the insured.
+
+. "Qualified risk manager" means, with respect to a policyholder of commercial insurance, a person who meets all of the following requirements:
+
+.. The person is an employee of, or third-party consultant retained by, the commercial policyholder;
+
+.. The person provides skilled services in loss prevention, loss reduction, or risk and insurance coverage analysis, and purchase of insurance; and
+
+.. The person:
+
+...(A) Has a bachelor's degree or higher from an accredited college or university in risk management, business administration, finance, economics, or any other field determined by the commissioner to demonstrate minimum competence in risk management; and
+
+(B)(I) Has three years of experience in risk financing, claims administration, loss prevention, risk and insurance analysis, or purchasing commercial lines of insurance; or
+
+(II) Has one of the following designations:
+
+(AA) A designation as a chartered property and casualty underwriter (CPCU) issued by the American institute for CPCU/insurance institute of America;
+
+(BB) A designation as an associate in risk management issued by the American institute for CPCU/insurance institute of America;
+
+(CC) A designation as [a] certified risk manager issued by the national alliance for insurance education and research;
+
+(DD) A designation as a RIMS fellow issued by the global risk management institute; or
+
+(EE) Any other designation, certification, or license determined by the commissioner to demonstrate minimum competency in risk management;
+
+...(A) Has at least seven years of experience in risk financing, claims administration, loss prevention, risk and insurance coverage analysis, or purchasing commercial lines of insurance; and
+
+(B) Has any one of the designations specified in (c)(i)(B)(II)(AA) through (EE) of this subsection;
+
+... Has at least ten years of experience in risk financing, claims administration, loss prevention, risk and insurance coverage analysis, or purchasing commercial lines of insurance; or
+
+... Has a graduate degree from an accredited college or university in risk management, business administration, finance, economics, or any other field determined by the commissioner to demonstrate minimum competence in risk management.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1694.SL.pdf?cite=2011%20c%2031%20§%201[2011 c 31 § 1]; ]
+
+== 48.15.015 - Rules.
+The commissioner may adopt rules to implement and administer this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1568.SL.pdf?cite=2009%20c%20162%20§%2012[2009 c 162 § 12]; ]
+
+== 48.15.020 - Solicitation by unauthorized insurer prohibited—Personal liability.
+. An insurer that is not authorized by the commissioner may not solicit insurance business in this state or transact insurance business in this state, except as provided in this chapter.
+
+. [Empty]
+.. A person may not, in this state, represent an unauthorized insurer except as provided in this chapter. This subsection does not apply to any adjuster or attorney-at-law representing an unauthorized insurer from time to time in this state in his or her professional capacity.
+
+.. A person, other than a duly licensed surplus line broker acting in good faith under his or her license, who makes a contract of insurance in this state, directly or indirectly, on behalf of an unauthorized insurer, without complying with the provisions of this chapter, is personally liable for the performance of such contract.
+
+. Each violation of subsection (2) of this section constitutes a separate offense punishable by a fine of not more than twenty-five thousand dollars, and the commissioner, at the commissioner's discretion, may order replacement of policies improperly placed with an unauthorized insurer with policies issued by an authorized insurer. Violations may result in suspension or revocation of a license.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5641-S.SL.pdf?cite=2003%20c%20250%20§%202[2003 c 250 § 2]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6396.SL.pdf?cite=1992%20c%20149%20§%201[1992 c 149 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c32.pdf?cite=1983%201st%20ex.s.%20c%2032%20§%203[1983 1st ex.s. c 32 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c102.pdf?cite=1980%20c%20102%20§%202[1980 c 102 § 2]; 1947 c 79 § .15.02; Rem. Supp. 1947 § 45.15.02; ]
+
+== 48.15.023 - Unauthorized activities—Acts committed in this state—Sanctions.
+. As used in this section, "person" has the same meaning as in RCW 48.01.070.
+
+. For the purpose of this section, an act is committed in this state if it is committed, in whole or in part, in the state of Washington, or affects persons or property within the state and relates to or involves an insurance contract.
+
+. Any person who knowingly violates RCW 48.15.020(1) is guilty of a class B felony punishable under chapter 9A.20 RCW.
+
+. Any criminal penalty imposed under this section is in addition to, and not in lieu of, any other civil or administrative penalty or sanction otherwise authorized under state law.
+
+. [Empty]
+.. If the commissioner has cause to believe that any person has violated the provisions of RCW 48.15.020(1), the commissioner may:
+
+... Issue and enforce a cease and desist order in accordance with the provisions of RCW 48.02.080; and/or
+
+... Assess a civil penalty of not more than twenty-five thousand dollars for each violation, after providing notice and an opportunity for a hearing in accordance with chapters 34.05 and 48.04 RCW.
+
+.. Upon failure to pay a civil penalty when due, the attorney general may bring a civil action on behalf of the commissioner to recover the unpaid penalty. Any amounts collected by the commissioner must be paid to the state treasurer for the account of the general fund.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5641-S.SL.pdf?cite=2003%20c%20250%20§%203[2003 c 250 § 3]; ]
+
+== 48.15.025 - Application of other chapters to surplus line brokers.
+. A surplus line broker shall not engage in any act prohibited by RCW 48.05.465(2), 48.43.335(2), and chapter 48.30 RCW.
+
+. A surplus line broker is entitled to the immunities granted under RCW 48.43.105 and 48.50.070.
+
+. The rights and prohibitions applicable to insurance producers contained in RCW 48.30.260, 48.30.270, and 48.62.121 also apply to surplus line brokers.
+
+. The exemption for taxes and fees in RCW 48.62.151 does not apply to surplus line brokers.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1568.SL.pdf?cite=2009%20c%20162%20§%208[2009 c 162 § 8]; ]
+
+== 48.15.030 - Validity of contracts illegally effectuated.
+A contract of insurance effectuated by an unauthorized insurer in violation of the provisions of this code shall be voidable except at the instance of the insurer.
+
+[ 1947 c 79 § .15.03; Rem. Supp. 1947 § 45.15.03; ]
+
+== 48.15.039 - National database—Surplus line brokers.
+When a national insurance producer database of the national association of insurance commissioners, or other equivalent uniform national database, for the licensure of surplus line brokers is created, the commissioner may participate in the database.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1694.SL.pdf?cite=2011%20c%2031%20§%204[2011 c 31 § 4]; ]
+
+== 48.15.040 - "Surplus line" coverage.
+If certain insurance coverages cannot be procured from authorized insurers, such coverages, hereinafter designated as "surplus lines," may be procured from unauthorized insurers subject to the following conditions:
+
+. The insurance must be procured through a licensed surplus line broker under this chapter. If the insurance is property and casualty insurance, except industrial insurance under Title 51 RCW, then the insurance must be procured under the laws and rules of the insured's home state.
+
+. The insurance must not be procurable, after diligent effort has been made to do so from among a majority of the insurers authorized to transact that kind of insurance in this state.
+
+. Coverage shall not be procured from an unauthorized insurer for the purpose of securing a lower premium rate than would be accepted by any authorized insurer nor to secure any other competitive advantage.
+
+. The commissioner may by regulation establish the degree of effort required to comply with subsections (2) and (3) of this section.
+
+. At the time of procuring the insurance the surplus line broker must certify to the accuracy of the facts supporting the surplus line broker's diligent effort required in subsections (2) and (3) of this section.
+
+.. The certification must set forth the facts supporting the surplus line broker's diligent effort.
+
+.. The certification must state that under the penalty of suspension or revocation of the surplus line broker's license the facts contained in the certification are true and correct.
+
+.. The certification may be in electronic, digital, or another format as designated by the commissioner.
+
+.. The certification must be filed with the commissioner within sixty days after the insurance is procured.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1694.SL.pdf?cite=2011%20c%2031%20§%203[2011 c 31 § 3]; 2011 c 31 § 2; 2010 c 230 § 17; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c32.pdf?cite=1983%201st%20ex.s.%20c%2032%20§%204[1983 1st ex.s. c 32 § 4]; 1947 c 79 § .15.04; Rem. Supp. 1947 § 45.15.04; ]
+
+== 48.15.043 - Diligent effort requirement—Exempt commercial purchaser.
+A surplus line broker seeking to procure from or place insurance with an unauthorized insurer for an exempt commercial purchaser is not required to satisfy the diligent effort requirement set forth in RCW 48.15.040 when:
+
+. The surplus line broker or referring insurance producer procuring or placing the surplus line insurance has disclosed to the exempt commercial purchaser that such insurance may or may not be available from the admitted market that may provide greater protection with more regulatory oversight; and
+
+. The exempt commercial purchaser has subsequently requested in writing the surplus line broker or referring insurance producer to procure or place such insurance from an unauthorized insurer.
+
+. Records of the surplus line broker's satisfaction of the requirements of this section must be maintained in compliance with RCW 48.15.100.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1694.SL.pdf?cite=2011%20c%2031%20§%205[2011 c 31 § 5]; ]
+
+== 48.15.050 - Endorsement of contract.
+Every insurance contract procured and delivered as a surplus line coverage pursuant to this chapter must have stamped upon it and be initialed by or bear the name of the surplus line broker who procured it, the following:
+
+"This contract is registered and delivered as a surplus line coverage under the insurance code of the state of Washington, Title 48 RCW."
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1308.SL.pdf?cite=2015%20c%20132%20§%201[2015 c 132 § 1]; 1947 c 79 § .15.05; Rem. Supp. 1947 § 45.15.05; ]
+
+== 48.15.060 - Validity of contracts.
+Insurance contracts procured as surplus line coverage from unauthorized insurers in accordance with this chapter shall be fully valid and enforceable as to all parties, and shall be given recognition in all matters and respects to the same effect as like contracts issued by authorized insurers.
+
+[ 1947 c 79 § .15.06; Rem. Supp. 1947 § 45.15.06; ]
+
+== 48.15.070 - Surplus line brokers—Licensing—Bond—Renewal.
+Any individual while a resident of this state, or any firm, corporation, or other business entity that has in its employ a qualified individual who is a resident of this state and who is authorized to exercise the powers of the firm or corporation, deemed by the commissioner to be competent and trustworthy, and while maintaining an office at a designated location in this state, may be licensed as a surplus line broker in accordance with this section.
+
+. An applicant and a licensee for a resident surplus line broker license must have and maintain a license from the commissioner as a resident insurance producer with property and casualty lines of authority.
+
+. Each applicant for a resident surplus line broker's license must pass the required examination and pay the required fee when applying for a license.
+
+. If a nonresident that is licensed as a resident surplus line broker in another state moves to this state and wishes to become licensed as a resident surplus line broker in this state, then the examination requirement is waived if the application is received by the commissioner within ninety days of the cancellation of the surplus line broker's resident license in the other state.
+
+. Application to the commissioner for the license must be made on forms furnished by the commissioner. As part of, or in connection with, this application, the applicant must furnish information concerning his or her identity, including fingerprints for submission to the Washington state patrol, the federal bureau of investigation, and any governmental agency or entity authorized to receive this information for a state and national criminal history background check; personal history; experience; business records; purposes; and other pertinent information, as the commissioner may reasonably require. If in the process of verifying fingerprints, business records, or other information, the commissioner's office incurs fees or charges from another governmental agency or from a business firm, the amount of the fees or charges must be paid to the commissioner's office by the applicant.
+
+. Every resident surplus line broker licensed under this chapter must maintain a bond in favor of the state of Washington in the penal sum of twenty thousand dollars, with authorized corporate sureties approved by the commissioner, conditioned that the licensee will conduct business under the license in accordance with the provisions of this chapter and that the licensee will promptly remit the taxes provided by RCW 48.15.120. The licensee must maintain such bond in force for as long as the license remains in effect.
+
+. Every resident surplus line broker licensed under this chapter must maintain in force while so licensed a bond in favor of the people of the state of Washington or a named insured such that the people of the state are covered by the bond, executed by an authorized corporate surety approved by the commissioner, in the amount of two thousand five hundred dollars, or five percent of the premiums from placement of coverage with surplus line insurers in the previous calendar year, whichever is greater, but not to exceed one hundred thousand dollars total aggregate liability. The bond may be continuous in form, and total aggregate liability on the bond may be limited to the required amount of the bond. The bond must be contingent on the accounting by the resident surplus line broker to any person requesting the broker to obtain insurance, for moneys or premiums collected in connection therewith. A bond issued in accordance with RCW 48.17.250 or with this subsection will satisfy the requirements of both RCW 48.17.250 and this subsection if the limit of liability is not less than the greater of the requirement of RCW 48.17.250 or the requirement of this subsection.
+
+. Authorized surplus line brokers of a business entity may meet the requirements of subsection (6) of this section with a bond in the name of the business entity, continuous in form, and in the amount set forth in subsection (6) of this section.
+
+. Surplus line brokers may meet the requirements of this section with a bond in the name of an association. The association must have been in existence for five years, have common membership, and have been formed for a purpose other than obtaining a bond. An individual surplus line broker remains responsible for assuring that a bond is in effect and is for the correct amount.
+
+. Members of an association may meet the requirements of subsection (6) of this section with a bond in the name of the association that is continuous in form and in the amounts set forth in subsection (6) of this section for each participating member.
+
+. The surety may cancel the bond and be released from further liability thereunder upon thirty days' written notice in advance to the principal. The cancellation does not affect any liability incurred or accrued under the bond before the termination of the thirty-day period.
+
+. Failure to have and maintain the bonds required under subsections (5) and (6) of this section is grounds for revocation of a license under RCW 48.15.140.
+
+. If a party injured under the terms of the bond required under subsection (6) of this section requests the surplus line broker to provide the name of the surety and the bond number, the surplus line broker must provide the information within three working days after receiving the request.
+
+. All records relating to the bonds required by this section must be kept available and open to the inspection of the commissioner at any business time.
+
+. A surplus line broker's license expires if not timely renewed. Surplus line broker licenses are valid for the time period established by the commissioner unless suspended or revoked at an earlier date.
+
+. Subject to the right of the commissioner to suspend, revoke, or refuse to renew any surplus line broker's license as provided in this title, the license may be renewed into another like period by filing with the commissioner by any means acceptable to the commissioner on or before the expiration date a request, by or on behalf of the licensee, for the renewal accompanied by payment of the renewal fee as specified in RCW 48.14.010.
+
+. If the request and fee for renewal of a surplus line broker's license are filed with the commissioner prior to expiration of the existing license, the licensee may continue to act under the license, unless sooner revoked or suspended, until the issuance of a renewal license, or until the expiration of fifteen days after the commissioner has refused to renew the license and has mailed notification of the refusal to the licensee. If the request and fee for the license are not received by the expiration date, the authority conferred by the license ends on the expiration date.
+
+. If the request for renewal of a surplus line broker's license and payment of the fee are not received by the commissioner prior to the expiration date, the applicant for renewal must pay to the commissioner in addition to the renewal fee, a surcharge as follows:
+
+.. For the first thirty days or part thereof of delinquency, the surcharge is fifty percent of the renewal fee; and
+
+.. For the next thirty days or part thereof of delinquency, the surcharge is one hundred percent of the renewal fee.
+
+. If the request for renewal of a surplus line broker's license and payment of the renewal fee are not received by the commissioner after sixty days but prior to twelve months after the expiration date, the application must be for reinstatement of the license and the applicant for reinstatement must pay to the commissioner the license fee and a surcharge of two hundred percent of the license fee.
+
+. Subsections (17) and (18) of this section do not exempt any person from any penalty provided by law for transacting business without a valid and subsisting license.
+
+. An individual surplus line broker who allows his or her license to lapse may, within twelve months after the expiration date, reinstate the same license without the necessity of passing a written examination.
+
+. For the purposes of this section, a "qualified individual" is a natural person who has met all the requirements that must be met by an individual surplus line broker.
+
+. The commissioner may require any documents reasonably necessary to verify the information contained in an application and may, from time to time, require any licensed surplus line broker to produce the information called for in an application for license.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1027-S.SL.pdf?cite=2017%20c%2049%20§%201[2017 c 49 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6251-S.SL.pdf?cite=2010%20c%2018%20§%201[2010 c 18 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1568.SL.pdf?cite=2009%20c%20162%20§%203[2009 c 162 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2550.SL.pdf?cite=2002%20c%20227%20§%203[2002 c 227 § 3]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2570-S.SL.pdf?cite=1994%20c%20131%20§%203[1994 c 131 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c32.pdf?cite=1983%201st%20ex.s.%20c%2032%20§%2024[1983 1st ex.s. c 32 § 24]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c181.pdf?cite=1982%20c%20181%20§%205[1982 c 181 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c199.pdf?cite=1981%20c%20199%20§%201[1981 c 199 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c102.pdf?cite=1980%20c%20102%20§%203[1980 c 102 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c130.pdf?cite=1979%20ex.s.%20c%20130%20§%203[1979 ex.s. c 130 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c182.pdf?cite=1977%20ex.s.%20c%20182%20§%202[1977 ex.s. c 182 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c225.pdf?cite=1959%20c%20225%20§%204[1959 c 225 § 4]; 1947 c 79 § .15.07; Rem. Supp. 1947 § 45.15.07; ]
+
+== 48.15.073 - Nonresident surplus line brokers—Licensing—Reciprocity—Service of process.
+. The commissioner may license a nonresident person as a surplus line broker who is not a resident of this state if the person's resident state issues nonresident surplus line broker licenses to residents of this state on the same basis.
+
+. A nonresident that holds a surplus line broker's license, or the equivalent, in the applicant's home state, and that license is in good standing is deemed qualified and meets the minimum standards of this state for licensing as a nonresident surplus line broker.
+
+. Once a person has been issued a nonresident surplus line broker's license by the commissioner, the licensee must fulfill all the same responsibilities as a resident surplus line broker, except for bonding, and is subject to the (a) commissioner's supervision as though resident in this state and (b) rules adopted under this chapter.
+
+. A nonresident surplus line broker's license expires if not timely renewed. A nonresident surplus line broker's license is valid for the time period established by the commissioner unless suspended or revoked at an earlier date. The request and fee for the renewal of the license is the same as the renewal and fee requirements for a resident surplus line broker licensed under RCW 48.15.070.
+
+. Each licensed nonresident surplus line broker, by application for and issuance of a license, is deemed to have appointed the commissioner as the surplus line broker's attorney to receive service of legal process issued against the surplus line broker in this state upon causes of action arising within this state. Service upon the commissioner as attorney constitutes effective legal service upon the surplus line broker.
+
+.. The appointment of the commissioner as attorney is irrevocable, binds any successor in interest or to the assets or liabilities of the surplus line broker, and remains in effect for as long as there could be any cause of action against the surplus line broker arising out of the surplus line broker's insurance transactions in this state.
+
+.. Service of legal process must be accomplished and processed in the manner prescribed in RCW 48.02.200.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1027-S.SL.pdf?cite=2017%20c%2049%20§%202[2017 c 49 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6251-S.SL.pdf?cite=2010%20c%2018%20§%202[2010 c 18 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1568.SL.pdf?cite=2009%20c%20162%20§%204[2009 c 162 § 4]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1729.SL.pdf?cite=2001%20c%2091%20§%201[2001 c 91 § 1]; ]
+
+== 48.15.080 - Licensed surplus line broker may accept business.
+A licensed surplus line broker may accept and place surplus line business for any insurance producer licensed in this state for the kind of insurance involved, and may compensate that insurance producer therefor.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6591.SL.pdf?cite=2008%20c%20217%20§%209[2008 c 217 § 9]; 1947 c 79 § .15.08; Rem. Supp. 1947 § 45.15.08; ]
+
+== 48.15.085 - Liability of insurer assuming direct risk.
+. If pursuant to the surplus lines provisions of this chapter an insurer has assumed direct risk under a coverage and the premium therefor has been paid to the broker who placed such insurance, the insurer shall be liable to the insured for unearned premiums payable upon cancellation of the insurance, whether or not the broker is indebted to the insurer for such premium or otherwise. This provision shall not affect rights as between the insurer and the broker.
+
+. Each such insurer shall be deemed to have subjected itself to this section by acceptance of such direct risk.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c225.pdf?cite=1959%20c%20225%20§%205[1959 c 225 § 5]; ]
+
+== 48.15.090 - Solvent insurer required—Rules.
+. A surplus line broker must not knowingly place surplus line insurance with insurers unsound financially. The surplus line broker must ascertain the financial condition of the unauthorized insurer, and maintain written evidence thereof, before placing insurance therewith. The surplus line broker may only so insure with:
+
+.. [Empty]
+... Any foreign insurer:
+
+(A) That is authorized to write the kind of insurance in its domiciliary jurisdiction; and
+
+(B) Has capital and surplus or its equivalent under the laws of its domiciliary jurisdiction which equals the greater of:
+
+(I) The minimum capital and surplus requirements under the laws of this state; or
+
+(II) Fifteen million dollars.
+
+... The requirements of (a)(i)(B) of this subsection may be satisfied by an insurer's possessing less than the minimum capital and surplus upon an affirmative finding of acceptability by the commissioner. The finding must be based upon factors such as quality of management, capital and surplus of any parent company, company underwriting profit and investment income trends, market availability, and company record and reputation within the industry. The commissioner is prohibited from making an affirmative finding of acceptability when the foreign insurer's capital and surplus is less than four million five hundred thousand dollars; or
+
+.. Any alien insurer that is listed on the quarterly listing of alien insurers maintained by the international insurers department of the national association of insurance commissioners.
+
+. The commissioner may, by rule, prescribe the terms under which the foregoing financial requirements may be waived in circumstances where insurance cannot be otherwise procured on risks located in this state.
+
+. For any violation of this section the surplus line broker may be fined not less than one hundred dollars or more than five thousand dollars, and in addition to or in lieu thereof the surplus line broker's license may be revoked, suspended, or nonrenewed.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1694.SL.pdf?cite=2011%20c%2031%20§%206[2011 c 31 § 6]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5809.SL.pdf?cite=1997%20c%2089%20§%201[1997 c 89 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2370-S.SL.pdf?cite=1994%20c%2086%20§%202[1994 c 86 § 2]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1909-S.SL.pdf?cite=1991%20sp.s.%20c%205%20§%202[1991 sp.s. c 5 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c102.pdf?cite=1980%20c%20102%20§%204[1980 c 102 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c266.pdf?cite=1975%201st%20ex.s.%20c%20266%20§%206[1975 1st ex.s. c 266 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c241.pdf?cite=1969%20ex.s.%20c%20241%20§%2010[1969 ex.s. c 241 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c303.pdf?cite=1955%20c%20303%20§%205[1955 c 303 § 5]; 1947 c 79 § .15.09; Rem. Supp. 1947 § 45.15.09; ]
+
+== 48.15.100 - Record of surplus line broker.
+. Each licensed surplus line broker shall keep a full and true record of each surplus line contract procured by him or her including a copy of the daily report, if any, showing such of the following items as may be applicable:
+
+.. Amount of the insurance;
+
+.. Gross premiums charged;
+
+.. Return premium paid, if any;
+
+.. Rate of premium charged upon the several items of property;
+
+.. Effective date of the contract, and the terms thereof;
+
+.. Name and address of the insurer;
+
+.. Name and address of the insured;
+
+.. Brief general description of property insured and where located;
+
+.. Other information as may be required by the commissioner.
+
+. All such records as to any particular transaction shall be kept available and open to the inspection of the commissioner at any business time during the five years next following the date of completion of such transaction.
+
+. For the purpose of ascertaining its condition, or compliance with this title, the commissioner may as often as he or she deems advisable, examine the accounts, records, documents, and transactions of any surplus line broker as set forth in chapter 48.03 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1568.SL.pdf?cite=2009%20c%20162%20§%205[2009 c 162 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c303.pdf?cite=1955%20c%20303%20§%206[1955 c 303 § 6]; 1947 c 79 § .15.10; Rem. Supp. 1947 § 45.15.10; ]
+
+== 48.15.103 - Use of business name—Place of business—Duties of surplus line broker.
+. A surplus line broker doing business under any name other than the surplus line broker's legal name is required to register the name in accordance with chapter 19.80 RCW and notify the commissioner before using the assumed name.
+
+. Every licensed surplus line broker shall have and maintain in this state, or, if a nonresident surplus line broker, in this state or in the state of the licensee's domicile, a place of business accessible to the public. The place of business is where the surplus line broker principally conducts transactions under that person's license. A licensee maintaining more than one place of business in this state shall obtain a duplicate license or licenses for each additional place, and shall pay the full fee therefor.
+
+. Any notice, order, or written communication from the commissioner to a person licensed under this chapter which directly affects the person's license shall be sent by mail to the person's last address of record with the commissioner.
+
+. The license or licenses of each surplus line broker shall be displayed in a conspicuous place in that part of the place of business which is customarily open to the public.
+
+. If a surplus line broker is dealing directly with the insured in any capacity, the surplus line broker must comply with the disclosure requirements contained in RCW 48.17.270.
+
+. Every surplus line broker or other person licensed under this chapter shall promptly reply in writing to an inquiry of the commissioner relative to the business of insurance. A timely response is one that is received by the commissioner within fifteen business days from receipt of the inquiry. Failure to make a timely response constitutes a violation of this section.
+
+. A surplus line broker shall report to the commissioner any administrative action taken against the surplus line broker in another jurisdiction or by another governmental agency in this state within thirty days of the final disposition of the matter. This report must include a copy of the order, consent to order, or other relevant legal documents.
+
+. Within thirty days of the initial pretrial hearing date, a surplus line broker shall report to the commissioner any criminal prosecution of the surplus line broker taken in any jurisdiction. The report must include a copy of the initial complaint filed, the order resulting from the hearing, and any other relevant legal documents.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1568.SL.pdf?cite=2009%20c%20162%20§%206[2009 c 162 § 6]; ]
+
+== 48.15.110 - Broker's annual statement.
+. Each surplus line broker must on or before the first day of March of each year file with the commissioner a verified statement of all surplus line insurance transacted by him or her during the preceding calendar year.
+
+. The statement must be in a form and format as prescribed by the commissioner and must show:
+
+.. Aggregate of net premiums; and
+
+.. Additional information as required by the commissioner.
+
+. This section does not apply to property and casualty insurance procured by the surplus line broker when the insured's home state is a state other than this state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1694.SL.pdf?cite=2011%20c%2031%20§%207[2011 c 31 § 7]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5038.SL.pdf?cite=2009%20c%20549%20§%207058[2009 c 549 § 7058]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c303.pdf?cite=1955%20c%20303%20§%207[1955 c 303 § 7]; 1947 c 79 § .15.11; Rem. Supp. 1947 § 45.15.11; ]
+
+== 48.15.120 - Premium tax—Surplus lines.
+. On or before the first day of March of each year each surplus line broker must remit to the state treasurer through the commissioner a tax on the premiums, exclusive of sums collected to cover federal and state taxes and examination fees, on surplus line insurance subject to tax transacted by him or her during the preceding calendar year as shown by his or her annual statement filed with the commissioner, and at the same rate as is applicable to the premiums of authorized foreign insurers under this code. The tax when collected must be credited to the general fund.
+
+. For property and casualty insurance other than industrial insurance under Title 51 RCW, when this state is the insured's home state:
+
+.. If the surplus line insurance covers risks or exposures located inside the United States, its territories, or both, the tax so payable must be computed upon the entire premium under subsection (1) of this section, without regard to whether the policy covers risks or exposures that are located in this state; and
+
+.. If the surplus line insurance covers risks or exposures located outside of the United States and its territories, no tax under subsection (1) of this section is due or payable for the premium properly allocable to the risks and exposures located outside the United States and its territories.
+
+. For all other lines of insurance, if a surplus line policy covers risks or exposures only partially in this state, the tax so payable must be computed upon the proportion of the premium that is properly allocable to the risks or exposures located in this state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1308.SL.pdf?cite=2015%20c%20132%20§%202[2015 c 132 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1694.SL.pdf?cite=2011%20c%2031%20§%208[2011 c 31 § 8]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5038.SL.pdf?cite=2009%20c%20549%20§%207059[2009 c 549 § 7059]; 1947 c 79 § .15.12; Rem. Supp. 1947 § 45.15.12; ]
+
+== 48.15.130 - Penalty for default.
+If any surplus line broker fails to file his or her annual statement, or fails to remit the tax provided by RCW 48.15.120, by the last day of the month in which the tax becomes due, the surplus line broker must pay the penalties provided in RCW 48.14.060(1). The tax may be collected by distraint, or the tax and fine may be recovered by an action instituted by the commissioner in any court of competent jurisdiction. Any fine collected by the commissioner must be paid to the state treasurer and credited to the general fund.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2040-S.SL.pdf?cite=2003%20c%20341%20§%202[2003 c 341 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c32.pdf?cite=1983%201st%20ex.s.%20c%2032%20§%205[1983 1st ex.s. c 32 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c102.pdf?cite=1980%20c%20102%20§%205[1980 c 102 § 5]; 1947 c 79 § .15.13; Rem. Supp. 1947 § 45.15.13; ]
+
+== 48.15.140 - Revocation, suspension, or failure to renew surplus line broker's license—Civil penalty.
+. The commissioner may place on probation, revoke, suspend, or refuse to renew any surplus line broker's license, or may levy a civil penalty in accordance with RCW 48.17.560 or any combination of actions, for any one or more of the following causes:
+
+.. If the surplus line broker fails to file the licensee's annual statement or to remit the tax as required by this chapter; or
+
+.. If the surplus line broker fails to maintain an office in this state, or to keep the records, or to allow the commissioner to examine the licensee's records as required by this chapter; or
+
+.. For any of the causes for which an insurance producer's license may be revoked under chapter 48.17 RCW.
+
+. The commissioner may suspend or revoke any such license whenever he or she deems suspension or revocation to be for the best interests of the people of this state.
+
+. The procedures provided by this code for the suspension or revocation of insurance producers' licenses shall be applicable to suspension or revocation of a surplus line broker's license.
+
+. A surplus line broker whose license has been so revoked shall not again be so licensed within one year thereafter, nor until any fines or delinquent taxes owing by the formal licensee have been paid.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1568.SL.pdf?cite=2009%20c%20162%20§%207[2009 c 162 § 7]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6591.SL.pdf?cite=2008%20c%20217%20§%2010[2008 c 217 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c102.pdf?cite=1980%20c%20102%20§%206[1980 c 102 § 6]; 1947 c 79 § .15.14; Rem. Supp. 1947 § 45.15.14; ]
+
+== 48.15.142 - Suspension for failure to comply with support order.
+The commissioner shall immediately suspend the license or certificate of a person issued under this chapter who has been certified pursuant to RCW 74.20A.320 by the department of social and health services as a person who is not in compliance with a support order. If the person has continued to meet all other requirements for reinstatement during the suspension, reissuance of the license or certificate shall be automatic upon the commissioner's receipt of a release issued by the department of social and health services stating that the licensee is in compliance with the order.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1568.SL.pdf?cite=2009%20c%20162%20§%2010[2009 c 162 § 10]; ]
+
+== 48.15.150 - Legal process against surplus line insurer.
+. For any cause of action arising in this state under any contract issued as a surplus line contract under this chapter, an unauthorized insurer must be sued in the superior court of the county in which the cause of action arose.
+
+. An unauthorized insurer issuing a policy under this chapter has authorized service of process against it in the manner prescribed under RCW 48.02.200. Any policy must contain a provision designating the commissioner as the person upon whom service of process may be made.
+
+. The insurer has forty days from the date of the service upon the commissioner within which to plead, answer, or otherwise defend the action. Upon service of process upon the commissioner in accordance with this section, the court has jurisdiction in personam of the insurer.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5213.SL.pdf?cite=2011%20c%2047%20§%209[2011 c 47 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c199.pdf?cite=1979%20ex.s.%20c%20199%20§%204[1979 ex.s. c 199 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c195.pdf?cite=1963%20c%20195%20§%2016[1963 c 195 § 16]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c303.pdf?cite=1955%20c%20303%20§%208[1955 c 303 § 8]; 1947 c 79 § .15.15; Rem. Supp. 1947 § 45.15.15; ]
+
+== 48.15.160 - Exemptions from surplus line requirements.
+. The provisions of this chapter controlling the placing of insurance with unauthorized insurers shall not apply to reinsurance or to the following insurances when so placed by licensed insurance producers of this state:
+
+.. Ocean marine and foreign trade insurances.
+
+.. Insurance on subjects located, resident, or to be performed wholly outside of this state, or on vehicles or aircraft owned and principally garaged outside this state.
+
+.. Insurance on operations of railroads engaged in transportation in interstate commerce and their property used in such operations.
+
+.. Insurance of aircraft owned or operated by manufacturers of aircraft, or of aircraft operated in schedule interstate flight, or cargo of such aircraft, or against liability, other than workers' compensation and employer's liability, arising out of the ownership, maintenance or use of such aircraft.
+
+. Insurance producers so placing any such insurance with an unauthorized insurer shall keep a full and true record of each such coverage in detail as required of surplus line insurance under this chapter and shall meet the requirements imposed upon a surplus line broker pursuant to RCW 48.15.090 and any regulations adopted thereunder. The record shall be preserved for not less than five years from the effective date of the insurance and shall be kept available in this state and open to the examination of the commissioner. The insurance producer shall furnish to the commissioner at the commissioner's request and on forms as designated and furnished by him or her a report of all such coverages so placed in a designated calendar year.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6591.SL.pdf?cite=2008%20c%20217%20§%2011[2008 c 217 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c185.pdf?cite=1987%20c%20185%20§%2023[1987 c 185 § 23]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c264.pdf?cite=1985%20c%20264%20§%205[1985 c 264 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1949c190.pdf?cite=1949%20c%20190%20§%2022[1949 c 190 § 22]; 1947 c 79 § .15.16; Rem. Supp. 1949 § 45.15.16; ]
+
+== 48.15.170 - Records of insureds—Inspection.
+Every person for whom insurance has been placed with an unauthorized insurer pursuant to or in violation of this chapter shall, upon the commissioner's order, produce for his or her examination all policies and other documents evidencing the insurance, and shall disclose to the commissioner the amount of the gross premiums paid or agreed to be paid for the insurance. For each refusal to obey such order, such person shall be liable to a fine of not more than five hundred dollars.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5038.SL.pdf?cite=2009%20c%20549%20§%207060[2009 c 549 § 7060]; 1947 c 79 § .15.17; Rem. Supp. 1947 § 45.15.17; ]
+
+== 48.15.180 - Surplus line broker's fiduciary capacity—Violations.
+. A surplus line broker, its representative, or any person licensed under this chapter involved in the procuring or issuance of an insurance contract and who receives any funds representing premiums or return premiums which belong to or should be paid to another person as a result of or in connection with an insurance transaction is deemed to have been received in the surplus line broker's fiduciary capacity and shall:
+
+.. Report to the insurer the exact amount of consideration charged as premium for the contract, and the amount shall likewise be shown in the contract and in the records of the surplus line broker;
+
+.. Be promptly accounted for and paid to the insured, insurer, or person entitled to the funds;
+
+.. Be accounted for and maintained in a separate account from all other business and personal funds and not commingle or otherwise combine premiums with any other moneys, except a surplus line broker may commingle with premium funds any additional funds as the surplus line broker may deem prudent for the purpose of advancing premiums, establishing reserves for the paying of return premiums, or for any contingencies as may arise in the surplus line broker's business of receiving and transmitting premium or return premium funds.
+
+. Each willful violation of this section constitutes a misdemeanor.
+
+. Any surplus line broker or other person licensed under this chapter who, not being lawfully entitled thereto, diverts or appropriates funds received in a fiduciary capacity or any portion thereof to his or her own use, is guilty of theft under chapter 9A.56 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1568.SL.pdf?cite=2009%20c%20162%20§%209[2009 c 162 § 9]; ]
+
+== 48.15.185 - Determination of qualifications and competence by state—Unlawful use of questions.
+It is unlawful for any unauthorized person to remove, reproduce, duplicate, or distribute in any form, any question used by the state of Washington to determine the qualifications and competence of surplus line brokers required by this title to be licensed. This section does not prohibit an insurance education provider from creating and using sample test questions in courses approved by the commissioner.
+
+Any person violating this section is subject to penalties as provided by RCW 48.01.080 and 48.15.140.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1568.SL.pdf?cite=2009%20c%20162%20§%2011[2009 c 162 § 11]; ]
+

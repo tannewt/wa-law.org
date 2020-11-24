@@ -1,0 +1,96 @@
+= 70A.315 - Incinerator ash residue.
+:toc:
+
+== 70A.315.010 - Legislative findings.
+The legislature finds:
+
+. Solid wastes generated in the state are to be managed in the following order of descending priority: (a) Waste reduction; (b) recycling; (c) treatment; (d) energy recovery or incineration; (e) solidification/stabilization; and (f) landfill.
+
+. Special incinerator ash residues from the incineration of municipal solid waste that would otherwise be regulated as hazardous wastes need a separate regulatory scheme in order to (a) ease the permitting and reporting requirements of chapter 70A.300 RCW, the state hazardous waste management act, and (b) supplement the environmental protection provisions of chapter 70A.205 RCW, the state solid waste management act.
+
+. Raw garbage poses significant environmental and public health risks. Municipal solid waste incineration constitutes a higher waste management priority than the land disposal of untreated municipal solid waste due to its reduction of waste volumes and environmental health risks.
+
+It is therefore the purpose of this chapter to establish management requirements for special incinerator ash that otherwise would be regulated as hazardous waste under chapter 70A.300 RCW, the hazardous waste management act.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201374[2020 c 20 § 1374]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c528.pdf?cite=1987%20c%20528%20§%201[1987 c 528 § 1]; ]
+
+== 70A.315.020 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Department" means the department of ecology.
+
+. "Director" means the director of the department of ecology or the director's designee.
+
+. "Dispose" or "disposal" means the treatment, utilization, processing, or final deposit of special incineration ash.
+
+. "Generate" means any act or process which produces special incinerator ash or which first causes special incinerator ash to become subject to regulation.
+
+. "Management" means the handling, storage, collection, transportation, and disposal of special incinerator ash.
+
+. "Person" means any person, firm, association, county, public or municipal or private corporation, agency, or other entity whatsoever.
+
+. "Facility" means all structures, other appurtenances, improvements, and land used for recycling, storing, treating, or disposing of special incinerator ash.
+
+. "Special incinerator ash" means ash residues resulting from the operation of incinerator or energy recovery facilities managing municipal solid waste, including solid waste from residential, commercial, and industrial establishments, if the ash residues (a) would otherwise be regulated as hazardous wastes under chapter 70A.300 RCW; and (b) are not regulated as a hazardous waste under the federal resource conservation and recovery act, 42 U.S.C. Sec. 6901 et seq.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201375[2020 c 20 § 1375]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c528.pdf?cite=1987%20c%20528%20§%202[1987 c 528 § 2]; ]
+
+== 70A.315.030 - Review and approval of management plans—Disposal permits.
+. Prior to managing special incinerator ash, persons who generate special incinerator ash shall develop plans for managing the special incinerator ash. These plans shall:
+
+.. Identify procedures for all aspects relating to the management of the special incinerator ash that are necessary to protect employees, human health, and the environment;
+
+.. Identify alternatives for managing solid waste prior to incineration for the purpose of (i) reducing the toxicity of the special incinerator ash; and (ii) reducing the quantity of the special incinerator ash;
+
+.. Establish a process for submittal of an annual report to the department disclosing the results of a testing program to identify the toxic properties of the special incinerator ash as necessary to ensure that the procedures established in the plans submitted pursuant to this chapter are adequate to protect employees, human health, and the environment; and
+
+.. Comply with the rules established by the department in accordance with this section.
+
+. Prior to managing any special incinerator ash, any person required to develop a plan pursuant to subsection (1) of this section shall submit the plan to the department for review and approval. Prior to approving a plan, the department shall find that the plan complies with the provisions of this chapter, including any rules adopted under this chapter. Approval may be conditioned upon additional requirements necessary to protect employees, human health, and the environment, including special management requirements, waste segregation, or treatment techniques such as neutralization, detoxification, and solidification/stabilization.
+
+. The department shall give notice of receipt of a proposed plan to interested persons and the public and shall accept public comment for a minimum of thirty days. The department shall approve, approve with conditions, or reject the plan submitted pursuant to this section within ninety days of submittal.
+
+. Prior to accepting any special incinerator ash for disposal, persons owning or operating facilities for the disposal of the incinerator ash shall apply to the department for a permit. The department shall issue a permit if the disposal will provide adequate protection of human health and the environment. Prior to issuance of any permit, the department shall find that the facility meets the requirements of chapter 70A.205 RCW and any rules adopted under this chapter. The department may place conditions on the permit to include additional requirements necessary to protect employees, human health, and the environment, including special management requirements, waste segregation, or treatment techniques such as neutralization, detoxification, and solidification/stabilization.
+
+. The department shall give notice of its receipt of a permit application to interested persons and the public and shall accept public comment for a minimum of thirty days. The department shall issue, issue with conditions, or deny the permit within ninety days of submittal.
+
+. The department shall adopt rules to implement the provisions of this chapter. The rules shall (a) establish minimum requirements for the management of special incinerator ash as necessary to protect employees, human health, and the environment, (b) clearly define the elements of the plans required by this chapter, and (c) require special incinerator ash to be disposed at facilities that are operating in compliance with this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201376[2020 c 20 § 1376]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c528.pdf?cite=1987%20c%20528%20§%203[1987 c 528 § 3]; ]
+
+== 70A.315.040 - Civil penalties.
+. Except as provided in RCW 43.05.060 through 43.05.080 and 43.05.150, any person who violates any provision of a department regulation or regulatory order relating to the management of special incinerator ash shall incur in addition to any other penalty provided by law, a penalty in an amount up to ten thousand dollars a day for every such violation. Each and every such violation shall be a separate and distinct offense. In case of continuing violation, every day's continuance shall be a separate and distinct violation. Every person who, through an act of commission or omission, procures, aids, or abets in the violation shall be considered to have violated the provisions of this section and shall be subject to the penalty herein provided.
+
+. The penalty provided for in this section shall be imposed by a notice in writing, either by certified mail with return receipt requested or by personal service, to the person incurring the same from the department, describing the violation with reasonable particularity. Within fifteen days after the notice is received, the person incurring the penalty may apply in writing to the department for the remission or mitigation of such penalty. Upon receipt of the application, the department may remit or mitigate the penalty upon whatever terms the department in its discretion deems proper, giving consideration to the degree of hazard associated with the violation, provided the department deems such remission or mitigation to be in the best interests of carrying out the purposes of this chapter. The department shall have authority to ascertain the facts regarding all such applications in such reasonable manner and under such rules as it may deem proper.
+
+. Any penalty imposed by this section shall become due and payable thirty days after receipt of a notice imposing the same unless application for remission or mitigation is made or petition for review by the hearings board is filed. When such an application for remission or mitigation is made, any penalty incurred pursuant to this section shall become due and payable thirty days after receipt of notice setting forth the disposition of such application.
+
+. If the amount of any penalty is not paid to the department within thirty days after it becomes due and payable, the attorney general, upon the request of the director, shall bring an action in the name of the state of Washington in the superior court of Thurston county, or any county in which such violator may do business, to recover such penalty. In all such actions, the procedure and rules of evidence shall be the same as an ordinary civil action except as otherwise provided in this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1010-S.SL.pdf?cite=1995%20c%20403%20§%20633[1995 c 403 § 633]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c528.pdf?cite=1987%20c%20528%20§%204[1987 c 528 § 4]; ]
+
+== 70A.315.050 - Violations—Orders.
+Whenever a person violates any provision of this chapter or any permit or regulation the department may issue an order appropriate under the circumstances to assure compliance with the chapter, permit, or regulation. Such an order must be served personally or by registered mail upon any person to whom it is directed.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c528.pdf?cite=1987%20c%20528%20§%205[1987 c 528 § 5]; ]
+
+== 70A.315.060 - Enforcement—Injunctive relief.
+The department, with the assistance of the attorney general, may bring any appropriate action at law or in equity, including action for injunctive relief as may be necessary to enforce the provisions of this chapter or any permit or regulation issued thereunder.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c528.pdf?cite=1987%20c%20528%20§%206[1987 c 528 § 6]; ]
+
+== 70A.315.070 - Criminal penalties.
+Any person found guilty of wilfully violating, without sufficient cause, any of the provisions of this chapter, or permit or order issued pursuant to this chapter is guilty of a gross misdemeanor and upon conviction shall be punished by a fine of up to ten thousand dollars and costs of prosecution, or by imprisonment for up to three hundred sixty-four days, or by both. Each day of violation may be deemed a separate violation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5168-S.SL.pdf?cite=2011%20c%2096%20§%2052[2011 c 96 § 52]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c528.pdf?cite=1987%20c%20528%20§%207[1987 c 528 § 7]; ]
+
+== 70A.315.900 - Application of chapter to certain incinerators.
+This chapter shall not apply to municipal solid waste incinerators that are in operation on May 19, 1987, until a special incinerator waste disposal permit is issued in the county where the municipal solid waste incinerator is located, or July 1, 1989, whichever is sooner.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c528.pdf?cite=1987%20c%20528%20§%2012[1987 c 528 § 12]; ]
+
+== 70A.315.901 - Short title.
+This chapter shall be known as the special incinerator ash disposal act.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c528.pdf?cite=1987%20c%20528%20§%2011[1987 c 528 § 11]; ]
+

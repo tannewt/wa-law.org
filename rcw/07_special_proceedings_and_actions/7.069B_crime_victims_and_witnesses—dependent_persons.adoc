@@ -1,0 +1,78 @@
+= 7.69B - Crime victims and witnesses—Dependent persons.
+:toc:
+
+== 7.69B.005 - Intent—Finding.
+The legislature recognizes that it is important that dependent persons who are witnesses and victims of crime cooperate with law enforcement and prosecutorial agencies and that their assistance contributes to state and local enforcement efforts and the general effectiveness of the criminal justice system. The legislature finds that the state has an interest in making it possible for courts to adequately and fairly conduct cases involving dependent persons who are victims of crimes. Therefore, it is the intent of the legislature, by means of this chapter, to insure that all dependent persons who are victims and witnesses of crime are treated with sensitivity, courtesy, and special care and that their rights be protected by law enforcement agencies, prosecutors, and judges in a manner no less vigorous than the protection afforded to other victims, witnesses, and criminal defendants.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2126-S.SL.pdf?cite=2005%20c%20381%20§%201[2005 c 381 § 1]; ]
+
+== 7.69B.010 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Crime" means an act punishable as a felony, gross misdemeanor, or misdemeanor under the laws of this state or equivalent federal or local law.
+
+. "Dependent person" has the same meaning as that term is defined in RCW 9A.42.010.
+
+. "Victim" means a living person against whom a crime has been committed.
+
+. "Witness" means a person who has been or is expected to be summoned to testify for the prosecution or defense in a criminal action, or who by reason of having relevant information is subject to call or likely to be called as a witness, whether or not an action or proceeding has been commenced.
+
+. "Family member" means a person who is not accused of a crime and who is an adult child, adult sibling, spouse or domestic partner, parent, or legal guardian of the dependent person.
+
+. "Advocate" means any person not accused of a crime, including a family member, approved by the witness or victim, in consultation with his or her guardian if applicable, who provides support to a dependent person during any legal proceeding.
+
+. "Court proceedings" means any court proceeding conducted during the course of the prosecution of a crime committed against a dependent person, including pretrial hearings, trial, sentencing, or appellate proceedings.
+
+. "Identifying information" means the dependent person's name, address, location, and photograph, and in cases in which the dependent person is a relative of the alleged perpetrator, identification of the relationship between the dependent person and the alleged perpetrator.
+
+. "Crime victim/witness program" means any crime victim and witness program of a county or local law enforcement agency or prosecutor's office, any rape crisis center's sexual assault victim advocacy program as provided in chapter 70.125 RCW, any domestic violence program's legal and community advocate program for domestic violence victims as provided in chapter 70.123 RCW, or any other crime victim advocacy program which provides trained advocates to assist crime victims during the investigation and prosecution of the crime.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%20405[2008 c 6 § 405]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2126-S.SL.pdf?cite=2005%20c%20381%20§%202[2005 c 381 § 2]; ]
+
+== 7.69B.020 - Rights enumerated.
+. In addition to the rights of victims and witnesses provided for in RCW 7.69.030, there shall be every reasonable effort made by law enforcement agencies, prosecutors, and judges to assure that dependent persons who are victims or witnesses are afforded the rights enumerated in this section. The enumeration of rights under this chapter shall not be construed to create substantive rights and duties, and the application of an enumerated right in an individual case is subject to the discretion of the law enforcement agency, prosecutor, or judge. Dependent persons who are victims or witnesses in the criminal justice system have the following rights, which apply to any criminal court or juvenile court proceeding:
+
+.. To have explained in language easily understood by the dependent person, all legal proceedings and police investigations in which the dependent person may be involved.
+
+.. With respect to a dependent person who is a victim of a sex or violent crime, to have a crime victim advocate from a crime victim/witness program, or any other advocate of the victim's choosing, present at any prosecutorial or defense interviews with the dependent person. This subsection applies unless it creates undue hardship and if the presence of the crime victim advocate or other advocate does not cause any unnecessary delay in the investigation or prosecution of the case. The role of the crime victim advocate or other advocate is to provide emotional support to the dependent person and to promote the dependent person's feelings of security and safety.
+
+.. To be provided, whenever possible, a secure waiting area during court proceedings and to have an advocate or support person remain with the dependent person prior to and during any court proceedings.
+
+.. To allow an advocate to make recommendations to the prosecuting attorney about the ability of the dependent person to cooperate with prosecution and the potential effect of the proceedings on the dependent person.
+
+.. To allow an advocate to provide information to the court concerning the dependent person's ability to understand the nature of the proceedings.
+
+.. To be provided information or appropriate referrals to social service agencies to assist the dependent person with the emotional impact of the crime, the subsequent investigation, and judicial proceedings in which the dependent person is involved.
+
+.. To allow an advocate to be present in court while the dependent person testifies in order to provide emotional support to the dependent person.
+
+.. To provide information to the court as to the need for the presence of other supportive persons at the court proceedings while the dependent person testifies in order to promote the dependent person's feelings of security and safety.
+
+.. To allow law enforcement agencies the opportunity to enlist the assistance of other professional personnel such as victim advocates or prosecutorial staff trained in the interviewing of the dependent person.
+
+.. With respect to a dependent person who is a victim of a violent or sex crime, to receive either directly or through the dependent person's legal guardian, if applicable, at the time of reporting the crime to law enforcement officials, a written statement of the rights of dependent persons as provided in this chapter. The statement may be paraphrased to make it more easily understood. The written statement shall include the name, address, and telephone number of a county or local crime victim/witness program, if such a crime victim/witness program exists in the county.
+
+. Any party may request a preliminary hearing for the purpose of establishing accommodations for the dependent person consistent with, but not limited to, the rights enumerated in this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2126-S.SL.pdf?cite=2005%20c%20381%20§%203[2005 c 381 § 3]; ]
+
+== 7.69B.030 - Testimony—Videotaped depositions.
+. The prosecutor or defense may file a motion with the court at any time prior to commencement of the trial for an order authorizing the taking of a videotape deposition for the purpose of preserving the direct testimony of the moving party's witness if that witness is a dependent person.
+
+. The court may grant the motion if the moving party shows that it is likely that the dependent person will be unavailable to testify at a subsequent trial. The court's finding shall be based upon, at a minimum, recommendations from the dependent person's physician or any other person having direct contact with the dependent person and whose recommendations are based on specific behavioral indicators exhibited by the dependent person.
+
+. The moving party shall provide reasonable written notice to the other party of the motion and order, if granted, pursuant to superior court criminal rules for depositions.
+
+. Both parties shall have an opportunity to be present at the deposition and the nonmoving party shall have the opportunity to cross-examine the dependent person.
+
+. Under circumstances permitted by the rules of evidence, the deposition may be introduced as evidence in a subsequent proceeding if the dependent person is unavailable at trial and both the prosecutor and the defendant had notice of and an opportunity to participate in the taking of the deposition.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2126-S.SL.pdf?cite=2005%20c%20381%20§%204[2005 c 381 § 4]; ]
+
+== 7.69B.040 - Liability for violating chapter—Actions based on other state or federal laws.
+. The failure to provide notice to a dependent person of the rights enumerated in this chapter or the failure to provide the rights enumerated shall not result in civil liability so long as the failure was in good faith.
+
+. Nothing in this chapter shall be construed to limit a party's ability to bring an action, including an action for damages, based on rights conferred by other state or federal law.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2126-S.SL.pdf?cite=2005%20c%20381%20§%205[2005 c 381 § 5]; ]
+

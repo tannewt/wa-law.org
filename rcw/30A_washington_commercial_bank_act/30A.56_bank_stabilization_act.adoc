@@ -1,0 +1,53 @@
+= 30A.56 - Bank stabilization act.
+:toc:
+
+== 30A.56.010 - "Bank" and "directors" defined.
+In this chapter the word "bank" includes savings banks, mutual savings banks, and trust companies, and "directors" shall include trustees.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c33.pdf?cite=1955%20c%2033%20§%2030.56.010[1955 c 33 § 30.56.010]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1933c49.pdf?cite=1933%20c%2049%20§%202[1933 c 49 § 2]; RRS § 3293-2; ]
+
+== 30A.56.020 - Postponement of payments on deposits—Order—Posting.
+The director is hereby empowered, upon the written application of the directors of a bank, if in his or her judgment the circumstances warrant it, to authorize a bank to postpone, for a period of ninety days and for such further period or periods as he or she may deem expedient, the payment of such proportions or amounts of the demands of its depositors from time to time as he or she may deem necessary. The period or periods of postponement and the proportions or amounts of the demands to be deferred shall be determined by him or her according to the ability of the bank to pay withdrawals. By the regulations prescribed for deferred payments, the director may classify accounts and limit payments to depositors of the several classes differently. The director's orders, regulations and directions shall be in writing and be filed in his or her office, and copies thereof shall be delivered to the bank and be forthwith posted in a conspicuous place in the banking room.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%20150[1994 c 92 § 150]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c33.pdf?cite=1955%20c%2033%20§%2030.56.020[1955 c 33 § 30.56.020]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1933c49.pdf?cite=1933%20c%2049%20§%202[1933 c 49 § 2]; RRS § 3293-2; ]
+
+== 30A.56.030 - Business during postponement.
+During postponement of payments the bank shall remain open for business and be in charge of its officers, but shall not make any loans, investments or expenditures except such as the director will approve as necessary to conserve its assets and pay the cost of operation. The bank's failure during a period of postponement to repay deposits existing at the commencement of the period, shall not authorize or require the director to take charge of or liquidate the bank, nor constitute ground for the appointment of a receiver.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%20151[1994 c 92 § 151]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c33.pdf?cite=1955%20c%2033%20§%2030.56.030[1955 c 33 § 30.56.030]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1933c49.pdf?cite=1933%20c%2049%20§%203[1933 c 49 § 3]; RRS § 3293-3; ]
+
+== 30A.56.040 - Deposits received during postponement.
+Deposits received during a period of postponement and for sixty days thereafter shall be kept separate from other assets of the bank, shall not draw interest, shall not be loaned or invested except by depositing with reserve banks or investing in liquid securities approved by the director, and shall be withdrawable upon demand. If during a postponement of payments, or at the expiration thereof, the director shall take charge of the bank for liquidation, deposits made during the period of postponement shall be deemed trust funds and be repaid to the depositors forthwith.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%20152[1994 c 92 § 152]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c33.pdf?cite=1955%20c%2033%20§%2030.56.040[1955 c 33 § 30.56.040]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1933c49.pdf?cite=1933%20c%2049%20§%204[1933 c 49 § 4]; RRS § 3293-4; ]
+
+== 30A.56.050 - Plan for reorganization—Conditions.
+At the request of the directors of a bank, the director may propose a plan for its reorganization, if in his or her judgment it would be for the best interests of the bank's creditors and of the community which the bank serves. The plan may contemplate such temporary ratable reductions of the demands of depositors and other creditors as would leave its reserve adequate and its capital and surplus unimpaired after the charging off of bad and doubtful debts; and also may contemplate a postponement of payments as in a case falling within RCW 30A.56.020. The plan shall be fully described in a writing, the original of which shall be filed in the office of the director and several copies of which shall be furnished the bank, where one or more copies shall be kept available for inspection by stockholders, depositors and other creditors.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20256[2014 c 37 § 256]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%20153[1994 c 92 § 153]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c33.pdf?cite=1955%20c%2033%20§%2030.56.050[1955 c 33 § 30.56.050]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1933c49.pdf?cite=1933%20c%2049%20§%205[1933 c 49 § 5]; RRS § 3293-5; ]
+
+== 30A.56.060 - Approval of plan—Unsecured claims.
+If, within ninety days after the filing of the plan, creditors having unsecured demands against the bank aggregating not less than three-fourths of the amount of the unsecured demands of all its creditors, approved the plan, the director shall have power to declare the plan to be in effect. Thereupon the unsecured demands of creditors shall be ratably reduced according to the plan and appropriate debits shall be made in the books. The right of a secured creditor to enforce his or her security shall not be affected by the operation of the plan, but the amount of any deficiency to which he or she may be entitled shall be reduced as unsecured demands were reduced. If the plan contemplates a temporary postponement of payments, RCW 30A.56.020, 30A.56.030, and 30A.56.040 shall be applicable, and the bank shall comply therewith and conduct its affairs accordingly.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20257[2014 c 37 § 257]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%20154[1994 c 92 § 154]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c33.pdf?cite=1955%20c%2033%20§%2030.56.060[1955 c 33 § 30.56.060]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1933c49.pdf?cite=1933%20c%2049%20§%206[1933 c 49 § 6]; RRS § 3293-6; ]
+
+== 30A.56.070 - No dividends until reductions paid.
+A bank for which such a plan has been put into effect shall not declare or pay a dividend or distribute any of its assets among stockholders until there shall have been set aside for and credited ratably to the creditors whose demands were reduced an amount equal to the aggregate of the reductions.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c33.pdf?cite=1955%20c%2033%20§%2030.56.070[1955 c 33 § 30.56.070]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1933c49.pdf?cite=1933%20c%2049%20§%207[1933 c 49 § 7]; RRS 3293-7; ]
+
+== 30A.56.080 - Failure to pay in excess of plan, effect.
+The failure of a bank operating under such a plan to pay to a creditor at any time a sum greater than the plan then requires, shall not constitute a default nor authorize or require the director to take charge of or liquidate the bank nor entitle the creditor to maintain an action against the bank.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%20155[1994 c 92 § 155]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c33.pdf?cite=1955%20c%2033%20§%2030.56.080[1955 c 33 § 30.56.080]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1933c49.pdf?cite=1933%20c%2049%20§%208[1933 c 49 § 8]; RRS 3293-8; ]
+
+== 30A.56.090 - New bank may be authorized.
+If the net assets of a bank operating under such a plan are sufficient to provide the capital and surplus of a newly organized bank in the same place, the director, under such reasonable conditions as he or she shall prescribe, may approve the incorporation of a new bank and permit it to take over the assets and business and assume the liabilities of the existing bank.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%20156[1994 c 92 § 156]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c33.pdf?cite=1955%20c%2033%20§%2030.56.090[1955 c 33 § 30.56.090]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1933c49.pdf?cite=1933%20c%2049%20§%209[1933 c 49 § 9]; RRS § 3293-9; ]
+
+== 30A.56.100 - Chapter designated "bank stabilization act."
+This chapter shall be known as the bank stabilization act.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c33.pdf?cite=1955%20c%2033%20§%2030.56.100[1955 c 33 § 30.56.100]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1933c49.pdf?cite=1933%20c%2049%20§%201[1933 c 49 § 1]; RRS § 3293-1; ]
+

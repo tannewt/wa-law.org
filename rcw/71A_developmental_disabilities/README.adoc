@@ -1,0 +1,12 @@
+= 71A DEVELOPMENTAL DISABILITIES
+
+* link:71A.10_general_provisions.adoc[71A.10 - General provisions.]
+* link:71A.12_state_services.adoc[71A.12 - State services.]
+* link:71A.14_local_services.adoc[71A.14 - Local services.]
+* link:71A.16_eligibility_for_services.adoc[71A.16 - Eligibility for services.]
+* link:71A.18_service_delivery.adoc[71A.18 - Service delivery.]
+* link:71A.20_residential_habilitation_centers.adoc[71A.20 - Residential habilitation centers.]
+* link:71A.22_training_centers_and_homes.adoc[71A.22 - Training centers and homes.]
+* link:71A.24_intensive_behavior_support_services.adoc[71A.24 - Intensive behavior support services.]
+* link:71A.26_client_rights.adoc[71A.26 - Client rights.]
+* link:71A.28_out-of-home_services.adoc[71A.28 - Out-of-home services.]

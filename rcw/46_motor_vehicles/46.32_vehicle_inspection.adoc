@@ -1,0 +1,152 @@
+= 46.32 - Vehicle inspection.
+:toc:
+
+== 46.32.005 - Definitions.
+For the purpose of this chapter "commercial motor vehicle" means a self-propelled or towed vehicle used on a highway in interstate or intrastate commerce to transport passengers or property, when the vehicle:
+
+. Has a gross vehicle weight rating or gross combination weight rating or gross weight or gross combination weight of 4,536 kilograms or more (10,001 pounds or more); or
+
+. Is designed or used to transport more than eight passengers, including the driver, for compensation; or
+
+. Is designed or used to transport more than fifteen passengers, including the driver, and is not used to transport passengers for compensation; or
+
+. Is used in transporting materials found by the secretary of transportation to be hazardous under 49 U.S.C. Sec. 5103 and transported in a quantity requiring placarding under regulations prescribed by the secretary under 49 C.F.R., subtitle B, Chapter I, subchapter C.
+
+A recreational vehicle used for noncommercial purposes is not considered a commercial motor vehicle. "Recreational vehicle" includes a vehicle towing a horse trailer for a noncommercial purpose.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6549.SL.pdf?cite=2006%20c%2050%20§%202[2006 c 50 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1129-S.SL.pdf?cite=1993%20c%20403%20§%201[1993 c 403 § 1]; ]
+
+== 46.32.010 - Types of inspection authorized—Duties of state patrol—Penalties.
+. The chief of the Washington state patrol may operate, maintain, or designate, throughout the state of Washington, stations for the inspection of commercial motor vehicles, school buses, and private carrier buses, with respect to vehicle equipment, drivers' qualifications, and hours of service and to set reasonable times when inspection of vehicles shall be performed.
+
+. The state patrol may inspect a commercial motor vehicle while the vehicle is operating on the public highways of this state with respect to vehicle equipment, hours of service, and driver qualifications.
+
+. It is unlawful for any vehicle required to be inspected to be operated over the public highways of this state unless and until it has been approved periodically as to equipment.
+
+. Inspections shall be performed by a responsible employee of the chief of the Washington state patrol, who shall be duly authorized and who shall have authority to secure and withhold, with written notice to the director of licensing, the certificate of license registration and license plates of any vehicle found to be defective in equipment so as to be unsafe or unfit to be operated upon the highways of this state, and it shall be unlawful for any person to operate a vehicle placed out of service by an officer unless and until it has been placed in a condition satisfactory to pass a subsequent equipment inspection. The officer in charge of such vehicle equipment inspection shall grant to the operator of such defective vehicle the privilege to move such vehicle to a place for repair under such restrictions as may be reasonably necessary.
+
+. In the event any insignia, sticker, or other marker is adopted to be displayed upon vehicles in connection with the inspection of vehicle equipment, it shall be displayed as required by the rules of the chief of the Washington state patrol, and it is a traffic infraction for any person to mutilate, destroy, remove, or otherwise interfere with the display thereof.
+
+. It is a traffic infraction for any person to refuse to have his or her motor vehicle examined as required by the chief of the Washington state patrol, or, after having had it examined, to refuse to place an insignia, sticker, or other marker, if issued, upon the vehicle, or fraudulently to obtain any such insignia, sticker, or other marker, or to refuse to place his or her motor vehicle in proper condition after having had it examined, or in any manner, to fail to conform to the provisions of this chapter.
+
+. It is a traffic infraction for any person to perform false or improvised repairs, or repairs in any manner not in accordance with acceptable and customary repair practices, upon a motor vehicle.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209050[2010 c 8 § 9050]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1304-S.SL.pdf?cite=2007%20c%20419%20§%207[2007 c 419 § 7]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1129-S.SL.pdf?cite=1993%20c%20403%20§%202[1993 c 403 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c123.pdf?cite=1986%20c%20123%20§%201[1986 c 123 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c136.pdf?cite=1979%20ex.s.%20c%20136%20§%2067[1979 ex.s. c 136 § 67]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c158.pdf?cite=1979%20c%20158%20§%20156[1979 c 158 § 156]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c32.pdf?cite=1967%20c%2032%20§%2048[1967 c 32 § 48]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c12.pdf?cite=1961%20c%2012%20§%2046.32.010[1961 c 12 § 46.32.010]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1947c267.pdf?cite=1947%20c%20267%20§%201[1947 c 267 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1945c44.pdf?cite=1945%20c%2044%20§%201[1945 c 44 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1937c189.pdf?cite=1937%20c%20189%20§%207[1937 c 189 § 7]; Rem. Supp. 1947 § 6360-7; ]
+
+== 46.32.020 - Rules—Supplies—Assistants—Prioritization of higher risk motor carriers.
+. [Empty]
+.. The chief of the Washington state patrol may adopt reasonable rules regarding types of vehicles to be inspected, inspection criteria, times for the inspection of vehicle equipment, drivers' qualifications, hours of service, and all other matters with respect to the conduct of vehicle equipment and driver inspections.
+
+.. The chief of the Washington state patrol shall prepare and furnish such stickers, tags, record and report forms, stationery, and other supplies as shall be deemed necessary. The chief of the Washington state patrol is empowered to appoint and employ such assistants as he or she may consider necessary and to fix hours of employment and compensation.
+
+. The chief of the Washington state patrol shall use data-driven analysis to prioritize for inspections and compliance reviews those motor carriers whose relative safety fitness identify them as higher risk motor carriers.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209051[2010 c 8 § 9051]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1304-S.SL.pdf?cite=2007%20c%20419%20§%208[2007 c 419 § 8]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1129-S.SL.pdf?cite=1993%20c%20403%20§%203[1993 c 403 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c123.pdf?cite=1986%20c%20123%20§%202[1986 c 123 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c12.pdf?cite=1961%20c%2012%20§%2046.32.020[1961 c 12 § 46.32.020]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1945c44.pdf?cite=1945%20c%2044%20§%202[1945 c 44 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1937c189.pdf?cite=1937%20c%20189%20§%208[1937 c 189 § 8]; Rem. Supp. 1945 § 6360-8; ]
+
+== 46.32.040 - Frequency of inspection—High-risk carrier compliance review fee.
+. Except as provided in subsection (2) of this section, vehicle equipment inspection shall be at such intervals as required by the chief of the Washington state patrol and shall be made without charge.
+
+. When a motor carrier is identified as a high-risk carrier through a data-driven analysis due to formerly or recently identified deficiencies or violations, the fee for each motor carrier compliance review follow-up to ensure those deficiencies or violations have been corrected is two hundred fifty dollars. The fee shall be collected by the Washington state patrol and shall be deposited into the state patrol highway account. This fee applies to motor carriers already identified as a high-risk carrier or a motor carrier that has been reclassified as a high-risk carrier due to recently identified deficiencies or violations.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1304-S.SL.pdf?cite=2007%20c%20419%20§%209[2007 c 419 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c123.pdf?cite=1986%20c%20123%20§%203[1986 c 123 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c12.pdf?cite=1961%20c%2012%20§%2046.32.040[1961 c 12 § 46.32.040]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1945c44.pdf?cite=1945%20c%2044%20§%204[1945 c 44 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1937c189.pdf?cite=1937%20c%20189%20§%2010[1937 c 189 § 10]; Rem. Supp. 1945 § 6360-10; ]
+
+== 46.32.050 - Prohibited practices—Penalty.
+It shall be unlawful for any person employed by the chief of the Washington state patrol at any vehicle equipment inspection station, to order, direct, recommend, or influence the correction of vehicle equipment defects by any person or persons whomsoever.
+
+It shall be unlawful for any person employed by the chief of the Washington state patrol while in or about any vehicle equipment inspection station, to perform any repair or adjustment upon any vehicle or any equipment or appliance of any vehicle whatsoever.
+
+It shall be unlawful for any person to solicit in any manner the repair to any vehicle or the adjustment of any equipment or appliance of any vehicle, upon the property of any vehicle equipment inspection station or upon any public highway adjacent thereto.
+
+Violation of the provisions of this section is a traffic infraction.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c123.pdf?cite=1986%20c%20123%20§%204[1986 c 123 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c136.pdf?cite=1979%20ex.s.%20c%20136%20§%2068[1979 ex.s. c 136 § 68]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c12.pdf?cite=1961%20c%2012%20§%2046.32.050[1961 c 12 § 46.32.050]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1945c44.pdf?cite=1945%20c%2044%20§%205[1945 c 44 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1937c189.pdf?cite=1937%20c%20189%20§%2011[1937 c 189 § 11]; Rem. Supp. 1945 § 6360-11; ]
+
+== 46.32.060 - Moving defective vehicle unlawful—Impounding authorized.
+It shall be unlawful for any person to operate or move, or for any owner to cause or permit to be operated or moved upon any public highway, any vehicle or combination of vehicles, which is not at all times equipped in the manner required by this title, or the equipment of which is not in a proper condition and adjustment as required by this title or rules adopted by the chief of the Washington state patrol.
+
+Any vehicle operating upon the public highways of this state and at any time found to be defective in equipment in such a manner that it may be considered unsafe shall be an unlawful vehicle and may be prevented from further operation until such equipment defect is corrected and any peace officer is empowered to impound such vehicle until the same has been placed in a condition satisfactory to vehicle inspection. The necessary cost of impounding any such unlawful vehicle and any cost for the storage and keeping thereof shall be paid by the owner thereof. The impounding of any such vehicle shall be in addition to any penalties for such unlawful operation.
+
+The provisions of this section shall not be construed to prevent the operation of any such defective vehicle to a place for correction of equipment defect in the manner directed by any peace officer or representative of the state patrol.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c330.pdf?cite=1987%20c%20330%20§%20705[1987 c 330 § 705]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c123.pdf?cite=1986%20c%20123%20§%205[1986 c 123 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c12.pdf?cite=1961%20c%2012%20§%2046.32.060[1961 c 12 § 46.32.060]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1937c189.pdf?cite=1937%20c%20189%20§%2012[1937 c 189 § 12]; RRS § 6360-12; ]
+
+== 46.32.070 - Inspection of damaged vehicle.
+If a vehicle required to be inspected becomes damaged or deteriorated in such a manner that such vehicle has become unsafe for operation upon the public highways of this state, it is unlawful for the owner or operator thereof to cause such vehicle to be operated upon a public highway upon its return to service unless such owner or operator presents such vehicle for inspection of equipment within twenty-four hours after its return to service.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c123.pdf?cite=1986%20c%20123%20§%206[1986 c 123 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c12.pdf?cite=1961%20c%2012%20§%2046.32.070[1961 c 12 § 46.32.070]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1937c189.pdf?cite=1937%20c%20189%20§%2013[1937 c 189 § 13]; RRS § 6360-13; ]
+
+== 46.32.080 - Commercial motor vehicle safety enforcement—Application for department of transportation number.
+. The Washington state patrol is responsible for enforcement of safety requirements for commercial motor vehicles including, but not limited to, safety audits and compliance reviews. Those motor carriers that have operations in this state are subject to the patrol's safety audits and compliance review programs. Compliance reviews may result in the initiation of an enforcement action, which may include monetary penalties. The utilities and transportation commission is responsible for adoption and enforcement of safety requirements for vehicles operated by entities holding authority under chapters 81.66, 81.68, 81.70, and 81.77 RCW, and by household goods carriers holding authority under chapter 81.80 RCW.
+
+. Motor vehicles owned and operated by farmers in the transportation of their own farm, orchard, or dairy products, including livestock and plant or animal wastes, from point of production to market or disposal, or supplies or commodities to be used on the farm, orchard, or dairy, must have a department of transportation number, as defined in RCW 46.16A.010, but are exempt from safety audits and compliance reviews.
+
+. All records and documents required of motor carriers with operations in this state must be available for review and inspection during normal business hours. Duly authorized agents of the state patrol conducting safety audits and compliance reviews may enter the motor carrier's place of business, or any location where records or equipment are located, at reasonable times and without advanced notice. Motor carriers who do not permit duly authorized agents to enter their place of business, or any location where records or equipment are located, for safety audits and compliance reviews are subject to enforcement action, including a monetary penalty.
+
+. [Empty]
+.. All motor carriers with a commercial motor vehicle, as defined in RCW 46.16A.010, that operate in this state must apply for a department of transportation number, as defined in RCW 46.16A.010, by January 1, 2008. All entities with authority under chapters 81.66, 81.68, 81.70, and 81.77 RCW, and all household goods carriers with authority under chapter 81.80 RCW, must apply for a department of transportation number by January 1, 2010.
+
+.. All motor carriers operating in this state who (i) have not applied under (a) of this subsection for a department of transportation number, as defined in RCW 46.16A.010, and (ii) have a commercial motor vehicle that has a gross vehicle weight rating of 7,258 kilograms (16,001 pounds) or more, must apply for a department of transportation number by January 1, 2011.
+
+.. The state patrol may deny an application if the applicant does not meet the requirements and standards under this chapter. The state patrol shall not issue a department of transportation number to an applicant who at the time of application has been placed out of service by the federal motor carrier safety administration. Commercial motor vehicles must be marked as prescribed by the state patrol. Those applicants with a current United States department of transportation number are exempt from applying for a department of transportation number.
+
+.. The state patrol may (i) place a motor carrier out of service or (ii) refuse to issue or recognize as valid a department of transportation number to an applicant who: (A) Formerly held a department of transportation number that was placed out of service for cause, and where cause has not been removed; (B) is a subterfuge for the real party in interest whose department of transportation number was placed out of service for cause, and where cause has not been removed; (C) as an individual licensee, or officer, director, owner, or managing employee of a nonindividual licensee, had a department of transportation number and was placed out of service for cause, and where cause has not been removed; or (D) has an unsatisfied debt to the state assessed under this chapter.
+
+.. Upon a finding by the chief of the state patrol or the chief's designee that a motor carrier is an imminent hazard or danger to the public health, safety, or welfare, the state patrol shall notify the department, and the department shall revoke the registrations for all commercial motor vehicles that are owned by the motor carrier subject to RCW 46.32.080. In determining whether a motor carrier is an imminent hazard or danger to the public health, safety, or welfare, the chief or the chief's designee shall consider safety factors.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5061.SL.pdf?cite=2011%20c%20171%20§%2077[2011 c 171 § 77]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1843-S.SL.pdf?cite=2009%20c%2046%20§%201[2009 c 46 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1304-S.SL.pdf?cite=2007%20c%20419%20§%2010[2007 c 419 § 10]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1209-S.SL.pdf?cite=1995%20c%20272%20§%201[1995 c 272 § 1]; ]
+
+== 46.32.085 - Rules to regulate commercial motor vehicle safety requirements.
+. The Washington state patrol, in consultation with the department of licensing, shall adopt rules consistent with this chapter to regulate vehicle safety requirements for motor carriers who own, control, manage, or operate a commercial motor vehicle within this state. Except as otherwise provided in this chapter, the rules adopted by the state patrol under this section must be as rigorous as federal regulations governing certain interstate motor carriers at 49 C.F.R. Parts 40 and 380 through 397, which cover the areas of commercial motor carrier driver training, controlled substance and alcohol use and testing, compliance with the federal driver's license requirements and penalties, vehicle equipment and safety standards, hazardous material practices, financial responsibility, driver qualifications, hours of service, vehicle inspection and corrective actions, and assessed penalties for noncompliance. The state patrol shall amend these rules periodically to maintain, to the extent permissible under this chapter, standards as rigorous as the federal regulations governing certain interstate motor carriers. The state patrol shall submit a report to the legislature by December 31st of each year that outlines new rules or rule changes and explains how the state rules compare to the federal regulations.
+
+. Motor vehicles operated by entities with authority under chapters 81.66, 81.68, 81.70, and 81.77 RCW, and by household goods carriers operating under chapter 81.80 RCW, must comply with rules regulating vehicle safety adopted by the utilities and transportation commission.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1843-S.SL.pdf?cite=2009%20c%2046%20§%202[2009 c 46 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1304-S.SL.pdf?cite=2007%20c%20419%20§%2014[2007 c 419 § 14]; ]
+
+== 46.32.100 - Violations—Penalties—Out-of-service orders.
+. [Empty]
+.. In addition to all other penalties provided by law, and except as provided otherwise in (a)(i), (ii), or (iii) of this subsection, a commercial motor vehicle that is subject to compliance reviews under this chapter and an officer, agent, or employee of a company operating a commercial motor vehicle who violates or who procures, aids, or abets in the violation of this title or any order or rule of the state patrol is liable for a penalty of one hundred dollars for each violation.
+
+... It is a violation of this chapter for a person operating a commercial motor vehicle to fail to comply with the requirements of 49 C.F.R. Pt. 382, controlled substances and alcohol use and testing, 49 C.F.R. Sec. 391.15, disqualification of drivers, and 49 C.F.R. Sec. 396.9(c)(2), moving a vehicle placed out of service before the out of service defects have been satisfactorily repaired. For each violation the person is liable for a penalty of five hundred dollars.
+
+... The driver of a commercial motor vehicle who is convicted of violating an out-of-service order is liable for a penalty of at least two thousand five hundred dollars for a first violation, and not less than five thousand dollars for a second or subsequent violation.
+
+... An employer who allows the operation of a commercial motor vehicle when there is an out-of-service order is liable for a penalty of at least two thousand seven hundred fifty dollars but not more than twenty-five thousand dollars for each violation.
+
+... Each violation under this subsection (1)(a) is a separate and distinct offense, and in case of a continuing violation every day's continuance is a separate and distinct violation.
+
+.. In addition to all other penalties provided by law, any motor carrier, company, or any officer or agent of a motor carrier or company operating a commercial motor vehicle subject to compliance reviews under this chapter who refuses entry or to make the required records, documents, and vehicles available to a duly authorized agent of the state patrol is liable for a penalty of at least five thousand dollars as well as an out-of-service order being placed on the department of transportation number, as defined in RCW 46.16A.010, and vehicle registration to operate. Each violation is a separate and distinct offense, and in case of a continuing violation every day's continuance is a separate and distinct violation.
+
+.. A motor carrier operating a commercial motor vehicle after receiving a final unsatisfactory rating or being placed out of service is liable for a penalty of not more than eleven thousand dollars for each violation. Each violation is a separate and distinct offense, and in case of a continuing violation every day's continuance is a separate and distinct violation.
+
+.. A high-risk carrier is liable for double the amount of the penalty of a prior violation if the high-risk carrier repeats the same violation during a follow-up compliance review. Each repeat violation is a separate and distinct offense, and in case of a repeat continuing violation every day's continuance is a separate and distinct violation.
+
+. The Washington state patrol may place an out-of-service order on a department of transportation number, as defined in RCW 46.16A.010, for violations of this chapter or for nonpayment of any monetary penalties assessed by the state patrol or the utilities and transportation commission, as a result of compliance reviews, or for violations of cease and desist orders issued by the utilities and transportation commission. The state patrol shall notify the department of licensing when an out-of-service order has been placed on a motor carrier's department of transportation number. The state patrol shall notify the motor carrier when there has been an out-of-service order placed on the motor carrier's department of transportation number and the vehicle registrations have been revoked by sending a notice by first-class mail using the last known address for the registered or legal owner or owners, and recording the transmittal on an affidavit of first-class mail. Notices under this section fulfill the requirements of RCW 46.12.550. Motor carriers may not be eligible for a new department of transportation number, vehicle registration, or temporary permits to operate unless the violations that resulted in the out-of-service order have been corrected. The Washington state patrol or other law enforcement agency must confiscate and may recycle or destroy the license plates from a motor carrier who operates a commercial motor vehicle while the vehicle registration is revoked, suspended, or canceled. The confiscation of license plates under this subsection only applies to trucks, truck tractors, and tractors.
+
+. Any penalty provided in this section is due and payable when the person incurring it receives a notice in writing from the state patrol describing the violation and advising the person that the penalty is due.
+
+.. [Empty]
+... Any motor carrier who incurs a penalty as provided in this section, except for a high-risk carrier that incurs a penalty for a repeat violation during a follow-up compliance review, may, upon written application, request that the state patrol mitigate the penalty. An application for mitigation must be received by the state patrol within twenty days of the receipt of notice.
+
+... The state patrol may decline to consider any application for mitigation.
+
+.. Any motor carrier who incurs a penalty as provided in this section has a right to an administrative hearing under chapter 34.05 RCW to contest the violation or the penalty imposed, or both. In all such hearings, the procedure and rules of evidence are as specified in chapter 34.05 RCW except as otherwise provided in this chapter. Any request for an administrative hearing must be made in writing and must be received by the state patrol within twenty days after the later of (i) receipt of the notice imposing the penalty, or (ii) disposition of a request for mitigation, or the right to a hearing is waived.
+
+.. All penalties recovered under this section shall be paid into the state treasury and credited to the state patrol highway account of the motor vehicle fund.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2459.SL.pdf?cite=2012%20c%2070%20§%201[2012 c 70 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1229.SL.pdf?cite=2011%20c%20227%20§%205[2011 c 227 § 5]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6379.SL.pdf?cite=2010%20c%20161%20§%201116[2010 c 161 § 1116]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1843-S.SL.pdf?cite=2009%20c%2046%20§%204[2009 c 46 § 4]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1304-S.SL.pdf?cite=2007%20c%20419%20§%2012[2007 c 419 § 12]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1469.SL.pdf?cite=2005%20c%20444%20§%201[2005 c 444 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2141.SL.pdf?cite=1998%20c%20172%20§%201[1998 c 172 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1209-S.SL.pdf?cite=1995%20c%20272%20§%203[1995 c 272 § 3]; ]
+
+== 46.32.110 - Controlled substances, alcohol.
+A person or employer operating as a motor carrier shall comply with the requirements of the United States department of transportation federal motor carrier safety regulations as contained in Title 49 C.F.R. Part 382, controlled substances and alcohol use and testing. A person or employer who begins or conducts commercial motor vehicle operations without having a controlled substance and alcohol testing program that is in compliance with the requirements of Title 49 C.F.R. Part 382 is subject to a penalty, under the process set forth in RCW 46.32.100, of up to one thousand five hundred dollars and up to an additional five hundred dollars for each motor vehicle driver employed by the person or employer who is not in compliance with the motor vehicle driver testing requirements. A person or employer having actual knowledge that a driver has tested positive for controlled substances or alcohol who allows a positively tested person to continue to perform a safety-sensitive function is subject to a penalty, under the process set forth in RCW 46.32.100, of one thousand five hundred dollars.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1971-S.SL.pdf?cite=1999%20c%20351%20§%205[1999 c 351 § 5]; ]
+
+== 46.32.120 - Application to state and publicly owned vehicles.
+This chapter does not apply to vehicles exempted from registration by RCW 46.16A.170.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5061.SL.pdf?cite=2011%20c%20171%20§%2078[2011 c 171 § 78]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1843-S.SL.pdf?cite=2009%20c%2046%20§%207[2009 c 46 § 7]; ]
+
+== 46.32.130 - Agricultural transporter exemption—Planting and harvesting seasons.
+For purposes of 49 C.F.R. Sec. 395.2 (2018) and 49 C.F.R. Sec. 395.1 (2018), relating to the exemption for agricultural transporters, the planting and harvesting seasons are January 1st through December 31st of each year.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6180.SL.pdf?cite=2018%20c%2033%20§%201[2018 c 33 § 1]; ]
+

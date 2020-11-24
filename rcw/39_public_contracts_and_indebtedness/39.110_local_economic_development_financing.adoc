@@ -1,0 +1,311 @@
+= 39.110 - Local economic development financing.
+:toc:
+
+== 39.110.005 - Findings—Purpose.
+. The legislature finds that the issuance of taxable nonrecourse revenue bonds by the Washington economic development finance authority has provided a number of Washington firms with the financing necessary to grow and create jobs. The legislature further finds that municipal authority to issue taxable nonrecourse revenue bonds does not exist and that authorizing the local issuance of taxable bonds for economic development purposes will increase local capacity to strengthen businesses and create jobs.
+
+. It is the purpose of this chapter to grant new authority for cities, counties, and port districts that created public corporations under chapter 39.84 RCW prior to 2012, in order to build on the expertise with tax-exempt nonrecourse revenue bond financing developed by these municipalities. Therefore, these municipalities are permitted to create local economic development finance authorities to act as a financial conduit that, without using state or local government funds or lending the credit of the state or local governments, can issue taxable and nontaxable nonrecourse revenue bonds, and participate in federal, state, and local economic development programs to help facilitate access to needed capital by Washington businesses. It is also a primary purpose of this chapter to encourage the development of local innovative approaches to the problem of unmet capital needs. This chapter must be construed liberally to carry out its purposes and objectives.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6140-S2.SL.pdf?cite=2012%20c%20193%20§%201[2012 c 193 § 1]; ]
+
+== 39.110.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Authority" means a local economic development finance authority created under this chapter. An authority is a public body within the meaning of RCW 39.53.010.
+
+. "Board of directors" means the board of directors of an authority.
+
+. "Bonds" means any bonds, notes, debentures, interim certificates, conditional sales or lease financing agreements, lines of credit, forward purchase agreements, investment agreements, and other banking or financial arrangements, guaranties, or other obligations issued by or entered into by the authority. Such bonds may be issued on either a tax-exempt or taxable basis.
+
+. "Borrower" means one or more public or private persons or entities acting as lessee, purchaser, mortgagor, or borrower who has obtained or is seeking to obtain financing either from an authority or from an eligible banking organization that has obtained or is seeking to obtain funds from the authority to finance a project. A borrower may include a party who transfers the right of use and occupancy to another party by lease, sublease, or otherwise, or a party who is seeking or has obtained a financial guaranty from the authority.
+
+. "Economic development activities" means activities related to: Manufacturing, processing, the commercialization of research, production, assembly, tooling, warehousing, exporting products made in Washington or services provided by Washington firms, airports, docks and wharves, mass commuting facilities, high-speed intercity rail facilities, public broadcasting, pollution control, solid waste disposal, federally qualified hazardous waste facilities, energy generating, conservation, or transmission facilities, sports facilities, industrial parks, and activities conducted within a federally designated enterprise or empowerment zone or geographic area of similar nature.
+
+. "Eligible banking organization" means any organization subject to regulation by the director of the department of financial institutions, any national bank, federal savings and loan association, and federal credit union located within this state.
+
+. "Eligible person" means an individual, partnership, corporation, or joint venture carrying on business, or proposing to carry on business, within the state and seeking financial assistance under chapter 193, Laws of 2012.
+
+. "Financial assistance" means the infusion of capital to persons for use in the development and exploitation of specific inventions and products.
+
+. "Financing agreements" means, and includes without limitation, a contractual arrangement with an eligible person whereby an authority obtains rights from or in an invention or product or proceeds from an invention or product in exchange for the granting of financial and other assistance to the person.
+
+. "Financing document" means an instrument executed by an authority and one or more persons or entities pertaining to the issuance of or security for bonds, or the application of the proceeds of bonds or other funds of, or payable to, the authority. A financing document may include, but need not be limited to, a lease, installment sale agreement, conditional sale agreement, mortgage, loan agreement, trust agreement or indenture, security agreement, letter or line of credit, reimbursement agreement, insurance policy, guaranty agreement, or currency or interest rate swap agreement. A financing document also may be an agreement between the authority and an eligible banking organization which has agreed to make a loan to a borrower.
+
+. "Investment grade credit rating" means a rating of at least BBB- by Standard & Poor's, Baa3 by Moody's investors service, or BBB- by Fitch.
+
+. "Municipality" means a city, town, county, or port district of this state.
+
+. "Ordinance" means any appropriate method of taking official action or adopting a legislative decision by any municipality, whether known as a resolution, ordinance, or otherwise.
+
+. "Plan" means the general plan of economic development finance objectives developed and adopted by the authority, and updated from time to time, as required under RCW 43.163.090.
+
+. "Product" means a product, device, technique, or process that is or may be exploitable commercially. "Product" does not refer to pure research, but does apply to products, devices, techniques, or processes that have advanced beyond the theoretic stage and are readily capable of being, or have been, reduced to practice.
+
+. "Project costs" means costs of:
+
+.. Acquisition, lease, construction, reconstruction, remodeling, refurbishing, rehabilitation, extension, and enlargement of land, rights to land, buildings, structures, docks, wharves, fixtures, machinery, equipment, excavations, paving, landscaping, utilities, approaches, roadways and parking, handling and storage areas, and similar ancillary facilities, and any other real or personal property included in an economic development activity;
+
+.. Architectural, engineering, consulting, accounting, and legal costs related directly to the development, financing, acquisition, lease, construction, reconstruction, remodeling, refurbishing, rehabilitation, extension, and enlargement of an activity included under subsection (5) of this section, including costs of studies assessing the feasibility of an economic development activity;
+
+.. Finance costs, including the costs of credit enhancement and discounts, if any, the costs of issuing revenue bonds, and costs incurred in carrying out any financing document;
+
+.. Start-up costs, working capital, capitalized research and development costs, capitalized interest during construction and during the eighteen months after estimated completion of construction, and capitalized debt service or repair and replacement or other appropriate reserves;
+
+.. The refunding of any outstanding obligations incurred for any of the costs outlined in this subsection; and
+
+.. Other costs incidental to any of the costs listed in this subsection.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6140-S2.SL.pdf?cite=2012%20c%20193%20§%202[2012 c 193 § 2]; ]
+
+== 39.110.020 - Economic development finance authority—Creation—Dissolution—Requirements—Penalty.
+. A municipality that formed a public corporation under chapter 39.84 RCW prior to January 1, 2012, may, if that public corporation is still in existence, enact an ordinance creating an economic development finance authority for the purposes authorized in this chapter. The ordinance creating the authority must approve a charter for the authority containing such provisions as are authorized by and not in conflict with this chapter. Any charter issued under this chapter must contain in substance the limitations set forth in RCW 39.110.030. In any suit, action, or proceeding involving the validity or enforcement of or relating to any contract of the authority, the authority is conclusively presumed to be established and authorized to transact business and exercise its powers under this chapter upon proof of the adoption of the ordinance creating the authority by the governing body. A copy of the ordinance duly certified by the clerk of the governing body of the municipality is admissible in evidence in any suit, action, or proceeding.
+
+. An authority created by a municipality pursuant to this chapter may be dissolved by the municipality if: (a) The authority has no property to administer, other than funds or property, if any, to be paid or transferred to the municipality by which it was established; and (b) all the authority's outstanding obligations have been satisfied. Such a dissolution must be accomplished by the governing body of the municipality adopting an ordinance providing for the dissolution.
+
+. The creating municipality may, at its discretion and at any time, alter or change the structure, organizational programs, or activities of an authority, including termination of the authority if contracts entered into by the authority are not impaired. Any net earnings of an authority, beyond those necessary for retirement of indebtedness incurred by it, do not inure to the benefit of any person other than the creating municipality. Upon dissolution of an authority, title to all property owned by the authority vests in the municipality.
+
+. The ordinance creating an authority must include provisions establishing a board of directors to govern the affairs of the authority, what constitutes a quorum of the board of directors, and how the authority must conduct its affairs. 
+
+. For a period of ten years after any financing through an authority, it is illegal for a director, officer, agent, or employee of an authority to have, directly or indirectly, any financial interest in any property to be included in or any contract for property, services, or materials to be furnished or used in connection with any economic development activity financed through the authority. Violation of any provision of this section is a gross misdemeanor.
+
+. The finances of any authority are subject to examination by the state auditor's office pursuant to RCW 43.09.260.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6140-S2.SL.pdf?cite=2012%20c%20193%20§%203[2012 c 193 § 3]; ]
+
+== 39.110.030 - Lending to authority—Issuance of revenue obligations—Delegation of authority.
+. No municipality may give or lend any money or property in aid of an authority. The municipality that creates an authority must annually review any financial statements of the authority and at all times must have access to the books and records of the authority. No authority may issue revenue obligations under this chapter except upon the approval of both the municipality under the auspices of which it was created and the county, city, or town within whose planning jurisdiction the economic development activity to be financed lies. Upon receiving approval from these jurisdictions, an authority must, before bonds may be issued, obtain one of the following:
+
+.. A letter of credit supporting the creditworthiness of the borrower from a bank with an investment grade credit rating;
+
+.. Confirmation that the borrower has arranged for private placement of the bonds with an institutional investor; or
+
+.. Confirmation that the borrower has an investment grade credit rating of their own.
+
+. An authority established under the terms of this chapter constitutes an authority and an instrumentality (within the meaning of those terms in the regulations of the United States treasury and the rulings of the internal revenue service prescribed pursuant to 26 U.S.C. Sec. 103 of the federal internal revenue code of 1986, as amended) may act on behalf of the municipality under whose auspices it is created for the specific public purposes authorized by this chapter. The authority is not a municipal corporation within the meaning of the state Constitution and the laws of the state, or a political subdivision within the meaning of the state Constitution and the laws of the state, including without limitation, Article VIII, section 7 of the Washington state Constitution. A municipality may not delegate to an authority any of the municipality's attributes of sovereignty including, without limitation, the power to tax, the power of eminent domain, and the police power.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6140-S2.SL.pdf?cite=2012%20c%20193%20§%204[2012 c 193 § 4]; ]
+
+== 39.110.040 - Powers and duties of authority—Economic development activities.
+. An authority established pursuant to this chapter may develop and conduct a program or programs to provide nonrecourse revenue bond financing for the project costs for economic development activities.
+
+. An authority is authorized to participate fully in federal and other governmental economic development finance programs and to take such actions as are necessary and consistent with this chapter to secure the benefits of those programs and to meet their requirements.
+
+. An authority may develop and conduct a program that will stimulate and encourage the development of new products within Washington state by the infusion of financial aid for invention and innovation in situations in which the financial aid would not otherwise be reasonably available from commercial sources. The authority is authorized to provide nonrecourse revenue bond financing for this program.
+
+.. For the purposes of this program, the authority has the following powers and duties:
+
+... To enter into financing agreements with eligible persons doing business in Washington state, upon terms and on conditions consistent with the purposes of this chapter, for the advancement of financial and other assistance to the persons for the development of specific products, procedures, and techniques, to be developed and produced in this state, and to condition the agreements upon contractual assurances that the benefits of increasing or maintaining employment and tax revenues remain in this state and accrue to it;
+
+... Own, possess, and take license in patents, copyrights, and proprietary processes and negotiate and enter into contracts and establish charges for the use of the patents, copyrights, and proprietary processes when the patents and licenses for products result from assistance provided by the authority;
+
+... Negotiate royalty payments to the authority on patents and licenses for products arising as a result of assistance provided by the authority;
+
+... Negotiate and enter into other types of contracts with eligible persons that assure that public benefits will result from the provision of services by the authority; provided that the contracts are consistent with the state Constitution;
+
+.. Encourage and provide technical assistance to eligible persons in the process of developing new products;
+
+.. Refer eligible persons to researchers or laboratories for the purpose of testing and evaluating new products, processes, or innovations; and
+
+.. To the extent permitted under its contract with eligible persons, to consent to a termination, modification, forgiveness, or other change of a term of a contractual right, payment, royalty, contract, or agreement of any kind to which the authority is a party.
+
+.. Eligible persons seeking financial and other assistance under this program must forward an application, together with an application fee prescribed by rule, to the authority. An investigation and report concerning the advisability of approving an application for assistance must be completed by the staff of the authority. The investigation and report may include, but is not limited to, facts about the company under consideration as its history, wage standards, job opportunities, stability of employment, past and present financial condition and structure, pro forma income statements, present and future markets and prospects, integrity of management as well as the feasibility of the proposed product and invention to be granted financial assistance, including the state of development of the product as well as the likelihood of its commercial feasibility. After receipt and consideration of the report set out in this subsection and after other action as is deemed appropriate, the application must be approved or denied by the authority. The applicant must be promptly notified of action by the authority.
+
+. An authority may receive no appropriation of state funds. The department of commerce and the Washington economic development finance authority may assist a local economic development finance authority in organizing itself and in designing programs.
+
+. An authority may use any funds legally available to it for any purpose specifically authorized by this chapter, or for otherwise improving economic development by assisting businesses and farm enterprises that do not have access to capital at terms and rates comparable to large corporations due to the location of the business, the size of the business, the lack of financial expertise, or other appropriate reasons.
+
+. An authority must coordinate its activities with those, including bond issuance activities, of the creating municipality and the public corporation created under chapter 39.84 RCW by the creating municipality.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6140-S2.SL.pdf?cite=2012%20c%20193%20§%205[2012 c 193 § 5]; ]
+
+== 39.110.045 - Powers of authority—Generally.
+In addition to carrying out the economic development finance activities and programs specifically authorized in this chapter, an authority may:
+
+. Maintain an office or offices;
+
+. Sue and be sued in its own name, and plead and be impleaded;
+
+. Engage consultants, agents, attorneys, and advisers, contract with federal, state, and local governmental entities for services, and hire such employees, agents, and other personnel as the authority deems necessary, useful, or convenient to accomplish its purposes;
+
+. Make and execute all manner of contracts, agreements and instruments, and financing documents with public and private parties as the authority deems necessary, useful, or convenient to accomplish its purposes;
+
+. Acquire and hold real or personal property, or any interest therein, in the name of the authority, and to sell, assign, lease, encumber, mortgage, or otherwise dispose of the same in such manner as the authority deems necessary, useful, or convenient to accomplish its purposes;
+
+. Open and maintain accounts in qualified public depositaries and otherwise provide for the investment of any funds not required for immediate disbursement, and provide for the selection of investments;
+
+. Appear in its own behalf before boards, commissions, departments, or agencies of federal, state, or local government;
+
+. Procure such insurance in such amounts and from such insurers as the authority deems desirable including, but not limited to, insurance against any loss or damage to its property or other assets, public liability insurance for injuries to persons or property, and directors and officers liability insurance;
+
+. Apply for and accept subventions, grants, loans, advances, and contributions from any source of money, property, labor, or other things of value, to be held, used, and applied as the authority deems necessary, useful, or convenient to accomplish its purposes;
+
+. Establish guidelines for the participation by eligible banking organizations in programs conducted by the authority under this chapter;
+
+. Act as an agent, by agreement, for federal, state, or local governmental entities to carry out the programs authorized in this chapter;
+
+. Establish, revise, and collect such fees and charges as the authority deems necessary, useful, or convenient to accomplish its purposes;
+
+. Make such expenditures as are appropriate for paying the administrative costs and expenses of the authority in carrying out the provisions of this chapter;
+
+. Establish such reserves and special funds, and controls on deposits to and disbursements from them, as the authority deems necessary, useful, or convenient to accomplish its purposes;
+
+. Prepare, publish, and distribute, with or without charge, such studies, reports, bulletins, and other material as the authority deems necessary, useful, or convenient to accomplish its purposes;
+
+. Delegate any of its powers and duties if consistent with the purposes of this chapter;
+
+. Adopt rules concerning its exercise of the powers authorized by this chapter; and
+
+. Exercise any other power the authority deems necessary, useful, or convenient to accomplish its purposes and exercise the powers expressly granted in this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6140-S2.SL.pdf?cite=2012%20c%20193%20§%208[2012 c 193 § 8]; ]
+
+== 39.110.050 - Operating procedures.
+. An authority established pursuant to this chapter must adopt general operating procedures for the authority. The authority must also adopt operating procedures for individual programs as they are developed for obtaining funds and for providing funds to borrowers. These operating procedures must be adopted by resolution prior to the authority operating the applicable programs.
+
+. The operating procedures must include, but are not limited to:
+
+.. Appropriate standards for securing loans and other financing the authority provides to borrowers, such as guarantees or collateral; and
+
+.. Strict standards for providing financing to borrowers, such as:
+
+... The borrower is a responsible party with a high probability of being able to repay the financing provided by the authority;
+
+... The financing is reasonably expected to benefit the creating municipality by enabling a borrower to increase or maintain jobs or capital in the municipality;
+
+... The borrowers with the greatest needs or that provide the most public benefit are given higher priority by the authority; and
+
+... The financing is consistent with any plan adopted by the authority under the provisions of RCW 39.110.060.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6140-S2.SL.pdf?cite=2012%20c%20193%20§%206[2012 c 193 § 6]; ]
+
+== 39.110.060 - Plan of economic development.
+. Any authority established pursuant to this chapter must adopt a general plan of economic development finance objectives to be implemented by the authority during the period of the plan. The authority may exercise the powers authorized under this chapter prior to the adoption of the initial plan. In developing the plan, the authority must consider and set objectives for:
+
+.. Employment generation associated with the authority's programs;
+
+.. The application of funds to economic sectors and economic development activity evidencing need for improved access to capital markets and funding resources;
+
+.. Eligibility criteria for participants in authority programs;
+
+.. The use of funds and resources available from or through federal, state, local, and private sources and programs;
+
+.. New programs which serve a targeted need for financing assistance within the purposes of this chapter; and
+
+.. Opportunities to improve capital access as evidenced by programs existent in other localities or as they are made possible by results of private capital market circumstances.
+
+. Upon adoption of the general plan the authority must conduct its programs in observance of the objectives established in the plan. The authority may periodically update the plan as determined necessary by the authority.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6140-S2.SL.pdf?cite=2012%20c%20193%20§%207[2012 c 193 § 7]; ]
+
+== 39.110.070 - Prohibited practices.
+Notwithstanding any other provision of this chapter, an authority may not:
+
+. Give any municipal or state money or property or loan any municipal or state money or credit to or in aid of any individual, association, company, or corporation, or become directly or indirectly the owner of any stock in or bonds of any association, company, or corporation;
+
+. Issue bills of credit or accept deposits of money for time or demand deposit, administer trusts, engage in any form or manner in, or in the conduct of, any private or commercial banking business, or act as a savings bank or savings and loan association other than as provided in this chapter;
+
+. Be or constitute a bank or trust company within the jurisdiction or under the control of the director of financial institutions, the comptroller of the currency of the United States of America, or the treasury department thereof;
+
+. Be or constitute a bank, broker, or dealer in securities within the meaning of, or subject to the provisions of, any securities, securities exchange, or securities dealers' law of the United States of America or the state;
+
+. Engage in the financing of housing as provided for in chapter 43.180 RCW;
+
+. Engage in the financing of health care facilities as provided for in chapter 70.37 RCW;
+
+. Engage in financing higher education facilities as provided for in chapter 28B.07 RCW; or
+
+. Exercise any of the powers authorized in this chapter or issue any revenue bonds with respect to any economic development activity unless the economic development activity is located wholly within the boundaries of the municipality under whose auspices the authority is created or unless the economic development activity comprises energy facilities or solid waste disposal facilities which provide energy for or dispose of solid waste from the municipality or the residents thereof.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6140-S2.SL.pdf?cite=2012%20c%20193%20§%209[2012 c 193 § 9]; ]
+
+== 39.110.080 - Nonrecourse revenue bonds.
+. An authority may issue its nonrecourse revenue bonds in order to obtain the funds to carry out the programs authorized in this chapter. The bonds must be special obligations of the authority, payable solely out of the special fund or funds established by the authority for their repayment.
+
+. Any bonds issued under this chapter may be secured by a financing document between the authority and the purchasers or owners of such bonds or between the authority and a corporate trustee, which may be any trust company or bank having the powers of a trust company within or without the state.
+
+.. The financing document may pledge or assign, in whole or in part, the revenues and funds held or to be received by the authority, any present or future contract or other rights to receive the same, and the proceeds thereof.
+
+.. The financing document may contain such provisions for protecting and enforcing the rights, security, and remedies of bond owners as may be reasonable and proper including, without limiting the generality of the foregoing, provisions defining defaults and providing for remedies in the event of default which may include the acceleration of maturities, restrictions on the individual rights of action by bond owners, and covenants setting forth duties of and limitations on the authority in conduct of its programs and the management of its property.
+
+.. In addition to other security provided in this chapter or otherwise by law, bonds issued by the authority may be secured, in whole or in part, by financial guaranties, by insurance or by letters of credit issued to the authority or a trustee or any other person, by any bank, trust company, insurance or surety company, or other financial institution, within or without the state. The authority may pledge or assign, in whole or in part, the revenues and funds held or to be received by the authority, any present or future contract or other rights to receive the same, and the proceeds thereof, as security for such guaranties or insurance or for the reimbursement by the authority to any issuer of such letter of credit of any payments made under such letter of credit.
+
+. Without limiting the powers of the authority contained in this chapter, in connection with each issue of its obligation bonds, the authority must create and establish one or more special funds including, but not limited to, debt service and sinking funds, reserve funds, project funds, and such other special funds as the authority deems necessary, useful, or convenient.
+
+. Any security interest created against the unexpended bond proceeds and against the special funds created by the authority is immediately valid and binding against the money and any securities in which the money may be invested without authority or trustee possession. The security interest must be prior to any party having any competing claim against the moneys or securities, without filing or recording under Article 9A of the uniform commercial code, Title 62A RCW, and regardless of whether the party has notice of the security interest.
+
+. The bonds may be issued as serial bonds, term bonds, or any other type of bond instrument consistent with the provisions of this chapter. The bonds must bear such date or dates; mature at such time or times; bear interest at such rate or rates, either fixed or variable; be payable at such time or times; be in such denominations; be in such form; bear such privileges of transferability, exchangeability, and interchangeability; be subject to such terms of redemption; and be sold at public or private sale, in such manner, at such time or times, and at such price or prices as the authority determines. The bonds must be executed by the manual or facsimile signatures of the authority's chair and either its secretary or executive director, and may be authenticated by the trustee (if the authority determines to use a trustee) or any registrar which may be designated for the bonds by the authority.
+
+. Bonds may be issued by the authority to refund other outstanding authority bonds, at or prior to maturity of, and to pay any redemption premium on, the outstanding bonds. Bonds issued for refunding purposes may be combined with bonds issued for the financing or refinancing of new projects. Pending the application of the proceeds of the refunding bonds to the redemption of the bonds to be redeemed, the authority may enter into an agreement or agreements with a corporate trustee regarding the interim investment of the proceeds and the application of the proceeds and the earnings on the proceeds to the payment of the principal of and interest on, and the redemption of, the bonds to be redeemed.
+
+. The bonds of the authority may be negotiable instruments under Title 62A RCW.
+
+. Neither the board of directors of the authority, nor its employees or agents, nor any person executing the bonds is personally liable on the bonds or subject to any personal liability or accountability by reason of the issuance of the bonds.
+
+. The authority may purchase its bonds with any of its funds available for the purchase. The authority may hold, pledge, cancel, or resell the bonds subject to and in accordance with agreements with bond owners.
+
+. The state finance committee must be notified in advance of the issuance of bonds by the authority in order to promote the orderly offering of obligations in the financial markets.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6140-S2.SL.pdf?cite=2012%20c%20193%20§%2010[2012 c 193 § 10]; ]
+
+== 39.110.090 - Bonds—Payment source—Disclosures—Proceeds not public money—Contracting.
+. Bonds issued by an authority established under this chapter are not considered to constitute a debt of the state, of the municipality, or of any other municipal corporation, quasi-municipal corporation, subdivision, or agency of this state or to pledge any or all of the faith and credit of any of these entities. The revenue bonds are payable solely from both the revenues derived as a result of the economic development activities funded by the revenue bonds including, without limitation, amounts received under the terms of any financing document or by reason of any additional security furnished by beneficiaries of the economic development activity in connection with the financing thereof, and money and other property received from private sources. The issuance of bonds under this chapter do not obligate, directly, indirectly, or contingently, the state or any political subdivision of the state to levy any taxes or appropriate or expend any funds for the payment of the principal or the interest on the bonds. Each revenue bond must contain on its face, and any disclosure document prepared in conjunction with the offer and sale of bonds must include, statements to the effect that:
+
+.. Neither the state, the municipality, or any other municipal corporation, quasi-municipal corporation, subdivision, or agency of the state is obligated to pay the principal or the interest thereon;
+
+.. No tax funds or governmental revenue may be used to pay the principal or interest thereon; and
+
+.. Neither any or all of the faith and credit nor the taxing power of the state, the municipality, or any other municipal corporation, quasi-municipal corporation, subdivision, or agency thereof is pledged to the payment of the principal of or the interest on the revenue bond.
+
+. Neither the proceeds of bonds issued under this chapter nor any money used or to be used to pay the principal of, premium, if any, or interest on the bonds constitute public money or property. All of such money must be kept segregated and set apart from funds of the state and any political subdivision of the state and are not subject to appropriation or allotment by the state or subject to the provisions of chapter 43.88 RCW.
+
+. Contracts entered into by an authority must be entered into in the name of the authority and not in the name of the state or any political subdivision of the state. The obligations of the authority under such contracts are obligations only of the authority and are not, in any way, obligations of the municipality creating the authority or the state. An authority may incur only those financial obligations which will be paid from revenues received pursuant to financing documents, from fees or charges paid by beneficiaries of the economic development activities funded by the revenue bonds, or from the proceeds of revenue bonds.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6140-S2.SL.pdf?cite=2012%20c%20193%20§%2011[2012 c 193 § 11]; ]
+
+== 39.110.100 - Financing documents with borrowers—Trust—Trust agreement.
+. [Empty]
+.. An authority may enter into financing documents with borrowers regarding bonds issued by the authority that may provide for the payment by each borrower of amounts sufficient, together with other revenues available to the authority, if any, to:
+
+... Pay the borrower's share of the fees established by the authority;
+
+... Pay the principal of, premium, if any, and interest on outstanding bonds of the authority issued in respect of such borrower as the same become due and payable; and
+
+... Create and maintain reserves required or provided for by the authority in connection with the issuance of such bonds.
+
+.. The payments are not subject to supervision or regulation by any department, committee, board, body, bureau, or agency of the state.
+
+. All money received by or on behalf of the authority with respect to this issuance of its bonds must be trust funds to be held and applied solely as provided in this chapter. The authority, in lieu of receiving and applying the moneys itself, may enter into trust agreement or indenture with one or more banks or trust companies having the power and authority to conduct trust business in the state to:
+
+.. Perform all or any part of the obligations of the authority with respect to:
+
+... Bonds issued by it;
+
+... The receipt, investment, and application of the proceeds of the bonds and money paid by a participant or available from other sources for the payment of the bonds;
+
+... The enforcement of the obligations of a borrower in connection with the financing or refinancing of any project; and
+
+... Other matters relating to the exercise of the authority's powers under this chapter;
+
+.. Receive, hold, preserve, and enforce any security interest or evidence of security interest granted by a participant for purposes of securing the payment of the bonds; and
+
+.. Act on behalf of the authority or the owners of bonds of the authority for purposes of assuring or enforcing the payment of the bonds, when due.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6140-S2.SL.pdf?cite=2012%20c%20193%20§%2012[2012 c 193 § 12]; ]
+
+== 39.110.110 - Protection and enforcement of rights of bond owners and trustees—Bonds as securities.
+. Any owner of bonds issued under this chapter by any authority, and the trustee under any trust agreement or indenture, may, either at law or in equity, by suit, action, mandamus, or other proceeding, protect and enforce any of their respective rights, and may become the purchaser at any foreclosure sale if the person is the highest bidder, except to the extent the rights given are restricted by the authority in any bond resolution or trust agreement or indenture authorizing the issuance of the bonds.
+
+. The bonds of an authority are securities in which all public officers and bodies of this state and all counties, cities, municipal corporations, and political subdivisions, all banks, eligible banking organizations, bankers, trust companies, savings banks and institutions, building and loan associations, savings and loan associations, investment companies, insurance companies and associations, and all executors, administrators, guardians, trustees, and other fiduciaries may legally invest any sinking funds, moneys, or other funds belonging to them or within their control. However, a municipality under the auspices of which an authority was created and the county, city, or town within whose planning jurisdiction the economic development activity to be financed lies, may not invest in bonds issued by the authority.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6140-S2.SL.pdf?cite=2012%20c%20193%20§%2013[2012 c 193 § 13]; ]
+
+== 39.110.120 - Chapter supplemental and additional.
+This chapter provides a complete, additional, and alternative method for accomplishing the purposes of this chapter and must be regarded as supplemental and additional to powers conferred by other laws. The issuance of bonds and refunding bonds under this chapter need not comply with the requirements of any other law applicable to the issuance of bonds.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6140-S2.SL.pdf?cite=2012%20c%20193%20§%2014[2012 c 193 § 14]; ]
+
+== 39.110.900 - Construction.
+Insofar as the provisions of this chapter are inconsistent with the provisions of any general or special law, or parts thereof, the provisions of this chapter are controlling.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6140-S2.SL.pdf?cite=2012%20c%20193%20§%2015[2012 c 193 § 15]; ]
+

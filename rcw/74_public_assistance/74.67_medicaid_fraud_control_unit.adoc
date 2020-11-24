@@ -1,0 +1,25 @@
+= 74.67 - Medicaid fraud control unit.
+:toc:
+
+== 74.67.005 - Finding—Intent.
+The legislature finds that medicaid provider fraud and the abuse and neglect of persons in nursing facilities, adult family homes, and long-term care services present a serious risk of harm to the people of the state of Washington in general and to vulnerable adults in particular. The legislature intends with this chapter to enable the medicaid fraud control unit within the office of the attorney general to achieve its limited but vital mission to detect, deter, and prosecute the specialized areas of medicaid fraud, abuse, and neglect in Washington's medicaid system. This jurisdiction will also facilitate the medicaid fraud control unit's capacity to fulfill its investigative and prosecutorial obligations under the federal grant, 42 U.S.C. Sec. 1396b(q), to ensure that the federal grant funding requirements for Washington's medicaid program are met. Failure to meet these federal program integrity standards could jeopardize the federal funding for Washington's medicaid program. Furthermore, the legislature intends by this chapter that the medicaid fraud control unit will fully coordinate its efforts with county and local prosecutors and law enforcement to maximize effectiveness and promote efficiency.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6051-S.SL.pdf?cite=2018%20c%20238%20§%201[2018 c 238 § 1]; ]
+
+== 74.67.010 - Medicaid fraud control unit—Establishment—Authority and criminal jurisdiction—Duties.
+. The attorney general shall establish and maintain within his or her office the medicaid fraud control unit.
+
+. The attorney general shall employ and train personnel to achieve the purposes of this chapter, including attorneys, investigators, auditors, clerical support personnel, and other personnel as the attorney general determines necessary.
+
+. The medicaid fraud control unit has the authority and criminal jurisdiction to investigate and prosecute medicaid provider fraud, abuse and neglect matters as enumerated in 42 U.S.C. Sec. 1396b(q)(4) where authority is granted by the federal government, and other federal health care program fraud as set forth in 42 U.S.C. Sec. 1396b(q).
+
+. The medicaid fraud control unit shall cooperate with federal and local investigators and prosecutors in coordinating local, state, and federal investigations and prosecutions involving fraud in the provision or administration of medical assistance, goods or services pursuant to medicaid, medicaid managed care, abuse and neglect matters as enumerated in 42 U.S.C. Sec. 1396b(q)(4), or medicare where such authority is obtained from the federal government, and provide those federal officers with any information in its possession regarding such an investigation or prosecution.
+
+. The medicaid fraud control unit shall protect the privacy of patients and establish procedures to ensure confidentiality for all records, in accordance with state and federal laws, including but not limited to chapter 70.02 RCW and the federal health insurance portability and accountability act.
+
+. The attorney general may appoint medicaid fraud control investigators to detect, investigate, and apprehend when it appears that a violation of criminal law relating to medicaid fraud, medicaid managed care fraud, medicare fraud, or abuse and neglect matters as enumerated in 42 U.S.C. Sec. 1396b(q)(4) has been or is about to be committed and specify the extent and limitations of the investigators' duties and authority in carrying out the limited scope and purposes of this chapter.
+
+. The department of social and health services or law enforcement agencies that receive mandatory reports under RCW 74.34.035 may share such reports in a timely manner with the medicaid fraud control unit within the office of the attorney general.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6051-S.SL.pdf?cite=2018%20c%20238%20§%202[2018 c 238 § 2]; ]
+

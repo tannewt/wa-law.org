@@ -1,0 +1,185 @@
+= 70.175 - Rural health system project.
+:toc:
+
+== 70.175.010 - Legislative findings.
+. The legislature declares that availability of health services to rural citizens is an issue on which a state policy is needed.
+
+The legislature finds that changes in the demand for health care, in reimbursement polices [policies] of public and private purchasers, [and] in the economic and demographic conditions in rural areas threaten the availability of care services.
+
+In addition, many factors inhibit needed changes in the delivery of health care services to rural areas which include inappropriate and outdated regulatory laws, aging and inefficient health care facilities, the absence of local planning and coordination of rural health care services, the lack of community understanding of the real costs and benefits of supporting rural hospitals, the lack of regional systems to assure access to care that cannot be provided in every community, and the absence of state health care policy objectives.
+
+The legislature further finds that the creation of effective health care delivery systems that assure access to health care services provided in an affordable manner will depend on active local community involvement. It further finds that it is the duty of the state to create a regulatory environment and health care payment policy that promotes innovation at the local level to provide such care.
+
+It further declares that it is the responsibility of the state to develop policy that provides direction to local communities with regard to such factors as a definition of health care services, identification of statewide health status outcomes, clarification of state, regional, [and] community responsibilities and interrelationships for assuring access to affordable health care and continued assurances that quality health care services are provided.
+
+. The legislature further finds that many rural communities do not operate hospitals in a cost-efficient manner. The cost of operating the rural hospital often exceeds the revenues generated. Some of these hospitals face closure, which may result in the loss of health care services for the community. Many communities are struggling to retain health care services by operating a cost-efficient facility located in the community. Current regulatory laws do not provide for the facilities licensure option that is appropriate for rural areas. A major barrier to the development of an appropriate rural licensure model is federal medicare approval to guarantee reimbursement for the costs of providing care and operating the facility. Medicare certification typically elaborates upon state licensure requirements. Medicare approval of reimbursement is more likely if the state has developed legal criteria for a rural-appropriate health facility. Medicare has begun negotiations with other states facing similar problems to develop exceptions with the goal of allowing reimbursement of rural alternative health care facilities. It is in the best interests of rural citizens for Washington state to begin negotiations with the federal government with the objective of designing a medicare eligible rural health care facility structured to meet the health care needs of rural Washington and be eligible for federal and state financial support for its development and operation.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex1c9.pdf?cite=1989%201st%20ex.s.%20c%209%20§%20701[1989 1st ex.s. c 9 § 701]; ]
+
+== 70.175.020 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Administrative structure" means a system of contracts or formal agreements between organizations and persons providing health services in an area that establishes the roles and responsibilities each will assume in providing the services of the rural health care facility.
+
+. "Department" means the department of health.
+
+. "Health care delivery system" means services and personnel involved in providing health care to a population in a geographic area.
+
+. "Health care facility" means any land, structure, system, machinery, equipment, or other real or personal property or appurtenances useful for or associated with delivery of inpatient or outpatient health care service or support for such care or any combination thereof which is operated or undertaken in connection with a hospital, clinic, health maintenance organization, diagnostic or treatment center, extended care facility, or any facility providing or designed to provide therapeutic, convalescent or preventive health care services.
+
+. "Health care system strategic plan" means a plan developed by the participant and includes identification of health care service needs of the participant, services and personnel necessary to meet health care service needs, identification of health status outcomes and outcome measures, identification of funding sources, and strategies to meet health care needs including measures of effectiveness.
+
+. "Institutions of higher education" means educational institutions as defined in RCW 28B.10.016.
+
+. "Local administrator" means an individual or organization representing the participant who may enter into legal agreements on behalf of the participant.
+
+. "Participant" means communities, counties, and regions that serve as a health care catchment area where the project site is located.
+
+. "Project" means the Washington rural health system project.
+
+. "Project site" means a site selected to participate in the project.
+
+. "Rural health care facility" means a facility, group, or other formal organization or arrangement of facilities, equipment, and personnel capable of providing or assuring availability of health services in a rural area. The services to be provided by the rural health care facility may be delivered in a single location or may be geographically dispersed in the community health service catchment area so long as they are organized under a common administrative structure or through a mechanism that provides appropriate referral, treatment, and follow-up.
+
+. "Secretary" means the secretary of health.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex1c9.pdf?cite=1989%201st%20ex.s.%20c%209%20§%20702[1989 1st ex.s. c 9 § 702]; ]
+
+== 70.175.030 - Project established—Implementation.
+. The department shall establish the Washington rural health system project to provide financial and technical assistance to participants. The goal of the project is to help assure access to affordable health care services to citizens in the rural areas of Washington state.
+
+. Administrative costs necessary to implement this project shall be kept at a minimum to insure the maximum availability of funds for participants.
+
+. The secretary may contract with third parties for services necessary to carry out activities to implement this chapter where this will promote economy, avoid duplication of effort, and make the best use of available expertise.
+
+. The secretary may apply for, receive, and accept gifts and other payments, including property and service, from any governmental or other public or private entity or person, and may make arrangements as to the use of these receipts, including the undertaking of special studies and other projects related to the delivery of health care in rural areas.
+
+. In designing and implementing the project the secretary shall consider the report of the Washington rural health care commission established under chapter 207, Laws of 1988. Nothing in this chapter requires the secretary to follow any specific recommendation contained in that report except as it may also be included in this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20806[1994 sp.s. c 9 § 806]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex1c9.pdf?cite=1989%201st%20ex.s.%20c%209%20§%20703[1989 1st ex.s. c 9 § 703]; ]
+
+== 70.175.040 - Rules.
+The department shall adopt rules consistent with this chapter to carry out the purpose of this chapter. All rules shall be adopted in accordance with chapter 34.05 RCW. All rules and procedures adopted by the department shall minimize paperwork and compliance requirements for participants and should not be complex in nature so as to serve as a barrier or disincentive for prospective participants applying for the project.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex1c9.pdf?cite=1989%201st%20ex.s.%20c%209%20§%20704[1989 1st ex.s. c 9 § 704]; ]
+
+== 70.175.050 - Secretary's powers and duties.
+The secretary shall have the following powers and duties:
+
+. To design the project application and selection process, including a program to advertise the project to rural communities and encourage prospective applicants to apply. Project sites that receive seed grant funding may hire consultants and shall perform other activities necessary to meet participant requirements defined in this chapter. In considering selection of participants eligible for seed grant funding, the secretary should consider project sites where (a) existing access to health care is severely inadequate, (b) where a financially vulnerable health care facility is present, (c) where a financially vulnerable health care facility is present and an adjoining community in the same catchment area has a competing facility, or (d) where improvements in the delivery of primary care services, including preventive care services, is needed.
+
+The department may obtain technical assistance support for project sites that are not selected to be funded sites. The secretary shall select these assisted project sites based upon merit and to the extent possible, based upon the desire to address specific health status outcomes;
+
+. To design acceptable outcome measures which are based upon health status outcomes and are to be part of the community plan, to work with communities to set acceptable local outcome targets in the health care delivery system strategic plan, and to serve as a general resource to participants in the planning, administration, and evaluation of project sites;
+
+. To assess and approve community strategic plans developed by participants, including an assessment of the technical and financial feasibility of implementing the plan and whether adequate local support for the plan is demonstrated;
+
+. To define health care catchment areas, identify financially vulnerable health care facilities, and to identify rural populations which are not receiving adequate health care services;
+
+. To identify existing private and public resources which may serve as eligible consultants, identify technical assistance resources for communities in the project, create a register of public and private technical resource services available and provide the register to participants. The secretary shall screen consultants to determine their qualifications prior to including them on the register;
+
+. To work with other state agencies, institutions of higher education, and other public and private organizations to coordinate technical assistance services for participants;
+
+. To administer available funds for community use while participating in the project and establish procedures to assure accountability in the use of seed grant funds by participants;
+
+. To define data and other minimum requirements for adequate evaluation of projects and to develop and implement an overall monitoring and evaluation mechanism for the projects;
+
+. To act as facilitator for multiple applicants and entrants to the project;
+
+. To report to the appropriate legislative committees and others from time to time on the progress of the projects including the identification of statutory and regulatory barriers to successful completion of rural health care delivery goals and an ongoing evaluation of the project.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1400.SL.pdf?cite=1991%20c%20224%20§%201[1991 c 224 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex1c9.pdf?cite=1989%201st%20ex.s.%20c%209%20§%20705[1989 1st ex.s. c 9 § 705]; ]
+
+== 70.175.060 - Duties and responsibilities of participating communities.
+The duties and responsibilities of participating communities shall include:
+
+. To involve major health care providers, businesses, public officials, and other community leaders in project design, administration, and oversight;
+
+. To identify an individual or organization to serve as the local administrator of the project. The secretary may require the local administrator to maintain acceptable accountability of seed grant funding;
+
+. To coordinate and avoid duplication of public health and other health care services;
+
+. To assess and analyze community health care needs;
+
+. To identify services and providers necessary to meet needs;
+
+. To develop outcome measures to assess the long-term effectiveness of modifications initiated through the project;
+
+. To write a health care delivery system strategic plan including to the extent possible, identification of outcome measures needed to achieve health status outcomes identified in the plan. New organizational structures created should integrate existing programs and activities of local health providers so as to maximize the efficient planning and delivery of health care by local providers and promote more accessible and affordable health care services to rural citizens. Participants should create health care delivery system strategic plans which promote health care services which the participant can financially sustain;
+
+. To screen and contract with consultants for technical assistance if the project site was selected to receive funding and assistance is needed;
+
+. To monitor and evaluate the project in an ongoing manner;
+
+. To implement necessary changes as defined in the plans such as converting existing facilities, developing or modifying services, recruiting providers, or obtaining agreements with other communities to provide some or all health care services; and
+
+. To provide data and comply with other requirements of the administrator that are intended to evaluate the effectiveness of the projects.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex1c9.pdf?cite=1989%201st%20ex.s.%20c%209%20§%20706[1989 1st ex.s. c 9 § 706]; ]
+
+== 70.175.070 - Cooperation of state agencies.
+. The secretary may call upon other agencies of the state to provide available information to assist the secretary in meeting the responsibilities under this chapter. This information shall be supplied as promptly as circumstances permit.
+
+. The secretary may call upon other state agencies including institutions of higher education as authorized under Title 28B RCW to identify and coordinate the delivery of technical assistance services to participants in meeting the responsibilities of this chapter. The state agencies and institutions of higher education shall cooperate and provide technical assistance to the secretary to the extent that current funding for these agencies and institutions of higher education permits.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex1c9.pdf?cite=1989%201st%20ex.s.%20c%209%20§%20707[1989 1st ex.s. c 9 § 707]; ]
+
+== 70.175.080 - Powers and duties of secretary—Contracting.
+In addition to the powers and duties specified in RCW 70.175.050 the secretary has the power to enter into contracts for the following functions and services:
+
+. With public or private agencies, to assist the secretary in the secretary's duties to design or revise the health status outcomes, or to monitor or evaluate the performance of participants.
+
+. With public or private agencies, to provide technical or professional assistance to project participants.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex1c9.pdf?cite=1989%201st%20ex.s.%20c%209%20§%20708[1989 1st ex.s. c 9 § 708]; ]
+
+== 70.175.090 - Participants authorized to contract—Penalty—Secretary and state exempt from liability.
+. Participants are authorized to use funding granted to them by the secretary for the purpose of contracting for technical assistance services. Participants shall use only consultants identified by the secretary for consulting services unless the participant can show that an alternative consultant is qualified to provide technical assistance and is approved by the secretary. Adequate records shall be kept by the participant showing project site expenditures from grant moneys. Inappropriate use of grant funding shall be a gross misdemeanor.
+
+. In providing a list of qualified consultants the secretary and the state shall not be held responsible for assuring qualifications of consultants and shall be held harmless for the actions of consultants. Furthermore, the secretary and the state shall not be held liable for the failure of participants to meet contractual obligations established in connection with project participation.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex1c9.pdf?cite=1989%201st%20ex.s.%20c%209%20§%20709[1989 1st ex.s. c 9 § 709]; ]
+
+== 70.175.100 - Licensure—Rules.
+. The department shall establish and adopt such standards and rules pertaining to the construction, maintenance, and operation of a rural health care facility and the scope of health care services, and rescind, amend, or modify the rules from time to time as necessary in the public interest. In developing the rules, the department shall consult with representatives of rural hospitals, community mental health centers, public health departments, community and migrant health clinics, and other providers of health care in rural communities. The department shall also consult with third-party payers, consumers, local officials, and others to ensure broad participation in defining regulatory standards and requirements that are appropriate for a rural health care facility.
+
+. When developing the rural health care facility licensure rules, the department shall consider the report of the Washington rural health care commission established under chapter 207, Laws of 1988. Nothing in this chapter requires the department to follow any specific recommendation contained in that report except as it may also be included in this chapter.
+
+. Upon developing rules, the department shall enter into negotiations with appropriate federal officials to seek medicare approval of the facility and financial participation of medicare and other federal programs in developing and operating the rural health care facility.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6219.SL.pdf?cite=1998%20c%20245%20§%20119[1998 c 245 § 119]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex1c9.pdf?cite=1989%201st%20ex.s.%20c%209%20§%20710[1989 1st ex.s. c 9 § 710]; ]
+
+== 70.175.110 - Licensure—Rules—Duties of department.
+In developing the rural health care facility licensure regulations, the department shall:
+
+. Minimize regulatory requirements to permit local flexibility and innovation in providing services;
+
+. Promote the cost-efficient delivery of health care and other social services as is appropriate for the particular local community;
+
+. Promote the delivery of services in a coordinated and nonduplicative manner;
+
+. Maximize the use of existing health care facilities in the community;
+
+. Permit regionalization of health care services when appropriate;
+
+. Provide for linkages with hospitals, tertiary care centers, and other health care facilities to provide services not available in the facility; and
+
+. Achieve health care outcomes defined by the community through a community planning process.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex1c9.pdf?cite=1989%201st%20ex.s.%20c%209%20§%20711[1989 1st ex.s. c 9 § 711]; ]
+
+== 70.175.120 - Rural health care facility not a hospital.
+The rural health care facility is not considered a hospital for building occupancy purposes.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex1c9.pdf?cite=1989%201st%20ex.s.%20c%209%20§%20712[1989 1st ex.s. c 9 § 712]; ]
+
+== 70.175.130 - Rural health care plan.
+The department may develop and implement a rural health care plan and may approve hospital and rural health care facility requests to be designated as essential access community hospitals or rural primary care hospitals so that such facilities may form rural health networks to preserve health care services in rural areas and thereby be eligible for federal program funding and enhanced medicare reimbursement. The department may monitor any rural health care plan and designated facilities to assure continued compliance with the rural health care plan.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6076-S.SL.pdf?cite=1992%20c%2027%20§%204[1992 c 27 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c271.pdf?cite=1990%20c%20271%20§%2018[1990 c 271 § 18]; ]
+
+== 70.175.140 - Consultative advice for licensees or applicants.
+Any licensee or applicant desiring to make alterations or additions to its facilities or to construct new facilities may contact the department for consultative advice before commencing such alteration, addition, or new construction.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6076-S.SL.pdf?cite=1992%20c%2027%20§%205[1992 c 27 § 5]; ]
+

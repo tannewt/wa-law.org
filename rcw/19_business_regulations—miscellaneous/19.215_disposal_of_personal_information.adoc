@@ -1,0 +1,51 @@
+= 19.215 - Disposal of personal information.
+:toc:
+
+== 19.215.005 - Finding.
+The legislature finds that the careless disposal of personal information by commercial, governmental, or other entities poses a significant threat of identity theft, thus risking a person's privacy, financial security, and other interests. The alarming increase in identity theft crimes and other problems associated with the improper disposal of personal information can be traced, in part, to disposal policies and methods that make it easy for unscrupulous persons to obtain and use that information to the detriment of the public. Accordingly, the legislature declares that all organizations and individuals have a continuing obligation to ensure the security and confidentiality of personal information during the process of disposing of that information.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2015-S.SL.pdf?cite=2002%20c%2090%20§%201[2002 c 90 § 1]; ]
+
+== 19.215.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Entity" includes a sole proprietor, partnership, corporation, limited liability company, trust, association, financial institution, governmental entity, other than the federal government, and any other individual or group, engaged in a trade, occupation, enterprise, governmental function, or similar activity in this state, however organized and whether organized to operate at a profit.
+
+. "Destroy personal information" means shredding, erasing, or otherwise modifying personal information in records to make the personal information unreadable or undecipherable through any reasonable means.
+
+. "Individual" means a natural person, except that if the individual is under a legal disability, "individual" includes a parent or duly appointed legal representative.
+
+. "Personal financial" and "health information" mean information that is identifiable to an individual and that is commonly used for financial or health care purposes, including account numbers, access codes or passwords, information gathered for account security purposes, credit card numbers, information held for the purpose of account access or transaction initiation, or information that relates to medical history or status.
+
+. "Personal identification number issued by a government entity" means a tax identification number, social security number, driver's license or permit number, state identification card number issued by the department of licensing, or any other number or code issued by a government entity for the purpose of personal identification that is protected and is not available to the public under any circumstances.
+
+. "Record" includes any material, regardless of the physical form, on which information is recorded or preserved by any means, including in written or spoken words, graphically depicted, printed, or electromagnetically transmitted. "Record" does not include publicly available directories containing information an individual has voluntarily consented to have publicly disseminated or listed, such as name, address, or telephone number.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2015-S.SL.pdf?cite=2002%20c%2090%20§%202[2002 c 90 § 2]; ]
+
+== 19.215.020 - Destruction of information—Liability—Exception—Civil action.
+. An entity must take all reasonable steps to destroy, or arrange for the destruction of, personal financial and health information and personal identification numbers issued by government entities in an individual's records within its custody or control when the entity is disposing of records that it will no longer retain.
+
+. An entity is not liable under this section for records it has relinquished to the custody and control of the individual to whom the records pertain.
+
+. This subsection [section] does not apply to the disposal of records by a transfer of the records, not otherwise prohibited by law, to another entity, including a transfer to archive or otherwise preserve public records as required by law.
+
+. An individual injured by the failure of an entity to comply with subsection (1) of this section may bring a civil action in a court of competent jurisdiction. The court may:
+
+.. If the failure to comply is due to negligence, award a penalty of two hundred dollars or actual damages, whichever is greater, and costs and reasonable attorneys' fees; and
+
+.. If the failure to comply is willful, award a penalty of six hundred dollars or damages equal to three times actual damages, whichever is greater, and costs and reasonable attorneys' fees. However, treble damages may not exceed ten thousand dollars.
+
+. An individual having reason to believe that he or she may be injured by an act or failure to act that does not comply with subsection (1) of this section may apply to a court of competent jurisdiction to enjoin the act or failure to act. The court may grant an injunction with terms and conditions as the court may deem equitable.
+
+. The attorney general may bring a civil action in the name of the state for damages, injunctive relief, or both, against an entity that fails to comply with subsection (1) of this section. The court may award damages that are the same as those awarded to individual plaintiffs under subsection (4) of this section.
+
+. The rights and remedies provided under this section are in addition to any other rights or remedies provided by law.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2015-S.SL.pdf?cite=2002%20c%2090%20§%203[2002 c 90 § 3]; ]
+
+== 19.215.030 - Compliance with federal regulations.
+Any bank, financial institution, health care organization, or other entity that is subject to the federal regulations under the interagency guidelines establishing standards for safeguarding customer information (12 C.F.R. 208 Appendix D-2, 12 C.F.R. 364 Appendix B, 12 C.F.R. 30 Appendix B, 12 C.F.R. 570 Appendix B); the guidelines for safeguarding member information (12 C.F.R. 748 Appendix A); and the standards for privacy of individually identifiable health information (45 C.F.R. 160 and 164), and which is in compliance with these federal guidelines, is in compliance with the requirements of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2015-S.SL.pdf?cite=2002%20c%2090%20§%204[2002 c 90 § 4]; ]
+

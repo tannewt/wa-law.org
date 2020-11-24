@@ -1,0 +1,107 @@
+= 81.100 - High occupancy vehicle systems.
+:toc:
+
+== 81.100.010 - Purpose.
+The need for mobility, growing travel demand, and increasing traffic congestion in urban areas necessitate accelerated development and increased utilization of the high occupancy vehicle system. RCW 81.100.030 and 81.100.060 provide taxing authority that counties or regional transportation investment districts can use in the near term to accelerate development and increase utilization of the high occupancy vehicle system by supplementing available federal, state, and local funds.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6140-S2.SL.pdf?cite=2002%20c%2056%20§%20409[2002 c 56 § 409]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c43.pdf?cite=1990%20c%2043%20§%2012[1990 c 43 § 12]; ]
+
+== 81.100.020 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Transit agency" means a city that operates a transit system, a public transportation benefit area, a county transportation authority, or a metropolitan municipal corporation.
+
+. The "high occupancy vehicle system" includes high occupancy vehicle lanes, related high occupancy vehicle facilities, and high occupancy vehicle programs.
+
+. "High occupancy vehicle lanes" mean lanes reserved for public transportation vehicles only or public transportation vehicles and private vehicles carrying no fewer than a specified number of passengers under RCW 46.61.165.
+
+. "Related facilities" means park and ride lots, park and pool lots, ramps, bypasses, turnouts, signal preemption, and other improvements designed to maximize use of the high occupancy vehicle system.
+
+. "High occupancy vehicle program" means advertising the high occupancy vehicle system, promoting carpool, vanpool, and transit use, providing vanpool vehicles, and enforcement of driving restrictions governing high occupancy vehicle lanes.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c43.pdf?cite=1990%20c%2043%20§%2013[1990 c 43 § 13]; ]
+
+== 81.100.030 - Employer tax.
+. A county with a population of one million or more, or a county with a population of from two hundred ten thousand to less than one million that is adjoining a county with a population of one million or more, and having within its boundaries existing or planned high occupancy vehicle lanes on the state highway system, or a regional transportation investment district for capital improvements, but only to the extent that the tax has not already been imposed by the county, may, with voter approval impose an excise tax of up to two dollars per employee per month on all employers or any class or classes of employers, public and private, including the state located in the agency's jurisdiction, measured by the number of full-time equivalent employees. In no event may the total taxes imposed under this section exceed two dollars per employee per month for any single employer. The county or investment district imposing the tax authorized in this section may provide for exemptions from the tax to such educational, cultural, health, charitable, or religious organizations as it deems appropriate.
+
+Counties or investment districts may contract with the state department of revenue or other appropriate entities for administration and collection of the tax. Such contract shall provide for deduction of an amount for administration and collection expenses.
+
+. The tax shall not apply to employment of a person when the employer has paid for at least half of the cost of a transit pass issued by a transit agency for that employee, valid for the period for which the tax would otherwise be owed.
+
+. A county or investment district shall adopt rules that exempt from all or a portion of the tax any employer that has entered into an agreement with the county or investment district that is designed to reduce the proportion of employees who drive in single-occupant vehicles during peak commuting periods in proportion to the degree that the agreement is designed to meet the goals for the employer's location adopted under RCW 81.100.040.
+
+The agreement shall include a list of specific actions that the employer will undertake to be entitled to the exemption. Employers having an exemption from all or part of the tax through this subsection shall annually certify to the county or investment district that the employer is fulfilling the terms of the agreement. The exemption continues as long as the employer is in compliance with the agreement.
+
+If the tax authorized in RCW 81.100.060 is also imposed, the total proceeds from both tax sources each year shall not exceed the maximum amount which could be collected under RCW 81.100.060.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6140-S2.SL.pdf?cite=2002%20c%2056%20§%20410[2002 c 56 § 410]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1201-S.SL.pdf?cite=1991%20c%20363%20§%20153[1991 c 363 § 153]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c43.pdf?cite=1990%20c%2043%20§%2014[1990 c 43 § 14]; ]
+
+== 81.100.040 - Adoption of goals.
+The legislature encourages counties, in conjunction with cities, metropolitan planning organizations, and transit agencies in metropolitan areas to adopt goals for reducing the proportion of commuters who drive in single-occupant vehicles during peak commuting periods. Any county imposing a tax under this chapter must adopt such goals. In adopting these goals, counties shall consider at least the following:
+
+. Existing and anticipated levels of peak-period traffic congestion on roadways used by employees in commuting to work;
+
+. Existing and anticipated levels of transit and vanpool service and carpool programs available to and from the worksite;
+
+. Variations in employment density and employer size;
+
+. Availability and cost of parking; and
+
+. Consistency of the goals with the regional transportation plan.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c43.pdf?cite=1990%20c%2043%20§%2015[1990 c 43 § 15]; ]
+
+== 81.100.050 - Survey of tax use.
+The department of transportation shall include in the annual transit report under RCW 35.58.2795 and 35.58.2796 an element describing actions taken under this chapter. On at least two occasions prior to December 31, 1998, the department shall include an evaluation of the effectiveness of such actions.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c43.pdf?cite=1990%20c%2043%20§%2016[1990 c 43 § 16]; ]
+
+== 81.100.060 - Imposition of surcharge (as amended by 2006 c 311).
+A county with a population of one million or more and a county with a population of from two hundred ten thousand to less than one million that is adjoining a county with a population of one million or more, having within their boundaries existing or planned high occupancy vehicle lanes on the state highway system, or a regional transportation investment district ((for capital improvements)), but only to the extent that the surcharge has not already been imposed by the county, may, with voter approval, impose a local surcharge of not more than three-tenths of one percent in the case of a county, or eight-tenths of one percent in the case of a regional transportation investment district, of the value on vehicles registered to a person residing within the county or investment district and not more than 13.64 percent on the state sales and use taxes paid under the rate in RCW 82.08.020(2) on retail car rentals within the county or investment district. A county may impose the surcharge only to the extent that it has not been imposed by the district. No surcharge may be imposed on vehicles licensed under *RCW 46.16.070 except vehicles with an unladen weight of six thousand pounds or less, RCW ** 46.16.079, ** 46.16.085, or * 46.16.090.
+
+Counties or investment districts imposing a ((tax)) surcharge under this section shall contract, before the effective date of the resolution or ordinance imposing a surcharge, administration and collection to the state department of licensing, and department of revenue, as appropriate, which shall deduct ((an)) a percentage amount, as provided by contract, not to exceed ***two percent of the taxes, for administration and collection expenses incurred by the department. All administrative provisions in chapters 82.03, 82.32, and *** 82.44 RCW shall, insofar as they are applicable to motor vehicle excise taxes, be applicable to surcharges imposed under this section. All administrative provisions in chapters 82.03, 82.08, 82.12, and 82.32 RCW shall, insofar as they are applicable to state sales and use taxes, be applicable to surcharges imposed under this section. A surcharge imposed under this section, or a change to the surcharge, shall take effect no sooner than seventy-five days after the department of licensing or the department of revenue receives notice of the surcharge or change to the surcharge, and shall take effect only on the first day of January, April, July, or October. Unless waived by the department of licensing or the department of revenue, notice includes providing the appropriate department with digital mapping and legal descriptions of areas in which the ****tax will be collected.
+
+If the tax authorized in RCW 81.100.030 is also imposed, the total proceeds from tax sources imposed under this section and RCW 81.100.030 each year shall not exceed the maximum amount which could be collected under this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2871-S.SL.pdf?cite=2006%20c%20311%20§%2015[2006 c 311 § 15]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6140-S2.SL.pdf?cite=2002%20c%2056%20§%20411[2002 c 56 § 411]; 1998 c 321 § 34 (Referendum Bill No. 49, approved November 3, 1998); http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2964-S.SL.pdf?cite=1992%20c%20194%20§%2012[1992 c 194 § 12]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1201-S.SL.pdf?cite=1991%20c%20363%20§%20154[1991 c 363 § 154]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c43.pdf?cite=1990%20c%2043%20§%2017[1990 c 43 § 17]; ]
+
+== 81.100.070 - High occupancy vehicle account.
+Funds collected by the department of revenue or other entity under RCW 81.100.030, or by the department of licensing under RCW 81.100.060, less the deduction for collection expenses, shall be deposited in the high occupancy vehicle account hereby created in the custody of the state treasurer. On the first day of the months of January, April, July, and October of each year, the state treasurer shall distribute the funds in the account to the counties on whose behalf the funds were received. The state treasurer shall make the distribution under this section without appropriation.
+
+[ 1991 sp.s. c 13 §§ 105, 119; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c43.pdf?cite=1990%20c%2043%20§%2018[1990 c 43 § 18]; ]
+
+== 81.100.080 - Use of funds.
+. Funds collected under RCW 81.100.030 or 81.100.060 and any investment earnings accruing thereon shall be used by the county or the regional transportation investment district in a manner consistent with the regional transportation plan only for costs of collection, costs of preparing, adopting, and enforcing agreements under RCW 81.100.030(3), for construction of high occupancy vehicle lanes and related facilities, mitigation of environmental concerns that result from construction or use of high occupancy vehicle lanes and related facilities, payment of principal and interest on bonds issued for the purposes of this section, for high occupancy vehicle programs as defined in RCW 81.100.020(5), or for commuter rail projects in accordance with RCW 81.104.120. Except for funds raised by an investment district, no funds collected under RCW 81.100.030 or 81.100.060 after June 30, 2000, may be pledged for the payment or security of the principal or interest on any bonds issued for the purposes of this section. Not more than ten percent of the funds may be used for transit agency high occupancy vehicle programs.
+
+. Notwithstanding the limitations in this chapter, a regional transportation investment district may use funds collected under RCW 81.100.030 or 81.100.060 and any investment earnings accruing thereon for projects contained in a plan developed under chapter 36.120 RCW. These expenditures shall not be limited to high occupancy vehicle systems.
+
+. Priorities for construction of high occupancy vehicle lanes and related facilities shall be as follows:
+
+.. [Empty]
+... To accelerate construction of high occupancy vehicle lanes on the interstate highway system, as well as related facilities;
+
+... To finance or accelerate construction of high occupancy vehicle lanes on the noninterstate state highway system, as well as related facilities.
+
+.. To finance construction of high occupancy vehicle lanes on local arterials, as well as related facilities.
+
+. Moneys received by a county under this chapter shall be used in addition to, and not as a substitute for, moneys currently used by the county for the purposes specified in this section.
+
+. Counties and investment districts may contract with cities or the state department of transportation for construction of high occupancy vehicle lanes and related facilities, and may issue general obligation bonds to fund such construction and use funds received under this chapter to pay the principal and interest on such bonds.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2871-S.SL.pdf?cite=2006%20c%20311%20§%2014[2006 c 311 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c43.pdf?cite=1990%20c%2043%20§%2019[1990 c 43 § 19]; ]
+
+== 81.100.090 - Interlocal agreements.
+Counties imposing a tax under this chapter shall enter into an agreement through the interlocal cooperation act with the department of transportation. The agreement shall provide an opportunity for the department of transportation, cities and transit agencies having within their boundaries a portion of the existing or planned high occupancy vehicle system as contained in the regional transportation plan, to coordinate programming and operational decisions affecting the high occupancy vehicle system. If two or more adjoining counties impose a tax under RCW 81.100.030 or 81.100.060, the counties shall jointly enter one interlocal agreement with the department of transportation.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c43.pdf?cite=1990%20c%2043%20§%2020[1990 c 43 § 20]; ]
+
+== 81.100.100 - Urban public transportation system.
+The high occupancy vehicle system is an urban public transportation system as defined in RCW 47.04.082.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c43.pdf?cite=1990%20c%2043%20§%2021[1990 c 43 § 21]; ]
+
+== 81.100.900 - Construction—Severability—Headings—1990 c 43.
+See notes following RCW 81.100.010.
+
+[ ]
+

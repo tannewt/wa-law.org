@@ -1,0 +1,194 @@
+= 18.260 - Dental professionals.
+:toc:
+
+== 18.260.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Close supervision" means that a supervising dentist whose patient is being treated has personally diagnosed the condition to be treated and has personally authorized the procedures to be performed. The supervising dentist is continuously on-site and physically present in the treatment facility while the procedures are performed by the assistive personnel and capable of responding immediately in the event of an emergency. The term does not require a supervising dentist to be physically present in the operatory.
+
+. "Commission" means the Washington state dental quality assurance commission created in chapter 18.32 RCW.
+
+. "Dental assistant" means a person who is registered by the commission to provide supportive services to a licensed dentist to the extent provided in this chapter and under the close supervision of a dentist.
+
+. "Dentist" means an individual who holds a license to practice dentistry under chapter 18.32 RCW.
+
+. "Department" means the department of health.
+
+. "Expanded function dental auxiliary" means a person who is licensed by the commission to provide supportive services to a licensed dentist to the extent provided in this chapter and under the specified level of supervision of a dentist.
+
+. "General supervision" means that a supervising dentist has examined and diagnosed the patient and provided subsequent instructions to be performed by the assistive personnel, but does not require that the dentist be physically present in the treatment facility.
+
+. "Secretary" means the secretary of health.
+
+. "Supervising dentist" means a dentist licensed under chapter 18.32 RCW that is responsible for providing the appropriate level of supervision for dental assistants and expanded function dental auxiliaries.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1099-S.SL.pdf?cite=2007%20c%20269%20§%201[2007 c 269 § 1]; ]
+
+== 18.260.020 - Registration or license required.
+. No person may practice or represent himself or herself as a registered dental assistant by use of any title or description without being registered by the commission as having met the standards established for registration under this chapter unless he or she is exempt under RCW 18.260.110.
+
+. No person may practice or represent himself or herself as a licensed expanded function dental auxiliary by use of any title or description without being licensed by the commission under this chapter unless he or she is exempt under RCW 18.260.110.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1099-S.SL.pdf?cite=2007%20c%20269%20§%202[2007 c 269 § 2]; ]
+
+== 18.260.030 - Dental assistants—Registration.
+The commission shall issue a registration to practice as a dental assistant to any applicant who pays any applicable fees, as established by the secretary in accordance with RCW 43.70.110 and 43.70.250, and submits, on forms provided by the secretary, the applicant's name, address, and other information as determined by the secretary.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1099-S.SL.pdf?cite=2007%20c%20269%20§%203[2007 c 269 § 3]; ]
+
+== 18.260.040 - Dental assistants—Scope of practice.
+. [Empty]
+.. The commission shall adopt rules relating to the scope of dental assisting services related to patient care and laboratory duties that may be performed by dental assistants.
+
+.. In addition to the services and duties authorized by the rules adopted under (a) of this subsection, a dental assistant may apply topical anesthetic agents.
+
+.. All dental services performed by dental assistants under (a) or (b) of this subsection must be performed under the close supervision of a supervising dentist as the dentist may allow.
+
+. In addition to any other limitations established by the commission, dental assistants may not perform the following procedures:
+
+.. Any scaling procedure;
+
+.. Any oral prophylaxis, except coronal polishing;
+
+.. Administration of any general or local anesthetic, including intravenous sedation;
+
+.. Any removal of or addition to the hard or soft tissue of the oral cavity;
+
+.. Any diagnosis of or prescription for treatment of disease, pain, deformity, deficiency, injury, or physical condition of the human teeth, jaw, or adjacent structures; and
+
+.. The taking of any impressions of the teeth or jaw or the relationships of the teeth or jaws, for the purpose of fabricating any intra-oral restoration, appliance, or prosthesis, other than impressions allowed as a delegated duty for dental assistants pursuant to rules adopted by the commission.
+
+. A dentist may not assign a dental assistant to perform duties until the dental assistant has demonstrated skills necessary to perform competently all assigned duties and responsibilities.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5606.SL.pdf?cite=2015%20c%20120%20§%203[2015 c 120 § 3]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1330.SL.pdf?cite=2013%20c%2087%20§%204[2013 c 87 § 4]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1099-S.SL.pdf?cite=2007%20c%20269%20§%205[2007 c 269 § 5]; ]
+
+== 18.260.050 - Expanded function dental auxiliary—License.
+. The commission shall issue a license to practice as an expanded function dental auxiliary to any applicant who:
+
+.. Pays any applicable fees as established by the secretary in accordance with RCW 43.70.110 and 43.70.250;
+
+.. Submits, on forms provided by the secretary, the applicant's name, address, and other applicable information as determined by the secretary; and
+
+.. Demonstrates that the following requirements have been met:
+
+... Successful completion of a dental assisting education program approved by the commission. The program may be an approved online education program;
+
+... Successful completion of an expanded function dental auxiliary education program approved by the commission; and
+
+... Successful passage of both a written examination and a clinical examination in restorations approved by the commission.
+
+. [Empty]
+.. An applicant that holds a limited license to practice dental hygiene under chapter 18.29 RCW is considered to have met the dental assisting education program requirements of subsection (1)(c)(i) of this section.
+
+.. An applicant that holds a full license to practice dental hygiene under chapter 18.29 RCW is considered to have met the requirements of subsection (1)(c) of this section upon demonstrating the successful completion of training in taking final impressions as approved by the commission.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1099-S.SL.pdf?cite=2007%20c%20269%20§%204[2007 c 269 § 4]; ]
+
+== 18.260.060 - Expanded function dental auxiliary—License—Reciprocity.
+An applicant holding a license in another state may be licensed as an expanded function dental auxiliary in this state without examination if the commission determines that the other state's licensing standards are substantially equivalent to the standards in this state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1099-S.SL.pdf?cite=2007%20c%20269%20§%209[2007 c 269 § 9]; ]
+
+== 18.260.065 - Registration or licensing requirements—Military training or experience.
+An applicant with military training or experience satisfies the training or experience requirements of this chapter unless the commission determines that the military training or experience is not substantially equivalent to the standards of this state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5307-S.SL.pdf?cite=2011%20c%2032%20§%2014[2011 c 32 § 14]; ]
+
+== 18.260.070 - Expanded function dental auxiliary—Scope of practice.
+. The commission shall adopt rules relating to the scope of expanded function dental auxiliary services related to patient care and laboratory duties that may be performed by expanded function dental auxiliaries.
+
+. The scope of expanded function dental auxiliary services that the commission identifies in subsection (1) of this section includes:
+
+.. In addition to the dental assisting services that a dental assistant may perform under the close supervision of a supervising dentist, the performance of the following services under the general supervision of a supervising dentist as the dentist may allow:
+
+... Performing coronal polishing;
+
+... Giving fluoride treatments;
+
+... Applying sealants;
+
+... Placing dental X-ray film and exposing and developing the films;
+
+.. Giving patient oral health instruction; and
+
+.. Notwithstanding any prohibitions in RCW 18.260.040, the performance of the following services under the close supervision of a supervising dentist as the dentist may allow:
+
+... Placing and carving direct restorations; and
+
+... Taking final impressions.
+
+. A dentist may not assign an expanded function dental auxiliary to perform services until the expanded function dental auxiliary has demonstrated skills necessary to perform competently all assigned duties and responsibilities.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1099-S.SL.pdf?cite=2007%20c%20269%20§%206[2007 c 269 § 6]; ]
+
+== 18.260.080 - Supervising dentist—Responsibilities.
+A supervising dentist is responsible for:
+
+. Maintaining the appropriate level of supervision for dental assistants and expanded function dental auxiliaries; and
+
+. Ensuring that the dental assistants and expanded function dental auxiliaries that the dentist supervises are able to competently perform the tasks that they are assigned.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1099-S.SL.pdf?cite=2007%20c%20269%20§%207[2007 c 269 § 7]; ]
+
+== 18.260.090 - Initial or renewal credentials—Issuance and denial.
+The commission shall issue an initial credential or renewal credential to an applicant who has met the requirements for a credential or deny an initial credential or renewal credential based upon failure to meet the requirements for a credential or unprofessional conduct or impairment governed by chapter 18.130 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1099-S.SL.pdf?cite=2007%20c%20269%20§%208[2007 c 269 § 8]; ]
+
+== 18.260.100 - Examinations.
+. The commission may approve a written examination prepared or administered by a private testing agency or association of licensing agencies for use by an applicant in meeting the licensing requirements under RCW 18.260.050. The requirement that the examination be written does not exclude the use of computerized test administration.
+
+. The commission, upon consultation with the dental hygiene examining committee, may approve a clinical examination prepared or administered by a private testing agency or association of licensing agencies for use by an applicant in meeting the licensing requirements under RCW 18.260.050.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1099-S.SL.pdf?cite=2007%20c%20269%20§%2010[2007 c 269 § 10]; ]
+
+== 18.260.110 - Limitation of chapter.
+Nothing in this chapter may be construed to prohibit or restrict:
+
+. The practice of a dental assistant in the discharge of official duties by dental assistants in the United States federal services on federal reservations, including but not limited to the armed services, coast guard, public health service, veterans' bureau, or bureau of Indian affairs;
+
+. Expanded function dental auxiliary education and training programs approved by the commission and the practice as an expanded function dental auxiliary by students in expanded function dental auxiliary education and training programs approved by the commission, when acting under the direction and supervision of persons licensed under chapter 18.29 or 18.32 RCW;
+
+. Dental assistant education and training programs, and the practice of dental assisting by students in dental assistant education and training programs approved by the commission or offered at a school approved or licensed by the workforce training and education coordinating board, student achievement council, state board for community and technical colleges, or Washington state skill centers certified by the office of the superintendent of public instruction, when acting under the direction and supervision of persons registered or licensed under this chapter or chapter 18.29 or 18.32 RCW;
+
+. The practice of a volunteer dental assistant providing services under the supervision of a licensed dentist in a charitable dental clinic, as approved by the commission in rule; or
+
+. The performance of dental health aide therapist services to the extent authorized under chapter 70.350 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5079-S.SL.pdf?cite=2017%20c%205%20§%206[2017 c 5 § 6]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2483-S2.SL.pdf?cite=2012%20c%20229%20§%20502[2012 c 229 § 502]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3088.SL.pdf?cite=2008%20c%20150%20§%201[2008 c 150 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1099-S.SL.pdf?cite=2007%20c%20269%20§%2011[2007 c 269 § 11]; ]
+
+== 18.260.120 - Rules.
+The commission may adopt rules under chapter 34.05 RCW as required to implement this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1099-S.SL.pdf?cite=2007%20c%20269%20§%2012[2007 c 269 § 12]; ]
+
+== 18.260.130 - Application of uniform disciplinary act.
+Chapter 18.130 RCW governs unregistered or unlicensed practice, the issuance and denial of credentials, and the discipline of those credentialed under this chapter. The commission is the disciplining authority under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1099-S.SL.pdf?cite=2007%20c%20269%20§%2013[2007 c 269 § 13]; ]
+
+== 18.260.140 - Department review.
+By November 15, 2012, the department, in consultation with the commission and the dental hygiene examining committee, shall conduct a review of the effectiveness of the creation of the dental assistant and expanded function dental auxiliary professions as related to:
+
+. Increasing professional standards in dental practices;
+
+. Increasing efficiency in dental practices and community health clinics;
+
+. Promoting career ladders in the dental professions; and
+
+. Recommendations for expanding or contracting the practice of dental assistants and expanded function dental auxiliaries.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1099-S.SL.pdf?cite=2007%20c%20269%20§%2018[2007 c 269 § 18]; ]
+
+== 18.260.900 - Application—2007 c 269.
+. The provisions of this act apply to registered dental assistants effective July 1, 2008.
+
+. The provisions of this act apply to expanded function dental auxiliaries effective December 1, 2008.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1099-S.SL.pdf?cite=2007%20c%20269%20§%2021[2007 c 269 § 21]; ]
+
+== 18.260.901 - Implementation—2007 c 269.
+The secretary of health and the Washington state dental quality assurance commission may take the necessary steps to ensure that this act is implemented on its effective date.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1099-S.SL.pdf?cite=2007%20c%20269%20§%2022[2007 c 269 § 22]; ]
+

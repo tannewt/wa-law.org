@@ -1,0 +1,112 @@
+= 82.62 - Tax credits for eligible business projects in rural counties.
+:toc:
+
+== 82.62.010 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Applicant" means a person applying for a tax credit under this chapter.
+
+. "Department" means the department of revenue.
+
+. "Eligible area" means a "rural county" as defined in RCW 82.14.370.
+
+. [Empty]
+.. "Eligible business project" means manufacturing or research and development activities which are conducted by an applicant in an eligible area at a specific facility, provided the applicant's average qualified employment positions at the specific facility will be at least fifteen percent greater in the four consecutive full calendar quarters after the calendar quarter during which the first qualified employment position is filled than the applicant's average qualified employment positions at the same facility in the four consecutive full calendar quarters immediately preceding the calendar quarter during which the first qualified employment position is filled.
+
+.. "Eligible business project" does not include any portion of a business project undertaken by a light and power business as defined in RCW 82.16.010 or that portion of a business project creating qualified full-time employment positions outside an eligible area.
+
+. "First qualified employment position" means the first qualified employment position filled for which a credit under this chapter is sought.
+
+. "Manufacturing" means the same as defined in RCW 82.04.120. "Manufacturing" also includes:
+
+.. Before July 1, 2010: (i) Computer programming, the production of computer software, and other computer-related services, but only when the computer programming, production of computer software, or other computer-related services are performed by a manufacturer as defined in RCW 82.04.110 and contribute to the production of a new, different, or useful substance or article of tangible personal property for sale; and (ii) the activities performed by research and development laboratories and commercial testing laboratories; and
+
+.. Beginning July 1, 2010, the activities performed by research and development laboratories and commercial testing laboratories.
+
+. "Person" has the meaning given in RCW 82.04.030.
+
+. [Empty]
+.. [Empty]
+... "Qualified employment position" means a permanent full-time employee employed in the eligible business project during four consecutive full calendar quarters.
+
+... For seasonal employers, "qualified employment position" also includes the equivalent of a full-time employee in work hours for four consecutive full calendar quarters.
+
+.. For purposes of this subsection, "full time" means a normal workweek of at least thirty-five hours.
+
+.. Once a permanent, full-time employee has been employed, a position does not cease to be a qualified employment position solely due to periods in which the position goes vacant, as long as:
+
+... The cumulative period of any vacancies in that position is not more than one hundred twenty days in the four-quarter period; and
+
+... During a vacancy, the employer is training or actively recruiting a replacement permanent, full-time employee for the position.
+
+. "Recipient" means a person receiving tax credits under this chapter.
+
+. "Research and development" means the development, refinement, testing, marketing, and commercialization of a product, service, or process before commercial sales have begun, but only when such activities are intended to ultimately result in the production of a new, different, or useful substance or article of tangible personal property for sale. As used in this subsection, "commercial sales" excludes sales of prototypes or sales for market testing if the total gross receipts from such sales of the product, service, or process do not exceed one million dollars.
+
+. "Seasonal employee" means an employee of a seasonal employer who works on a seasonal basis. For the purposes of this subsection and subsection (12) of this section, "seasonal basis" means a continuous employment period of less than twelve consecutive months.
+
+. "Seasonal employer" means a person who regularly hires more than fifty percent of its employees to work on a seasonal basis.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/3014-S.SL.pdf?cite=2010%201st%20sp.s.%20c%2016%20§%2011[2010 1st sp.s. c 16 § 11]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1597-S2.SL.pdf?cite=2010%20c%20106%20§%20232[2010 c 106 § 232]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1566-S.SL.pdf?cite=2007%20c%20485%20§%201[2007 c 485 § 1]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1361.SL.pdf?cite=2001%20c%20320%20§%2012[2001 c 320 § 12]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2295.SL.pdf?cite=1999%20sp.s.%20c%209%20§%203[1999 sp.s. c 9 § 3]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5594-S2.SL.pdf?cite=1999%20c%20164%20§%20305[1999 c 164 § 305]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2337.SL.pdf?cite=1996%20c%20290%20§%205[1996 c 290 § 5]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2319-S2.SL.pdf?cite=1994%20sp.s.%20c%207%20§%20705[1994 sp.s. c 7 § 705]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5967-S.SL.pdf?cite=1993%20sp.s.%20c%2025%20§%20410[1993 sp.s. c 25 § 410]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c42.pdf?cite=1988%20c%2042%20§%2017[1988 c 42 § 17]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c116.pdf?cite=1986%20c%20116%20§%2015[1986 c 116 § 15]; ]
+
+== 82.62.020 - Application for tax credits—Contents.
+Application for tax credits under this chapter must be made within ninety consecutive days after the first qualified employment position is filled. The application shall be made to the department in a form and manner prescribed by the department. The application shall contain information regarding the location of the business project, the applicant's average employment, if any, at the facility for the four consecutive full calendar quarters immediately preceding the earlier of the calendar quarter during which the application required by this section is submitted to the department or the first qualified employment position is filled, estimated or actual new employment related to the project, estimated or actual wages of employees related to the project, estimated or actual costs, time schedules for completion and operation, and other information required by the department. The department shall prescribe a method for calculating a seasonal employer's average employment levels. The department shall rule on the application within sixty days.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1566-S.SL.pdf?cite=2007%20c%20485%20§%202[2007 c 485 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c116.pdf?cite=1986%20c%20116%20§%2016[1986 c 116 § 16]; ]
+
+== 82.62.030 - Allowance of tax credits—Limitations.
+. [Empty]
+.. A person shall be allowed a credit against the tax due under chapter 82.04 RCW as provided in this section. The credit shall equal: (i) Four thousand dollars for each qualified employment position with wages and benefits greater than forty thousand dollars annually that is directly created in an eligible business project and (ii) two thousand dollars for each qualified employment position with wages and benefits less than or equal to forty thousand dollars annually that is directly created in an eligible business project.
+
+.. For purposes of calculating the amount of credit under (a) of this subsection with respect to qualified employment positions as defined in RCW 82.62.010(8)(a)(ii):
+
+... In determining the number of qualified employment positions, a fractional amount is rounded down to the nearest whole number; and
+
+... Wages and benefits for each qualified employment position shall be equal to the quotient derived by dividing: (A) The sum of the wages and benefits earned for the four consecutive full calendar quarter period for which a credit under this chapter is earned by all of the person's new seasonal employees hired during that period; by (B) the number of qualified employment positions plus any fractional amount subject to rounding as provided under (b)(i) of this subsection. For purposes of this chapter, a credit is earned for the four consecutive full calendar quarters after the calendar quarter during which the first qualified employment position is filled.
+
+. The department shall keep a running total of all credits allowed under this chapter during each fiscal year. The department shall not allow any credits which would cause the total to exceed seven million five hundred thousand dollars in any fiscal year. If all or part of an application for credit is disallowed under this subsection, the disallowed portion shall be carried over to the next fiscal year. However, the carryover into the next fiscal year is only permitted to the extent that the cap for the next fiscal year is not exceeded.
+
+. No recipient may use the tax credits to decertify a union or to displace existing jobs in any community in the state.
+
+. The credit may be used against any tax due under chapter 82.04 RCW, and may be carried over until used. No refunds may be granted for credits under this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1566-S.SL.pdf?cite=2007%20c%20485%20§%203[2007 c 485 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1361.SL.pdf?cite=2001%20c%20320%20§%2013[2001 c 320 § 13]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5594-S2.SL.pdf?cite=1999%20c%20164%20§%20306[1999 c 164 § 306]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5740-S2.SL.pdf?cite=1997%20c%20366%20§%205[1997 c 366 § 5]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6117.SL.pdf?cite=1996%20c%201%20§%203[1996 c 1 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c116.pdf?cite=1986%20c%20116%20§%2017[1986 c 116 § 17]; ]
+
+== 82.62.045 - Tax credits for eligible business projects in designated community empowerment zones.
+. For the purposes of this section "eligible area" also means a designated community empowerment zone approved under RCW 43.31C.020.
+
+. An eligible business project located within an eligible area as defined in this section qualifies for a credit under this chapter for those employees who at the time of hire are residents of the community empowerment zone in which the project is located, if the fifteen percent threshold is met. As used in this subsection, "resident" means the person makes his or her home in the community empowerment zone. A mailing address alone is insufficient to establish that a person is a resident for the purposes of this section.
+
+. All other provisions and eligibility requirements of this chapter apply to applicants eligible under this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1566-S.SL.pdf?cite=2007%20c%20485%20§%204[2007 c 485 § 4]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5594-S2.SL.pdf?cite=1999%20c%20164%20§%20307[1999 c 164 § 307]; ]
+
+== 82.62.050 - Tax credit recipients to report to department—Payment of taxes and interest by ineligible recipients.
+. Each recipient shall submit a report to the department by the last day of the month immediately following the end of the four consecutive full calendar quarter period for which a credit under this chapter is earned. The report shall contain information, as required by the department, from which the department may determine whether the recipient is meeting the requirements of this chapter. If the recipient fails to submit a report or submits an inadequate report, the department may declare the amount of taxes for which a credit has been used to be immediately assessed and payable. The recipient must keep records, such as payroll records showing the date of hire and employment security reports, to verify eligibility under this section.
+
+. If, on the basis of a report under this section or other information, the department finds that a business project is not eligible for tax credit under this chapter for reasons other than failure to create the required number of qualified employment positions, the amount of taxes for which a credit has been used for the project shall be immediately due.
+
+. If, on the basis of a report under this section or other information, the department finds that a business project has failed to create the specified number of qualified employment positions, the department shall assess interest, but not penalties, on the credited taxes for which a credit has been used for the project. The interest shall be assessed at the rate provided for delinquent excise taxes, shall be assessed retroactively to the date of the tax credit, and shall accrue until the taxes for which a credit has been used are repaid.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1566-S.SL.pdf?cite=2007%20c%20485%20§%205[2007 c 485 § 5]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1361.SL.pdf?cite=2001%20c%20320%20§%2014[2001 c 320 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c116.pdf?cite=1986%20c%20116%20§%2018[1986 c 116 § 18]; ]
+
+== 82.62.060 - Employment and wage determinations.
+The employment security department shall make, and certify to the department of revenue, all determinations of employment and wages requested by the department under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2519.SL.pdf?cite=2000%20c%20106%20§%207[2000 c 106 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c116.pdf?cite=1986%20c%20116%20§%2019[1986 c 116 § 19]; ]
+
+== 82.62.070 - Applicability of general administrative provisions.
+Chapter 82.32 RCW applies to the administration of this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c116.pdf?cite=1986%20c%20116%20§%2020[1986 c 116 § 20]; ]
+
+== 82.62.080 - Applications, reports, and other information subject to disclosure.
+Applications, reports, and any other information received by the department under this chapter, except applications not approved by the department, are not confidential and are subject to disclosure.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1597-S2.SL.pdf?cite=2010%20c%20106%20§%20107[2010 c 106 § 107]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c49.pdf?cite=1987%20c%2049%20§%203[1987 c 49 § 3]; ]
+
+== 82.62.901 - Effective date—1986 c 116 §§ 15-20.
+Sections 15 through 20 of this act are necessary for the immediate preservation of the public peace, health, and safety, the support of the state government and its existing public institutions, and shall take effect April 1, 1986.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c116.pdf?cite=1986%20c%20116%20§%2024[1986 c 116 § 24]; ]
+

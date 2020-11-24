@@ -1,0 +1,43 @@
+= 64.40 - Property rights—Damages from governmental actions.
+:toc:
+
+== 64.40.010 - Definitions—Defense in action for damages.
+As used in this chapter, the terms in this section shall have the meanings indicated unless the context clearly requires otherwise.
+
+. "Agency" means the state of Washington, any of its political subdivisions, including any city, town, or county, and any other public body exercising regulatory authority or control over the use of real property in the state.
+
+. "Permit" means any governmental approval required by law before an owner of a property interest may improve, sell, transfer, or otherwise put real property to use.
+
+. "Property interest" means any interest or right in real property in the state.
+
+. "Damages" means reasonable expenses and losses, other than speculative losses or profits, incurred between the time a cause of action arises and the time a holder of an interest in real property is granted relief as provided in RCW 64.40.020. Damages must be caused by an act, necessarily incurred, and actually suffered, realized, or expended, but are not based upon diminution in value of or damage to real property, or litigation expenses.
+
+. "Regulation" means any ordinance, resolution, or other rule or regulation adopted pursuant to the authority provided by state law, which imposes or alters restrictions, limitations, or conditions on the use of real property.
+
+. "Act" means a final decision by an agency which places requirements, limitations, or conditions upon the use of real property in excess of those allowed by applicable regulations in effect on the date an application for a permit is filed. "Act" also means the failure of an agency to act within time limits established by law in response to a property owner's application for a permit: PROVIDED, That there is no "act" within the meaning of this section when the owner of a property interest agrees in writing to extensions of time, or to the conditions or limitations imposed upon an application for a permit. "Act" shall not include lawful decisions of an agency which are designed to prevent a condition which would constitute a threat to the health, safety, welfare, or morals of residents in the area.
+
+In any action brought pursuant to this chapter, a defense is available to a political subdivision of this state that its act was mandated by a change in statute or state rule or regulation and that such a change became effective subsequent to the filing of an application for a permit.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c232.pdf?cite=1982%20c%20232%20§%201[1982 c 232 § 1]; ]
+
+== 64.40.020 - Applicant for permit—Actions for damages from governmental actions.
+. Owners of a property interest who have filed an application for a permit have an action for damages to obtain relief from acts of an agency which are arbitrary, capricious, unlawful, or exceed lawful authority, or relief from a failure to act within time limits established by law: PROVIDED, That the action is unlawful or in excess of lawful authority only if the final decision of the agency was made with knowledge of its unlawfulness or that it was in excess of lawful authority, or it should reasonably have been known to have been unlawful or in excess of lawful authority.
+
+. The prevailing party in an action brought pursuant to this chapter may be entitled to reasonable costs and attorney's fees.
+
+. No cause of action is created for relief from unintentional procedural or ministerial errors of an agency.
+
+. Invalidation of any regulation in effect prior to the date an application for a permit is filed with the agency shall not constitute a cause of action under this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c232.pdf?cite=1982%20c%20232%20§%202[1982 c 232 § 2]; ]
+
+== 64.40.030 - Commencement of action—Time limitation.
+Any action to assert claims under the provisions of this chapter shall be commenced only within thirty days after all administrative remedies have been exhausted.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c232.pdf?cite=1982%20c%20232%20§%203[1982 c 232 § 3]; ]
+
+== 64.40.040 - Remedies cumulative.
+The remedies provided by this chapter are in addition to any other remedies provided by law.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c232.pdf?cite=1982%20c%20232%20§%204[1982 c 232 § 4]; ]
+

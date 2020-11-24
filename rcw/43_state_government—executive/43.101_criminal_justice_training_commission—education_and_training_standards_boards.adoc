@@ -1,0 +1,791 @@
+= 43.101 - Criminal justice training commission—Education and training standards boards.
+:toc:
+
+== 43.101.010 - Definitions.
+When used in this chapter:
+
+. The term "commission" means the Washington state criminal justice training commission.
+
+. The term "boards" means the education and training standards boards, the establishment of which are authorized by this chapter.
+
+. The term "criminal justice personnel" means any person who serves in a county, city, state, or port commission agency engaged in crime prevention, crime reduction, or enforcement of the criminal law.
+
+. The term "law enforcement personnel" means any public employee or volunteer having as a primary function the enforcement of criminal laws in general or any employee or volunteer of, or any individual commissioned by, any municipal, county, state, or combination thereof, agency having as its primary function the enforcement of criminal laws in general as distinguished from an agency possessing peace officer powers, the primary function of which is the implementation of specialized subject matter areas. For the purposes of this subsection "primary function" means that function to which the greater allocation of resources is made.
+
+. The term "correctional personnel" means any employee or volunteer who by state, county, municipal, or combination thereof, statute has the responsibility for the confinement, care, management, training, treatment, education, supervision, or counseling of those individuals whose civil rights have been limited in some way by legal sanction.
+
+. "Chief for a day program" means a program in which commissioners and staff partner with local, state, and federal law enforcement agencies, hospitals, and the community to provide a day of special attention to chronically ill children. Each child is selected and sponsored by a law enforcement agency. The event, "chief for a day," occurs on one day, annually or every other year and may occur on the grounds and in the facilities of the commission. The program may include any appropriate honoring of the child as a "chief," such as a certificate swearing them in as a chief, a badge, a uniform, and donated gifts such as games, puzzles, and art supplies.
+
+. A peace officer or corrections officer is "convicted" at the time a plea of guilty has been accepted, or a verdict of guilty or finding of guilt has been filed, notwithstanding the pendency of any future proceedings, including but not limited to sentencing, posttrial or postfact-finding motions and appeals. "Conviction" includes a deferral of sentence and also includes the equivalent disposition by a court in a jurisdiction other than the state of Washington.
+
+. [Empty]
+.. "Discharged for disqualifying misconduct" has the following meanings:
+
+... A peace officer terminated from employment for: (A) Conviction of (I) any crime committed under color of authority as a peace officer, (II) any crime involving dishonesty or false statement within the meaning of Evidence Rule 609(a), (III) the unlawful use or possession of a controlled substance, or (IV) any other crime the conviction of which disqualifies a Washington citizen from the legal right to possess a firearm under state or federal law; (B) conduct that would constitute any of the crimes addressed in (a)(i)(A) of this subsection; or (C) knowingly making materially false statements during disciplinary investigations, where the false statements are the sole basis for the termination; or
+
+... A corrections officer terminated from employment for: (A) Conviction of (I) any crime committed under color of authority as a corrections officer, (II) any crime involving dishonesty or false statement within the meaning of Evidence Rule 609(a), or (III) the unlawful use or possession of a controlled substance; (B) conduct that would constitute any of the crimes addressed in (a)(ii)(A) of this subsection; or (C) knowingly making materially false statements during disciplinary investigations, where the false statements are the sole basis for the termination.
+
+.. A peace officer or corrections officer is "discharged for disqualifying misconduct" within the meaning of this subsection (8) under the ordinary meaning of the term and when the totality of the circumstances support a finding that the officer resigned in anticipation of discipline, whether or not the misconduct was discovered at the time of resignation, and when such discipline, if carried forward, would more likely than not have led to discharge for disqualifying misconduct within the meaning of this subsection (8).
+
+. When used in context of proceedings referred to in this chapter, "final" means that the peace officer or corrections officer has exhausted all available civil service appeals, collective bargaining remedies, and all other such direct administrative appeals, and the officer has not been reinstated as the result of the action. Finality is not affected by the pendency or availability of state or federal administrative or court actions for discrimination, or by the pendency or availability of any remedies other than direct civil service and collective bargaining remedies.
+
+. "Peace officer" means any law enforcement personnel subject to the basic law enforcement training requirement of RCW 43.101.200 and any other requirements of that section, notwithstanding any waiver or exemption granted by the commission, and notwithstanding the statutory exemption based on date of initial hire under RCW 43.101.200. Commissioned officers of the Washington state patrol, whether they have been or may be exempted by rule of the commission from the basic training requirement of RCW 43.101.200, are included as peace officers for purposes of this chapter. Fish and wildlife officers with enforcement powers for all criminal laws under RCW 77.15.075 are peace officers for purposes of this chapter.
+
+. "Corrections officer" means any corrections agency employee whose primary job function is to provide for the custody, safety, and security of adult prisoners in jails and detention facilities and who is subject to the basic corrections training requirement of RCW 43.101.220 and any other requirements of that section, notwithstanding any waiver or exemption granted by the commission, and notwithstanding the statutory exemption based on date of initial hire under RCW 43.101.220. For the purpose of RCW 43.101.080, 43.101.096, 43.101.106, 43.101.116, 43.101.121, 43.101.126, 43.101.136, 43.101.146, 43.101.156, 43.101.380, and 43.101.400, "corrections officer" does not include individuals employed by state agencies.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2499-S2.SL.pdf?cite=2020%20c%20119%20§%202[2020 c 119 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2999.SL.pdf?cite=2008%20c%2069%20§%202[2008 c 69 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5172.SL.pdf?cite=2003%20c%2039%20§%2027[2003 c 39 § 27]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1062.SL.pdf?cite=2001%20c%20167%20§%201[2001 c 167 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c132.pdf?cite=1981%20c%20132%20§%202[1981 c 132 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c212.pdf?cite=1977%20ex.s.%20c%20212%20§%201[1977 ex.s. c 212 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c94.pdf?cite=1974%20ex.s.%20c%2094%20§%201[1974 ex.s. c 94 § 1]; ]
+
+== 43.101.020 - Commission created—Purpose.
+There is hereby created and established a state commission to be known and designated as the Washington state criminal justice training commission.
+
+The purpose of such commission shall be to provide programs and standards for the training of criminal justice personnel.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c94.pdf?cite=1974%20ex.s.%20c%2094%20§%202[1974 ex.s. c 94 § 2]; ]
+
+== 43.101.021 - Policy.
+It is the policy of the state of Washington that all commissioned, appointed, and elected law enforcement personnel comply with their oath of office and agency policies regarding the duty to be truthful and honest in the conduct of their official business.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6590-S.SL.pdf?cite=2010%20c%20294%20§%201[2010 c 294 § 1]; ]
+
+== 43.101.030 - Membership.
+The commission shall consist of sixteen members, who shall be selected as follows:
+
+. The governor shall appoint two incumbent sheriffs and two incumbent chiefs of police.
+
+. The governor shall appoint one officer at or below the level of first line supervisor from a county law enforcement agency and one officer at or below the level of first line supervisor from a municipal law enforcement agency. Each appointee under this subsection (2) shall have at least ten years experience as a law enforcement officer.
+
+. The governor shall appoint one person employed in a county correctional system and one person employed in the state correctional system.
+
+. The governor shall appoint one incumbent county prosecuting attorney or municipal attorney.
+
+. The governor shall appoint one elected official of a local government.
+
+. The governor shall appoint two private citizens, one from east of the crest of the Cascade mountains and one from west of the crest of the Cascade mountains. At least one of the private citizens must be from a historically underrepresented community or communities.
+
+. The governor shall appoint one tribal chair, board member, councilmember, or designee from a federally recognized tribe with an active certification agreement under RCW 43.101.157.
+
+. The three remaining members shall be:
+
+.. The attorney general;
+
+.. The special agent in charge of the Seattle office of the federal bureau of investigation; and
+
+.. The chief of the state patrol.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2785-S.SL.pdf?cite=2020%20c%2044%20§%201[2020 c 44 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1027.SL.pdf?cite=1999%20c%2097%20§%201[1999 c 97 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c132.pdf?cite=1981%20c%20132%20§%203[1981 c 132 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c55.pdf?cite=1979%20ex.s.%20c%2055%20§%201[1979 ex.s. c 55 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c94.pdf?cite=1974%20ex.s.%20c%2094%20§%203[1974 ex.s. c 94 § 3]; ]
+
+== 43.101.040 - Terms of members—Vacancies.
+All members appointed to the commission by the governor shall be appointed for terms of six years, such terms to commence on July first, and expire on June thirtieth: PROVIDED, That of the members first appointed three shall be appointed for two year terms, three shall be appointed for four year terms, and three shall be appointed for six year terms: PROVIDED, FURTHER, That the terms of the two members appointed as incumbent police chiefs shall not expire in the same year nor shall the terms of the two members appointed as representing correctional systems expire in the same year nor shall the terms of the two members appointed as incumbent sheriffs expire in the same year. Any member chosen to fill a vacancy created otherwise than by expiration of term shall be appointed for the unexpired term of the member he or she is to succeed. Any member may be reappointed for additional terms.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5038.SL.pdf?cite=2009%20c%20549%20§%205167[2009 c 549 § 5167]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c94.pdf?cite=1974%20ex.s.%20c%2094%20§%204[1974 ex.s. c 94 § 4]; ]
+
+== 43.101.050 - Cessation of membership upon termination of office or employment.
+Any member of the commission appointed pursuant to RCW 43.101.030 as an incumbent official or as an employee in a correctional system, as the case may be, shall immediately upon the termination of his or her holding of said office or employment, cease to be a member of the commission.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5038.SL.pdf?cite=2009%20c%20549%20§%205168[2009 c 549 § 5168]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c94.pdf?cite=1974%20ex.s.%20c%2094%20§%205[1974 ex.s. c 94 § 5]; ]
+
+== 43.101.060 - Chair and vice chair—Quorum—Meetings.
+The commission shall elect a chair and a vice chair from among its members. Seven members of the commission shall constitute a quorum. The governor shall summon the commission to its first meeting.
+
+Meetings may be called by the chair and shall be called by him or her upon the written request of six members.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1027.SL.pdf?cite=1999%20c%2097%20§%202[1999 c 97 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c94.pdf?cite=1974%20ex.s.%20c%2094%20§%206[1974 ex.s. c 94 § 6]; ]
+
+== 43.101.070 - Compensation—Reimbursement of travel expenses.
+Members of the commission shall be compensated in accordance with RCW 43.03.240 and shall be reimbursed for their travel expenses incurred in the performance of their duties in accordance with RCW 43.03.050 and 43.03.060. Attendance at meetings of the commission shall be deemed performance by a member of the duties of his or her employment.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5038.SL.pdf?cite=2009%20c%20549%20§%205169[2009 c 549 § 5169]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c287.pdf?cite=1984%20c%20287%20§%2085[1984 c 287 § 85]; 1975-'76 2nd ex.s. c 34 § 126; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c94.pdf?cite=1974%20ex.s.%20c%2094%20§%207[1974 ex.s. c 94 § 7]; ]
+
+== 43.101.080 - Commission powers and duties—Rules and regulations.
+The commission shall have all of the following powers:
+
+. To meet at such times and places as it may deem proper;
+
+. To adopt any rules and regulations as it may deem necessary;
+
+. To contract for services as it deems necessary in order to carry out its duties and responsibilities;
+
+. To cooperate with and secure the cooperation of any department, agency, or instrumentality in state, county, and city government, and other commissions affected by or concerned with the business of the commission;
+
+. To do any and all things necessary or convenient to enable it fully and adequately to perform its duties and to exercise the power granted to it;
+
+. To select and employ an executive director, and to empower him or her to perform such duties and responsibilities as it may deem necessary;
+
+. To assume legal, fiscal, and program responsibility for all training conducted by the commission;
+
+. To establish, by rule and regulation, standards for the training of criminal justice personnel where such standards are not prescribed by statute;
+
+. To own, establish, and operate, or to contract with other qualified institutions or organizations for the operation of, training and education programs for criminal justice personnel and to purchase, lease, or otherwise acquire, subject to the approval of the department of enterprise services, a training facility or facilities necessary to the conducting of such programs;
+
+. To establish, by rule and regulation, minimum curriculum standards for all training programs conducted for employed criminal justice personnel;
+
+. To review and approve or reject standards for instructors of training programs for criminal justice personnel, and to employ personnel on a temporary basis as instructors without any loss of employee benefits to those instructors;
+
+. To direct the development of alternative, innovative, and interdisciplinary training techniques;
+
+. To review and approve or reject training programs conducted for criminal justice personnel and rules establishing and prescribing minimum training and education standards recommended by the training standards and education boards;
+
+. To allocate financial resources among training and education programs conducted by the commission;
+
+. To allocate training facility space among training and education programs conducted by the commission;
+
+. To issue diplomas certifying satisfactory completion of any training or education program conducted or approved by the commission to any person so completing such a program;
+
+. To provide for the employment of such personnel as may be practical to serve as temporary replacements for any person engaged in a basic training program as defined by the commission;
+
+. To establish rules and regulations recommended by the training standards and education boards prescribing minimum standards relating to physical, mental and moral fitness which shall govern the recruitment of criminal justice personnel where such standards are not prescribed by statute or constitutional provision;
+
+. To require county, city, or state law enforcement and corrections agencies that make a conditional offer of employment to an applicant as a fully commissioned peace officer, a reserve officer, or a corrections officer to administer a background investigation including a check of criminal history, verification of immigrant or citizenship status as either a citizen of the United States of America or a lawful permanent resident, a psychological examination, and a polygraph test or similar assessment to each applicant, the results of which shall be used by the employer to determine the applicant's suitability for employment as a fully commissioned peace officer, a reserve officer, or a corrections officer. The background investigation, psychological examination, and the polygraph examination shall be administered in accordance with the requirements of RCW 43.101.095(2) for peace officers, and RCW 43.101.096 for corrections officers. The employing county, city, or state law enforcement agency may require that each peace officer, reserve officer, or corrections officer who is required to take a psychological examination and a polygraph or similar test pay a portion of the testing fee based on the actual cost of the test or four hundred dollars, whichever is less. County, city, and state law enforcement agencies may establish a payment plan if they determine that the peace officer, reserve officer, or corrections officer does not readily have the means to pay for his or her portion of the testing fee. This subsection does not apply to corrections officers employed by state agencies;
+
+. To promote positive relationships between law enforcement and the citizens of the state of Washington by allowing commissioners and staff to participate in the "chief for a day program." The executive director shall designate staff who may participate. In furtherance of this purpose, the commission may accept grants of funds and gifts and may use its public facilities for such purpose. At all times, the participation of commissioners and staff shall comply with chapter 42.52 RCW and chapter 292-110 WAC.
+
+All rules and regulations adopted by the commission shall be adopted and administered pursuant to the administrative procedure act, chapter 34.05 RCW, and the open public meetings act, chapter 42.30 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2499-S2.SL.pdf?cite=2020%20c%20119%20§%2013[2020 c 119 § 13]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6145.SL.pdf?cite=2018%20c%2032%20§%204[2018 c 32 § 4]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5024.SL.pdf?cite=2015%20c%20225%20§%2090[2015 c 225 § 90]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1567-S.SL.pdf?cite=2011%20c%20234%20§%201[2011 c 234 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2999.SL.pdf?cite=2008%20c%2069%20§%203[2008 c 69 § 3]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1081.SL.pdf?cite=2005%20c%20434%20§%201[2005 c 434 § 1]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1066.SL.pdf?cite=2001%20c%20166%20§%201[2001 c 166 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c124.pdf?cite=1982%20c%20124%20§%201[1982 c 124 § 1]; 1975-'76 2nd ex.s. c 17 § 3; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c103.pdf?cite=1975%201st%20ex.s.%20c%20103%20§%201[1975 1st ex.s. c 103 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c82.pdf?cite=1975%201st%20ex.s.%20c%2082%20§%201[1975 1st ex.s. c 82 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c94.pdf?cite=1974%20ex.s.%20c%2094%20§%208[1974 ex.s. c 94 § 8]; ]
+
+== 43.101.085 - Additional powers and duties.
+In addition to its other powers granted under this chapter, the commission has authority and power to:
+
+. Adopt, amend, or repeal rules as necessary to carry out this chapter;
+
+. Issue subpoenas and administer oaths in connection with investigations, hearings, or other proceedings held under this chapter;
+
+. Take or cause to be taken depositions and other discovery procedures as needed in investigations, hearings, and other proceedings held under this chapter;
+
+. Appoint members of a hearings board as provided under RCW 43.101.380;
+
+. Enter into contracts for professional services determined by the commission to be necessary for adequate enforcement of this chapter;
+
+. Grant, deny, or revoke certification of peace officers and corrections officers under the provisions of this chapter;
+
+. Designate individuals authorized to sign subpoenas and statements of charges under the provisions of this chapter;
+
+. Employ such investigative, administrative, and clerical staff as necessary for the enforcement of this chapter; and
+
+. Grant, deny, or revoke certification of tribal police officers whose tribal governments have agreed to participate in the tribal police officer certification process.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2499-S2.SL.pdf?cite=2020%20c%20119%20§%201[2020 c 119 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2367.SL.pdf?cite=2006%20c%2022%20§%201[2006 c 22 § 1]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1062.SL.pdf?cite=2001%20c%20167%20§%207[2001 c 167 § 7]; ]
+
+== 43.101.095 - Peace officer certification.
+. As a condition of continuing employment as peace officers, all Washington peace officers: (a) Shall timely obtain certification as peace officers, or timely obtain certification or exemption therefrom, by meeting all requirements of RCW 43.101.200, as that section is administered under the rules of the commission, as well by meeting any additional requirements under this chapter; and (b) shall maintain the basic certification as peace officers under this chapter.
+
+. [Empty]
+.. As a condition of continuing employment for any applicant who has been offered a conditional offer of employment as a fully commissioned peace officer or a reserve officer after July 24, 2005, including any person whose certification has lapsed as a result of a break of more than twenty-four consecutive months in the officer's service as a fully commissioned peace officer or reserve officer, the applicant shall submit to a background investigation including a check of criminal history, verification of immigrant or citizenship status as either a citizen of the United States of America or a lawful permanent resident, a psychological examination, and a polygraph or similar assessment as administered by the county, city, or state law enforcement agency, the results of which shall be used to determine the applicant's suitability for employment as a fully commissioned peace officer or a reserve officer.
+
+... The background investigation including a check of criminal history shall be administered by the county, city, or state law enforcement agency that made the conditional offer of employment in compliance with standards established in the rules of the commission.
+
+... The psychological examination shall be administered by a psychiatrist licensed in the state of Washington pursuant to chapter 18.71 RCW or a psychologist licensed in the state of Washington pursuant to chapter 18.83 RCW, in compliance with standards established in rules of the commission.
+
+... The polygraph test shall be administered by an experienced polygrapher who is a graduate of a polygraph school accredited by the American polygraph association and in compliance with standards established in rules of the commission.
+
+... Any other test or assessment to be administered as part of the background investigation shall be administered in compliance with standards established in rules of the commission.
+
+.. The employing county, city, or state law enforcement agency may require that each peace officer or reserve officer who is required to take a psychological examination and a polygraph or similar test pay a portion of the testing fee based on the actual cost of the test or four hundred dollars, whichever is less. County, city, and state law enforcement agencies may establish a payment plan if they determine that the peace officer or reserve officer does not readily have the means to pay for his or her portion of the testing fee.
+
+. The commission shall certify peace officers who have satisfied, or have been exempted by statute or by rule from, the basic training requirements of RCW 43.101.200 on or before January 1, 2002. Thereafter, the commission may revoke certification pursuant to this chapter.
+
+. The commission shall allow a peace officer to retain status as a certified peace officer as long as the officer: (a) Timely meets the basic law enforcement training requirements, or is exempted therefrom, in whole or in part, under RCW 43.101.200 or under rule of the commission; (b) meets or is exempted from any other requirements under this chapter as administered under the rules adopted by the commission; (c) is not denied certification by the commission under this chapter; and (d) has not had certification revoked by the commission.
+
+. As a prerequisite to certification, as well as a prerequisite to pursuit of a hearing under RCW 43.101.155, a peace officer must, on a form devised or adopted by the commission, authorize the release to the commission of his or her personnel files, termination papers, criminal investigation files, or other files, papers, or information that are directly related to a certification matter or decertification matter before the commission.
+
+. The commission is authorized to receive criminal history record information that includes nonconviction data for any purpose associated with employment by the commission or peace officer certification under this chapter. Dissemination or use of nonconviction data for purposes other than that authorized in this section is prohibited.
+
+. For a national criminal history records check, the commission shall require fingerprints be submitted and searched through the Washington state patrol identification and criminal history section. The Washington state patrol shall forward the fingerprints to the federal bureau of investigation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6145.SL.pdf?cite=2018%20c%2032%20§%205[2018 c 32 § 5]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1567-S.SL.pdf?cite=2011%20c%20234%20§%202[2011 c 234 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1324.SL.pdf?cite=2009%20c%20139%20§%201[2009 c 139 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2955.SL.pdf?cite=2008%20c%2074%20§%208[2008 c 74 § 8]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1081.SL.pdf?cite=2005%20c%20434%20§%202[2005 c 434 § 2]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1062.SL.pdf?cite=2001%20c%20167%20§%202[2001 c 167 § 2]; ]
+
+== 43.101.096 - Corrections officer certification.
+. As a condition of continuing employment as corrections officers, all Washington state corrections officers shall: (a) Timely obtain certification as corrections officers, or timely obtain exemption therefrom, by meeting all requirements of RCW 43.101.220, as that section is administered under the rules of the commission, as well as by meeting any additional requirements under this chapter; and (b) maintain the basic certification as corrections officers under this chapter. The commission shall certify corrections officers who have satisfied, or have been exempted by statute or by rule from, the basic training requirements of RCW 43.101.220 on or before June 11, 2020. Thereafter, the commission may revoke certification pursuant to this chapter.
+
+. As a condition of continuing employment for any applicant who has been offered a conditional offer of employment as a corrections officer after July 1, 2021, including any person whose certification has lapsed as a result of a break of more than twenty-four consecutive months in the officer's service as a corrections officer, the applicant shall submit to a background investigation including a check of criminal history, verification of immigrant or citizenship status as either a citizen of the United States or a lawful permanent resident, a psychological examination, and a polygraph or similar assessment as administered by the corrections agency, the results of which shall be used to determine the applicant's suitability for employment as a corrections officer.
+
+. The commission shall allow a corrections officer to retain status as a certified corrections officer as long as the officer: (a) Timely meets the basic corrections officer training requirements, or is exempted therefrom, in whole or in part, under RCW 43.101.220 or under rule of the commission; (b) meets or is exempted from any other requirements under this chapter as administered under the rules adopted by the commission; (c) is not denied certification by the commission under this chapter; and (d) has not had certification revoked by the commission.
+
+. As a prerequisite to certification, as well as a prerequisite to pursuit of a hearing under RCW 43.101.156, a corrections officer must, on a form devised or adopted by the commission, authorize the release to the commission of his or her personnel files, termination papers, criminal investigation files, or other files, papers, or information that are directly related to a certification matter or decertification matter before the commission.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2499-S2.SL.pdf?cite=2020%20c%20119%20§%203[2020 c 119 § 3]; ]
+
+== 43.101.105 - Denial or revocation of peace officer certification.
+. Upon request by a peace officer's employer or on its own initiative, the commission may deny or revoke certification of any peace officer, after written notice and hearing, if a hearing is timely requested by the peace officer under RCW 43.101.155, based upon a finding of one or more of the following conditions:
+
+.. The peace officer has failed to timely meet all requirements for obtaining a certificate of basic law enforcement training, a certificate of basic law enforcement training equivalency, or a certificate of exemption from the training;
+
+.. The peace officer has knowingly falsified or omitted material information on an application for training or certification to the commission;
+
+.. The peace officer has been convicted at any time of a felony offense under the laws of this state or has been convicted of a federal or out-of-state offense comparable to a felony under the laws of this state; except that if a certified peace officer was convicted of a felony before being employed as a peace officer, and the circumstances of the prior felony conviction were fully disclosed to his or her employer before being hired, the commission may revoke certification only with the agreement of the employing law enforcement agency;
+
+.. The peace officer has been discharged for disqualifying misconduct, the discharge is final, and some or all of the acts or omissions forming the basis for the discharge proceedings occurred on or after January 1, 2002;
+
+.. The peace officer's certificate was previously issued by administrative error on the part of the commission; or
+
+.. The peace officer has interfered with an investigation or action for denial or revocation of certificate by: (i) Knowingly making a materially false statement to the commission; or (ii) in any matter under investigation by or otherwise before the commission, tampering with evidence or tampering with or intimidating any witness.
+
+. After July 24, 2005, the commission shall deny certification to any applicant who has lost his or her certification as a result of a break in service of more than twenty-four consecutive months if that applicant failed to comply with the requirements set forth in RCW 43.101.080(19) and 43.101.095(2).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1567-S.SL.pdf?cite=2011%20c%20234%20§%203[2011 c 234 § 3]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1081.SL.pdf?cite=2005%20c%20434%20§%203[2005 c 434 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1062.SL.pdf?cite=2001%20c%20167%20§%203[2001 c 167 § 3]; ]
+
+== 43.101.106 - Denial or revocation of corrections officer certification.
+Upon request by a corrections officer's employer or on its own initiative, the commission may deny or revoke certification of any corrections officer after written notice and hearing, if a hearing is timely requested by the corrections officer under RCW 43.101.156, based upon a finding of one or more of the following conditions:
+
+. The corrections officer has failed to timely meet all requirements for obtaining a certificate of basic corrections training, or a certificate of exemption from the training;
+
+. The corrections officer has knowingly falsified or omitted material information on an application for training or certification to the commission;
+
+. The corrections officer has been convicted at any time of a felony offense under the laws of this state or has been convicted of a federal or out-of-state offense comparable to a felony under the laws of this state; except that if a certified corrections officer was convicted of a felony before being employed as a corrections officer, and the circumstances of the prior felony conviction were fully disclosed to his or her employer before being hired, the commission may revoke certification only with the agreement of the employing corrections agency;
+
+. The corrections officer has been discharged for disqualifying misconduct, the discharge is final, and some or all of the acts or omissions forming the basis for the discharge proceedings occurred on or after June 11, 2020;
+
+. The corrections officer's certificate was previously issued by administrative error on the part of the commission; or
+
+. The corrections officer has interfered with an investigation or action for denial or revocation of certificate by: (a) Knowingly making a materially false statement to the commission; or (b) in any matter under investigation by or otherwise before the commission, tampering with evidence or tampering with or intimidating any witness.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2499-S2.SL.pdf?cite=2020%20c%20119%20§%204[2020 c 119 § 4]; ]
+
+== 43.101.115 - Denial or revocation of peace officer certification—Readmission to academy—Reinstatement.
+. A person denied a certification based upon dismissal or withdrawal from a basic law enforcement academy for any reason not also involving discharge for disqualifying misconduct is eligible for readmission and certification upon meeting standards established in rules of the commission, which rules may provide for probationary terms on readmission.
+
+. A person whose certification is denied or revoked based upon prior administrative error of issuance, failure to cooperate, or interference with an investigation is eligible for certification upon meeting standards established in rules of the commission, rules which may provide for a probationary period of certification in the event of reinstatement of eligibility.
+
+. A person whose certification is denied or revoked based upon a felony criminal conviction is not eligible for certification at any time.
+
+. A peace officer whose certification is denied or revoked based upon discharge for disqualifying misconduct, but not also based upon a felony criminal conviction, may, five years after the revocation or denial, petition the commission for reinstatement of the certificate or for eligibility for reinstatement. The commission shall hold a hearing on the petition to consider reinstatement, and the commission may allow reinstatement based upon standards established in rules of the commission. If the certificate is reinstated or eligibility for certification is determined, the commission may establish a probationary period of certification.
+
+. A peace officer whose certification is revoked based solely upon a criminal conviction may petition the commission for reinstatement immediately upon a final judicial reversal of the conviction. The commission shall hold a hearing on request to consider reinstatement, and the commission may allow reinstatement based on standards established in rules of the commission. If the certificate is reinstated or if eligibility for certification is determined, the commission may establish a probationary period of certification.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1062.SL.pdf?cite=2001%20c%20167%20§%204[2001 c 167 § 4]; ]
+
+== 43.101.116 - Denial or revocation of corrections officer certification—Readmission to academy—Reinstatement.
+. A person denied a certification based upon dismissal or withdrawal from a basic corrections academy for any reason not also involving discharge for disqualifying misconduct is eligible for readmission and certification upon meeting standards established in rules of the commission, which rules may provide for probationary terms on readmission.
+
+. A person whose certification is denied or revoked based upon prior administrative error of issuance, failure to cooperate, or interference with an investigation is eligible for certification upon meeting standards established in rules of the commission, rules which may provide for a probationary period of certification in the event of reinstatement of eligibility.
+
+. A person whose certification is denied or revoked based upon a felony criminal conviction is not eligible for certification at any time.
+
+. A corrections officer whose certification is denied or revoked based upon discharge for disqualifying misconduct, but not also based upon a felony criminal conviction, may, five years after the revocation or denial, petition the commission for reinstatement of the certificate or for eligibility for reinstatement. The commission shall hold a hearing on the petition to consider reinstatement, and the commission may allow reinstatement based upon standards established in rules of the commission. If the certificate is reinstated or eligibility for certification is determined, the commission may establish a probationary period of certification.
+
+. A corrections officer whose certification is revoked based solely upon a criminal conviction may petition the commission for reinstatement immediately upon a final judicial reversal of the conviction. The commission shall hold a hearing on request to consider reinstatement, and the commission may allow reinstatement based on standards established in rules of the commission. If the certificate is reinstated or if eligibility for certification is determined, the commission may establish a probationary period of certification.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2499-S2.SL.pdf?cite=2020%20c%20119%20§%205[2020 c 119 § 5]; ]
+
+== 43.101.121 - Denial or revocation of certification—Subsequent certification as corrections officer or peace officer.
+An individual whose peace officer certification is denied or revoked pursuant to this chapter may not thereafter be certified as a corrections officer without first satisfying the requirements of eligibility for certification or reinstatement of certification. A corrections officer whose corrections officer certification is denied or revoked pursuant to this chapter may not thereafter be certified as a peace officer without first satisfying the requirements of eligibility for certification or reinstatement of certification.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2499-S2.SL.pdf?cite=2020%20c%20119%20§%2011[2020 c 119 § 11]; ]
+
+== 43.101.125 - Lapsed peace officer certification—Reinstatement—Rules.
+A peace officer's certification lapses automatically when there is a break of more than twenty-four consecutive months in the officer's service as a full-time law enforcement officer. A break in full-time law enforcement service which is due solely to the pendency of direct review or appeal from a disciplinary discharge, or to the pendency of a work-related injury, does not cause a lapse in certification. The officer may petition the commission for reinstatement of certification. Upon receipt of a petition for reinstatement of a lapsed certificate, the commission shall determine under this chapter and any applicable rules of the commission if the peace officer's certification status is to be reinstated, and the commission shall also determine any requirements which the officer must meet for reinstatement. The commission may adopt rules establishing requirements for reinstatement.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1062.SL.pdf?cite=2001%20c%20167%20§%205[2001 c 167 § 5]; ]
+
+== 43.101.126 - Lapsed corrections officer certification—Reinstatement—Rules.
+A corrections officer's certification lapses automatically when there is a break of more than twenty-four consecutive months in the officer's service as a full-time corrections officer. A break in full-time corrections service which is due solely to the pendency of direct review or appeal from a disciplinary discharge, or to the pendency of a work-related injury, does not cause a lapse in certification. The officer may petition the commission for reinstatement of certification. Upon receipt of a petition for reinstatement of a lapsed certificate, the commission shall determine under this chapter and any applicable rules of the commission if the corrections officer's certification status is to be reinstated, and the commission shall also determine any requirements which the officer must meet for reinstatement. The commission may adopt rules establishing requirements for reinstatement.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2499-S2.SL.pdf?cite=2020%20c%20119%20§%206[2020 c 119 § 6]; ]
+
+== 43.101.135 - Termination of peace officer—Notification to commission.
+Upon termination of a peace officer for any reason, including resignation, the agency of termination shall, within fifteen days of the termination, notify the commission on a personnel action report form provided by the commission. The agency of termination shall, upon request of the commission, provide such additional documentation or information as the commission deems necessary to determine whether the termination provides grounds for revocation under RCW 43.101.105. The commission shall maintain these notices in a permanent file, subject to RCW 43.101.400.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1062.SL.pdf?cite=2001%20c%20167%20§%206[2001 c 167 § 6]; ]
+
+== 43.101.136 - Termination of corrections officer—Notification to commission.
+Upon termination of a corrections officer for any reason, including resignation, the agency of termination shall, within fifteen days of the termination, notify the commission on a personnel action report form provided by the commission. The agency of termination shall, upon request of the commission, provide such additional documentation or information as the commission deems necessary to determine whether the termination provides grounds for revocation under RCW 43.101.106. The commission shall maintain these notices in a permanent file, subject to RCW 43.101.400.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2499-S2.SL.pdf?cite=2020%20c%20119%20§%207[2020 c 119 § 7]; ]
+
+== 43.101.145 - Written complaint by law enforcement or law enforcement agency to deny or revoke peace officer certification—Immunity of complainant.
+A law enforcement officer or duly authorized representative of a law enforcement agency may submit a written complaint to the commission charging that a peace officer's certificate should be denied or revoked, and specifying the grounds for the charge. Filing a complaint does not make a complainant a party to the commission's action. The commission has sole discretion whether to investigate a complaint, and the commission has sole discretion whether to investigate matters relating to certification, denial of certification, or revocation of certification on any other basis, without restriction as to the source or the existence of a complaint. A person who files a complaint in good faith under this section is immune from suit or any civil action related to the filing or the contents of the complaint.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1062.SL.pdf?cite=2001%20c%20167%20§%208[2001 c 167 § 8]; ]
+
+== 43.101.146 - Written complaint by corrections officer or corrections agency to deny or revoke corrections officer certification—Immunity of complainant.
+A corrections officer or duly authorized representative of a corrections agency may submit a written complaint to the commission charging that a corrections officer's certificate should be denied or revoked, and specifying the grounds for the charge. Filing a complaint does not make a complainant a party to the commission's action. The commission has sole discretion whether to investigate a complaint, and the commission has sole discretion whether to investigate matters relating to certification, denial of certification, or revocation of certification on any other basis, without restriction as to the source or the existence of a complaint. A person who files a complaint in good faith under this section is immune from suit or any civil action related to the filing or the contents of the complaint.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2499-S2.SL.pdf?cite=2020%20c%20119%20§%208[2020 c 119 § 8]; ]
+
+== 43.101.155 - Denial or revocation of peace officer certification—Statement of charges—Notice—Hearing.
+. If the commission determines, upon investigation, that there is probable cause to believe that a peace officer's certification should be denied or revoked under RCW 43.101.105, the commission must prepare and serve upon the officer a statement of charges. Service on the officer must be by mail or by personal service on the officer. Notice of the charges must also be mailed to or otherwise served upon the officer's agency of termination and any current law enforcement agency employer. The statement of charges must be accompanied by a notice that to receive a hearing on the denial or revocation, the officer must, within sixty days of communication of the statement of charges, request a hearing before the hearings board appointed under RCW 43.101.380. Failure of the officer to request a hearing within the sixty-day period constitutes a default, whereupon the commission may enter an order under RCW 34.05.440.
+
+. If a hearing is requested, the date of the hearing must be scheduled not earlier than ninety days nor later than one hundred eighty days after communication of the statement of charges to the officer; the one hundred eighty-day period may be extended on mutual agreement of the parties or for good cause. The commission shall give written notice of hearing at least twenty days prior to the hearing, specifying the time, date, and place of hearing.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1062.SL.pdf?cite=2001%20c%20167%20§%209[2001 c 167 § 9]; ]
+
+== 43.101.156 - Denial or revocation of corrections officer certification—Statement of charges—Notice—Hearing.
+. If the commission determines, upon investigation, that there is probable cause to believe that a corrections officer's certification should be denied or revoked under RCW 43.101.106, the commission must prepare and serve upon the officer a statement of charges. Service on the officer must be by mail or by personal service on the officer. Notice of the charges must also be mailed to or otherwise served upon the officer's agency of termination and any current corrections employer. The statement of charges must be accompanied by a notice that to receive a hearing on the denial or revocation, the officer must, within sixty days of communication of the statement of charges, request a hearing before the hearings panel appointed under RCW 43.101.380. Failure of the officer to request a hearing within the sixty-day period constitutes a default, whereupon the commission may enter an order under RCW 34.05.440.
+
+. If a hearing is requested, the date of the hearing must be scheduled not earlier than ninety days nor later than one hundred eighty days after the officer requests a hearing; the one hundred eighty-day period may be extended on mutual agreement of the parties or for good cause. The commission shall give written notice of [the] hearing at least twenty days prior to the hearing, specifying the time, date, and place of [the] hearing.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2499-S2.SL.pdf?cite=2020%20c%20119%20§%209[2020 c 119 § 9]; ]
+
+== 43.101.157 - Tribal police officer certification.
+. Tribal governments may voluntarily request certification for their police officers. Tribal governments requesting certification for their police officers must enter into a written agreement with the commission. The agreement must require the tribal law enforcement agency and its officers to comply with all of the requirements for granting, denying, and revoking certification as those requirements are applied to peace officers certified under this chapter and the rules of the commission.
+
+. Officers making application for certification as tribal police officers shall meet the requirements of this chapter and the rules of the commission as those requirements are applied to certification of peace officers. Application for certification as a tribal police officer shall be accepted and processed in the same manner as those for certification of peace officers.
+
+. For purposes of certification, "tribal police officer" means any person employed and commissioned by a tribal government to enforce the criminal laws of that government.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2367.SL.pdf?cite=2006%20c%2022%20§%202[2006 c 22 § 2]; ]
+
+== 43.101.170 - Training and education obtained at approved existing institutions.
+In establishing standards for training and education, the commission may, so far as consistent with the purposes of *RCW 43.101.160, permit required training and education of any criminal justice personnel to be obtained at existing institutions approved for such training by the commission.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c94.pdf?cite=1974%20ex.s.%20c%2094%20§%2017[1974 ex.s. c 94 § 17]; ]
+
+== 43.101.180 - Priorities.
+The first priority of the commission shall be to provide for basic law enforcement training, corrections training, and education programs. In addition, the commission shall provide training programs for other criminal justice personnel.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c136.pdf?cite=1981%20c%20136%20§%2027[1981 c 136 § 27]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c94.pdf?cite=1974%20ex.s.%20c%2094%20§%2018[1974 ex.s. c 94 § 18]; ]
+
+== 43.101.190 - Receipt of grants, funds or gifts authorized—Administration—Utilization of federal funds.
+The commission, or the executive director acting on its behalf, is authorized to accept, receive, disburse, and administer grants or other funds or gifts from any source, including private individuals or agencies, the federal government, and other public agencies, for the purpose of carrying out the provisions of this chapter.
+
+The services provided by the state through the establishment and maintenance of the programs of the commission are primarily intended for the benefit of the criminal justice agencies of the counties, cities, and towns of this state. To the extent that funds available to the state under the Crime Control Act of 1973 are utilized by the commission, it is the determination of the legislature that, to the maximum extent permitted by federal law, such funds as are so utilized shall be charged against that portion of United States law enforcement assistance administration funds which the state is required to make available to units of local government pursuant to section 303(a)(2) of Part C of the Crime Control Act of 1973.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c94.pdf?cite=1974%20ex.s.%20c%2094%20§%2019[1974 ex.s. c 94 § 19]; ]
+
+== 43.101.200 - Law enforcement personnel—Basic law enforcement training required—Commission to provide.
+. All law enforcement personnel, except volunteers, and reserve officers whether paid or unpaid, initially employed on or after January 1, 1978, shall engage in basic law enforcement training which complies with standards adopted by the commission pursuant to RCW 43.101.080. For personnel initially employed before January 1, 1990, such training shall be successfully completed during the first fifteen months of employment of such personnel unless otherwise extended or waived by the commission and shall be requisite to the continuation of such employment. Personnel initially employed on or after January 1, 1990, shall commence basic training during the first six months of employment unless the basic training requirement is otherwise waived or extended by the commission. Successful completion of basic training is requisite to the continuation of employment of such personnel initially employed on or after January 1, 1990.
+
+. Except as otherwise provided in this chapter, the commission shall provide the aforementioned training together with necessary facilities, supplies, materials, and the board and room of noncommuting attendees for seven days per week, except during the 2017-2019 and 2019-2021 fiscal biennia when the employing, county, city, or state law enforcement agency shall reimburse the commission for twenty-five percent of the cost of training its personnel. Additionally, to the extent funds are provided for this purpose, the commission shall reimburse to participating law enforcement agencies with ten or less full-time commissioned patrol officers the cost of temporary replacement of each officer who is enrolled in basic law enforcement training: PROVIDED, That such reimbursement shall include only the actual cost of temporary replacement not to exceed the total amount of salary and benefits received by the replaced officer during his or her training period.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1109-S.SL.pdf?cite=2019%20c%20415%20§%20969[2019 c 415 § 969]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5883-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%201%20§%20973[2017 3rd sp.s. c 1 § 973]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6052-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%204%20§%20957[2015 3rd sp.s. c 4 § 957]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5034-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%204%20§%20982[2013 2nd sp.s. c 4 § 982]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1087-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2050%20§%20949[2011 1st sp.s. c 50 § 949]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1423-S2.SL.pdf?cite=1997%20c%20351%20§%2013[1997 c 351 § 13]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5968-S.SL.pdf?cite=1993%20sp.s.%20c%2024%20§%20920[1993 sp.s. c 24 § 920]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5521-S2.SL.pdf?cite=1993%20sp.s.%20c%2021%20§%205[1993 sp.s. c 21 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c299.pdf?cite=1989%20c%20299%20§%202[1989 c 299 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c212.pdf?cite=1977%20ex.s.%20c%20212%20§%202[1977 ex.s. c 212 § 2]; ]
+
+== 43.101.220 - Training for corrections personnel.
+. The corrections personnel of the state and all counties and municipal corporations initially employed on or after January 1, 1982, shall engage in basic corrections training which complies with standards adopted by the commission. The standards adopted must provide for basic corrections training of at least ten weeks in length for any corrections officers subject to the certification requirement under RCW 43.101.096 who are hired on or after July 1, 2021, or on an earlier date set by the commission. The training shall be successfully completed during the first six months of employment of the personnel, unless otherwise extended or waived by the commission, and shall be requisite to the continuation of employment.
+
+. The commission shall provide the training required in this section, together with facilities, supplies, materials, and the room and board for noncommuting attendees, except during the 2017-2019 and 2019-2021 fiscal biennia, when the employing county, municipal corporation, or state agency shall reimburse the commission for twenty-five percent of the cost of training its personnel.
+
+. [Empty]
+.. Subsections (1) and (2) of this section do not apply to the Washington state department of corrections prisons division. The Washington state department of corrections is responsible for identifying training standards, designing curricula and programs, and providing the training for those corrections personnel employed by it. In doing so, the secretary of the department of corrections shall consult with staff development experts and correctional professionals both inside and outside of the agency, to include soliciting input from labor organizations.
+
+.. The commission and the department of corrections share the responsibility of developing and defining training standards and providing training for community corrections officers employed within the community corrections division of the department of corrections.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2499-S2.SL.pdf?cite=2020%20c%20119%20§%2014[2020 c 119 § 14]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1109-S.SL.pdf?cite=2019%20c%20415%20§%20970[2019 c 415 § 970]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5883-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%201%20§%20972[2017 3rd sp.s. c 1 § 972]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6052-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%204%20§%20958[2015 3rd sp.s. c 4 § 958]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6002-S.SL.pdf?cite=2014%20c%20221%20§%20918[2014 c 221 § 918]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5987-S.SL.pdf?cite=2009%20c%20146%20§%202[2009 c 146 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5634-S.SL.pdf?cite=2007%20c%20382%20§%201[2007 c 382 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c136.pdf?cite=1981%20c%20136%20§%2026[1981 c 136 § 26]; ]
+
+== 43.101.221 - Training for corrections personnel—Core training requirements.
+. All new corrections personnel employed by the Washington state department of corrections shall, within a period to be determined by the secretary of the department of corrections, successfully complete core training requirements prescribed or obtain a waiver or extension of the core training requirements from the secretary.
+
+. Within a period to be determined by the secretary of the Washington state department of corrections after completion of the core training requirements of this section, corrections personnel employed by the department shall successfully complete all remaining requirements for career level certification prescribed by the secretary applicable to their position or rank, or obtain a waiver or extension of the career level training requirements from the secretary.
+
+. The secretary of the department of corrections is responsible for assuring that the training needs of the corrections personnel are met by the department's training program. Once a year, the secretary is responsible for conducting an assessment of the training programs for the corrections personnel employed by the department.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5987-S.SL.pdf?cite=2009%20c%20146%20§%203[2009 c 146 § 3]; ]
+
+== 43.101.222 - Training for students enrolled at institutions of higher education.
+The commission may provide basic law enforcement training to students who are enrolled in criminal justice courses of study at four-year institutions of higher education, if the training is provided during the summers following the students' junior and senior years and so long as the students bear the full cost of the training.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2323-S2.SL.pdf?cite=1996%20c%20203%20§%203[1996 c 203 § 3]; ]
+
+== 43.101.224 - Training for persons investigating child sexual abuse.
+. Ongoing specialized training shall be provided for persons responsible for investigating child sexual abuse. Training participants shall have the opportunity to practice interview skills and receive feedback from instructors.
+
+. The commission, the department of social and health services, the Washington association of sheriffs and police chiefs, and the Washington association of prosecuting attorneys shall design and implement statewide training that contains consistent elements for persons engaged in the interviewing of children for child sexual abuse cases, including law enforcement, prosecution, and child protective services.
+
+. The training shall: (a) Be based on research-based practices and standards; (b) minimize the trauma of all persons who are interviewed during abuse investigations; (c) provide methods of reducing the number of investigative interviews necessary whenever possible; (d) assure, to the extent possible, that investigative interviews are thorough, objective, and complete; (e) recognize needs of special populations, such as persons with developmental disabilities; (f) recognize the nature and consequences of victimization; (g) require investigative interviews to be conducted in a manner most likely to permit the interviewed persons the maximum emotional comfort under the circumstances; (h) address record retention and retrieval; and (i) documentation of investigative interviews.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5127.SL.pdf?cite=1999%20c%20389%20§%202[1999 c 389 § 2]; ]
+
+== 43.101.225 - Training on vehicular pursuits.
+. By June 30, 2006, every new full-time law enforcement officer employed, after July 27, 2003, by a state, county, or municipal law enforcement agency shall be trained on vehicular pursuits.
+
+. Beginning July 1, 2006, every new full-time law enforcement officer employed by a state, county, or municipal law enforcement agency shall be trained on vehicular pursuits, within six months of employment.
+
+. Nothing in chapter 37, Laws of 2003 requires training on vehicular pursuit of any law enforcement officer who is employed in a state, county, or city law enforcement agency on July 27, 2003, beyond that which he or she has received prior to July 27, 2003.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5165-S.SL.pdf?cite=2003%20c%2037%20§%203[2003 c 37 § 3]; ]
+
+== 43.101.226 - Vehicular pursuits—Model policy.
+. By December 1, 2003, the Washington state criminal justice training commission, the Washington state patrol, the Washington association of sheriffs and police chiefs, and organizations representing state and local law enforcement officers shall develop a written model policy on vehicular pursuits.
+
+. The model policy must meet all of the following minimum standards:
+
+.. Provide for supervisory control, if available, of the pursuit;
+
+.. Provide procedures for designating the primary pursuit vehicle and for determining the total number of vehicles to be permitted to participate at one time in the pursuit;
+
+.. Provide procedures for coordinating operations with other jurisdictions; and
+
+.. Provide guidelines for determining when the interests of public safety and effective law enforcement justify a vehicular pursuit and when a vehicular pursuit should not be initiated or should be terminated.
+
+. By June 1, 2004, every state, county, and municipal law enforcement agency shall adopt and implement a written vehicular pursuit policy. The policy adopted may, but need not, be the model policy developed under subsections (1) and (2) of this section. However, any policy adopted must address the minimum requirements specified in subsection (2) of this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5165-S.SL.pdf?cite=2003%20c%2037%20§%202[2003 c 37 § 2]; ]
+
+== 43.101.227 - Training for interaction with persons with a developmental disability or mental illness.
+. The commission must offer a training session on law enforcement interaction with persons with a developmental disability or mental illness. The training must be developed by the commission in consultation with appropriate self advocate and family advocate groups and with appropriate community, local, and state organizations and agencies that have expertise in the area of working with persons with a developmental disability or mental illness. In developing the course, the commission must also examine existing courses certified by the commission that relate to persons with a developmental disability or mental illness.
+
+. The training must consist of classroom instruction or internet instruction and shall replicate likely field situations to the maximum extent possible. The training should include, at a minimum, core instruction in all of the following:
+
+.. The cause and nature of mental illnesses and developmental disabilities;
+
+.. How to identify indicators of mental illness and developmental disability and how to respond appropriately in a variety of common situations;
+
+.. Conflict resolution and de-escalation techniques for potentially dangerous situations involving persons with a developmental disability or mental illness;
+
+.. Appropriate language usage when interacting with persons with a developmental disability or mental illness;
+
+.. Alternatives to lethal force when interacting with potentially dangerous persons with a developmental disability or mental illness; and
+
+.. Community and state resources available to serve persons with a developmental disability or mental illness and how these resources can be best used by law enforcement to benefit persons with a developmental disability or mental illness in their communities.
+
+. The training shall be made available to law enforcement agencies, through electronic means, for use at their convenience and determined by the internal training needs and resources of each agency.
+
+. The commission shall make all reasonable efforts to secure private and nonstate public funds to implement this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5473-S.SL.pdf?cite=2003%20c%20270%20§%201[2003 c 270 § 1]; ]
+
+== 43.101.230 - Training for Indian tribe officers and employees authorized—Conditions.
+Indian tribe officers and employees who are engaged in law enforcement activities and who do not qualify as "criminal justice personnel" or "law enforcement personnel" under RCW 43.101.010, as now law or hereafter amended, may be provided training under this chapter if: (a) The tribe is recognized by the federal government, and (b) the tribe pays to the commission the full cost of providing such training. The commission shall place all money received under this section into the criminal justice training account.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c134.pdf?cite=1981%20c%20134%20§%201[1981 c 134 § 1]; ]
+
+== 43.101.240 - Community-police partnership.
+. The criminal justice training commission in cooperation with the United States department of justice department of community relations (region X) shall conduct an assessment of successful community-police partnerships throughout the United States. The commission shall develop training for local law enforcement agencies targeted toward those communities where there has been a substantial increase in drug crimes. The purpose of the training is to facilitate cooperative community-police efforts and enhanced community protection to reduce drug abuse and related crimes. The training shall include but not be limited to conflict management, ethnic sensitivity, cultural awareness, and effective community policing.
+
+. Local law enforcement agencies are encouraged to form community-police partnerships in all neighborhoods and particularly areas with high rates of criminal activity. These partnerships are encouraged to organize citizen-police task forces which meet on a regular basis to promote greater citizen involvement in combatting drug abuse and to reduce tension between police and citizens. Partnerships that are formed are encouraged to report to the criminal justice training commission of their formation and progress.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2319-S2.SL.pdf?cite=1994%20sp.s.%20c%207%20§%20311[1994 sp.s. c 7 § 311]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c271.pdf?cite=1989%20c%20271%20§%20423[1989 c 271 § 423]; ]
+
+== 43.101.250 - Firearms certificate program for *private detectives.
+The commission shall establish a program for issuing firearms certificates to *private detectives for the purposes of obtaining armed *private detective licenses. The commission shall adopt rules establishing the fees, training requirements, and procedures for obtaining and annually renewing firearms certificates. The fees charged by the commission shall recover the costs incurred by the commission in administering the firearms certificate program.
+
+. Firearms training must be provided by an organization or trainer approved by the commission and must consist of at least eight hours of classes and proficiency training.
+
+. Applications for firearms certificates shall be filed with the commission on a form provided by the commission. The commission may require any information and documentation that reasonably relates to the need to determine whether the applicant qualifies for a firearms certificate. Applicants must:
+
+.. Be at least twenty-one years of age;
+
+.. Possess a current *private detective license; and
+
+.. Present a written request from the owner or qualifying agent of a licensed *private detective agency that the applicant be issued a firearms certificate.
+
+. The commission shall consult with the private security industry and law enforcement before adopting or amending the training requirements of this section.
+
+. The commission may adopt rules that are reasonable and necessary for the effective implementation and administration of this section consistent with chapter 34.05 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1991%20c%20328%20§%2028[1991 c 328 § 28]; ]
+
+== 43.101.260 - Firearms certificate program for security guards.
+The commission shall establish a program for issuing firearms certificates to security guards for the purposes of obtaining armed security guard licenses. The commission shall adopt rules establishing the fees, training requirements, and procedures for obtaining and annually renewing firearms certificates. The fees charged by the commission shall recover the costs incurred by the commission in administering the firearms certificate program.
+
+. Firearms training must be provided by an organization or trainer approved by the commission and must consist of at least eight hours of classes and proficiency training.
+
+. Applications for firearms certificates shall be filed with the commission on a form provided by the commission. The commission may require any information and documentation that reasonably relates to the need to determine whether the applicant qualifies for a firearms certificate. Applicants must:
+
+.. Be at least twenty-one years of age;
+
+.. Possess a current private security guard license; and
+
+.. Present a written request from the owner or qualifying agent of a licensed private security company that the applicant be issued a firearms certificate.
+
+. The commission shall consult with the private security industry and law enforcement before adopting or amending the training requirements of this section.
+
+. The commission may adopt rules that are reasonable and necessary for the effective implementation and administration of this section consistent with chapter 34.05 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5124-S2.SL.pdf?cite=1991%20c%20334%20§%2029[1991 c 334 § 29]; ]
+
+== 43.101.270 - Sexual assault—Training for investigating and prosecuting.
+. Each year the criminal justice training commission shall offer an intensive, integrated training session on investigating and prosecuting sexual assault cases. The training shall place particular emphasis on the development of professionalism and sensitivity towards the victim and the victim's family.
+
+. The commission shall seek advice from the Washington association of prosecuting attorneys, the Washington defender association, the Washington association of sheriffs and police chiefs, and the Washington coalition of sexual assault programs.
+
+. The training shall be an integrated approach to sexual assault cases so that prosecutors, law enforcement, defenders, and victim advocates can all benefit from the training.
+
+. The training shall be self-supporting through fees charged to the participants of the training.
+
+. The training shall include a reference to the possibility that a court may allow children under the age of fourteen to testify in a room outside the presence of the defendant and the jury pursuant to RCW 9A.44.150.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1898-S.SL.pdf?cite=2015%20c%20286%20§%202[2015 c 286 § 2]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1534-S.SL.pdf?cite=1991%20c%20267%20§%202[1991 c 267 § 2]; ]
+
+== 43.101.272 - Sexual assault—Training for persons investigating adult sexual assault.
+. Subject to the availability of amounts appropriated for this specific purpose, the commission shall provide ongoing specialized, intensive, and integrative training for persons responsible for investigating sexual assault cases involving adult victims. The training must be based on a victim-centered, trauma-informed approach to responding to sexual assault. Among other subjects, the training must include content on the neurobiology of trauma and trauma-informed interviewing, counseling, and investigative techniques.
+
+. The training must: Be based on research-based practices and standards; offer participants an opportunity to practice interview skills and receive feedback from instructors; minimize the trauma of all persons who are interviewed during abuse investigations; provide methods of reducing the number of investigative interviews necessary whenever possible; assure, to the extent possible, that investigative interviews are thorough, objective, and complete; recognize needs of special populations; recognize the nature and consequences of victimization; require investigative interviews to be conducted in a manner most likely to permit the interviewed persons the maximum emotional comfort under the circumstances; address record retention and retrieval; address documentation of investigative interviews; and educate investigators on the best practices for notifying victims of the results of forensic analysis of sexual assault kits and other significant events in the investigative process, including for active investigations and cold cases.
+
+. In developing the training, the commission shall seek advice from the Washington association of sheriffs and police chiefs, the Washington coalition of sexual assault programs, and experts on sexual assault and the neurobiology of trauma. The commission shall consult with the Washington association of prosecuting attorneys in an effort to design training containing consistent elements for all professionals engaged in interviewing and interacting with sexual assault victims in the criminal justice system.
+
+. The commission shall develop the training and begin offering it by July 1, 2018. Officers assigned to regularly investigate sexual assault involving adult victims shall complete the training within one year of being assigned or by July 1, 2020, whichever is later.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1166-S2.SL.pdf?cite=2019%20c%2093%20§%205[2019 c 93 § 5]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1109-S.SL.pdf?cite=2017%20c%20290%20§%203[2017 c 290 § 3]; ]
+
+== 43.101.274 - Sexual assault—Training curriculum modification.
+Subject to the availability of amounts appropriated for this specific purpose, the commission shall incorporate victim-centered, trauma-informed approaches to policing in the basic law enforcement training curriculum. In modifying the curriculum, the commission shall seek advice from the Washington coalition of sexual assault programs and other experts on sexual assault and the neurobiology of trauma.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1109-S.SL.pdf?cite=2017%20c%20290%20§%204[2017 c 290 § 4]; ]
+
+== 43.101.276 - Sexual assault—Training curriculum requirements.
+. Subject to the availability of amounts appropriated for this specific purpose, the commission shall develop training on a victim-centered, trauma-informed approach to interacting with victims and responding to sexual assault calls. The curriculum must: Be designed for commissioned patrol officers not regularly assigned to investigate sexual assault cases; be designed for deployment and use within individual law enforcement agencies; include features allowing for it to be used in different environments, which may include multimedia or video components; allow for law enforcement agencies to host it in small segments at different times over several days or weeks, including roll calls. The training must include components on available resources for victims including, but not limited to, material on and references to community-based victim advocates.
+
+. In developing the training, the commission shall seek advice from the Washington association of sheriffs and police chiefs, the Washington coalition of sexual assault programs, and experts on sexual assault and the neurobiology of trauma.
+
+. Beginning in 2018, all law enforcement agencies shall annually host the training for commissioned peace officers. All law enforcement agencies shall, to the extent feasible, consult with and feature local community-based victim advocates during the training.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1109-S.SL.pdf?cite=2017%20c%20290%20§%205[2017 c 290 § 5]; ]
+
+== 43.101.278 - Sexual assault—Development of proposal for case review program. (Expires July 1, 2021.)
+. Subject to the availability of amounts appropriated for this specific purpose, the commission shall develop a proposal for a case review program. The commission shall research, design, and develop case review strategies designed to optimize outcomes in sexual assault investigations through improved training and investigatory practices. The proposed program must evaluate whether current training and practices foster a trauma-informed, victim-centered approach to victim interviews that identifies best practices and current gaps in training and assesses the integration of the community resiliency model. The program will include a comparison of cases involving investigators and interviewers who have participated in training to cases involving investigators and interviewers who have not participated in training. The program will also include other randomly selected cases for a systematic review to assess whether current practices conform to national best practices for a multidisciplinary approach to investigating sexual assault cases and interacting with survivors.
+
+. In designing the program, the commission shall consult and collaborate with experts in trauma-informed and victim-centered training, experts in sexual assault investigations and prosecutions, victim advocates, and other stakeholders identified by the commission. The commission may form a multidisciplinary working group for the purpose of carrying out the requirements of this section.
+
+. The commission shall submit a report with a summary of its proposal to the governor and the appropriate committees of the legislature by December 1, 2020.
+
+. This section expires July 1, 2021.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2318-S.SL.pdf?cite=2020%20c%2026%20§%208[2020 c 26 § 8]; ]
+
+== 43.101.280 - Ethnic and cultural diversity—Development of curriculum for understanding—Training.
+The criminal justice training commission shall develop, in consultation with the administrative office of the courts and the commissions established under chapters 43.113, 43.115, and 43.117 RCW, a curriculum for a general understanding of ethnic and cultural diversity and its implications for working with youth of color and their families. The curriculum shall be developed by October 1, 1993. The commission shall ensure that ethnic and diversity training becomes an integral part of the training of law enforcement personnel so as to incorporate cultural sensitivity and awareness into the daily activities of law enforcement personnel.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1668.SL.pdf?cite=2005%20c%20282%20§%2046[2005 c 282 § 46]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1966-S.SL.pdf?cite=1993%20c%20415%20§%204[1993 c 415 § 4]; ]
+
+== 43.101.290 - Training regarding hate crime offenses.
+The criminal justice training commission shall provide training for law enforcement officers in identifying, responding to, and reporting all violations of RCW 9A.36.080 and any other crimes of bigotry or bias.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1569-S.SL.pdf?cite=1993%20c%20127%20§%205[1993 c 127 § 5]; ]
+
+== 43.101.300 - Juvenile runaways—Policy manual.
+The criminal justice training commission shall ensure that every law enforcement agency in the state has an accurate and up-to-date policy manual describing the statutes relating to juvenile runaways.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2319-S2.SL.pdf?cite=1994%20sp.s.%20c%207%20§%20509[1994 sp.s. c 7 § 509]; ]
+
+== 43.101.350 - Core training requirements.
+. All law enforcement personnel initially hired to, transferred to, or promoted to a supervisory or management position on or after January 1, 1999, and all corrections personnel of the state and all counties and municipal corporations transferred or promoted to a supervisory or management position on or after January 1, 1982, shall, within the first six months of entry into the position, successfully complete the core training requirements prescribed by rule of the commission for the position, or obtain a waiver or extension of the core training requirements from the commission.
+
+. Within one year after completion of the core training requirements of this section, all law enforcement personnel and corrections personnel shall successfully complete all remaining requirements for career level certification prescribed by rule of the commission applicable to their position or rank, or obtain a waiver or extension of the career level training requirements from the commission.
+
+. The commission shall provide the training required in this section, together with facilities, supplies, materials, and the room and board for attendees who do not live within fifty miles of the training center. The training shall be delivered in the least disruptive manner to local law enforcement or corrections agencies, and will include but not be limited to regional on-site training, interactive training, and credit for training given by the home department.
+
+. Nothing in this section affects or impairs the employment status of an employee whose employer does not provide the opportunity to engage in the required training.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5634-S.SL.pdf?cite=2007%20c%20382%20§%202[2007 c 382 § 2]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1423-S2.SL.pdf?cite=1997%20c%20351%20§%2010[1997 c 351 § 10]; ]
+
+== 43.101.360 - Report to the legislature.
+By January 1st of every odd-numbered year, the commission shall provide a written report to the legislature addressing the following items: (1) Status and satisfaction of service to its clients; (2) detailed analysis of how it will maintain and update adequate state-of-the-art training models and their delivery in the most cost-effective and efficient manner; and (3) fiscal data projecting its current and future funding requirements.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1423-S2.SL.pdf?cite=1997%20c%20351%20§%2011[1997 c 351 § 11]; ]
+
+== 43.101.365 - Child abuse and neglect—Development of curriculum.
+. The commission, in consultation with the department of social and health services, the Washington association of sheriffs and police chiefs, and the Washington association of prosecuting attorneys, shall develop a curriculum related to child abuse and neglect to be included in the basic law enforcement training that must be successfully completed within the first fifteen months of employment of all law enforcement personnel.
+
+. The curriculum must be incorporated into the basic law enforcement training program by July 1, 2008.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1333-S.SL.pdf?cite=2007%20c%20410%20§%204[2007 c 410 § 4]; ]
+
+== 43.101.370 - Child abuse and neglect—Intensive training.
+Each year the criminal justice training commission shall offer an intensive training session on investigation of child abuse and neglect. The training shall focus on the investigative duties of law enforcement established under chapter 26.44 RCW with particular emphasis placed on child interview techniques to increase the accuracy of statements taken from children and decrease the need for additional interviews.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1423-S2.SL.pdf?cite=1997%20c%20351%20§%2012[1997 c 351 § 12]; ]
+
+== 43.101.380 - Hearings—Standard of proof—Appeals—Judicial review.
+. The procedures governing adjudicative proceedings before agencies under chapter 34.05 RCW, the administrative procedure act, govern hearings before the commission and govern all other actions before the commission unless otherwise provided in this chapter. The standard of proof in actions before the commission is clear, cogent, and convincing evidence.
+
+. In all hearings requested under RCW 43.101.155 or 43.101.156, a five-member hearings panel shall both hear the case and make the commission's final administrative decision. Members of the commission may, but need not, be appointed to the hearings panels. The commission shall appoint as follows two or more panels to hear certification actions:
+
+.. When a hearing is requested in relation to a certification action of a Washington peace officer who is not a peace officer of the Washington state patrol, the commission shall appoint to the panel: (i) One police chief; (ii) one sheriff; (iii) two certified Washington peace officers who are at or below the level of first line supervisor, one of whom is from a city or county law enforcement agency, and who have at least ten years' experience as peace officers; and (iv) one person who is not currently a peace officer and who represents a community college or four-year college or university.
+
+.. When a hearing is requested in relation to a certification action of a peace officer of the Washington state patrol, the commission shall appoint to the panel: (i) Either one police chief or one sheriff; (ii) one administrator of the state patrol; (iii) one certified Washington peace officer who is at or below the level of first line supervisor, who is not a state patrol officer, and who has at least ten years' experience as a peace officer; (iv) one state patrol officer who is at or below the level of first line supervisor, and who has at least ten years' experience as a peace officer; and (v) one person who is not currently a peace officer and who represents a community college or four-year college or university.
+
+.. When a hearing is requested in relation to a certification action of a Washington corrections officer, the commission shall appoint to the panel: (i) Two heads of either a city or county corrections agency or facility or of a Washington state department of corrections facility; (ii) two corrections officers who are at or below the level of first line supervisor, who are from city, county, or state corrections agencies, and who have at least ten years' experience as corrections officers; and (iii) one person who is not currently a corrections officer and who represents a community college or four-year college or university.
+
+.. When a hearing is requested in relation to a certification action of a tribal police officer, the commission shall appoint to the panel (i) either one police chief or one sheriff; (ii) one tribal police chief; (iii) one certified Washington peace officer who is at or below the level of first line supervisor, and who has at least ten years' experience as a peace officer; (iv) one tribal police officer who is at or below the level of first line supervisor, and who has at least ten years' experience as a peace officer; and (v) one person who is not currently a peace officer and who represents a community college or four-year college or university.
+
+.. Persons appointed to hearings panels by the commission shall, in relation to any certification action on which they sit, have the powers, duties, and immunities, and are entitled to the emoluments, including travel expenses in accordance with RCW 43.03.050 and 43.03.060, of regular commission members.
+
+. Where the charge upon which revocation or denial is based is that a peace officer or corrections officer was "discharged for disqualifying misconduct," and the discharge is "final," within the meaning of RCW 43.101.105(1)(d) or 43.101.106(4), and the officer received a civil service hearing or arbitration hearing culminating in an affirming decision following separation from service by the employer, the hearings panel may revoke or deny certification if the hearings panel determines that the discharge occurred and was based on disqualifying misconduct; the hearings panel need not redetermine the underlying facts but may make this determination based solely on review of the records and decision relating to the employment separation proceeding. However, the hearings panel may, in its discretion, consider additional evidence to determine whether such a discharge occurred and was based on such disqualifying misconduct. The hearings panel shall, upon written request by the subject peace officer or corrections officer, allow the peace officer or corrections officer to present additional evidence of extenuating circumstances.
+
+Where the charge upon which revocation or denial of certification is based is that a peace officer or corrections officer "has been convicted at any time of a felony offense" within the meaning of RCW 43.101.105(1)(c) or 43.101.106(3), the hearings panel shall revoke or deny certification if it determines that the peace officer or corrections officer was convicted of a felony. The hearings panel need not redetermine the underlying facts but may make this determination based solely on review of the records and decision relating to the criminal proceeding. However, the hearings panel shall, upon the panel's determination of relevancy, consider additional evidence to determine whether the peace officer or corrections officer was convicted of a felony.
+
+Where the charge upon which revocation or denial is based is under RCW 43.101.105(1) (a), (b), (e), or (f) or 43.101.106 (1), (2), (5), or (6), the hearings panel shall determine the underlying facts relating to the charge upon which revocation or denial of certification is based.
+
+. The commission's final administrative decision is subject to judicial review under RCW 34.05.510 through 34.05.598.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2499-S2.SL.pdf?cite=2020%20c%20119%20§%2010[2020 c 119 § 10]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2617-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%207%20§%2014[2010 1st sp.s. c 7 § 14]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5156.SL.pdf?cite=2009%20c%2025%20§%201[2009 c 25 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2367.SL.pdf?cite=2006%20c%2022%20§%203[2006 c 22 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1062.SL.pdf?cite=2001%20c%20167%20§%2010[2001 c 167 § 10]; ]
+
+== 43.101.390 - Immunity of commission and boards.
+The commission, its boards, and individuals acting on behalf of the commission and its boards are immune from suit in any civil or criminal action contesting or based upon proceedings or other official acts performed in the course of their duties in the administration and enforcement of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1062.SL.pdf?cite=2001%20c%20167%20§%2011[2001 c 167 § 11]; ]
+
+== 43.101.400 - Confidentiality of records.
+. Except as provided under subsection (2) of this section, the following records of the commission are confidential and exempt from public disclosure: (a) The contents of personnel action reports filed under RCW 43.101.135 or 43.101.136; (b) all files, papers, and other information obtained by the commission pursuant to RCW 43.101.095(5) or 43.101.096; and (c) all investigative files of the commission compiled in carrying out the responsibilities of the commission under this chapter. Such records are not subject to public disclosure, subpoena, or discovery proceedings in any civil action, except as provided in subsection (5) of this section.
+
+. Records which are otherwise confidential and exempt under subsection (1) of this section may be reviewed and copied: (a) By the officer involved or the officer's counsel or authorized representative, who may review the officer's file and may submit any additional exculpatory or explanatory evidence, statements, or other information, any of which must be included in the file; (b) by a duly authorized representative of (i) the agency of termination, or (ii) a current employing law enforcement or corrections agency, which may review and copy its employee-officer's file; or (c) by a representative of or investigator for the commission.
+
+. Records which are otherwise confidential and exempt under subsection (1) of this section may also be inspected at the offices of the commission by a duly authorized representative of a law enforcement or corrections agency considering an application for employment by a person who is the subject of a record. A copy of records which are otherwise confidential and exempt under subsection (1) of this section may later be obtained by an agency after it hires the applicant. In all other cases under this subsection, the agency may not obtain a copy of the record.
+
+. Upon a determination that a complaint is without merit, that a personnel action report filed under RCW 43.101.135 does not merit action by the commission, or that a matter otherwise investigated by the commission does not merit action, the commission shall purge records addressed in subsection (1) of this section.
+
+. The hearings, but not the deliberations, of the hearings board are open to the public. The transcripts, admitted evidence, and written decisions of the hearings board on behalf of the commission are not confidential or exempt from public disclosure, and are subject to subpoena and discovery proceedings in civil actions.
+
+. Every individual, legal entity, and agency of federal, state, or local government is immune from civil liability, whether direct or derivative, for providing information to the commission in good faith.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2499-S2.SL.pdf?cite=2020%20c%20119%20§%2012[2020 c 119 § 12]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1062.SL.pdf?cite=2001%20c%20167%20§%2012[2001 c 167 § 12]; ]
+
+== 43.101.410 - Racial profiling—Policies—Training—Complaint review process—Data collection and reporting.
+. Local law enforcement agencies shall comply with the recommendations of the Washington association of sheriffs and police chiefs regarding racial profiling, as set forth under (a) through (f) of this subsection. Local law enforcement agencies shall:
+
+.. Adopt a written policy designed to condemn and prevent racial profiling;
+
+.. Review and audit their existing procedures, practices, and training to ensure that they do not enable or foster the practice of racial profiling;
+
+.. Continue training to address the issues related to racial profiling. Officers should be trained in how to better interact with persons they stop so that legitimate police actions are not misperceived as racial profiling;
+
+.. Ensure that they have in place a citizen complaint review process that can adequately address instances of racial profiling. The process must be accessible to citizens and must be fair. Officers found to be engaged in racial profiling must be held accountable through the appropriate disciplinary procedures within each department;
+
+.. Work with the minority groups in their community to appropriately address the issue of racial profiling; and
+
+.. Within fiscal constraints, collect demographic data on traffic stops and analyze that data to ensure that racial profiling is not occurring.
+
+. The Washington association of sheriffs and police chiefs shall coordinate with the criminal justice training commission to ensure that issues related to racial profiling are addressed in basic law enforcement training and offered in regional training for in-service law enforcement officers at all levels.
+
+. Local law enforcement agencies shall report all information required under this section to the Washington association of sheriffs and police chiefs.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5852.SL.pdf?cite=2002%20c%2014%20§%202[2002 c 14 § 2]; ]
+
+== 43.101.415 - Racial profiling—Reports to the legislature.
+The Washington association of sheriffs and police chiefs, in cooperation with the criminal justice training commission, shall report to the legislature by December 31, 2002, and each December 31st thereafter, on the progress and accomplishments of each local law enforcement agency in the state in meeting the requirements and goals set forth in RCW 43.101.410.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5852.SL.pdf?cite=2002%20c%2014%20§%203[2002 c 14 § 3]; ]
+
+== 43.101.419 - Motorcycle profiling.
+. The criminal justice training commission shall ensure that issues related to motorcycle profiling are addressed in basic law enforcement training and offered to in-service law enforcement officers in conjunction with existing training regarding profiling.
+
+. Local law enforcement agencies shall add a statement condemning motorcycle profiling to existing policies regarding profiling.
+
+. For the purposes of this section, "motorcycle profiling" means the illegal use of the fact that a person rides a motorcycle or wears motorcycle-related paraphernalia as a factor in deciding to stop and question, take enforcement action, arrest, or search a person or vehicle with or without a legal basis under the United States Constitution or Washington state Constitution.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5242.SL.pdf?cite=2011%20c%2049%20§%201[2011 c 49 § 1]; ]
+
+== 43.101.420 - Personal crisis recognition and crisis intervention services—Training.
+. The commission shall offer a training session on personal crisis recognition and crisis intervention services to criminal justice, correctional personnel, and other public safety employees. The training shall be implemented by the commission in consultation with appropriate public and private organizations that have expertise in crisis referral services and in the underlying conditions leading to the need for crisis referral.
+
+. The training shall consist of a minimum of one hour of classroom or internet instruction, and shall include instruction on the following subjects:
+
+.. The description and underlying causes of problems that may have an impact on the personal and professional lives of public safety employees, including mental health issues, chemical dependency, domestic violence, financial problems, and other personal crises;
+
+.. Techniques by which public safety employees may recognize the conditions listed in (a) of this subsection and understand the need to seek assistance and obtain a referral for consultation and possible treatment; and
+
+.. A listing of examples of public and private crisis referral agencies available to public safety employees.
+
+. The training developed by the commission shall be made available by the commission to all employees of state and local agencies that perform public safety duties. The commission may charge a reasonable fee to defer the cost of making the training available.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5131-S.SL.pdf?cite=2009%20c%2019%20§%201[2009 c 19 § 1]; ]
+
+== 43.101.425 - Communications to crisis referral services—Confidentiality of communications and records.
+. All communications to crisis referral services by employees and volunteers of law enforcement, correctional, firefighting, and emergency services agencies, and all records related to the communications, shall be confidential. Crisis referral services include all public or private organizations that advise employees and volunteers of such agencies about sources of consultation and treatment for personal problems including mental health issues, chemical dependency, domestic violence, gambling, financial problems, and other personal crises.
+
+. A crisis referral service may reveal information related to crisis referral services to prevent reasonably certain death, substantial bodily harm, or commission of a crime.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5131-S.SL.pdf?cite=2009%20c%2019%20§%202[2009 c 19 § 2]; ]
+
+== 43.101.427 - Crisis intervention training—Rules.
+. The commission shall provide crisis intervention training to every new full-time law enforcement officer employed after July 1, 2017, by a general authority Washington law enforcement agency. The training shall consist of not less than eight hours and shall be incorporated into the basic training academy as provided in RCW 43.101.200.
+
+. The commission must ensure that:
+
+.. All full-time, general authority Washington peace officers who are certified after July 1, 2017, complete a two-hour online crisis intervention course as part of the annual training required by the commission for all full-time, general authority Washington peace officers employed by a general authority Washington law enforcement agency.
+
+.. Each full-time general authority Washington peace officer certified before July 1, 2017, receives crisis intervention training by July 1, 2021. The training shall consist of not less than eight hours and shall be substantially similar in hours and content to the training offered through the basic training academy. Each attendee of the program shall be required to obtain written proof of completion of the program as provided by rules of the commission.
+
+. The commission shall make efforts to provide enhanced crisis intervention training for at least twenty-five percent of all full-time, general authority Washington peace officers assigned to patrol duties. The enhanced training may be (a) comprised of forty hours of commission-certified training and (b) accomplished within any funds remaining after appropriation is made for purposes of this section.
+
+. By July 1, 2017, the commission shall establish by rule:
+
+.. A program and standards to certify organizations, other than the commission, that may provide crisis intervention training as required under this section. Certified organizations must use a commission-certified training or curriculum to facilitate the training. The commission shall consider geographic training needs when considering programs and standards. The commission shall provide grants to general authority Washington law enforcement agencies to reimburse those law enforcement agencies for the cost of sending officers to crisis intervention training;
+
+.. Standards for successful completion of the annual two hours of crisis intervention training as provided in subsection (2) of this section. The standards shall include, at a minimum, the requirement of successful completion of a written exam.
+
+. For the purposes of this section, "crisis intervention training" means training designed to provide tools and resources to full-time, general authority Washington peace officers in order to respond effectively to individuals who may be experiencing an emotional, mental, physical, behavioral, or chemical dependency crisis, distress, or problem and that are designed to increase the safety of both law enforcement and individuals in crisis.
+
+. This section is subject to the availability of amounts appropriated for this specific purpose.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5311-S2.SL.pdf?cite=2015%20c%2087%20§%201[2015 c 87 § 1]; ]
+
+== 43.101.430 - Criminal justice training commission firing range maintenance account.
+The criminal justice training commission firing range maintenance account is created in the custody of the state treasurer. All moneys generated by the rental of the commission's firing range facilities, property, and equipment must be deposited into the account. The sources of the moneys generated and deposited under this section may include federal, state, local, or private grants, consistent with RCW 43.101.190. Expenditures from the account may be used only for cost related to rental, maintenance, or development of the commission's firing range facilities, property, and equipment. Only the executive director, acting on behalf of the criminal justice training commission, or the executive director's designee may authorize expenditures from the account. The account is subject to allotment procedures under chapter 43.88 RCW, but an appropriation is not required for expenditures.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1613-S.SL.pdf?cite=2013%20c%20265%20§%201[2013 c 265 § 1]; ]
+
+== 43.101.435 - Washington internet crimes against children account.
+The Washington internet crimes against children account is created in the custody of the state treasurer. All receipts from legislative appropriations, donations, gifts, grants, and funds from federal or private sources must be deposited into the account. Expenditures from the account must be used exclusively by the Washington internet crimes against children task force and its affiliate agencies for combating internet-facilitated crimes against children, promoting education on internet safety to the public and to minors, and rescuing child victims from abuse and exploitation. Only the criminal justice training commission or the commission's designee may authorize expenditures from the account. The account is subject to allotment procedures under chapter 43.88 RCW, but an appropriation is not required for expenditures. The commission may enter into agreements with the Washington association of sheriffs and police chiefs to administer grants and other activities funded by the account and be paid an administrative fee not to exceed three percent of expenditures. During the 2019-2021 fiscal biennium, moneys in the account may be used by the Washington state patrol for activities related to the missing and exploited children task force.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1109-S.SL.pdf?cite=2019%20c%20415%20§%20971[2019 c 415 § 971]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5215-S2.SL.pdf?cite=2015%20c%2084%20§%202[2015 c 84 § 2]; ]
+
+== 43.101.440 - Testimony of children under age fourteen—Remote testimony—Number of child sexual abuse cases referred for prosecution and number prosecuted—Annual survey—Reports to the legislature.
+The criminal justice training commission shall annually survey law enforcement and prosecuting agencies regarding, with respect to the preceding year: (1) The frequency of cases where children under the age of fourteen have elected not to testify, including the reasons for the election not to testify; (2) the number of cases where remote testimony pursuant to RCW 9A.44.150 was used and whether those cases resulted in conviction; and (3) the total number of child sexual abuse cases referred for prosecution and the number of those cases that were prosecuted. The results of the survey described in this section must be reported every other year to the appropriate committees of the legislature with an initial reporting date of December 1, 2015.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1898-S.SL.pdf?cite=2015%20c%20286%20§%203[2015 c 286 § 3]; ]
+
+== 43.101.450 - Violence de-escalation training.
+. Beginning one year after *December 6, 2018, all law enforcement officers in the state of Washington must receive violence de-escalation training. Law enforcement officers beginning employment after *December 6, 2018, must successfully complete such training within the first fifteen months of employment. The commission shall set the date by which other law enforcement officers must successfully complete such training.
+
+. All law enforcement officers shall periodically receive continuing violence de-escalation training to practice their skills, update their knowledge and training, and learn about new legal requirements and violence de-escalation strategies.
+
+. The commission shall set training requirements through the procedures in RCW 43.101.455.
+
+[ 2019 c 1 § 3 (Initiative Measure No. 940);  2018 c 11 § 3 (Initiative Measure No. 940); 2019 c 4 § 8; ]
+
+== 43.101.452 - Mental health training.
+. Beginning one year after *December 6, 2018, all law enforcement officers in the state of Washington must receive mental health training. Law enforcement officers beginning employment after *December 6, 2018, must successfully complete such training within the first fifteen months of employment. The commission shall set the date by which other law enforcement officers must successfully complete such training.
+
+. All law enforcement officers shall periodically receive continuing mental health training to update their knowledge about mental health issues and associated legal requirements, and to update and practice skills for interacting with people with mental health issues.
+
+. The commission shall set training requirements through the procedures in RCW 43.101.455.
+
+[ 2019 c 1 § 4 (Initiative Measure No. 940);  2018 c 11 § 4 (Initiative Measure No. 940); 2019 c 4 § 8; ]
+
+== 43.101.455 - Violence de-escalation and mental health training—Adoption of rules—Training requirements.
+. Within six months after December 6, 2018, the commission must consult with law enforcement agencies and community stakeholders and adopt rules for carrying out the training requirements of RCW 43.101.450 and 43.101.452. Such rules must, at a minimum:
+
+.. Adopt training hour requirements and curriculum for initial violence de-escalation trainings required by chapter 1, Laws of 2019;
+
+.. Adopt training hour requirements and curriculum for initial mental health trainings required by chapter 1, Laws of 2019, which may include all or part of the mental health training curricula established under RCW 43.101.227 and 43.101.427;
+
+.. Adopt annual training hour requirements and curricula for continuing trainings required by chapter 1, Laws of 2019;
+
+.. Establish means by which law enforcement officers will receive trainings required by chapter 1, Laws of 2019; and
+
+.. Require compliance with chapter 1, Laws of 2019 training requirements.
+
+. In developing curricula, the commission shall consider inclusion of the following:
+
+.. De-escalation in patrol tactics and interpersonal communication training, including tactical methods that use time, distance, cover, and concealment, to avoid escalating situations that lead to violence;
+
+.. Alternatives to jail booking, arrest, or citation in situations where appropriate;
+
+.. Implicit and explicit bias, cultural competency, and the historical intersection of race and policing;
+
+.. Skills including de-escalation techniques to effectively, safely, and respectfully interact with people with disabilities and/or behavioral health issues;
+
+.. "Shoot/don't shoot" scenario training;
+
+.. Alternatives to the use of physical or deadly force so that de-escalation tactics and less lethal alternatives are part of the decision-making process leading up to the consideration of deadly force;
+
+.. Mental health and policing, including bias and stigma; and
+
+.. Using public service, including rendering of first aid, to provide a positive point of contact between law enforcement officers and community members to increase trust and reduce conflicts.
+
+. The initial violence de-escalation training must educate officers on the good faith standard for use of deadly force established by chapter 1, Laws of 2019 and how that standard advances violence de-escalation goals.
+
+. The commission may provide trainings, alone or in partnership with private parties or law enforcement agencies, authorize private parties or law enforcement agencies to provide trainings, or any combination thereof. The entity providing the training may charge a reasonable fee.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1064-S.SL.pdf?cite=2019%20c%204%20§%201[2019 c 4 § 1]; 2019 c 1 § 5 (Initiative Measure No. 940);  2018 c 11 § 5 (Initiative Measure No. 940); 2019 c 4 § 8; 2018 c 10 § 1; 2019 c 4 § 8; ]
+
+== 43.101.800 - Critical incident stress management programs—Expansion—Report. (Expires January 1, 2023.)
+. Subject to the availability of amounts appropriated for this specific purpose, the commission shall conduct outreach and coordinate with local law enforcement agencies, fire departments, and other first responder service providers for the purpose of expanding critical incident stress management programs to law enforcement personnel, firefighters, and other first responders statewide. The commission shall conduct an inventory of the current critical incident stress management programs in the state, including an assessment of underserved agencies and regions. The commission shall coordinate with law enforcement agencies, law enforcement organizations, community partners, fire departments, and other first response service organizations to provide greater access to critical incident stress management programs, including peer support group counselors under RCW 5.60.060, and may further assist agencies with establishing interagency and regional service agreements to facilitate expansion of these programs.
+
+. The commission shall submit a preliminary report by July 1, 2021, and submit a final report, including a summary of the inventory and efforts to expand programs, by July 1, 2022, to the governor and the appropriate committees of the legislature.
+
+. This section expires January 1, 2023.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2926.SL.pdf?cite=2020%20c%20294%20§%201[2020 c 294 § 1]; ]
+
+== 43.101.901 - Transfer of conference center.
+The legislature authorizes the *department of general administration to transfer the Washington state training and conference center located at 19010 First Avenue, Burien, Washington, 98148, to the criminal justice training commission.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1066.SL.pdf?cite=2001%20c%20166%20§%202[2001 c 166 § 2]; ]
+
+== 43.101.902 - Effective date—2001 c 167.
+This act takes effect January 1, 2002.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1062.SL.pdf?cite=2001%20c%20167%20§%2014[2001 c 167 § 14]; ]
+

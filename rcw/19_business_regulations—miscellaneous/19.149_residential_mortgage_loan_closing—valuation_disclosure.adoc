@@ -1,0 +1,17 @@
+= 19.149 - Residential mortgage loan closing—Valuation disclosure.
+:toc:
+
+== 19.149.010 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter:
+
+. "Lender" means any person doing business under the laws of this state or the United States relating to banks, savings banks, trust companies, savings and loan associations, credit unions, consumer loan companies, insurance companies, real estate investment trusts as defined in 26 U.S.C. Sec. 856 and the affiliates, subsidiaries, and service corporations thereof, and all other persons who make residential mortgage loans.
+
+. "Residential mortgage loan" means any loan used for the purchase of a single-family dwelling or multiple-family dwelling of four or less units secured by a mortgage or deed of trust on the residential real estate.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6571-S.SL.pdf?cite=1994%20c%20295%20§%201[1994 c 295 § 1]; ]
+
+== 19.149.020 - Purchase money residential mortgage loans—Provision to borrower of documents used by lender to evaluate value—Written waiver.
+A lender shall provide to the borrower, prior to the closing of a residential mortgage loan, true and complete copies of all appraisals or other documents relied upon by the lender in evaluating the value of the dwelling to be financed. A borrower may waive in writing the lender's duty to provide the appraisals or other documents prior to closing. This written waiver may not be construed to in any way limit the lender's duty to provide the information to the borrower at a reasonable later date. This section shall only apply to purchase money residential mortgage loans.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6571-S.SL.pdf?cite=1994%20c%20295%20§%202[1994 c 295 § 2]; ]
+

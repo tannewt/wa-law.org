@@ -1,0 +1,143 @@
+= 15.14 - Planting stock.
+:toc:
+
+== 15.14.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Department" means the department of agriculture of the state of Washington.
+
+. "Director" means the director of the department or the director's designee.
+
+. "Person" means an individual, firm, partnership, corporation, company, association, or public entity and every officer, agent, or employee of these entities.
+
+. "Plant pests" means, but is not limited to, any living stage of any insects, mites, nematodes, slugs, snails, protozoa, or other invertebrate animals, bacteria, fungi, other parasitic plants or weeds or reproductive parts thereof, viruses or any organisms similar to or allied with any of the foregoing, or any infectious substance, which can directly or indirectly injure or cause disease or damage to any plant or parts thereof, or any processed, manufactured, or other products of plants.
+
+. "Micropropagated plants" means plants propagated using aseptic laboratory techniques and an artificial culture medium.
+
+. "Tolerance" means the maximum acceptable percentage of planting stock that is diseased, infected by plant pests, defective, or off-type based on visual inspection or laboratory testing by the director or other authorized person.
+
+. "Planting stock" includes any plant material used in the propagation of horticultural, floricultural, viticultural, or olericultural plants for the purpose of being sold, offered for sale, or distributed for planting or reproduction purposes.
+
+. "Breeder planting stock" means plant propagating materials directly controlled by the originating or sponsoring plant breeder or institution, which provides the source of foundation planting stock.
+
+. "Foundation planting stock" means planting stock that has been so handled as to maintain genetic characteristics and that has been:
+
+.. Increased directly from breeder planting stock; or
+
+.. Designated as foundation planting stock by the director.
+
+. "Registered planting stock" means planting stock of a quality suitable for the production of certified planting stock that has been so handled as to maintain genetic characteristics and that is:
+
+.. Increased directly from foundation or registered planting stock; or
+
+.. Designated as registered planting stock by the director.
+
+. "Certified planting stock" means the progeny of foundation, registered, or certified planting stock that has been so handled as to maintain genetic characteristics, that has met certification standards authorized by this chapter, and that has been certified by the director.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1150.SL.pdf?cite=1999%20c%20144%20§%201[1999 c 144 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c354.pdf?cite=1989%20c%20354%20§%2084[1989 c 354 § 84]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c3.pdf?cite=1983%20c%203%20§%2019[1983 c 3 § 19]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c83.pdf?cite=1961%20c%2083%20§%201[1961 c 83 § 1]; ]
+
+== 15.14.015 - Rules—Scope.
+The director may adopt rules necessary to carry out the purpose and provisions of this chapter concerning, but not limited to:
+
+. Certification of planting stock as to freedom from infection by plant pests, variety, classification, and grade.
+
+. Establishment of tolerances for planting stock that is diseased, infected with plant pests, defective, or off-type.
+
+. Establishment of standards and grades for planting stock.
+
+. Labeling, identification, grading, and packing of foundation, registered, and certified planting stock.
+
+. Inspection and testing of foundation, registered, and certified planting stock prior to planting during the growing season or seasons, prior to and during harvest, and subsequent to harvest.
+
+. Exclusion and removal of diseased, infected with plant pests, defective, or off-type plants from foundation, registered, and certified planting stock.
+
+. Establishing processes, site requirements, and criteria for participation in programs authorized by this chapter.
+
+. Cultivation and sanitation practices in growing, storing, distributing, and processing foundation, registered, and certified planting stock.
+
+. Establishing recordkeeping requirements.
+
+. Production, utilization, and testing of micropropagated plants for foundation, registered, and certified planting stock.
+
+. Establishment of fees and assessments for inspection, testing, and certification of planting stock and other services authorized by this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1150.SL.pdf?cite=1999%20c%20144%20§%202[1999 c 144 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c83.pdf?cite=1961%20c%2083%20§%203[1961 c 83 § 3]; ]
+
+== 15.14.025 - Certificates—Samples for inspection and testing—Publish information—Notify purchasers of results.
+The director may:
+
+. Issue certificates stating that planting stock found by the director or other authorized person to be in compliance with rules adopted under this chapter is foundation, registered, or certified planting stock.
+
+. Take samples in reasonable amounts as necessary of planting stock to inspect and test for genetic characteristics and/or freedom from infection by plant pests.
+
+. Publish names of growers participating in certification programs and inspection results.
+
+. Require growers participating in certification programs to notify purchasers of planting stock when postharvest inspections or tests show the planting stock represented as foundation, registered, or certified has failed to meet minimum standards for certification.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1150.SL.pdf?cite=1999%20c%20144%20§%203[1999 c 144 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c83.pdf?cite=1961%20c%2083%20§%207[1961 c 83 § 7]; ]
+
+== 15.14.035 - Inspection of property, premises, or records—Denial of access—Search warrant.
+In order to carry out the purposes of this chapter, the director may enter at reasonable times as determined by the director and inspect any property or premises and any records required under this chapter. If the director is denied access to any property, premises, or records, the director may suspend, cancel, or refuse certification or other approval of the planting stock or may apply to a court of competent jurisdiction for a search warrant authorizing access to the property, premises, or records. The court may upon the application issue a search warrant for the purpose requested.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1150.SL.pdf?cite=1999%20c%20144%20§%204[1999 c 144 § 4]; ]
+
+== 15.14.045 - Compliance agreements authorized—Suspension or cancellation—Hearing.
+The director may enter into compliance agreements with any grower of foundation, registered, or certified planting stock for the purpose of carrying out the provisions of this chapter. The director may suspend or cancel any compliance agreement for cause. Upon notice by the director to suspend or cancel a compliance agreement, a person may request a hearing under chapter 34.05 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1150.SL.pdf?cite=1999%20c%20144%20§%205[1999 c 144 § 5]; ]
+
+== 15.14.050 - Registered, foundation, and breeder planting stock—Availability to producers and commercial growers—Restrictions on use—Fees.
+For purposes of maintaining and/or improving the genetic characteristics and freedom from infection by plant pests of any registered, foundation, and breeder planting stock, the director may acquire, propagate, and distribute registered, foundation, and breeder planting stock to producers and commercial growers. The director may charge fees for the planting stock and may place restrictions on its use and propagation by producers and commercial growers.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1150.SL.pdf?cite=1999%20c%20144%20§%206[1999 c 144 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c83.pdf?cite=1961%20c%2083%20§%205[1961 c 83 § 5]; ]
+
+== 15.14.065 - Acceptance as certified, registered, foundation, or breeder planting stock.
+The director may accept as certified, registered, foundation, or breeder planting stock any planting stock grown or produced by Washington State University, the United States department of agriculture or other propagators whose plant materials are produced in conformance with the requirements of this chapter and rules adopted under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1150.SL.pdf?cite=1999%20c%20144%20§%207[1999 c 144 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c83.pdf?cite=1961%20c%2083%20§%2011[1961 c 83 § 11]; ]
+
+== 15.14.075 - Agreements with Washington State University, governmental entities, and other organizations.
+The director may cooperate with and enter into agreements with Washington State University, the United States department of agriculture, other state and federal agencies, and any other organization in order to carry out the purposes and provisions of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1150.SL.pdf?cite=1999%20c%20144%20§%208[1999 c 144 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c83.pdf?cite=1961%20c%2083%20§%2012[1961 c 83 § 12]; ]
+
+== 15.14.085 - Acquisition of property—Use of property.
+The director may acquire by gift, grant, or endowment from public or private sources, as may be made in trust or otherwise, for the use and benefit of the purposes of this chapter, real property and any other type property, and expend the same or any income therefrom according to the terms of the gift, grant, or endowment.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1150.SL.pdf?cite=1999%20c%20144%20§%209[1999 c 144 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c83.pdf?cite=1961%20c%2083%20§%204[1961 c 83 § 4]; ]
+
+== 15.14.095 - Failure to meet certification requirements—Director's options—Notice—Hearing.
+The director may suspend, cancel, or refuse certification or other approval of any planting stock that fails to meet the certification requirements authorized in this chapter. Upon notice by the director to suspend, cancel, or refuse certification or other approval of any planting stock, a person may request a hearing under chapter 34.05 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1150.SL.pdf?cite=1999%20c%20144%20§%2010[1999 c 144 § 10]; ]
+
+== 15.14.105 - Unlawful acts.
+It is unlawful for any person to sell, offer for sale, hold for sale, label, identify, represent, or to advertise any planting stock as being certified, registered, foundation, or breeder planting stock unless it complies with the requirements of this chapter and rules adopted under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1150.SL.pdf?cite=1999%20c%20144%20§%2011[1999 c 144 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c83.pdf?cite=1961%20c%2083%20§%2014[1961 c 83 § 14]; ]
+
+== 15.14.115 - Injunctions.
+The director may bring an action to enjoin the violation or threatened violation of any provision of this chapter or any rule adopted pursuant to this chapter in the superior court of Thurston county, notwithstanding the existence of other remedies at law.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c83.pdf?cite=1961%20c%2083%20§%2015[1961 c 83 § 15]; ]
+
+== 15.14.125 - Late charge on fee or assessment.
+A late charge of one and one-half percent per month shall be assessed on the unpaid balance against persons more than thirty days in arrears for any fee or assessment authorized by this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1150.SL.pdf?cite=1999%20c%20144%20§%2012[1999 c 144 § 12]; ]
+
+== 15.14.135 - Noncompliance by growers—Director may withhold services.
+The director may withhold services to growers of planting stock for refusal to comply with the provisions of this chapter or its rules, for nonpayment of fees and assessment moneys owed to the department by law, or for nonpayment of any assessment moneys due to an agricultural commodity commission.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1150.SL.pdf?cite=1999%20c%20144%20§%2013[1999 c 144 § 13]; ]
+
+== 15.14.145 - Deposit of funds in planting stock certification account—Use.
+All the moneys collected under the provisions of this chapter shall be paid to the director and deposited in the planting stock certification account within the agricultural local fund and shall be used only to carry out the purposes and provisions of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1150.SL.pdf?cite=1999%20c%20144%20§%2014[1999 c 144 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c83.pdf?cite=1961%20c%2083%20§%2013[1961 c 83 § 13]; ]
+
+== 15.14.900 - Chapter cumulative and nonexclusive.
+The provisions of this chapter shall be cumulative and nonexclusive and shall not affect any other remedy.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c83.pdf?cite=1961%20c%2083%20§%2016[1961 c 83 § 16]; ]
+

@@ -1,0 +1,54 @@
+= 19.210 - Unused property merchants.
+:toc:
+
+== 19.210.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Baby food" or "infant formula" means any food manufactured, packaged, and labeled specifically for sale for consumption by a child under the age of two years.
+
+. "Medical device" means any instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent, tool, or other similar or related article, including any component part or accessory, which is required under federal law to bear the label "caution: federal law requires dispensing by or on the order of a physician"; or which is defined by federal law as a medical device and is intended for use in the diagnosis of disease or other conditions or in the cure, mitigation, treatment, or prevention of disease in human beings or animals or is intended to affect the structure or any function of the body of human beings or animals, which does not achieve any of its principal intended purposes through chemical action within or on the body of human beings or animals and which is not dependent upon being metabolized for achievement of any of its principal intended purposes.
+
+. "Nonprescription drug," which may also be referred to as an over-the-counter drug, means any nonnarcotic medicine or drug that may be sold without a prescription and is prepackaged for use by the consumer, prepared by the manufacturer or producer for use by the consumer, and required to be properly labeled and unadulterated in accordance with the requirements of the state food and drug laws and the federal food, drug, and cosmetic act. "Nonprescription drug" does not include herbal products, dietary supplements, botanical extracts, or vitamins.
+
+. [Empty]
+.. "Unused property market" means any event:
+
+... At which two or more persons offer personal property for sale or exchange and at which (A) these persons are charged a fee for sale or exchange of personal property or (B) prospective buyers are charged a fee for admission to the area at which personal property is offered or displayed for sale or exchange; or
+
+... Regardless of the number of persons offering or displaying personal property or the absence of fees, at which personal property is offered or displayed for sale or exchange if the event is held more than six times in any twelve-month period.
+
+.. "Unused property market" is interchangeable with and applicable to swap meet, indoor swap meet, flea market, or other similar terms, regardless of whether these events are held inside a building or outside in the open. The primary characteristic is that these activities involve a series of sales sufficient in number, scope, and character to constitute a regular course of business.
+
+.. "Unused property market" does not include:
+
+... An event that is organized for the exclusive benefit of any community chest, fund, foundation, association, or corporation organized and operated for religious, educational, or charitable purposes, provided that no part of any admission fee or parking fee charged vendors or prospective purchasers or the gross receipts or net earnings from the sale or exchange of personal property, whether in the form of a percentage of the receipts or earnings, as salary, or otherwise, inures to the benefit of any private shareholder or person participating in the organization or conduct of the event; or
+
+... An event at which all of the personal property offered for sale or displayed is new, and all persons selling or exchanging personal property, or offering or displaying personal property for sale or exchange, are manufacturers or authorized representatives of manufacturers or distributors.
+
+. "Unused property merchant" means any person, other than a vendor or merchant with an established retail store in the county, who transports an inventory of goods to a building, vacant lot, or other unused property market location and who, at that location, displays the goods for sale and sells the goods at retail or offers the goods for sale at retail, except a person who offers five or fewer items of the same new and unused merchandise for sale or exchange at an unused property market.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5038.SL.pdf?cite=2009%20c%20549%20§%201010[2009 c 549 § 1010]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5374.SL.pdf?cite=2001%20c%20160%20§%201[2001 c 160 § 1]; ]
+
+== 19.210.020 - Prohibited sales.
+No unused property merchant shall offer at an unused property market for sale or knowingly permit the sale of baby food, infant formula, cosmetics, nonprescription drugs, or medical devices. This section does not apply to a person who keeps available for public inspection a written authorization identifying that person as an authorized representative of the manufacturer or distributor of such product, as long as the authorization is not false, fraudulent, or fraudulently obtained.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5374.SL.pdf?cite=2001%20c%20160%20§%202[2001 c 160 § 2]; ]
+
+== 19.210.030 - Chapter not applicable—Trade show, certain persons.
+This chapter does not apply to:
+
+. Business conducted in any industry or association trade show; or
+
+. Anyone who sells by sample, catalog, or brochure for future delivery.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5374.SL.pdf?cite=2001%20c%20160%20§%203[2001 c 160 § 3]; ]
+
+== 19.210.040 - Penalties.
+. A first violation of this chapter is a misdemeanor.
+
+. A second violation of this chapter within five years is a gross misdemeanor.
+
+. A third or subsequent violation of this chapter within five years is a class C felony.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5374.SL.pdf?cite=2001%20c%20160%20§%204[2001 c 160 § 4]; ]
+

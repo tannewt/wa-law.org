@@ -1,0 +1,89 @@
+= 28B.122 - Aerospace training student loan program.
+:toc:
+
+== 28B.122.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Aerospace training or educational program" means a course in the aerospace industry offered by the Washington aerospace training and research center, the Spokane aerospace technology center, Renton technical college, or Everett Community College.
+
+. "Eligible student" means a student who is registered for an aerospace training or educational program, is making satisfactory progress as defined by the program, and has a declared intention to work in the aerospace industry in the state of Washington.
+
+. "Office" means the office of student financial assistance.
+
+. "Participant" means an eligible student who has received an aerospace training student loan.
+
+. "Student loan" means a loan that is approved by the office and awarded to an eligible student.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5746.SL.pdf?cite=2015%20c%20218%20§%201[2015 c 218 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2156-S2.SL.pdf?cite=2012%20c%2050%20§%204[2012 c 50 § 4]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1846-S.SL.pdf?cite=2011%20c%208%20§%201[2011 c 8 § 1]; ]
+
+== 28B.122.020 - Program established.
+. The aerospace training student loan program is established.
+
+. The program shall be designed in consultation with representatives of aerospace employers, aerospace workers, and aerospace training or educational programs.
+
+. The program shall be administered by the office. In administering the program, the office has the following powers and duties:
+
+.. To screen and select, in coordination with representatives of aerospace training or educational programs, eligible students to receive an aerospace training student loan;
+
+.. To consider an eligible student's financial inability to meet the total cost of the aerospace training or educational program in the selection process;
+
+.. To issue low-interest student loans;
+
+.. To establish an annual loan limit equal to the cost of attendance minus any other financial aid received;
+
+.. To define the terms of repayment, including applicable interest rates, fees, and deferments;
+
+.. To collect and manage repayments from students who do not meet their obligations under this chapter;
+
+.. To solicit and accept grants and donations from public and private sources for the program; and
+
+.. To adopt necessary rules.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2156-S2.SL.pdf?cite=2012%20c%2050%20§%205[2012 c 50 § 5]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1846-S.SL.pdf?cite=2011%20c%208%20§%202[2011 c 8 § 2]; ]
+
+== 28B.122.030 - Program eligibility—Student eligibility.
+. To remain an aerospace training or educational program in which a participant may be registered, the program must have an advisory committee that includes at least one member representing aerospace employers and at least one member from organized labor representing aerospace workers.
+
+. To remain an eligible student and receive continuing disbursements under the program, a participant must be considered by the aerospace training or educational program to be making satisfactory progress.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1846-S.SL.pdf?cite=2011%20c%208%20§%203[2011 c 8 § 3]; ]
+
+== 28B.122.040 - Awards.
+The office may award aerospace training student loans to eligible students from the funds available in the aerospace training student loan account for this program. The amount of the student loan awarded an individual may not exceed tuition and fees for the program of study.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2156-S2.SL.pdf?cite=2012%20c%2050%20§%206[2012 c 50 § 6]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1846-S.SL.pdf?cite=2011%20c%208%20§%204[2011 c 8 § 4]; ]
+
+== 28B.122.050 - Aerospace training student loan account.
+. The aerospace training student loan account is created in the custody of the state treasurer. No appropriation is required for expenditures of funds from the account for student loans. An appropriation is required for expenditures of funds from the account for costs associated with program administration by the office. The account is not subject to allotment procedures under chapter 43.88 RCW.
+
+. The office shall deposit into the account all moneys received for the program. The account shall be self-sustaining and consist of moneys received for the program by the office, and receipts from participant repayments, including principal and interest.
+
+. Expenditures from the account may be used solely for student loans to participants in the program established by this chapter and costs associated with program administration by the office.
+
+. Disbursements from the account may be made only on the authorization of the office.
+
+. During the 2015-2017 and 2017-2019 fiscal biennia, the legislature may transfer from the aerospace training student loan account to the state general fund such amounts as reflect the excess fund balance of the account.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5883-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%201%20§%20959[2017 3rd sp.s. c 1 § 959]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2376-S.SL.pdf?cite=2016%20sp.s.%20c%2036%20§%20917[2016 sp.s. c 36 § 917]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2156-S2.SL.pdf?cite=2012%20c%2050%20§%207[2012 c 50 § 7]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1846-S.SL.pdf?cite=2011%20c%208%20§%205[2011 c 8 § 5]; ]
+
+== 28B.122.060 - Annual report.
+. The office, in collaboration with aerospace training or educational programs, shall submit an annual report regarding the aerospace training student loan program to the governor and to the appropriate committees of the legislature.
+
+. The annual report shall describe the design and implementation of the aerospace training student loan program, and shall include the following:
+
+.. The number of applicants for loans;
+
+.. The number of participants in the loan program;
+
+.. The number of participants in the loan program who complete an aerospace training or educational program;
+
+.. The number of participants in the loan program who are placed in employment;
+
+.. The nature of that employment, including: (i) The type of job; (ii) whether the job is full-time, part-time, or temporary; (iii) whether the job pays annual wages that are: (A) Less than thirty thousand dollars; (B) thirty thousand dollars or greater, but less than sixty thousand dollars; or (C) sixty thousand dollars or more; and
+
+.. Demographic profiles of applicants for loans and participants in the loan programs.
+
+. The annual report shall be submitted by December 1st of each year after July 22, 2011.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2156-S2.SL.pdf?cite=2012%20c%2050%20§%208[2012 c 50 § 8]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1846-S.SL.pdf?cite=2011%20c%208%20§%206[2011 c 8 § 6]; ]
+

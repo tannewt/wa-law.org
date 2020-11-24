@@ -1,0 +1,63 @@
+= 64.12 - Waste and trespass.
+:toc:
+
+== 64.12.010 - Waste actionable.
+Wrongs heretofore remediable by action of waste shall be subjects of actions as other wrongs.
+
+[ Code 1881 § 600; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1877%20p%20125%20§%20605[1877 p 125 § 605]; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1869%20p%20143%20§%20554[1869 p 143 § 554]; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1854%20p%20206%20§%20403[1854 p 206 § 403]; RRS § 937; ]
+
+== 64.12.020 - Waste by guardian or tenant, action for.
+If a guardian, tenant in severalty or in common, for life or for years, or by sufferance, or at will, or a subtenant, of real property commit waste thereon, any person injured thereby may maintain an action at law for damages therefor against such guardian or tenant or subtenant; in which action, if the plaintiff prevails, there shall be judgment for treble damages, or for fifty dollars, whichever is greater, and the court, in addition may decree forfeiture of the estate of the party committing or permitting the waste, and of eviction from the property. The judgment, in any event, shall include as part of the costs of the prevailing party, a reasonable attorney's fee to be fixed by the court. But judgment of forfeiture and eviction shall only be given in favor of the person entitled to the reversion against the tenant in possession, when the injury to the estate in reversion is determined in the action to be equal to the value of the tenant's estate or unexpired term, or to have been done or suffered in malice.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1943c22.pdf?cite=1943%20c%2022%20§%201[1943 c 22 § 1]; Code 1881 § 601; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1877%20p%20125%20§%20606[1877 p 125 § 606]; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1869%20p%20143%20§%20555[1869 p 143 § 555]; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1854%20p%20206%20§%20403[1854 p 206 § 403]; Rem. Supp. 1943 § 938; ]
+
+== 64.12.030 - Injury to or removing trees, etc.—Damages.
+Whenever any person shall cut down, girdle, or otherwise injure, or carry off any tree, including a Christmas tree as defined in *RCW 76.48.020, timber, or shrub on the land of another person, or on the street or highway in front of any person's house, city or town lot, or cultivated grounds, or on the commons or public grounds of any city or town, or on the street or highway in front thereof, without lawful authority, in an action by the person, city, or town against the person committing the trespasses or any of them, any judgment for the plaintiff shall be for treble the amount of damages claimed or assessed.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1137.SL.pdf?cite=2009%20c%20349%20§%204[2009 c 349 § 4]; Code 1881 § 602; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1877%20p%20125%20§%20607[1877 p 125 § 607]; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1869%20p%20143%20§%20556[1869 p 143 § 556]; RRS § 939; ]
+
+== 64.12.035 - Cutting or removing vegetation—Electric utility—Liability—Definitions.
+. An electric utility is immune from liability under RCW 64.12.030, 64.12.040, and 4.24.630 and any claims for general or special damages, including claims of emotional distress, for cutting or removing vegetation located on or originating from land or property adjacent to electric facilities that:
+
+.. Has come in contact with or caused damage to electric facilities;
+
+.. Poses an imminent hazard to the general public health, safety, or welfare and the electric utility provides notice and makes a reasonable effort to obtain an agreement from the resident or property owner present on the property to trim or remove such hazard. For purposes of this subsection (1)(b), notice may be provided by posting a notice or flier in a conspicuous location on the affected property that gives a good faith estimate of the time frame in which the electric utility's trimming or removal work must occur, specifies how the electric utility may be contacted, and explains the responsibility of the resident or property owner to respond pursuant to the requirements of the notice. An electric utility may act without agreement if the resident or property owner fails to respond pursuant to the requirements of the notice. No notice or agreement is necessary if the electric utility's action is necessary to protect life, property, or restore electric service; or
+
+.. Poses a potential threat to damage electric facilities and the electric utility attempts written notice by mail to the last known address of record indicating the intent to act or remove vegetation and secures agreement from the affected property owner of record for the cutting, removing, and disposition of the vegetation. Such notice shall include a brief statement of the need and nature of the work intended that will impact the owner's property or vegetation, a good faith estimate of the time frame in which such work will occur, and how the utility can be contacted regarding the cutting or removal of vegetation. If the affected property owner fails to respond to a notice from the electric utility within two weeks of the date the electric utility provided notice, the electric utility may secure agreement from a resident of the affected property for the cutting, removing, and disposition of vegetation.
+
+. [Empty]
+.. A hazard to the general public health, safety, or welfare is deemed to exist when:
+
+... Vegetation has encroached upon electric facilities by overhanging or growing in such close proximity to overhead electric facilities that it constitutes an electrical hazard under applicable electrical construction codes or state and federal health and safety regulations governing persons who are employed or retained by, or on behalf of, an electric utility to construct, maintain, inspect, and repair electric facilities or to trim or remove vegetation; or
+
+... Vegetation is visibly diseased, dead, or dying and has been determined by a qualified forester or certified arborist employed or retained by, or on behalf of, an electric utility to be of such proximity to electric facilities that trimming or removal of the vegetation is necessary to avoid contact between the vegetation and electric facilities.
+
+.. The factors to be considered in determining the extent of trimming required to remove a hazard to the general public health, safety, or welfare may include normal tree growth, the combined movement of trees and conductors under adverse weather conditions, voltage, and sagging of conductors at elevated temperatures.
+
+. A potential threat to damage electric facilities exists when vegetation is of such size, condition, and proximity to electric facilities that it can be reasonably expected to cause damage to electric facilities and, based upon this standard, the vegetation has been determined to pose a potential threat by a qualified forester or certified arborist employed or retained by or on behalf of an electric utility.
+
+. For the purposes of this section:
+
+.. "Electric facilities" means lines, conduits, ducts, poles, wires, pipes, conductors, cables, cross-arms, receivers, transmitters, transformers, instruments, machines, appliances, instrumentalities, and all devices and apparatus used, operated, owned, or controlled by an electric utility, for the purposes of manufacturing, transforming, transmitting, distributing, selling, or furnishing electricity.
+
+.. "Electric utility" means an electrical company, as defined under RCW 80.04.010, a municipal electric utility formed under Title 35 RCW, a public utility district formed under Title 54 RCW, an irrigation district formed under chapter 87.03 RCW, a cooperative formed under chapter 23.86 RCW, and a mutual corporation or association formed under chapter 24.06 RCW, that is engaged in the business of distributing electricity in the state.
+
+.. "Vegetation" means trees, timber, or shrubs.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5154-S.SL.pdf?cite=1999%20c%20248%20§%201[1999 c 248 § 1]; ]
+
+== 64.12.040 - Mitigating circumstances—Damages.
+If upon trial of such action it shall appear that the trespass was casual or involuntary, or that the defendant had probable cause to believe that the land on which such trespass was committed was his or her own, or that of the person in whose service or by whose direction the act was done, or that such tree or timber was taken from uninclosed [unenclosed] woodlands, for the purpose of repairing any public highway or bridge upon the land or adjoining it, judgment shall only be given for single damages.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20193[2012 c 117 § 193]; Code 1881 § 603; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1877%20p%20125%20§%20608[1877 p 125 § 608]; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1869%20p%20143%20§%20557[1869 p 143 § 557]; RRS § 940; ]
+
+== 64.12.050 - Injunction to prevent waste on public land.
+When any two or more persons are opposing claimants under the laws of the United States to any land in this state, and one is threatening to commit upon such land waste which tends materially to lessen the value of the inheritance and which cannot be compensated by damages and there is imminent danger that unless restrained such waste will be committed, the party, on filing his or her complaint and satisfying the court or judge of the existence of the facts, may have an injunction to restrain the adverse party. In all cases he or she shall give notice and bond as is provided in other cases where injunction is granted, and the injunction when granted shall be set aside or modified as is provided generally for injunction and restraining orders.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20194[2012 c 117 § 194]; Code 1881 § 604; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1877%20p%20125%20§%20609[1877 p 125 § 609]; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1869%20p%20144%20§%20558[1869 p 144 § 558]; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1854%20p%20206%20§%20404[1854 p 206 § 404]; RRS § 941; ]
+
+== 64.12.060 - Action by occupant of unsurveyed land.
+Any person now occupying and settled upon, or who may hereafter occupy or settle upon any of the unsurveyed public lands not to exceed one hundred sixty acres in this territory, for the purpose of holding and cultivating the same, may commence and maintain any action, in any court of competent jurisdiction, for interference with or injuries done to his or her possessions of said lands, against any person or persons so interfering with or injuring such lands or possessions: PROVIDED, ALWAYS, That if any of the aforesaid class of settlers are absent from their claims continuously, for a period of six months in any one year, the said person or persons shall be deemed to have forfeited all rights under this act.
+
+[ http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1883%20p%2070%20§%201[1883 p 70 § 1]; RRS § 942; ]
+

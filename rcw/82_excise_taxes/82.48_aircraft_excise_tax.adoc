@@ -1,0 +1,204 @@
+= 82.48 - Aircraft excise tax.
+:toc:
+
+== 82.48.010 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Aircraft" means any weight-carrying device or structure for navigation of the air which is designed to be supported by the air.
+
+. "Commuter air carrier" means an air carrier holding authority under Title 14, Part 298 of the Code of Federal Regulations that carries passengers on at least five round trips per week on at least one route between two or more points according to its published flight schedules that specify the times, days of the week, and places between which those flights are performed.
+
+. "Large multi-engine fixed wing" means any piston-driven multi-engine fixed wing aircraft with a maximum gross weight as listed by the manufacturer of seventy-five hundred pounds or more.
+
+. "Person" includes a firm, partnership, limited liability company, or corporation.
+
+. "Secretary" means the secretary of transportation.
+
+. "Small multi-engine fixed wing" means any piston-driven multi-engine fixed wing aircraft with a maximum gross weight as listed by the manufacturer of less than seventy-five hundred pounds.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5627.SL.pdf?cite=2013%20c%2056%20§%202[2013 c 56 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1165-S.SL.pdf?cite=1995%20c%20318%20§%204[1995 c 318 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c220.pdf?cite=1987%20c%20220%20§%205[1987 c 220 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex2c3.pdf?cite=1983%202nd%20ex.s.%20c%203%20§%2021[1983 2nd ex.s. c 3 § 21]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c158.pdf?cite=1979%20c%20158%20§%20239[1979 c 158 § 239]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c9.pdf?cite=1967%20ex.s.%20c%209%20§%201[1967 ex.s. c 9 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c15.pdf?cite=1961%20c%2015%20§%2082.48.010[1961 c 15 § 82.48.010]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1949c49.pdf?cite=1949%20c%2049%20§%201[1949 c 49 § 1]; Rem. Supp. 1949 § 11219-33; ]
+
+== 82.48.020 - Excise tax imposed on aircraft—Out-of-state registration to avoid tax, liability—Penalties.
+. An annual excise tax is hereby imposed for the privilege of using any aircraft in the state. A current certificate of air worthiness with a current inspection date from the appropriate federal agency and/or the purchase of aviation fuel shall constitute the necessary evidence of aircraft use or intended use. The tax shall be collected annually or under a staggered collection schedule as required by the secretary by rule. No additional tax shall be imposed under this chapter upon any aircraft upon the transfer of ownership thereof, if the tax imposed by this chapter with respect to such aircraft has already been paid for the year in which transfer of ownership occurs. A violation of this subsection is a misdemeanor punishable as provided under chapter 9A.20 RCW.
+
+. Persons who are required to register aircraft under chapter 47.68 RCW and who register aircraft in another state or foreign country and avoid the Washington aircraft excise tax are liable for such unpaid excise tax. A violation of this subsection is a gross misdemeanor.
+
+The department of revenue may assess and collect the unpaid excise tax under chapter 82.32 RCW, including the penalties and interest provided in chapter 82.32 RCW.
+
+. Except as provided under subsections (1) and (2) of this section, a violation of this chapter is a misdemeanor punishable as provided in chapter 9A.20 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6467-S.SL.pdf?cite=2000%20c%20229%20§%204[2000 c 229 § 4]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5706-S.SL.pdf?cite=1999%20c%20277%20§%207[1999 c 277 § 7]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1127-S.SL.pdf?cite=1993%20c%20238%20§%205[1993 c 238 § 5]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2727.SL.pdf?cite=1992%20c%20154%20§%201[1992 c 154 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c220.pdf?cite=1987%20c%20220%20§%206[1987 c 220 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c7.pdf?cite=1983%20c%207%20§%2027[1983 c 7 § 27]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c158.pdf?cite=1979%20c%20158%20§%20240[1979 c 158 § 240]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c149.pdf?cite=1967%20ex.s.%20c%20149%20§%2027[1967 ex.s. c 149 § 27]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c9.pdf?cite=1967%20ex.s.%20c%209%20§%202[1967 ex.s. c 9 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c15.pdf?cite=1961%20c%2015%20§%2082.48.020[1961 c 15 § 82.48.020]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1949c49.pdf?cite=1949%20c%2049%20§%202[1949 c 49 § 2]; Rem. Supp. 1949 § 11219-34; ]
+
+== 82.48.030 - Amount of tax.
+. [Empty]
+.. Except as otherwise provided in (b) of this subsection, the amount of the tax imposed by this chapter for each calendar year is as follows:
+
+ Type of aircraftRegistration fee Single engine fixed wing$50  Small multi-engine fixed wing65  Large multi-engine fixed wing80  Turboprop multi-engine fixed wing100  Turbojet multi-engine fixed wing125  Helicopter75  Sailplane20  Lighter than air20  Home built20 
+
+ 
+
+Type of aircraft
+
+Registration fee
+
+ 
+
+Single engine fixed wing
+
+$
+
+50
+
+ 
+
+ 
+
+Small multi-engine fixed wing
+
+65
+
+ 
+
+ 
+
+Large multi-engine fixed wing
+
+80
+
+ 
+
+ 
+
+Turboprop multi-engine fixed wing
+
+100
+
+ 
+
+ 
+
+Turbojet multi-engine fixed wing
+
+125
+
+ 
+
+ 
+
+Helicopter
+
+75
+
+ 
+
+ 
+
+Sailplane
+
+20
+
+ 
+
+ 
+
+Lighter than air
+
+20
+
+ 
+
+ 
+
+Home built
+
+20
+
+ 
+
+.. The amount of tax imposed by this chapter for each calendar year with respect to aircraft owned and operated by a commuter air carrier that is not an airplane company as defined in RCW 84.12.200 is as follows:
+
+Gross maximum take-off weight of the aircraftRegistration feeLess than 4,001 lbs.$5004,001-6,000 lbs.$1,0006,001-8,000 lbs.$2,0008,001-9,000 lbs.$3,0009,001-12,500 lbs.$4,000
+
+Gross maximum take-off weight of the aircraft
+
+Registration fee
+
+Less than 4,001 lbs.
+
+$500
+
+4,001-6,000 lbs.
+
+$1,000
+
+6,001-8,000 lbs.
+
+$2,000
+
+8,001-9,000 lbs.
+
+$3,000
+
+9,001-12,500 lbs.
+
+$4,000
+
+. [Empty]
+.. The amount of tax imposed under subsection (1) of this section for each calendar year must be divided into twelve parts corresponding to the months of the calendar year and the excise tax upon an aircraft registered for the first time in this state after the last day of any month may only be levied for the remaining months of the calendar year including the month in which the aircraft is being registered. However, the minimum amount payable is three dollars.
+
+.. An aircraft is deemed registered for the first time in this state when such aircraft was not previously registered by this state for the year immediately preceding the year in which application for registration is made.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5627.SL.pdf?cite=2013%20c%2056%20§%203[2013 c 56 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex2c3.pdf?cite=1983%202nd%20ex.s.%20c%203%20§%2022[1983 2nd ex.s. c 3 § 22]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c9.pdf?cite=1967%20ex.s.%20c%209%20§%203[1967 ex.s. c 9 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c199.pdf?cite=1963%20c%20199%20§%206[1963 c 199 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c15.pdf?cite=1961%20c%2015%20§%2082.48.030[1961 c 15 § 82.48.030]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1949c49.pdf?cite=1949%20c%2049%20§%203[1949 c 49 § 3]; Rem. Supp. 1949 § 11219-35; ]
+
+== 82.48.035 - Tax preferences—Expiration dates.
+See RCW 82.32.805 for the expiration date of new tax preferences for the tax imposed under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5882-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2013%20§%201719[2013 2nd sp.s. c 13 § 1719]; ]
+
+== 82.48.060 - Is in addition to other taxes.
+Except as provided in RCW 82.48.110, the tax imposed by this chapter is in addition to all other licenses and taxes otherwise imposed.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c15.pdf?cite=1961%20c%2015%20§%2082.48.060[1961 c 15 § 82.48.060]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1949c49.pdf?cite=1949%20c%2049%20§%206[1949 c 49 § 6]; Rem. Supp. 1949 § 11219-38; ]
+
+== 82.48.070 - Tax receipt.
+The secretary shall give a receipt to each person paying the excise tax.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c220.pdf?cite=1987%20c%20220%20§%207[1987 c 220 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c9.pdf?cite=1967%20ex.s.%20c%209%20§%204[1967 ex.s. c 9 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c15.pdf?cite=1961%20c%2015%20§%2082.48.070[1961 c 15 § 82.48.070]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1949c49.pdf?cite=1949%20c%2049%20§%207[1949 c 49 § 7]; Rem. Supp. 1949 § 11219-39; ]
+
+== 82.48.080 - Payment and distribution of taxes.
+The secretary must regularly pay to the state treasurer the excise taxes collected under this chapter, which must be credited by the state treasurer to the aeronautics account for state grants to airports and the administrative expenses associated with grant execution and the collection of excise taxes under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6057-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%206%20§%20901[2015 3rd sp.s. c 6 § 901]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1190.SL.pdf?cite=1995%20c%20170%20§%202[1995 c 170 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c220.pdf?cite=1987%20c%20220%20§%208[1987 c 220 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c54.pdf?cite=1974%20ex.s.%20c%2054%20§%208[1974 ex.s. c 54 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c9.pdf?cite=1967%20ex.s.%20c%209%20§%205[1967 ex.s. c 9 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c15.pdf?cite=1961%20c%2015%20§%2082.48.080[1961 c 15 § 82.48.080]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1949c49.pdf?cite=1949%20c%2049%20§%208[1949 c 49 § 8]; Rem. Supp. 1949 § 11219-40; ]
+
+== 82.48.090 - Refund of excessive tax payment and interest.
+In case a claim is made by any person that the person has paid an erroneously excessive amount of excise tax under this chapter, the person may apply to the department of transportation for a refund of the claimed excessive amount together with interest at the rate specified in RCW 82.32.060. The department of transportation shall review such application, and if it determines that an excess amount of tax has actually been paid by the taxpayer, such excess amount and interest at the rate specified in RCW 82.32.060 shall be refunded to the taxpayer by means of a voucher approved by the department of transportation and by the issuance of a state warrant drawn upon and payable from such funds as the legislature may provide for that purpose. No refund shall be allowed, however, unless application for the refund is filed with the department of transportation within ninety days after the claimed excessive excise tax was paid and the amount of the overpayment exceeds five dollars.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2727.SL.pdf?cite=1992%20c%20154%20§%202[1992 c 154 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c378.pdf?cite=1989%20c%20378%20§%2025[1989 c 378 § 25]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c220.pdf?cite=1987%20c%20220%20§%209[1987 c 220 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c414.pdf?cite=1985%20c%20414%20§%205[1985 c 414 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c278.pdf?cite=1975%201st%20ex.s.%20c%20278%20§%2096[1975 1st ex.s. c 278 § 96]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c15.pdf?cite=1961%20c%2015%20§%2082.48.090[1961 c 15 § 82.48.090]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1949c49.pdf?cite=1949%20c%2049%20§%209[1949 c 49 § 9]; Rem. Supp. 1949 § 11219-41; ]
+
+== 82.48.100 - Exempt aircraft. (Effective until July 1, 2021.)
+This chapter does not apply to:
+
+. Aircraft owned by and used exclusively in the service of any government or any political subdivision thereof, including the government of the United States, any state, territory, or possession of the United States, or the District of Columbia, which are not engaged in carrying persons or property for commercial purposes;
+
+. Aircraft registered under the laws of a foreign country;
+
+. Aircraft that are owned by a nonresident and registered in another state, if the aircraft remains in this state or is based in this state, or both, for a period less than ninety days;
+
+. [Empty]
+.. Aircraft engaged principally in commercial flying that constitutes interstate or foreign commerce, except as provided in (b) of this subsection.
+
+.. The exemption provided by (a) of this subsection does not apply to aircraft engaged principally in commercial flying that constitutes interstate or foreign commerce when such aircraft will be in this state exclusively for the purpose of continual storage of not less than one full calendar year;
+
+. Aircraft owned by the manufacturer thereof while being operated for test or experimental purposes, or for the purpose of training crews for purchasers of the aircraft;
+
+. Aircraft being held for sale, exchange, delivery, test, or demonstration purposes solely as stock in trade of an aircraft dealer licensed under Title 14 RCW; and
+
+. Aircraft owned by a nonresident of this state if the aircraft is kept at an airport in this state and that airport is jointly owned or operated by a municipal corporation or other governmental entity of this state and a municipal corporation or other governmental entity of another state, and the owner or operator of the aircraft provides the department with proof that the owner or operator has paid all taxes, license fees, and registration fees required by the state in which the owner or operator resides.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6068-S.SL.pdf?cite=2020%20c%20304%20§%204[2020 c 304 § 4]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5882-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2013%20§%201105[2013 2nd sp.s. c 13 § 1105]; 2010 1st sp.s. c 12 § 2; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1562-S.SL.pdf?cite=1999%20c%20302%20§%203[1999 c 302 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c173.pdf?cite=1965%20ex.s.%20c%20173%20§%2028[1965 ex.s. c 173 § 28]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c15.pdf?cite=1961%20c%2015%20§%2082.48.100[1961 c 15 § 82.48.100]; prior:  1955 c 150 § 12; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1949c49.pdf?cite=1949%20c%2049%20§%2010[1949 c 49 § 10]; Rem. Supp. 1949 § 11219-42; ]
+
+== 82.48.110 - Aircraft not to be subject to ad valorem tax—Exceptions.
+The first tax to be collected under this chapter shall be for the calendar year 1968. No aircraft with respect to which the excise tax imposed by this chapter is payable shall be listed and assessed for ad valorem taxation so long as this chapter remains in effect, and any such assessment heretofore made except under authority of section 13, chapter 49, Laws of 1949 and section 82.48.110, chapter 15, Laws of 1961 is hereby directed to be canceled: PROVIDED, That any aircraft, whether or not subject to the provisions of this chapter, with respect to which the excise tax imposed by this chapter will not be paid or has not been paid for any year shall be listed and assessed for ad valorem taxation in that year, and the ad valorem tax liability resulting from such listing and assessment shall be collected in the same manner as though this chapter had not been passed: PROVIDED FURTHER, That this chapter shall not be construed to affect any ad valorem tax based upon assessed valuations made in 1948 and/or any preceding year for taxes payable in 1949 or any preceding year, which ad valorem tax liability tax for any such years shall remain payable and collectible in the same manner as though this chapter had not been passed.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c9.pdf?cite=1967%20ex.s.%20c%209%20§%206[1967 ex.s. c 9 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c15.pdf?cite=1961%20c%2015%20§%2082.48.110[1961 c 15 § 82.48.110]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1949c49.pdf?cite=1949%20c%2049%20§%2013[1949 c 49 § 13]; Rem. Supp. 1949 § 11219-43; ]
+

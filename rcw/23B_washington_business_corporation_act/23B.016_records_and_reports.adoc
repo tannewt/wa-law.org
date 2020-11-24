@@ -1,0 +1,103 @@
+= 23B.16 - Records and reports.
+:toc:
+
+== 23B.16.010 - Corporate records.
+. A corporation shall keep as permanent records minutes of all meetings of its shareholders and board of directors, a record of all corporate actions approved by the shareholders or board of directors by executed consent without a meeting, and a record of all corporate actions approved by a committee of the board of directors exercising the authority of the board of directors on behalf of the corporation.
+
+. A corporation shall maintain appropriate accounting records.
+
+. A corporation or its agent shall maintain a record of its current shareholders, in a form that permits preparation of a list of the names and mailing addresses of all shareholders, in alphabetical order by class of shares showing the number and class of shares held by each. Nothing contained in this section requires the corporation to include on such list the electronic mail address or other electronic contact information of a shareholder.
+
+. A corporation shall maintain its records specified in this section in a form capable of conversion into paper form within a reasonable time.
+
+. A corporation shall keep a copy of the following records at its principal office:
+
+.. Its articles or restated articles of incorporation and all amendments to them currently in effect;
+
+.. Its bylaws or restated bylaws and all amendments to them currently in effect;
+
+.. The minutes of all shareholders' meetings, and records of all corporate actions approved by shareholders without a meeting, for the past three years;
+
+.. The financial statements described in RCW 23B.16.200(1), for the past three years;
+
+.. All written communications to shareholders generally within the past three years;
+
+.. A list of the names and business mailing addresses of its current directors and officers; and
+
+.. Its initial report or most recent annual report delivered to the secretary of state under RCW 23.95.255.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6028-S.SL.pdf?cite=2020%20c%2057%20§%2073[2020 c 57 § 73]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5387.SL.pdf?cite=2015%20c%20176%20§%202142[2015 c 176 § 2142]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1068.SL.pdf?cite=2009%20c%20189%20§%2054[2009 c 189 § 54]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2301-S.SL.pdf?cite=2002%20c%20297%20§%2045[2002 c 297 § 45]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=1991%20c%2072%20§%2040[1991 c 72 § 40]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c165.pdf?cite=1989%20c%20165%20§%20182[1989 c 165 § 182]; ]
+
+== 23B.16.020 - Inspection of records by shareholders.
+. A shareholder of a corporation is entitled to inspect and copy, during regular business hours at the corporation's principal office, any of the records of the corporation described in RCW 23B.16.010(5) if the shareholder gives the corporation an executed written notice of the shareholder's demand at least five business days before the date on which the shareholder wishes to inspect and copy.
+
+. A shareholder of a corporation is entitled to inspect and copy, during regular business hours at a reasonable location specified by the corporation, any of the following records of the corporation if the shareholder meets the requirements of subsection (3) of this section and gives the corporation an executed written notice of the shareholder's demand at least five business days before the date on which the shareholder wishes to inspect and copy:
+
+.. Excerpts from minutes of any meeting of the board of directors, or of any meeting of a committee of the board of directors while exercising the authority of the board of directors, minutes of any meeting of the shareholders, and records of corporate actions approved by the shareholders or board of directors or a committee thereof without a meeting, to the extent not subject to inspection under subsection (1) of this section;
+
+.. Accounting records of the corporation; and
+
+.. The record of shareholders.
+
+. A shareholder may inspect and copy the records described in subsection (2) of this section only if:
+
+.. The shareholder's demand is made in good faith and for a proper purpose;
+
+.. The shareholder describes with reasonable particularity the shareholder's purpose and the records the shareholder desires to inspect; and
+
+.. The records are directly connected with the shareholder's purpose.
+
+. The right of inspection granted by this section may not be abolished or limited by a corporation's articles of incorporation or bylaws.
+
+. This section does not affect:
+
+.. The right of a shareholder to inspect records under RCW 23B.07.200 or, if the shareholder is in litigation with the corporation, to the same extent as any other litigant; or
+
+.. The power of a court, independently of this title, to compel the production of corporate records for examination.
+
+. For purposes of this section, "shareholder" includes a beneficial owner whose shares are held in a voting trust or by a nominee on the beneficial owner's behalf.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6028-S.SL.pdf?cite=2020%20c%2057%20§%2074[2020 c 57 § 74]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1068.SL.pdf?cite=2009%20c%20189%20§%2055[2009 c 189 § 55]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2301-S.SL.pdf?cite=2002%20c%20297%20§%2046[2002 c 297 § 46]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c165.pdf?cite=1989%20c%20165%20§%20183[1989 c 165 § 183]; ]
+
+== 23B.16.030 - Scope of inspection right.
+. A shareholder's agent or attorney has the same inspection and copying rights as the shareholder.
+
+. The corporation may, if reasonable, satisfy the right to copy records under *RCW 23B.16.020 by furnishing copies by photocopy or other means chosen by the corporation, including furnishing copies through an electronic transmission.
+
+. The corporation may impose a reasonable charge, covering the costs of labor and material, for copies of any documents provided to the shareholder. The charge may not exceed the estimated cost of production or reproduction of the documents.
+
+. The corporation may comply with a shareholder's demand to inspect the record of shareholders under RCW 23B.16.020(2)(c) by providing the shareholder with a list of its shareholders that was compiled no earlier than the date of the shareholder's demand.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6028-S.SL.pdf?cite=2020%20c%2057%20§%2075[2020 c 57 § 75]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c165.pdf?cite=1989%20c%20165%20§%20184[1989 c 165 § 184]; ]
+
+== 23B.16.040 - Court-ordered inspection.
+. If a corporation does not allow a shareholder who complies with RCW 23B.16.020(1) to inspect and copy any records required by that subsection to be available for inspection, the superior court of the county where the corporation's principal office, or, if none in this state, its registered office, is located may summarily order inspection and copying of the records demanded at the corporation's expense upon application of the shareholder.
+
+. If a corporation does not within a reasonable time allow a shareholder to inspect and copy any other record, the shareholder who complies with RCW 23B.16.020 (2) and (3) may apply to the superior court of the county where the corporation's principal office, or, if none in this state, its registered office, is located for an order to permit inspection and copying of the records demanded. The court shall dispose of an application under this subsection on an expedited basis.
+
+. If the court orders inspection and copying of the records demanded, it shall also order the corporation to pay the shareholder's costs, including reasonable counsel fees, incurred to obtain the order unless the corporation proves that it refused inspection in good faith because it had a reasonable basis for doubt about the right of the shareholder to inspect the records demanded.
+
+. If the court orders inspection and copying of the records demanded, it may impose reasonable restrictions on the use or distribution of the records by the demanding shareholder.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c165.pdf?cite=1989%20c%20165%20§%20185[1989 c 165 § 185]; ]
+
+== 23B.16.200 - Financial statements for shareholders.
+. Not later than four months after the close of each fiscal year, and in any event prior to the annual meeting of shareholders, each corporation shall prepare (a) a balance sheet showing in reasonable detail the financial condition of the corporation as of the close of its fiscal year, and (b) an income statement showing the results of its operation during its fiscal year. Such statements may be consolidated or combined statements of the corporation and one or more of its subsidiaries, as appropriate. If financial statements are prepared by the corporation for any purpose on the basis of generally accepted accounting principles, the annual statements must also be prepared, and disclose that they are prepared, on that basis. If financial statements are prepared only on a basis other than generally accepted accounting principles, they must be prepared, and disclose that they are prepared, on the same basis as other reports and statements prepared by the corporation for the use of others.
+
+. Upon the written request of a shareholder, the corporation shall promptly deliver to the requesting shareholder a copy of the most recent balance sheet and income statement. If prepared for other purposes, the corporation shall also deliver to a requesting shareholder upon the written request of that shareholder a statement of sources and applications of funds, and a statement of changes in shareholders' equity, for the most recent fiscal year.
+
+. If the annual financial statements are reported upon by a public accountant, the accountant's report must accompany them. If not, the statements must be accompanied by a statement of the president or the person responsible for the corporation's accounting records:
+
+.. Stating the person's reasonable belief whether the statements were prepared on the basis of generally accepted accounting principles and, if not, describing the basis of preparation; and
+
+.. Describing any respects in which the statements were not prepared on a basis of accounting consistent with the basis used for statements prepared for the preceding year.
+
+. For purposes of this section, "shareholder" includes a beneficial owner whose shares are held in a voting trust or by a nominee on the beneficial owner's behalf.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6028-S.SL.pdf?cite=2020%20c%2057%20§%2076[2020 c 57 § 76]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2301-S.SL.pdf?cite=2002%20c%20297%20§%2047[2002 c 297 § 47]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c165.pdf?cite=1989%20c%20165%20§%20186[1989 c 165 § 186]; ]
+
+== 23B.16.220 - Initial and annual reports for secretary of state.
+Each domestic corporation, and each foreign corporation registered to transact business in this state, shall deliver to the secretary of state for filing initial and annual reports in accordance with RCW 23.95.255.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5387.SL.pdf?cite=2015%20c%20176%20§%202143[2015 c 176 § 2143]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1501-S.SL.pdf?cite=2001%20c%20307%20§%201[2001 c 307 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1074.SL.pdf?cite=1993%20c%20290%20§%205[1993 c 290 § 5]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=1991%20c%2072%20§%2041[1991 c 72 § 41]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c165.pdf?cite=1989%20c%20165%20§%20187[1989 c 165 § 187]; ]
+

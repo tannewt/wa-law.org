@@ -1,0 +1,74 @@
+= 74.09A - Medical assistance—Coordination of benefits—Eligibility and coverage information transfer.
+:toc:
+
+== 74.09A.005 - Findings.
+The legislature finds that:
+
+. Simplification in the administration of payment of health benefits is important for the state, providers, and health insurers;
+
+. The state, providers, and health insurers should take advantage of all opportunities to streamline operations through automation and the use of common computer standards;
+
+. It is in the best interests of the state, providers, and health insurers to identify all third parties that are obligated to cover the cost of health care coverage of joint beneficiaries; and
+
+. Health insurers, as a condition of doing business in Washington, must increase their effort to share information with the authority and accept the authority's timely claims consistent with 42 U.S.C. 1396a(a)(25).
+
+Therefore, the legislature declares that to improve the coordination of benefits between the health care authority and health insurers to ensure that medical insurance benefits are properly utilized, a transfer of information between the authority and health insurers should be instituted, and the process for submitting requests for information and claims should be simplified.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1738-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2015%20§%20117[2011 1st sp.s. c 15 § 117]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1826-S.SL.pdf?cite=2007%20c%20179%20§%201[2007 c 179 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1956.SL.pdf?cite=1993%20c%2010%20§%201[1993 c 10 § 1]; ]
+
+== 74.09A.010 - Definitions.
+For the purposes of this chapter:
+
+. "Authority" means the Washington state health care authority.
+
+. "Computerized" means online or batch processing with standardized format via magnetic tape output.
+
+. "Health insurance coverage" includes any policy, contract, or agreement under which health care items or services are provided, arranged, reimbursed, or paid for by a health insurer.
+
+. "Health insurer" means any party that is, by statute, policy, contract, or agreement, legally responsible for payment of a claim for a health care item or service, including, but not limited to, a commercial insurance company providing disability insurance under chapter 48.20 or 48.21 RCW, a health care service contractor providing health care coverage under chapter 48.44 RCW, a health maintenance organization providing comprehensive health care services under chapter 48.46 RCW, an employer or union self-insured plan, any private insurer, a group health plan, a service benefit plan, a managed care organization, a pharmacy benefit manager, and a third party administrator.
+
+. "Joint beneficiary" is an individual who has health insurance coverage and is a recipient of public assistance benefits under chapter 74.09 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1738-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2015%20§%20118[2011 1st sp.s. c 15 § 118]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1826-S.SL.pdf?cite=2007%20c%20179%20§%202[2007 c 179 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1956.SL.pdf?cite=1993%20c%2010%20§%202[1993 c 10 § 2]; ]
+
+== 74.09A.020 - Eligibility and coverage information—Provision to health insurers.
+. Health insurers shall share all beneficiary eligibility and coverage information with the authority for the purpose of identifying joint beneficiaries. The authority shall use this information to identify joint beneficiaries. The authority shall use this information to improve accuracy and currency of health insurance coverage and to promote improved coordination of benefits.
+
+. To the maximum extent possible, necessary data elements and a compatible database shall be developed by affected health insurers and the authority. The authority shall establish a representative group of health insurers and state agency representatives to develop necessary technical and file specifications to promote a standardized database. The database shall include elements essential to the authority and its population's health insurance coverage information.
+
+. If the state and health insurers enter into other agreements regarding the use of common computer standards, the database identified in this section shall be replaced by the new common computer standards.
+
+. The information provided will be of sufficient detail to promote reliable and accurate benefit coordination and identification of individuals who are also eligible for authority programs.
+
+. The frequency of updates will be mutually agreed to by each health insurer and the authority based on frequency of change and operational limitations.
+
+. The health insurers and the authority shall safeguard and properly use the information to protect records as provided by law, including but not limited to chapters 42.48, 74.09, 74.04, 70.02, and 42.56 RCW, and 42 U.S.C. Sec. 1396a and 42 C.F.R. Sec. 43 et seq. The purpose of this exchange of information is to improve coordination and administration of benefits and ensure that medical insurance benefits are properly utilized.
+
+. The authority shall target implementation of this section to those health insurers with the highest probability of joint beneficiaries.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2677.SL.pdf?cite=2020%20c%20183%20§%201[2020 c 183 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1738-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2015%20§%20119[2011 1st sp.s. c 15 § 119]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1826-S.SL.pdf?cite=2007%20c%20179%20§%203[2007 c 179 § 3]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1133-S.SL.pdf?cite=2005%20c%20274%20§%20350[2005 c 274 § 350]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1956.SL.pdf?cite=1993%20c%2010%20§%203[1993 c 10 § 3]; ]
+
+== 74.09A.030 - Duties of health insurers—Providing information—Payments—Claims—Costs and fees.
+Health insurers, as a condition of doing business in Washington, must:
+
+. Provide, with respect to individuals who are eligible for, or are provided, medical assistance under chapter 74.09 RCW, upon the request of the authority, information to determine during what period the individual or their spouses or their dependents may be, or may have been, covered by a health insurer and the nature of coverage that is or was provided by the health insurer, including the name, address, and identifying number of the plan, in a manner prescribed by the authority;
+
+. Accept the authority's right to recovery and the assignment to the authority of any right of an individual or other entity to payment from the party for an item or service for which payment has been made under chapter 74.09 RCW;
+
+. Respond to any inquiry by the authority regarding a claim for payment for any health care item or service that is submitted not later than three years after the date of the provision of such health care item or service;
+
+. Agree not to deny a claim submitted by the authority solely on the basis of the date of submission of the claim, the type or format of the claim form, or a failure to present proper documentation at the point-of-sale that is the basis of the claim, if:
+
+.. The claim is submitted by the authority within the three-year period beginning on the date the item or service was furnished; and
+
+.. Any action by the authority to enforce its rights with respect to such claim is commenced within six years of the authority's submission of such claim; and
+
+. Agree that the prevailing party in any legal action to enforce this section receives reasonable attorneys' fees as well as related collection fees and costs incurred in the enforcement of this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1738-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2015%20§%20120[2011 1st sp.s. c 15 § 120]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1826-S.SL.pdf?cite=2007%20c%20179%20§%204[2007 c 179 § 4]; ]
+
+== 74.09A.900 - Construction—Chapter applicable to state registered domestic partnerships—2009 c 521.
+For the purposes of this chapter, the terms spouse, marriage, marital, husband, wife, widow, widower, next of kin, and family shall be interpreted as applying equally to state registered domestic partnerships or individuals in state registered domestic partnerships as well as to marital relationships and married persons, and references to dissolution of marriage shall apply equally to state registered domestic partnerships that have been terminated, dissolved, or invalidated, to the extent that such interpretation does not conflict with federal law. Where necessary to implement chapter 521, Laws of 2009, gender-specific terms such as husband and wife used in any statute, rule, or other law shall be construed to be gender neutral, and applicable to individuals in state registered domestic partnerships.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5688-S2.SL.pdf?cite=2009%20c%20521%20§%20176[2009 c 521 § 176]; ]
+

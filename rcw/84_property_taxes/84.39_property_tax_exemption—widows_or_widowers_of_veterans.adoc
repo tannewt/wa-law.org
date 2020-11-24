@@ -1,0 +1,90 @@
+= 84.39 - Property tax exemption—Widows or widowers of veterans.
+:toc:
+
+== 84.39.010 - Exemption authorized—Qualifications.
+A person is entitled to a property tax exemption in the form of a grant as provided in this chapter. The person is entitled to assistance for the payment of all or a portion of the amount of excess and regular real property taxes imposed on the person's residence in the year in which a claim is filed in accordance with the following:
+
+. The claimant must meet all requirements for an exemption for the residence under RCW 84.36.381, other than the income limits under RCW 84.36.381.
+
+. [Empty]
+.. The person making the claim must be:
+
+... Sixty-two years of age or older on December 31st of the year in which the claim is filed, or must have been, at the time of filing, retired from regular gainful employment by reason of disability; and
+
+... A widow or widower of a veteran who:
+
+(A) Died as a result of a service-connected disability;
+
+(B) Was rated as one hundred percent disabled by the United States veterans' administration for the ten years prior to his or her death;
+
+(C) Was a former prisoner of war as substantiated by the United States veterans' administration and was rated as one hundred percent disabled by the United States veterans' administration for one or more years prior to his or her death; or
+
+(D) Died on active duty or in active training status as a member of the United States uniformed services, reserves, or national guard; and
+
+.. The person making the claim must not have remarried.
+
+. The claimant must have a combined disposable income of forty thousand dollars or less.
+
+. The claimant must have owned, at the time of filing, the residence on which the real property taxes have been imposed. For purposes of this subsection, a residence owned by cotenants is deemed to be owned by each cotenant. A claimant who has only a share ownership in cooperative housing, a life estate, a lease for life, or a revocable trust does not satisfy the ownership requirement.
+
+. A person who otherwise qualifies under this section is entitled to assistance in an amount equal to regular and excess property taxes imposed on the difference between the value of the residence eligible for exemption under RCW 84.36.381(5) and:
+
+.. The first one hundred thousand dollars of assessed value of the residence for a person who has a combined disposable income of thirty thousand dollars or less;
+
+.. The first seventy-five thousand dollars of assessed value of the residence for a person who has a combined disposable income of thirty-five thousand dollars or less but greater than thirty thousand dollars; or
+
+.. The first fifty thousand dollars of assessed value of the residence for a person who has a combined disposable income of forty thousand dollars or less but greater than thirty-five thousand dollars.
+
+. As used in this section:
+
+.. "Veteran" has the same meaning as provided under RCW 41.04.005.
+
+.. The meanings attributed in RCW 84.36.383 to the terms "residence," "combined disposable income," "disposable income," and "disability" apply equally to this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5275-S.SL.pdf?cite=2015%20c%2086%20§%20314[2015 c 86 § 314]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1509-S.SL.pdf?cite=2005%20c%20253%20§%201[2005 c 253 § 1]; ]
+
+== 84.39.020 - Filing claim for exemption—Requirements.
+. Each claimant applying for assistance under RCW 84.39.010 must file a claim with the department, on forms prescribed by the department, no later than thirty days before the tax is due. The department may waive this requirement for good cause shown. The department must supply forms to the county assessor to allow persons to apply for the program at the county assessor's office.
+
+. The claim must designate the property to which the assistance applies and must include a statement setting forth (a) a list of all members of the claimant's household, (b) facts establishing the eligibility under this section, and (c) any other relevant information required by the rules of the department. The claim must be signed by the claimant subject to the penalties as provided in chapter 9A.72 RCW for false swearing. The first claim must include proof of the claimant's age acceptable to the department.
+
+. The following documentation must be filed with a claim along with any other documentation required by the department:
+
+.. The deceased veteran's DD 214 report of separation, or its equivalent, that must be under honorable conditions;
+
+.. A copy of the applicant's certificate of marriage to the deceased;
+
+.. A copy of the deceased veteran's death certificate; and
+
+.. A letter from the United States veterans' administration certifying that the death of the veteran meets the requirements of RCW 84.39.010(2).
+
+. The department of veterans affairs must assist an eligible widow or widower in the preparation and submission of an application and the procurement of necessary substantiating documentation.
+
+. The department must determine if each claimant is eligible each year. Any applicant aggrieved by the department's denial of assistance may petition the state board of tax appeals to review the denial and the board must consider any appeals to determine (a) if the claimant is entitled to assistance and (b) the amount or portion thereof.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5402.SL.pdf?cite=2020%20c%20139%20§%2054[2020 c 139 § 54]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1509-S.SL.pdf?cite=2005%20c%20253%20§%202[2005 c 253 § 2]; ]
+
+== 84.39.030 - Continued eligibility—Renewal forms.
+. Claims for assistance for all years following the first year may be made by filing with the department no later than thirty days before the tax is due a renewal form, prescribed by the department, that affirms the continued eligibility of the claimant.
+
+. In January of each year, the department must send to each claimant who has been granted assistance for the previous year a renewal form and notice to renew.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5402.SL.pdf?cite=2020%20c%20139%20§%2055[2020 c 139 § 55]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1509-S.SL.pdf?cite=2005%20c%20253%20§%203[2005 c 253 § 3]; ]
+
+== 84.39.040 - Agent or guardian filing claim on behalf of claimant.
+If the claimant is unable to make his or her own claim, it may be made by a duly authorized agent or by a guardian or other person charged with care of the person or property of the claimant.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1509-S.SL.pdf?cite=2005%20c%20253%20§%204[2005 c 253 § 4]; ]
+
+== 84.39.050 - Failure to reside on property—Repayment.
+If the claimant receiving assistance under RCW 84.39.010 ceases to reside permanently on the property for which the claim is made between the date of filing the declaration and December 15th of that year, the amount of assistance otherwise allowable under RCW 84.39.010 shall not be allowed for that portion of the year in which the claimant was not qualified, and that amount shall constitute a lien on the property in favor of the state and shall have priority as provided in chapter 84.60 RCW until repaid to the department.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1509-S.SL.pdf?cite=2005%20c%20253%20§%205[2005 c 253 § 5]; ]
+
+== 84.39.060 - Determination of assistance—Biennial budget request.
+. The department shall consult with the appropriate county assessors and county treasurers to determine the amount of assistance to which each claimant is eligible and the appropriate method of providing the assistance. The department shall pay, from amounts appropriated for this purpose, to the claimant, the claimant's mortgage company, or the county treasurer, as appropriate for each claimant, the amount of assistance to which the claimant is entitled under RCW 84.39.010.
+
+. The department shall request in its biennial budget request an appropriation to satisfy its obligations under this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1509-S.SL.pdf?cite=2005%20c%20253%20§%206[2005 c 253 § 6]; ]
+

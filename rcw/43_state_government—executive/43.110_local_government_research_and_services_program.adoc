@@ -1,0 +1,46 @@
+= 43.110 - Local government research and services program.
+:toc:
+
+== 43.110.030 - Municipal research and services.
+. The department of commerce must contract for the provision of municipal research and services to cities, towns, and counties. Contracts for municipal research and services must be made with state agencies, educational institutions, or private consulting firms, that in the judgment of the department are qualified to provide such research and services. Contracts for staff support may be made with state agencies, educational institutions, or private consulting firms that in the judgment of the department are qualified to provide such support.
+
+. Municipal research and services consists of:
+
+.. Studying and researching city, town, and county government and issues relating to city, town, and county government;
+
+.. Acquiring, preparing, and distributing publications related to city, town, and county government and issues relating to city, town, and county government;
+
+.. Providing educational conferences relating to city, town, and county government and issues relating to city, town, and county government;
+
+.. Furnishing legal, technical, consultative, and field services to cities, towns, and counties concerning planning, public health, utility services, fire protection, law enforcement, public works, and other issues relating to city, town, and county government; and
+
+.. [Empty]
+... For any ordinance, resolution, or policy adopted by a city, town, or county that imposes a requirement on landlords or sellers of real property to provide information to a buyer or tenant pertaining to the subject property or the surrounding area, posting:
+
+(A) A summary of the ordinance, resolution, or policy; and
+
+(B) An internet link to the ordinance, resolution, or policy, or the relevant portion of the actual language of the ordinance, resolution, or policy.
+
+... Information provided by cities, towns, and counties regarding an ordinance, resolution, or policy under (e)(i) of this subsection must be posted in a specific section on a web site maintained by the entity with which the department of commerce contracts for the provision of municipal research and services under this section, and must list by jurisdiction all applicable requirements. Cities, towns, and counties must provide information for posting on the web site in accordance with RCW 64.06.080.
+
+. Requests for legal services by county officials must be sent to the office of the county prosecuting attorney. Responses by the department of commerce to county requests for legal services must be provided to the requesting official and the county prosecuting attorney.
+
+. The department of commerce must coordinate with the association of Washington cities and the Washington state association of counties in carrying out the activities in this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2971.SL.pdf?cite=2016%20c%20138%20§%202[2016 c 138 § 2]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2122.SL.pdf?cite=2015%202nd%20sp.s.%20c%2010%20§%205[2015 2nd sp.s. c 10 § 5]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2823-S.SL.pdf?cite=2012%202nd%20sp.s.%20c%205%20§%205[2012 2nd sp.s. c 5 § 5]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2658-S2.SL.pdf?cite=2010%20c%20271%20§%20701[2010 c 271 § 701]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6357-S.SL.pdf?cite=2000%20c%20227%20§%203[2000 c 227 § 3]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5521-S.SL.pdf?cite=1997%20c%20437%20§%202[1997 c 437 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c104.pdf?cite=1990%20c%20104%20§%202[1990 c 104 § 2]; ]
+
+== 43.110.080 - Research and services to special purpose districts.
+. The department of commerce shall contract for the provision of research and services to special purpose districts. A contract shall be made with a state agency, educational institution, or private consulting firm, that in the judgment of the department is qualified to provide such research and services.
+
+. Research and services to special purpose districts shall consist of:
+
+.. Studying and researching issues relating to special purpose district government;
+
+.. Acquiring, preparing, and distributing publications related to special purpose districts; and
+
+.. Furnishing legal, technical, consultative, and field services to special purpose districts concerning issues relating to special purpose district government.
+
+. The department of commerce shall coordinate with the associations representing the various special purpose districts with respect to carrying out the activities in this section. Services to special purpose districts shall be based upon the moneys appropriated to the department of commerce from the special purpose district research services account under *RCW 43.110.090.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2658-S2.SL.pdf?cite=2010%20c%20271%20§%20703[2010 c 271 § 703]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6555-S.SL.pdf?cite=2006%20c%20328%20§%201[2006 c 328 § 1]; ]
+

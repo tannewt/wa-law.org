@@ -1,0 +1,78 @@
+= 70A.400 - Firefighting agents and equipment—Toxic chemical use.
+:toc:
+
+== 70A.400.005 - Definitions.
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Chemical plant" has the same meaning as in WAC 296-24-33001, as that section existed as of January 1, 2018.
+
+. "Class B firefighting foam" means foams designed for flammable liquid fires.
+
+. "Department" means the department of ecology.
+
+. "Firefighting personal protective equipment" means any clothing designed, intended, or marketed to be worn by firefighting personnel in the performance of their duties, designed with the intent for the use in fire and rescue activities, including jackets, pants, shoes, gloves, helmets, and respiratory equipment.
+
+. "Local governments" includes any county, city, town, fire district, regional fire protection authority, or other special purpose district that provides firefighting services.
+
+. "Manufacturer" includes any person, firm, association, partnership, corporation, organization, joint venture, importer, or domestic distributor of firefighting agents or firefighting equipment. For the purposes of this subsection, "importer" means the owner of the product.
+
+. "Perfluoroalkyl and polyfluoroalkyl substances" or "PFAS chemicals" means, for the purposes of firefighting agents and firefighting equipment, a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6413-S.SL.pdf?cite=2018%20c%20286%20§%201[2018 c 286 § 1]; ]
+
+== 70A.400.010 - Discharge or use for training purposes of certain class B firefighting foam prohibited.
+Beginning July 1, 2018, a person, local government, or state agency may not discharge or otherwise use for training purposes class B firefighting foam that contains intentionally added PFAS chemicals.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6413-S.SL.pdf?cite=2018%20c%20286%20§%202[2018 c 286 § 2]; ]
+
+== 70A.400.020 - Manufacture, sale, or distribution of certain class B firefighting foam restricted—Publication of findings—Exceptions.
+. Beginning July 1, 2020, a manufacturer of class B firefighting foam may not manufacture, knowingly sell, offer for sale, distribute for sale, or distribute for use in this state class B firefighting foam to which PFAS chemicals have been intentionally added.
+
+. [Empty]
+.. The restrictions in subsection (1) of this section do not apply to any manufacture, sale, or distribution of class B firefighting foam where the inclusion of PFAS chemicals are required by federal law, including but not limited to the requirements of 14 C.F.R. 139.317, as that section existed as of January 1, 2018.
+
+.. In the event that the requirements of 14 C.F.R. Sec. 139.317 or other applicable federal regulations change after January 1, 2018, to allow the use of alternative firefighting agents that do not contain PFAS chemicals, then as of the effective date of that change, the department shall publish a finding to that effect in the Washington State Register and submit this finding to the appropriate committees of the house of representatives and the senate. The department's publication regarding a change in the federal regulations must be specific with respect to the involved federal agency and use and, if identified by the federal agency, the alternative firefighting agent. Two years after publication in the Washington State Register, the restrictions of subsection (1) of this section apply to the manufacture, sale, and distribution of class B firefighting foam that contains intentionally added PFAS chemicals for the uses specified in 14 C.F.R. Sec. 139.317 or other applicable federal regulations. However, the restrictions of subsection (1) of this section do not take effect for an additional year if all of the airports in Washington certificated under 14 C.F.R. Sec. 139 have not been able to secure alternative firefighting agents and any necessary infrastructure to apply the agent in order to meet certification requirements, as determined by the department. Eighteen months after the department's original publication in the Washington State Register, each section 139 licensed airport shall report to the department on the airport's status with respect to obtaining alternative firefighting agents approved by the federal aviation administration and any necessary infrastructure. The department must publish a second notice delaying the restrictions under subsection (1) of this section for an additional year if the department has determined that any section 139 airport is unable to secure alternative firefighting agents without intentionally added PFAS chemicals or infrastructure to meet certification requirements because the agents or infrastructure are not commercially available.
+
+. [Empty]
+.. The restrictions in subsection (1) of this section do not apply until January 1, 2024, to any manufacture, sale, or distribution of class B firefighting foam to a person for use at a terminal, as defined in RCW 82.23A.010, operated by the person, a chemical plant operated by the person, or an oil refinery operated by the person.
+
+.. A person who operates a chemical plant, refinery, or terminal may apply to the department for a waiver. A waiver may only be for two years and may only be extended by the department for one additional two-year term. The department may grant a waiver if the applicant provides:
+
+... Clear and convincing evidence that there is no commercially available replacement that does not contain intentionally added PFAS chemicals that is capable of suppressing a large atmospheric storage tank fire;
+
+... Information on the amount of firefighting foam containing intentionally added PFAS chemicals stored, used, or released on-site on an annual basis;
+
+... A report on the progress being made by the operator of the chemical plant, terminal, or refinery to transition to use of firefighting foam at the facility that does not contain intentionally added PFAS chemicals; and
+
+... An explanation of how all releases of firefighting foam will be fully contained on-site and how existing containment measures will not allow firewater, wastewater, runoff, and other wastes to be released to the environment including, but not limited to, soils, groundwater, waterways, and stormwater.
+
+.. Nothing in this section prohibits an oil refinery or terminal from providing class B firefighting foam in the form of mutual aid to another refinery or terminal in the event of a class B fire.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2265-S.SL.pdf?cite=2020%20c%2023%20§%201[2020 c 23 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6413-S.SL.pdf?cite=2018%20c%20286%20§%203[2018 c 286 § 3]; ]
+
+== 70A.400.030 - Sale of firefighting personal protective equipment containing PFAS chemicals—Written notice to purchaser required—Retention.
+. Beginning July 1, 2018, a manufacturer or other person that sells firefighting personal protective equipment to any person, local government, or state agency must provide written notice to the purchaser at the time of sale if the firefighting personal protective equipment contains PFAS chemicals. The written notice must include a statement that the firefighting personal protective equipment contains PFAS chemicals and the reason PFAS chemicals are added to the equipment.
+
+. The manufacturer or person selling firefighting personal protective equipment and the purchaser of the equipment must retain the notice on file for at least three years from the date of the transaction. Upon the request of the department, a person, manufacturer, or purchaser must furnish the notice, or written copies, and associated sales documentation to the department within sixty days.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6413-S.SL.pdf?cite=2018%20c%20286%20§%204[2018 c 286 § 4]; ]
+
+== 70A.400.040 - Manufacturer of restricted class B firefighting foam—Notification to sellers—Recall of prohibited products.
+. A manufacturer of class B firefighting foam restricted under RCW 70A.400.020 must notify, in writing, persons that sell the manufacturer's products in this state about the provisions of this chapter no less than one year prior to the effective date of the restrictions.
+
+. A manufacturer that produces, sells, or distributes a class B firefighting foam prohibited under RCW 70A.400.020 shall recall the product and reimburse the retailer or any other purchaser for the product.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201067[2020 c 20 § 1067]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6413-S.SL.pdf?cite=2018%20c%20286%20§%205[2018 c 286 § 5]; ]
+
+== 70A.400.050 - Class B firefighting foam/firefighting personal protective equipment—Certificate of compliance—Department duties.
+. The department may request a certificate of compliance from a manufacturer of class B firefighting foam or firefighting personal protective equipment. A certificate of compliance attests that a manufacturer's product or products meets the requirements of this chapter.
+
+. Beginning July 1, 2018, the department shall assist the department of enterprise services, other state agencies, fire protection districts, and other local governments to avoid purchasing or using class B firefighting foams to which PFAS chemicals have been intentionally added. The department shall assist the department of enterprise services, other state agencies, fire protection districts, and other local governments to give priority and preference to the purchase of firefighting personal protective equipment that does not contain PFAS chemicals.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6413-S.SL.pdf?cite=2018%20c%20286%20§%206[2018 c 286 § 6]; ]
+
+== 70A.400.060 - Penalties.
+A manufacturer of class B firefighting foam in violation of RCW 70A.400.020 or 70A.400.040 or a person in violation of RCW 70A.400.010 or 70A.400.030 is subject to a civil penalty not to exceed five thousand dollars for each violation in the case of a first offense. Manufacturers, local governments, or persons that are repeat violators are subject to a civil penalty not to exceed ten thousand dollars for each repeat offense. Penalties collected under this section must be deposited in the model toxics control operating account created in RCW 70A.305.180.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201068[2020 c 20 § 1068]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5993-S.SL.pdf?cite=2019%20c%20422%20§%20403[2019 c 422 § 403]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6413-S.SL.pdf?cite=2018%20c%20286%20§%207[2018 c 286 § 7]; ]
+

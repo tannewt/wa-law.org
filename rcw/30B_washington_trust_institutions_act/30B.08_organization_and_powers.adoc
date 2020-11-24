@@ -1,0 +1,261 @@
+= 30B.08 - Organization and powers.
+:toc:
+
+== 30B.08.005 - Who may organize a state trust company.
+Subject to the other provisions of this chapter, one or more persons may organize a state trust company.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20321[2014 c 37 § 321]; ]
+
+== 30B.08.010 - Formation—Issuance of certificate of authority—Amendment of articles, etc.
+Except as set forth in this chapter or as may be prescribed by rule of the director, RCW 30A.08.020, 30A.08.040, 30A.08.050, 30A.08.055, 30A.08.060, 30A.08.070, 30A.08.081, 30A.08.082, 30A.08.083, 30A.08.084, 30A.08.086, 30A.08.087, 30A.08.088, 30A.08.090, 30A.08.092, and * 30A.08.170 shall, in relation to state trust companies, govern the formation, furnishing of notice, approval or refusal of articles of organization, effect of failure to commence business, issuance and treatment of shares or equity, rights of preferred or special shareholders, determination of capital impairment, treatment of authorized unissued shares, amendment of articles of organization, authorization of increase or decrease of stock or equity, and appointment of nominees for the holding of securities, the same as if a state trust company were a state bank under Title 30A RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20322[2014 c 37 § 322]; ]
+
+== 30B.08.020 - Limited liability trust company—Organization or conversion—Approval of director—Conditions—Application of chapter  25.15 RCW.
+. If the conditions of this section are met, an applicant to become a state trust company may organize as a limited liability trust company pursuant to this chapter. An applicant to become a state trust company, which is already organized as a limited liability company pursuant to chapter 25.15 RCW, may reorganize as and convert to a limited liability trust company under this title and be granted a certificate of authority pursuant to this chapter to operate as a state trust company if all conditions of this title are met.
+
+. [Empty]
+.. Before a state trust company organized as a corporation may reorganize and convert to a limited liability trust company, the state trust company must obtain approval of the director.
+
+.. [Empty]
+... To obtain approval under this subsection from the director, the state trust company must file a request for approval with the director at least sixty days before the day on which the state trust company becomes a limited liability trust company.
+
+... If the director does not disapprove the request for approval within sixty days from the day on which the director receives the request, the request is considered approved.
+
+... When taking action on a request for approval filed pursuant to this subsection, the director may:
+
+(A) Approve the request;
+
+(B) Approve the request subject to terms and conditions the director considers necessary; or
+
+(C) Disapprove the request.
+
+. To approve a request, the director must find that:
+
+.. The state trust company will operate in a safe and sound manner under a limited liability trust company structure; and
+
+.. The state trust company as a limited liability trust company has the characteristics set forth in subsections (4) and (5) of this section.
+
+. Notwithstanding any provision to the contrary contained in chapter 25.15 RCW, a state trust company organized as or reorganized and converted to a limited liability trust company must be perpetual.
+
+. [Empty]
+.. All rights, privileges, powers, duties, and obligations of a state trust company, which is organized as a limited liability trust company, and its members and managers shall be consistent with chapter 25.15 RCW, except the following:
+
+... Permitting automatic dissolution or suspension of a limited liability company as set forth in RCW 25.15.265(1), pursuant to a statement of limited duration in a certificate of formation;
+
+... Permitting automatic dissolution or suspension of a limited liability company, pursuant to the limited liability company agreement, as set forth in RCW 25.15.265(2);
+
+... Permitting dissolution of the limited liability company agreement based upon agreement of all the members, as set forth in RCW 25.15.265(3);
+
+... Permitting dissociation of all the members of the limited liability company, as set forth in RCW 25.15.265(4); and
+
+.. Permitting automatic dissolution or suspension of a limited liability company, pursuant to operation of law, as otherwise set forth in chapter 25.15 RCW.
+
+.. Notwithstanding (a) of this subsection:
+
+... For purposes of transferring a member's interests in the state trust company, a member's interest is treated like a share of stock in a corporation; and
+
+... If a member's interest is transferred voluntarily or involuntarily to another person, the person who receives the member's interest obtains the member's entire rights associated with the member's interest, including all economic rights and all voting rights.
+
+. [Empty]
+.. Notwithstanding any provision of chapter 25.15 RCW or this section to the contrary, all voting members remain liable and responsible as fiduciaries of the limited liability trust company, regardless of resignation, dissociation, or disqualification, to the same extent that directors of a state trust company organized as a corporation would be or remain liable or responsible to the department.
+
+.. If death, incapacity, or disqualification of all members of the limited liability trust company would result in a complete dissociation of all members, then the state trust company is deemed nonetheless to remain in existence for purposes of the department having standing under chapter 30B.44B RCW to exercise the powers and authorities of a liquidating agent for the state trust company.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%206[2019 c 389 § 6]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20323[2014 c 37 § 323]; ]
+
+== 30B.08.030 - Application for state trust company certificate of authority.
+. An application for a certificate of authority to become a state trust company must be made under oath and in the form required by the director and must be supported by information, data, records, and opinions of counsel that the director requires including, without limitation and as requested by the department, authorizations by the incorporators and any proposed officer, director, manager, or managing participant to perform third-party background checks on them, plus fingerprints of these persons obtained from acceptable fingerprinting authorities.
+
+. Consistent with RCW 30B.12.020(1), the application to organize a state trust company must propose as members of the board of directors not less than five directors, managers, or managing participants, at least two of whom shall not be officers, employees, or agents of the state trust company, or otherwise in control of the state trust company, either as a principal or in a representative capacity, as "control" is defined in RCW 30B.53.005.
+
+. Prior to issuance of a certificate of authority by the department, the proposed members of the board of directors, as approved by the department, must each submit a declaration in conformity with RCW 30B.12.020(5).
+
+. The application must be accompanied by all fees and deposits required by statute or by rule of the director.
+
+. The director shall issue a certificate of authority to a state trust company only on proof that one or more viable markets exist within or outside of Washington state that may be served in a profitable manner by the establishment of the proposed state trust company. In making such a determination, the director shall:
+
+.. Examine the business plan which shall be submitted as part of the application for a certificate of authority to become a state trust company; and
+
+.. Consider:
+
+... The market or markets to be served;
+
+... Whether the proposed organizational and capital structure and amount of initial capitalization is adequate for the proposed business and location;
+
+... Whether the anticipated volume and nature of business indicates a reasonable probability of success and profitability based on the market sought to be served;
+
+... Whether the proposed officers, directors, and managers, or managing participants, as a group, have sufficient fiduciary experience, ability, standing, competence, trustworthiness, and integrity to justify a belief that the proposed state trust company will operate in compliance with law and that success of the proposed state trust company is probable;
+
+.. Whether each principal shareholder or participant has sufficient experience, ability, standing, competence, trustworthiness, and integrity to justify a belief that the proposed state trust company will be free from improper or unlawful influence or interference with respect to the state trust company's operation in compliance with law; and
+
+.. Whether the organizers are acting in good faith.
+
+. The failure of an applicant to furnish required information, data, opinions of counsel, other material, or the required fee is considered an abandonment of the application.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%207[2019 c 389 § 7]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20324[2014 c 37 § 324]; ]
+
+== 30B.08.040 - Notice and investigation of application.
+. The director shall notify the organizers when the application is complete and accepted for filing and all required fees and deposits have been paid.
+
+. At the expense of the organizers, the director shall investigate the application and inquire into the identity and character of each proposed director, manager, officer, managing participant, and principal shareholder or participant.
+
+. The financial statement of a proposed officer, director, manager, or managing participant is confidential and not subject to public disclosure under chapter 42.56 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%208[2019 c 389 § 8]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20325[2014 c 37 § 325]; ]
+
+== 30B.08.050 - Required capital.
+. The director shall at time of application, to organize a state trust company, determine the minimum required initial capitalization of a proposed state trust company in the manner provided for in *RCW 30B.08.030(3)(b)(ii) and as further provided in this section.
+
+. The director may consider the following safety and soundness factors when determining minimum required capital, including, but not limited to:
+
+.. The nature and type of business conducted;
+
+.. The nature and degree of liquidity in assets held in a corporate capacity;
+
+.. The amount of fiduciary assets under management;
+
+.. The type of fiduciary assets held and the depository of such assets;
+
+.. The complexity of fiduciary duties and degree of discretion undertaken;
+
+.. The competence and experience of management;
+
+.. The extent and adequacy of internal controls;
+
+.. The presence or absence of annual unqualified audits by an independent certified public accountant;
+
+.. The reasonableness of business plans for retaining or acquiring additional capital; 
+
+.. The existence and adequacy of insurance obtained or held by the trust company for the purpose of protecting its clients, trust beneficiaries, and settlors;
+
+.. The history of operating losses, if any;
+
+.. The history of loss, if any, in relation to fiduciary or custodial accounts; and
+
+.. The amount of support from the state trust company's parent or affiliate.
+
+. The effective date of a written finding requiring an existing state trust company to increase its capital must be stated in the written finding as on or after the thirty-first day after the date the written finding is mailed or delivered. Unless the state trust company requests a hearing before the director before the effective date of the written finding, the order becomes effective and is final and nonappealable. This subsection does not prohibit an application to reduce capital requirements of a proposed or an existing state trust company.
+
+. Subject to subsection (2) of this section, a state trust company to which the director issues a certificate of authority shall at all times maintain capital in at least the amount required under subsection (1) of this section, plus any additional amount or less any reduction the director directs under subsection (2) of this section.
+
+. Notwithstanding any provision of this section, the director may establish by rule safety and soundness standards for minimum required capital, additional required capital, and reduction of capital, for a proposed or existing state trust company.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20326[2014 c 37 § 326]; ]
+
+== 30B.08.060 - Capital notes or debentures.
+. With the prior written approval of the director, any state trust company may at any time, through action of its board of directors, issue and sell its capital notes or debentures, which shall be subordinate to the claims of depositors and other creditors.
+
+. Unless otherwise approved by the director, a state trust company shall conform to all other conditions and requirements of chapter 30A.36 RCW governing capital notes and debentures of state banks.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20327[2014 c 37 § 327]; ]
+
+== 30B.08.070 - Application of general business corporation laws.
+. A state trust company shall be deemed a distinct type of corporation or limited liability trust company whose certificate of authority may be granted, conditioned, canceled, or revoked only by the department.
+
+. Title 23B RCW applies to a state trust company in corporation form and chapter 25.15 RCW in limited liability company form to the extent not inconsistent with this title or the business of a state trust company, except that:
+
+.. Any reference to the secretary of state means the director unless the context requires otherwise; and
+
+.. The right of shareholders or participants to cumulative voting in the election of directors or managers exists only if granted by the state trust company's articles of incorporation or limited liability company agreement.
+
+. Unless expressly authorized by this title or a rule of the department, a state trust company may not take an action authorized by Title 23B RCW or chapter 25.15 RCW regarding its corporate status, capital structure, or a matter of corporate governance, of the type for which Title 23B RCW or chapter 25.15 RCW would require a filing with the secretary of state if the state trust company were a business corporation, without first submitting the filing to the director for the same purposes for which it otherwise would be required to be submitted to the secretary of state.
+
+. The department may adopt rules to limit or refine the applicability of subsection (2) of this section to a state trust company or to alter or supplement the procedures and requirements of Title 23B RCW or chapter 25.15 RCW applicable to an action taken under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%209[2019 c 389 § 9]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20328[2014 c 37 § 328]; ]
+
+== 30B.08.080 - Powers of a state trust company.
+. Upon the issuance of a certificate of authority to a state trust company as prescribed in this chapter and its commencement of business pursuant to such certificate of authority, it shall be a corporation or limited liability company for the purpose of engaging in trust business under this title, including:
+
+.. Accepting or executing trusts, including:
+
+... Acting as trustee under a written agreement;
+
+... Receiving money or other property in its capacity as trustee for investment in real or personal property;
+
+... Acting as trustee and performing the fiduciary duties committed or transferred to it by a valid and applicable court order;
+
+... Acting as trustee of the estate of a deceased person;
+
+.. Acting as trustee for a minor or incapacitated person;
+
+.. Acting as a trustee of collective investment funds or
+
+common trust funds; or
+
+.. Acting as a trustee of statutory or similar trusts;
+
+.. Acting as an attorney-in-fact in any agreed upon capacity;
+
+.. Acting pursuant to court order as executor, administrator, guardian, or conservator of an estate; or
+
+.. Regularly engaging in any other activity that the director determines by rule to be an essential function of a trust business in Washington state upon his or her finding that (i) the proposed activity of the applicant is closely akin to acting as a fiduciary, (ii) the proposed activity cannot be more effectively regulated under a statute of Washington state other than this title, and (iii) the exercise of such powers by the applicant in Washington state (A) would serve the convenience and advantage of trustors and beneficiaries, or the general public, and (B) would maintain the fairness of competition and parity between state trust companies and, as applicable, federal trust institutions or out-of-state trust institutions.
+
+. The state trust company also shall be a corporation or limited liability company for the purposes of engaging in trust business under this title if the director otherwise issues a written finding, pursuant to a specific application for a certificate of authority to do business as a state trust institution in Washington state pursuant to this chapter or chapter 30B.38 RCW, that all of the criteria set forth in subsection (1)(d) of this section exist in relation to the applicant.
+
+. Pursuant to such certificate of authority, a state trust company may also perform incidental activities, other than trust business, which include:
+
+.. Acting as a bailee or receiving for safekeeping personal property;
+
+.. Acting as a custodian for money or its equivalent, or for other personal property, which conduct has not otherwise been determined by rule to be trust business pursuant to subsection (1)(d) of this section;
+
+.. Acting as a recordkeeper for a retirement plan;
+
+.. Acting as the registrar of or transfer agent for stocks and bonds;
+
+.. Acting as a sponsoring or other member of any clearing corporation with respect to securities or other property;
+
+.. Acting as an escrow agent, escrow holder, or managing agent;
+
+.. Acting as a receiver;
+
+.. Acting as a manager of a limited liability company, limited liability partnership, or similar entity; or
+
+.. Conducting such other incidental activities permissible for a state trust company as the director shall prescribe by rule.
+
+. The director may prescribe rules for the safe and sound exercise of the powers enumerated in subsections (1) and (3) of this section.
+
+. A trust department of a state commercial bank, to the extent authorized under RCW 30A.08.150, or a trust department of a state savings bank, to the extent authorized under RCW 32.08.210, may exercise all of the powers and authorities of a state trust company under this title.
+
+. A state trust company, when acting in a fiduciary capacity, either alone or jointly with an individual or individuals, may, with the consent of such individual or individuals, who are hereby authorized to give such consent, cause any stocks, securities, or other property held or acquired to be registered and held in the name of a nominee or nominees of the state trust company without mention of the fiduciary relationship. Any such fiduciary shall be liable for any loss occasioned by the acts of any of its nominees with respect to such stocks, securities, or other property so registered.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2010[2019 c 389 § 10]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20329[2014 c 37 § 329]; ]
+
+== 30B.08.090 - Additional powers of a state trust company—Federal and interstate parity—Disallowance by director.
+. Notwithstanding any restrictions, limitations, and requirements of law, in addition to all powers, express or implied, that a state trust company has under the laws of Washington state, a state trust company has the powers and authorities conferred as of July 28, 2019, upon a federal trust institution. A state trust company may exercise the powers and authorities conferred on a federal trust institution after this date only if the director finds that the exercise of such powers and authorities:
+
+.. Serves the convenience and advantage of trustors and beneficiaries, or the general public; and
+
+.. Maintains the fairness of competition and parity between state trust companies and federally chartered trust companies.
+
+. Notwithstanding any other provisions of law, a state trust company has the trust-related and fiduciary-related powers and authorities of an out-of-state trust institution that is not a functionally unregulated out-of-state institution under RCW 30B.38.090.
+
+. As used in this section, "powers and authorities" include without limitation powers and authorities in corporate governance and operational matters.
+
+. The restrictions, limitations, and requirements applicable to specific powers and authorities of federally chartered trust companies and out-of-state trust institutions, as applicable, shall apply to state trust companies exercising those powers or authorities permitted under this section but only insofar as the restrictions, limitations, and requirements relate to exercising the powers or authorities granted trust companies solely under this section.
+
+. Notwithstanding any other provisions of law, in addition to all powers enumerated by this title, and those necessarily implied therefrom, a state trust company may engage in other business activities that have been determined by the board of governors of the federal reserve system or by the United States congress to be closely related to the business of banking, as of July 28, 2019.
+
+. A state trust company that desires to perform an activity that is not authorized by subsection (5) of this section shall first apply to the director for authorization to conduct such activity. Within thirty days of the receipt of this application, the director shall determine whether the activity is closely related to the business of banking, whether the public convenience and advantage will be promoted, whether the activity is apt to create an unsafe and unsound practice by the state trust company, and whether the applicant is capable of performing such an activity. If the director finds the activity to be closely related to the business of banking and the state trust company is otherwise qualified, he or she shall immediately inform the applicant that the activity is authorized. If the director determines that such activity is not closely related to the business of banking or that the state trust company is not otherwise qualified, he or she shall promptly inform the applicant in writing. The applicant shall have the right to appeal from an unfavorable determination in accordance with the procedures of the administrative procedure act, chapter 34.05 RCW. In determining whether a particular activity is closely related to the business of banking, the director shall consider but is not bound by the rulings of the board of governors of the federal reserve system and the comptroller of the currency.
+
+. Notwithstanding any of the powers and authorities granted to a state trust company under this section, the director may, upon written notice to a state trust company, disallow any such power or authority if the director finds that such power and authority cannot be exercised by the state trust company in a safe or sound manner.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2011[2019 c 389 § 11]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20330[2014 c 37 § 330]; ]
+
+== 30B.08.100 - Scope of regulated activities of a state trust company.
+Notwithstanding the definition of "trust business" as set forth in RCW 30B.04.005, the director has the authority to regulate the exercise of all powers and authorities of a state trust company which are enumerated in RCW 30B.08.080 and which may be conferred by way of parity under RCW 30B.38.060.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20331[2014 c 37 § 331]; ]
+
+== 30B.08.110 - Internet trust business.
+. A person engaged in trust business in this state by use of the internet is subject to regulation by the department under this title, unless it is:
+
+.. An out-of-state trust institution approved under chapter 30B.38 RCW or acting under authority of RCW 30B.72.010; or
+
+.. An exempt person under RCW 30B.04.040.
+
+. The director may adopt rules specific to the regulation of internet trust businesses in the interest of protecting Washington state citizens.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20332[2014 c 37 § 332]; ]
+

@@ -1,0 +1,138 @@
+= 28B.96 - Undocumented student support loan program.
+:toc:
+
+== 28B.96.005 - Intent. (Effective July 1, 2021.)
+. The legislature recognizes that students seeking to attend an institution of higher education or to receive training at a technical college have a variety of ways to fund their education. Students who meet Washington state residency requirements have access to state-funded financial aid programs such as the Washington college grant, college bound, and running start. While state residents have access to these state-sponsored financial aid options, not all state residents are eligible to receive federal financial aid such as the Pell grant or subsidized and unsubsidized student loans. Students who rely solely on state financial aid or scholarships might have difficulty in affording the remaining cost of attendance that student loans could fund.
+
+. Therefore, the legislature intends to increase access to those students who are ineligible for federal financial aid by creating a state-funded and state-administered student loan program. The legislature intends for the undocumented student support loan program to provide students loans that are competitive with federal student loans and offer multiple options for repayment including adjusted monthly payments based on income.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6561-S2.SL.pdf?cite=2020%20c%20326%20§%201[2020 c 326 § 1]; ]
+
+== 28B.96.010 - Definitions. (Effective July 1, 2021.)
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+. "Eligible student" means a student who:
+
+.. Is a resident student;
+
+.. Demonstrates financial need as defined in RCW 28B.92.030;
+
+.. Has indicated they will attend an institution of higher education or is making satisfactory progress in a program, as defined in rule by the office, at an institution of higher education;
+
+.. Fills out the Washington application for state financial aid; and
+
+.. Does not qualify for federally funded student financial aid because of their citizenship status.
+
+. "Institution of higher education" has the same meaning as in RCW 28B.92.030.
+
+. "Office" means the office of student financial assistance created in RCW 28B.76.090.
+
+. "Participant" means an eligible student who has received an undocumented student support loan.
+
+. "Resident student" means:
+
+.. A financially independent student who has had a domicile in the state of Washington for the period of one year immediately prior to the time of commencement of the first day of the semester or quarter for which the student has registered at any institution and has in fact established a bona fide domicile in this state primarily for purposes other than educational;
+
+.. A dependent student, if one or both of the student's parents or legal guardians have maintained a bona fide domicile in the state of Washington for at least one year immediately prior to commencement of the semester or quarter for which the student has registered at any institution;
+
+.. Any student:
+
+... Who has spent at least seventy-five percent of both his or her junior and senior years in high schools in this state;
+
+... Whose parents or legal guardians have been domiciled in the state for a period of at least one year within the five-year period before the student graduates from high school; and
+
+... Who enrolls in a public institution of higher education within six months of leaving high school, for as long as the student remains continuously enrolled for three quarters or two semesters in any calendar year; or
+
+.. Any person:
+
+... Who has completed the full senior year of high school and obtained a high school diploma, both at a Washington public high school or private high school approved under chapter 28A.195 RCW, or a person who has received the equivalent of a diploma;
+
+... Who has lived in Washington for at least three years immediately prior to receiving the diploma or its equivalent;
+
+... Who has continuously lived in the state of Washington after receiving the diploma or its equivalent and until such time as the individual is admitted to an institution of higher education; and
+
+... Who provides to the institution an affidavit indicating that the individual will file an application to become a permanent resident at the earliest opportunity the individual is eligible to do so and a willingness to engage in any other activities necessary to acquire citizenship, including but not limited to citizenship or civics review courses.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6561-S2.SL.pdf?cite=2020%20c%20326%20§%202[2020 c 326 § 2]; ]
+
+== 28B.96.020 - Undocumented student support loan program. (Effective July 1, 2021.)
+. The undocumented student support loan program is established.
+
+. The program shall be designed by the office, in consultation with financial aid professionals at institutions of higher education, state and nonprofit programs that work with eligible students, and relevant student associations and stakeholders in the development of the program.
+
+. The program shall be administered by the office. In administering the program, the office has the following powers and duties:
+
+.. Screen and select, in coordination with representatives of institutions of higher education, eligible students to receive an undocumented student support loan;
+
+.. Consider an eligible student's financial inability to meet the total cost of the participant's educational program in the selection process;
+
+.. Issue low-interest student loans that are competitive with federal student loan programs;
+
+.. Establish annual and lifetime loan limits equal to the cost of attendance minus any other financial aid received as provided in subsection (6) of this section;
+
+.. Define the terms of repayment, including applicable interest rates, fees, and deferments;
+
+.. Collect and manage repayments from students who do not meet their obligations under this chapter;
+
+.. Consider income-based repayment options;
+
+.. Solicit and accept grants and donations from public and private sources for the program; and
+
+.. Adopt rules necessary to implement the program.
+
+. The undocumented student support loan does not accrue interest while a participant is enrolled in an institution of higher education.
+
+. The office may impose a loan origination fee up to, but not to exceed, the current rate imposed by the federal government on subsidized student loans.
+
+. The maximum annual loan amount granted per student for the undocumented student support loan program is:
+
+.. [Empty]
+... The cost of tuition and required fees at the public institution of higher education the student is attending; or
+
+... If the student is attending a private institution of higher education, the tuition and required fees at an equivalent public institution; and
+
+.. Less the value of any state-funded grant, scholarship, or waiver assistance the student receives, plus five hundred dollars for books and materials.
+
+. Student loans issued under the program shall follow the requirements under 11 U.S.C. Sec. 523 regarding dischargeability in bankruptcy.
+
+. Data collected by the program is private and confidential and must only be used for statistical analysis, research, and evaluation purposes. Data sharing by the office may be extended to include the office of financial management and other state governmental entities with oversight responsibility for the program, as long as personally identifiable student information is removed.
+
+. The office shall provide information to the appropriate fiscal and relevant policy committees of the legislature by December 1, 2023, and every two years thereafter that includes the following:
+
+.. Dollar amount and number of private donations received;
+
+.. Number of applications received;
+
+.. Number of student loans provided to eligible students per year;
+
+.. Average student loan amount provided per participant;
+
+.. Level of degree program participants are pursuing;
+
+.. Number of student loans in active repayment, deferment, and default status; and
+
+.. Any other information the office deems relevant.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6561-S2.SL.pdf?cite=2020%20c%20326%20§%203[2020 c 326 § 3]; ]
+
+== 28B.96.030 - Undocumented student support loan match account. (Effective July 1, 2021.)
+. The undocumented student support loan match account is created in the custody of the state treasurer as a nonappropriated account to be used solely and exclusively for the program created in RCW 28B.96.020. The purpose of the account is to provide state matching funds for the undocumented student support loan program.
+
+. Revenues to the account consist of appropriations by the legislature into the account.
+
+. [Empty]
+.. The legislature must appropriate a state match, up to a maximum of two million dollars per fiscal biennium, beginning January 1, 2022, and each January 1st following the end of the fiscal year based on donations and pledges received by the office for the program as of the date each official state caseload forecast is submitted by the caseload forecast council to the legislative fiscal committees, as provided under RCW 43.88C.020. Nothing in this subsection expands or modifies the responsibilities of the caseload forecast council.
+
+.. In any year that the fund balance of the account is ten million dollars or more on the last day of the fiscal year, no state match shall be required the following year.
+
+. Expenditures, in the form of matching funds, from the account may be made only upon receipt of proof from the office of private contributions to the program. Expenditures, in the form of matching funds, may not exceed the total amount of private contributions.
+
+. Only the executive director of the office or the executive director's designee may authorize expenditures from the account. Such authorization must be made as soon as practicable following receipt of proof as required under subsection (4) of this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6561-S2.SL.pdf?cite=2020%20c%20326%20§%204[2020 c 326 § 4]; ]
+
+== 28B.96.900 - Effective date—2020 c 326.
+This act takes effect July 1, 2021.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6561-S2.SL.pdf?cite=2020%20c%20326%20§%205[2020 c 326 § 5]; ]
+

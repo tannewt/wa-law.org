@@ -1,0 +1,129 @@
+= 51.18 - Retrospective rating plan.
+:toc:
+
+== 51.18.005 - Findings.
+The legislature finds that the retrospective rating plan provided for in RCW 51.16.035 has proven to be highly effective both in terms of improved workplace safety and injured worker outcomes. As a result, the number of industrial insurance claims of many employers participating in the retrospective rating plan have been reduced through sound risk management strategies and enhanced cooperation with department claims management activities.
+
+The legislature further finds that entrance criteria for the retrospective rating plan under RCW 51.16.035 should be clear and understandable to both the department and potential retrospective rating plan participants.
+
+The legislature therefore declares that a new retrospective rating plan is needed in order to protect and preserve the integrity and welfare of the retrospective rating system.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6048.SL.pdf?cite=1999%20c%207%20§%201[1999 c 7 § 1]; ]
+
+== 51.18.010 - Availability—Rules—Coverage period.
+. The department shall offer a retrospective rating plan to insure the workers' compensation obligations of employers and groups of employers. The plan is to be made available to any employer or group of employers who:
+
+.. Voluntarily elects to participate in the plan; and
+
+.. Meets the requirements of this chapter and rules adopted by the department under subsection (2) of this section.
+
+. The retrospective rating plan shall be consistent with recognized insurance principles and shall be administered according to rules adopted by the department. Rules adopted under this section shall encourage broad participation by qualified employers and sponsors of retrospective rating groups.
+
+. Each retrospective rating group approved by the department under this chapter shall select a coverage period and may be renewed at the end of each coverage period. For the purposes of this section, "coverage period" means a twelve-month period provided by the department by rule.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6048.SL.pdf?cite=1999%20c%207%20§%202[1999 c 7 § 2]; ]
+
+== 51.18.020 - Entrance criteria.
+Prior to allowing initial entrance into the state's retrospective rating plan, the department shall review each proposed retrospective rating group to ensure that the following criteria are met:
+
+. The entity sponsoring the retrospective rating group must have been in existence for at least four years;
+
+. The entity sponsoring the retrospective rating group must exist primarily for a purpose other than that of obtaining or offering insurance coverage or insurance related services;
+
+. The entity sponsoring the retrospective rating group must have a written workplace safety and accident prevention plan in place for the proposed retrospective rating group and must propose methods by which the retrospective rating group will cooperate with department claims management activities;
+
+. All employers in the retrospective rating group must be members of the sponsoring entity;
+
+. All employers in the retrospective rating group must have an industrial insurance account in good standing with the department;
+
+. Fifty percent of the original employers in the retrospective rating group must have been members of the sponsoring entity for one year prior to the group's entrance into the retrospective rating plan;
+
+. The retrospective rating group must be composed of employers who are substantially similar considering the services or activities performed by the employees of those employers;
+
+. The initial premium level for the retrospective rating group must be at least one million five hundred thousand dollars and shall be based on the standard premium of the proposed group members' most current previous coverage period; and
+
+. The formation and operation of the retrospective rating group must seek to substantially improve workplace safety and accident prevention for the employers in the group.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6048.SL.pdf?cite=1999%20c%207%20§%203[1999 c 7 § 3]; ]
+
+== 51.18.030 - Sponsoring entities—New or existing retrospective rating groups.
+. Entities which sponsored retrospective rating groups prior to July 25, 1999, may not sponsor additional retrospective rating groups in a new business or industry category until the coverage period beginning January 1, 2003.
+
+. For retrospective rating groups approved by the department on or after July 25, 1999, the sponsoring entity may not propose another retrospective rating group in a new business or industry category until the minimum mandatory adjustment periods required by the department for the first two coverage periods of the last formed retrospective rating group are completed.
+
+. Subsections (1) and (2) of this section do not prohibit a sponsoring entity from proposing to:
+
+.. Divide an existing retrospective rating group into two or more groups provided that the proposed new groups fall within the same business or industry category as the group that is proposed to be divided; or
+
+.. Merge existing retrospective rating groups into one business or industry category provided that the proposed merged groups fall within the same business or industry category as the groups that are proposed to be merged.
+
+. Under no circumstances may a sponsoring entity propose retrospective rating groups in multiple business or industry categories in the same application to the department.
+
+. An insurer, insurance broker, agent, or solicitor may not:
+
+.. Participate in the formation of a retrospective rating group; or
+
+.. Sponsor a retrospective rating group.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6048.SL.pdf?cite=1999%20c%207%20§%204[1999 c 7 § 4]; ]
+
+== 51.18.040 - Retrospective rating groups—Industry and business categories.
+. In order to ensure that all retrospective rating groups are made up of employers who are substantially similar, considering the services or activities performed by the employees of those employers, the sponsoring entity of a retrospective rating group shall select a single, broad industry or business category for each retrospective rating group. Once an industry or business category is selected, the department shall allow all risk classifications reasonably related to that business or industry category into that retrospective rating group.
+
+. The following broad industry and business categories shall be used by the sponsoring entity and the department in establishing retrospective rating groups:
+
+.. Agriculture and related services;
+
+.. Automotive, truck and boat manufacturing, sales, repair, and related services;
+
+.. Construction and related services;
+
+.. Distillation, chemical production, food, and related services;
+
+.. Facilities or property management, maintenance, and related services;
+
+.. Government, utilities, schools, health care, and related services;
+
+.. Health care, pharmaceutical, laboratories, and related services;
+
+.. Logging, wood products manufacturing, and related services;
+
+.. Manufacturing, processing, mining, quarrying, and related services;
+
+.. Retail stores, wholesale stores, professional services, and related services;
+
+.. Temporary help and related services; and
+
+.. Transportation, recycling, warehousing, facility maintenance, and related services.
+
+. The industry and business categories in subsection (2) of this section are not exclusive. In response to significant changes in marketplace demographics or the discovery of unique business or industry categories, the department may, by rule, include additional broad industry or business category selections. The department may, by rule, remove an industry covered within an industry or business category in the event that the business or industry is no longer found within this state.
+
+. Given the broad nature of the industry and business categories in subsection (2) of this section, the risk classification or classifications assigned to an individual employer may appropriately fall into multiple business or industry categories.
+
+. In order to simplify administration and keep the administrative costs associated with devising a different classification system for a retrospective rating plan to a minimum, the state's retrospective rating plan shall follow the same classification procedure established by the department to assign workers' compensation insurance classifications to an employer.
+
+. Employers who have been a member of an existing, approved retrospective rating group prior to July 25, 1999, may continue in that group even if they are not substantially similar to the industry or business category selected pursuant to subsection (1) of this section. However, new employers proposed for addition to a retrospective rating group on or after July 25, 1999, must fall within the selected industry or business category.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6048.SL.pdf?cite=1999%20c%207%20§%205[1999 c 7 § 5]; ]
+
+== 51.18.050 - Retrospective rating groups—Probationary status—Denial of future enrollment.
+. Any retrospective rating group required to pay additional net premium assessments in two consecutive coverage periods shall be immediately placed on probationary status. Once a group is placed on probationary status, the department shall review the group's workplace safety and accident prevention plan and its methods for cooperation with department claims management activities. Following the review, the department shall make recommendations for corrective steps that may be taken to improve the group's performance.
+
+. If the same retrospective rating group is required to pay an additional net premium assessment in the third consecutive coverage period, that group shall be denied future enrollment in the state's retrospective rating plan. In addition, the sponsoring entity of the failed group may not sponsor another group in the same business or industry category for five coverage periods from the ending date of the failed group's last coverage period.
+
+. This section applies prospectively only and not retroactively. It applies only to net assessments received by a retrospective rating group for plan years beginning after July 25, 1999.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6048.SL.pdf?cite=1999%20c%207%20§%206[1999 c 7 § 6]; ]
+
+== 51.18.060 - Retrospective rating groups—Department approval.
+All retrospective rating groups approved by the department prior to July 25, 1999, under RCW 51.16.035 as it existed prior to July 25, 1999, remain approved and, with the exception of RCW 51.18.020, are subject to the provisions of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6048.SL.pdf?cite=1999%20c%207%20§%207[1999 c 7 § 7]; ]
+
+== 51.18.065 - Direct primary care services—Payment by employer—Rules.
+Payment by an employer for direct primary care services as defined in RCW 48.150.010 when used for medical services on an allowed industrial injury or occupational disease claim does not disqualify: (1) The employer from participating in a retrospective rating plan; (2) any related group sponsor from promoting a retrospective rating plan; or (3) any related plan administrator from administering a retrospective rating plan, provided the employer or group sponsor or plan administrator provides any medical cost or payment information that may be required by the department. Prior to the first retrospective rating adjustment for the plan year beginning January 1, 2012, the department shall determine the information needed and any changes to the retrospective rating premium and claim cost calculations to maintain appropriate and equitable retrospective rating refunds when employers pay for direct primary care services. These changes shall apply beginning with the January 1, 2012, plan year.
+
+The department may adopt rules to implement this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1725-S.SL.pdf?cite=2011%20c%20290%20§%203[2011 c 290 § 3]; ]
+

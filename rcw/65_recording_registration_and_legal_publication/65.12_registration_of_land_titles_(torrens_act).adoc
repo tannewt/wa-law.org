@@ -1,0 +1,810 @@
+= 65.12 - Registration of land titles (Torrens Act).
+:toc:
+
+== 65.12.005 - Registration authorized—Who may apply.
+The owner of any estate or interest in land, whether legal or equitable, except unpatented land, may apply as hereinafter provided to have the title of said land registered. The application may be made by the applicant personally, or by an agent thereunto lawfully authorized in writing, which authority shall be executed and acknowledged in the same manner and form as is now required as to a deed, and shall be recorded in the office of the county auditor in the county in which the land, or the major portion thereof, is situated before the making of the application by such agent. A corporation may apply by its authorized agent, and an infant or any other person under disability by his or her legal guardian. Joint tenants and tenants in common shall join in the application. The person in whose behalf the application is made shall be named as applicant.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20211[2012 c 117 § 211]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%201[1907 c 250 § 1]; RRS § 10622; ]
+
+== 65.12.010 - Land subject to a lesser estate.
+It shall not be an objection to bringing land under this chapter, that the estate or interest of the applicant is subject to any outstanding lesser estate, mortgage, lien or charge; but no mortgage, lien, charge or lesser estate than a fee simple shall be registered unless the estate in fee simple to the same land is registered; and every such lesser estate, mortgage, lien or charge shall be noted upon the certificate of title and the duplicate thereof, and the title or interest certified shall be subject only to such estates, mortgages, liens and charges as are so noted, except as herein provided.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%202[1907 c 250 § 2]; RRS § 10623; ]
+
+== 65.12.015 - Tax title land—Conditions to registration.
+No title derived through sale for any tax or assessment, or special assessment, shall be entitled to be registered, unless it shall be made to appear that the title of the applicant, or those through whom he or she claims title has been adjudicated by a court of competent jurisdiction, and a decree of such court duly made and recorded, decreeing the title of the applicant, or that the applicant or those through whom he or she claims title have been in the actual and undisputed possession of the land under such title at least seven years, immediately prior to the application, and shall have paid all taxes and assessments legally levied thereon during said times; unless the same is vacant and unoccupied lands or lots, in which case, where title is derived through sale for any tax or assessment or special assessment for any such vacant and unoccupied lands or lots, and the applicant, or those through whom he or she claims title, shall have paid all taxes and assessments legally levied thereon for eight successive years immediately prior to the application, in which case such lands and lots shall be entitled to be registered as other lands provided for by this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20212[2012 c 117 § 212]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%203[1907 c 250 § 3]; RRS § 10624; ]
+
+== 65.12.020 - Application.
+The application shall be in writing and shall be signed and verified by the oath of the applicant, or the person acting in his or her behalf. It shall set forth substantially:
+
+. The name and place of residence of the applicant, and if the application is by one acting in behalf of another, the name and place of residence and capacity of the person so acting.
+
+. Whether the applicant (except in the case of a corporation) is married or not, and, if married, the name and residence of the husband or wife, and the age of the applicant.
+
+. The description of the land and the assessed value thereof, exclusive of improvements, according to the last official assessment, the same to be taken as a basis for the payments required under RCW 65.12.670 and 65.12.790(1).
+
+. The applicant's estate or interest in the same, and whether the same is subject to homestead exemption.
+
+. The names of all persons or parties who appear of record to have any title, claim, estate, lien, or interest in the lands described in the application for registration.
+
+. Whether the land is occupied or unoccupied, and if occupied by any other person than the applicant, the name and post office address of each occupant, and what estate he or she has or claims in the land.
+
+. Whether the land is subject to any lien or incumbrance, and if any, give the nature and amount of the same, and if recorded, the book and page of record; also give the name and post office address of each holder thereof.
+
+. Whether any other person has any estate or claims any interest in the land, in law or equity, in possession, remainder, reversion, or expectancy, and if any, set forth the name and post office address of every such person and the nature of his or her estate or claim.
+
+. In case it is desired to settle or establish boundary lines, the names and post office addresses of all the owners of the adjoining lands that may be affected thereby, as far as he or she is able, upon diligent inquiry, to ascertain the same.
+
+. If the application is on behalf of a minor, the age of such minor shall be stated.
+
+. When the place of residence of any person whose residence is required to be given is unknown, it may be so stated if the applicant will also state that upon diligent inquiry he or she had been unable to ascertain the same.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20213[2012 c 117 § 213]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%204[1907 c 250 § 4]; RRS § 10625; ]
+
+== 65.12.025 - Various lands in one application.
+Any number of contiguous pieces of land in the same county, and owned by the same person, and in the same right, or any number of pieces of property in the same county having the same chain of title and belonging to the same person, may be included in one application.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%205[1907 c 250 § 5]; RRS § 10626; ]
+
+== 65.12.030 - Amendment of application.
+The application may be amended only by supplemental statement in writing, signed and sworn to as in the case of the original application.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%206[1907 c 250 § 6]; RRS § 10627; ]
+
+== 65.12.035 - Form of application.
+The form of application may, with appropriate changes, be substantially as follows:
+
+FORM OF APPLICATION FORINITIAL REGISTRATION OF TITLE TO LANDState of WashingtonCounty of . . . .,ss.In the superior court of the state of Washington in and for . . . . . . county.In the matter of the application of . . . . . . to register the title to the land hereinafter describedPETITIONTo the Honorable . . . . . ., judge of said court: I hereby make application to have registered the title to the land hereinafter described, and do solemnly swear that the answers to the questions herewith, and the statements herein contained, are true to the best of my knowledge, information and belief.First. Name of applicant, . . . . . ., age, . . . . years.Residence, . . . . . . . . . . . (number and street, if any). Married to or in a state registered domestic partnership with . . . . . . (name of husband, wife, or state registered domestic partner).Second. Applications made by . . . . . ., acting as . . . . . . (owner, agent or attorney). Residence, . . . . . . . . . . . (number, street).Third. Description of real estate is as follows:. . . .. . . .. . . .. . . .estate or interest therein is . . . . . . and . . . . . . subject to homestead.Fourth. The land is . . . . . . occupied by . . . . . . . . . . . (names of occupants), whose address is . . . . . . . . . . . (number street and town or city). The estate, interest or claim of occupant is . . . . . .Fifth. Liens and incumbrances on the land . . . . . . Name of holder or owner thereof is . . . . . . Whose post office address is . . . . . . . . . . . Amount of claim, $. . . . Recorded, Book . . . ., page . . . ., of the records of said county.Sixth. Other persons, firm or corporation having or claiming any estate, interest or claim in law or equity, in possession, remainder, reversion or expectancy in said land are . . . . . . whose addresses are . . . . . . . . . . . respectively. Character of estate, interest or claim is . . . . . . . . . . . . . . .Seventh. Other facts connected with said land and appropriate to be considered in this registration proceeding are . . . . . .Eighth. Therefore, the applicant prays this honorable court to find or declare the title or interest of the applicant in said land and decree the same, and order the registrar of titles to register the same and to grant such other and further relief as may be proper in the premises. . . . . (Applicant's signature)By . . . . . ., agent, attorney, administrator or guardian.Subscribed and sworn to before me this . . . . day of . . . . . ., A.D. (year) . . . . . . . .  Notary Public in and for the state of Washington, residing at . . . . . . . .
+
+FORM OF APPLICATION FOR
+
+INITIAL REGISTRATION OF TITLE TO LAND
+
+State of Washington
+
+
+
+County of . . . .,
+
+
+
+
+
+
+
+
+
+
+
+ss.
+
+In the superior court of the state of Washington in and for . . . . . . county.
+
+In the matter of the application of . . . . . . to register the title to the land hereinafter described
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PETITION
+
+To the Honorable . . . . . ., judge of said court: I hereby make application to have registered the title to the land hereinafter described, and do solemnly swear that the answers to the questions herewith, and the statements herein contained, are true to the best of my knowledge, information and belief.
+
+First. Name of applicant, . . . . . ., age, . . . . years.
+
+Residence, . . . . . . . . . . . (number and street, if any). Married to or in a state registered domestic partnership with . . . . . . (name of husband, wife, or state registered domestic partner).
+
+Second. Applications made by . . . . . ., acting as . . . . . . (owner, agent or attorney). Residence, . . . . . . . . . . . (number, street).
+
+Third. Description of real estate is as follows:
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+estate or interest therein is . . . . . . and . . . . . . subject to homestead.
+
+Fourth. The land is . . . . . . occupied by . . . . . . . . . . . (names of occupants), whose address is . . . . . . . . . . . (number street and town or city). The estate, interest or claim of occupant is . . . . . .
+
+Fifth. Liens and incumbrances on the land . . . . . . Name of holder or owner thereof is . . . . . . Whose post office address is . . . . . . . . . . . Amount of claim, $. . . . Recorded, Book . . . ., page . . . ., of the records of said county.
+
+Sixth. Other persons, firm or corporation having or claiming any estate, interest or claim in law or equity, in possession, remainder, reversion or expectancy in said land are . . . . . . whose addresses are . . . . . . . . . . . respectively. Character of estate, interest or claim is . . . . . . . . . . . . . . .
+
+Seventh. Other facts connected with said land and appropriate to be considered in this registration proceeding are . . . . . .
+
+Eighth. Therefore, the applicant prays this honorable court to find or declare the title or interest of the applicant in said land and decree the same, and order the registrar of titles to register the same and to grant such other and further relief as may be proper in the premises.
+
+ 
+
+. . . .
+
+ 
+
+(Applicant's signature)
+
+By . . . . . ., agent, attorney, administrator or guardian.
+
+Subscribed and sworn to before me this . . . . day of . . . . . ., A.D. (year) . . . .
+
+ 
+
+. . . .
+
+ 
+
+ 
+
+Notary Public in and for the state of Washington, residing at . . . . . . . .
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2359-S.SL.pdf?cite=2016%20c%20202%20§%2042[2016 c 202 § 42]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5688-S2.SL.pdf?cite=2009%20c%20521%20§%20145[2009 c 521 § 145]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%207[1907 c 250 § 7]; RRS § 10628; ]
+
+== 65.12.040 - Venue—Power of the court.
+The application for registration shall be made to the superior court of the state of Washington in and for the county wherein the land is situated. Said court shall have power to inquire into the condition of the title to and any interest in the land and any lien or encumbrance thereon, and to make all orders, judgments and decrees as may be necessary to determine, establish and declare the title or interest, legal or equitable, as against all persons, known, or unknown, and all liens and incumbrances existing thereon, whether by law, contract, judgment, mortgage, trust deed or otherwise, and to declare the order, priority and preference as between the same, and to remove all clouds from the title.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%208[1907 c 250 § 8]; RRS § 10629; ]
+
+== 65.12.050 - Registrars of titles.
+The county auditors of the several counties of this state shall be registrars of titles in their respective counties; and their deputies shall be deputy registrars. All acts performed by registrars and deputy registrars under this law shall be performed under rules and instructions established and given by the superior court having jurisdiction of the county in which they act.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%209[1907 c 250 § 9]; RRS § 10630; ]
+
+== 65.12.055 - Bond of registrar.
+Every county auditor shall, before entering upon his or her duties as registrar of titles, give a bond with sufficient sureties, to be approved by a judge of the superior court of the state of Washington in and for his or her county, payable to the state of Washington, in such sum as shall be fixed by the said judge of the superior court, conditioned for the faithful discharge of his or her duties, and to deliver up all papers, books, records, and other property belonging to the county or appertaining to his or her office as registrar of titles, whole, safe and undefaced, when lawfully required so to do; said bond shall be filed in the office of the secretary of state, and a copy thereof shall be filed and entered upon the records of the superior court in the county wherein the county auditor shall hold office.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20214[2012 c 117 § 214]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2010[1907 c 250 § 10]; RRS § 10631; ]
+
+== 65.12.060 - Deputy registrar—Duties—Vacancy.
+Deputy registrars shall perform any and all duties of the registrar in the name of the registrar, and the acts of such deputies shall be held to be the acts of the registrar, and in the case of the death of the registrar or his or her removal from office, the vacancy shall be filled in the same manner as is provided by law for filling such vacancy in the office of the county auditor. The person so appointed to fill such vacancy shall file a bond and be vested with the same powers as the registrar whose office he or she is appointed to fill.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20215[2012 c 117 § 215]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2011[1907 c 250 § 11]; RRS § 10632; ]
+
+== 65.12.065 - Registrar not to practice law—Liability for deputy.
+No registrar or deputy registrar shall practice as an attorney or counselor at law, nor prepare any papers in any proceeding herein provided for, nor while in the office be in partnership with any attorney or counselor at law so practicing. The registrar shall be liable for any neglect or omission of the duties of his or her office when occasioned by a deputy registrar, in the same manner as for his or her own personal neglect or omission.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20216[2012 c 117 § 216]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2012[1907 c 250 § 12]; RRS § 10633; ]
+
+== 65.12.070 - Nonresident to appoint agent.
+If the applicant is not a resident of the state of Washington, he or she shall file with his or her application a paper, duly acknowledged, appointing an agent residing in this state, giving his or her name in full and post office address, and shall therein agree that the service of any legal process in proceedings under or growing out of the application shall be of the same legal effect when made on said agent as if made on the applicant within this state. If the agent so appointed dies or removes from the state, the applicant shall at once make another appointment in like manner, and if he or she fails so to do, the court may dismiss the application.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20217[2012 c 117 § 217]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2014[1907 c 250 § 14]; RRS § 10635; ]
+
+== 65.12.080 - Filing application—Docket and record entries.
+The application shall be filed in the office of the clerk of the court to which the application is made and in case of personal service a true copy thereof shall be served with the summons, and the clerk shall docket the case in a book to be kept for that purpose, which shall be known as the "land registration docket". The record entry of the application shall be entitled (name of applicant), plaintiff, against (here insert the names of all persons named in the application as being in possession of the premises, or as having any lien, incumbrance, right, title or interest in the land, and the names of all persons who shall be found by the report of the examiner hereinafter provided for to be in possession or to have any lien, incumbrance, right, title or interest in the land), also all other persons or parties unknown, claiming any right, title, estate, lien or interest in the real estate described in the application herein, defendants.
+
+All orders, judgments and decrees of the court in the case shall be appropriately entered in such docket. All final orders or decrees shall be recorded, and proper reference made thereto in such docket.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2015[1907 c 250 § 15]; RRS § 10636; ]
+
+== 65.12.085 - Filing abstract of title.
+The applicant shall also file with the said clerk, at the time the application is made, an abstract of title such as is now commonly used, prepared and certified to by the county auditor of the county, or a person, firm or corporation regularly engaged in the abstract business, and having satisfied the said superior court that they have a complete set of abstract books and are in existence and doing business at the time of the filing of the application under this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2015a[1907 c 250 § 15a]; RRS § 10637; ]
+
+== 65.12.090 - Examiner of titles—Appointment—Oath—Bond.
+The judges of the superior court in and for the state of Washington for the counties for which they were elected or appointed shall appoint a competent attorney in each county to be examiner of titles and legal adviser of the registrar. The examiner of titles in each county shall be paid in each case by the applicant such compensation as the judge of the superior court of the state of Washington in and for that county shall determine. Every examiner of titles shall, before entering upon the duties of his or her office, take and subscribe an oath of office to faithfully and impartially perform the duties of his or her office, and shall also give a bond in such amount and with such sureties as shall be approved by the judge of the said superior court, payable in like manner and with like conditions as required of the registrar. A copy of the bond shall be entered upon the records of said court and the original shall be filed with the registrar.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20218[2012 c 117 § 218]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2013[1907 c 250 § 13]; RRS § 10634; ]
+
+== 65.12.100 - Copy of application as lis pendens.
+At the time of the filing of the application in the office of the clerk of the court, a copy thereof, certified by the clerk, shall be filed (but need not be recorded) in the office of the county auditor, and shall have the force and effect of a lis pendens.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2016[1907 c 250 § 16]; RRS § 10638; ]
+
+== 65.12.110 - Examination of title.
+Immediately after the filing of the abstract of title, the court shall enter an order referring the application to an examiner of titles, who shall proceed to examine into the title and into the truth of the matters set forth in the application, and particularly whether the land is occupied, the nature of the occupation, if occupied, and by what right, and, also as to all judgments against the applicant or those through whom he or she claims title, which may be a lien upon the lands described in the application; he or she shall search the records and investigate all the facts brought to his or her notice, and file in the case a report thereon, including a certificate of his or her opinion upon the title. The clerk of the court shall thereupon give notice to the applicant of the filing of such report. If the opinion of the examiner is adverse to the applicant, he or she shall be allowed by the court a reasonable time in which to elect to proceed further, or to withdraw his or her application. The election shall be made in writing, and filed with the clerk of the court.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20219[2012 c 117 § 219]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2017[1907 c 250 § 17]; RRS § 10639; ]
+
+== 65.12.120 - Summons to issue.
+If, in the opinion of the examiner, the applicant has a title, as alleged, and proper for registration, or if the applicant, after an adverse opinion of the examiner, elects to proceed further, the clerk of the court shall, immediately upon the filing of the examiner's opinion or the applicant's election, as the case may be, issue a summons substantially in the form hereinafter provided. The summons shall be issued by the order of the court and attested by the clerk of the court.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2018[1907 c 250 § 18]; RRS § 10640; ]
+
+== 65.12.125 - Summons—Form.
+The summons provided for in RCW 65.12.135 shall be in substance in the form following, to wit:
+
+SUMMONS ON APPLICATION FORREGISTRATION OF LANDState of Washington,County of . . . .,ss.In the superior court of the state of Washington in and for the county of . . . . . . (name of applicant), plaintiff, . . . . . ., versus . . . . . . (names of all defendants), and all other persons or parties unknown, claiming any right, title, estate, lien or interest in the real estate, described in the application herein . . . . . . defendants.The state of Washington to the above-named defendants, greeting:You are hereby summoned and required to answer the application of the applicant plaintiff in the above entitled application for registration of the following land situate in . . . . . . county, Washington, to wit: (description of land), and to file your answer to the said application in the office of the clerk of said court, in said county, within twenty days after the service of this summons upon you, exclusive of the day of such service; and if you fail to answer the said application within the time aforesaid, the applicant plaintiff in this action will apply to the court for the relief demanded in the application herein.Witness, . . . . . ., clerk of said court and the seal thereof, at . . . . . ., in said county and state, this . . . . day of . . . . . ., A.D. (year) . . . .(Seal.). . . . Clerk.
+
+SUMMONS ON APPLICATION FOR
+
+REGISTRATION OF LAND
+
+State of Washington,
+
+
+
+County of . . . .,
+
+
+
+
+
+
+
+
+
+
+
+ss.
+
+In the superior court of the state of Washington in and for the county of . . . . . . (name of applicant), plaintiff, . . . . . ., versus . . . . . . (names of all defendants), and all other persons or parties unknown, claiming any right, title, estate, lien or interest in the real estate, described in the application herein . . . . . . defendants.
+
+The state of Washington to the above-named defendants, greeting:
+
+You are hereby summoned and required to answer the application of the applicant plaintiff in the above entitled application for registration of the following land situate in . . . . . . county, Washington, to wit: (description of land), and to file your answer to the said application in the office of the clerk of said court, in said county, within twenty days after the service of this summons upon you, exclusive of the day of such service; and if you fail to answer the said application within the time aforesaid, the applicant plaintiff in this action will apply to the court for the relief demanded in the application herein.
+
+Witness, . . . . . ., clerk of said court and the seal thereof, at . . . . . ., in said county and state, this . . . . day of . . . . . ., A.D. (year) . . . .
+
+(Seal.)
+
+. . . . Clerk.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2359-S.SL.pdf?cite=2016%20c%20202%20§%2043[2016 c 202 § 43]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%20206[1907 c 250 § 206]; RRS § 10644; ]
+
+== 65.12.130 - Parties to action.
+The applicant shall be known in the summons as the plaintiff. All persons named in the application or found by the report of the examiner as being in possession of the premises or as having of record any lien, incumbrance, right, title, or interest in the land, and all other persons who shall be designated as follows, viz: "All other persons or parties unknown claiming any right, title, estate, lien or interest in, to, or upon the real estate described in the application herein," shall be and shall be known as defendants.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2019[1907 c 250 § 19]; RRS § 10641; ]
+
+== 65.12.135 - Service of summons.
+The summons shall be directed to the defendants and require them to appear and answer the application within twenty days after the service of the summons, exclusive of the day of service; and the summons shall be served as is now provided for the service of summons in civil actions in the superior court in this state, except as herein otherwise provided. The summons shall be served upon nonresident defendants and upon "all such unknown persons or parties," defendant, by publishing the summons in a newspaper of general circulation in the county where the application is filed, once in each week for three consecutive weeks, and the service by publication shall be deemed complete at the end of the twenty-first day from and including the first publication, provided that if any named defendant assents in writing to the registration as prayed for, which assent shall be endorsed upon the application or filed therewith and be duly witnessed and acknowledged, then in all such cases no service of summons upon the defendant shall be necessary.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c469.pdf?cite=1985%20c%20469%20§%2060[1985 c 469 § 60]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2020[1907 c 250 § 20]; RRS § 10642; ]
+
+== 65.12.140 - Copy mailed to nonresidents—Proof—Expense.
+The clerk of the court shall also, on or before twenty days after the first publication, send a copy thereof by mail to such defendants who are not residents of the state whose place of address is known or stated in the application, and whose appearance is not entered and who are not in person served with the summons. The certificate of the clerk that he or she has sent such notice, in pursuance of this section, shall be conclusive evidence thereof. Other or further notice of the application for registration may be given in such manner and to such persons as the court or any judge thereof may direct. The summons shall be served at the expense of the applicant, and proof of the service thereof shall be made as proof of service is now made in other civil actions.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20220[2012 c 117 § 220]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2020a[1907 c 250 § 20a]; RRS § 10643; ]
+
+== 65.12.145 - Guardians ad litem.
+The court shall appoint a disinterested person to act as guardian ad litem for minors and other persons under disability, and for all other persons not in being who may appear to have an interest in the land. The compensation of the said guardian shall be determined by the court, and paid as a part of the expense of the proceeding.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2021[1907 c 250 § 21]; RRS § 10645; ]
+
+== 65.12.150 - Who may appear—Answer.
+Any person claiming an interest, whether named in the summons or not, may appear and file an answer within the time named in the summons, or within such further time as may be allowed by the court. The answer shall state all objections to the application, and shall set forth the interests claimed by the party filing the same, and shall be signed and sworn to by him or her or by some person in his or her behalf.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20221[2012 c 117 § 221]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2022[1907 c 250 § 22]; RRS § 10646; ]
+
+== 65.12.155 - Judgment by default—Proof.
+If no person appears and answers within the time named in the summons, or allowed by the court, the court may at once, upon the motion of the applicant, no reason to the contrary appearing, upon satisfactory proof of the applicant's right thereto, make its order and decree confirming the title of the applicant and ordering registration of the same. By the description in the summons, "all other persons unknown, claiming any right, title, lien, or interest in, to, or upon the real estate described in the application herein", all the world are made parties defendant, and shall be concluded by the default, order and decree. The court shall not be bound by the report of the examiners of title, but may require other or further proof.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2023[1907 c 250 § 23]; RRS § 10647; ]
+
+== 65.12.160 - Cause set for trial—Default—Referral.
+If, in any case an appearance is entered and answer filed, the cause shall be set down for hearing on motion of either party, but a default and order shall first be entered against all persons who do not appear and answer in the manner provided in RCW 65.12.155. The court may refer the cause or any part thereof to one of the examiners of title, as referee, to hear the parties and their evidence, and make report thereon to the court. His or her report shall have the same force and effect as that of a referee appointed by the said superior court under the laws of this state now in force, and relating to the appointment, duties and powers of referees.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20222[2012 c 117 § 222]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2024[1907 c 250 § 24]; RRS § 10648; ]
+
+== 65.12.165 - Court may require further proof.
+The court may order such other or further hearing of the cause before the court or before the examiner of titles after the filing of the report of the examiner, referred to in RCW 65.12.160, and require such other and further proof by either of the parties to the cause as to the court shall seem meet and proper.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2025[1907 c 250 § 25]; RRS § 10649; ]
+
+== 65.12.170 - Application dismissed or withdrawn.
+If, in any case, after hearing, the court finds that the applicant has not title proper for registration, a decree shall be entered dismissing the application, and such decree may be ordered to be without prejudice. The applicant may dismiss his or her application at any time, before the final decree, upon such terms as may be fixed by the court, and upon motion to dismiss duly made by the court.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20223[2012 c 117 § 223]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2026[1907 c 250 § 26]; RRS § 10650; ]
+
+== 65.12.175 - Decree of registration—Effect—Appellate review.
+If the court, after hearing, finds that the applicant has title, whether as stated in his or her application or otherwise, proper for registration, a decree of confirmation of title and registration shall be entered. Every decree of registration shall bind the land, and quiet the title thereto, except as herein otherwise provided, and shall be forever binding and conclusive upon all persons, whether mentioned by name in the application, or included in "all other persons or parties unknown claiming any right, title, estate, lien or interest in, to, or upon the real estate described in the application herein", and such decree shall not be opened by reason of the absence, infancy, or other disability of any person affected thereby, nor by any proceeding at law, or in equity, for reversing judgments or decrees, except as herein especially provided. Appellate review of the court's decision may be sought as in other civil actions.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20224[2012 c 117 § 224]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c202.pdf?cite=1988%20c%20202%20§%2056[1988 c 202 § 56]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971c81.pdf?cite=1971%20c%2081%20§%20132[1971 c 81 § 132]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2027[1907 c 250 § 27]; RRS § 10651; ]
+
+== 65.12.180 - Rights of persons not served.
+Any person having an interest in or lien upon the land who has not been actually served with process or notified of the filing of the application or the pendency thereof, may at any time within ninety days after the entry of such decree, and not afterwards, appear and file his or her sworn answer to such application in like manner as hereinbefore prescribed for making answer: PROVIDED, HOWEVER, That such person had no actual notice or information of the filing of such application or the pendency of the proceedings during the pendency thereof, or until within three months of the time of the filing of such answer, which facts shall be made to appear before answering by the affidavit of the person answering or the affidavit of someone in his or her behalf having knowledge of the facts, and PROVIDED, ALSO, that no innocent purchaser for value has acquired an interest. If there is any such purchaser, the decree of registration shall not be opened, but shall remain in full force and effect forever, subject only to the right of appeal hereinbefore provided; but any person aggrieved by such decree in any case may pursue his or her remedy by suit in the nature of an action of tort against the applicant or any other person for fraud in procuring the decree; and may also bring his or her action for indemnity as hereinafter provided. Upon the filing of such answer, and not less than ten days' notice having been given to the applicant, and to such other interested parties as the court may order in such manner as shall be directed by the court, the court shall proceed to review the case, and if the court is satisfied that the order or decree ought to be opened, an order shall be entered to that effect, and the court shall proceed to review the proceedings, and shall make such order in the case as shall be equitable in the premises. An appeal may be allowed in this case, as well as from all other decrees affecting any registered title within a like time, and in a like manner, as in the case of an original decree under this chapter, and not otherwise.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20225[2012 c 117 § 225]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2028[1907 c 250 § 28]; RRS § 10652; ]
+
+== 65.12.190 - Limitation of actions.
+No person shall commence any proceeding for the recovery of lands or any interest, right, lien or demand therein or upon the same adverse to the title or interest as found, or decreed in the decree of registration, unless within ninety days after the entry of the order or decree; and this section shall be construed as giving such right of action to such person only as shall not, because of some irregularity, insufficiency, or for some other cause, be bound and concluded by such order or decree.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2029[1907 c 250 § 29]; RRS § 10653; ]
+
+== 65.12.195 - Title free from incumbrances—Exceptions.
+Every person receiving a certificate of title in pursuance of a decree of registration, and every subsequent purchaser of registered land who takes a certificate of title for value and in good faith, shall hold the same free from all incumbrances except only such estates, mortgages, liens, charges and interests as may be noted in the last certificate of title in the registrar's office, and except any of the following rights or incumbrances subsisting, namely:
+
+. Any existing lease for a period not exceeding three years, when there is actual occupation of the premises under the lease.
+
+. All public highways embraced in the description of the land included in the certificates shall be deemed to be excluded from the certificate. And any subsisting right-of-way or other easement, for ditches or water rights, upon, over or in respect to the land.
+
+. Any tax or special assessment for which a sale of the land has not been had at the date of the certificate of title.
+
+. Such right of appeal, or right to appear and contest the application, as is allowed by this chapter. And,
+
+. Liens, claims or rights, if any, arising or existing under the constitution or laws of the United States, and which the statutes of this state cannot or do not require to appear of record in the office of the county clerk and county auditor.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2030[1907 c 250 § 30]; RRS § 10654; ]
+
+== 65.12.200 - Decree—Contents—Filing.
+Every decree of registration shall bear the date of the year, day, hour, and minute of its entry, and shall be signed by the judge of the superior court of the state of Washington in and for the county in which the land is situated; it shall state whether the owner is married or unmarried, and if married, the name of the husband or wife; if the owner is under disability it shall state the nature of the disability, and if a minor, shall state his or her age. It shall contain a description of the land as finally determined by the court, and shall set forth the estate of the owner, and also in such manner as to show their relative priority, all particular estates, mortgages, easements, liens, attachments, homesteads, and other incumbrances, including rights of husband and wife, if any, to which the land or the owner's estate is subject, and shall contain any other matter or information properly to be determined by the court in pursuance of this chapter. The decree shall be stated in a convenient form for transcription upon the certificate of title, to be made as hereinafter provided by the registrar of titles. Immediately upon the filing of the decree of registration, the clerk shall file a certified copy thereof in the office of the registrar of titles.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20226[2012 c 117 § 226]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2031[1907 c 250 § 31]; RRS § 10655; ]
+
+== 65.12.210 - Interest acquired after filing application.
+Any person who shall take by conveyance, attachment, judgment, lien or otherwise any right, title or interest in the land, subsequent to the filing of a copy of the application for registration in the office of the county auditor, shall at once appear and answer as a party defendant in the proceeding for registration, and the right, title or interest of such person shall be subject to the order or decree of the court.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2032[1907 c 250 § 32]; RRS § 10656; ]
+
+== 65.12.220 - Registration—Effect.
+The obtaining of a decree of registration and receiving of a certificate of title shall be deemed an agreement running with the land and binding upon the applicant and the successors in title, that the land shall be and forever remain registered land, subject to the provisions of this chapter and of all acts amendatory thereof, unless the same shall be withdrawn from registration in the manner hereinafter provided. All dealings with the land or any estate or interest therein after the same has been brought under this chapter, and all liens, encumbrances, and charges upon the same shall be made only subject to the terms of this chapter, so long as said land shall remain registered land and until the same shall be withdrawn from registration in the manner hereinafter provided.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1917c62.pdf?cite=1917%20c%2062%20§%201[1917 c 62 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2033[1907 c 250 § 33]; RRS § 10657; ]
+
+== 65.12.225 - Withdrawal authorized—Effect.
+The owner or owners of any lands, the title to which has been or shall hereafter be registered in the manner provided by law, shall have the right to withdraw said lands from registration in the manner hereinafter provided, and after the same have been so withdrawn from registration, shall have the right to contract concerning, convey, encumber or otherwise deal with the title to said lands as freely and to the same extent and in the same manner as though the title had not been registered.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1917c62.pdf?cite=1917%20c%2062%20§%202[1917 c 62 § 2]; RRS § 10658; ]
+
+== 65.12.230 - Application to withdraw.
+The owner or owners of registered lands, desiring to withdraw the same from registration, shall make and file with the registrar of titles in the county in which said lands are situated, an application in substantially the following form:
+
+To the registrar of titles in the county of . . . . . ., state of Washington:I, (or we), . . . . . ., the undersigned registered owner . . . in fee simple of the following described real property situated in the county of . . . . . ., state of Washington, to wit: (here insert the description of the property), hereby make application to have the title to said real property withdrawn from registration.Witness my (or our) hand . . . and seal . . . this . . . . day of . . . . . ., (year) . . . . . . . . Applicant's signature.
+
+To the registrar of titles in the county of . . . . . ., state of Washington:
+
+I, (or we), . . . . . ., the undersigned registered owner . . . in fee simple of the following described real property situated in the county of . . . . . ., state of Washington, to wit: (here insert the description of the property), hereby make application to have the title to said real property withdrawn from registration.
+
+Witness my (or our) hand . . . and seal . . . this . . . . day of . . . . . ., (year) . . . .
+
+ 
+
+. . . .
+
+ 
+
+Applicant's signature.
+
+Said application shall be acknowledged in the same manner as is required for the acknowledgment of deeds.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2359-S.SL.pdf?cite=2016%20c%20202%20§%2044[2016 c 202 § 44]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1917c62.pdf?cite=1917%20c%2062%20§%203[1917 c 62 § 3]; RRS § 10659; ]
+
+== 65.12.235 - Certificate of withdrawal.
+Upon the filing of such application and the payment of a fee of five dollars, the registrar of titles, if it shall appear that the application is signed and acknowledged by all the registered owners of said land, shall issue to the applicant a certificate in substantially the following form:
+
+This is to certify, That . . . . . . the owner (or owners) in fee simple of the following described lands situated in the county of . . . . . ., state of Washington, the title to which has been heretofore registered under the laws of the state of Washington, to wit: (here insert description of the property), having heretofore filed his or her (or their) application for the withdrawal of the title to said lands from the registry system; NOW, THEREFORE, The title to said above described lands has been withdrawn from the effect and operation of the title registry system of the state of Washington and the owner (or owners) of said lands is (or are) by law authorized to contract concerning, convey, encumber, or otherwise deal with the title to said lands in the same manner and to the same extent as though said title had never been registered.Witness my hand and seal this . . . . day of . . . . . ., (year) . . . . . . . . Registrar of Titles for . . . . . . . . county.
+
+This is to certify, That . . . . . . the owner (or owners) in fee simple of the following described lands situated in the county of . . . . . ., state of Washington, the title to which has been heretofore registered under the laws of the state of Washington, to wit: (here insert description of the property), having heretofore filed his or her (or their) application for the withdrawal of the title to said lands from the registry system; NOW, THEREFORE, The title to said above described lands has been withdrawn from the effect and operation of the title registry system of the state of Washington and the owner (or owners) of said lands is (or are) by law authorized to contract concerning, convey, encumber, or otherwise deal with the title to said lands in the same manner and to the same extent as though said title had never been registered.
+
+Witness my hand and seal this . . . . day of . . . . . ., (year) . . . .
+
+ 
+
+. . . .
+
+ 
+
+Registrar of Titles for
+
+ 
+
+. . . . . . . . county.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2359-S.SL.pdf?cite=2016%20c%20202%20§%2045[2016 c 202 § 45]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20227[2012 c 117 § 227]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973c121.pdf?cite=1973%20c%20121%20§%201[1973 c 121 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1917c62.pdf?cite=1917%20c%2062%20§%204[1917 c 62 § 4]; RRS § 10660; ]
+
+== 65.12.240 - Effect of recording.
+The person receiving such certificate of withdrawal shall record the same in the record of deeds in the office of the county auditor of the county in which the lands are situated and thereafter the title to said lands shall be conveyed or encumbered in the same manner as the title to lands that have not been registered.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1917c62.pdf?cite=1917%20c%2062%20§%205[1917 c 62 § 5]; RRS § 10661; ]
+
+== 65.12.245 - Title prior to withdrawal unaffected.
+*This act shall not be construed to disturb the effect of any proceedings under said registry system, wherein the question of title to said real property has been determined, but all proceedings had in connection with the registering of said title, relating to the settlement or determination of said title, prior to such withdrawal, shall have the same force and effect as if said title still remained under said registry system.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1917c62.pdf?cite=1917%20c%2062%20§%206[1917 c 62 § 6]; RRS § 10662; ]
+
+== 65.12.250 - Entry of registration—Records.
+Immediately upon the filing of the decree of registration in the office of the registrar of titles, the registrar shall proceed to register the title or interest pursuant to the terms of the decree in the manner herein provided. The registrar shall keep a book known as the "Register of Titles", wherein he or she shall enter all first and subsequent original certificates of title by binding or recording them therein in the order of their numbers, consecutively, beginning with number one, with appropriate blanks for entry of memorials and notations allowed by this chapter. Each certificate, with such blanks, shall constitute a separate page of such book. All memorials and notations that may be entered upon the register shall be entered upon the page whereon the last certificate of title of the land to which they relate is entered. The term "certificate of title" used in this chapter shall be deemed to include all memorials and notations thereon.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20228[2012 c 117 § 228]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2034[1907 c 250 § 34]; RRS § 10663; ]
+
+== 65.12.255 - Certificate of title.
+The certificate of registration shall contain the name of the owner, a description of the land and of the estate of the owner, and shall by memorial or notation contain a description of all incumbrances, liens, and interests to which the estate of the owner is subject; it shall state the residence of the owner and, if a minor, give his or her age; if under disability, it shall state the nature of the disability; it shall state whether married or not, and, if married, the name of the husband or wife; in case of a trust, condition or limitation, it shall state the trust, condition, or limitation, as the case may be; and shall contain and conform in respect to all statements to the certified copy of the decree of registration filed with the registrar of titles as hereinbefore provided; and shall be in form substantially as follows:
+
+FIRST CERTIFICATE OF TITLEPursuant to order of the superior court of the state of Washington, in and for . . . . . . county.State of Washington,County of. . . .,ss.This is to certify that A. . . . . . B. . . . . . of . . . . . ., county of . . . . . ., state of . . . . . ., is now the owner of an estate (describe the estate) of, and in (describe the land), subject to the incumbrances, liens and interests noted by the memorial underwritten or indorsed thereon, subject to the exceptions and qualifications mentioned in the thirtieth section of "An Act relating to the registration and confirmation of titles to land," in the session laws of Washington for the year 1907 [RCW 65.12.195]. (Here note all statements provided herein to appear upon the certificate.)In witness whereof, I have hereunto set my hand and affixed the official seal of my office this . . . . day of . . . . . ., A.D. (year) . . . .(Seal)   . . . ., Registrar of Titles.
+
+FIRST CERTIFICATE OF TITLE
+
+Pursuant to order of the superior court of the state of Washington, in and for . . . . . . county.
+
+State of Washington,
+
+
+
+County of. . . .,
+
+
+
+
+
+
+
+
+
+
+
+ss.
+
+This is to certify that A. . . . . . B. . . . . . of . . . . . ., county of . . . . . ., state of . . . . . ., is now the owner of an estate (describe the estate) of, and in (describe the land), subject to the incumbrances, liens and interests noted by the memorial underwritten or indorsed thereon, subject to the exceptions and qualifications mentioned in the thirtieth section of "An Act relating to the registration and confirmation of titles to land," in the session laws of Washington for the year 1907 [RCW 65.12.195]. (Here note all statements provided herein to appear upon the certificate.)
+
+In witness whereof, I have hereunto set my hand and affixed the official seal of my office this . . . . day of . . . . . ., A.D. (year) . . . .
+
+(Seal)
+
+ 
+
+ 
+
+ 
+
+. . . .,
+
+ 
+
+Registrar of Titles.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2359-S.SL.pdf?cite=2016%20c%20202%20§%2046[2016 c 202 § 46]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20229[2012 c 117 § 229]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2035[1907 c 250 § 35]; RRS § 10664; ]
+
+== 65.12.260 - Owner's certificate—Receipt.
+The registrar shall, at the time that he or she enters his or her original certificate of title, make an exact duplicate thereof, but putting on it the words "Owner's duplicate certificate of ownership," and deliver the same to the owner or to his or her attorney duly authorized. For the purpose of preserving evidence of the signature and handwriting of the owner in his or her office, it shall be the duty of the registrar to take from the owner, in every case where it is practicable so to do, his or her receipt for the certificate of title which shall be signed by the owner in person. Such receipt, when signed and delivered in the registrar's office, shall be witnessed by the registrar or deputy registrar. If such receipt is signed elsewhere, it shall be witnessed and acknowledged in the same manner as is now provided for the acknowledgment of deeds. When so signed, such receipt shall be prima facie evidence of the genuineness of such signature.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20230[2012 c 117 § 230]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2036[1907 c 250 § 36]; RRS § 10665; ]
+
+== 65.12.265 - Tenants in common.
+Where two or more persons are registered owners as tenants in common or otherwise, one owner's duplicate certificate can be issued for the entirety, or a separate duplicate owner's certificate may be issued to each owner for his or her undivided share.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20231[2012 c 117 § 231]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2037[1907 c 250 § 37]; RRS § 10666; ]
+
+== 65.12.270 - Subsequent certificates.
+All certificates subsequent to the first shall be in like form, except that they shall be entitled: "Transfer from No. . . . .", (the number of the next previous certificate relating to the same land), and shall also contain the words "Originally registered on the . . . . day of . . . . . ., (year) . . . ., and entered in the book . . . . . . at page . . . . of register."
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2359-S.SL.pdf?cite=2016%20c%20202%20§%2047[2016 c 202 § 47]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2038[1907 c 250 § 38]; RRS § 10667; ]
+
+== 65.12.275 - Exchange of certificates—Platting land.
+A registered owner holding one duplicate certificate for several distinct parcels of land may surrender it and take out several certificates for portions thereof. A registered owner holding several duplicate certificates for several distinct parcels of land may surrender them and take out a single duplicate certificate for all of said parcels, or several certificates for different portions thereof. Such exchange of certificates, however, shall only be made by the order of the court upon petition therefor duly made by the owner. An owner of registered land who shall subdivide such land into lots, blocks or acre tracts shall file with the registrar of titles a plat of said land so subdivided, in the same manner and subject to the same rules of law and restrictions as is provided for platting land that is not registered.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2039[1907 c 250 § 39]; RRS § 10668; ]
+
+== 65.12.280 - Effective date of certificate.
+The certificate of title shall relate back to and take effect as of the date of the decree of registration.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2040[1907 c 250 § 40]; RRS § 10669; ]
+
+== 65.12.290 - Certificate of title as evidence.
+The original certificate in the registration book, any copy thereof duly certified under the signature of the registrar of titles or his or her deputy, and authenticated by his of [or] her seal and also the owner's duplicate certificate shall be received as evidence in all the courts of this state, and shall be conclusive as to all matters contained therein, except so far as is otherwise provided in this chapter. In case of a variance between the owner's duplicate certificate and the original certificate, the original shall prevail.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20232[2012 c 117 § 232]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2041[1907 c 250 § 41]; RRS § 10670; ]
+
+== 65.12.300 - Indexes and files—Forms.
+The registrar of titles, under the direction of the court, shall make and keep indexes of all duplication and of all certified copies and decrees of registration and certificates of titles, and shall also index and file in classified order all papers and instruments filed in his or her office relating to applications and to registered titles. The registrar shall also, under the direction of the court, prepare and keep forms of indexes and entry books. The court shall prepare and adopt convenient forms of certificates of titles, and also general forms of memorials or notations to be used by the registrars of titles in registering the common forms of conveyance and other instruments to express briefly their effect.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20233[2012 c 117 § 233]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2042[1907 c 250 § 42]; RRS § 10671; ]
+
+== 65.12.310 - Tract and alphabetical indexes.
+The registrar of titles shall keep tract indexes, in which shall be entered the lands registered in the numerical order of the townships, ranges, sections, and in cases of subdivisions, the blocks and lots therein, and the names of the owners, with a reference to the volume and page of the register of titles in which the lands are registered. He or she shall also keep alphabetical indexes, in which shall be entered, in alphabetical order, the names of all registered owners, and all other persons interested in, or holding charges upon, or any interest in, the registered land, with a reference to the volume and page of the register of titles in which the land is registered.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20234[2012 c 117 § 234]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2043[1907 c 250 § 43]; RRS § 10672; ]
+
+== 65.12.320 - Dealings with registered land.
+The owner of registered land may convey, mortgage, lease, charge, or otherwise incumber, dispose of, or deal with the same as fully as if it had not been registered. He or she may use forms of deeds, trust deeds, mortgages and leases or voluntary instruments, like those now in use, and sufficient in law for the purpose intended. But no voluntary instrument of conveyance, except a will and a lease, for a term not exceeding three years, purporting to convey or affect registered land, shall take effect as a conveyance, or bind the land; but shall operate only as a contract between the parties, and as evidence of the authority to the registrar of titles to make registration. The act of registration shall be the operative act to convey or affect the land.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20235[2012 c 117 § 235]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2044[1907 c 250 § 44]; RRS § 10673; ]
+
+== 65.12.330 - Registration has effect of recording.
+Every conveyance, lien, attachment, order, decree, judgment of a court of record, or instrument or entry which would, under existing law, if recorded, filed or entered in the office of the county clerk, and county auditor, of the county in which the real estate is situate, affect the said real estate to which it relates, if the title thereto were not registered, shall, if recorded, filed or entered in the office of the registrar of titles in the county where the real estate to which such instrument relates is situate, affect in like manner the title thereto if registered, and shall be notice to all persons from the time of such recording, filing or entering.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2045[1907 c 250 § 45]; RRS § 10674; ]
+
+== 65.12.340 - Filing—Numbering—Indexing—Public records.
+The registrar of titles shall number and note in a proper book to be kept for that purpose, the year, month, day, hour and minute of reception and number of all conveyances, orders or decrees, writs or other process, judgments, liens, or all other instruments, or papers or orders affecting the title of land, the title to which is registered. Every instrument so filed shall be retained in the office of the registrar of titles, and shall be regarded as registered from the time so noted, and the memorial of each instrument, when made on the certificate of title to which it refers, shall bear the same date. Every instrument so filed, whether voluntary or involuntary, shall be numbered and indexed, and indorsed with a reference to the proper certificate of title. All records and papers, relating to registered land, in the office of the registrar of titles shall be open to public inspection, in the same manner as are now the papers and records in the office of the county clerk and county auditor.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2046[1907 c 250 § 46]; RRS § 10675; ]
+
+== 65.12.350 - Duplicate of instruments certified—Fees.
+Duplicates of all instruments, voluntary or involuntary, filed and registered in the office of the registrar of titles, may be presented with the originals, and shall be attested and sealed by the registrar of titles, and indorsed with the file number and other memoranda on the originals, and may be taken away by the person presenting the same. Certified copies of all instruments filed and registered may be obtained from the registrar of titles, on the payment of a fee of the same amount as is now allowed the county clerk and county auditor, for a like certified copy.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2047[1907 c 250 § 47]; RRS § 10676; ]
+
+== 65.12.360 - New certificate—Register of less than fee—When form of memorial in doubt.
+No new certificate shall be entered or issued upon any transfer of registered land, which does not divest the title in fee simple of said land or some part thereof, from the owner or some one of the registered owners. All interest in the registered land, less than a freehold estate, shall be registered by filing with the registrar of titles, the instruments creating, transferring, or claiming such interest, and by a brief memorandum or memorial thereof, made by a registrar of titles upon the certificate of title, and signed by him or her. A similar memorandum, or memorial, shall also be made on the owner's duplicate.
+
+The cancellation or extinguishment of such interests shall be registered in the same manner. When any party in interest does not agree as to the proper memorial to be made upon the filing of any instrument, (voluntary or involuntary), presented for registration, or where the registrar of titles is in doubt as to the form of such memorial, the question shall be referred to the court for decision, either on the certificate of the registrar of titles, or upon the demand in writing of any party in interest.
+
+The registrar of titles shall bring before the court all the papers and evidence which may be necessary for the determination of the question by the court. The court, after notice to all parties in interest and a hearing, shall enter an order prescribing the form of the memorial, and the registrar of titles shall make registration in accordance therewith.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20236[2012 c 117 § 236]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2048[1907 c 250 § 48]; RRS § 10677; ]
+
+== 65.12.370 - Owner's certificate to be produced when new certificate issued.
+No new certificates of titles shall be entered, and no memorial shall be made upon any certificate of title, in pursuance of any deed, or other voluntary instrument, unless the owner's duplicate certificate is presented with such instrument, except in cases provided for in this chapter, or upon the order of the court for cause shown; and whenever such order is made a memorial therefor shall be entered, or a new certificate issued, as directed by said order. The production of the owner's duplicate certificate, whenever any voluntary instrument is presented for registration, shall be conclusive authority from the registered owner to the registrar of titles, to enter a new certificate, or to make a memorial of registration in accordance with such instrument; and a new certificate or memorial shall be binding upon the registered owner and upon all persons claiming under him or her in favor of every purchaser for value and in good faith.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20237[2012 c 117 § 237]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2049[1907 c 250 § 49]; RRS § 10678; ]
+
+== 65.12.375 - Owner's duplicate certificate.
+In the event that an owner's duplicate certificate of title shall be lost, mislaid or destroyed, the owner may make affidavit of the fact before any officer authorized to administer oaths, stating, with particularly, the facts relating to such loss, mislaying or destruction, and shall file the same in the office of the registrar of titles.
+
+Any party in interest may thereupon apply to the court, and the court shall, upon proofs of the facts set forth in the affidavits, enter an order directing the registrar of titles to make and issue a new owner's duplicate certificate, such new owner's duplicate certificate shall be printed or marked, "Certified copy of owner's duplicate certificate", and such certified copy shall stand in the place of and have like effect as the owner's duplicate certificate.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2050[1907 c 250 § 50]; RRS § 10679; ]
+
+== 65.12.380 - Conveyance of registered land.
+An owner of registered land, conveying the same, or any portion thereof, in fee, shall execute a deed of conveyance, which the grantor shall file with the registrar of titles in the county where the land lies. The owner's duplicate certificate shall be surrendered at the same time and shall be by the registrar marked "Canceled". The original certificate of title shall also be marked "Canceled". The registrar of titles shall thereupon entered in the register of titles, a new certificate of title to the grantee, and shall prepare and deliver to such grantee an owner's duplicate certificate. All incumbrances, claims, or interests adverse to the title of the registered owner shall be stated upon the new certificate or certificates, except insofar as they may be simultaneously released or discharged.
+
+When only a part of the land described in a certificate is transferred, or some estate or interest in the land is to remain in the transferor, a new certificate shall be issued to him or her, for the part, estate, or interest remaining in him or her.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20238[2012 c 117 § 238]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2051[1907 c 250 § 51]; RRS § 10680; ]
+
+== 65.12.390 - Certificate of tax payment.
+Before any deed, plat or other instrument affecting registered land shall be filed or registered in the office of the registrar of titles, the owner shall present a certificate from the county treasurer showing that all taxes then due thereon have been paid.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2052[1907 c 250 § 52]; RRS § 10681; ]
+
+== 65.12.400 - Registered land charged as other land.
+Registered land and ownership therein shall in all respects be subject to the same burdens and incidents which attach by law to unregistered land. Nothing contained in this chapter shall in any way be construed to relieve registered land, or the owners thereof, from any rights incident to the relation of husband and wife, or from liability to attachment of mesne process, or levy on execution, or from liability from any lien of any description established by law on land or the improvements thereon, or the interest of the owner in such land or improvements, or to change the laws of descent, or the rights of partition between cotenants, or the right to take the same by eminent domain, or to relieve such land from liability to be recovered by an assignee in insolvency or trustee in bankruptcy, under the provisions of law relating thereto; or to change or affect in any way, any other rights or liabilities, created by law, applicable to unregistered land, except as otherwise expressly provided in this chapter, or any amendments hereof.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2053[1907 c 250 § 53]; RRS § 10682; ]
+
+== 65.12.410 - Conveyances by attorney-in-fact.
+Any person may by attorney convey or otherwise deal with registered land, but the letters or power of attorney shall be acknowledged and filed with the registrar of titles, and registered. Any instrument revoking such letters, or power of attorney, shall be acknowledged in like manner.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2054[1907 c 250 § 54]; RRS § 10683; ]
+
+== 65.12.420 - Encumbrances by owner.
+The owner of registered land may mortgage or encumber the same, by executing a trust deed or other instrument, sufficient in law for that purpose, and such instrument may be assigned, extended, discharged, released, in whole or in part, or otherwise dealt with by the mortgagee, by any form of instrument sufficient in law for the purpose; but such trust deed or other instrument, and all instruments assigning, extending, discharging, releasing or otherwise dealing with the encumbrance, shall be registered, and shall take effect upon the title only from the time of registration.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2055[1907 c 250 § 55]; RRS § 10684; ]
+
+== 65.12.430 - Registration of mortgages.
+A trust deed shall be deemed to be a mortgage, and be subject to the same rules as a mortgage, excepting as to the manner of the foreclosure thereof. The registration of a mortgage shall be made in the following manner, to wit: The owner's duplicate certificate shall be presented to the registrar of titles with the mortgage deed or instrument to be registered, and the registrar shall enter upon the original certificate of title and also upon the owner's duplicate certificate, a memorial of the purport of the instrument registered, the time of filing, and the file number of the registered instrument. He or she shall also note upon the instrument registered, the time of filing, and a reference to the volume and page of the register of titles, wherein the same is registered. The registrar of titles shall also, at the request of the mortgagee, make out and deliver to him or her a duplicate certificate of title, like the owner's duplicate, except that the words, "Mortgagee's duplicate", shall be written or printed upon such certificate in large letters, diagonally across the face. A memorandum of the issuance of the mortgagee's duplicate shall be made upon the certificate of title.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20239[2012 c 117 § 239]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2056[1907 c 250 § 56]; RRS § 10685; ]
+
+== 65.12.435 - Dealings with mortgages.
+Whenever a mortgage upon which a mortgagee's duplicate has been issued is assigned, extended or otherwise dealt with, the mortgagee's duplicate shall be presented with the instrument assigning, extending, or otherwise dealing with the mortgage, and a memorial of the instrument shall be made upon the mortgagee's duplicate, and upon the original certificate of title. When the mortgage is discharged, or otherwise extinguished, the mortgagee's duplicate shall be surrendered and stamped, "Canceled". In case only a part of the charge or of the land is intended to be released, discharged, or surrendered, the entry shall be made by a memorial according in like manner as before provided for a release or discharge.
+
+The production of the mortgagee's duplicate certificate shall be conclusive authority to register the instrument therewith presented. A mortgage on registered land may be discharged in whole or in part by the mortgagee in person on the register of titles in the same manner as a mortgage on unregistered land may be discharged by an entry on the margin of the record thereof, in the auditor's office, and such discharge shall be attested by the registrar of titles.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2057[1907 c 250 § 57]; RRS § 10686; ]
+
+== 65.12.440 - Foreclosures on registered land.
+All charges upon registered land, or any estate or interest in the same, and any right thereunder, may be enforced as is now allowed by law, and all laws relating to the foreclosure of mortgages shall apply to mortgages upon registered land, or any estate or interest therein, except as herein otherwise provided, and except that a notice of the pendency of any suit or of any proceeding to enforce or foreclose the mortgage, or any charge, shall be filed in the office of the registrar of titles, and a memorial thereof entered on the register, at the time of, or prior to, the commencement of such suit, or the beginning of any such proceeding. A notice so filed and registered shall be notice to the registrar of titles and all persons dealing with the land or any part thereof. When a mortgagee's duplicate has been issued, such duplicate shall, at the time of the registering of the notice, be presented, and a memorial of such notice shall be entered upon the mortgagee's duplicate.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2058[1907 c 250 § 58]; RRS § 10687; ]
+
+== 65.12.445 - Registration of final decree—New certificate.
+In any action affecting registered land a judgment or final decree shall be entitled to registration on the presentation of a certified copy of the entry thereof from the clerk of the court where the action is pending to the registrar of titles. The registrar of titles shall enter a memorial thereof upon the original certificates of title, and upon the owner's duplicate, and also upon the mortgagee's and lessee's duplicate, if any there be outstanding. When the registered owner of such land is, by such judgment or decree, divested of his or her estate in fee to the land or any part thereof, the plaintiff or defendant shall be entitled to a new certificate of title for the land, or that part thereof, designated in the judgment or decree, and the registrar of titles shall enter such new certificate of title, and issue a new owner's duplicate, in such manner as is provided in the case of voluntary conveyance: PROVIDED, HOWEVER, That no such new certificate of title shall be entered, except upon the order of the superior court of the county in which the land is situated, and upon the filing in the office of the registrar of titles, an order of the court directing the entry of such new certificate.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20240[2012 c 117 § 240]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2059[1907 c 250 § 59]; RRS § 10688; ]
+
+== 65.12.450 - Title on foreclosure—Registration.
+Any person who has, by any action or proceeding to enforce or foreclose any mortgage, lien or charge upon registered land, become the owner in fee of the land, or any part thereof, shall be entitled to have his or her title registered, and the registrar of titles shall, upon application therefor, enter a new certificate of title for the land, or that part thereof, of which the applicant is the owner, and issue an owner's duplicate, in such manner as in the case of a voluntary conveyance of registered land: PROVIDED, HOWEVER, No such new certificate of title shall be entered, except after the time to redeem from such foreclosure has expired, and upon the filing in the office of the registrar of titles, an order of the superior court of the county directing the entry of such new certificates.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20241[2012 c 117 § 241]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2060[1907 c 250 § 60]; RRS § 10689; ]
+
+== 65.12.460 - Petition for new certificate.
+In all cases wherein, by this chapter, it is provided that a new certificate of title to registered land shall be entered by order of the court a person applying for such new certificate shall apply to the court by petition, setting forth the facts; and the court shall, after notice given to all parties in interest, as the court may direct, and upon hearing, make an order or decree for the entry of a new certificate to such person as shall appear to be entitled thereto.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2061[1907 c 250 § 61]; RRS § 10690; ]
+
+== 65.12.470 - Registration of leases.
+Leases for registered land, for a term of three years or more, shall be registered in like manner as a mortgage, and the provisions herein relating to the registration of mortgages, shall also apply to the registration of leases. The registrar shall, at the request of the lessee, make out and deliver to him or her a duplicate of the certificate of title like the owner's duplicate, except the words, "Lessee's duplicate," shall be written or printed upon it in large letters diagonally across its face.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20242[2012 c 117 § 242]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2062[1907 c 250 § 62]; RRS § 10691; ]
+
+== 65.12.480 - Instruments with conditions.
+Whenever a deed, or other instrument, is filed in the office of the registrar of titles, for the purpose of effecting a transfer of or charge upon the registered land, or any estate or interest in the same, and it shall appear that the transfer or charge is to be in trust or upon condition or limitation expressed in such deed or instrument, such deed or instrument shall be registered in the usual manner, except that the particulars of the trust, condition, limitation, or other equitable interest shall not be entered upon the certificate of title by memorial, but a memorandum or memorial shall be entered by the words, "in trust," or "upon condition," or other apt words, and by reference by number to the instrument authorizing or creating the same. A similar memorial shall be made upon the owner's duplicate certificate.
+
+No transfer of, or charge upon, or dealing with, the land, estate or interest therein, shall thereafter be registered, except upon an order of the court first filed in the office of the registrar of titles, directing such transfer, charge, or dealing, in accordance with the true intent and meaning of the trust, condition, or limitation. Such registration shall be conclusive evidence in favor of the person taking such transfer, charge, or right; and those claiming under him or her, in good faith, and for a valuable consideration, that such transfer, charge, or other dealing is in accordance with the true intent and meaning of the trust, condition, or limitation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20243[2012 c 117 § 243]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2063[1907 c 250 § 63]; RRS § 10692; ]
+
+== 65.12.490 - Transfers between trustees.
+When the title to registered land passes from a trustee to a new trustee, a new certificate shall be entered to him or her, and shall be registered in like manner as upon an original conveyance in trust.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20244[2012 c 117 § 244]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2064[1907 c 250 § 64]; RRS § 10693; ]
+
+== 65.12.500 - Trustee may register land.
+Any trustee shall have authority to file an application for the registration of any land held in trust by him or her, unless expressly prohibited by the instrument creating the trust.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20245[2012 c 117 § 245]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2065[1907 c 250 § 65]; RRS § 10694; ]
+
+== 65.12.510 - Creation of lien on registered land.
+In every case where writing of any description, or copy of any writ, order or decree is required by law to be filed or recorded in order to create or preserve any lien, right, or attachment upon unregistered land, such writing or copy, when intended to affect registered land, in lieu of recording, shall be filed and registered in the office of the registrar of titles, in the county in which the land lies, and, in addition to any particulars required in such papers, for the filing or recording, shall also contain a reference to the number of the certificate of title of the land to be affected, and also, if the attachment, right or lien is not claimed on all the land in any certificate of title, a description sufficiently accurate for the identification of the land intended to be affected.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2066[1907 c 250 § 66]; RRS § 10695; ]
+
+== 65.12.520 - Registration of liens.
+All attachments, liens and rights, of every description, shall be enforced, continued, reduced, discharged and dissolved, by any proceeding or method, sufficient and proper in law to enforce, continue, reduce, discharge or dissolve, like liens or unregistered land. All certificates, writing or other instruments, permitted or required by law, to be filed or recorded, to give effect to the enforcement, continuance, reduction, discharge or dissolution of attachments, liens or other rights upon registered land, or to give notice of such enforcement, continuance, reduction, discharge or dissolution, shall in the case of like attachments, liens or other rights upon registered land, be filed with the registrar of titles, and registered in the register of titles, in lieu of filing or recording.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2067[1907 c 250 § 67]; RRS § 10696; ]
+
+== 65.12.530 - Entry as to plaintiff's attorney.
+The name and address of the attorney for the plaintiff in every action affecting the title to registered land, shall, in all cases, be endorsed upon the writ or other writing filed in the office of the registrar of titles, and he or she shall be deemed the attorney of the plaintiff until written notice that he or she has ceased to be such plaintiff's attorney shall be filed for registration by the plaintiff.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20246[2012 c 117 § 246]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2068[1907 c 250 § 68]; RRS § 10697; ]
+
+== 65.12.540 - Decree.
+A judgment, decree, or order of any court shall be a lien upon, or affect registered land, or any estate or interest therein, only when a certificate under the hand and official seal of the clerk of the court in which the same is of record, stating the date and purport of the judgment, decree, or order, or a certified copy of such judgment, decree, or order, or transcript of the judgment docket, is filed in the office of the registrar, and a memorial of the same is entered upon the register of the last certificate of the title to be affected.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2069[1907 c 250 § 69]; RRS § 10698; ]
+
+== 65.12.550 - Title acquired on execution.
+Any person who has acquired any right, interest, or estate in registered land by virtue of any execution, judgment, order, or decree of the court, shall register his or her title so acquired, by filing in the office of the registrar of titles all writings or instruments permitted or required to be recorded in the case of unregistered land. If the interest or estate so acquired is the fee in the registered land, or any part thereof, the person acquiring such interest shall be entitled to have a new certificate of title, registered in him or her, in the same manner as is provided in the case of persons acquiring title by an action or proceeding in foreclosure of mortgages.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20247[2012 c 117 § 247]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2070[1907 c 250 § 70]; RRS § 10699; ]
+
+== 65.12.560 - Termination of proceedings.
+The certificate of the clerk of the court in which any action or proceeding shall be pending, or any judgment or decree is of record, that such action or proceeding has been dismissed or otherwise disposed of, or that the judgment, decree, or order has been satisfied, released, reversed, or overruled, or of any sheriff or any other officer that the levy of any execution, attachment, or other process, certified by him or her, has been released, discharged, or otherwise disposed of, being filed in the office of the registrar of titles and noted upon the register, shall be sufficient to authorize the registrar to cancel or otherwise treat the memorial of such action, proceeding, judgment, decree, order, or levy, according to the purport of such certificate.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20248[2012 c 117 § 248]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2071[1907 c 250 § 71]; RRS § 10700; ]
+
+== 65.12.570 - Land registered only after redemption period.
+Whenever registered land is sold, and the same is by law subject to redemption by the owner or any other person, the purchaser shall not be entitled to have a new certificate of title entered, until the time within which the land may be redeemed has expired. At any time after the time to redeem shall have expired, the purchaser may petition the court for an order directing the entry of a new certificate of title to him or her, and the court shall, after such notice as it may order, and hearing, grant and make an order directing the entry of such new certificate of title.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20249[2012 c 117 § 249]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2072[1907 c 250 § 72]; RRS § 10701; ]
+
+== 65.12.580 - Registration on inheritance.
+The heirs at law and devisees, upon the death of an owner of lands, and any estate or interest therein, registered pursuant to this chapter, on the expiration of thirty days after the entry of the decree of the superior court granting letters testamentary or of administration, or, in case of an appeal from such decree, at any time after the entry of a final decree, may file a certified copy of the final decree, of the superior court having jurisdiction, and of the will, if any, with the clerk of the superior court, in the county in which the land lies, and make application to the court for an order for the entry of a new certificate of title. The court shall issue notice to the executor or administrator and all other persons in interest, and may also give notice by publication in such newspaper or newspapers as it may deem proper, to all whom it may concern; and after hearing, may direct the entry of a new certificate or certificates to the person or persons who appear to be entitled thereto as heirs or devisees. Any new certificate so entered before the final settlement of the estate of the deceased owner, in the superior courts, shall state expressly that it is entered by transfer from the last certificate by descent or devise, and that the estate is in process of settlement. After the final settlement of the estate in the superior court, or after the expiration of the time allowed by law for bringing an action against an executor or administrator by creditors of the deceased, the heirs at law or devisees may petition the court for an order to cancel the memorial upon their certificates, stating that the estate is in the course of settlement, and the court, after such notice as it may order, and a hearing, may grant the petition: PROVIDED, HOWEVER, That the liability of registered land to be sold for claims against the estate of the deceased, shall not in any way be diminished or changed.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2073[1907 c 250 § 73]; RRS § 10702; ]
+
+== 65.12.590 - Probate court may direct sale of registered land.
+Nothing contained in this chapter shall include, affect, or impair the jurisdiction of the superior court to order an executor, administrator, or guardian to sell or mortgage registered land for any purpose for which such order may be granted in the case of unregistered land. The purchaser or mortgagee, taking a deed or mortgage executed in pursuance of such order of the superior court, shall be entitled to register his or her title, and to the entry of a new certificate of title or memorial of registration, upon application to the superior court, and upon filing in the office of the registrar of titles, an order of said court, directing the entry of such certificates.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20250[2012 c 117 § 250]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2074[1907 c 250 § 74]; RRS § 10703; ]
+
+== 65.12.600 - Trustees and receivers.
+An assignee for the benefit of creditors, receiver, trustee in bankruptcy, master in chancery, special commissioner, or other person appointed by the court, shall file in the office of the registrar of titles, the instrument or instruments by which he or she is vested with title, estate, or interest in any registered land, or a certified copy of an order of the court showing that such assignee, receiver, trustee in bankruptcy, master in chancery, special commissioner, or other person, is authorized to deal with such land, estate, or interest, and, if it is in the power of such person, he or she shall, at the same time, present to the registrar of titles, the owner's duplicate certificate of title; thereupon the registrar shall enter upon the register of titles, and the duplicate certificate, if presented, a memorial thereof, with a reference to such order or deed by its file number. Such memorial having been entered, the assignee, receiver, trustee in bankruptcy, master in chancery, special commissioner, or other person may, subject to the direction of the court, deal with or transfer such land as if he or she were a registered owner.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20251[2012 c 117 § 251]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2075[1907 c 250 § 75]; RRS § 10704; ]
+
+== 65.12.610 - Eminent domain—Reversion.
+Whenever registered land, or any right or interest therein, is taken by eminent domain, the state or body politic, or corporate or other authority exercising such right shall pay all fees on account of any memorial or registration or entry of new certificates, or duplicate thereof, and fees for the filing of instruments required by this chapter to be filed. When, for any reason, by operation of law, land which has been taken for public use reverts to the owner from whom it was taken, or his or her heirs or assigns, the court, upon petition of the person entitled to the benefit of the reversion, after such notice as it may order, and hearing, may order the entry of a new certificate of title to him or her.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20252[2012 c 117 § 252]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2076[1907 c 250 § 76]; RRS § 10705; ]
+
+== 65.12.620 - Registration when owner's certificate withheld.
+In every case where the registrar of titles enters a memorial upon a certificate of title, or enters a new certificate of title, in pursuance of any instrument executed by the registered owner, or by reason of any instrument or proceeding which affects or devises the title of the registered owner against his or her consent, if the outstanding owner's duplicate certificate is not presented, the registrar of titles shall not enter a new certificate or make a memorial, but the person claiming to be entitled thereto may apply by petition to the court. The court may order the registered owner, or any person withholding the duplicate certificate, to present or surrender the same, and direct the entry of a memorial or new certificate upon such presentation or surrender. If, in any case, the person withholding the duplicate certificate is not amenable to the process of the court, or cannot be found, or if, for any reason, the outstanding owner's duplicate certificate cannot be presented or surrendered without delay, the court may, by decree, annul the same, and order a new certificate of title to be entered. Such new certificate, and all duplicates thereof, shall contain a memorial of the annulment of the outstanding duplicate. If in any case of an outstanding mortgagee's or lessee's duplicate certificate shall be withheld or otherwise dealt with, like proceedings may be had to obtain registration as in case of the owner's withholding or refusing to deliver the duplicate receipt.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20253[2012 c 117 § 253]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2077[1907 c 250 § 77]; RRS § 10706; ]
+
+== 65.12.630 - Reference to examiner of title.
+In all cases where, under the provisions of this chapter, application is made to the court for an order or decree, the court may refer the matter to one of the examiners of title for hearing and report, in like manner, as is herein provided for the reference of the application for registration.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2078[1907 c 250 § 78]; RRS § 10707; ]
+
+== 65.12.635 - Examiner of titles.
+Examiners of titles shall, upon the request of the registrar of titles, advise him or her upon any act or duty pertaining to the conduct of his or her office, and shall, upon request, prepare the form of any memorial to be made or entered by the registrar of titles. The examiner of titles shall have full power to administer oaths and examine witnesses involved in his or her investigation of titles.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20254[2012 c 117 § 254]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2079[1907 c 250 § 79]; RRS § 10708; ]
+
+== 65.12.640 - Registered instruments to contain names and addresses—Service of notices.
+Every writing and instrument required or permitted by this chapter to be filed for registration, shall contain or have endorsed upon it, the full name, place of residence, and post office address of the grantee or other person requiring or claiming any right, title, or interest under such instrument. Any change in residence or post office address of such person shall be endorsed by the registrar of titles in the original instrument, on receiving a sworn statement of such change. All names and addresses shall also be entered on all certificates. All notices required by, or given in pursuance of the provisions of this chapter by the registrar of titles or by the court, after original registration, shall be served upon the person to be notified; if a resident of the state of Washington, as summons in civil actions are served; and proof of such service shall be made as on the return of a summons. All such notices shall be sent by mail, to the person to be notified, if not a resident of the state of Washington, and his or her residence and post office address, as stated in the certificate of title, or in any registered instrument under which he or she claims an interest. The certificate of the registrar of titles, or clerk of court, that any notice has been served, by mailing the same, as aforesaid, shall be conclusive proof of such notice: PROVIDED, HOWEVER, That the court may, in any case, order different or further service by publication or otherwise.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20255[2012 c 117 § 255]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2080[1907 c 250 § 80]; RRS § 10709; ]
+
+== 65.12.650 - Adverse claims—Procedure.
+Any person claiming any right or interest in registered land, adverse to the registered owner, arising subsequent to the date of the original registration, may, if no other provision is made in this chapter for registering the same, make a statement in writing, setting forth fully his or her alleged right or interest and how or under whom acquired, and a reference to the volume and page of the certificate of title of the registered owner, and a description of the land to which the right or interest is claimed. The statement shall be signed and sworn to, and shall state the adverse claimant's residence, and designate a place at which all notices may be served upon him or her. This statement shall be entitled to registration, as an adverse claim; and the court, upon the petition of any party in interest, shall grant a speedy hearing upon the question of the validity of such adverse claim, and shall enter such decree thereon as equity and justice may require.
+
+If the claim is adjudged to be invalid, its registration shall be canceled. The court may, in any case, award such costs and damages, including reasonable attorneys' fees, as it may deem just in the premises.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20256[2012 c 117 § 256]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2081[1907 c 250 § 81]; RRS § 10710; ]
+
+== 65.12.660 - Assurance fund.
+Upon the original registration of land under this chapter, and also upon the entry of the certificate showing title as registered owners in heirs or devisees, there shall be paid to the registrar of titles, one-fortieth of one percent of the assessed value of the real estate on the basis of the last assessment for general taxation, as an assurance fund.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c195.pdf?cite=1973%201st%20ex.s.%20c%20195%20§%2075[1973 1st ex.s. c 195 § 75]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2082[1907 c 250 § 82]; RRS § 10711; ]
+
+== 65.12.670 - Investment of fund.
+All sums of money received by the registrar as provided for in RCW 65.12.660, shall be forthwith paid by the registrar to the county treasurer of the county in which the land lies, for the purpose of an assurance fund, under the terms of this chapter; it shall be the duty of the county treasurer, whenever the amount on hand in said assurance fund is sufficient, to invest the same, principal and income, and report annually to the superior court of the same county the condition and income thereof; and no investment of the funds, or any part thereof, shall be made without the approval of said court, by order entered of record. Said fund shall be invested only in bonds or securities of the United States, or of one of the states of the United States, or of the counties or other municipalities of this state.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2083[1907 c 250 § 83]; RRS § 10712; ]
+
+== 65.12.680 - Recoveries from fund.
+Any person sustaining loss or damage, through any omission, mistake, or misfeasance of the registrar of titles, or of any examiner of titles, or of any deputy, or by the mistake or misfeasance of the clerk of the court, or any deputy, in the performance of their respective duties, under the provisions of this chapter, and any person wrongfully deprived of any land or any interest therein, through the bringing of the same, under the provisions of this chapter, or by the registration of any other person as the owner of such land, or by any mistake, omission, or misdescription in any certificate or entry, or memorial, in the register of titles, or by any cancellation, and who, by the provisions of this chapter, is barred or precluded from bringing any action for the recovery of such land, or interest therein, or claim thereon, may bring an action against the treasurer of the county in which such land is situated, for the recovery of damages to be paid out of the assurance fund.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2084[1907 c 250 § 84]; RRS § 10713; ]
+
+== 65.12.690 - Parties defendant—Judgment—Payment—Duties of county attorney.
+If such action be for recovery for loss or damage arising only through any omission, mistake, or misfeasance of the registrar of titles or his or her deputies, or of any examiner of titles, or any clerk of court or his or her deputy, in the performance of their respective duties, under the provisions of this chapter, then the county treasurer shall be the sole defendant to such action; but if such action be brought for loss or damage arising only through the fraud or wrongful act of some person or persons other than the registrar or his or her deputies, the examiners of title, the clerk of the court or his or her deputies, or arising jointly through the fraud or wrongful act of such other person or persons, and the omission, mistakes, or misfeasance of the registrar of titles or his or her deputies, the examiners of titles, the clerk of the court or his or her deputies, then such action shall be brought against both the county treasurer and such persons or persons aforesaid. In all such actions, where there are defendants other than the county treasurer, and damages shall have been recovered, no final judgment shall be entered against the county treasurer, until execution against the other defendants shall be returned unsatisfied in whole or in part, and the officer returning the execution shall certify that the amount still due upon the execution cannot be collected except by application to the indemnity assurance fund. Thereupon the court, being satisfied as to the truth of such return, shall order final judgment against the treasurer, for the amount of the execution and costs, or so much thereof as remains unpaid. The county treasurer shall, upon such order of the court and final judgment, pay the amount of such judgment out of the assurance fund. It shall be the duty of the county attorney to appear and defend all such actions. If the funds in the assurance funds at any time are insufficient to pay any judgment in full, the balance unpaid shall draw interest at the legal rate of interest, and be paid with such interest out of the first funds coming into said fund.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20257[2012 c 117 § 257]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2085[1907 c 250 § 85]; RRS § 10714; ]
+
+== 65.12.700 - When fund not liable—Maximum liability.
+The assurance fund shall not be liable in any action to pay for any loss, damage or deprivation occasioned by a breach of trust, whether expressed, implied, or constructive, by any registered owner who is a trustee, or by the improper exercise of any power of sale, in a mortgage or a trust deed. Final judgment shall not be entered against the county treasurer in any action against this chapter to recover from the assurance fund for more than a fair market value of the real estate at the time of the last payment to the assurance fund, on account of the same real estate.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2086[1907 c 250 § 86]; RRS § 10715; ]
+
+== 65.12.710 - Limitation of actions.
+No action or proceeding for compensation for or by reason of any deprivation, loss, or damage occasioned or sustained as provided in this chapter, shall be made, brought, or taken, except within the period of six years from the time when right to bring or take such action or proceeding first accrued; except that if, at any time, when such right of action first accrues, the person entitled to bring such action, or take such proceeding, is under the age of eighteen years, or insane, imprisoned, or absent from the United States in the service of the United States, or of this state, then such person, or anyone claiming from, by, or under him or her, may bring the action, or take the proceeding, at any time within two years after such disability is removed, notwithstanding the time before limited in that behalf has expired.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20258[2012 c 117 § 258]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c292.pdf?cite=1971%20ex.s.%20c%20292%20§%2049[1971 ex.s. c 292 § 49]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2087[1907 c 250 § 87]; RRS § 10716; ]
+
+== 65.12.720 - Proceeding to change records.
+No erasure, alteration, or amendment shall be made upon the register of titles after the entry of the certificate of title, or a memorial thereon, and the attestation of the same by the registrar of titles, except by order of the court. Any registered owner, or other person in interest, may at any time apply by petition to the court, on the ground that registered interests of any description, whether vested, contingent, expectant, or inchoate, have determined and ceased; or that new interests have arisen or been created, which do not appear upon the certificate; or that an error, omission, or mistake was made in entering the certificate; or any memorial thereon, or any duplicate certificate; or that the name of any person on the certificate has been changed; or that the registered owner has been married, or if registered, has married, that the marriage has been terminated, or that a corporation which owned registered land has been dissolved, and has not conveyed the same within three years after its dissolution; or upon any other reasonable ground; and the court shall have jurisdiction to hear and determine the petition after such notice as it may order, to all parties in interest, and may order the entry of a new certificate, the entry or cancellation of a memorial upon a certificate, or grant any other relief upon such terms and conditions, requiring security if necessary, as it may deem proper: PROVIDED, HOWEVER, That this section shall not be construed to give the court authority to open the original decree of registration, and that nothing shall be done or ordered by the court which shall impair the title or other interest of the purchaser, holding a certificate for value and in good faith, or his or her heirs or assigns, without his or her or their written consent.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20259[2012 c 117 § 259]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2088[1907 c 250 § 88]; RRS § 10717; ]
+
+== 65.12.730 - Certificate subject of theft—Penalty.
+Certificates of title or duplicate certificates entered under this chapter, shall be subjects of theft, and anyone unlawfully stealing or carrying away any such certificate, shall, upon conviction thereof, be deemed guilty of theft under chapter 9A.56 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%20291[2003 c 53 § 291]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2089[1907 c 250 § 89]; RRS § 10718; ]
+
+== 65.12.740 - Perjury.
+Whoever knowingly swears falsely to any statement required by this chapter to be made under oath is guilty of perjury under chapter 9A.72 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%20292[2003 c 53 § 292]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2090[1907 c 250 § 90]; RRS § 10719; ]
+
+== 65.12.750 - Fraud—False entries—Penalty.
+Whoever fraudulently procures, or assists fraudulently procuring, or is privy to the fraudulent procurement of any certificate of title, or other instrument, or of any entry in the register of titles, or other book kept in the registrar's office, or of any erasure or alteration in any entry in any such book, or in any instrument authorized by this chapter, or knowingly defrauds or is privy to defrauding any person by means of a false or fraudulent instrument, certificate, statement, or affidavit affecting registered land, shall be guilty of a class C felony, and upon conviction, shall be fined in any sum not exceeding five thousand dollars, or imprisoned in a state correctional facility for not more than five years, or both such fine and imprisonment, in the discretion of the court.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%20293[2003 c 53 § 293]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2091[1907 c 250 § 91]; RRS § 10720; ]
+
+== 65.12.760 - Forgery—Penalty.
+Whoever forges or procures to be forged, or assists in forging, the seal of the registrar, or the name, signature, or handwriting of any officer of the registry office, in case where such officer is expressly or impliedly authorized to affix his or her signature; or forges or procures to be forged, or assists in forging, the name, signature, or handwriting of any person whomsoever, to any instrument which is expressedly or impliedly authorized to be signed by such person; or uses any document upon which any impression or part of the impression of any seal of the registrar has been forged, knowing the same to have been forged, or any document, the signature to which has been forged, shall be guilty of a class B felony, and upon conviction shall be imprisoned in a state correctional facility for not more than ten years, or fined not more than one thousand dollars, or both fined and imprisoned, in the discretion of the court.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%20294[2003 c 53 § 294]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2092[1907 c 250 § 92]; RRS § 10721; ]
+
+== 65.12.770 - Civil actions unaffected.
+No proceeding or conviction for any act hereby declared to be a felony , shall affect any remedy which any person aggrieved or injured by such act may be entitled to at law, or in equity, against the person who has committed such act, or against his or her estate.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20260[2012 c 117 § 260]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2093[1907 c 250 § 93]; RRS § 10722; ]
+
+== 65.12.780 - Fees of clerk.
+On the filing of any application for registration, the applicant shall pay to the clerk of the court filing fees as set in RCW 36.18.016. When any number of defendants enter their appearance at the same time, before default, but one fee shall be paid. Every publication in a newspaper required by this chapter shall be paid for by the party on whose application the order of publication is made, in addition to the fees above prescribed. The party at whose request any notice is issued, shall pay for the service of the same, except when sent by mail by the clerk of court, or the registrar of titles.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1692-S.SL.pdf?cite=1995%20c%20292%20§%2019[1995 c 292 § 19]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2094[1907 c 250 § 94]; RRS § 10723; ]
+
+== 65.12.790 - Fees of registrar.
+The fees to be paid to the registrar of titles shall be as follows:
+
+. At or before the time of filing of the certified copy of the application with the registrar, the applicant shall pay, to the registrar, on all land having an assessed value, exclusive of improvements, of one thousand dollars or less, thirty-one and one-quarter cents on each one thousand dollars, or major fraction thereof, of the assessed value of said land, additional.
+
+. For granting certificates of title, upon each applicant, and registering the same, two dollars.
+
+. For registering each transfer, including the filing of all instruments connected therewith, and the issuance and registration of the instruments connected therewith, and the issuance and registration of the new certificate of title, ten dollars.
+
+. When the land transferred is held upon any trust, condition, or limitation, an additional fee of three dollars.
+
+. For entry of each memorial on the register, including the filing of all instruments and papers connected therewith, and endorsements upon duplicate certificates, three dollars.
+
+. For issuing each additional owner's duplicate certificate, mortgagee's duplicate certificate, or lessee's duplicate certificate, three dollars.
+
+. For filing copy of will, with letters testamentary, or filing copy of letters of administration, and entering memorial thereof, two dollars and fifty cents.
+
+. For the cancellation of each memorial, or charge, one dollar.
+
+. For each certificate showing the condition of the register, one dollar.
+
+. For any certified copy of any instrument or writing on file in his or her office, the same fees now allowed by law to county clerks and county auditors for like service.
+
+. For any other service required, or necessary to carry out this chapter, and not hereinbefore itemized, such fee or fees as the court shall determine and establish.
+
+. For registration of each mortgage and issuance of duplicate of title a fee of five dollars; for each deed of trust and issuance of duplicate of title a fee of eight dollars.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20261[2012 c 117 § 261]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c195.pdf?cite=1973%201st%20ex.s.%20c%20195%20§%2076[1973 1st ex.s. c 195 § 76]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973c121.pdf?cite=1973%20c%20121%20§%202[1973 c 121 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2095[1907 c 250 § 95]; RRS § 10724; ]
+
+== 65.12.800 - Disposition of fees.
+One-half of all fees provided for in RCW 65.12.790(1) , shall be collected by the registrar, and paid to the county treasurer of the county in which the fees are paid, to be used for the current expenses of the county; and all the remaining fees provided for in said section, and all the subdivisions thereof, shall be collected by the registrar, and applied the same as the other fees of his or her office; but his or her salary as county clerk or county auditor, as now provided by law, shall not be increased on account of the additional duties, or by reason of the allowance of additional fees provided for herein; and the said registrar, as such, shall receive no salary.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20262[2012 c 117 § 262]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c250.pdf?cite=1907%20c%20250%20§%2096[1907 c 250 § 96]; RRS § 10725; ]
+
+== 65.12.900 - Construction—Chapter applicable to state registered domestic partnerships—2009 c 521.
+For the purposes of this chapter, the terms spouse, marriage, marital, husband, wife, widow, widower, next of kin, and family shall be interpreted as applying equally to state registered domestic partnerships or individuals in state registered domestic partnerships as well as to marital relationships and married persons, and references to dissolution of marriage shall apply equally to state registered domestic partnerships that have been terminated, dissolved, or invalidated, to the extent that such interpretation does not conflict with federal law. Where necessary to implement chapter 521, Laws of 2009, gender-specific terms such as husband and wife used in any statute, rule, or other law shall be construed to be gender neutral, and applicable to individuals in state registered domestic partnerships.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5688-S2.SL.pdf?cite=2009%20c%20521%20§%20144[2009 c 521 § 144]; ]
+

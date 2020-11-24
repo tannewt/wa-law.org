@@ -1,0 +1,10 @@
+= 12 DISTRICT COURTS—CIVIL PROCEDURE
+
+* link:12.04_commencement_of_actions.adoc[12.04 - Commencement of actions.]
+* link:12.08_pleadings.adoc[12.08 - Pleadings.]
+* link:12.12_trial.adoc[12.12 - Trial.]
+* link:12.16_witnesses_and_depositions.adoc[12.16 - Witnesses and depositions.]
+* link:12.20_judgments.adoc[12.20 - Judgments.]
+* link:12.28_replevin.adoc[12.28 - Replevin.]
+* link:12.36_small_claims_appeals.adoc[12.36 - Small claims appeals.]
+* link:12.40_small_claims.adoc[12.40 - Small claims.]

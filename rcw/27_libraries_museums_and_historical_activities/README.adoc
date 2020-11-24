@@ -1,0 +1,13 @@
+= 27 LIBRARIES, MUSEUMS, AND HISTORICAL ACTIVITIES
+
+* link:27.04_state_library.adoc[27.04 - State library.]
+* link:27.12_public_libraries.adoc[27.12 - Public libraries.]
+* link:27.15_library_capital_facility_areas.adoc[27.15 - Library capital facility areas.]
+* link:27.18_interstate_library_compact.adoc[27.18 - Interstate library compact.]
+* link:27.20_state_law_library.adoc[27.20 - State law library.]
+* link:27.24_county_law_libraries.adoc[27.24 - County law libraries.]
+* link:27.34_state_historical_societies—historic_preservation.adoc[27.34 - State historical societies—Historic preservation.]
+* link:27.40_thomas_burke_memorial_washington_state_museum_of_university_of_washington.adoc[27.40 - Thomas Burke Memorial Washington State Museum of University of Washington.]
+* link:27.44_indian_graves_and_records.adoc[27.44 - Indian graves and records.]
+* link:27.48_preservation_of_historical_materials.adoc[27.48 - Preservation of historical materials.]
+* link:27.53_archaeological_sites_and_resources.adoc[27.53 - Archaeological sites and resources.]

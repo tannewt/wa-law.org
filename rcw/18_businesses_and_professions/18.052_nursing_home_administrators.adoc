@@ -1,0 +1,118 @@
+= 18.52 - Nursing home administrators.
+:toc:
+
+== 18.52.010 - Short title—Intent.
+This chapter shall be known as the "Nursing Home Administrator Licensing Act" and is intended to establish and provide for the enforcement of standards for the licensing of nursing home administrators. The legislature finds that the quality of patient care in nursing homes is directly related to the competence of the nursing home administrators. It is the intent of this chapter that licensed nursing home administrators continually maintain (1) the suitable character required and (2) the capacity to consider the available resources and personnel of the facility subject to their authority and come to reasonable decisions implementing patient care.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c243.pdf?cite=1977%20ex.s.%20c%20243%20§%201[1977 ex.s. c 243 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1970ex1c57.pdf?cite=1970%20ex.s.%20c%2057%20§%201[1970 ex.s. c 57 § 1]; ]
+
+== 18.52.020 - Definitions.
+When used in this chapter, unless the context otherwise clearly requires:
+
+. "Board" means the state board of nursing home administrators representative of the professions and institutions concerned with the care of the chronically ill and infirm aged patients.
+
+. "Secretary" means the secretary of health or the secretary's designee.
+
+. "Nursing home" means any facility or portion thereof licensed under state law as a nursing home.
+
+. "Nursing home administrator" means an individual qualified by education, experience, training, and examination to administer a nursing home. A nursing home administrator administering a nursing home must be in active administrative charge as defined by the board. Nothing in this definition or this chapter shall be construed to prevent any person, so long as he or she is otherwise qualified, from obtaining and maintaining a license even though he or she has not administered or does not continue to administer a nursing home.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1258-S.SL.pdf?cite=1992%20c%2053%20§%201[1992 c 53 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%20116[1991 c 3 § 116]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c158.pdf?cite=1979%20c%20158%20§%2044[1979 c 158 § 44]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1970ex1c57.pdf?cite=1970%20ex.s.%20c%2057%20§%202[1970 ex.s. c 57 § 2]; ]
+
+== 18.52.025 - Authority of secretary of health.
+In addition to any other authority provided by law, the secretary shall have the following authority:
+
+. To set all fees required in this chapter in accordance with RCW 43.70.250 which may include fees for approval of continuing competency, supervision of practical experience, all applications, verification, renewal, examination, and late penalties;
+
+. To establish forms necessary to administer this chapter;
+
+. To issue a license to any applicant who has met the education, training, and examination requirements for licensure and deny a license to applicants who do not meet the minimum qualifications for licensure, except that proceedings concerning the denial of licenses based on unprofessional conduct or impaired practice shall be governed by the uniform disciplinary act, chapter 18.130 RCW;
+
+. To employ clerical, administrative, and investigative staff as needed to implement and administer this chapter and to employ individuals including those licensed under this chapter to serve as examiners or consultants as necessary to implement and administer this chapter; and
+
+. To maintain the official department record of all applicants and licensees.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1258-S.SL.pdf?cite=1992%20c%2053%20§%202[1992 c 53 § 2]; ]
+
+== 18.52.030 - Management and supervision of nursing homes by licensed administrators required.
+Nursing homes operating within this state shall be under the active, overall administrative charge and supervision of an on-site full-time administrator licensed as provided in this chapter. No person acting in any capacity, unless the holder of a nursing home administrator's license issued under this chapter, shall be charged with the overall responsibility to make decisions or direct actions involved in managing the internal operation of a nursing home, except as specifically delegated in writing by the administrator to identify a responsible person to act on the administrator's behalf when the administrator is absent. The administrator shall review the decisions upon the administrator's return and amend the decisions if necessary. The board shall define by rule the parameters for on-site full-time administrators in nursing homes with small resident populations, nursing homes in rural areas, nursing homes with small resident populations when the nursing home has converted some of its licensed nursing facility bed capacity for use as assisted living or enhanced assisted living services under chapter 74.39A RCW, or separately licensed facilities collocated on the same campus.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5708-S.SL.pdf?cite=2011%20c%20366%20§%205[2011 c 366 § 5]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2452.SL.pdf?cite=2000%20c%2093%20§%206[2000 c 93 § 6]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1258-S.SL.pdf?cite=1992%20c%2053%20§%203[1992 c 53 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1970ex1c57.pdf?cite=1970%20ex.s.%20c%2057%20§%203[1970 ex.s. c 57 § 3]; ]
+
+== 18.52.040 - Board of nursing home administrators—Created—Membership.
+The state board of nursing home administrators shall consist of nine members appointed by the governor. Four members shall be persons licensed under this chapter who have at least four years actual experience in the administration of a licensed nursing home in this state immediately preceding appointment to the board and who are not employed by the state or federal government.
+
+Four members shall be representatives of the health care professions providing medical or nursing services in nursing homes who are privately or self-employed; or shall be persons employed by educational institutions who have special knowledge or expertise in the field of health care administration, health care education or long-term care or both, or care of the aged and chronically ill.
+
+One member shall be a resident of a nursing home or a family member of a resident or a person eligible for medicare. No member who is a nonadministrator representative shall have any direct or family financial interest in nursing homes while serving as a member of the board. The governor shall consult with and seek the recommendations of the appropriate statewide business and professional organizations and societies primarily concerned with long term health care facilities in the course of considering his or her appointments to the board. Board members currently serving shall continue to serve until the expiration of their appointments.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20488[2011 c 336 § 488]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1258-S.SL.pdf?cite=1992%20c%2053%20§%204[1992 c 53 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c97.pdf?cite=1975%201st%20ex.s.%20c%2097%20§%201[1975 1st ex.s. c 97 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1970ex1c57.pdf?cite=1970%20ex.s.%20c%2057%20§%204[1970 ex.s. c 57 § 4]; ]
+
+== 18.52.050 - Board—Generally.
+Members of the board shall be citizens of the United States and residents of this state. All administrator members of the board shall be holders of licenses under this chapter. The terms of all members shall be five years. Any board member may be removed for just cause including a finding of fact of unprofessional conduct or impaired practice. The governor may appoint a new member to fill any vacancy on the board for the remainder of the unexpired term. No board member may serve more than two consecutive terms, whether full or partial. Board members shall serve until their successors are appointed. Board members shall be compensated in accordance with RCW 43.03.240 and shall be reimbursed for travel expenses as provided in RCW 43.03.050 and 43.03.060. The board may elect annually a chair and vice chair to direct the meetings of the board. The board shall meet at least four times each year and may hold additional meetings as called by the secretary or the chair.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1258-S.SL.pdf?cite=1992%20c%2053%20§%205[1992 c 53 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1970ex1c57.pdf?cite=1970%20ex.s.%20c%2057%20§%205[1970 ex.s. c 57 § 5]; ]
+
+== 18.52.061 - Board—Authority.
+In addition to any authority provided by law, the board shall have the following authority:
+
+. To adopt rules in accordance with chapter 34.05 RCW necessary to implement this chapter;
+
+. To prepare and administer or approve the preparation and administration of examinations for licensure;
+
+. To conduct a hearing on an appeal of a denial of license based on the applicant's failure to meet the minimum qualifications for licensure. The hearing shall be conducted pursuant to chapter 34.05 RCW;
+
+. To establish by rule the procedures for an appeal of an examination failure;
+
+. To adopt rules implementing a continuing competency program;
+
+. To issue subpoenas, statements of charges, statements of intent to deny licenses, and orders, and to delegate in writing to a designee to issue subpoenas; and
+
+. To issue temporary license permits under circumstances defined by the board.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1258-S.SL.pdf?cite=1992%20c%2053%20§%206[1992 c 53 § 6]; ]
+
+== 18.52.066 - Application of uniform disciplinary act.
+The uniform disciplinary act, chapter 18.130 RCW, governs unlicensed practice, the issuance and denial of licenses, and the discipline of licensees under this chapter.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c150.pdf?cite=1987%20c%20150%20§%2032[1987 c 150 § 32]; ]
+
+== 18.52.071 - Qualifications of licensees.
+The department shall issue a license to any person applying for a nursing home administrator's license who meets the following requirements:
+
+. Successful completion of the requirements for a baccalaureate degree from a recognized institution of higher learning and any federal requirements;
+
+. Successful completion of a practical experience requirement as determined by the board;
+
+. Successful completion of examinations administered or approved by the board, or both, which shall be designed to test the candidate's competence to administer a nursing home;
+
+. At least twenty-one years of age; and
+
+. Not having engaged in unprofessional conduct as defined in RCW 18.130.180 or being unable to practice with reasonable skill and safety as defined in RCW 18.130.170. The board shall establish by rule what constitutes adequate proof of meeting the above requirements.
+
+A limited license indicating the limited extent of authority to administer institutions conducted by and for those who rely upon treatment by prayer or spiritual means in accordance with the creed or tenets of any well-recognized church or religious denomination shall be issued to individuals demonstrating membership in such church or denomination. However, nothing in this chapter shall be construed to require an applicant employed by such institution to demonstrate proficiency in any medical techniques or to meet any medical educational qualifications or medical standards not in accord with the remedial care and treatment provided in such institutions.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2849.SL.pdf?cite=1996%20c%20271%20§%201[1996 c 271 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1258-S.SL.pdf?cite=1992%20c%2053%20§%207[1992 c 53 § 7]; ]
+
+== 18.52.110 - License renewal.
+. Every holder of a nursing home administrator's license shall renew that license by fulfilling the continuing competency requirement and by complying with administrative procedures, administrative requirements, and fees as determined according to RCW 43.70.250 and 43.70.280. The board may prescribe rules for maintenance of a license for temporary or permanent withdrawal or retirement from the active practice of nursing home administration.
+
+. A condition of renewal shall be the presentation of proof by the applicant that the board requirement for continuing competency related to the administration of nursing homes has been met.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2151-S.SL.pdf?cite=1996%20c%20191%20§%2026[1996 c 191 § 26]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1258-S.SL.pdf?cite=1992%20c%2053%20§%208[1992 c 53 § 8]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%20120[1991 c 3 § 120]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c279.pdf?cite=1984%20c%20279%20§%2069[1984 c 279 § 69]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c30.pdf?cite=1975%201st%20ex.s.%20c%2030%20§%2054[1975 1st ex.s. c 30 § 54]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c266.pdf?cite=1971%20ex.s.%20c%20266%20§%209[1971 ex.s. c 266 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1970ex1c57.pdf?cite=1970%20ex.s.%20c%2057%20§%2011[1970 ex.s. c 57 § 11]; ]
+
+== 18.52.130 - Recognition of out-of-state licensees.
+The secretary may issue a nursing home administrator's license to anyone who holds a current administrator's license from another jurisdiction upon receipt of an application and complying with administrative procedures, administrative requirements, and fees determined according to RCW 43.70.250 and 43.70.280, if the standards for licensing in such other jurisdiction are substantially equivalent to those prevailing in this state, and that the applicant is otherwise qualified as determined by the board.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2151-S.SL.pdf?cite=1996%20c%20191%20§%2027[1996 c 191 § 27]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1258-S.SL.pdf?cite=1992%20c%2053%20§%209[1992 c 53 § 9]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%20121[1991 c 3 § 121]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c7.pdf?cite=1985%20c%207%20§%2050[1985 c 7 § 50]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c30.pdf?cite=1975%201st%20ex.s.%20c%2030%20§%2055[1975 1st ex.s. c 30 § 55]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1970ex1c57.pdf?cite=1970%20ex.s.%20c%2057%20§%2013[1970 ex.s. c 57 § 13]; ]
+
+== 18.52.140 - Penalty for unlicensed acts.
+It shall be unlawful and constitute a gross misdemeanor for any person to act or serve in the capacity of a nursing home administrator unless he or she is the holder of a nursing home administrator's license issued in accordance with the provisions of this chapter: PROVIDED HOWEVER, That persons carrying out functions and duties delegated by a licensed administrator as defined in RCW 18.52.030 shall not be construed to be committing any unlawful act under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1258-S.SL.pdf?cite=1992%20c%2053%20§%2010[1992 c 53 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1970ex1c57.pdf?cite=1970%20ex.s.%20c%2057%20§%2014[1970 ex.s. c 57 § 14]; ]
+
+== 18.52.160 - Examinations—Times and places—Meetings of board.
+The board shall meet as often as may be necessary to carry out the duties of the board under this chapter. Examinations shall be administered at intervals not less than semiannually and at such times and places as may be determined by the board. There shall not be a limit upon the number of times a candidate may take the required examination.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c279.pdf?cite=1984%20c%20279%20§%2071[1984 c 279 § 71]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1970ex1c57.pdf?cite=1970%20ex.s.%20c%2057%20§%2017[1970 ex.s. c 57 § 17]; ]
+

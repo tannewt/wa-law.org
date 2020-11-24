@@ -1,0 +1,95 @@
+= 36.105 - Community councils for unincorporated areas of island counties.
+:toc:
+
+== 36.105.010 - Purpose.
+Voters of the unincorporated areas of the state are authorized to establish community councils as provided in this chapter.
+
+It is the purpose of this chapter to provide voters of unincorporated areas in counties with a population of over thirty thousand that are made up entirely of islands with direct input on the planning and zoning of their community by establishing a governmental mechanism to adopt proposed community comprehensive plans and proposed community zoning ordinances that are consistent with an overall guide and framework adopted by the county legislative authority. In addition, it is the purpose of this chapter to have community councils serve as forums for the discussion of local issues.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1201-S.SL.pdf?cite=1991%20c%20363%20§%2099[1991 c 363 § 99]; ]
+
+== 36.105.020 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Community" means a portion of the unincorporated area for which a community council has been established and which is located in a county with a population of over thirty thousand that is made up entirely of islands.
+
+. "Community comprehensive plan" means a comprehensive plan adopted by a community council.
+
+. "Community council" means the governing body established under this chapter to adopt community comprehensive plans and community zoning ordinances for a community.
+
+. "Community zoning ordinances" means the zoning ordinances adopted by a community council to implement a community comprehensive plan.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1201-S.SL.pdf?cite=1991%20c%20363%20§%20100[1991 c 363 § 100]; ]
+
+== 36.105.030 - Minimum requirements.
+A community for which a community council is created may include only unincorporated territory located in a single county with a population of over thirty thousand that is made up entirely of islands and not included within a city or town. A community council must have at least one thousand persons residing within the community when the community council is created or, where the community only includes an entire island, at least three hundred persons must reside on the island when the community council is created. Any portion of such a community that is annexed by a city or town, or is incorporated as a city or town, shall be removed from the community upon the effective date of the annexation or the official date of the incorporation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1201-S.SL.pdf?cite=1991%20c%20363%20§%20101[1991 c 363 § 101]; ]
+
+== 36.105.040 - Creation.
+. The process to create a community council shall be initiated by the filing of petitions with the county auditor of the county in which the community is located which: (a) Call for the creation of a community council; (b) set forth the boundaries for the community; (c) indicate the number of community councilmembers, which shall be five, seven, nine, or eleven; and (d) contain signatures of voters residing within the community equal in number to at least ten percent of the voters residing in the community who voted at the last state general election. The county auditor shall determine if the petitions contain a sufficient number of valid signatures and certify the sufficiency of the petitions within fifteen days of when the petitions were filed. If the petitions are certified as having sufficient valid signatures, the county auditor shall transmit the petitions and certificate to the county legislative authority.
+
+. The county legislative authority shall hold a public hearing within the community on the creation of the proposed community council no later than sixty days after the petitions and certificate of sufficiency were transmitted to the county legislative authority. Notice of the public hearing shall be published in a newspaper of general circulation in the community for at least once a week for two consecutive weeks, with the last date of publication no more than ten days prior to the date of the public hearing. At least ten days before the public hearing, additional notice shall be posted conspicuously in at least five places within the proposed community in a manner designed to attract public attention.
+
+. After receiving testimony on the creation of the proposed community council, the county legislative authority may alter the boundaries of the community, but the boundaries may not be altered to reduce the number of persons living within the community by more than ten percent or below the minimum number of residents who must reside within the community at the time of the creation of the community council. If territory is added to the community, another public hearing on the proposal shall be held.
+
+. The county legislative authority shall call a special election within the community to determine whether the proposed community council shall be created, and to elect the initial community councilmembers, at the next state general election occurring seventy-five or more days after the initial public hearing on the creation of the proposed community council. The community council shall be created if the ballot proposition authorizing the creation of the community is approved by a simple majority vote of the voters voting on the proposition.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1201-S.SL.pdf?cite=1991%20c%20363%20§%20102[1991 c 363 § 102]; ]
+
+== 36.105.050 - Election of initial community councilmembers.
+The initial members of the community council shall be elected at the same election as the ballot proposition is submitted authorizing the creation of the community council. However, the election of the initial community councilmembers shall be null and void if the ballot proposition authorizing the creation of the community council is not approved.
+
+No primary election shall be held to nominate candidates for initial council positions. The initial community council shall consist of the candidate for each council position who receives the greatest number of votes for that council position. Staggering of terms of office shall be accomplished by having the majority of the winning candidates who receive the greatest number of votes being elected to four-year terms of office, and the remaining winning candidates being elected to two-year terms of office, if the election was held in an even-numbered year, or the majority of the winning candidates who receive the greatest number of votes being elected to three-year terms of office, and the remaining winning candidates being elected to one-year terms of office, if the election was held in an odd-numbered year, with the term computed from the first day of January in the year following the election. Initial councilmembers shall take office immediately when qualified in accordance with RCW 29A.04.133.
+
+However, where the county operates under a charter providing for the election of members of the county legislative authority in odd-numbered years, the terms of office of the initial councilmembers shall be four years and two years, if the election of the initial councilmembers was held on an odd-numbered year, or three years and one year, if the election of the initial councilmembers was held on an even-numbered year.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1806-S.SL.pdf?cite=2015%20c%2053%20§%2068[2015 c 53 § 68]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1201-S.SL.pdf?cite=1991%20c%20363%20§%20103[1991 c 363 § 103]; ]
+
+== 36.105.060 - Community councilmembers—Election—Terms.
+Community councilmembers shall be elected to staggered four-year terms until their successors are elected and qualified. Each council position shall be numbered separately. Candidates shall run for specific council positions. The number of council positions shall be five, seven, nine, or eleven, as specified in the petition calling for the creation of the community council.
+
+Community councilmembers shall be nominated and elected at nonpartisan elections pursuant to general election laws, except the elections shall be held in even-numbered years, unless the county operates under a charter and members of the county legislative authority are elected in odd-numbered years, in which case, community councilmembers shall be elected in odd-numbered years.
+
+The provisions of this section apply to the election and terms of office of the initial community councilmembers, except as provided in RCW 36.105.050.
+
+A councilmember shall lose his or her council position if his or her primary residence no longer is located within the community. Vacancies on a community council shall be filled by action of the remaining councilmembers.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1201-S.SL.pdf?cite=1991%20c%20363%20§%20104[1991 c 363 § 104]; ]
+
+== 36.105.070 - Responsibility of county legislative authority.
+. Within ninety days of the election at which a community council is created, the county legislative authority shall adopt an ordinance establishing policies and conditions and designating portions or components of the county comprehensive plan and zoning ordinances that serve as an overall guide and framework for the development of proposed community comprehensive plans and proposed community zoning ordinances. The conditions and policies shall conform with the requirements of chapter 36.70A RCW.
+
+. Proposed community comprehensive plans and proposed community zoning ordinances that are adopted by a community council shall be submitted to the county legislative authority for its review of the consistency of the proposed plans and proposed ordinances with the ordinance adopted under subsection (1) of this section. The county legislative authority shall either approve the proposed plans and proposed ordinances as adopted, or refer the proposed plans and proposed ordinances back to the community council with written findings specifying the inconsistencies, within ninety days after they were submitted. The county comprehensive plan, or subarea plan and comprehensive plan, and zoning ordinances shall remain in effect in the community until the proposed community comprehensive plans and proposed community zoning ordinances have been approved as provided in this subsection.
+
+. Each proposed amendment to approved community comprehensive plans or approved community zoning ordinances that is adopted by a community council shall be submitted to the county legislative authority for its review of the consistency of the amendment with the ordinance adopted under subsection (1) of this section. The county legislative authority shall either approve the proposed amendment as adopted or refer the proposed amendment back to the community council with written findings specifying the inconsistencies within ninety days after the proposed amendment was submitted. The unamended community comprehensive plans and unamended community zoning ordinances shall remain in effect in the community until the proposed amendment has been approved as provided in this subsection.
+
+. If the county legislative authority amends the ordinance it adopted under subsection (1) of this section, a community council shall be given at least one hundred twenty days to amend its community comprehensive plans and community zoning ordinances to be consistent with this amended ordinance. However, the county legislative authority may amend the community comprehensive plans and community zoning ordinances to achieve consistency with this amended ordinance. Nothing in this subsection shall preclude a community council from subsequently obtaining approval of its proposed community comprehensive plans and proposed community zoning ordinances.
+
+. Approved community comprehensive plans and approved community zoning ordinances shall be enforced by the county as if they had been adopted by the county legislative authority. All quasi-judicial actions and permits relating to these plans and ordinances shall be made and decided by the county legislative authority or otherwise as provided by the county legislative authority.
+
+. The county shall provide administrative and staff support for each community council within its boundaries.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1201-S.SL.pdf?cite=1991%20c%20363%20§%20105[1991 c 363 § 105]; ]
+
+== 36.105.080 - Powers.
+A community council shall adopt proposed community comprehensive plans and proposed community zoning ordinances as provided in RCW 36.105.070. Community councils shall not have the authority to take quasi-judicial actions nor to decide permit applications. In addition, a community council shall serve as a forum for the discussion of local issues.
+
+Community councils are subject to chapter 42.30 RCW, the open public meetings act.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1201-S.SL.pdf?cite=1991%20c%20363%20§%20106[1991 c 363 § 106]; ]
+
+== 36.105.090 - Annexation.
+A community council may provide for the annexation of adjacent unincorporated areas to the community that are not included within another community for which a community council has been established. Annexations shall be initiated by either resolution of the community council proposing the annexation or petition of voters residing in the adjacent area, which petition: (a) Requests the annexation; (b) sets forth the boundaries of the area proposed to be annexed; and (c) contains signatures of voters residing within the area that is proposed to be annexed equal in number to at least ten percent of the voters residing in that area who voted at the last state general election. Annexation petitions shall be filed with the county auditor who shall determine if the petitions contain a sufficient number of valid signatures, certify the sufficiency of the petitions, and notify the community council of the sufficiency of the petitions within fifteen days of when the petitions are submitted.
+
+A ballot proposition authorizing the annexation shall be submitted to the voters of the area that is proposed to be annexed at a primary or general election in either an odd-numbered or even-numbered year, if the community council initiated the annexation by resolution or if the community council concurs in an annexation that was initiated by the submission of annexation petitions containing sufficient valid signatures. The annexation shall occur if the ballot proposition authorizing the creation of the community is approved by a simple majority vote of the voters voting on the proposition. The county's comprehensive plan, and where applicable to the county's subarea plan, and zoning ordinances shall continue in effect in the annexed area until proposed amendments to the approved community comprehensive plans and approved community zoning ordinance have been approved that apply to the annexed area.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1201-S.SL.pdf?cite=1991%20c%20363%20§%20107[1991 c 363 § 107]; ]
+
+== 36.105.100 - Dissolution.
+A community council shall be dissolved if the population of the community is reduced to less than five hundred persons, or less than two hundred persons if the community only includes an entire island.
+
+At the next general election at which community councilmembers would be elected, occurring at least four years after the creation or reestablishment of a community, a ballot proposition shall be submitted to the voters of the community on whether the community shall be reestablished. If reestablished, the newly elected members of the community council and the retained members of the community council shall constitute the members of the community council.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1201-S.SL.pdf?cite=1991%20c%20363%20§%20108[1991 c 363 § 108]; ]
+

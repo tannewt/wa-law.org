@@ -1,0 +1,60 @@
+= 48.87 - Midwives and birthing centers—Joint underwriting association.
+:toc:
+
+== 48.87.010 - Intent.
+Certified nurse midwives and licensed midwives experience a major problem in both the availability and affordability of malpractice insurance. In particular midwives practicing outside hospital settings are unable to obtain malpractice insurance at any price in this state at this time. Licensed midwives have been unable to obtain hospital privileges due in part to the requirement of almost all Washington hospitals that professional staff members have liability insurance.
+
+The services performed by midwives are in demand by many women for childbirth and prenatal care. Women often choose to have a home or birth center birth instead of a hospital birth. Women are entitled to the provider of their choice at such a critical life event. Studies document the safety of midwife-attended births and the safety of home births for low-risk women.
+
+At a time when safety, cost-effectiveness, and individual choice are of paramount concern to the citizens of Washington state, midwifery care in a variety of settings must be available to the public. This is essential to the goals of increased access to maternity care and increased cost-effectiveness of care, as well as addressing problems of provider shortage. One of the primary impediments to the availability of maternity services performed by midwives is the lack of available and affordable malpractice liability insurance coverage.
+
+This chapter is intended to increase the availability of cost-effective, high-quality maternity care by making malpractice insurance available for midwives. This chapter is implemented by requiring all insurers authorized to write commercial or professional liability insurance to be members of a joint underwriting association created to provide malpractice insurance for midwives.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5778-S.SL.pdf?cite=1993%20c%20112%20§%201[1993 c 112 § 1]; ]
+
+== 48.87.020 - Definitions.
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+. "Association" means the joint underwriting association established under this chapter.
+
+. "Midwifery and birth center malpractice insurance" means insurance coverage against the legal liability of the insured and against loss damage or expense incident to a claim arising out of the death or injury of a person as a result of negligence or malpractice in rendering professional service by a licensee.
+
+. "Licensee" means a person or facility licensed to provide midwifery services under chapter 18.50, 18.79, or 18.46 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2317.SL.pdf?cite=2002%20c%20300%20§%201[2002 c 300 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5778-S.SL.pdf?cite=1993%20c%20112%20§%202[1993 c 112 § 2]; ]
+
+== 48.87.030 - Plan for establishing association—Commissioner's duty—Market assistance plan.
+The insurance commissioner shall approve by December 31, 1993, a reasonable plan for the establishment of a nonprofit, joint underwriting association for midwifery and birth center malpractice insurance subject to the conditions and limitations contained in this chapter. Such plan shall include a market assistance plan to be used prior to activating a joint underwriting association.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5778-S.SL.pdf?cite=1993%20c%20112%20§%203[1993 c 112 § 3]; ]
+
+== 48.87.040 - Composition of association.
+The association shall be comprised of all insurers possessing a certificate of authority to write and engaged in writing medical malpractice insurance within this state and general casualty companies. Every insurer shall be a member of the association and shall remain a member as a condition of its authority to continue to transact business in this state. Only licensed midwives under chapter 18.50 RCW, certified nurse midwives licensed under chapter 18.79 RCW, or birth centers licensed under chapter 18.46 RCW may participate in the joint underwriting authority.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2317.SL.pdf?cite=2002%20c%20300%20§%202[2002 c 300 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5778-S.SL.pdf?cite=1993%20c%20112%20§%204[1993 c 112 § 4]; ]
+
+== 48.87.050 - Midwifery and birth center malpractice insurance—Rating plan modified according to practice volume.
+A licensee may apply to the association to purchase midwifery and birth center malpractice insurance and the association shall offer a policy with liability limits of one million dollars per claim and three million dollars per annual aggregate, or such other minimum level of mandated coverage as determined by the department of health. The insurance commissioner shall require the use of a rating plan for midwifery malpractice insurance that permits rates to be modified according to practice volume. Any rating plan for midwifery malpractice insurance used under this section must be based on sound actuarial principles. Coverage may not exclude midwives who engage in home birth or birth center deliveries.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2430-S.SL.pdf?cite=1994%20c%2090%20§%201[1994 c 90 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5778-S.SL.pdf?cite=1993%20c%20112%20§%205[1993 c 112 § 5]; ]
+
+== 48.87.060 - Administering a plan.
+The commissioner may select an insurer to administer a plan established under this chapter. The insurer must be admitted to transact the business of insurance of the state of Washington.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5778-S.SL.pdf?cite=1993%20c%20112%20§%206[1993 c 112 § 6]; ]
+
+== 48.87.070 - Policies written on a claims made basis—Commissioner may not approve without insurer guarantees.
+The insurance commissioner may not approve a policy written on a claims made basis by an insurer doing business in this state unless the insurer guarantees to the commissioner the continued availability of suitable liability protection for midwives subsequent to the discontinuance of professional practice by the midwife or the sooner termination of the insurance policy by the insurer for so long as there is a reasonable probability of a claim for injury for which the health care provider might be liable.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5778-S.SL.pdf?cite=1993%20c%20112%20§%207[1993 c 112 § 7]; ]
+
+== 48.87.080 - Risk management program—Part of plan.
+A risk management program for insureds of the association must be established as a part of the plan. This program must include but not be limited to: Investigation and analysis of frequency, severity, and causes of adverse or untoward outcomes; development of measures to control these injuries; systematic reporting of incidents; investigation and analysis of patient complaints; and education of association members to improve quality of care and risk reduction.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5778-S.SL.pdf?cite=1993%20c%20112%20§%208[1993 c 112 § 8]; ]
+
+== 48.87.100 - Rule making.
+The commissioner may adopt all rules necessary to ensure the efficient, equitable operation of the association, including but not limited to, rules requiring or limiting certain policy provisions.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5778-S.SL.pdf?cite=1993%20c%20112%20§%2010[1993 c 112 § 10]; ]
+

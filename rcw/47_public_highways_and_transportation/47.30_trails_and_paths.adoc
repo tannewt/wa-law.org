@@ -1,0 +1,59 @@
+= 47.30 - Trails and paths.
+:toc:
+
+== 47.30.005 - Definitions.
+For the purposes of this chapter, "trail" or "path" means a public way constructed primarily for and open to pedestrians, equestrians, or bicyclists, or any combination thereof, other than a sidewalk constructed as a part of a city street or county road for the exclusive use of pedestrians. The term "trail" or "path" also includes a widened shoulder of a highway, street, or road when the extra shoulder width is constructed to accommodate bicyclists consistent with a comprehensive plan or master plan for bicycle trails or paths adopted by a state or local governmental authority either prior to such construction or prior to January 1, 1980.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c121.pdf?cite=1979%20ex.s.%20c%20121%20§%204[1979 ex.s. c 121 § 4]; ]
+
+== 47.30.010 - Recreational trail interference.
+. No limited access highway shall be constructed that will result in the severance or destruction of an existing recreational trail of substantial usage for pedestrians, equestrians or bicyclists unless an alternative recreational trail, satisfactory to the authority having jurisdiction over the trail being severed or destroyed, either exists or is reestablished at the time the limited access highway is constructed. If a proposed limited access highway will sever a planned recreational trail which is part of a comprehensive plan for trails adopted by a state or local governmental authority, and no alternative route for the planned trail exists which is satisfactory to the authority which adopted the comprehensive plan for trails, the state or local agency proposing to construct the limited access highway shall design the facility and acquire sufficient right-of-way to accommodate future construction of the portion of the trail which will properly lie within the highway right-of-way. Thereafter when such trail is developed and constructed by the authority having jurisdiction over the trail, the state or local agency which constructed the limited access highway shall develop and construct the portion of such trail lying within the right-of-way of the limited access highway.
+
+. Where a highway other than a limited access highway crosses a recreational trail of substantial usage for pedestrians, equestrians, or bicyclists, signing sufficient to insure safety shall be provided.
+
+. Where the construction or reconstruction of a highway other than a limited access highway would destroy the usefulness of an existing recreational trail of substantial usage for pedestrians, equestrians, or bicyclists or of a planned recreational trail for pedestrians, equestrians, or bicyclists incorporated into the comprehensive plans for trails of the state or any of its political subdivisions, replacement land, space, or facilities shall be provided and where such recreational trails exist at the time of taking, reconstruction of said recreational trails shall be undertaken.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c130.pdf?cite=1971%20ex.s.%20c%20130%20§%201[1971 ex.s. c 130 § 1]; ]
+
+== 47.30.020 - Facilities for nonmotorized traffic—Joint usage of rights-of-way.
+Facilities for pedestrians, equestrians, or bicyclists shall be incorporated into the design of highways and freeways along corridors where such facilities do not exist upon a finding that such facilities would be of joint use and conform to the comprehensive plans of public agencies for the development of such facilities, will not duplicate existing or proposed routes, and that safety to both motorists and to pedestrians, equestrians, and bicyclists would be enhanced by the segregation of traffic.
+
+In planning and design of all highways, every effort shall be made consistent with safety to promote joint usage of rights-of-way for trails and paths in accordance with the comprehensive plans of public agencies.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c130.pdf?cite=1971%20ex.s.%20c%20130%20§%202[1971 ex.s. c 130 § 2]; ]
+
+== 47.30.030 - Facilities for nonmotorized traffic—Expenditure of available funds.
+Where an existing highway severs, or where the right-of-way of an existing highway accommodates a trail for pedestrians, equestrians, or bicyclists or where the separation of motor vehicle traffic from pedestrians, equestrians, or bicyclists will materially increase the motor vehicle safety, the provision of facilities for pedestrians, equestrians, or bicyclists which are a part of a comprehensive trail plan adopted by federal, state, or local governmental authority having jurisdiction over the trail is hereby authorized. The department of transportation, or the county or city having jurisdiction over the highway, road, or street, or facility is further authorized to expend reasonable amounts out of the funds made available to them, according to the provisions of RCW 46.68.090, as necessary for the planning, accommodation, establishment, and maintenance of such facilities.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1053-S.SL.pdf?cite=1999%20c%20269%20§%2010[1999 c 269 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c121.pdf?cite=1979%20ex.s.%20c%20121%20§%201[1979 ex.s. c 121 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c141.pdf?cite=1974%20ex.s.%20c%20141%20§%2012[1974 ex.s. c 141 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c103.pdf?cite=1972%20ex.s.%20c%20103%20§%202[1972 ex.s. c 103 § 2]; ]
+
+== 47.30.040 - Establishing paths and trails—Factors to be considered.
+Before establishing paths and trails, the following factors shall be considered:
+
+. Public safety;
+
+. The cost of such paths and trails as compared to the need or probable use;
+
+. Inclusion of the trail in a plan for a comprehensive trail system adopted by a city or county in a state or federal trails plan.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c103.pdf?cite=1972%20ex.s.%20c%20103%20§%203[1972 ex.s. c 103 § 3]; ]
+
+== 47.30.050 - Expenditures for paths and trails—Minimum amount.
+. The amount expended by a city, town, or county as authorized by RCW 47.30.030 shall never in any one fiscal year be less than 0.42 percent of the total amount of funds received from the motor vehicle fund according to RCW 46.68.090. However, this section does not apply to a city or town in any year in which the 0.42 percent equals five hundred dollars or less, or to a county in any year in which the 0.42 percent equals three thousand dollars or less. Also, a city, town, or county in lieu of expending the funds each year may credit the funds to a financial reserve or special fund, to be held for not more than ten years, and to be expended for the purposes required or permitted by RCW 47.30.030.
+
+. In each fiscal year the department of transportation shall expend, as a minimum, for the purposes mentioned in RCW 47.30.030 a sum equal to three-tenths of one percent of all funds, both state and federal, expended for the construction of state highways in such year, or in order to more efficiently program trail improvements the department may defer any part of such minimum trail or path expenditures for a fiscal year for a period not to exceed four years after the end of such fiscal year. Any fiscal year in which the department expends for trail or path purposes more than the minimum sum required by this subsection, the amount of such excess expenditure shall constitute a credit which may be carried forward and applied to the minimum trail and path expenditure requirements for any of the ensuing four fiscal years.
+
+. The department of transportation, a city, or a county in computing the amount expended for trails or paths under their respective jurisdictions may include the cost of improvements consistent with a comprehensive plan or master plan for bicycle trails or paths adopted by a state or local governmental authority either prior to such construction or prior to January 1, 1980.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1053-S.SL.pdf?cite=1999%20c%20269%20§%2011[1999 c 269 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c121.pdf?cite=1979%20ex.s.%20c%20121%20§%202[1979 ex.s. c 121 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c103.pdf?cite=1972%20ex.s.%20c%20103%20§%204[1972 ex.s. c 103 § 4]; ]
+
+== 47.30.060 - Expenditures deemed to be for highway purposes—Powers and duties of department—Restrictions on use of paths and trails.
+For the purposes of this chapter, the establishment of paths and trails and the expenditure of funds as authorized by RCW 47.30.030, as now or hereafter amended, shall be deemed to be for highway, road, and street purposes. The department of transportation shall, when requested, and subject to reimbursement of costs, provide technical assistance and advice to cities, towns, and counties in carrying out the purposes of RCW 47.30.030, as now or hereafter amended. The department shall recommend construction standards for paths and trails. The department shall provide a uniform system of signing paths and trails which shall apply to paths and trails under the jurisdiction of the department and of cities, towns, and counties. The department and cities, towns, and counties may restrict the use of paths and trails under their respective jurisdictions to pedestrians, equestrians, and nonmotorized vehicles.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c121.pdf?cite=1979%20ex.s.%20c%20121%20§%203[1979 ex.s. c 121 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1972ex1c103.pdf?cite=1972%20ex.s.%20c%20103%20§%205[1972 ex.s. c 103 § 5]; ]
+
+== 47.30.070 - Bicycle, equestrian, pedestrian paths as public highways.
+For purposes of 43 U.S.C. 912 and related provisions of federal law involving federally granted railroad rights-of-way, a bicycle, equestrian or pedestrian path shall be deemed to be a public highway under the laws of the state of Washington.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5917.SL.pdf?cite=1993%20c%20224%20§%2014[1993 c 224 § 14]; ]
+

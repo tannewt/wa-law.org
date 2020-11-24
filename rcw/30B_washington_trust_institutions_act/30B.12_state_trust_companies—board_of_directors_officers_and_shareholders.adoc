@@ -1,0 +1,184 @@
+= 30B.12 - State trust companies—Board of directors, officers, and shareholders.
+:toc:
+
+== 30B.12.005 - Voting securities held by state trust company.
+. Voting securities of a state trust company held by the state trust company in a fiduciary capacity under a will or trust, whether registered in its own name or in the name of its nominee, may not be voted in the election of directors or managers or on a matter affecting the compensation of directors, managers, officers, or employees of the state trust company in that capacity, unless:
+
+.. Under the terms of the will or trust, the manner in which the voting securities are to be voted may be determined by a donor or beneficiary of the will or trust and the donor or beneficiary actually makes the determination in the matter at issue;
+
+.. The terms of the will or trust expressly direct the manner in which the securities must be voted to the extent that no discretion is vested in the state trust company as fiduciary; or
+
+.. The securities are voted solely by a cofiduciary that is not an affiliate of the state trust company, as if the cofiduciary were the sole fiduciary.
+
+. Voting securities of a state trust company that cannot be voted under this section are considered to be authorized but unissued for purposes of determining the procedures for and results of the affected vote.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20346[2014 c 37 § 346]; ]
+
+== 30B.12.010 - Bylaws.
+. A state trust company shall adopt bylaws and may amend its bylaws from time to time for the purposes and in accordance with the procedures set forth in the Washington business corporation act.
+
+. A limited liability trust company in which management is retained by the participants is not required to adopt bylaws if provisions required by law to be contained in the bylaws are contained in the articles of association or the participation agreement. If a limited liability trust company has adopted bylaws which designate each full liability participant, the limited liability trust company shall file with the director a copy of the bylaws. Solely that portion of the bylaws designating each full liability participant is a public record.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20347[2014 c 37 § 347]; ]
+
+== 30B.12.020 - Board of directors, managers, or managing participants.
+. The board of a state trust company must consist of not fewer than five directors, managers, or managing participants, at least two of whom shall not be officers, managers, employees, or agents of the state trust company, or otherwise in control of the state trust company, either as a principal or in a representative capacity, as "control" is defined in RCW 30B.53.005. Except for a limited liability trust company in which management has been retained by its participants, the principal executive officer of the state trust company is a member of the board. The principal executive officer acting in the capacity of board member is the board's presiding officer unless the board elects a different presiding officer to perform the duties as designated by the board.
+
+. Unless the director consents otherwise in writing, a person may not serve as director, manager, or managing participant of a state trust company if:
+
+.. The state trust company incurs an unreimbursed loss attributable to a charged-off obligation of or holds a judgment against the person or an entity that was controlled by the person at the time of funding and at the time of default on the loan that gave rise to the judgment or charged-off obligation as determined by the definition of "control" set forth in RCW 30B.53.005;
+
+.. The person has been convicted of a felony or a crime involving personal dishonesty; or
+
+.. The person has violated a provision of Washington state law, relating to loan of trust funds and purchase or sale of trust property by the trustee, and the violation has not been corrected.
+
+. If a state trust company other than a limited liability trust company operated by managing participants does not elect directors or managers before the sixty-first day after the date of its regular annual meeting, the director may appoint a conservator under this title to operate the state trust company and elect directors or managers, as appropriate. If the conservator is unable to locate or elect persons willing and able to serve as directors or managers, the director may close the state trust company for liquidation.
+
+. A vacancy on the board that reduces the number of directors, managers, or managing participants to fewer than five must be filled not later than the thirtieth day after the date the vacancy occurs. A limited liability trust company with fewer than five managing participants must add one or more new participants or elect a board of managers of not fewer than five persons to resolve the vacancy. After thirty days after the date the vacancy occurs, the director may appoint a conservator under this title to operate the state trust company and elect a board of not fewer than five persons to resolve the vacancy. If the conservator is unable to locate or elect five persons willing and able to serve as directors or managers, the director may close the state trust company for liquidation.
+
+. Before each term to which a person is elected to serve as a director or manager of a state trust company, or annually for a person who is a managing participant, the person shall submit a declaration under penalty of perjury for filing in the minutes of the state trust company stating that the person, to the extent applicable:
+
+.. Accepts the position and is not disqualified from serving in the position;
+
+.. Will not violate or knowingly permit an officer, director, manager, managing participant, or employee of the state trust company to violate any law applicable to the conduct of business of the state trust company; and
+
+.. Will diligently perform the duties of the position.
+
+. An advisory director or manager is not considered a director if the advisory director or manager:
+
+.. Is not elected by the shareholders or participants of the state trust company;
+
+.. Does not vote on matters before the board or a committee of the board and is not counted for purposes of determining a quorum of the board or committee; and
+
+.. Provides solely general policy advice to the board.
+
+. Notwithstanding any other provision of this section to the contrary, a state trust company shall have directors, managers, or managing participants, and committees or subcommittees composed of such directors, managers, or managing participants, consistent with the requirements of RCW 30B.24.030 and in conformity with the contents of the state trust company's written statement of principles of trust management, pursuant to RCW 30B.24.040, as adopted by the board and subject to approval of the department.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2034[2019 c 389 § 34]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20348[2014 c 37 § 348]; ]
+
+== 30B.12.030 - Required board meetings.
+The board of a state trust company shall hold at least one regular meeting each quarter. At each regular meeting the board shall review and approve the minutes of the prior meeting and review the operations, activities, and financial condition of the state trust company. The board may designate committees from among its members to perform these duties and approve or disapprove the committees' reports at each regular meeting. All actions of the board must be recorded in its minutes.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20349[2014 c 37 § 349]; ]
+
+== 30B.12.040 - Officers.
+. The board shall annually appoint the officers of the state trust company, who serve at the pleasure of the board. The state trust company must have a principal executive officer primarily responsible for the execution of board policies and operation of the state trust company and an officer responsible for the maintenance and storage of all corporate books and records of the state trust company and for required attestation of signatures. These positions may not be held by the same person. The board may appoint other officers of the state trust company as the board considers necessary.
+
+. Unless expressly authorized by a resolution of the board recorded in its minutes, an officer, manager, or employee may not create or dispose of a state trust company asset or create or incur a liability on behalf of the state trust company.
+
+. Unless otherwise approved by the director, the chief executive officer, the president, the chief operating officer, or the chief financial officer of a state trust company, or an officer of the state trust company with an equivalent function, must be a Washington state resident.
+
+. Notwithstanding any other provision of this section to the contrary, the board of a state trust company shall designate officers and committees or subcommittees composed of such officers, consistent with the requirements of RCW 30B.24.030 and in conformity with the contents of the state trust company's written statement of principles of trust management, pursuant to RCW 30B.24.040, as adopted by the board and subject to approval of the department.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2035[2019 c 389 § 35]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20350[2014 c 37 § 350]; ]
+
+== 30B.12.050 - Certain criminal offenses.
+. An officer, director, manager, managing participant, employee, shareholder, or participant of a state trust company commits an offense if the person knowingly:
+
+.. Conceals information or a fact, or removes, destroys, or conceals a book or record of the state trust company for the purpose of concealing information or a fact from the director or an agent of the director; or
+
+.. For the purpose of concealing, removes or destroys any book or record of the state trust company that is material to a pending or anticipated legal or administrative proceeding.
+
+. An officer, director, manager, managing participant, or employee of a state trust company commits an offense if the person knowingly makes a false entry in the books or records or in any report or statement of the state trust company.
+
+. An offense under this section is a class B felony.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20351[2014 c 37 § 351]; ]
+
+== 30B.12.060 - Board's responsibility.
+The board of a state trust company is responsible for the proper exercise of fiduciary powers by the state trust company and each matter pertinent to the exercise of fiduciary powers, including:
+
+. The determination of policies;
+
+. The investment and disposition of property held in a fiduciary capacity;
+
+. The direction and review of the actions of each officer, manager, employee, committee, and agent used by the state trust company in the exercise of its fiduciary powers; and
+
+. Every other requirement of the board as set forth in RCW 30B.24.030 and in conformity with the contents of the state trust company's written statement of principles of trust management, pursuant to RCW 30B.24.040, as adopted by the board and subject to approval of the department.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2036[2019 c 389 § 36]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20352[2014 c 37 § 352]; ]
+
+== 30B.12.070 - Bonding requirements.
+The board of a state trust company shall require protection and indemnity for clients in reasonable amounts consistent with the bonding requirements for a state bank under RCW 30A.12.030 and as may further be established by rule adopted under this chapter, against dishonesty, fraud, defalcation, forgery, theft, and other similar insurable losses, with corporate insurance or surety companies.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20353[2014 c 37 § 353]; ]
+
+== 30B.12.080 - Reports of apparent crime.
+A trust company that is the victim of a robbery, has a shortage of corporate or fiduciary funds in excess of five thousand dollars, or is the victim of an apparent or suspected misapplication of its corporate or fiduciary funds or property in any amount by a director, manager, managing participant, officer, or employee shall report such robbery, shortages, or apparent or suspected misapplication to the director within forty-eight hours after the time it is discovered. The initial report may be oral if the report is promptly confirmed in writing. The trust company or a director, manager, managing participant, officer, employee, or agent is not subject to liability for defamation or another charge resulting from information supplied in the report.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20354[2014 c 37 § 354]; ]
+
+== 30B.12.090 - Administration of fiduciary powers.
+. [Empty]
+.. The board of directors is responsible for the proper exercise of fiduciary powers by the trust company. All matters pertinent thereto, including the determination of policies, the investment and disposition of property held in a fiduciary capacity, and the direction and review of the actions of all officers, employees, and committees utilized by the trust company in the exercise of its fiduciary powers, are the responsibility of the board. In discharging this responsibility, the board of directors may assign, by action duly entered in the minutes, the administration of such of the trust company's fiduciary powers as it may consider proper to assign to such directors, officers, employees, or committees as it may designate.
+
+.. A fiduciary account may not be accepted without the prior approval of the board, or of the directors, officers, or committees to whom the board may have designated the performance of that responsibility.
+
+.. A written record shall be made of such acceptances and of the relinquishment or closing out of all fiduciary accounts. Upon the acceptance of an account for which the trust company has investment responsibilities a prompt review of the assets shall be made. The board shall also ensure that at least once during every calendar year thereafter, all the assets held in or for each fiduciary account where the bank has investment responsibilities are reviewed to determine the advisability of retaining or disposing of such assets.
+
+. All officers and employees taking part in the operation of the state trust institution shall be adequately bonded.
+
+. Every qualified fiduciary subject to this section and exercising fiduciary powers in Washington state shall designate, employ, or retain legal counsel who shall be readily available to pass upon fiduciary matters and to advise the trust company and its state trust institution.
+
+. [Empty]
+.. The state trust institution may utilize personnel and facilities of other departments of the trust company or its affiliates, and other departments of the trust company may utilize the personnel and facilities of the state trust institution or its affiliates only to the extent not prohibited by law and as long as the separate identity of the state trust institution is preserved.
+
+.. Pursuant to a written agreement, a trust company exercising fiduciary powers may perform services related to the exercise of fiduciary powers for another trust company or other entity, and may purchase services related to the exercise of fiduciary powers from another trust company or other entity.
+
+. Fiduciary records shall be kept separate and distinct from other records of the trust company and maintained in compliance with RCW 30B.04.130. All fiduciary records shall be kept and retained for such time as to enable the fiduciary to furnish such information or reports with respect thereto as may be required by the director.
+
+. Every such fiduciary shall keep an adequate record of all pending litigation to which it is a party in connection with its exercise of fiduciary powers.
+
+. Notwithstanding any other provision of this section to the contrary, a state trust company and its directors, officers, managers, employees, and committees shall exercise administration of fiduciary powers consistent with the requirements of RCW 30B.24.030 and in conformity with the contents of the state trust company's written statement of principles of trust management, pursuant to RCW 30B.24.040, as adopted by the board and subject to approval of the department.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2037[2019 c 389 § 37]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20355[2014 c 37 § 355]; ]
+
+== 30B.12.100 - Audit—Fiduciary audit committee.
+. A state trust company shall have a fiduciary audit committee, which shall exercise fiduciary responsibilities, administer fiduciary powers, and report to the board of directors consistent with the requirements of this section, RCW 30B.24.030, and in conformity with the contents of the state trust company's written statement of principles of trust management, pursuant to RCW 30B.24.040.
+
+. At least once during each calendar year, a state trust company shall arrange for a suitable audit by internal or external auditors of all significant fiduciary activities, under the direction of its fiduciary audit committee, unless the state trust company adopts a continuous audit system in accordance with subsection (3) of this section. The state trust company shall note the results of the audit, including significant actions taken as a result of the audit, in the minutes of the board of directors.
+
+. In lieu of performing annual audits under subsection (2) of this section, a state trust company may adopt a continuous audit system under which the state trust company arranges for a discrete audit by internal or external auditors of each significant fiduciary activity on an activity-by-activity basis, under the direction of its fiduciary audit committee, at an interval commensurate with the nature and risk of that activity. Under such a system, certain fiduciary activities may receive audits at intervals greater or less than one year, as appropriate. A state trust company that adopts a continuous audit system pursuant to this subsection shall note the results of all discrete audits performed since the last audit report, including significant actions taken as a result of the audits, in the minutes of the board of directors at least once during each calendar year.
+
+. A state trust company's fiduciary audit committee may consist of the entire board of directors, or it may comprise either a committee of the bank's directors or an audit committee of an affiliate of the state trust company. However, in either case, the committee:
+
+.. Must not include any officers of the state trust company or an affiliate who participate significantly in the administration of the state trust company's fiduciary activities; and
+
+.. Must consist of a majority of members who are not also members of any committee to which the board of directors has delegated power to manage and control the fiduciary activities of the state trust company.
+
+. The requirements of subsections (1) through (4) of this section shall be separate from and in addition to any audits of the nonfiduciary operations of the state trust company, if any.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2038[2019 c 389 § 38]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20356[2014 c 37 § 356]; ]
+
+== 30B.12.110 - Shareholders—Actions authorized without meetings—Written consent.
+. Any action required by this title to be taken at a meeting of the shareholders of a state trust company, or any action that may be taken at a meeting of such shareholders, may be taken without a meeting if a consent in writing, setting forth the action so taken, is signed by all of the shareholders entitled to vote with respect to the subject matter thereof.
+
+. The consent has the same force and effect as a unanimous vote of shareholders and may be stated as such in any articles or documents filed under this title.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20357[2014 c 37 § 357]; ]
+
+== 30B.12.120 - Directors, committees—Actions authorized without meetings—Written consent.
+. Unless otherwise provided by the articles of incorporation or bylaws, any action required by this title to be taken at a meeting of the directors of a state trust company, or any action which may be taken at any meeting of the directors or of a committee, may be taken without a meeting if consented to in writing or by electronic transmission, setting forth the action so taken, shall be signed by all of the directors, or all of the members of the committee, as the case may be. Such consent has the same effect as a unanimous vote.
+
+. For purposes of this section, the term "electronic transmission" means any form of communication not involving the transmission of paper that creates a record that may be retained, retrieved, and reviewed by a recipient thereof and that may be directly reproduced in paper form by such recipient through an automated process.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20358[2014 c 37 § 358]; ]
+
+== 30B.12.130 - Directors, committees—Meetings authorized by conference telephone or similar communications equipment.
+Except as may be otherwise restricted by the articles of incorporation or bylaws of a state trust company, members of its board of directors or any committee designated by its board of directors may participate in a meeting of the board or committee by means of a conference telephone or similar communications equipment by means of which all persons participating in the meeting can hear each other at the same time. Participation by such means shall constitute presence, in person, at a meeting.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6135.SL.pdf?cite=2014%20c%2037%20§%20359[2014 c 37 § 359]; ]
+
+== 30B.12.140 - Fidelity bonds—Liability insurance—Additional insurance—Authority of director.
+. Except as otherwise permitted by the director under specified terms and conditions, the board of directors of a state trust company shall direct and require good and sufficient fidelity bonds and liability insurance, issued by a company authorized to engage in the insurance business in the state of Washington, covering the state trust company and all of its active directors, officers, managers, and employees. Bonds or coverage shall provide for indemnity to the state trust company on account of any losses sustained by it as the result of any dishonest, fraudulent, or criminal act or omission committed or omitted by directors, officers, managers, and employees, acting independently or in collusion or combination with any person. Such bonds or coverage may be individual, schedule, or blanket form, and premiums shall be paid by the state trust company.
+
+. Except as otherwise permitted by the director under specified terms and conditions, the board of directors of a state trust company shall direct and require good and sufficient liability insurance, including errors and omissions coverage, for the negligent or reckless acts and omissions of directors, officers, fiduciary managers, and employees. Such coverage shall be paid by the state trust company.
+
+. Except as otherwise permitted by the director under specified terms and conditions, the directors shall also direct and require suitable insurance protection to the state trust company, as necessary, against burglary, robbery, theft, and other similar insurance hazards to which the state trust company may be exposed in the operations of its business on the premises or elsewhere.
+
+. The directors shall be responsible for prescribing at least once in each year the amount of such bonds or policies and the sureties or underwriters to be engaged, after giving due consideration to all known elements and factors constituting known risks or hazards. Such action of the directors shall be recorded in the board minutes.
+
+. The director may by rule prescribe requirements for bond and insurance coverage that are more specific and derogation of the provision of subsections (1) through (4) of this section if the director determines that such a rule is necessary to conform to the market availability of certain bond and insurance coverages.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%2039[2019 c 389 § 39]; ]
+

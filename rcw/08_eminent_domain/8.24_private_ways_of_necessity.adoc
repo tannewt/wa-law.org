@@ -1,0 +1,36 @@
+= 8.24 - Private ways of necessity.
+:toc:
+
+== 8.24.010 - Condemnation authorized—Private way of necessity defined.
+An owner, or one entitled to the beneficial use, of land which is so situate with respect to the land of another that it is necessary for its proper use and enjoyment to have and maintain a private way of necessity or to construct and maintain any drain, flume or ditch, on, across, over or through the land of such other, for agricultural, domestic or sanitary purposes, may condemn and take lands of such other sufficient in area for the construction and maintenance of such private way of necessity, or for the construction and maintenance of such drain, flume or ditch, as the case may be. The term "private way of necessity," as used in this chapter, shall mean and include a right-of-way on, across, over or through the land of another for means of ingress and egress, and the construction and maintenance thereon of roads, logging roads, flumes, canals, ditches, tunnels, tramways and other structures upon, over and through which timber, stone, minerals or other valuable materials and products may be transported and carried.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1913c133.pdf?cite=1913%20c%20133%20§%201[1913 c 133 § 1]; RRS § 936-1; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1895c92.pdf?cite=1895%20c%2092%20§%201[1895 c 92 § 1]; ]
+
+== 8.24.015 - Joinder of surrounding property owners authorized.
+In any proceeding for the condemnation of land for a private way of necessity, the owner of any land surrounding and contiguous to the property which land might contain a site for the private way of necessity may be joined as a party.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c129.pdf?cite=1988%20c%20129%20§%201[1988 c 129 § 1]; ]
+
+== 8.24.025 - Selection of route—Criteria.
+If it is determined that an owner, or one entitled to the beneficial use of land, is entitled to a private way of necessity and it is determined that there is more than one possible route for the private way of necessity, the selection of the route shall be guided by the following priorities in the following order:
+
+. Nonagricultural and nonsilvicultural land shall be used if possible.
+
+. The least-productive land shall be used if it is necessary to cross agricultural land.
+
+. The relative benefits and burdens of the various possible routes shall be weighed to establish an equitable balance between the benefits to the land for which the private way of necessity is sought and the burdens to the land over which the private way of necessity is to run.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c129.pdf?cite=1988%20c%20129%20§%202[1988 c 129 § 2]; ]
+
+== 8.24.030 - Procedure for condemnation—Fees and costs.
+The procedure for the condemnation of land for a private way of necessity or for drains, flumes or ditches under the provisions of this chapter shall be the same as that provided for the condemnation of private property by railroad companies, but no private property shall be taken or damaged until the compensation to be made therefor shall have been ascertained and paid as provided in the case of condemnation by railroad companies.
+
+In any action brought under the provisions of this chapter for the condemnation of land for a private way of necessity, reasonable attorneys' fees and expert witness costs may be allowed by the court to reimburse the condemnee.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c129.pdf?cite=1988%20c%20129%20§%203[1988 c 129 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1913c133.pdf?cite=1913%20c%20133%20§%202[1913 c 133 § 2]; RRS § 936-2; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1895c92.pdf?cite=1895%20c%2092%20§%202[1895 c 92 § 2]; ]
+
+== 8.24.040 - Logging road must carry products of condemnees.
+That any person or corporation availing themselves of the provisions of this chapter for the purpose of acquiring a right-of-way for a logging road, as a condition precedent, contract and agree to carry and convey over such roads to either termini thereof any of the timber or other produce of the lands through which such right is acquired at any and all times, so long as said road is maintained and operated, and at reasonable prices; and a failure so to do shall terminate such right-of-way. The reasonableness of the rate shall be subject to determination by the utilities and transportation commission.
+
+[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1913c133.pdf?cite=1913%20c%20133%20§%203[1913 c 133 § 3]; RRS § 936-3; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1895c92.pdf?cite=1895%20c%2092%20§%203[1895 c 92 § 3]; ]
+

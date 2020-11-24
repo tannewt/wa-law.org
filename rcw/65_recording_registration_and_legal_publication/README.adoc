@@ -1,0 +1,8 @@
+= 65 RECORDING, REGISTRATION, AND LEGAL PUBLICATION
+
+* link:65.04_duties_of_county_auditor.adoc[65.04 - Duties of county auditor.]
+* link:65.08_recording.adoc[65.08 - Recording.]
+* link:65.12_registration_of_land_titles_(torrens_act).adoc[65.12 - Registration of land titles (Torrens Act).]
+* link:65.16_legal_publications.adoc[65.16 - Legal publications.]
+* link:65.20_classification_of_manufactured_homes.adoc[65.20 - Classification of manufactured homes.]
+* link:65.24_uniform_real_property_electronic_recording_act.adoc[65.24 - Uniform real property electronic recording act.]

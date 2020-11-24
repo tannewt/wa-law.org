@@ -1,0 +1,63 @@
+= 18.180 - Process servers.
+:toc:
+
+== 18.180.010 - Requirements for process servers—Exceptions.
+. Except as provided in subsection (2) of this section, a person who serves legal process for a fee in the state of Washington shall:
+
+.. Be eighteen years of age or older;
+
+.. Be a resident of the state of Washington; and
+
+.. Register as a process server with the auditor of the county in which the process server resides or operates his or her principal place of business.
+
+. The requirements under subsection (1)(b) and (c) of this section do not apply to any of the following persons:
+
+.. A sheriff, deputy sheriff, marshal, constable, or government employee who is acting in the course of employment;
+
+.. An attorney or the attorney's employees, who are not serving process on a fee basis;
+
+.. A person who is court appointed to serve the court's process;
+
+.. A person who does not receive a fee or wage for serving process;
+
+.. A private investigator licensed under chapter 18.165 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6115.SL.pdf?cite=2014%20c%20203%20§%201[2014 c 203 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1913-S.SL.pdf?cite=2010%20c%20108%20§%201[2010 c 108 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2370-S.SL.pdf?cite=1992%20c%20125%20§%201[1992 c 125 § 1]; ]
+
+== 18.180.020 - Registration renewal.
+A process server required to register under RCW 18.180.010 must renew the registration within one year of the date of the initial registration or when the registrant changes his or her name, the name of his or her business, business address, or business telephone number, whichever occurs sooner. If the renewal is required because of a change in the information identifying the process server, the process server must renew the registration within ten days of the date the identifying information changes. The process server shall pay the registration fee upon renewal.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2370-S.SL.pdf?cite=1992%20c%20125%20§%203[1992 c 125 § 3]; ]
+
+== 18.180.030 - Identification of process server on proof of service.
+. A process server required to register under RCW 18.180.010 shall indicate the process server's registration number and the process server's county of registration on any proof of service the process server signs.
+
+. Employees of a process server required to register under RCW 18.180.010 shall indicate the employer's registration number and the employer's county of registration on any proof of service the registrant's employee signs.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2370-S.SL.pdf?cite=1992%20c%20125%20§%204[1992 c 125 § 4]; ]
+
+== 18.180.035 - Fees—Limitations.
+. A process server required to register under RCW 18.180.010(1) or exempt from registration under *RCW 18.180.010(2) (a), (c), or (d) shall be allowed to charge and collect the following fees in civil actions, suits, and proceedings for each service assignment delivered to the process server for service:
+
+.. If the fee is not greater than one hundred dollars, then the actual amount charged to a party for service;
+
+.. If the fee is greater than one hundred dollars, then a reasonable amount charged to a party for service.
+
+. Any fees allowable under this section, and actually charged by a process server, shall be a reasonable cost awarded to, and recoverable by, the party incurring same if that party prevails in an action.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6059.SL.pdf?cite=2007%20c%20121%20§%202[2007 c 121 § 2]; ]
+
+== 18.180.040 - Collection of costs of service—Application.
+. Except as provided in subsection (2) of this section, any person who is otherwise entitled to collect the costs of service of process shall not be entitled to collect those costs if the person does not use a process server who under this chapter either is required to register or is exempt from the registration requirement.
+
+. The person may collect the costs of the service of process if the process server registers within forty-five days after serving the process.
+
+. This section shall apply to all process served on or after August 1, 1992.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2370-S.SL.pdf?cite=1992%20c%20125%20§%205[1992 c 125 § 5]; ]
+
+== 18.180.900 - Construction—1992 c 125.
+Nothing in this act modifies Superior Court Civil Rule 4.
+
+[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2370-S.SL.pdf?cite=1992%20c%20125%20§%207[1992 c 125 § 7]; ]
+
