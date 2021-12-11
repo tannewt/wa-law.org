@@ -53,6 +53,8 @@ if __name__ == "__main__":
             outpath.parent.mkdir(parents=True, exist_ok=True)
             outpath.write_text(render(subpath.read_text()))
     else:
-        print(p)
-        print(p.read_text())
-        print(render(p.read_text()))
+        outpath = out / p.with_suffix(".html")
+        if outpath.name == "README.html":
+            outpath = outpath.with_name("index.html")
+        outpath.parent.mkdir(parents=True, exist_ok=True)
+        outpath.write_text(render(p.read_text()))
