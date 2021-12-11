@@ -13,10 +13,12 @@ Accreditation is a structured process designed to facilitate organizational chan
 
 [ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1249-S2.SL.pdf?cite=2001%20c%20265%20§%201[2001 c 265 § 1]; ]
 
-== 74.13.020 - Definitions. (Effective until January 1, 2021.)
+== 74.13.020 - Definitions.
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 
 . "Case management" means convening family meetings, developing, revising, and monitoring implementation of any case plan or individual service and safety plan, coordinating and monitoring services needed by the child and family, caseworker-child visits, family visits, and the assumption of court-related duties, excluding legal representation, including preparing court reports, attending judicial hearings and permanency hearings, and ensuring that the child is progressing toward permanency within state and federal mandates, including the Indian child welfare act.
+
+. "Certificate of parental improvement" means a certificate issued under RCW 74.13.720 to an individual who has a founded finding of physical abuse or negligent treatment or maltreatment, or a court finding that the individual's child was dependent as a result of a finding that the individual abused or neglected their child pursuant to RCW 13.34.030(6)(b).
 
 . "Child" means:
 
@@ -78,7 +80,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 . "Voluntary placement agreement" means, for the purposes of extended foster care services, a written voluntary agreement between a nonminor dependent who agrees to submit to the care and authority of the department for the purposes of participating in the extended foster care program.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1900.SL.pdf?cite=2019%20c%20172%20§%207[2019 c 172 § 7]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6407.SL.pdf?cite=2018%20c%20284%20§%2036[2018 c 284 § 36]; 2018 c 284 § 35; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6287.SL.pdf?cite=2018%20c%2058%20§%2051[2018 c 58 § 51]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6222-S.SL.pdf?cite=2018%20c%2034%20§%203[2018 c 34 § 3]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1661-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%206%20§%20401[2017 3rd sp.s. c 6 § 401]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5740-S.SL.pdf?cite=2015%20c%20240%20§%202[2015 c 240 § 2]; prior:  2013 c 332 § 8; 2013 c 332 § 7; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5565-S.SL.pdf?cite=2013%20c%20162%20§%205[2013 c 162 § 5]; 2013 c 162 § 4; prior:  2012 c 259 § 7; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2264-S2.SL.pdf?cite=2012%20c%20205%20§%2012[2012 c 205 § 12]; prior:  2011 c 330 § 4; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6832-S.SL.pdf?cite=2010%20c%20291%20§%203[2010 c 291 § 3]; prior:  2009 c 520 § 2; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1961-S2.SL.pdf?cite=2009%20c%20235%20§%203[2009 c 235 § 3]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1493-S2.SL.pdf?cite=1999%20c%20267%20§%207[1999 c 267 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c155.pdf?cite=1979%20c%20155%20§%2076[1979 c 155 § 76]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c291.pdf?cite=1977%20ex.s.%20c%20291%20§%2021[1977 ex.s. c 291 § 21]; 1975-'76 2nd ex.s. c 71 § 3; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c292.pdf?cite=1971%20ex.s.%20c%20292%20§%2066[1971 ex.s. c 292 § 66]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c30.pdf?cite=1965%20c%2030%20§%203[1965 c 30 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1645-S2.SL.pdf?cite=2020%20c%20270%20§%204[2020 c 270 § 4]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1900.SL.pdf?cite=2019%20c%20172%20§%207[2019 c 172 § 7]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6407.SL.pdf?cite=2018%20c%20284%20§%2036[2018 c 284 § 36]; 2018 c 284 § 35; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6287.SL.pdf?cite=2018%20c%2058%20§%2051[2018 c 58 § 51]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6222-S.SL.pdf?cite=2018%20c%2034%20§%203[2018 c 34 § 3]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1661-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%206%20§%20401[2017 3rd sp.s. c 6 § 401]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5740-S.SL.pdf?cite=2015%20c%20240%20§%202[2015 c 240 § 2]; prior:  2013 c 332 § 8; 2013 c 332 § 7; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5565-S.SL.pdf?cite=2013%20c%20162%20§%205[2013 c 162 § 5]; 2013 c 162 § 4; prior:  2012 c 259 § 7; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2264-S2.SL.pdf?cite=2012%20c%20205%20§%2012[2012 c 205 § 12]; prior:  2011 c 330 § 4; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6832-S.SL.pdf?cite=2010%20c%20291%20§%203[2010 c 291 § 3]; prior:  2009 c 520 § 2; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1961-S2.SL.pdf?cite=2009%20c%20235%20§%203[2009 c 235 § 3]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1493-S2.SL.pdf?cite=1999%20c%20267%20§%207[1999 c 267 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c155.pdf?cite=1979%20c%20155%20§%2076[1979 c 155 § 76]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c291.pdf?cite=1977%20ex.s.%20c%20291%20§%2021[1977 ex.s. c 291 § 21]; 1975-'76 2nd ex.s. c 71 § 3; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c292.pdf?cite=1971%20ex.s.%20c%20292%20§%2066[1971 ex.s. c 292 § 66]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c30.pdf?cite=1965%20c%2030%20§%203[1965 c 30 § 3]; ]
 
 == 74.13.021 - Developmentally disabled child—Defined.
 As used in this chapter, " developmentally disabled child" is a child who has a developmental disability as defined in RCW 71A.10.020 and whose parent, guardian, or legal custodian and with the department mutually agree that services appropriate to the child's needs cannot be provided in the home.
@@ -91,7 +93,7 @@ Any county or group of counties may make application to the department in the ma
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1661-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%206%20§%20402[2017 3rd sp.s. c 6 § 402]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6208-S.SL.pdf?cite=1998%20c%20296%20§%201[1998 c 296 § 1]; ]
 
 == 74.13.029 - Dependency established—Social worker's duty to provide document containing information.
-Once a dependency is established under chapter 13.34 RCW, the department employee assigned to the case shall provide the dependent child age twelve years and older with a document containing the information described in RCW 74.13.031(18). The department employee shall explain the contents of the document to the child and direct the child to the department's web site for further information. The department employee shall document, in the electronic data system, that this requirement was met.
+Once a dependency is established under chapter 13.34 RCW, the department employee assigned to the case shall provide the dependent child age twelve years and older with a document containing the information described in RCW 74.13.031(18). The department employee shall explain the contents of the document to the child and direct the child to the department's website for further information. The department employee shall document, in the electronic data system, that this requirement was met.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1091-S.SL.pdf?cite=2019%20c%2064%20§%2025[2019 c 64 § 25]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5020-S.SL.pdf?cite=2011%20c%2089%20§%2017[2011 c 89 § 17]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5811-S.SL.pdf?cite=2009%20c%20491%20§%208[2009 c 491 § 8]; ]
 
@@ -154,7 +156,7 @@ Notwithstanding any other provision of RCW 13.32A.170 through 13.32A.200, 43.185
 . The department shall consult at least quarterly with foster parents, including members of the foster parent association of Washington state, for the purpose of receiving information and comment regarding how the department is performing the duties and meeting the obligations specified in this section and RCW 74.13.250 regarding the recruitment of foster homes, reducing foster parent turnover rates, providing effective training for foster parents, and administering a coordinated and comprehensive plan that strengthens services for the protection of children. Consultation shall occur at the regional and statewide levels.
 
 . [Empty]
-.. The department shall, within current funding levels, place on its public web site a document listing the duties and responsibilities the department has to a child subject to a dependency petition including, but not limited to, the following:
+.. The department shall, within current funding levels, place on its public website a document listing the duties and responsibilities the department has to a child subject to a dependency petition including, but not limited to, the following:
 
 ... Reasonable efforts, including the provision of services, toward reunification of the child with his or her family;
 
@@ -682,10 +684,24 @@ Within available funds and subject to such conditions and limitations as may be 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1808-S.SL.pdf?cite=2017%20c%20206%20§%201[2017 c 206 § 1]; ]
 
-== 74.13.341 - Transition plan—Qualification for developmental disability services.
-With respect to youth who will be aging out of foster care, the department shall invite representatives from the department of social and health services division of behavioral health and recovery, the disability services administration, the economic services administration, and the juvenile justice and rehabilitation administration to the youth's shared planning meeting that occurs between age seventeen and seventeen and one-half that is used to develop a transition plan. It is the responsibility of the department to include these agencies in the shared planning meeting. If foster youth who are the subject of this meeting may qualify for developmental disability services pursuant to Title 71A RCW, the department shall direct these youth to apply for these services and provide assistance in the application process.
+== 74.13.341 - Transition plan—Planning services—Qualification for services provided by the developmental disabilities administration.
+. With respect to children who are subject to an open dependency proceeding under chapter 13.34 RCW and may exit dependency proceedings under chapter 13.34 RCW after reaching the maximum age for dependent children, the department shall invite representatives from the entity providing managed health and behavioral health care for foster youth required under RCW 74.09.860, and the department of social and health services behavioral health administration, the developmental disabilities administration, the division of vocational rehabilitation, and the economic services administration to the youth's shared planning meeting that occurs between the age of 17 and 17.5 that is used to develop a transition plan. It is the responsibility of the department to include these agencies in the shared planning meeting.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6287.SL.pdf?cite=2018%20c%2058%20§%2049[2018 c 58 § 49]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5740-S.SL.pdf?cite=2015%20c%20240%20§%204[2015 c 240 § 4]; ]
+. For youth who are subject to an open dependency proceeding under chapter 13.34 RCW and the department caseworker believes may be eligible for services administered by the developmental disabilities administration, the department shall convene a shared planning meeting that includes representatives from the developmental disabilities administration and the division of vocational rehabilitation when the youth is between the ages of 16 and 16.5. This meeting must be used to begin planning services for the youth in advance of the youth's transition to adulthood. The shared planning meeting required under this subsection may include:
+
+.. Assessing functional eligibility for developmental disability waiver services;
+
+.. Understanding the services that the youth wants or needs upon the youth's exit from a dependency under chapter 13.34 RCW;
+
+.. Advanced planning for residential services provided by the developmental disabilities administration of the department of social and health services;
+
+.. Advanced planning for housing options available from entities other than the developmental disabilities administration of the department of social and health services the youth wants or needs upon the youth's exit from a dependency under chapter 13.34 RCW; and
+
+.. Development of an action plan so that the services the youth wants or needs will be provided following the youth's exit from dependency proceedings under chapter 13.34 RCW.
+
+. If children who are subject to an open dependency proceeding under chapter 13.34 RCW and who are the subject of either shared planning meeting described under this section may qualify for services provided by the developmental disabilities administration pursuant to Title 71A RCW, the department shall direct these youth to apply for these services and provide assistance in the application process.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1061-S2.SL.pdf?cite=2021%20c%2056%20§%203[2021 c 56 § 3]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6287.SL.pdf?cite=2018%20c%2058%20§%2049[2018 c 58 § 49]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5740-S.SL.pdf?cite=2015%20c%20240%20§%204[2015 c 240 § 4]; ]
 
 == 74.13.500 - Disclosure of child welfare records—Factors—Exception.
 . Consistent with the provisions of chapter 42.56 RCW and applicable federal law, the secretary, or the secretary's designee, shall disclose information regarding the abuse or neglect of a child, the investigation of the abuse, neglect, or near fatality of a child, and any services related to the abuse or neglect of a child if any one of the following factors is present:
@@ -908,7 +924,7 @@ These strategies must include at least the following:
 
 .. The department shall ensure that the fatality review team is made up of individuals who had no previous involvement in the case, including individuals whose professional expertise is pertinent to the dynamics of the case.
 
-.. Upon conclusion of a child fatality review required pursuant to this section, the department shall within one hundred eighty days following the fatality issue a report on the results of the review, unless an extension has been granted by the governor. Reports must be distributed to the appropriate committees of the legislature, and the department shall create a public web site where all child fatality review reports required under this section must be posted and maintained. A child fatality review report completed pursuant to this section is subject to public disclosure and must be posted on the public web site, except that confidential information may be redacted by the department consistent with the requirements of RCW 13.50.100, 68.50.105, 74.13.500 through 74.13.525, chapter 42.56 RCW, and other applicable state and federal laws.
+.. Upon conclusion of a child fatality review required pursuant to this section, the department shall within one hundred eighty days following the fatality issue a report on the results of the review, unless an extension has been granted by the governor. Reports must be distributed to the appropriate committees of the legislature, and the department shall create a public website where all child fatality review reports required under this section must be posted and maintained. A child fatality review report completed pursuant to this section is subject to public disclosure and must be posted on the public website, except that confidential information may be redacted by the department consistent with the requirements of RCW 13.50.100, 68.50.105, 74.13.500 through 74.13.525, chapter 42.56 RCW, and other applicable state and federal laws.
 
 .. The department shall develop and implement procedures to carry out the requirements of this section.
 
@@ -998,20 +1014,22 @@ The office of innovation, alignment, and accountability must develop a single va
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2008.SL.pdf?cite=2018%20c%20208%20§%203[2018 c 208 § 3]; ]
 
-== 74.13.700 - Denial or delay of licensure or approval of unsupervised access to children. (Effective until January 1, 2021.)
+== 74.13.700 - Denial or delay of licensure or approval of unsupervised access to children.
 . In determining the character, suitability, and competence of an individual, the department may not:
 
-.. Deny or delay a license or approval of unsupervised access to children to an individual solely because of a crime or civil infraction involving the individual or entity revealed in the background check process that does not fall within the categories of disqualifying crimes described in the adoption and safe families act of 1997 or does not relate directly to child safety, permanence, or well-being; or
+.. Deny or delay a license or approval of unsupervised access to children to an individual solely because of a crime or civil infraction involving the individual or entity revealed in the background check process that does not fall within the categories of disqualifying crimes described in the adoption and safe families act of 1997 or does not relate directly to child safety, permanence, or well-being;
+
+.. Deny or delay a license or approval of unsupervised access to children to an individual solely because of a founded finding of physical abuse or negligent treatment or maltreatment by the applicant or solely because the applicant's child was found by a court to be dependent as a result of a finding that the parent abused or neglected the child pursuant to RCW 13.34.030(6)(b) when that founded finding or court finding is accompanied by a certificate of parental improvement as defined in this chapter related to the same incident; or
 
 .. Delay the issuance of a license or approval of unsupervised access to children by requiring the individual to obtain records relating to a crime or civil infraction revealed in the background check process that does not fall within the categories of disqualifying crimes described in the adoption and safe families act of 1997 or does not relate directly to child safety, permanence, or well-being.
 
 . If the department determines that an individual does not possess the character, suitability, or competence to provide care or have unsupervised access to a child, it must provide the reasons for its decision in writing with copies of the records or documents related to its decision to the individual within ten days of making the decision.
 
-. For purposes of this section, "individual" means a relative as defined in RCW 74.15.020(2)(a), an "other suitable person" under chapter 13.34 RCW, a person pursuing licensing as a foster parent, or a person employed or seeking employment by a business or organization licensed by the department or with whom the department has a contract to provide care, supervision, case management, or treatment of children in the care of the department. "Individual" does not include long-term care workers defined in *RCW 74.39A.009(17)(a) whose background checks are conducted as provided in RCW 74.39A.056.
+. For purposes of this section, "individual" means a relative as defined in RCW 74.15.020(2)(a), an "other suitable person" under chapter 13.34 RCW, a person pursuing licensing as a foster parent, or a person employed or seeking employment by a business or organization licensed by the department or with whom the department has a contract to provide care, supervision, case management, or treatment of children in the care of the department. "Individual" does not include long-term care workers defined in RCW 74.39A.009 whose background checks are conducted as provided in RCW 74.39A.056.
 
 . The department or its officers, agents, or employees may not be held civilly liable based upon its decision to grant or deny unsupervised access to children if the background information it relied upon at the time the decision was made did not indicate that child safety, permanence, or well-being would be a concern.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6095-S.SL.pdf?cite=2014%20c%2088%20§%204[2014 c 88 § 4]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5565-S.SL.pdf?cite=2013%20c%20162%20§%202[2013 c 162 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1645-S2.SL.pdf?cite=2020%20c%20270%20§%203[2020 c 270 § 3]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6095-S.SL.pdf?cite=2014%20c%2088%20§%204[2014 c 88 § 4]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5565-S.SL.pdf?cite=2013%20c%20162%20§%202[2013 c 162 § 2]; ]
 
 == 74.13.705 - Background checks—Out-of-state requests—Fees.
 The department shall charge a fee to process a request made by a person in another state for an individual's child abuse or neglect history in this state or other background history on the individual possessed by the department. All proceeds from the fees collected must go directly to aiding the cost associated with the department conducting background checks.
@@ -1042,7 +1060,7 @@ The department shall charge a fee to process a request made by a person in anoth
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6479-S.SL.pdf?cite=2014%20c%20104%20§%201[2014 c 104 § 1]; ]
 
-== 74.13.715 - Family connections program—Report to legislature. (Expires June 30, 2022.)
+== 74.13.715 - Family connections program—Report to legislature. (Expires June 30, 2023.)
 . Beginning September 1, 2020, the department shall contract with an external organization or organizations with experience serving youth or families receiving out-of-home care services to implement and operate the family connections program, which facilitates interaction between a parent of a child found to be dependent pursuant to chapter 13.34 RCW and in out-of-home care and the individual with whom the child is placed.
 
 . The external organization or organizations contracted to implement and operate the family connections program shall implement and operate the family connections program in one location west of the crest of the Cascade mountains, and one location east of the crest of the Cascade mountains.
@@ -1079,17 +1097,17 @@ The department shall charge a fee to process a request made by a person in anoth
 
 .. "Experienced caregiver" means:
 
-... An individual who is or has received a foster-family home license pursuant to chapter 74.15 RCW or an equivalent license from another state; or
+... An individual who is or has received a foster family home license pursuant to chapter 74.15 RCW or an equivalent license from another state; or
 
 ... An individual who cared for a child who was removed from his or her parent pursuant to chapter 13.34 RCW and who has a kin relationship to that child pursuant to RCW 74.13.600.
 
 .. "Parent ally" has the same meaning as provided in RCW 2.70.060.
 
-. This section expires June 30, 2022.
+. This section expires June 30, 2023.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2525-S.SL.pdf?cite=2020%20c%2033%20§%202[2020 c 33 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5092-S.SL.pdf?cite=2021%20c%20334%20§%20990[2021 c 334 § 990]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2525-S.SL.pdf?cite=2020%20c%2033%20§%202[2020 c 33 § 2]; ]
 
-== 74.13.720 - Certificates of parental improvement—Issuance—Standards—Rules—Liability. (Effective January 1, 2021.)
+== 74.13.720 - Certificates of parental improvement—Issuance—Standards—Rules—Liability.
 . The department shall develop and implement a process by which an individual who is the subject of a founded finding of negligent treatment or maltreatment or physical abuse as defined in RCW 26.44.020 or by rule or an individual whose child was found by a court to be dependent as a result of a finding that the individual abused or neglected their child pursuant to RCW 13.34.030(6)(b) may request the secretary issue a certificate of parental improvement.
 
 . The secretary shall respond to a request for a certificate of parental improvement and notify the requestor of the secretary's determination to issue or deny that request within sixty days of the receipt of a complete request.
@@ -1172,7 +1190,7 @@ The department shall charge a fee to process a request made by a person in anoth
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1645-S2.SL.pdf?cite=2020%20c%20270%20§%201[2020 c 270 § 1]; ]
 
-== 74.13.730 - Certificates of parental improvement—Administrative review. (Effective January 1, 2021.)
+== 74.13.730 - Certificates of parental improvement—Administrative review.
 . A person who applies for a certificate of parental improvement pursuant to RCW 74.13.720 has the right to seek review of the secretary's denial of this certificate request as provided in this section.
 
 . The written notice provided by the department denying a request for a certificate of parental improvement must be sent by mail to the requestor's last known address and include at least the following information in plain language:
@@ -1241,6 +1259,13 @@ The department shall charge a fee to process a request made by a person in anoth
 . This section expires June 30, 2022.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2525-S.SL.pdf?cite=2020%20c%2033%20§%207[2020 c 33 § 7]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5718-S2.SL.pdf?cite=2019%20c%20328%20§%201[2019 c 328 § 1]; ]
+
+== 74.13.805 - Medicaid waiver services eligibility reporting.
+. The department shall collaborate with the developmental disabilities administration of the department of social and health services to determine the number of enrolled clients of the developmental disabilities administration of the department of social and health services ages 16 through 21 years old who are functionally eligible for medicaid waiver services, who are also defined as dependent children under chapter 13.34 RCW, and who may exit dependency proceedings under chapter 13.34 RCW after reaching the maximum age for dependent children.
+
+. By November 15th, and in compliance with RCW 43.01.036, the department shall submit an annual report to the appropriate committees of the legislature that provides the number of children and youth identified under subsection (1) of this section and other relevant information related to best serving these youth.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1061-S2.SL.pdf?cite=2021%20c%2056%20§%202[2021 c 56 § 2]; ]
 
 == 74.13.901 - Construction—Chapter applicable to state registered domestic partnerships—2009 c 521.
 For the purposes of this chapter, the terms spouse, marriage, marital, husband, wife, widow, widower, next of kin, and family shall be interpreted as applying equally to state registered domestic partnerships or individuals in state registered domestic partnerships as well as to marital relationships and married persons, and references to dissolution of marriage shall apply equally to state registered domestic partnerships that have been terminated, dissolved, or invalidated, to the extent that such interpretation does not conflict with federal law. Where necessary to implement chapter 521, Laws of 2009, gender-specific terms such as husband and wife used in any statute, rule, or other law shall be construed to be gender neutral, and applicable to individuals in state registered domestic partnerships. Nothing in chapter 521, Laws of 2009 shall be construed as creating or requiring the creation of any medical assistance program, as that term is defined in RCW 74.09.010, for state registered domestic partners that is analogous to federal medical assistance programs extended to married persons.

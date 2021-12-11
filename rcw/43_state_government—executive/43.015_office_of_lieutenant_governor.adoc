@@ -98,7 +98,7 @@ The lieutenant governor serves as president of the senate and is responsible for
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2402.SL.pdf?cite=2020%20c%20114%20§%205[2020 c 114 § 5]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1661-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%206%20§%20814[2017 3rd sp.s. c 6 § 814]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5024.SL.pdf?cite=2015%20c%20225%20§%2061[2015 c 225 § 61]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1502-S.SL.pdf?cite=2011%20c%20158%20§%2012[2011 c 158 § 12]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2617-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%207%20§%20136[2010 1st sp.s. c 7 § 136]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2617-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%207%20§%20135[2010 1st sp.s. c 7 § 135]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2658-S2.SL.pdf?cite=2010%20c%20271%20§%20704[2010 c 271 § 704]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5995.SL.pdf?cite=2009%20c%20560%20§%2027[2009 c 560 § 27]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3205-S2.SL.pdf?cite=2008%20c%20152%20§%209[2008 c 152 § 9]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6246-S.SL.pdf?cite=2006%20c%20317%20§%204[2006 c 317 § 4]; ]
 
-== 43.15.030 - Washington state leadership board—Created.
+== 43.15.030 - Washington state leadership board—Created. (Effective until January 1, 2022.)
 . The Washington state leadership board is organized as a private, nonprofit, nonpartisan corporation in accordance with chapter 24.03 RCW and this section.
 
 . The purpose of the Washington state leadership board is to:
@@ -125,7 +125,7 @@ The lieutenant governor serves as president of the senate and is responsible for
 
 . The legislature may make appropriations in support of the Washington state leadership board subject to the availability of funds.
 
-. The office of the lieutenant governor must post on its web site detailed information on all funds received by the Washington state leadership board and all expenditures by the Washington state leadership board.
+. The office of the lieutenant governor must post on its website detailed information on all funds received by the Washington state leadership board and all expenditures by the Washington state leadership board.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2402.SL.pdf?cite=2020%20c%20114%20§%2018[2020 c 114 § 18]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5746-S.SL.pdf?cite=2018%20c%2067%20§%201[2018 c 67 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5862-S.SL.pdf?cite=2005%20c%2069%20§%201[2005 c 69 § 1]; ]
 
@@ -206,7 +206,7 @@ The committee shall cooperate, act, and function with legislative committees, ex
 . [Empty]
 .. Students may apply annually to be considered for participation in the program by completing an online application form and submitting the application to the legislative youth advisory council. The council may develop selection criteria and an application review process. The council shall recommend candidates whose names will be submitted to the office of the lieutenant governor for final selection. The office of the lieutenant governor shall notify all applicants of the final selections.
 
-.. The office of the lieutenant governor shall make the application available on the lieutenant governor's web site.
+.. The office of the lieutenant governor shall make the application available on the lieutenant governor's website.
 
 . Subject to the supervision of the office of the lieutenant governor, the council shall have the following duties:
 

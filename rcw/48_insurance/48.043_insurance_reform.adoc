@@ -190,7 +190,7 @@ Unless otherwise specifically provided, the definitions in this section apply th
 
 .. Recognizing integrated health care delivery systems focus on total cost of care, carrier's operating integrated care delivery systems may meet the requirement of (a) of this subsection by providing meaningful consumer data based on the total cost of care. This subsection applies only to the portion of enrollment a carrier offers pursuant to chapter 48.46 RCW and as part of an integrated delivery system, and does not exempt from (a) of this subsection coverage offered pursuant to chapter 48.21, 48.44, or 48.46 RCW if not part of an integrated delivery system;
 
-.. Are encouraged to display the cost for prescription medications on their member web site or through a link to a third party that manages the prescription benefits;
+.. Are encouraged to display the cost for prescription medications on their member website or through a link to a third party that manages the prescription benefits;
 
 .. Must include a patient review option or method for members to provide a rating or feedback on their experience with the medical provider that allows other members to see the patient review, the feedback must be monitored for appropriateness and validity, and the site may include independently compiled quality of care ratings of providers and facilities;
 
@@ -208,7 +208,7 @@ Unless otherwise specifically provided, the definitions in this section apply th
 
 . Each carrier offering or renewing a health benefit plan on or after January 1, 2016, must provide enrollees with the performance information required by section 2717 of the patient protection and affordable care act, P.L. 111-148 (2010), as amended by the health care and education reconciliation act, P.L. 111-152 (2010), and any federal regulations or guidance issued under that section of the affordable care act.
 
-. Each carrier offering or renewing a health benefit plan on or after January 1, 2016, must, within thirty days from the offer or renewal date, attest to the office of the insurance commissioner that the member transparency tools meet the requirements in this section and access to the tools is available on the home page within the health plan's secured member web site.
+. Each carrier offering or renewing a health benefit plan on or after January 1, 2016, must, within thirty days from the offer or renewal date, attest to the office of the insurance commissioner that the member transparency tools meet the requirements in this section and access to the tools is available on the home page within the health plan's secured member website.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6228-S.SL.pdf?cite=2014%20c%20224%20§%203[2014 c 224 § 3]; ]
 
@@ -335,7 +335,7 @@ A health carrier may not impose annual or lifetime dollar limits on an essential
 
 .. A statement that the outline is a summary of the policy or certificate and that the coverage document itself should be consulted to determine the governing contractual provisions; and
 
-... A contact number for the consumer to call with additional questions and a web site where a copy of the actual individual coverage policy or group certificate of coverage may be reviewed and obtained.
+... A contact number for the consumer to call with additional questions and a website where a copy of the actual individual coverage policy or group certificate of coverage may be reviewed and obtained.
 
 . The commissioner shall periodically review and update the standards developed under this section.
 
@@ -370,21 +370,39 @@ A health carrier may not impose annual or lifetime dollar limits on an essential
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1870-S.SL.pdf?cite=2019%20c%2033%20§%2014[2019 c 33 § 14]; ]
 
-== 48.43.0128 - Nongrandfathered health plans—Prohibited discrimination—Rules.
+== 48.43.0128 - Nongrandfathered health plans and plans issued or renewed on or after January 1, 2022—Prohibited discrimination—Rules.
 . A health carrier offering a nongrandfathered health plan or a plan deemed by the commissioner to have a short-term limited purpose or duration, or to be a student-only plan that is guaranteed renewable while the covered person is enrolled as a regular, full-time undergraduate student at an accredited higher education institution may not:
 
 .. In its benefit design or implementation of its benefit design, discriminate against individuals because of their age, expected length of life, present or predicted disability, degree of medical dependency, quality of life, or other health conditions; and
 
 .. With respect to the health plan or plan deemed by the commissioner to have a short-term limited purpose or duration, or to be a student-only plan that is guaranteed renewable while the covered person is enrolled as a regular, full-time undergraduate student at an accredited higher education institution, discriminate on the basis of race, color, national origin, disability, age, sex, gender identity, or sexual orientation.
 
-. Nothing in this section may be construed to prevent an issuer from appropriately utilizing reasonable medical management techniques.
+. Nothing in this section may be construed to prevent a carrier from appropriately utilizing reasonable medical management techniques.
 
-. Unless preempted by federal law, the commissioner shall adopt any rules necessary to implement this section, consistent with federal rules and guidance in effect on January 1, 2017, implementing the patient protection and affordable care act.
+. For health plans issued or renewed on or after January 1, 2022:
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2338-S.SL.pdf?cite=2020%20c%20228%20§%209[2020 c 228 § 9]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1870-S.SL.pdf?cite=2019%20c%2033%20§%2015[2019 c 33 § 15]; ]
+.. A health carrier may not deny or limit coverage for gender affirming treatment when that treatment is prescribed to an individual because of, related to, or consistent with a person's gender expression or identity, as defined in RCW 49.60.040, is medically necessary, and is prescribed in accordance with accepted standards of care.
+
+.. A health carrier may not apply categorical cosmetic or blanket exclusions to gender affirming treatment. When prescribed as medically necessary gender affirming treatment, a health carrier may not exclude as cosmetic services facial feminization surgeries and other facial gender affirming treatment, such as tracheal shaves, hair electrolysis, and other care such as mastectomies, breast reductions, breast implants, or any combination of gender affirming procedures, including revisions to prior treatment.
+
+.. A health carrier may not issue an adverse benefit determination denying or limiting access to gender affirming services, unless a health care provider with experience prescribing or delivering gender affirming treatment has reviewed and confirmed the appropriateness of the adverse benefit determination.
+
+.. Health carriers must comply with all network access rules and requirements established by the commissioner.
+
+. For the purposes of this section, "gender affirming treatment" means a service or product that a health care provider, as defined in RCW 70.02.010, prescribes to an individual to treat any condition related to the individual's gender identity and is prescribed in accordance with generally accepted standards of care. Gender affirming treatment must be covered in a manner compliant with the federal mental health parity and addiction equity act of 2008 and the federal affordable care act. Gender affirming treatment can be prescribed to two spirit, transgender, nonbinary, intersex, and other gender diverse individuals.
+
+. Nothing in this section may be construed to mandate coverage of a service that is not medically necessary.
+
+. By December 1, 2022, the commissioner, in consultation with the health care authority and the department of health, must issue a report on geographic access to gender affirming treatment across the state. The report must include the number of gender affirming providers offering care in each county, the carriers and medicaid managed care organizations those providers have active contracts with, and the types of services provided by each provider in each region. The commissioner must update the report biannually and post the report on its website.
+
+. The commissioner shall adopt any rules necessary to implement subsections (3), (4), and (5) of this section.
+
+. Unless preempted by federal law, the commissioner shall adopt any rules necessary to implement subsections (1) and (2) of this section, consistent with federal rules and guidance in effect on January 1, 2017, implementing the patient protection and affordable care act.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5313-S2.SL.pdf?cite=2021%20c%20280%20§%203[2021 c 280 § 3]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2338-S.SL.pdf?cite=2020%20c%20228%20§%209[2020 c 228 § 9]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1870-S.SL.pdf?cite=2019%20c%2033%20§%2015[2019 c 33 § 15]; ]
 
 == 48.43.016 - Utilization management standards and criteria—Health carrier requirements—Definitions.
-. A health carrier or its contracted entity that imposes different prior authorization standards and criteria for a covered service among tiers of contracting providers of the same licensed profession in the same health plan shall inform an enrollee which tier an individual provider or group of providers is in by posting the information on its web site in a manner accessible to both enrollees and providers.
+. A health carrier or its contracted entity that imposes different prior authorization standards and criteria for a covered service among tiers of contracting providers of the same licensed profession in the same health plan shall inform an enrollee which tier an individual provider or group of providers is in by posting the information on its website in a manner accessible to both enrollees and providers.
 
 . [Empty]
 .. A health carrier or its contracted entity may not require utilization management or review of any kind including, but not limited to, prior, concurrent, or postservice authorization for an initial evaluation and management visit and up to six treatment visits with a contracting provider in a new episode of care for each of the following: Chiropractic, physical therapy, occupational therapy, acupuncture and Eastern medicine, massage therapy, or speech and hearing therapies. Visits for which utilization management or review is prohibited under this section are subject to quantitative treatment limits of the health plan. Notwithstanding RCW 48.43.515(5) this section may not be interpreted to limit the ability of a health plan to require a referral or prescription for the therapies listed in this section.
@@ -395,7 +413,7 @@ A health carrier may not impose annual or lifetime dollar limits on an essential
 
 ... Retroactively deny care or refuse payment for the visits.
 
-. A health carrier shall post on its web site and provide upon the request of a covered person or contracting provider any prior authorization standards, criteria, or information the carrier uses for medical necessity decisions.
+. A health carrier shall post on its website and provide upon the request of a covered person or contracting provider any prior authorization standards, criteria, or information the carrier uses for medical necessity decisions.
 
 . A health care provider with whom a health carrier consults regarding a decision to deny, limit, or terminate a person's covered health care services must hold a license, certification, or registration, in good standing and must be in the same or related health field as the health care provider being reviewed or of a specialty whose practice entails the same or similar covered health care service.
 
@@ -585,7 +603,7 @@ For group health benefit plans, the following shall apply:
 == 48.43.039 - Grace period—Notification or information—Information concerning delinquencies or nonpayment of premiums—Defined.
 . For an enrollee who is in the second or third month of the grace period, an issuer of a qualified health plan shall:
 
-.. Upon request by a health care provider or health care facility, provide information regarding the enrollee's eligibility status in real-time;
+.. Upon request by a health care provider or health care facility, provide information regarding the enrollee's eligibility status in real time;
 
 .. Notify a health care provider or health care facility that an enrollee is in the grace period within three business days after submittal of a claim or status request for services provided; and
 
@@ -711,7 +729,7 @@ For group health benefit plans, the following shall apply:
 
 . A carrier shall electronically submit the information described in subsection (1) of this section in a format and according to instructions prescribed by the commissioner.
 
-. The commissioner shall make the information reported under this section available to the public in a format that allows comparison among carriers through a searchable public web site on the internet.
+. The commissioner shall make the information reported under this section available to the public in a format that allows comparison among carriers through a searchable public website on the internet.
 
 . For the purposes of licensed disability insurers, the commissioner shall work collaboratively with insurers to develop an additional or supplemental data statement that utilizes to the maximum extent possible information from the annual statement forms that are currently filed by these entities.
 
@@ -765,22 +783,40 @@ Upon request of a covered person or a covered person's personal representative, 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1239-S.SL.pdf?cite=2018%20c%2087%20§%204[2018 c 87 § 4]; ]
 
-== 48.43.072 - Required contraceptive coverage—Restrictions on copayments, deductibles, and other form of cost sharing. (Effective until January 1, 2021.)
-. A health plan issued or renewed on or after January 1, 2019, shall provide coverage for:
+== 48.43.072 - Required reproductive health care coverage—Restrictions on copayments, deductibles, and other form of cost sharing.
+. A health plan or student health plan, including student health plans deemed by the insurance commissioner to have a short-term limited purpose or duration or to be guaranteed renewable while the covered person is enrolled as a regular full-time undergraduate or graduate student at an accredited higher education institution, shall provide coverage for:
 
-.. All contraceptive drugs, devices, and other products, approved by the federal food and drug administration, including over-the-counter contraceptive drugs, devices, and products, approved by the federal food and drug administration;
+.. All contraceptive drugs, devices, and other products, approved by the federal food and drug administration, including over-the-counter contraceptive drugs, devices, and products, approved by the federal food and drug administration. This includes condoms, regardless of the gender or sexual orientation of the covered person, and regardless of whether they are to be used for contraception or exclusively for the prevention of sexually transmitted infections;
 
 .. Voluntary sterilization procedures;
 
-.. The consultations, examinations, procedures, and medical services that are necessary to prescribe, dispense, insert, deliver, distribute, administer, or remove the drugs, devices, and other products or services in (a) and (b) of this subsection.
+.. The consultations, examinations, procedures, and medical services that are necessary to prescribe, dispense, insert, deliver, distribute, administer, or remove the drugs, devices, and other products or services in (a) and (b) of this subsection;
+
+.. The following preventive services:
+
+... Screening for physical, mental, sexual, and reproductive health care needs that arise from a sexual assault; and
+
+... Well-person preventive visits;
+
+.. Medically necessary services and prescription medications for the treatment of physical, mental, sexual, and reproductive health care needs that arise from a sexual assault; and
+
+.. The following reproductive health-related over-the-counter drugs and products approved by the federal food and drug administration: Prenatal vitamins for pregnant persons; and breast pumps for covered persons expecting the birth or adoption of a child.
 
 . The coverage required by subsection (1) of this section:
 
-.. May not require copayments, deductibles, or other forms of cost sharing, unless the health plan is offered as a qualifying health plan for a health savings account. For such a qualifying health plan, the carrier must establish the plan's cost sharing for the coverage required by subsection (1) of this section at the minimum level necessary to preserve the enrollee's ability to claim tax exempt contributions and withdrawals from his or her health savings account under internal revenue service laws and regulations; and
+.. May not require copayments, deductibles, or other forms of cost sharing:
 
-.. May not require a prescription to trigger coverage of over-the-counter contraceptive drugs, devices, and products, approved by the federal food and drug administration.
+... Except for:
 
-. A health carrier may not deny the coverage required in subsection (1) of this section because an enrollee changed his or her contraceptive method within a twelve-month period.
+(A) The medically necessary services and prescription medications required by subsection (1)(e) of this section; and
+
+(B) The drugs and products in subsection (1)(f) of this section; or
+
+... Unless the health plan is offered as a qualifying health plan for a health savings account. For such a qualifying health plan, the carrier must establish the plan's cost sharing for the coverage required by subsection (1) of this section at the minimum level necessary to preserve the enrollee's ability to claim tax exempt contributions and withdrawals from the enrollee's health savings account under internal revenue service laws and regulations; and
+
+.. May not require a prescription to trigger coverage of over-the-counter contraceptive drugs, devices, and products, approved by the federal food and drug administration, except those reproductive health-related drugs and products as set forth in subsection (1)(f) of this section.
+
+. A health carrier may not deny the coverage required in subsection (1) of this section because an enrollee changed the enrollee's contraceptive method within a twelve-month period.
 
 . Except as otherwise authorized under this section, a health benefit plan may not impose any restrictions or delays on the coverage required under this section, such as medical management techniques that limit enrollee choice in accessing the full range of contraceptive drugs, devices, or other products, approved by the federal food and drug administration.
 
@@ -788,26 +824,46 @@ Upon request of a covered person or a covered person's personal representative, 
 
 . This section may not be construed to allow for denial of care on the basis of race, color, national origin, sex, sexual orientation, gender expression or identity, marital status, age, citizenship, immigration status, or disability.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6219-S.SL.pdf?cite=2018%20c%20119%20§%202[2018 c 119 § 2]; ]
+. A health plan or student health plan, including student health plans deemed by the insurance commissioner to have a short-term limited purpose or duration or to be guaranteed renewable while the covered person is enrolled as a regular full-time undergraduate or graduate student at an accredited higher education institution, issued or renewed on or after January 1, 2021, may not issue automatic initial denials of coverage for reproductive health care services that are ordinarily or exclusively available to individuals of one gender, based on the fact that the individual's gender assigned at birth, gender identity, or gender otherwise recorded in one or more government-issued documents, is different from the one to which such health services are ordinarily or exclusively available.
+
+. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+.. "Gender expression" means a person's gender-related appearance and behavior, whether or not stereotypically associated with the person's gender assigned at birth.
+
+.. "Gender identity" means a person's internal sense of the person's own gender, regardless of the person's gender assigned at birth.
+
+.. "Reproductive health care services" means any medical services or treatments, including pharmaceutical and preventive care service or treatments, directly involved in the reproductive system and its processes, functions, and organs involved in reproduction, in all stages of life. Reproductive health care services does not include infertility treatment.
+
+.. "Reproductive system" includes, but is not limited to: Genitals, gonads, the uterus, ovaries, fallopian tubes, and breasts.
+
+.. "Well-person preventive visits" means the preventive annual visits recommended by the federal health resources and services administration women's preventive services guidelines, with the understanding that those visits must be covered for women, and when medically appropriate, for transgender, nonbinary, and intersex individuals.
+
+. This section may not be construed to authorize discrimination on the basis of gender identity or expression, or perceived gender identity or expression, in the provision of nonreproductive health care services.
+
+. The commissioner, under RCW 48.30.300, and the human rights commission, under chapter 49.60 RCW[,] shall share enforcement authority over complaints of discrimination under this section as set forth in RCW 49.60.178.
+
+. The commissioner may adopt rules to implement this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5602-S2.SL.pdf?cite=2019%20c%20399%20§%203[2019 c 399 § 3]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6219-S.SL.pdf?cite=2018%20c%20119%20§%202[2018 c 119 § 2]; ]
 
 == 48.43.073 - Required abortion coverage—Limitations.
-. Except as provided in subsection (5) of this section, if a health plan issued or renewed on or after January 1, 2019, provides coverage for maternity care or services, the health plan must also provide a covered person with substantially equivalent coverage to permit the abortion of a pregnancy.
+. Except as provided in subsection (5) of this section, if a health plan issued or renewed on or after January 1, 2019, provides coverage for maternity care or services, the health plan must also provide a covered person with substantially equivalent coverage to permit the abortion of a pregnancy. Except as provided in subsection (5) of this section, if a student health plan, including student health plans deemed by the insurance commissioner to have a short-term limited purpose or duration or to be guaranteed renewable while the covered person is enrolled as a regular full-time undergraduate or graduate student at an accredited higher education institution, issued or renewed on or after January 1, 2022, provides coverage for maternity care or services, the health plan must also provide a covered person with substantially equivalent coverage to permit the abortion of a pregnancy.
 
 . [Empty]
-.. Except as provided in (b) of this subsection, a health plan subject to subsection (1) of this section may not limit in any way a person's access to services related to the abortion of a pregnancy.
+.. Except as provided in (b) of this subsection, a health plan or student health plan subject to subsection (1) of this section may not limit in any way a person's access to services related to the abortion of a pregnancy.
 
 .. [Empty]
-... Coverage for the abortion of a pregnancy may be subject to terms and conditions generally applicable to the health plan's coverage of maternity care or services, including applicable cost sharing.
+... Coverage for the abortion of a pregnancy may be subject to terms and conditions generally applicable to the health plan or student health plan's coverage of maternity care or services, including applicable cost sharing.
 
-... A health plan is not required to cover abortions that would be unlawful under RCW 9.02.120.
+... A health plan or student health plan is not required to cover abortions that would be unlawful under RCW 9.02.120.
 
 . Nothing in this section may be interpreted to limit in any way an individual's constitutionally or statutorily protected right to voluntarily terminate a pregnancy.
 
 . This section does not, pursuant to 42 U.S.C. Sec. 18054(a)(6), apply to a multistate plan that does not provide coverage for the abortion of a pregnancy.
 
-. If the application of this section to a health plan results in noncompliance with federal requirements that are a prescribed condition to the allocation of federal funds to the state, this section is inapplicable to the plan to the minimum extent necessary for the state to be in compliance. The inapplicability of this section to a specific health plan under this subsection does not affect the operation of this section in other circumstances.
+. If the application of this section to a health plan or student health plan results in noncompliance with federal requirements that are a prescribed condition to the allocation of federal funds to the state, this section is inapplicable to the plan to the minimum extent necessary for the state to be in compliance. The inapplicability of this section to a specific health plan or student health plan under this subsection does not affect the operation of this section in other circumstances.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6219-S.SL.pdf?cite=2018%20c%20119%20§%203[2018 c 119 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1009.SL.pdf?cite=2021%20c%2053%20§%201[2021 c 53 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6219-S.SL.pdf?cite=2018%20c%20119%20§%203[2018 c 119 § 3]; ]
 
 == 48.43.074 - Qualified health plans—Single invoice billing—Certification of compliance required in the segregation plan for premium amounts attributable to coverage of abortion services.
 . The legislature intends to codify the state's current practice of requiring health carriers to bill enrollees with a single invoice and to segregate into a separate account the premium attributable to abortion services for which federal funding is prohibited. Washington has achieved full compliance with section 1303 of the federal patient protection and affordable care act by requiring health carriers to submit a single invoice to enrollees and to segregate into a separate account the premium amounts attributable to coverage of abortion services for which federal funding is prohibited. Further, section 1303 states that the act does not preempt or otherwise have any effect on state laws regarding the prohibition of, or requirement of, coverage, funding, or procedural requirements on abortions.
@@ -846,7 +902,7 @@ Upon request of a covered person or a covered person's personal representative, 
 
 ... Furnishes the patient with an itemized bill that does not, directly or indirectly, mark up or increase the actual amount billed by the physician or clinical laboratory that performed the service; and
 
-... Discloses to the patient, through printed material or through a web site, that all anatomic pathology services are billed at exactly the amount charged for the service by the physician or laboratory that provided the service, and the identity of the provider;
+... Discloses to the patient, through printed material or through a website, that all anatomic pathology services are billed at exactly the amount charged for the service by the physician or laboratory that provided the service, and the identity of the provider;
 
 .. The referring laboratory, excluding a laboratory of a physician's office or group practice that does not perform the professional component of the anatomic pathology service for which such claim, bill, or demand is presented; or
 
@@ -1551,7 +1607,7 @@ For health plans delivered, issued for delivery, or renewed on or after January 
 == 48.43.420 - Prescription drug utilization management—Exception request process—Conditions, requirements, and time frames for approval or denial of requests—Emergency fill coverage—Notice of new policies and procedures.
 For health plans delivered, issued for delivery, or renewed on or after January 1, 2021:
 
-. When coverage of a prescription drug for the treatment of any medical condition is subject to prescription drug utilization management, the patient and prescribing practitioner must have access to a clear, readily accessible, and convenient process to request an exception through which the prescription drug utilization management can be overridden in favor of coverage of a prescription drug prescribed by a treating health care provider. A health carrier or prescription drug utilization management entity may use its existing medical exceptions process to satisfy this requirement. The process must be easily accessible on the health carrier and prescription drug utilization management entity's web site. Approval criteria must be clearly posted on the health carrier and prescription drug utilization management entity's web site. This information must be in plain language and understandable to providers and patients.
+. When coverage of a prescription drug for the treatment of any medical condition is subject to prescription drug utilization management, the patient and prescribing practitioner must have access to a clear, readily accessible, and convenient process to request an exception through which the prescription drug utilization management can be overridden in favor of coverage of a prescription drug prescribed by a treating health care provider. A health carrier or prescription drug utilization management entity may use its existing medical exceptions process to satisfy this requirement. The process must be easily accessible on the health carrier and prescription drug utilization management entity's website. Approval criteria must be clearly posted on the health carrier and prescription drug utilization management entity's website. This information must be in plain language and understandable to providers and patients.
 
 . Health carriers must disclose all rules and criteria related to the prescription drug utilization management process to all participating providers, including the specific information and documentation that must be submitted by a health care provider or patient to be considered a complete exception request.
 
@@ -1761,7 +1817,7 @@ It is the intent of the legislature that enrollees covered by health plans recei
 
 . No carrier may preclude or discourage enrollees or those paying for their coverage from discussing the comparative merits of different carriers with their providers. This prohibition specifically includes prohibiting or limiting providers participating in those discussions even if critical of a carrier.
 
-. Each carrier must communicate enrollee information required in chapter 5, Laws of 2000 by means that ensure that a substantial portion of the enrollee population can make use of the information. Carriers may implement alternative, efficient methods of communication to ensure enrollees have access to information including, but not limited to, web site alerts, postcard mailings, and electronic communication in lieu of printed materials.
+. Each carrier must communicate enrollee information required in chapter 5, Laws of 2000 by means that ensure that a substantial portion of the enrollee population can make use of the information. Carriers may implement alternative, efficient methods of communication to ensure enrollees have access to information including, but not limited to, website alerts, postcard mailings, and electronic communication in lieu of printed materials.
 
 . The commissioner may adopt rules to implement this section. In developing rules to implement this section, the commissioner shall consider relevant standards adopted by national managed care accreditation organizations and state agencies that purchase managed health care services, as well as opportunities to reduce administrative costs included in health plans.
 
@@ -2157,7 +2213,7 @@ Certification by the Washington health benefit exchange of a plan as a qualified
 
 .. Ensure that enrollees have prompt access to the information required under this subsection; and
 
-.. Clearly and legibly include the information specified in (a)(i) and (ii) of this subsection in any of its marketing materials that include a list of benefits covered under the plan. The information must also be listed in the benefit booklet and posted on the carrier's health plan or student health plan web site.
+.. Clearly and legibly include the information specified in (a)(i) and (ii) of this subsection in any of its marketing materials that include a list of benefits covered under the plan. The information must also be listed in the benefit booklet and posted on the carrier's health plan or student health plan website.
 
 . For the purpose of mitigating inequity in the health insurance market, unless waived by the commissioner pursuant to (c) of this subsection, the commissioner must assess a fee on any health carrier offering a health plan or student health plan if the health plan or student health plan excludes, under state or federal law, any essential health benefit or coverage that is otherwise required or mandated by this title or rules adopted by the commissioner.
 
@@ -2167,7 +2223,7 @@ Certification by the Washington health benefit exchange of a plan as a qualified
 
 .. The commissioner may waive the fee assessed under this subsection (2) if he or she finds that the carrier excluding a mandated benefit for a health plan or student health plan provides health plan enrollees or student health plan enrollees alternative access to all excluded mandated benefits.
 
-. Beginning July 1, 2021, the commissioner shall provide on its web site written notice of the carrier requirements in this section and information on alternate ways in which enrollees may access excluded benefits in a timely manner.
+. Beginning July 1, 2021, the commissioner shall provide on its website written notice of the carrier requirements in this section and information on alternate ways in which enrollees may access excluded benefits in a timely manner.
 
 . Nothing in this section limits the authority of the commissioner to take enforcement action if a health carrier unlawfully fails to comply with the provisions of this title.
 
@@ -2263,7 +2319,7 @@ Certification by the Washington health benefit exchange of a plan as a qualified
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6097-S.SL.pdf?cite=2020%20c%20247%20§%201[2020 c 247 § 1]; ]
 
-== 48.43.735 - Reimbursement of health care services provided through telemedicine or store and forward technology.
+== 48.43.735 - Reimbursement of health care services provided through telemedicine or store and forward technology—Audio-only telemedicine.
 . [Empty]
 .. For health plans issued or renewed on or after January 1, 2017, a health carrier shall reimburse a provider for a health care service provided to a covered person through telemedicine or store and forward technology if:
 
@@ -2271,14 +2327,16 @@ Certification by the Washington health benefit exchange of a plan as a qualified
 
 ... The health care service is medically necessary;
 
-... The health care service is a service recognized as an essential health benefit under section 1302(b) of the federal patient protection and affordable care act in effect on January 1, 2015; and
+... The health care service is a service recognized as an essential health benefit under section 1302(b) of the federal patient protection and affordable care act in effect on January 1, 2015;
 
-... The health care service is determined to be safely and effectively provided through telemedicine or store and forward technology according to generally accepted health care practices and standards, and the technology used to provide the health care service meets the standards required by state and federal laws governing the privacy and security of protected health information.
+... The health care service is determined to be safely and effectively provided through telemedicine or store and forward technology according to generally accepted health care practices and standards, and the technology used to provide the health care service meets the standards required by state and federal laws governing the privacy and security of protected health information; and
+
+.. Beginning January 1, 2023, for audio-only telemedicine, the covered person has an established relationship with the provider.
 
 .. [Empty]
-... Except as provided in (b)(ii) of this subsection, for health plans issued or renewed on or after January 1, 2021, a health carrier shall reimburse a provider for a health care service provided to a covered person through telemedicine at the same rate as if the health care service was provided in person by the provider.
+... Except as provided in (b)(ii) of this subsection, for health plans issued or renewed on or after January 1, 2021, a health carrier shall reimburse a provider for a health care service provided to a covered person through telemedicine the same amount of compensation the carrier would pay the provider if the health care service was provided in person by the provider.
 
-... Hospitals, hospital systems, telemedicine companies, and provider groups consisting of eleven or more providers may elect to negotiate a reimbursement rate for telemedicine services that differs from the reimbursement rate for in-person services.
+... Hospitals, hospital systems, telemedicine companies, and provider groups consisting of eleven or more providers may elect to negotiate an amount of compensation for telemedicine services that differs from the amount of compensation for in-person services.
 
 ... For purposes of this subsection (1)(b), the number of providers in a provider group refers to all providers within the group, regardless of a provider's location.
 
@@ -2294,7 +2352,7 @@ Certification by the Washington health benefit exchange of a plan as a qualified
 
 .. Physician's or other health care provider's office;
 
-.. Community mental health center;
+.. Licensed or certified behavioral health agency;
 
 .. Skilled nursing facility;
 
@@ -2302,7 +2360,7 @@ Certification by the Washington health benefit exchange of a plan as a qualified
 
 .. Renal dialysis center, except an independent renal dialysis center.
 
-. Except for subsection (3)(g) of this section, any originating site under subsection (3) of this section may charge a facility fee for infrastructure and preparation of the patient. Reimbursement for a facility fee must be subject to a negotiated agreement between the originating site and the health carrier. A distant site or any other site not identified in subsection (3) of this section may not charge a facility fee.
+. Except for subsection (3)(g) of this section, any originating site under subsection (3) of this section may charge a facility fee for infrastructure and preparation of the patient. Reimbursement for a facility fee must be subject to a negotiated agreement between the originating site and the health carrier. A distant site, a hospital that is an originating site for audio-only telemedicine, or any other site not identified in subsection (3) of this section may not charge a facility fee.
 
 . A health carrier may not distinguish between originating sites that are rural and urban in providing the coverage required in subsection (1) of this section.
 
@@ -2316,9 +2374,29 @@ Certification by the Washington health benefit exchange of a plan as a qualified
 
 .. An originating site or health care provider when the site or provider is not a contracted provider under the plan.
 
+. [Empty]
+.. If a provider intends to bill a patient or the patient's health plan for an audio-only telemedicine service, the provider must obtain patient consent for the billing in advance of the service being delivered.
+
+.. If the commissioner has cause to believe that a provider has engaged in a pattern of unresolved violations of this subsection (8), the commissioner may submit information to the appropriate disciplining authority, as defined in RCW 18.130.020, for action. Prior to submitting information to the appropriate disciplining authority, the commissioner may provide the provider with an opportunity to cure the alleged violations or explain why the actions in question did not violate this subsection (8).
+
+.. If the provider has engaged in a pattern of unresolved violations of this subsection (8), the appropriate disciplining authority may levy a fine or cost recovery upon the provider in an amount not to exceed the applicable statutory amount per violation and take other action as permitted under the authority of the disciplining authority. Upon completion of its review of any potential violation submitted by the commissioner or initiated directly by an enrollee, the disciplining authority shall notify the commissioner of the results of the review, including whether the violation was substantiated and any enforcement action taken as a result of a finding of a substantiated violation.
+
 . For purposes of this section:
 
+.. [Empty]
+... "Audio-only telemedicine" means the delivery of health care services through the use of audio-only technology, permitting real-time communication between the patient at the originating site and the provider, for the purpose of diagnosis, consultation, or treatment.
+
+... For purposes of this section only, "audio-only telemedicine" does not include:
+
+(A) The use of facsimile or email; or
+
+(B) The delivery of health care services that are customarily delivered by audio-only technology and customarily not billed as separate services by the provider, such as the sharing of laboratory results;
+
+.. "Disciplining authority" has the same meaning as in RCW 18.130.020;
+
 .. "Distant site" means the site at which a physician or other licensed provider, delivering a professional service, is physically located at the time the service is provided through telemedicine;
+
+.. "Established relationship" means the covered person has had at least one in-person appointment within the past year with the provider providing audio-only telemedicine or with a provider employed at the same clinic as the provider providing audio-only telemedicine or the covered person was referred to the provider providing audio-only telemedicine by another provider who has had at least one in-person appointment with the covered person within the past year and has provided relevant medical information to the provider providing audio-only telemedicine;
 
 .. "Health care service" has the same meaning as in RCW 48.43.005;
 
@@ -2330,9 +2408,11 @@ Certification by the Washington health benefit exchange of a plan as a qualified
 
 .. "Store and forward technology" means use of an asynchronous transmission of a covered person's medical information from an originating site to the health care provider at a distant site which results in medical diagnosis and management of the covered person, and does not include the use of audio-only telephone, facsimile, or email; and
 
-.. "Telemedicine" means the delivery of health care services through the use of interactive audio and video technology, permitting real-time communication between the patient at the originating site and the provider, for the purpose of diagnosis, consultation, or treatment. For purposes of this section only, "telemedicine" does not include the use of audio-only telephone, facsimile, or email.
+.. "Telemedicine" means the delivery of health care services through the use of interactive audio and video technology, permitting real-time communication between the patient at the originating site and the provider, for the purpose of diagnosis, consultation, or treatment. For purposes of this section only, "telemedicine" includes audio-only telemedicine, but does not include facsimile or email.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5385-S.SL.pdf?cite=2020%20c%2092%20§%201[2020 c 92 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5436.SL.pdf?cite=2017%20c%20219%20§%201[2017 c 219 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6519-S.SL.pdf?cite=2016%20c%2068%20§%203[2016 c 68 § 3]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5175-S.SL.pdf?cite=2015%20c%2023%20§%203[2015 c 23 § 3]; ]
+. [(10)] The commissioner may adopt any rules necessary to implement this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1196-S.SL.pdf?cite=2021%20c%20157%20§%202[2021 c 157 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5385-S.SL.pdf?cite=2020%20c%2092%20§%201[2020 c 92 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5436.SL.pdf?cite=2017%20c%20219%20§%201[2017 c 219 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6519-S.SL.pdf?cite=2016%20c%2068%20§%203[2016 c 68 § 3]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5175-S.SL.pdf?cite=2015%20c%2023%20§%203[2015 c 23 § 3]; ]
 
 == 48.43.740 - Dental only plan—Emergency dental conditions—Definitions.
 . A health carrier offering a dental only plan may not deny coverage for treatment of emergency dental conditions that would otherwise be considered a covered service of an existing benefit contract on the basis that the services were provided on the same day the covered person was examined and diagnosed for the emergency dental condition.
@@ -2368,7 +2448,7 @@ Certification by the Washington health benefit exchange of a plan as a qualified
 
 . A carrier shall electronically submit the information described in subsection (1) of this section in a format and according to instructions prescribed by the commissioner.
 
-. The commissioner shall make the information reported under this section available to the public in a format that allows comparison among carriers through a searchable public web site on the internet.
+. The commissioner shall make the information reported under this section available to the public in a format that allows comparison among carriers through a searchable public website on the internet.
 
 . For the purposes of licensed disability insurers and health care service contractors, the commissioner shall work collaboratively with insurers to develop an additional or supplemental data statement that utilizes to the maximum extent possible information from the annual statement forms that are currently filed by these entities.
 
@@ -2470,10 +2550,15 @@ For health plans issued or renewed on or after January 1, 2020, a health carrier
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2642-S.SL.pdf?cite=2020%20c%20345%20§%203[2020 c 345 § 3]; ]
 
+== 48.43.762 - Opioid overdose reversal medication bulk purchasing and distribution program.
+For health plans issued or renewed on or after January 1, 2023, health carriers must participate in the opioid overdose reversal medication bulk purchasing and distribution program established in RCW 70.14.170 once the program is operational. A health plan may not impose enrollee cost sharing related to opioid overdose reversal medication provided through the bulk purchasing and distribution program established in RCW 70.14.170.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5195-S2.SL.pdf?cite=2021%20c%20273%20§%2011[2021 c 273 § 11]; ]
+
 == 48.43.765 - Health carrier network adequacy—Mental health and substance abuse treatment.
 . The commissioner shall amend his or her rules on electronic provider directories to require health carriers to include a notation when any mental health provider or substance abuse provider is closed to new patients.
 
-. Beginning January 1, 2020, a health carrier shall prominently post the information listed in (a) through (e) of this subsection on its web site in an easily understandable format and in a manner that any interested party may obtain the information:
+. Beginning January 1, 2020, a health carrier shall prominently post the information listed in (a) through (e) of this subsection on its website in an easily understandable format and in a manner that any interested party may obtain the information:
 
 .. Whether the health carrier classifies mental health treatment and substance abuse treatment as primary care or specialty care and the number of business days within which an enrollee must have access to covered mental health treatment services and substance abuse treatment services under network access standards pertaining to primary care or specialty care, as applicable, adopted by the commissioner;
 
@@ -2485,11 +2570,11 @@ For health plans issued or renewed on or after January 1, 2020, a health carrier
 
 .. Resources for persons who are experiencing a mental health crisis including, but not limited to, information on the national suicide prevention lifeline.
 
-. The commissioner shall, by rule, specify a model format for the information required to be posted on a health carrier's web site under subsection (2) of this section.
+. The commissioner shall, by rule, specify a model format for the information required to be posted on a health carrier's website under subsection (2) of this section.
 
 . The commissioner may audit the information a health carrier provides under this section for accuracy.
 
-. The commissioner shall annually publish on the commissioner's web site a report on the number of consumer complaints per licensed health carrier the commissioner received in the previous calendar year regarding consumers who were not able to access covered mental health treatment services or substance abuse treatment services within the time limits established by the commissioner for primary care or specialty care.
+. The commissioner shall annually publish on the commissioner's website a report on the number of consumer complaints per licensed health carrier the commissioner received in the previous calendar year regarding consumers who were not able to access covered mental health treatment services or substance abuse treatment services within the time limits established by the commissioner for primary care or specialty care.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1099-S.SL.pdf?cite=2019%20c%2011%20§%201[2019 c 11 § 1]; ]
 
@@ -2511,6 +2596,31 @@ A carrier may not require a provider or facility participating in a qualified he
 . This section expires January 1, 2023.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2662-S2.SL.pdf?cite=2020%20c%20346%20§%205[2020 c 346 § 5]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6087-S2.SL.pdf?cite=2020%20c%20245%20§%201[2020 c 245 § 1]; ]
+
+== 48.43.785 - COVID-19 personal protective equipment expenses—Health care provider reimbursement. (Contingent expiration date.)
+. For the duration of the federal public health emergency related to COVID-19, a health benefit plan shall reimburse a health care provider who bills for incurred personal protective equipment expenses as a separate expense, using the American medical association's current procedural terminology code 99072 or as subsequently amended, $6.57 for each individual patient encounter.
+
+. For purposes of this section, cost sharing is limited to the covered service according to the terms and conditions of the health benefit plan and does not apply to an expense for personal protective equipment.
+
+. This section is not intended to apply to health care services that are not provided in person.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5169-S.SL.pdf?cite=2021%20c%2094%20§%202[2021 c 94 § 2]; ]
+
+== 48.43.790 - Behavioral services—Next-day appointments.
+Health plans issued or renewed on or after January 1, 2023, must make next-day appointments available to enrollees experiencing urgent, symptomatic behavioral health conditions to receive covered behavioral health services. The appointment may be with a licensed provider other than a licensed behavioral health professional, as long as that provider is acting within their scope of practice, and may be provided through telemedicine consistent with RCW 48.43.735. Need for urgent symptomatic care is associated with the presentation of behavioral health signs or symptoms that require immediate attention, but are not emergent.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1477-S2.SL.pdf?cite=2021%20c%20302%20§%20106[2021 c 302 § 106]; ]
+
+== 48.43.795 - Qualified health plans—Acceptance of premium and cost-sharing assistance.
+For qualified health plans offered on the exchange, a carrier shall:
+
+. Accept payments for enrollee premiums or cost-sharing assistance under RCW 43.71.110 or as part of a sponsorship program under RCW 43.71.030(4). Nothing in this subsection expands or restricts the types of sponsorship programs authorized under state and federal law;
+
+. Clearly communicate premium assistance amounts to enrollees as part of the invoicing and payment process; and
+
+. Accept and process enrollment and payment data transferred by the exchange in a timely manner.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5377-S2.SL.pdf?cite=2021%20c%20246%20§%204[2021 c 246 § 4]; ]
 
 == 48.43.902 - Effective date—1996 c 312.
 This act shall take effect July 1, 1996.

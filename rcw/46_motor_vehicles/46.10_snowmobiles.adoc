@@ -18,9 +18,9 @@ The following definitions apply throughout this chapter unless the context clear
 
 . "Public roadway" means the entire width of the right-of-way of any road or street designed and ordinarily used for travel or parking of motor vehicles, which is controlled by a public authority other than the Washington state department of transportation, and which is open as a matter of right to the general public for ordinary vehicular traffic.
 
-. "Snowmobile" means both "snowmobile" as defined in RCW 46.04.546 and "snow bike" as defined in RCW 46.04.545.
+. "Snowmobile" means "snowmobile" as defined in RCW 46.04.546, "snow bike" as defined in RCW 46.04.545, and "tracked all-terrain vehicle" as defined in RCW 46.04.589.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1436-S.SL.pdf?cite=2019%20c%20262%20§%205[2019 c 262 § 5]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6379.SL.pdf?cite=2010%20c%20161%20§%20225[2010 c 161 § 225]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1739.SL.pdf?cite=2005%20c%20235%20§%201[2005 c 235 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c182.pdf?cite=1979%20ex.s.%20c%20182%20§%201[1979 ex.s. c 182 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c158.pdf?cite=1979%20c%20158%20§%20131[1979 c 158 § 131]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c29.pdf?cite=1971%20ex.s.%20c%2029%20§%201[1971 ex.s. c 29 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5016.SL.pdf?cite=2021%20c%2086%20§%201[2021 c 86 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1436-S.SL.pdf?cite=2019%20c%20262%20§%205[2019 c 262 § 5]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6379.SL.pdf?cite=2010%20c%20161%20§%20225[2010 c 161 § 225]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1739.SL.pdf?cite=2005%20c%20235%20§%201[2005 c 235 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c182.pdf?cite=1979%20ex.s.%20c%20182%20§%201[1979 ex.s. c 182 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c158.pdf?cite=1979%20c%20158%20§%20131[1979 c 158 § 131]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c29.pdf?cite=1971%20ex.s.%20c%2029%20§%201[1971 ex.s. c 29 § 1]; ]
 
 == 46.10.310 - Registration prerequisite to operation.
 . Except as provided in this chapter, a person may not operate a snowmobile within this state unless the snowmobile has been registered as required under this chapter.
@@ -119,6 +119,11 @@ Registration is not required under this chapter for the following snowmobiles:
 The owner of a motorcycle may apply for a snowmobile registration as provided in RCW 46.16A.460 and under the terms of this chapter to use the motorcycle, when properly converted, as a snow bike for the purposes of this chapter.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1436-S.SL.pdf?cite=2019%20c%20262%20§%202[2019 c 262 § 2]; ]
+
+== 46.10.418 - Registration—Owners of certain wheeled all-terrain vehicles converted as tracked all-terrain vehicles may apply.
+The owner of a wheeled all-terrain vehicle weighing less than two thousand pounds in stock configuration, when properly converted, as a tracked all-terrain vehicle, may apply for a snowmobile registration as provided in RCW 46.09.390 and under the terms and for the purposes of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5016.SL.pdf?cite=2021%20c%2086%20§%203[2021 c 86 § 3]; ]
 
 == 46.10.420 - Snowmobile dealer licenses—Fee—License plates—Violation—License application upon sale.
 . Each dealer of snowmobiles in this state shall obtain a snowmobile dealer license from the department in a manner prescribed by the department. Upon receipt of an application for a snowmobile dealer's license and the fee provided in subsection (2) of this section, the dealer is licensed and a snowmobile dealer license number must be assigned.
@@ -267,7 +272,7 @@ The director may by order deny, suspend, or revoke the license of any snowmobile
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5061.SL.pdf?cite=2011%20c%20171%20§%2033[2011 c 171 § 33]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c17.pdf?cite=1982%20c%2017%20§%208[1982 c 17 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c148.pdf?cite=1980%20c%20148%20§%202[1980 c 148 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c182.pdf?cite=1979%20ex.s.%20c%20182%20§%2014[1979 ex.s. c 182 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c136.pdf?cite=1979%20ex.s.%20c%20136%20§%2044[1979 ex.s. c 136 § 44]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c181.pdf?cite=1975%201st%20ex.s.%20c%20181%20§%206[1975 1st ex.s. c 181 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c29.pdf?cite=1971%20ex.s.%20c%2029%20§%2019[1971 ex.s. c 29 § 19]; ]
 
-== 46.10.505 - Failure to register a snowmobile—Penalty, circumstances when.
+== 46.10.505 - Failure to register a snowmobile—Penalty, circumstances when. (Effective until October 1, 2021.)
 . It is a gross misdemeanor, punishable as provided under chapter 9A.20 RCW, for a resident, as identified in RCW 46.16A.140, to knowingly fail to register a snowmobile within fifteen days of receiving or refusing a notice issued by the department under RCW 46.93.210.
 
 . Excise taxes owed and fines assessed must be deposited in the manner provided under RCW 46.16A.030(6).

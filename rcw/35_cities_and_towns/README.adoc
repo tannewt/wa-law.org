@@ -89,7 +89,6 @@
 * link:35.102_municipal_business_and_occupation_tax.adoc[35.102 - Municipal business and occupation tax.]
 * link:35.103_fire_departments—performance_measures.adoc[35.103 - Fire departments—Performance measures.]
 * link:35.104_health_sciences_and_services_authorities.adoc[35.104 - Health sciences and services authorities.]
-* link:35.105_urban_forest_management.adoc[35.105 - Urban forest management.]
 * link:35.106_crime-free_rental_housing.adoc[35.106 - Crime-free rental housing.]
 * link:35.107_commercial_office_space_development.adoc[35.107 - Commercial office space development.]
 * link:35.110_passenger-only_ferry_service.adoc[35.110 - Passenger-only ferry service.]

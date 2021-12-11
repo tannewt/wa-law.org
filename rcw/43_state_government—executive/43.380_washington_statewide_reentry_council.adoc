@@ -17,7 +17,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2791-S2.SL.pdf?cite=2016%20c%20188%20§%202[2016 c 188 § 2]; ]
 
-== 43.380.020 - Washington statewide reentry council—Created—Executive director.
+== 43.380.020 - Washington statewide reentry council—Created—Executive director (as amended by 2021 c 243).
 . Subject to the availability of amounts appropriated for this specific purpose, the Washington statewide reentry council is created and located within the department for the purpose of promoting successful reentry of offenders after incarceration.
 
 . Through the executive director that may be appointed by the council, the department shall administer the council by:
@@ -26,9 +26,9 @@ The definitions in this section apply throughout this chapter unless the context
 
 .. Managing grants and other funds received, used, and disbursed by the council.
 
-. Except during the 2019-2021 fiscal biennium, the department may not designate additional full-time staff to the administration of the council beyond the executive director.
+(((3) Except during the 2019-2021 fiscal biennium, the department may not designate additional full-time staff to the administration of the council beyond the executive director.))
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1109-S.SL.pdf?cite=2019%20c%20415%20§%20976[2019 c 415 § 976]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2791-S2.SL.pdf?cite=2016%20c%20188%20§%203[2016 c 188 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5304-S2.SL.pdf?cite=2021%20c%20243%20§%2012[2021 c 243 § 12]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1109-S.SL.pdf?cite=2019%20c%20415%20§%20976[2019 c 415 § 976]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2791-S2.SL.pdf?cite=2016%20c%20188%20§%203[2016 c 188 § 3]; ]
 
 == 43.380.030 - Council—Membership.
 . The council comprises fifteen members appointed by the governor.

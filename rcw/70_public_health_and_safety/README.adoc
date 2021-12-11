@@ -94,3 +94,5 @@
 * link:70.352_dental_laboratories.adoc[70.352 - Dental laboratories.]
 * link:70.385_peer_support_services.adoc[70.385 - Peer support services.]
 * link:70.390_health_care_cost_transparency_board.adoc[70.390 - Health care cost transparency board.]
+* link:70.395_private_detention_facilities.adoc[70.395 - Private detention facilities.]
+* link:70.400_health_care_entities—pregnancy_complications.adoc[70.400 - Health care entities—Pregnancy complications.]

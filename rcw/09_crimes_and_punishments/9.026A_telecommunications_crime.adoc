@@ -11,7 +11,7 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 . "Access device" shall have the same meaning as that contained in RCW 9A.56.010.
 
-. "Computer" means an electronic, magnetic, optical, electrochemical, or other high speed data processing device performing logical, arithmetic, or storage functions, and includes any data storage facility or communications facility directly related to or operating in conjunction with such device, but does not mean an automated typewriter or typesetter, portable handheld calculator, or other similar device.
+. "Computer" means an electronic, magnetic, optical, electrochemical, or other high-speed data processing device performing logical, arithmetic, or storage functions, and includes any data storage facility or communications facility directly related to or operating in conjunction with such device, but does not mean an automated typewriter or typesetter, portable handheld calculator, or other similar device.
 
 . "Computer trespass" shall have the same meaning as that contained in chapter 9A.52 RCW.
 

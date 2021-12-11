@@ -252,11 +252,6 @@ The liability of a public depositary under this chapter shall not be altered by 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2061-S.SL.pdf?cite=2009%20c%209%20§%2017[2009 c 9 § 17]; ]
 
-== 39.58.240 - Credit union as public depositary—Conditions.
-A credit union may only accept deposits greater than the maximum insured amount from a public funds depositor that either is a county with a population of three hundred thousand persons or less or is a public funds depositor located within a county with a population of three hundred thousand persons or less.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1209-S.SL.pdf?cite=2018%20c%20237%20§%203[2018 c 237 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5913.SL.pdf?cite=2012%20c%2026%20§%201[2012 c 26 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6298-S.SL.pdf?cite=2010%20c%2036%20§%201[2010 c 36 § 1]; ]
-
 == 39.58.750 - Receipt, disbursement, or transfer of public funds by wire or other electronic communication means authorized.
 Notwithstanding any provision of law to the contrary, the state treasurer or any treasurer or other custodian of public funds may receive, disburse, or transfer public funds under his or her jurisdiction by means of wire or other electronic communication in accordance with accounting standards established by the state auditor under RCW 43.09.200 with regard to treasurers of municipalities or other custodians or by the office of financial management under RCW 43.88.160 in the case of the state treasurer and other state custodians to safeguard and insure accountability for the funds involved.
 

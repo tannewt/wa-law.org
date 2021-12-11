@@ -17,7 +17,7 @@ The definitions in this section apply throughout this chapter unless the context
 == 28B.160.020 - Admissions applications.
 . Except as provided in subsection (2) of this section, an institution of higher education may not use an initial admissions application that requests information about the criminal history of the applicant.
 
-. An institution of higher education may, but is not required to, use a third-party admissions application that contains information about the criminal history of the applicant if the institution of higher education posts a notice on its web site stating that the institution of higher education may not automatically or unreasonably deny an applicant's admission or restrict access to campus residency based on an applicant's criminal history.
+. An institution of higher education may, but is not required to, use a third-party admissions application that contains information about the criminal history of the applicant if the institution of higher education posts a notice on its website stating that the institution of higher education may not automatically or unreasonably deny an applicant's admission or restrict access to campus residency based on an applicant's criminal history.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6582.SL.pdf?cite=2018%20c%2083%20§%202[2018 c 83 § 2]; ]
 

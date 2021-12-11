@@ -115,7 +115,7 @@ All public highways in the state of Washington, or portions thereof, outside inc
 == 47.04.040 - Title to rights-of-way vested in state.
 Upon and after April 1, 1937, all rights-of-way of any primary state highways, together with all appurtenances thereto, the right or interest in or to which was, or is, in any county, road district, township, local improvement district, or other highway or road district or political subdivision of the state of Washington shall be and the same is hereby transferred to and vested in the state of Washington for use in conjunction with such primary state highways under the department of transportation.
 
-All public highways in the state of Washington which have been designated to be primary state highways or secondary state highways or classified as primary roads and which have been constructed and improved and maintained for a period of seven years prior to April 1, 1937, at the expense of the state shall operate to vest in the state of Washington all right, title, and interest to the right-of-ways thereof, including the roadway and ditches and existing drainage facilities, together with all appurtenances thereto and no informalities in the records of title to such public highways shall be construed to invalidate or vacate such public highways or to divest the state of Washington of any right, title and interest in the right-of-way thereof.
+All public highways in the state of Washington which have been designated to be primary state highways or secondary state highways or classified as primary roads and which have been constructed and improved and maintained for a period of seven years prior to April 1, 1937, at the expense of the state shall operate to vest in the state of Washington all right, title, and interest to the right-of-ways [rights-of-way] thereof, including the roadway and ditches and existing drainage facilities, together with all appurtenances thereto and no informalities in the records of title to such public highways shall be construed to invalidate or vacate such public highways or to divest the state of Washington of any right, title and interest in the right-of-way thereof.
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c30.pdf?cite=1979%20ex.s.%20c%2030%20§%207[1979 ex.s. c 30 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c13.pdf?cite=1961%20c%2013%20§%2047.04.040[1961 c 13 § 47.04.040]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1937c53.pdf?cite=1937%20c%2053%20§%2029[1937 c 53 § 29]; RRS § 6400-29; ]
 
@@ -394,21 +394,21 @@ The department may issue sufficient permits for the installation or removal of t
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6528-S.SL.pdf?cite=2006%20c%20324%20§%201[2006 c 324 § 1]; ]
 
 == 47.04.280 - Transportation system policy goals.
-. It is the intent of the legislature to establish policy goals for the planning, operation, performance of, and investment in, the state's transportation system. The policy goals established under this section are deemed consistent with the benchmark categories adopted by the state's blue ribbon commission on transportation on November 30, 2000. Public investments in transportation should support achievement of these policy goals:
+. It is the intent of the legislature to establish policy goals for the planning, operation, performance of, and investment in, the state's transportation system. Public investments in transportation should support achievement of these policy goals:
 
-.. Economic vitality: To promote and develop transportation systems that stimulate, support, and enhance the movement of people and goods to ensure a prosperous economy;
-
-.. Preservation: To maintain, preserve, and extend the life and utility of prior investments in transportation systems and services;
+.. Preservation: To maintain, preserve, and extend the life and utility of prior investments in transportation systems and services, including the state ferry system;
 
 .. Safety: To provide for and improve the safety and security of transportation customers and the transportation system;
 
+.. Stewardship: To continuously improve the quality, effectiveness, resilience, and efficiency of the transportation system;
+
 .. Mobility: To improve the predictable movement of goods and people throughout Washington state, including congestion relief and improved freight mobility;
 
-.. Environment: To enhance Washington's quality of life through transportation investments that promote energy conservation, enhance healthy communities, and protect the environment; and
+.. Economic vitality: To promote and develop transportation systems that stimulate, support, and enhance the movement of people and goods to ensure a prosperous economy; and
 
-.. Stewardship: To continuously improve the quality, effectiveness, and efficiency of the transportation system.
+.. Environment: To enhance Washington's quality of life through transportation investments that promote energy conservation, enhance healthy communities, and protect the environment.
 
-. The powers, duties, and functions of state transportation agencies must be performed in a manner consistent with the policy goals set forth in subsection (1) of this section.
+. The powers, duties, and functions of state transportation agencies must be performed in a manner consistent with the policy goals set forth in subsection (1) of this section with preservation and safety being priorities.
 
 . These policy goals are intended to be the basis for establishing detailed and measurable objectives and related performance measures.
 
@@ -418,7 +418,7 @@ The department may issue sufficient permits for the installation or removal of t
 
 . This section does not create a private right of action.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6614.SL.pdf?cite=2016%20c%2035%20§%203[2016 c 35 § 3]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5995.SL.pdf?cite=2015%203rd%20sp.s.%20c%2016%20§%201[2015 3rd sp.s. c 16 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5315-S2.SL.pdf?cite=2015%203rd%20sp.s.%20c%201%20§%20304[2015 3rd sp.s. c 1 § 304]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1644.SL.pdf?cite=2013%20c%20199%20§%201[2013 c 199 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6577-S.SL.pdf?cite=2010%20c%2074%20§%201[2010 c 74 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5412-S.SL.pdf?cite=2007%20c%20516%20§%203[2007 c 516 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2304-S.SL.pdf?cite=2002%20c%205%20§%20101[2002 c 5 § 101]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1137-S.SL.pdf?cite=2021%20c%20153%20§%201[2021 c 153 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6614.SL.pdf?cite=2016%20c%2035%20§%203[2016 c 35 § 3]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5995.SL.pdf?cite=2015%203rd%20sp.s.%20c%2016%20§%201[2015 3rd sp.s. c 16 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5315-S2.SL.pdf?cite=2015%203rd%20sp.s.%20c%201%20§%20304[2015 3rd sp.s. c 1 § 304]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1644.SL.pdf?cite=2013%20c%20199%20§%201[2013 c 199 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6577-S.SL.pdf?cite=2010%20c%2074%20§%201[2010 c 74 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5412-S.SL.pdf?cite=2007%20c%20516%20§%203[2007 c 516 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2304-S.SL.pdf?cite=2002%20c%205%20§%20101[2002 c 5 § 101]; ]
 
 == 47.04.285 - Review of and comment on state transportation policy goals by office of financial management—Biennial report.
 By October 1, 2016, and by October 1st biennially thereafter, the office of financial management shall review and comment prior to the department of transportation submitting to the legislature and the governor a report on the progress toward the attainment by state transportation agencies of the state transportation policy goals and objectives prescribed by statute, appropriation, and governor directive. The report must, at a minimum, include the degree to which state transportation programs have progressed toward the attainment of the policy goals established under RCW 47.04.280, as measured by the objectives and performance measures established under RCW 47.04.280.
@@ -596,10 +596,10 @@ When designing portions of a highway that are intended to be used as portions re
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2042-S2.SL.pdf?cite=2019%20c%20287%20§%2016[2019 c 287 § 16]; ]
 
-== 47.04.360 - Commercial advertising on web sites and social media.
-. The department is authorized to sell commercial advertising, including product placement, on department web sites and social media. In addition, the department is authorized to sell a version of its mobile application(s) to users who desire to have access to application(s) without advertising. The authority granted in this section does not affect the department's advertising authority provided in RCW 47.60.140.
+== 47.04.360 - Commercial advertising on websites and social media.
+. The department is authorized to sell commercial advertising, including product placement, on department websites and social media. In addition, the department is authorized to sell a version of its mobile application(s) to users who desire to have access to application(s) without advertising. The authority granted in this section does not affect the department's advertising authority provided in RCW 47.60.140.
 
-. The department shall deposit all moneys received from the sale of advertisements on web site and mobile applications as authorized in this section into the motor vehicle fund created in RCW 46.68.070.
+. The department shall deposit all moneys received from the sale of advertisements on website and mobile applications as authorized in this section into the motor vehicle fund created in RCW 46.68.070.
 
 . The department shall adopt standards for advertising, product placement, and other forms of commercial recognition that require the department to define and prohibit, at minimum, the content containing any of the following characteristics, which is not permitted:
 
@@ -612,4 +612,11 @@ When designing portions of a highway that are intended to be used as portions re
 .. Products, services, or messages that are contrary to the public interest, including any advertisement that encourages or depicts unsafe behaviors or encourages unsafe or prohibited driving activities. Alcohol, tobacco, and cannabis are included among the products prohibited.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5366-S.SL.pdf?cite=2017%20c%20157%20§%201[2017 c 157 § 1]; ]
+
+== 47.04.370 - Purple heart state—Signage—Account.
+. The department is authorized to erect signs as part of the transportation system recognizing that Washington state is a purple heart state as designated in RCW 1.20.190, especially at entry points to the state. The department is authorized to accept gifts or donations to assist efforts related to Washington state being a purple heart state.
+
+. The department of transportation purple heart state account is created in the custody of the state treasurer. All receipts from gifts and donations received pursuant to this section must be deposited into the account. Expenditures from the account may only be used to erect signs or other activities that assist efforts related to Washington state being a purple heart state, as authorized under this section. Only the secretary of the department of transportation or the secretary's designee may authorize expenditures from the account. The account is subject to allotment procedures under chapter 43.88 RCW, but an appropriation is not required for expenditures.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1250-S.SL.pdf?cite=2021%20c%20213%20§%205[2021 c 213 § 5]; ]
 

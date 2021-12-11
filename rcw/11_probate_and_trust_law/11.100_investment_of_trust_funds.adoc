@@ -102,10 +102,12 @@ Subject to the provisions of RCW 11.100.060 and any express provisions in the tr
 
 [ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5333-S.SL.pdf?cite=1995%20c%20307%20§%205[1995 c 307 § 5]; ]
 
-== 11.100.050 - Scope of chapter.
-The provisions of this chapter govern fiduciaries acting under wills, agreements, court orders, and other instruments effective before or after January 1, 1985.
+== 11.100.050 - Scope of chapter—RCW  11.68.090 prevails.
+. The provisions of this chapter govern fiduciaries acting under wills, agreements, court orders, and other instruments effective before or after January 1, 1985.
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c30.pdf?cite=1985%20c%2030%20§%2072[1985 c 30 § 72]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c149.pdf?cite=1984%20c%20149%20§%20107[1984 c 149 § 107]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c33.pdf?cite=1955%20c%2033%20§%2030.24.050[1955 c 33 § 30.24.050]; prior:  1947 c 100 § 5; Rem. Supp. 1947 § 3255-10e; ]
+. To the extent that this chapter is in conflict with RCW 11.68.090, RCW 11.68.090 prevails.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5132.SL.pdf?cite=2021%20c%20140%20§%204024[2021 c 140 § 4024]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c30.pdf?cite=1985%20c%2030%20§%2072[1985 c 30 § 72]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c149.pdf?cite=1984%20c%20149%20§%20107[1984 c 149 § 107]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c33.pdf?cite=1955%20c%2033%20§%2030.24.050[1955 c 33 § 30.24.050]; prior:  1947 c 100 § 5; Rem. Supp. 1947 § 3255-10e; ]
 
 == 11.100.060 - Fiduciary may hold and retain trust property—Investments—Liability.
 Subject to express provisions to the contrary in the trust instrument, any fiduciary may hold and retain any real or personal property received into or acquired by the trust from any source. Except as to trust property acquired for consideration, a fiduciary may hold and retain any such property without need for diversification as to kinds or amount and whether or not the property is income producing.

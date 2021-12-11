@@ -7,7 +7,7 @@ The legislature intends to inspire and encourage all Washington students to drea
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5098-S2.SL.pdf?cite=2007%20c%20405%20§%201[2007 c 405 § 1]; ]
 
 == 28B.118.010 - Program design and student eligibility.
-The office of student financial assistance shall design the Washington college bound scholarship program in accordance with this section and in alignment with the Washington college grant program in chapter 28B.92 RCW unless otherwise provided in this section.
+The office of student financial assistance shall design the Washington college bound scholarship program in accordance with this section and in alignment with the Washington college grant program in chapter 28B.92 RCW unless otherwise provided in this section. The right of an eligible student to receive a college bound scholarship vest upon enrollment in the program that is earned by meeting the requirements of this section as it exists at the time of the student's enrollment under subsection (2) of this section.
 
 . "Eligible students" are those students who:
 
@@ -25,31 +25,29 @@ The office of student financial assistance shall design the Washington college b
 
 .. Were dependent pursuant to chapter 13.34 RCW and were adopted between the ages of fourteen and eighteen with a negotiated adoption agreement that includes continued eligibility for the Washington state college bound scholarship program pursuant to RCW 74.13A.025.
 
-. Eligible students and the students' parents or guardians shall be notified of the student's eligibility for the Washington college bound scholarship program. Students and the students' parents or guardians shall also be notified of the requirements for award of the scholarship.
+. [Empty]
+.. Every eligible student shall be automatically enrolled by the office of student financial assistance, with no action necessary by the student, student's family, or student's guardians.
+
+.. Eligible students and the students' parents or guardians shall be notified of the student's enrollment in the Washington college bound scholarship program and the requirements for award of the scholarship by the office of student financial assistance. To the maximum extent practicable, an eligible student must acknowledge enrollment in the college bound scholarship program and receipt of the requirements for award of the scholarship.
+
+.. The office of the superintendent of public instruction and the department of children, youth, and families must provide the office of student financial assistance with a list of eligible students when requested. The office of student financial assistance must determine the most effective methods, including timing and frequency, to notify eligible students of enrollment in the Washington college bound scholarship program. The office of student financial assistance must take reasonable steps to ensure that eligible students acknowledge enrollment in the college bound scholarship program and receipt of the requirements for award of the scholarship. The office of student financial assistance shall also make available to every school district information, brochures, and posters to increase awareness and to enable school districts to notify eligible students directly or through school teachers, counselors, or school activities.
+
+. Except as provided in subsection (4) of this section, an eligible student must:
+
+.. Graduate with at least a "C" average from a public high school under RCW 28A.150.010, an approved private high school under chapter 28A.195 RCW in Washington, or have received home-based instruction under chapter 28A.200 RCW;
+
+.. Have no felony convictions;
+
+.. Be a resident student as defined in RCW 28B.15.012(2) (a) through (e); and
+
+.. Have a family income that does not exceed 65 percent of the state median family income at the time of high school graduation.
 
 . [Empty]
-.. To be eligible for a Washington college bound scholarship, a student eligible under subsection (1)(a)(i) of this section must sign a pledge during seventh or eighth grade or a student eligible under subsection (1)(a)(ii) of this section must sign a pledge during ninth grade. The pledge must include a commitment to graduate from high school with at least a C average and with no felony convictions. The pledge must be witnessed by a parent or guardian and forwarded to the office of student financial assistance by mail or electronically, as indicated on the pledge form.
+.. An eligible student who is a resident student under RCW 28B.15.012(2)(e) must also provide the institution, as defined in RCW 28B.15.012, an affidavit indicating that the individual will file an application to become a permanent resident at the earliest opportunity the individual is eligible to do so and a willingness to engage in any other activities necessary to acquire citizenship, including but not limited to citizenship or civics review courses.
 
-.. [Empty]
-... Beginning in the 2018-19 academic year, the office of student financial assistance shall make multiple attempts to secure the signature of the student's parent or guardian for the purpose of witnessing the pledge.
+.. For eligible students as defined in subsection (1)(b) and (c) of this section, a student may also meet the requirement in subsection (3)(a) of this section by receiving a high school equivalency certificate as provided in RCW 28B.50.536.
 
-... If the signature of the student's parent or guardian is not obtained, the office of student financial assistance may partner with the school counselor or administrator to secure the parent's or guardian's signature to witness the pledge. The school counselor or administrator shall make multiple attempts via all phone numbers, email addresses, and mailing addresses on record to secure the parent's or guardian's signature. All attempts to contact the parent or guardian must be documented and maintained in the student's official file.
-
-... If a parent's or guardian's signature is still not obtained, the school counselor or administrator shall indicate to the office of student financial assistance the nature of the unsuccessful efforts to contact the student's parent or guardian and the reasons the signature is not available. Then the school counselor or administrator may witness the pledge unless the parent or guardian has indicated that he or she does not wish for the student to participate in the program.
-
-.. A student eligible under subsection (1)(b) of this section shall be automatically enrolled, with no action necessary by the student or the student's family, and the enrollment form must be forwarded by the department of social and health services to the office of student financial assistance by mail or electronically, as indicated on the form.
-
-. [Empty]
-.. Scholarships shall be awarded to eligible students graduating from public high schools, approved private high schools under chapter 28A.195 RCW, or who received home-based instruction under chapter 28A.200 RCW.
-
-.. [Empty]
-... To receive the Washington college bound scholarship, a student must graduate with at least a "C" average from a public high school or an approved private high school under chapter 28A.195 RCW in Washington or have received home-based instruction under chapter 28A.200 RCW, must have no felony convictions, and must be a resident student as defined in RCW 28B.15.012(2) (a) through (e). A student who is eligible to receive the Washington college bound scholarship because the student is a resident student under RCW 28B.15.012(2)(e) must provide the institution, as defined in RCW 28B.15.012, an affidavit indicating that the individual will file an application to become a permanent resident at the earliest opportunity the individual is eligible to do so and a willingness to engage in any other activities necessary to acquire citizenship, including but not limited to citizenship or civics review courses.
-
-... For eligible children as defined in subsection (1)(b) and (c) of this section, to receive the Washington college bound scholarship, a student must have received a high school equivalency certificate as provided in RCW 28B.50.536 or have graduated with at least a "C" average from a public high school or an approved private high school under chapter 28A.195 RCW in Washington or have received home-based instruction under chapter 28A.200 RCW, must have no felony convictions, and must be a resident student as defined in RCW 28B.15.012(2) (a) through (e).
-
-For a student who does not meet the "C" average requirement, and who completes fewer than two quarters in the running start program, under chapter 28A.600 RCW, the student's first quarter of running start course grades must be excluded from the student's overall grade point average for purposes of determining their eligibility to receive the scholarship.
-
-. A student's family income will be assessed upon graduation before awarding the scholarship. If at graduation from high school the student's family income does not exceed sixty-five percent of the state median family income, scholarship award amounts shall be as provided in this section.
+.. For a student who does not meet the "C" average requirement, and who completes fewer than two quarters in the running start program, under chapter 28A.600 RCW, the student's first quarter of running start course grades must be excluded from the student's overall grade point average for purposes of determining if the requirement in subsection (3)(a) of this section is met.
 
 . [Empty]
 .. For students attending two or four-year institutions of higher education as defined in RCW 28B.10.016, the value of the award shall be (i) the difference between the student's tuition and required fees, less the value of any state-funded grant, scholarship, or waiver assistance the student receives; (ii) plus five hundred dollars for books and materials.
@@ -58,19 +56,19 @@ For a student who does not meet the "C" average requirement, and who completes f
 
 .. For students attending private vocational schools in Washington, the award amount shall be the representative average of awards granted to students in public community and technical colleges in Washington or the representative average of awards granted to students in public community and technical colleges in Washington in the 2014-15 academic year, whichever is greater.
 
-. Recipients may receive no more than four full-time years' worth of scholarship awards.
+. Eligible students must enroll no later than the fall term, as defined by the institution of higher education, one academic year following high school graduation. Eligible students may receive no more than four full-time years' worth of scholarship awards within a five-year period.
 
 . Institutions of higher education shall award the student all need-based and merit-based financial aid for which the student would otherwise qualify. The Washington college bound scholarship is intended to replace unmet need, loans, and, at the student's option, work-study award before any other grants or scholarships are reduced.
 
 . The first scholarships shall be awarded to students graduating in 2012.
 
-. The state of Washington retains legal ownership of tuition units awarded as scholarships under this chapter until the tuition units are redeemed. These tuition units shall remain separately held from any tuition units owned under chapter 28B.95 RCW by a Washington college bound scholarship recipient.
+. The eligible student has a property right in the award, but the state of Washington retains legal ownership of tuition units awarded as scholarships under this chapter until the tuition units are redeemed. These tuition units shall remain separately held from any tuition units owned under chapter 28B.95 RCW by a Washington college bound scholarship recipient.
 
 . The scholarship award must be used within five years of receipt. Any unused scholarship tuition units revert to the Washington college bound scholarship account.
 
 . Should the recipient terminate his or her enrollment for any reason during the academic year, the unused portion of the scholarship tuition units shall revert to the Washington college bound scholarship account.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2158-S2.SL.pdf?cite=2019%20c%20406%20§%2044[2019 c 406 § 44]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1311-S2.SL.pdf?cite=2019%20c%20298%20§%201[2019 c 298 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1488-S3.SL.pdf?cite=2018%20c%20204%20§%201[2018 c 204 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1293-S2.SL.pdf?cite=2018%20c%2012%20§%201[2018 c 12 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5890-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2020%20§%2011[2017 3rd sp.s. c 20 § 11]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5954-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%2036%20§%208[2015 3rd sp.s. c 36 § 8]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5851-S2.SL.pdf?cite=2015%20c%20244%20§%203[2015 c 244 § 3]; prior:  2012 c 229 § 402; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2254-S.SL.pdf?cite=2012%20c%20163%20§%208[2012 c 163 § 8]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5182-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2011%20§%20226[2011 1st sp.s. c 11 § 226]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6673-S2.SL.pdf?cite=2008%20c%20321%20§%209[2008 c 321 § 9]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5098-S2.SL.pdf?cite=2007%20c%20405%20§%202[2007 c 405 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5321-S.SL.pdf?cite=2021%20c%20283%20§%202[2021 c 283 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2158-S2.SL.pdf?cite=2019%20c%20406%20§%2044[2019 c 406 § 44]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1311-S2.SL.pdf?cite=2019%20c%20298%20§%201[2019 c 298 § 1]; prior:  2018 c 204 § 1; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1293-S2.SL.pdf?cite=2018%20c%2012%20§%201[2018 c 12 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5890-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2020%20§%2011[2017 3rd sp.s. c 20 § 11]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5954-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%2036%20§%208[2015 3rd sp.s. c 36 § 8]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5851-S2.SL.pdf?cite=2015%20c%20244%20§%203[2015 c 244 § 3]; prior:  2012 c 229 § 402; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2254-S.SL.pdf?cite=2012%20c%20163%20§%208[2012 c 163 § 8]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5182-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2011%20§%20226[2011 1st sp.s. c 11 § 226]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6673-S2.SL.pdf?cite=2008%20c%20321%20§%209[2008 c 321 § 9]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5098-S2.SL.pdf?cite=2007%20c%20405%20§%202[2007 c 405 § 2]; ]
 
 == 28B.118.020 - Duties of the office of the superintendent of public instruction.
 The office of the superintendent of public instruction shall:
@@ -91,13 +89,13 @@ The office of student financial assistance shall:
 
 . With the assistance of the office of the superintendent of public instruction, implement and administer the Washington college bound scholarship program;
 
-. Develop and distribute, to all schools with students enrolled in grades seven through nine, a pledge form that can be completed and returned electronically or by mail by the student or the school to the office of student financial assistance;
+. Develop effective methods to notify eligible students of their enrollment in the Washington college bound scholarship program and the requirements of RCW 28B.118.010;
 
-. Develop and implement a student application, selection, and notification process for scholarships, which includes working with other state agencies, law enforcement, or the court system to verify that eligible students do not have felony convictions;
+. Develop and implement a process for scholarships, which includes working with other state agencies, law enforcement, or the court system to verify that eligible students do not have felony convictions;
 
-. Annually in March, with the assistance of the office of the superintendent of public instruction, distribute to tenth grade college bound scholarship students and their families: (a) Notification that, to qualify for the scholarship, a student's family income may not exceed sixty-five percent of the state median family income at graduation from high school; (b) the current year's value for sixty-five percent of the state median family income; and (c) a statement that a student should consult their school counselor if their family makes, or is projected to make, more than this value before the student graduates;
+. Annually in March, with the assistance of the office of the superintendent of public instruction, distribute to tenth grade eligible students and their families: (a) Notification that, to qualify for the scholarship, a student's family income may not exceed sixty-five percent of the state median family income at graduation from high school; (b) the current year's value for sixty-five percent of the state median family income; and (c) a statement that a student should consult their school counselor if their family makes, or is projected to make, more than this value before the student graduates;
 
-. Develop comprehensive social media outreach with grade-level specific information designed to keep students on track to graduate and leverage current tools such as the high school and beyond plan required by the state board of education and the ready set grad web site maintained by the student achievement council;
+. Develop comprehensive social media outreach with grade-level specific information designed to keep students on track to graduate and leverage current tools such as the high school and beyond plan required by the state board of education and the ready set grad website maintained by the student achievement council;
 
 . Track scholarship recipients to ensure continued eligibility and determine student compliance for awarding of scholarships;
 
@@ -109,7 +107,7 @@ The office of student financial assistance shall:
 
 . Distribute scholarship funds, in the form of tuition units purchased under the advanced college tuition payment program in chapter 28B.95 RCW or through direct payments from the state educational trust fund, to institutions of higher education on behalf of scholarship recipients identified by the office, as long as recipients maintain satisfactory academic progress.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1311-S2.SL.pdf?cite=2019%20c%20298%20§%202[2019 c 298 § 2]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1293-S2.SL.pdf?cite=2018%20c%2012%20§%202[2018 c 12 § 2]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5851-S2.SL.pdf?cite=2015%20c%20244%20§%204[2015 c 244 § 4]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5182-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2011%20§%20228[2011 1st sp.s. c 11 § 228]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5098-S2.SL.pdf?cite=2007%20c%20405%20§%205[2007 c 405 § 5]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5321-S.SL.pdf?cite=2021%20c%20283%20§%203[2021 c 283 § 3]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1311-S2.SL.pdf?cite=2019%20c%20298%20§%202[2019 c 298 § 2]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1293-S2.SL.pdf?cite=2018%20c%2012%20§%202[2018 c 12 § 2]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5851-S2.SL.pdf?cite=2015%20c%20244%20§%204[2015 c 244 § 4]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5182-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2011%20§%20228[2011 1st sp.s. c 11 § 228]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5098-S2.SL.pdf?cite=2007%20c%20405%20§%205[2007 c 405 § 5]; ]
 
 == 28B.118.050 - Grants, gifts, bequests, and devises.
 The office of student financial assistance may accept grants, gifts, bequests, and devises of real and personal property from any source for the purpose of granting financial aid in addition to that funded by the state.
@@ -134,7 +132,7 @@ Each institution of higher education is encouraged to tailor advising resources 
 == 28B.118.090 - Transmitting data to the education data center.
 . Beginning January 1, 2015, and at a minimum every year thereafter, the student achievement council and all institutions of higher education eligible to participate in the college bound scholarship program shall ensure data needed to analyze and evaluate the effectiveness of the college bound scholarship program is promptly transmitted to the education data center created in RCW 43.41.400 so that it is available and easily accessible. The data to be reported should include but not be limited to:
 
-.. The number of students who sign up for the college bound scholarship program in seventh, eighth, or ninth grade;
+.. The number of enrolled students for the college bound scholarship program in seventh, eighth, or ninth grade;
 
 .. The number of college bound scholarship students who graduate from high school;
 
@@ -152,5 +150,5 @@ Each institution of higher education is encouraged to tailor advising resources 
 
 . Beginning May 12, 2015, and at a minimum every December 1st thereafter, the student achievement council shall submit student unit record data for the college bound scholarship program applicants and recipients to the education data center.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2158-S2.SL.pdf?cite=2019%20c%20406%20§%2045[2019 c 406 § 45]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1311-S2.SL.pdf?cite=2019%20c%20298%20§%203[2019 c 298 § 3]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5851-S2.SL.pdf?cite=2015%20c%20244%20§%206[2015 c 244 § 6]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5321-S.SL.pdf?cite=2021%20c%20283%20§%204[2021 c 283 § 4]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2158-S2.SL.pdf?cite=2019%20c%20406%20§%2045[2019 c 406 § 45]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1311-S2.SL.pdf?cite=2019%20c%20298%20§%203[2019 c 298 § 3]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5851-S2.SL.pdf?cite=2015%20c%20244%20§%206[2015 c 244 § 6]; ]
 

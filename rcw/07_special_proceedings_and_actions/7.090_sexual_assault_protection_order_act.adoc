@@ -1,12 +1,12 @@
 = 7.90 - Sexual assault protection order act.
 :toc:
 
-== 7.90.005 - Legislative declaration.
+== 7.90.005 - Legislative declaration. (Effective until July 1, 2022.)
 Sexual assault is the most heinous crime against another person short of murder. Sexual assault inflicts humiliation, degradation, and terror on victims. According to the FBI, a woman is raped every six minutes in the United States. Rape is recognized as the most underreported crime; estimates suggest that only one in seven rapes is reported to authorities. Victims who do not report the crime still desire safety and protection from future interactions with the offender. Some cases in which the rape is reported are not prosecuted. In these situations, the victim should be able to seek a civil remedy requiring that the offender stay away from the victim. It is the intent of the legislature that the sexual assault protection order created by this chapter be a remedy for victims who do not qualify for a domestic violence order of protection.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1555-S.SL.pdf?cite=2007%20c%20212%20§%201[2007 c 212 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=2006%20c%20138%20§%201[2006 c 138 § 1]; ]
 
-== 7.90.010 - Definitions.
+== 7.90.010 - Definitions. (Effective until July 1, 2022.)
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 
 . "Electronic monitoring" means the same as in RCW 9.94A.030.
@@ -37,7 +37,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5149-S2.SL.pdf?cite=2020%20c%20296%20§%203[2020 c 296 § 3]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=2006%20c%20138%20§%202[2006 c 138 § 2]; ]
 
-== 7.90.020 - Petition for a sexual assault protection order—Creation—Contents—Administration.
+== 7.90.020 - Petition for a sexual assault protection order—Creation—Contents—Administration. (Effective until July 1, 2022.)
 There shall exist an action known as a petition for a sexual assault protection order.
 
 . A petition for relief shall allege the existence of nonconsensual sexual conduct or nonconsensual sexual penetration, and shall be accompanied by an affidavit made under oath stating the specific facts and circumstances from which relief is sought. Petitioner and respondent shall disclose the existence of any other litigation or of any other restraining, protection, or no-contact orders between the parties.
@@ -54,7 +54,7 @@ There shall exist an action known as a petition for a sexual assault protection 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1149.SL.pdf?cite=2019%20c%20258%20§%202[2019 c 258 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1437.SL.pdf?cite=2007%20c%2055%20§%201[2007 c 55 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=2006%20c%20138%20§%205[2006 c 138 § 5]; ]
 
-== 7.90.030 - Petition—Who may file.
+== 7.90.030 - Petition—Who may file. (Effective until July 1, 2022.)
 . A petition for a sexual assault protection order may be filed by a person:
 
 .. Who does not qualify for a protection order under chapter 26.50 RCW and who is a victim of nonconsensual sexual conduct or nonconsensual sexual penetration, including a single incident of nonconsensual sexual conduct or nonconsensual sexual penetration; or
@@ -69,7 +69,7 @@ There shall exist an action known as a petition for a sexual assault protection 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1555-S.SL.pdf?cite=2007%20c%20212%20§%202[2007 c 212 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=2006%20c%20138%20§%203[2006 c 138 § 3]; ]
 
-== 7.90.040 - Petition—Additional requirements.
+== 7.90.040 - Petition—Additional requirements. (Effective until July 1, 2022.)
 . Any person may seek relief under this chapter by filing a petition with a court alleging that the person has been the victim of nonconsensual sexual conduct or nonconsensual sexual penetration committed by the respondent.
 
 . A person under eighteen years of age who is sixteen years of age or older may seek relief under this chapter and is not required to seek relief by a guardian or next friend.
@@ -84,12 +84,12 @@ There shall exist an action known as a petition for a sexual assault protection 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1307-S.SL.pdf?cite=2013%20c%2074%20§%201[2013 c 74 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=2006%20c%20138%20§%204[2006 c 138 § 4]; ]
 
-== 7.90.050 - Petition—Hearings prior to issuance of protection order.
+== 7.90.050 - Petition—Hearings prior to issuance of protection order. (Effective until July 1, 2022.)
 Upon receipt of the petition, the court shall order a hearing which shall be held not later than fourteen days from the date of the order. The court may schedule a hearing by telephone pursuant to local court rule, to reasonably accommodate a disability, or in exceptional circumstances to protect a petitioner from further nonconsensual sexual conduct or nonconsensual sexual penetration. The court shall require assurances of the petitioner's identity before conducting a telephonic hearing. Personal service shall be made upon the respondent not less than five court days prior to the hearing. If timely personal service cannot be made, the court shall set a new hearing date and shall either require additional attempts at obtaining personal service or permit service by publication as provided in RCW 7.90.052 or service by mail as provided in RCW 7.90.053. The court shall not require more than two attempts at obtaining personal service and shall permit service by publication or service by mail unless the petitioner requests additional time to attempt personal service. If the court permits service by publication or service by mail, the court shall set the hearing date not later than twenty-four days from the date of the order. The court may issue an ex parte temporary sexual assault order pending the hearing as provided in RCW 7.90.110.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1307-S.SL.pdf?cite=2013%20c%2074%20§%202[2013 c 74 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=2006%20c%20138%20§%206[2006 c 138 § 6]; ]
 
-== 7.90.052 - Service by publication—When authorized.
+== 7.90.052 - Service by publication—When authorized. (Effective until July 1, 2022.)
 . The court may order service by publication instead of personal service under the following circumstances:
 
 .. The sheriff or municipal peace officer files an affidavit stating that the officer was unable to complete personal service upon the respondent. The affidavit must describe the number and type of attempts the officer made to complete service;
@@ -136,7 +136,7 @@ Petitioner . . . .
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1307-S.SL.pdf?cite=2013%20c%2074%20§%206[2013 c 74 § 6]; ]
 
-== 7.90.053 - Service by mail—When authorized.
+== 7.90.053 - Service by mail—When authorized. (Effective until July 1, 2022.)
 . In circumstances justifying service by publication under RCW 7.90.052, if the serving party files an affidavit stating facts from which the court determines that service by mail is just as likely to give actual notice as service by publication and that the serving party is unable to afford the cost of service by publication, the court may order that service be made by mail. The service must be made by any person over eighteen years of age, who is competent to be a witness, other than a party, by mailing copies of the order and other process to the party to be served at his or her last known address or any other address determined by the court to be appropriate. Two copies must be mailed, postage prepaid, one by ordinary first-class mail and the other by a form of mail requiring a signed receipt showing when and to whom it was delivered. The envelopes must bear the return address of the sender.
 
 . Proof of service under this section must be consistent with court rules for civil proceedings.
@@ -145,27 +145,27 @@ Petitioner . . . .
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1307-S.SL.pdf?cite=2013%20c%2074%20§%207[2013 c 74 § 7]; ]
 
-== 7.90.054 - Issuance of order following service by publication or mail.
+== 7.90.054 - Issuance of order following service by publication or mail. (Effective until July 1, 2022.)
 Following completion of service by publication as provided in RCW 7.90.052 or service by mail as provided in RCW 7.90.053, if the respondent fails to appear at the hearing, the court may issue an order of protection as provided in RCW 7.90.140. That order must be served pursuant to RCW 7.90.140 and forwarded to the appropriate law enforcement agency pursuant to RCW 7.90.160.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1307-S.SL.pdf?cite=2013%20c%2074%20§%208[2013 c 74 § 8]; ]
 
-== 7.90.055 - Fees not permitted—Filing, service of process, certified copies.
+== 7.90.055 - Fees not permitted—Filing, service of process, certified copies. (Effective until July 1, 2022.)
 No fees for filing or service of process may be charged by a public agency to petitioners seeking relief under this chapter. Petitioners shall be provided the necessary number of certified copies at no cost.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1437.SL.pdf?cite=2007%20c%2055%20§%202[2007 c 55 § 2]; ]
 
-== 7.90.060 - Sexual assault advocates.
+== 7.90.060 - Sexual assault advocates. (Effective until July 1, 2022.)
 Sexual assault advocates, as defined in RCW 5.60.060, shall be allowed to accompany the victim and confer with the victim, unless otherwise directed by the court. Court administrators shall allow sexual assault advocates to assist victims of nonconsensual sexual conduct or nonconsensual sexual penetration in the preparation of petitions for sexual assault protection orders. Sexual assault advocates are not engaged in the unauthorized practice of law when providing assistance of the types specified in this section. Communications between the petitioner and a sexual assault advocate are protected as provided by RCW 5.60.060.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=2006%20c%20138%20§%207[2006 c 138 § 7]; ]
 
-== 7.90.070 - Appointment of counsel.
+== 7.90.070 - Appointment of counsel. (Effective until July 1, 2022.)
 The court may appoint counsel to represent the petitioner if the respondent is represented by counsel.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=2006%20c%20138%20§%208[2006 c 138 § 8]; ]
 
-== 7.90.080 - Evidence.
+== 7.90.080 - Evidence. (Effective until July 1, 2022.)
 . In proceedings for a sexual assault protection order and prosecutions for violating a sexual assault protection order, the prior sexual activity or the reputation of the petitioner is inadmissible except:
 
 .. As evidence concerning the past sexual conduct of the petitioner with the respondent when this evidence is offered by the respondent upon the issue of whether the petitioner consented to the sexual conduct with respect to which the offense is alleged; or
@@ -176,7 +176,7 @@ The court may appoint counsel to represent the petitioner if the respondent is r
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=2006%20c%20138%20§%209[2006 c 138 § 9]; ]
 
-== 7.90.090 - Burden of proof—Issuance of protection order—Remedies—Violations.
+== 7.90.090 - Burden of proof—Issuance of protection order—Remedies—Violations. (Effective until July 1, 2022.)
 . [Empty]
 .. If the court finds by a preponderance of the evidence that the petitioner has been a victim of nonconsensual sexual conduct or nonconsensual sexual penetration by the respondent, the court shall issue a sexual assault protection order; provided that the petitioner must also satisfy the requirements of RCW 7.90.110 for ex parte temporary orders or RCW 7.90.120 for final orders.
 
@@ -210,12 +210,12 @@ The court may appoint counsel to represent the petitioner if the respondent is r
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1786-S.SL.pdf?cite=2019%20c%20245%20§%204[2019 c 245 § 4]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=2006%20c%20138%20§%2010[2006 c 138 § 10]; ]
 
-== 7.90.100 - Accountability for conduct of others.
+== 7.90.100 - Accountability for conduct of others. (Effective until July 1, 2022.)
 For the purposes of issuing a sexual assault protection order, deciding what relief should be included in the order, and enforcing the order, RCW 9A.08.020 shall govern whether the respondent is legally accountable for the conduct of another person.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=2006%20c%20138%20§%2011[2006 c 138 § 11]; ]
 
-== 7.90.110 - Ex parte temporary sexual assault protection orders—Issuance.
+== 7.90.110 - Ex parte temporary sexual assault protection orders—Issuance. (Effective until July 1, 2022.)
 . An ex parte temporary sexual assault protection order shall issue if the petitioner satisfies the requirements of this subsection by a preponderance of the evidence. The petitioner shall establish that:
 
 .. The petitioner has been a victim of nonconsensual sexual conduct or nonconsensual sexual penetration by the respondent; and
@@ -232,7 +232,7 @@ For the purposes of issuing a sexual assault protection order, deciding what rel
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1786-S.SL.pdf?cite=2019%20c%20245%20§%205[2019 c 245 § 5]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1555-S.SL.pdf?cite=2007%20c%20212%20§%203[2007 c 212 § 3]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=2006%20c%20138%20§%2012[2006 c 138 § 12]; ]
 
-== 7.90.120 - Ex parte orders—Duration.
+== 7.90.120 - Ex parte orders—Duration. (Effective until July 1, 2022.)
 . [Empty]
 .. An ex parte temporary sexual assault protection order shall be effective for a fixed period not to exceed fourteen days. A full hearing, as provided in this chapter, shall be set for not later than fourteen days from the issuance of the temporary order or not later than twenty-four days if service by publication or service by mail is permitted. If the court permits service by publication or service by mail, the court shall also reissue the ex parte temporary protection order not to exceed another twenty-four days from the date of reissuing the ex parte protection order. Except as provided in RCW 7.90.050, 7.90.052, or 7.90.053, the respondent shall be personally served with a copy of the ex parte temporary sexual assault protection order along with a copy of the petition and notice of the date set for the hearing.
 
@@ -246,7 +246,7 @@ For the purposes of issuing a sexual assault protection order, deciding what rel
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5256-S.SL.pdf?cite=2017%20c%20233%20§%201[2017 c 233 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1307-S.SL.pdf?cite=2013%20c%2074%20§%203[2013 c 74 § 3]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=2006%20c%20138%20§%2013[2006 c 138 § 13]; ]
 
-== 7.90.121 - Renewal of ex parte order.
+== 7.90.121 - Renewal of ex parte order. (Effective until July 1, 2022.)
 . Any ex parte temporary or nonpermanent final sexual assault protection order may be renewed one or more times, as required.
 
 . The petitioner may apply for renewal of the order by filing a motion for renewal at any time within the three months before the order expires. The motion for renewal shall state the reasons why the petitioner seeks to renew the protection order.
@@ -285,7 +285,7 @@ For the purposes of issuing a sexual assault protection order, deciding what rel
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5256-S.SL.pdf?cite=2017%20c%20233%20§%202[2017 c 233 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1307-S.SL.pdf?cite=2013%20c%2074%20§%204[2013 c 74 § 4]; ]
 
-== 7.90.130 - Sexual assault protection orders—Contents.
+== 7.90.130 - Sexual assault protection orders—Contents. (Effective until July 1, 2022.)
 . Any sexual assault protection order shall describe each remedy granted by the court, in reasonable detail and not by reference to any other document, so that the respondent may clearly understand what he or she must do or refrain from doing.
 
 . A sexual assault protection order shall further state the following:
@@ -304,7 +304,7 @@ For the purposes of issuing a sexual assault protection order, deciding what rel
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=2006%20c%20138%20§%2014[2006 c 138 § 14]; ]
 
-== 7.90.140 - Sexual assault protection orders—Service to respondent.
+== 7.90.140 - Sexual assault protection orders—Service to respondent. (Effective until July 1, 2022.)
 . An order issued under this chapter shall be personally served upon the respondent, except as provided in subsection (6) of this section.
 
 . The sheriff of the county or the peace officers of the municipality in which the respondent resides shall serve the respondent personally unless the petitioner elects to have the respondent served by a private party. If the order includes a requirement under RCW 9.41.800 for the immediate surrender of all firearms, dangerous weapons, and any concealed pistol license, the order must be served by a law enforcement officer.
@@ -321,7 +321,7 @@ For the purposes of issuing a sexual assault protection order, deciding what rel
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1786-S.SL.pdf?cite=2019%20c%20245%20§%206[2019 c 245 § 6]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1307-S.SL.pdf?cite=2013%20c%2074%20§%205[2013 c 74 § 5]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=2006%20c%20138%20§%2015[2006 c 138 § 15]; ]
 
-== 7.90.150 - Court initiated issuance of sexual assault protection orders—Terms, conditions, requirements, etc.
+== 7.90.150 - Court initiated issuance of sexual assault protection orders—Terms, conditions, requirements, etc. (Effective until July 1, 2022. Recodified as RCW  9A.44.210.)
 . [Empty]
 .. When any person charged with or arrested for a sex offense as defined in RCW 9.94A.030, a violation of RCW 9A.44.096, a violation of RCW 9.68A.090, or a gross misdemeanor that is, under chapter 9A.28 RCW, a criminal attempt, criminal solicitation, or criminal conspiracy to commit an offense that is classified as a sex offense under RCW 9.94A.030, is released from custody before arraignment or trial on bail or personal recognizance, the court authorizing the release may prohibit that person from having any contact with the victim. The jurisdiction authorizing the release shall determine whether that person should be prohibited from having any contact with the victim. If there is no outstanding restraining or protective order prohibiting that person from having contact with the victim, the court authorizing release may issue, by telephone, a sexual assault protection order prohibiting the person charged or arrested from having contact with the victim or from knowingly coming within, or knowingly remaining within, a specified distance of a location.
 
@@ -358,7 +358,7 @@ For the purposes of issuing a sexual assault protection order, deciding what rel
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=2006%20c%20138%20§%2016[2006 c 138 § 16]; ]
 
-== 7.90.155 - Sexual assault protection orders—Personal jurisdiction—Nonresident individuals.
+== 7.90.155 - Sexual assault protection orders—Personal jurisdiction—Nonresident individuals. (Effective until July 1, 2022.)
 . In a proceeding in which a petition for a sexual assault protection order is sought under this chapter, a court of this state may exercise personal jurisdiction over a nonresident individual if:
 
 .. The individual is personally served with a petition within this state;
@@ -380,14 +380,14 @@ For the purposes of issuing a sexual assault protection order, deciding what rel
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2777-S.SL.pdf?cite=2010%20c%20274%20§%20307[2010 c 274 § 307]; ]
 
-== 7.90.160 - Law enforcement agencies—Entry of protection order data.
+== 7.90.160 - Law enforcement agencies—Entry of protection order data. (Effective until July 1, 2022.)
 . A copy of a sexual assault protection order granted under this chapter shall be forwarded by the clerk of the court on or before the next judicial day to the appropriate law enforcement agency specified in the order. Upon receipt of the order, the law enforcement agency shall immediately enter the order into any computer-based criminal intelligence information system available in this state used by law enforcement agencies to list outstanding warrants. The order shall remain in the computer for one year or until the expiration date specified on the order. Upon receipt of notice that an order has been terminated, the law enforcement agency shall remove the order from the computer-based criminal intelligence information system. The law enforcement agency shall only expunge from the computer-based criminal intelligence information system orders that are expired, vacated, terminated, or superseded. Entry into the law enforcement information system constitutes notice to all law enforcement agencies of the existence of the order. The order is fully enforceable in any county in the state.
 
 . The information entered into the computer-based criminal intelligence information system shall include notice to law enforcement whether the order was personally served, served by publication, or served by mail.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=2006%20c%20138%20§%2017[2006 c 138 § 17]; ]
 
-== 7.90.170 - Modification or termination of protection orders.
+== 7.90.170 - Modification or termination of protection orders. (Effective until July 1, 2022.)
 . Upon a motion with notice to all parties and after a hearing, the court may terminate or modify the terms of an existing sexual assault protection order, including terms entered pursuant to RCW 9.41.800 related to firearms or other dangerous weapons or to concealed pistol licenses.
 
 . [Empty]
@@ -405,7 +405,7 @@ For the purposes of issuing a sexual assault protection order, deciding what rel
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5256-S.SL.pdf?cite=2017%20c%20233%20§%203[2017 c 233 § 3]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1307-S.SL.pdf?cite=2013%20c%2074%20§%209[2013 c 74 § 9]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=2006%20c%20138%20§%2018[2006 c 138 § 18]; ]
 
-== 7.90.180 - Administrative office of the courts—Court clerks—Instructional and informational material.
+== 7.90.180 - Administrative office of the courts—Court clerks—Instructional and informational material. (Effective until July 1, 2022.)
 . The administrative office of the courts shall develop and prepare instructions and informational brochures required under RCW 7.90.020, standard petition and order for protection forms, and a court staff handbook on sexual assault, and the protection order process. The standard petition and order for protection forms must be used after September 1, 2006, for all petitions filed and orders issued under this chapter. The instructions, brochures, forms, and handbook shall be prepared in consultation with interested persons, including a representative of the state sexual assault coalition, judges, and law enforcement personnel.
 
 .. The instructions shall be designed to assist petitioners in completing the petition, and shall include a sample of standard petition and order for protection forms.
@@ -428,12 +428,12 @@ For the purposes of issuing a sexual assault protection order, deciding what rel
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=2006%20c%20138%20§%2019[2006 c 138 § 19]; ]
 
-== 7.90.190 - Admissibility of ex parte temporary orders in civil actions.
+== 7.90.190 - Admissibility of ex parte temporary orders in civil actions. (Effective until July 1, 2022.)
 An ex parte temporary order issued under this chapter shall not be admissible as evidence in any subsequent civil action for damages arising from the conduct alleged in the petition or the order.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=2006%20c%20138%20§%2020[2006 c 138 § 20]; ]
 
-== 7.90.900 - Short title—2006 c 138.
+== 7.90.900 - Short title—2006 c 138. (Effective until July 1, 2022.)
 This act may be cited as the sexual assault protection order act.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=2006%20c%20138%20§%2028[2006 c 138 § 28]; ]

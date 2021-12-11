@@ -173,7 +173,7 @@ The definitions set forth in this section apply throughout this chapter unless t
 
 .. Violate any applicable state or federal law relating to the activities governed by this chapter; or
 
-.. Make or originate loans from any unlicensed location.
+.. Make or originate loans from any unlicensed location. It is not a violation for a licensed mortgage loan originator to originate loans from an unlicensed location if that location is the licensed mortgage loan originator's residence and the licensed mortgage loan originator and licensed sponsoring company comply with RCW 31.04.075.
 
 . It is a violation of this chapter for a student education loan servicer to:
 
@@ -197,7 +197,7 @@ The definitions set forth in this section apply throughout this chapter unless t
 
 . The director's obligations or duties under chapter 62, Laws of 2018 are subject to section 21, chapter 62, Laws of 2018.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6029-S2.SL.pdf?cite=2018%20c%2062%20§%2011[2018 c 62 § 11]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5299-S.SL.pdf?cite=2015%20c%20229%20§%2021[2015 c 229 § 21]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5207.SL.pdf?cite=2013%20c%2029%20§%203[2013 c 29 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2255-S.SL.pdf?cite=2012%20c%2017%20§%202[2012 c 17 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1405-S2.SL.pdf?cite=2011%20c%20191%20§%202[2011 c 191 § 2]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1205.SL.pdf?cite=2001%20c%2081%20§%203[2001 c 81 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5077.SL.pdf?cite=2021%20c%2015%20§%201[2021 c 15 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6029-S2.SL.pdf?cite=2018%20c%2062%20§%2011[2018 c 62 § 11]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5299-S.SL.pdf?cite=2015%20c%20229%20§%2021[2015 c 229 § 21]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5207.SL.pdf?cite=2013%20c%2029%20§%203[2013 c 29 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2255-S.SL.pdf?cite=2012%20c%2017%20§%202[2012 c 17 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1405-S2.SL.pdf?cite=2011%20c%20191%20§%202[2011 c 191 § 2]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1205.SL.pdf?cite=2001%20c%2081%20§%203[2001 c 81 § 3]; ]
 
 == 31.04.035 - License required—When violation occurs.
 . No person may make secured or unsecured loans of money or things in action, or extend credit, or service or modify the terms or conditions of residential mortgage loans, or service or modify student education loans, without first obtaining and maintaining a license in accordance with this chapter, except those exempt under RCW 31.04.025 or not subject to licensure under RCW 31.04.420.
@@ -260,11 +260,15 @@ The license shall state the address at which the business is to be conducted and
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2255-S.SL.pdf?cite=2012%20c%2017%20§%203[2012 c 17 § 3]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1743-S.SL.pdf?cite=1991%20c%20208%20§%207[1991 c 208 § 7]; ]
 
 == 31.04.075 - Licensee—Place of business.
-The licensee may not maintain more than one place of business under the same license, but the director may issue more than one license to the same licensee upon application by the licensee in a form and manner established by the director.
+. The licensee may not maintain more than one place of business under the same license unless:
 
-Whenever a licensee wishes to change the place of business to a street address other than that reported in the nationwide mortgage licensing system and registry, the licensee must give prior written notice to the director, pay the fee, and obtain the director's approval.
+.. The director authorizes more than one license to the same licensee upon approval of an application by the licensee in a form and manner established by the director; or
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5299-S.SL.pdf?cite=2015%20c%20229%20§%2023[2015 c 229 § 23]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1205.SL.pdf?cite=2001%20c%2081%20§%206[2001 c 81 § 6]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%20164[1994 c 92 § 164]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1743-S.SL.pdf?cite=1991%20c%20208%20§%208[1991 c 208 § 8]; ]
+.. The place of business is a licensed mortgage loan originator's residence and the licensed mortgage loan originator and licensed sponsoring company comply with state and federal information security requirements and all other requirements set forth in rule for mortgage loan originators working from their residences as provided in this chapter and in rule, consistent with the purposes of this section.
+
+. Whenever a licensee wishes to change the place of business to a street address other than that reported in the nationwide mortgage licensing system and registry, the licensee must give prior written notice to the director, pay the fee, and obtain the director's approval.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5077.SL.pdf?cite=2021%20c%2015%20§%202[2021 c 15 § 2]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5299-S.SL.pdf?cite=2015%20c%20229%20§%2023[2015 c 229 § 23]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1205.SL.pdf?cite=2001%20c%2081%20§%206[2001 c 81 § 6]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2438-S.SL.pdf?cite=1994%20c%2092%20§%20164[1994 c 92 § 164]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1743-S.SL.pdf?cite=1991%20c%20208%20§%208[1991 c 208 § 8]; ]
 
 == 31.04.085 - Licensee—Assessment—Bond—Time of payment.
 . A licensee shall, for each license held by any person, on or before the first day of each March, pay to the director an annual assessment as determined by rule by the director. The licensee shall be responsible for payment of the annual assessment for the previous calendar year if the licensee had a license for any time during the preceding calendar year, regardless of whether they surrendered their license during the calendar year or whether their license was suspended or revoked. At the same time the licensee shall file with the director the required bond or otherwise demonstrate compliance with RCW 31.04.045.
@@ -723,7 +727,7 @@ The director is authorized to regularly report violations of chapter 120, Laws o
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1621-S.SL.pdf?cite=2009%20c%20120%20§%2028[2009 c 120 § 28]; ]
 
 == 31.04.284 - Mortgage loan originator—Unique identifier—Display.
-The unique identifier of any mortgage loan originator must be clearly shown on all residential mortgage loan application forms, solicitations, or advertisements, including business cards or web sites, and any other documents as established by rule, regulation, or order of the director. This section does not apply to consumer loan company licensees.
+The unique identifier of any mortgage loan originator must be clearly shown on all residential mortgage loan application forms, solicitations, or advertisements, including business cards or websites, and any other documents as established by rule, regulation, or order of the director. This section does not apply to consumer loan company licensees.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1621-S.SL.pdf?cite=2009%20c%20120%20§%2029[2009 c 120 § 29]; ]
 
@@ -898,7 +902,7 @@ The director's obligations or duties under chapter 62, Laws of 2018 are subject 
 
 .. Inform the receiving servicer if a loan modification request is pending.
 
-. Licensees shall provide, free of charge on the licensee's web site, information or links to information regarding repayment and loan forgiveness options that may be available to borrowers, as well as the availability of the student loan advocate to provide assistance. This information or these links shall be prominently placed and provided via written correspondence or email with the borrower at least once per calendar year.
+. Licensees shall provide, free of charge on the licensee's website, information or links to information regarding repayment and loan forgiveness options that may be available to borrowers, as well as the availability of the student loan advocate to provide assistance. This information or these links shall be prominently placed and provided via written correspondence or email with the borrower at least once per calendar year.
 
 . In addition to keeping records in compliance with this chapter and RCW 28B.77.007, licensees shall collect, maintain, and report to the department specific information about the loans in the licensee's portfolio. Such information shall include, but not be limited by: Loan volume, default, refinance and modification information, loan type (subsidized, deferred, etc.) information, and collection practices.
 

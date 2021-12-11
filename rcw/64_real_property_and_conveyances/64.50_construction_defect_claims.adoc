@@ -11,7 +11,7 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 . "Action" means any civil lawsuit or action in contract or tort for damages or indemnity brought against a construction professional to assert a claim, whether by complaint, counterclaim, or cross-claim, for damage or the loss of use of real or personal property caused by a defect in the construction of a residence or in the substantial remodel of a residence. "Action" does not include any civil action in tort alleging personal injury or wrongful death to a person or persons resulting from a construction defect.
 
-. "Association" means an association, master association, or subassociation as defined and provided for in RCW 64.34.020(4), 64.34.276, 64.34.278, and 64.38.010(11).
+. "Association" means an association, master association, or subassociation as defined and provided for in RCW 64.34.020(4), 64.34.276, 64.34.278, and * 64.38.010(11).
 
 . "Claimant" means a homeowner or association who asserts a claim against a construction professional concerning a defect in the construction of a residence or in the substantial remodel of a residence.
 

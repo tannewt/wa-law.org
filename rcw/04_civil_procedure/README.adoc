@@ -28,3 +28,4 @@
 * link:4.092_actions_and_claims_against_state.adoc[4.92 - Actions and claims against state.]
 * link:4.096_actions_against_political_subdivisions_municipal_and_quasi-municipal_corporations.adoc[4.96 - Actions against political subdivisions, municipal and quasi-municipal corporations.]
 * link:4.100_wrongly_convicted_persons.adoc[4.100 - Wrongly convicted persons.]
+* link:4.105_uniform_public_expression_protection_act.adoc[4.105 - Uniform public expression protection act.]

@@ -223,11 +223,15 @@ All contracts must be entered into pursuant to competitive solicitation, except 
 
 . Contracts for architectural and engineering services as defined in RCW 39.80.020, which shall be entered into under chapter 39.80 RCW;
 
-. Contracts for the employment of expert witnesses for the purposes of litigation; and
+. Contracts for the employment of expert witnesses for the purposes of litigation;
 
-. Contracts for bank supervision authorized under *RCW 30.38.040.
+. Contracts for bank supervision authorized under RCW 30A.38.040;
 
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2452-S2.SL.pdf?cite=2012%20c%20224%20§%2014[2012 c 224 § 14]; ]
+. Contracts for the purchase of opioid overdose reversal medication authorized under RCW 70.14.170; and
+
+. Contracts for investigators awarded by the office of independent investigations as authorized under RCW 43.102.050.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1267-S.SL.pdf?cite=2021%20c%20318%20§%20313[2021 c 318 § 313]; http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5195-S2.SL.pdf?cite=2021%20c%20273%20§%209[2021 c 273 § 9]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2452-S2.SL.pdf?cite=2012%20c%20224%20§%2014[2012 c 224 § 14]; ]
 
 == 39.26.130 - Emergency purchases.
 . An agency may make emergency purchases as defined in subsection (3) of this section. When an emergency purchase is made, the agency head shall submit written notification of the purchase within three business days of the purchase to the director. This notification must contain a description of the purchase, a description of the emergency and the circumstances leading up to the emergency, and an explanation of why the circumstances required an emergency purchase.
@@ -470,11 +474,11 @@ The legislature finds that in-state preference clauses used by other states in p
 == 39.26.265 - Preferences—Purchase of electronic products meeting environmental performance standards—Requirements for surplus electronic products.
 . The department shall establish purchasing and procurement policies that establish a preference for electronic products that meet environmental performance standards relating to the reduction or elimination of hazardous materials.
 
-. The department shall ensure that their surplus electronic products, other than those sold individually to private citizens, are managed only by registered transporters and by processors meeting the requirements of *RCW 70.95N.250.
+. The department shall ensure that their surplus electronic products, other than those sold individually to private citizens, are managed only by registered transporters and by processors meeting the requirements of RCW 70A.500.250.
 
 . The department shall ensure that their surplus electronic products are directed to legal secondary materials markets by requiring a chain of custody record that documents to whom the products were initially delivered through to the end use manufacturer.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5931-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2043%20§%20229[2011 1st sp.s. c 43 § 229]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6428-S.SL.pdf?cite=2006%20c%20183%20§%2036[2006 c 183 § 36]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2027[2021 c 65 § 27]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5931-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2043%20§%20229[2011 1st sp.s. c 43 § 229]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6428-S.SL.pdf?cite=2006%20c%20183%20§%2036[2006 c 183 § 36]; ]
 
 == 39.26.270 - List of statutes and regulations of each state that grants preference to in-state vendors.
 The director shall compile a list of the statutes and regulations, relating to state purchasing, of each state, which statutes and regulations the director believes grant a preference to vendors located within the state or goods manufactured within the state. At least once every twelve months the director shall update the list.
@@ -531,7 +535,7 @@ The director shall adopt and apply rules designed to provide for some reciprocit
 == 39.26.310 - Purchasing and procurement policies—Products containing hydrofluorocarbons—Report to the legislature.
 . The department shall establish purchasing and procurement policies that provide a preference for products that:
 
-.. Are not restricted under *RCW 70.235.080;
+.. Are not restricted under RCW 70A.60.060;
 
 .. Do not contain hydrofluorocarbons or contain hydrofluorocarbons with a comparatively low global warming potential;
 
@@ -541,16 +545,35 @@ The director shall adopt and apply rules designed to provide for some reciprocit
 
 . No agency may knowingly purchase products that are not accorded a preference in the purchasing and procurement policies established by the department pursuant to subsection (1) of this section, unless there is no cost-effective and technologically feasible option that is accorded a preference.
 
-. Nothing in this section requires the department or any other state agency to breach an existing contract or dispose of stock that has been ordered or is in the possession of the department or other state agency as of July 28, 2019.
+. The department shall establish a purchasing and procurement policy that provides a preference, in serving existing equipment, for a reclaimed refrigerant that meets the minimum quality requirement established in federal regulations adopted under 42 U.S.C. Sec. 7671(g).
+
+. [Empty]
+.. Nothing in subsection (1) of this section requires the department or any other state agency to breach an existing contract or dispose of stock that has been ordered or is in the possession of the department or other state agency as of July 28, 2019.
+
+.. Nothing in subsection (3) of this section requires the department or any other state agency to breach an existing contract or dispose of stock that has been ordered or is in the possession of the department or other state agency as of July 28, 2021.
 
 . By December 1, 2020, and each December 1st of even-numbered years thereafter, the department must submit a status report to the appropriate committees of the house of representatives and senate regarding the implementation and compliance of the department and state agencies with this section.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1112-S2.SL.pdf?cite=2019%20c%20284%20§%209[2019 c 284 § 9]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1050-S2.SL.pdf?cite=2021%20c%20315%20§%2019[2021 c 315 § 19]; http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2028[2021 c 65 § 28]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1112-S2.SL.pdf?cite=2019%20c%20284%20§%209[2019 c 284 § 9]; ]
 
 == 39.26.320 - Contracting for services—Employees in classified service—Procedures and criteria.
 An agency, department, or institution of higher education that intends to contract out, or does contract out, for services that, on or after July 1, 2005, have been customarily and historically performed by employees in the classified service defined in RCW 41.06.020 must follow procedures and meet criteria established under RCW 41.06.142.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1521-S2.SL.pdf?cite=2020%20c%20269%20§%205[2020 c 269 § 5]; ]
+
+== 39.26.330 - Postconsumer recycled content in plastic trash bags—Purchasing priority.
+. Beginning July 1, 2024, all state agencies may only purchase plastic trash bags manufactured by producers that comply with the minimum recycled content requirements established in RCW 70A.245.020.
+
+. By July 1, 2024, the department of ecology shall provide to the department a list of the plastic trash bag producer brands that comply with the minimum recycled content requirements established in RCW 70A.245.020, in order for state agencies to purchase compliant products, updated annually.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5022-S2.SL.pdf?cite=2021%20c%20313%20§%208[2021 c 313 § 8]; ]
+
+== 39.26.340 - Data-sharing agreements—When required.
+. Before an agency shares with a contractor category 3 or higher data, as defined in policy established in accordance with RCW 43.105.054, a written data-sharing agreement must be in place. Such agreements shall conform to the policies for data sharing specified by the office of cybersecurity under the authority of RCW 43.105.054.
+
+. Nothing in this section shall be construed as limiting audit authorities under chapter 43.09 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5432-S.SL.pdf?cite=2021%20c%20291%20§%205[2021 c 291 § 5]; ]
 
 == 39.26.900 - Effective date—2012 c 224.
 This act takes effect January 1, 2013.

@@ -27,7 +27,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 .. Develop specialized training for child welfare workers that includes simulation and coaching designed to improve clinical and analytical skills;
 
-.. Based on the report required under RCW 43.216.7501(3), develop and implement training for child welfare workers that incorporates trauma-informed care and reflective supervision principles.
+.. Based on the report required under *RCW 43.216.7501(3), develop and implement training for child welfare workers that incorporates trauma-informed care and reflective supervision principles.
 
 . For purposes of this section, "child welfare worker" means an employee of the department whose job includes supporting or providing child welfare services as defined in RCW 74.13.020 or child protective services as defined in RCW 26.44.020.
 

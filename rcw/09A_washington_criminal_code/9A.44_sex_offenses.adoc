@@ -123,7 +123,7 @@ No person convicted of rape in the first degree shall be granted a deferred or s
 
 .. When the victim is incapable of consent by reason of being physically helpless or mentally incapacitated;
 
-.. When the victim is a person with a developmental disability and the perpetrator is a person who is not married to the victim and who:
+.. When the victim is a person with a developmental disability and the perpetrator is a person who:
 
 ... Has supervisory authority over the victim; or
 
@@ -131,9 +131,9 @@ No person convicted of rape in the first degree shall be granted a deferred or s
 
 .. When the perpetrator is a health care provider, the victim is a client or patient, and the sexual intercourse occurs during a treatment session, consultation, interview, or examination. It is an affirmative defense that the defendant must prove by a preponderance of the evidence that the client or patient consented to the sexual intercourse with the knowledge that the sexual intercourse was not for the purpose of treatment;
 
-.. When the victim is a resident of a facility for persons with a mental disorder or chemical dependency and the perpetrator is a person who is not married to the victim and has supervisory authority over the victim; or
+.. When the victim is a resident of a facility for persons with a mental disorder or chemical dependency and the perpetrator is a person who has supervisory authority over the victim; or
 
-.. When the victim is a frail elder or vulnerable adult and the perpetrator is a person who is not married to the victim and who:
+.. When the victim is a frail elder or vulnerable adult and the perpetrator is a person who:
 
 ... Has a significant relationship with the victim; or
 
@@ -141,7 +141,7 @@ No person convicted of rape in the first degree shall be granted a deferred or s
 
 . Rape in the second degree is a class A felony.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1097-S.SL.pdf?cite=2007%20c%2020%20§%201[2007 c 20 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1850-S2.SL.pdf?cite=1997%20c%20392%20§%20514[1997 c 392 § 514]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5577.SL.pdf?cite=1993%20c%20477%20§%202[1993 c 477 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c3.pdf?cite=1990%20c%203%20§%20901[1990 c 3 § 901]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c146.pdf?cite=1988%20c%20146%20§%201[1988 c 146 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c118.pdf?cite=1983%20c%20118%20§%202[1983 c 118 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c244.pdf?cite=1979%20ex.s.%20c%20244%20§%202[1979 ex.s. c 244 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c14.pdf?cite=1975%201st%20ex.s.%20c%2014%20§%205[1975 1st ex.s. c 14 § 5]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5177.SL.pdf?cite=2021%20c%20142%20§%201[2021 c 142 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1097-S.SL.pdf?cite=2007%20c%2020%20§%201[2007 c 20 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1850-S2.SL.pdf?cite=1997%20c%20392%20§%20514[1997 c 392 § 514]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5577.SL.pdf?cite=1993%20c%20477%20§%202[1993 c 477 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c3.pdf?cite=1990%20c%203%20§%20901[1990 c 3 § 901]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c146.pdf?cite=1988%20c%20146%20§%201[1988 c 146 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c118.pdf?cite=1983%20c%20118%20§%202[1983 c 118 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c244.pdf?cite=1979%20ex.s.%20c%20244%20§%202[1979 ex.s. c 244 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c14.pdf?cite=1975%201st%20ex.s.%20c%2014%20§%205[1975 1st ex.s. c 14 § 5]; ]
 
 == 9A.44.060 - Rape in the third degree.
 . A person is guilty of rape in the third degree when, under circumstances not constituting rape in the first or second degrees, such person engages in sexual intercourse with another person:
@@ -155,49 +155,49 @@ No person convicted of rape in the first degree shall be granted a deferred or s
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5649.SL.pdf?cite=2019%20c%2087%20§%203[2019 c 87 § 3]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1108.SL.pdf?cite=2013%20c%2094%20§%201[2013 c 94 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1142.SL.pdf?cite=1999%20c%20143%20§%2034[1999 c 143 § 34]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c244.pdf?cite=1979%20ex.s.%20c%20244%20§%203[1979 ex.s. c 244 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c14.pdf?cite=1975%201st%20ex.s.%20c%2014%20§%206[1975 1st ex.s. c 14 § 6]; ]
 
 == 9A.44.073 - Rape of a child in the first degree.
-. A person is guilty of rape of a child in the first degree when the person has sexual intercourse with another who is less than twelve years old and not married to the perpetrator and the perpetrator is at least twenty-four months older than the victim.
+. A person is guilty of rape of a child in the first degree when the person has sexual intercourse with another who is less than twelve years old and the perpetrator is at least twenty-four months older than the victim.
 
 . Rape of a child in the first degree is a class A felony.
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c145.pdf?cite=1988%20c%20145%20§%202[1988 c 145 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5177.SL.pdf?cite=2021%20c%20142%20§%202[2021 c 142 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c145.pdf?cite=1988%20c%20145%20§%202[1988 c 145 § 2]; ]
 
 == 9A.44.076 - Rape of a child in the second degree.
-. A person is guilty of rape of a child in the second degree when the person has sexual intercourse with another who is at least twelve years old but less than fourteen years old and not married to the perpetrator and the perpetrator is at least thirty-six months older than the victim.
+. A person is guilty of rape of a child in the second degree when the person has sexual intercourse with another who is at least twelve years old but less than fourteen years old and the perpetrator is at least thirty-six months older than the victim.
 
 . Rape of a child in the second degree is a class A felony.
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c3.pdf?cite=1990%20c%203%20§%20903[1990 c 3 § 903]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c145.pdf?cite=1988%20c%20145%20§%203[1988 c 145 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5177.SL.pdf?cite=2021%20c%20142%20§%203[2021 c 142 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c3.pdf?cite=1990%20c%203%20§%20903[1990 c 3 § 903]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c145.pdf?cite=1988%20c%20145%20§%203[1988 c 145 § 3]; ]
 
 == 9A.44.079 - Rape of a child in the third degree.
-. A person is guilty of rape of a child in the third degree when the person has sexual intercourse with another who is at least fourteen years old but less than sixteen years old and not married to the perpetrator and the perpetrator is at least forty-eight months older than the victim.
+. A person is guilty of rape of a child in the third degree when the person has sexual intercourse with another who is at least fourteen years old but less than sixteen years old and the perpetrator is at least forty-eight months older than the victim.
 
 . Rape of a child in the third degree is a class C felony.
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c145.pdf?cite=1988%20c%20145%20§%204[1988 c 145 § 4]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5177.SL.pdf?cite=2021%20c%20142%20§%204[2021 c 142 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c145.pdf?cite=1988%20c%20145%20§%204[1988 c 145 § 4]; ]
 
 == 9A.44.083 - Child molestation in the first degree.
-. A person is guilty of child molestation in the first degree when the person has, or knowingly causes another person under the age of eighteen to have, sexual contact with another who is less than twelve years old and not married to the perpetrator and the perpetrator is at least thirty-six months older than the victim.
+. A person is guilty of child molestation in the first degree when the person has, or knowingly causes another person under the age of eighteen to have, sexual contact with another who is less than twelve years old and the perpetrator is at least thirty-six months older than the victim.
 
 . Child molestation in the first degree is a class A felony.
 
-[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6007-S.SL.pdf?cite=1994%20c%20271%20§%20303[1994 c 271 § 303]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c3.pdf?cite=1990%20c%203%20§%20902[1990 c 3 § 902]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c145.pdf?cite=1988%20c%20145%20§%205[1988 c 145 § 5]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5177.SL.pdf?cite=2021%20c%20142%20§%205[2021 c 142 § 5]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6007-S.SL.pdf?cite=1994%20c%20271%20§%20303[1994 c 271 § 303]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c3.pdf?cite=1990%20c%203%20§%20902[1990 c 3 § 902]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c145.pdf?cite=1988%20c%20145%20§%205[1988 c 145 § 5]; ]
 
 == 9A.44.086 - Child molestation in the second degree.
-. A person is guilty of child molestation in the second degree when the person has, or knowingly causes another person under the age of eighteen to have, sexual contact with another who is at least twelve years old but less than fourteen years old and not married to the perpetrator and the perpetrator is at least thirty-six months older than the victim.
+. A person is guilty of child molestation in the second degree when the person has, or knowingly causes another person under the age of eighteen to have, sexual contact with another who is at least twelve years old but less than fourteen years old and the perpetrator is at least thirty-six months older than the victim.
 
 . Child molestation in the second degree is a class B felony.
 
-[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6007-S.SL.pdf?cite=1994%20c%20271%20§%20304[1994 c 271 § 304]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c145.pdf?cite=1988%20c%20145%20§%206[1988 c 145 § 6]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5177.SL.pdf?cite=2021%20c%20142%20§%206[2021 c 142 § 6]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6007-S.SL.pdf?cite=1994%20c%20271%20§%20304[1994 c 271 § 304]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c145.pdf?cite=1988%20c%20145%20§%206[1988 c 145 § 6]; ]
 
 == 9A.44.089 - Child molestation in the third degree.
-. A person is guilty of child molestation in the third degree when the person has, or knowingly causes another person under the age of eighteen to have, sexual contact with another who is at least fourteen years old but less than sixteen years old and not married to the perpetrator and the perpetrator is at least forty-eight months older than the victim.
+. A person is guilty of child molestation in the third degree when the person has, or knowingly causes another person under the age of eighteen to have, sexual contact with another who is at least fourteen years old but less than sixteen years old and the perpetrator is at least forty-eight months older than the victim.
 
 . Child molestation in the third degree is a class C felony.
 
-[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6007-S.SL.pdf?cite=1994%20c%20271%20§%20305[1994 c 271 § 305]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c145.pdf?cite=1988%20c%20145%20§%207[1988 c 145 § 7]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5177.SL.pdf?cite=2021%20c%20142%20§%207[2021 c 142 § 7]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6007-S.SL.pdf?cite=1994%20c%20271%20§%20305[1994 c 271 § 305]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c145.pdf?cite=1988%20c%20145%20§%207[1988 c 145 § 7]; ]
 
 == 9A.44.093 - Sexual misconduct with a minor in the first degree.
-. A person is guilty of sexual misconduct with a minor in the first degree when: (a) The person has, or knowingly causes another person under the age of eighteen to have, sexual intercourse with another person who is at least sixteen years old but less than eighteen years old and not married to the perpetrator, if the perpetrator is at least sixty months older than the victim, is in a significant relationship to the victim, and abuses a supervisory position within that relationship in order to engage in or cause another person under the age of eighteen to engage in sexual intercourse with the victim; (b) the person is a school employee who has, or knowingly causes another person under the age of eighteen to have, sexual intercourse with an enrolled student of the school who is at least sixteen years old and not more than twenty-one years old and not married to the employee, if the employee is at least sixty months older than the student; or (c) the person is a foster parent who has, or knowingly causes another person under the age of eighteen to have, sexual intercourse with his or her foster child who is at least sixteen.
+. A person is guilty of sexual misconduct with a minor in the first degree when: (a) The person has, or knowingly causes another person under the age of eighteen to have, sexual intercourse with another person who is at least sixteen years old but less than eighteen years old, if the perpetrator is at least sixty months older than the victim, is in a significant relationship to the victim, and abuses a supervisory position within that relationship in order to engage in or cause another person under the age of eighteen to engage in sexual intercourse with the victim; (b) the person is a school employee who has, or knowingly causes another person under the age of eighteen to have, sexual intercourse with an enrolled student of the school who is at least sixteen years old and not more than twenty-one years old, if the employee is at least sixty months older than the student; or (c) the person is a foster parent who has, or knowingly causes another person under the age of eighteen to have, sexual intercourse with his or her foster child who is at least sixteen.
 
 . Sexual misconduct with a minor in the first degree is a class C felony.
 
@@ -207,10 +207,10 @@ No person convicted of rape in the first degree shall be granted a deferred or s
 
 .. "School employee" means an employee of a common school defined in RCW 28A.150.020, or a grade kindergarten through twelve employee of a private school under chapter 28A.195 RCW, who is not enrolled as a student of the common school or private school.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1385.SL.pdf?cite=2009%20c%20324%20§%201[2009 c 324 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5309-S.SL.pdf?cite=2005%20c%20262%20§%202[2005 c 262 § 2]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6151-S.SL.pdf?cite=2001%202nd%20sp.s.%20c%2012%20§%20357[2001 2nd sp.s. c 12 § 357]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6007-S.SL.pdf?cite=1994%20c%20271%20§%20306[1994 c 271 § 306]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c145.pdf?cite=1988%20c%20145%20§%208[1988 c 145 § 8]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5177.SL.pdf?cite=2021%20c%20142%20§%208[2021 c 142 § 8]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1385.SL.pdf?cite=2009%20c%20324%20§%201[2009 c 324 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5309-S.SL.pdf?cite=2005%20c%20262%20§%202[2005 c 262 § 2]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6151-S.SL.pdf?cite=2001%202nd%20sp.s.%20c%2012%20§%20357[2001 2nd sp.s. c 12 § 357]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6007-S.SL.pdf?cite=1994%20c%20271%20§%20306[1994 c 271 § 306]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c145.pdf?cite=1988%20c%20145%20§%208[1988 c 145 § 8]; ]
 
 == 9A.44.096 - Sexual misconduct with a minor in the second degree.
-. A person is guilty of sexual misconduct with a minor in the second degree when: (a) The person has, or knowingly causes another person under the age of eighteen to have, sexual contact with another person who is at least sixteen years old but less than eighteen years old and not married to the perpetrator, if the perpetrator is at least sixty months older than the victim, is in a significant relationship to the victim, and abuses a supervisory position within that relationship in order to engage in or cause another person under the age of eighteen to engage in sexual contact with the victim; (b) the person is a school employee who has, or knowingly causes another person under the age of eighteen to have, sexual contact with an enrolled student of the school who is at least sixteen years old and not more than twenty-one years old and not married to the employee, if the employee is at least sixty months older than the student; or (c) the person is a foster parent who has, or knowingly causes another person under the age of eighteen to have, sexual contact with his or her foster child who is at least sixteen.
+. A person is guilty of sexual misconduct with a minor in the second degree when: (a) The person has, or knowingly causes another person under the age of eighteen to have, sexual contact with another person who is at least sixteen years old but less than eighteen years old, if the perpetrator is at least sixty months older than the victim, is in a significant relationship to the victim, and abuses a supervisory position within that relationship in order to engage in or cause another person under the age of eighteen to engage in sexual contact with the victim; (b) the person is a school employee who has, or knowingly causes another person under the age of eighteen to have, sexual contact with an enrolled student of the school who is at least sixteen years old and not more than twenty-one years old, if the employee is at least sixty months older than the student; or (c) the person is a foster parent who has, or knowingly causes another person under the age of eighteen to have, sexual contact with his or her foster child who is at least sixteen.
 
 . Sexual misconduct with a minor in the second degree is a gross misdemeanor.
 
@@ -220,7 +220,7 @@ No person convicted of rape in the first degree shall be granted a deferred or s
 
 .. "School employee" means an employee of a common school defined in RCW 28A.150.020, or a grade kindergarten through twelve employee of a private school under chapter 28A.195 RCW, who is not enrolled as a student of the common school or private school.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1385.SL.pdf?cite=2009%20c%20324%20§%202[2009 c 324 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5309-S.SL.pdf?cite=2005%20c%20262%20§%203[2005 c 262 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6151-S.SL.pdf?cite=2001%202nd%20sp.s.%20c%2012%20§%20358[2001 2nd sp.s. c 12 § 358]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6007-S.SL.pdf?cite=1994%20c%20271%20§%20307[1994 c 271 § 307]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c145.pdf?cite=1988%20c%20145%20§%209[1988 c 145 § 9]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5177.SL.pdf?cite=2021%20c%20142%20§%209[2021 c 142 § 9]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1385.SL.pdf?cite=2009%20c%20324%20§%202[2009 c 324 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5309-S.SL.pdf?cite=2005%20c%20262%20§%203[2005 c 262 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6151-S.SL.pdf?cite=2001%202nd%20sp.s.%20c%2012%20§%20358[2001 2nd sp.s. c 12 § 358]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6007-S.SL.pdf?cite=1994%20c%20271%20§%20307[1994 c 271 § 307]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c145.pdf?cite=1988%20c%20145%20§%209[1988 c 145 § 9]; ]
 
 == 9A.44.100 - Indecent liberties.
 . A person is guilty of indecent liberties when he or she knowingly causes another person to have sexual contact with him or her or another:
@@ -229,7 +229,7 @@ No person convicted of rape in the first degree shall be granted a deferred or s
 
 .. When the other person is incapable of consent by reason of being mentally defective, mentally incapacitated, or physically helpless;
 
-.. When the victim is a person with a developmental disability and the perpetrator is a person who is not married to the victim and who:
+.. When the victim is a person with a developmental disability and the perpetrator is a person who:
 
 ... Has supervisory authority over the victim; or
 
@@ -237,9 +237,9 @@ No person convicted of rape in the first degree shall be granted a deferred or s
 
 .. When the perpetrator is a health care provider, the victim is a client or patient, and the sexual contact occurs during a treatment session, consultation, interview, or examination. It is an affirmative defense that the defendant must prove by a preponderance of the evidence that the client or patient consented to the sexual contact with the knowledge that the sexual contact was not for the purpose of treatment;
 
-.. When the victim is a resident of a facility for persons with a mental disorder or chemical dependency and the perpetrator is a person who is not married to the victim and has supervisory authority over the victim; or
+.. When the victim is a resident of a facility for persons with a mental disorder or chemical dependency and the perpetrator is a person who has supervisory authority over the victim; or
 
-.. When the victim is a frail elder or vulnerable adult and the perpetrator is a person who is not married to the victim and who:
+.. When the victim is a frail elder or vulnerable adult and the perpetrator is a person who:
 
 ... Has a significant relationship with the victim; or
 
@@ -250,7 +250,7 @@ No person convicted of rape in the first degree shall be granted a deferred or s
 
 .. Indecent liberties by forcible compulsion is a class A felony.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1108.SL.pdf?cite=2013%20c%2094%20§%202[2013 c 94 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1097-S.SL.pdf?cite=2007%20c%2020%20§%202[2007 c 20 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%2067[2003 c 53 § 67]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6151-S.SL.pdf?cite=2001%202nd%20sp.s.%20c%2012%20§%20359[2001 2nd sp.s. c 12 § 359]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1850-S2.SL.pdf?cite=1997%20c%20392%20§%20515[1997 c 392 § 515]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5577.SL.pdf?cite=1993%20c%20477%20§%203[1993 c 477 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c146.pdf?cite=1988%20c%20146%20§%202[1988 c 146 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c145.pdf?cite=1988%20c%20145%20§%2010[1988 c 145 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c131.pdf?cite=1986%20c%20131%20§%201[1986 c 131 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.88.100[1975 1st ex.s. c 260 § 9A.88.100]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5177.SL.pdf?cite=2021%20c%20142%20§%2010[2021 c 142 § 10]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1108.SL.pdf?cite=2013%20c%2094%20§%202[2013 c 94 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1097-S.SL.pdf?cite=2007%20c%2020%20§%202[2007 c 20 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%2067[2003 c 53 § 67]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6151-S.SL.pdf?cite=2001%202nd%20sp.s.%20c%2012%20§%20359[2001 2nd sp.s. c 12 § 359]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1850-S2.SL.pdf?cite=1997%20c%20392%20§%20515[1997 c 392 § 515]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5577.SL.pdf?cite=1993%20c%20477%20§%203[1993 c 477 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c146.pdf?cite=1988%20c%20146%20§%202[1988 c 146 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c145.pdf?cite=1988%20c%20145%20§%2010[1988 c 145 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c131.pdf?cite=1986%20c%20131%20§%201[1986 c 131 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.88.100[1975 1st ex.s. c 260 § 9A.88.100]; ]
 
 == 9A.44.105 - Sexually violating human remains.
 . Any person who has sexual intercourse or sexual contact with a dead human body is guilty of a class C felony.
@@ -866,6 +866,43 @@ As used in this section and RCW 9A.44.193 and 9A.44.196:
 . Criminal trespass against children is a class C felony.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2409.SL.pdf?cite=2006%20c%20126%20§%206[2006 c 126 § 6]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6775-S.SL.pdf?cite=2006%20c%20125%20§%204[2006 c 125 § 4]; ]
+
+== 9A.44.210 - Court initiated issuance of sexual assault no-contact orders—Terms, conditions, requirements, etc. (Effective July 1, 2022.)
+. [Empty]
+.. When any person charged with or arrested for a sex offense as defined in RCW 9.94A.030, a violation of RCW 9A.44.096, a violation of RCW 9.68A.090, or a gross misdemeanor that is, under chapter 9A.28 RCW, a criminal attempt, criminal solicitation, or criminal conspiracy to commit an offense that is classified as a sex offense under RCW 9.94A.030, is released from custody before arraignment or trial on bail or personal recognizance, the court authorizing the release may prohibit that person from having any contact with the victim. The jurisdiction authorizing the release shall determine whether that person should be prohibited from having any contact with the victim. If there is no outstanding restraining or protective order prohibiting that person from having contact with the victim, the court authorizing release may issue, by telephone, a sexual assault no-contact order prohibiting the person charged or arrested from having contact with the victim or from knowingly coming within, or knowingly remaining within, a specified distance of a location.
+
+.. In issuing the order, the court shall consider the provisions of RCW 9.41.800.
+
+.. The sexual assault no-contact order shall also be issued in writing as soon as possible.
+
+. [Empty]
+.. At the time of arraignment or whenever a motion is brought to modify the conditions of the defendant's release, the court shall determine whether a sexual assault no-contact order shall be issued or extended. If a sexual assault no-contact order is issued or extended, the court may also include in the conditions of release a requirement that the defendant submit to electronic monitoring. If electronic monitoring is ordered, the court shall specify who shall provide the monitoring services, and the terms under which the monitoring shall be performed. Upon conviction, the court may require as a condition of the sentence that the defendant reimburse the providing agency for the costs of the electronic monitoring.
+
+.. A sexual assault no-contact order issued by the court in conjunction with criminal charges shall terminate if the defendant is acquitted or the charges are dismissed, unless the victim files an independent action for a sexual assault protection order. If the victim files an independent action for a sexual assault protection order, the order may be continued by the court until a full hearing is conducted pursuant to chapter 7.105 RCW.
+
+. [Empty]
+.. The written order releasing the person charged or arrested shall contain the court's directives and shall bear the legend: "Violation of this order is a criminal offense under chapter 7.105 RCW and will subject a violator to arrest. You can be arrested even if any person protected by the order invites or allows you to violate the order's prohibitions. You have the sole responsibility to avoid or refrain from violating the order's provisions. Only the court can change the order."
+
+.. A certified copy of the order shall be provided to the victim at no charge.
+
+. If a sexual assault no-contact order has been issued prior to charging, that order shall expire at arraignment or within seventy-two hours if charges are not filed. Such orders need not be entered into the computer-based criminal intelligence information system in this state which is used by law enforcement agencies to list outstanding warrants.
+
+. Whenever an order prohibiting contact is issued pursuant to subsection (2) of this section, the clerk of the court shall forward a copy of the order on or before the next judicial day to the appropriate law enforcement agency specified in the order. Upon receipt of the copy of the order, the law enforcement agency shall enter the order for one year or until the expiration date specified on the order into any computer-based criminal intelligence information system available in this state used by law enforcement agencies to list outstanding warrants. Entry into the computer-based criminal intelligence information system constitutes notice to all law enforcement agencies of the existence of the order. The order is fully enforceable in any jurisdiction in the state.
+
+. [Empty]
+.. When a defendant is found guilty of a sex offense as defined in RCW 9.94A.030, any violation of RCW 9A.44.096, or any violation of RCW 9.68A.090, or any gross misdemeanor that is, under chapter 9A.28 RCW, a criminal attempt, criminal solicitation, or criminal conspiracy to commit an offense that is classified as a sex offense under RCW 9.94A.030, and a condition of the sentence restricts the defendant's ability to have contact with the victim, the condition shall be recorded as a sexual assault no-contact order.
+
+.. The written order entered as a condition of sentencing shall contain the court's directives and shall bear the legend: "Violation of this order is a criminal offense under chapter 7.105 RCW and will subject a violator to arrest. You can be arrested even if any person protected by the order invites or allows you to violate the order's prohibitions. You have the sole responsibility to avoid or refrain from violating the order's provisions. Only the court can change the order."
+
+.. A final sexual assault no-contact order entered in conjunction with a criminal prosecution shall remain in effect for a period of two years following the expiration of any sentence of imprisonment and subsequent period of community supervision, conditional release, probation, or parole.
+
+.. A certified copy of the order shall be provided to the victim at no charge.
+
+. A knowing violation of a court order issued under subsection (1), (2), or (6) of this section is punishable under RCW 7.105.450.
+
+. Whenever a sexual assault no-contact order is issued, modified, or terminated under subsection (1), (2), or (6) of this section, the clerk of the court shall forward a copy of the order on or before the next judicial day to the appropriate law enforcement agency specified in the order. Upon receipt of the copy of the order, the law enforcement agency shall enter the order for one year or until the expiration date specified on the order into any computer-based criminal intelligence information system available in this state used by law enforcement agencies to list outstanding warrants. Entry into the computer-based criminal intelligence information system constitutes notice to all law enforcement agencies of the existence of the order. The order is fully enforceable in any jurisdiction in the state. Upon receipt of notice that an order has been terminated under subsection (2) of this section, the law enforcement agency shall remove the order from the computer-based criminal intelligence information system.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1320-S2.SL.pdf?cite=2021%20c%20215%20§%20164[2021 c 215 § 164]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=2006%20c%20138%20§%2016[2006 c 138 § 16]; ]
 
 == 9A.44.900 - Decodifications and additions to this chapter.
 RCW 9.79.140, 9.79.150, 9.79.160, 9.79.170 as now or hereafter amended, 9.79.180 as now or hereafter amended, 9.79.190 as now or hereafter amended, 9.79.200 as now or hereafter amended, 9.79.210 as now or hereafter amended, 9.79.220 as now or hereafter amended, 9A.88.020, and 9A.88.100 are each decodified and are each added to Title 9A RCW as a new chapter with the designation chapter 9A.44 RCW.

@@ -26,7 +26,7 @@ The definitions in this section apply throughout this chapter unless the context
 [ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5077-S.SL.pdf?cite=1997%20c%20357%20§%202[1997 c 357 § 2]; ]
 
 == 17.15.020 - Implementation of integrated pest management practices.
-Each of the following state agencies or institutions shall implement integrated pest management practices when carrying out the agency's or institution's duties related to pest control:
+Each of the following state agencies or institutions or county agencies shall implement integrated pest management practices when carrying out the agency's or institution's duties related to pest control:
 
 . The department of agriculture;
 
@@ -44,11 +44,15 @@ Each of the following state agencies or institutions shall implement integrated 
 
 . The department of corrections;
 
-. The department of enterprise services; and
+. The department of enterprise services;
 
-. Each state institution of higher education, for the institution's own building and grounds maintenance.
+. Each state institution of higher education, for the institution's own building and grounds maintenance;
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5024.SL.pdf?cite=2015%20c%20225%20§%2016[2015 c 225 § 16]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5077-S.SL.pdf?cite=1997%20c%20357%20§%203[1997 c 357 § 3]; ]
+. Each county noxious weed control board; and
+
+. Each weed district.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1355-S.SL.pdf?cite=2021%20c%20217%20§%2017[2021 c 217 § 17]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5024.SL.pdf?cite=2015%20c%20225%20§%2016[2015 c 225 § 16]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5077-S.SL.pdf?cite=1997%20c%20357%20§%203[1997 c 357 § 3]; ]
 
 == 17.15.030 - Integrated pest management training—Designated coordinator.
 . A state agency or institution listed in RCW 17.15.020 shall provide integrated pest management training for employees responsible for pest management.

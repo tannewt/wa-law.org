@@ -76,8 +76,8 @@ Unless specifically made applicable, the provisions of this chapter except those
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%209066[2010 c 8 § 9066]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c23.pdf?cite=1969%20c%2023%20§%201[1969 c 23 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c155.pdf?cite=1965%20ex.s.%20c%20155%20§%206[1965 ex.s. c 155 § 6]; ]
 
-== 46.61.050 - Obedience to and required traffic control devices. (Effective until October 1, 2020.)
-. The driver of any vehicle, every bicyclist, and every pedestrian shall obey, and the operation of every personal delivery device shall follow, the instructions of any official traffic control device applicable thereto placed in accordance with the provisions of this chapter, unless otherwise directed by a traffic or police officer, subject to the exception granted the driver of an authorized emergency vehicle in this chapter.
+== 46.61.050 - Obedience to and required traffic control devices.
+. The driver of any vehicle, a person operating a bicycle, and every pedestrian shall obey, and the operation of every personal delivery device shall follow, the instructions of any official traffic control device applicable thereto, and as specified in this chapter, placed in accordance with the provisions of this chapter, unless otherwise directed by a traffic or police officer, subject to the exception granted the driver of an authorized emergency vehicle in this chapter.
 
 . No provision of this chapter for which official traffic control devices are required shall be enforced against an alleged violator if at the time and place of the alleged violation an official device is not in proper position and sufficiently legible or visible to be seen by an ordinarily observant person. Whenever a particular section does not state that official traffic control devices are required, such section shall be effective even though no devices are erected or in place.
 
@@ -85,7 +85,7 @@ Unless specifically made applicable, the provisions of this chapter except those
 
 . Any official traffic control device placed pursuant to the provisions of this chapter and purporting to conform to the lawful requirements pertaining to such devices shall be presumed to comply with the requirements of this chapter, unless the contrary shall be established by competent evidence.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1325-S.SL.pdf?cite=2019%20c%20214%20§%209[2019 c 214 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975c62.pdf?cite=1975%20c%2062%20§%2018[1975 c 62 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c155.pdf?cite=1965%20ex.s.%20c%20155%20§%207[1965 ex.s. c 155 § 7]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6208-S.SL.pdf?cite=2020%20c%2066%20§%201[2020 c 66 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1325-S.SL.pdf?cite=2019%20c%20214%20§%209[2019 c 214 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975c62.pdf?cite=1975%20c%2062%20§%2018[1975 c 62 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c155.pdf?cite=1965%20ex.s.%20c%20155%20§%207[1965 ex.s. c 155 § 7]; ]
 
 == 46.61.055 - Traffic control signal legend.
 Whenever traffic is controlled by traffic control signals exhibiting different colored lights, or colored lighted arrows, successively one at a time or in combination, only the colors green, red and yellow shall be used, except for special pedestrian signals carrying a word or legend, and said lights shall indicate and apply to drivers of vehicles, pedestrians, and personal delivery devices, as follows:
@@ -344,8 +344,8 @@ No person shall drive a vehicle onto or from any limited access roadway except a
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c155.pdf?cite=1965%20ex.s.%20c%20155%20§%2026[1965 ex.s. c 155 § 26]; ]
 
-== 46.61.160 - Restrictions on limited-access highway—Use by bicyclists.
-The department of transportation may by order, and local authorities may by ordinance or resolution, with respect to any limited access highway under their respective jurisdictions prohibit the use of any such highway by funeral processions, or by parades, pedestrians, bicycles or other nonmotorized traffic, or by any person operating a motor-driven cycle. Bicyclists may use the right shoulder of limited-access highways except where prohibited. The department of transportation may by order, and local authorities may by ordinance or resolution, with respect to any limited-access highway under their respective jurisdictions prohibit the use of the shoulders of any such highway by bicycles within urban areas or upon other sections of the highway where such use is deemed to be unsafe.
+== 46.61.160 - Restrictions on limited access highway—Use by bicyclists.
+The department of transportation may by order, and local authorities may by ordinance or resolution, with respect to any limited access highway under their respective jurisdictions prohibit the use of any such highway by funeral processions, or by parades, pedestrians, bicycles or other nonmotorized traffic, or by any person operating a motor-driven cycle. Bicyclists may use the right shoulder of limited access highways except where prohibited. The department of transportation may by order, and local authorities may by ordinance or resolution, with respect to any limited access highway under their respective jurisdictions prohibit the use of the shoulders of any such highway by bicycles within urban areas or upon other sections of the highway where such use is deemed to be unsafe.
 
 The department of transportation or the local authority adopting any such prohibitory regulation shall erect and maintain official traffic control devices on the limited access roadway on which such regulations are applicable, and when so erected no person may disobey the restrictions stated on such devices.
 
@@ -419,10 +419,22 @@ Notwithstanding any provision of law to the contrary, the operator of a bicycle,
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5723-S.SL.pdf?cite=2019%20c%20403%20§%206[2019 c 403 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c155.pdf?cite=1965%20ex.s.%20c%20155%20§%2029[1965 ex.s. c 155 § 29]; ]
 
-== 46.61.190 - Vehicle entering stop or yield intersection—Vulnerable users of a public way—Fine. (Effective until October 1, 2020.)
+== 46.61.190 - Vehicle entering stop or yield intersection—Vulnerable users of a public way—Fine.
 . Preferential right-of-way may be indicated by stop signs or yield signs as authorized in RCW 47.36.110.
 
-. Except when directed to proceed by a duly authorized flagger, or a police officer, or a firefighter vested by law with authority to direct, control, or regulate traffic, every driver of a vehicle approaching a stop sign shall stop at a clearly marked stop line, but if none, before entering a marked crosswalk on the near side of the intersection or, if none, then at the point nearest the intersecting roadway where the driver has a view of approaching traffic on the intersecting roadway before entering the roadway, and after having stopped shall yield the right-of-way to any vehicle in the intersection or approaching on another roadway so closely as to constitute an immediate hazard during the time when such driver is moving across or within the intersection or junction of roadways.
+. [Empty]
+.. Except when directed to proceed by a duly authorized flagger, or a police officer, or a firefighter vested by law with authority to direct, control, or regulate traffic, every driver of a vehicle approaching a stop sign shall stop except as provided in (b) of this subsection at a clearly marked stop line, but if none, before entering a marked crosswalk on the near side of the intersection or, if none, then at the point nearest the intersecting roadway where the driver has a view of approaching traffic on the intersecting roadway before entering the roadway, and after having stopped shall yield the right-of-way to any vehicle in the intersection or approaching on another roadway so closely as to constitute an immediate hazard during the time when such driver is moving across or within the intersection or junction of roadways.
+
+.. [Empty]
+... With the exception of (b)(ii) and (iii) of this subsection, a person operating a bicycle approaching a stop sign shall either:
+
+(A) Follow the requirements for approaching a stop sign as specified in (a) of this subsection; or
+
+(B) Follow the requirements for approaching a yield sign as specified in subsection (3) of this section.
+
+... A person operating a bicycle approaching a stop sign located at a highway grade crossing of a railroad must follow the requirements of RCW 46.61.345.
+
+... A person operating a bicycle approaching a "stop" signal in use by a school bus, as required under RCW 46.37.190, must follow the requirements of RCW 46.61.370.
 
 . The driver of a vehicle approaching a yield sign shall in obedience to such sign slow down to a speed reasonable for the existing conditions and if required for safety to stop, shall stop at a clearly marked stop line, but if none, before entering a marked crosswalk on the near side of the intersection or if none, then at the point nearest the intersecting roadway where the driver has a view of approaching traffic on the intersecting roadway before entering the roadway, and then after slowing or stopping, the driver shall yield the right-of-way to any vehicle in the intersection or approaching on another roadway so closely as to constitute an immediate hazard during the time such driver is moving across or within the intersection or junction of roadways: PROVIDED, That if such a driver is involved in a collision with a vehicle in the intersection or junction of roadways, after driving past a yield sign without stopping, such collision shall be deemed prima facie evidence of the driver's failure to yield right-of-way.
 
@@ -433,7 +445,7 @@ Notwithstanding any provision of law to the contrary, the operator of a bicycle,
 
 . The additional fine imposed under subsection (4) of this section must be deposited into the vulnerable roadway user education account created in RCW 46.61.145.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5723-S.SL.pdf?cite=2019%20c%20403%20§%207[2019 c 403 § 7]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2647-S.SL.pdf?cite=2000%20c%20239%20§%205[2000 c 239 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975c62.pdf?cite=1975%20c%2062%20§%2027[1975 c 62 § 27]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c155.pdf?cite=1965%20ex.s.%20c%20155%20§%2030[1965 ex.s. c 155 § 30]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6208-S.SL.pdf?cite=2020%20c%2066%20§%202[2020 c 66 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5723-S.SL.pdf?cite=2019%20c%20403%20§%207[2019 c 403 § 7]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2647-S.SL.pdf?cite=2000%20c%20239%20§%205[2000 c 239 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975c62.pdf?cite=1975%20c%2062%20§%2027[1975 c 62 § 27]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c155.pdf?cite=1965%20ex.s.%20c%20155%20§%2030[1965 ex.s. c 155 § 30]; ]
 
 == 46.61.195 - Arterial highways designated—Stopping on entering.
 All state highways are hereby declared to be arterial highways as respects all other public highways or private ways, except that the state department of transportation has the authority to designate any county road or city street as an arterial having preference over the traffic on the state highway if traffic conditions will be improved by such action.
@@ -446,10 +458,10 @@ The operator of any vehicle entering upon any arterial highway from any other pu
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c7.pdf?cite=1984%20c%207%20§%2066[1984 c 7 § 66]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963ex1c3.pdf?cite=1963%20ex.s.%20c%203%20§%2048[1963 ex.s. c 3 § 48]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c12.pdf?cite=1961%20c%2012%20§%2046.60.330[1961 c 12 § 46.60.330]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c146.pdf?cite=1955%20c%20146%20§%205[1955 c 146 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1947c200.pdf?cite=1947%20c%20200%20§%2014[1947 c 200 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1937c189.pdf?cite=1937%20c%20189%20§%20105[1937 c 189 § 105]; Rem. Supp. 1947 § 6360-105; ]
 
-== 46.61.200 - Stop intersections other than arterial may be designated. (Effective until October 1, 2020.)
-In addition to the points of intersection of any public highway with any arterial public highway that is constituted by law or by any proper authorities of this state or any city or town of this state, the state department of transportation with respect to state highways, and the proper authorities with respect to any other public highways, have the power to determine and designate any particular intersection, or any particular highways, roads, or streets or portions thereof, at any intersection with which vehicles shall be required to stop before entering such intersection. Upon the determination and designation of such points at which vehicles will be required to come to a stop before entering the intersection, the proper authorities so determining and designating shall cause to be posted and maintained proper signs of the standard design adopted by the state department of transportation indicating that the intersection has been so determined and designated and that vehicles entering it are required to stop. It is unlawful for any person operating any vehicle when entering any intersection determined, designated, and bearing the required sign to fail and neglect to bring the vehicle to a complete stop before entering the intersection.
+== 46.61.200 - Stop intersections other than arterial may be designated.
+In addition to the points of intersection of any public highway with any arterial public highway that is constituted by law or by any proper authorities of this state or any city or town of this state, the state department of transportation with respect to state highways, and the proper authorities with respect to any other public highways, have the power to determine and designate any particular intersection, or any particular highways, roads, or streets or portions thereof, at any intersection with which vehicles shall be required to stop before entering such intersection. Upon the determination and designation of such points at which vehicles will be required to come to a stop before entering the intersection, except as provided in RCW 46.61.190, the proper authorities so determining and designating shall cause to be posted and maintained proper signs of the standard design adopted by the state department of transportation indicating that the intersection has been so determined and designated and that vehicles entering it are required to stop, except as provided in RCW 46.61.190. It is unlawful for any person operating any vehicle when entering any intersection determined, designated, and bearing the required sign to fail and neglect to bring the vehicle to a complete stop before entering the intersection, except as provided in RCW 46.61.190.
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c7.pdf?cite=1984%20c%207%20§%2067[1984 c 7 § 67]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c12.pdf?cite=1961%20c%2012%20§%2046.60.340[1961 c 12 § 46.60.340]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1937c189.pdf?cite=1937%20c%20189%20§%20106[1937 c 189 § 106]; RRS § 6360-106; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1927c284.pdf?cite=1927%20c%20284%20§%201[1927 c 284 § 1]; RRS § 6362-41a; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6208-S.SL.pdf?cite=2020%20c%2066%20§%203[2020 c 66 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c7.pdf?cite=1984%20c%207%20§%2067[1984 c 7 § 67]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c12.pdf?cite=1961%20c%2012%20§%2046.60.340[1961 c 12 § 46.60.340]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1937c189.pdf?cite=1937%20c%20189%20§%20106[1937 c 189 § 106]; RRS § 6360-106; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1927c284.pdf?cite=1927%20c%20284%20§%201[1927 c 284 § 1]; RRS § 6362-41a; ]
 
 == 46.61.202 - Stopping when traffic obstructed.
 No driver shall enter an intersection or a marked crosswalk or drive onto any railroad grade crossing unless there is sufficient space on the other side of the intersection, crosswalk, or railroad grade crossing to accommodate the vehicle he or she is operating without obstructing the passage of other vehicles, pedestrians, or railroad trains notwithstanding any traffic control signal indications to proceed.
@@ -2424,12 +2436,12 @@ For the purposes of this chapter, "personal delivery device" has the same meanin
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c55.pdf?cite=1982%20c%2055%20§%206[1982 c 55 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c136.pdf?cite=1979%20ex.s.%20c%20136%20§%2092[1979 ex.s. c 136 § 92]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c155.pdf?cite=1965%20ex.s.%20c%20155%20§%2079[1965 ex.s. c 155 § 79]; ]
 
-== 46.61.755 - Traffic laws apply to persons riding bicycles. (Effective until October 1, 2020.)
-. Every person riding a bicycle upon a roadway shall be granted all of the rights and shall be subject to all of the duties applicable to the driver of a vehicle by this chapter, except as to special regulations in RCW 46.61.750 through 46.61.780 and except as to those provisions of this chapter which by their nature can have no application.
+== 46.61.755 - Traffic laws apply to persons riding bicycles.
+. Every person riding a bicycle upon a roadway shall be granted all of the rights and shall be subject to all of the duties applicable to the driver of a vehicle by this chapter, except as to special regulations in RCW 46.61.750 through 46.61.780, except as provided in RCW 46.61.190, and except as to those provisions of this chapter which by their nature can have no application.
 
 . Every person riding a bicycle upon a sidewalk or crosswalk must be granted all of the rights and is subject to all of the duties applicable to a pedestrian by this chapter.
 
-[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2333.SL.pdf?cite=2000%20c%2085%20§%203[2000 c 85 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c155.pdf?cite=1965%20ex.s.%20c%20155%20§%2080[1965 ex.s. c 155 § 80]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6208-S.SL.pdf?cite=2020%20c%2066%20§%204[2020 c 66 § 4]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2333.SL.pdf?cite=2000%20c%2085%20§%203[2000 c 85 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c155.pdf?cite=1965%20ex.s.%20c%20155%20§%2080[1965 ex.s. c 155 § 80]; ]
 
 == 46.61.758 - Hand signals.
 All hand signals required of persons operating bicycles shall be given in the following manner:
@@ -2467,7 +2479,7 @@ No person riding upon any bicycle, coaster, roller skates, sled, or toy vehicle 
 
 .. When reasonably necessary to avoid unsafe conditions including, but not limited to, fixed or moving objects, parked or moving vehicles, bicyclists, pedestrians, animals, and surface hazards.
 
-. A person operating a bicycle upon a roadway or highway other than a limited-access highway, which roadway or highway carries traffic in one direction only and has two or more marked traffic lanes, may ride as near to the left side of the left through lane as is safe.
+. A person operating a bicycle upon a roadway or highway other than a limited access highway, which roadway or highway carries traffic in one direction only and has two or more marked traffic lanes, may ride as near to the left side of the left through lane as is safe.
 
 . A person operating a bicycle upon a roadway may use the shoulder of the roadway or any specially designated bicycle lane.
 

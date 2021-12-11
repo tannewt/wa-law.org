@@ -322,7 +322,7 @@ Any compliance reporting requirements as a result of laws in this chapter that a
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5184-S.SL.pdf?cite=2011%20c%2045%20§%2033[2011 c 45 § 33]; ]
 
 == 28A.415.400 - Reading instruction and early literacy—Professional development.
-. High-quality professional development is essential for educators to keep abreast of the important advances in research that are occurring regarding instructional strategies and curriculum. Professional development in early literacy is especially important to support the instruction of young readers since reading proficiency is a crucial element for student academic success.
+. High quality professional development is essential for educators to keep abreast of the important advances in research that are occurring regarding instructional strategies and curriculum. Professional development in early literacy is especially important to support the instruction of young readers since reading proficiency is a crucial element for student academic success.
 
 . Subject to funds appropriated for this specific purpose, the office of the superintendent of public instruction shall create partnerships with the educational service districts and public or private institutions of higher education with approved educator preparation programs to develop and deliver research-based professional development learning opportunities in reading instruction and early literacy for teachers of kindergarten through fourth grade students.
 
@@ -344,17 +344,6 @@ Any compliance reporting requirements as a result of laws in this chapter that a
 .. Use in a self-directed manner.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1541-S4.SL.pdf?cite=2016%20c%2072%20§%20104[2016 c 72 § 104]; ]
-
-== 28A.415.420 - Cultural competence professional development and training.
-. Subject to funds appropriated specifically for this purpose, the office of the superintendent of public instruction, in collaboration with the educational opportunity gap oversight and accountability committee, the professional educator standards board, colleges of education, and representatives from diverse communities and community-based organizations, must develop a content outline for professional development and training in cultural competence for school staff.
-
-. The content of the cultural competence professional development and training must be aligned with the standards developed by the professional educator standards board under RCW 28A.410.270. The training program must also include the foundational elements of cultural competence, focusing on multicultural education and principles of English language acquisition, including information regarding best practices to implement the tribal history and culture curriculum.
-
-. The cultural competence professional development and training must contain components that are appropriate for classified school staff and district administrators as well as certificated instructional staff and principals at the building level. The professional development and training must also contain components suitable for delivery by individuals from the local community or community-based organizations with appropriate expertise.
-
-. The legislature encourages educational service districts and school districts to use the cultural competence professional development and training developed under this section and provide opportunities for all school and school district staff to gain knowledge and skills in cultural competence, including in partnership with their local communities.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1541-S4.SL.pdf?cite=2016%20c%2072%20§%20204[2016 c 72 § 204]; ]
 
 == 28A.415.430 - Professional learning—Defined—Scope.
 . The term "professional learning" means a comprehensive, sustained, job-embedded, and collaborative approach to improving teachers' and principals' effectiveness in raising student achievement. Professional learning fosters collective responsibility for improved student performance and must comprise learning that is aligned with student learning needs, educator development needs, and school district , or state improvement goals. Professional learning shall have as its primary focus the improvement of teachers' and school leaders' effectiveness in assisting all students to meet the state learning standards.
@@ -433,13 +422,32 @@ The definitions in this section apply throughout *RCW 28A.300.600 and 28A.300.60
 
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1345.SL.pdf?cite=2016%20c%2077%20§%204[2016 c 77 § 4]; ]
 
-== 28A.415.440 - Professional learning days—Social-emotional learning.
-Beginning in the 2020-21 school year, and every other school year thereafter, school districts must use one of the professional learning days funded under RCW 28A.150.415 to train school district staff on one or more of the following topics: Social-emotional learning, trauma-informed practices, using the model plan developed under RCW 28A.320.1271 related to recognition and response to emotional or behavioral distress, consideration of adverse childhood experiences, mental health literacy, antibullying strategies, and culturally sustaining practices.
+== 28A.415.443 - Definitions.
+The definitions in this section apply throughout RCW 28A.345.115, 28A.345.120, 28A.410.265, 28A.343.100, 28A.410.260, and 28A.415.445 unless the context clearly requires otherwise.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5082-S2.SL.pdf?cite=2019%20c%20386%20§%207[2019 c 386 § 7]; ]
+. "Cultural competency" includes knowledge of student cultural histories and contexts, as well as family norms and values in different cultures; knowledge and skills in accessing community resources and community and parent outreach; and skills in adapting instruction to students' experiences and identifying cultural contexts for individual students.
 
-== 28A.415.445 - Training in children's mental health topics—Required use of one professional learning day every other year.
-Beginning in the 2020-21 school year, and every other school year thereafter, school districts must use one of the professional learning days funded under RCW 28A.150.415 to train school district staff in one or more of the following topics: Social-emotional learning, trauma-informed practices, using the model plan developed under RCW 28A.320.1271 related to recognition and response to emotional or behavioral distress, consideration of adverse childhood experiences, mental health literacy, antibullying strategies, or culturally sustaining practices.
+. "Diversity" describes the presence of similarities and differences within a given setting, collective, or group based on multiple factors including race and ethnicity, gender identity, sexual orientation, disability status, age, educational status, religion, geography, primary language, culture, and other characteristics and experiences.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5903-S2.SL.pdf?cite=2019%20c%20360%20§%203[2019 c 360 § 3]; ]
+. "Equity" includes developing, strengthening, and supporting procedural and outcome fairness in systems, procedures, and resource distribution mechanisms to create equitable opportunities for all individuals. The term also includes eliminating barriers that prevent the full participation of individuals and groups.
+
+. "Inclusion" describes intentional efforts and consistent sets of actions to create and sustain a sense of respect, belonging, safety, and attention to individual needs and backgrounds that ensure the full access to engagement and participation in available activities and opportunities.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5044-S.SL.pdf?cite=2021%20c%20197%20§%202[2021 c 197 § 2]; ]
+
+== 28A.415.445 - Professional learning days—Mental health topics—Cultural competency, diversity, equity, and inclusion.
+. Beginning in the 2020-21 school year, and every other school year thereafter, school districts must use one of the professional learning days funded under RCW 28A.150.415 to train school district staff in one or more of the following topics: Social-emotional learning, trauma-informed practices, using the model plan developed under RCW 28A.320.1271 related to recognition and response to emotional or behavioral distress, consideration of adverse childhood experiences, mental health literacy, antibullying strategies, or culturally sustaining practices.
+
+. [Empty]
+.. In the 2021-22 school year, school districts must use one of the professional learning days funded under RCW 28A.150.415 to train school district staff in one or more of the following topics: Cultural competency, diversity, equity, or inclusion.
+
+.. Beginning in the 2023-24 school year, and every other school year thereafter, school districts must use one of the professional learning days funded under RCW 28A.150.415 to provide to school district staff a variety of opportunities for training, professional development, and professional learning aligned with the cultural competency, equity, diversity, and inclusion standards of practice developed by the Washington professional educator standards board under RCW 28A.410.260. Alignment with the standards of practice must be evaluated using the rubrics developed under RCW 28A.410.260. The opportunities must also include training on multicultural education and principles of English language acquisition.
+
+. For the purposes of this section:
+
+.. "Cultural competency," "diversity," "equity," and "inclusion" have the same meaning as in RCW 28A.415.443.
+
+.. "School district staff" includes classified staff, certificated instructional staff, certificated administrative staff, and superintendents.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5044-S.SL.pdf?cite=2021%20c%20197%20§%208[2021 c 197 § 8]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5903-S2.SL.pdf?cite=2019%20c%20360%20§%203[2019 c 360 § 3]; ]
 

@@ -24,7 +24,7 @@ The words "public utility" when used in this chapter has the same meaning as the
 
 [ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5838-S.SL.pdf?cite=1997%20c%20447%20§%207[1997 c 447 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c110.pdf?cite=1965%20c%20110%20§%201[1965 c 110 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.67.010[1965 c 7 § 35.67.010]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c266.pdf?cite=1955%20c%20266%20§%202[1955 c 266 § 2]; prior: 1941 c 193 § 1, part; Rem. Supp. 1941 § 9354-4, part; ]
 
-== 35.67.020 - Authority to construct system and fix rates and charges—Classification of services and facilities—Assistance for low-income persons.
+== 35.67.020 - Authority to construct system and fix rates and charges—Classification of services and facilities—Assistance for low-income persons. (Effective until January 1, 2022.)
 . Every city and town may construct, condemn and purchase, acquire, add to, maintain, conduct, and operate systems of sewerage and systems and plants for refuse collection and disposal together with additions, extensions, and betterments thereto, within and without its limits. Every city and town has full jurisdiction and authority to manage, regulate, and control them and, except as provided in subsection (3) of this section, to fix, alter, regulate, and control the rates and charges for their use.
 
 . Subject to subsection (3) of this section, the rates charged under this section must be uniform for the same class of customers or service and facilities furnished. In classifying customers served or service and facilities furnished by such system of sewerage, the city or town legislative body may in its discretion consider any or all of the following factors:
@@ -123,7 +123,7 @@ If a city or town fails to set aside and pay into the special fund created for t
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c167.pdf?cite=1983%20c%20167%20§%2061[1983 c 167 § 61]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.67.180[1965 c 7 § 35.67.180]; 1941 c 193 § 4, part; Rem. Supp. 1941 c 9354-7, part; ]
 
-== 35.67.190 - Revenues from system—Classification of services—Minimum rates—Compulsory use.
+== 35.67.190 - Revenues from system—Classification of services—Minimum rates—Compulsory use. (Effective until January 1, 2022.)
 The legislative body of such city or town may provide by ordinance for revenues by fixing rates and charges for the furnishing of service to those served by its system of sewerage or system for refuse collection and disposal, which rates and charges shall be uniform for the same class of customer or service. In classifying customers served or service furnished by such system of sewerage, the city or town legislative body may in its discretion consider any or all of the following factors: (1) The difference in cost of service to the various customers; (2) the location of the various customers within and without the city or town; (3) the difference in cost of maintenance, operation, repair, and replacement of the various parts of the system; (4) the different character of the service furnished various customers; (5) the quantity and quality of the sewage delivered and the time of its delivery; (6) capital contributions made to the system, including but not limited to, assessments; (7) the nonprofit public benefit status, as defined in RCW 24.03.490, of the land user; and (8) any other matters which present a reasonable difference as a ground for distinction.
 
 If special indebtedness bonds or warrants are issued against the revenues, the legislative body shall by ordinance fix charges at rates which will be sufficient to take care of the costs of maintenance and operation, bond and warrant principal and interest, sinking fund requirements, and all other expenses necessary for efficient and proper operation of the system.
@@ -142,8 +142,8 @@ Cities and towns owning their own sewer systems shall have a lien for delinquent
 
 [ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1607.SL.pdf?cite=1991%20c%2036%20§%202[1991 c 36 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.67.200[1965 c 7 § 35.67.200]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c90.pdf?cite=1959%20c%2090%20§%204[1959 c 90 § 4]; prior: 1941 c 193 § 6, part; Rem. Supp. 1941 § 9354-9, part; ]
 
-== 35.67.210 - Sewerage lien—Extent—Notice.
-The sewerage lien shall be effective for a total of not to exceed six months' delinquent charges without the necessity of any writing or recording. In order to make such lien effective for more than six months' charges the city or town treasurer, clerk, or official charged with the administration of the affairs of the utility shall cause to be filed for record in the office of the county auditor of the county in which such city or town is located, a notice in substantially the following form:
+== 35.67.210 - Sewerage lien—Extent—Notice—Emergency declaration.
+. Except as provided for in subsection (2) of this section, the sewerage lien shall be effective for a total of not to exceed six months' delinquent charges without the necessity of any writing or recording. In order to make such lien effective for more than six months' charges the city or town treasurer, clerk, or official charged with the administration of the affairs of the utility shall cause to be filed for record in the office of the county auditor of the county in which such city or town is located, a notice in substantially the following form:
 
 "Sewerage lien notice  City (or town) of . . . . vs.   . . . . reputed owner. 
 
@@ -191,7 +191,9 @@ By . . . ."
 
 The lien notice may be signed by the city or town treasurer or clerk or other official in charge of the administration of the utility. The lien notice shall be recorded as prescribed by law for the recording of mechanics' liens.
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.67.210[1965 c 7 § 35.67.210]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c90.pdf?cite=1959%20c%2090%20§%205[1959 c 90 § 5]; prior: 1941 c 193 § 6, part; Rem. Supp. 1941 § 9354-9, part; ]
+. A sewage lien may exceed six months' delinquent charges without the necessity of any writing or recording if collection of charges was impacted by the declaration of an emergency by the governor. In such circumstances, a lien may be filed for all charges due during the period covered by the declaration and may be effective for six months after the expiration of the declaration of the emergency.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1069-S2.SL.pdf?cite=2021%20c%20296%20§%2016[2021 c 296 § 16]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.67.210[1965 c 7 § 35.67.210]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c90.pdf?cite=1959%20c%2090%20§%205[1959 c 90 § 5]; prior: 1941 c 193 § 6, part; Rem. Supp. 1941 § 9354-9, part; ]
 
 == 35.67.215 - Sewerage lien—Extension of coverage.
 Any city or town may, by resolution or ordinance, provide that the sewerage lien shall be effective for a total not to exceed one year's delinquent service charges without the necessity of any writing or recording of the lien with the county auditor, in lieu of the provisions provided for in RCW 35.67.210.

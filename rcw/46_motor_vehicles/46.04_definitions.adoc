@@ -211,6 +211,11 @@ Words and phrases used herein in the past, present or future tense shall include
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5585-S.SL.pdf?cite=2011%20c%20114%20§%203[2011 c 114 § 3]; ]
 
+== 46.04.1615 - Data services.
+"Data services" means the practice of providing data sets to governmental entities and businesses, as authorized or required by law.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5152-S.SL.pdf?cite=2021%20c%2093%20§%201[2021 c 93 § 1]; ]
+
 == 46.04.162 - Department.
 The term "department" shall mean the department of licensing unless a different department is specified.
 
@@ -371,6 +376,31 @@ Highway means the entire width between the boundary lines of every way publicly 
 "Hybrid motor vehicle" means a motor vehicle that uses multiple power sources or fuel types for propulsion and meets the federal definition of a hybrid motor vehicle.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6379.SL.pdf?cite=2010%20c%20161%20§%20121[2010 c 161 § 121]; ]
+
+== 46.04.209 - Identity information.
+. "Identity information" means information that identifies an individual, or may be used to determine the identity of an individual, including:
+
+.. Federal tax identification number or employer identification number;
+
+.. Residential and mailing address, but not the five-digit zip code;
+
+.. Email address;
+
+.. Telephone number;
+
+.. Registered and legal vehicle owner name;
+
+.. Gender;
+
+.. Place of birth;
+
+.. Voter information status; and
+
+.. Selective service information.
+
+. "Personal information" has the same meaning as in RCW 42.56.590.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5152-S.SL.pdf?cite=2021%20c%2093%20§%202[2021 c 93 § 2]; ]
 
 == 46.04.215 - Ignition interlock device.
 "Ignition interlock device" means breath alcohol analyzing ignition equipment or other biological or technical device certified in conformance with RCW 43.43.395 and rules adopted by the state patrol and designed to prevent a motor vehicle from being operated by a person who has consumed an alcoholic beverage.
@@ -779,7 +809,7 @@ Police officer means every officer authorized to direct or regulate traffic or t
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1304-S.SL.pdf?cite=2007%20c%20419%20§%204[2007 c 419 § 4]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5141-S.SL.pdf?cite=1995%20c%20332%20§%2010[1995 c 332 § 10]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6047-S.SL.pdf?cite=1994%20c%20275%20§%2038[1994 c 275 § 38]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c148.pdf?cite=1988%20c%20148%20§%208[1988 c 148 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c407.pdf?cite=1985%20c%20407%20§%201[1985 c 407 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c165.pdf?cite=1983%20c%20165%20§%2014[1983 c 165 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c165.pdf?cite=1983%20c%20165%20§%2013[1983 c 165 § 13]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c62.pdf?cite=1979%20c%2062%20§%207[1979 c 62 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c12.pdf?cite=1961%20c%2012%20§%2046.04.480[1961 c 12 § 46.04.480]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c49.pdf?cite=1959%20c%2049%20§%2052[1959 c 49 § 52]; prior:  1943 c 153 § 1, part; 1937 c 188 § 1, part; Rem. Supp. 1943 § 6312-1, part.  1937 c 189 § 1, part; RRS § 6360-1, part; ]
 
 == 46.04.485 - Ride share license plates.
-"Ride share license plates" means special license plates issued for motor vehicles that are used primarily for commuter ride sharing as defined in RCW 46.74.010.
+"Ride share license plates" means special license plates issued for motor vehicles that are used primarily for commuter ride sharing as defined in *RCW 46.74.010.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6379.SL.pdf?cite=2010%20c%20161%20§%20137[2010 c 161 § 137]; ]
 
@@ -823,7 +853,7 @@ School bus means every motor vehicle used regularly to transport children to and
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5746-S.SL.pdf?cite=2018%20c%2067%20§%207[2018 c 67 § 7]; ]
 
-== 46.04.5221 - Seattle NHL hockey special license plates. (Effective October 1, 2020.)
+== 46.04.5221 - Seattle NHL hockey special license plates.
 "Seattle NHL hockey special license plates" means special license plates issued under RCW 46.18.200 that display the logo of the national hockey league team based in Seattle.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2669.SL.pdf?cite=2020%20c%20129%20§%204[2020 c 129 § 4]; ]
@@ -999,6 +1029,11 @@ School bus means every motor vehicle used regularly to transport children to and
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6379.SL.pdf?cite=2010%20c%20161%20§%20153[2010 c 161 § 153]; ]
 
+== 46.04.589 - Tracked all-terrain vehicle.
+"Tracked all-terrain vehicle" means any "wheeled all-terrain vehicle" as defined in RCW 46.09.310 and weighing less than two thousand pounds in stock configuration, with tracks or a combination of tracks and skis installed in place of the standard low-pressure tires.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5016.SL.pdf?cite=2021%20c%2086%20§%202[2021 c 86 § 2]; ]
+
 == 46.04.590 - Traffic.
 "Traffic" includes pedestrians, ridden or herded animals, vehicles, streetcars, and other conveyances either singly or together, while using any public highways for purposes of travel.
 
@@ -1063,6 +1098,11 @@ Official traffic-control devices means all signs, signals, markings and devices 
 "Tractor" means every motor vehicle designed and used primarily for drawing other vehicles and not so constructed as to carry a load other than a part of the weight of the vehicle and load so drawn.
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c18.pdf?cite=1986%20c%2018%20§%201[1986 c 18 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975c62.pdf?cite=1975%20c%2062%20§%208[1975 c 62 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c12.pdf?cite=1961%20c%2012%20§%2046.04.650[1961 c 12 § 46.04.650]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c49.pdf?cite=1959%20c%2049%20§%2070[1959 c 49 § 70]; prior:  1943 c 153 § 1, part; 1937 c 188 § 1, part; Rem. Supp. 1943 § 6312, part.  1937 c 189 § 1, part; RRS § 6360-1, part; ]
+
+== 46.04.652 - Transportation network company.
+"Transportation network company" means a corporation, partnership, sole proprietorship, or other entity that operates in this state, and uses a digital network to connect passengers with transportation network company drivers to provide prearranged rides.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5152-S.SL.pdf?cite=2021%20c%2093%20§%203[2021 c 93 § 3]; ]
 
 == 46.04.653 - Truck.
 "Truck" means every motor vehicle designed, used, or maintained primarily for the transportation of property.

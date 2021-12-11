@@ -81,7 +81,7 @@ The notification and report shall be submitted to the department using the inter
 
 .. Directly advise reporting medical facilities of immediate changes that can be instituted to reduce adverse events or incidents;
 
-.. Issue recommendations to medical facilities on a facility-specific or on a statewide basis regarding changes, trends, and improvements in health care practices and procedures for the purpose of reducing the number and severity of adverse events or incidents. Prior to issuing recommendations, consideration shall be given to the following factors: Expectation of improved quality of care, implementation feasibility, other relevant implementation practices, and the cost impact to patients, payers, and medical facilities. Statewide recommendations shall be issued to medical facilities on a continuing basis and shall be published and posted on a publicly accessible web site. The recommendations made to medical facilities under this section shall not be considered mandatory for licensure purposes unless they are adopted by the department as rules pursuant to chapter 34.05 RCW; and
+.. Issue recommendations to medical facilities on a facility-specific or on a statewide basis regarding changes, trends, and improvements in health care practices and procedures for the purpose of reducing the number and severity of adverse events or incidents. Prior to issuing recommendations, consideration shall be given to the following factors: Expectation of improved quality of care, implementation feasibility, other relevant implementation practices, and the cost impact to patients, payers, and medical facilities. Statewide recommendations shall be issued to medical facilities on a continuing basis and shall be published and posted on a publicly accessible website. The recommendations made to medical facilities under this section shall not be considered mandatory for licensure purposes unless they are adopted by the department as rules pursuant to chapter 34.05 RCW; and
 
 .. Monitor implementation of reporting systems addressing adverse events or their equivalent in other states and make recommendations to the governor and the legislature as necessary for modifications to this chapter to keep the system as nearly consistent as possible with similar systems in other states.
 
@@ -96,7 +96,7 @@ The notification and report shall be submitted to the department using the inter
 
 ... Information, presented in the aggregate, to inform and educate consumers and providers, on best practices and prevention tools that medical facilities are implementing to prevent adverse events as well as other patient safety initiatives medical facilities are undertaking to promote patient safety.
 
-.. The annual report shall be made available for public inspection and shall be posted on the department's and the independent entity's web site.
+.. The annual report shall be made available for public inspection and shall be posted on the department's and the independent entity's website.
 
 . The independent entity shall conduct all activities under this section in a manner that preserves the confidentiality of facilities, documents, materials, or information made confidential by RCW 70.56.050.
 

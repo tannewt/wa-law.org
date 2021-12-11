@@ -106,7 +106,7 @@ Unless otherwise prescribed in the orders, each shall become effective ninety da
 == 1.08.017 - Code reviser may omit certain provisions of legislative acts from code; may omit annotations after ten years.
 . The reviser may omit from the code all titles to acts, enacting and repealing clauses, preambles, declarations of emergency, severability, and validity and construction sections unless, in a particular instance, it may be necessary to retain such to preserve the full intent of the law. The omission of validity or construction sections is not intended to, nor shall it change, or be considered as changing, the effect to be given thereto in construing legislation of which such validity and construction sections were a part. Any section so omitted, other than repealing, emergency, severability, or validity provisions, shall be referred to or set forth as an annotation to the applicable sections of the act as codified.
 
-. The reviser may remove annotations that have appeared in the published Revised Code of Washington for more than ten years, unless in a particular instance, it may be necessary to retain such to preserve the full intent of the law. Any annotations removed under this subsection shall be retained and available in the electronic copy of the Revised Code of Washington available on the code reviser web site.
+. The reviser may remove annotations that have appeared in the published Revised Code of Washington for more than ten years, unless in a particular instance, it may be necessary to retain such to preserve the full intent of the law. Any annotations removed under this subsection shall be retained and available in the electronic copy of the Revised Code of Washington available on the code reviser website.
 
 . Section captions, part headings, subheadings, tables of contents, and indexes appearing in legislative bills shall not be considered any part of the law, and the reviser may omit such provisions from the Revised Code of Washington and annotations unless, in a particular instance, it may be necessary to retain such to preserve the full intent of the law.
 
@@ -222,15 +222,15 @@ Each member of the legislature may receive one set of the Revised Code of Washin
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1479.SL.pdf?cite=2011%20c%20156%20§%202[2011 c 156 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c235.pdf?cite=1955%20c%20235%20§%209[1955 c 235 § 9]; ]
 
-== 1.08.080 - Statute law committee publications to be permanently available in digital form on legislative web sites.
-Current digital copies of the Revised Code of Washington, the Washington Administrative Code, the Washington State Register, and the session laws of the Washington state legislature shall be maintained and made freely available for permanent public access on the code reviser or legislative web site. All historical digital copies added to the web site shall be made freely available for permanent public access.
+== 1.08.080 - Statute law committee publications to be permanently available in digital form on legislative websites.
+Current digital copies of the Revised Code of Washington, the Washington Administrative Code, the Washington State Register, and the session laws of the Washington state legislature shall be maintained and made freely available for permanent public access on the code reviser or legislative website. All historical digital copies added to the website shall be made freely available for permanent public access.
 
 The statute law committee shall provide digital authentication for any publication in a digital format that is declared official, if in the discretion of the committee such authentication does not interfere with public access.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1479.SL.pdf?cite=2011%20c%20156%20§%203[2011 c 156 § 3]; ]
 
 == 1.08.110 - Publication of Washington State Register—Rule-making authority.
-The statute law committee, in addition to the other responsibilities enumerated in this chapter, shall publish the Washington State Register as created in RCW 34.08.020. The statute law committee or the code reviser may adopt rules as are necessary for the effective operation of this service. The statute law committee, in its discretion, may publish the Washington State Register exclusively by electronic means on the code reviser web site if it determines that public access to the Washington State Register is not substantially diminished. If the statute law committee publishes the Washington State Register exclusively by electronic means on the code reviser web site, the electronic copy posted on the code reviser web site shall be considered the official copy of the Washington State Register.
+The statute law committee, in addition to the other responsibilities enumerated in this chapter, shall publish the Washington State Register as created in RCW 34.08.020. The statute law committee or the code reviser may adopt rules as are necessary for the effective operation of this service. The statute law committee, in its discretion, may publish the Washington State Register exclusively by electronic means on the code reviser website if it determines that public access to the Washington State Register is not substantially diminished. If the statute law committee publishes the Washington State Register exclusively by electronic means on the code reviser website, the electronic copy posted on the code reviser website shall be considered the official copy of the Washington State Register.
 
 The code reviser shall provide a paper copy of any issue of the register or any register filing upon request. The code reviser may charge a reasonable fee for printing and mailing the paper copy.
 
@@ -265,9 +265,4 @@ The code reviser shall provide a paper copy of any issue of the register or any 
 For purposes of harmonizing and clarifying the provisions of the statute sections published in the revised code of Washington, the code reviser may substitute words designating the department of transportation or the secretary of transportation, as appropriate, whenever necessary to effect the changes in meaning provided for in RCW 47.68.015 and 47.04.015 or any other act of the 1977 legislature.
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c151.pdf?cite=1977%20ex.s.%20c%20151%20§%2024[1977 ex.s. c 151 § 24]; ]
-
-== 1.08.130 - Gender neutral language—Code improvement.
-The office of the code reviser, in consultation with the statute law committee, shall develop and implement a plan to correct gender-specific references throughout the Revised Code of Washington, submitting recommendations to the legislature annually pursuant to RCW 1.08.025. The revision shall be complete by June 30, 2015.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5063.SL.pdf?cite=2007%20c%20218%20§%2097[2007 c 218 § 97]; ]
 

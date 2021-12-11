@@ -86,7 +86,7 @@ In addition to any other authority provided by law, the secretary has the author
 
 . Adopt rules implementing a continuing education program in consultation with the committee;
 
-. The office of crime victims advocacy shall supply the committee with information on methods of recognizing victims of human trafficking, what services are available for these victims, and where to report potential trafficking situations. The information supplied must be culturally sensitive and must include information relating to minor victims. The committee shall disseminate this information to licensees by: Providing the information on the committee's web site; including the information in newsletters; holding trainings at meetings attended by organization members; or through another distribution method determined by the committee. The committee shall report to the office of crime victims advocacy on the method or methods it uses to distribute information under this subsection;
+. The office of crime victims advocacy shall supply the committee with information on methods of recognizing victims of human trafficking, what services are available for these victims, and where to report potential trafficking situations. The information supplied must be culturally sensitive and must include information relating to minor victims. The committee shall disseminate this information to licensees by: Providing the information on the committee's website; including the information in newsletters; holding trainings at meetings attended by organization members; or through another distribution method determined by the committee. The committee shall report to the office of crime victims advocacy on the method or methods it uses to distribute information under this subsection;
 
 . Maintain the official record of all applicants and licensees; and
 
@@ -162,11 +162,9 @@ The uniform disciplinary act, chapter 18.130 RCW, governs unlicensed practice, t
 
 . At least fifty hours must include supervision by a licensed advanced social worker or licensed independent clinical social worker; the other forty hours may be supervised by an equally qualified licensed mental health practitioner; and
 
-. At least forty hours must be in one-to-one supervision and fifty hours may be in one-to-one supervision or group supervision;
+. At least forty hours must be in one-to-one supervision and fifty hours may be in one-to-one supervision or group supervision; and
 
-(II) Distance supervision is limited to forty supervision hours; and
-
-(III) Eight hundred hours must be in direct client contact; and
+(II) Eight hundred hours must be in direct client contact; and
 
 (D) Successful completion of continuing education requirements of thirty-six hours, with six in professional ethics.
 
@@ -178,7 +176,7 @@ The uniform disciplinary act, chapter 18.130 RCW, governs unlicensed practice, t
 
 (C) Successful completion of a supervised experience requirement. The supervised experience requirement consists of a minimum of four thousand hours of experience, over a period of not less than three years, with supervision by an approved supervisor who has been licensed for at least two years and, as specified in this subsection, may be either a licensed independent clinical social worker who has had at least one year of experience in supervising the clinical social work of others or an equally qualified licensed mental health practitioner. Of those supervised hours:
 
-(I) At least one thousand hours must be direct client contact;
+(I) At least one thousand hours must be direct client contact; and
 
 (II) Hours of direct supervision must include:
 
@@ -187,8 +185,6 @@ The uniform disciplinary act, chapter 18.130 RCW, governs unlicensed practice, t
 . At least seventy hours of supervision with a licensed independent clinical social worker meeting the qualifications under this subsection (1)(a)(ii)(C); the other sixty hours may be supervised by an equally qualified licensed mental health practitioner; and
 
 . At least sixty hours must be in one-to-one supervision and seventy hours may be in one-to-one supervision or group supervision; and
-
-(III) Distance supervision is limited to sixty supervision hours; and
 
 (D) Successful completion of continuing education requirements of thirty-six hours, with six in professional ethics.
 
@@ -222,7 +218,7 @@ Applicants who have completed a master's program accredited by the commission on
 
 . In addition, applicants shall be subject to the grounds for denial of a license or issuance of a conditional license under chapter 18.130 RCW.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1213.SL.pdf?cite=2013%20c%2073%20§%203[2013 c 73 § 3]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2474-S.SL.pdf?cite=2008%20c%20141%20§%201[2008 c 141 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6658.SL.pdf?cite=2006%20c%2069%20§%201[2006 c 69 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1855-S.SL.pdf?cite=2003%20c%20108%20§%201[2003 c 108 § 1]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5877-S.SL.pdf?cite=2001%20c%20251%20§%209[2001 c 251 § 9]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1007-S.SL.pdf?cite=2021%20c%2021%20§%201[2021 c 21 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1213.SL.pdf?cite=2013%20c%2073%20§%203[2013 c 73 § 3]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2474-S.SL.pdf?cite=2008%20c%20141%20§%201[2008 c 141 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6658.SL.pdf?cite=2006%20c%2069%20§%201[2006 c 69 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1855-S.SL.pdf?cite=2003%20c%20108%20§%201[2003 c 108 § 1]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5877-S.SL.pdf?cite=2001%20c%20251%20§%209[2001 c 251 § 9]; ]
 
 == 18.225.095 - Supervised experience hours—Reductions for certified chemical dependency professionals.
 The department shall reduce the total number of supervised experience hours required under RCW 18.225.090 by ten percent for any applicant for a license under this chapter who has practiced as a certified chemical dependency professional for three years in the previous ten years.
@@ -306,9 +302,12 @@ Any person certified under chapter 18.19 RCW who has met the applicable experien
 
 . Applicants are subject to the denial of a license or issuance of a conditional license for the reasons set forth in chapter 18.130 RCW.
 
-. An associate license may be renewed no more than six times, provided that the applicant for renewal has successfully completed eighteen hours of continuing education in the preceding year. Beginning with the second renewal, at least six of the continuing education hours in the preceding two years must be in professional ethics.
+. [Empty]
+.. Except as provided in (b) of this subsection, an associate license may be renewed no more than six times, provided that the applicant for renewal has successfully completed eighteen hours of continuing education in the preceding year. Beginning with the second renewal, at least six of the continuing education hours in the preceding two years must be in professional ethics.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1213.SL.pdf?cite=2013%20c%2073%20§%204[2013 c 73 § 4]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2674-S2.SL.pdf?cite=2008%20c%20135%20§%2013[2008 c 135 § 13]; ]
+.. If the secretary finds that a waiver to allow additional renewals is justified due to barriers to testing or training resulting from a governor-declared emergency, additional renewals may be approved.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1063.SL.pdf?cite=2021%20c%2057%20§%202[2021 c 57 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1213.SL.pdf?cite=2013%20c%2073%20§%204[2013 c 73 § 4]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2674-S2.SL.pdf?cite=2008%20c%20135%20§%2013[2008 c 135 § 13]; ]
 
 == 18.225.150 - Renewal of license or associate license, rules—Failure to renew.
 The secretary shall establish by rule the procedural requirements and fees for renewal of a license or associate license. Failure to renew shall invalidate the license or associate license and all privileges granted by the license. If an associate license has lapsed, the person shall submit an updated declaration, in accordance with rules adopted by the department, that the person is working toward full licensure. If a license has lapsed for a period longer than three years, the person shall demonstrate competence to the satisfaction of the secretary by taking continuing education courses, or meeting other standards determined by the secretary. If an associate license has lapsed, the person shall submit an updated declaration, in accordance with rules adopted by the department, that the person is working toward full licensure.

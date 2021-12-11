@@ -4,15 +4,21 @@
 == 54.16.005 - Definitions.
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 
+. "Broadband infrastructure" means networks of deployed telecommunications equipment and technologies necessary to provide high-speed internet access and other advanced telecommunications services.
+
 . "Commission" means the Washington utilities and transportation commission.
 
-. "Telecommunications" has the same meaning as that contained in RCW 80.04.010.
+. "District commission" means the governing board of a public utility district.
+
+. "Retail telecommunications services" means the sale, lease, license, or indivisible right of use of telecommunications services or telecommunications facilities directly to end users.
+
+. "Telecommunications" has the same meaning as defined in RCW 80.04.010.
 
 . "Telecommunications facilities" means lines, conduits, ducts, poles, wires, cables, crossarms, receivers, transmitters, instruments, machines, appliances, instrumentalities and all devices, real estate, easements, apparatus, property, and routes used, operated, owned, or controlled by any entity to facilitate the provision of telecommunications services.
 
-. "Wholesale telecommunications services" means the provision of telecommunications services or facilities for resale by an entity authorized to provide telecommunications services to the general public and internet service providers.
+. "Wholesale telecommunications services" means the provision of telecommunications services or telecommunications facilities for resale to an entity that provides retail telecommunications services.
 
-[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6675-S.SL.pdf?cite=2000%20c%2081%20§%202[2000 c 81 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1336-S.SL.pdf?cite=2021%20c%20294%20§%201[2021 c 294 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6675-S.SL.pdf?cite=2000%20c%2081%20§%202[2000 c 81 § 2]; ]
 
 == 54.16.010 - Surveys, plans, investigations, or studies.
 A district may make surveys, plans, investigations or studies for generating electric energy by water power, steam, or other methods, and for systems and facilities for the generation, transmission or distribution thereof, and for domestic and industrial water supply and irrigation, and for matters and purposes reasonably incidental thereto, within or without the district, and compile comprehensive maps and plans showing the territory that can be most economically served by the various resources and utilities, the natural order in which they should be developed, and how they may be joined and coordinated to make a complete and systematic whole.
@@ -277,6 +283,33 @@ Any district is hereby authorized, within limits established by the Constitution
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2676.SL.pdf?cite=2010%201st%20sp.s.%20c%204%20§%201[2010 1st sp.s. c 4 § 1]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6658-S.SL.pdf?cite=2002%20c%20276%20§%203[2002 c 276 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c268.pdf?cite=1989%20c%20268%20§%202[1989 c 268 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c239.pdf?cite=1979%20ex.s.%20c%20239%20§%203[1979 ex.s. c 239 § 3]; ]
 
+== 54.16.281 - Energy conservation—Utility cool roof program—Tree planting program.
+The legislature encourages any public utility district to assist their customers in the acquisition and installation of materials and equipment, for compensation or otherwise, for the conservation or more efficient use of energy including, but not limited to, materials and equipment installed as part of a utility cool roof program. The use of appropriate tree plantings for energy conservation is highly encouraged as part of these programs. It is the policy of the state of Washington that any tree planting program engaged in by a public utility district where energy reduction is a goal as part of a broader energy conservation program under this chapter should accomplish the following:
+
+. Reduce the peak-load demand for electricity in residential and commercial business areas during the summer months through direct shading of buildings provided by strategically planted trees;
+
+. Reduce wintertime demand for energy in residential areas by blocking cold winds from reaching homes, which lowers interior temperatures and drives heating demand;
+
+. Protect public health by removing harmful pollution from the air and prioritize in communities with environmental health disparities;
+
+. Utilize the natural photosynthetic and transpiration process of trees to lower ambient temperatures and absorb carbon dioxide;
+
+. Lower electric bills for residential and commercial business ratepayers by limiting electricity consumption without reducing benefits;
+
+. Relieve financial and demand pressure on the utility that stems from large peak-load electricity demand;
+
+. Protect water quality and public health by reducing and cooling stormwater runoff and keeping harmful pollutants from entering waterways, with special attention given to waterways vital for the preservation of threatened and endangered salmon;
+
+. Ensure that trees are planted in locations that limit the amount of public funding needed to maintain public and electric infrastructure;
+
+. Measure program performance in terms of the estimated present value benefit per tree planted and equitable and accessible community engagement consistent with the department of health's environmental health disparities map recommendations 12 and 13, and with the community engagement plan guidance appendix C of the final report of the environmental justice task force established under chapter 415, Laws of 2019;
+
+. Give special consideration to achieving environmental justice in goals and policies, avoid creating or worsening environmental health disparities, and make use of the department of health's environmental health disparities map to help guide engagement and actions; and
+
+. Coordinate with the department of natural resources urban and community forestry program's efforts to identify areas of need related to urban tree canopy and to provide technical assistance and capacity building to encourage urban tree canopy.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1114-S.SL.pdf?cite=2021%20c%2011%20§%204[2021 c 11 § 4]; ]
+
 == 54.16.285 - Limitations on termination of utility service for residential heating.
 . A district providing utility service for residential space heating shall not terminate such utility service between November 15 through March 15 if the customer:
 
@@ -325,15 +358,22 @@ A public utility district assuming responsibility for a water system that is not
 
 [ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6428-S.SL.pdf?cite=1994%20c%20292%20§%2010[1994 c 292 § 10]; ]
 
-== 54.16.330 - Telecommunications facilities—Purposes—Limitations—Provision of telecommunications services—Eminent domain.
-. [Empty]
-.. A public utility district in existence on June 8, 2000, may construct, purchase, acquire, develop, finance, lease, license, handle, provide, add to, contract for, interconnect, alter, improve, repair, operate, and maintain any telecommunications facilities within or without the district's limits for the following purposes:
+== 54.16.330 - Telecommunications facilities—Purposes—Limitations—Provision of telecommunications services—Eminent domain (as amended by 2021 c 293).
+. (a) A public utility district in existence on June 8, 2000, may construct, purchase, acquire, develop, finance, lease, license, handle, provide, add to, contract for, interconnect, alter, improve, repair, operate, and maintain any telecommunications facilities within or without the district's limits for the following purposes:
 
 ... For the district's internal telecommunications needs;
 
-... For the provision of wholesale telecommunications services within the district and by contract with another public utility district.
+... For the provision of wholesale telecommunications services ((within))as follows:
 
-.. Except as provided in subsection (8) of this section, nothing in this section shall be construed to authorize public utility districts to provide telecommunications services to end users.
+(A) Within the district and by contract with another public utility district;
+
+(B) Within an area in an adjoining county that is already provided electrical services by the district; or
+
+(C) Within an adjoining county that does not have a public utility district providing electrical or telecommunications services headquartered within the county's boundaries, but only if the district providing telecommunications services is not authorized to provide electrical services((.
+
+.. Except as provided in subsection (8) of this section, nothing in this section shall be construed to authorize public utility districts to provide telecommunications services to end users)); or
+
+... For the provision of retail telecommunications services as authorized in this section.
 
 . A public utility district providing wholesale or retail telecommunications services shall ensure that rates, terms, and conditions for such services are not unduly or unreasonably discriminatory or preferential. Rates, terms, and conditions are discriminatory or preferential when a public utility district offering rates, terms, and conditions to an entity for wholesale or retail telecommunications services does not offer substantially similar rates, terms, and conditions to all other entities seeking substantially similar services.
 
@@ -356,7 +396,34 @@ A public utility district assuming responsibility for a water system that is not
 
 . The tax treatment of the retail telecommunications services provided by a public utility district to the end-use customers during the period specified in subsection (8) of this section must be the same as if those retail telecommunications services were provided by the defunct internet service provider.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5511-S2.SL.pdf?cite=2019%20c%20365%20§%209[2019 c 365 § 9]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6598.SL.pdf?cite=2004%20c%20158%20§%201[2004 c 158 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6675-S.SL.pdf?cite=2000%20c%2081%20§%203[2000 c 81 § 3]; ]
+. [Empty]
+.. A public utility district may provide retail telecommunications services to end users in unserved areas.
+
+.. A public utility district must notify and consult with the governor's statewide broadband office within 30 days of its decision to provide retail telecommunications services to unserved areas. The governor's statewide broadband office must post notices received from a public utility district pursuant to this subsection on its public website.
+
+.. Any public utility district that intends to provide retail telecommunications services to unserved areas must submit a telecommunications infrastructure and service plan to the governor's statewide broadband office that will be published on the office's website. Submission of plans will enable the governor's statewide broadband office: (i) To better understand infrastructure deployment; (ii) to potentially allocate funding for unserved areas; (iii) to advance the state policy objectives; (iv) to determine whether the plan aligns with state policy objectives and broadband priorities; (v) to measure progress toward serving those in unserved areas; (vi) to report on the feasibility and sustainability of the project; and (vii) to confirm that the project is within an unserved area. The telecommunications infrastructure and service plans shall include, but not be limited to, the following:
+
+(A) Map and description of how the deployment of proposed broadband infrastructure will achieve at a minimum 100 megabits per second download speed and at a minimum 20 megabits per second upload speed and then increases to be consistent with the stated long-term state broadband speed goals for unserved areas;
+
+(B) Project timeline prioritization of unserved areas; and
+
+(C) Description of potential state and federal funding available to provide service to the unserved area.
+
+.. A public utility district that exercises its authority under (a) of this subsection to provide retail telecommunications services may use state funds, federal funds appropriated through the state, or federal funds dedicated for projects in unserved areas to fund projects identified in the submitted telecommunications infrastructure and service plan required in (c) of this subsection.
+
+.. A public utility district providing retail telecommunications services under this subsection must operate an open access network.
+
+.. This section does not apply to retail internet services provided by a public utility district under *RCW 54.16.420.
+
+.. Provisions in this subsection do not apply to the provision of wholesale telecommunications services authorized in this section.
+
+.. For the purposes of this subsection:
+
+.. "Open access network" means a network that, during the useful life of the infrastructure, ensures service providers may use network services and facilities at rates, terms, and conditions that are not discriminatory or preferential between providers, and employs accountable interconnection arrangements published and available publicly.
+
+... "Unserved areas" means areas of Washington in which households and businesses lack access to broadband service of speeds at a minimum of 100 megabits per second download and at a minimum 20 megabits per second upload.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5383-S2.SL.pdf?cite=2021%20c%20293%20§%202[2021 c 293 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5511-S2.SL.pdf?cite=2019%20c%20365%20§%209[2019 c 365 § 9]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6598.SL.pdf?cite=2004%20c%20158%20§%201[2004 c 158 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6675-S.SL.pdf?cite=2000%20c%2081%20§%203[2000 c 81 § 3]; ]
 
 == 54.16.340 - Wholesale telecommunications services—Petition for review of rates, terms, conditions.
 . A person or entity that has requested wholesale telecommunications services from a public utility district providing wholesale telecommunications services under this chapter may petition the commission under the procedures set forth in RCW 80.04.110 (1) through (3) if it believes the district's rates, terms, and conditions are unduly or unreasonably discriminatory or preferential. The person or entity shall provide the public utility district notice of its intent to petition the commission and an opportunity to review within thirty days the rates, terms, and conditions as applied to it prior to submitting its petition. In determining whether a district is providing discriminatory or preferential rates, terms, and conditions, the commission may consider such matters as service quality, cost of service, technical feasibility of connection points on the district's facilities, time of response to service requests, system capacity, and other matters reasonably related to the provision of wholesale telecommunications services. If the commission, after notice and hearing, determines that a public utility district's rates, terms, and conditions are unduly or unreasonably discriminatory or preferential, it shall issue a final order finding noncompliance with this section and setting forth the specific areas of apparent noncompliance. An order imposed under this section shall be enforceable in any court of competent jurisdiction.
@@ -412,13 +479,15 @@ When a public utility district provides electrical appliance repair services und
 
 . Voluntary donations collected by public utility districts under this section may be used by the public utility district to:
 
-.. Support the development and implementation of evergreen community ordinances, as that term is defined in RCW 35.105.010, for cities, towns, or counties within their service areas; or
+.. Support the development and implementation of urban forestry ordinances, as that term is defined in RCW 76.15.010, for cities, towns, or counties within their service areas;
 
-.. Complete projects consistent with the model evergreen community management plans and ordinances developed under RCW 35.105.050.
+.. Complete projects consistent with the urban forestry management plans and ordinances developed under RCW 76.15.090; or
+
+.. Fund a tree planting program for energy conservation that accomplishes the goals established under RCW 54.16.281.
 
 . Donations received under this section do not contribute to the gross income of a light and power business or gas distribution business under chapter 82.16 RCW.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2844-S2.SL.pdf?cite=2008%20c%20299%20§%2022[2008 c 299 § 22]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1216-S2.SL.pdf?cite=2021%20c%20209%20§%2021[2021 c 209 § 21]; http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1114-S.SL.pdf?cite=2021%20c%2011%20§%205[2021 c 11 § 5]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2844-S2.SL.pdf?cite=2008%20c%20299%20§%2022[2008 c 299 § 22]; ]
 
 == 54.16.405 - Voluntary donations for purpose of supporting hunger programs.
 . Public utility districts may request voluntary donations from their customers for the purpose of supporting hunger programs.
@@ -446,95 +515,46 @@ When a public utility district provides electrical appliance repair services und
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6044-S.SL.pdf?cite=2012%20c%20246%20§%201[2012 c 246 § 1]; ]
 
-== 54.16.420 - Retail internet service—Definitions—Authority—Requirements.
-. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+== 54.16.415 - Retail telecommunications services—Reporting requirements.
+. Before providing retail telecommunications services, a public utility district must report to its governing body and to the state broadband office the following about the area to be served by the public utility district:
 
-.. "Broadband" means high-speed internet access and other advanced telecommunications services.
+.. An assessment of the current availability of broadband infrastructure and its adequacy to provide high-speed internet access and other advanced telecommunications services to end users;
 
-.. "Broadband network" means networks of deployed telecommunications equipment and technologies necessary to provide broadband.
+.. The location of where retail telecommunications services will be provided;
 
-.. "Inadequate" means internet retail service that does not meet one hundred percent of the standards detailed in the service level agreement.
+.. Evidence relating to the unserved nature of the community in which retail telecommunications services will be provided;
 
-.. "Partnership payment structure" means a group of or individual property owners who agree to pay a term payment structure for infrastructure improvements to their property.
+.. Expected costs of providing retail telecommunications services to customers to be served by the public utility district;
 
-.. "Petition" means a formal written request for retail internet service by property owners on the public utility district broadband network.
+.. Evidence that proposed telecommunications infrastructure will be capable of scaling to greater download and upload speeds to meet state broadband goals under RCW 43.330.536;
 
-.. "Retail internet service" means the provision of broadband to end users.
+.. Sources of funding for the project that will supplement any grant or loan awards; and
 
-.. "Service level agreement" means a standard agreement, adopted during an open public meeting, between the retail internet service provider and the public utility that describes the required percentage of broadband download and upload speed and system availability, customer service, and transmission time.
+.. A strategic plan to maintain long-term operation of the infrastructure, and the expected installation charges and monthly costs for end users.
 
-. Any public utility district that, as of June 7, 2018, provides only water, sewer, and wholesale telecommunications services in a county with an area less than five hundred square miles and is located west of the Puget Sound may provide retail internet service on the public utility district's broadband network located within the public utility district boundaries only when all of the existing providers of end-user internet service on the public utility district's broadband network cease to provide end-user service or provide inadequate end-user service as determined in the manner prescribed by this section. The authority provided in this subsection expires five years after June 7, 2018, for any public utility district that has not either entered into a partnership payment structure to finance broadband deployment or been petitioned to provide retail internet service within that time period.
+. The state broadband office must post a review of the proposed project on their website.
 
-. Upon receiving a petition meeting the requirements of subsection (4) of this section, a public utility district board of commissioners may hold up to three meetings to:
+. For the purposes of this section, "unserved" means an area of Washington in which households and businesses lack access to broadband service at a minimum 100 megabits per second download speed and at a minimum 20 megabits per second upload speed.
 
-.. Verify the signature or signatures of the property owners on the petition and certify the petition;
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1336-S.SL.pdf?cite=2021%20c%20294%20§%203[2021 c 294 § 3]; ]
 
-.. Determine and submit findings that the retail internet service available to the petitioners served by the public utility district's broadband network is either nonexistent or inadequate as defined in the service level agreement adopted by the commissioners for all existing internet service providers on the public utility district's broadband network;
-
-.. Receive, and either reject or accept any recommendations or adjustments to, a business case plan developed in accordance with subsection (7) of this section; and
-
-.. By resolution, authorize the public utility district to provide retail internet service on the public utility district's broadband network.
-
-. A petition meets the requirements of subsection (3) of this section if it is delivered to a public utility district board of commissioners, declares that the signatories on the public utility district's broadband network have no or inadequate retail internet service providers, requests the public utility district to provide the retail internet service, and is signed by one of the following:
-
-.. A majority of a group, including homeowners' associations, of any geographical area within the public utility district, who have developed a partnership payment structure to finance broadband deployment with the public utility district; or
-
-.. Any individual who has developed a partnership payment structure to finance broadband deployment with the public utility district.
-
-. For the purposes of this section, the adequacy of retail internet service is determined by measuring retail internet service to end users on the public utility district's broadband network and comparing it with service standards in the public utility district service level agreement used for all public utility district network providers. Measurement of the existing retail internet service provider's service must be quantified by measuring the service with speed and capacity devices and software. Additionally, a retail internet service provider may submit its own assessment of its service level for consideration by the commission within thirty days of the first meeting conducted under subsection (3) of this section.
-
-. The commissioners of a public utility district may by resolution authorize the public utility district to provide or contract for provision of retail internet services on the public utility district's broadband network:
-
-.. After development of a business case plan in accordance with subsection (7) of this section; and
-
-.. When it is determined that no service or inadequate service exists for the individual or petitioners identified in subsection (4) of this section.
-
-. The business case plan under subsection (6) of this section must be reviewed by an independent qualified consultant. The review must include the use of public funds in the provision of retail internet service. Any recommendations or adjustments to the business case plan made during third-party review must be received and either rejected or accepted by the district board of commissioners in an open meeting.
-
-. [Empty]
-.. Except as provided in subsection (9) of this section, in case of failure to reach an agreement on the adequacy of retail internet service, the commissioners must request an appointment of an administrative law judge under Title 34 RCW to hear the dispute.
-
-.. The commissioners must provide a written notice, together with a copy of the dispute, and may require the disputing parties to attend a hearing before the administrative law judge, at a time and place to be specified in the written notice.
-
-.. The place of any such hearing may be the office of the commissioners or another place designated by the commissioners. The disputed information must be presented at the hearing.
-
-.. Upon review and consideration of all of the evidence, the administrative law judge must determine if the retail internet service is inadequate or nonexistent as defined in this section. Upon making a determination, the administrative law judge must state findings of fact and must issue and file a determination with the commissioners.
-
-. If a provider of end-user service is a company regulated by the utilities and transportation commission, the company may choose to have the commission resolve disputes concerning the service level agreement under the process established in RCW 54.16.340. For the purposes of this subsection, "company" includes subsidiaries or affiliates.
-
-. Any public utility district providing cable television service under this section must secure a cable television franchise, pay franchise fees, and any applicable taxes to the local cable franchise authority as required by federal law.
-
-. Except as provided in subsection (9) of this section, nothing in this section may be construed or is intended to confer upon the utilities and transportation commission any authority to exercise jurisdiction over locally regulated utilities.
-
-. All rates for retail internet services offered by a public utility district under this section must be just, fair, and reasonable, except the public utility district may set tiers of service charges based on service demands of the end user, including commercial and residential rates.
-
-. A public utility district must not condition the availability or cost of other services upon the purchase or use of retail internet service.
-
-. A public utility district authorized to provide retail internet service within a specific geographical area must, upon reasonable notice, furnish to all persons and entities within that geographical area meeting the provisions of subsections (2) and (4) of this section proper facilities and connections for retail internet service as requested.
-
-. A public utility district providing retail internet service must separately account for any revenues and expenditures for those services according to standards established by the state auditor pursuant to its authority in chapter 43.09 RCW and consistent with the provisions of this title.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6034-S.SL.pdf?cite=2018%20c%20186%20§%201[2018 c 186 § 1]; ]
-
-== 54.16.425 - Retail internet service—Payment in lieu of property tax.
-. Property owned by a public utility district that is exempt from property tax under RCW 84.36.010 is subject to an annual payment in lieu of property taxes if the property consists of a broadband network used in providing retail internet service.
+== 54.16.425 - Retail telecommunications services—Payment in lieu of property tax.
+. Property owned by a public utility district that is exempt from property tax under RCW 84.36.010 is subject to an annual payment in lieu of property taxes if the property consists of a broadband infrastructure used in providing retail telecommunications services.
 
 . [Empty]
 .. The amount of the payment must be determined jointly and in good faith negotiation between the public utility district that owns the property and the county or counties in which the property is located.
 
-.. The amount agreed upon may not exceed the property tax amount that would be owed on the property comprising the broadband network used in providing retail internet service as calculated by the department of revenue. The public utility district must provide information necessary for the department of revenue to make the required valuation under this subsection. The department of revenue must provide the amount of property tax that would be owed on the property to the county or counties in which the broadband network is located on an annual basis.
+.. The amount agreed upon may not exceed the property tax amount that would be owed on the property comprising the broadband infrastructure used in providing retail telecommunications services as calculated by the department of revenue. The public utility district must provide information necessary for the department of revenue to make the required valuation under this subsection. The department of revenue must provide the amount of property tax that would be owed on the property to the county or counties in which the broadband infrastructure is located on an annual basis.
 
-.. If the public utility district and a county cannot agree on the amount of the payment in lieu of taxes, either party may invoke binding arbitration by providing written notice to the other party. In the event that the amount of payment in lieu of taxes is submitted to binding arbitration, the arbitrators must consider the government services available to the public utility district's broadband network used in providing retail internet service. The public utility district and county must each select one arbitrator, the two of whom must pick a third arbitrator. Costs of the arbitration, including compensation for the arbitrators' services, must be borne equally by the parties participating in the arbitration.
+.. If the public utility district and a county cannot agree on the amount of the payment in lieu of taxes, either party may invoke binding arbitration by providing written notice to the other party. In the event that the amount of payment in lieu of taxes is submitted to binding arbitration, the arbitrators must consider the government services available to the public utility district's broadband infrastructure used in providing retail telecommunications services. The public utility district and county must each select one arbitrator, the two of whom must pick a third arbitrator. Costs of the arbitration, including compensation for the arbitrators' services, must be borne equally by the parties participating in the arbitration.
 
-. By April 30th of each year, a public utility district must remit the annual payment to the county treasurer of each county in which the public utility district's broadband network used in providing retail internet service is located in a form and manner required by the county treasurer.
+. By April 30th of each year, a public utility district must remit the annual payment to the county treasurer of each county in which the public utility district's broadband infrastructure used in providing retail telecommunications services is located in a form and manner required by the county treasurer.
 
 . The county must distribute the amounts received under this section to all property taxing districts, including the state, in appropriate tax code areas in the same proportion as it would distribute property taxes from taxable property.
 
-. By December 1, 2019, and annually thereafter, the department of revenue must submit a report to the appropriate legislative committees detailing the amount of payments made under this section and the amount of property tax that would be owed on the property comprising the broadband network used in providing retail internet service.
+. By December 1, 2019, and annually thereafter, the department of revenue must submit a report to the appropriate legislative committees detailing the amount of payments made under this section and the amount of property tax that would be owed on the property comprising the broadband infrastructure used in providing retail telecommunications services.
 
-. The definitions in RCW 54.16.420 apply to this section.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6034-S.SL.pdf?cite=2018%20c%20186%20§%203[2018 c 186 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1336-S.SL.pdf?cite=2021%20c%20294%20§%204[2021 c 294 § 4]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6034-S.SL.pdf?cite=2018%20c%20186%20§%203[2018 c 186 § 3]; ]
 
 == 54.16.430 - Electrification of transportation plan—Considerations—Incentive programs.
 . The commission of a public utility district may adopt an electrification of transportation plan that, at a minimum, establishes a finding that outreach and investment in the electrification of transportation infrastructure does not increase net costs to ratepayers in excess of one-quarter of one percent.

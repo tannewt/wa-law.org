@@ -978,7 +978,7 @@ In a plat community or miscellaneous community, if the right is originally reser
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6175-S.SL.pdf?cite=2018%20c%20277%20§%20226[2018 c 277 § 226]; ]
 
-== 64.90.400 - Unit owners association—Organization.
+== 64.90.400 - Unit owners association—Organization. (Effective until January 1, 2022.)
 . A unit owners association must be organized no later than the date the first unit in the common interest community is conveyed to a purchaser.
 
 . The membership of the association at all times consists exclusively of all unit owners or, following termination of the common interest community, of all former unit owners entitled to distributions of proceeds under RCW 64.90.290 or their heirs, successors, or assigns.
@@ -1346,7 +1346,7 @@ In a plat community or miscellaneous community, if the right is originally reser
 
 .. Unit owners must be given a reasonable opportunity at any meeting to comment regarding any matter affecting the common interest community or the association.
 
-.. The declaration or organizational documents may allow for meetings of unit owners to be conducted by telephonic, video, or other conferencing process, if the process is consistent with subsection (2)(i) of this section.
+.. Except as otherwise restricted by the declaration or organizational documents, meetings of unit owners may be conducted by telephonic, video, or other conferencing process, if the process is consistent with subsection (2)(i) of this section.
 
 . The following requirements apply to meetings of the board and committees authorized to act for the board:
 
@@ -1394,7 +1394,7 @@ In a plat community or miscellaneous community, if the right is originally reser
 
 . Minutes of all unit owner meetings and board meetings, excluding executive sessions, must be maintained in a record. The decision on each matter voted upon at a board meeting or unit owner meeting must be recorded in the minutes.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5334.SL.pdf?cite=2019%20c%20238%20§%20210[2019 c 238 § 210]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6175-S.SL.pdf?cite=2018%20c%20277%20§%20310[2018 c 277 § 310]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5011-S.SL.pdf?cite=2021%20c%20227%20§%2013[2021 c 227 § 13]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5334.SL.pdf?cite=2019%20c%20238%20§%20210[2019 c 238 § 210]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6175-S.SL.pdf?cite=2018%20c%20277%20§%20310[2018 c 277 § 310]; ]
 
 == 64.90.450 - Quorum.
 . Unless the organizational documents provide otherwise, a quorum is present throughout any meeting of the unit owners if persons entitled to cast twenty percent of the votes in the association:
@@ -1632,7 +1632,7 @@ In a plat community or miscellaneous community, if the right is originally reser
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6175-S.SL.pdf?cite=2018%20c%20277%20§%20317[2018 c 277 § 317]; ]
 
-== 64.90.485 - Liens—Enforcement.
+== 64.90.485 - Liens—Enforcement—Notice of delinquency. (Effective until January 1, 2024.)
 . The association has a statutory lien on each unit for any unpaid assessment against the unit from the time such assessment is due.
 
 . A lien under this section has priority over all other liens and encumbrances on a unit except:
@@ -1744,13 +1744,51 @@ In a plat community or miscellaneous community, if the right is originally reser
 
 . An association may not commence an action to foreclose a lien on a unit under this section unless:
 
-.. The unit owner, at the time the action is commenced, owes a sum equal to at least three months of common expense assessments; and
+.. The unit owner, at the time the action is commenced, owes at least a sum equal to the greater of:
+
+... Three months or more of assessments, not including fines, late charges, interest, attorneys' fees, or costs incurred by the association in connection with the collection of a delinquent owner's account; or
+
+... $200 of assessments, not including fines, late charges, interest, attorneys' fees, or costs incurred by the association in connection with the collection of a delinquent owner's account;
+
+.. At or after the date that assessments have become past due for at least 90 days, the association has mailed, by first-class mail, to the owner, at the unit address and to any other address which the owner has provided to the association, a notice of delinquency, which shall state as follows:
+
+THIS IS A NOTICE OF DELINQUENCY FOR PAST DUE ASSESSMENTS
+
+FROM THE UNIT OWNERS' ASSOCIATION TO WHICH YOUR HOME BELONGS.
+
+THIS NOTICE IS ONE STEP IN A PROCESS THAT COULD RESULT IN YOUR LOSING YOUR HOME.
+
+CONTACT A HOUSING COUNSELOR OR AN ATTORNEY LICENSED IN WASHINGTON NOW to assess your situation and refer you to mediation if you might benefit. DO NOT DELAY.
+
+BE CAREFUL of people who claim they can help you. There are many individuals and businesses that prey upon borrowers in distress.
+
+REFER TO THE CONTACTS BELOW for sources of assistance.
+
+SEEKING ASSISTANCE
+
+Housing counselors and legal assistance may be available at little or no cost to you. If you would like assistance in determining your rights and opportunities to keep your house, you may contact the following:
+
+The statewide foreclosure hotline for assistance and referral to housing counselors recommended by the Housing Finance Commission
+
+Telephone: . . . . . . . Website: . . . . . .
+
+The United States Department of Housing and Urban Development
+
+Telephone: . . . . . . . Website: . . . . . . .
+
+The statewide civil legal aid hotline for assistance and referrals to other housing counselors and attorneys
+
+Telephone: . . . . . . . Website: . . . . . .
+
+The association shall obtain the toll-free numbers and website information from the department of commerce for inclusion in the notice;
+
+.. At least 180 days have elapsed from the date the minimum amount required in (a) of this subsection has accrued; and
 
 .. The board approves commencement of a foreclosure action specifically against that unit.
 
 . Every aspect of a collection, foreclosure, sale, or other conveyance under this section, including the method, advertising, time, date, place, and terms, must be commercially reasonable.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5334.SL.pdf?cite=2019%20c%20238%20§%20211[2019 c 238 § 211]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6175-S.SL.pdf?cite=2018%20c%20277%20§%20318[2018 c 277 § 318]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1482.SL.pdf?cite=2021%20c%20222%20§%201[2021 c 222 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5334.SL.pdf?cite=2019%20c%20238%20§%20211[2019 c 238 § 211]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6175-S.SL.pdf?cite=2018%20c%20277%20§%20318[2018 c 277 § 318]; ]
 
 == 64.90.490 - Other liens.
 . In a condominium, plat community, and miscellaneous community:
@@ -2426,10 +2464,19 @@ In the case of a sale of a unit in which delivery of a public offering statement
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6175-S.SL.pdf?cite=2018%20c%20277%20§%20409[2018 c 277 § 409]; ]
 
-== 64.90.645 - Earnest money deposit, reservation deposit—Escrow.
-Any earnest money deposit, as defined in RCW 64.04.005, or any reservation deposit made in connection with the right to purchase a unit from a person required to deliver a public offering statement pursuant to RCW 64.90.605(3) must be placed in escrow and held in this state in an escrow or trust account designated solely for that purpose by a licensed title insurance company or agent, a licensed attorney, a real estate broker or independent bonded escrow company, or an institution whose accounts are insured by a governmental agency or instrumentality until: (1) Delivered to the declarant at closing, (2) delivered to the declarant because of the purchaser's default under a contract to purchase the unit, (3) refunded to the purchaser, or (4) delivered to a court in connection with the filing of an interpleader action.
+== 64.90.645 - Deposits—Escrow.
+. Except as provided in subsection (2) of this section, any deposit made in connection with the right to purchase a unit from a person required to deliver a public offering statement pursuant to RCW 64.90.605(3) must be placed in escrow and held in this state in an escrow or trust account designated solely for that purpose by a licensed title insurance company or agent, a licensed attorney, a real estate broker or independent bonded escrow company, or an institution whose accounts are insured by a governmental agency or instrumentality until: (a) Delivered to the declarant at closing, (b) delivered to the declarant because of the purchaser's default under a contract to purchase the unit, (c) refunded to the purchaser, or (d) delivered to a court in connection with the filing of an interpleader action.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6175-S.SL.pdf?cite=2018%20c%20277%20§%20410[2018 c 277 § 410]; ]
+. [Empty]
+.. If a purchase agreement for the sale of a unit provides that deposit funds may be used for construction costs and the declarant obtains and maintains a surety bond as required by this section, the declarant may withdraw escrow funds when construction of improvements has begun. The funds may be used only for actual building and construction costs of the project in which the unit is located.
+
+.. The bond must be issued by a surety insurer licensed in this state in favor of the purchaser in an amount adequate to cover the amount of the deposit to be withdrawn. The declarant may not withdraw more than the face amount of the bond. The bond must be payable to the purchaser if the purchaser obtains a final judgment against the declarant requiring the declarant to return the deposit pursuant to the purchase agreement. The bond may be either in the form of an individual bond for each deposit accepted by the declarant or in the form of a blanket bond assuring the return of all deposits received by the declarant.
+
+.. The party holding escrow funds who releases all or any portion of the funds to the declarant has no obligation to monitor the progress of construction or the expenditure of the funds by the declarant and is not liable to any purchaser for the release of funds pursuant to this section.
+
+. A deposit under this section may not exceed five percent of the purchase price.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5024-S.SL.pdf?cite=2021%20c%20260%20§%202[2021 c 260 § 2]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6175-S.SL.pdf?cite=2018%20c%20277%20§%20410[2018 c 277 § 410]; ]
 
 == 64.90.650 - Liens—Release.
 . In the case of a sale of a unit when delivery of a public offering statement is required pursuant to RCW 64.90.605(3) and subject to subsection (2) of this section, a seller before conveying a unit:

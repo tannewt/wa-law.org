@@ -73,53 +73,6 @@ Every unqualified statement of that which one does not know to be true is equiva
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20394[2011 c 336 § 394]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c260.pdf?cite=1975%201st%20ex.s.%20c%20260%20§%209A.72.080[1975 1st ex.s. c 260 § 9A.72.080]; ]
 
-== 9A.72.085 - Unsworn statements, certification—Standards for subscribing to an unsworn statement. (Effective until July 1, 2021.)
-. Whenever, under any law of this state or under any rule, order, or requirement made under the law of this state, any matter in an official proceeding is required or permitted to be supported, evidenced, established, or proved by a person's sworn written statement, declaration, verification, certificate, oath, or affidavit, the matter may with like force and effect be supported, evidenced, established, or proved in the official proceeding by an unsworn written statement, declaration, verification, or certificate, which:
-
-.. Recites that it is certified or declared by the person to be true under penalty of perjury;
-
-.. Is subscribed by the person;
-
-.. States the date and place of its execution; and
-
-.. States that it is so certified or declared under the laws of the state of Washington.
-
-. The certification or declaration may be in substantially the following form:
-
-"I certify (or declare) under penalty of perjury under the laws of the State of Washington that the foregoing is true and correct":. . . .. . . .(Date and Place)(Signature)
-
-"I certify (or declare) under penalty of perjury under the laws of the State of Washington that the foregoing is true and correct":
-
-. . . .
-
-. . . .
-
-(Date and Place)
-
-(Signature)
-
-. For purposes of this section, a person subscribes to an unsworn written statement, declaration, verification, or certificate by:
-
-.. Affixing or placing his or her signature as defined in RCW 9A.04.110 on the document;
-
-.. Attaching or logically associating his or her digital signature or electronic signature to the document;
-
-.. Affixing or logically associating his or her signature in the manner described in general rule 30 to the document if he or she is a licensed attorney; or
-
-.. Affixing or logically associating his or her full name, department or agency, and badge or personnel number to any document that is electronically submitted to a court, a prosecutor, or a magistrate from an electronic device that is owned, issued, or maintained by a criminal justice agency if he or she is a law enforcement officer.
-
-. This section does not apply to writings requiring an acknowledgment, depositions, oaths of office, or oaths required to be taken before a special official other than a notary public.
-
-. "Digital signature" means an electronic signature that is a transformation of a message using an asymmetric cryptosystem such that a person who has the initial message and the signer's public key can accurately determine whether the:
-
-.. Transformation was created using the private key that corresponds to the signer's public key; and
-
-.. Initial message has been altered since the transformation was made.
-
-. "Electronic signature" has the same meaning as in *RCW 19.360.030.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1908.SL.pdf?cite=2019%20c%20132%20§%202[2019 c 132 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6279-S.SL.pdf?cite=2014%20c%2093%20§%204[2014 c 93 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c187.pdf?cite=1981%20c%20187%20§%203[1981 c 187 § 3]; ]
-
 == 9A.72.090 - Bribing a witness.
 . A person is guilty of bribing a witness if he or she offers, confers, or agrees to confer any benefit upon a witness or a person he or she has reason to believe is about to be called as a witness in any official proceeding or upon a person whom he or she has reason to believe may have information relevant to a criminal investigation or the abuse or neglect of a minor child, with intent to:
 

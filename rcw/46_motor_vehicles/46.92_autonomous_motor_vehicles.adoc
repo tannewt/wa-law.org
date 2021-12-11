@@ -1,7 +1,7 @@
 = 46.92 - Autonomous motor vehicles.
 :toc:
 
-== 46.92.010 - Testing—Self-certification pilot program—Information to be provided—Unique identification number—Notice—Fee—Public access—Operation. (Effective October 1, 2021.)
+== 46.92.010 - Testing—Self-certification pilot program—Information to be provided—Unique identification number—Notice—Fee—Public access—Operation. (Effective October 1, 2022.)
 . In order to test an autonomous motor vehicle on any public roadway under the department's autonomous vehicle self-certification testing pilot program, the following information must be provided by the self-certifying entity testing the autonomous motor vehicle:
 
 .. Contact information specified by the department;
@@ -35,5 +35,7 @@
 
 . An autonomous motor vehicle may not be operated on any public roadway for the purposes of testing in Washington state until the department is provided with the information required under subsection (1) of this section.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=2020%20c%20182%20§%202[2020 c 182 § 2]; ]
+. For purposes of this section, "autonomous" means a level four or five driving automation system as provided in the society of automotive engineering international's standard J3016, as it existed on October 1, 2022, or such subsequent date as may be provided by the department by rule, consistent with the purposes of this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5460-S.SL.pdf?cite=2021%20c%20193%20§%201[2021 c 193 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=2020%20c%20182%20§%202[2020 c 182 § 2]; ]
 

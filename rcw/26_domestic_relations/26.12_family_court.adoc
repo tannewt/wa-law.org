@@ -228,7 +228,7 @@ A county may create a courthouse facilitator program to provide basic services t
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5454-S2.SL.pdf?cite=2005%20c%20457%20§%2015[2005 c 457 § 15]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5528-S.SL.pdf?cite=1993%20c%20435%20§%202[1993 c 435 § 2]; ]
 
-== 26.12.260 - Program to provide services to parties involved in dissolutions and legal separations—Fees.
+== 26.12.260 - Program to provide services to parties involved in dissolutions and legal separations—Fees. (Effective until July 1, 2022.)
 . After July 1, 2009, but no later than November 1, 2009, a county may, and to the extent state funding is provided to meet the minimum requirements of the program a county shall, create a program to provide services to all parties involved in proceedings under chapter 26.09 RCW. Minimum components of this program shall include: (a) An individual to serve as an initial point of contact for parties filing petitions for dissolutions or legal separations under chapter 26.09 RCW; (b) informing parties about courthouse facilitation programs and orientations; (c) informing parties of alternatives to filing a dissolution petition, such as marriage or domestic partnership counseling; (d) informing parties of alternatives to litigation including counseling, legal separation, and mediation services if appropriate; (e) informing parties of supportive family services available in the community; (f) screening for referral for services in the areas of domestic violence as defined in RCW 26.50.010, child abuse, substance abuse, and mental health; and (g) assistance to the court in superior court cases filed under chapter 26.09 RCW.
 
 . This program shall not provide legal advice. No attorney-client relationship or privilege is created, by implication or by inference, between persons providing basic information under this section and the participants in the program.
@@ -253,7 +253,7 @@ The legislature recognizes the increasing incidence of concurrent involvement of
 
 [ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1663-S.SL.pdf?cite=1999%20c%20397%20§%201[1999 c 397 § 1]; ]
 
-== 26.12.802 - Family court pilot program—Created.
+== 26.12.802 - Family court pilot program—Created. (Effective until July 1, 2022.)
 The administrative office of the courts shall conduct a unified family court pilot program.
 
 . Pilot program sites shall be selected through a request for proposal process, and shall be established in no more than three superior court judicial districts.

@@ -17,13 +17,13 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 . "Shared work compensation plan" means a plan of an employer, or of an employers' association, under which there is a reduction in the number of hours worked by employees rather than layoffs.
 
-. "Shared work employer" means an employer, who has at least two employees, and at least one employee is covered by a shared work compensation plan.
+. "Shared work employer" means an employer, who has at least two employees, and at least two employees are covered by a shared work compensation plan.
 
 . "Unemployment compensation" means the benefits payable under this title other than shared work benefits and includes any amounts payable pursuant to an agreement under federal law providing for compensation, assistance, or allowances with respect to unemployment.
 
 . "Usual weekly hours of work" means the regular number of hours of work before the hours were reduced, not to exceed forty hours and not including overtime.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1396.SL.pdf?cite=2013%20c%2079%20§%201[2013 c 79 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1906-S.SL.pdf?cite=2009%20c%203%20§%207[2009 c 3 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c207.pdf?cite=1983%20c%20207%20§%202[1983 c 207 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5061-S.SL.pdf?cite=2021%20c%202%20§%2023[2021 c 2 § 23]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1396.SL.pdf?cite=2013%20c%2079%20§%201[2013 c 79 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1906-S.SL.pdf?cite=2009%20c%203%20§%207[2009 c 3 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c207.pdf?cite=1983%20c%20207%20§%202[1983 c 207 § 2]; ]
 
 == 50.60.030 - Compensation plan—Criteria for approval.
 An employer or employers' association wishing to participate in a shared work compensation program shall submit a written and signed shared work compensation plan to the commissioner for approval. The commissioner shall approve a shared work compensation plan only if the following criteria are met:
@@ -121,14 +121,19 @@ An individual is eligible to receive shared work benefits with respect to any we
 == 50.60.110 - Benefits—Charge to employers' experience rating accounts.
 . Except as provided in subsection (2) of this section, shared work benefits shall be charged to employers' experience rating accounts in the same manner as other benefits under this title are charged. Employers liable for payments in lieu of contributions shall have shared work benefits attributed to their accounts in the same manner as other benefits under this title are attributed.
 
-. For weeks of benefits paid between July 1, 2012, and June 28, 2015, any amount of shared work benefits reimbursed by the federal government is not charged to experience rating accounts of employers or to employers who are liable for payments in lieu of contributions. The department shall remove charges for any amount of shared work benefits reimbursed by the federal government between July 1, 2012, and the week prior to July 28, 2013.
+. Any amount of shared work benefits that is paid or reimbursed by the federal government is not charged to experience rating accounts of employers or to employers who are liable for payments in lieu of contributions. The employment security department shall remove charges for any amount of shared work benefits that is paid or reimbursed by the federal government.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1396.SL.pdf?cite=2013%20c%2079%20§%204[2013 c 79 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c207.pdf?cite=1983%20c%20207%20§%2011[1983 c 207 § 11]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5061-S.SL.pdf?cite=2021%20c%202%20§%2024[2021 c 2 § 24]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1396.SL.pdf?cite=2013%20c%2079%20§%204[2013 c 79 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c207.pdf?cite=1983%20c%20207%20§%2011[1983 c 207 § 11]; ]
 
 == 50.60.120 - Benefits—Exhaustee.
 An individual who has received all of the shared work benefits, or all of the combined unemployment compensation and shared work benefits, available in a benefit year shall be considered an exhaustee for purposes of the extended benefits program under chapter 50.22 RCW, and, if otherwise eligible under that chapter, shall be eligible to receive extended benefits.
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c207.pdf?cite=1983%20c%20207%20§%2012[1983 c 207 § 12]; ]
+
+== 50.60.130 - Approved training—Affected employees.
+Affected employees may participate, as appropriate, in training, including employer-sponsored training or training funded under the workforce innovation and opportunity act, to enhance job skills if such program has been approved by the employment security department.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5061-S.SL.pdf?cite=2021%20c%202%20§%2025[2021 c 2 § 25]; ]
 
 == 50.60.900 - Title and rules to apply to shared work benefits—Conflict with federal requirements.
 Unless inconsistent with or otherwise provided by this section, this title and rules adopted under this title apply to shared work benefits. To the extent permitted by federal law, those rules may make such distinctions and requirements as may be necessary with respect to unemployed individuals to carry out the purposes of this chapter, including rules defining usual hours, days, workweek, wages, and the duration of plans adopted under this chapter. To the extent that any portion of this chapter may be inconsistent with the requirements of federal law relating to the payment of unemployment insurance benefits, the conflicting provisions or interpretations of this chapter shall be deemed inoperative, but only to the extent of the conflict. If the commissioner determines that such a conflict exists, a statement to that effect shall be filed with the governor's office for transmission to both houses of the legislature.

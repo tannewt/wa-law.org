@@ -28,6 +28,11 @@ The department of natural resources is hereby created, to consist of a board of 
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c8.pdf?cite=1965%20c%208%20§%2043.30.030[1965 c 8 § 43.30.030]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1957c38.pdf?cite=1957%20c%2038%20§%203[1957 c 38 § 3]; ]
 
+== 43.30.035 - Environmental justice obligations of the department of natural resources.
+The department must apply and comply with the substantive and procedural requirements of chapter 70A.02 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5141-S2.SL.pdf?cite=2021%20c%20314%20§%207[2021 c 314 § 7]; ]
+
 == 43.30.055 - Employees—Applicability of merit system.
 All employees of the department shall be governed by any merit system which is now or may hereafter be enacted by law governing such employment.
 
@@ -401,7 +406,7 @@ The department shall cooperate, when appropriate, as a partner in the Washington
 .. Information demonstrating the prospective owner's intent to obtain legal moorage following the transfer, in the manner determined by the department.
 
 . [Empty]
-.. The department shall remove any containers or other materials that are not fixed to the vessel and contain hazardous substances, as defined under *RCW 70.105D.020.
+.. The department shall remove any containers or other materials that are not fixed to the vessel and contain hazardous substances, as defined under RCW 70A.305.020.
 
 .. However, the department may transfer a vessel with:
 
@@ -413,7 +418,7 @@ The department shall cooperate, when appropriate, as a partner in the Washington
 
 . Prior to sale, and unless the vessel has a title or valid marine document, the department is required to apply for a certificate of title for the vessel under RCW 88.02.510 and register the vessel under RCW 88.02.550.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1245-S.SL.pdf?cite=2013%20c%20291%20§%208[2013 c 291 § 8]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2042[2021 c 65 § 42]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1245-S.SL.pdf?cite=2013%20c%20291%20§%208[2013 c 291 § 8]; ]
 
 == 43.30.575 - Wildfire areas—Funding wildfire risk reduction in certain counties.
 Subject to the availability of amounts appropriated for this specific purpose, in order to prevent homelessness in any county located east of the crest of the Cascade mountain range that shares a common border with Canada and has a population of one hundred thousand or less, the department shall, to strengthen the local capacity for controlling risk to life and property that may result from wildfires, administer to these counties, funding for radio communication equipment; and fire protection service providers within these counties to provide residential wildfire risk reduction activities, including education and outreach, technical assistance, fuel mitigation and other residential risk reduction measures. For the purposes of this section, fire protection service providers include fire departments, fire districts, emergency management services, and regional fire protection service authorities. The department must prioritize funding to counties authorized in this section serving a disproportionately higher percentage of low-income residents, as defined in RCW 84.36.042, that are located in areas of higher wildfire risk, and whose fire protection service providers have a shortage of reliable equipment and resources.
@@ -560,7 +565,7 @@ The department may, from time to time, prepare special collections of ores and m
 == 43.30.710 - Sale or exchange of tree seedling stock and tree seed—Provision of stock or seed to local governments or nonprofit organizations.
 The department is authorized to sell to or exchange with persons intending to restock forest areas, tree seedling stock and tree seed produced at the state nursery.
 
-The department may provide at cost, stock or seed to local governments or nonprofit organizations for urban tree planting programs consistent with the community and urban forestry program.
+The department may provide at cost, stock or seed to local governments or nonprofit organizations for urban tree planting programs consistent with the *community and urban forestry program.
 
 [ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5159-S.SL.pdf?cite=1993%20c%20204%20§%207[1993 c 204 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c128.pdf?cite=1988%20c%20128%20§%2035[1988 c 128 § 35]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1947c67.pdf?cite=1947%20c%2067%20§%201[1947 c 67 § 1]; Rem. Supp. 1947 § 5823-40; ]
 

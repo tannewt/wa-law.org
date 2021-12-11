@@ -14,7 +14,7 @@ The legislature finds:
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990ex1c17.pdf?cite=1990%201st%20ex.s.%20c%2017%20§%2065[1990 1st ex.s. c 17 § 65]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c231.pdf?cite=1985%20c%20231%20§%201[1985 c 231 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c20.pdf?cite=1983%201st%20ex.s.%20c%2020%20§%201[1983 1st ex.s. c 20 § 1]; ]
 
-== 43.210.020 - Small business export finance assistance center authorized—Purposes.
+== 43.210.020 - Small business export finance assistance center authorized—Purposes. (Effective until January 1, 2022.)
 A nonprofit corporation, to be known as the small business export finance assistance center, and branches subject to its authority, may be formed under chapter 24.03 RCW for the following public purposes:
 
 . To assist small and medium-sized businesses in both urban and rural areas in the financing of export transactions.
@@ -28,7 +28,7 @@ The small business export finance assistance center and its branches shall be go
 
 [ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2529-S.SL.pdf?cite=1998%20c%20109%20§%202[1998 c 109 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1014.SL.pdf?cite=1995%20c%20399%20§%20106[1995 c 399 § 106]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1341-S.SL.pdf?cite=1991%20c%20314%20§%2015[1991 c 314 § 15]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c231.pdf?cite=1985%20c%20231%20§%203[1985 c 231 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c20.pdf?cite=1983%201st%20ex.s.%20c%2020%20§%203[1983 1st ex.s. c 20 § 3]; ]
 
-== 43.210.040 - Powers and duties.
+== 43.210.040 - Powers and duties. (Effective until January 1, 2022.)
 . The small business export finance assistance center formed under RCW 43.210.020 and 43.210.030 has the powers granted under chapter 24.03 RCW. In exercising such powers, the center may:
 
 .. Solicit and accept grants, contributions, and any other financial assistance from the federal government, federal agencies, and any other sources to carry out its purposes;

@@ -113,9 +113,9 @@ When it appears in any petition or otherwise at any time during the proceedings 
 [ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6257-S.SL.pdf?cite=1996%20c%20249%20§%206[1996 c 249 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c80.pdf?cite=1977%20ex.s.%20c%2080%20§%2012[1977 ex.s. c 80 § 12]; ]
 
 == 8.25.280 - Valuation of public water systems.
-Consistent with standard appraisal practices, the valuation of a public water system as defined in *RCW 70.119A.020 shall reflect the cost of system improvements necessary to comply with health and safety rules of the state board of health and applicable regulations developed under chapter 43.20, 43.20A, or ** 70.116 RCW.
+Consistent with standard appraisal practices, the valuation of a public water system as defined in RCW 70A.125.010 shall reflect the cost of system improvements necessary to comply with health and safety rules of the state board of health and applicable regulations developed under chapter 43.20, 43.20A, or 70A.100 RCW.
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c133.pdf?cite=1990%20c%20133%20§%209[1990 c 133 § 9]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%209[2021 c 65 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c133.pdf?cite=1990%20c%20133%20§%209[1990 c 133 § 9]; ]
 
 == 8.25.290 - Condemnation final actions—Notice required—"Final action" defined.
 . The condemnor must provide notice as required by this section before:

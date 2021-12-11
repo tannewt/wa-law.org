@@ -229,8 +229,11 @@ Each authority shall incorporate in plans for stations along any light-rail faci
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1090-S.SL.pdf?cite=2005%20c%2019%20§%203[2005 c 19 § 3]; ]
 
-== 81.112.210 - Fare payment—Fines and penalties established—Enforcement.
-. An authority is authorized to establish, by resolution, a schedule of fines and penalties for civil infractions established in RCW 81.112.220. Fines established by an authority shall not exceed those imposed for class 1 infractions under RCW 7.80.120.
+== 81.112.210 - Fare payment—Fines and penalties established—Fare enforcement system—Enforcement.
+. [Empty]
+.. An authority is authorized to establish, by resolution, a schedule of fines and penalties for civil infractions established in RCW 81.112.220. Fines established by an authority shall not exceed those imposed for class 1 infractions under RCW 7.80.120.
+
+.. An authority is further authorized to establish, by resolution, an alternative fare enforcement system, which may include: (i) The issuance of notices of violation subject to fines not exceeding the amounts authorized in (a) of this subsection or nonmonetary sanctions or both, and (ii) resolve notices of violations and appeals, in addition to or as a replacement for the schedule of fines and penalties authorized by (a) of this subsection.
 
 . [Empty]
 .. An authority may designate persons to monitor fare payment who are equivalent to and are authorized to exercise all the powers of an enforcement officer, defined in RCW 7.80.040. An authority is authorized to employ personnel to either monitor fare payment, or to contract for such services, or both.
@@ -243,18 +246,20 @@ Each authority shall incorporate in plans for stations along any light-rail faci
 
 ...(A) Issue a notice of infraction for a civil infraction established in RCW 81.112.220.
 
-(B) The notice of infraction form to be used for violations under this subsection must be approved by the administrative office of the courts and must not include vehicle information; and
+(B) The notice of infraction form to be used for violations under this subsection must be approved by the administrative office of the courts and must not include vehicle information;
 
-... Request that a passenger leave the authority facility when the passenger has not produced proof of payment after being asked to do so by a person designated to monitor fare payment.
+... Issue a notice of violation of the alternative fare enforcement system authorized in subsection (1)(b) of this section; and
 
-. Authorities shall keep records of citations in the manner prescribed by RCW 7.80.150. All civil infractions established by chapter 20, Laws of 1999 shall be heard and determined by a district or municipal court as provided in RCW 7.80.010 (1), (2), and (4).
+.. Request that a passenger leave the authority facility when the passenger has not produced proof of payment after being asked to do so by a person designated to monitor fare payment.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5987-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%2044%20§%20330[2015 3rd sp.s. c 44 § 330]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2111-S.SL.pdf?cite=2014%20c%20153%20§%201[2014 c 153 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5513-S.SL.pdf?cite=2009%20c%20279%20§%205[2009 c 279 § 5]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5274-S.SL.pdf?cite=1999%20c%2020%20§%203[1999 c 20 § 3]; ]
+. Authorities shall keep records of citations in the manner prescribed by RCW 7.80.150. All civil infractions established by chapter 20, Laws of 1999 shall be heard as provided in RCW 7.80.010 (1), (2), and (4).
 
-== 81.112.220 - Fare payment—Proof of payment—Civil infractions.
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1301-S.SL.pdf?cite=2021%20c%2070%20§%201[2021 c 70 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5987-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%2044%20§%20330[2015 3rd sp.s. c 44 § 330]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2111-S.SL.pdf?cite=2014%20c%20153%20§%201[2014 c 153 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5513-S.SL.pdf?cite=2009%20c%20279%20§%205[2009 c 279 § 5]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5274-S.SL.pdf?cite=1999%20c%2020%20§%203[1999 c 20 § 3]; ]
+
+== 81.112.220 - Fare payment—Proof of payment—Civil infractions, violations punishable according to an alternative fare enforcement system.
 . Persons traveling on facilities operated by an authority shall pay the fare established by the authority and shall produce proof of payment in accordance with the terms of use established by the authority. Such persons shall produce proof of payment when requested by a person designated to monitor fare payment. The required manner of producing proof of payment specified in the terms of use established by the authority may include, but is not limited to, requiring a person using an electronic fare payment card to validate the card by presenting the card to an electronic card reader before or upon entering a public transportation vehicle or a restricted fare paid area.
 
-. The following constitute civil infractions punishable according to the schedule of fines and penalties established by the authority under RCW 81.112.210(1):
+. The following constitute civil infractions punishable according to the schedule of fines and penalties established by the authority under RCW 81.112.210(1)(a) or violations punishable according to an alternative fare enforcement system established by the authority under RCW 81.112.210(1)(b):
 
 .. Failure to pay the required fare, except when the authority fails to meet the requirements of subsection (3) of this section;
 
@@ -262,9 +267,9 @@ Each authority shall incorporate in plans for stations along any light-rail faci
 
 .. Failure to depart the facility when requested to do so by a person designated to monitor fare payment.
 
-. If fare payment is required before entering a transit vehicle, as defined in RCW 9.91.025(2)(b), or before entering a fare paid area in a transit facility, as defined in RCW 9.91.025(2)(a), signage must be conspicuously posted at the place of boarding or within ten feet of the nearest entrance to a transit facility that clearly indicates: (a) The locations where tickets or fare media may be purchased; and (b) that a person using an electronic fare payment card must present the card to an electronic card reader before entering a transit vehicle or before entering a restricted fare paid area.
+. If fare payment is required before entering a transit vehicle, as defined in RCW 9.91.025(2)(b), or before entering a fare paid area in a transit facility, as defined in RCW 9.91.025(2)(a), signage must be conspicuously posted at the place of boarding or within 10 feet of the nearest entrance to a transit facility that clearly indicates: (a) The locations where tickets or fare media may be purchased; and (b) that a person using an electronic fare payment card must present the card to an electronic card reader before entering a transit vehicle or before entering a restricted fare paid area.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2252-S.SL.pdf?cite=2012%20c%2068%20§%203[2012 c 68 § 3]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5513-S.SL.pdf?cite=2009%20c%20279%20§%206[2009 c 279 § 6]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5274-S.SL.pdf?cite=1999%20c%2020%20§%204[1999 c 20 § 4]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1301-S.SL.pdf?cite=2021%20c%2070%20§%202[2021 c 70 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2252-S.SL.pdf?cite=2012%20c%2068%20§%203[2012 c 68 § 3]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5513-S.SL.pdf?cite=2009%20c%20279%20§%206[2009 c 279 § 6]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5274-S.SL.pdf?cite=1999%20c%2020%20§%204[1999 c 20 § 4]; ]
 
 == 81.112.230 - Fare payment—Prosecution for theft, trespass, or other charges.
 Nothing in RCW 81.112.020 and 81.112.210 through 81.112.230 shall be deemed to prevent law enforcement authorities from prosecuting for theft, trespass, or other charges by any individual who:
@@ -345,7 +350,7 @@ If the legislative authority of a city provides or contracts for supplemental tr
 
 .. "Qualified entity" means a local government, housing authority, and nonprofit developer.
 
-. A regional transit authority implementing subsection (1)(b) of this section must, at the end of each fiscal quarter, send a report to the appropriate committees of the legislature and post a report on its web site detailing the following activities:
+. A regional transit authority implementing subsection (1)(b) of this section must, at the end of each fiscal quarter, send a report to the appropriate committees of the legislature and post a report on its website detailing the following activities:
 
 .. Any transfers of property that have occurred in the previous fiscal quarter pursuant to subsection (1)(b) of this section; and
 

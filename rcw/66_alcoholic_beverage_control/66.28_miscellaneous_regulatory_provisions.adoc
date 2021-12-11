@@ -15,7 +15,7 @@ Every domestic distillery, brewery, and microbrewery, domestic winery, certifica
 
 .. Otherwise legally authorized to sell spirits in this state.
 
-. The liquor and cannabis board must maintain on its web site a list of all purchasers that meet the conditions of subsection (2) of this section.
+. The liquor and cannabis board must maintain on its website a list of all purchasers that meet the conditions of subsection (2) of this section.
 
 . A violation of this section is grounds for suspension of a spirits certificate of approval license in accordance with RCW 66.08.150, in addition to any punishment as may be authorized by RCW 66.28.030.
 
@@ -439,7 +439,7 @@ Except as provided in RCW 66.28.310, no industry member shall advance and no ret
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2040.SL.pdf?cite=2009%20c%20506%20§%206[2009 c 506 § 6]; ]
 
-== 66.28.310 - Three-tier system—Promotional items. (Effective until January 1, 2021.)
+== 66.28.310 - Three-tier system—Promotional items.
 . [Empty]
 .. Nothing in RCW 66.28.305 prohibits an industry member from providing retailers, including common carriers licensed under RCW 66.24.395, branded promotional items which are of nominal value, singly or in the aggregate. Such items include but are not limited to: Trays, lighters, blotters, postcards, pencils, coasters, menu cards, meal checks, napkins, clocks, mugs, glasses, bottles or can openers, corkscrews, matches, printed recipes, shirts, hats, visors, and other similar items. Branded promotional items:
 
@@ -473,11 +473,11 @@ Except as provided in RCW 66.28.310, no industry member shall advance and no ret
 
 . Nothing in RCW 66.28.305 prohibits:
 
-.. Industry members from listing on their internet web sites information related to retailers who sell or promote their products, including direct links to the retailers' internet web sites;
+.. Industry members from listing on their internet websites information related to retailers who sell or promote their products, including direct links to the retailers' internet websites;
 
-.. Retailers from listing on their internet web sites information related to industry members whose products those retailers sell or promote, including direct links to the industry members' web sites;
+.. Retailers from listing on their internet websites information related to industry members whose products those retailers sell or promote, including direct links to the industry members' websites;
 
-.. Manufacturers, distributors, or their licensed representatives from using web sites or social media accounts in their name to post, repost, or share promotional information or images about events featuring a product of the manufacturer's own production or a product sold by the distributor, held at an on-premises licensed liquor retailer's location or a licensed special occasion event. The promotional information may include links to purchase event tickets. Manufacturers, distributors, or their licensed representatives may not pay a third party to enhance viewership of a specific post. Industry members, or their licensed representatives, are not obligated to post, repost, or share information or images on a web site or on social media. A licensed liquor retailer may not require an industry member or their licensed representative to post, repost, or share information or images on a web site or on social media as a condition for selling any alcohol to the retailer or participating in a retailer's event; or
+.. Manufacturers, distributors, or their licensed representatives from using websites or social media accounts in their name to post, repost, or share promotional information or images about events featuring a product of the manufacturer's own production or a product sold by the distributor, held at an on-premises licensed liquor retailer's location or a licensed special occasion event. The promotional information may include links to purchase event tickets. Manufacturers, distributors, or their licensed representatives may not pay a third party to enhance viewership of a specific post. Industry members, or their licensed representatives, are not obligated to post, repost, or share information or images on a website or on social media. A licensed liquor retailer may not require an industry member or their licensed representative to post, repost, or share information or images on a website or on social media as a condition for selling any alcohol to the retailer or participating in a retailer's event; or
 
 .. Industry members and retailers from producing, jointly or together with regional, state, or local industry associations, brochures and materials promoting tourism in Washington state which contain information regarding retail licensees, industry members, and their products.
 
@@ -517,7 +517,9 @@ Except as provided in RCW 66.28.310, no industry member shall advance and no ret
 
 . Nothing in RCW 66.28.305 prohibits an industry member, subject to the requirements of its license, from entering into an agreement to provide tastings with or without charge to passengers of a common carrier holding a license under RCW 66.24.395.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6095-S.SL.pdf?cite=2020%20c%20200%20§%201[2020 c 200 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5394-S.SL.pdf?cite=2019%20c%20149%20§%201[2019 c 149 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5662.SL.pdf?cite=2015%20c%2094%20§%201[2015 c 94 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6226-S.SL.pdf?cite=2014%20c%2092%20§%205[2014 c 92 § 5]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1351.SL.pdf?cite=2013%20c%20107%20§%201[2013 c 107 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5788-S.SL.pdf?cite=2011%20c%20119%20§%20101[2011 c 119 § 101]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1227.SL.pdf?cite=2011%20c%2066%20§%203[2011 c 66 § 3]; prior:  2010 c 290 § 3; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6329-S.SL.pdf?cite=2010%20c%20141%20§%204[2010 c 141 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2040.SL.pdf?cite=2009%20c%20506%20§%207[2009 c 506 § 7]; ]
+. Nothing in RCW 66.28.305 prohibits a distillery, craft distillery, or spirits certificate of approval holder from providing branded promotional items of nominal value, singly or in the aggregate, to a nonprofit charitable corporation or association exempt from taxation under Title 26 U.S.C. Sec. 501(c)(3) of the federal internal revenue code of 1986, as amended, as of January 1, 2021, for use consistent with the purpose or purposes entitling it to such exemption.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5549-S2.SL.pdf?cite=2020%20c%20238%20§%2010[2020 c 238 § 10]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6095-S.SL.pdf?cite=2020%20c%20200%20§%201[2020 c 200 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5394-S.SL.pdf?cite=2019%20c%20149%20§%201[2019 c 149 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5662.SL.pdf?cite=2015%20c%2094%20§%201[2015 c 94 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6226-S.SL.pdf?cite=2014%20c%2092%20§%205[2014 c 92 § 5]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1351.SL.pdf?cite=2013%20c%20107%20§%201[2013 c 107 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5788-S.SL.pdf?cite=2011%20c%20119%20§%20101[2011 c 119 § 101]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1227.SL.pdf?cite=2011%20c%2066%20§%203[2011 c 66 § 3]; prior:  2010 c 290 § 3; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6329-S.SL.pdf?cite=2010%20c%20141%20§%204[2010 c 141 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2040.SL.pdf?cite=2009%20c%20506%20§%207[2009 c 506 § 7]; ]
 
 == 66.28.315 - Three-tier system—Recordkeeping.
 All industry members and retailers shall keep and maintain the following records on their premises for a three-year period:

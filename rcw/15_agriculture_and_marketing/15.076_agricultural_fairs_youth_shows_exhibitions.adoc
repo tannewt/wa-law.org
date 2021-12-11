@@ -20,9 +20,23 @@ It is hereby declared that it is in the public interest to hold agricultural fai
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6368.SL.pdf?cite=2018%20c%20280%20§%202[2018 c 280 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2356.SL.pdf?cite=2012%20c%20221%20§%202[2012 c 221 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c61.pdf?cite=1961%20c%2061%20§%202[1961 c 61 § 2]; ]
 
 == 15.76.115 - Fair fund—Created—Treasurer's transfer—Purpose.
-The fair fund is created in the custody of the state treasury. All moneys received by the department of agriculture for the purposes of this fund and from RCW 67.16.105 shall be deposited into the fund. Each fiscal year, the state treasurer shall transfer into the fair fund from the general fund the sum of two million dollars. Expenditures from the fund may be used only for assisting fairs in the manner provided in this chapter. Only the director of agriculture or the director's designee may authorize expenditures from the fund. The fund is subject to allotment procedures under chapter 43.88 RCW, but no appropriation is required for expenditures.
+. The fair fund is created in the custody of the state treasury.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6368.SL.pdf?cite=2018%20c%20280%20§%203[2018 c 280 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1087-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2050%20§%20926[2011 1st sp.s. c 50 § 926]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5374-S.SL.pdf?cite=2011%20c%20103%20§%2010[2011 c 103 § 10]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6444-S.SL.pdf?cite=2010%201st%20sp.s.%20c%2037%20§%20912[2010 1st sp.s. c 37 § 912]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5237-S.SL.pdf?cite=2001%202nd%20sp.s.%20c%2016%20§%201[2001 2nd sp.s. c 16 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6562-S2.SL.pdf?cite=1998%20c%20345%20§%202[1998 c 345 § 2]; ]
+. All moneys received by the department of agriculture for the purposes of this fund and from RCW 67.16.105 shall be deposited into the fund. Each fiscal year, the state treasurer shall transfer into the fair fund from the general fund an amount appropriated in the omnibus operating appropriations act equal to:
+
+.. $2,000,000 for fiscal year 2021;
+
+.. $2,750,000 in each fiscal year 2022 and 2023;
+
+.. $3,500,000 in each fiscal year 2024 and 2025; and
+
+.. $4,000,000 in fiscal year 2026 and each fiscal year thereafter.
+
+.. To support inclusiveness at fair events, a portion of the additional funds provided to fairs as a result of chapter 245, Laws of 2021 must be prioritized to be spent on educational programs and outreach that are reflective of the diversity within a fair's local population.
+
+. Expenditures from the fund may be used only for assisting fairs in the manner provided in this chapter. Only the director of agriculture or the director's designee may authorize expenditures from the fund. The fund is subject to allotment procedures under chapter 43.88 RCW, but no appropriation is required for expenditures.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5362-S2.SL.pdf?cite=2021%20c%20245%20§%202[2021 c 245 § 2]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6368.SL.pdf?cite=2018%20c%20280%20§%203[2018 c 280 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1087-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2050%20§%20926[2011 1st sp.s. c 50 § 926]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5374-S.SL.pdf?cite=2011%20c%20103%20§%2010[2011 c 103 § 10]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6444-S.SL.pdf?cite=2010%201st%20sp.s.%20c%2037%20§%20912[2010 1st sp.s. c 37 § 912]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5237-S.SL.pdf?cite=2001%202nd%20sp.s.%20c%2016%20§%201[2001 2nd sp.s. c 16 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6562-S2.SL.pdf?cite=1998%20c%20345%20§%202[1998 c 345 § 2]; ]
 
 == 15.76.120 - Categories of fairs.
 The following categories of agricultural fairs held in the state may be eligible for state allocations:

@@ -395,7 +395,7 @@ When the secretary finds it appropriate and not unduly destructive of the work i
 
 . The completed threshold analysis and any completed business impact analysis with all supporting documents must be shared in a meaningful and timely manner with local chambers of commerce, trade or business associations, local and state labor union organizations, and government entities before a finding required under subsection (4) of this section is made on the proposed new or expanded class I correctional industries work program.
 
-. If a business impact analysis is completed, the department must conduct a public hearing to take public testimony on the business impact analysis. The department must, at a minimum, establish a publicly accessible web site containing information reasonably calculated to provide notice to each Washington business assigned the same three-digit standard industrial classification code, or the corresponding North American industry classification system code, as the organization seeking the class I correctional industries work program agreement of the date, time, and place of the hearing. Notice of the hearing shall be posted at least thirty days prior to the hearing.
+. If a business impact analysis is completed, the department must conduct a public hearing to take public testimony on the business impact analysis. The department must, at a minimum, establish a publicly accessible website containing information reasonably calculated to provide notice to each Washington business assigned the same three-digit standard industrial classification code, or the corresponding North American industry classification system code, as the organization seeking the class I correctional industries work program agreement of the date, time, and place of the hearing. Notice of the hearing shall be posted at least thirty days prior to the hearing.
 
 . Following the public hearing, the department shall adopt a finding that the proposed new or expanded class I correctional industries work program: (a) Will not compete with any Washington business; (b) will not compete unfairly with any Washington business; or (c) will compete unfairly with any Washington business and is therefore prohibited under chapter 167, Laws of 2004.
 
@@ -563,52 +563,57 @@ In order to ease the transition of adult corrections to the department of correc
 [ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6627.SL.pdf?cite=2002%20c%20175%20§%2050[2002 c 175 § 50]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c66.pdf?cite=1990%20c%2066%20§%202[1990 c 66 § 2]; ]
 
 == 72.09.270 - Individual reentry plan.
-. The department of corrections shall develop an individual reentry plan as defined in RCW 72.09.015 for every offender who is committed to the jurisdiction of the department except:
+. The department of corrections shall develop an individual reentry plan as defined in RCW 72.09.015 for every incarcerated individual who is committed to the jurisdiction of the department except:
 
-.. Offenders who are sentenced to life without the possibility of release or sentenced to death under chapter 10.95 RCW; and
+.. Incarcerated individuals who are sentenced to life without the possibility of release or sentenced to death under chapter 10.95 RCW; and
 
-.. Offenders who are subject to the provisions of 8 U.S.C. Sec. 1227.
+.. Incarcerated individuals who are subject to the provisions of 8 U.S.C. Sec. 1227.
 
 . The individual reentry plan may be one document, or may be a series of individual plans that combine to meet the requirements of this section.
 
-. In developing individual reentry plans, the department shall assess all offenders using standardized and comprehensive tools to identify the criminogenic risks, programmatic needs, and educational and vocational skill levels for each offender. The assessment tool should take into account demographic biases, such as culture, age, and gender, as well as the needs of the offender, including any learning disabilities, substance abuse or mental health issues, and social or behavior deficits.
+. In developing individual reentry plans, the department shall assess all incarcerated individuals using standardized and comprehensive tools to identify the criminogenic risks, programmatic needs, and educational and vocational skill levels for each incarcerated individual. The assessment tool should take into account demographic biases, such as culture, age, and gender, as well as the needs of the incarcerated individual, including any learning disabilities, substance abuse or mental health issues, and social or behavior challenges.
 
 . [Empty]
 .. The initial assessment shall be conducted as early as sentencing, but, whenever possible, no later than forty-five days of being sentenced to the jurisdiction of the department of corrections.
 
-.. The offender's individual reentry plan shall be developed as soon as possible after the initial assessment is conducted, but, whenever possible, no later than sixty days after completion of the assessment, and shall be periodically reviewed and updated as appropriate.
+.. The incarcerated individual's individual reentry plan shall be developed as soon as possible after the initial assessment is conducted, but, whenever possible, no later than sixty days after completion of the assessment, and shall be periodically reviewed and updated as appropriate.
 
 . The individual reentry plan shall, at a minimum, include:
 
-.. A plan to maintain contact with the inmate's children and family, if appropriate. The plan should determine whether parenting classes, or other services, are appropriate to facilitate successful reunification with the offender's children and family;
+.. A plan to maintain contact with the incarcerated individual's children and family, if appropriate. The plan should determine whether parenting classes, or other services, are appropriate to facilitate successful reunification with the incarcerated individual's children and family;
 
-.. An individualized portfolio for each offender that includes the offender's education achievements, certifications, employment, work experience, skills, and any training received prior to and during incarceration; and
+.. An individualized portfolio for each incarcerated individual that includes the incarcerated individual's education achievements, certifications, employment, work experience, skills, and any training received prior to and during incarceration; and
 
-.. A plan for the offender during the period of incarceration through reentry into the community that addresses the needs of the offender including education, employment, substance abuse treatment, mental health treatment, family reunification, and other areas which are needed to facilitate a successful reintegration into the community.
-
-. [Empty]
-.. Prior to discharge of any offender, the department shall:
-
-... Evaluate the offender's needs and, to the extent possible, connect the offender with existing services and resources that meet those needs; and
-
-... Connect the offender with a community justice center and/or community transition coordination network in the area in which the offender will be residing once released from the correctional system if one exists.
-
-.. If the department recommends partial confinement in an offender's individual reentry plan, the department shall maximize the period of partial confinement for the offender as allowed pursuant to RCW 9.94A.728 to facilitate the offender's transition to the community.
-
-. The department shall establish mechanisms for sharing information from individual reentry plans to those persons involved with the offender's treatment, programming, and reentry, when deemed appropriate. When feasible, this information shall be shared electronically.
+.. A plan for the incarcerated individual during the period of incarceration through reentry into the community that addresses the needs of the incarcerated individual including education, employment, substance abuse treatment, mental health treatment, family reunification, and other areas which are needed to facilitate a successful reintegration into the community.
 
 . [Empty]
-.. In determining the county of discharge for an offender released to community custody, the department may not approve a residence location that is not in the offender's county of origin unless it is determined by the department that the offender's return to his or her county of origin would be inappropriate considering any court-ordered condition of the offender's sentence, victim safety concerns, negative influences on the offender in the community, or the location of family or other sponsoring persons or organizations that will support the offender.
+.. Prior to discharge of any incarcerated individual, the department shall:
 
-.. If the offender is not returned to his or her county of origin, the department shall provide the law and justice council of the county in which the offender is placed with a written explanation.
+... Evaluate the incarcerated individual's needs and, to the extent possible, connect the incarcerated individual with existing services and resources that meet those needs; and
 
-.. For purposes of this section, the offender's county of origin means the county of the offender's first felony conviction in Washington.
+... Connect the incarcerated individual with a community justice center and/or community transition coordination network in the area in which the incarcerated individual will be residing once released from the correctional system if one exists.
+
+.. If the department recommends partial confinement in an incarcerated individual's individual reentry plan, the department shall maximize the period of partial confinement for the incarcerated individual as allowed pursuant to RCW 9.94A.728 to facilitate the incarcerated individual's transition to the community.
+
+. The department shall establish mechanisms for sharing information from individual reentry plans to those persons involved with the incarcerated individual's treatment, programming, and reentry, when deemed appropriate. When feasible, this information shall be shared electronically.
+
+. [Empty]
+.. In determining the county of discharge for an incarcerated individual released to community custody, the department may approve a residence location that is not in the incarcerated individual's county of origin if the department determines that the residence location would be appropriate based on any court-ordered condition of the incarcerated individual's sentence, victim safety concerns, and factors that increase opportunities for successful reentry and long-term support including, but not limited to, location of family or other sponsoring persons or organizations that will support the incarcerated individual, ability to complete an educational program that the incarcerated individual is enrolled in, availability of appropriate programming or treatment, and access to housing, employment, and prosocial influences on the person in the community.
+
+.. In implementing the provisions of this subsection, the department shall approve residence locations in a manner that will not cause any one county to be disproportionately impacted.
+
+.. If the incarcerated individual is not returned to his or her county of origin, the department shall provide the law and justice council of the county in which the incarcerated individual is placed with a written explanation.
+
+.. [Empty]
+... For purposes of this section, except as provided in (d)(ii) of this subsection, the incarcerated individual's county of origin means the county of the incarcerated individual's residence at the time of the incarcerated individual's first felony conviction in Washington state.
+
+... If the incarcerated individual is a homeless person as defined in RCW 43.185C.010, or the incarcerated individual's residence is unknown, then the incarcerated individual's county of origin means the county of the incarcerated individual's first felony conviction in Washington state.
 
 . Nothing in this section creates a vested right in programming, education, or other services.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2719.SL.pdf?cite=2008%20c%20231%20§%2048[2008 c 231 § 48]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6157-S.SL.pdf?cite=2007%20c%20483%20§%20203[2007 c 483 § 203]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1044-S2.SL.pdf?cite=2021%20c%20200%20§%203[2021 c 200 § 3]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2719.SL.pdf?cite=2008%20c%20231%20§%2048[2008 c 231 § 48]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6157-S.SL.pdf?cite=2007%20c%20483%20§%20203[2007 c 483 § 203]; ]
 
-== 72.09.275 - Duty to notify inmate of process for restoration of voting rights.
+== 72.09.275 - Duty to notify inmate of process for restoration of voting rights. (Effective until January 1, 2022.)
 The department shall notify an inmate, in writing, of the process for provisional and permanent restoration of voting rights, as described in RCW 29A.08.520, prior to the termination of authority of the department over the inmate. The department shall also provide the inmate with:
 
 . A voter registration form and written instructions for returning the form by mail; and
@@ -917,24 +922,24 @@ The secretary of corrections, the secretary of social and health services, the s
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5432-S2.SL.pdf?cite=2019%20c%20325%20§%205024[2019 c 325 § 5024]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1388-S.SL.pdf?cite=2018%20c%20201%20§%209011[2018 c 201 § 9011]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6312-S2.SL.pdf?cite=2014%20c%20225%20§%2094[2014 c 225 § 94]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1765-S.SL.pdf?cite=1993%20c%20459%20§%201[1993 c 459 § 1]; ]
 
-== 72.09.370 - Offenders with mental illness who are believed to be dangerous—Plan for postrelease treatment and support services—Rules.
-. The offender reentry community safety program is established to provide intensive services to offenders identified under this subsection and to thereby promote public safety. The secretary shall identify offenders in confinement or partial confinement who: (a) Are reasonably believed to be dangerous to themselves or others; and (b) have a mental disorder. In determining an offender's dangerousness, the secretary shall consider behavior known to the department and factors, based on research, that are linked to an increased risk for dangerousness of offenders with mental illnesses and shall include consideration of an offender's substance use disorder or abuse.
+== 72.09.370 - Persons with mental illness who are believed to present a danger to themselves or others—Plan for postrelease treatment and support services—Rules.
+. The reentry community services program is established to provide intensive services to persons identified under this subsection and to thereby promote successful reentry, public safety, and recovery. The secretary shall identify persons in confinement or partial confinement who: (a) Are reasonably believed to present a danger to themselves or others if released to the community without supportive services; and (b) have a mental disorder. In evaluating these criteria, the secretary shall consider behavior known to the department and factors, based on research, that are linked to risk of dangerousness for persons with mental illnesses within the criminal justice system and shall include consideration of the person's history of substance use disorder or abuse.
 
-. Prior to release of an offender identified under this section, a team consisting of representatives of the department of corrections, the health care authority, and, as necessary, the indeterminate sentence review board, divisions or administrations within the department of social and health services, specifically including the division of developmental disabilities, the appropriate managed care organization contracted with the health care authority, the appropriate behavioral health administrative services organization, and the providers, as appropriate, shall develop a plan, as determined necessary by the team, for delivery of treatment and support services to the offender upon release. In developing the plan, the offender shall be offered assistance in executing a mental health directive under chapter 71.32 RCW, after being fully informed of the benefits, scope, and purposes of such directive. The team may include a school district representative for offenders under the age of twenty-one. The team shall consult with the offender's counsel, if any, and, as appropriate, the offender's family and community. The team shall notify the crime victim/witness program, which shall provide notice to all people registered to receive notice under RCW 72.09.712 of the proposed release plan developed by the team. Victims, witnesses, and other interested people notified by the department may provide information and comments to the department on potential safety risk to specific individuals or classes of individuals posed by the specific offender. The team may recommend: (a) That the offender be evaluated by the designated crisis responder, as defined in chapter 71.05 RCW; (b) department-supervised community treatment; or (c) voluntary community mental health or substance use disorder or abuse treatment.
+. Prior to release of a person identified under this section, a team consisting of representatives of the department of corrections, the health care authority, and, as necessary, the indeterminate sentence review board, divisions or administrations within the department of social and health services, specifically including the division of developmental disabilities, the appropriate managed care organization or behavioral health administrative services organization, and reentry community services providers, as appropriate, shall develop a plan, as determined necessary by the team, for delivery of treatment and support services to the person upon release. In developing the plan, the person shall be offered assistance in executing a mental health advance directive under chapter 71.32 RCW, after being fully informed of the benefits, scope, and purposes of such directive. The team may include a school district representative for persons under the age of 21. The team shall consult with the person's counsel, if any, and, as appropriate, the person's family and community. The team shall notify the crime victim/witness program, which shall provide notice to all people registered to receive notice under RCW 72.09.712 of the proposed release plan developed by the team. Victims, witnesses, and other interested people notified by the department may provide information and comments to the department on potential safety risk to specific individuals or classes of individuals posed by the specific person. The team may recommend: (a) That the person be evaluated by a designated crisis responder, as defined in chapter 71.05 RCW; (b) department-supervised community treatment; or (c) voluntary community mental health or substance use disorder or abuse treatment.
 
-. Prior to release of an offender identified under this section, the team shall determine whether or not an evaluation by a designated crisis responder is needed. If an evaluation is recommended, the supporting documentation shall be immediately forwarded to the appropriate designated crisis responder. The supporting documentation shall include the offender's criminal history, history of judicially required or administratively ordered involuntary antipsychotic medication while in confinement, and any known history of involuntary civil commitment.
+. Prior to release of a person identified under this section, the team shall determine whether or not an evaluation by a designated crisis responder is needed. If an evaluation is recommended, the supporting documentation shall be immediately forwarded to the appropriate designated crisis responder. The supporting documentation shall include the person's criminal history, history of judicially required or administratively ordered involuntary antipsychotic medication while in confinement, and any known history of involuntary civil commitment.
 
 . If an evaluation by a designated crisis responder is recommended by the team, such evaluation shall occur not more than ten days, nor less than five days, prior to release.
 
-. A second evaluation by a designated crisis responder shall occur on the day of release if requested by the team, based upon new information or a change in the offender's mental condition, and the initial evaluation did not result in an emergency detention or a summons under chapter 71.05 RCW.
+. A second evaluation by a designated crisis responder shall occur on the day of release if requested by the team, based upon new information or a change in the person's mental condition, and the initial evaluation did not result in an emergency detention or a summons under chapter 71.05 RCW.
 
-. If the designated crisis responder determines an emergency detention under chapter 71.05 RCW is necessary, the department shall release the offender only to a state hospital or to a consenting evaluation and treatment facility. The department shall arrange transportation of the offender to the hospital or facility.
+. If the designated crisis responder determines an emergency detention under chapter 71.05 RCW is necessary, the department shall release the person only to a state hospital or to a consenting evaluation and treatment facility or secure withdrawal management and stabilization facility. The department shall arrange transportation of the person to the hospital or facility.
 
-. If the designated crisis responder believes that a less restrictive alternative treatment is appropriate, he or she shall seek a summons, pursuant to the provisions of chapter 71.05 RCW, to require the offender to appear at an evaluation and treatment facility. If a summons is issued, the offender shall remain within the corrections facility until completion of his or her term of confinement and be transported, by corrections personnel on the day of completion, directly to the identified evaluation and treatment facility.
+. If the designated crisis responder believes that a less restrictive alternative treatment is appropriate, he or she shall seek a summons, pursuant to the provisions of chapter 71.05 RCW, to require the person to appear at an evaluation and treatment facility or secure withdrawal management and stabilization facility. If a summons is issued, the person shall remain within the corrections facility until completion of his or her term of confinement and be transported, by corrections personnel on the day of completion, directly to the identified facility.
 
 . The secretary shall adopt rules to implement this section.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5432-S2.SL.pdf?cite=2019%20c%20325%20§%205025[2019 c 325 § 5025]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1388-S.SL.pdf?cite=2018%20c%20201%20§%209012[2018 c 201 § 9012]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1713-S3.SL.pdf?cite=2016%20sp.s.%20c%2029%20§%20427[2016 sp.s. c 29 § 427]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6312-S2.SL.pdf?cite=2014%20c%20225%20§%2095[2014 c 225 § 95]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1201-S.SL.pdf?cite=2009%20c%20319%20§%203[2009 c 319 § 3]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5190-S.SL.pdf?cite=2009%20c%2028%20§%2036[2009 c 28 § 36]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6151-S.SL.pdf?cite=2001%202nd%20sp.s.%20c%2012%20§%20362[2001 2nd sp.s. c 12 § 362]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5011-S.SL.pdf?cite=1999%20c%20214%20§%202[1999 c 214 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5304-S2.SL.pdf?cite=2021%20c%20243%20§%206[2021 c 243 § 6]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5432-S2.SL.pdf?cite=2019%20c%20325%20§%205025[2019 c 325 § 5025]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1388-S.SL.pdf?cite=2018%20c%20201%20§%209012[2018 c 201 § 9012]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1713-S3.SL.pdf?cite=2016%20sp.s.%20c%2029%20§%20427[2016 sp.s. c 29 § 427]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6312-S2.SL.pdf?cite=2014%20c%20225%20§%2095[2014 c 225 § 95]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1201-S.SL.pdf?cite=2009%20c%20319%20§%203[2009 c 319 § 3]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5190-S.SL.pdf?cite=2009%20c%2028%20§%2036[2009 c 28 § 36]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6151-S.SL.pdf?cite=2001%202nd%20sp.s.%20c%2012%20§%20362[2001 2nd sp.s. c 12 § 362]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5011-S.SL.pdf?cite=1999%20c%20214%20§%202[1999 c 214 § 2]; ]
 
 == 72.09.380 - Rule making—Medicaid—Secretary of corrections—Director of health care authority.
 The secretary of the department of corrections and the director of the health care authority shall adopt rules and develop working agreements which will ensure that offenders identified under RCW 72.09.370(1) will be assisted in making application for medicaid to facilitate a decision regarding their eligibility for such entitlements prior to the end of their term of confinement in a correctional facility.
@@ -977,107 +982,155 @@ The department of corrections shall establish one work ethic camp. The secretary
 
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5024.SL.pdf?cite=2015%20c%20225%20§%20113[2015 c 225 § 113]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6315-S.SL.pdf?cite=1996%20c%20277%20§%201[1996 c 277 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2010-S2.SL.pdf?cite=1995%201st%20sp.s.%20c%2019%20§%204[1995 1st sp.s. c 19 § 4]; ]
 
-== 72.09.460 - Inmate participation in education and work programs—Associate degree education opportunities—Legislative intent—Priorities—Rules—Payment of costs.
-. Recognizing that there is a positive correlation between education opportunities and reduced recidivism, it is the intent of the legislature to offer appropriate associate degree opportunities to inmates designed to prepare the inmate to enter the workforce.
+== 72.09.460 - Incarcerated individual participation in education and work programs—Postsecondary degree education opportunities—Legislative intent—Priorities—Rules—Payment of costs.
+. Recognizing that there is a positive correlation between education opportunities and reduced recidivism, it is the intent of the legislature to offer appropriate postsecondary degree or certificate opportunities to incarcerated individuals.
 
-. The legislature intends that all inmates be required to participate in department-approved education programs, work programs, or both, unless exempted as specifically provided in this section. Eligible inmates who refuse to participate in available education or work programs available at no charge to the inmates shall lose privileges according to the system established under RCW 72.09.130. Eligible inmates who are required to contribute financially to an education or work program and refuse to contribute shall be placed in another work program. Refusal to contribute shall not result in a loss of privileges.
+. The legislature intends that all incarcerated individuals be required to participate in department-approved education programs, work programs, or both, unless exempted as specifically provided in this section. Eligible incarcerated individuals who refuse to participate in available education or work programs available at no charge to the incarcerated individuals shall lose privileges according to the system established under RCW 72.09.130. Eligible incarcerated individuals who are required to contribute financially to an education or work program and refuse to contribute shall be placed in another work program. Refusal to contribute shall not result in a loss of privileges.
 
-. The legislature recognizes more inmates may agree to participate in education and work programs than are available. The department must make every effort to achieve maximum public benefit by placing inmates in available and appropriate education and work programs.
+. The legislature recognizes more incarcerated individuals may agree to participate in education and work programs than are available. The department must make every effort to achieve maximum public benefit by placing incarcerated individuals in available and appropriate education and work programs.
 
 . [Empty]
-.. The department shall, to the extent possible and considering all available funds, prioritize its resources to meet the following goals for inmates in the order listed:
+.. The department shall, to the extent possible and considering all available funds, prioritize its resources to meet the following goals for incarcerated individuals in the order listed:
 
-... Achievement of basic academic skills through obtaining a high school diploma or a high school equivalency certificate as provided in RCW 28B.50.536;
+... Achievement of basic academic skills through obtaining a high school diploma or a high school equivalency certificate as provided in RCW 28B.50.536, including achievement by those incarcerated individuals eligible for special education services pursuant to state or federal law;
 
-... Achievement of vocational skills necessary for purposes of work programs and for an inmate to qualify for work upon release;
+... Achievement of vocational skills necessary for purposes of work programs and for an incarcerated individual to qualify for work upon release;
 
-... Additional work and education programs necessary for compliance with an offender's individual reentry plan under RCW 72.09.270; and
+... Additional work and education programs necessary for compliance with an incarcerated individual's individual reentry plan under RCW 72.09.270, including special education services and postsecondary degree or certificate education programs; and
 
-... Other appropriate vocational, work, or education programs that are not necessary for compliance with an offender's individual reentry plan under RCW 72.09.270 including associate degree education programs.
+... Other appropriate vocational, work, or education programs that are not necessary for compliance with an incarcerated individual's individual reentry plan under RCW 72.09.270 including postsecondary degree or certificate education programs.
 
 .. If programming is provided pursuant to (a)(i) through (iii) of this subsection, the department shall pay the cost of such programming, including but not limited to books, materials, and supplies.
 
-.. If programming is provided pursuant to (a)(iv) of this subsection, inmates shall be required to pay all or a portion of the costs, including books, fees, and tuition, for participation in any vocational, work, or education program as provided in department policies. Department policies shall include a formula for determining how much an offender shall be required to pay. The formula shall include steps which correlate to an offender average monthly income or average available balance in a personal inmate savings account and which are correlated to a prorated portion or percent of the per credit fee for tuition, books, or other ancillary costs. The formula shall be reviewed every two years. A third party may pay directly to the department all or a portion of costs and tuition for any programming provided pursuant to (a)(iv) of this subsection on behalf of an inmate. Such payments shall not be subject to any of the deductions as provided in this chapter.
+.. If programming is provided pursuant to (a)(iv) of this subsection, incarcerated individuals shall be required to pay all or a portion of the costs, including books, fees, and tuition, for participation in any vocational, work, or education program as provided in department policies. Department policies shall include a formula for determining how much an incarcerated individual shall be required to pay. The formula shall include steps which correlate to an incarcerated individual's average monthly income or average available balance in a personal savings account and which are correlated to a prorated portion or percent of the per credit fee for tuition, books, or other ancillary educational costs. The formula shall be reviewed every two years. A third party, including but not limited to nonprofit entities or community-based postsecondary education programs, may pay directly to the department all or a portion of costs and tuition for any programming provided pursuant to (a)(iv) of this subsection on behalf of an incarcerated individual. Such payments shall not be subject to any of the deductions as provided in this chapter.
 
-.. The department may accept any and all donations and grants of money, equipment, supplies, materials, and services from any third party, including but not limited to nonprofit entities, and may receive, utilize, and dispose of same to complete the purposes of this section.
+.. The department may accept any and all donations and grants of money, equipment, supplies, materials, and services from any third party, including but not limited to nonprofit entities and community-based postsecondary education programs, and may receive, utilize, and dispose of same to complete the purposes of this section.
 
-.. Any funds collected by the department under (c) and (d) of this subsection and subsections (9) and (10) of this section shall be used solely for the creation, maintenance, or expansion of inmate educational and vocational programs.
+.. Any funds collected by the department under (c) and (d) of this subsection and subsections (11) and (12) of this section shall be used solely for the creation, maintenance, or expansion of incarcerated individual educational and vocational programs.
 
-. The department shall provide access to a program of education to all offenders who are under the age of eighteen and who have not met high school graduation requirements or requirements to earn a high school equivalency certificate as provided in RCW 28B.50.536 in accordance with chapter 28A.193 RCW. The program of education established by the department and education provider under RCW 28A.193.020 for offenders under the age of eighteen must provide each offender a choice of curriculum that will assist the inmate in achieving a high school diploma or high school equivalency certificate. The program of education may include but not be limited to basic education, prevocational training, work ethic skills, conflict resolution counseling, substance abuse intervention, and anger management counseling. The curriculum may balance these and other rehabilitation, work, and training components.
+. The department shall provide access to a program of education to all incarcerated individuals who are under the age of eighteen and who have not met high school graduation requirements or requirements to earn a high school equivalency certificate as provided in RCW 28B.50.536 in accordance with chapter 28A.193 RCW. The program of education established by the department and education provider under RCW 28A.193.020 for incarcerated individuals under the age of eighteen must provide each incarcerated individual a choice of curriculum that will assist the incarcerated individual in achieving a high school diploma or high school equivalency certificate. The program of education may include but not be limited to basic education, prevocational training, work ethic skills, conflict resolution counseling, substance abuse intervention, and anger management counseling. The curriculum may balance these and other rehabilitation, work, and training components.
 
 . [Empty]
-.. In addition to the policies set forth in this section, the department shall consider the following factors in establishing criteria for assessing the inclusion of education and work programs in an inmate's individual reentry plan and in placing inmates in education and work programs:
+.. In addition to the policies set forth in this section, the department shall consider the following factors in establishing criteria for assessing the inclusion of education and work programs in an incarcerated individual's individual reentry plan and in placing incarcerated individuals in education and work programs:
 
-... An inmate's release date and custody level. An inmate shall not be precluded from participating in an education or work program solely on the basis of his or her release date, except that inmates with a release date of more than one hundred twenty months in the future shall not comprise more than ten percent of inmates participating in a new class I correctional industry not in existence on June 10, 2004;
+... An incarcerated individual's release date and custody level. An incarcerated individual shall not be precluded from participating in an education or work program solely on the basis of his or her release date, except that incarcerated individuals with a release date of more than one hundred twenty months in the future shall not comprise more than ten percent of incarcerated individuals participating in a new class I correctional industry not in existence on June 10, 2004;
 
-... An inmate's education history and basic academic skills;
+... An incarcerated individual's education history and basic academic skills;
 
-... An inmate's work history and vocational or work skills;
+... An incarcerated individual's work history and vocational or work skills;
 
-... An inmate's economic circumstances, including but not limited to an inmate's family support obligations; and
+... An incarcerated individual's economic circumstances, including but not limited to an incarcerated individual's family support obligations; and
 
-.. Where applicable, an inmate's prior performance in department-approved education or work programs;
+.. Where applicable, an incarcerated individual's prior performance in department-approved education or work programs;
 
-.. The department shall establish, and periodically review, inmate behavior standards and program goals for all education and work programs. Inmates shall be notified of applicable behavior standards and program goals prior to placement in an education or work program and shall be removed from the education or work program if they consistently fail to meet the standards or goals.
+.. The department shall establish, and periodically review, incarcerated individual behavior standards and program outcomes for all education and work programs. Incarcerated individuals shall be notified of applicable behavior standards and program goals prior to placement in an education or work program and shall be removed from the education or work program if they consistently fail to meet the standards or outcomes.
 
-. Eligible inmates who refuse to participate in available education or work programs available at no charge to the inmates shall lose privileges according to the system established under RCW 72.09.130. Eligible inmates who are required to contribute financially to an education or work program and refuse to contribute shall be placed in another work program. Refusal to contribute shall not result in a loss of privileges.
+. Eligible incarcerated individuals who refuse to participate in available education or work programs available at no charge to the incarcerated individuals shall lose privileges according to the system established under RCW 72.09.130. Eligible incarcerated individuals who are required to contribute financially to an education or work program and refuse to contribute shall be placed in another work program. Refusal to contribute shall not result in a loss of privileges.
 
-. The department shall establish, by rule, objective medical standards to determine when an inmate is physically or mentally unable to participate in available education or work programs. When the department determines an inmate is permanently unable to participate in any available education or work program due to a health condition, the inmate is exempt from the requirement under subsection (2) of this section. When the department determines an inmate is temporarily unable to participate in an education or work program due to a medical condition, the inmate is exempt from the requirement of subsection (2) of this section for the period of time he or she is temporarily disabled. The department shall periodically review the medical condition of all inmates with temporary disabilities to ensure the earliest possible entry or reentry by inmates into available programming.
+. The department shall establish, by rule, a process for identifying and assessing incarcerated individuals with learning disabilities, traumatic brain injuries, and other cognitive impairments to determine whether the person requires accommodations in order to effectively participate in educational programming, including general educational development tests and postsecondary education. The department shall establish a process to provide such accommodations to eligible incarcerated individuals.
 
-. The department shall establish policies requiring an offender to pay all or a portion of the costs and tuition for any vocational training or postsecondary education program if the offender previously abandoned coursework related to associate degree education or vocational training without excuse as defined in rule by the department. Department policies shall include a formula for determining how much an offender shall be required to pay. The formula shall include steps which correlate to an offender average monthly income or average available balance in a personal inmate savings account and which are correlated to a prorated portion or percent of the per credit fee for tuition, books, or other ancillary costs. The formula shall be reviewed every two years. A third party may pay directly to the department all or a portion of costs and tuition for any program on behalf of an inmate under this subsection. Such payments shall not be subject to any of the deductions as provided in this chapter.
+. The department shall establish, and periodically review, goals for expanding access to postsecondary degree and certificate education programs and program completion for all incarcerated individuals, including persons of color. The department may contract and partner with any accredited educational program sponsored by a nonprofit entity, community-based postsecondary education program, or institution with historical evidence of providing education programs to people of color.
 
-. Notwithstanding any other provision in this section, an inmate sentenced to life without the possibility of release, sentenced to death under chapter 10.95 RCW, or subject to the provisions of 8 U.S.C. Sec. 1227:
+. The department shall establish, by rule, objective medical standards to determine when an incarcerated individual is physically or mentally unable to participate in available education or work programs. When the department determines an incarcerated individual is permanently unable to participate in any available education or work program due to a health condition, the incarcerated individual is exempt from the requirement under subsection (2) of this section. When the department determines an incarcerated individual is temporarily unable to participate in an education or work program due to a medical condition, the incarcerated individual is exempt from the requirement of subsection (2) of this section for the period of time he or she is temporarily disabled. The department shall periodically review the medical condition of all incarcerated individuals with temporary disabilities to ensure the earliest possible entry or reentry by incarcerated individuals into available programming.
+
+. The department shall establish policies requiring an incarcerated individual to pay all or a portion of the costs and tuition for any vocational training or postsecondary education program if the incarcerated individual previously abandoned coursework related to postsecondary degree or certificate education or vocational training without excuse as defined in rule by the department. Department policies shall include a formula for determining how much an incarcerated individual shall be required to pay. The formula shall include steps which correlate to an incarcerated individual's average monthly income or average available balance in a personal savings account and which are correlated to a prorated portion or percent of the per credit fee for tuition, books, or other ancillary costs. The formula shall be reviewed every two years. A third party may pay directly to the department all or a portion of costs and tuition for any program on behalf of an incarcerated individual under this subsection. Such payments shall not be subject to any of the deductions as provided in this chapter.
+
+. Notwithstanding any other provision in this section, an incarcerated individual sentenced to death under chapter 10.95 RCW or subject to the provisions of 8 U.S.C. Sec. 1227:
 
 .. Shall not be required to participate in education programming except as may be necessary for the maintenance of discipline and security;
 
-.. May not participate in an associate degree education program offered by the department or its contracted providers;
+.. May not participate in a postsecondary degree education program offered by the department or its contracted providers, unless the incarcerated individual's participation in the program is paid for by a third party or by the individual;
 
 .. May participate in prevocational or vocational training that may be necessary to participate in a work program;
 
-.. Shall be subject to the applicable provisions of this chapter relating to inmate financial responsibility for programming.
+.. Shall be subject to the applicable provisions of this chapter relating to incarcerated individual financial responsibility for programming.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5069-S.SL.pdf?cite=2017%20c%20120%20§%203[2017 c 120 § 3]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1686-S.SL.pdf?cite=2013%20c%2039%20§%2024[2013 c 39 § 24]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6157-S.SL.pdf?cite=2007%20c%20483%20§%20402[2007 c 483 § 402]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6489-S2.SL.pdf?cite=2004%20c%20167%20§%205[2004 c 167 § 5]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6600-S.SL.pdf?cite=1998%20c%20244%20§%2010[1998 c 244 § 10]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/3900-S3.SL.pdf?cite=1997%20c%20338%20§%2043[1997 c 338 § 43]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2010-S2.SL.pdf?cite=1995%201st%20sp.s.%20c%2019%20§%205[1995 1st sp.s. c 19 § 5]; ]
+. If an incarcerated individual has participated in postsecondary education programs, the department shall provide the incarcerated individual with a copy of the incarcerated individual's unofficial transcripts, at no cost to the individual, upon the incarcerated individual's release or transfer to a different facility. Upon the incarcerated individual's completion of a postsecondary education program, the department shall provide to the incarcerated individual, at no cost to the individual, a copy of the incarcerated individual's unofficial transcripts. This requirement applies regardless of whether the incarcerated individual became ineligible to participate in or abandoned a postsecondary education program.
 
-== 72.09.465 - Associate degree education programs.
-. The department may implement associate degree education programs at state correctional institutions. During the 2015-2017 fiscal biennium, the department may implement postsecondary degree programs within state institutions, including the state correctional institution with the largest population of females, within its existing funds and under the limitations in this section, to include any funding provided under subsection (3) of this section. The department may consider for inclusion in any associate degree education program, any education program from an accredited community or technical college, college, or university that is part of an associate workforce degree program designed to prepare the inmate to enter the workforce.
+. For the purposes of this section, "third party" includes a nonprofit entity or community-based postsecondary education program that partners with the department to provide accredited postsecondary education degree and certificate programs at state correctional facilities.
 
-. Inmates not meeting the department's priority criteria for the state-funded associate degree education program shall be required to pay the costs for participation in a postsecondary education degree program if he or she elects to participate through self-pay, including costs of books, fees, tuition, or any other appropriate ancillary costs, by one or more of the following means:
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1044-S2.SL.pdf?cite=2021%20c%20200%20§%204[2021 c 200 § 4]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5069-S.SL.pdf?cite=2017%20c%20120%20§%203[2017 c 120 § 3]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1686-S.SL.pdf?cite=2013%20c%2039%20§%2024[2013 c 39 § 24]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6157-S.SL.pdf?cite=2007%20c%20483%20§%20402[2007 c 483 § 402]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6489-S2.SL.pdf?cite=2004%20c%20167%20§%205[2004 c 167 § 5]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6600-S.SL.pdf?cite=1998%20c%20244%20§%2010[1998 c 244 § 10]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/3900-S3.SL.pdf?cite=1997%20c%20338%20§%2043[1997 c 338 § 43]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2010-S2.SL.pdf?cite=1995%201st%20sp.s.%20c%2019%20§%205[1995 1st sp.s. c 19 § 5]; ]
 
-.. The inmate who is participating in the postsecondary education degree program may, during confinement, provide the required payment or payments to the department; or
+== 72.09.465 - Postsecondary degree education programs.
+. [Empty]
+.. The department may implement postsecondary degree or certificate education programs at state correctional institutions.
 
-.. A third party shall provide the required payment or payments directly to the department on behalf of an inmate, and such payments shall not be subject to any of the deductions as provided in this chapter.
+.. The department may consider for inclusion in any postsecondary degree or certificate education program, any education program from an accredited community or technical college, college, or university that is limited to no more than a bachelor's degree. Washington state-recognized preapprenticeship programs may also be included as appropriate postsecondary education programs.
 
-. The department may accept any and all donations and grants of money, equipment, supplies, materials, and services from any third party, including but not limited to nonprofit entities, and may receive, utilize, and dispose of same to provide postsecondary education to inmates.
+. Incarcerated individuals not meeting the department's priority criteria for the state-funded postsecondary degree education program shall be required to pay the costs for participation in a postsecondary education degree program if he or she elects to participate through self-pay, including costs of books, fees, tuition, or any other appropriate ancillary costs, by one or more of the following means:
 
-. An inmate may be selected to participate in a state-funded associate degree education program, based on priority criteria determined by the department, in which the following conditions may be considered:
+.. The incarcerated individual who is participating in the postsecondary education degree program may, during confinement, provide the required payment or payments to the department; or
 
-.. Priority should be given to inmates within five years or less of release;
+.. A third party shall provide the required payment or payments directly to the department on behalf of an incarcerated individual, and such payments shall not be subject to any of the deductions as provided in this chapter.
 
-.. The inmate does not already possess a postsecondary education degree; and
+. The department may accept any and all donations and grants of money, equipment, supplies, materials, and services from any third party, including but not limited to nonprofit entities, and may receive, utilize, and dispose of same to provide postsecondary education to incarcerated individuals.
 
-.. The inmate's individual reentry plan includes participation in an associate degree education program that is:
+. An incarcerated individual may be selected to participate in a state-funded postsecondary degree or certificate education program, based on priority criteria determined by the department, in which the following conditions may be considered:
 
-... Offered at the inmate's state correctional institution;
+.. Priority should be given to incarcerated individuals who do not already possess a postsecondary education degree; and
+
+.. Incarcerated individuals with individual reentry plans that include participation in a postsecondary degree or certificate education program that is:
+
+... Offered at the incarcerated individual's state correctional institution;
 
 ... Approved by the department as an eligible and effective postsecondary education degree program; and
 
-... Limited to an associate workforce degree.
+... Limited to a postsecondary degree or certificate program.
 
-. During the 2015-2017 fiscal biennium, an inmate may be selected to participate in a state-funded postsecondary education degree program, based on priority criteria determined by the department, in which the following conditions may be considered:
+. The department shall work with the college board as defined in RCW 28B.50.030 to develop a plan to assist incarcerated individuals selected to participate in postsecondary degree or certificate programs with filing a free application for federal student aid or the Washington application for state financial aid.
 
-.. Priority should be given to inmates within five years of release;
+. Any funds collected by the department under this section shall be used solely for the creation, maintenance, or expansion of postsecondary education degree programs for incarcerated individuals.
 
-.. The inmate does not already possess a postsecondary education degree; and
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1044-S2.SL.pdf?cite=2021%20c%20200%20§%205[2021 c 200 § 5]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5069-S.SL.pdf?cite=2017%20c%20120%20§%204[2017 c 120 § 4]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2376-S.SL.pdf?cite=2016%20sp.s.%20c%2036%20§%20946[2016 sp.s. c 36 § 946]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6157-S.SL.pdf?cite=2007%20c%20483%20§%20403[2007 c 483 § 403]; ]
 
-.. The inmate's individual reentry plan includes participation in a postsecondary education degree program that is:
+== 72.09.467 - Postsecondary degree education programs—Reports to the legislature.
+. The department, the state board for community and technical colleges, the student achievement council, and the Washington statewide reentry council, in collaboration with an organization representing the presidents of the public four-year institutions of higher education, shall submit a combined report, pursuant to RCW 43.01.036, by December 1, 2021, and annually thereafter, to the appropriate committees of the legislature having oversight over higher education issues and correctional matters. The state agencies shall consult and engage with nonprofit and community-based postsecondary education providers during the development of the annual report.
 
-... Offered at the inmate's state correctional institution; and
+. At a minimum, the combined report must include:
 
-... Approved by the department as an eligible and effective postsecondary education degree program.
+.. The number of incarcerated individuals served in the department's postsecondary education system, the number of individuals not served, the number of individuals leaving the department's custody without a high school equivalency who were in the department's custody longer than one year, and the number of individuals released without any postsecondary education, each disaggregated by demographics;
 
-. Any funds collected by the department under this section shall be used solely for the creation, maintenance, or expansion of inmate postsecondary education degree programs.
+.. A review of the department's identification and assessment of incarcerated individuals with learning disabilities, traumatic brain injuries, and other cognitive impairments or disabilities that may limit their ability to participate in educational programming, including general educational development testing and postsecondary education. The report shall identify barriers to the identification and assessment of these individuals and include recommendations that will further facilitate access to educational programming for these individuals;
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5069-S.SL.pdf?cite=2017%20c%20120%20§%204[2017 c 120 § 4]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2376-S.SL.pdf?cite=2016%20sp.s.%20c%2036%20§%20946[2016 sp.s. c 36 § 946]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6157-S.SL.pdf?cite=2007%20c%20483%20§%20403[2007 c 483 § 403]; ]
+.. An identification of issues related to ensuring that credits earned in credit-bearing courses are transferable. The report must also include the number of transferable credits awarded and the number of credits awarded that are not transferable;
+
+.. A review of policies on transfer, in order to create recommendations to institutions and the legislature that to ensure postsecondary education credits earned while incarcerated transfer seamlessly upon postrelease enrollment in a postsecondary education institution. The review must identify barriers or challenges on transferring credits experienced by individuals and the number of credits earned while incarcerated that transferred to the receiving colleges postrelease;
+
+.. The number of individuals participating in correspondence courses and completion rates of correspondence courses, disaggregated by demographics;
+
+.. An examination of the collaboration between correctional facilities, the educational programs, nonprofit and community-based postsecondary education providers, and the institutions, with the goal of ensuring that roles and responsibilities are clearly defined, including the roles and responsibilities of each entity in relation to ensuring incarcerated individual access to, and accommodations in, educational programming; and
+
+.. A review of the partnerships with nonprofit and community-based postsecondary education organizations at state correctional facilities that provide accredited certificate and degree-granting programs and those that provide reentry services in support of educational programs and goals, including a list of the programs and services offered and recommendations to improve program delivery and access.
+
+. The report shall strive to include, where possible, the voices and experiences of current or formerly incarcerated individuals.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1044-S2.SL.pdf?cite=2021%20c%20200%20§%208[2021 c 200 § 8]; ]
+
+== 72.09.469 - Postsecondary degree education programs—Study. (Expires January 1, 2029.)
+. [Empty]
+.. Subject to the availability of amounts appropriated for this specific purpose, the Washington state institute for public policy shall study enrollment, completion, and recidivism rates of incarcerated individuals in the postsecondary education system postrelease.
+
+.. The goal of the study is to understand whether participation in postsecondary education while incarcerated contributes to greater enrollment and completion of postsecondary education and reduced recidivism postrelease. The scope of the study shall focus on postrelease enrollment and completion trends in the community and technical college sector for formerly incarcerated individuals of all ages. The timeline of the study may include data from 2015 to the present, to the extent possible. The study's findings shall be divided into a preliminary and final report. The reports shall complement similar studies conducted at the University of Washington or elsewhere. To the extent that it is not duplicative of other studies, the Washington state institute for public policy shall study the following:
+
+... For the preliminary report, which is due October 1, 2024:
+
+(A) Patterns and any effects on postrelease enrollment and participation in the community and technical college system by individuals who, while incarcerated, participated in postsecondary education programs, including those individuals that completed some coursework but did not earn a degree or certificate; and
+
+(B) Differential outcomes for individuals participating in different types of postsecondary education courses, certificate programs, and degree programs.
+
+... For the final report, which is due October 1, 2027, a continuation of the preliminary report in addition to:
+
+(A) Changes in enrollment and completion of postsecondary education courses, certificate programs, and degree programs due to the changes and expansion of educational programming in chapter 200, Laws of 2021, to the extent possible; and
+
+(B) Recidivism outcomes beyond incarceration for those incarcerated individuals that participated in postsecondary certificate and degree programs while incarcerated, including arrests, charges, and convictions.
+
+... The preliminary and final reports shall be submitted to the appropriate committees of the legislature and in accordance with RCW 43.01.036.
+
+... The department of corrections, the student achievement council, the state board for community and technical colleges, and the education research and data center shall provide data necessary to conduct the study.
+
+. This section expires January 1, 2029.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1044-S2.SL.pdf?cite=2021%20c%20200%20§%202[2021 c 200 § 2]; ]
 
 == 72.09.470 - Inmate contributions for cost of privileges—Standards.
 To the greatest extent practical, all inmates shall contribute to the cost of privileges. The department shall establish standards by which inmates shall contribute a portion of the department's capital costs of providing privileges, including television cable access, extended family visitation, weight lifting, and other recreational sports equipment and supplies. The standards shall also require inmates to contribute a significant portion of the department's operating costs directly associated with providing privileges, including staff and supplies. Inmate contributions may be in the form of individual user fees assessed against an inmate's institution account, deductions from an inmate's gross wages or gratuities, or inmates' collective contributions to the institutional welfare/betterment fund. The department shall make every effort to maximize individual inmate contributions to payment for privileges. The department shall not limit inmates' financial support for privileges to contributions from the institutional welfare/betterment fund. The standards shall consider the assets available to the inmates, the cost of administering compliance with the contribution requirements, and shall promote a responsible work ethic.
@@ -1374,7 +1427,7 @@ The department shall investigate any alleged violations of RCW 9A.44.160 or 9A.4
 
 .. Recommendations for how video monitoring cameras would best be deployed in current total confinement correctional facilities;
 
-.. Recommendations about how video monitoring cameras should be incorporated into future prison construction to insure consistency in camera use system-wide;
+.. Recommendations about how video monitoring cameras should be incorporated into future prison construction to insure consistency in camera use systemwide;
 
 .. The estimated cost of the video monitoring cameras, supporting infrastructure needed, and staffing required by the total confinement correctional facility.
 
@@ -1414,7 +1467,7 @@ Information regarding witnesses requesting the notice, information regarding any
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2719.SL.pdf?cite=2008%20c%20231%20§%2026[2008 c 231 § 26]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%2061[2003 c 53 § 61]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2339-S.SL.pdf?cite=1996%20c%20205%20§%204[1996 c 205 § 4]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5128-S.SL.pdf?cite=1991%20c%20147%20§%201[1991 c 147 § 1]; ]
 
-== 72.09.712 - Prisoner escape, parole, release, community custody or work release placement, or furlough—Notification procedures.
+== 72.09.712 - Prisoner escape, parole, release, community custody or work release placement, or furlough—Notification procedures. (Effective until July 1, 2022.)
 . At the earliest possible date, and in no event later than thirty days before release except in the event of escape or emergency furloughs as defined in RCW 72.66.010, the department of corrections shall send written notice of parole, release, community custody, work release placement, furlough, or escape about a specific inmate convicted of a violent offense, a sex offense as defined by RCW 9.94A.030, a domestic violence court order violation pursuant to RCW 10.99.040, 10.99.050, 26.09.300, * 26.10.220, 26.26B.050, 26.50.110, 26.52.070, or 74.34.145, or a felony harassment offense as defined by RCW 9A.46.060 or 9A.46.110, to the following:
 
 .. The chief of police of the city, if any, in which the inmate will reside or in which placement will be made in a work release program; and
@@ -1468,7 +1521,7 @@ Information regarding victims, next of kin, or witnesses requesting the notice, 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1076.SL.pdf?cite=2009%20c%2069%20§%201[2009 c 69 § 1]; ]
 
-== 72.09.714 - Prisoner escape, release, or furlough—Homicide, violent, and sex offenses—Rights of victims and witnesses.
+== 72.09.714 - Prisoner escape, release, or furlough—Homicide, violent, and sex offenses—Rights of victims and witnesses. (Effective until July 1, 2022.)
 The department of corrections shall provide the victims, witnesses, and next of kin in the case of a homicide and victims and witnesses involved in violent offense cases, sex offenses as defined by RCW 9.94A.030, a domestic violence court order violation pursuant to RCW 10.99.040, 10.99.050, 26.09.300, * 26.10.220, 26.26B.050, 26.50.110, 26.52.070, or 74.34.145, or a felony harassment pursuant to RCW 9A.46.060 or 9A.46.110, a statement of the rights of victims and witnesses to request and receive notification under RCW 72.09.712 and 72.09.716.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5333-S.SL.pdf?cite=2019%20c%2046%20§%205044[2019 c 46 § 5044]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1790.SL.pdf?cite=2009%20c%20400%20§%202[2009 c 400 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5190-S.SL.pdf?cite=2009%20c%2028%20§%2037[2009 c 28 § 37]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c30.pdf?cite=1989%20c%2030%20§%202[1989 c 30 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c346.pdf?cite=1985%20c%20346%20§%202[1985 c 346 § 2]; ]
@@ -1541,9 +1594,9 @@ The department of corrections shall, to the extent that resources are available 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6476-S.SL.pdf?cite=2020%20c%20319%20§%203[2020 c 319 § 3]; ]
 
 == 72.09.765 - Inmate access to telecommunication services—Contracting—Reporting.
-. Any contract to provide inmates with access to telecommunication services and electronic media services in state correctional facilities shall be made publicly available and posted on the department's web site.
+. Any contract to provide inmates with access to telecommunication services and electronic media services in state correctional facilities shall be made publicly available and posted on the department's website.
 
-. The information in this subsection from the contract shall be prominently displayed on the department's public web site:
+. The information in this subsection from the contract shall be prominently displayed on the department's public website:
 
 .. Rates for facilitating telecommunication services including, but not limited to, phone calls, video visitation, videograms and video clips, emails, and accessing music and entertainment;
 
@@ -1572,6 +1625,39 @@ The department of corrections shall, to the extent that resources are available 
 . This section applies to any contract in effect on June 11, 2020, and to any renegotiation, renewal, or extension of such contract.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6476-S.SL.pdf?cite=2020%20c%20319%20§%204[2020 c 319 § 4]; ]
+
+== 72.09.770 - Unexpected fatality review—Records—Discovery.
+. [Empty]
+.. The department shall conduct an unexpected fatality review in any case in which the death of an incarcerated individual is unexpected, or any case identified by the office of the corrections ombuds for review.
+
+.. The department shall convene an unexpected fatality review team and determine the membership of the review team. The team shall comprise of individuals with appropriate expertise including, but not limited to, individuals whose professional expertise is pertinent to the dynamics of the case. The unexpected fatality review team shall include the office of the corrections ombuds or the ombuds' designee, and a representative from the department of health. The department shall ensure that the unexpected fatality review team is made up of individuals who had no previous involvement in the case.
+
+.. The primary purpose of the unexpected fatality review shall be the development of recommendations to the department and legislature regarding changes in practices or policies to prevent fatalities and strengthen safety and health protections for prisoners in the custody of the department.
+
+.. Upon conclusion of an unexpected fatality review required pursuant to this section, the department shall, within 120 days following the fatality, issue a report on the results of the review, unless an extension has been granted by the governor. Reports must be distributed to the appropriate committees of the legislature, and the department shall create a public website where all unexpected fatality review reports required under this section must be posted and maintained. An unexpected fatality review report completed pursuant to this section is subject to public disclosure and must be posted on the public website, except that confidential information may be redacted by the department consistent with the requirements of applicable state and federal laws.
+
+.. Within 10 days of completion of an unexpected fatality review under this section, the department shall develop an associated corrective action plan to implement any recommendations made by the review team in the unexpected fatality review report. Corrective action plans shall be implemented within 120 days, unless an extension has been granted by the governor. Corrective action plans are subject to public disclosure, and must be posted on the department's website in accordance with (d) of this subsection, except that confidential information may be redacted by the department consistent with the requirements of applicable state and federal laws.
+
+.. The department shall develop and implement procedures to carry out the requirements of this section.
+
+. In any review of an unexpected fatality, the department and the unexpected fatality review team shall have access to all records and files regarding the person or otherwise relevant to the review that have been produced or retained by the agency.
+
+. [Empty]
+.. An unexpected fatality review completed pursuant to this section is subject to discovery in a civil or administrative proceeding, but may not be admitted into evidence or otherwise used in a civil or administrative proceeding except pursuant to this section.
+
+.. A department employee responsible for conducting an unexpected fatality review, or member of an unexpected fatality review team, may not be examined in a civil or administrative proceeding regarding: (i) The work of the unexpected fatality review team; (ii) the incident under review; (iii) his or her statements, deliberations, thoughts, analyses, or impressions relating to the work of the unexpected fatality review team or the incident under review; or (iv) the statements, deliberations, thoughts, analyses, or impressions of any other member of the unexpected fatality review team, or any person who provided information to the unexpected fatality review team relating to the work of the unexpected fatality review team or the incident under review.
+
+.. Documents prepared by or for an unexpected fatality review team are inadmissible and may not be used in a civil or administrative proceeding, except that any document that exists before its use or consideration in an unexpected fatality review, or that is created independently of such review, does not become inadmissible merely because it is reviewed or used by an unexpected fatality review team. A person is not unavailable as a witness merely because the person has been interviewed by, or has provided a statement for, an unexpected fatality review, but if the person is called as a witness, the person may not be examined regarding the person's interactions with the unexpected fatality review including, without limitation, whether the person was interviewed during such review, the questions that were asked during such review, and the answers that the person provided during such review. This section may not be construed as restricting the person from testifying fully in any proceeding regarding his or her knowledge of the incident under review.
+
+.. The restrictions set forth in this section do not apply in a licensing or disciplinary proceeding arising from an agency's effort to revoke or suspend the license of any licensed professional based in whole or in part upon allegations of wrongdoing in connection with an unexpected fatality reviewed by an unexpected fatality review team.
+
+. For the purposes of this section:
+
+.. "Unexpected fatality review" means a review of any death that was not the result of a diagnosed or documented terminal illness or other debilitating or deteriorating illness or condition where the death was anticipated, and includes the death of any person under the jurisdiction of the department, regardless of where the death actually occurred. A review must include an analysis of the root cause or causes of the unexpected fatality, and an associated corrective action plan for the department to address identified root causes and recommendations made by the unexpected fatality review team under this section.
+
+.. "Jurisdiction of the department" does not include persons on community custody under the supervision of the department.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5119-S.SL.pdf?cite=2021%20c%20139%20§%201[2021 c 139 § 1]; ]
 
 == 72.09.900 - Effective date—1981 c 136.
 This act is necessary for the immediate preservation of the public peace, health, and safety, the support of the state government and its existing public institutions, and shall take effect July 1, 1981.

@@ -9,7 +9,7 @@
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2282-S.SL.pdf?cite=2018%20c%205%20§%202[2018 c 5 § 2]; ]
 
 == 19.385.020 - Provider disclosures—Definitions.
-. Any person providing broadband internet access service in Washington state shall publicly disclose accurate information regarding the network management practices, performance characteristics, and commercial terms of its broadband internet access services sufficient to enable consumers to make informed choices regarding the purchase and use of such services and entrepreneurs and other small businesses to develop, market, and maintain internet offerings. The disclosure must be made via a publicly available, easily accessible web site.
+. Any person providing broadband internet access service in Washington state shall publicly disclose accurate information regarding the network management practices, performance characteristics, and commercial terms of its broadband internet access services sufficient to enable consumers to make informed choices regarding the purchase and use of such services and entrepreneurs and other small businesses to develop, market, and maintain internet offerings. The disclosure must be made via a publicly available, easily accessible website.
 
 . A person engaged in the provision of broadband internet access service in Washington state, insofar as the person is so engaged, may not:
 

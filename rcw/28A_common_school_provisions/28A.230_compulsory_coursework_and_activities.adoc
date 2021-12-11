@@ -64,7 +64,7 @@ All high schools of the state shall emphasize the work of physical education, an
 
 .. An indication of whether the district routinely excludes students from physical education classes for disciplinary reasons.
 
-. The results of the review required by this section must be submitted by the school district to the district's wellness committee and to the office of the superintendent of public instruction. The office of the superintendent of public instruction, upon receipt of the review data, must aggregate and analyze the data, summarize the information provided by each district, and post the summarized information, by district, on its web site.
+. The results of the review required by this section must be submitted by the school district to the district's wellness committee and to the office of the superintendent of public instruction. The office of the superintendent of public instruction, upon receipt of the review data, must aggregate and analyze the data, summarize the information provided by each district, and post the summarized information, by district, on its website.
 
 . In fulfilling the requirements of this section, the K-12 data governance group established under RCW 28A.300.507 shall develop the data protocols and guidance for school districts in the collection of data to provide a clearer understanding of physical education instructional minutes and certification.
 
@@ -103,8 +103,8 @@ Students in the twelfth grade who have not completed a course of study in Washin
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c33.pdf?cite=1990%20c%2033%20§%20238[1990 c 33 § 238]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c489.pdf?cite=1987%20c%20489%20§%206[1987 c 489 § 6]; ]
 
-== 28A.230.085 - Curriculum for prevention of sexual abuse on superintendent's web site.
-Subject to the availability of amounts appropriated for this specific purpose, the office of the superintendent of public instruction shall make the curriculum included under RCW 28A.300.160(1)(b) available on its web site.
+== 28A.230.085 - Curriculum for prevention of sexual abuse on superintendent's website.
+Subject to the availability of amounts appropriated for this specific purpose, the office of the superintendent of public instruction shall make the curriculum included under RCW 28A.300.160(1)(b) available on its website.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1539-S.SL.pdf?cite=2018%20c%2064%20§%204[2018 c 64 § 4]; ]
 
@@ -161,7 +161,7 @@ Subject to the availability of amounts appropriated for this specific purpose, t
 .. Any decision on whether a student has met the state board's high school graduation requirements for a high school and beyond plan shall remain at the local level. Effective with the graduating class of 2015, the state board of education may not establish a requirement for students to complete a culminating project for graduation. A district may establish additional, local requirements for a high school and beyond plan to serve the needs and interests of its students and the purposes of this section.
 
 .. [Empty]
-... The state board of education shall adopt rules to implement the career and college ready graduation requirement proposal adopted under board resolution on November 10, 2010, and revised on January 9, 2014, to take effect beginning with the graduating class of 2019 or as otherwise provided in this subsection (1)(e). The rules must include authorization for a school district to waive up to two credits for individual students based on a student's circumstances, provided that none of the waived credits are identified as mandatory core credits by the state board of education. School districts must adhere to written policies authorizing the waivers that must be adopted by each board of directors of a school district that grants diplomas. The rules must also provide that the content of the third credit of mathematics and the content of the third credit of science may be chosen by the student based on the student's interests and high school and beyond plan with agreement of the student's parent or guardian or agreement of the school counselor or principal.
+... The state board of education shall adopt rules to implement the career and college ready graduation requirement proposal adopted under board resolution on November 10, 2010, and revised on January 9, 2014, to take effect beginning with the graduating class of 2019 or as otherwise provided in this subsection (1)(e). The rules must include authorization for a school district to waive up to two credits for individual students based on a student's circumstances, provided that none of the waived credits are identified as mandatory core credits by the state board of education. School districts must adhere to written policies authorizing the waivers that must be adopted by each board of directors of a school district that grants diplomas. The rules must also provide that the content of the third credit of mathematics and the content of the third credit of science may be chosen by the student based on the student's interests and high school and beyond plan with agreement of the student's parent or guardian or agreement of the school counselor or principal, or as provided in RCW 28A.230.300(4).
 
 ... School districts may apply to the state board of education for a waiver to implement the career and college ready graduation requirement proposal beginning with the graduating class of 2020 or 2021 instead of the graduating class of 2019. In the application, a school district must describe why the waiver is being requested, the specific impediments preventing timely implementation, and efforts that will be taken to achieve implementation with the graduating class proposed under the waiver. The state board of education shall grant a waiver under this subsection (1)(e) to an applying school district at the next subsequent meeting of the board after receiving an application.
 
@@ -186,10 +186,10 @@ Subject to the availability of amounts appropriated for this specific purpose, t
 
 . At the college or university level, five quarter or three semester hours equals one high school credit.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6141-S.SL.pdf?cite=2020%20c%20307%20§%206[2020 c 307 § 6]; 2020 c 7 § 11; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1599-S2.SL.pdf?cite=2019%20c%20252%20§%20103[2019 c 252 § 103]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2686-S.SL.pdf?cite=2018%20c%20229%20§%201[2018 c 229 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2224-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2031%20§%204[2017 3rd sp.s. c 31 § 4]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2360.SL.pdf?cite=2016%20c%20162%20§%202[2016 c 162 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6552-S2.SL.pdf?cite=2014%20c%20217%20§%20202[2014 c 217 § 202]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1524-S.SL.pdf?cite=2011%20c%20203%20§%202[2011 c 203 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2261-S.SL.pdf?cite=2009%20c%20548%20§%20111[2009 c 548 § 111]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2132.SL.pdf?cite=2009%20c%20223%20§%202[2009 c 223 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2973-S.SL.pdf?cite=2006%20c%20114%20§%203[2006 c 114 § 3]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1495-S.SL.pdf?cite=2005%20c%20205%20§%203[2005 c 205 § 3]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2195-S.SL.pdf?cite=2004%20c%2019%20§%20103[2004 c 19 § 103]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1202.SL.pdf?cite=1997%20c%20222%20§%202[1997 c 222 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1175.SL.pdf?cite=1993%20c%20371%20§%203[1993 c 371 § 3]; prior:  1992 c 141 § 402; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1664.SL.pdf?cite=1992%20c%2060%20§%201[1992 c 60 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990ex1c9.pdf?cite=1990%201st%20ex.s.%20c%209%20§%20301[1990 1st ex.s. c 9 § 301]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c172.pdf?cite=1988%20c%20172%20§%201[1988 c 172 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c384.pdf?cite=1985%20c%20384%20§%202[1985 c 384 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c278.pdf?cite=1984%20c%20278%20§%206[1984 c 278 § 6]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5299.SL.pdf?cite=2021%20c%20307%20§%202[2021 c 307 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6141-S.SL.pdf?cite=2020%20c%20307%20§%206[2020 c 307 § 6]; 2020 c 7 § 11; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1599-S2.SL.pdf?cite=2019%20c%20252%20§%20103[2019 c 252 § 103]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2686-S.SL.pdf?cite=2018%20c%20229%20§%201[2018 c 229 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2224-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2031%20§%204[2017 3rd sp.s. c 31 § 4]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2360.SL.pdf?cite=2016%20c%20162%20§%202[2016 c 162 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6552-S2.SL.pdf?cite=2014%20c%20217%20§%20202[2014 c 217 § 202]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1524-S.SL.pdf?cite=2011%20c%20203%20§%202[2011 c 203 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2261-S.SL.pdf?cite=2009%20c%20548%20§%20111[2009 c 548 § 111]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2132.SL.pdf?cite=2009%20c%20223%20§%202[2009 c 223 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2973-S.SL.pdf?cite=2006%20c%20114%20§%203[2006 c 114 § 3]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1495-S.SL.pdf?cite=2005%20c%20205%20§%203[2005 c 205 § 3]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2195-S.SL.pdf?cite=2004%20c%2019%20§%20103[2004 c 19 § 103]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1202.SL.pdf?cite=1997%20c%20222%20§%202[1997 c 222 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1175.SL.pdf?cite=1993%20c%20371%20§%203[1993 c 371 § 3]; prior:  1992 c 141 § 402; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1664.SL.pdf?cite=1992%20c%2060%20§%201[1992 c 60 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990ex1c9.pdf?cite=1990%201st%20ex.s.%20c%209%20§%20301[1990 1st ex.s. c 9 § 301]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c172.pdf?cite=1988%20c%20172%20§%201[1988 c 172 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c384.pdf?cite=1985%20c%20384%20§%202[1985 c 384 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c278.pdf?cite=1984%20c%20278%20§%206[1984 c 278 § 6]; ]
 
 == 28A.230.091 - High school and beyond plans—Best practices.
-Subject to the availability of amounts appropriated for this specific purpose, the office of the superintendent of public instruction shall work with school districts, including teachers, principals, and school counselors, educational service districts, the Washington state school directors' association, institutions of higher education as defined in RCW 28B.10.016, students, and parents and guardians to identify best practices for high school and beyond plans that districts and schools may employ when complying with high school and beyond plan requirements adopted in accordance with RCW 28A.230.090. The identified best practices, which must consider differences in enrollment and other factors that distinguish districts from one another, must be posted on the web site of the office of the superintendent of public instruction by September 1, 2019, and may be revised periodically as necessary.
+Subject to the availability of amounts appropriated for this specific purpose, the office of the superintendent of public instruction shall work with school districts, including teachers, principals, and school counselors, educational service districts, the Washington state school directors' association, institutions of higher education as defined in RCW 28B.10.016, students, and parents and guardians to identify best practices for high school and beyond plans that districts and schools may employ when complying with high school and beyond plan requirements adopted in accordance with RCW 28A.230.090. The identified best practices, which must consider differences in enrollment and other factors that distinguish districts from one another, must be posted on the website of the office of the superintendent of public instruction by September 1, 2019, and may be revised periodically as necessary.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2686-S.SL.pdf?cite=2018%20c%20229%20§%202[2018 c 229 § 2]; ]
 
@@ -215,7 +215,7 @@ Subject to the availability of amounts appropriated for this specific purpose, t
 
 .. The importance in a free society of living the basic values and character traits specified in RCW 28A.150.211.
 
-. By September 1, 2020, the office of the superintendent of public instruction, in collaboration with the Washington state association of county auditors and a 501(c)(3) nonprofit organization engaged in voter outreach and increasing voter participation, shall identify and make available civics materials and resources for use in courses under this section. The materials and resources must be posted on the office of the superintendent of public instruction's web site.
+. By September 1, 2020, the office of the superintendent of public instruction, in collaboration with the Washington state association of county auditors and a 501(c)(3) nonprofit organization engaged in voter outreach and increasing voter participation, shall identify and make available civics materials and resources for use in courses under this section. The materials and resources must be posted on the office of the superintendent of public instruction's website.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6313.SL.pdf?cite=2020%20c%20208%20§%209[2020 c 208 § 9]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1896-S2.SL.pdf?cite=2018%20c%20127%20§%202[2018 c 127 § 2]; ]
 
@@ -441,7 +441,18 @@ Any compliance reporting requirements as a result of laws in this chapter that a
 
 .. Course equivalency requirements adopted by the office of the superintendent of public instruction to implement this section.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5088.SL.pdf?cite=2019%20c%20180%20§%202[2019 c 180 § 2]; ]
+. [Empty]
+.. For purposes of meeting graduation requirements under RCW 28A.230.090, a student may substitute a computer science course aligned to state computer science learning standards as an alternative to a third year mathematics or third year science course if:
+
+... Prior to the substitution, the school counselor provides the student and the student's parent or guardian with written notification of the consequences of the substitution on postsecondary opportunities;
+
+... The student, the student's parent or guardian, and the student's school counselor or principal agree to the substitution; and
+
+... The substitution is aligned with the student's high school and beyond plan.
+
+.. A substitution permitted under this subsection (4) may only be used once per student.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5299.SL.pdf?cite=2021%20c%20307%20§%201[2021 c 307 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5088.SL.pdf?cite=2019%20c%20180%20§%202[2019 c 180 § 2]; ]
 
 == 28A.230.310 - Financial aid advising day.
 . [Empty]
@@ -466,4 +477,56 @@ Any compliance reporting requirements as a result of laws in this chapter that a
 . The office of the superintendent of public instruction may adopt rules for the implementation of this section.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6141-S.SL.pdf?cite=2020%20c%20307%20§%204[2020 c 307 § 4]; ]
+
+== 28A.230.320 - Emergency waivers from credit and subject area graduation requirements.
+. Beginning with the class of 2020, the state board of education may authorize school districts to grant individual student emergency waivers from credit and subject area graduation requirements established in RCW 28A.230.090, the graduation pathway requirement established in RCW 28A.655.250, or both if:
+
+.. The student's ability to complete the requirement was impeded due to a significant disruption resulting from a local, state, or national emergency;
+
+.. The school district demonstrates a good faith effort to support the individual student in meeting the requirement before considering an emergency waiver;
+
+.. The student was reasonably expected to graduate in the school year when the emergency waiver is granted; and
+
+.. The student has demonstrated skills and knowledge indicating preparation for the next steps identified in their high school and beyond plan under RCW 28A.230.090 and for success in postsecondary education, gainful employment, and civic engagement.
+
+. A school district that is granted emergency waiver authority under this section shall:
+
+.. Maintain a record of courses and requirements waived as part of the individual student record;
+
+.. Include a notation of waived credits on the student's high school transcript;
+
+.. Maintain records as necessary and as required by rule of the state board of education to document compliance with subsection (1)(b) of this section;
+
+.. Report student level emergency waiver data to the office of the superintendent of public instruction in a manner determined by the superintendent of public instruction in consultation with the state board of education;
+
+.. Determine if there is disproportionality among student subgroups receiving emergency waivers and, if so, take appropriate corrective actions to ensure equitable administration. At a minimum, the subgroups to be examined must include those referenced in RCW 28A.300.042(3). If further disaggregation of subgroups is available, the school district shall also examine those subgroups; and
+
+.. Adopt by resolution a written plan that describes the school district's process for students to request or decline an emergency waiver, and a process for students to appeal within the school district a decision to not grant an emergency waiver.
+
+. [Empty]
+.. By November 1, 2021, and annually thereafter, the office of the superintendent of public instruction shall provide the data reported under subsection (2) of this section to the state board of education.
+
+.. The state board of education, by December 15, 2021, and within existing resources, shall provide the education committees of the legislature with a summary of the emergency waiver data provided by the office of the superintendent of public instruction under this subsection (3) for students in the graduating classes of 2020 and 2021. The summary must include the following information:
+
+... The total number of emergency waivers requested and issued, by school district, including an indication of what requirement or requirements were waived. Information provided in accordance with this subsection [(3)](b)(i) must also indicate the number of students in the school district grade cohort of each student receiving a waiver; and
+
+... An analysis of any concerns regarding school district implementation, including any concerns related to school district demonstrations of good faith efforts as required by subsection (1)(b) of this section, identified by the state board of education during its review of the data.
+
+. The state board of education shall adopt and may periodically revise rules for eligibility and administration of emergency waivers under this section. The rules may include:
+
+.. An application and approval process that allows school districts to apply to the state board of education to receive authority to grant emergency waivers in response to an emergency;
+
+.. Eligibility criteria for meeting the requirements established in subsection (1) of this section;
+
+.. Limitations on the number and type of credits that can be waived; and
+
+.. Expectations of the school district regarding communication with students and their parents or guardians.
+
+. For purposes of this section:
+
+.. "Emergency" has the same meaning as "emergency or disaster" in RCW 38.52.010. "Emergency" may also include a national declaration of emergency by an authorized federal official.
+
+.. "School district" means any school district, charter school established under chapter 28A.710 RCW, tribal compact school operated according to the terms of state-tribal education compacts authorized under chapter 28A.715 RCW, private school, state school established under chapter 72.40 RCW, and community and technical college granting high school diplomas.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1121.SL.pdf?cite=2021%20c%207%20§%202[2021 c 7 § 2]; ]
 

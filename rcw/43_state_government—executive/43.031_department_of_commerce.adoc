@@ -282,7 +282,7 @@ The department is the lead state agency to assist in establishing and improving 
 [ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5591-S2.SL.pdf?cite=1991%20c%20319%20§%20210[1991 c 319 § 210]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c431.pdf?cite=1989%20c%20431%20§%2064[1989 c 431 § 64]; ]
 
 == 43.31.565 - Early learning facilities grant and loan program—Definitions.
-Unless the context clearly requires otherwise, the definitions in this section apply throughout *chapter 12, Laws of 2017 3rd sp. sess.:
+Unless the context clearly requires otherwise, the definitions in this section apply throughout RCW 43.31.567 through 43.31.583:
 
 . "Department" means the department of commerce.
 
@@ -290,7 +290,7 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 . "Early learning facility" means a facility providing regularly scheduled care for a group of children one month of age through twelve years of age for periods of less than twenty-four hours.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1777-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%2012%20§%203[2017 3rd sp.s. c 12 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1370-S.SL.pdf?cite=2021%20c%20130%20§%204[2021 c 130 § 4]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1777-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%2012%20§%203[2017 3rd sp.s. c 12 § 3]; ]
 
 == 43.31.567 - Early learning facilities grant and loan program—Review of existing licensing standards by department of early learning—Preapproval under existing licensing standards.
 The *department of early learning, in consultation with stakeholders, shall review existing licensing standards including, but not limited to, plumbing, fixtures, and playground equipment, related to facility requirements to eliminate potential barriers to licensing while ensuring the health and safety of children in early learning programs. The department must create a process by which projects for eligible organizations and school districts receiving grants or loans from the early learning facilities revolving account or the early learning facilities development account created in RCW 43.31.569 can be preapproved under existing licensing standards related to facility requirements. The licensing standards accepted in the preapproval are the licensing standards that must be met upon project completion.
@@ -308,7 +308,11 @@ The *department of early learning, in consultation with stakeholders, shall revi
 
 . Expenditures from the accounts are subject to appropriation and the allotment provisions of chapter 43.88 RCW.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1777-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%2012%20§%204[2017 3rd sp.s. c 12 § 4]; ]
+. The early learning facilities revolving account shall be known as the Ruth LeCocq Kagi early learning facilities revolving account.
+
+. The early learning facilities development account shall be known as the Ruth LeCocq Kagi early learning facilities development account.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1370-S.SL.pdf?cite=2021%20c%20130%20§%203[2021 c 130 § 3]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1777-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%2012%20§%204[2017 3rd sp.s. c 12 § 4]; ]
 
 == 43.31.571 - Early learning facilities grant and loan program—Oversight, in consultation with the department of children, youth, and families—Head state agency—Use of funds.
 . The department, in consultation with the department of children, youth, and families, shall oversee the early learning facilities revolving account and the early learning facilities development account, and is the lead state agency for the early learning facilities grant and loan program.
@@ -388,19 +392,13 @@ The *department of early learning, in consultation with stakeholders, shall revi
 
 . To be eligible to receive funding from the early learning facilities grant and loan program for activities described in RCW 43.31.577 (1) (b) and (c) and (2), eligible organizations and school districts must:
 
-.. Commit to being an active participant in good standing with the early achievers program as defined by chapter 43.216 RCW;
+.. Commit to being an active participant in good standing with the early achievers program as defined by chapter 43.216 RCW; and
 
-.. Demonstrate that projects receiving construction, purchase, or renovation grants or loans less than two hundred thousand dollars must also:
+.. Demonstrate that projects receiving construction, purchase, or renovation grants or loans must also:
 
 ... Demonstrate that the project site is under the applicant's control for a minimum of ten years, either through ownership or a long-term lease; and
 
-... Commit to using the facility funded by the grant or loan for the purposes of providing preschool or child care for a minimum of ten years;
-
-.. Demonstrate that projects receiving construction, purchase, or renovation grants or loans of two hundred thousand dollars or more must also:
-
-... Demonstrate that the project site is under the applicant's control for a minimum of twenty years, either through ownership or a long-term lease; and
-
-... Commit to using the facility funded by the grant or loan for the purposes of providing preschool or child care for a minimum of twenty years.
+... Commit to using the facility funded by the grant or loan for the purposes of providing preschool or child care for a minimum of ten years.
 
 . To be eligible to receive funding from the early learning facilities grant and loan program for activities described in RCW 43.31.577 (1) (b) and (c) and (2), religiously affiliated entities must use the facility to provide child care and education services consistent with subsection (4)(a) of this section.
 
@@ -411,22 +409,24 @@ The *department of early learning, in consultation with stakeholders, shall revi
 
 .. The department, in consultation with the department of children, youth, and families, must adopt rules to implement this section.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6287.SL.pdf?cite=2018%20c%2058%20§%2018[2018 c 58 § 18]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1777-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%2012%20§%207[2017 3rd sp.s. c 12 § 7]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1370-S.SL.pdf?cite=2021%20c%20130%20§%202[2021 c 130 § 2]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6287.SL.pdf?cite=2018%20c%2058%20§%2018[2018 c 58 § 18]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1777-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%2012%20§%207[2017 3rd sp.s. c 12 § 7]; ]
 
 == 43.31.577 - Early learning facilities grant and loan program—Eligible activities.
 . Activities eligible for funding through the early learning facilities grant and loan program for eligible organizations include:
 
-.. Facility predesign grants or loans of no more than ten thousand dollars to allow eligible organizations to secure professional services or consult with organizations certified by the community development financial institutions fund to plan for and assess the feasibility of early learning facilities projects or receive other technical assistance to design and develop projects for construction funding;
+.. Facility predesign grants or loans of no more than $20,000 to allow eligible organizations to secure professional services or consult with organizations certified by the community development financial institutions fund to plan for and assess the feasibility of early learning facilities projects or receive other technical assistance to design and develop projects for construction funding;
 
-.. Grants or loans of no more than one hundred thousand dollars for minor renovations or repairs of existing early learning facilities; and
+.. Grants or loans of no more than $200,000 for minor renovations or repairs of existing early learning facilities or for predevelopment activities to advance a proposal from planning to major construction or renovation;
 
-.. Major construction and renovation grants or loans and grants or loans for facility purchases of no more than eight hundred thousand dollars to create or expand early learning facilities.
+.. Major construction and renovation grants or loans and grants or loans for facility purchases of no more than $1,000,000 to create or expand early learning facilities; and
 
-. Activities eligible for funding through the early learning facilities grant and loan program for school districts include major construction, purchase, and renovation grants or loans of no more than eight hundred thousand dollars to create or expand early learning facilities that received priority and ranking as described in RCW 43.31.581.
+.. Administration costs associated with conducting application processes, managing contracts, and providing technical assistance.
 
-. Beginning July 1, 2018, amounts in this section must be increased annually by the United States implicit price deflator for state and local government construction provided by the office of financial management.
+. Activities eligible for funding through the early learning facilities grant and loan program for school districts include major construction, purchase, and renovation grants or loans of no more than $1,000,000 to create or expand early learning facilities that received priority and ranking as described in RCW 43.31.581.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1777-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%2012%20§%208[2017 3rd sp.s. c 12 § 8]; ]
+. Amounts in this section must be increased annually by the United States implicit price deflator for state and local government construction provided by the office of financial management.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1370-S.SL.pdf?cite=2021%20c%20130%20§%201[2021 c 130 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1777-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%2012%20§%208[2017 3rd sp.s. c 12 § 8]; ]
 
 == 43.31.579 - Early learning facilities grant and loan program—Private or local government matching funding—School districts' ranked and prioritized list of projects.
 . It is the intent of the legislature that state funds invested in the early learning facilities grant and loan program be matched by private or local government funding. Every effort shall be made to maximize funding available for early learning facilities from public schools, community colleges, education[al] service districts, local governments, and private funders.
@@ -475,7 +475,7 @@ When funding is provided in the previous biennium, the department, in collaborat
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6287.SL.pdf?cite=2018%20c%2058%20§%2016[2018 c 58 § 16]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1777-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%2012%20§%2011[2017 3rd sp.s. c 12 § 11]; ]
 
-== 43.31.605 - Landlord mitigation program—Department to administer and have rule-making authority—Claims—Eligibility for reimbursement—Review—Damages—Inspection—Landlords prohibited from certain acts—Denial of reimbursement—Department to establish web site—Liability—Report, recommendations.
+== 43.31.605 - Landlord mitigation program—Department to administer and have rule-making authority—Claims—Eligibility for reimbursement—Review—Damages—Inspection—Landlords prohibited from certain acts—Denial of reimbursement—Department to establish website—Liability—Report, recommendations.
 . [Empty]
 .. Subject to the availability of funds for this purpose, the landlord mitigation program is created and administered by the department. The department shall have such rule-making authority as the department deems necessary to administer the program.
 
@@ -491,7 +491,7 @@ When funding is provided in the previous biennium, the department, in collaborat
 
 .. Claims related to landlord mitigation for an unpaid judgment for rent, unpaid judgments resulting from the tenant's failure to comply with an installment payment agreement identified in RCW 59.18.610, late fees, attorneys' fees, and costs after a court order pursuant to RCW 59.18.410(3), including any unpaid portion of the judgment after the tenant defaults on the payment plan pursuant to RCW 59.18.410(3)(c), are eligible for reimbursement from the landlord mitigation program account and are exempt from any postjudgment interest required under RCW 4.56.110. Any claim for reimbursement made pursuant to RCW 59.18.410(3)(e)(ii) must be accompanied by a court order staying the writ of restitution pursuant to RCW 59.18.410(3). Any claim for reimbursement under this subsection (1)(c) is not an entitlement.
 
-... The department shall provide for a form on its web site for tenants and landlords to apply for reimbursement funds for the landlord pursuant to this subsection (1)(c).
+... The department shall provide for a form on its website for tenants and landlords to apply for reimbursement funds for the landlord pursuant to this subsection (1)(c).
 
 ... The form must include: (A) Space for the landlord and tenant to provide names, mailing addresses, phone numbers, date of birth for the tenant, and any other identifying information necessary for the department to process payment; (B) the landlord's statewide vendor identification number and how to obtain one; (C) name and address to whom payment must be made; (D) the amount of the judgment with instructions to include any other supporting documentation the department may need to process payment; (E) instructions for how the tenant is to reimburse the department under (c)(iii) of this subsection; (F) a description of the consequences if the tenant does not reimburse the department as provided in this subsection (1)(c); (G) a signature line for the landlord and tenant to confirm that they have read and understood the contents of the form and program; and (H) any other information necessary for the operation of the program. If the tenant has not signed the form after the landlord has made good faith efforts to obtain the tenant's signature, the landlord may solely submit the form but must attest to the amount of money owed and sign the form under penalty of perjury.
 
@@ -504,6 +504,21 @@ When funding is provided in the previous biennium, the department, in collaborat
 .. The department's duties with respect to obtaining reimbursement from the tenant to the account are limited to those specified within this subsection (1)(c).
 
 .. If at any time funds do not exist in the landlord mitigation program account to reimburse claims submitted under this subsection (1)(c), the department must create and maintain a waitlist and distribute funds in the order the claims are received pursuant to subsection (6) of this section. Payment of any claims on the waitlist shall be made only from the landlord mitigation program account. The department shall not be civilly or criminally liable and may not have any penalty or cause of action of any nature arise against it regarding the provision or lack of provision of funds for reimbursement.
+
+.. [Empty]
+... Claims related to landlord mitigation for:
+
+(A) Up to $15,000 in unpaid rent that accrued between March 1, 2020, and six months following the expiration of the eviction moratorium and the tenant being low-income, limited resourced or experiencing hardship, voluntarily vacated or abandoned the tenancy; or
+
+(B) Up to $15,000 in remaining unpaid rent if a tenant defaults on a repayment plan entered into under RCW 59.18.630 are eligible for reimbursement from the landlord mitigation program account subject to the program requirements under this section, provided the tenancy has not been terminated at the time of reimbursement.
+
+... A landlord is ineligible for reimbursement under this subsection (1)(d) where the tenant vacated the tenancy because of an unlawful detainer action under RCW 59.12.030(3).
+
+... A landlord in receipt of reimbursement from the program pursuant to this subsection (1)(d) is prohibited from:
+
+(A) Taking legal action against the tenant for damages or any remaining unpaid rent accrued between March 1, 2020, and six months following the expiration of the eviction moratorium attributable to the same tenancy; or
+
+(B) Pursuing collection, or authorizing another entity to pursue collection on the landlord's behalf, of a judgment against the tenant for damages or any remaining unpaid rent accrued between March 1, 2020, and six months following the expiration of the eviction moratorium attributable to the same tenancy.
 
 . In order for a claim under subsection (1)(b)(iii) of this section to be eligible for reimbursement from the landlord mitigation program account, a landlord must:
 
@@ -535,7 +550,7 @@ When funding is provided in the previous biennium, the department, in collaborat
 
 . Determinations regarding reimbursements shall be made by the department in its sole discretion.
 
-. The department must establish a web site that advertises the landlord mitigation program, the availability of reimbursement from the landlord mitigation program account, and maintains or links to the agency rules and policies established pursuant to this section.
+. The department must establish a website that advertises the landlord mitigation program, the availability of reimbursement from the landlord mitigation program account, and maintains or links to the agency rules and policies established pursuant to this section.
 
 . Neither the state, the department, or persons acting on behalf of the department, while acting within the scope of their employment or agency, is liable to any person for any loss, damage, harm, or other consequence resulting directly or indirectly from the department's administration of the landlord mitigation program or determinations under this section.
 
@@ -566,14 +581,84 @@ When funding is provided in the previous biennium, the department, in collaborat
 
 .. "Private market rental unit" means any unit available for rent that is owned by an individual, corporation, limited liability company, nonprofit housing provider, or other entity structure, but does not include housing acquired, or constructed by a public housing agency under 42 U.S.C. Sec. 1437 as it existed on January 1, 2018.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6378-S.SL.pdf?cite=2020%20c%20315%20§%208[2020 c 315 § 8]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1694.SL.pdf?cite=2020%20c%20169%20§%202[2020 c 169 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5600-S.SL.pdf?cite=2019%20c%20356%20§%2012[2019 c 356 § 12]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2578-S2.SL.pdf?cite=2018%20c%2066%20§%202[2018 c 66 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5160-S2.SL.pdf?cite=2021%20c%20115%20§%205[2021 c 115 § 5]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6378-S.SL.pdf?cite=2020%20c%20315%20§%208[2020 c 315 § 8]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1694.SL.pdf?cite=2020%20c%20169%20§%202[2020 c 169 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5600-S.SL.pdf?cite=2019%20c%20356%20§%2012[2019 c 356 § 12]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2578-S2.SL.pdf?cite=2018%20c%2066%20§%202[2018 c 66 § 2]; ]
 
 == 43.31.615 - Landlord mitigation program account.
-. The landlord mitigation program account is created in the custody of the state treasury. All transfers and appropriations by the legislature, repayments, private contributions, and all other sources must be deposited into the account. Expenditures from the account may only be used for the landlord mitigation program under this chapter to reimburse landlords for eligible claims related to private market rental units during the time of their rental to low-income tenants using housing subsidy programs as defined in RCW 43.31.605, for any unpaid judgment issued within an unlawful detainer action after a court order pursuant to RCW 59.18.410(3) as described in RCW 43.31.605(1)(c), and for the administrative costs identified in subsection (2) of this section. Only the director or the director's designee may authorize expenditures from the account. The account is subject to allotment procedures under chapter 43.88 RCW, but an appropriation is not required for expenditures.
+. The landlord mitigation program account is created in the custody of the state treasury. All transfers and appropriations by the legislature, repayments, private contributions, and all other sources must be deposited into the account. Expenditures from the account may only be used for the landlord mitigation program under this chapter to reimburse landlords for eligible claims related to private market rental units during the time of their rental to low-income tenants using housing subsidy programs as defined in RCW 43.31.605, for any unpaid judgment issued within an unlawful detainer action after a court order pursuant to RCW 59.18.410(3) as described in RCW 43.31.605(1)(c), for any unpaid rent as described in RCW 43.31.605(1)(d), and for the administrative costs identified in subsection (2) of this section. Only the director or the director's designee may authorize expenditures from the account. The account is subject to allotment procedures under chapter 43.88 RCW, but an appropriation is not required for expenditures.
 
 . Administrative costs associated with application, distribution, and other program activities of the department may not exceed twenty percent of the annual funds available for the landlord mitigation program. Reappropriations must not be included in the calculation of the annual funds available for determining the administrative costs.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5600-S.SL.pdf?cite=2019%20c%20356%20§%2013[2019 c 356 § 13]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2578-S2.SL.pdf?cite=2018%20c%2066%20§%203[2018 c 66 § 3]; ]
+. Funds deposited into the landlord mitigation program account shall be prioritized by the department for allowable costs under RCW 43.31.605(1)(b), and may only be used for other allowable costs when funding available in the account exceeds the amount needed to pay claims under RCW 43.31.605(1)(b).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5160-S2.SL.pdf?cite=2021%20c%20115%20§%206[2021 c 115 § 6]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5600-S.SL.pdf?cite=2019%20c%20356%20§%2013[2019 c 356 § 13]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2578-S2.SL.pdf?cite=2018%20c%2066%20§%203[2018 c 66 § 3]; ]
+
+== 43.31.625 - Industrial waste coordination program.
+. An industrial waste coordination program is established in order to provide expertise, technical assistance, and best practices to support local industrial symbiosis projects.
+
+. The industrial waste coordination program must be administered by the department of commerce and administered regionally, with each region provided with a dedicated facilitator and technical and administrative support.
+
+. The industrial waste coordination program must facilitate waste exchange by:
+
+.. Developing inventories of industrial waste innovation currently in operation;
+
+.. Generating a material flow data collection system in order to capture and manage data on resource availability and potential synergies;
+
+.. Establishing guidance and best practices for emerging local industrial resource hubs, which must include a consideration of steps to avoid creating or worsening negative impacts to overburdened communities as identified by tools such as the department of health's environmental health disparities map;
+
+.. Identifying access to capital in order to fund projects, including federal, state, local, and private funding;
+
+.. Developing economic, environmental, and health disparities metrics to measure the results of industrial or commercial hubs;
+
+.. Hosting workshops and connecting regional businesses, governments, utilities, research institutions, and other organizations in order to identify opportunities for resource collaboration;
+
+.. Assisting entities throughout the entire life cycle of industrial symbiosis projects, from identification of opportunities to full project implementation;
+
+.. Developing economic cluster initiatives in order to spur growth and innovation; and
+
+.. Making any additional recommendations to the legislature in order to incentivize and facilitate industrial symbiosis.
+
+. The department of commerce may coordinate with other agencies, representatives of business and manufacturing networks, and other entities in order to develop material flow generation data and increase multisectoral outreach.
+
+. In generating the material flow data collection system under subsections (3)(b) and (4) of this section, the department of commerce may only use publicly available data or data voluntarily provided by program participants. No entity may be required to disclose material flow data. The department of commerce must keep any proprietary business information confidential and such information is exempt from public disclosure, as provided in RCW 42.56.270.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5345.SL.pdf?cite=2021%20c%20308%20§%202[2021 c 308 § 2]; ]
+
+== 43.31.635 - Industrial symbiosis grant program.
+. Subject to the availability of amounts appropriated for this specific purpose, a competitive industrial symbiosis grant program is established in order to provide grants for the research, development, and deployment of local waste coordination projects.
+
+. Grants may go towards:
+
+.. Existing industrial symbiosis efforts by public or private sector organizations;
+
+.. Emerging industrial symbiosis opportunities involving public or private sector organizations, including projects arising from:
+
+... The industrial waste coordination program established in RCW 43.31.625;
+
+... Conceptual work completed by public utilities to redirect their wastes to productive use; or
+
+... Existing inventories or project concepts involving specific biobased wastes converted to renewable natural gas;
+
+.. Research on product development using a specific waste flow;
+
+.. Feasibility studies to evaluate potential biobased resources;
+
+.. Feasibility studies for publicly owned utilities to evaluate business models to transform to multiutility operations or for the evaluation of potential symbiosis connections with other regional businesses; or
+
+.. Other local waste coordination projects as determined by the department of commerce.
+
+. The department of commerce must develop a method and criteria for the allocation of grants, subject to the following:
+
+.. Project allocation should reflect geographic diversity, with grants being distributed equally in western and eastern parts of the state, urban and rural areas, and small towns and large cities;
+
+.. Project allocation should consider factors such as time to implementation and scale of economic or environmental benefits;
+
+.. Grants must require a one-to-one nonstate to state match;
+
+.. Individual grant awards may not exceed $500,000; and
+
+.. Project allocation should avoid creating or worsening environmental health disparities and should make use of tools such as the department of health's environmental health disparities map.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5345.SL.pdf?cite=2021%20c%20308%20§%203[2021 c 308 § 3]; ]
 
 == 43.31.859 - Rural development council—Successor organization—Funding.
 Notwithstanding anything to the contrary in chapter 41.06 RCW or any other provision of law, the department may contract to provide funding to a successor organization under *RCW 43.31.856 to carry out activities of the organization that are consistent with the department's powers and duties. All moneys for contracts entered into under this section are subject to appropriation.

@@ -24,11 +24,19 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 . "Director" means the director of the department of commerce.
 
+. "Family resource center" means a unified single point of entry where families, individuals, children, and youth in communities can obtain information, an assessment of needs, referral to, or direct delivery of family services in a manner that is welcoming and strength-based.
+
+.. A family resource center is designed to meet the needs, cultures, and interests of the communities that the family resource center serves.
+
+.. Family services may be delivered directly to a family at the family resource center by family resource center staff or by providers who contract with or have provider agreements with the family resource center. Any family resource center that provides family services shall comply with applicable state and federal laws and regulations regarding the delivery of such family services, unless required waivers or exemptions have been granted by the appropriate governing body.
+
+.. Each family resource center shall have one or more family advocates who screen and assess a family's needs and strengths. If requested by the family, the family advocate shall assist the family with setting its own goals and, together with the family, develop a written plan to pursue the family's goals in working towards a greater level of self-reliance or in attaining self-sufficiency.
+
 . "Financial institution" means a bank, trust company, mutual savings bank, savings and loan association, or credit union authorized to do business in this state under state or federal law.
 
 . "Small business" has the same meaning as provided in RCW 39.26.010.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2029-S2.SL.pdf?cite=2014%20c%20112%20§%20401[2014 c 112 § 401]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1916.SL.pdf?cite=2011%20c%20286%20§%204[2011 c 286 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2242.SL.pdf?cite=2009%20c%20565%20§%202[2009 c 565 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5652-S2.SL.pdf?cite=2007%20c%20322%20§%202[2007 c 322 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5868-S.SL.pdf?cite=1993%20c%20280%20§%203[1993 c 280 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1237.SL.pdf?cite=2021%20c%2039%20§%203[2021 c 39 § 3]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2029-S2.SL.pdf?cite=2014%20c%20112%20§%20401[2014 c 112 § 401]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1916.SL.pdf?cite=2011%20c%20286%20§%204[2011 c 286 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2242.SL.pdf?cite=2009%20c%20565%20§%202[2009 c 565 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5652-S2.SL.pdf?cite=2007%20c%20322%20§%202[2007 c 322 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5868-S.SL.pdf?cite=1993%20c%20280%20§%203[1993 c 280 § 3]; ]
 
 == 43.330.020 - Department created.
 A department of commerce is created. The department shall be vested with all powers and duties established or transferred to it under this chapter and such other powers and duties as may be authorized by law. Unless otherwise specifically provided, the existing responsibilities and functions of the agency programs will continue to be administered in accordance with their implementing legislation.
@@ -189,7 +197,7 @@ The department shall provide technical assistance in the compilation of and supp
 
 (III) The opportunity to maintain jobs through shared work programs authorized under chapter 50.60 RCW;
 
-(F) Participating in economic development system-wide discussions regarding gaps in business start-up assistance in Washington;
+(F) Participating in economic development systemwide discussions regarding gaps in business start-up assistance in Washington;
 
 (G) Providing or facilitating the provision of export assistance through workshops or one-on-one assistance; and
 
@@ -332,7 +340,7 @@ The department of commerce shall provide training and technical assistance to co
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6341-S.SL.pdf?cite=2010%20c%2068%20§%202[2010 c 68 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5868-S.SL.pdf?cite=1993%20c%20280%20§%2016[1993 c 280 § 16]; ]
 
-== 43.330.135 - Court-appointed special advocate programs—Funds—Eligibility.
+== 43.330.135 - Court-appointed special advocate programs—Funds—Eligibility. (Effective until January 1, 2022.)
 . The department of commerce shall distribute such funds as are appropriated for the statewide technical support, development, and enhancement of court-appointed special advocate programs.
 
 . In order to receive money under subsection (1) of this section, an organization providing statewide technical support, development, and enhancement of court-appointed special advocate programs must meet all of the following requirements:
@@ -498,7 +506,7 @@ Counties may submit a petition for relief to the office of public defense for re
 
 ... An industry cluster as defined in RCW 43.330.090. The cluster must include a dense proximity of globally competitive firms in a research-based industry or industries or individual firms with innovation strategies linked to (a)(i) of this subsection. A globally competitive firm may be signified through international organization for standardization 9000 or 1400 certification, or evidence of sales in international markets; and
 
-... Training capacity either within the zone or readily accessible to the zone. The training capacity requirement may be met by the same institution as the research capacity requirement, to the extent both are associated with an educational institution in the proposed zone.
+... Training capacity either within the zone or readily accessible to the zone. The training capacity requirement may be met by the same institution as the research capacity requirement, to the extent both are associated with an educational institution in the proposed zone;
 
 .. The support of a local jurisdiction, a research institution, an educational institution, an industry or cluster association, a workforce development council, and an associate development organization, port, or chamber of commerce;
 
@@ -540,7 +548,7 @@ Counties may submit a petition for relief to the office of public defense for re
 
 . An innovation partnership zone must annually provide performance measures as required by the director, including but not limited to private investment measures, job creation measures, and measures of innovation such as licensing of ideas in research institutions, patents, or other recognized measures of innovation.
 
-. The department must compile a biennial report on the innovation partnership zone program by December 1st of every even-numbered year. The report must provide information for each zone on its: Objectives; funding, tax incentives, and other support obtained from public sector sources; major activities; partnerships; performance measures; and outcomes achieved since the inception of the zone or since the previous biennial report.  The department must submit the report to the governor and legislature beginning December 1, 2010.
+. The department must compile a biennial report on the innovation partnership zone program by December 1st of every even-numbered year. The report must provide information for each zone on its: Objectives; funding, tax incentives, and other support obtained from public sector sources; major activities; partnerships; performance measures; and outcomes achieved since the inception of the zone or since the previous biennial report. The department must submit the report to the governor and legislature beginning December 1, 2010.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2029-S2.SL.pdf?cite=2014%20c%20112%20§%20115[2014 c 112 § 115]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2482.SL.pdf?cite=2012%20c%20225%20§%201[2012 c 225 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1128-S.SL.pdf?cite=2009%20c%2072%20§%201[2009 c 72 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1091-S.SL.pdf?cite=2007%20c%20227%20§%201[2007 c 227 § 1]; ]
 
@@ -805,7 +813,7 @@ The Washington state evergreen jobs initiative is established as a comprehensive
 == 43.330.403 - Reporting availability of high-speed internet—Survey of high-speed internet infrastructure owned or leased by state agencies—Geographic information system map—Rules.
 . Subject to the availability of federal or state funding, the department may:
 
-.. Develop an interactive web site to allow residents to self-report whether high-speed internet is available at their home or residence and at what speed; and
+.. Develop an interactive website to allow residents to self-report whether high-speed internet is available at their home or residence and at what speed; and
 
 .. Conduct a detailed survey of all high-speed internet infrastructure owned or leased by state agencies and create a geographic information system map of all high-speed internet infrastructure owned or leased by the state.
 
@@ -1340,226 +1348,9 @@ Members of the governing board of trustees of the life sciences discovery fund a
 
 . The department must submit the report to appropriate committees of the house of representatives and the senate, including the joint committee on veterans' and military affairs and the house of representatives capital budget committee, by January 1, 2020, and every two years thereafter.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5748-S.SL.pdf?cite=2019%20c%20404%20§%202[2019 c 404 § 2]; ]
+. For the 2021-2023 fiscal biennium, the department shall develop the report in subsection (2) of this section by November 1, 2022, rather than by January 1, 2022.
 
-== 43.330.525 - Child care collaborative task force. (Expires July 1, 2021.)
-. The department of commerce and the department of children, youth, and families shall jointly convene and facilitate a child care collaborative task force to:
-
-.. Examine the effects of child care affordability and accessibility on the workforce and on businesses; and
-
-.. Develop policy recommendations pursuant to RCW 43.330.527.
-
-. The task force shall develop policies and recommendations to incentivize employer-supported child care and improve child care access and affordability for employees. To accomplish its duties, the task force shall evaluate current available data including, but not limited to:
-
-.. Child care market rate survey reports, including data related to the geographic distribution of licensed child care providers and the demand for, cost, and availability of such providers;
-
-.. Best practices for employer-supported child care;
-
-.. Research related to the economic and workforce impacts of employee access to high quality, affordable child care; and
-
-.. The industry assessment conducted pursuant to RCW 43.330.529.
-
-. The governor shall appoint voting task force members as follows:
-
-.. One representative from a union representing child care providers;
-
-.. One representative from the statewide child care resource and referral network;
-
-.. One representative of an organization representing the interests of licensed child day care centers;
-
-.. One representative of a statewide nonprofit organization comprised of senior executives of major private sector employers;
-
-.. One representative of a nongovernmental private-public partnership supporting home visiting service delivery;
-
-.. One representative of a federally recognized tribe; and
-
-.. One representative from an association representing business interests.
-
-. One representative from each of the following agencies shall serve as a nonvoting member of the task force and provide data and information to the task force upon request:
-
-.. The department of commerce;
-
-.. The department of children, youth, and families. The representative from the department of children, youth, and families must have expertise in child care subsidy policy; and
-
-.. The office of the governor.
-
-. The president of the senate shall appoint one member to the task force from each of the two largest caucuses of the senate to serve as voting members of the task force.
-
-. The speaker of the house of representatives shall appoint one member to the task force from each of the two largest caucuses in the house of representatives to serve as voting members of the task force.
-
-. The governor shall appoint the following nonvoting members:
-
-.. Three representatives from the child care industry. At least one of the child care industry representatives must be a provider from a rural community. The three representatives must include: One licensed child day care center provider; one licensed family day care provider; and one representative of family, friend, and neighbor child care providers;
-
-.. One representative from each of the following: An advocacy organization representing parents, an early learning advocacy organization, a foster care youth advocacy organization, and an organization representing expanded learning opportunity interests;
-
-.. One representative from the child care workforce development technical work group established in chapter 1, Laws of 2017 3rd sp. sess.;
-
-.. An early learning policy expert; and
-
-.. One representative of an organization of early learning providers focused on preserving languages and culture by serving immigrant and refugee communities.
-
-. The director of commerce or the secretary of the department of children, youth, and families or their designee, may invite additional representatives to participate as nonvoting members of the task force.
-
-. The task force chair and vice chair must be elected by a majority vote of voting task force members.
-
-. Staff support for the task force must be provided by the department of commerce.
-
-. Legislative members of the task force shall be reimbursed for travel expenses in accordance with RCW 44.04.120. Nonlegislative members shall be reimbursed for travel expenses in accordance with chapter 43.03 RCW.
-
-. Licensed family home child care providers and child care center providers serving as members of the task force must be reimbursed for the cost of hiring a substitute for times the provider is away from the child care businesses for official task force travel and meetings.
-
-. In accordance with RCW 43.01.036 the task force shall report its initial findings and recommendations pursuant to this section to the governor and the appropriate committees of the legislature by November 1, 2019. The report must include findings related to:
-
-.. Options for the state to incentivize the provision of:
-
-... Employer-supported child care by public and private employers; and
-
-... Back-up child care by public and private employers;
-
-.. Opportunities for streamlining permitting and licensing requirements to facilitate the development and construction of child care facilities;
-
-.. Potential tax incentives for private businesses providing employer-supported child care;
-
-.. A model policy for the establishment of a "bring your infant to work" program for public and private sector employees; and
-
-.. Policy recommendations that address racial, ethnic, and geographic disparity and disproportionality in service delivery and accessibility to services for families.
-
-. For the purposes of this section:
-
-.. "Back-up child care" means a temporary child care arrangement that is provided when normal child care arrangements are unavailable.
-
-.. "Employer-supported child care" includes:
-
-... A licensed child care center operated at or near the workplace by an employer for the benefit of employees; or
-
-... Financial assistance provided by an employer for licensed child care expenses incurred by an employee.
-
-. This section expires July 1, 2021.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1344-S2.SL.pdf?cite=2019%20c%20368%20§%204[2019 c 368 § 4]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2367-S.SL.pdf?cite=2018%20c%2091%20§%201[2018 c 91 § 1]; ]
-
-== 43.330.527 - Child care collaborative task force—Duties. (Expires July 1, 2021.)
-. The child care collaborative task force shall:
-
-.. [Empty]
-... Develop a child care cost estimate model to determine the full costs providers would incur when providing high quality child care, including recommended teacher-child ratios based on research and best practices. The model must include:
-
-(A) Regional differences;
-
-(B) Employee salaries and benefits;
-
-(C) Enrollment levels;
-
-(D) Facility costs; and
-
-(E) Costs associated with compliance with statutory and regulatory requirements, including quality rating system participation and identify specific costs associated with each level of the rating system and any quality indicators utilized.
-
-... The model must utilize existing data and research available from existing studies and reports.
-
-... The model must consider differentiating subsidy rates by child age and region, evaluate the effectiveness of current child care subsidy region boundaries, and examine alternatives such as zip code level regions or regionalization based on urban, suburban, and rural designations;
-
-.. Consider how the measure of state median income could be used in place of federal poverty level when determining eligibility for child care subsidy;
-
-.. Evaluate recommendations from the department of children, youth, and families' technical work group on compensation, including consideration of pay scale changes, to achieve pay parity with K-12 teachers by January 1, 2025. When considering implementation of the technical work group recommendations, the task force shall further develop policy recommendations for the department of children, youth, and families that:
-
-... Endeavor to preserve and increase racial and ethnic equity and diversity in the child care workforce and recognize the value of cultural competency and multilingualism;
-
-... Include a salary floor that supports recruitment and retention of a qualified workforce in every early learning setting, determined by an analysis of fields that compete to recruit workers with comparable skills, competencies, and experience of early childhood educators;
-
-... Index salaries for providers against the salary for a typical preschool lead teacher, differentiating base compensation for varying levels of responsibility within the early childhood workplace including consideration of center directors, assistant directors, lead teachers, assistant teachers, paraprofessionals, family child care owners, and family home assistants;
-
-... Incentivize advancements in relevant higher education credentials and credential equivalencies, training, and years of experience, by increasing compensation for each of these, including early learning certificates, associate degrees, bachelor's degrees, master's degrees, and doctoral degrees;
-
-.. Consider credential equivalencies, including certified demonstration of competencies developed through apprenticeships, peer learning models, community-based training, and other strategies;
-
-.. Consider a provider's years of experience in the field and years of experience at his or her current site;
-
-.. Differentiate subsidy rates by region; and
-
-.. Provide additional targeted investments for providers serving a high proportion of working connections child care families, providers demonstrating additional linguistic or cultural competency, and providers serving populations furthest from opportunity, including:
-
-(A) Families enrolled in the early childhood education and assistance program;
-
-(B) Underserved geographic communities;
-
-(C) Underserved ethnic or linguistic communities;
-
-(D) Underserved age groups such as infants and toddlers; and
-
-(E) Populations with specialized health or educational needs;
-
-.. Develop a phased implementation plan for policy changes to the working connections child care program. The implementation plan must focus on children and families furthest from opportunity as defined by income and must include recommended targeted supports for providers serving children who are underserved and emphasize greater racial equity. Implementation plan components must include:
-
-... Increasing program income eligibility to three hundred percent of the federal poverty level or eighty-five percent of the state median income;
-
-... Establishing a graduated system of copayments that eliminates the cliff effect for families and limits the amount a family pays for child care to a maximum of seven percent of the family's income by January 1, 2025;
-
-... Developing a model to enable the state to provide contracted slots to programs serving working connections child care families in order to expand access for low-income families;
-
-... Eliminating work requirements for student families participating in the working connections child care program; and
-
-.. Eliminating the fiscal cap on working connections child care enrollment; and
-
-.. Develop a strategy, timeline, and implementation plan to reach the goal of accessible and affordable child care for all families by the year 2025.
-
-. By December 1, 2020, the task force must submit its findings and required implementation plan pursuant to subsection (1)(a) through (d) of this section to the governor and the appropriate committees of the legislature. By June 1, 2021, the task force must submit the strategy, timeline, and implementation plan required by subsection (1)(e) of this section to the governor and the appropriate committees of the legislature.
-
-. This section expires July 1, 2021.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1344-S2.SL.pdf?cite=2019%20c%20368%20§%206[2019 c 368 § 6]; ]
-
-== 43.330.529 - Child care industry assessment. (Expires December 31, 2020.)
-. [Empty]
-.. The department shall enter into one or more contracts for the development of a regional assessment of the child care industry in Washington in order to better understand issues affecting child care access and affordability for families. The department shall collaborate with the office of innovation, alignment, and accountability within the department of children, youth, and families to ensure efficient use of available data and rigorous research methods and to assist with interpretation of data and report preparation.
-
-.. The department shall conduct one or more competitive solicitations in accordance with chapter 39.26 RCW to select a third-party entity or entities to conduct the industry assessment in partnership with a statewide organization representing parents. The third-party entity or entities selected by the department through the competitive process must have experience in national industry assessment and expertise in conducting facilities' needs assessments. The statewide organization representing parents must have experience conducting parent listening tours.
-
-.. The department may use a combination of private and public resources to support activities related to the child care industry assessment conducted under this section.
-
-. The industry assessment must be submitted to the appropriate policy and fiscal committees of the legislature, the governor, and the members of the child care collaborative task force established in chapter 91, Laws of 2018 by July 1, 2020. The assessment may be developed using existing reports, studies, models, and analysis related to child care affordability and access. The assessment must, at a minimum:
-
-.. Incorporate current data on the number of children age twelve and under who are receiving care from child care and early learning providers. The data must differentiate, to the extent possible: Children served by licensed and certified child care centers and family homes; public schools providing preschool and child care programs; private schools providing child care programs; state agencies and other public municipalities providing child care programs; license-exempt providers who care for children for four hours or less per day; family, friend, and neighbor caregivers; nannies and au pairs; religious organizations providing care; entities providing before-and-after school care; employer-supported child care; and other formal and informal networks of care. The data must, to the extent possible, include a breakdown by provider type of the:
-
-... Number of children receiving state subsidized care;
-
-... Number of children receiving exclusively private pay care;
-
-... Number of providers who are accepting state subsidy and, for providers who are not accepting subsidy, reasons why not;
-
-... Demographics of children served, including age, race, rates of developmental delays or disability, family income, home language, and population group trends. Demographic information must include military, homeless, and tribal families; and
-
-.. Demographics of providers, including age, race, family income, home language, number of years providing care, education levels, utilization rates of state assistance, and the number of times a provider has changed locations;
-
-.. Define and describe the characteristics of the informal child care market, including estimates of the children served in this market by age group;
-
-.. Identify family child care choices by family income bracket;
-
-.. Include a visual representation of child care supply and demand by region that identifies areas with the highest need related to child care accessibility and affordability;
-
-.. Identify trends in the relationship between private pay rates and subsidy rates for child care providers;
-
-.. Include, to the extent possible, an analysis of the industry's quantitative or qualitative contribution to the state's economy, including:
-
-... Employment and wage information for self-employed licensed child care providers and the employees of licensed child care providers, including information about providers accessing public assistance;
-
-... Workforce pipeline data for early learning professions;
-
-... The estimated costs to the state economy of child care inaccessibility, including lost economic activity and reduced tax revenue; and
-
-... Direct and indirect effects on labor participation, workplace productivity, and household earnings of working parents who use child care. The analysis must include information related to the workplace productivity of workers using employer-supported child care; and
-
-.. Include a facilities needs assessment to determine the type and number of child care facilities necessary to address unmet capacity needs for high quality child care programs such as the early childhood education and assistance program, headstart, working connections child care, and early head start. The needs assessment must include zip code level analysis to identify geographic areas with concentrated barriers to access.
-
-. For the purposes of this section, "employer-supported child care" means:
-
-.. A licensed child care center operated at or near the workplace by an employer for the benefit of employees; or
-
-.. Financial assistance provided by an employer for licensed child care expenses incurred by an employee.
-
-. This section expires December 31, 2020.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1344-S2.SL.pdf?cite=2019%20c%20368%20§%202[2019 c 368 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1080-S.SL.pdf?cite=2021%20c%20332%20§%207039[2021 c 332 § 7039]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5748-S.SL.pdf?cite=2019%20c%20404%20§%202[2019 c 404 § 2]; ]
 
 == 43.330.530 - Broadband office—Definitions.
 The definitions in this section apply throughout this section and RCW 43.330.532 through 43.330.538 unless the context clearly requires otherwise.
@@ -1593,11 +1384,11 @@ The definitions in this section apply throughout this section and RCW 43.330.532
 
 .. Drive job creation, promote innovation, improve economic vitality, and expand markets for Washington businesses;
 
-.. Serve the ongoing and growing needs of Washington's education systems, health care systems, public safety systems, industries and business, governmental operations, and citizens; and
+.. Serve the ongoing and growing needs of Washington's education systems, health care systems, public safety systems, transportation systems, industries and business, governmental operations, and citizens; and
 
 .. Improve broadband accessibility for unserved communities and populations.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5511-S2.SL.pdf?cite=2019%20c%20365%20§%203[2019 c 365 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1457-S.SL.pdf?cite=2021%20c%20258%20§%202[2021 c 258 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5511-S2.SL.pdf?cite=2019%20c%20365%20§%203[2019 c 365 § 3]; ]
 
 == 43.330.534 - Broadband office—Powers and duties.
 . The office has the power and duty to:
@@ -1620,7 +1411,7 @@ The definitions in this section apply throughout this section and RCW 43.330.532
 
 .. Funding opportunities that provide for the coordination of public, private, state, and federal funds for the purposes of making broadband infrastructure or broadband services available to rural and unserved areas of the state;
 
-.. Barriers to the deployment, adoption, and utilization of broadband service, including affordability of service; and
+.. Barriers to the deployment, adoption, and utilization of broadband service, including affordability of service and project coordination logistics; and
 
 .. Requiring minimum broadband service of twenty-five megabits per second download and three megabits per second upload speed, that is scalable to faster service.
 
@@ -1628,9 +1419,9 @@ The definitions in this section apply throughout this section and RCW 43.330.532
 
 . The office may take all appropriate steps to seek and apply for federal funds for which the office is eligible, and other grants, and accept donations, and must deposit these funds in the statewide broadband account created in RCW 43.155.165.
 
-. In carrying out its purpose, the office may collaborate with the utilities and transportation commission, the office of the chief information officer, the department of commerce, the community economic revitalization board, the public works board, the state librarian, and all other relevant state agencies.
+. In carrying out its purpose, the office may collaborate with the utilities and transportation commission, the office of the chief information officer, the department of commerce, the community economic revitalization board, the department of transportation, the public works board, the state librarian, and all other relevant state agencies.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5511-S2.SL.pdf?cite=2019%20c%20365%20§%204[2019 c 365 § 4]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1457-S.SL.pdf?cite=2021%20c%20258%20§%203[2021 c 258 § 3]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5511-S2.SL.pdf?cite=2019%20c%20365%20§%204[2019 c 365 § 4]; ]
 
 == 43.330.536 - Broadband office—Goals.
 It is a goal of the state of Washington that:
@@ -1644,44 +1435,168 @@ It is a goal of the state of Washington that:
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5511-S2.SL.pdf?cite=2019%20c%20365%20§%205[2019 c 365 § 5]; ]
 
 == 43.330.538 - Broadband office—Reports.
-. Beginning January 1, 2021, and biennially thereafter, the office shall report to the legislative committees with jurisdiction over broadband policy and finance on the office's activities during the previous two years.
+. [Empty]
+.. Beginning January 1, 2021, and biennially thereafter, the office shall report to the legislative committees with jurisdiction over broadband policy and finance on the office's activities during the previous two years.
 
-. The report must, at a minimum, contain:
+.. The report must, at a minimum, contain:
 
-.. An analysis of the current availability and use of broadband, including average broadband speeds, within the state;
+... An analysis of the current availability and use of broadband, including average broadband speeds, within the state;
 
-.. Information gathered from schools, libraries, hospitals, and public safety facilities across the state, determining the actual speed and capacity of broadband currently in use and the need, if any, for increases in speed and capacity to meet current or anticipated needs;
+... Information gathered from schools, libraries, hospitals, and public safety facilities across the state, determining the actual speed and capacity of broadband currently in use and the need, if any, for increases in speed and capacity to meet current or anticipated needs;
 
-.. An overview of incumbent broadband infrastructure within the state;
+... An overview of incumbent broadband infrastructure within the state;
 
-.. A summary of the office's activities in coordinating broadband infrastructure development with the public works board, including a summary of funds awarded under RCW 43.155.160;
+... A summary of the office's activities in coordinating broadband infrastructure development with the department of transportation and the public works board, including a summary of funds awarded under RCW 43.155.160;
 
 .. Suggested policies, incentives, and legislation designed to accelerate the achievement of the goals under RCW 43.330.536; and
 
 .. Any proposed legislative and policy initiatives.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5511-S2.SL.pdf?cite=2019%20c%20365%20§%206[2019 c 365 § 6]; ]
+. [Empty]
+.. By December 31, 2022, the office must submit a report to the governor and the appropriate committees of the legislature regarding the provision of retail telecommunications services to unserved areas by public utility districts and port districts as provided in RCW 54.16.330(10) and 53.08.370(10).
 
-== 43.330.540 - Marijuana social equity technical assistance competitive grant program.
-. The marijuana social equity technical assistance competitive grant program is established and is to be administered by the department.
+.. The report must, at a minimum, contain:
 
-. The marijuana social equity technical assistance competitive grant program must award grants on a competitive basis to marijuana retailer license applicants who are social equity applicants submitting social equity plans under RCW 69.50.335. The department must award grants primarily based on the strength of the social equity plans submitted by applicants but may also consider additional criteria if deemed necessary or appropriate by the department. Technical assistance activities eligible for funding under the marijuana social equity technical assistance competitive grant program include, but are not limited to:
+... The number of public utility districts and port districts providing retail telecommunications services in an unserved area authorized in RCW 54.16.330(10) and 53.08.370(10); and
 
-.. Assistance navigating the marijuana retailer licensure process;
+... Any recommendations to improve the provision of retail telecommunications services in unserved areas.
 
-.. Marijuana-business specific education and business plan development;
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5383-S2.SL.pdf?cite=2021%20c%20293%20§%204[2021 c 293 § 4]; http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1457-S.SL.pdf?cite=2021%20c%20258%20§%204[2021 c 258 § 4]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5511-S2.SL.pdf?cite=2019%20c%20365%20§%206[2019 c 365 § 6]; ]
+
+== 43.330.540 - Cannabis social equity technical assistance grant program.
+. The cannabis social equity technical assistance grant program is established and is to be administered by the department.
+
+. [Empty]
+.. The cannabis social equity technical assistance grant program must award grants to:
+
+... Cannabis license applicants who are social equity applicants submitting social equity plans under RCW 69.50.335; and
+
+... Cannabis licensees holding a license issued after June 30, 2020, and before July 25, 2021, who meet the social equity applicant criteria under RCW 69.50.335.
+
+.. Grant recipients under this subsection (2) must demonstrate completion of their project within 12 months of receiving a grant, unless a grant recipient requests, and the department approves, additional time to complete the project.
+
+. The department must award grants primarily based on the strength of the social equity plans submitted by cannabis license applicants and cannabis licensees holding a license issued after June 30, 2020, and before July 25, 2021, but may also consider additional criteria if deemed necessary or appropriate by the department. Technical assistance activities eligible for funding include, but are not limited to:
+
+.. Assistance navigating the cannabis licensure process;
+
+.. Cannabis-business specific education and business plan development;
 
 .. Regulatory compliance training;
 
-.. Financial management training and assistance in seeking financing; and
+.. Financial management training and assistance in seeking financing;
 
-.. Connecting social equity applicants with established industry members and tribal marijuana enterprises and programs for mentoring and other forms of support approved by the [Washington state liquor and cannabis] board.
+.. Strengthening a social equity plan; and
 
-. Funding for the marijuana social equity technical assistance competitive grant program must be provided through the dedicated marijuana account under RCW 69.50.540. Additionally, the department may solicit, receive, and expend private contributions to support the grant program.
+.. Connecting social equity applicants with established industry members and tribal cannabis enterprises and programs for mentoring and other forms of support.
+
+. The department may contract to establish a roster of mentors who are available to support and advise social equity applicants and current licensees who meet the social equity applicant criteria under RCW 69.50.335. Contractors under this section must:
+
+.. Have knowledge and experience demonstrating their ability to effectively advise eligible applicants and licensees in navigating the state's licensing and regulatory framework or on producing and processing cannabis;
+
+.. Be a business that is at least 51% [percent] minority or woman-owned; and
+
+.. Meet department reporting and invoicing requirements.
+
+. Funding for the cannabis social equity technical assistance grant program must be provided through the dedicated marijuana account under RCW 69.50.540. Additionally, the department may solicit, receive, and expend private contributions to support the grant program.
 
 . The department may adopt rules to implement this section.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2870-S2.SL.pdf?cite=2020%20c%20236%20§%203[2020 c 236 § 3]; ]
+. For the purposes of this section, "cannabis" has the meaning provided for "marijuana" under RCW 69.50.101.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1443-S.SL.pdf?cite=2021%20c%20169%20§%201[2021 c 169 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2870-S2.SL.pdf?cite=2020%20c%20236%20§%203[2020 c 236 § 3]; ]
+
+== 43.330.542 - Environmental justice obligations of the department of commerce.
+The department must apply and comply with the substantive and procedural requirements of chapter 70A.02 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5141-S2.SL.pdf?cite=2021%20c%20314%20§%208[2021 c 314 § 8]; ]
+
+== 43.330.545 - Community engagement grants—Law enforcement. (Expires January 1, 2024.)
+. Subject to the availability of amounts appropriated for this specific purpose, a project is created in the department to foster community engagement through neighborhood organizing, law enforcement-community partnerships, youth mobilization, and business engagement. The department shall administer the project. The project must include 12 to 15 grant awards in those counties that have demonstrated their commitment to programs that promote community engagement in public safety including the following counties: Spokane, Pierce, King, Okanogan, Yakima, Cowlitz, Clark, Chelan-Douglas, Walla Walla, Benton-Franklin, Grant, and Snohomish.
+
+. The department shall adopt policies and procedures necessary to administer the project including: (a) An application process; (b) disbursement of the grant award to selected applicants; (c) tracking compliance and proper use of funds; and (d) measuring outcomes.
+
+. Eligible applicants must:
+
+.. Be a public agency or nongovernmental organization;
+
+.. Have demonstrated experience with community engagement initiatives that impact public safety;
+
+.. Have community engagement;
+
+.. Have established or be willing to establish a coordinated effort with committed partners, which must include law enforcement and organizations committed to diversity, equity, and inclusion of community members, including organizations whose leadership specifically reflects the communities most impacted by racism; and
+
+.. Have established priorities, policies, and measurable goals in compliance with the requirements of the project as provided in subsection (5) of this section.
+
+. A law enforcement agency applying for a grant award shall not be considered an eligible applicant unless there are no other eligible applicants from the community or county the law enforcement agency serves.
+
+. The grant recipient shall:
+
+.. Lead and facilitate neighborhood organizing initiatives, including:
+
+... Empowering community members with tools, skills, confidence, and connections to identify, eradicate, and prevent illegal activity;
+
+... Making neighborhood improvements to deter future criminal activity; and
+
+... Educating community members regarding how to connect with city, county, and law enforcement resources;
+
+.. Build substantive law enforcement-community partnerships, including:
+
+... Building trust between community members and law enforcement by facilitating purposeful antiracist practices and the development of policies that lead to equal treatment under the law;
+
+... Establishing clear expectations for law enforcement to be competent to practice fair and equitable treatment including facilitating dialogue between law enforcement and community members to increase understanding of the impact of historical racist practices and current conflicts;
+
+... Community members regularly informing law enforcement, through presentations, workshops, or forums, on community perceptions of law enforcement and public safety issues;
+
+... Educating community members on the role and function of law enforcement in the community;
+
+.. Clarifying expectations of law enforcement and of the role of the community in crime prevention;
+
+.. Educating community members on the best practices for reporting emergency and nonemergency activities;
+
+.. Recognizing community members for effective engagement and community leadership; and
+
+.. Recognizing law enforcement officials for efforts to engage underrepresented communities, improve community engagement and empowerment, and reform law enforcement practices;
+
+.. Mobilize youth to partner with neighborhood groups and law enforcement to prevent violence by:
+
+... Helping them develop knowledge and skills to serve as leaders in their communities;
+
+... Focusing on prevention of violence and substance abuse; and
+
+... Empowering youth to bring their voice to community issues that impact healthy police-community relations;
+
+.. Engage businesses to help prevent crimes, such as vandalism and burglaries, through safety training and other prevention initiatives;
+
+.. Provide training and technical assistance on how to implement community engagement, improving law enforcement and community partnership, youth engagement, and business engagement;
+
+.. Identify and maintain consistent, experienced, and committed leadership for managing the grant, including an administrator who acts as an available point of contact with the department; and
+
+.. Collect and report data and information required by the department.
+
+. The department shall, in consultation with the Washington state institute for public policy, develop reporting guidelines for the grant recipient in order to measure whether the safe streets pilot project had an impact on crime rates and community engagement with, and perceptions of, law enforcement. The department shall submit a preliminary report to the legislature with details on the selected grant recipients and the reporting guidelines by January 1, 2022. The department shall submit a final report on the safe streets pilot project, including an analysis of the reported data required under this subsection, by December 1, 2023.
+
+. This section expires January 1, 2024.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5353-S.SL.pdf?cite=2021%20c%20327%20§%202[2021 c 327 § 2]; ]
+
+== 43.330.550 - Employer-supported child care—Technical assistance.
+. Subject to the availability of amounts appropriated for this specific purpose, the department, in collaboration with the department of children, youth, and families, shall provide or contract to provide remote or in-person technical assistance to employers interested in supporting their employees' access to high quality child care.
+
+. Technical assistance may include guidance related to:
+
+.. Operating a licensed child care center at or near the workplace for the benefit of employees;
+
+.. Financing and construction of a licensed child care center at or near the workplace for the benefit of employees;
+
+.. Providing financial assistance to employees for licensed or certified child care providers and license-exempt child care program expenses;
+
+.. Encouraging access and support for low-wage employees;
+
+.. Sponsoring dependent care flexible spending accounts for employees; and
+
+.. Developing a "bring your infant to work" program and other family-friendly work policies for employees.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5237-S2.SL.pdf?cite=2021%20c%20199%20§%20308[2021 c 199 § 308]; ]
 
 == 43.330.700 - Findings—Homeless youth.
 . The legislature finds that every night thousands of homeless youth in Washington go to sleep without the safety, stability, and support of a family or a home. This population is exposed to an increased level of violence, human trafficking, and exploitation resulting in a higher incidence of substance abuse, illness, and death. The prevention and reduction of youth and young adult homelessness and protection of homeless youth is of key concern to the state. Nothing in chapter 69, Laws of 2015 is meant to diminish the work accomplished by the implementation of Becca legislation but rather, the intent of the legislature is to further enhance the state's efforts in working with unaccompanied homeless youth and runaways to encourage family reconciliation or permanent housing and support through dependency when family reconciliation is not a viable alternative.
@@ -1875,9 +1790,9 @@ The definitions in this section apply throughout this subchapter unless the cont
 
 .. Establish a protocol for reviewing and approving the qualifications of all private sector financial services firms that meet the qualifications to participate in the marketplace; 
 
-.. Design and operate an internet web site that includes information about how eligible employers can voluntarily participate in the marketplace;
+.. Design and operate an internet website that includes information about how eligible employers can voluntarily participate in the marketplace;
 
-.. Develop marketing materials about the marketplace that can be distributed electronically, posted on agency web sites that interact with eligible employers, or inserted into mail from the department of revenue, department of labor and industries, employment security department, the office of minority and women's business enterprises, department of licensing, and secretary of state's division of corporations;
+.. Develop marketing materials about the marketplace that can be distributed electronically, posted on agency websites that interact with eligible employers, or inserted into mail from the department of revenue, department of labor and industries, employment security department, the office of minority and women's business enterprises, department of licensing, and secretary of state's division of corporations;
 
 .. Identify and promote existing federal and state tax credits and benefits for employers and employees that are related to encouraging retirement savings or participating in retirement plans; and
 
@@ -1917,6 +1832,80 @@ The director shall report biennially to the legislature on the effectiveness and
 The director shall adopt rules necessary to allow the marketplace to operate as authorized by this subchapter. As part of the rule development process, the director shall consult with organizations representing eligible employers, qualified employees, private and nonprofit sector retirement plan administrators and providers, organizations representing private sector financial services firms, and any other individuals or entities that the director determines relevant to the development of an effective and efficient method for operating the marketplace. The director or the director's designee may take the actions necessary to ensure chapter 69, Laws of 2017 is implemented on July 23, 2017.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5675-S.SL.pdf?cite=2017%20c%2069%20§%202[2017 c 69 § 2]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5826-S.SL.pdf?cite=2015%20c%20296%20§%209[2015 c 296 § 9]; ]
+
+== 43.330.760 - Intent—2021 c 64.
+It is the intent of the legislature that Washington retain and build on its leadership in the manufacturing and research and development sectors. The legislature finds that a thriving research and production sector are complimentary and should be promoted in every region of the state. The legislature finds this is critical to provide a strong, resilient tax base for good schools, safe streets, and community optimism. Therefore, the legislature intends to identify and invest in strategies to ensure every geographic region of the state can benefit from a strong manufacturing and research and development base, with the goal of doubling the state's manufacturing employment base, the number of small businesses, and the number of women and minority-owned manufacturing businesses in the next 10 years.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1170-S.SL.pdf?cite=2021%20c%2064%20§%202[2021 c 64 § 2]; ]
+
+== 43.330.762 - Manufacturing—Goals and strategies—Reports—Manufacturing council.
+. The department is responsible for identifying and developing strategies to help achieve the goals established in RCW 43.330.760. In support of pursuing the goal, the department must prepare and update each fiscal biennium a report on the state of the manufacturing and research and development industry and workforce. The report must identify progress or challenges the state has encountered in achieving the goals established in RCW 43.330.760 and identify recommendations to the legislature.
+
+. The report may include, but not be limited to:
+
+.. Recommendations for specific actions to develop a manufacturing workforce pipeline and specific manufacturing subsectors that present workforce opportunities or challenges;
+
+.. Identification of dislocated workers;
+
+.. Career-connected learning opportunities;
+
+.. A survey of financial aid that can be leveraged to fund training for the manufacturing workforce pipeline, such as Washington college grant opportunities, passport to careers, and prison to postsecondary funding;
+
+.. Recommendations on improving the state's competitiveness for manufacturing and research and development job retention and creation;
+
+.. Identification of high-demand advanced manufacturing industries and subsectors globally;
+
+.. Identification of site selection criteria of advanced manufacturing and research and development projects; and
+
+.. Recommendations of best practices to streamline environmental permit approval and appeal processes for the purpose of getting manufacturing businesses who want to site or expand in Washington more certainty, faster.
+
+. The department must convene a manufacturing council to advise and consult on the development of the report and recommendations.
+
+.. The director or the director's designee must appoint to the council such persons from the private, nonprofit, and public sectors as may best inform the state's ability to innovate, diversify supply chains, and expand living wage jobs in the manufacturing sector.
+
+.. Representatives must include small to mid-sized private sector manufacturing businesses, labor and apprenticeship programs, statewide business associations, higher education institutions, and workforce partners. The department must work to ensure:
+
+... Equal representation of business and labor on the council;
+
+... That appointees represent every region of the state such that economic diversification across all regions is supported; and
+
+... That the council includes a strong array of voices from women and minority executives and labor in manufacturing.
+
+. All state agencies with expertise in workforce development and economic development are encouraged to provide such information and resources as may be requested to inform and facilitate identification and analysis of public policy challenges and potential recommendations for the report in subsections (1) and (2) of this section.
+
+. In its first biennial report, the department shall coordinate with the office of the superintendent of public instruction and the state board for community and technical colleges to assess any inadequacy or gaps in delivering hands-on, skills-based learning remotely to all Washingtonians seeking to enter the manufacturing workforce or to be retrained for a transition within the manufacturing workforce.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1170-S.SL.pdf?cite=2021%20c%2064%20§%203[2021 c 64 § 3]; ]
+
+== 43.330.765 - Manufacturing—Regional strategies—Grants.
+. The department must support the development of regionally tailored strategies to facilitate the continued existence and development of [a] manufacturing workforce across the state.
+
+. To support regional manufacturing cluster development and job creation, the department must grant any funding provided in RCW 43.330.767 for initiatives that accelerate the development of regional clusters intended to grow living wage jobs in manufacturing and research and development.
+
+. The department is encouraged to consider the creation of regional offices or establishing additional duty stations that facilitate sector leads to be located in the regions most dependent on their sector.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1170-S.SL.pdf?cite=2021%20c%2064%20§%204[2021 c 64 § 4]; ]
+
+== 43.330.767 - Manufacturing cluster acceleration subaccount.
+. The manufacturing cluster acceleration subaccount is established in the economic development strategic reserve account. All receipts from appropriations made to the manufacturing cluster acceleration subaccount shall be deposited into the subaccount.
+
+. The department may make expenditures from the subaccount to support regional cluster acceleration strategies, including: Supporting projects to assist manufacturers to diversify their customer base and supply chain, supporting pilot or demonstration manufacturing projects coordination with organized cluster initiatives, and supporting projects that are intended to increase manufacturing and research and development jobs regionally.
+
+. The department is encouraged to seek match funds for any funds appropriated to this account [subaccount] and may utilize funds to match nonstate funds being expended on a specific project that aligns with the purpose of this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1170-S.SL.pdf?cite=2021%20c%2064%20§%205[2021 c 64 § 5]; ]
+
+== 43.330.770 - Manufacturing—Workforce innovation sector lead—Reports.
+. The department must appoint a workforce innovation sector lead, to coordinate workforce activities and needs identified by industry sector leads such as the manufacturing, clean technology, and aerospace sector leads, and connect this work with the lead workforce agencies to inform strategic allocation of funding.
+
+. Within existing resources, the department must report to the appropriate committees of the legislature beginning December 1, 2022, and continuing every fourth year thereafter, the progress made in developing, recruiting, and retaining research and development employers and workforce; and a description of how the state's policy toolkit for developing strength in research and development as a sector compares to competitor states.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1170-S.SL.pdf?cite=2021%20c%2064%20§%206[2021 c 64 § 6]; ]
+
+== 43.330.772 - Subject to appropriation.
+The duties in RCW 43.330.760 through 43.330.770 are subject to the availability of amounts appropriated for the specific purpose.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1170-S.SL.pdf?cite=2021%20c%2064%20§%207[2021 c 64 § 7]; ]
 
 == 43.330.900 - References to director and department.
 All references to the director or department of community, trade, and economic development in the Revised Code of Washington shall be construed to mean the director of commerce or the department of commerce.

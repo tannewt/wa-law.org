@@ -268,9 +268,9 @@ The building code council in consultation with the office of the chief informati
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2783-S.SL.pdf?cite=2020%20c%2043%20§%201[2020 c 43 § 1]; ]
 
 == 19.27.080 - Chapters of RCW not affected.
-Nothing in this chapter affects the provisions of chapters 19.27A, 19.28, 43.22, 70.77, 70.79, 70.87, *48.48, 18.20, 18.46, 18.51, 28A.305, 70.41, 70.62, 70.75, 70.108, 71.12, 74.15, **70.94, 76.04, *** 90.76 RCW, or RCW 28A.195.010, or grants rights to duplicate the authorities provided under chapters **70.94 or 76.04 RCW.
+Nothing in this chapter affects the provisions of chapters 19.27A, 19.28, 43.22, 70.77, 70.79, 70.87, 43.44, 18.20, 18.46, 18.51, 28A.305, 70.41, 70.62, 70.75, 70.108, 71.12, 74.15, 70A.15, 76.04, 70A.355 RCW, or RCW 28A.195.010, or grants rights to duplicate the authorities provided under chapters 70A.15 or 76.04 RCW.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1734-S.SL.pdf?cite=2003%20c%20291%20§%203[2003 c 291 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c33.pdf?cite=1990%20c%2033%20§%20555[1990 c 33 § 555]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c346.pdf?cite=1989%20c%20346%20§%2019[1989 c 346 § 19]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c282.pdf?cite=1975%201st%20ex.s.%20c%20282%20§%201[1975 1st ex.s. c 282 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c96.pdf?cite=1974%20ex.s.%20c%2096%20§%208[1974 ex.s. c 96 § 8]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2017[2021 c 65 § 17]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1734-S.SL.pdf?cite=2003%20c%20291%20§%203[2003 c 291 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c33.pdf?cite=1990%20c%2033%20§%20555[1990 c 33 § 555]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c346.pdf?cite=1989%20c%20346%20§%2019[1989 c 346 § 19]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c282.pdf?cite=1975%201st%20ex.s.%20c%20282%20§%201[1975 1st ex.s. c 282 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c96.pdf?cite=1974%20ex.s.%20c%2096%20§%208[1974 ex.s. c 96 § 8]; ]
 
 == 19.27.085 - Building code council account—Building permit fee.
 . There is hereby created the building code council account in the state treasury. Moneys deposited into the account shall be used by the building code council, after appropriation, to perform the purposes of the council.
@@ -480,17 +480,22 @@ No building shall be constructed for, used for, or converted to, occupancy as a 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6472-S.SL.pdf?cite=2012%20c%20132%20§%204[2012 c 132 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5561-S.SL.pdf?cite=2009%20c%20313%20§%202[2009 c 313 § 2]; ]
 
-== 19.27.540 - Electric vehicle infrastructure requirements.
+== 19.27.540 - Electric vehicle infrastructure requirements—Rules.
 . The building code council shall adopt rules for electric vehicle infrastructure requirements. Rules adopted by the state building code council must consider applicable national and international standards and be consistent with rules adopted under RCW 19.28.281.
 
 . [Empty]
 .. Except as provided in (b) of this subsection, the rules adopted under this section must require electric vehicle charging capability at all new buildings that provide on-site parking. Where parking is provided, the greater of one parking space or ten percent of parking spaces, rounded to the next whole number, must be provided with wiring or raceway sized to accommodate 208/240 V 40-amp or equivalent electric vehicle charging. Electrical rooms serving buildings with on-site parking must be sized to accommodate the potential for electrical equipment and distribution required to serve a minimum of twenty percent of the total parking spaces with 208/240 V 40-amp or equivalent electric vehicle charging. Load management infrastructure may be used to adjust the size and capacity of the required building electric service equipment and circuits on the customer facilities, as well as electric utility-owned infrastructure, as allowed by applicable local and national electrical code. For accessible parking spaces, the greater of one parking space or ten percent of accessible parking spaces, rounded to the next whole number, must be provided with electric vehicle charging infrastructure that may also serve adjacent parking spaces not designated as accessible parking.
 
-.. For occupancies classified as assembly, education, or mercantile, the requirements of this section apply only to employee parking spaces. The requirements of this section do not apply to occupancies classified as residential R-3, utility, or miscellaneous.
+.. For occupancies classified as assembly, education, or mercantile, the requirements of this section apply only to employee parking spaces. The requirements of this section do not apply to occupancies classified as utility or miscellaneous.
 
-.. The required rules required under this subsection must be implemented by July 1, 2021.
+.. Except for rules related to residential R-3, the required rules required under this subsection must be implemented by July 1, 2021. The rules required under this subsection for occupancies classified as residential R-3 must be implemented by July 1, 2024.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1257-S3.SL.pdf?cite=2019%20c%20285%20§%2018[2019 c 285 § 18]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1481-S2.SL.pdf?cite=2009%20c%20459%20§%2016[2009 c 459 § 16]; ]
+. [Empty]
+.. The rules adopted under this section must exceed the specific minimum requirements established under subsection (2) of this section for all types of residential and commercial buildings to the extent necessary to support the anticipated levels of zero emissions vehicle use that result from the zero emissions vehicle program requirements in chapter 70A.30 RCW and that result in emissions reductions consistent with RCW 70A.45.020.
+
+.. The rules required under this subsection must be implemented by July 1, 2024, and may be periodically updated thereafter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1287-S2.SL.pdf?cite=2021%20c%20300%20§%204[2021 c 300 § 4]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1257-S3.SL.pdf?cite=2019%20c%20285%20§%2018[2019 c 285 § 18]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1481-S2.SL.pdf?cite=2009%20c%20459%20§%2016[2009 c 459 § 16]; ]
 
 == 19.27.550 - Accessible parking space access aisles.
 . In addition to the requirements under RCW 46.61.581, each accessible parking space reserved for a person with a physical disability and designated as "van accessible" under the Americans with disabilities act must have a ninety-six inch or greater adjacent access aisle. The adjacent access aisle space must be in addition to the adjacent van parking space. Two van accessible parking spaces may share a common adjacent access aisle.
@@ -567,12 +572,24 @@ Such materials shall extend from the top of the foundation to the underside of t
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5450.SL.pdf?cite=2018%20c%2029%20§%201[2018 c 29 § 1]; ]
 
-== 19.27.580 - Use of substitutes under RCW  70.235.080.
-The building code council shall adopt rules that permit the use of substitutes approved under *RCW 70.235.080 and that do not require the use of substitutes that are restricted under *RCW 70.235.080.
+== 19.27.580 - Use of substitutes—Adoption of rules.
+. The building code council shall adopt rules, including by amending existing rules as necessary, that permit the use of substitutes approved under RCW 70A.60.060 and that do not require the use of substitutes that are restricted under RCW 70A.60.060. The building code council may not prohibit the use of a substitute refrigerant allowed pursuant to the United States environmental protection agency's significant new alternatives policy to implement 42 U.S.C. Sec. 7671k.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1112-S2.SL.pdf?cite=2019%20c%20284%20§%207[2019 c 284 § 7]; ]
+. The building code council shall adopt rules that allow the use of substitutes, as defined in RCW 70A.60.010, with a lower global warming potential than alternative substances, in accordance with nationally recognized, published standards that protect building occupant safety and reduce fire risks.
 
-== 19.27.700 - Definitions. (Effective July 1, 2021.)
+. The building code council may adopt rules that allow the use of substitutes, as defined in RCW 70A.60.010, that are under review but have not yet been approved by the United States environmental protection agency's significant new alternatives policy to implement 42 U.S.C. Sec. 7671k, if the substitutes have a lower global warming potential than alternative substances and meet nationally recognized, published standards that protect building occupant safety and reduce fire risks.
+
+. Any rules adopted by the building code council that affect the design or installation of refrigeration or air conditioning systems must be consistent with a goal of minimizing system leakage of refrigerants.
+
+. Prior to the adoption of any rules by the building code council that affect the design or installation of refrigeration or air conditioning systems that facilitate the use of substitutes with a low global warming potential in air conditioning systems or equipment, the building code council must solicit input from organizations representing affected parties and parties with expertise in the substitutes or affected types of systems or equipment including, but not limited to:
+
+.. Manufacturers, distributors, and installers of refrigeration and air conditioning systems; and
+
+.. Refrigeration and air conditioning system contractors that are small businesses or that primarily serve rural areas.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1050-S2.SL.pdf?cite=2021%20c%20315%20§%2010[2021 c 315 § 10]; http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2018[2021 c 65 § 18]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1112-S2.SL.pdf?cite=2019%20c%20284%20§%207[2019 c 284 § 7]; ]
+
+== 19.27.700 - Definitions.
 The definitions in this section apply throughout RCW 19.27.710 through 19.27.740.
 
 . "Combination fire and smoke damper" has the same meaning as provided in the International Fire Code as of January 1, 2020.
@@ -589,7 +606,7 @@ The definitions in this section apply throughout RCW 19.27.710 through 19.27.740
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2701.SL.pdf?cite=2020%20c%2088%20§%201[2020 c 88 § 1]; ]
 
-== 19.27.710 - Owners of buildings equipped with fire dampers, smoke dampers, combination fire and smoke dampers, or smoke control systems—Duties—Penalty. (Effective July 1, 2021.)
+== 19.27.710 - Owners of buildings equipped with fire dampers, smoke dampers, combination fire and smoke dampers, or smoke control systems—Duties—Penalty.
 . At a minimum, owners of buildings equipped with fire dampers, smoke dampers, combination fire and smoke dampers, or smoke control systems must:
 
 .. Have all newly installed fire dampers, smoke dampers, combination fire and smoke dampers, and smoke control systems tested and inspected within twelve months of installation;
@@ -606,7 +623,7 @@ The definitions in this section apply throughout RCW 19.27.710 through 19.27.740
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2701.SL.pdf?cite=2020%20c%2088%20§%202[2020 c 88 § 2]; ]
 
-== 19.27.720 - Inspections and tests—Qualifications—Report—Penalty. (Effective July 1, 2021.)
+== 19.27.720 - Inspections and tests—Qualifications—Report—Penalty.
 . Inspections and tests under this section must be performed by a contractor or engineer with the following qualifications:
 
 .. For inspection and testing of fire dampers, smoke dampers, and combination fire and smoke dampers, such inspector must have a current and valid certification to inspect and test fire dampers, smoke dampers, and combination fire and smoke dampers and hold certification from the international certification board as a fire life safety 1 or fire and smoke damper technician through a program accredited by the American national standards institute under the ISO/IEC 17024 standard.
@@ -625,12 +642,12 @@ The definitions in this section apply throughout RCW 19.27.710 through 19.27.740
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2701.SL.pdf?cite=2020%20c%2088%20§%203[2020 c 88 § 3]; ]
 
-== 19.27.730 - State building code council and director of fire protection—Implementation and enforcement. (Effective July 1, 2021.)
+== 19.27.730 - State building code council and director of fire protection—Implementation and enforcement.
 The state building code council shall work in conjunction with the director of fire protection to coordinate the implementation and enforcement of RCW 19.27.710 and 19.27.720.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2701.SL.pdf?cite=2020%20c%2088%20§%204[2020 c 88 § 4]; ]
 
-== 19.27.740 - Building owner—Violations—Penalties. (Effective July 1, 2021.)
+== 19.27.740 - Building owner—Violations—Penalties.
 . If a building owner has not complied with the testing schedule under RCW 19.27.710, or has not received a certificate of compliance within one hundred twenty days of an inspection under *RCW 19.27.730 that revealed a deficiency, then the building owner has committed a violation and may be issued a citation by the local authority. A violation of this section is a civil infraction, subject to all applicable local fees and other remedies for noncompliance. The monetary penalties in subsection (3) of this section apply when other penalties are not required by the local authority having jurisdiction.
 
 . The authority having jurisdiction may require the building owner to conspicuously post the citation at all pedestrian entrances and exits until a certificate of compliance has been issued pursuant to RCW 19.27.720 or the citation has been dismissed.

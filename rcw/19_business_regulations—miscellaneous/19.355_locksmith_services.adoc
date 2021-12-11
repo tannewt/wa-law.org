@@ -31,19 +31,19 @@ The definitions in this section apply throughout this chapter unless the context
 == 19.355.020 - Prohibited practices—Requirements.
 . No person whose primary business is to provide locksmith services and who represents himself or herself to the public as a locksmith may misrepresent his, her, or its geographic location by:
 
-.. Listing a local telephone number in a local telephone directory or on an internet web site if:
+.. Listing a local telephone number in a local telephone directory or on an internet website if:
 
-... Calls to the telephone number are routinely forwarded or otherwise transferred to a business location that is outside the calling area covered by the local telephone directory or outside the local calling area for the local telephone number listed on an internet web site; and
+... Calls to the telephone number are routinely forwarded or otherwise transferred to a business location that is outside the calling area covered by the local telephone directory or outside the local calling area for the local telephone number listed on an internet website; and
 
 ... The listing fails to conspicuously disclose the locality and state in which the business is located; or
 
-.. Listing a business name in a local telephone directory or on an internet web site if:
+.. Listing a business name in a local telephone directory or on an internet website if:
 
 ... The name misrepresents the business's geographic location; and
 
 ... The listing fails to disclose the locality and state in which the business is located.
 
-. A person whose primary business is to provide locksmith services and who represents himself or herself to the public as a locksmith must conspicuously display on the business web site and all advertising:
+. A person whose primary business is to provide locksmith services and who represents himself or herself to the public as a locksmith must conspicuously display on the business website and all advertising:
 
 .. The number of the business license issued to it by the state or a local government; or
 

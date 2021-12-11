@@ -1,7 +1,7 @@
 = 26.50 - Domestic violence prevention.
 :toc:
 
-== 26.50.010 - Definitions.
+== 26.50.010 - Definitions. (Effective until July 1, 2022.)
 As used in this chapter, the following terms shall have the meanings given them:
 
 . "Court" includes the superior, district, and municipal courts of the state of Washington.
@@ -22,7 +22,7 @@ As used in this chapter, the following terms shall have the meanings given them:
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1517-S2.SL.pdf?cite=2019%20c%20263%20§%20204[2019 c 263 § 204]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1943.SL.pdf?cite=2015%20c%20287%20§%208[2015 c 287 § 8]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%20406[2008 c 6 § 406]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5134-S.SL.pdf?cite=1999%20c%20184%20§%2013[1999 c 184 § 13]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5219-S.SL.pdf?cite=1995%20c%20246%20§%201[1995 c 246 § 1]; prior:  1992 c 111 § 7; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6103.SL.pdf?cite=1992%20c%2086%20§%203[1992 c 86 § 3]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1884-S.SL.pdf?cite=1991%20c%20301%20§%208[1991 c 301 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c263.pdf?cite=1984%20c%20263%20§%202[1984 c 263 § 2]; ]
 
-== 26.50.020 - Commencement of action—Jurisdiction—Venue.
+== 26.50.020 - Commencement of action—Jurisdiction—Venue. (Effective until July 1, 2022.)
 . [Empty]
 .. Any person may seek relief under this chapter by filing a petition with a court alleging that the person has been the victim of domestic violence committed by the respondent. The person may petition for relief on behalf of himself or herself and on behalf of minor family or household members.
 
@@ -49,19 +49,19 @@ As used in this chapter, the following terms shall have the meanings given them:
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1517-S2.SL.pdf?cite=2019%20c%20263%20§%20205[2019 c 263 § 205]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2777-S.SL.pdf?cite=2010%20c%20274%20§%20302[2010 c 274 § 302]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6347-S2.SL.pdf?cite=1992%20c%20111%20§%208[1992 c 111 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c375.pdf?cite=1989%20c%20375%20§%2028[1989 c 375 § 28]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c71.pdf?cite=1987%20c%2071%20§%201[1987 c 71 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c303.pdf?cite=1985%20c%20303%20§%201[1985 c 303 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c263.pdf?cite=1984%20c%20263%20§%203[1984 c 263 § 3]; ]
 
-== 26.50.021 - Actions on behalf of vulnerable adults—Authority of department of social and health services—Immunity from liability.
+== 26.50.021 - Actions on behalf of vulnerable adults—Authority of department of social and health services—Immunity from liability. (Effective until July 1, 2022.)
 The department of social and health services, in its discretion, may seek the relief provided in this chapter on behalf of and with the consent of any vulnerable adult as those persons are defined in RCW 74.34.020. Neither the department nor the state of Washington shall be liable for failure to seek relief on behalf of any persons under this section.
 
 [ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6400-S2.SL.pdf?cite=2000%20c%20119%20§%201[2000 c 119 § 1]; ]
 
-== 26.50.025 - Orders under this chapter and chapter  26.09, 26.10, 26.26A, or  26.26B RCW—Enforcement—Consolidation.
+== 26.50.025 - Orders under this chapter and chapter  26.09, 26.10, 26.26A, or  26.26B RCW—Enforcement—Consolidation. (Effective until July 1, 2022.)
 . Any order available under this chapter may be issued in actions under chapter 26.09, *26.10, 26.26A, or 26.26B RCW. If an order for protection is issued in an action under chapter 26.09, *26.10, 26.26A, or 26.26B RCW, the order shall be issued on the forms mandated by RCW 26.50.035(1). An order issued in accordance with this subsection is fully enforceable and shall be enforced under the provisions of this chapter.
 
 . If a party files an action under chapter 26.09, *26.10, 26.26A, or 26.26B RCW, an order issued previously under this chapter between the same parties may be consolidated by the court under that action and cause number. Any order issued under this chapter after consolidation shall contain the original cause number and the cause number of the action under chapter 26.09, *26.10, 26.26A, or 26.26B RCW. Relief under this chapter shall not be denied or delayed on the grounds that the relief is available in another action.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5333-S.SL.pdf?cite=2019%20c%2046%20§%205036[2019 c 46 § 5036]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5219-S.SL.pdf?cite=1995%20c%20246%20§%202[1995 c 246 § 2]; ]
 
-== 26.50.030 - Petition for an order for protection—Availability of forms and informational brochures—Bond not required.
+== 26.50.030 - Petition for an order for protection—Availability of forms and informational brochures—Bond not required. (Effective until July 1, 2022.)
 There shall exist an action known as a petition for an order for protection in cases of domestic violence.
 
 . A petition for relief shall allege the existence of domestic violence, and shall be accompanied by an affidavit made under oath stating the specific facts and circumstances from which relief is sought. Petitioner and respondent shall disclose the existence of any other litigation concerning the custody or residential placement of a child of the parties as set forth in RCW 26.27.281 and the existence of any other restraining, protection, or no-contact orders between the parties.
@@ -76,7 +76,7 @@ There shall exist an action known as a petition for an order for protection in c
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1668.SL.pdf?cite=2005%20c%20282%20§%2039[2005 c 282 § 39]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2472.SL.pdf?cite=1996%20c%20248%20§%2012[1996 c 248 § 12]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5219-S.SL.pdf?cite=1995%20c%20246%20§%203[1995 c 246 § 3]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6347-S2.SL.pdf?cite=1992%20c%20111%20§%202[1992 c 111 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c303.pdf?cite=1985%20c%20303%20§%202[1985 c 303 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c263.pdf?cite=1984%20c%20263%20§%204[1984 c 263 § 4]; ]
 
-== 26.50.035 - Development of instructions, informational brochures, forms, and handbook by the administrative office of the courts—Community resource list—Distribution of master copy.
+== 26.50.035 - Development of instructions, informational brochures, forms, and handbook by the administrative office of the courts—Community resource list—Distribution of master copy. (Effective until July 1, 2022.)
 . The administrative office of the courts shall develop and prepare instructions and informational brochures required under RCW 26.50.030(4), standard petition and order for protection forms, and a court staff handbook on domestic violence and the protection order process. The standard petition and order for protection forms must be used after September 1, 1994, for all petitions filed and orders issued under this chapter. The instructions, brochures, forms, and handbook shall be prepared in consultation with interested persons, including a representative of the state domestic violence coalition, judges, and law enforcement personnel.
 
 .. The instructions shall be designed to assist petitioners in completing the petition, and shall include a sample of standard petition and order for protection forms.
@@ -99,17 +99,17 @@ There shall exist an action known as a petition for an order for protection in c
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1517-S2.SL.pdf?cite=2019%20c%20263%20§%20912[2019 c 263 § 912]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5333-S.SL.pdf?cite=2019%20c%2046%20§%205037[2019 c 46 § 5037]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1668.SL.pdf?cite=2005%20c%20282%20§%2040[2005 c 282 § 40]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6400-S2.SL.pdf?cite=2000%20c%20119%20§%2014[2000 c 119 § 14]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5219-S.SL.pdf?cite=1995%20c%20246%20§%204[1995 c 246 § 4]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5360-S.SL.pdf?cite=1993%20c%20350%20§%202[1993 c 350 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c303.pdf?cite=1985%20c%20303%20§%203[1985 c 303 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c263.pdf?cite=1984%20c%20263%20§%2031[1984 c 263 § 31]; ]
 
-== 26.50.040 - Fees not permitted—Filing, service of process, certified copies.
+== 26.50.040 - Fees not permitted—Filing, service of process, certified copies. (Effective until July 1, 2022.)
 No fees for filing or service of process may be charged by a public agency to petitioners seeking relief under this chapter. Petitioners shall be provided the necessary number of certified copies at no cost.
 
 [ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5219-S.SL.pdf?cite=1995%20c%20246%20§%205[1995 c 246 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c303.pdf?cite=1985%20c%20303%20§%204[1985 c 303 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c263.pdf?cite=1984%20c%20263%20§%205[1984 c 263 § 5]; ]
 
-== 26.50.050 - Hearing—Service—Time.
+== 26.50.050 - Hearing—Service—Time. (Effective until July 1, 2022.)
 Upon receipt of the petition, the court shall order a hearing which shall be held not later than fourteen days from the date of the order. The court may schedule a hearing by telephone pursuant to local court rule, to reasonably accommodate a disability, or in exceptional circumstances to protect a petitioner from further acts of domestic violence. The court shall require assurances of the petitioner's identity before conducting a telephonic hearing. Except as provided in RCW 26.50.085 and 26.50.123, personal service shall be made upon the respondent not less than five court days prior to the hearing. If timely personal service cannot be made, the court shall set a new hearing date and shall either require an additional attempt at obtaining personal service or permit service by publication as provided in RCW 26.50.085 or service by mail as provided in RCW 26.50.123. The court shall not require more than two attempts at obtaining personal service and shall permit service by publication or by mail unless the petitioner requests additional time to attempt personal service. If the court permits service by publication or by mail, the court shall set the hearing date not later than twenty-four days from the date of the order. The court may issue an ex parte order for protection pending the hearing as provided in RCW 26.50.070, 26.50.085, and 26.50.123.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6357.SL.pdf?cite=2008%20c%20287%20§%202[2008 c 287 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5219-S.SL.pdf?cite=1995%20c%20246%20§%206[1995 c 246 § 6]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2745-S.SL.pdf?cite=1992%20c%20143%20§%201[1992 c 143 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c263.pdf?cite=1984%20c%20263%20§%206[1984 c 263 § 6]; ]
 
-== 26.50.055 - Appointment of interpreter.
+== 26.50.055 - Appointment of interpreter. (Effective until July 1, 2022.)
 . Pursuant to chapter 2.42 RCW, an interpreter shall be appointed for any party who, because of a hearing or speech impairment, cannot readily understand or communicate in spoken language.
 
 . Pursuant to chapter 2.43 RCW, an interpreter shall be appointed for any party who cannot readily speak or understand the English language.
@@ -118,7 +118,7 @@ Upon receipt of the petition, the court shall order a hearing which shall be hel
 
 [ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5219-S.SL.pdf?cite=1995%20c%20246%20§%2011[1995 c 246 § 11]; ]
 
-== 26.50.060 - Relief—Duration—Realignment of designation of parties—Award of costs, service fees, attorneys' fees, and limited license legal technician fees. (Effective until January 1, 2021.)
+== 26.50.060 - Relief—Duration—Realignment of designation of parties—Award of costs, service fees, attorneys' fees, and limited license legal technician fees. (Effective until July 1, 2022.)
 . Upon notice and after hearing, the court may provide relief as follows:
 
 .. Restrain the respondent from committing acts of domestic violence;
@@ -143,11 +143,13 @@ Upon receipt of the petition, the court shall order a hearing which shall be hel
 
 .. Consider the provisions of RCW 9.41.800;
 
-.. Order possession and use of essential personal effects. The court shall list the essential personal effects with sufficient specificity to make it clear which property is included. Personal effects may include pets. The court may order that a petitioner be granted the exclusive custody or control of any pet owned, possessed, leased, kept, or held by the petitioner, respondent, or minor child residing with either the petitioner or respondent and may prohibit the respondent from interfering with the petitioner's efforts to remove the pet. The court may also prohibit the respondent from knowingly coming within, or knowingly remaining within, a specified distance of specified locations where the pet is regularly found; and
+.. Order possession and use of essential personal effects. The court shall list the essential personal effects with sufficient specificity to make it clear which property is included. Personal effects may include pets. The court may order that a petitioner be granted the exclusive custody or control of any pet owned, possessed, leased, kept, or held by the petitioner, respondent, or minor child residing with either the petitioner or respondent and may prohibit the respondent from interfering with the petitioner's efforts to remove the pet. The court may also prohibit the respondent from knowingly coming within, or knowingly remaining within, a specified distance of specified locations where the pet is regularly found;
 
-.. Order use of a vehicle.
+.. Order use of a vehicle; and
 
-. If a protection order restrains the respondent from contacting the respondent's minor children the restraint shall be for a fixed period not to exceed one year. This limitation is not applicable to orders for protection issued under chapter 26.09, *26.10, 26.26A, or 26.26B RCW. With regard to other relief, if the petitioner has petitioned for relief on his or her own behalf or on behalf of the petitioner's family or household members or minor children, and the court finds that the respondent is likely to resume acts of domestic violence against the petitioner or the petitioner's family or household members or minor children when the order expires, the court may either grant relief for a fixed period or enter a permanent order of protection.
+.. Enter an order restricting the respondent from engaging in abusive litigation as set forth in chapter 26.51 RCW. A petitioner may request this relief in the petition or by separate motion. A petitioner may request this relief by separate motion at any time within five years of the date the order for protection is entered even if the order has since expired. A stand-alone motion for an order restricting abusive litigation may be brought by a party who meets the requirements of chapter 26.51 RCW regardless of whether the party has previously sought an order for protection under this chapter, provided the motion is made within five years of the date the order that made a finding of domestic violence was entered. In cases where a finding of domestic violence was entered pursuant to an order under chapter 26.09, *26.26, or 26.26A RCW, a motion for an order restricting abusive litigation may be brought under the family law case or as a stand-alone action filed under this chapter, when it is not reasonable or practical to file under the family law case.
+
+. If a protection order restrains the respondent from contacting the respondent's minor children the restraint shall be for a fixed period not to exceed one year. This limitation is not applicable to orders for protection issued under chapter 26.09, **26.10, 26.26A, or 26.26B RCW. With regard to other relief, if the petitioner has petitioned for relief on his or her own behalf or on behalf of the petitioner's family or household members or minor children, and the court finds that the respondent is likely to resume acts of domestic violence against the petitioner or the petitioner's family or household members or minor children when the order expires, the court may either grant relief for a fixed period or enter a permanent order of protection.
 
 If the petitioner has petitioned for relief on behalf of the respondent's minor children, the court shall advise the petitioner that if the petitioner wants to continue protection for a period beyond one year the petitioner may either petition for renewal pursuant to the provisions of this chapter or may seek relief pursuant to the provisions of chapter 26.09, 26.26A, or 26.26B RCW.
 
@@ -161,9 +163,9 @@ If the petitioner has petitioned for relief on behalf of the respondent's minor 
 
 . If the court declines to issue an order for protection or declines to renew an order for protection, the court shall state in writing on the order the particular reasons for the court's denial.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5333-S.SL.pdf?cite=2019%20c%2046%20§%205038[2019 c 46 § 5038]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5213.SL.pdf?cite=2018%20c%2084%20§%201[2018 c 84 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2777-S.SL.pdf?cite=2010%20c%20274%20§%20304[2010 c 274 § 304]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1148.SL.pdf?cite=2009%20c%20439%20§%202[2009 c 439 § 2]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6400-S2.SL.pdf?cite=2000%20c%20119%20§%2015[2000 c 119 § 15]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1999%20c%20147%20§%202[1999 c 147 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2472.SL.pdf?cite=1996%20c%20248%20§%2013[1996 c 248 § 13]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5219-S.SL.pdf?cite=1995%20c%20246%20§%207[1995 c 246 § 7]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2319-S2.SL.pdf?cite=1994%20sp.s.%20c%207%20§%20457[1994 sp.s. c 7 § 457]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2745-S.SL.pdf?cite=1992%20c%20143%20§%202[1992 c 143 § 2]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6347-S2.SL.pdf?cite=1992%20c%20111%20§%204[1992 c 111 § 4]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6103.SL.pdf?cite=1992%20c%2086%20§%204[1992 c 86 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c411.pdf?cite=1989%20c%20411%20§%201[1989 c 411 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c460.pdf?cite=1987%20c%20460%20§%2055[1987 c 460 § 55]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c303.pdf?cite=1985%20c%20303%20§%205[1985 c 303 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c263.pdf?cite=1984%20c%20263%20§%207[1984 c 263 § 7]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6268-S.SL.pdf?cite=2020%20c%20311%20§%209[2020 c 311 § 9]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5333-S.SL.pdf?cite=2019%20c%2046%20§%205038[2019 c 46 § 5038]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5213.SL.pdf?cite=2018%20c%2084%20§%201[2018 c 84 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2777-S.SL.pdf?cite=2010%20c%20274%20§%20304[2010 c 274 § 304]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1148.SL.pdf?cite=2009%20c%20439%20§%202[2009 c 439 § 2]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6400-S2.SL.pdf?cite=2000%20c%20119%20§%2015[2000 c 119 § 15]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1999%20c%20147%20§%202[1999 c 147 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2472.SL.pdf?cite=1996%20c%20248%20§%2013[1996 c 248 § 13]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5219-S.SL.pdf?cite=1995%20c%20246%20§%207[1995 c 246 § 7]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2319-S2.SL.pdf?cite=1994%20sp.s.%20c%207%20§%20457[1994 sp.s. c 7 § 457]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2745-S.SL.pdf?cite=1992%20c%20143%20§%202[1992 c 143 § 2]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6347-S2.SL.pdf?cite=1992%20c%20111%20§%204[1992 c 111 § 4]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6103.SL.pdf?cite=1992%20c%2086%20§%204[1992 c 86 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c411.pdf?cite=1989%20c%20411%20§%201[1989 c 411 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c460.pdf?cite=1987%20c%20460%20§%2055[1987 c 460 § 55]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c303.pdf?cite=1985%20c%20303%20§%205[1985 c 303 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c263.pdf?cite=1984%20c%20263%20§%207[1984 c 263 § 7]; ]
 
-== 26.50.070 - Ex parte temporary order for protection.
+== 26.50.070 - Ex parte temporary order for protection. (Effective until July 1, 2022.)
 . Where an application under this section alleges that irreparable injury could result from domestic violence if an order is not issued immediately without prior notice to the respondent, the court may grant an ex parte temporary order for protection, pending a full hearing, and grant relief as the court deems proper, including an order:
 
 .. Restraining any party from committing acts of domestic violence;
@@ -192,14 +194,14 @@ If the petitioner has petitioned for relief on behalf of the respondent's minor 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1786-S.SL.pdf?cite=2019%20c%20245%20§%2014[2019 c 245 § 14]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2368.SL.pdf?cite=2018%20c%2022%20§%209[2018 c 22 § 9]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2777-S.SL.pdf?cite=2010%20c%20274%20§%20305[2010 c 274 § 305]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6400-S2.SL.pdf?cite=2000%20c%20119%20§%2016[2000 c 119 § 16]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2472.SL.pdf?cite=1996%20c%20248%20§%2014[1996 c 248 § 14]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5219-S.SL.pdf?cite=1995%20c%20246%20§%208[1995 c 246 § 8]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2319-S2.SL.pdf?cite=1994%20sp.s.%20c%207%20§%20458[1994 sp.s. c 7 § 458]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2745-S.SL.pdf?cite=1992%20c%20143%20§%203[1992 c 143 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c411.pdf?cite=1989%20c%20411%20§%202[1989 c 411 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c263.pdf?cite=1984%20c%20263%20§%208[1984 c 263 § 8]; ]
 
-== 26.50.080 - Issuance of order—Assistance of peace officer—Designation of appropriate law enforcement agency.
+== 26.50.080 - Issuance of order—Assistance of peace officer—Designation of appropriate law enforcement agency. (Effective until July 1, 2022.)
 . When an order is issued under this chapter upon request of the petitioner, the court may order a peace officer to accompany the petitioner and assist in placing the petitioner in possession of those items indicated in the order or to otherwise assist in the execution of the order of protection. The order shall list all items that are to be included with sufficient specificity to make it clear which property is included. Orders issued under this chapter shall include a designation of the appropriate law enforcement agency to execute, serve, or enforce the order.
 
 . Upon order of a court, a peace officer shall accompany the petitioner in an order of protection and assist in placing the petitioner in possession of all items listed in the order and to otherwise assist in the execution of the order.
 
 [ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5219-S.SL.pdf?cite=1995%20c%20246%20§%209[1995 c 246 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c263.pdf?cite=1984%20c%20263%20§%209[1984 c 263 § 9]; ]
 
-== 26.50.085 - Hearing reset after ex parte order—Service by publication—Circumstances.
+== 26.50.085 - Hearing reset after ex parte order—Service by publication—Circumstances. (Effective until July 1, 2022.)
 . If the respondent was not personally served with the petition, notice of hearing, and ex parte order before the hearing, the court shall reset the hearing for twenty-four days from the date of entry of the order and may order service by publication instead of personal service under the following circumstances:
 
 .. The sheriff or municipal officer files an affidavit stating that the officer was unable to complete personal service upon the respondent. The affidavit must describe the number and types of attempts the officer made to complete service;
@@ -244,7 +246,7 @@ Petitioner . . . .
 
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2359-S.SL.pdf?cite=2016%20c%20202%20§%2025[2016 c 202 § 25]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2745-S.SL.pdf?cite=1992%20c%20143%20§%204[1992 c 143 § 4]; ]
 
-== 26.50.090 - Order—Service—Fees.
+== 26.50.090 - Order—Service—Fees. (Effective until July 1, 2022.)
 . An order issued under this chapter shall be personally served upon the respondent, except as provided in subsections (6) and (8) of this section.
 
 . The sheriff of the county or the peace officers of the municipality in which the respondent resides shall serve the respondent personally unless the petitioner elects to have the respondent served by a private party. If the order includes a requirement under RCW 9.41.800 for the immediate surrender of all firearms, dangerous weapons, and any concealed pistol license, the order must be served by a law enforcement officer.
@@ -263,12 +265,12 @@ Petitioner . . . .
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1786-S.SL.pdf?cite=2019%20c%20245%20§%2015[2019 c 245 § 15]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5219-S.SL.pdf?cite=1995%20c%20246%20§%2010[1995 c 246 § 10]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2745-S.SL.pdf?cite=1992%20c%20143%20§%206[1992 c 143 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c303.pdf?cite=1985%20c%20303%20§%206[1985 c 303 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c263.pdf?cite=1984%20c%20263%20§%2010[1984 c 263 § 10]; ]
 
-== 26.50.095 - Order following service by publication.
+== 26.50.095 - Order following service by publication. (Effective until July 1, 2022.)
 Following completion of service by publication as provided in RCW 26.50.085 or by mail as provided in RCW 26.50.123, if the respondent fails to appear at the hearing, the court may issue an order of protection as provided in RCW 26.50.060. That order must be served pursuant to RCW 26.50.090, and forwarded to the appropriate law enforcement agency pursuant to RCW 26.50.100.
 
 [ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5219-S.SL.pdf?cite=1995%20c%20246%20§%2012[1995 c 246 § 12]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2745-S.SL.pdf?cite=1992%20c%20143%20§%205[1992 c 143 § 5]; ]
 
-== 26.50.100 - Order—Transmittal to law enforcement agency—Record in law enforcement information system—Enforceability.
+== 26.50.100 - Order—Transmittal to law enforcement agency—Record in law enforcement information system—Enforceability. (Effective until July 1, 2022.)
 . A copy of an order for protection granted under this chapter shall be forwarded by the clerk of the court on or before the next judicial day to the appropriate law enforcement agency specified in the order.
 
 Upon receipt of the order, the law enforcement agency shall forthwith enter the order into any computer-based criminal intelligence information system available in this state used by law enforcement agencies to list outstanding warrants. The order shall remain in the computer for the period stated in the order. The law enforcement agency shall only expunge from the computer-based criminal intelligence information system orders that are expired, vacated, or superseded. Entry into the law enforcement information system constitutes notice to all law enforcement agencies of the existence of the order. The order is fully enforceable in any county in the state.
@@ -277,7 +279,7 @@ Upon receipt of the order, the law enforcement agency shall forthwith enter the 
 
 [ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2472.SL.pdf?cite=1996%20c%20248%20§%2015[1996 c 248 § 15]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5219-S.SL.pdf?cite=1995%20c%20246%20§%2013[1995 c 246 § 13]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2745-S.SL.pdf?cite=1992%20c%20143%20§%207[1992 c 143 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c263.pdf?cite=1984%20c%20263%20§%2011[1984 c 263 § 11]; ]
 
-== 26.50.110 - Violation of order—Penalties.
+== 26.50.110 - Violation of order—Penalties. (Effective until July 1, 2022.)
 . [Empty]
 .. Whenever an order is granted under this chapter, chapter 7.92, 7.90, 9A.40, 9A.46, 9A.88, 9.94A, 10.99, 26.09, *26.10, 26.26A, 26.26B, or 74.34 RCW, any temporary order for protection is granted under chapter 7.40 RCW pursuant to chapter 74.34 RCW, there is a valid foreign protection order as defined in RCW 26.52.020, or there is a valid Canadian domestic violence protection order as defined in RCW 26.55.010, and the respondent or person to be restrained knows of the order, a violation of any of the following provisions of the order is a gross misdemeanor, except as provided in subsections (4) and (5) of this section:
 
@@ -309,7 +311,7 @@ Upon receipt of the order, the law enforcement agency shall forthwith enter the 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1517-S2.SL.pdf?cite=2019%20c%20263%20§%20913[2019 c 263 § 913]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5333-S.SL.pdf?cite=2019%20c%2046%20§%205039[2019 c 46 § 5039]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1079-S.SL.pdf?cite=2017%20c%20230%20§%209[2017 c 230 § 9]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5631-S.SL.pdf?cite=2015%20c%20275%20§%2015[2015 c 275 § 15]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1316-S.SL.pdf?cite=2015%20c%20248%20§%201[2015 c 248 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf?cite=2013%20c%2084%20§%2031[2013 c 84 § 31]; prior:  2009 c 439 § 3; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1002-S.SL.pdf?cite=2009%20c%20288%20§%203[2009 c 288 § 3]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1642-S.SL.pdf?cite=2007%20c%20173%20§%202[2007 c 173 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=2006%20c%20138%20§%2025[2006 c 138 § 25]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6400-S2.SL.pdf?cite=2000%20c%20119%20§%2024[2000 c 119 § 24]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2472.SL.pdf?cite=1996%20c%20248%20§%2016[1996 c 248 § 16]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5219-S.SL.pdf?cite=1995%20c%20246%20§%2014[1995 c 246 § 14]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6103.SL.pdf?cite=1992%20c%2086%20§%205[1992 c 86 § 5]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1884-S.SL.pdf?cite=1991%20c%20301%20§%206[1991 c 301 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c263.pdf?cite=1984%20c%20263%20§%2012[1984 c 263 § 12]; ]
 
-== 26.50.115 - Enforcement of ex parte order—Knowledge of order prerequisite to penalties—Reasonable efforts to serve copy of order.
+== 26.50.115 - Enforcement of ex parte order—Knowledge of order prerequisite to penalties—Reasonable efforts to serve copy of order. (Effective until July 1, 2022.)
 . When the court issues an ex parte order pursuant to RCW 26.50.070 or an order of protection pursuant to RCW 26.50.060, the court shall advise the petitioner that the respondent may not be subjected to the penalties set forth in RCW 26.50.110 for a violation of the order unless the respondent knows of the order.
 
 . When a peace officer investigates a report of an alleged violation of an order for protection issued under this chapter the officer shall attempt to determine whether the respondent knew of the existence of the protection order. If the law enforcement officer determines that the respondent did not or probably did not know about the protection order and the officer is provided a current copy of the order, the officer shall serve the order on the respondent if the respondent is present. If the respondent is not present, the officer shall make reasonable efforts to serve a copy of the order on the respondent. If the officer serves the respondent with the petitioner's copy of the order, the officer shall give petitioner a receipt indicating that petitioner's copy has been served on the respondent. After the officer has served the order on the respondent, the officer shall enforce prospective compliance with the order.
@@ -318,12 +320,12 @@ Upon receipt of the order, the law enforcement agency shall forthwith enter the 
 
 [ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2472.SL.pdf?cite=1996%20c%20248%20§%2017[1996 c 248 § 17]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5219-S.SL.pdf?cite=1995%20c%20246%20§%2015[1995 c 246 § 15]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2745-S.SL.pdf?cite=1992%20c%20143%20§%208[1992 c 143 § 8]; ]
 
-== 26.50.120 - Violation of order—Prosecuting attorney or attorney for municipality may be requested to assist—Costs and attorney's fee.
+== 26.50.120 - Violation of order—Prosecuting attorney or attorney for municipality may be requested to assist—Costs and attorney's fee. (Effective until July 1, 2022.)
 When a party alleging a violation of an order for protection issued under this chapter states that the party is unable to afford private counsel and asks the prosecuting attorney for the county or the attorney for the municipality in which the order was issued for assistance, the attorney shall initiate and prosecute a contempt proceeding if there is probable cause to believe that the violation occurred. In this action, the court may require the violator of the order to pay the costs incurred in bringing the action, including a reasonable attorney's fee.
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c263.pdf?cite=1984%20c%20263%20§%2013[1984 c 263 § 13]; ]
 
-== 26.50.123 - Service by mail.
+== 26.50.123 - Service by mail. (Effective until July 1, 2022.)
 . In circumstances justifying service by publication under RCW 26.50.085(1), if the serving party files an affidavit stating facts from which the court determines that service by mail is just as likely to give actual notice as service by publication and that the serving party is unable to afford the cost of service by publication, the court may order that service be made by mail. Such service shall be made by any person over eighteen years of age, who is competent to be a witness, other than a party, by mailing copies of the order and other process to the party to be served at his or her last known address or any other address determined by the court to be appropriate. Two copies shall be mailed, postage prepaid, one by ordinary first-class mail and the other by a form of mail requiring a signed receipt showing when and to whom it was delivered. The envelopes must bear the return address of the sender.
 
 . Proof of service under this section shall be consistent with court rules for civil proceedings.
@@ -332,12 +334,12 @@ When a party alleging a violation of an order for protection issued under this c
 
 [ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5219-S.SL.pdf?cite=1995%20c%20246%20§%2016[1995 c 246 § 16]; ]
 
-== 26.50.125 - Service by publication or mailing—Costs.
+== 26.50.125 - Service by publication or mailing—Costs. (Effective until July 1, 2022.)
 Except as provided in RCW 10.14.055, the court may permit service by publication or by mail under this chapter only if the petitioner pays the cost of publication or mailing unless the county legislative authority allocates funds for service of process by publication or by mail for indigent petitioners.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2655.SL.pdf?cite=2002%20c%20117%20§%205[2002 c 117 § 5]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5219-S.SL.pdf?cite=1995%20c%20246%20§%2017[1995 c 246 § 17]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2745-S.SL.pdf?cite=1992%20c%20143%20§%209[1992 c 143 § 9]; ]
 
-== 26.50.130 - Order for protection—Modification or termination—Service—Transmittal.
+== 26.50.130 - Order for protection—Modification or termination—Service—Transmittal. (Effective until July 1, 2022.)
 . Upon a motion with notice to all parties and after a hearing, the court may modify the terms of an existing order for protection or may terminate an existing order for protection.
 
 . A respondent's motion to modify or terminate an order for protection that is permanent or issued for a fixed period exceeding two years must include a declaration setting forth facts supporting the requested order for termination or modification. The motion and declaration must be served according to subsection (8) of this section. The nonmoving parties to the proceeding may file opposing declarations. The court shall deny the motion unless it finds that adequate cause for hearing the motion is established by the declarations. If the court finds that the respondent established adequate cause, the court shall set a date for hearing the respondent's motion.
@@ -397,19 +399,19 @@ Except as provided in RCW 10.14.055, the court may permit service by publication
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1786-S.SL.pdf?cite=2019%20c%20245%20§%2016[2019 c 245 § 16]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1565-S.SL.pdf?cite=2011%20c%20137%20§%202[2011 c 137 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6357.SL.pdf?cite=2008%20c%20287%20§%203[2008 c 287 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c263.pdf?cite=1984%20c%20263%20§%2014[1984 c 263 § 14]; ]
 
-== 26.50.135 - Residential placement or custody of a child—Prerequisite.
+== 26.50.135 - Residential placement or custody of a child—Prerequisite. (Effective until July 1, 2022.)
 . Before granting an order under this chapter directing residential placement of a child or restraining or limiting a party's contact with a child, the court shall consult the judicial information system, if available, to determine the pendency of other proceedings involving the residential placement of any child of the parties for whom residential placement has been requested.
 
 . Jurisdictional issues regarding out-of-state proceedings involving the custody or residential placement of any child of the parties shall be governed by the uniform child custody jurisdiction [and enforcement] act, chapter 26.27 RCW.
 
 [ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5219-S.SL.pdf?cite=1995%20c%20246%20§%2019[1995 c 246 § 19]; ]
 
-== 26.50.140 - Peace officers—Immunity.
+== 26.50.140 - Peace officers—Immunity. (Effective until July 1, 2022.)
 No peace officer may be held criminally or civilly liable for making an arrest under RCW 26.50.110 if the police officer acts in good faith and without malice.
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c263.pdf?cite=1984%20c%20263%20§%2017[1984 c 263 § 17]; ]
 
-== 26.50.150 - Domestic violence perpetrator programs.
+== 26.50.150 - Domestic violence perpetrator programs. (Effective until July 1, 2022. Recodified as RCW  43.20A.735.)
 Any program that provides domestic violence treatment to perpetrators of domestic violence must be certified by the department of social and health services and meet minimum standards for domestic violence treatment purposes. The department of social and health services shall adopt rules for standards of approval of domestic violence perpetrator programs. The treatment must meet the following minimum qualifications:
 
 . All treatment must be based upon a full, complete clinical intake including but not limited to: Current and past violence history; a lethality risk assessment; history of treatment from past domestic violence perpetrator treatment programs; a complete diagnostic evaluation; a substance abuse assessment; criminal history; assessment of cultural issues, learning disabilities, literacy, and special language needs; and a treatment plan that adequately and appropriately addresses the treatment needs of the individual.
@@ -438,7 +440,7 @@ Any program that provides domestic violence treatment to perpetrators of domesti
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5955-S.SL.pdf?cite=2019%20c%20470%20§%205[2019 c 470 § 5]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1661-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%206%20§%20334[2017 3rd sp.s. c 6 § 334]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2777-S.SL.pdf?cite=2010%20c%20274%20§%20501[2010 c 274 § 501]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1181-S.SL.pdf?cite=1999%20c%20147%20§%201[1999 c 147 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1884-S.SL.pdf?cite=1991%20c%20301%20§%207[1991 c 301 § 7]; ]
 
-== 26.50.160 - Judicial information system—Database.
+== 26.50.160 - Judicial information system—Database. (Effective until July 1, 2022.)
 To prevent the issuance of competing protection orders in different courts and to give courts needed information for issuance of orders, the judicial information system shall be available in each district, municipal, and superior court by July 1, 1997, and shall include a database containing the following information:
 
 . The names of the parties and the cause number for every order of protection issued under this title, every sexual assault protection order issued under chapter 7.90 RCW, every criminal no-contact order issued under chapters 9A.46 and 10.99 RCW, every antiharassment order issued under chapter 10.14 RCW, every dissolution action under chapter 26.09 RCW, every third-party custody action under *chapter 26.10 RCW, every parentage action under chapter 26.26A or 26.26B RCW, every restraining order issued on behalf of an abused child or adult dependent person under chapter 26.44 RCW, every foreign protection order filed under chapter 26.52 RCW, every Canadian domestic violence protection order filed under chapter 26.55 RCW, and every order for protection of a vulnerable adult under chapter 74.34 RCW. When a guardian or the department of social and health services or department of children, youth, and families has petitioned for relief on behalf of an abused child, adult dependent person, or vulnerable adult, the name of the person on whose behalf relief was sought shall be included in the database as a party rather than the guardian or appropriate department;
@@ -449,34 +451,34 @@ To prevent the issuance of competing protection orders in different courts and t
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1517-S2.SL.pdf?cite=2019%20c%20263%20§%20914[2019 c 263 § 914]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5333-S.SL.pdf?cite=2019%20c%2046%20§%205040[2019 c 46 § 5040]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1661-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%206%20§%20335[2017 3rd sp.s. c 6 § 335]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2576-S.SL.pdf?cite=2006%20c%20138%20§%2026[2006 c 138 § 26]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6400-S2.SL.pdf?cite=2000%20c%20119%20§%2025[2000 c 119 § 25]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2595.SL.pdf?cite=2000%20c%2051%20§%201[2000 c 51 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5219-S.SL.pdf?cite=1995%20c%20246%20§%2018[1995 c 246 § 18]; ]
 
-== 26.50.165 - Judicial information system—Names of adult cohabitants in third-party custody actions.
+== 26.50.165 - Judicial information system—Names of adult cohabitants in third-party custody actions. (Effective until July 1, 2022.)
 In addition to the information required to be included in the judicial information system under RCW 26.50.160, the database shall contain the names of any adult cohabitant of a petitioner to a third-party custody action under *chapter 26.10 RCW.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1878.SL.pdf?cite=2003%20c%20105%20§%204[2003 c 105 § 4]; ]
 
-== 26.50.200 - Title to real estate—Effect.
+== 26.50.200 - Title to real estate—Effect. (Effective until July 1, 2022.)
 Nothing in this chapter may affect the title to real estate: PROVIDED, That a judgment for costs or fees awarded under this chapter shall constitute a lien on real estate to the extent provided in chapter 4.56 RCW.
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c303.pdf?cite=1985%20c%20303%20§%207[1985 c 303 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c263.pdf?cite=1984%20c%20263%20§%2015[1984 c 263 § 15]; ]
 
-== 26.50.210 - Proceedings additional.
+== 26.50.210 - Proceedings additional. (Effective until July 1, 2022.)
 Any proceeding under chapter 263, Laws of 1984 is in addition to other civil or criminal remedies.
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c263.pdf?cite=1984%20c%20263%20§%2016[1984 c 263 § 16]; ]
 
-== 26.50.220 - Parenting plan—Designation of parent for other state and federal purposes.
+== 26.50.220 - Parenting plan—Designation of parent for other state and federal purposes. (Effective until July 1, 2022.)
 Solely for the purposes of all other state and federal statutes which require a designation or determination of custody, a parenting plan shall designate the parent with whom the child is scheduled to reside a majority of the time as the custodian of the child. However, this designation shall not affect either parent's rights and responsibilities under the parenting plan. In the absence of such a designation, the parent with whom the child is scheduled to reside the majority of the time shall be deemed to be the custodian of the child for the purposes of such federal and state statutes.
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c375.pdf?cite=1989%20c%20375%20§%2026[1989 c 375 § 26]; ]
 
-== 26.50.230 - Protection order against person with a disability, brain injury, or impairment.
+== 26.50.230 - Protection order against person with a disability, brain injury, or impairment. (Effective until July 1, 2022.)
 . The administrative office of the courts shall update the law enforcement information form which it provides for the use of a petitioner who is seeking an ex parte protection order in such a fashion as to prompt the person to disclose on the form whether the person who the petitioner is seeking to restrain has a disability, brain injury, or impairment requiring special assistance.
 
 . Any peace officer who serves a protection order on a respondent with the knowledge that the respondent requires special assistance due to a disability, brain injury, or impairment shall make a reasonable effort to accommodate the needs of the respondent to the extent practicable without compromise to the safety of the petitioner.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2777-S.SL.pdf?cite=2010%20c%20274%20§%20303[2010 c 274 § 303]; ]
 
-== 26.50.240 - Personal jurisdiction—Nonresident individuals.
+== 26.50.240 - Personal jurisdiction—Nonresident individuals. (Effective until July 1, 2022.)
 . In a proceeding in which a petition for an order for protection under this chapter is sought, a court of this state may exercise personal jurisdiction over a nonresident individual if:
 
 .. The individual is personally served with a petition within this state;
@@ -498,7 +500,7 @@ Solely for the purposes of all other state and federal statutes which require a 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2777-S.SL.pdf?cite=2010%20c%20274%20§%20306[2010 c 274 § 306]; ]
 
-== 26.50.250 - Disclosure of information.
+== 26.50.250 - Disclosure of information. (Effective until July 1, 2022. Recodified as RCW  70.123.078.)
 . [Empty]
 .. No court or administrative body may compel any person or domestic violence program as defined in RCW 70.123.020 to disclose the name, address, or location of any domestic violence program, including a shelter or transitional housing facility location, in any civil or criminal case or in any administrative proceeding unless the court finds by clear and convincing evidence that disclosure is necessary for the implementation of justice after consideration of safety and confidentiality concerns of the parties and other residents of the domestic violence program, and other alternatives to disclosure that would protect the interests of the parties.
 
@@ -510,12 +512,12 @@ Solely for the purposes of all other state and federal statutes which require a 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2363-S.SL.pdf?cite=2012%20c%20223%20§%209[2012 c 223 § 9]; ]
 
-== 26.50.900 - Short title.
+== 26.50.900 - Short title. (Effective until July 1, 2022.)
 This chapter may be cited as the "Domestic Violence Prevention Act".
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c263.pdf?cite=1984%20c%20263%20§%201[1984 c 263 § 1]; ]
 
-== 26.50.901 - Effective date—1984 c 263.
+== 26.50.901 - Effective date—1984 c 263. (Effective until July 1, 2022.)
 Sections 1 through 29 of this act shall take effect on September 1, 1984.
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c263.pdf?cite=1984%20c%20263%20§%2032[1984 c 263 § 32]; ]

@@ -242,6 +242,36 @@ The proclamation of a state of emergency and other proclamations or orders issue
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5260.SL.pdf?cite=2019%20c%20472%20§%202[2019 c 472 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6950.SL.pdf?cite=2008%20c%20181%20§%201[2008 c 181 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%20222[2003 c 53 § 222]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c186.pdf?cite=1969%20ex.s.%20c%20186%20§%203[1969 ex.s. c 186 § 3]; ]
 
+== 43.06.225 - State of emergency—Health care law waivers and suspensions.
+. [Empty]
+.. If when declaring or amending a statewide state of emergency pursuant to RCW 43.06.010, the governor determines that the emergency demands immediate action by hospitals to prevent critical health system failures and ensure hospitals' ability to work with emergency management in responding to the emergency, the governor shall, either simultaneously or within five days of that determination, specify within the emergency order or amended emergency order which of the following health care-related statutes and substantially equivalent regulations shall be waived or suspended based on the nature of the declared emergency:
+
+... RCW 70.38.105(4) (a), (e), and (h);
+
+... RCW 70.41.110, the following language only: "premises and";
+
+... RCW 70.41.230;
+
+... RCW 70.41.090 (3), (4), and (5);
+
+.. RCW 18.64.043(1), the following language only: "of location, which shall entitle the owner to operate such pharmacy at the location specified, or such other temporary location as the secretary may approve,";
+
+.. RCW 18.64.043(2)(a), the following language only: "of location";
+
+.. RCW 18.64.043(3), the following language only: "and to keep the license of location or the renewal thereof properly exhibited in said pharmacy.";
+
+.. RCW 43.70.280(2), the following language only: "Such extension, reduction, or other modification of a licensing, certification, or registration period shall be by rule or regulation of the department of health adopted in accordance with the provisions of chapter 34.05 RCW. Such rules and regulations may provide a method for imposing and collecting such additional proportional fee as may be required for the extended or modified period."; and
+
+... RCW 18.360.010(11), the following language only: "physically present and is" and "in the facility. The health care practitioner does not need to be present during procedures to withdraw blood, but must be immediately available.".
+
+.. Hospitals that rely on waiver or suspension under (a) of this subsection shall notify the department within 14 days of initiating such reliance.
+
+.. Nothing in this section prevents the governor from waiving or suspending any statutes and substantially equivalent regulations outside the time frames established in this section. Additionally, the governor may waive or suspend any additional statutes, without limitation, as the governor deems necessary to address the emergency.
+
+. Waivers and suspensions in subsection (1) of this section do not apply except to projects undertaken to provide or respond to surge capacity, including temporary increases in bed capacity, during the governor's declaration of a statewide state of emergency. Such projects and increases in bed capacity must comply with these statutory and regulatory provisions after the termination of the state of emergency.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5178-S.SL.pdf?cite=2021%20c%20268%20§%201[2021 c 268 § 1]; ]
+
 == 43.06.230 - State of emergency—Destroying or damaging property or causing personal injury—Penalty.
 After the proclamation of a state of emergency as provided in RCW 43.06.010, any person who maliciously destroys or damages any real or personal property or maliciously injures another is guilty of a class B felony and upon conviction thereof shall be imprisoned in a state correctional facility for not less than two years nor more than ten years.
 
@@ -279,7 +309,7 @@ The governor may in his or her discretion order the state militia pursuant to ch
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5038.SL.pdf?cite=2009%20c%20549%20§%205023[2009 c 549 § 5023]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c186.pdf?cite=1969%20ex.s.%20c%20186%20§%209[1969 ex.s. c 186 § 9]; ]
 
-== 43.06.335 - Washington quality award council—Organization—Duties.
+== 43.06.335 - Washington quality award council—Organization—Duties. (Effective until January 1, 2022.)
 . The Washington quality award council shall be organized as a private, nonprofit corporation, in accordance with chapter 24.03 RCW and this section.
 
 . The council shall oversee the governor's Washington state quality award program. The purpose of the program is to improve the overall competitiveness of the state's economy by stimulating Washington state industries, business, and organizations to bring about measurable success through setting standards of organizational excellence, encouraging organizational self-assessment, identifying successful organizations as role models, and providing a valuable mechanism for promoting and strengthening a commitment to continuous quality improvement in all sectors of the state's economy. The governor shall annually present the award to organizations that improve the quality of their products and services and are noteworthy examples of high-performing work organizations, as determined by the council in consultation with the governor or appointed representative.
@@ -369,7 +399,7 @@ The governor may in his or her discretion order the state militia pursuant to ch
 
 .. To maintain a sustainable coordinated focus, including the involvement of and the collaboration among all levels of government and nongovernmental entities, the private sector, and citizens by increasing the state's ability to work to address impacts of ocean acidification;
 
-.. To advise and work with the University of Washington and others to conduct ongoing technical analysis on the effects and sources of ocean acidification. The recommendations must identify a range of actions necessary to implement the recommendations and take into consideration the differences between instate impacts and sources and out-of-state impacts and sources;
+.. To advise and work with the University of Washington and others to conduct ongoing technical analysis on the effects and sources of ocean acidification. The recommendations must identify a range of actions necessary to implement the recommendations and take into consideration the differences between in-state impacts and sources and out-of-state impacts and sources;
 
 .. To deliver recommendations to the governor and appropriate committees in the Washington state senate and house of representatives that must include, as necessary, any minority reports requested by a councilmember;
 
@@ -1027,4 +1057,19 @@ In recognition of the sovereign authority of tribal governments, the governor ma
 Nothing in chapter 132, Laws of 2020 in any way limits, restricts, reduces, or affects local taxes authorized under chapter 82.14 RCW, RCW 81.104.170, Title 35, 36, or 84 RCW, or any other provision of state law authorizing a local tax.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2803-S.SL.pdf?cite=2020%20c%20132%20§%203[2020 c 132 § 3]; ]
+
+== 43.06.530 - National 988 hotline and behavioral health crisis system coordinator. (Expires June 30, 2024.)
+. The governor shall appoint a 988 hotline and behavioral health crisis system coordinator to provide project coordination and oversight for the implementation and administration of the 988 crisis hotline, other requirements of chapter 302, Laws of 2021, and other projects supporting the behavioral health crisis system. The coordinator shall:
+
+.. Oversee the collaboration between the department of health and the health care authority in their respective roles in supporting the crisis call center hubs, providing the necessary support services for 988 callers, and establishing adequate requirements and guidance for their contractors to fulfill the requirements of chapter 302, Laws of 2021;
+
+.. Ensure coordination and facilitate communication between stakeholders such as crisis call center hub contractors, behavioral health administrative service organizations, county authorities, other crisis hotline centers, managed care organizations, and, in collaboration with the state enhanced 911 coordination office, with 911 emergency communications systems;
+
+.. Review the development of adequate and consistent training for crisis call center personnel and, in coordination with the state enhanced 911 coordination office, for 911 operators with respect to their interactions with the crisis hotline center; and
+
+.. Coordinate implementation of other behavioral health initiatives among state agencies and educational institutions, as appropriate, including coordination of data between agencies.
+
+. This section expires June 30, 2024.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1477-S2.SL.pdf?cite=2021%20c%20302%20§%20107[2021 c 302 § 107]; ]
 

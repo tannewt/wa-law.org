@@ -25,18 +25,16 @@ The definitions in this section apply throughout this chapter unless the context
 
 . "Eligible school district" means a school district of the second class as identified in RCW 28A.300.065(2).
 
-. "Eligible student" means a resident student who received his or her high school diploma or high school equivalency certificate as provided in RCW 28B.50.536 in Washington and who:
+. "Eligible student" means a resident student who:
 
 .. [Empty]
-... Has been accepted at a four-year institution of higher education into an eligible education program leading to a baccalaureate degree;
+... Received his or her high school diploma or high school equivalency certificate as provided in RCW 28B.50.536 in Washington and has been accepted at a four-year institution of higher education into an eligible education program leading to a baccalaureate degree;
 
-... Will attend a two-year institution of higher education and intends to transfer to an eligible education program at a four-year institution of higher education;
+... Received his or her high school diploma or high school equivalency certificate as provided in RCW 28B.50.536 in Washington and will attend a two-year institution of higher education and intends to transfer to an eligible education program at a four-year institution of higher education;
 
-... Has been accepted at an institution of higher education into a professional-technical degree program in an eligible education program;
+... Received his or her high school diploma or equivalent and has been accepted at an institution of higher education into a professional-technical certificate or degree program in an eligible education program; or
 
-... Has been accepted at an institution of higher education into a professional-technical certificate program in an eligible education program; or
-
-.. Has been accepted at an institution of higher education into an eligible advanced degree program that leads to credentials in health professions;
+... Has been accepted at an institution of higher education into an eligible advanced degree program that leads to credentials in health professions;
 
 .. Declares an intention to obtain a professional-technical certificate, professional-technical degree, baccalaureate degree, or an advanced degree; and
 
@@ -60,7 +58,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 . "Rural jobs program" means the rural county high employer demand jobs program created in this chapter.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2158-S2.SL.pdf?cite=2019%20c%20406%20§%2063[2019 c 406 § 63]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2177-S2.SL.pdf?cite=2018%20c%20254%20§%209[2018 c 254 § 9]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2143-S2.SL.pdf?cite=2018%20c%20209%20§%206[2018 c 209 § 6]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1452.SL.pdf?cite=2018%20c%20114%20§%202[2018 c 114 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2612-S.SL.pdf?cite=2014%20c%20208%20§%201[2014 c 208 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1686-S.SL.pdf?cite=2013%20c%2039%20§%2013[2013 c 39 § 13]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2088-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2013%20§%202[2011 1st sp.s. c 13 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1425-S.SL.pdf?cite=2021%20c%20133%20§%202[2021 c 133 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2158-S2.SL.pdf?cite=2019%20c%20406%20§%2063[2019 c 406 § 63]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2177-S2.SL.pdf?cite=2018%20c%20254%20§%209[2018 c 254 § 9]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2143-S2.SL.pdf?cite=2018%20c%20209%20§%206[2018 c 209 § 6]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1452.SL.pdf?cite=2018%20c%20114%20§%202[2018 c 114 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2612-S.SL.pdf?cite=2014%20c%20208%20§%201[2014 c 208 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1686-S.SL.pdf?cite=2013%20c%2039%20§%2013[2013 c 39 § 13]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2088-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2013%20§%202[2011 1st sp.s. c 13 § 2]; ]
 
 == 28B.145.020 - Opportunity scholarship board.
 . The opportunity scholarship board is created. The board consists of eleven members:
@@ -110,7 +108,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 (B) The state appropriations for the Washington college grant program under chapter 28B.92 RCW meet or exceed state appropriations for the state need grant made in the 2011-2013 biennium, adjusted for inflation, and eligibility for Washington college grant recipients is at least seventy percent of state median family income;
 
-.. An amount equal to at least fifty percent of all grants and contributions must be deposited into the scholarship account until such time as twenty million dollars have been deposited into the scholarship account, after which time the private donors may designate whether their contributions must be deposited to the scholarship account, the student support pathways account, the advanced degrees pathways account, or the endowment account. The board and the program administrator must work to maximize private sector contributions to these accounts to maintain a robust scholarship program while simultaneously building the endowment, and to determine the division between the accounts in the case of undesignated grants and contributions, taking into account the need for a long-term funding mechanism and the short-term needs of families and students in Washington. The first five million dollars in state match, as provided in RCW 28B.145.040, shall be deposited into the scholarship account and thereafter the state match shall be deposited into the specified accounts created in this subsection (2)(b) in equal proportion to the private funds deposited in each account, except that no more than one million dollars in state match shall be deposited into the advanced degrees pathways account in a single fiscal biennium; and
+.. An amount equal to at least fifty percent of all grants and contributions must be deposited into the scholarship account until such time as twenty million dollars have been deposited into the scholarship account, after which time the private donors may designate whether their contributions must be deposited to the scholarship account, the student support pathways account, the advanced degrees pathways account, or the endowment account. The board and the program administrator must work to maximize private sector contributions to these accounts to maintain a robust scholarship program while simultaneously building the endowment, and to determine the division between the accounts in the case of undesignated grants and contributions, taking into account the need for a long-term funding mechanism and the short-term needs of families and students in Washington. The first five million dollars in state match, as provided in RCW 28B.145.040, shall be deposited into the scholarship account and thereafter the state match shall be deposited into the specified accounts created in this subsection (2)(b) in equal proportion to the private funds deposited in each account, except that no more than $5,000,000 in state match shall be deposited into the advanced degrees pathways account in a single fiscal biennium; and
 
 .. Once moneys in the opportunity scholarship match transfer account are subject to an agreement under RCW 28B.145.050(5) and are deposited in the scholarship account, the student support pathways account, the advanced degrees pathways account, or the endowment account under this section, the state acts in a fiduciary rather than ownership capacity with regard to those assets. Assets in the scholarship account, the student support pathways account, the advanced degrees pathways account, and the endowment account are not considered state money, common cash, or revenue to the state;
 
@@ -138,7 +136,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 .. Solicit and accept grants and contributions from private sources for opportunity expansion awards.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2158-S2.SL.pdf?cite=2019%20c%20406%20§%2065[2019 c 406 § 65]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2143-S2.SL.pdf?cite=2018%20c%20209%20§%208[2018 c 209 § 8]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1488-S3.SL.pdf?cite=2018%20c%20204%20§%202[2018 c 204 § 2]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1452.SL.pdf?cite=2018%20c%20114%20§%204[2018 c 114 § 4]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2612-S.SL.pdf?cite=2014%20c%20208%20§%203[2014 c 208 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2088-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2013%20§%204[2011 1st sp.s. c 13 § 4]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1504-S2.SL.pdf?cite=2021%20c%20170%20§%205[2021 c 170 § 5]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2158-S2.SL.pdf?cite=2019%20c%20406%20§%2065[2019 c 406 § 65]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2143-S2.SL.pdf?cite=2018%20c%20209%20§%208[2018 c 209 § 8]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1488-S3.SL.pdf?cite=2018%20c%20204%20§%202[2018 c 204 § 2]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1452.SL.pdf?cite=2018%20c%20114%20§%204[2018 c 114 § 4]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2612-S.SL.pdf?cite=2014%20c%20208%20§%203[2014 c 208 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2088-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2013%20§%204[2011 1st sp.s. c 13 § 4]; ]
 
 == 28B.145.040 - Opportunity scholarship program.
 . The opportunity scholarship program is established.
@@ -280,7 +278,7 @@ The office of student financial assistance and the institutions of higher educat
 
 . The program administrator has the duties and responsibilities provided under this section, including but not limited to:
 
-.. Publicizing the rural jobs program and conducting outreach to eligible counties;
+.. Publicize the rural jobs program and conducting outreach to eligible counties;
 
 .. In consultation with the state board for community and technical colleges, any interested community or technical college located in an eligible county, and the county's workforce development council, identify high employer demand fields within the eligible counties. When identifying high employer demand fields, the board must consider:
 
@@ -300,11 +298,13 @@ The office of student financial assistance and the institutions of higher educat
 
 . To be eligible for scholarship funds under the rural jobs program, a student must:
 
-.. Be a resident of an eligible county or have attended and graduated from a school in an eligible school district;
+.. Either:
+
+... Be a resident of an eligible county and be enrolled in a community or technical college established under chapter 28B.50 RCW; or
+
+... Have attended and graduated from a school in an eligible school district and be enrolled in a community or technical college established under chapter 28B.50 RCW that is located in an eligible county;
 
 .. Be a resident student as defined in RCW 28B.15.012;
-
-.. Be enrolled in a community or technical college established under chapter 28B.50 RCW located in an eligible county;
 
 .. Be in a certificate, degree, or other industry-recognized credential or training program that has been identified by the board as a program that prepares students for a high employer demand field;
 
@@ -316,7 +316,7 @@ The office of student financial assistance and the institutions of higher educat
 
 . A scholarship award under the rural jobs program may not result in a reduction of any gift aid. Nothing in this section creates any right or entitlement.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2177-S2.SL.pdf?cite=2018%20c%20254%20§%204[2018 c 254 § 4]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1425-S.SL.pdf?cite=2021%20c%20133%20§%203[2021 c 133 § 3]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2177-S2.SL.pdf?cite=2018%20c%20254%20§%204[2018 c 254 § 4]; ]
 
 == 28B.145.110 - Rural jobs program—Administrator duties—Student support pathways account.
 . For the purposes of the rural jobs program, the program administrator shall:

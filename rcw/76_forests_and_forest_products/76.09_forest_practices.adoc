@@ -651,7 +651,7 @@ The department, along with other affected agencies and institutions, shall annua
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c137.pdf?cite=1974%20ex.s.%20c%20137%20§%2027[1974 ex.s. c 137 § 27]; ]
 
 == 76.09.280 - Removal of log and debris jams from streams.
-Forestland owners shall permit reasonable access requested by appropriate agencies for removal from stream beds abutting their property of log and debris jams accumulated from upstream ownerships. Any owner of logs in such jams in claiming or removing them shall be required to remove all unmerchantable material from the stream bed in accordance with the forest practices regulations. Any material removed from stream beds must also be removed in compliance with all applicable laws administered by other agencies.
+Forestland owners shall permit reasonable access requested by appropriate agencies for removal from streambeds abutting their property of log and debris jams accumulated from upstream ownerships. Any owner of logs in such jams in claiming or removing them shall be required to remove all unmerchantable material from the streambed in accordance with the forest practices regulations. Any material removed from streambeds must also be removed in compliance with all applicable laws administered by other agencies.
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c137.pdf?cite=1974%20ex.s.%20c%20137%20§%2028[1974 ex.s. c 137 § 28]; ]
 
@@ -989,9 +989,9 @@ Sections 1 through 28 of this 1974 act shall be known and may be cited as the "F
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c137.pdf?cite=1974%20ex.s.%20c%20137%20§%2029[1974 ex.s. c 137 § 29]; ]
 
 == 76.09.905 - Air pollution laws not modified.
-Nothing in RCW 76.09.010 through 76.09.280 or 90.48.420 shall modify *chapter 70.94 RCW or any other provision of law relating to the control of air pollution.
+Nothing in RCW 76.09.010 through 76.09.280 or 90.48.420 shall modify chapter 70A.15 RCW or any other provision of law relating to the control of air pollution.
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c137.pdf?cite=1974%20ex.s.%20c%20137%20§%2031[1974 ex.s. c 137 § 31]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2080[2021 c 65 § 80]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c137.pdf?cite=1974%20ex.s.%20c%20137%20§%2031[1974 ex.s. c 137 § 31]; ]
 
 == 76.09.910 - Shoreline management act, hydraulics act, other statutes and ordinances not modified—Exceptions.
 Nothing in RCW 76.09.010 through 76.09.280 as now or hereafter amended shall modify any requirements to comply with the Shoreline Management Act of 1971 except as limited by RCW 76.09.240 as now or hereafter amended, or the hydraulics act (*RCW 77.55.100), other state statutes in effect on January 1, 1975, and any local ordinances not inconsistent with RCW 76.09.240 as now or hereafter amended.

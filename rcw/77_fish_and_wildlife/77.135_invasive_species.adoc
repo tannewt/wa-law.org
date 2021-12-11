@@ -216,7 +216,7 @@ The definitions in this section apply throughout this chapter unless the context
 .. May assist other states and Canadian government entities, in the Columbia river basin, in management actions on affected water bodies outside of the state where these actions may prevent the spread of the species into state water bodies.
 
 . [Empty]
-.. The department must provide notice of quarantine declarations, rapid response, and infested site management actions to owners of an affected water body or property. Notice may be provided by any reasonable means, such as in person, by United States postal service, by publication in a local newspaper, by electronic publication including social media or postings on the department's public web site, or by posting signs at the water body.
+.. The department must provide notice of quarantine declarations, rapid response, and infested site management actions to owners of an affected water body or property. Notice may be provided by any reasonable means, such as in person, by United States postal service, by publication in a local newspaper, by electronic publication including social media or postings on the department's public website, or by posting signs at the water body.
 
 .. The department must provide updates to owners of an affected water body or property based on management action type as follows:
 
@@ -228,7 +228,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 ... A final update at the conclusion of any management action.
 
-.. In addition to owners of an affected water body or property, the department must provide notice of a quarantine declaration to members of the public by any reasonable means for an area subject to a quarantine declaration, such as by publication in a local newspaper, by electronic publication including social media or postings on the department's public web site, or by posting signs at the water body. The department must provide updates at reasonable intervals and a final update at the conclusion of the quarantine declaration.
+.. In addition to owners of an affected water body or property, the department must provide notice of a quarantine declaration to members of the public by any reasonable means for an area subject to a quarantine declaration, such as by publication in a local newspaper, by electronic publication including social media or postings on the department's public website, or by posting signs at the water body. The department must provide updates at reasonable intervals and a final update at the conclusion of the quarantine declaration.
 
 . The department must publicly list those water bodies or portions of water bodies in which a prohibited level 1 or level 2 species has been detected. The department may list those areas in which a prohibited level 3 species has been detected.
 

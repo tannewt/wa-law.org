@@ -38,7 +38,7 @@ The definitions in this section apply throughout this chapter unless the context
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2158-S2.SL.pdf?cite=2019%20c%20406%20§%2057[2019 c 406 § 57]; ]
 
 == 28C.30.030 - Career connected learning cross-agency work group—Establishment.
-. Within existing resources, a career connected learning cross-agency work group is established to scale up and expand high-quality career connected learning opportunities in communities across the state.
+. Within existing resources, a career connected learning cross-agency work group is established to scale up and expand high quality career connected learning opportunities in communities across the state.
 
 . The purpose of the work group is to coordinate agency functions and external partnerships and carry out the duties and responsibilities set forth in RCW 28C.30.040.
 
@@ -107,7 +107,7 @@ The career connected learning cross-agency work group established in RCW 28C.30.
 
 .. Create a statewide inventory that identifies existing support programs to promote equitable participation in career connected learning, including resources for populations to reengage with educational opportunities;
 
-.. Develop web sites and other resources, and coordinate current resources managed by the workforce training and education coordinating board, the student achievement council, and the employment security department, to inform students, employers, and the public about career connected learning opportunities;
+.. Develop websites and other resources, and coordinate current resources managed by the workforce training and education coordinating board, the student achievement council, and the employment security department, to inform students, employers, and the public about career connected learning opportunities;
 
 .. Develop financial and other support services to increase access and success in career connected learning for students facing barriers or living in underserved communities;
 

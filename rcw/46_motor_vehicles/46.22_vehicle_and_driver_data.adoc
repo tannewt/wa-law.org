@@ -1,0 +1,38 @@
+= 46.22 - Vehicle and driver data.
+:toc:
+
+== 46.22.010 - Disclosure and use.
+. Confidentiality of records. Any information or record containing personal or identity information obtained by the department, pursuant to the administration of driver and vehicle records, shall be private and confidential except as otherwise provided in federal and state law.
+
+. Obligations of data recipients and subrecipients. (a) All data recipients and subrecipients, as defined by the department, authorized to receive personal or identity information originating from the department have an affirmative obligation to take all reasonable actions necessary to prevent the unauthorized disclosure and misuse of personal or identity information. The department may require audit or investigation of any entity receiving personal or identity information that originated from the department.
+
+.. If misuse or an unauthorized disclosure of personal or identity information occurs, all parties aware of the violation must inform the department and take all reasonably available actions to mitigate and rectify the disclosure to the department's standards.
+
+. Contractual requirements. (a) Prior to providing data services that include the release of any personal or identity information as authorized by federal or state law, the department must enter into a contract with the entity authorized to receive the personal or identity information. The contract must include, at a minimum:
+
+... Limitations and restrictions for the use of personal or identity information;
+
+... A requirement that the data recipient allow the department or its agent to conduct regular permissible use audits;
+
+... A requirement that the data recipient undergo regular data security audits, and standards for the conduct of such audits. Internal audit programs required under RCW 43.88.160 are considered independent third-party auditors for the purposes of this section;
+
+... A provision that all costs of the audits performed pursuant to this subsection are not the responsibility of the department;
+
+.. Provisions governing redisclosure of personal or identity information by a data recipient or subrecipient other than to those categories of parties permitted by contract and standards for the handling of such information;
+
+.. Other privacy, compliance, and contractual requirements as may be set forth in rule by the department to protect personal or identity information;
+
+.. A statement that the ownership of data provided under this chapter remains with the department, and ownership does not transfer to the data recipient or subrecipient; and
+
+.. A provision that the data recipient must conduct or review regular data security and permissible use audits of all subrecipients, and standards for the conduct of such audits.
+
+.. The department may adopt other contract requirements as necessary to ensure the privacy of individuals and protection of personal or identity information.
+
+. Penalties. (a) The unauthorized disclosure or use of personal or identity information shall subject the disclosing entity to a civil penalty of up to twenty thousand dollars, per incident, in 2021 and annually adjusted by the department on the first calendar day of each year based on changes in the United States consumer price index for all urban consumers.
+
+.. Other applicable sanctions under state and federal law may also apply. The amount of any penalties collected pursuant to (a) of this subsection shall be paid into the department's technology improvement and data management account created in RCW 46.68.063.
+
+.. If personal or identity information provided by the department is used for any purpose other than that authorized in the data recipient's contract with the department, the data recipient and any subrecipient responsible for the misuse, unauthorized disclosure, or nondata destruction may be denied further access to personal or identity information by the department.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5152-S.SL.pdf?cite=2021%20c%2093%20§%204[2021 c 93 § 4]; ]
+

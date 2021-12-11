@@ -159,6 +159,18 @@ The department of social and health services, in consultation with relevant stat
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2848-S.SL.pdf?cite=2006%20c%20259%20§%204[2006 c 259 § 4]; ]
 
+== 70.123.078 - Disclosure of information. (Effective July 1, 2022.)
+. [Empty]
+.. No court or administrative body may compel any person or domestic violence program as defined in RCW 70.123.020 to disclose the name, address, or location of any domestic violence program, including a shelter or transitional housing facility location, in any civil or criminal case or in any administrative proceeding unless the court finds by clear and convincing evidence that disclosure is necessary for the implementation of justice after consideration of safety and confidentiality concerns of the parties and other residents of the domestic violence program, and other alternatives to disclosure that would protect the interests of the parties.
+
+.. The court's findings shall be made following a hearing in which the domestic violence program has been provided notice of the request for disclosure and an opportunity to respond.
+
+. In any proceeding where the confidential name, address, or location of a domestic violence program is ordered to be disclosed, the court shall order that the parties be prohibited from further dissemination of the confidential information, and that any portion of any records containing such confidential information be sealed.
+
+. Any person who obtains access to and intentionally and maliciously releases confidential information about the location of a domestic violence program for any purpose other than required by a court proceeding is guilty of a gross misdemeanor.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2363-S.SL.pdf?cite=2012%20c%20223%20§%209[2012 c 223 § 9]; ]
+
 == 70.123.080 - Department to consult.
 The department shall consult in all phases with key stakeholders in the implementation of this chapter, including relevant state departments, the domestic violence coalition, individuals or groups who have experience providing culturally appropriate services to populations that have traditionally been underserved or unserved, and other persons and organizations having experience and expertise in the field of domestic violence.
 
@@ -215,7 +227,7 @@ A shelter shall not be held liable in any civil action for denial or withdrawal 
 
 .. Development of services to victims of domestic violence and their families, including shelters, safe homes, transitional housing, community and legal advocates, and children's services; and
 
-.. Local and regional teams to oversee implementation of the system, ensure that efforts continue over the years, and assist with day-to-day and system-wide coordination.
+.. Local and regional teams to oversee implementation of the system, ensure that efforts continue over the years, and assist with day-to-day and systemwide coordination.
 
 [ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1884-S.SL.pdf?cite=1991%20c%20301%20§%2012[1991 c 301 § 12]; ]
 

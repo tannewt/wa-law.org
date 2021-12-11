@@ -139,14 +139,14 @@ The definitions in this section apply throughout this chapter unless the context
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2887-S.SL.pdf?cite=2018%20c%20301%20§%205[2018 c 301 § 5]; ]
 
-== 36.32.055 - Five-member commission—When authorized—Ballot proposition—Petition—Procedures. (Effective until January 1, 2021.)
-. The board of commissioners of any noncharter county with a population of three hundred thousand or more may cause a ballot proposition to be submitted at a general election to the voters of the county authorizing the board of commissioners to be increased to five members.
+== 36.32.055 - Five-member commission—When authorized—Ballot proposition—Petition—Procedures.
+. The board of commissioners of any noncharter county with a population of three hundred thousand or more, and less than four hundred thousand, may cause a ballot proposition to be submitted at a general election to the voters of the county authorizing the board of commissioners to be increased to five members.
 
 . As an alternative procedure, a ballot proposition shall be submitted to the voters of a noncharter county authorizing the board of commissioners to be increased to five members, upon petition of the county voters equal to at least ten percent of the voters voting at the last county general election. At least twenty percent of the signatures on the petition shall come from each of the existing commissioner districts.
 
 Any petition requesting that such an election be held shall be submitted to the county auditor for verification of the signatures thereon. Within no more than thirty days after the submission of the petition, the auditor shall determine if the petition contains the requisite number of valid signatures. The auditor shall certify whether or not the petition has been signed by the requisite number of county voters and forward such petition to the board of county commissioners. If the petition has been signed by the requisite number of county voters, the board of county commissioners shall submit such a proposition to the voters for their approval or rejection at the next general election held at least sixty days after the proposition has been certified by the auditor.
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c252.pdf?cite=1990%20c%20252%20§%202[1990 c 252 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2887-S.SL.pdf?cite=2018%20c%20301%20§%209[2018 c 301 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c252.pdf?cite=1990%20c%20252%20§%202[1990 c 252 § 2]; ]
 
 == 36.32.0552 - Five-member commission—Newly created positions—How filled—County divided into five districts.
 If the ballot proposition receives majority voter approval, the size of the board of county commissioners shall be increased to five members as provided in this section.
@@ -221,7 +221,7 @@ Whenever there is a vacancy in the board of county commissioners, except as prov
 
 .. The county legislative authority must give notice of any regular meeting held pursuant to this subsection (3) at least thirty days before the time of the meeting specified in the notice. At a minimum, notice must be:
 
-... Posted on the county's web site;
+... Posted on the county's website;
 
 ... Published in a newspaper of general circulation in the county; and
 
@@ -346,6 +346,83 @@ Each board of county commissioners of the several counties of the state of Washi
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5187.SL.pdf?cite=2017%20c%2037%20§%201[2017 c 37 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%20204[2003 c 53 § 204]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5018.SL.pdf?cite=1997%20c%20245%20§%203[1997 c 245 § 3]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5183-S.SL.pdf?cite=1995%20c%20194%20§%205[1995 c 194 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c182.pdf?cite=1969%20ex.s.%20c%20182%20§%202[1969 ex.s. c 182 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c108.pdf?cite=1963%20c%20108%20§%201[1963 c 108 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c4.pdf?cite=1963%20c%204%20§%2036.32.210[1963 c 4 § 36.32.210]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1931c95.pdf?cite=1931%20c%2095%20§%201[1931 c 95 § 1]; RRS § 4056-1. FORMER PARTS OF SECTION:   1931 c 95 § 2; RRS § 4056-2, now codified as RCW  36.32.213.   1931 c 95 § 3; RRS § 4056-3, now codified as RCW  36.32.215; ]
 
+== 36.32.232 - Contract goals for county electric ferry vessel procurement.
+To increase small business participation in ferry vessel procurement, the Washington state department of transportation's office of equal opportunity shall establish contract goals for county electric ferry vessel procurement.
+
+. The contract goal is defined as a percentage of the contract award amount that the prime contractor must meet by subcontracting with small business enterprises.
+
+. Small business enterprises intending to benefit from the small business enterprise enforceable goals program established in this section must meet the definition of "small business" in RCW 39.26.010.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1502-S.SL.pdf?cite=2021%20c%20224%20§%202[2021 c 224 § 2]; ]
+
+== 36.32.234 - Competitive bids—Electric ferries.
+Any county may use the following competitive bidding procedures for procurement and design of electric ferries:
+
+. [Empty]
+.. After bids that are submitted in response to a competitive solicitation process are reviewed by the awarding county, the awarding county may:
+
+... Reject all bids and rebid or cancel the competitive solicitation;
+
+... Request best and final offers from responsive and responsible bidders; or
+
+... Award the purchase or contract to the lowest responsive and responsible bidder.
+
+.. The county may award one or more contracts from a competitive solicitation.
+
+. In determining whether the bidder is a responsible bidder, the county must consider the following elements:
+
+.. The ability, capacity, and skill of the bidder to perform the contract or provide the service required;
+
+.. The character, integrity, reputation, judgment, experience, and efficiency of the bidder;
+
+.. Whether the bidder can perform the contract within the time specified;
+
+.. The quality of performance of previous contracts or services;
+
+.. The previous and existing compliance by the bidder with laws relating to the contract or services;
+
+.. Whether, within the three-year period immediately preceding the date of the bid solicitation, the bidder has been determined by a final and binding citation and notice of assessment issued by the department of labor and industries or through a civil judgment entered by a court of limited or general jurisdiction to have willfully violated, as defined in RCW 49.48.082, any provision of chapter 49.46, 49.48, or 49.52 RCW; and
+
+.. Such other information as may be secured having a bearing on the decision to award the contract.
+
+. Due to the unique aspects of electric ferry design and the importance of well-integrated ship and shore equipment, in determining the lowest responsive and responsible bidder for the design and procurement of an electric ferry, a county may consider best value criteria, including but not limited to:
+
+.. Whether the bid satisfies the needs of the county as specified in the solicitation documents;
+
+.. Whether the bid encourages diverse contractor participation;
+
+.. Whether the bid provides competitive pricing, economies, and efficiencies;
+
+.. Whether the bid considers human health and environmental impacts;
+
+.. Whether the bid appropriately weighs cost and noncost considerations;
+
+.. Life-cycle cost;
+
+.. Project manager capabilities, including subcontractor management;
+
+.. Proposed approach to overall project plan, including integration, commissioning, and acceptance testing; and
+
+.. Demonstrated contractor and subcontractor technical knowledge or specific technical capabilities to meet technical elements of the design specified in the bid documents.
+
+. The solicitation document must clearly set forth the requirements and criteria that the contract will apply in evaluating bid submissions. Before award of a contract, a bidder shall submit to the contracting county a signed statement in accordance with chapter 5.50 RCW verifying under penalty of perjury that the bidder is in compliance with the responsible bidder criteria requirement of subsection (2)(f) of this section. A contracting county may award a contract in reasonable reliance upon such a sworn statement.
+
+. The awarding county may at its discretion reject the bid of any contractor who has failed to perform satisfactorily on a previous contract with the county.
+
+. After reviewing all bid submissions, a county may enter into negotiations with the lowest responsive and responsible bidder in order to determine if the bid may be improved. A county may not use this negotiation opportunity to permit a bidder to change a nonresponsive bid into a responsive bid.
+
+. Except as provided in (a) of this subsection, all proceedings, records, contracts, and other public records relating to electric ferry design and procurement under this chapter shall be open to the inspection of any interested person, firm, or corporation in accordance with chapter 42.56 RCW.
+
+.. Trade secrets, as defined in RCW 19.108.010, or other proprietary information submitted by a bidder, offeror, or contractor in connection with electric ferry design and procurement under this chapter shall be exempt from disclosure under chapter 42.56 RCW pursuant to RCW 42.56.270 (1) and (2) if the bidder, offeror, or contractor specifically states in writing at the time specific identified materials or information is submitted to the county the reasons why protection is necessary and identifies the data or materials to be protected, and the county concurs that disclosure would harm the competitive position of the entity submitting the material and that disclosure would not serve public interest in ensuring fair and open competition for procurement.
+
+.. All documents related to a procurement under chapter 224, Laws of 2021 are exempt from disclosure until the notification of the highest scoring finalist is made or the selection process is terminated.
+
+. Where critical equipment selections can be made to mature a ferry design, reducing cost and performance risk in shipyard contracts, these selections may be made and the chosen vendors specified by name in bid specifications without allowing substitutions. Counties and their consultants may evaluate cost and noncost considerations when making these selections provided that the selection is made in good faith to identify the equipment best suited to the county's needs.
+
+. For purposes of this section, a county may designate a public works department as an alternative to the purchasing department as the lead agency for the design and procurement of electric ferries.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1502-S.SL.pdf?cite=2021%20c%20224%20§%201[2021 c 224 § 1]; ]
+
 == 36.32.235 - Competitive bids—Purchasing department—Counties with a population of four hundred thousand or more—Public works procedures—Riverine and stormwater projects—Exceptions.
 . In each county which by resolution establishes a county purchasing department, the purchasing department shall enter into leases of personal property on a competitive basis and purchase all supplies, materials, and equipment on a competitive basis, for all departments of the county, as provided in this chapter and chapter 39.04 RCW, except that the county purchasing department is not required to make purchases that are paid from the county road fund or equipment rental and revolving fund.
 
@@ -454,9 +531,9 @@ In any county having a purchasing department the board of county commissioners s
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c4.pdf?cite=1963%20c%204%20§%2036.32.260[1963 c 4 § 36.32.260]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c169.pdf?cite=1961%20c%20169%20§%202[1961 c 169 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1945c61.pdf?cite=1945%20c%2061%20§%203[1945 c 61 § 3]; Rem. Supp. 1945 § 10322-17; ]
 
 == 36.32.265 - Competitive bids—Inapplicability to certain agreements relating to water pollution control, solid waste handling facilities.
-RCW 36.32.240, 36.32.250, and 36.32.260 do not apply to the selection of persons or entities to construct or develop water pollution control facilities or to provide water pollution control services under *RCW 70.150.040 or the selection of persons or entities to construct or develop solid waste handling facilities or to provide solid waste handling services under RCW 36.58.090.
+RCW 36.32.240, 36.32.250, and 36.32.260 do not apply to the selection of persons or entities to construct or develop water pollution control facilities or to provide water pollution control services under RCW 70A.140.040 or the selection of persons or entities to construct or develop solid waste handling facilities or to provide solid waste handling services under RCW 36.58.090.
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c399.pdf?cite=1989%20c%20399%20§%208[1989 c 399 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c436.pdf?cite=1987%20c%20436%20§%209[1987 c 436 § 9]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2025[2021 c 65 § 25]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c399.pdf?cite=1989%20c%20399%20§%208[1989 c 399 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c436.pdf?cite=1987%20c%20436%20§%209[1987 c 436 § 9]; ]
 
 == 36.32.270 - Competitive bids—Exemptions.
 The county legislative authority may waive the competitive bidding requirements of this chapter pursuant to RCW 39.04.280 if an exemption contained within that section applies to the purchase or public work.

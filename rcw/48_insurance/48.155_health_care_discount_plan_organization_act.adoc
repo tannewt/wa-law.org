@@ -168,7 +168,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 .. In making a determination under (a) of this subsection, the commissioner may consider, for example, whether the applicant or an officer or manager of the applicant: (i) Is not financially responsible; (ii) does not have adequate expertise or experience to operate a medical discount plan organization; or (iii) is not of good character. Among the factors that the commissioner may consider in making the determination is whether the applicant or an affiliate or a business formerly owned or managed by the applicant or an officer or manager of the applicant has had a previous application for a license, or other authority, to operate as any entity regulated by the commissioner denied, revoked, suspended, or terminated for cause, or is under investigation for or has been found in violation of a statute or regulation in another jurisdiction within the previous five years.
 
-. Prior to licensure by the commissioner, each discount plan organization must establish an internet web site in order to conform to the requirements of RCW 48.155.070(2).
+. Prior to licensure by the commissioner, each discount plan organization must establish an internet website in order to conform to the requirements of RCW 48.155.070(2).
 
 . [Empty]
 .. A license is effective for up to one year, unless prior to its expiration the license is renewed in accordance with this subsection or suspended or revoked in accordance with subsection (9) of this section. Licenses issued or renewed on or after July 1, 2010, will be subject to renewal annually on July 1st. If not so renewed, the license will automatically expire on the renewal date.
@@ -275,7 +275,7 @@ The discount plan organization shall maintain the books and records described in
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5480-S.SL.pdf?cite=2009%20c%20175%20§%209[2009 c 175 § 9]; ]
 
-== 48.155.070 - Written health care provider agreements required—Terms—Internet web site.
+== 48.155.070 - Written health care provider agreements required—Terms—Internet website.
 . [Empty]
 .. A discount plan organization shall have a written health care provider agreement with all health care providers for whose health care services it provides access to a discount to its members. The written health care provider agreement may be entered into directly with the health care provider or indirectly with a health care provider network to which the health care provider belongs.
 
@@ -300,7 +300,7 @@ The discount plan organization shall maintain the books and records described in
 .. The discount plan organization shall maintain a copy of each health care provider agreement into which it has entered and shall promptly furnish a copy of each agreement to the commissioner when requested.
 
 . [Empty]
-.. Each discount plan organization shall maintain on an internet web site a list of the names and addresses of the health care providers with which it has a current provider agreement directly or through a health care provider network. This list must be updated every thirty days. The internet web site address must be prominently displayed on all of its advertisements, marketing materials, brochures, and discount plan cards.
+.. Each discount plan organization shall maintain on an internet website a list of the names and addresses of the health care providers with which it has a current provider agreement directly or through a health care provider network. This list must be updated every thirty days. The internet website address must be prominently displayed on all of its advertisements, marketing materials, brochures, and discount plan cards.
 
 .. This subsection applies to those health care providers with which the discount plan organization has a current provider agreement directly as well as those health care providers that are members of a health care provider network with which the discount plan organization has a current provider agreement.
 
@@ -357,7 +357,7 @@ The discount plan organization shall maintain the books and records described in
 
 ... That the plan member is obligated to pay for all health care services, but will receive the stated discount from those health care providers that have a current provider agreement with the discount plan organization; and
 
-.. The toll-free telephone number and internet web site address for the licensed discount plan organization for prospective members and members to obtain additional information about and assistance with the discount plan and up-to-date lists of health care providers participating in the discount plan.
+.. The toll-free telephone number and internet website address for the licensed discount plan organization for prospective members and members to obtain additional information about and assistance with the discount plan and up-to-date lists of health care providers participating in the discount plan.
 
 .. If the initial contact with a prospective member is by telephone, the disclosures required under (a) of this subsection must be made orally and included in the initial written materials that describe the benefits under the discount plan provided to the prospective or new member.
 
@@ -392,12 +392,12 @@ The discount plan organization shall maintain the books and records described in
 
 .. Procedures for filing complaints under the discount plan organization's complaint system and information that, if the member remains dissatisfied after completing the organization's complaint system, the plan member may contact the office of the insurance commissioner; and
 
-.. The name, telephone number, internet web site address, and mailing address of the licensed discount plan organization or other entity where the member can make inquiries about the plan, or send cancellation notices and file complaints.
+.. The name, telephone number, internet website address, and mailing address of the licensed discount plan organization or other entity where the member can make inquiries about the plan, or send cancellation notices and file complaints.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5480-S.SL.pdf?cite=2009%20c%20175%20§%2012[2009 c 175 § 12]; ]
 
 == 48.155.100 - Organization changes require notice to commissioner.
-Each discount plan organization shall provide the commissioner at least thirty days' advance notice of any change in the discount plan organization's name, address, principal business address, mailing address, toll-free telephone number, or internet web site address.
+Each discount plan organization shall provide the commissioner at least thirty days' advance notice of any change in the discount plan organization's name, address, principal business address, mailing address, toll-free telephone number, or internet website address.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5480-S.SL.pdf?cite=2009%20c%20175%20§%2013[2009 c 175 § 13]; ]
 

@@ -122,12 +122,12 @@ Each agency, where applicable, must designate short-term parking not to exceed t
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5897-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2015%20§%203[2013 2nd sp.s. c 15 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2373-S2.SL.pdf?cite=2012%20c%20261%20§%207[2012 c 261 § 7]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5622-S2.SL.pdf?cite=2011%20c%20320%20§%209[2011 c 320 § 9]; ]
 
-== 79A.80.090 - Recreation access pass account. (Effective until July 1, 2021.)
+== 79A.80.090 - Recreation access pass account.
 . The recreation access pass account is created in the state treasury. All moneys received from the sale of discover passes and day-use permits must be deposited into the account.
 
 . Each fiscal biennium, the first seventy-one million dollars in revenue must be distributed to the agencies in the following manner:
 
-.. Eight percent to the department of fish and wildlife and deposited into the state wildlife account created in RCW 77.12.170;
+.. Eight percent to the department of fish and wildlife and deposited into the limited fish and wildlife account created in RCW 77.12.170(1);
 
 .. Eight percent to the department of natural resources and deposited into the parkland trust revolving fund created in RCW 43.30.385;
 
@@ -137,7 +137,7 @@ Each agency, where applicable, must designate short-term parking not to exceed t
 
 . Each fiscal biennium, revenues in excess of seventy-one million dollars must be distributed equally among the agencies to the accounts identified in subsection (2) of this section.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5883-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%201%20§%20988[2017 3rd sp.s. c 1 § 988]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2376-S.SL.pdf?cite=2016%20sp.s.%20c%2036%20§%20948[2016 sp.s. c 36 § 948]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5622-S2.SL.pdf?cite=2011%20c%20320%20§%2010[2011 c 320 § 10]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6072-S.SL.pdf?cite=2020%20c%20148%20§%2027[2020 c 148 § 27]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5883-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%201%20§%20988[2017 3rd sp.s. c 1 § 988]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2376-S.SL.pdf?cite=2016%20sp.s.%20c%2036%20§%20948[2016 sp.s. c 36 § 948]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5622-S2.SL.pdf?cite=2011%20c%20320%20§%2010[2011 c 320 § 10]; ]
 
 == 79A.80.100 - Purchase, return, replacement of discover passes and day-use permits.
 . Discover passes and day-use permits may be made available for purchase:

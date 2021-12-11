@@ -4,7 +4,7 @@
 == 28A.604.010 - Definitions.
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 
-. "School service" means a web site, mobile application, or online service that: (a) Is designed and marketed primarily for use in a K-12 school; (b) is used at the direction of teachers or other employees of a K-12 school; and (c) collects, maintains, or uses student personal information. A "school service" does not include a web site, mobile application, or online service that is designed and marketed for use by individuals or entities generally, even if also marketed to a United States K-12 school.
+. "School service" means a website, mobile application, or online service that: (a) Is designed and marketed primarily for use in a K-12 school; (b) is used at the direction of teachers or other employees of a K-12 school; and (c) collects, maintains, or uses student personal information. A "school service" does not include a website, mobile application, or online service that is designed and marketed for use by individuals or entities generally, even if also marketed to a United States K-12 school.
 
 . "School service provider" means an entity that operates a school service to the extent it is operating in that capacity.
 
@@ -42,13 +42,13 @@ The definitions in this section apply throughout this chapter unless the context
 
 . The provisions of subsections (1), (2), (4), and (5) of this section may not apply to the use or disclosure of personal information by a school service provider to:
 
-.. Protect the security or integrity of its web site, mobile application, or online service;
+.. Protect the security or integrity of its website, mobile application, or online service;
 
 .. Ensure legal or regulatory compliance or to take precautions against liability;
 
 .. Respond to or participate in judicial process;
 
-.. Protect the safety of users or others on the web site, mobile application, or online service;
+.. Protect the safety of users or others on the website, mobile application, or online service;
 
 .. Investigate a matter related to public safety; or
 
@@ -72,7 +72,7 @@ Notwithstanding RCW 28A.604.010 through 28A.604.060, nothing in this chapter is 
 
 . Adaptive learning or personalized or customized education;
 
-. Maintaining, developing, supporting, improving, or diagnosing the school service provider's web site, mobile application, online service, or application;
+. Maintaining, developing, supporting, improving, or diagnosing the school service provider's website, mobile application, online service, or application;
 
 . Providing recommendations for school, educational, or employment purposes within a school service without the response being determined in whole or in part by payment or other consideration from a third party; or
 
@@ -95,13 +95,13 @@ This chapter shall not be construed to:
 
 . Impose a duty upon a provider of an interactive computer service, as defined in 47 U.S.C. Sec. 230, to review or enforce compliance with this section by third-party content providers;
 
-. Apply to general audience internet web sites, general audience mobile applications, or general audience online services even if login credentials created for a school service provider's web site, mobile application, or online service may be used to access those general audience web sites, mobile applications, or online services;
+. Apply to general audience internet websites, general audience mobile applications, or general audience online services even if login credentials created for a school service provider's website, mobile application, or online service may be used to access those general audience websites, mobile applications, or online services;
 
 . Impede the ability of students to download, export, or otherwise save or maintain their own student data or documents;
 
 . Limit internet service providers from providing internet connectivity to schools or students and their families;
 
-. Prohibit a school service provider from marketing educational products directly to parents so long as the marketing did not result from use of student personal information obtained by the school service provider through the provision of its web site, mobile application, or online service; or
+. Prohibit a school service provider from marketing educational products directly to parents so long as the marketing did not result from use of student personal information obtained by the school service provider through the provision of its website, mobile application, or online service; or
 
 . Impose a duty on a school service provider of an electronic store, gateway, marketplace, or other means of purchasing or downloading software or applications to review or enforce compliance with this chapter on those applications or software.
 

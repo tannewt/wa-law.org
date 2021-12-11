@@ -14,13 +14,13 @@ Every duty under this chapter and every act which must be performed as a conditi
 == 59.18.030 - Definitions.
 As used in this chapter:
 
-. "Active duty" means service authorized by the president of the United States, the secretary of defense, or the governor for a period of more than thirty consecutive days.
+. "Active duty" means service authorized by the president of the United States, the secretary of defense, or the governor for a period of more than 30 consecutive days.
 
 . "Certificate of inspection" means an unsworn statement, declaration, verification, or certificate made in accordance with the requirements of chapter 5.50 RCW by a qualified inspector that states that the landlord has not failed to fulfill any substantial obligation imposed under RCW 59.18.060 that endangers or impairs the health or safety of a tenant, including (a) structural members that are of insufficient size or strength to carry imposed loads with safety, (b) exposure of the occupants to the weather, (c) plumbing and sanitation defects that directly expose the occupants to the risk of illness or injury, (d) not providing facilities adequate to supply heat and water and hot water as reasonably required by the tenant, (e) providing heating or ventilation systems that are not functional or are hazardous, (f) defective, hazardous, or missing electrical wiring or electrical service, (g) defective or hazardous exits that increase the risk of injury to occupants, and (h) conditions that increase the risk of fire.
 
 . "Commercially reasonable manner," with respect to a sale of a deceased tenant's personal property, means a sale where every aspect of the sale, including the method, manner, time, place, and other terms, must be commercially reasonable. If commercially reasonable, a landlord may sell the tenant's property by public or private proceedings, by one or more contracts, as a unit or in parcels, and at any time and place and on any terms.
 
-. "Comprehensive reusable tenant screening report" means a tenant screening report prepared by a consumer reporting agency at the direction of and paid for by the prospective tenant and made available directly to a prospective landlord at no charge, which contains all of the following: (a) A consumer credit report prepared by a consumer reporting agency within the past thirty days; (b) the prospective tenant's criminal history; (c) the prospective tenant's eviction history; (d) an employment verification; and (e) the prospective tenant's address and rental history.
+. "Comprehensive reusable tenant screening report" means a tenant screening report prepared by a consumer reporting agency at the direction of and paid for by the prospective tenant and made available directly to a prospective landlord at no charge, which contains all of the following: (a) A consumer credit report prepared by a consumer reporting agency within the past 30 days; (b) the prospective tenant's criminal history; (c) the prospective tenant's eviction history; (d) an employment verification; and (e) the prospective tenant's address and rental history.
 
 . "Criminal history" means a report containing or summarizing (a) the prospective tenant's criminal convictions and pending cases, the final disposition of which antedates the report by no more than seven years, and (b) the results of a sex offender registry and United States department of the treasury's office of foreign assets control search, all based on at least seven years of address history and alias information provided by the prospective tenant or available in the consumer credit report.
 
@@ -40,11 +40,13 @@ As used in this chapter:
 
 . "Gang-related activity" means any activity that occurs within the gang or advances a gang purpose.
 
+. "Immediate family" includes state registered domestic partner, spouse, parents, grandparents, children, including foster children, siblings, and in-laws.
+
 . "In danger of foreclosure" means any of the following:
 
 .. The homeowner has defaulted on the mortgage and, under the terms of the mortgage, the mortgagee has the right to accelerate full payment of the mortgage and repossess, sell, or cause to be sold the property;
 
-.. The homeowner is at least thirty days delinquent on any loan that is secured by the property; or
+.. The homeowner is at least 30 days delinquent on any loan that is secured by the property; or
 
 .. The homeowner has a good faith belief that he or she is likely to default on the mortgage within the upcoming four months due to a lack of funds, and the homeowner has reported this belief to:
 
@@ -74,7 +76,7 @@ As used in this chapter:
 
 .. All or part of the beneficial ownership, and a right to present use and enjoyment of the property.
 
-. "Permanent change of station" means: (a) Transfer to a unit located at another port or duty station; (b) change in a unit's home port or permanent duty station; (c) call to active duty for a period not less than ninety days; (d) separation; or (e) retirement.
+. "Permanent change of station" means: (a) Transfer to a unit located at another port or duty station; (b) change in a unit's home port or permanent duty station; (c) call to active duty for a period not less than 90 days; (d) separation; or (e) retirement.
 
 . "Person" means an individual, group of individuals, corporation, government, or governmental agency, business trust, estate, trust, partnership, or association, two or more persons having a joint or common interest, or any other legal or commercial entity.
 
@@ -94,11 +96,21 @@ As used in this chapter:
 
 . "Rent" or "rental amount" means recurring and periodic charges identified in the rental agreement for the use and occupancy of the premises, which may include charges for utilities. Except as provided in RCW 59.18.283(3), these terms do not include nonrecurring charges for costs incurred due to late payment, damages, deposits, legal costs, or other fees, including attorneys' fees.
 
-. "Rental agreement" means all agreements which establish or modify the terms, conditions, rules, regulations, or any other provisions concerning the use and occupancy of a dwelling unit.
+. "Rental agreement" or "lease" means all agreements which establish or modify the terms, conditions, rules, regulations, or any other provisions concerning the use and occupancy of a dwelling unit.
 
 . "Service member" means an active member of the United States armed forces, a member of a military reserve component, or a member of the national guard who is either stationed in or a resident of Washington state.
 
 . A "single-family residence" is a structure maintained and used as a single dwelling unit. Notwithstanding that a dwelling unit shares one or more walls with another dwelling unit, it shall be deemed a single-family residence if it has direct access to a street and shares neither heating facilities nor hot water equipment, nor any other essential facility or service, with any other dwelling unit.
+
+. "Subsidized housing" refers to rental housing for very low-income or low-income households that is a dwelling unit operated directly by a public housing authority or its affiliate, or that is insured, financed, or assisted in whole or in part through one of the following sources:
+
+.. A federal program or state housing program administered by the department of commerce or the Washington state housing finance commission;
+
+.. A federal housing program administered by a city or county government;
+
+.. An affordable housing levy authorized under RCW 84.52.105; or
+
+.. The surcharges authorized in RCW 36.22.178 and 36.22.179 and any of the surcharges authorized in chapter 43.185C RCW.
 
 . A "tenant" is any person who is entitled to occupy a dwelling unit primarily for living or dwelling purposes under a rental agreement.
 
@@ -116,7 +128,9 @@ As used in this chapter:
 
 . "Tenant screening report" means a consumer report as defined in RCW 19.182.010 and any other information collected by a tenant screening service.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5600-S.SL.pdf?cite=2019%20c%20356%20§%205[2019 c 356 § 5]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5017-S.SL.pdf?cite=2019%20c%20232%20§%2024[2019 c 232 § 24]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1138-S.SL.pdf?cite=2019%20c%2023%20§%201[2019 c 23 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6413.SL.pdf?cite=2016%20c%2066%20§%201[2016 c 66 § 1]; prior:  2015 c 264 § 1; prior:  2012 c 41 § 2; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1266-S.SL.pdf?cite=2011%20c%20132%20§%201[2011 c 132 § 1]; prior:  2010 c 148 § 1; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2791.SL.pdf?cite=2008%20c%20278%20§%2012[2008 c 278 § 12]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1223-S.SL.pdf?cite=1998%20c%20276%20§%201[1998 c 276 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c207.pdf?cite=1973%201st%20ex.s.%20c%20207%20§%203[1973 1st ex.s. c 207 § 3]; ]
+. "Transitional housing" means housing units owned, operated, or managed by a nonprofit organization or governmental entity in which supportive services are provided to individuals and families that were formerly homeless, with the intent to stabilize them and move them to permanent housing within a period of not more than twenty-four months, or longer if the program is limited to tenants within a specified age range or the program is intended for tenants in need of time to complete and transition from educational or training or service programs.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1236-S.SL.pdf?cite=2021%20c%20212%20§%201[2021 c 212 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5600-S.SL.pdf?cite=2019%20c%20356%20§%205[2019 c 356 § 5]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5017-S.SL.pdf?cite=2019%20c%20232%20§%2024[2019 c 232 § 24]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1138-S.SL.pdf?cite=2019%20c%2023%20§%201[2019 c 23 § 1]; prior:  2016 c 66 § 1; prior:  2015 c 264 § 1; prior:  2012 c 41 § 2; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1266-S.SL.pdf?cite=2011%20c%20132%20§%201[2011 c 132 § 1]; prior:  2010 c 148 § 1; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2791.SL.pdf?cite=2008%20c%20278%20§%2012[2008 c 278 § 12]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1223-S.SL.pdf?cite=1998%20c%20276%20§%201[1998 c 276 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c207.pdf?cite=1973%201st%20ex.s.%20c%20207%20§%203[1973 1st ex.s. c 207 § 3]; ]
 
 == 59.18.040 - Living arrangements exempted from chapter.
 The following living arrangements are not intended to be governed by the provisions of this chapter, unless established primarily to avoid its application, in which event the provisions of this chapter shall control:
@@ -162,7 +176,7 @@ The district or superior courts of this state may exercise jurisdiction over any
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5600-S.SL.pdf?cite=2019%20c%20356%20§%2011[2019 c 356 § 11]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5755-S.SL.pdf?cite=1997%20c%2086%20§%201[1997 c 86 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c342.pdf?cite=1989%20c%20342%20§%2014[1989 c 342 § 14]; ]
 
 == 59.18.057 - Notice—Form.
-. Every fourteen-day notice served pursuant to RCW 59.12.030(3) must be in substantially the following form:
+. Every 14-day notice served pursuant to RCW 59.12.030(3) must be in substantially the following form:
 
  "TO: AND TO: ADDRESS:
 
@@ -198,9 +212,11 @@ Note - payment must be made pursuant to the terms of the rental agreement or by 
 
 You must pay the total amount due to your landlord within fourteen (14) days after service of this notice or you must vacate the premises. Any payment you make to the landlord must first be applied to the total amount due as shown on this notice. Any failure to comply with this notice within fourteen (14) days after service of this notice may result in a judicial proceeding that leads to your eviction from the premises.
 
-The Washington state Office of the Attorney General has this notice in multiple languages on its web site. You will also find information there on how to find a lawyer or advocate at low or no cost and any available resources to help you pay your rent. Alternatively, for no-cost legal assistance for low-income renters call 2-1-1 or the Northwest Justice Project CLEAR Hotline outside King County (888) 201-1014 weekdays between 9:15 a.m. – 12:15 p.m., or (888) 387-7111 for seniors (age 60 and over). You may find additional information to help you at http://www.washingtonlawhelp.org.
+The Washington state Office of the Attorney General has this notice in multiple languages as well as information on available resources to help you pay your rent, including state and local rental assistance programs, on its website at www.atg.wa.gov/landlord-tenant. 
 
-State law provides you the right to receive interpreter services at court.
+ State law provides you the right to legal representation and the court may be able to appoint a lawyer to represent you without cost to you if you are a qualifying low-income renter. If you believe you are a qualifying low-income renter and would like an attorney appointed to represent you, please contact the Eviction Defense Screening Line at 855-657-8387 or apply online at https://nwjustice.org/apply-online. For additional resources, call 2-1-1 or the Northwest Justice Project CLEAR Hotline outside King County (888) 201-1014 weekdays between 9:15 a.m. – 12:15 p.m., or (888) 387-7111 for seniors (age 60 and over). You may find additional information to help you at http://www.washingtonlawhelp.org. Free or low-cost mediation services to assist in nonpayment of rent disputes before any judicial proceedings occur are also available at dispute resolution centers throughout the state. You can find your nearest dispute resolution center at https://www.resolutionwa.org.
+
+State law also provides you the right to receive interpreter services at court.
 
 
 
@@ -212,16 +228,22 @@ WHERE TOTAL AMOUNT DUE IS TO BE PAID: ___(owner/landlord name)___
 
 ___________(address)________"
 
+. Upon expiration of the eviction resolution pilot program established under section 7, chapter 115, Laws of 2021:
+
+.. The landlord must also provide the notice required in this section to the dispute resolution center located within or serving the county in which the dwelling unit is located. It is a defense to an eviction under RCW 59.12.030 that a landlord did not provide additional notice under this subsection.
+
+.. Dispute resolution centers are encouraged to notify the housing justice project or northwest justice project located within or serving the county in which the dispute resolution center is located, as appropriate, once notice is received from the landlord under this subsection.
+
 . The form required in this section does not abrogate any additional notice requirements to tenants as required by federal, state, or local law.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6378-S.SL.pdf?cite=2020%20c%20315%20§%202[2020 c 315 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5600-S.SL.pdf?cite=2019%20c%20356%20§%203[2019 c 356 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5160-S2.SL.pdf?cite=2021%20c%20115%20§%2010[2021 c 115 § 10]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6378-S.SL.pdf?cite=2020%20c%20315%20§%202[2020 c 315 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5600-S.SL.pdf?cite=2019%20c%20356%20§%203[2019 c 356 § 3]; ]
 
 == 59.18.058 - Notice—Translated versions—Legal or advocacy resource information.
-. The office of the attorney general shall produce and maintain on its web site translated versions of the notice under RCW 59.18.057 in the top ten languages spoken in Washington state and, at the discretion of the office of the attorney general, other languages. The notice must be made available upon request in printed form on one letter size paper, eight and one-half by eleven inches, and in an easily readable font size.
+. The office of the attorney general shall produce and maintain on its website translated versions of the notice under RCW 59.18.057 in the top ten languages spoken in Washington state and, at the discretion of the office of the attorney general, other languages. The notice must be made available upon request in printed form on one letter size paper, eight and one-half by eleven inches, and in an easily readable font size.
 
-. The office of the attorney general shall also provide on its web site information on where tenants can access legal or advocacy resources, including information on any immigrant and cultural organizations where tenants can receive assistance in their primary language.
+. The office of the attorney general shall also provide on its website information on where tenants can access legal or advocacy resources, including information on any immigrant and cultural organizations where tenants can receive assistance in their primary language.
 
-. The office of the attorney general may also produce and maintain on its web site translated versions of common notices used in unlawful detainer actions, including those relevant to subsidized tenancies, low-income housing tax credit programs, or the federal violence against women act.
+. The office of the attorney general may also produce and maintain on its website translated versions of common notices used in unlawful detainer actions, including those relevant to subsidized tenancies, low-income housing tax credit programs, or the federal violence against women act.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5600-S.SL.pdf?cite=2019%20c%20356%20§%204[2019 c 356 § 4]; ]
 
@@ -271,7 +293,7 @@ The landlord will at all times during the tenancy keep the premises fit for huma
 
 .. The written notice or checklist must be provided to new tenants at the time the lease or rental agreement is signed;
 
-. Provide tenants with information provided or approved by the department of health about the health hazards associated with exposure to indoor mold. Information may be provided in written format individually to each tenant, or may be posted in a visible, public location at the dwelling unit property. The information must detail how tenants can control mold growth in their dwelling units to minimize the health risks associated with indoor mold. Landlords may obtain the information from the department's web site or, if requested by the landlord, the department must mail the information to the landlord in a printed format. When developing or changing the information, the department of health must include representatives of landlords in the development process. The information must be provided by the landlord to new tenants at the time the lease or rental agreement is signed;
+. Provide tenants with information provided or approved by the department of health about the health hazards associated with exposure to indoor mold. Information may be provided in written format individually to each tenant, or may be posted in a visible, public location at the dwelling unit property. The information must detail how tenants can control mold growth in their dwelling units to minimize the health risks associated with indoor mold. Landlords may obtain the information from the department's website or, if requested by the landlord, the department must mail the information to the landlord in a printed format. When developing or changing the information, the department of health must include representatives of landlords in the development process. The information must be provided by the landlord to new tenants at the time the lease or rental agreement is signed;
 
 . The landlord and his or her agents and employees are immune from civil liability for failure to comply with subsection (13) of this section except where the landlord and his or her agents and employees knowingly and intentionally do not comply with subsection (13) of this section; and
 
@@ -679,19 +701,19 @@ Whenever the landlord learns of a breach of RCW 59.18.130 or has accepted perfor
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%2019023[2010 c 8 § 19023]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c207.pdf?cite=1973%201st%20ex.s.%20c%20207%20§%2019[1973 1st ex.s. c 207 § 19]; ]
 
-== 59.18.200 - Tenancy from month to month or for rental period—Termination—Armed forces exception—Exclusion of children—Conversion to condominium—Demolition, substantial rehabilitation of the premises—Notice—Penalties.
+== 59.18.200 - Tenancy from month to month or for rental period—End of tenancy—Armed forces exception—Exclusion of children—Conversion to condominium—Demolition, substantial rehabilitation of the premises—Notice.
 . [Empty]
-.. When premises are rented for an indefinite time, with monthly or other periodic rent reserved, such tenancy shall be construed to be a tenancy from month to month, or from period to period on which rent is payable, and shall be terminated by written notice of twenty days or more, preceding the end of any of the months or periods of tenancy, given by either party to the other.
+.. When premises are rented for an indefinite time, with monthly or other periodic rent reserved, such tenancy shall be construed to be a tenancy from month to month, or from period to period on which rent is payable, and shall end by written notice of 20 days or more, preceding the end of any of the months or periods of tenancy, given by the tenant to the landlord.
 
-.. Any tenant who is a member of the armed forces, including the national guard and armed forces reserves, or that tenant's spouse or dependent, may terminate a rental agreement with less than twenty days' written notice if the tenant receives permanent change of station or deployment orders that do not allow a twenty-day written notice.
+.. Any tenant who is a member of the armed forces, including the national guard and armed forces reserves, or that tenant's spouse or dependent, may end a rental agreement with less than 20 days' written notice if the tenant receives permanent change of station or deployment orders that do not allow a 20-day written notice.
 
 . [Empty]
-.. Whenever a landlord plans to change to a policy of excluding children, the landlord shall give a written notice to a tenant at least ninety days before termination of the tenancy to effectuate such change in policy. Such ninety-day notice shall be in lieu of the notice required by subsection (1) of this section. However, if after giving the ninety-day notice the change in policy is delayed, the notice requirements of subsection (1) of this section shall apply unless waived by the tenant.
+.. Whenever a landlord plans to change to a policy of excluding children, the landlord shall give a written notice to a tenant at least 90 days before the tenancy ends to effectuate such change in policy. Such 90-day notice shall be in lieu of the notice required by subsection (1) of this section. However, if after giving the 90-day notice the change in policy is delayed, the notice requirements of subsection (1) of this section shall apply unless waived by the tenant.
 
-.. Whenever a landlord plans to change any apartment or apartments to a condominium form of ownership, the landlord shall provide a written notice to a tenant at least one hundred twenty days before termination of the tenancy, in compliance with RCW 64.34.440(1), to effectuate such change. The one hundred twenty-day notice is in lieu of the notice required in subsection (1) of this section. However, if after providing the one hundred twenty-day notice the change to a condominium form of ownership is delayed, the notice requirements in subsection (1) of this section apply unless waived by the tenant.
+.. Whenever a landlord plans to change any apartment or apartments to a condominium form of ownership, the landlord shall provide a written notice to a tenant at least 120 days before the tenancy ends, in compliance with RCW 64.34.440(1), to effectuate such change. The 120-day notice is in lieu of the notice required in subsection (1) of this section. However, if after providing the 120-day notice the change to a condominium form of ownership is delayed, the notice requirements in subsection (1) of this section apply unless waived by the tenant.
 
 .. [Empty]
-... Whenever a landlord plans to demolish or substantially rehabilitate premises or plans a change of use of premises, the landlord shall provide a written notice to a tenant at least one hundred twenty days before termination of the tenancy. This subsection (2)(c)(i) does not apply to jurisdictions that have created a relocation assistance program under RCW 59.18.440 and otherwise provide one hundred twenty days' notice.
+... Whenever a landlord plans to demolish or substantially rehabilitate premises or plans a change of use of premises, the landlord shall provide a written notice to a tenant at least 120 days before the tenancy ends. This subsection (2)(c)(i) does not apply to jurisdictions that have created a relocation assistance program under RCW 59.18.440 and otherwise provide 120 days' notice.
 
 ... For purposes of this subsection (2)(c):
 
@@ -703,39 +725,37 @@ Whenever the landlord learns of a breach of RCW 59.18.130 or has accepted perfor
 
 (D) "Substantially rehabilitate" means extensive structural repair or extensive remodeling of premises that requires a permit such as a building, electrical, plumbing, or mechanical permit, and that results in the displacement of an existing tenant.
 
-. A person in violation of subsection (2)(c)(i) of this section may be held liable in a civil action up to three times the monthly rent of the real property at issue. The prevailing party may also recover court costs and reasonable attorneys' fees.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1462.SL.pdf?cite=2019%20c%20339%20§%201[2019 c 339 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1138-S.SL.pdf?cite=2019%20c%2023%20§%202[2019 c 23 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2014-S.SL.pdf?cite=2008%20c%20113%20§%204[2008 c 113 § 4]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5044-S.SL.pdf?cite=2003%20c%207%20§%201[2003 c 7 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c70.pdf?cite=1979%20ex.s.%20c%2070%20§%201[1979 ex.s. c 70 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c207.pdf?cite=1973%201st%20ex.s.%20c%20207%20§%2020[1973 1st ex.s. c 207 § 20]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1236-S.SL.pdf?cite=2021%20c%20212%20§%203[2021 c 212 § 3]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1462.SL.pdf?cite=2019%20c%20339%20§%201[2019 c 339 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1138-S.SL.pdf?cite=2019%20c%2023%20§%202[2019 c 23 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2014-S.SL.pdf?cite=2008%20c%20113%20§%204[2008 c 113 § 4]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5044-S.SL.pdf?cite=2003%20c%207%20§%201[2003 c 7 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c70.pdf?cite=1979%20ex.s.%20c%2070%20§%201[1979 ex.s. c 70 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c207.pdf?cite=1973%201st%20ex.s.%20c%20207%20§%2020[1973 1st ex.s. c 207 § 20]; ]
 
 == 59.18.210 - Tenancies from year to year except under written contract.
 Tenancies from year to year are hereby abolished except when the same are created by express written contract. Leases may be in writing or print, or partly in writing and partly in print, and shall be legal and valid for any term or period not exceeding one year, without acknowledgment, witnesses or seals.
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c207.pdf?cite=1973%201st%20ex.s.%20c%20207%20§%2021[1973 1st ex.s. c 207 § 21]; ]
 
-== 59.18.220 - Termination of tenancy for a specified time—Armed forces exception.
-. In all cases where premises are rented for a specified time, by express or implied contract, the tenancy shall be deemed terminated at the end of such specified time.
+== 59.18.220 - End of tenancy for a specified time—Armed forces exception.
+. Except as limited under RCW 59.18.650, in cases where premises are rented for a specified time, by express or implied contract, the tenancy shall be deemed expired at the end of such specified time upon notice consistent with RCW 59.18.650, served in a manner consistent with RCW 59.12.040.
 
-. Any tenant who is a member of the armed forces, including the national guard and armed forces reserves, or that tenant's spouse or dependent, may terminate a tenancy for a specified time if the tenant receives permanent change of station or deployment orders. Before terminating the tenancy, the tenant, or that tenant's spouse or dependent, shall provide written notice of twenty days or more to the landlord, which notice shall include a copy of the official military orders or a signed letter from the service member's commanding officer confirming any of the following criteria are met:
+. Any tenant who is a member of the armed forces, including the national guard and armed forces reserves, or that tenant's spouse or dependent, may end a tenancy for a specified time if the tenant receives permanent change of station or deployment orders. Before ending the tenancy, the tenant, or that tenant's spouse or dependent, shall provide written notice of 20 days or more to the landlord, which notice shall include a copy of the official military orders or a signed letter from the service member's commanding officer confirming any of the following criteria are met:
 
-.. The service member is required, pursuant to a permanent change of station orders, to move thirty-five miles or more from the location of the rental premises;
+.. The service member is required, pursuant to a permanent change of station orders, to move 35 miles or more from the location of the rental premises;
 
 .. The service member is prematurely or involuntarily discharged or released from active duty;
 
-.. The service member is released from active duty after having leased the rental premises while on active duty status and the rental premises is thirty-five miles or more from the service member's home of record prior to entering active duty;
+.. The service member is released from active duty after having leased the rental premises while on active duty status and the rental premises is 35 miles or more from the service member's home of record prior to entering active duty;
 
 .. After entering into a rental agreement, the commanding officer directs the service member to move into government provided housing;
 
-.. The service member receives temporary duty orders, temporary change of station orders, or active duty orders to an area thirty-five miles or more from the location of the rental premises, provided such orders are for a period not less than ninety days; or
+.. The service member receives temporary duty orders, temporary change of station orders, or active duty orders to an area 35 miles or more from the location of the rental premises, provided such orders are for a period not less than 90 days; or
 
-.. The service member has leased the property, but prior to taking possession of the rental premises, receives change of station orders to an area that is thirty-five miles or more from the location of the rental premises.
+.. The service member has leased the property, but prior to taking possession of the rental premises, receives change of station orders to an area that is 35 miles or more from the location of the rental premises.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1138-S.SL.pdf?cite=2019%20c%2023%20§%203[2019 c 23 § 3]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5044-S.SL.pdf?cite=2003%20c%207%20§%202[2003 c 7 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c207.pdf?cite=1973%201st%20ex.s.%20c%20207%20§%2022[1973 1st ex.s. c 207 § 22]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1236-S.SL.pdf?cite=2021%20c%20212%20§%204[2021 c 212 § 4]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1138-S.SL.pdf?cite=2019%20c%2023%20§%203[2019 c 23 § 3]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5044-S.SL.pdf?cite=2003%20c%207%20§%202[2003 c 7 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c207.pdf?cite=1973%201st%20ex.s.%20c%20207%20§%2022[1973 1st ex.s. c 207 § 22]; ]
 
-== 59.18.230 - Waiver of chapter provisions prohibited—Provisions prohibited from rental agreement—Distress for rent abolished—Detention of personal property for rent—Remedies.
+== 59.18.230 - Waiver of chapter provisions prohibited—Provisions prohibited from rental agreement—Distress for rent abolished—Detention of personal property for rent—Remedies (as amended by 2021 c 115).
 . [Empty]
 .. Any provision of a lease or other agreement, whether oral or written, whereby any section or subsection of this chapter is waived except as provided in RCW 59.18.360 and shall be deemed against public policy and shall be unenforceable. Such unenforceability shall not affect other provisions of the agreement which can be given effect without them.
 
-.. A landlord may not threaten a tenant with eviction for failure to pay nonpossessory charges limited under RCW 59.18.283.
+.. Any agreement, whether oral or written, between a landlord and tenant, or their representatives, and entered into pursuant to an unlawful detainer action under this chapter that requires the tenant to pay any amount in violation of RCW 59.18.283 or the statutory judgment amount limits under RCW 59.18.410 (1) or (2), or waives any rights of the tenant under RCW 59.18.410 or any other rights afforded under this chapter except as provided in RCW 59.18.360 is void and unenforceable. A landlord may not threaten a tenant with eviction for failure to pay nonpossessory charges limited under RCW 59.18.283.
 
 . No rental agreement may provide that the tenant:
 
@@ -751,13 +771,13 @@ Tenancies from year to year are hereby abolished except when the same are create
 
 .. Agrees to pay late fees for rent that is paid within five days following its due date. If rent is more than five days past due, the landlord may charge late fees commencing from the first day after the due date until paid. Nothing in this subsection prohibits a landlord from serving a notice to pay or vacate at any time after the rent becomes due.
 
-. A provision prohibited by subsection (2) of this section included in a rental agreement is unenforceable. If a landlord deliberately uses a rental agreement containing provisions known by him or her to be prohibited, the tenant may recover actual damages sustained by him or her, statutory damages not to exceed five hundred dollars, costs of suit, and reasonable attorneys' fees.
+. A provision prohibited by subsection (2) of this section included in a rental agreement is unenforceable. If a landlord deliberately uses a rental agreement containing provisions known by him or her to be prohibited, the tenant may recover actual damages sustained by him or her, statutory damages not to exceed ((five hundred dollars))$500, costs of suit, and reasonable attorneys' fees.
 
-. The common law right of the landlord of distress for rent is hereby abolished for property covered by this chapter. Any provision in a rental agreement creating a lien upon the personal property of the tenant or authorizing a distress for rent is null and void and of no force and effect. Any landlord who takes or detains the personal property of a tenant without the specific written consent of the tenant to such incident of taking or detention, and who, after written demand by the tenant for the return of his or her personal property, refuses to return the same promptly shall be liable to the tenant for the value of the property retained, actual damages, and if the refusal is intentional, may also be liable for damages of up to five hundred dollars per day but not to exceed five thousand dollars, for each day or part of a day that the tenant is deprived of his or her property. The prevailing party may recover his or her costs of suit and a reasonable attorneys' fee.
+. The common law right of the landlord of distress for rent is hereby abolished for property covered by this chapter. Any provision in a rental agreement creating a lien upon the personal property of the tenant or authorizing a distress for rent is null and void and of no force and effect. Any landlord who takes or detains the personal property of a tenant without the specific written consent of the tenant to such incident of taking or detention, and who, after written demand by the tenant for the return of his or her personal property, refuses to return the same promptly shall be liable to the tenant for the value of the property retained, actual damages, and if the refusal is intentional, may also be liable for damages of up to ((five hundred dollars))$500 per day but not to exceed ((five thousand dollars))$5,000, for each day or part of a day that the tenant is deprived of his or her property. The prevailing party may recover his or her costs of suit and a reasonable attorneys' fee.
 
 In any action, including actions pursuant to chapters 7.64 or 12.28 RCW, brought by a tenant or other person to recover possession of his or her personal property taken or detained by a landlord in violation of this section, the court, upon motion and after notice to the opposing parties, may waive or reduce any bond requirements where it appears to be to the satisfaction of the court that the moving party is proceeding in good faith and has, prima facie, a meritorious claim for immediate delivery or redelivery of said property.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6378-S.SL.pdf?cite=2020%20c%20315%20§%206[2020 c 315 § 6]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2535-S.SL.pdf?cite=2020%20c%20177%20§%202[2020 c 177 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1266-S.SL.pdf?cite=2011%20c%20132%20§%2011[2011 c 132 § 11]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%2019024[2010 c 8 § 19024]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c342.pdf?cite=1989%20c%20342%20§%208[1989 c 342 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c264.pdf?cite=1983%20c%20264%20§%204[1983 c 264 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c207.pdf?cite=1973%201st%20ex.s.%20c%20207%20§%2023[1973 1st ex.s. c 207 § 23]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5160-S2.SL.pdf?cite=2021%20c%20115%20§%2015[2021 c 115 § 15]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6378-S.SL.pdf?cite=2020%20c%20315%20§%206[2020 c 315 § 6]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2535-S.SL.pdf?cite=2020%20c%20177%20§%202[2020 c 177 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1266-S.SL.pdf?cite=2011%20c%20132%20§%2011[2011 c 132 § 11]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%2019024[2010 c 8 § 19024]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c342.pdf?cite=1989%20c%20342%20§%208[1989 c 342 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c264.pdf?cite=1983%20c%20264%20§%204[1983 c 264 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c207.pdf?cite=1973%201st%20ex.s.%20c%20207%20§%2023[1973 1st ex.s. c 207 § 23]; ]
 
 == 59.18.240 - Reprisals or retaliatory actions by landlord—Prohibited.
 So long as the tenant is in compliance with this chapter, the landlord shall not take or threaten to take reprisals or retaliatory action against the tenant because of any good faith and lawful:
@@ -891,7 +911,7 @@ Dated this ..... day of ........, ....(year)
 
 Agent/Owner Signature"
 
-. Any landlord who maintains a web site advertising the rental of a dwelling unit or as a source of information for current or prospective tenants must include a statement on the property's home page stating whether or not the landlord will accept a comprehensive reusable tenant screening report made available to the landlord by a consumer reporting agency. If the landlord indicates its willingness to accept a comprehensive reusable tenant screening report, the landlord may access the landlord's own tenant screening report regarding a prospective tenant as long as the prospective tenant is not charged for the landlord's own tenant screening report.
+. Any landlord who maintains a website advertising the rental of a dwelling unit or as a source of information for current or prospective tenants must include a statement on the property's home page stating whether or not the landlord will accept a comprehensive reusable tenant screening report made available to the landlord by a consumer reporting agency. If the landlord indicates its willingness to accept a comprehensive reusable tenant screening report, the landlord may access the landlord's own tenant screening report regarding a prospective tenant as long as the prospective tenant is not charged for the landlord's own tenant screening report.
 
 . Any landlord or prospective landlord who violates subsection (1) of this section may be liable to the prospective tenant for an amount not to exceed one hundred dollars. The prevailing party may also recover court costs and reasonable attorneys' fees.
 
@@ -1206,7 +1226,7 @@ TO: . . . . . . . . . . . . (Defendant's Name)
 
 . . . . . . . . . . . . (Defendant's Address)
 
-GET HELP: If you do not respond by the deadline above, you will lose your right to defend yourself in court and could be evicted. If you cannot afford a lawyer, you may call 2-1-1 or the Northwest Justice Project CLEAR Hotline outside King County (888) 201-1014 weekdays between 9:15 a.m. – 12:15 p.m., or (888) 387-7111 for seniors (age 60 and over). They can refer you to free or low-cost legal help. You may find additional information to help you at http://www.washingtonlawhelp.org.
+GET HELP: If you do not respond by the deadline above, you will lose your right to defend yourself or be represented by a lawyer if you cannot afford one in court and could be evicted. The court may be able to appoint a lawyer to represent you without cost to you if you are low-income and are unable to afford a lawyer. If you believe you are a qualifying low-income renter and would like an attorney appointed to represent you, please contact the Eviction Defense Screening Line at 855-657-8387 or apply online at https://nwjustice.org/apply-online. For additional resources, you may call 2-1-1 or the Northwest Justice Project CLEAR Hotline outside King County (888) 201-1014 weekdays between 9:15 a.m. – 12:15 p.m., or (888) 387-7111 for seniors (age 60 and over). You may find additional information to help you at http://www.washingtonlawhelp.org. Free or low-cost mediation services to assist in nonpayment of rent disputes before any judicial proceedings occur are also available at dispute resolution centers throughout the state. You can find your nearest dispute resolution center at https://www.resolutionwa.org.
 
 HOW TO RESPOND: Phone calls to your Landlord or your Landlord's lawyer are not a response. You may respond with a "notice of appearance." This is a letter that includes the following:
 
@@ -1228,7 +1248,7 @@ WHERE TO RESPOND: You must mail, fax, or hand deliver your response letter to yo
 
 COURT DATE: If you respond to this Summons, you will be notified of your hearing date in a document called an "Order to Show Cause." This is usually mailed to you. If you get notice of a hearing, you must go to the hearing. If you do not show up, your landlord can evict you. Your landlord might also charge you more money. If you move before the court date, you must tell your landlord or the landlord's attorney.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6378-S.SL.pdf?cite=2020%20c%20315%20§%204[2020 c 315 § 4]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5600-S.SL.pdf?cite=2019%20c%20356%20§%209[2019 c 356 § 9]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6060-S.SL.pdf?cite=2008%20c%2075%20§%201[2008 c 75 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6572-S.SL.pdf?cite=2006%20c%2051%20§%201[2006 c 51 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5479-S.SL.pdf?cite=2005%20c%20130%20§%203[2005 c 130 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c342.pdf?cite=1989%20c%20342%20§%2015[1989 c 342 § 15]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5160-S2.SL.pdf?cite=2021%20c%20115%20§%2011[2021 c 115 § 11]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6378-S.SL.pdf?cite=2020%20c%20315%20§%204[2020 c 315 § 4]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5600-S.SL.pdf?cite=2019%20c%20356%20§%209[2019 c 356 § 9]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6060-S.SL.pdf?cite=2008%20c%2075%20§%201[2008 c 75 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6572-S.SL.pdf?cite=2006%20c%2051%20§%201[2006 c 51 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5479-S.SL.pdf?cite=2005%20c%20130%20§%203[2005 c 130 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c342.pdf?cite=1989%20c%20342%20§%2015[1989 c 342 § 15]; ]
 
 == 59.18.367 - Unlawful detainer action—Limited dissemination authorized, when.
 . A court may order an unlawful detainer action to be of limited dissemination for one or more persons if: (a) The court finds that the plaintiff's case was sufficiently without basis in fact or law; (b) the tenancy was reinstated under RCW 59.18.410 or other law; or (c) other good cause exists for limiting dissemination of the unlawful detainer action.
@@ -1243,155 +1263,6 @@ COURT DATE: If you respond to this Summons, you will be notified of your hearing
 The plaintiff, at the time of commencing an action of forcible entry or detainer or unlawful detainer, or at any time afterwards, upon filing the complaint, may apply to the superior court in which the action is pending for an order directing the defendant to appear and show cause, if any he or she has, why a writ of restitution should not issue restoring to the plaintiff possession of the property in the complaint described, and the judge shall by order fix a time and place for a hearing of the motion, which shall not be less than seven nor more than thirty days from the date of service of the order upon defendant. A copy of the order, together with a copy of the summons and complaint if not previously served upon the defendant, shall be served upon the defendant. The order shall notify the defendant that if he or she fails to appear and show cause at the time and place specified by the order the court may order the sheriff to restore possession of the property to the plaintiff and may grant such other relief as may be prayed for in the complaint and provided by this chapter.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5479-S.SL.pdf?cite=2005%20c%20130%20§%202[2005 c 130 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c207.pdf?cite=1973%201st%20ex.s.%20c%20207%20§%2038[1973 1st ex.s. c 207 § 38]; ]
-
-== 59.18.375 - Forcible entry or detainer or unlawful detainer actions—Payment of rent into court registry—Writ of restitution—Notice.
-. The procedures and remedies provided by this section are optional and in addition to other procedures and remedies provided by this chapter.
-
-. In an action of forcible entry, detainer, or unlawful detainer, commenced under this chapter which is based upon nonpayment of rent as provided in RCW 59.12.030(3), the defendant shall pay into the court registry the amount alleged due in the notice described in this section and continue to pay into the court registry the monthly rent as it becomes due under the terms of the rental agreement while the action is pending. Such payment is not required if the defendant submits to the court a written statement signed and sworn under penalty of perjury that sets forth the reasons why the rent alleged due in the notice is not owed. In the written statement, the defendant may provide as a reason that the rent alleged due in the notice is not owed based upon a legal or equitable defense or set-off arising out of the tenancy.
-
-. A defendant must comply with subsection (2) of this section on or before the deadline date specified in the notice, which must not precede the deadline for responding to the eviction summons and complaint for unlawful detainer. If the notice is served with the eviction summons and complaint, then the deadline for complying with the notice and the deadline for responding to the eviction summons and complaint must be the same date.
-
-. Failure of the defendant to comply with this section shall be grounds for the immediate issuance of a writ of restitution without further notice to the defendant and without bond directing the sheriff to deliver possession of the premises to the plaintiff. Issuance of a writ of restitution under this section shall not affect the defendant's right to schedule a hearing on the merits. If the defendant fails to comply with this section and a writ of restitution is issued, the defendant may seek a hearing on the merits and an immediate stay of the writ of restitution. To obtain a stay of the writ of restitution, the defendant must make an offer of proof to the court that the plaintiff is not entitled to possession of the property based on a legal or equitable defense arising out of the tenancy. The court shall only grant the stay upon such prior notice as the court deems appropriate to the plaintiff's attorney, or to the plaintiff if there is no attorney. The court may grant the stay on such conditions as the court deems appropriate. The court may set a show cause hearing as soon as possible, but no later than seven days from the date the stay is sought or the date the defendant moves the court for a show cause hearing. If the court concludes at the show cause hearing that the writ of restitution should not have been issued because of any legal or equitable defense to the eviction, then the writ of restitution must be quashed and the defendant must be restored to possession.
-
-. The defendant shall deliver written notice that the rent has been paid into the court registry or deliver a copy of the sworn statement referred to in subsection (2) of this section to the plaintiff by any of the following methods:
-
-.. By delivering a copy of the payment notice or sworn statement to the person who signed the notice to the street address listed on the notice;
-
-.. By mailing a copy of the payment notice or sworn statement addressed to the person who signed the notice to the street address listed on the notice;
-
-.. By facsimile to the facsimile number listed on the notice. Service by facsimile is complete upon successful transmission to the facsimile number listed upon the notice; or
-
-.. As otherwise authorized by the superior court civil rules.
-
-. Before applying to the court for a writ of restitution under this section, the plaintiff must check with the clerk of the court to determine if the defendant has complied with subsection (2) of this section.
-
-. If the plaintiff intends to use the procedures in this section, the plaintiff must first file the summons and complaint with the superior court of the appropriate county and deliver notice to the defendant of the payment requirements or sworn statement requirements of this section. The notice must:
-
-.. State that the defendant is required to comply with this section by a deadline date that is not less than seven days after the notice has been served on the defendant;
-
-.. Be separate from the eviction summons and complaint;
-
-.. Contain the names of the parties to the proceeding, the attorney or attorneys, if any, and the court in which the proceeding is being brought;
-
-.. Be signed and dated by the plaintiff's attorney, or by the plaintiff if there is no attorney;
-
-.. Contain a street address for service of the payment statement or sworn statement and, if available, a facsimile number for the landlord; and
-
-.. Be no less than twelve-point font type, in boldface type or capital letters where indicated below, and be substantially in the following form:
-
-IN THE SUPERIOR COURT OF THE STATE
-
-OF WASHINGTON IN AND FOR . . . . . .
-
-COUNTY
-
- ) Plaintiff,)NO. ) vs.)RCW 59.18.375 ))PAYMENT OR SWORN STATEMENT REQUIREMENTDefendant,)  ) 
-
- 
-
-)
-
- 
-
-Plaintiff,
-
-)
-
-NO.
-
- 
-
-)
-
- 
-
-vs.
-
-)
-
-RCW 59.18.375
-
- 
-
-)
-
-)
-
-PAYMENT OR SWORN STATEMENT REQUIREMENT
-
-Defendant,
-
-)
-
- 
-
- 
-
-)
-
- 
-
-TO: . . . . . . . .(Name)
-
- . . . . . . . . .(Address)
-
-IMPORTANT NOTICE
-
-READ THESE INSTRUCTIONS CAREFULLY
-
-YOU MUST DO THE FOLLOWING BY THE DEADLINE DATE:
-
-THE DEADLINE DATE IS . . . . . . . .
-
-1. PAY RENT INTO THE COURT REGISTRY;
-
-OR
-
-2. FILE A SWORN STATEMENT THAT YOU DO NOT OWE THE RENT CLAIMED DUE.
-
-IF YOU FAIL TO DO ONE OF THE ABOVE ON OR BEFORE THE DEADLINE DATE, THE SHERIFF COULD EVICT YOU WITHOUT A HEARING EVEN IF YOU HAVE ALSO RECEIVED A NOTICE THAT A HEARING HAS BEEN SCHEDULED.
-
-YOUR LANDLORD CLAIMS YOU OWE RENT
-
-This eviction lawsuit is based upon nonpayment of rent. Your landlord claims you owe the following amount: $ . . . . .. The landlord is entitled to an order from the court directing the sheriff to evict you without a hearing unless you do the following by the deadline date:  . . . . . . . .
-
-YOU MUST DO THE FOLLOWING BY THE DEADLINE DATE:
-
-1. Pay into the court registry the amount your landlord claims you owe set forth above and continue paying into the court registry the monthly rent as it becomes due while this lawsuit is pending;
-
-OR
-
-2. If you deny that you owe the amount set forth above and you do not want to be evicted immediately without a hearing, you must file with the clerk of the court a written statement signed and sworn under penalty of perjury that sets forth why you do not owe that amount.
-
-3. You must deliver written notice that the rent has been paid into the court registry OR deliver a copy of your sworn statement to the person named below by personal delivery, mail, or facsimile.
-
- . . . . . . . . . .
-
-Name
-
- . . . . . . . . . .
-
-Address
-
- . . . . . . . . . .
-
-Telephone Number
-
- . . . . . . . . . .
-
-Fax Number
-
-4. The sworn statement must be filed IN ADDITION TO delivering your written response to the complaint and YOU MUST ALSO appear for any hearing that has been scheduled.
-
-Dated: . . . . . . . . . .
-
-Signed: . . . . . . . . . .
-
-. The notice authorized in this section may be served pursuant to applicable civil rules either with a filed eviction summons and complaint or at any time after an eviction summons and complaint have been filed with the court. If the defendant has served a response to the eviction summons and complaint, then the notice may be served before or with an order to show cause as described in RCW 59.18.370.
-
-. This section does not affect the defendant's right to restore the tenancy under RCW 59.18.410.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6060-S.SL.pdf?cite=2008%20c%2075%20§%202[2008 c 75 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6572-S.SL.pdf?cite=2006%20c%2051%20§%202[2006 c 51 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c264.pdf?cite=1983%20c%20264%20§%2013[1983 c 264 § 13]; ]
 
 == 59.18.380 - Forcible entry or detainer or unlawful detainer actions—Writ of restitution—Answer—Order—Stay—Bond.
 At the time and place fixed for the hearing of plaintiff's motion for a writ of restitution, the defendant, or any person in possession or claiming possession of the property, may answer, orally or in writing, and assert any legal or equitable defense or set-off arising out of the tenancy. If the answer is oral the substance thereof shall be endorsed on the complaint by the court. The court shall examine the parties and witnesses orally to ascertain the merits of the complaint and answer, and if it shall appear that the plaintiff has the right to be restored to possession of the property, the court shall enter an order directing the issuance of a writ of restitution, returnable ten days after its date, restoring to the plaintiff possession of the property and if it shall appear to the court that there is no substantial issue of material fact of the right of the plaintiff to be granted other relief as prayed for in the complaint and provided for in this chapter, the court may enter an order and judgment granting so much of such relief as may be sustained by the proof, and the court may grant such other relief as may be prayed for in the plaintiff's complaint and provided for in this chapter, then the court shall enter an order denying any relief sought by the plaintiff for which the court has determined that the plaintiff has no right as a matter of law: PROVIDED, That within three days after the service of the writ of restitution issued prior to final judgment, the defendant, or person in possession of the property, may, in any action for the recovery of possession of the property for failure to pay rent, stay the execution of the writ pending final judgment by paying into court or to the plaintiff, as the court directs, all rent found to be due, and in addition by paying, on a monthly basis pending final judgment, an amount equal to the monthly rent called for by the lease or rental agreement at the time the complaint was filed: PROVIDED FURTHER, That before any writ shall issue prior to final judgment the plaintiff shall execute to the defendant and file in the court a bond in such sum as the court may order, with sufficient surety to be approved by the clerk, conditioned that the plaintiff will prosecute his or her action without delay, and will pay all costs that may be adjudged to the defendant, and all damages which he or she may sustain by reason of the writ of restitution having been issued, should the same be wrongfully sued out. The court shall also enter an order directing the parties to proceed to trial on the complaint and answer in the usual manner.
@@ -1507,13 +1378,19 @@ PHONE
 
 .. Nothing in this subsection (3)(e) prohibits the landlord from otherwise applying for reimbursement for an unpaid judgment pursuant to RCW 43.31.605(1)(c) after the tenant defaults on a payment plan ordered pursuant to (c) of this subsection.
 
+.. For the period extending one year beyond the expiration of the eviction moratorium, if a tenant demonstrates an ability to pay in order to reinstate the tenancy by means of disbursement through the landlord mitigation program account established within RCW 43.31.605(1)(c):
+
+(A) Any restrictions imposed under (d) of this subsection do not apply in determining if a tenant is eligible for reinstatement under this subsection (3); and
+
+(B) Reimbursement on behalf of the tenant to the landlord under RCW 43.31.605(1)(c) may include up to three months of prospective rent to stabilize the tenancy as determined by the court.
+
 . If a tenant seeks to stay a writ of restitution issued pursuant to this chapter, the court may issue an ex parte stay of the writ of restitution provided the tenant or tenant's attorney submits a declaration indicating good faith efforts were made to notify the other party or, if no efforts were made, why notice could not be provided prior to the application for an ex parte stay, and describing the immediate or irreparable harm that may result if an immediate stay is not granted. The court shall require service of the order and motion to stay the writ of restitution by personal delivery, mail, facsimile, or other means most likely to afford all parties notice of the court date.
 
 . In all other cases the judgment may be enforced immediately. If a writ of restitution shall have been executed prior to judgment no further writ or execution for the premises shall be required.
 
 . This section also applies if the writ of restitution is issued pursuant to a final judgment entered after a show cause hearing conducted in accordance with RCW 59.18.380.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6378-S.SL.pdf?cite=2020%20c%20315%20§%205[2020 c 315 § 5]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5600-S.SL.pdf?cite=2019%20c%20356%20§%207[2019 c 356 § 7]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1266-S.SL.pdf?cite=2011%20c%20132%20§%2020[2011 c 132 § 20]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%2019033[2010 c 8 § 19033]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c207.pdf?cite=1973%201st%20ex.s.%20c%20207%20§%2042[1973 1st ex.s. c 207 § 42]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5160-S2.SL.pdf?cite=2021%20c%20115%20§%2017[2021 c 115 § 17]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6378-S.SL.pdf?cite=2020%20c%20315%20§%205[2020 c 315 § 5]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5600-S.SL.pdf?cite=2019%20c%20356%20§%207[2019 c 356 § 7]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1266-S.SL.pdf?cite=2011%20c%20132%20§%2020[2011 c 132 § 20]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%2019033[2010 c 8 § 19033]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c207.pdf?cite=1973%201st%20ex.s.%20c%20207%20§%2042[1973 1st ex.s. c 207 § 42]; ]
 
 == 59.18.415 - Applicability to certain single-family dwelling leases.
 The provisions of this chapter shall not apply to any lease of a single-family dwelling for a period of a year or more or to any lease of a single-family dwelling containing a bona fide option to purchase by the tenant: PROVIDED, That an attorney for the tenant must approve on the face of the agreement any lease exempted from the provisions of this chapter as provided for in this section.
@@ -1656,7 +1533,7 @@ The legislature intends that the remedy provided in RCW 59.18.510 be used solely
 
 [ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5389.SL.pdf?cite=2003%20c%20382%20§%201[2003 c 382 § 1]; ]
 
-== 59.18.570 - Victim protection—Definitions.
+== 59.18.570 - Victim protection—Definitions. (Effective until July 1, 2022.)
 The definitions in this section apply throughout this section and RCW 59.18.575 through 59.18.585 unless the context clearly requires otherwise.
 
 . "Credit reporting agency" has the same meaning as set forth in RCW 19.182.010(5).
@@ -1691,7 +1568,7 @@ The definitions in this section apply throughout this section and RCW 59.18.575 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1856-S.SL.pdf?cite=2009%20c%20395%20§%201[2009 c 395 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1645.SL.pdf?cite=2004%20c%2017%20§%202[2004 c 17 § 2]; ]
 
-== 59.18.575 - Victim protection—Notice to landlord—Termination of rental agreement—Procedures.
+== 59.18.575 - Victim protection—Notice to landlord—Termination of rental agreement—Procedures. (Effective until July 1, 2022.)
 . [Empty]
 .. If a tenant notifies the landlord in writing that he or she or a household member was a victim of an act that constitutes a crime of domestic violence, sexual assault, unlawful harassment, or stalking, and either (a)(i) or (ii) of this subsection applies, then subsection (2) of this section applies:
 
@@ -1925,6 +1802,223 @@ Signature of authorized officer/employee of (Organization, agency, clinic, profe
 .. Upon payment by the department of commerce to the landlord for the remaining or total amount of the judgment, as applicable, the judgment is satisfied and the landlord shall file a satisfaction of judgment with the court.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1694.SL.pdf?cite=2020%20c%20169%20§%201[2020 c 169 § 1]; ]
+
+== 59.18.620 - Definitions applicable to RCW  59.18.625 and  59.18.630.
+The definitions in this section apply to RCW 59.18.625 and 59.18.630 unless the context clearly requires otherwise.
+
+. "Dwelling unit" has the same meaning as defined in RCW 59.18.030, and includes a manufactured/mobile home or a mobile home lot as defined in RCW 59.20.030.
+
+. "Eviction moratorium" refers to the governor of the state of Washington's proclamation 20-19.6, proclaiming a moratorium on certain evictions for all counties throughout Washington state on March 18, 2021.
+
+. "Landlord" has the same meaning as defined in RCW 59.18.030 and 59.20.030.
+
+. "Prospective landlord" has the same meaning as defined in RCW 59.18.030.
+
+. "Public health emergency" refers to the governor of the state of Washington's proclamation 20-05, proclaiming a state of emergency for all counties throughout Washington state on February 29, 2020, and any subsequent orders extending or amending such proclamation due to COVID-19 until the proclamation expires or is terminated by the governor of the state of Washington.
+
+. "Rent" has the same meaning as defined in RCW 59.18.030.
+
+. "Tenant" refers to any individual renting a dwelling unit or lot primarily for living purposes, including any individual with a tenancy subject to this chapter or chapter 59.20 RCW or any individual residing in transient lodging, such as a hotel or motel or camping area as their primary dwelling, for 30 days or more prior to March 1, 2020. "Tenant" does not include any individual residing in a hotel or motel or camping area as their primary dwelling for more than 30 days after March 1, 2020, if the hotel or motel or camping area has provided the individual with a seven-day eviction notice, which must include the following language: "For no-cost legal assistance, please call 2-1-1 or the Northwest Justice Project CLEAR Hotline outside King County (888) 201-1014 weekdays between 9:15 a.m. – 12:15 p.m., or (888) 387-7111 for seniors (age 60 and over). You may find additional resource information at http://www.washingtonlawhelp.org." "Tenant" also does not include occupants of homeless mitigation sites or a person entering onto land without permission of the landowner or lessor. For purposes of this subsection, any local government provision of solid waste or hygiene services to unsanctioned encampments does not constitute permission to occupy land.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5160-S2.SL.pdf?cite=2021%20c%20115%20§%202[2021 c 115 § 2]; ]
+
+== 59.18.625 - Late fees, charges for nonpayment of rent due between March 1, 2020, and six months after eviction moratorium expiration—Violations—Penalties.
+. A landlord may not charge or impose any late fees or other charges against any tenant for the nonpayment of rent that became due between March 1, 2020, and six months following the expiration of the eviction moratorium.
+
+. For rent that accrued between March 1, 2020, and the six months following the expiration of the eviction moratorium expiration date:
+
+.. A landlord may not report to a prospective landlord:
+
+... A tenant's nonpayment of rent that accrued between March 1, 2020, and the six months following the expiration of the eviction moratorium; or
+
+... An unlawful detainer action pursuant to RCW 59.12.030(3) that resulted from a tenant's nonpayment of rent between March 1, 2020, and the six months following the expiration of the eviction moratorium.
+
+.. A prospective landlord may not take an adverse action based on a prospective tenant's nonpayment of rent that occurred between March 1, 2020, and the six months following the expiration of the eviction moratorium.
+
+. [Empty]
+.. A landlord or prospective landlord may not deny, discourage application for, or otherwise make unavailable any rental dwelling unit based on a tenant's or prospective tenant's medical history including, but not limited to, the tenant's or prospective tenant's prior or current exposure or infection to the COVID-19 virus.
+
+.. A landlord or prospective landlord may not inquire about, consider, or require disclosure of a tenant's or prospective tenant's medical records or history, unless such disclosure is necessary to evaluate a reasonable accommodation request or reasonable modification request under RCW 49.60.222.
+
+. A landlord or prospective landlord in violation of this section is liable in a civil action for up to two and one-half times the monthly rent of the real property at issue, as well as court costs and reasonable attorneys' fees. A court must impose this penalty in an amount necessary to deter future violations, payable to the tenant bringing the action.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5160-S2.SL.pdf?cite=2021%20c%20115%20§%203[2021 c 115 § 3]; ]
+
+== 59.18.630 - Eviction moratorium—Unpaid rent—Repayment plans—Rental assistance.
+. The eviction moratorium instituted by the governor of the state of Washington's proclamation 20-19.6 shall end on June 30, 2021.
+
+. If a tenant has remaining unpaid rent that accrued between March 1, 2020, and six months following the expiration of the eviction moratorium or the end of the public health emergency, whichever is greater, the landlord must offer the tenant a reasonable schedule for repayment of the unpaid rent that does not exceed monthly payments equal to one-third of the monthly rental charges during the period of accrued debt. If a tenant fails to accept the terms of a reasonable repayment plan within 14 days of the landlord's offer, the landlord may proceed with an unlawful detainer action as set forth in RCW 59.12.030(3) but subject to any requirements under the eviction resolution pilot program established under section 7, chapter 115, Laws of 2021. If the tenant defaults on any rent owed under a repayment plan, the landlord may apply for reimbursement from the landlord mitigation program as authorized under RCW 43.31.605(1)(d) or proceed with an unlawful detainer action as set forth in RCW 59.12.030(3) but subject to any requirements under the eviction resolution pilot program established under section 7, chapter 115, Laws of 2021. The court must consider the tenant's circumstances, including decreased income or increased expenses due to COVID-19, and the repayment plan terms offered during any unlawful detainer proceeding.
+
+. Any repayment plan entered into under this section must:
+
+.. Not require payment until 30 days after the repayment plan is offered to the tenant;
+
+.. Cover rent only and not any late fees, attorneys' fees, or any other fees and charges;
+
+.. Allow for payments from any source of income as defined in RCW 59.18.255(5) or from pledges by nonprofit organizations, churches, religious institutions, or governmental entities; and
+
+.. Not include provisions or be conditioned on: The tenant's compliance with the rental agreement, payment of attorneys' fees, court costs, or other costs related to litigation if the tenant defaults on the rental agreement; a requirement that the tenant apply for governmental benefits or provide proof of receipt of governmental benefits; or the tenant's waiver of any rights to a notice under RCW 59.12.030 or related provisions before a writ of restitution is issued.
+
+. It is a defense to an eviction under RCW 59.12.030(3) that a landlord did not offer a repayment plan in conformity with this section.
+
+. To the extent available funds exist for rental assistance from a federal, state, local, private, or nonprofit program, the tenant or landlord may continue to seek rental assistance to reduce and/or eliminate the unpaid rent balance.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5160-S2.SL.pdf?cite=2021%20c%20115%20§%204[2021 c 115 § 4]; ]
+
+== 59.18.640 - Indigent tenants.
+. Subject to the availability of amounts appropriated for this specific purpose, the court must appoint an attorney for an indigent tenant in an unlawful detainer proceeding under this chapter and chapters 59.12 and 59.20 RCW. The office of civil legal aid is responsible for implementation of this subsection as provided in RCW 2.53.050, and the state shall pay the costs of legal services provided by an attorney appointed pursuant to this subsection. In implementing this section, the office of civil legal aid shall assign priority to providing legal representation to indigent tenants in those counties in which the most evictions occur and to indigent tenants who are disproportionately at risk of eviction.
+
+. For purposes of this section, "indigent" means any person who, at any stage of a court proceeding, is:
+
+.. Receiving one of the following types of public assistance: Temporary assistance for needy families, aged, blind, or disabled assistance benefits, medical care services under RCW 74.09.035, pregnant women assistance benefits, poverty-related veterans' benefits, food stamps or food stamp benefits transferred electronically, refugee resettlement benefits, medicaid, or supplemental security income; or
+
+.. Receiving an annual income, after taxes, of 200 percent or less of the current federally established poverty level.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5160-S2.SL.pdf?cite=2021%20c%20115%20§%208[2021 c 115 § 8]; ]
+
+== 59.18.650 - Eviction of tenant, refusal to continue tenancy, end of periodic tenancy—Cause—Notice—Penalties.
+. [Empty]
+.. A landlord may not evict a tenant, refuse to continue a tenancy, or end a periodic tenancy except for the causes enumerated in subsection (2) of this section and as otherwise provided in this subsection.
+
+.. If a landlord and tenant enter into a rental agreement that provides for the tenancy to continue for an indefinite period on a month-to-month or periodic basis after the agreement expires, the landlord may not end the tenancy except for the causes enumerated in subsection (2) of this section; however, a landlord may end such a tenancy at the end of the initial period of the rental agreement without cause only if:
+
+... At the inception of the tenancy, the landlord and tenant entered into a rental agreement between six and 12 months; and
+
+... The landlord has provided the tenant before the end of the initial lease period at least 60 days' advance written notice ending the tenancy, served in a manner consistent with RCW 59.12.040.
+
+.. If a landlord and tenant enter into a rental agreement for a specified period in which the tenancy by the terms of the rental agreement does not continue for an indefinite period on a month-to-month or periodic basis after the end of the specified period, the landlord may end such a tenancy without cause upon expiration of the specified period only if:
+
+... At the inception of the tenancy, the landlord and tenant entered into a rental agreement of 12 months or more for a specified period, or the landlord and tenant have continuously and without interruption entered into successive rental agreements of six months or more for a specified period since the inception of the tenancy;
+
+... The landlord has provided the tenant before the end of the specified period at least 60 days' advance written notice that the tenancy will be deemed expired at the end of such specified period, served in a manner consistent with RCW 59.12.040; and
+
+... The tenancy has not been for an indefinite period on a month-to-month or periodic basis at any point since the inception of the tenancy. However, for any tenancy of an indefinite period in existence as of May 10, 2021, if the landlord and tenant enter into a rental agreement between May 10, 2021, and three months following the expiration of the governor's proclamation 20-19.6 or any extensions thereof, the landlord may exercise rights under this subsection (1)(c) as if the rental agreement was entered into at the inception of the tenancy provided that the rental agreement is otherwise in accordance with this subsection (1)(c).
+
+.. For all other tenancies of a specified period not covered under (b) or (c) of this subsection, and for tenancies of an indefinite period on a month-to-month or periodic basis, a landlord may not end the tenancy except for the causes enumerated in subsection (2) of this section. Upon the end date of the tenancy of a specified period, the tenancy becomes a month-to-month tenancy.
+
+.. Nothing prohibits a landlord and tenant from entering into subsequent lease agreements that are in compliance with the requirements in subsection (2) of this section.
+
+.. A tenant may end a tenancy for a specified time by providing notice in writing not less than 20 days prior to the ending date of the specified time.
+
+. The following reasons listed in this subsection constitute cause pursuant to subsection (1) of this section:
+
+.. The tenant continues in possession in person or by subtenant after a default in the payment of rent, and after written notice requiring, in the alternative, the payment of the rent or the surrender of the detained premises has remained uncomplied with for the period set forth in RCW 59.12.030(3) for tenants subject to this chapter. The written notice may be served at any time after the rent becomes due;
+
+.. The tenant continues in possession after substantial breach of a material program requirement of subsidized housing, material term subscribed to by the tenant within the lease or rental agreement, or a tenant obligation imposed by law, other than one for monetary damages, and after the landlord has served written notice specifying the acts or omissions constituting the breach and requiring, in the alternative, that the breach be remedied or the rental agreement will end, and the breach has not been adequately remedied by the date specified in the notice, which date must be at least 10 days after service of the notice;
+
+.. The tenant continues in possession after having received at least three days' advance written notice to quit after he or she commits or permits waste or nuisance upon the premises, unlawful activity that affects the use and enjoyment of the premises, or other substantial or repeated and unreasonable interference with the use and enjoyment of the premises by the landlord or neighbors of the tenant;
+
+.. The tenant continues in possession after the landlord of a dwelling unit in good faith seeks possession so that the owner or his or her immediate family may occupy the unit as that person's principal residence and no substantially equivalent unit is vacant and available to house the owner or his or her immediate family in the same building, and the owner has provided at least 90 days' advance written notice of the date the tenant's possession is to end. There is a rebuttable presumption that the owner did not act in good faith if the owner or immediate family fails to occupy the unit as a principal residence for at least 60 consecutive days during the 90 days immediately after the tenant vacated the unit pursuant to a notice to vacate using this subsection (2)(d) as the cause for the lease ending;
+
+.. The tenant continues in possession after the owner elects to sell a single-family residence and the landlord has provided at least 90 days' advance written notice of the date the tenant's possession is to end. For the purposes of this subsection (2)(e), an owner "elects to sell" when the owner makes reasonable attempts to sell the dwelling within 30 days after the tenant has vacated, including, at a minimum, listing it for sale at a reasonable price with a realty agency or advertising it for sale at a reasonable price by listing it on the real estate multiple listing service. There shall be a rebuttable presumption that the owner did not intend to sell the unit if:
+
+... Within 30 days after the tenant has vacated, the owner does not list the single-family dwelling unit for sale at a reasonable price with a realty agency or advertise it for sale at a reasonable price by listing it on the real estate multiple listing service; or
+
+... Within 90 days after the date the tenant vacated or the date the property was listed for sale, whichever is later, the owner withdraws the rental unit from the market, the landlord rents the unit to someone other than the former tenant, or the landlord otherwise indicates that the owner does not intend to sell the unit;
+
+.. The tenant continues in possession of the premises after the landlord serves the tenant with advance written notice pursuant to RCW 59.18.200(2)(c);
+
+.. The tenant continues in possession after the owner elects to withdraw the premises to pursue a conversion pursuant to RCW 64.34.440 or 64.90.655;
+
+.. The tenant continues in possession, after the landlord has provided at least 30 days' advance written notice to vacate that: (i) The premises has been certified or condemned as uninhabitable by a local agency charged with the authority to issue such an order; and (ii) continued habitation of the premises would subject the landlord to civil or criminal penalties. However, if the terms of the local agency's order do not allow the landlord to provide at least 30 days' advance written notice, the landlord must provide as much advance written notice as is possible and still comply with the order;
+
+.. The tenant continues in possession after an owner or lessor, with whom the tenant shares the dwelling unit or access to a common kitchen or bathroom area, has served at least 20 days' advance written notice to vacate prior to the end of the rental term or, if a periodic tenancy, the end of the rental period;
+
+.. The tenant continues in possession of a dwelling unit in transitional housing after having received at least 30 days' advance written notice to vacate in advance of the expiration of the transitional housing program, the tenant has aged out of the transitional housing program, or the tenant has completed an educational or training or service program and is no longer eligible to participate in the transitional housing program. Nothing in this subsection (2)(j) prohibits the ending of a tenancy in transitional housing for any of the other causes specified in this subsection;
+
+.. The tenant continues in possession of a dwelling unit after the expiration of a rental agreement without signing a proposed new rental agreement proffered by the landlord; provided, that the landlord proffered the proposed new rental agreement at least 30 days prior to the expiration of the current rental agreement and that any new terms and conditions of the proposed new rental agreement are reasonable. This subsection (2)(k) does not apply to tenants whose tenancies are or have become periodic;
+
+.. The tenant continues in possession after having received at least 30 days' advance written notice to vacate due to intentional, knowing, and material misrepresentations or omissions made on the tenant's application at the inception of the tenancy that, had these misrepresentations or omissions not been made, would have resulted in the landlord requesting additional information or taking an adverse action;
+
+.. The tenant continues in possession after having received at least 60 days' advance written notice to vacate for other good cause prior to the end of the period or rental agreement and such cause constitutes a legitimate economic or business reason not covered or related to a basis for ending the lease as enumerated under this subsection (2). When the landlord relies on this basis for ending the tenancy, the court may stay any writ of restitution for up to 60 additional days for good cause shown, including difficulty procuring alternative housing. The court must condition such a stay upon the tenant's continued payment of rent during the stay period. Upon granting such a stay, the court must award court costs and fees as allowed under this chapter;
+
+.. [Empty]
+... The tenant continues in possession after having received at least 60 days' written notice to vacate prior to the end of the period or rental agreement and the tenant has committed four or more of the following violations, other than ones for monetary damages, within the preceding 12-month period, the tenant has remedied or cured the violation, and the landlord has provided the tenant a written warning notice at the time of each violation: A substantial breach of a material program requirement of subsidized housing, a substantial breach of a material term subscribed to by the tenant within the lease or rental agreement, or a substantial breach of a tenant obligation imposed by law;
+
+... Each written warning notice must:
+
+(A) Specify the violation;
+
+(B) Provide the tenant an opportunity to cure the violation;
+
+(C) State that the landlord may choose to end the tenancy at the end of the rental term if there are four violations within a 12-month period preceding the end of the term; and
+
+(D) State that correcting the fourth or subsequent violation is not a defense to the ending of the lease under this subsection;
+
+... The 60-day notice to vacate must:
+
+(A) State that the rental agreement will end upon the specified ending date for the rental term or upon a designated date not less than 60 days after the delivery of the notice, whichever is later;
+
+(B) Specify the reason for ending the lease and supporting facts; and
+
+(C) Be served to the tenant concurrent with or after the fourth or subsequent written warning notice;
+
+... The notice under this subsection must include all notices supporting the basis of ending the lease;
+
+.. Any notices asserted under this subsection must pertain to four or more separate incidents or occurrences; and
+
+.. This subsection (2)(n) does not absolve a landlord from demonstrating by admissible evidence that the four or more violations constituted breaches under (b) of this subsection at the time of the violation had the tenant not remedied or cured the violation;
+
+.. The tenant continues in possession after having received at least 60 days' advance written notice to vacate prior to the end of the rental period or rental agreement if the tenant is required to register as a sex offender during the tenancy, or failed to disclose a requirement to register as a sex offender when required in the rental application or otherwise known to the property owner at the beginning of the tenancy;
+
+.. The tenant continues in possession after having received at least 20 days' advance written notice to vacate prior to the end of the rental period or rental agreement if the tenant has made unwanted sexual advances or other acts of sexual harassment directed at the property owner, property manager, property employee, or another tenant based on the person's race, gender, or other protected status in violation of any covenant or term in the lease.
+
+. When a tenant has permanently vacated due to voluntary or involuntary events, other than by the ending of the tenancy by the landlord, a landlord must serve a notice to any remaining occupants who had coresided with the tenant at least six months prior to and up to the time the tenant permanently vacated, requiring the occupants to either apply to become a party to the rental agreement or vacate within 30 days of service of such notice. In processing any application from a remaining occupant under this subsection, the landlord may require the occupant to meet the same screening, background, and financial criteria as would any other prospective tenant to continue the tenancy. If the occupant fails to apply within 30 days of receipt of the notice in this subsection, or the application is denied for failure to meet the criteria, the landlord may commence an unlawful detainer action under this chapter. If an occupant becomes a party to the tenancy pursuant to this subsection, a landlord may not end the tenancy except as provided under subsection (2) of this section. This subsection does not apply to tenants residing in subsidized housing.
+
+. A landlord who removes a tenant or causes a tenant to be removed from a dwelling in any way in violation of this section is liable to the tenant for wrongful eviction, and the tenant prevailing in such an action is entitled to the greater of their economic and noneconomic damages or three times the monthly rent of the dwelling at issue, and reasonable attorneys' fees and court costs.
+
+. Nothing in subsection (2)(d), (e), or (f) of this section permits a landlord to end a tenancy for a specified period before the completion of the term unless the landlord and the tenant mutually consent, in writing, to ending the tenancy early and the tenant is afforded at least 60 days to vacate.
+
+. All written notices required under subsection (2) of this section must:
+
+.. Be served in a manner consistent with RCW 59.12.040; and
+
+.. Identify the facts and circumstances known and available to the landlord at the time of the issuance of the notice that support the cause or causes with enough specificity so as to enable the tenant to respond and prepare a defense to any incidents alleged. The landlord may present additional facts and circumstances regarding the allegations within the notice if such evidence was unknown or unavailable at the time of the issuance of the notice.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1236-S.SL.pdf?cite=2021%20c%20212%20§%202[2021 c 212 § 2]; ]
+
+== 59.18.660 - Eviction resolution pilot program. (Expires July 1, 2023.)
+. Subject to the availability of amounts appropriated for this specific purpose, the administrative office of the courts shall contract with dispute resolution centers as described under chapter 7.75 RCW within or serving each county to establish a court-based eviction resolution pilot program operated in accordance with Washington supreme court order no. 25700-B-639 and any standing judicial order of the individual superior court.
+
+. The eviction resolution pilot program must be used to facilitate the resolution of nonpayment of rent cases between a landlord and tenant before the landlord files an unlawful detainer action.
+
+. Prior to filing an unlawful detainer action for nonpayment of rent, the landlord must provide a notice as required under RCW 59.12.030(3) and an additional notice to the tenant informing them of the eviction resolution pilot program. The landlord must retain proof of service or mailing of the additional notice. The additional notice to the tenant must provide at least the following information regarding the eviction resolution pilot program:
+
+.. Contact information for the local dispute resolution center;
+
+.. Contact information for the county's housing justice project or, if none, a statewide organization providing housing advocacy services for low-income residents;
+
+.. The following statement: "The Washington state office of the attorney general has this notice in multiple languages on its website. You will also find information there on how to find a lawyer or advocate at low or no cost and any available resources to help you pay your rent. Alternatively, you may find additional information to help you at http://www.washingtonlawhelp.org";
+
+.. The name and contact information of the landlord, the landlord's attorney, if any, and the tenant; and
+
+.. The following statement: "Failure to respond to this notice within 14 days may result in the filing of a summons and complaint for an unlawful detainer action with the court."
+
+. At the time of service or mailing of the pay or vacate notice and additional notice to the tenant, a landlord must also send copies of these notices to the local dispute resolution center serving the area where the property is located.
+
+. A landlord must secure a certification of participation with the eviction resolution program by the appropriate dispute resolution center before an unlawful detainer action for nonpayment of rent may be heard by the court.
+
+. The administrative office of the courts may also establish and produce any other notice forms and requirements as necessary to implement the eviction resolution pilot program.
+
+. Any superior court, in collaboration with the dispute resolution center that is located within or serving the same county, participating in the eviction resolution pilot program must report annually to the administrative office of the courts beginning January 1, 2022, until January 1, 2023, on the following:
+
+.. The number of unlawful detainer actions for nonpayment of rent that were subject to program requirements;
+
+.. The number of referrals made to dispute resolution centers;
+
+.. The number of nonpayment of rent cases resolved by the program;
+
+.. How many instances the tenant had legal representation either at the conciliation stage or formal mediation stage;
+
+.. The number of certifications issued by dispute resolution centers and filed by landlords with the court; and
+
+.. Any other information that relates to the efficacy of the pilot program.
+
+. By July 1, 2022, until July 1, 2023, the administrative office of the courts must provide a report to the legislature summarizing the report data shared by the superior courts and dispute resolution centers under subsection (7) of this section.
+
+. This section expires July 1, 2023.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5160-S2.SL.pdf?cite=2021%20c%20115%20§%207[2021 c 115 § 7]; ]
 
 == 59.18.900 - Severability—1973 1st ex.s. c 207.
 If any provision of this chapter, or its application to any person or circumstance is held invalid, the remainder of the act, or its application to other persons or circumstances, is not affected.

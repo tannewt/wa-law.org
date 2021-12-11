@@ -75,7 +75,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 .. A program guidebook need not be completed and adopted prior to accepting and approving applications by a program, so long as the program complies with the provisions of this chapter.
 
-. The program administrator must make the program guidebook available for public inspection on the county's or department of commerce's web site.
+. The program administrator must make the program guidebook available for public inspection on the county's or department of commerce's website.
 
 . A county or the department of commerce may contract out the responsibilities of program administration, including the responsibilities of this section, to a public, quasi-public, or private third-party entity.
 

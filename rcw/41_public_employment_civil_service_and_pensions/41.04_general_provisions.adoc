@@ -542,7 +542,7 @@ Subject to the approval of the director of financial management, suitable space 
 
 [ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1778-S.SL.pdf?cite=1993%20c%20194%20§%203[1993 c 194 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c162.pdf?cite=1984%20c%20162%20§%203[1984 c 162 § 3]; ]
 
-== 41.04.382 - Child care organizations—Qualifications for services.
+== 41.04.382 - Child care organizations—Qualifications for services. (Effective until January 1, 2022.)
 In order to qualify for services under RCW 41.04.380, state employee child care organizations shall be organized as nonprofit under chapter 24.03 RCW.
 
 [ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1778-S.SL.pdf?cite=1993%20c%20194%20§%204[1993 c 194 § 4]; ]
@@ -812,7 +812,7 @@ The legislature finds that: (1) State employees historically have joined togethe
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1434-S.SL.pdf?cite=2018%20c%2039%20§%201[2018 c 39 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c93.pdf?cite=1989%20c%2093%20§%201[1989 c 93 § 1]; ]
 
-== 41.04.655 - Leave sharing program—Definitions.
+== 41.04.655 - Leave sharing program—Definitions. (Effective until July 1, 2022.)
 Unless the context clearly requires otherwise, the definitions in this section apply throughout RCW 41.04.650 through 41.04.670, 28A.400.380, and section 7, chapter 93, Laws of 1989.
 
 . "Domestic violence" means any of the following acts committed by one family or household member against another or by one intimate partner against another, as those terms are defined in RCW 26.50.010:
@@ -1247,7 +1247,7 @@ Individual providers, as defined in RCW 74.39A.240, and family child care provid
 
 .. Employees at state institutions of higher education;
 
-.. Certificated employees of the state school for the blind and the center for childhood deafness and hearing loss;
+.. Certificated employees of the state school for the blind and the *center for childhood deafness and hearing loss;
 
 .. Commissioned officers of the Washington state patrol represented by the state patrol troopers association and the Washington state patrol lieutenants association;
 

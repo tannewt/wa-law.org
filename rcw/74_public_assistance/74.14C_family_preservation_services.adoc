@@ -41,6 +41,14 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 Family preservation services shall have the characteristics delineated in RCW 74.14C.020 (2) and (3).
 
+. "Family resource center" means a unified single point of entry where families, individuals, children, and youth in communities can obtain information, an assessment of needs, referral to, or direct delivery of family services in a manner that is welcoming and strength-based.
+
+.. A family resource center is designed to meet the needs, cultures, and interests of the communities that the family resource center serves.
+
+.. Family services may be delivered directly to a family at the family resource center by family resource center staff or by providers who contract with or have provider agreements with the family resource center. Any family resource center that provides family services shall comply with applicable state and federal laws and regulations regarding the delivery of such family services, unless required waivers or exemptions have been granted by the appropriate governing body.
+
+.. Each family resource center shall have one or more family advocates who screen and assess a family's needs and strengths. If requested by the family, the family advocate shall assist the family with setting its own goals and, together with the family, develop a written plan to pursue the family's goals in working towards a greater level of self-reliance or in attaining self-sufficiency.
+
 . "Imminent" means a decision has been made by the department that, without intensive family preservation services, a petition requesting the removal of a child from the family home will be immediately filed under chapter 13.32A or 13.34 RCW, or that a voluntary placement agreement will be immediately initiated.
 
 . "Intensive family preservation services" means community-based services that are delivered primarily in the home, that follow intensive service models with demonstrated effectiveness in reducing or avoiding the need for unnecessary imminent out-of-home placement, and that have all of the characteristics delineated in RCW 74.14C.020 (1) and (3).
@@ -53,7 +61,7 @@ Family preservation services shall have the characteristics delineated in RCW 74
 
 . "Secretary" means the secretary of the department.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1661-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%206%20§%20511[2017 3rd sp.s. c 6 § 511]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6514-S.SL.pdf?cite=1996%20c%20240%20§%202[1996 c 240 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5885-S.SL.pdf?cite=1995%20c%20311%20§%202[1995 c 311 § 2]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6111-S.SL.pdf?cite=1992%20c%20214%20§%202[1992 c 214 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1237.SL.pdf?cite=2021%20c%2039%20§%202[2021 c 39 § 2]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1661-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%206%20§%20511[2017 3rd sp.s. c 6 § 511]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6514-S.SL.pdf?cite=1996%20c%20240%20§%202[1996 c 240 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5885-S.SL.pdf?cite=1995%20c%20311%20§%202[1995 c 311 § 2]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6111-S.SL.pdf?cite=1992%20c%20214%20§%202[1992 c 214 § 2]; ]
 
 == 74.14C.020 - Preservation services.
 . Intensive family preservation services shall have all of the following characteristics:
@@ -206,7 +214,7 @@ Any federal funds made available under RCW 74.14C.060 shall be used to supplemen
 [ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1410-S.SL.pdf?cite=1995%202nd%20sp.s.%20c%2018%20§%20922[1995 2nd sp.s. c 18 § 922]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6111-S.SL.pdf?cite=1992%20c%20214%20§%2011[1992 c 214 § 11]; ]
 
 == 74.14C.090 - Reports on referrals and services.
-Each department caseworker who refers a client for preservation services shall file a report with his or her direct supervisor stating the reasons for which the client was referred. The caseworker's supervisor shall verify in writing his or her belief that the family who is the subject of a referral for preservation services meets the eligibility criteria for services as provided in this chapter. The direct supervisor shall report monthly to the regional administrator on the provision of these services. The regional administrator shall report to the secretary quarterly on the provision of these services for the entire region. The secretary shall post on the department's web site a semiannual report on the provision of these services on a statewide basis.
+Each department caseworker who refers a client for preservation services shall file a report with his or her direct supervisor stating the reasons for which the client was referred. The caseworker's supervisor shall verify in writing his or her belief that the family who is the subject of a referral for preservation services meets the eligibility criteria for services as provided in this chapter. The direct supervisor shall report monthly to the regional administrator on the provision of these services. The regional administrator shall report to the secretary quarterly on the provision of these services for the entire region. The secretary shall post on the department's website a semiannual report on the provision of these services on a statewide basis.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1661-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%206%20§%20513[2017 3rd sp.s. c 6 § 513]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5885-S.SL.pdf?cite=1995%20c%20311%20§%208[1995 c 311 § 8]; ]
 

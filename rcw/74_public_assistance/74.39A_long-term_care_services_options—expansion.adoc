@@ -275,14 +275,14 @@ The department's system of quality improvement for long-term care services shall
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6199-S.SL.pdf?cite=2018%20c%20278%20§%207[2018 c 278 § 7]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2314-S.SL.pdf?cite=2012%20c%20164%20§%20701[2012 c 164 § 701]; 2012 c 1 § 106 (Initiative Measure No. 1163, approved November 8, 2011); ]
 
-== 74.39A.056 - Background checks on long-term care workers. (Effective until January 1, 2021.)
+== 74.39A.056 - Background checks on long-term care workers. 
 . [Empty]
 .. All long-term care workers shall be screened through state and federal background checks in a uniform and timely manner to verify that they do not have a history that would disqualify them from working with vulnerable persons. The department must process background checks for long-term care workers and make the information available to employers, prospective employers, and others as authorized by law.
 
 .. [Empty]
-... Except as provided in (b)(ii) of this subsection, for long-term care workers hired on or after January 7, 2012, the background checks required under this section shall include checking against the federal bureau of investigation fingerprint identification records system and against the national sex offenders registry or their successor programs. The department shall require these long-term care workers to submit fingerprints for the purpose of investigating conviction records through both the Washington state patrol and the federal bureau of investigation. The department shall not pass on the cost of these criminal background checks to the workers or their employers.
+... For long-term care workers hired on or after January 7, 2012, the background checks required under this section shall include checking against the federal bureau of investigation fingerprint identification records system or its successor program. The department shall require these long-term care workers to submit fingerprints for the purpose of investigating conviction records through both the Washington state patrol and the federal bureau of investigation. The department shall not pass on the cost of these criminal background checks to the workers or their employers.
 
-... This subsection does not apply to long-term care workers employed by community residential service businesses until January 1, 2016.
+... A long-term care worker who is not disqualified by the state background check can work and have unsupervised access pending the results of the federal bureau of investigation fingerprint background check as allowed by rules adopted by the department.
 
 .. The department shall share state and federal background check results with the department of health in accordance with RCW 18.88B.080.
 
@@ -296,13 +296,97 @@ The department's system of quality improvement for long-term care services shall
 
 ... The department's background check results have been shared with the consumer directed employer.
 
-. No provider, or its staff, or long-term care worker, or prospective provider or long-term care worker, with a stipulated finding of fact, conclusion of law, an agreed order, or finding of fact, conclusion of law, or final order issued by a disciplining authority or a court of law or entered into a state registry with a final substantiated finding of abuse, neglect, exploitation, or abandonment of a minor or a vulnerable adult as defined in chapter 74.34 RCW shall be employed in the care of and have unsupervised access to vulnerable adults.
+.. The department may require a fingerprint-based background check through both the Washington state patrol and the federal bureau of investigation at any time.
+
+. A provider may not be employed in the care of and have unsupervised access to vulnerable adults if:
+
+.. The provider is on the vulnerable adult abuse registry or on any other registry based upon a finding of abuse, abandonment, neglect, or financial exploitation of a vulnerable adult;
+
+.. On or after October 1, 1998, the department of children, youth, and families, or its predecessor agency, has made a founded finding of abuse or neglect of a child against the provider. If the provider has received a certificate of parental improvement under chapter 74.13 RCW pertaining to the finding, the provider is not disqualified under this section;
+
+.. A disciplining authority, including the department of health, has made a finding of abuse, abandonment, neglect, or financial exploitation of a minor or a vulnerable adult against the provider; or
+
+.. A court has issued an order that includes a finding of fact or conclusion of law that the provider has committed abuse, abandonment, neglect, or financial exploitation of a minor or vulnerable adult. If the provider has received a certificate of parental improvement under chapter 74.13 RCW pertaining to the finding of fact or conclusion of law, the provider is not disqualified under this section.
 
 . The department shall establish, by rule, a state registry which contains identifying information about long-term care workers identified under this chapter who have final substantiated findings of abuse, neglect, financial exploitation, or abandonment of a vulnerable adult as defined in RCW 74.34.020. The rule must include disclosure, disposition of findings, notification, findings of fact, appeal rights, and fair hearing requirements. The department shall disclose, upon request, final substantiated findings of abuse, neglect, financial exploitation, or abandonment to any person so requesting this information. This information must also be shared with the department of health to advance the purposes of chapter 18.88B RCW.
 
+. For the purposes of this section, "provider" means:
+
+.. An individual provider as defined in RCW 74.39A.240;
+
+.. An employee, licensee, or contractor of any of the following: A home care agency licensed under chapter 70.127 RCW; a nursing home under chapter 18.51 RCW; an assisted living facility under chapter 18.20 RCW; an enhanced services facility under chapter 70.97 RCW; a certified resident services and supports agency licensed or certified under chapter 71A.12 RCW; an adult family home under chapter 70.128 RCW; or any long-term care facility certified to provide medicaid or medicare services; and
+
+.. Any contractor of the department who may have unsupervised access to vulnerable adults.
+
 . The department shall adopt rules to implement this section.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6199-S.SL.pdf?cite=2018%20c%20278%20§%208[2018 c 278 § 8]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2314-S.SL.pdf?cite=2012%20c%20164%20§%20503[2012 c 164 § 503]; 2012 c 1 § 101 (Initiative Measure No. 1163, approved November 8, 2011); ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1120-S.SL.pdf?cite=2021%20c%20203%20§%203[2021 c 203 § 3]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1645-S2.SL.pdf?cite=2020%20c%20270%20§%208[2020 c 270 § 8]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6199-S.SL.pdf?cite=2018%20c%20278%20§%208[2018 c 278 § 8]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2314-S.SL.pdf?cite=2012%20c%20164%20§%20503[2012 c 164 § 503]; 2012 c 1 § 101 (Initiative Measure No. 1163, approved November 8, 2011); ]
+
+== 74.39A.058 - Long-term care workforce work group. (Expires July 1, 2023.)
+. The department shall facilitate a work group dedicated to expanding the long-term care workforce while continuing to recognize the importance of protecting vulnerable adults, racial equity in client choice, just compensation for unpaid care work while preserving choice for those who wish to be informal caregivers without pay, and paid services. The work group shall identify recommendations on informed choice through a process by which older adults and people with disabilities may hire a trusted individual with a criminal record that would otherwise disqualify the person from providing paid home care services under this chapter. The work group's recommendations on the informed choice process shall include:
+
+.. Client safety;
+
+.. Client direction;
+
+.. Racial equity;
+
+.. Cultural competence;
+
+.. Economic consequences of unpaid caregiving on caregivers and people receiving care;
+
+.. Categories of eligible workers (family, friend, trusted individuals, or others);
+
+.. Disqualifying crimes, if any;
+
+.. Mechanisms for consideration (attestation, petition, other); and
+
+.. Workforce development.
+
+. [Empty]
+.. The work group shall consist of:
+
+... Two representatives from the department;
+
+... Two representatives from community-based organizations that represent people with criminal records;
+
+... One representative from a community-based organization that represents Black communities;
+
+... Two representatives, one from the west side of the Cascade mountains and one from the east side of the Cascade mountains, from federally recognized tribes;
+
+.. One representative from a community-based organization that represents immigrant populations or persons of color;
+
+.. Three representatives from the union representing the majority of long-term care workers in Washington;
+
+.. One representative of a consumer-directed employer;
+
+.. One representative of an association representing area agencies on aging in Washington;
+
+... One representative from the office of the state long-term care ombuds;
+
+.. One representative from the office of the state developmental disability ombuds;
+
+.. One representative of an association representing medicaid home care agencies;
+
+.. One representative from the Washington state attorney general's office;
+
+.. Four representatives from organizations representing seniors and individuals with physical or developmental disabilities;
+
+.. Two representatives who are current or previous consumers of personal care services and who represent the diversity of the disability community; and
+
+.. Two representatives who receive unpaid care from individuals who are unable to become medicaid paid home care workers because of disqualifying convictions.
+
+.. The department shall invite the participation of persons with expertise in the background check process to provide advice and consultation to the work group with respect to the development of the proposed process under subsection (1) of this section.
+
+.. Appointments to the work group shall be made by the department. The department shall convene the meetings of the work group and serve as the facilitator.
+
+. The work group shall devote at least one meeting to reviewing and analyzing racial disparities relevant to the work group's direction under subsection (1) of this section, including disparities in charges and disqualifications in providing paid home care services under this chapter.
+
+. The work group must submit its recommendations to the legislature by December 1, 2022. The recommendations must include a proposed process for clients to hire a trusted individual with a criminal record. The proposed process must include a recommended communication strategy to inform older adults and people with disabilities in Washington about the process.
+
+. This section expires July 1, 2023.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1411-S.SL.pdf?cite=2021%20c%20219%20§%202[2021 c 219 § 2]; ]
 
 == 74.39A.060 - Toll-free telephone number for complaints—Investigation and referral—Rules—Discrimination or retaliation prohibited.
 . The aging and long-term support administration of the department shall establish and maintain a toll-free telephone number for receiving complaints regarding facilities and community residential services businesses as defined in this chapter.
@@ -340,7 +424,7 @@ The department's system of quality improvement for long-term care services shall
 
 [ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1908-S2.SL.pdf?cite=1995%201st%20sp.s.%20c%2018%20§%2016[1995 1st sp.s. c 18 § 16]; ]
 
-== 74.39A.074 - Training requirements for long-term care workers.
+== 74.39A.074 - Training requirements for long-term care workers—Rules.
 . [Empty]
 .. Except for long-term care workers exempt from certification under RCW 18.88B.041(1)(a), all persons hired as long-term care workers must meet the minimum training requirements in this section within one hundred twenty calendar days after the date of being hired.
 
@@ -370,9 +454,15 @@ The department's system of quality improvement for long-term care services shall
 
 . Individual providers under RCW 74.39A.270 shall be compensated for training time required by this section.
 
+. If a pandemic, natural disaster, or other declared state of emergency impacts the ability of long-term care workers to complete training as required by this section, the department may adopt rules to allow long-term care workers additional time to complete the training requirements.
+
+.. Rules adopted under this subsection (4) are effective until the termination of the pandemic, natural disaster, or other declared state of emergency or until the department determines that all long-term care workers who were unable to complete the training required in subsection (1)(a) of this section have had adequate access to complete the required training, whichever is later. Once the department determines a rule adopted under this subsection (4) is no longer necessary, it must repeal the rule under RCW 34.05.353.
+
+.. Within 12 months of the termination of the pandemic, natural disaster, or other declared state of emergency, the department shall conduct a review of training compliance with subsection (1)(a) of this section and provide the legislature with a report.
+
 . The department shall adopt rules to implement this section.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5177.SL.pdf?cite=2017%20c%20216%20§%201[2017 c 216 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2314-S.SL.pdf?cite=2012%20c%20164%20§%20401[2012 c 164 § 401]; 2012 c 1 § 107 (Initiative Measure No. 1163, approved November 8, 2011); ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1120-S.SL.pdf?cite=2021%20c%20203%20§%207[2021 c 203 § 7]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5177.SL.pdf?cite=2017%20c%20216%20§%201[2017 c 216 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2314-S.SL.pdf?cite=2012%20c%20164%20§%20401[2012 c 164 § 401]; 2012 c 1 § 107 (Initiative Measure No. 1163, approved November 8, 2011); ]
 
 == 74.39A.076 - Training requirements for individual providers caring for family members.
 . Beginning January 7, 2012, except for long-term care workers exempt from certification under RCW 18.88B.041(1)(a):
@@ -397,9 +487,15 @@ The department's system of quality improvement for long-term care services shall
 
 .. Requires comprehensive instruction by qualified instructors.
 
+. If a pandemic, natural disaster, or other declared state of emergency impacts the ability of long-term care workers to complete training as required by this section, the department may adopt rules to allow long-term care workers additional time to complete the training requirements.
+
+.. Rules adopted under this subsection (4) are effective until the termination of the pandemic, natural disaster, or other declared state of emergency or until the department determines that all long-term care workers who were unable to complete the training required in subsection (1) of this section have had adequate access to complete the required training, whichever is later. Once the department determines a rule adopted under this subsection (4) is no longer necessary, it must repeal the rule under RCW 34.05.353.
+
+.. Within 12 months of the termination of the pandemic, natural disaster, or other declared state of emergency, the department shall conduct a review of training compliance with subsection (1) of this section and provide the legislature with a report.
+
 . The department shall adopt rules to implement this section.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1087-S2.SL.pdf?cite=2019%20c%20363%20§%2019[2019 c 363 § 19]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2435.SL.pdf?cite=2018%20c%20220%20§%201[2018 c 220 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1322.SL.pdf?cite=2017%20c%20267%20§%201[2017 c 267 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1531.SL.pdf?cite=2015%20c%20152%20§%202[2015 c 152 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6387-S.SL.pdf?cite=2014%20c%20139%20§%207[2014 c 139 § 7]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2314-S.SL.pdf?cite=2012%20c%20164%20§%20402[2012 c 164 § 402]; 2012 c 1 § 108 (Initiative Measure No. 1163, approved November 8, 2011); ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1120-S.SL.pdf?cite=2021%20c%20203%20§%208[2021 c 203 § 8]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1087-S2.SL.pdf?cite=2019%20c%20363%20§%2019[2019 c 363 § 19]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2435.SL.pdf?cite=2018%20c%20220%20§%201[2018 c 220 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1322.SL.pdf?cite=2017%20c%20267%20§%201[2017 c 267 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1531.SL.pdf?cite=2015%20c%20152%20§%202[2015 c 152 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6387-S.SL.pdf?cite=2014%20c%20139%20§%207[2014 c 139 § 7]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2314-S.SL.pdf?cite=2012%20c%20164%20§%20402[2012 c 164 § 402]; 2012 c 1 § 108 (Initiative Measure No. 1163, approved November 8, 2011); ]
 
 == 74.39A.078 - Rules for the approval of curricula for facility-based caregivers serving persons with behavioral health needs and geriatric behavioral health workers—Curricula requirements.
 The department shall adopt rules to establish minimum competencies and standards for the approval of curricula for facility-based caregivers serving persons with behavioral health needs and geriatric behavioral health workers. The curricula must include at least thirty hours of training specific to the diagnosis, care, and crisis management of residents with a mental health disorder, traumatic brain injury, or dementia. The curricula must be outcome-based, and the effectiveness measured by demonstrated competency in the core specialty areas through the use of a competency test.
@@ -867,11 +963,17 @@ Long-term care workers shall be offered on-the-job training or peer mentorship f
 
 . Individual providers under RCW 74.39A.270 shall be compensated for training time required by this section.
 
+. If a pandemic, natural disaster, or other declared state of emergency impacts the ability of long-term care workers to complete training as required by this section, the department may adopt rules to allow long-term care workers additional time to complete the training requirements.
+
+.. Rules adopted under this subsection (6) are effective until the termination of the pandemic, natural disaster, or other declared state of emergency or until the department determines that all long-term care workers who were unable to complete the training required in this section have had adequate access to complete the required training, whichever is later. Once the department determines a rule adopted under this subsection (6) is no longer necessary, it must repeal the rule under RCW 34.05.353.
+
+.. Within 12 months of the termination of the pandemic, natural disaster, or other declared state of emergency, the department shall conduct a review of training compliance with subsection (1) of this section and provide the legislature with a report.
+
 . The department of health shall adopt rules to implement subsection (1) of this section.
 
 . The department shall adopt rules to implement subsection (2) of this section.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1531.SL.pdf?cite=2015%20c%20152%20§%203[2015 c 152 § 3]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6387-S.SL.pdf?cite=2014%20c%20139%20§%208[2014 c 139 § 8]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1629-S.SL.pdf?cite=2013%20c%20259%20§%203[2013 c 259 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2314-S.SL.pdf?cite=2012%20c%20164%20§%20405[2012 c 164 § 405]; 2012 c 1 § 112 (Initiative Measure No. 1163, approved November 8, 2011); ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1120-S.SL.pdf?cite=2021%20c%20203%20§%209[2021 c 203 § 9]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1531.SL.pdf?cite=2015%20c%20152%20§%203[2015 c 152 § 3]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6387-S.SL.pdf?cite=2014%20c%20139%20§%208[2014 c 139 § 8]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1629-S.SL.pdf?cite=2013%20c%20259%20§%203[2013 c 259 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2314-S.SL.pdf?cite=2012%20c%20164%20§%20405[2012 c 164 § 405]; 2012 c 1 § 112 (Initiative Measure No. 1163, approved November 8, 2011); ]
 
 == 74.39A.351 - Advanced training.
 . The department shall offer, directly or through contract, training opportunities sufficient for a long-term care worker to accumulate seventy hours of training within a reasonable time period. For individual providers represented by an exclusive bargaining representative, the training opportunities shall be offered through the training partnership established under RCW 74.39A.360.
@@ -970,6 +1072,8 @@ Subject to funding provided for this specific purpose, the department of social 
 
 .. A consumer directed employer is not a home care agency under chapter 70.127 RCW.
 
+.. A consumer directed employer does not need a separate licensure or certification category.
+
 .. A consumer directed employer that also provides home care services under chapter 70.127 RCW must demonstrate to the department's satisfaction that it operates the programs under separate business units, and that its business structures, policies, and procedures will prevent any conflicts of interest.
 
 . If the department selects and contracts with a consumer directed employer, the department shall determine when to terminate the department's contracts with individual providers.
@@ -978,13 +1082,11 @@ Subject to funding provided for this specific purpose, the department of social 
 
 .. Once the department determines that the transition to the consumer directed employer is complete, the department may no longer contract with individual providers, unless there are not any contracted consumer directed employers available.
 
-. The department shall convene a stakeholder group to make recommendations to the legislature on the establishment of a separate licensure or certification category for a consumer directed employer. The stakeholder group shall make their recommendations by October 1, 2018.
-
 . The department of labor and industries shall initially place individual providers employed by a consumer directed employer in the classification for the home care services and home care referral registry. After the department determines that the transition to the consumer directed employer program is complete, the department of labor and industries may, if necessary, adjust the classification and rate in accordance with chapter 51.16 RCW.
 
 . After the date on which the department enters into a contract with the consumer directed employer and determines the transition to the consumer directed employer program is complete, biennial funding in the next ensuing biennium for case management and social work shall be reduced by no more than: Two million nine hundred eight thousand dollars for area agencies on aging; one million three hundred sixty-one thousand dollars for home and community services; and one million two hundred eighty-nine thousand dollars for developmental disabilities.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6199-S.SL.pdf?cite=2018%20c%20278%20§%203[2018 c 278 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5258-S.SL.pdf?cite=2021%20c%20186%20§%201[2021 c 186 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6199-S.SL.pdf?cite=2018%20c%20278%20§%203[2018 c 278 § 3]; ]
 
 == 74.39A.505 - Consumer directed employer program—Rule-making authority—2018 c 278.
 The department may adopt any rules as it deems necessary to implement the provisions of chapter 278, Laws of 2018.
@@ -1142,15 +1244,15 @@ If the department contracts with a consumer directed employer:
 
 . In addition to overtime and compensable travel time set forth in RCW 74.39A.525, the initial labor rates shall be paid as described in the most recent collective bargaining agreement between the governor and the service employees international union 775, plus the hourly roll-up costs of any additional legally required benefits or labor costs, until subsequent rates can be established in accordance with this section.
 
-. A fourteen person rate-setting board is established to evaluate and propose changes in the rates paid to the consumer directed employer.
+. A rate-setting board is established which is comprised of the voting members and nonvoting members to evaluate and propose changes in the rates paid to the consumer directed employer.
 
-.. The following four members shall be voting members:
+.. The following members shall be voting members:
 
 ... One representative from the governor's office;
 
 ... One representative from the department;
 
-... One representative from the consumer directed employer; and
+... One representative from each consumer directed employer; and
 
 ... One designee from the exclusive bargaining representative of individual providers or, in the absence of an exclusive bargaining representative, a designee from the consumer directed employer workforce chosen by the employees of the consumer directed employer.
 
@@ -1170,45 +1272,65 @@ If the department contracts with a consumer directed employer:
 
 .. The governor's appointments shall be made by April 1st in even-numbered years.
 
-. Beginning in the year following the establishment of the initial rate under subsection (1) of this section, and in every even-numbered year thereafter, the rate-setting board shall attempt to determine a proposed labor rate, including a specific amount for health benefits by considering the factors listed in RCW 41.56.465(5). In addition, the rate-setting board shall attempt to determine an administrative rate for the consumer directed employer.
+. When the board membership has four voting members listed in subsection (2)(a) of this section, each voting member shall have one vote. When there are five voting members due to two consumer directed employer representatives, each voting member listed in subsection (2)(a) of this section shall have two votes with the exception of the consumer directed employer representatives who shall have one vote. Voting members cannot split their votes. A majority of the voting members of the board constitutes a quorum for the transaction of business and is necessary for any action taken by the board.
 
-. At the commencement of the board's rate-setting activities, the four voting members must first attempt to select a fifth voting member, who will chair the rate-setting panel and will cast a tie-breaking vote if the four voting members identified in subsection (2) of this section are unable to reach an agreement on the labor rate.
+. Beginning in the year following the establishment of the initial rate under subsection (1) of this section, and in every even-numbered year thereafter, the rate-setting board shall attempt to determine a proposed labor rate, including a specific amount for health benefits by considering the factors listed in RCW 41.56.465 (1) and (5). In addition, the rate-setting board shall attempt to determine an administrative rate for the consumer directed employer.
 
-.. On the first occasion that the four voting members fail to select a tie-breaking member by a majority vote, the fifth member will be selected as follows:
+In addition, the rate-setting board may take testimony and make a recommendation regarding the administrative vendor rate for home care agencies that serve medicaid clients.
 
-... The panel member representing the governor's office shall request a list of five qualified arbitrators from the federal mediation and conciliation service.
+. The department shall provide administrative support for the board.
 
-... If a majority of the voting members of the panel cannot agree on the selection of a neutral arbitrator from the list, the representative from the consumer directed employer will strike a name from the list first. The representative from the governor's office shall then strike a name from the list, the designee from the exclusive bargaining representative or, in the absence of an exclusive bargaining representative, the designee from the consumer directed employer workforce shall strike a name from the list, and finally the representative from the department shall strike a name from the list.
+.. At the commencement of the board's rate-setting activities, the voting members must first attempt to select an additional voting member, who will chair the rate-setting board and will cast a tie-breaking vote if the voting members identified in subsection (2) of this section are unable to pass by majority vote on the labor rate.
 
-... The name of the arbitrator remaining after the final strike shall be the fifth member of the panel.
+.. On the first occasion that the voting members identified in subsection (2)(a) of this section fail to select a tie-breaking member by a majority vote, the chair member will be selected as follows:
 
-... If that person is not willing or available to be the fifth panel member, the second to last person remaining on the list shall be asked to be the fifth panel member. If the second to last person is not willing or available, the third to last person shall be asked to be the fifth member. This process of selecting an arbitrator shall be continued until a fifth member of the panel is appointed.
+... The voting member representing the governor's office shall request a list of five qualified arbitrators, or six if there are two consumer directed employers, from the federal mediation and conciliation service.
 
-.. On the next occasion that the four voting members fail to select a fifth tie-breaking member by a majority vote, the fifth member will be selected using the method described in (a) of this subsection except that the order of panel members striking names from the list, described in (a)(ii) of this subsection, shall be reversed.
+... If a majority of the voting members of the board cannot agree on the selection of a neutral arbitrator from the list, the representative from the consumer directed employer who first contacted the department will strike a name from the list first. The representative from the governor's office shall then strike a name from the list, the designee from the exclusive bargaining representative or, in the absence of an exclusive bargaining representative, the designee from the consumer directed employer workforce shall strike a name from the list, if there are two consumer directed employers, the second representative will strike a name from the list, and finally the representative from the department shall strike a name from the list.
 
-.. On each successive occasion that the four voting members fail to select a fifth tie-breaking member by a majority vote, the order of panel members striking names from the list will continue to alternate between the order described in (a)(ii) and (b) of this subsection.
+... The name of the arbitrator remaining after the final strike shall be the chair member of the board.
+
+... If that person is not willing or available to be the chair member, the second to last person remaining on the list shall be asked to be the chair member. If the second to last person is not willing or available, the third to last person shall be asked to be the chair member. This process of selecting an arbitrator shall be continued until a chair member of the board is appointed.
+
+.. On the next occasion that the voting members identified in subsection (2)(a) of this section fail to select a chair member by a majority vote, the chair member will be selected using the method described in (b) of this subsection except that the order of board members striking names from the list, described in (b)(ii) of this subsection, shall be reversed.
+
+.. On each successive occasion that the voting members identified in subsection (2)(a) of this section fail to select a chair member by a majority vote, the order of voting members striking names from the list will continue to alternate between the order described in (b)(ii) and (c) of this subsection.
 
 . If an agreement on a proposed labor rate, an administrative rate, or both, is not reached by a majority of the voting members of the rate-setting board prior to July 1st, then:
 
-.. The labor rate shall be determined by the vote of the fifth member, who was selected in accordance with subsections (2) and (4) of this section; and
+.. The labor rate shall be determined by the vote of the chair member, who was selected in accordance with subsections (2) and (5)(a) of this section; and
 
 .. The administrative rate shall be determined by the department.
 
-. After the rates have been determined in accordance with subsections (3) through (5) of this section, they shall be submitted to the director of the office of financial management by October 1st prior to the legislative session during which the requests are to be considered for review. If the director of the office of financial management certifies them as being feasible financially for the state, the governor shall include a request for funds necessary to implement the proposed rates as part of the governor's budget document submitted under RCW 43.88.030 and 43.88.060. The legislature shall approve or reject the request for funds as a whole.
+. After the rates have been determined in accordance with subsections (3) through (6) of this section, they shall be submitted to the director of the office of financial management by October 1st prior to the legislative session during which the requests are to be considered for review. If the director of the office of financial management certifies them as being feasible financially for the state, the governor shall include a request for funds necessary to implement the proposed rates as part of the governor's budget document submitted under RCW 43.88.030 and 43.88.060. The legislature shall approve or reject the request for funds as a whole.
 
-. If the legislature rejects the request under subsection (5) of this section, the matter shall return to the rate-setting board established under this section for further consideration. Until the legislature approves a request for funds under this section, the current labor rate shall stay in effect.
+. If the legislature rejects the request under subsection (6) of this section, the matter shall return to the rate-setting board established under this section for further consideration. Until the legislature approves a request for funds under this section, the current labor rate shall stay in effect.
 
-. The labor rate approved by the legislature shall be an hourly rate paid to the consumer directed employer. The labor rate shall be used exclusively for paying the wages, associated taxes, and benefits of individual providers. The consumer directed employer shall have full discretion to set wages and benefits for individual providers, except as provided in: (a) Subsection (9) of this section; (b) any specific legislative appropriation requirement; or (c) a collective bargaining agreement, if applicable.
+. The labor rate approved by the legislature shall be an hourly rate paid to the consumer directed employer. The labor rate shall be used exclusively for paying the wages, associated taxes, and benefits of individual providers. The consumer directed employer shall have full discretion to set wages and benefits for individual providers, except as provided in: (a) Subsection (10) of this section; (b) any specific legislative appropriation requirement; or (c) a collective bargaining agreement, if applicable.
 
 . The labor rate shall include a specific hourly amount that the consumer directed employer may use only for health benefits for individual providers.
+
+. The department shall make a one-time transfer of funds totaling the full amount of previously unclaimed paid time off to the consumer directed employer, and shall transfer all associated liabilities for payment of unclaimed paid time off to the consumer directed employer. This amount shall be accounted for as a labor rate payment.
+
+. The department shall have the authority to modify the labor rate and the administrative rate between the rate-setting board's rate-setting activities without convening the rate-setting board or following the preceding rate-setting process, subject to the following conditions:
+
+.. The department finds the changes to the rates necessary to:
+
+... Recognize changes to the department's required expenditures or the consumer directed employer's required costs associated with changes to tax rates, required employer contributions, mileage rate allowances, and utilization of overtime to comply with RCW 74.39A.525; or
+
+... Comply with a significant change in state or federal rule or law that would impact the consumer directed employer's ability to operate;
+
+.. Changes to the rates shall not exceed two percent of the combined labor and administrative rates; and
+
+.. Any increase to the rates is contingent on appropriation of adequate funds by the legislature.
 
 . For the purpose of this section:
 
 .. "Labor rate" is defined as that portion of the consumer directed employer's hourly rate that is to be used by the consumer directed employer to compensate its workers, including wages, benefits, and any associated taxes.
 
-.. "Administrative rate" is defined as that portion of the consumer directed employer's hourly rate that is to be used by the consumer directed employer to perform its administrative duties.
+.. "Administrative rate" is defined as that portion of the consumer directed employer's hourly rate that is to be used by the consumer directed employer to perform its administrative duties including losses for bad debt, compensation for business and occupation taxes on the labor and administrative rates, and all other costs associated with operating as the consumer directed employer.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6199-S.SL.pdf?cite=2018%20c%20278%20§%2027[2018 c 278 § 27]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5258-S.SL.pdf?cite=2021%20c%20186%20§%202[2021 c 186 § 2]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6199-S.SL.pdf?cite=2018%20c%20278%20§%2027[2018 c 278 § 27]; ]
 
 == 74.39A.800 - Changes to agreements—Performance of duties.
 . If any provision of chapter 1, Laws of 2012 triggers changes to an agreement reached under RCW 74.39A.300, the changes must go into effect immediately without need for legislative approval.

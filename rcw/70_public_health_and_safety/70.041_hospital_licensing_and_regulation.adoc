@@ -28,6 +28,15 @@ Unless the context clearly indicates otherwise, the following terms, whenever us
 
 .. Tasks the performance of which requires licensure as a health care provider.
 
+. [Empty]
+.. "Audio-only telemedicine" means the delivery of health care services through the use of audio-only technology, permitting real-time communication between the patient at the originating site and the provider, for the purpose of diagnosis, consultation, or treatment.
+
+.. "Audio-only telemedicine" does not include:
+
+... The use of facsimile or email; or
+
+... The delivery of health care services that are customarily delivered by audio-only technology and customarily not billed as separate services by the provider, such as the sharing of laboratory results.
+
 . "Department" means the Washington state department of health.
 
 . "Discharge" means a patient's release from a hospital following the patient's admission to the hospital.
@@ -40,6 +49,8 @@ Unless the context clearly indicates otherwise, the following terms, whenever us
 
 . "Hospital" means any institution, place, building, or agency which provides accommodations, facilities and services over a continuous period of twenty-four hours or more, for observation, diagnosis, or care, of two or more individuals not related to the operator who are suffering from illness, injury, deformity, or abnormality, or from any other condition for which obstetrical, medical, or surgical services would be appropriate for care or diagnosis. "Hospital" as used in this chapter does not include hotels, or similar places furnishing only food and lodging, or simply domiciliary care; nor does it include clinics, or physician's offices where patients are not regularly kept as bed patients for twenty-four hours or more; nor does it include nursing homes, as defined and which come within the scope of chapter 18.51 RCW; nor does it include birthing centers, which come within the scope of chapter 18.46 RCW; nor does it include psychiatric hospitals, which come within the scope of chapter 71.12 RCW; nor any other hospital, or institution specifically intended for use in the diagnosis and care of those suffering from mental illness, intellectual disability, convulsive disorders, or other abnormal mental condition. Furthermore, nothing in this chapter or the rules adopted pursuant thereto shall be construed as authorizing the supervision, regulation, or control of the remedial care or treatment of residents or patients in any hospital conducted for those who rely primarily upon treatment by prayer or spiritual means in accordance with the creed or tenets of any well recognized church or religious denominations.
 
+. "Immediate jeopardy" means a situation in which the hospital's noncompliance with one or more statutory or regulatory requirements has placed the health and safety of patients in its care at risk for serious injury, serious harm, serious impairment, or death.
+
 . "Lay caregiver" means any individual designated as such by a patient under this chapter who provides aftercare assistance to a patient in the patient's residence. "Lay caregiver" does not include a long-term care worker as defined in RCW 74.39A.009.
 
 . "Originating site" means the physical location of a patient receiving health care services through telemedicine.
@@ -50,11 +61,11 @@ Unless the context clearly indicates otherwise, the following terms, whenever us
 
 . "Sexual assault" has the same meaning as in RCW 70.125.030.
 
-. "Telemedicine" means the delivery of health care services through the use of interactive audio and video technology, permitting real-time communication between the patient at the originating site and the provider, for the purpose of diagnosis, consultation, or treatment. "Telemedicine" does not include the use of audio-only telephone, facsimile, or email.
+. "Telemedicine" means the delivery of health care services through the use of interactive audio and video technology, permitting real-time communication between the patient at the originating site and the provider, for the purpose of diagnosis, consultation, or treatment. "Telemedicine" includes audio-only telemedicine, but does not include facsimile or email.
 
 . "Victim of sexual assault" means a person who alleges or is alleged to have been sexually assaulted and who presents as a patient.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6327-S.SL.pdf?cite=2016%20c%20226%20§%201[2016 c 226 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5175-S.SL.pdf?cite=2015%20c%2023%20§%205[2015 c 23 § 5]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2490.SL.pdf?cite=2010%20c%2094%20§%2017[2010 c 94 § 17]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6537-S.SL.pdf?cite=2002%20c%20116%20§%202[2002 c 116 § 2]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%20334[1991 c 3 § 334]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c213.pdf?cite=1985%20c%20213%20§%2016[1985 c 213 § 16]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c189.pdf?cite=1971%20ex.s.%20c%20189%20§%208[1971 ex.s. c 189 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c267.pdf?cite=1955%20c%20267%20§%202[1955 c 267 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1196-S.SL.pdf?cite=2021%20c%20157%20§%203[2021 c 157 § 3]; http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1148-S2.SL.pdf?cite=2021%20c%2061%20§%201[2021 c 61 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6327-S.SL.pdf?cite=2016%20c%20226%20§%201[2016 c 226 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5175-S.SL.pdf?cite=2015%20c%2023%20§%205[2015 c 23 § 5]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2490.SL.pdf?cite=2010%20c%2094%20§%2017[2010 c 94 § 17]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6537-S.SL.pdf?cite=2002%20c%20116%20§%202[2002 c 116 § 2]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%20334[1991 c 3 § 334]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c213.pdf?cite=1985%20c%20213%20§%2016[1985 c 213 § 16]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c189.pdf?cite=1971%20ex.s.%20c%20189%20§%208[1971 ex.s. c 189 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c267.pdf?cite=1955%20c%20267%20§%202[1955 c 267 § 2]; ]
 
 == 70.41.030 - Standards and rules.
 The department shall establish and adopt such minimum standards and rules pertaining to the construction, maintenance, and operation of hospitals, and rescind, amend, or modify such rules from time to time, as are necessary in the public interest, and particularly for the establishment and maintenance of standards of hospitalization required for the safe and adequate care and treatment of patients. To the extent possible, the department shall endeavor to make such minimum standards and rules consistent in format and general content with the applicable hospital survey standards of the joint commission on the accreditation of health care organizations. The department shall adopt standards that are at least equal to recognized applicable national standards pertaining to medical gas piping systems.
@@ -66,7 +77,7 @@ The enforcement of the provisions of this chapter and the standards, rules and r
 
 [ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1445.SL.pdf?cite=1995%20c%20282%20§%203[1995 c 282 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c213.pdf?cite=1985%20c%20213%20§%2018[1985 c 213 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c267.pdf?cite=1955%20c%20267%20§%204[1955 c 267 § 4]; ]
 
-== 70.41.045 - Hospital surveys or audits—Frequent problems to be posted on agency web sites—Hospital evaluation of survey or audit, form—Notice.
+== 70.41.045 - Hospital surveys or audits—Frequent problems to be posted on agency websites—Hospital evaluation of survey or audit, form—Notice.
 . Unless the context clearly requires otherwise, the definitions in this subsection apply throughout this section.
 
 .. "Agency" means a department of state government created under RCW 43.17.010 and the office of the state auditor.
@@ -77,7 +88,7 @@ The enforcement of the provisions of this chapter and the standards, rules and r
 
 .. "Survey" means an inspection, examination, or site visit conducted by an agency to evaluate and monitor the compliance of a hospital or hospital services or facilities with statutory or regulatory requirements.
 
-. By July 1, 2004, each state agency which conducts hospital surveys or audits shall post to its agency web site a list of the most frequent problems identified in its hospital surveys or audits along with information on how to avoid or address the identified problems, and a person within the agency that a hospital may contact with questions or for further assistance.
+. By July 1, 2004, each state agency which conducts hospital surveys or audits shall post to its agency website a list of the most frequent problems identified in its hospital surveys or audits along with information on how to avoid or address the identified problems, and a person within the agency that a hospital may contact with questions or for further assistance.
 
 . By July 1, 2004, the department of health, in cooperation with other state agencies which conduct hospital surveys or audits, shall develop an instrument, to be provided to every hospital upon completion of a state survey or audit, which allows the hospital to anonymously evaluate the survey or audit process in terms of quality, efficacy, and the extent to which it supported improved patient care and compliance with state law without placing an unnecessary administrative burden on the hospital. The evaluation may be returned to the department of health for distribution to the appropriate agency.
 
@@ -191,10 +202,84 @@ Surveys conducted on hospitals by the joint commission on the accreditation of h
 
 [ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6485.SL.pdf?cite=2004%20c%20261%20§%205[2004 c 261 § 5]; ]
 
-== 70.41.130 - Denial, suspension, revocation, modification of license—Procedure.
-The department is authorized to deny, suspend, revoke, or modify a license or provisional license in any case in which it finds that there has been a failure or refusal to comply with the requirements of this chapter or the standards or rules adopted under this chapter or the requirements of RCW 71.34.375. RCW 43.70.115 governs notice of a license denial, revocation, suspension, or modification and provides the right to an adjudicative proceeding.
+== 70.41.130 - Administrative actions against license—Rules—Procedure.
+. The department is authorized to take any of the actions identified in this section against a hospital's license or provisional license in any case in which it finds that there has been a failure or refusal to comply with the requirements of this chapter or the standards or rules adopted under this chapter or the requirements of RCW 71.34.375.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5187-S.SL.pdf?cite=2011%20c%20302%20§%203[2011 c 302 § 3]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%20335[1991 c 3 § 335]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c175.pdf?cite=1989%20c%20175%20§%20128[1989 c 175 § 128]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c213.pdf?cite=1985%20c%20213%20§%2022[1985 c 213 § 22]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c267.pdf?cite=1955%20c%20267%20§%2013[1955 c 267 § 13]; ]
+.. When the department determines the hospital has previously been subject to an enforcement action for the same or similar type of violation of the same statute or rule, or has been given any previous statement of deficiency that included the same or similar type of violation of the same or similar statute or rule, or when the hospital failed to correct noncompliance with a statute or rule by a date established or agreed to by the department, the department may impose reasonable conditions on a license. Conditions may include correction within a specified amount of time, training, or hiring a department-approved consultant if the hospital cannot demonstrate to the department that it has access to sufficient internal expertise. If the department determines that the violations constitute immediate jeopardy, the conditions may be imposed immediately in accordance with subsection (3) of this section.
+
+.. [Empty]
+... In accordance with the authority the department has under RCW 43.70.095, the department may assess a civil fine of up to $10,000 per violation, not to exceed a total fine of $1,000,000, on a hospital licensed under this chapter when the department determines the hospital has previously been subject to an enforcement action for the same or similar type of violation of the same statute or rule, or has been given any previous statement of deficiency that included the same or similar type of violation of the same or similar statute or rule, or when the hospital failed to correct noncompliance with a statute or rule by a date established or agreed to by the department.
+
+... Proceeds from these fines may only be used by the department to offset costs associated with licensing hospitals.
+
+... The department shall adopt in rules under this chapter specific fine amounts in relation to:
+
+(A) The severity of the noncompliance and at an adequate level to be a deterrent to future noncompliance; and
+
+(B) The number of licensed beds and the operation size of the hospital. The licensed hospital beds will be categorized as:
+
+(I) Up to 25 beds;
+
+(II) 26 to 99 beds;
+
+(III) 100 to 299 beds; and
+
+(IV) 300 beds or greater.
+
+... If a licensee is aggrieved by the department's action of assessing civil fines, the licensee has the right to appeal under RCW 43.70.095.
+
+.. The department may suspend a specific category or categories of services or care or recovery units within the hospital as related to the violation by imposing a limited stop service. This may only be done if the department finds that noncompliance results in immediate jeopardy.
+
+... Prior to imposing a limited stop service, the department shall provide a hospital written notification upon identifying deficient practices or conditions that constitute an immediate jeopardy, and upon the review and approval of the notification by the secretary or the secretary's designee. The hospital shall have 24 hours from notification to develop and implement a department-approved plan to correct the deficient practices or conditions that constitute an immediate jeopardy. If the deficient practice or conditions that constitute immediate jeopardy are not verified by the department as having been corrected within the same 24 hour period, the department may issue the limited stop service.
+
+... When the department imposes a limited stop service, the hospital may not admit any new patients to the units in the category or categories subject to the limited stop service until the limited stop service order is terminated.
+
+... The department shall conduct a follow-up inspection within five business days or within the time period requested by the hospital if more than five business days is needed to verify the violation necessitating the limited stop service has been corrected.
+
+... The limited stop service shall be terminated when:
+
+(A) The department verifies the violation necessitating the limited stop service has been corrected or the department determines that the hospital has taken intermediate action to address the immediate jeopardy; and
+
+(B) The hospital establishes the ability to maintain correction of the violation previously found deficient.
+
+.. The department may suspend new admissions to the hospital by imposing a stop placement. This may only be done if the department finds that noncompliance results in immediate jeopardy and is not confined to a specific category or categories of patients or a specific area of the hospital.
+
+... Prior to imposing a stop placement, the department shall provide a hospital written notification upon identifying deficient practices or conditions that constitute an immediate jeopardy, and upon the review and approval of the notification by the secretary or the secretary's designee. The hospital shall have 24 hours from notification to develop and implement a department-approved plan to correct the deficient practices or conditions that constitute an immediate jeopardy. If the deficient practice or conditions that constitute immediate jeopardy are not verified by the department as having been corrected within the same 24 hour period, the department may issue the stop placement.
+
+... When the department imposes a stop placement, the hospital may not admit any new patients until the stop placement order is terminated.
+
+... The department shall conduct a follow-up inspection within five business days or within the time period requested by the hospital if more than five business days is needed to verify the violation necessitating the stop placement has been corrected.
+
+... The stop placement order shall be terminated when:
+
+(A) The department verifies the violation necessitating the stop placement has been corrected or the department determines that the hospital has taken intermediate action to address the immediate jeopardy; and
+
+(B) The hospital establishes the ability to maintain correction of the violation previously found deficient.
+
+.. The department may deny an application for a license or suspend, revoke, or refuse to renew a license.
+
+. The department shall adopt in rules under this chapter a fee methodology that includes funding expenditures to implement subsection (1) of this section. The fee methodology must consider:
+
+.. The operational size of the hospital; and
+
+.. The number of licensed beds of the hospital.
+
+. [Empty]
+.. Except as otherwise provided, RCW 43.70.115 governs notice of actions taken by the department under subsection (1) of this section and provides the right to an adjudicative proceeding. Adjudicative proceedings and hearings under this section are governed by the administrative procedure act, chapter 34.05 RCW. The application for an adjudicative proceeding must be in writing, state the basis for contesting the adverse action, including a copy of the department's notice, be served on and received by the department within 28 days of the licensee's receipt of the adverse notice, and be served in a manner that shows proof of receipt.
+
+.. When the department determines a licensee's noncompliance results in immediate jeopardy, the department may make the imposition of conditions on a licensee, a limited stop placement, stop placement, or the suspension of a license effective immediately upon receipt of the notice by the licensee, pending any adjudicative proceeding.
+
+... When the department makes the suspension of a license or imposition of conditions on a license effective immediately, a licensee is entitled to a show cause hearing before a presiding officer within 14 days of making the request. The licensee must request the show cause hearing within 28 days of receipt of the notice of immediate suspension or immediate imposition of conditions. At the show cause hearing the department has the burden of demonstrating that more probably than not there is an immediate jeopardy.
+
+... At the show cause hearing, the presiding officer may consider the notice and documents supporting the immediate suspension or immediate imposition of conditions and the licensee's response and must provide the parties with an opportunity to provide documentary evidence and written testimony, and to be represented by counsel. Prior to the show cause hearing, the department must provide the licensee with all documentation that supports the department's immediate suspension or imposition of conditions.
+
+... If the presiding officer determines there is no immediate jeopardy, the presiding officer may overturn the immediate suspension or immediate imposition of conditions.
+
+... If the presiding officer determines there is immediate jeopardy, the immediate suspension or immediate imposition of conditions shall remain in effect pending a full hearing.
+
+.. If the presiding officer sustains the immediate suspension or immediate imposition of conditions, the licensee may request an expedited full hearing on the merits of the department's action. A full hearing must be provided within 90 days of the licensee's request.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1148-S2.SL.pdf?cite=2021%20c%2061%20§%202[2021 c 61 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5187-S.SL.pdf?cite=2011%20c%20302%20§%203[2011 c 302 § 3]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%20335[1991 c 3 § 335]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c175.pdf?cite=1989%20c%20175%20§%20128[1989 c 175 § 128]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c213.pdf?cite=1985%20c%20213%20§%2022[1985 c 213 § 22]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c267.pdf?cite=1955%20c%20267%20§%2013[1955 c 267 § 13]; ]
 
 == 70.41.150 - Denial, suspension, revocation of license—Disclosure of information.
 Information received by the department through filed reports, inspection, or as otherwise authorized under this chapter, may be disclosed publicly, as permitted under chapter 42.56 RCW, subject to the following provisions:
@@ -785,20 +870,32 @@ As a condition of licensure, a hospital must contract with the department of cor
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2803.SL.pdf?cite=2012%20c%20237%20§%203[2012 c 237 § 3]; ]
 
 == 70.41.470 - Information to be made widely available by certain hospitals—Community health needs assessment—Description of community served—Community benefit implementation strategy.
-. As of January 1, 2013, each hospital that is recognized by the internal revenue service as a 501(c)(3) nonprofit entity must make its federally required community health needs assessment widely available to the public within fifteen days of submission to the internal revenue service. Following completion of the initial community health needs assessment, each hospital in accordance with the internal revenue service, shall complete and make widely available to the public an assessment once every three years.
+. As of January 1, 2013, each hospital that is recognized by the internal revenue service as a 501(c)(3) nonprofit entity must make its federally required community health needs assessment widely available to the public and submit it to the department within fifteen days of submission to the internal revenue service. Following completion of the initial community health needs assessment, each hospital in accordance with the internal revenue service shall complete and make widely available to the public and submit to the department an assessment once every three years. The department must post the information submitted to it pursuant to this subsection on its website.
 
-. Unless contained in the community health needs assessment under subsection (1) of this section, a hospital subject to the requirements under subsection (1) of this section shall make public a description of the community served by the hospital, including both a geographic description and a description of the general population served by the hospital; and demographic information such as leading causes of death, levels of chronic illness, and descriptions of the medically underserved, low-income, and minority, or chronically ill populations in the community.
+. [Empty]
+.. Unless contained in the community health needs assessment under subsection (1) of this section, a hospital subject to the requirements under subsection (1) of this section shall make public and submit to the department a description of the community served by the hospital, including both a geographic description and a description of the general population served by the hospital; and demographic information such as leading causes of death, levels of chronic illness, and descriptions of the medically underserved, low-income, and minority, or chronically ill populations in the community.
+
+.. [Empty]
+... Beginning July 1, 2022, a hospital, other than a hospital designated by medicare as a critical access hospital or sole community hospital, that is subject to the requirements under subsection (1) of this section must annually submit to the department an addendum which details information about activities identified as community health improvement services with a cost of $5,000 or more. The addendum must include the type of activity, the method in which the activity was delivered, how the activity relates to an identified community need in the community health needs assessment, the target population for the activity, strategies to reach the target population, identified outcome metrics, the cost to the hospital to provide the activity, the methodology used to calculate the hospital's costs, and the number of people served by the activity. If a community health improvement service is administered by an entity other than the hospital, the other entity must be identified in the addendum.
+
+... Beginning July 1, 2022, a hospital designated by medicare as a critical access hospital or sole community hospital that is subject to the requirements under subsection (1) of this section must annually submit to the department an addendum which details information about the 10 highest cost activities identified as community health improvement services. The addendum must include the type of activity, the method in which the activity was delivered, how the activity relates to an identified community need in the community health needs assessment, the target population for the activity, strategies to reach the target population, identified outcome metrics, the cost to the hospital to provide the activity, the methodology used to calculate the hospital's costs, and the number of people served by the activity. If a community health improvement service is administered by an entity other than the hospital, the other entity must be identified in the addendum.
+
+... The department shall require the reporting of demographic information about participant race, ethnicity, any disability, gender identity, preferred language, and zip code of primary residency. The department, in consultation with interested entities, may revise the required demographic information according to an established six-year review cycle about participant race, ethnicity, disabilities, gender identity, preferred language, and zip code of primary residence that must be reported under (b)(i) and (ii) of this subsection (2). At a minimum, the department's consultation process shall include community organizations that provide community health improvement services, communities impacted by health inequities, health care workers, hospitals, and the governor's interagency coordinating council on health disparities. The department shall establish a six-year cycle for the review of the information requested under this subsection (2)(b)(iii).
+
+... The department shall provide guidance on participant data collection and the reporting requirements under this subsection (2)(b). The guidance shall include a standard form for the reporting of information under this subsection (2)(b). The standard form must allow for the reporting of community health improvement services that are repeated within a reporting period to be combined within the addendum as a single project with the number of instances of the services listed. The department must develop the guidelines in consultation with interested entities, including an association representing hospitals in Washington, labor unions representing workers who work in hospital settings, and community health board associations. The department must post the information submitted to it pursuant to this subsection (2)(b) on its website.
 
 . [Empty]
 .. Each hospital subject to the requirements of subsection (1) of this section shall make widely available to the public a community benefit implementation strategy within one year of completing its community health needs assessment. In developing the implementation strategy, hospitals shall consult with community-based organizations and stakeholders, and local public health jurisdictions, as well as any additional consultations the hospital decides to undertake. Unless contained in the implementation strategy under this subsection (3)(a), the hospital must provide a brief explanation for not accepting recommendations for community benefit proposals identified in the assessment through the stakeholder consultation process, such as excessive expense to implement or infeasibility of implementation of the proposal.
 
 .. Implementation strategies must be evidence-based, when available; or development and implementation of innovative programs and practices should be supported by evaluation measures.
 
+. When requesting demographic information under subsection (2)(b) of this section, a hospital must inform participants that providing the information is voluntary. If a hospital fails to report demographic information under subsection (2)(b) of this section because a participant refused to provide the information, the department may not take any action against the hospital for failure to comply with reporting requirements or other licensing standards on that basis.
+
 . For the purposes of this section, the term "widely available to the public" has the same meaning as in the internal revenue service guidelines.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2341-S.SL.pdf?cite=2012%20c%20103%20§%201[2012 c 103 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1272-S2.SL.pdf?cite=2021%20c%20162%20§%205[2021 c 162 § 5]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2341-S.SL.pdf?cite=2012%20c%20103%20§%201[2012 c 103 § 1]; ]
 
-== 70.41.480 - Findings—Intent—Authority to prescribe prepackaged emergency medications—Definitions.
+== 70.41.480 - Findings—Intent—Authority to prescribe prepackaged emergency medications—Definitions. (Effective until January 1, 2022.)
 . The legislature finds that high quality, safe, and compassionate health care services for patients of Washington state must be available at all times. The legislature further finds that there is a need for patients being released from hospital emergency departments to maintain access to emergency medications when community or hospital pharmacy services are not available, including medication for opioid overdose reversal and for the treatment for opioid use disorder as appropriate. It is the intent of the legislature to accomplish this objective by allowing practitioners with prescriptive authority to prescribe limited amounts of prepackaged emergency medications to patients being discharged from hospital emergency departments when access to community or outpatient hospital pharmacy services is not otherwise available.
 
 . A hospital may allow a practitioner to prescribe prepackaged emergency medications and allow a practitioner or a registered nurse licensed under chapter 18.79 RCW to distribute prepackaged emergency medications to patients being discharged from a hospital emergency department in the following circumstances:
@@ -843,6 +940,37 @@ As a condition of licensure, a hospital must contract with the department of cor
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5380-S.SL.pdf?cite=2019%20c%20314%20§%2018[2019 c 314 § 18]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5460-S.SL.pdf?cite=2015%20c%20234%20§%201[2015 c 234 § 1]; ]
 
+== 70.41.485 - Opioid overdose reversal medications—Distribution—Labeling—Liability. (Effective January 1, 2022.)
+. A hospital shall provide a person who presents to an emergency department with symptoms of an opioid overdose, opioid use disorder, or other adverse event related to opioid use with opioid overdose reversal medication upon discharge, unless the treating practitioner determines in their clinical and professional judgment that dispensing or distributing opioid overdose reversal medication is not appropriate or the practitioner has confirmed that the patient already has opioid overdose reversal medication. If the hospital dispenses or distributes opioid overdose reversal medication it must provide directions for use.
+
+. The opioid overdose reversal medication may be dispensed with technology used to dispense medications.
+
+. A person who is provided opioid overdose reversal medication under this section must be provided information and resources about medication for opioid use disorder and harm reduction strategies and services which may be available, such as substance use disorder treatment services and substance use disorder peer counselors. This information should be available in all languages relevant to the communities that the hospital serves.
+
+. The labeling requirements of RCW 69.41.050 and 18.64.246 do not apply to opioid overdose reversal medications dispensed or distributed in accordance with this section.
+
+. Until the opioid overdose reversal medication bulk purchasing and distribution program established in RCW 70.14.170 is operational:
+
+.. If the patient is enrolled in a medical assistance program under chapter 74.09 RCW, the hospital must bill the patient's medicaid benefit for the patient's opioid overdose reversal medication utilizing the appropriate billing codes established by the health care authority. This billing must be separate from and in addition to the payment for the other services provided during the hospital visit.
+
+.. If the patient has available health insurance coverage other than medical assistance under chapter 74.09 RCW, the hospital must bill the patient's health plan for the cost of the opioid overdose reversal medication.
+
+.. For patients who are not enrolled in medical assistance and do not have any other available insurance coverage, the hospital must bill the health care authority for the cost of the patient's opioid overdose reversal medication.
+
+. This section does not prohibit a hospital from dispensing opioid overdose reversal medication to a patient at no cost to the patient out of the hospital's prepurchased supply.
+
+. Nothing in this section prohibits or modifies a hospital's ability or responsibility to bill a patient's health insurance or to provide financial assistance as required by state or federal law.
+
+. A hospital, its employees, and its practitioners are immune from suit in any action, civil or criminal, or from professional or other disciplinary action, for action or inaction in compliance with this section.
+
+. For purposes of this section:
+
+.. "Opioid overdose reversal medication" has the meaning provided in RCW 69.41.095.
+
+.. "Practitioner" has the meaning provided in RCW 18.64.011.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5195-S2.SL.pdf?cite=2021%20c%20273%20§%203[2021 c 273 § 3]; ]
+
 == 70.41.490 - Authorization for certain transfers of drugs between hospitals and their affiliated companies.
 . The legislature recognizes that in order for hospitals to ensure drugs are accessible to patients and the public to meet hospital and community health care needs, certain transfers of drugs must be authorized between hospitals and their affiliated or related companies under common ownership and control of the corporate entity and for emergency medical reasons.
 
@@ -864,7 +992,7 @@ If the insurance commissioner reports to the department that he or she has cause
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1065-S2.SL.pdf?cite=2019%20c%20427%20§%2018[2019 c 427 § 18]; ]
 
-== 70.41.520 - Access to care policies for admission, nondiscrimination, and reproductive health care—Requirement to submit, post on web site, and use department-created form.
+== 70.41.520 - Access to care policies for admission, nondiscrimination, and reproductive health care—Requirement to submit, post on website, and use department-created form.
 . By September 1, 2019, every hospital must submit to the department its policies related to access to care regarding:
 
 .. Admission;
@@ -873,11 +1001,11 @@ If the insurance commissioner reports to the department that he or she has cause
 
 .. Reproductive health care.
 
-. The department shall post a copy of the policies received under subsection (1) of this section on its web site.
+. The department shall post a copy of the policies received under subsection (1) of this section on its website.
 
 . If a hospital makes changes to any of the policies listed under subsection (1) of this section, it must submit a copy of the changed policy to the department within thirty days after the hospital approves the changes.
 
-. A hospital must post a copy of the policies provided to the department under subsection (1) of this section and the form required under subsection (5) of this section to the hospital's own web site in a location where the policies are readily accessible to the public without a required login or other restriction.
+. A hospital must post a copy of the policies provided to the department under subsection (1) of this section and the form required under subsection (5) of this section to the hospital's own website in a location where the policies are readily accessible to the public without a required login or other restriction.
 
 . By September 1, 2019, the department shall, in consultation with stakeholders including a hospital association and patient advocacy groups, develop a simple and clear form to be submitted by hospitals along with the policies required in subsection (1) of this section. The form must provide the public with specific information about which reproductive health care services are and are not generally available at each hospital. The form must include contact information for the hospital in case patients have specific questions about services available at the hospital.
 

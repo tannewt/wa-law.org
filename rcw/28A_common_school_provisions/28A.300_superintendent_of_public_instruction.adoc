@@ -226,7 +226,7 @@ The superintendent of public instruction shall adopt rules relating to pupil tes
 
 .. Student suspension and expulsion data collected for the purposes of this subsection (2) must be:
 
-... Made publicly available and easily accessible on the superintendent of public instruction's web site; and
+... Made publicly available and easily accessible on the superintendent of public instruction's website; and
 
 ... Disaggregated and cross-tabulated as established under RCW 28A.300.042.
 
@@ -337,7 +337,7 @@ The Native education public-private partnership account is created in the custod
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6474-S.SL.pdf?cite=2018%20c%20290%20§%202[2018 c 290 § 2]; ]
 
 == 28A.300.112 - Ethnic studies materials and resources.
-. By September 1, 2021, the office of the superintendent of public instruction shall identify and make available ethnic studies materials and resources for use in grades kindergarten through twelve. The materials and resources must be designed to prepare students to be global citizens in a global society with an appreciation for the contributions of multiple cultures. The materials and resources must be posted on the office of the superintendent of public instruction's web site.
+. By September 1, 2021, the office of the superintendent of public instruction shall identify and make available ethnic studies materials and resources for use in grades kindergarten through twelve. The materials and resources must be designed to prepare students to be global citizens in a global society with an appreciation for the contributions of multiple cultures. The materials and resources must be posted on the office of the superintendent of public instruction's website.
 
 . [Empty]
 .. Public schools with students in grades seven through twelve are encouraged to offer an ethnic studies course that incorporates the materials and resources identified under subsection (1) of this section.
@@ -374,7 +374,7 @@ Subject to the availability of amounts appropriated for this specific purpose, a
 [ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6559-S.SL.pdf?cite=2000%20c%20126%20§%201[2000 c 126 § 1]; ]
 
 == 28A.300.119 - Online learning programs for college credit—Information.
-. The office of the superintendent of public instruction shall compile information about online learning programs for high school students to earn college credit and place the information on its web site. Examples of information to be compiled and placed on the web site include links to purveyors of online learning programs, comparisons among various types of programs regarding costs or awarding of credit, advantages and disadvantages of online learning programs, and other general assistance and guidance for students, teachers, and counselors in selecting and considering online learning programs. The office shall use the expertise of the digital learning commons and WashingtonOnline to provide assistance and suggest resources. 
+. The office of the superintendent of public instruction shall compile information about online learning programs for high school students to earn college credit and place the information on its website. Examples of information to be compiled and placed on the website include links to purveyors of online learning programs, comparisons among various types of programs regarding costs or awarding of credit, advantages and disadvantages of online learning programs, and other general assistance and guidance for students, teachers, and counselors in selecting and considering online learning programs. The office shall use the expertise of the digital learning commons and WashingtonOnline to provide assistance and suggest resources. 
 
 . High schools shall ensure that teachers and counselors have information about online learning programs for high school students to earn college credit and are able to assist parents and students in accessing the information. High schools shall ensure that parents and students have opportunities to learn about online learning programs under this section.
 
@@ -387,16 +387,20 @@ Whenever a statute or rule provides for a formal administrative hearing before t
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c225.pdf?cite=1985%20c%20225%20§%201[1985 c 225 § 1]; ]
 
-== 28A.300.130 - Center for the improvement of student learning—Educational improvement and research—Clearinghouse for information regarding educational improvement and parental involvement programs—Web site development and maintenance—Reports to the legislature.
-. To facilitate access to information and materials on educational improvement and research, the superintendent of public instruction, subject to the availability of amounts appropriated for this specific purpose, shall establish the center for the improvement of student learning. The center shall work in conjunction with parents, educational service districts, institutions of higher education, and education, parent, community, and business organizations.
+== 28A.300.130 - Center for the improvement of student learning.
+Provisions in subsections (1) through (5) of this section are subject to the availability of amounts appropriated for these specific purposes.
 
-. The center, subject to the availability of amounts appropriated for this specific purpose, and in conjunction with other staff in the office of the superintendent of public instruction, shall:
+. To facilitate access to information and materials on educational improvement and research, the superintendent of public instruction shall establish the center for the improvement of student learning. The center shall work in conjunction with parents, educational service districts, institutions of higher education, and education, parent, community, and business organizations.
+
+. The center, in conjunction with other staff in the office of the superintendent of public instruction, shall:
 
 .. Serve as a clearinghouse for information regarding successful educational improvement and parental involvement programs in schools and districts, and information about efforts within institutions of higher education in the state to support educational improvement initiatives in Washington schools and districts;
 
 .. Provide best practices research that can be used to help schools develop and implement: Programs and practices to improve instruction; systems to analyze student assessment data, with an emphasis on systems that will combine the use of state and local data to monitor the academic progress of each and every student in the school district; comprehensive, school-wide improvement plans; school-based shared decision-making models; programs to promote lifelong learning and community involvement in education; school-to-work transition programs; programs to meet the needs of highly capable students; programs and practices to meet the needs of students with disabilities; programs and practices to meet the diverse needs of students based on gender, racial, ethnic, economic, and special needs status; research, information, and technology systems; and other programs and practices that will assist educators in helping students learn the essential academic learning requirements;
 
-.. Develop and maintain an internet web site to increase the availability of information, research, and other materials;
+.. Periodically review the efficacy of programs and practices designed to meet the needs of students who are not meeting academic standards as defined in RCW 28A.165.015, starting with the best practices and strategies included on the state menus developed under RCW 28A.165.035, as repealed by chapter 111, Laws of 2021, and RCW 28A.655.235, and the services and activities listed in RCW 28A.165.035, as repealed by chapter 111, Laws of 2021;
+
+.. Develop and maintain an internet website to increase the availability of information, research, and other materials;
 
 .. Work with appropriate organizations to inform teachers, district and school administrators, and school directors about the waivers available and the broadened school board powers under RCW 28A.320.015;
 
@@ -404,7 +408,9 @@ Whenever a statute or rule provides for a formal administrative hearing before t
 
 .. Identify strategies for improving the success rates of ethnic and racial student groups and students with disabilities, with disproportionate academic achievement;
 
-.. Work with parents, teachers, and school districts in establishing a model absentee notification procedure that will properly notify parents when their student has not attended a class or has missed a school day. The office of the superintendent of public instruction shall consider various types of communication with parents including, but not limited to, email, phone, and postal mail; and
+.. Work with parents, teachers, and school districts in establishing a model absentee notification procedure that will properly notify parents when their student has not attended a class or has missed a school day. The office of the superintendent of public instruction shall consider various types of communication with parents including, but not limited to, email, phone, and postal mail; 
+
+.. By December 1, 2026, and by December 1st annually thereafter: (i) Review the learning assistance program information submitted as required by RCW 28A.165.100; and (ii) report to the appropriate committees of the legislature with a summary of the innovations made by school districts to reduce barriers to the academic achievement of students participating in the learning assistance program; and
 
 .. Perform other functions consistent with the purpose of the center as prescribed in subsection (1) of this section.
 
@@ -414,7 +420,7 @@ Whenever a statute or rule provides for a formal administrative hearing before t
 
 . The office of the superintendent of public instruction shall report to the legislature by September 1, 2007, and thereafter biennially, regarding the effectiveness of the center for the improvement of student learning, how the services provided by the center for the improvement of student learning have been used and by whom, and recommendations to improve the accessibility and application of knowledge and information that leads to improved student learning and greater family and community involvement in the public education system.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1541-S4.SL.pdf?cite=2016%20c%2072%20§%20804[2016 c 72 § 804]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6168.SL.pdf?cite=2009%20c%20578%20§%206[2009 c 578 § 6]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3212-S.SL.pdf?cite=2008%20c%20165%20§%201[2008 c 165 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/3127-S.SL.pdf?cite=2006%20c%20116%20§%202[2006 c 116 § 2]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5418-S.SL.pdf?cite=1999%20c%20388%20§%20401[1999 c 388 § 401]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2909-S2.SL.pdf?cite=1996%20c%20273%20§%205[1996 c 273 § 5]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1209-S.SL.pdf?cite=1993%20c%20336%20§%20501[1993 c 336 § 501]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c180.pdf?cite=1986%20c%20180%20§%201[1986 c 180 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1208-S.SL.pdf?cite=2021%20c%20111%20§%209[2021 c 111 § 9]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1541-S4.SL.pdf?cite=2016%20c%2072%20§%20804[2016 c 72 § 804]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6168.SL.pdf?cite=2009%20c%20578%20§%206[2009 c 578 § 6]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3212-S.SL.pdf?cite=2008%20c%20165%20§%201[2008 c 165 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/3127-S.SL.pdf?cite=2006%20c%20116%20§%202[2006 c 116 § 2]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5418-S.SL.pdf?cite=1999%20c%20388%20§%20401[1999 c 388 § 401]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2909-S2.SL.pdf?cite=1996%20c%20273%20§%205[1996 c 273 § 5]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1209-S.SL.pdf?cite=1993%20c%20336%20§%20501[1993 c 336 § 501]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c180.pdf?cite=1986%20c%20180%20§%201[1986 c 180 § 1]; ]
 
 == 28A.300.131 - Parental involvement—Measures to evaluate level—Models and practices—Recognition.
 There is a sizeable body of research positively supporting the involvement of parents taking an engaged and active role in their child's education. Therefore, the legislature intends to provide state recognition by the center for the improvement of student learning within the office of the superintendent of public instruction for schools that increase the level of direct parental involvement with their child's education. By September 1, 2010, the center for the improvement of student learning shall determine measures that can be used to evaluate the level of parental involvement in a school. The center for the improvement of student learning shall collaborate with school district family and community outreach programs and educational service districts to identify and highlight successful models and practices of parent involvement.
@@ -484,7 +490,7 @@ Beginning in January 2010, the *achievement gap oversight and accountability com
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5973-S2.SL.pdf?cite=2009%20c%20468%20§%203[2009 c 468 § 3]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2722-S2.SL.pdf?cite=2008%20c%20298%20§%203[2008 c 298 § 3]; ]
 
 == 28A.300.139 - Washington integrated student supports protocol.
-. Subject to the availability of amounts appropriated for this specific purpose, the Washington integrated student supports protocol is established. The protocol shall be developed by the center for the improvement of student learning, established in RCW 28A.300.130, based on the framework described in this section. The purposes of the protocol include:
+. The Washington integrated student supports protocol is established. The protocol shall be developed by the center for the improvement of student learning, established in RCW 28A.300.130, based on the framework described in this section. The purposes of the protocol include:
 
 .. Supporting a school-based approach to promoting the success of all students by coordinating academic and nonacademic supports to reduce barriers to academic achievement and educational attainment;
 
@@ -494,24 +500,24 @@ Beginning in January 2010, the *achievement gap oversight and accountability com
 
 .. Increasing public awareness of the evidence showing that academic outcomes are a result of both academic and nonacademic factors; and
 
-.. Supporting statewide and local organizations in their efforts to provide leadership, coordination, technical assistance, professional development, and advocacy to implement high-quality, evidence-based, student-centered, coordinated approaches throughout the state.
+.. Supporting statewide and local organizations in their efforts to provide leadership, coordination, technical assistance, professional development, and advocacy to implement high quality, evidence-based, student-centered, coordinated approaches throughout the state.
 
 . [Empty]
 .. The Washington integrated student supports protocol must be sufficiently flexible to adapt to the unique needs of schools and districts across the state, yet sufficiently structured to provide all students with the individual support they need for academic success.
 
 .. The essential framework of the Washington integrated student supports protocol includes:
 
-... Needs assessments: A needs assessment must be conducted for all at-risk students in order to develop or identify the needed academic and nonacademic supports within the students' school and community. These supports must be coordinated to provide students with a package of mutually reinforcing supports designed to meet the individual needs of each student.
+... Needs assessments: A system-level needs assessment with resource mapping must be conducted in order to identify academic and nonacademic supports that are currently available or lacking in schools, school districts, and the community. A student-level needs assessment must be conducted for all at-risk students in order to develop or identify the needed academic and nonacademic supports within the students' school and community. These supports must be coordinated to provide students with a package of mutually reinforcing supports designed to meet the individual needs of each student.
 
-... Integration and coordination: The school and district leadership and staff must develop close relationships with providers of academic and nonacademic supports to enhance the effectiveness of the protocol.
+... Integration and coordination: The school and district leadership and staff must establish clear, cooperative policies and procedures with community-based and other out-of-school providers of academic and nonacademic supports to enhance the effectiveness of the protocol.
 
-... Community partnerships: Community partners must be engaged to provide nonacademic supports to reduce barriers to students' academic success, including supports to students' families.
+... Community partnerships: Community partners must be engaged to provide academic, nonacademic, and social-emotional supports to reduce barriers to students' academic success, including supports to students' families.
 
 ... Data driven: Students' needs and outcomes must be tracked over time to determine student progress and evolving needs.
 
 .. The framework must facilitate the ability of any academic or nonacademic provider to support the needs of at-risk students, including, but not limited to: Out-of-school providers, social workers, mental health counselors, physicians, dentists, speech therapists, and audiologists.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1541-S4.SL.pdf?cite=2016%20c%2072%20§%20801[2016 c 72 § 801]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1208-S.SL.pdf?cite=2021%20c%20111%20§%204[2021 c 111 § 4]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1541-S4.SL.pdf?cite=2016%20c%2072%20§%20801[2016 c 72 § 801]; ]
 
 == 28A.300.145 - Educational materials regarding sex offenses, sex offenders, and victims of sexual assault (as amended by 2013 c 10).
 The Washington coalition of sexual assault programs, in consultation with the Washington association of sheriffs and police chiefs, the Washington association of prosecuting attorneys, the Washington state school directors' association, the association of Washington school principals, the center for children and youth justice, youthcare, the committee for children, the *department of early learning, the department of social and health services, the office of crime victims advocacy, other relevant organizations, and the office of the superintendent of public instruction, shall ((develop)) by June 1, 2014, update existing educational materials ((to be)) made available throughout the state to inform parents and other interested community members about:
@@ -531,7 +537,7 @@ The Washington coalition of sexual assault programs, in consultation with the Wa
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5563-S.SL.pdf?cite=2013%20c%2010%20§%203[2013 c 10 § 3]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6580-S.SL.pdf?cite=2006%20c%20135%20§%202[2006 c 135 § 2]; ]
 
 == 28A.300.147 - Students required to register as sex or kidnapping offenders—Sample policy—Educational materials.
-The superintendent of public instruction shall publish on its web site, with a link to the safety center web page:
+The superintendent of public instruction shall publish on its website, with a link to the safety center web page:
 
 . A revised and updated sample policy for schools to follow regarding students required to register as sex or kidnapping offenders; and
 
@@ -685,7 +691,7 @@ The superintendent of public instruction shall withhold or recover state payment
 [ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5394-S.SL.pdf?cite=1997%20c%20167%20§%201[1997 c 167 § 1]; ]
 
 == 28A.300.185 - Family preservation education program.
-The office of the superintendent of public instruction shall develop a family preservation education program model curriculum that is available to each of the school district boards of directors. The model curriculum shall be posted on the superintendent of public instruction's web site. The model curriculum shall include, but is not limited to, instruction on developing conflict management skills, communication skills, domestic violence and dating violence, financial responsibility, and parenting responsibility.
+The office of the superintendent of public instruction shall develop a family preservation education program model curriculum that is available to each of the school district boards of directors. The model curriculum shall be posted on the superintendent of public instruction's website. The model curriculum shall include, but is not limited to, instruction on developing conflict management skills, communication skills, domestic violence and dating violence, financial responsibility, and parenting responsibility.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1252-S.SL.pdf?cite=2005%20c%20491%20§%203[2005 c 491 § 3]; ]
 
@@ -706,7 +712,7 @@ The office of the superintendent of public instruction shall provide statewide c
 
 ... Regional coordinators or liaisons to facilitate links between schools, higher education institutions, business, labor, and the community in developing internships and other work-integrated learning experiences; and
 
-... System-wide support for work-integrated learning experiences, including but not limited to career awareness, career explorations, career counseling, and career preparation and training.
+... Systemwide support for work-integrated learning experiences, including but not limited to career awareness, career explorations, career counseling, and career preparation and training.
 
 . [Empty]
 .. Grant funds awarded in accordance with this section may be expended only to the extent that they are equally matched by private sector cash contributions for the program. Grantees must provide reports to the work-integrated learning advisory committee in accordance with RCW 28A.300.196.
@@ -1412,9 +1418,9 @@ Standards in K-12 personal finance education developed by a national coalition f
 
 ... Twice to students in grades nine through twelve.
 
-. The office of the superintendent of public instruction and the department of health shall make the Washington state health and physical education K-12 learning standards and the January 2005 guidelines for sexual health information and disease prevention available to public schools, teachers, and guest speakers on their web sites. Within available resources, the office of the superintendent of public instruction and the department of health shall also, and to the extent permitted by applicable federal law, make any related information, model policies, curricula, or other resources available on their web sites.
+. The office of the superintendent of public instruction and the department of health shall make the Washington state health and physical education K-12 learning standards and the January 2005 guidelines for sexual health information and disease prevention available to public schools, teachers, and guest speakers on their websites. Within available resources, the office of the superintendent of public instruction and the department of health shall also, and to the extent permitted by applicable federal law, make any related information, model policies, curricula, or other resources available on their websites.
 
-. The office of the superintendent of public instruction, in consultation with the department of health, shall develop a list of comprehensive sexual health education curricula that are consistent with the 2005 guidelines for sexual health information and disease prevention, the Washington state health and physical education K-12 learning standards, and this section. This list, which may serve as a resource for schools, teachers, or any other organization or community group, must be updated at least annually, and must be made available on the web sites of the office of the superintendent of public instruction and the department of health.
+. The office of the superintendent of public instruction, in consultation with the department of health, shall develop a list of comprehensive sexual health education curricula that are consistent with the 2005 guidelines for sexual health information and disease prevention, the Washington state health and physical education K-12 learning standards, and this section. This list, which may serve as a resource for schools, teachers, or any other organization or community group, must be updated at least annually, and must be made available on the websites of the office of the superintendent of public instruction and the department of health.
 
 . Subject to the availability of amounts appropriated for this specific purpose, the office of the superintendent of public instruction shall periodically review and revise, as necessary, training materials, which may be in an electronic format, for classroom teachers and principals to implement the applicable requirements of this section. The initial review required by this subsection (5) must be completed by March 1, 2021.
 
@@ -1558,7 +1564,7 @@ Standards in K-12 personal finance education developed by a national coalition f
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5082-S2.SL.pdf?cite=2019%20c%20386%20§%202[2019 c 386 § 2]; ]
 
 == 28A.300.479 - Social-emotional learning resources.
-Subject to the availability of amounts appropriated for this specific purpose, the office of the superintendent of public instruction must create and publish on its web site a list of resources available for professional development of school district staff on the following topics: Social-emotional learning, trauma-informed practices, recognition and response to emotional or behavioral distress, consideration of adverse childhood experiences, mental health literacy, antibullying strategies, and culturally sustaining practices. The office of the superintendent of public instruction must include in the list the professional development opportunities and resources identified by the social-emotional learning committee created under RCW 28A.300.477.
+Subject to the availability of amounts appropriated for this specific purpose, the office of the superintendent of public instruction must create and publish on its website a list of resources available for professional development of school district staff on the following topics: Social-emotional learning, trauma-informed practices, recognition and response to emotional or behavioral distress, consideration of adverse childhood experiences, mental health literacy, antibullying strategies, and culturally sustaining practices. The office of the superintendent of public instruction must include in the list the professional development opportunities and resources identified by the social-emotional learning committee created under RCW 28A.300.477.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5082-S2.SL.pdf?cite=2019%20c%20386%20§%206[2019 c 386 § 6]; ]
 
@@ -1771,9 +1777,9 @@ The education data center shall include in its reporting as part of the P-20 edu
 == 28A.300.530 - Individuals with dyslexia—Identification and instruction—Handbook—Reports.
 . Within available resources, the office of the superintendent of public instruction, in consultation with the school districts that participated in the Lorraine Wojahn dyslexia pilot program, and with an international nonprofit organization dedicated to supporting efforts to provide appropriate identification of and instruction for individuals with dyslexia, shall:
 
-.. Develop an educator training program to enhance the reading, writing, and spelling skills of students with dyslexia. The training program must provide research-based, multisensory literacy intervention professional development in the areas of dyslexia and intervention implementation. The program shall be posted on the web site of the office of the superintendent of public instruction. The training program may be regionally delivered through the educational service districts. The educational service districts may seek assistance from the international nonprofit organization to deliver the training; and
+.. Develop an educator training program to enhance the reading, writing, and spelling skills of students with dyslexia. The training program must provide research-based, multisensory literacy intervention professional development in the areas of dyslexia and intervention implementation. The program shall be posted on the website of the office of the superintendent of public instruction. The training program may be regionally delivered through the educational service districts. The educational service districts may seek assistance from the international nonprofit organization to deliver the training; and
 
-.. Develop a dyslexia handbook to be used as a reference for teachers and parents of students with dyslexia. The handbook shall be modeled after other state dyslexia handbooks, and shall include guidelines for school districts to follow as they identify and provide services for students with dyslexia. Additionally, the handbook shall provide school districts, and parents and guardians with information regarding the state's relevant statutes and their relation to federal special education laws. The handbook shall be posted on the web site of the office of the superintendent of public instruction.
+.. Develop a dyslexia handbook to be used as a reference for teachers and parents of students with dyslexia. The handbook shall be modeled after other state dyslexia handbooks, and shall include guidelines for school districts to follow as they identify and provide services for students with dyslexia. Additionally, the handbook shall provide school districts, and parents and guardians with information regarding the state's relevant statutes and their relation to federal special education laws. The handbook shall be posted on the website of the office of the superintendent of public instruction.
 
 . Beginning September 1, 2009, and annually thereafter, each educational service district shall report to the office of the superintendent of public instruction the number of individuals who participate in the training developed and offered by the educational service district. The office of the superintendent of public instruction shall report that information to the legislative education committees.
 
@@ -1800,17 +1806,17 @@ The office of the superintendent of public instruction, in collaboration with th
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6191-S.SL.pdf?cite=2020%20c%20251%20§%202[2020 c 251 § 2]; ]
 
-== 28A.300.540 - Homeless students—Uniform process to track expenditures for transporting—Rules—Information to be posted on web site—Reports—Video on identifying homeless students—Best practices.
+== 28A.300.540 - Homeless students—Uniform process to track expenditures for transporting—Rules—Information to be posted on website—Reports—Video on identifying homeless students—Best practices.
 . For the purposes of this section, "unaccompanied homeless student" means a student who is not in the physical custody of a parent or guardian and is homeless as defined in RCW 43.330.702(2).
 
-. By December 31, 2010, the office of the superintendent of public instruction shall establish a uniform process designed to track the additional expenditures for transporting homeless students, including expenditures required under the McKinney Vento act, reauthorized as Title X, Part C, of the no child left behind act, P.L. 107-110, in January 2002. Once established, the superintendent shall adopt the necessary administrative rules to direct each school district to adopt and use the uniform process and track these expenditures. The superintendent shall post on the superintendent's web site total expenditures related to the transportation of homeless students.
+. By December 31, 2010, the office of the superintendent of public instruction shall establish a uniform process designed to track the additional expenditures for transporting homeless students, including expenditures required under the McKinney Vento act, reauthorized as Title X, Part C, of the no child left behind act, P.L. 107-110, in January 2002. Once established, the superintendent shall adopt the necessary administrative rules to direct each school district to adopt and use the uniform process and track these expenditures. The superintendent shall post on the superintendent's website total expenditures related to the transportation of homeless students.
 
 . [Empty]
-.. By January 10, 2015, and every year thereafter, the office of the superintendent of public instruction shall post to the office's web site the following data for homeless students:
+.. By January 10, 2015, and every year thereafter, the office of the superintendent of public instruction shall post to the office's website the following data for homeless students:
 
 ... The number of identified homeless students enrolled in public schools;
 
-... The number of identified unaccompanied homeless students enrolled in public schools, which number shall be included for each district and the state under "student demographics" on the Washington state report card web site;
+... The number of identified unaccompanied homeless students enrolled in public schools, which number shall be included for each district and the state under "student demographics" on the Washington state report card website;
 
 ... The number of identified homeless students of color;
 
@@ -1836,7 +1842,7 @@ The office of the superintendent of public instruction, in collaboration with th
 
 .. The data reported under this subsection (3) must include state and district-level information and must be disaggregated by at least the following subgroups of students: White, Black, Hispanic, American Indian/Alaskan Native, Asian, Pacific Islander/Hawaiian Native, low income, transitional bilingual, migrant, special education, and gender.
 
-. By July 1, 2014, the office of the superintendent of public instruction in collaboration with experts from community organizations on homelessness and homeless education policy, shall develop or acquire a short video that provides information on how to identify signs that indicate a student may be homeless, how to provide services and support to homeless students, and why this identification and support is critical to student success. The video must be posted on the superintendent of public instruction's web site.
+. By July 1, 2014, the office of the superintendent of public instruction in collaboration with experts from community organizations on homelessness and homeless education policy, shall develop or acquire a short video that provides information on how to identify signs that indicate a student may be homeless, how to provide services and support to homeless students, and why this identification and support is critical to student success. The video must be posted on the superintendent of public instruction's website.
 
 . By July 1, 2014, the office of the superintendent of public instruction shall adopt and distribute to each school district, best practices for choosing and training school district-designated homeless student liaisons.
 
@@ -1938,7 +1944,7 @@ The office of the superintendent of public instruction, in collaboration with th
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2824-S.SL.pdf?cite=2018%20c%20177%20§%20505[2018 c 177 § 505]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5184-S.SL.pdf?cite=2011%20c%2045%20§%202[2011 c 45 § 2]; ]
 
-== 28A.300.550 - Innovation schools—Identification—Web site—Publicity.
+== 28A.300.550 - Innovation schools—Identification—Website—Publicity.
 . The legislature finds that innovation schools accomplish the following objectives:
 
 .. Provide students and parents with a diverse array of educational options;
@@ -1957,9 +1963,9 @@ The office of the superintendent of public instruction, in collaboration with th
 
 . The office of the superintendent of public instruction shall:
 
-.. Create a page on the office web site to highlight examples of Washington innovation schools, including those with institution of higher education partners, that includes links to research literature and national best practices, as well as summary information and links to the web sites of Washington innovation schools. The office is encouraged to offer an educational administrator intern the opportunity to create the web page as a project toward completion of his or her administrator certificate; and
+.. Create a page on the office website to highlight examples of Washington innovation schools, including those with institution of higher education partners, that includes links to research literature and national best practices, as well as summary information and links to the websites of Washington innovation schools. The office is encouraged to offer an educational administrator intern the opportunity to create the web page as a project toward completion of his or her administrator certificate; and
 
-.. Publicize the Washington innovation school designation and encourage schools, communities, institutions of higher education, and school districts to access the web site and create additional models of innovation.
+.. Publicize the Washington innovation school designation and encourage schools, communities, institutions of higher education, and school districts to access the website and create additional models of innovation.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1521.SL.pdf?cite=2011%20c%20202%20§%202[2011 c 202 § 2]; ]
 
@@ -1970,8 +1976,8 @@ The office of the superintendent of public instruction, in collaboration with th
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1965-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2032%20§%2011[2011 1st sp.s. c 32 § 11]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1209-S.SL.pdf?cite=1993%20c%20336%20§%20901[1993 c 336 § 901]; ]
 
-== 28A.300.560 - Data on college credit through dual credit courses—Posting on web site.
-In addition to data on student enrollment in dual credit courses, the office of the superintendent of public instruction shall collect and post on the Washington state report card web site the rates at which students earn college credit through a dual credit course, using the following criteria:
+== 28A.300.560 - Data on college credit through dual credit courses—Posting on website.
+In addition to data on student enrollment in dual credit courses, the office of the superintendent of public instruction shall collect and post on the Washington state report card website the rates at which students earn college credit through a dual credit course, using the following criteria:
 
 . Students who achieve a score of three or higher on an AP examination;
 
@@ -1979,13 +1985,13 @@ In addition to data on student enrollment in dual credit courses, the office of 
 
 . Students who successfully complete a Cambridge advanced international certificate of education examination;
 
-. Students who successfully complete a course through the college in the high school program under RCW 28A.600.290 and are awarded credit by the partnering institution of higher education; and
+. Students who successfully complete a course through the college in the high school program under RCW 28A.600.287 and are awarded credit by the partnering institution of higher education;
 
 . Students who satisfy the dual enrollment and class performance requirements to earn college credit through a tech prep course; and
 
 . Students who successfully complete a course through the running start program under RCW 28A.600.300 and are awarded credit by the institution of higher education.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1642-S2.SL.pdf?cite=2013%20c%20184%20§%204[2013 c 184 § 4]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1302-S.SL.pdf?cite=2021%20c%2071%20§%203[2021 c 71 § 3]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1642-S2.SL.pdf?cite=2013%20c%20184%20§%204[2013 c 184 § 4]; ]
 
 == 28A.300.565 - Grants to implement emergency response systems.
 Subject to funds appropriated specifically for this purpose, the office of the superintendent of public instruction shall allocate grants to school districts on a competitive basis for the purpose of implementing emergency response systems using evolving technology to expedite the response and arrival of law enforcement in the event of a threat or emergency at a school.
@@ -2021,8 +2027,8 @@ In support of reading and early literacy, the office of the superintendent of pu
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6424.SL.pdf?cite=2014%20c%20102%20§%202[2014 c 102 § 2]; ]
 
-== 28A.300.580 - Phone interpretation services—Posting vendor information on web site.
-. The office of the superintendent of public instruction and the office of the education ombuds shall post information on the agency's web site regarding the phone interpretation vendors on contract with the state of Washington, including contact information.
+== 28A.300.580 - Phone interpretation services—Posting vendor information on website.
+. The office of the superintendent of public instruction and the office of the education ombuds shall post information on the agency's website regarding the phone interpretation vendors on contract with the state of Washington, including contact information.
 
 . School districts are encouraged to use the phone interpretation services addressed in subsection (1) of this section to communicate with student's parents, legal guardians, and family members who have limited English proficiency.
 
@@ -2034,7 +2040,7 @@ Beginning in the 2015-16 school year, the office of the superintendent of public
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1813-S.SL.pdf?cite=2015%201st%20sp.s.%20c%203%20§%201[2015 1st sp.s. c 3 § 1]; ]
 
 == 28A.300.587 - Computer science report.
-Beginning June 30, 2020, and by each June 30th thereafter, each school district shall submit to the office of the superintendent of public instruction, and the office of the superintendent of public instruction shall post conspicuously on its web site, a report for the preceding academic year that must include, but is not limited to, the following:
+Beginning June 30, 2020, and by each June 30th thereafter, each school district shall submit to the office of the superintendent of public instruction, and the office of the superintendent of public instruction shall post conspicuously on its website, a report for the preceding academic year that must include, but is not limited to, the following:
 
 . The total number of computer science courses offered in each school and whether these courses are advanced placement classes;
 
@@ -2128,12 +2134,12 @@ Beginning June 30, 2020, and by each June 30th thereafter, each school district 
 
 .. The reason for hiring the substitute teacher.
 
-. By January 1st of each year, the office of the superintendent of public instruction must post on its web site the information identified in subsection (1) of this section.
+. By January 1st of each year, the office of the superintendent of public instruction must post on its website the information identified in subsection (1) of this section.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6189-S.SL.pdf?cite=2020%20c%208%20§%203[2020 c 8 § 3]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6455-S2.SL.pdf?cite=2016%20c%20233%20§%208[2016 c 233 § 8]; ]
 
 == 28A.300.620 - Mentor training program goals—Professional development curricula.
-. In fiscal year 2017, the office of the superintendent of public instruction, in collaboration with the professional educator standards board and institutions of higher education with professional educator standards board-approved teacher preparation programs, shall develop mentor training program goals, and shall post the goals on its web site.
+. In fiscal year 2017, the office of the superintendent of public instruction, in collaboration with the professional educator standards board and institutions of higher education with professional educator standards board-approved teacher preparation programs, shall develop mentor training program goals, and shall post the goals on its website.
 
 . The office of the superintendent of public instruction is encouraged to develop professional development curricula aligned with the mentor training program goals required under this section. The purpose of this [these] curricula is to standardize mentorship training statewide in order to develop high quality mentors.
 
@@ -2150,7 +2156,7 @@ Beginning June 30, 2020, and by each June 30th thereafter, each school district 
 
 .. Disseminate information regarding school safety incidents in Washington and across the country;
 
-.. Develop and maintain a public web site to increase the availability of information, research, and other materials related to school safety;
+.. Develop and maintain a public website to increase the availability of information, research, and other materials related to school safety;
 
 .. Serve as the lead school safety center, and work in conjunction with the regional school safety centers, to support school districts efforts to meet state requirements regarding school safety including the development and implementation of:
 
@@ -2198,7 +2204,7 @@ Beginning June 30, 2020, and by each June 30th thereafter, each school district 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1216-S2.SL.pdf?cite=2019%20c%20333%20§%204[2019 c 333 § 4]; ]
 
 == 28A.300.640 - School-based threat assessment program—Model policy and procedure.
-. The Washington state school directors' association, in collaboration with the office of the superintendent of public instruction, shall develop a model policy and procedure to establish a school-based threat assessment program that meets the requirements of RCW 28A.320.123. The model policy and procedure must be posted on the web site of the state school safety center, established in RCW 28A.300.630, by January 1, 2020.
+. The Washington state school directors' association, in collaboration with the office of the superintendent of public instruction, shall develop a model policy and procedure to establish a school-based threat assessment program that meets the requirements of RCW 28A.320.123. The model policy and procedure must be posted on the website of the state school safety center, established in RCW 28A.300.630, by January 1, 2020.
 
 . In developing the model policy and procedure, the Washington state school directors' association and the office of the superintendent of public instruction must:
 
@@ -2236,7 +2242,7 @@ Beginning June 30, 2020, and by each June 30th thereafter, each school district 
 
 .. Identify indicators and areas of weakness that are highly predictive of future reading difficulty, including phonological awareness, phonemic awareness, rapid naming skills, letter sound knowledge, and family history of difficulty with reading and language acquisition.
 
-. Beginning September 1, 2019, the superintendent of public instruction must maintain on the agency's web site the list of screening tools and resources identified under this section and must include links to the tools and resources, when available.
+. Beginning September 1, 2019, the superintendent of public instruction must maintain on the agency's website the list of screening tools and resources identified under this section and must include links to the tools and resources, when available.
 
 . The superintendent of public instruction must review and update the list of screening tools and resources identified under this section as appropriate.
 
@@ -2287,7 +2293,7 @@ Beginning June 30, 2020, and by each June 30th thereafter, each school district 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6162-S2.SL.pdf?cite=2018%20c%2075%20§%205[2018 c 75 § 5]; ]
 
 == 28A.300.730 - Dyslexia rules.
-. The superintendent of public instruction may adopt rules to implement RCW 28A.300.700, 28A.300.710, 28A.300.720, 28A.320.250, 28A.320.260, 28A.320.270, and 28A.165.035.
+. The superintendent of public instruction may adopt rules to implement RCW 28A.300.700, 28A.300.710, 28A.300.720, 28A.320.250, 28A.320.260, 28A.320.270, and * 28A.165.035.
 
 . The rules may include, but are not limited to, the following:
 
@@ -2322,7 +2328,7 @@ Beginning September 1, 2019, the superintendent of public instruction shall annu
 
 . The reasons the superintendent approved or did not approve each waiver application; and
 
-. Links to the waiver applications posted on the superintendent's web site.
+. Links to the waiver applications posted on the superintendent's website.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2824-S.SL.pdf?cite=2018%20c%20177%20§%20508[2018 c 177 § 508]; ]
 
@@ -2340,39 +2346,6 @@ Beginning September 1, 2019, the superintendent of public instruction shall annu
 . The superintendent of public instruction must disseminate guidance on referral, screening, assessment, selection, and placement best practices for highly capable programs. The guidance must be regularly updated and aligned with evidence-based practices.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6362-S2.SL.pdf?cite=2018%20c%20266%20§%20105[2018 c 266 § 105]; ]
-
-== 28A.300.780 - Hold harmless payments. (Expires December 31, 2020.)
-. For the 2018-19 and 2019-20 school years, the office of the superintendent of public instruction shall allocate a hold-harmless payment to school districts if the sum of (b) of this subsection is greater than the sum of (a) of this subsection for either of the respective school years or if a school district meets the criteria under subsection (2) of this section.
-
-.. The current school year is calculated as the sum of (a)(i) through (iii) of this subsection using the enrollments and values in effect for that school year for the school district's:
-
-... Formula-driven state allocations in part V of the state omnibus appropriations act for these programs: General apportionment, employee compensation adjustments, pupil transportation, special education programs, institutional education programs, transitional bilingual programs, highly capable, and learning assistance programs;
-
-... Local effort assistance funding received under chapter 28A.500 RCW; and
-
-... The lesser of the school district's voter-approved enrichment levy collection or the maximum levy authority provided under RCW 84.52.0531 for that school year.
-
-.. The baseline school year is calculated as the sum of (b)(i) through (iii) of this subsection using the current school year enrollments and the values in effect during the 2017-18 school year for the school district's:
-
-... Formula-driven state allocations in part V of the state omnibus appropriations act for these programs: General apportionment, employee compensation adjustments, pupil transportation, special education programs, institutional education programs, transitional bilingual programs, highly capable, and learning assistance programs;
-
-... Local effort assistance funding received under chapter 28A.500 RCW; and
-
-... Maintenance and operation levy collection under RCW 84.52.0531 in the 2017 calendar year.
-
-. From amounts appropriated in chapter 266, Laws of 2018, the superintendent of public instruction must prioritize hold harmless payments to districts that meet both the following criteria:
-
-.. The sum of the school district's enrichment levy under RCW 84.52.0531 and 2017 3rd sp.s. c 13 s 203 and local effort assistance under RCW 28A.500.015 is less than half of the sum of the maintenance and operations levy and local effort assistance provided under law as it existed on January 1, 2017. For purposes of the calculation in this subsection, the maintenance and operations levy is limited to the lesser of the voter-approved levy as of January 1, 2017, or the maximum levy under law as of January 1, 2017; and
-
-.. The adjusted assessed value of property within the school district as calculated by the department of revenue is greater than twenty billion dollars in calendar year 2017.
-
-. Districts eligible for hold-harmless payments under subsection (1) of this section shall receive the difference between subsection (1)(b) and (a) of this section through the apportionment payment process in RCW 28A.510.250.
-
-. The voters of the school district must approve an enrichment levy under RCW 84.52.0531 to be eligible for a hold-harmless payment under this section.
-
-. This section expires December 31, 2020.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2140-S.SL.pdf?cite=2019%20c%20411%20§%202[2019 c 411 § 2]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6362-S2.SL.pdf?cite=2018%20c%20266%20§%20401[2018 c 266 § 401]; ]
 
 == 28A.300.790 - Outdoor-based activities—Instructional days.
 . The superintendent of public instruction, subject to conformity with application or other requirements adopted by rule, shall approve requests by public schools as provided in RCW 28A.320.173 to consider student participation in seasonal or nonseasonal outdoor-based activities as instructional days for the purposes of basic education requirements established in RCW 28A.150.220(5).
@@ -2457,7 +2430,7 @@ Except as provided in this section, members of advisory groups under the authori
 
 . In consultation with stakeholders, the office of financial management, and the appropriate committees of the legislature, the office of the superintendent of public instruction must recommend statutory and rule changes to ensure appropriate coordination between the K-3 class size reduction construction grant program and the school construction assistance program. The recommendation must include ways to ensure that new square footage funded through this grant program does not impair a school district's eligibility for modernization or replacement grants through the school construction assistance program eligibility under RCW 28A.525.166.
 
-. In consultation with stakeholders, the office of financial management, and the appropriate committees of the legislature, the superintendent of public instruction must recommend the content and method for reporting annually on the grants awarded during each fiscal year. The report must include, at least, the grant amounts and the status of all awarded grants by school district. The annual report must also include data documenting actual class size reductions and all-day kindergarten achieved in school districts that have received grants provided under this section. Beginning in 2016, the report must be submitted to the office of financial management and the appropriate committees of the legislature by October 1st for the preceding fiscal year and made available to the public on a web site maintained by the superintendent of public instruction.
+. In consultation with stakeholders, the office of financial management, and the appropriate committees of the legislature, the superintendent of public instruction must recommend the content and method for reporting annually on the grants awarded during each fiscal year. The report must include, at least, the grant amounts and the status of all awarded grants by school district. The annual report must also include data documenting actual class size reductions and all-day kindergarten achieved in school districts that have received grants provided under this section. Beginning in 2016, the report must be submitted to the office of financial management and the appropriate committees of the legislature by October 1st for the preceding fiscal year and made available to the public on a website maintained by the superintendent of public instruction.
 
 . In consultation with stakeholders, the office of financial management, and the appropriate committees of the legislature, the superintendent of public instruction must recommend statutory and rule changes for awarding grants for construction, modernization, or replacement of school facilities with an expected useful life of less than thirty years.
 
@@ -2524,6 +2497,89 @@ Subject to the availability of amounts appropriated for this specific purpose, t
 . In the administration of the financial aid advising day, personally identifiable student or family information must be protected in accordance with state and federal privacy laws.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6141-S.SL.pdf?cite=2020%20c%20307%20§%205[2020 c 307 § 5]; ]
+
+== 28A.300.820 - Elementary and secondary school emergency relief III account.
+The elementary and secondary school emergency relief III account is created in the state treasury. Revenues attributable to section 2001, the American rescue plan act of 2021, P.L. 117-2 must be deposited into the account. Moneys in the account may be spent only after appropriation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5092-S.SL.pdf?cite=2021%20c%20334%20§%201901[2021 c 334 § 1901]; ]
+
+== 28A.300.825 - Secondary traumatic stress—Resources.
+The office of the superintendent of public instruction must publish on its website links to resources, self-assessments, and best practices for educators and local policymakers to prevent and address secondary traumatic stress in the workforce. The office of the superintendent of public instruction must collaborate with the Washington state school directors' association, the educational service districts, and the school employees' benefits board created in RCW 41.05.740 and provide links to any resources on secondary traumatic stress available through these organizations.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1363-S.SL.pdf?cite=2021%20c%20129%20§%202[2021 c 129 § 2]; ]
+
+== 28A.300.830 - Funding, services, and outcomes for children and youth who are neglected, delinquent, or at risk—Report.
+. [Empty]
+.. Beginning July 1, 2022, and every three years thereafter, the office of the superintendent of public instruction shall report on the funding and services provided in support of youth pursuant to Washington's every student succeeds act consolidated plan, Title I, part D: Prevention and intervention programs for children and youth who are neglected, delinquent, or at risk, and the education outcomes resulting from the funding and provided services.
+
+.. The purpose of the report is to inform the legislature of progress toward the goals established in the consolidated plan and provide the legislature with the opportunity to determine whether subsequent legislation should be enacted to ensure the education needs of youth and postresident youth.
+
+. Reports required by this section, which must delineate the recipients of the federal funds and how they are being used to support the education needs of youth and postresident youth, must be submitted to the appropriate committees of the house of representatives and the senate in accordance with RCW 43.01.036.
+
+. For purposes of this section, "postresident youth" and "youth" have the same meanings as in RCW 28A.190.005.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1295-S2.SL.pdf?cite=2021%20c%20164%20§%2010[2021 c 164 § 10]; ]
+
+== 28A.300.840 - Media literacy and digital citizenship—Grant program. (Expires July 31, 2031.)
+. [Empty]
+.. The office of the superintendent of public instruction shall establish a grant program for the purposes of supporting media literacy and digital citizenship through school district leadership teams. The office of the superintendent of public instruction shall establish and publish criteria for the grant program, and may accept gifts, grants, or endowments from public or private sources for the grant program.
+
+.. A school district that receives a grant under this section is not prohibited from receiving a grant in subsequent grant cycles.
+
+. [Empty]
+.. For a school district to qualify for a grant under this section, the grant proposal must provide that the grantee create a district leadership team that develops a curriculum unit on media literacy or digital citizenship, or both, that may be integrated into one of the following areas:
+
+... Social studies;
+
+... English language arts; or
+
+... Health.
+
+.. School districts selected under the grant program are expected to evaluate the curriculum unit they develop under this subsection (2).
+
+.. In developing their curriculum unit, school districts selected under the grant program are encouraged to work with school district teacher-librarians or a school district library information technology program, if applicable.
+
+. The establishment of the grant program under this section is subject to the availability of amounts appropriated for this specific purpose.
+
+. The curriculum unit developed under this section must be made available as an open educational resource.
+
+. [Empty]
+.. Up to 10 grants a year awarded under this section must be for establishing media literacy professional learning communities with the purpose of sharing best practices in the subject of media literacy.
+
+.. [Empty]
+... Grant recipients under this subsection (5) are required to develop an online presence for their community to model new strategies and to share ideas, challenges, and successful practices.
+
+... Grant recipients shall attend the group meetings created by the office of the superintendent of public instruction under (c) of this subsection (5).
+
+.. The office of the superintendent of public instruction shall convene group meetings for the purpose of sharing best practices and strategies in media literacy education.
+
+.. Additional activities permitted for the use of these grants include, but are not limited to:
+
+... Organizing teachers from across a school district to develop new instructional strategies and to share successful strategies;
+
+... Sharing successful practices across a group of school districts; and
+
+... Facilitating coordination between educational service districts and school districts to provide training.
+
+. [Empty]
+.. At least one grant awarded in each award cycle must be for developing and using a curriculum that contains a focus on synthetic media as a major component.
+
+.. For the purposes of this section, "synthetic media" means an image, an audio recording, or a video recording of an individual's appearance, speech, or conduct that has been intentionally manipulated with the use of digital technology in a manner to create a realistic but false image, audio, or video.
+
+. This section expires July 31, 2031.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1365-S2.SL.pdf?cite=2021%20c%20301%20§%206[2021 c 301 § 6]; ]
+
+== 28A.300.845 - Media literacy and digital citizenship—Regional conferences. (Expires July 31, 2031.)
+. Subject to the availability of amounts appropriated for this specific purpose, the office of the superintendent of public instruction shall convene two regional conferences on the subject of media literacy and digital citizenship.
+
+. The conferences in this section should highlight the work performed by the recipients of the grant program established under RCW 28A.300.840, as well as best practices in media literacy and digital citizenship.
+
+. The locations for conferences convened under this section must include one site in western Washington and one site in eastern Washington.
+
+. This section expires July 31, 2031.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1365-S2.SL.pdf?cite=2021%20c%20301%20§%207[2021 c 301 § 7]; ]
 
 == 28A.300.900 - Registered preapprenticeship and youth apprenticeship recommendations.
 . Subject to the availability of amounts appropriated for this specific purpose, the office of the superintendent of public instruction, in consultation with the state board for community and technical colleges and the Washington state apprenticeship and training council, shall examine opportunities for promoting recognized preapprenticeship and registered youth apprenticeship opportunities for high school students.

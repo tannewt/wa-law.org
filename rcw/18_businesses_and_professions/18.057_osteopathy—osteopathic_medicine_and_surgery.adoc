@@ -114,7 +114,9 @@ Nothing in this chapter shall be construed to prohibit:
 
 . Practice by a dentist licensed under chapter 18.32 RCW when engaged exclusively in the practice of dentistry;
 
-. Practice by any osteopathic physician and surgeon from any other state or territory in which he or she resides: PROVIDED, That such practitioner shall not open an office or appoint a place of meeting patients or receive calls within the limits of this state;
+. The consultation through telemedicine or other means by a practitioner, licensed by another state or territory in which he or she resides, with a practitioner licensed in this state who has responsibility for the diagnosis and treatment of the patient within this state;
+
+. In-person practice by any osteopathic physician and surgeon from any other state or territory in which he or she resides: PROVIDED, That such practitioner shall not open an office or appoint a place of meeting patients or receive calls within the limits of this state;
 
 . Practice by a person who is a student enrolled in an accredited school of osteopathic medicine and surgery approved by the board if:
 
@@ -123,7 +125,7 @@ Nothing in this chapter shall be construed to prohibit:
 .. [Empty]
 ... Such services are performed without compensation or expectation of compensation as part of a volunteer activity;
 
-... The student is under the direct supervision and control of a pharmacist licensed under chapter 18.64 RCW, a physician licensed under chapter 18.71 RCW, an osteopathic physician and surgeon licensed under chapter 18.57 RCW, or a registered nurse or advanced registered nurse practitioner licensed under chapter 18.79 RCW;
+... The student is under the direct supervision and control of a pharmacist licensed under chapter 18.64 RCW, a physician licensed under chapter 18.71 RCW, an osteopathic physician and surgeon licensed under this chapter, or a registered nurse or advanced registered nurse practitioner licensed under chapter 18.79 RCW;
 
 ... The services the student performs are within the scope of practice of: (A) An osteopathic physician and surgeon licensed under this chapter; and (B) the person supervising the student;
 
@@ -137,7 +139,7 @@ Nothing in this chapter shall be construed to prohibit:
 
 This chapter shall not be construed to apply in any manner to any other system or method of treating the sick or afflicted or to apply to or interfere in any way with the practice of religion or any kind of treatment by prayer.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1726.SL.pdf?cite=2019%20c%20270%20§%202[2019 c 270 § 2]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1861-S.SL.pdf?cite=1991%20c%20160%20§%205[1991 c 160 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1919c4.pdf?cite=1919%20c%204%20§%2019[1919 c 4 § 19]; RRS § 10071. FORMER PART OF SECTION: 1921 c 82 § 1, part; 1919 c 4 § 17, part; RRS § 10069, part, now codified in RCW  18.57.130; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5423-S.SL.pdf?cite=2021%20c%20247%20§%202[2021 c 247 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1726.SL.pdf?cite=2019%20c%20270%20§%202[2019 c 270 § 2]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1861-S.SL.pdf?cite=1991%20c%20160%20§%205[1991 c 160 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1919c4.pdf?cite=1919%20c%204%20§%2019[1919 c 4 § 19]; RRS § 10071. FORMER PART OF SECTION: 1921 c 82 § 1, part; 1919 c 4 § 17, part; RRS § 10069, part, now codified in RCW  18.57.130; ]
 
 == 18.57.045 - Inactive licenses.
 A licensed osteopathic physician and surgeon who desires to leave the active practice of osteopathic medicine and surgery in this state may secure from the secretary an inactive license. The administrative procedures, administrative requirements, and fees for an inactive license shall be determined as provided in RCW 43.70.250 and 43.70.280. The holder of an inactive license may reactivate his or her license to practice osteopathic medicine and surgery in accordance with rules adopted by the board.

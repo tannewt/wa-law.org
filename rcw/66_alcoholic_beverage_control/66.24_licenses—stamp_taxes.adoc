@@ -209,9 +209,23 @@ The board in suspending any license may further provide in the order of suspensi
 
 .. The board must license stills used and to be used solely and only by a commercial chemist for laboratory purposes, and not for the manufacture of liquor for sale, at a fee of twenty dollars per annum;
 
-.. The board must license stills used and to be used solely and only for laboratory purposes in any school, college, or educational institution in the state, without fee; and
+.. The board must license stills used and to be used solely and only for laboratory purposes in any school, college, or educational institution in the state, without fee;
 
-.. The board must license stills that have been duly licensed as fruit and/or wine distilleries by the federal government, used and to be used solely as fruit and/or wine distilleries in the production of fruit brandy and wine spirits, at a fee of two hundred dollars per annum.
+.. The board must license stills that have been duly licensed as fruit and/or wine distilleries by the federal government, used and to be used solely as fruit and/or wine distilleries in the production of fruit brandy and wine spirits, at a fee of two hundred dollars per annum;
+
+.. The annual fees in this subsection (1) are waived during the 12-month period beginning with the second calendar month after February 28, 2021, for:
+
+... Licenses that expire during the 12-month waiver period under this subsection (1)(e); and
+
+... Licenses issued to persons previously licensed under this section at any time during the 12-month period prior to the 12-month waiver period under this subsection (1)(e);
+
+.. The waivers in (e) of this subsection do not apply to any licensee that:
+
+... Had their license suspended by the board for health and safety violations of state COVID-19 guidelines; or
+
+... Received an order of immediate restraint or citation from the department of labor and industries for allowing an employee to perform work where business activity was prohibited in violation of an emergency proclamation of the governor under RCW 43.06.220; and
+
+.. Upon request of the department of revenue, the board and the department of labor and industries must both provide a list of persons that they have determined to be ineligible for a fee waiver under (e) of this subsection for the reasons described in (f) of this subsection. Unless otherwise agreed, any list must be received by the department of revenue no later than 15 calendar days after the request is made.
 
 . Any distillery licensed under this section may:
 
@@ -245,7 +259,7 @@ The board in suspending any license may further provide in the order of suspensi
 
 .. A distillery may sell nonalcoholic products at retail.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5549-S2.SL.pdf?cite=2020%20c%20238%20§%201[2020 c 238 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5589-S.SL.pdf?cite=2017%20c%20260%20§%201[2017 c 260 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5353-S2.SL.pdf?cite=2015%20c%20194%20§%201[2015 c 194 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6226-S.SL.pdf?cite=2014%20c%2092%20§%204[2014 c 92 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6485-S.SL.pdf?cite=2010%20c%20290%20§%201[2010 c 290 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2959-S.SL.pdf?cite=2008%20c%2094%20§%201[2008 c 94 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981ex1c5.pdf?cite=1981%201st%20ex.s.%20c%205%20§%2028[1981 1st ex.s. c 5 § 28]; 1937 c 217 § 1 (23D) (adding new section 23-D to 1933 ex.s. c 62); RRS § 7306-23D; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5272-S.SL.pdf?cite=2021%20c%206%20§%201[2021 c 6 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5549-S2.SL.pdf?cite=2020%20c%20238%20§%201[2020 c 238 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5589-S.SL.pdf?cite=2017%20c%20260%20§%201[2017 c 260 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5353-S2.SL.pdf?cite=2015%20c%20194%20§%201[2015 c 194 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6226-S.SL.pdf?cite=2014%20c%2092%20§%204[2014 c 92 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6485-S.SL.pdf?cite=2010%20c%20290%20§%201[2010 c 290 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2959-S.SL.pdf?cite=2008%20c%2094%20§%201[2008 c 94 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981ex1c5.pdf?cite=1981%201st%20ex.s.%20c%205%20§%2028[1981 1st ex.s. c 5 § 28]; 1937 c 217 § 1 (23D) (adding new section 23-D to 1933 ex.s. c 62); RRS § 7306-23D; ]
 
 == 66.24.145 - Craft distillery—On-premises and off-premises consumption—Tasting room age restrictions.
 . [Empty]
@@ -287,12 +301,27 @@ The board in suspending any license may further provide in the order of suspensi
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5549-S2.SL.pdf?cite=2020%20c%20238%20§%202[2020 c 238 § 2]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5353-S2.SL.pdf?cite=2015%20c%20194%20§%202[2015 c 194 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6226-S.SL.pdf?cite=2014%20c%2092%20§%201[2014 c 92 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1149.SL.pdf?cite=2013%20c%2098%20§%201[2013 c 98 § 1]; 2012 c 2 § 205 (Initiative Measure No. 1183, approved November 8, 2011); http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6485-S.SL.pdf?cite=2010%20c%20290%20§%202[2010 c 290 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2959-S.SL.pdf?cite=2008%20c%2094%20§%202[2008 c 94 § 2]; ]
 
-== 66.24.146 - Tasting room license. (Effective January 1, 2021.)
+== 66.24.146 - Tasting room license.
 . There is a tasting room license available to distillery and craft distillery licensees. A tasting room license authorizes the operation of an off-site tasting room, in addition to a tasting room attached to the distillery's or craft distillery's production facility, at which the licensee may sample, serve, and sell spirits and alcohol products authorized to be sampled, served, and sold under RCW 66.24.140 and 66.24.145, for on-premises and off-premises consumption, subject to the same limitations as provided in RCW 66.24.140 and 66.24.145.
 
-. A distillery or craft distillery licensed production facility is eligible for no more than two off-site tasting room licenses located in this state, which may be indoors, or outdoors or a combination thereof, and which shall be administratively tied to a licensed production facility. A separate license is required for the operation of each off-site tasting room. The fee for each off-site tasting room license is two thousand dollars per annum. No additional license is required for a distillery or craft distillery to sample, serve, and sell spirits and alcohol to customers in a tasting room on the distillery or craft distillery premises as authorized under this section, RCW 66.24.1472, 66.24.140, 66.24.145, 66.28.040, 66.24.630, and 66.28.310. Off-site tasting rooms may have a section identified and segregated as federally bonded spaces for the storage of bulk or packaged spirits. Product of the licensee's production may be bottled or packaged in the space.
+. [Empty]
+.. A distillery or craft distillery licensed production facility is eligible for no more than two off-site tasting room licenses located in this state, which may be indoors, or outdoors or a combination thereof, and which shall be administratively tied to a licensed production facility. A separate license is required for the operation of each off-site tasting room. The fee for each off-site tasting room license is two thousand dollars per annum. No additional license is required for a distillery or craft distillery to sample, serve, and sell spirits and alcohol to customers in a tasting room on the distillery or craft distillery premises as authorized under this section, RCW 66.24.1472, 66.24.140, 66.24.145, 66.28.040, 66.24.630, and 66.28.310. Off-site tasting rooms may have a section identified and segregated as federally bonded spaces for the storage of bulk or packaged spirits. Product of the licensee's production may be bottled or packaged in the space.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5549-S2.SL.pdf?cite=2020%20c%20238%20§%203[2020 c 238 § 3]; ]
+.. The annual fee in (a) of this subsection is waived during the 12-month period beginning with the second calendar month after February 28, 2021, for:
+
+... Licenses that expire during the 12-month waiver period under this subsection (2)(b); and
+
+... Licenses issued to persons previously licensed under this section at any time during the 12-month period prior to the 12-month waiver period under this subsection (2)(b).
+
+.. The waiver in (b) of this subsection does not apply to any licensee that:
+
+... Had their license suspended by the board for health and safety violations of state COVID-19 guidelines; or
+
+... Received an order of immediate restraint or citation from the department of labor and industries for allowing an employee to perform work where business activity was prohibited in violation of an emergency proclamation of the governor under RCW 43.06.220.
+
+.. Upon request of the department of revenue, the board and the department of labor and industries must both provide a list of persons that they have determined to be ineligible for a fee waiver under (b) of this subsection for the reasons described in (c) of this subsection. Unless otherwise agreed, any list must be received by the department of revenue no later than 15 calendar days after the request is made.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5272-S.SL.pdf?cite=2021%20c%206%20§%202[2021 c 6 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5549-S2.SL.pdf?cite=2020%20c%20238%20§%203[2020 c 238 § 3]; ]
 
 == 66.24.1471 - Distilleries, craft distilleries, off-site tasting rooms—Food offerings required—Rules.
 . A distillery licensed under RCW 66.24.140 or 66.24.145, or an off-site tasting room authorized under RCW 66.24.146, must provide, for free or for a charge, food offerings to customers during public service hours. For the purposes of this section, "food offerings" means a combination of small serving food items to include a mix of hors d'oeuvre type foods, cheeses, fruits, vegetables, deli-style meats, chips, pretzels, nuts, popcorn, crackers, or similar items.
@@ -317,7 +346,7 @@ The board in suspending any license may further provide in the order of suspensi
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5549-S2.SL.pdf?cite=2020%20c%20238%20§%204[2020 c 238 § 4]; ]
 
-== 66.24.1472 - Jointly operated off-site tasting rooms—Jointly operated consumption areas. (Effective January 1, 2021.)
+== 66.24.1472 - Jointly operated off-site tasting rooms—Jointly operated consumption areas.
 . Of the off-site tasting rooms allowed in this chapter, any distillery, craft distillery, domestic winery, or any combination of licensees thereof, licensed under this chapter may jointly occupy and co-operate up to two off-site locations, which may be indoors, outdoors, or a combination thereof, at which they may sample, serve, and sell products of their own production and products authorized to be sampled, served, and sold under the terms of their license. The licensees must maintain separate storage of products and separate financials. The distillery or craft distillery tasting rooms referenced in this section shall be the off-site tasting rooms allowed, and have the privileges and limitations provided in this chapter. This section does not create additional numbers of authorized tasting rooms beyond what is authorized by this section, RCW 66.24.146, and in RCW 66.24.140, 66.24.145, 66.28.040, 66.24.630, and 66.28.310.
 
 . Any domestic brewery, microbrewery, domestic winery, distillery, or craft distillery licensed under this chapter, or any combination of licensees thereof, whose property parcels or buildings are located in direct physical proximity to one another may share a standing or seated tasting area for patrons to use, which may be indoors, outdoors, or a combination thereof. Each licensee may sample, serve, and sell products the licensee is authorized to sample, serve, and sell under the terms of its license, for on-premises consumption in the jointly operated consumption area. Each licensee must use distinctly marked glassware or serving containers to identify the source of any product being consumed. The distillery or craft distillery tasting rooms shall be the on-site or off-site tasting rooms allowed, and have the privileges and limitations provided in this chapter.
@@ -338,14 +367,14 @@ must share staffing resources. All participating licensees shall be jointly resp
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5549-S2.SL.pdf?cite=2020%20c%20238%20§%205[2020 c 238 § 5]; ]
 
-== 66.24.1473 - Off-site tasting rooms—Number of licenses. (Effective January 1, 2021.)
+== 66.24.1473 - Off-site tasting rooms—Number of licenses.
 . The number of licenses allowed to be issued for off-site tasting rooms authorized under RCW 66.24.146 shall not exceed one hundred fifty.
 
 . The limitations in subsection (1) of this section do not apply to an off-site tasting room authorized under RCW 66.24.146 that has been granted a license under RCW 66.24.400.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5549-S2.SL.pdf?cite=2020%20c%20238%20§%206[2020 c 238 § 6]; ]
 
-== 66.24.1474 - Distilleries, craft distilleries, off-site tasting rooms—Obtaining a spirits, beer, and wine restaurant license. (Effective January 1, 2021.)
+== 66.24.1474 - Distilleries, craft distilleries, off-site tasting rooms—Obtaining a spirits, beer, and wine restaurant license.
 Nothing in this chapter prohibits a distillery licensed under RCW 66.24.140 or 66.24.145, or an off-site tasting room licensed under RCW 66.24.146, from obtaining a license under RCW 66.24.400 for the same premises.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5549-S2.SL.pdf?cite=2020%20c%20238%20§%207[2020 c 238 § 7]; ]
@@ -421,7 +450,22 @@ A spirits importer's license may be issued to any qualified person, firm or corp
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6392-S.SL.pdf?cite=2020%20c%20210%20§%201[2020 c 210 § 1]; ]
 
 == 66.24.170 - Domestic winery license—Winery as distributor and/or retailer of own wine—Off-premises samples—Domestic wine made into sparkling wine—Sales at qualifying farmers markets.
-. There is a license for domestic wineries; fee to be computed only on the liters manufactured: Less than two hundred fifty thousand liters per year, one hundred dollars per year; and two hundred fifty thousand liters or more per year, four hundred dollars per year.
+. [Empty]
+.. There is a license for domestic wineries; fee to be computed only on the liters manufactured: Less than two hundred fifty thousand liters per year, one hundred dollars per year; and two hundred fifty thousand liters or more per year, four hundred dollars per year.
+
+.. The annual fees in (a) of this subsection are waived during the 12-month period beginning with the second calendar month after February 28, 2021, for:
+
+... Licenses that expire during the 12-month waiver period under this subsection (1)(b); and
+
+... Licenses issued to persons previously licensed under this section at any time during the 12-month period prior to the 12-month waiver period under this subsection (1)(b).
+
+.. The waivers in (b) of this subsection do not apply to any licensee that:
+
+... Had their license suspended by the board for health and safety violations of state COVID-19 guidelines; or
+
+... Received an order of immediate restraint or citation from the department of labor and industries for allowing an employee to perform work where business activity was prohibited in violation of an emergency proclamation of the governor under RCW 43.06.220.
+
+.. Upon request of the department of revenue, the board and the department of labor and industries must both provide a list of persons that they have determined to be ineligible for a fee waiver under (b) of this subsection for the reasons described in (c) of this subsection. Unless otherwise agreed, any list must be received by the department of revenue no later than 15 calendar days after the request is made.
 
 . The license allows for the manufacture of wine in Washington state from grapes or other agricultural products.
 
@@ -481,7 +525,7 @@ A spirits importer's license may be issued to any qualified person, firm or corp
 
 .. The domestic winery is entitled to all proceeds from the sale and delivery of its wine to a consumer after the conclusion of the special occasion event, but may enter into an agreement to share a portion of the proceeds of these sales with the special occasion licensee licensed under RCW 66.24.380.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1672.SL.pdf?cite=2019%20c%20169%20§%201[2019 c 169 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1038-S.SL.pdf?cite=2017%20c%20238%20§%201[2017 c 238 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6470-S.SL.pdf?cite=2016%20c%20235%20§%201[2016 c 235 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6514.SL.pdf?cite=2014%20c%20105%20§%201[2014 c 105 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1742-S.SL.pdf?cite=2014%20c%2027%20§%201[2014 c 27 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5674.SL.pdf?cite=2013%20c%20238%20§%202[2013 c 238 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5834-S.SL.pdf?cite=2009%20c%20373%20§%204[2009 c 373 § 4]; 2011 c 62 § 2; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6770-S.SL.pdf?cite=2008%20c%2041%20§%205[2008 c 41 § 5]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5898-S.SL.pdf?cite=2007%20c%2016%20§%202[2007 c 16 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6823-S2.SL.pdf?cite=2006%20c%20302%20§%201[2006 c 302 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5265-S.SL.pdf?cite=2003%20c%2044%20§%201[2003 c 44 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6589-S.SL.pdf?cite=2000%20c%20141%20§%201[2000 c 141 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5173-S.SL.pdf?cite=1997%20c%20321%20§%203[1997 c 321 § 3]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5776-S.SL.pdf?cite=1991%20c%20192%20§%202[1991 c 192 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c85.pdf?cite=1982%20c%2085%20§%204[1982 c 85 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981ex1c5.pdf?cite=1981%201st%20ex.s.%20c%205%20§%2031[1981 1st ex.s. c 5 § 31]; 1939 c 172 § 1 (23C); 1937 c 217 § 1 (23C) (adding new section 23-C to 1933 ex.s. c 62); RRS § 7306-23C; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5272-S.SL.pdf?cite=2021%20c%206%20§%203[2021 c 6 § 3]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1672.SL.pdf?cite=2019%20c%20169%20§%201[2019 c 169 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1038-S.SL.pdf?cite=2017%20c%20238%20§%201[2017 c 238 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6470-S.SL.pdf?cite=2016%20c%20235%20§%201[2016 c 235 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6514.SL.pdf?cite=2014%20c%20105%20§%201[2014 c 105 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1742-S.SL.pdf?cite=2014%20c%2027%20§%201[2014 c 27 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5674.SL.pdf?cite=2013%20c%20238%20§%202[2013 c 238 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5834-S.SL.pdf?cite=2009%20c%20373%20§%204[2009 c 373 § 4]; 2011 c 62 § 2; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6770-S.SL.pdf?cite=2008%20c%2041%20§%205[2008 c 41 § 5]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5898-S.SL.pdf?cite=2007%20c%2016%20§%202[2007 c 16 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6823-S2.SL.pdf?cite=2006%20c%20302%20§%201[2006 c 302 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5265-S.SL.pdf?cite=2003%20c%2044%20§%201[2003 c 44 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6589-S.SL.pdf?cite=2000%20c%20141%20§%201[2000 c 141 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5173-S.SL.pdf?cite=1997%20c%20321%20§%203[1997 c 321 § 3]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5776-S.SL.pdf?cite=1991%20c%20192%20§%202[1991 c 192 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c85.pdf?cite=1982%20c%2085%20§%204[1982 c 85 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981ex1c5.pdf?cite=1981%201st%20ex.s.%20c%205%20§%2031[1981 1st ex.s. c 5 § 31]; 1939 c 172 § 1 (23C); 1937 c 217 § 1 (23C) (adding new section 23-C to 1933 ex.s. c 62); RRS § 7306-23C; ]
 
 == 66.24.175 - Farmers markets—Wine and beer sampling endorsement.
 . A qualifying farmers market authorized to allow wineries to sell bottled wine at retail under RCW 66.24.170 or microbreweries to sell bottled beer at retail under RCW 66.24.244, or both, may apply to the *liquor control board for an endorsement to allow sampling of wine or beer or both. A winery or microbrewery offering samples under this section must have an endorsement from the board to sell wine or beer, as the case may be, of its own production at a qualifying farmers market under RCW 66.24.170 or 66.24.244, respectively.
@@ -640,7 +684,22 @@ Every domestic winery, wine certificate of approval holder, wine importer, and w
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5259.SL.pdf?cite=2012%20c%2020%20§%201[2012 c 20 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6655-S.SL.pdf?cite=2004%20c%20160%20§%205[2004 c 160 § 5]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5173-S.SL.pdf?cite=1997%20c%20321%20§%2010[1997 c 321 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c21.pdf?cite=1969%20ex.s.%20c%2021%20§%204[1969 ex.s. c 21 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1933ex1c62.pdf?cite=1933%20ex.s.%20c%2062%20§%2025[1933 ex.s. c 62 § 25]; RRS § 7306-25; ]
 
 == 66.24.240 - Domestic brewery's license—Fee.
-. There shall be a license for domestic breweries; fee to be two thousand dollars for production of sixty thousand barrels or more of malt liquor per year.
+. [Empty]
+.. There shall be a license for domestic breweries; fee to be two thousand dollars for production of sixty thousand barrels or more of malt liquor per year.
+
+.. The annual fee in (a) of this subsection is waived during the 12-month period beginning with the second calendar month after February 28, 2021, for:
+
+... Licenses that expire during the 12-month waiver period under this subsection (1)(b); and
+
+... Licenses issued to persons previously licensed under this section at any time during the 12-month period prior to the 12-month waiver period under this subsection (1)(b).
+
+.. The waiver in (b) of this subsection does not apply to any licensee that:
+
+... Had their license suspended by the board for health and safety violations of state COVID-19 guidelines; or
+
+... Received an order of immediate restraint or citation from the department of labor and industries for allowing an employee to perform work where business activity was prohibited in violation of an emergency proclamation of the governor under RCW 43.06.220.
+
+.. Upon request of the department of revenue, the board and the department of labor and industries must both provide a list of persons that they have determined to be ineligible for a fee waiver under (b) of this subsection for the reasons described in (c) of this subsection. Unless otherwise agreed, any list must be received by the department of revenue no later than 15 calendar days after the request is made.
 
 . Any domestic brewery, except for a brand owner of malt beverages under RCW 66.04.010(7), licensed under this section may also act as a distributor and/or retailer for beer of its own production. Any domestic brewery operating as a distributor and/or retailer under this subsection shall comply with the applicable laws and rules relating to distributors and/or retailers. A domestic brewery holding a spirits, beer, and wine restaurant license may sell beer of its own production for off-premises consumption from its restaurant premises in kegs or in a sanitary container brought to the premises by the purchaser or furnished by the licensee and filled at the tap by the licensee at the time of sale.
 
@@ -685,10 +744,25 @@ Every domestic winery, wine certificate of approval holder, wine importer, and w
 
 . The state board of health shall adopt rules to allow dogs on the premises of licensed domestic breweries that do not provide food service subject to a food service permit requirement.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2412.SL.pdf?cite=2020%20c%20230%20§%201[2020 c 230 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1465.SL.pdf?cite=2011%20c%20195%20§%206[2011 c 195 § 6]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5788-S.SL.pdf?cite=2011%20c%20119%20§%20212[2011 c 119 § 212]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6770-S.SL.pdf?cite=2008%20c%2041%20§%207[2008 c 41 § 7]; 2008 c 41 § 6; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5859-S2.SL.pdf?cite=2007%20c%20370%20§%207[2007 c 370 § 7]; 2007 c 370 § 6; prior:  2006 c 302 § 2; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/3154.SL.pdf?cite=2006%20c%2044%20§%201[2006 c 44 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2118-S.SL.pdf?cite=2003%20c%20154%20§%201[2003 c 154 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6812-S.SL.pdf?cite=2000%20c%20142%20§%202[2000 c 142 § 2]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5173-S.SL.pdf?cite=1997%20c%20321%20§%2011[1997 c 321 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c226.pdf?cite=1985%20c%20226%20§%201[1985 c 226 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c85.pdf?cite=1982%20c%2085%20§%205[1982 c 85 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981ex1c5.pdf?cite=1981%201st%20ex.s.%20c%205%20§%2013[1981 1st ex.s. c 5 § 13]; 1937 c 217 § 1 (23B) (adding new section 23-B to 1933 ex.s. c 62); RRS § 7306-23B; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5272-S.SL.pdf?cite=2021%20c%206%20§%204[2021 c 6 § 4]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2412.SL.pdf?cite=2020%20c%20230%20§%201[2020 c 230 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1465.SL.pdf?cite=2011%20c%20195%20§%206[2011 c 195 § 6]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5788-S.SL.pdf?cite=2011%20c%20119%20§%20212[2011 c 119 § 212]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6770-S.SL.pdf?cite=2008%20c%2041%20§%207[2008 c 41 § 7]; 2008 c 41 § 6; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5859-S2.SL.pdf?cite=2007%20c%20370%20§%207[2007 c 370 § 7]; 2007 c 370 § 6; prior:  2006 c 302 § 2; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/3154.SL.pdf?cite=2006%20c%2044%20§%201[2006 c 44 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2118-S.SL.pdf?cite=2003%20c%20154%20§%201[2003 c 154 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6812-S.SL.pdf?cite=2000%20c%20142%20§%202[2000 c 142 § 2]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5173-S.SL.pdf?cite=1997%20c%20321%20§%2011[1997 c 321 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c226.pdf?cite=1985%20c%20226%20§%201[1985 c 226 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c85.pdf?cite=1982%20c%2085%20§%205[1982 c 85 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981ex1c5.pdf?cite=1981%201st%20ex.s.%20c%205%20§%2013[1981 1st ex.s. c 5 § 13]; 1937 c 217 § 1 (23B) (adding new section 23-B to 1933 ex.s. c 62); RRS § 7306-23B; ]
 
 == 66.24.244 - Microbrewery's license—Fee.
-. There shall be a license for microbreweries; fee to be one hundred dollars for production of less than sixty thousand barrels of malt liquor, including strong beer, per year.
+. [Empty]
+.. There shall be a license for microbreweries; fee to be one hundred dollars for production of less than sixty thousand barrels of malt liquor, including strong beer, per year.
+
+.. The annual fee in (a) of this subsection is waived during the 12-month period beginning with the second calendar month after February 28, 2021, for:
+
+... Licenses that expire during the 12-month waiver period under this subsection (1)(b); and
+
+... Licenses issued to persons previously licensed under this section at any time during the 12-month period prior to the 12-month waiver period under this subsection (1)(b).
+
+.. The waiver in (b) of this subsection does not apply to any licensee that:
+
+... Had their license suspended by the board for health and safety violations of state COVID-19 guidelines; or
+
+... Received an order of immediate restraint or citation from the department of labor and industries for allowing an employee to perform work where business activity was prohibited in violation of an emergency proclamation of the governor under RCW 43.06.220.
+
+.. Upon request of the department of revenue, the board and the department of labor and industries must both provide a list of persons that they have determined to be ineligible for a fee waiver under (b) of this subsection for the reasons described in (c) of this subsection. Unless otherwise agreed, any list must be received by the department of revenue no later than 15 calendar days after the request is made.
 
 . [Empty]
 .. Any microbrewery licensed under this section may also act as a distributor and/or retailer for beer and strong beer of its own production.
@@ -740,7 +814,7 @@ Every domestic winery, wine certificate of approval holder, wine importer, and w
 
 . The state board of health shall adopt rules to allow dogs on the premises of licensed microbreweries that do not provide food service subject to a food service permit requirement.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2412.SL.pdf?cite=2020%20c%20230%20§%202[2020 c 230 § 2]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1342.SL.pdf?cite=2015%20c%2042%20§%201[2015 c 42 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6514.SL.pdf?cite=2014%20c%20105%20§%203[2014 c 105 § 3]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5674.SL.pdf?cite=2013%20c%20238%20§%203[2013 c 238 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1465.SL.pdf?cite=2011%20c%20195%20§%205[2011 c 195 § 5]; 2011 c 62 § 3; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6572-S.SL.pdf?cite=2008%20c%20248%20§%202[2008 c 248 § 2]; 2008 c 248 § 1; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6770-S.SL.pdf?cite=2008%20c%2041%20§%209[2008 c 41 § 9]; 2008 c 41 § 8; prior:  2007 c 370 § 5; 2007 c 370 § 4; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5639-S.SL.pdf?cite=2007%20c%20222%20§%202[2007 c 222 § 2]; 2007 c 222 § 1; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6823-S2.SL.pdf?cite=2006%20c%20302%20§%203[2006 c 302 § 3]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/3154.SL.pdf?cite=2006%20c%2044%20§%202[2006 c 44 § 2]; prior:  2003 c 167 § 1; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2118-S.SL.pdf?cite=2003%20c%20154%20§%202[2003 c 154 § 2]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6539.SL.pdf?cite=1998%20c%20126%20§%203[1998 c 126 § 3]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5173-S.SL.pdf?cite=1997%20c%20321%20§%2012[1997 c 321 § 12]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5272-S.SL.pdf?cite=2021%20c%206%20§%205[2021 c 6 § 5]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2412.SL.pdf?cite=2020%20c%20230%20§%202[2020 c 230 § 2]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1342.SL.pdf?cite=2015%20c%2042%20§%201[2015 c 42 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6514.SL.pdf?cite=2014%20c%20105%20§%203[2014 c 105 § 3]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5674.SL.pdf?cite=2013%20c%20238%20§%203[2013 c 238 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1465.SL.pdf?cite=2011%20c%20195%20§%205[2011 c 195 § 5]; 2011 c 62 § 3; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6572-S.SL.pdf?cite=2008%20c%20248%20§%202[2008 c 248 § 2]; 2008 c 248 § 1; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6770-S.SL.pdf?cite=2008%20c%2041%20§%209[2008 c 41 § 9]; 2008 c 41 § 8; prior:  2007 c 370 § 5; 2007 c 370 § 4; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5639-S.SL.pdf?cite=2007%20c%20222%20§%202[2007 c 222 § 2]; 2007 c 222 § 1; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6823-S2.SL.pdf?cite=2006%20c%20302%20§%203[2006 c 302 § 3]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/3154.SL.pdf?cite=2006%20c%2044%20§%202[2006 c 44 § 2]; prior:  2003 c 167 § 1; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2118-S.SL.pdf?cite=2003%20c%20154%20§%202[2003 c 154 § 2]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6539.SL.pdf?cite=1998%20c%20126%20§%203[1998 c 126 § 3]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5173-S.SL.pdf?cite=1997%20c%20321%20§%2012[1997 c 321 § 12]; ]
 
 == 66.24.246 - On-premises endorsement—Sale of beer by domestic wineries—Sale of wine by domestic breweries or microbreweries—Fee.
 . There is an on-premises endorsement available to any:
@@ -852,7 +926,22 @@ The board may refund the tax on wine imposed by RCW 66.24.210, and the tax on be
 == 66.24.320 - Beer and/or wine restaurant license—Containers—Fee—Caterer's endorsement.
 There shall be a beer and/or wine restaurant license to sell beer, including strong beer, or wine, or both, at retail, for consumption on the premises. A patron of the licensee may remove from the premises, recorked or recapped in its original container, any portion of wine or sake that was purchased for consumption with a meal.
 
-. The annual fee shall be two hundred dollars for the beer license, two hundred dollars for the wine license, or four hundred dollars for a combination beer and wine license.
+. [Empty]
+.. The annual fee shall be two hundred dollars for the beer license, two hundred dollars for the wine license, or four hundred dollars for a combination beer and wine license.
+
+.. The annual fees in (a) of this subsection are waived during the 12-month period beginning with the second calendar month after February 28, 2021, for:
+
+... Licenses that expire during the 12-month waiver period under this subsection (1)(b); and
+
+... Licenses issued to persons previously licensed under this section at any time during the 12-month period prior to the 12-month waiver period under this subsection (1)(b).
+
+.. The waivers in (b) of this subsection do not apply to any licensee that:
+
+... Had their license suspended by the board for health and safety violations of state COVID-19 guidelines; or
+
+... Received an order of immediate restraint or citation from the department of labor and industries for allowing an employee to perform work where business activity was prohibited in violation of an emergency proclamation of the governor under RCW 43.06.220.
+
+.. Upon request of the department of revenue, the board and the department of labor and industries must both provide a list of persons that they have determined to be ineligible for a fee waiver under (b) of this subsection for the reasons described in (c) of this subsection. Unless otherwise agreed, any list must be received by the department of revenue no later than 15 calendar days after the request is made.
 
 . [Empty]
 .. The board may issue a caterer's endorsement to this license to allow the licensee to remove from the liquor stocks at the licensed premises, only those types of liquor that are authorized under the on-premises license privileges for sale and service at event locations at a specified date and, except as provided in subsection (3) of this section, place not currently licensed by the board. If the event is open to the public, it must be sponsored by a society or organization as defined by RCW 66.24.375. If attendance at the event is limited to members or invited guests of the sponsoring individual, society, or organization, the requirement that the sponsor must be a society or organization as defined by RCW 66.24.375 is waived. Cost of the endorsement is three hundred fifty dollars.
@@ -873,12 +962,27 @@ There shall be a beer and/or wine restaurant license to sell beer, including str
 
 . If the license is issued to a person who contracts with the Washington state ferry system to provide food and alcohol service on a designated ferry route, the license shall cover any vessel assigned to the designated route. A separate license is required for each designated ferry route.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1672.SL.pdf?cite=2019%20c%20169%20§%202[2019 c 169 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5859-S2.SL.pdf?cite=2007%20c%20370%20§%209[2007 c 370 § 9]; 2009 c 507 § 1; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6791-S.SL.pdf?cite=2006%20c%20362%20§%201[2006 c 362 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2897.SL.pdf?cite=2006%20c%20101%20§%202[2006 c 101 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1431-S.SL.pdf?cite=2005%20c%20152%20§%201[2005 c 152 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6584-S.SL.pdf?cite=2004%20c%2062%20§%202[2004 c 62 § 2]; prior:  2003 c 345 § 1; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5051-S.SL.pdf?cite=2003%20c%20167%20§%206[2003 c 167 § 6]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6539.SL.pdf?cite=1998%20c%20126%20§%204[1998 c 126 § 4]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5173-S.SL.pdf?cite=1997%20c%20321%20§%2018[1997 c 321 § 18]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1060.SL.pdf?cite=1995%20c%20232%20§%206[1995 c 232 § 6]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5450-S.SL.pdf?cite=1991%20c%2042%20§%201[1991 c 42 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c458.pdf?cite=1987%20c%20458%20§%2011[1987 c 458 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981ex1c5.pdf?cite=1981%201st%20ex.s.%20c%205%20§%2037[1981 1st ex.s. c 5 § 37]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c9.pdf?cite=1977%20ex.s.%20c%209%20§%201[1977 ex.s. c 9 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c117.pdf?cite=1969%20c%20117%20§%201[1969 c 117 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c75.pdf?cite=1967%20ex.s.%20c%2075%20§%202[1967 ex.s. c 75 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1941c220.pdf?cite=1941%20c%20220%20§%201[1941 c 220 § 1]; 1937 c 217 § 1 (23M) (adding new section 23-M to 1933 ex.s. c 62); Rem. Supp. 1941 § 7306-23M; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5272-S.SL.pdf?cite=2021%20c%206%20§%206[2021 c 6 § 6]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1672.SL.pdf?cite=2019%20c%20169%20§%202[2019 c 169 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5859-S2.SL.pdf?cite=2007%20c%20370%20§%209[2007 c 370 § 9]; 2009 c 507 § 1; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6791-S.SL.pdf?cite=2006%20c%20362%20§%201[2006 c 362 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2897.SL.pdf?cite=2006%20c%20101%20§%202[2006 c 101 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1431-S.SL.pdf?cite=2005%20c%20152%20§%201[2005 c 152 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6584-S.SL.pdf?cite=2004%20c%2062%20§%202[2004 c 62 § 2]; prior:  2003 c 345 § 1; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5051-S.SL.pdf?cite=2003%20c%20167%20§%206[2003 c 167 § 6]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6539.SL.pdf?cite=1998%20c%20126%20§%204[1998 c 126 § 4]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5173-S.SL.pdf?cite=1997%20c%20321%20§%2018[1997 c 321 § 18]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1060.SL.pdf?cite=1995%20c%20232%20§%206[1995 c 232 § 6]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5450-S.SL.pdf?cite=1991%20c%2042%20§%201[1991 c 42 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c458.pdf?cite=1987%20c%20458%20§%2011[1987 c 458 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981ex1c5.pdf?cite=1981%201st%20ex.s.%20c%205%20§%2037[1981 1st ex.s. c 5 § 37]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c9.pdf?cite=1977%20ex.s.%20c%209%20§%201[1977 ex.s. c 9 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c117.pdf?cite=1969%20c%20117%20§%201[1969 c 117 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c75.pdf?cite=1967%20ex.s.%20c%2075%20§%202[1967 ex.s. c 75 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1941c220.pdf?cite=1941%20c%20220%20§%201[1941 c 220 § 1]; 1937 c 217 § 1 (23M) (adding new section 23-M to 1933 ex.s. c 62); Rem. Supp. 1941 § 7306-23M; ]
 
 == 66.24.330 - Tavern license—Fees.
 . There is a beer and wine retailer's license to be designated as a tavern license to sell beer, including strong beer, or wine, or both, at retail, for consumption on the premises. Such licenses may be issued only to a person operating a tavern that may be frequented only by persons twenty-one years of age and older.
 
-. The annual fee for the license is two hundred dollars for the beer license, two hundred dollars for the wine license, or four hundred dollars for a combination beer and wine license. Licensees who have a fee increase of more than one hundred dollars as a result of this change shall have their fees increased fifty percent of the amount the first renewal year and the remaining amount beginning with the second renewal period. New licensees obtaining a license after July 1, 1998, must pay the full amount of four hundred dollars.
+. [Empty]
+.. The annual fee for the license is two hundred dollars for the beer license, two hundred dollars for the wine license, or four hundred dollars for a combination beer and wine license. Licensees who have a fee increase of more than one hundred dollars as a result of this change shall have their fees increased fifty percent of the amount the first renewal year and the remaining amount beginning with the second renewal period. New licensees obtaining a license after July 1, 1998, must pay the full amount of four hundred dollars.
+
+.. The annual fees in (a) of this subsection are waived during the 12-month period beginning with the second calendar month after February 28, 2021, for:
+
+... Licenses that expire during the 12-month waiver period under this subsection (2)(b); and
+
+... Licenses issued to persons previously licensed under this section at any time during the 12-month period prior to the 12-month waiver period under this subsection (2)(b).
+
+.. The waivers in (b) of this subsection do not apply to any licensee that:
+
+... Had their license suspended by the board for health and safety violations of state COVID-19 guidelines; or
+
+... Received an order of immediate restraint or citation from the department of labor and industries for allowing an employee to perform work where business activity was prohibited in violation of an emergency proclamation of the governor under RCW 43.06.220.
+
+.. Upon request of the department of revenue, the board and the department of labor and industries must both provide a list of persons that they have determined to be ineligible for a fee waiver under (b) of this subsection for the reasons described in (c) of this subsection. Unless otherwise agreed, any list must be received by the department of revenue no later than 15 calendar days after the request is made.
 
 . [Empty]
 .. The board may issue a caterer's endorsement to this license to allow the licensee to remove from the liquor stocks at the licensed premises, only those types of liquor that are authorized under the on-premises license privileges for sale and service at event locations at a specified date and, except as provided in subsection (4) of this section, place not currently licensed by the board. If the event is open to the public, it must be sponsored by a society or organization as defined by RCW 66.24.375. If attendance at the event is limited to members or invited guests of the sponsoring individual, society, or organization, the requirement that the sponsor must be a society or organization as defined by RCW 66.24.375 is waived. Cost of the endorsement is three hundred fifty dollars.
@@ -901,12 +1005,27 @@ There shall be a beer and/or wine restaurant license to sell beer, including str
 
 . The board may issue rules as necessary to implement the requirements of this section.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1902-S.SL.pdf?cite=2017%20c%20252%20§%201[2017 c 252 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5051-S.SL.pdf?cite=2003%20c%20167%20§%207[2003 c 167 § 7]; 2009 c 507 § 2; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5173-S.SL.pdf?cite=1997%20c%20321%20§%2019[1997 c 321 § 19]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1060.SL.pdf?cite=1995%20c%20232%20§%207[1995 c 232 § 7]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5450-S.SL.pdf?cite=1991%20c%2042%20§%202[1991 c 42 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c458.pdf?cite=1987%20c%20458%20§%2012[1987 c 458 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981ex1c5.pdf?cite=1981%201st%20ex.s.%20c%205%20§%2038[1981 1st ex.s. c 5 § 38]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c9.pdf?cite=1977%20ex.s.%20c%209%20§%202[1977 ex.s. c 9 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c209.pdf?cite=1973%201st%20ex.s.%20c%20209%20§%2015[1973 1st ex.s. c 209 § 15]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c75.pdf?cite=1967%20ex.s.%20c%2075%20§%203[1967 ex.s. c 75 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1941c220.pdf?cite=1941%20c%20220%20§%202[1941 c 220 § 2]; 1937 c 217 § 1 (23N) (adding new section 23-N to 1933 ex.s. c 62); Rem. Supp. 1941 § 7306-23N; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5272-S.SL.pdf?cite=2021%20c%206%20§%207[2021 c 6 § 7]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1902-S.SL.pdf?cite=2017%20c%20252%20§%201[2017 c 252 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5051-S.SL.pdf?cite=2003%20c%20167%20§%207[2003 c 167 § 7]; 2009 c 507 § 2; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5173-S.SL.pdf?cite=1997%20c%20321%20§%2019[1997 c 321 § 19]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1060.SL.pdf?cite=1995%20c%20232%20§%207[1995 c 232 § 7]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5450-S.SL.pdf?cite=1991%20c%2042%20§%202[1991 c 42 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c458.pdf?cite=1987%20c%20458%20§%2012[1987 c 458 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981ex1c5.pdf?cite=1981%201st%20ex.s.%20c%205%20§%2038[1981 1st ex.s. c 5 § 38]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c9.pdf?cite=1977%20ex.s.%20c%209%20§%202[1977 ex.s. c 9 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c209.pdf?cite=1973%201st%20ex.s.%20c%20209%20§%2015[1973 1st ex.s. c 209 § 15]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c75.pdf?cite=1967%20ex.s.%20c%2075%20§%203[1967 ex.s. c 75 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1941c220.pdf?cite=1941%20c%20220%20§%202[1941 c 220 § 2]; 1937 c 217 § 1 (23N) (adding new section 23-N to 1933 ex.s. c 62); Rem. Supp. 1941 § 7306-23N; ]
 
 == 66.24.350 - Snack bar license—Fee.
-There shall be a beer retailer's license to be designated as a snack bar license to sell beer by the opened bottle or can at retail, for consumption upon the premises only, such license to be issued to places where the sale of beer is not the principal business conducted; fee one hundred twenty-five dollars per year.
+. There shall be a beer retailer's license to be designated as a snack bar license to sell beer by the opened bottle or can at retail, for consumption upon the premises only, such license to be issued to places where the sale of beer is not the principal business conducted; fee one hundred twenty-five dollars per year.
 
-[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5173-S.SL.pdf?cite=1997%20c%20321%20§%2020[1997 c 321 § 20]; 2009 c 507 § 3; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5450-S.SL.pdf?cite=1991%20c%2042%20§%203[1991 c 42 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981ex1c5.pdf?cite=1981%201st%20ex.s.%20c%205%20§%2040[1981 1st ex.s. c 5 § 40]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c75.pdf?cite=1967%20ex.s.%20c%2075%20§%205[1967 ex.s. c 75 § 5]; 1937 c 217 § 1 (23P) (adding new section 23-P to 1933 ex.s. c 62); RRS § 7306-23P; ]
+. [Empty]
+.. The annual fee in subsection (1) of this section is waived during the 12-month period beginning with the second calendar month after February 28, 2021, for:
+
+... Licenses that expire during the 12-month waiver period under this subsection (2)(a); and
+
+... Licenses issued to persons previously licensed under this section at any time during the 12-month period prior to the 12-month waiver period under this subsection (2)(a).
+
+.. The waiver in (a) of this subsection does not apply to any licensee that:
+
+... Had their license suspended by the board for health and safety violations of state COVID-19 guidelines; or
+
+... Received an order of immediate restraint or citation from the department of labor and industries for allowing an employee to perform work where business activity was prohibited in violation of an emergency proclamation of the governor under RCW 43.06.220.
+
+.. Upon request of the department of revenue, the board and the department of labor and industries must both provide a list of persons that they have determined to be ineligible for a fee waiver under (a) of this subsection for the reasons described in (b) of this subsection. Unless otherwise agreed, any list must be received by the department of revenue no later than 15 calendar days after the request is made.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5272-S.SL.pdf?cite=2021%20c%206%20§%208[2021 c 6 § 8]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5173-S.SL.pdf?cite=1997%20c%20321%20§%2020[1997 c 321 § 20]; 2009 c 507 § 3; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5450-S.SL.pdf?cite=1991%20c%2042%20§%203[1991 c 42 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981ex1c5.pdf?cite=1981%201st%20ex.s.%20c%205%20§%2040[1981 1st ex.s. c 5 § 40]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c75.pdf?cite=1967%20ex.s.%20c%2075%20§%205[1967 ex.s. c 75 § 5]; 1937 c 217 § 1 (23P) (adding new section 23-P to 1933 ex.s. c 62); RRS § 7306-23P; ]
 
 == 66.24.354 - Combined license—Sale of beer and wine for consumption on and off premises—Conditions—Fee.
 There shall be a beer and wine retailer's license that may be combined only with the on-premises licenses described in either RCW 66.24.320 or 66.24.330. The combined license permits the sale of beer and wine for consumption off the premises.
@@ -1005,7 +1124,7 @@ If the board receives no evidence or objection that the sale of strong beer or f
 
 . Tasting activities under this section are subject to RCW 66.28.305 and 66.28.040 and the cost of sampling may not be borne, directly or indirectly, by any liquor manufacturer, importer, or distributor.
 
-. A licensee may advertise a tasting event only within the store, on a store web site, in store newsletters and flyers, and via email and mail to customers who have requested notice of events. Advertising under this subsection may not be targeted to or appeal principally to youth.
+. A licensee may advertise a tasting event only within the store, on a store website, in store newsletters and flyers, and via email and mail to customers who have requested notice of events. Advertising under this subsection may not be targeted to or appeal principally to youth.
 
 . [Empty]
 .. If a licensee is found to have committed a public safety violation in conjunction with tasting activities, the board may suspend the licensee's tasting endorsement and not reissue the endorsement for up to two years from the date of the violation. If mitigating circumstances exist, the board may offer a monetary penalty in lieu of suspension during a settlement conference.
@@ -1142,6 +1261,20 @@ $1,000
 
 .. Where the license shall be issued to any corporation, association, or person operating dining places at a publicly or privately owned civic or convention center with facilities for sports, entertainment, or conventions, or a combination thereof, with more than one place where liquor is to be dispensed and sold, such license shall be issued upon the payment of the annual fee, which shall be a master license and shall permit such sale within and from one such place. Such license may be extended to additional places on the premises at the discretion of the board and a duplicate license may be issued for each such additional place. The holder of a master license for a dining place at such a publicly or privately owned civic or convention center must maintain in a substantial manner at least one place on the premises for preparing, cooking, and serving of complete meals, and food service shall be available on request in other licensed places on the premises. An additional license fee of ten dollars shall be required for such duplicate licenses.
 
+.. The annual fees in this subsection (1) are waived during the 12-month period beginning with the second calendar month after February 28, 2021, for:
+
+... Licenses that expire during the 12-month waiver period under this subsection (1)(e); and
+
+... Licenses issued to persons previously licensed under this section at any time during the 12-month period prior to the 12-month waiver period under this subsection (1)(e).
+
+.. The waivers in (e) of this subsection do not apply to any licensee that:
+
+... Had their license suspended by the board for health and safety violations of state COVID-19 guidelines; or
+
+... Received an order of immediate restraint or citation from the department of labor and industries for allowing an employee to perform work where business activity was prohibited in violation of an emergency proclamation of the governor under RCW 43.06.220.
+
+.. Upon request of the department of revenue, the board and the department of labor and industries must both provide a list of persons that they have determined to be ineligible for a fee waiver under (e) of this subsection for the reasons described in (f) of this subsection. Unless otherwise agreed, any list must be received by the department of revenue no later than 15 calendar days after the request is made.
+
 . The board, so far as in its judgment is reasonably possible, shall confine spirits, beer, and wine restaurant licenses to the business districts of cities and towns and other communities, and not grant such licenses in residential districts, nor within the immediate vicinity of schools, without being limited in the administration of this subsection to any specific distance requirements.
 
 . The board shall have discretion to issue spirits, beer, and wine restaurant licenses outside of cities and towns in the state of Washington. The purpose of this subsection is to enable the board, in its discretion, to license in areas outside of cities and towns and other communities, establishments which are operated and maintained primarily for the benefit of tourists, vacationers and travelers, and also golf and country clubs, and common carriers operating dining, club and buffet cars, or boats.
@@ -1165,7 +1298,7 @@ $1,000
 
 .. The domestic winery or passenger vessel, as the case may be, and the retail licensee shall be separately contracted and compensated by the persons sponsoring the event for their respective services.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5367-S.SL.pdf?cite=2009%20c%20271%20§%207[2009 c 271 § 7]; 2009 c 507 § 9; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5859-S2.SL.pdf?cite=2007%20c%20370%20§%2019[2007 c 370 § 19]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5859-S2.SL.pdf?cite=2007%20c%20370%20§%208[2007 c 370 § 8]; prior:  2006 c 101 § 3; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6539.SL.pdf?cite=2006%20c%2085%20§%201[2006 c 85 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6584-S.SL.pdf?cite=2004%20c%2062%20§%203[2004 c 62 § 3]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1395.SL.pdf?cite=2003%20c%20345%20§%202[2003 c 345 § 2]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6539.SL.pdf?cite=1998%20c%20126%20§%206[1998 c 126 § 6]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5173-S.SL.pdf?cite=1997%20c%20321%20§%2027[1997 c 321 § 27]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2656-S.SL.pdf?cite=1996%20c%20218%20§%204[1996 c 218 § 4]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5563.SL.pdf?cite=1995%20c%2055%20§%201[1995 c 55 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981ex1c5.pdf?cite=1981%201st%20ex.s.%20c%205%20§%2045[1981 1st ex.s. c 5 § 45]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c87.pdf?cite=1979%20c%2087%20§%201[1979 c 87 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c219.pdf?cite=1977%20ex.s.%20c%20219%20§%204[1977 ex.s. c 219 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c245.pdf?cite=1975%201st%20ex.s.%20c%20245%20§%201[1975 1st ex.s. c 245 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c208.pdf?cite=1971%20ex.s.%20c%20208%20§%202[1971 ex.s. c 208 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1970ex1c13.pdf?cite=1970%20ex.s.%20c%2013%20§%202[1970 ex.s. c 13 § 2]; prior:  1969 ex.s. c 178 § 6; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c136.pdf?cite=1969%20ex.s.%20c%20136%20§%201[1969 ex.s. c 136 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c143.pdf?cite=1965%20ex.s.%20c%20143%20§%203[1965 ex.s. c 143 § 3]; 1949 c 5 § 3 (adding new section 23-S-3 to 1933 ex.s. c 62); Rem. Supp. 1949 § 7306-23S-3; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5272-S.SL.pdf?cite=2021%20c%206%20§%209[2021 c 6 § 9]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5367-S.SL.pdf?cite=2009%20c%20271%20§%207[2009 c 271 § 7]; 2009 c 507 § 9; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5859-S2.SL.pdf?cite=2007%20c%20370%20§%2019[2007 c 370 § 19]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5859-S2.SL.pdf?cite=2007%20c%20370%20§%208[2007 c 370 § 8]; prior:  2006 c 101 § 3; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6539.SL.pdf?cite=2006%20c%2085%20§%201[2006 c 85 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6584-S.SL.pdf?cite=2004%20c%2062%20§%203[2004 c 62 § 3]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1395.SL.pdf?cite=2003%20c%20345%20§%202[2003 c 345 § 2]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6539.SL.pdf?cite=1998%20c%20126%20§%206[1998 c 126 § 6]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5173-S.SL.pdf?cite=1997%20c%20321%20§%2027[1997 c 321 § 27]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2656-S.SL.pdf?cite=1996%20c%20218%20§%204[1996 c 218 § 4]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5563.SL.pdf?cite=1995%20c%2055%20§%201[1995 c 55 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981ex1c5.pdf?cite=1981%201st%20ex.s.%20c%205%20§%2045[1981 1st ex.s. c 5 § 45]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c87.pdf?cite=1979%20c%2087%20§%201[1979 c 87 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c219.pdf?cite=1977%20ex.s.%20c%20219%20§%204[1977 ex.s. c 219 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c245.pdf?cite=1975%201st%20ex.s.%20c%20245%20§%201[1975 1st ex.s. c 245 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c208.pdf?cite=1971%20ex.s.%20c%20208%20§%202[1971 ex.s. c 208 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1970ex1c13.pdf?cite=1970%20ex.s.%20c%2013%20§%202[1970 ex.s. c 13 § 2]; prior:  1969 ex.s. c 178 § 6; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c136.pdf?cite=1969%20ex.s.%20c%20136%20§%201[1969 ex.s. c 136 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965ex1c143.pdf?cite=1965%20ex.s.%20c%20143%20§%203[1965 ex.s. c 143 § 3]; 1949 c 5 § 3 (adding new section 23-S-3 to 1933 ex.s. c 62); Rem. Supp. 1949 § 7306-23S-3; ]
 
 == 66.24.425 - Liquor by the drink, spirits, beer, and wine restaurant license—Restaurants not serving the general public.
 . The board may, in its discretion, issue a spirits, beer, and wine restaurant license to a business which qualifies as a "restaurant" as that term is defined in RCW 66.24.410 in all respects except that the business does not serve the general public but, through membership qualification, selectively restricts admission to the business. For purposes of RCW 66.24.400 and 66.24.420, all licenses issued under this section shall be considered spirits, beer, and wine restaurant licenses and shall be subject to all requirements, fees, and qualifications in this title, or in rules adopted by the board, as are applicable to spirits, beer, and wine restaurant licenses generally except that no service to the general public may be required.
@@ -1229,10 +1362,25 @@ No public place or club, or agent, servant or employee thereof, shall keep or al
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2959-S.SL.pdf?cite=2008%20c%2094%20§%209[2008 c 94 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c250.pdf?cite=1969%20ex.s.%20c%20250%20§%202[1969 ex.s. c 250 § 2]; 1953 c 141 § 1 (adding a new section to chapter  66.24 RCW); ]
 
-== 66.24.495 - Nonprofit arts organization license—Fee.
-. There shall be a license to be designated as a nonprofit arts organization license. This shall be a special license to be issued to any nonprofit arts organization which sponsors and presents productions or performances of an artistic or cultural nature in a specific theater or other appropriate designated indoor premises approved by the board. The license shall permit the licensee to sell liquor to patrons of productions or performances for consumption on the premises at these events. The fee for the license shall be two hundred fifty dollars per annum.
+== 66.24.495 - Nonprofit arts organization license—Fee (as amended by 2021 c 6).
+. [Empty]
+.. There shall be a license to be designated as a nonprofit arts organization license. This shall be a special license to be issued to any nonprofit arts organization which sponsors and presents productions or performances of an artistic or cultural nature in a specific theater or other appropriate designated indoor premises approved by the board. The license shall permit the licensee to sell liquor to patrons of productions or performances for consumption on the premises at these events. The fee for the license shall be two hundred fifty dollars per annum.
 
-. For the purposes of this section, the term "nonprofit arts organization" means an organization which is organized and operated for the purpose of providing artistic or cultural exhibitions, presentations, or performances or cultural or art education programs, as defined in subsection (3) of this section, for viewing or attendance by the general public. The organization must be a not-for-profit corporation under chapter 24.03 RCW and managed by a governing board of not less than eight individuals none of whom is a paid employee of the organization or by a corporation sole under chapter 24.12 RCW. In addition, the corporation must satisfy the following conditions:
+.. The annual fee in (a) of this subsection is waived during the 12-month period beginning with the second calendar month after February 28, 2021, for:
+
+... Licenses that expire during the 12-month waiver period under this subsection (1)(b); and
+
+... Licenses issued to persons previously licensed under this section at any time during the 12-month period prior to the 12-month waiver period under this subsection (1)(b).
+
+.. The waiver in (b) of this subsection does not apply to any licensee that:
+
+... Had their license suspended by the board for health and safety violations of state COVID-19 guidelines; or
+
+... Received an order of immediate restraint or citation from the department of labor and industries for allowing an employee to perform work where business activity was prohibited in violation of an emergency proclamation of the governor under RCW 43.06.220.
+
+.. Upon request of the department of revenue, the board and the department of labor and industries must both provide a list of persons that they have determined to be ineligible for a fee waiver under (b) of this subsection for the reasons described in (c) of this subsection. Unless otherwise agreed, any list must be received by the department of revenue no later than 15 calendar days after the request is made.
+
+. For the purposes of this section, the term "nonprofit arts organization" means an organization which is organized and operated for the purpose of providing artistic or cultural exhibitions, presentations, or performances or cultural or art education programs, as defined in subsection (3) of this section, for viewing or attendance by the general public. The organization must be a not-for-profit corporation under *chapter 24.03 RCW and managed by a governing board of not less than eight individuals none of whom is a paid employee of the organization or by a corporation sole under chapter 24.12 RCW. In addition, the corporation must satisfy the following conditions:
 
 .. No part of its income may be paid directly or indirectly to its members, stockholders, officers, directors, or trustees except in the form of services rendered by the corporation in accordance with its purposes and bylaws;
 
@@ -1246,7 +1394,7 @@ No public place or club, or agent, servant or employee thereof, shall keep or al
 
 .. Services must be available regardless of race, color, national origin, or ancestry; and
 
-.. The *liquor control board shall have access to its books in order to determine whether the corporation is entitled to a license.
+.. The ((liquor control)) board shall have access to its books in order to determine whether the corporation is entitled to a license.
 
 . The term "artistic or cultural exhibitions, presentations, or performances or cultural or art education programs" includes and is limited to:
 
@@ -1256,7 +1404,7 @@ No public place or club, or agent, servant or employee thereof, shall keep or al
 
 .. An educational seminar or program, or series of such programs, offered by the organization to the general public on an artistic, cultural, or historical subject.
 
-[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5173-S.SL.pdf?cite=1997%20c%20321%20§%2033[1997 c 321 § 33]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c142.pdf?cite=1981%20c%20142%20§%201[1981 c 142 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5272-S.SL.pdf?cite=2021%20c%206%20§%2010[2021 c 6 § 10]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5173-S.SL.pdf?cite=1997%20c%20321%20§%2033[1997 c 321 § 33]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c142.pdf?cite=1981%20c%20142%20§%201[1981 c 142 § 1]; ]
 
 == 66.24.520 - Grower's license—Fee.
 There shall be a grower's license to sell wine or spirits made from grapes or other agricultural products owned at the time of vinification or distillation by the licensee in bulk to holders of domestic wineries', distillers', or manufacturers' licenses or for export. The wine or spirits shall be made upon the premises of a domestic winery or craft distillery licensee and is referred to in this section as grower's wine or grower's spirits. A grower's license authorizes the agricultural product grower to contract for the manufacturing of wine or spirits from the grower's own agricultural product, store wine or spirits in bulk made from agricultural products produced by the holder of this license, and to sell wine or spirits in bulk made from the grower's own agricultural products to a winery or distillery in the state of Washington or to export in bulk for sale out-of-state. The annual fee for a grower's license shall be seventy-five dollars. For the purpose of chapter 66.28 RCW, a grower licensee shall be deemed a manufacturer.
@@ -1295,11 +1443,26 @@ There shall be a grower's license to sell wine or spirits made from grapes or ot
 
 .. Provide without additional charge, to overnight guests of the motel, spirits, beer, and wine by the individual serving for on-premises consumption at a specified regular date, time, and place as may be fixed by the board. Self-service by attendees is prohibited. All spirits, beer, and wine service must be done by an alcohol server as defined in RCW 66.20.300 and comply with RCW 66.20.310.
 
-. The annual fee for a motel license is five hundred dollars.
+. [Empty]
+.. The annual fee for a motel license is five hundred dollars.
+
+.. The annual fee in (a) of this subsection is waived during the 12-month period beginning with the second calendar month after February 28, 2021, for:
+
+... Licenses that expire during the 12-month waiver period under this subsection (2)(b); and
+
+... Licenses issued to persons previously licensed under this section at any time during the 12-month period prior to the 12-month waiver period under this subsection (2)(b).
+
+.. The waiver in (b) of this subsection does not apply to any licensee that:
+
+... Had their license suspended by the board for health and safety violations of state COVID-19 guidelines; or
+
+... Received an order of immediate restraint or citation from the department of labor and industries for allowing an employee to perform work where business activity was prohibited in violation of an emergency proclamation of the governor under RCW 43.06.220.
+
+.. Upon request of the department of revenue, the board and the department of labor and industries must both provide a list of persons that they have determined to be ineligible for a fee waiver under (b) of this subsection for the reasons described in (c) of this subsection. Unless otherwise agreed, any list must be received by the department of revenue no later than 15 calendar days after the request is made.
 
 . For the purposes of this section, "motel" means a transient accommodation licensed under chapter 70.62 RCW.
 
-[ 2012 c 2 § 114 (Initiative Measure No. 1183, approved November 8, 2011); http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5712-S.SL.pdf?cite=1999%20c%20129%20§%201[1999 c 129 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5173-S.SL.pdf?cite=1997%20c%20321%20§%2034[1997 c 321 § 34]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5689.SL.pdf?cite=1993%20c%20511%20§%201[1993 c 511 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5272-S.SL.pdf?cite=2021%20c%206%20§%2011[2021 c 6 § 11]; 2012 c 2 § 114 (Initiative Measure No. 1183, approved November 8, 2011); http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5712-S.SL.pdf?cite=1999%20c%20129%20§%201[1999 c 129 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5173-S.SL.pdf?cite=1997%20c%20321%20§%2034[1997 c 321 § 34]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5689.SL.pdf?cite=1993%20c%20511%20§%201[1993 c 511 § 1]; ]
 
 == 66.24.550 - Beer and wine gift delivery license—Fee—Limitations.
 There shall be a beer and wine retailer's license to be designated as a beer and wine gift delivery license to solicit, take orders for, sell, and deliver beer and/or wine in bottles and original packages to persons other than the person placing the order. A beer and wine gift delivery license may be issued only to a business solely engaged in the sale or sale and delivery of gifts at retail which holds no other class of license under this title or to a person in the business of selling flowers or floral arrangements at retail. No minimum beer and/or wine inventory requirement shall apply to holders of beer and wine gift delivery licenses. The fee for this license is seventy-five dollars per year. Delivery of beer and/or wine under a beer and wine gift delivery license shall be made in accordance with all applicable provisions of this title and the rules of the board, and no beer and/or wine so delivered shall be opened on any premises licensed under this title. A beer and wine gift delivery license does not authorize door-to-door solicitation of gift wine delivery orders. Deliveries of beer and/or wine under a beer and wine gift delivery license shall be made only in conjunction with gifts or flowers.
@@ -1307,7 +1470,22 @@ There shall be a beer and wine retailer's license to be designated as a beer and
 [ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5173-S.SL.pdf?cite=1997%20c%20321%20§%2035[1997 c 321 § 35]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c149.pdf?cite=1989%20c%20149%20§%201[1989 c 149 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c40.pdf?cite=1986%20c%2040%20§%201[1986 c 40 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c85.pdf?cite=1982%20c%2085%20§%2010[1982 c 85 § 10]; ]
 
 == 66.24.570 - Sports entertainment facility license—Fee—Caterer's endorsement—Financial arrangements—Reporting.
-. There is a license for sports entertainment facilities to be designated as a sports entertainment facility license to sell beer, wine, and spirits at retail, for consumption upon the premises only, the license to be issued to the entity providing food and beverage service at a sports entertainment facility as defined in this section. The cost of the license is two thousand five hundred dollars per annum.
+. [Empty]
+.. There is a license for sports entertainment facilities to be designated as a sports entertainment facility license to sell beer, wine, and spirits at retail, for consumption upon the premises only, the license to be issued to the entity providing food and beverage service at a sports entertainment facility as defined in this section. The cost of the license is two thousand five hundred dollars per annum.
+
+.. The annual fee in (a) of this subsection is waived during the 12-month period beginning with the second calendar month after February 28, 2021, for:
+
+... Licenses that expire during the 12-month waiver period under this subsection (1)(b); and
+
+... Licenses issued to persons previously licensed under this section at any time during the 12-month period prior to the 12-month waiver period under this subsection (1)(b).
+
+.. The waiver in (b) of this subsection does not apply to any licensee that:
+
+... Had their license suspended by the board for health and safety violations of state COVID-19 guidelines; or
+
+... Received an order of immediate restraint or citation from the department of labor and industries for allowing an employee to perform work where business activity was prohibited in violation of an emergency proclamation of the governor under RCW 43.06.220.
+
+.. Upon request of the department of revenue, the board and the department of labor and industries must both provide a list of persons that they have determined to be ineligible for a fee waiver under (b) of this subsection for the reasons described in (c) of this subsection. Unless otherwise agreed, any list must be received by the department of revenue no later than 15 calendar days after the request is made.
 
 . For purposes of this section, a sports entertainment facility includes a publicly or privately owned arena, coliseum, stadium, or facility where sporting events are presented for a price of admission. The facility does not have to be exclusively used for sporting events.
 
@@ -1327,7 +1505,7 @@ There shall be a beer and wine retailer's license to be designated as a beer and
 
 .. The board shall report to the appropriate committees of the legislature by December 30, 2008, and biennially thereafter, on the impacts of arrangements allowed between sports entertainment licensees and liquor manufacturers, importers, and distributors for brand advertising and promotion of events at the facility.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5788-S.SL.pdf?cite=2011%20c%20119%20§%20205[2011 c 119 § 205]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5721-S.SL.pdf?cite=2007%20c%20369%20§%202[2007 c 369 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1395.SL.pdf?cite=2003%20c%20345%20§%203[2003 c 345 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1951.SL.pdf?cite=2001%20c%20199%20§%205[2001 c 199 § 5]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5173-S.SL.pdf?cite=1997%20c%20321%20§%2036[1997 c 321 § 36]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2656-S.SL.pdf?cite=1996%20c%20218%20§%201[1996 c 218 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5272-S.SL.pdf?cite=2021%20c%206%20§%2012[2021 c 6 § 12]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5788-S.SL.pdf?cite=2011%20c%20119%20§%20205[2011 c 119 § 205]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5721-S.SL.pdf?cite=2007%20c%20369%20§%202[2007 c 369 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1395.SL.pdf?cite=2003%20c%20345%20§%203[2003 c 345 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1951.SL.pdf?cite=2001%20c%20199%20§%205[2001 c 199 § 5]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5173-S.SL.pdf?cite=1997%20c%20321%20§%2036[1997 c 321 § 36]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2656-S.SL.pdf?cite=1996%20c%20218%20§%201[1996 c 218 § 1]; ]
 
 == 66.24.580 - Public house license—Fees—Limitations.
 . A public house license allows the licensee:
@@ -1348,13 +1526,28 @@ There shall be a beer and wine retailer's license to be designated as a beer and
 
 . The holder of a public house license may not hold a wholesaler's or importer's license, act as the agent of another manufacturer, wholesaler, or importer, or hold a brewery or winery license.
 
-. The annual license fee for a public house is one thousand dollars.
+. [Empty]
+.. The annual license fee for a public house is one thousand dollars.
+
+.. The annual fee in (a) of this subsection is waived during the 12-month period beginning with the second calendar month after February 28, 2021, for:
+
+... Licenses that expire during the 12-month waiver period under this subsection (6)(b); and
+
+... Licenses issued to persons previously licensed under this section at any time during the 12-month period prior to the 12-month waiver period under this subsection (6)(b).
+
+.. The waiver in (b) of this subsection does not apply to any licensee that:
+
+... Had their license suspended by the board for health and safety violations of state COVID-19 guidelines; or
+
+... Received an order of immediate restraint or citation from the department of labor and industries for allowing an employee to perform work where business activity was prohibited in violation of an emergency proclamation of the governor under RCW 43.06.220.
+
+.. Upon request of the department of revenue, the board and the department of labor and industries must both provide a list of persons that they have determined to be ineligible for a fee waiver under (b) of this subsection for the reasons described in (c) of this subsection. Unless otherwise agreed, any list must be received by the department of revenue no later than 15 calendar days after the request is made.
 
 . The holder of a public house license may hold other licenses at other locations if the locations are approved by the board.
 
 . Existing holders of annual retail liquor licenses may apply for and, if qualified, be granted a public house license at one or more of their existing liquor licensed locations without discontinuing business during the application or construction stages.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5788-S.SL.pdf?cite=2011%20c%20119%20§%20206[2011 c 119 § 206]; 2009 c 507 § 13; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5364-S.SL.pdf?cite=1999%20c%20281%20§%206[1999 c 281 § 6]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5175-S2.SL.pdf?cite=1996%20c%20224%20§%202[1996 c 224 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5272-S.SL.pdf?cite=2021%20c%206%20§%2013[2021 c 6 § 13]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5788-S.SL.pdf?cite=2011%20c%20119%20§%20206[2011 c 119 § 206]; 2009 c 507 § 13; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5364-S.SL.pdf?cite=1999%20c%20281%20§%206[1999 c 281 § 6]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5175-S2.SL.pdf?cite=1996%20c%20224%20§%202[1996 c 224 § 2]; ]
 
 == 66.24.590 - Hotel license—Fee—Limitations.
 . There is a retailer's license to be designated as a hotel license. No license may be issued to a hotel offering rooms to its guests on an hourly basis. Food service provided for room service, banquets or conferences, or restaurant operation under this license must meet the requirements of rules adopted by the board.
@@ -1381,7 +1574,7 @@ There shall be a beer and wine retailer's license to be designated as a beer and
 
 . All spirits to be sold under this license must be purchased from a spirits retailer or spirits distributor licensee of the board.
 
-. All on-premise [on-premises] alcoholic beverage service must be done by an alcohol server as defined in RCW 66.20.300 and must comply with RCW 66.20.310.
+. All on-premises alcoholic beverage service must be done by an alcohol server as defined in RCW 66.20.300 and must comply with RCW 66.20.310.
 
 . [Empty]
 .. The hotel license allows the licensee to remove from the liquor stocks at the licensed premises, liquor for sale and service at event locations at a specified date and place not currently licensed by the board. If the event is open to the public, it must be sponsored by a society or organization as defined by RCW 66.24.375. If attendance at the event is limited to members or invited guests of the sponsoring individual, society, or organization, the requirement that the sponsor must be a society or organization as defined by RCW 66.24.375 is waived.
@@ -1394,11 +1587,26 @@ There shall be a beer and wine retailer's license to be designated as a beer and
 
 . Minors may be allowed in all areas of the hotel where liquor may be consumed; however, the consumption must be incidental to the primary use of the area. These areas include, but are not limited to, tennis courts, hotel lobbies, and swimming pool areas. If an area is not a mixed use area, and is primarily used for alcohol service, the area must be designated and restricted to access by persons of lawful age to purchase liquor.
 
-. The annual fee for this license is two thousand dollars.
+. [Empty]
+.. The annual fee for this license is two thousand dollars.
+
+.. The annual fee in (a) of this subsection is waived during the 12-month period beginning with the second calendar month after February 28, 2021, for:
+
+... Licenses that expire during the 12-month waiver period under this subsection (9)(b); and
+
+... Licenses issued to persons previously licensed under this section at any time during the 12-month period prior to the 12-month waiver period under this subsection (9)(b).
+
+.. The waiver in (b) of this subsection does not apply to any licensee that:
+
+... Had their license suspended by the board for health and safety violations of state COVID-19 guidelines; or
+
+... Received an order of immediate restraint or citation from the department of labor and industries for allowing an employee to perform work where business activity was prohibited in violation of an emergency proclamation of the governor under RCW 43.06.220.
+
+.. Upon request of the department of revenue, the board and the department of labor and industries must both provide a list of persons that they have determined to be ineligible for a fee waiver under (b) of this subsection for the reasons described in (c) of this subsection. Unless otherwise agreed, any list must be received by the department of revenue no later than 15 calendar days after the request is made.
 
 . As used in this section, "hotel," "spirits," "beer," and "wine" have the meanings defined in RCW 66.24.410 and 66.04.010.
 
-[ 2012 c 2 § 115 (Initiative Measure No. 1183, approved November 8, 2011); http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5788-S.SL.pdf?cite=2011%20c%20119%20§%20403[2011 c 119 § 403]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6770-S.SL.pdf?cite=2008%20c%2041%20§%2011[2008 c 41 § 11]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5859-S2.SL.pdf?cite=2007%20c%20370%20§%2011[2007 c 370 § 11]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5272-S.SL.pdf?cite=2021%20c%206%20§%2014[2021 c 6 § 14]; 2012 c 2 § 115 (Initiative Measure No. 1183, approved November 8, 2011); http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5788-S.SL.pdf?cite=2011%20c%20119%20§%20403[2011 c 119 § 403]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6770-S.SL.pdf?cite=2008%20c%2041%20§%2011[2008 c 41 § 11]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5859-S2.SL.pdf?cite=2007%20c%20370%20§%2011[2007 c 370 § 11]; ]
 
 == 66.24.600 - Nightclub license.
 . There shall be a spirits, beer, and wine nightclub license to sell spirituous liquor by the drink, beer, and wine at retail, for consumption on the licensed premises.
@@ -1407,15 +1615,30 @@ There shall be a beer and wine retailer's license to be designated as a beer and
 
 . Minors may be allowed on the licensed premises but only in areas where alcohol is not served or consumed.
 
-. The annual fee for this license is two thousand dollars. The fee for the license shall be reviewed from time to time and set at such a level sufficient to defray the cost of licensing and enforcing this licensing program. The fee shall be fixed by rule adopted by the board in accordance with the provisions of the administrative procedure act, chapter 34.05 RCW.
+. [Empty]
+.. The annual fee for this license is two thousand dollars. The fee for the license shall be reviewed from time to time and set at such a level sufficient to defray the cost of licensing and enforcing this licensing program. The fee shall be fixed by rule adopted by the board in accordance with the provisions of the administrative procedure act, chapter 34.05 RCW.
+
+.. The annual fee in (a) of this subsection is waived during the 12-month period beginning with the second calendar month after February 28, 2021, for:
+
+... Licenses that expire during the 12-month waiver period under this subsection (4)(b); and
+
+... Licenses issued to persons previously licensed under this section at any time during the 12-month period prior to the 12-month waiver period under this subsection (4)(b).
+
+.. The waiver in (b) of this subsection does not apply to any licensee that:
+
+... Had their license suspended by the board for health and safety violations of state COVID-19 guidelines; or
+
+... Received an order of immediate restraint or citation from the department of labor and industries for allowing an employee to perform work where business activity was prohibited in violation of an emergency proclamation of the governor under RCW 43.06.220.
+
+.. Upon request of the department of revenue, the board and the department of labor and industries must both provide a list of persons that they have determined to be ineligible for a fee waiver under (b) of this subsection for the reasons described in (c) of this subsection. Unless otherwise agreed, any list must be received by the department of revenue no later than 15 calendar days after the request is made.
 
 . Local governments may petition the board to request that further restrictions be imposed on a spirits, beer, and wine nightclub license in the interest of public safety. Examples of further restrictions a local government may request are: No minors allowed on the entire premises, submitting a security plan, or signing a good neighbor agreement with the local government.
 
-. The total number of spirts [spirits], beer, and wine nightclub licenses are subject to the requirements of RCW 66.24.420(4). However, the board shall refuse a spirits, beer, and wine nightclub license to any applicant if the board determines that the spirits, beer, and wine nightclub licenses already granted for the particular locality are adequate for the reasonable needs of the community.
+. The total number of spirits, beer, and wine nightclub licenses are subject to the requirements of RCW 66.24.420(4). However, the board shall refuse a spirits, beer, and wine nightclub license to any applicant if the board determines that the spirits, beer, and wine nightclub licenses already granted for the particular locality are adequate for the reasonable needs of the community.
 
 . The board may adopt rules to implement this section.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5367-S.SL.pdf?cite=2009%20c%20271%20§%201[2009 c 271 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5272-S.SL.pdf?cite=2021%20c%206%20§%2015[2021 c 6 § 15]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5367-S.SL.pdf?cite=2009%20c%20271%20§%201[2009 c 271 § 1]; ]
 
 == 66.24.610 - VIP airport lounge operator.
 There shall be a license to allow a VIP airport lounge operator to sell or otherwise provide spirits, wine, and beer solely for consumption on the premises of a VIP airport lounge. The license described in this section allows the VIP airport lounge operator to purchase spirits from the board, and to purchase beer and wine at retail outlets, or from the manufacturer or a distributor. No licensee may serve liquor from a bar where patrons may sit to be served, but may only serve liquor from a service bar, as approved by the board. The annual fee for this license shall be two thousand dollars.
@@ -1484,7 +1707,7 @@ There shall be a license to allow a VIP airport lounge operator to sell or other
 .. For purposes of negotiating volume discounts, a group of individual retailers authorized to sell spirits for consumption off the licensed premises may accept delivery of spirits at their individual licensed premises or at any one of the individual licensee's premises, or at a warehouse facility registered with the board.
 
 . [Empty]
-.. Except as otherwise provided in RCW 66.24.632, or in (b) of this subsection, each spirits retail licensee must pay to the board, for deposit into the liquor revolving fund, a license issuance fee equivalent to seventeen percent of all spirits sales revenues under the license, exclusive of taxes collected by the licensee and of sales of items on which a license fee payable under this section has otherwise been incurred. The board must establish rules setting forth the timing of such payments and reporting of sales dollar volume by the licensee, with payments required quarterly in arrears. The first payment is due October 1, 2012.
+.. Except as otherwise provided in RCW 66.24.632, section 2, chapter 48, Laws of 2021, or in (b) of this subsection, each spirits retail licensee must pay to the board, for deposit into the liquor revolving fund, a license issuance fee equivalent to seventeen percent of all spirits sales revenues under the license, exclusive of taxes collected by the licensee and of sales of items on which a license fee payable under this section has otherwise been incurred. The board must establish rules setting forth the timing of such payments and reporting of sales dollar volume by the licensee, with payments required quarterly in arrears. The first payment is due October 1, 2012.
 
 .. This subsection (4) does not apply to craft distilleries for sales of spirits of the craft distillery's own production.
 
@@ -1520,7 +1743,7 @@ There shall be a license to allow a VIP airport lounge operator to sell or other
 
 ... An applicant that would qualify for a spirits retail license under this section and that qualifies for a combination spirits, beer, and wine license pursuant to RCW 66.24.035 may apply for a license pursuant to RCW 66.24.035 instead of applying for a spirits retail license under this section.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5549-S2.SL.pdf?cite=2020%20c%20238%20§%209[2020 c 238 § 9]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1351-S2.SL.pdf?cite=2017%20c%2096%20§%204[2017 c 96 § 4]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1807-S2.SL.pdf?cite=2015%20c%20186%20§%201[2015 c 186 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6635.SL.pdf?cite=2012%202nd%20sp.s.%20c%206%20§%20401[2012 2nd sp.s. c 6 § 401]; 2012 c 2 § 103 (Initiative Measure No. 1183, approved November 8, 2011); ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1480-S2.SL.pdf?cite=2021%20c%2048%20§%205[2021 c 48 § 5]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5549-S2.SL.pdf?cite=2020%20c%20238%20§%209[2020 c 238 § 9]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1351-S2.SL.pdf?cite=2017%20c%2096%20§%204[2017 c 96 § 4]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1807-S2.SL.pdf?cite=2015%20c%20186%20§%201[2015 c 186 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6635.SL.pdf?cite=2012%202nd%20sp.s.%20c%206%20§%20401[2012 2nd sp.s. c 6 § 401]; 2012 c 2 § 103 (Initiative Measure No. 1183, approved November 8, 2011); ]
 
 == 66.24.632 - Spirits retail licensee—Combination spirits, beer, and wine licensee—License issuance fee exemption.
 . Beginning June 30, 2013, the license issuance fee under RCW 66.24.630(4) does not apply to a spirits retail licensee or combination spirits, beer, and wine licensee that was a contract liquor store manager with respect to sales of spirits in original containers from the location of its spirits retail licensed premises to retailers licensed to sell spirits for consumption on the premises for resale at their licensed premises.
@@ -1537,7 +1760,22 @@ Any distiller licensed under this title may act as a retailer and/or distributor
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5834.SL.pdf?cite=2017%20c%20229%20§%202[2017 c 229 § 2]; 2012 c 2 § 206 (Initiative Measure No. 1183, approved November 8, 2011); ]
 
 == 66.24.650 - Theater license—Beer, strong beer, and wine.
-. There is a theater license to sell beer, including strong beer, or wine, or both, at retail, for consumption on theater premises. The annual fee is four hundred dollars for a beer and wine theater license.
+. [Empty]
+.. There is a theater license to sell beer, including strong beer, or wine, or both, at retail, for consumption on theater premises. The annual fee is four hundred dollars for a beer and wine theater license.
+
+.. The annual fee in (a) of this subsection is waived during the 12-month period beginning with the second calendar month after February 28, 2021, for:
+
+... Licenses that expire during the 12-month waiver period under this subsection (1)(b); and
+
+... Licenses issued to persons previously licensed under this section at any time during the 12-month period prior to the 12-month waiver period under this subsection (1)(b).
+
+.. The waiver in (b) of this subsection does not apply to any licensee that:
+
+... Had their license suspended by the board for health and safety violations of state COVID-19 guidelines; or
+
+... Received an order of immediate restraint or citation from the department of labor and industries for allowing an employee to perform work where business activity was prohibited in violation of an emergency proclamation of the governor under RCW 43.06.220.
+
+.. Upon request of the department of revenue, the board and the department of labor and industries must both provide a list of persons that they have determined to be ineligible for a fee waiver under (b) of this subsection for the reasons described in (c) of this subsection. Unless otherwise agreed, any list must be received by the department of revenue no later than 15 calendar days after the request is made.
 
 . If the theater premises is to be frequented by minors, an alcohol control plan must be submitted to the board at the time of application. The alcohol control plan must be approved by the board, and be prominently posted on the premises, prior to minors being allowed.
 
@@ -1556,10 +1794,25 @@ Any distiller licensed under this title may act as a retailer and/or distributor
 
 . The maximum penalties prescribed by the board in WAC 314-29-020 relating to fines and suspensions are double for violations involving minors or the failure to follow the alcohol control plan with respect to theaters licensed under this section.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1001-S.SL.pdf?cite=2013%20c%20219%20§%201[2013 c 219 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5272-S.SL.pdf?cite=2021%20c%206%20§%2016[2021 c 6 § 16]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1001-S.SL.pdf?cite=2013%20c%20219%20§%201[2013 c 219 § 1]; ]
 
 == 66.24.655 - Theater license—Spirits, beer, strong beer, and wine.
-. There is a theater license to sell spirits, beer, including strong beer, or wine, or all, at retail, for consumption on theater premises. A spirits, beer, and wine theater license may be issued only to theaters that have no more than one hundred twenty seats per screen and that are maintained in a substantial manner as a place for preparing, cooking, and serving complete meals and providing tabletop accommodations for in-theater dining. Requirements for complete meals are the same as those adopted by the board in rules pursuant to chapter 34.05 RCW for a spirits, beer, and wine restaurant license authorized by RCW 66.24.400. The annual fee for a spirits, beer, and wine theater license is two thousand dollars.
+. [Empty]
+.. There is a theater license to sell spirits, beer, including strong beer, or wine, or all, at retail, for consumption on theater premises. A spirits, beer, and wine theater license may be issued only to theaters that have no more than one hundred twenty seats per screen and that are maintained in a substantial manner as a place for preparing, cooking, and serving complete meals and providing tabletop accommodations for in-theater dining. Requirements for complete meals are the same as those adopted by the board in rules pursuant to chapter 34.05 RCW for a spirits, beer, and wine restaurant license authorized by RCW 66.24.400. The annual fee for a spirits, beer, and wine theater license is two thousand dollars.
+
+.. The annual fee in (a) of this subsection is waived during the 12-month period beginning with the second calendar month after February 28, 2021, for:
+
+... Licenses that expire during the 12-month waiver period under this subsection (1)(b); and
+
+... Licenses issued to persons previously licensed under this section at any time during the 12-month period prior to the 12-month waiver period under this subsection (1)(b).
+
+.. The waiver in (b) of this subsection does not apply to any licensee that:
+
+... Had their license suspended by the board for health and safety violations of state COVID-19 guidelines; or
+
+... Received an order of immediate restraint or citation from the department of labor and industries for allowing an employee to perform work where business activity was prohibited in violation of an emergency proclamation of the governor under RCW 43.06.220.
+
+.. Upon request of the department of revenue, the board and the department of labor and industries must both provide a list of persons that they have determined to be ineligible for a fee waiver under (b) of this subsection for the reasons described in (c) of this subsection. Unless otherwise agreed, any list must be received by the department of revenue no later than 15 calendar days after the request is made.
 
 . If the theater premises is to be frequented by minors, an alcohol control plan must be submitted to the board at the time of application. The alcohol control plan must be approved by the board and be prominently posted on the premises, prior to minors being allowed.
 
@@ -1578,7 +1831,7 @@ Any distiller licensed under this title may act as a retailer and/or distributor
 
 . The maximum penalties prescribed by the board in WAC 314-29-020 relating to fines and suspensions are double for violations involving minors or the failure to follow the alcohol control plan with respect to theaters licensed under this section.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5607.SL.pdf?cite=2013%20c%20237%20§%201[2013 c 237 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5272-S.SL.pdf?cite=2021%20c%206%20§%2017[2021 c 6 § 17]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5607.SL.pdf?cite=2013%20c%20237%20§%201[2013 c 237 § 1]; ]
 
 == 66.24.660 - Liquor sales at self-checkout registers.
 Retailers may sell liquor as defined in RCW 66.04.010(25) through self-checkout registers if that register is programmed to halt that transaction during the purchase of liquor until an employee of the retailer intervenes and verifies the age of the purchaser by reviewing established forms of acceptable identification. Once age is successfully verified, the employee can release the transaction for payment. If the purchaser cannot provide acceptable forms of identification to verify age, the employee must refuse the purchase and void the transaction.
@@ -1599,12 +1852,12 @@ Retailers may sell liquor as defined in RCW 66.04.010(25) through self-checkout 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1124.SL.pdf?cite=2015%20c%20180%20§%201[2015 c 180 § 1]; ]
 
-== 66.24.680 - Senior center license.
+== 66.24.680 - Senior center license. (Effective until January 1, 2022.)
 . There shall be a license to be designated as a senior center license. This shall be a license issued to a nonprofit organization whose primary service is providing recreational and social activities for seniors on the licensed premises. This license shall permit the licensee to sell spirits by the individual glass, including mixed drinks and cocktails mixed on the premises only, beer and wine, at retail for consumption on the premises.
 
 . To qualify for this license, the applicant entity must:
 
-.. Be a nonprofit organization under chapter 24.03 RCW;
+.. Be a nonprofit organization under *chapter 24.03 RCW;
 
 .. Be open at times and durations established by the board; and
 
@@ -1614,14 +1867,44 @@ Retailers may sell liquor as defined in RCW 66.04.010(25) through self-checkout 
 
 . The board shall adopt rules to implement this section.
 
-. The annual fee for this license shall be seven hundred twenty dollars.
+. [Empty]
+.. The annual fee for this license shall be seven hundred twenty dollars.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5310.SL.pdf?cite=2014%20c%2078%20§%201[2014 c 78 § 1]; ]
+.. The annual fee in (a) of this subsection is waived during the 12-month period beginning with the second calendar month after February 28, 2021, for:
+
+... Licenses that expire during the 12-month waiver period under this subsection (5)(b); and
+
+... Licenses issued to persons previously licensed under this section at any time during the 12-month period prior to the 12-month waiver period under this subsection (5)(b).
+
+.. The waiver in (b) of this subsection does not apply to any licensee that:
+
+... Had their license suspended by the board for health and safety violations of state COVID-19 guidelines; or
+
+... Received an order of immediate restraint or citation from the department of labor and industries for allowing an employee to perform work where business activity was prohibited in violation of an emergency proclamation of the governor under RCW 43.06.220.
+
+.. Upon request of the department of revenue, the board and the department of labor and industries must both provide a list of persons that they have determined to be ineligible for a fee waiver under (b) of this subsection for the reasons described in (c) of this subsection. Unless otherwise agreed, any list must be received by the department of revenue no later than 15 calendar days after the request is made.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5272-S.SL.pdf?cite=2021%20c%206%20§%2018[2021 c 6 § 18]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5310.SL.pdf?cite=2014%20c%2078%20§%201[2014 c 78 § 1]; ]
 
 == 66.24.690 - Caterer's license.
 . There shall be a caterer's license to sell spirits, beer, and wine, by the individual serving, at retail, for consumption on the premises at an event location that is either owned, leased, or operated either by the caterer or the sponsor of the event for which catering services are being provided. If the event is open to the public, it must be sponsored by a society or organization as defined in RCW 66.24.375. If attendance at the event is limited to members or invited guests of the sponsoring individual, society, or organization, the requirement that the sponsor must be a society or organization as defined in RCW 66.24.375 is waived. The licensee must serve food as required by rules of the board.
 
-. The annual fee is two hundred dollars for the beer license, two hundred dollars for the wine license, or four hundred dollars for a combination beer and wine license. The annual fee for a combined beer, wine, and spirits license is one thousand dollars.
+. [Empty]
+.. The annual fee is two hundred dollars for the beer license, two hundred dollars for the wine license, or four hundred dollars for a combination beer and wine license. The annual fee for a combined beer, wine, and spirits license is one thousand dollars.
+
+.. The annual fees in (a) of this subsection are waived during the 12-month period beginning with the second calendar month after February 28, 2021, for:
+
+... Licenses that expire during the 12-month waiver period under this subsection (2)(b); and
+
+... Licenses issued to persons previously licensed under this section at any time during the 12-month period prior to the 12-month waiver period under this subsection (2)(b).
+
+.. The waivers in (b) of this subsection do not apply to any licensee that:
+
+... Had their license suspended by the board for health and safety violations of state COVID-19 guidelines; or
+
+... Received an order of immediate restraint or citation from the department of labor and industries for allowing an employee to perform work where business activity was prohibited in violation of an emergency proclamation of the governor under RCW 43.06.220.
+
+.. Upon request of the department of revenue, the board and the department of labor and industries must both provide a list of persons that they have determined to be ineligible for a fee waiver under (b) of this subsection for the reasons described in (c) of this subsection. Unless otherwise agreed, any list must be received by the department of revenue no later than 15 calendar days after the request is made.
 
 . The holder of this license shall notify the board or its designee of the date, time, place, and location of any catered event at which liquor will be served, sold, or consumed. The board shall create rules detailing notification requirements. Upon request, the licensee shall provide to the board all necessary or requested information concerning the individual, society, or organization that will be holding the catered function at which the caterer's liquor license will be utilized.
 
@@ -1631,7 +1914,7 @@ Retailers may sell liquor as defined in RCW 66.04.010(25) through self-checkout 
 
 . The holder of this license is responsible for all sales, service, and consumption of alcohol at the location of the catered event.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2680-S.SL.pdf?cite=2014%20c%2029%20§%201[2014 c 29 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5272-S.SL.pdf?cite=2021%20c%206%20§%2019[2021 c 6 § 19]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2680-S.SL.pdf?cite=2014%20c%2029%20§%201[2014 c 29 § 1]; ]
 
 == 66.24.695 - Bonded and nonbonded spirits warehouse license.
 . There shall be a bonded and nonbonded spirits warehouse license for spirits warehouses that authorizes the storage and handling of bonded bulk spirits and, to the extent allowed under federal law and under rules adopted by the board, bottled spirits and the storage of tax-paid spirits not in bond. Under this license a licensee may maintain a warehouse for the storage of federally authorized spirits off the premises of a distillery for distillers qualified under RCW 66.24.140, 66.24.145, or 66.24.150, or entities otherwise licensed and permitted in this state, or bulk spirits transferred in bond from out-of-state distilleries and, to the extent allowed by federal law and under rules adopted by the board, bottled spirits, if the storage of the federally authorized spirits transferred into the state is for storage only and not for processing or bottling in the bonded spirits warehouse. A licensee must designate clearly in its license application to the board the sections of the warehouse that are bonded and nonbonded with a physical separation between such spaces. Only spirits in bond may be stored in the bonded sections of the warehouse and only spirits that have been removed from bond tax-paid may be stored in nonbonded areas of the warehouse. The proprietor of the warehouse must maintain a plan for tracking spirits being stored in the warehouse to ensure compliance with relevant bonding and tax obligations.

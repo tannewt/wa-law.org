@@ -14,46 +14,6 @@ The annual salaries of the following named state elected officials shall be pres
 == 43.03.011 - Salaries of state elected officials of the executive branch.
 Pursuant to Article XXVIII, section 1 of the state Constitution and RCW 43.03.010 and 43.03.310, the annual salaries of the state elected officials of the executive branch shall be as follows:
 
-. Effective September 1, 2018:
-
-.. Governor. . . . $177,107
-
-.. Lieutenant governor. . . . $103,937
-
-.. Secretary of state. . . . $124,108
-
-.. Treasurer. . . . $144,679
-
-.. Auditor. . . . $124,108
-
-.. Attorney general. . . . $162,599
-
-.. Superintendent of public instruction. . . . $136,910
-
-.. Commissioner of public lands. . . . $138,225
-
-.. Insurance commissioner. . . . $126,555
-
-. Effective July 1, 2019:
-
-.. Governor. . . . $182,179
-
-.. Lieutenant governor. . . . $111,180
-
-.. Secretary of state. . . . $130,560
-
-.. Treasurer. . . . $149,103
-
-.. Auditor. . . . $128,120
-
-.. Attorney general. . . . $167,381
-
-.. Superintendent of public instruction. . . . $145,860
-
-.. Commissioner of public lands. . . . $145,860
-
-.. Insurance commissioner. . . . $132,600
-
 . Effective July 1, 2020:
 
 .. Governor. . . . $187,353
@@ -74,36 +34,52 @@ Pursuant to Article XXVIII, section 1 of the state Constitution and RCW 43.03.01
 
 .. Insurance commissioner. . . . $137,700
 
+. Effective July 1, 2021:
+
+.. Governor. . . . $187,353
+
+.. Lieutenant governor. . . . $117,300
+
+.. Secretary of state. . . . $134,640
+
+.. Treasurer. . . . $153,615
+
+.. Auditor. . . . $132,212
+
+.. Attorney general. . . . $172,259
+
+.. Superintendent of public instruction. . . . $153,000
+
+.. Commissioner of public lands. . . . $153,000
+
+.. Insurance commissioner. . . . $137,700
+
+. Effective July 1, 2022:
+
+.. Governor. . . . $190,632
+
+.. Lieutenant governor. . . . $119,353
+
+.. Secretary of state. . . . $136,996
+
+.. Treasurer. . . . $156,303
+
+.. Auditor. . . . $134,526
+
+.. Attorney general. . . . $175,274
+
+.. Superintendent of public instruction. . . . $155,678
+
+.. Commissioner of public lands. . . . $155,678
+
+.. Insurance commissioner. . . . $140,110
+
 . The lieutenant governor shall receive the fixed amount of his or her salary plus 1/260th of the difference between his or her salary and that of the governor for each day that the lieutenant governor is called upon to perform the duties of the governor by reason of the absence from the state, removal, resignation, death, or disability of the governor.
 
-[ ?cite=2019%20c%205%20§%201[2019 c 5 § 1]; ?cite=2017%201st%20sp.s.%20c%201%20§%201[2017 1st sp.s. c 1 § 1]; ?cite=2015%201st%20sp.s.%20c%201%20§%201[2015 1st sp.s. c 1 § 1]; ?cite=2013%20c%20340%20§%201[2013 c 340 § 1]; ?cite=2011%20c%20380%20§%201[2011 c 380 § 1]; ?cite=2009%20c%20581%20§%201[2009 c 581 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5038.SL.pdf?cite=2009%20c%20549%20§%205004[2009 c 549 § 5004]; ?cite=2007%20c%20524%20§%201[2007 c 524 § 1]; ?cite=2005%20c%20519%20§%201[2005 c 519 § 1]; ?cite=2003%201st%20sp.s.%20c%201%20§%201[2003 1st sp.s. c 1 § 1]; ?cite=2001%201st%20sp.s.%20c%203%20§%201[2001 1st sp.s. c 3 § 1]; ?cite=1999%20sp.s.%20c%203%20§%201[1999 sp.s. c 3 § 1]; ?cite=1997%20c%20458%20§%201[1997 c 458 § 1]; ?cite=1995%202nd%20sp.s.%20c%201%20§%201[1995 2nd sp.s. c 1 § 1]; ?cite=1993%20sp.s.%20c%2026%20§%201[1993 sp.s. c 26 § 1]; ?cite=1991%20sp.s.%20c%201%20§%201[1991 sp.s. c 1 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex2c4.pdf?cite=1989%202nd%20ex.s.%20c%204%20§%201[1989 2nd ex.s. c 4 § 1]; 1987 1st ex.s. c 1 § 1, part; ]
+[ ?cite=2021%20c%201%20§%201[2021 c 1 § 1]; ?cite=2019%20c%205%20§%201[2019 c 5 § 1]; ?cite=2017%201st%20sp.s.%20c%201%20§%201[2017 1st sp.s. c 1 § 1]; ?cite=2015%201st%20sp.s.%20c%201%20§%201[2015 1st sp.s. c 1 § 1]; ?cite=2013%20c%20340%20§%201[2013 c 340 § 1]; ?cite=2011%20c%20380%20§%201[2011 c 380 § 1]; ?cite=2009%20c%20581%20§%201[2009 c 581 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5038.SL.pdf?cite=2009%20c%20549%20§%205004[2009 c 549 § 5004]; ?cite=2007%20c%20524%20§%201[2007 c 524 § 1]; ?cite=2005%20c%20519%20§%201[2005 c 519 § 1]; ?cite=2003%201st%20sp.s.%20c%201%20§%201[2003 1st sp.s. c 1 § 1]; ?cite=2001%201st%20sp.s.%20c%203%20§%201[2001 1st sp.s. c 3 § 1]; ?cite=1999%20sp.s.%20c%203%20§%201[1999 sp.s. c 3 § 1]; ?cite=1997%20c%20458%20§%201[1997 c 458 § 1]; ?cite=1995%202nd%20sp.s.%20c%201%20§%201[1995 2nd sp.s. c 1 § 1]; ?cite=1993%20sp.s.%20c%2026%20§%201[1993 sp.s. c 26 § 1]; ?cite=1991%20sp.s.%20c%201%20§%201[1991 sp.s. c 1 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex2c4.pdf?cite=1989%202nd%20ex.s.%20c%204%20§%201[1989 2nd ex.s. c 4 § 1]; 1987 1st ex.s. c 1 § 1, part; ]
 
 == 43.03.012 - Salaries of judges.
 Pursuant to Article XXVIII, section 1 of the state Constitution and RCW 2.04.092, 2.06.062, 2.08.092, 3.58.010, and 43.03.310, the annual salaries of the judges of the state shall be as follows:
-
-. Effective September 1, 2018:
-
-.. Chief justice of the supreme court. . . . $193,162
-
-.. Justices of the supreme court. . . . $190,415
-
-.. Judges of the court of appeals. . . . $181,263
-
-.. Judges of the superior court. . . . $172,571
-
-.. Full-time judges of the district court. . . . $164,313
-
-. Effective July 1, 2019:
-
-.. Chief justice of the supreme court. . . . $213,773
-
-.. Justices of the supreme court. . . . $210,732
-
-.. Judges of the court of appeals. . . . $200,603
-
-.. Judges of the superior court. . . . $190,985
-
-.. Full-time judges of the district court. . . . $181,846
 
 . Effective July 1, 2020:
 
@@ -115,38 +91,44 @@ Pursuant to Article XXVIII, section 1 of the state Constitution and RCW 2.04.092
 
 .. Judges of the superior court. . . . $199,675
 
-.. Full-time judges of the district court. . . . $190,120
+.. Full-time judges of the district
+
+court. . . . $190,120
+
+. Effective July 1, 2021:
+
+.. Chief justice of the supreme court. . . . $223,499
+
+.. Justices of the supreme court. . . . $220,320
+
+.. Judges of the court of appeals. . . . $209,730
+
+.. Judges of the superior court. . . . $199,675
+
+.. Full-time judges of the district
+
+court. . . . $190,120
+
+. Effective July 1, 2022:
+
+.. Chief justice of the supreme court. . . . $227,410
+
+.. Justices of the supreme court. . . . $224,176
+
+.. Judges of the court of appeals. . . . $213,400
+
+.. Judges of the superior court. . . . $203,169
+
+.. Full-time judges of the district
+
+court. . . . $193,447
 
 . The salary for a part-time district court judge shall be the proportion of full-time work for which the position is authorized, multiplied by the salary for a full-time district court judge.
 
-[ ?cite=2019%20c%205%20§%202[2019 c 5 § 2]; ?cite=2017%201st%20sp.s.%20c%201%20§%202[2017 1st sp.s. c 1 § 2]; ?cite=2015%201st%20sp.s.%20c%201%20§%202[2015 1st sp.s. c 1 § 2]; ?cite=2013%20c%20340%20§%202[2013 c 340 § 2]; ?cite=2011%20c%20380%20§%202[2011 c 380 § 2]; ?cite=2009%20c%20581%20§%202[2009 c 581 § 2]; ?cite=2007%20c%20524%20§%202[2007 c 524 § 2]; ?cite=2005%20c%20519%20§%202[2005 c 519 § 2]; ?cite=2003%201st%20sp.s.%20c%201%20§%202[2003 1st sp.s. c 1 § 2]; ?cite=2001%201st%20sp.s.%20c%203%20§%202[2001 1st sp.s. c 3 § 2]; ?cite=1999%20sp.s.%20c%203%20§%202[1999 sp.s. c 3 § 2]; ?cite=1997%20c%20458%20§%202[1997 c 458 § 2]; ?cite=1995%202nd%20sp.s.%20c%201%20§%202[1995 2nd sp.s. c 1 § 2]; ?cite=1993%20sp.s.%20c%2026%20§%202[1993 sp.s. c 26 § 2]; ?cite=1991%20sp.s.%20c%201%20§%202[1991 sp.s. c 1 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex2c4.pdf?cite=1989%202nd%20ex.s.%20c%204%20§%202[1989 2nd ex.s. c 4 § 2]; 1987 1st ex.s. c 1 § 1, part; ]
+[ ?cite=2021%20c%201%20§%202[2021 c 1 § 2]; ?cite=2019%20c%205%20§%202[2019 c 5 § 2]; ?cite=2017%201st%20sp.s.%20c%201%20§%202[2017 1st sp.s. c 1 § 2]; ?cite=2015%201st%20sp.s.%20c%201%20§%202[2015 1st sp.s. c 1 § 2]; ?cite=2013%20c%20340%20§%202[2013 c 340 § 2]; ?cite=2011%20c%20380%20§%202[2011 c 380 § 2]; ?cite=2009%20c%20581%20§%202[2009 c 581 § 2]; ?cite=2007%20c%20524%20§%202[2007 c 524 § 2]; ?cite=2005%20c%20519%20§%202[2005 c 519 § 2]; ?cite=2003%201st%20sp.s.%20c%201%20§%202[2003 1st sp.s. c 1 § 2]; ?cite=2001%201st%20sp.s.%20c%203%20§%202[2001 1st sp.s. c 3 § 2]; ?cite=1999%20sp.s.%20c%203%20§%202[1999 sp.s. c 3 § 2]; ?cite=1997%20c%20458%20§%202[1997 c 458 § 2]; ?cite=1995%202nd%20sp.s.%20c%201%20§%202[1995 2nd sp.s. c 1 § 2]; ?cite=1993%20sp.s.%20c%2026%20§%202[1993 sp.s. c 26 § 2]; ?cite=1991%20sp.s.%20c%201%20§%202[1991 sp.s. c 1 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex2c4.pdf?cite=1989%202nd%20ex.s.%20c%204%20§%202[1989 2nd ex.s. c 4 § 2]; 1987 1st ex.s. c 1 § 1, part; ]
 
 == 43.03.013 - Salaries of members of the legislature.
 Pursuant to Article XXVIII, section 1 of the state Constitution and RCW 43.03.010 and 43.03.310, the annual salary of members of the legislature shall be:
-
-. Effective September 1, 2018:
-
-.. Legislators. . . . $48,731
-
-.. Speaker of the house. . . . $57,990
-
-.. Senate majority leader. . . . $57,990
-
-.. House minority leader. . . . $53,360
-
-.. Senate minority leader. . . . $53,360
-
-. Effective July 1, 2019:
-
-.. Legislators. . . . $52,766
-
-.. Speaker of the house. . . . $60,766
-
-.. Senate majority leader. . . . $60,766
-
-.. House minority leader. . . . $56,766
-
-.. Senate minority leader. . . . $56,766
 
 . Effective July 1, 2020:
 
@@ -160,7 +142,31 @@ Pursuant to Article XXVIII, section 1 of the state Constitution and RCW 43.03.01
 
 .. Senate minority leader. . . . $60,881
 
-[ ?cite=2019%20c%205%20§%203[2019 c 5 § 3]; ?cite=2017%201st%20sp.s.%20c%201%20§%203[2017 1st sp.s. c 1 § 3]; ?cite=2015%201st%20sp.s.%20c%201%20§%203[2015 1st sp.s. c 1 § 3]; ?cite=2013%20c%20340%20§%203[2013 c 340 § 3]; ?cite=2011%20c%20380%20§%203[2011 c 380 § 3]; ?cite=2009%20c%20581%20§%203[2009 c 581 § 3]; ?cite=2007%20c%20524%20§%203[2007 c 524 § 3]; ?cite=2005%20c%20519%20§%203[2005 c 519 § 3]; ?cite=2003%201st%20sp.s.%20c%201%20§%203[2003 1st sp.s. c 1 § 3]; ?cite=2001%201st%20sp.s.%20c%203%20§%203[2001 1st sp.s. c 3 § 3]; ?cite=1999%20sp.s.%20c%203%20§%203[1999 sp.s. c 3 § 3]; ?cite=1997%20c%20458%20§%203[1997 c 458 § 3]; ?cite=1995%202nd%20sp.s.%20c%201%20§%203[1995 2nd sp.s. c 1 § 3]; ?cite=1993%20sp.s.%20c%2026%20§%203[1993 sp.s. c 26 § 3]; ?cite=1991%20sp.s.%20c%201%20§%203[1991 sp.s. c 1 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex2c4.pdf?cite=1989%202nd%20ex.s.%20c%204%20§%203[1989 2nd ex.s. c 4 § 3]; 1987 1st ex.s. c 1 § 1, part; ]
+. Effective July 1, 2021:
+
+.. Legislators. . . . $56,881
+
+.. Speaker of the house. . . . $64,881
+
+.. Senate majority leader. . . . $64,881
+
+.. House minority leader. . . . $60,881
+
+.. Senate minority leader. . . . $60,881
+
+. Effective July 1, 2022:
+
+.. Legislators. . . . $57,876
+
+.. Speaker of the house. . . . $66,016
+
+.. Senate majority leader. . . . $66,016
+
+.. House minority leader. . . . $61,946
+
+.. Senate minority leader. . . . $61,946
+
+[ ?cite=2021%20c%201%20§%203[2021 c 1 § 3]; ?cite=2019%20c%205%20§%203[2019 c 5 § 3]; ?cite=2017%201st%20sp.s.%20c%201%20§%203[2017 1st sp.s. c 1 § 3]; ?cite=2015%201st%20sp.s.%20c%201%20§%203[2015 1st sp.s. c 1 § 3]; ?cite=2013%20c%20340%20§%203[2013 c 340 § 3]; ?cite=2011%20c%20380%20§%203[2011 c 380 § 3]; ?cite=2009%20c%20581%20§%203[2009 c 581 § 3]; ?cite=2007%20c%20524%20§%203[2007 c 524 § 3]; ?cite=2005%20c%20519%20§%203[2005 c 519 § 3]; ?cite=2003%201st%20sp.s.%20c%201%20§%203[2003 1st sp.s. c 1 § 3]; ?cite=2001%201st%20sp.s.%20c%203%20§%203[2001 1st sp.s. c 3 § 3]; ?cite=1999%20sp.s.%20c%203%20§%203[1999 sp.s. c 3 § 3]; ?cite=1997%20c%20458%20§%203[1997 c 458 § 3]; ?cite=1995%202nd%20sp.s.%20c%201%20§%203[1995 2nd sp.s. c 1 § 3]; ?cite=1993%20sp.s.%20c%2026%20§%203[1993 sp.s. c 26 § 3]; ?cite=1991%20sp.s.%20c%201%20§%203[1991 sp.s. c 1 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex2c4.pdf?cite=1989%202nd%20ex.s.%20c%204%20§%203[1989 2nd ex.s. c 4 § 3]; 1987 1st ex.s. c 1 § 1, part; ]
 
 == 43.03.015 - Emoluments of office for appointees to office of state legislator.
 Any person appointed to fill a vacancy that may occur in either the senate or house of representatives of the state legislature, prior to his or her qualification at the next succeeding regular or special session of the legislature shall be entitled to the same emoluments of office as the duly elected member whom he or she succeeded.

@@ -41,7 +41,7 @@ Any harassment offense committed as set forth in RCW 9A.46.020 or 9A.46.110 may 
 
 [ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2702-S.SL.pdf?cite=1992%20c%20186%20§%203[1992 c 186 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c288.pdf?cite=1985%20c%20288%20§%203[1985 c 288 § 3]; ]
 
-== 9A.46.040 - Court-ordered requirements upon person charged with crime—Violation.
+== 9A.46.040 - Court-ordered requirements upon person charged with crime—Violation. (Effective until July 1, 2022.)
 . Because of the likelihood of repeated harassment directed at those who have been victims of harassment in the past, when any defendant charged with a crime involving harassment is released from custody before trial on bail or personal recognizance, the court authorizing the release may issue an order pursuant to this chapter and require that the defendant:
 
 .. Stay away from the home, school, business, or place of employment of the victim or victims of the alleged offense or other location, as shall be specifically named by the court in the order;
@@ -59,7 +59,44 @@ A defendant who is charged by citation, complaint, or information with an offens
 
 [ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2319-S2.SL.pdf?cite=1994%20sp.s.%20c%207%20§%20447[1994 sp.s. c 7 § 447]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c288.pdf?cite=1985%20c%20288%20§%205[1985 c 288 § 5]; ]
 
-== 9A.46.060 - Crimes included in harassment.
+== 9A.46.055 - Court-initiated stalking no-contact orders. (Effective July 1, 2022.)
+. [Empty]
+.. When any person charged with or arrested for stalking as defined in RCW 9A.46.110 or any other stalking-related offense under RCW 9A.46.060 is released from custody before arraignment or trial on bail or personal recognizance, the court authorizing the release may prohibit that person from having any contact with the victim. The jurisdiction authorizing the release shall determine whether that person should be prohibited from having any contact with the victim. If there is no outstanding restraining or protective order prohibiting that person from having contact with the victim, and the victim does not qualify for a domestic violence protection order under chapter 7.105 RCW, the court authorizing release may issue, by telephone, a stalking no-contact order prohibiting the person charged or arrested from having contact with the victim or from knowingly coming within, or knowingly remaining within, a specified distance of a location.
+
+.. In issuing the order, the court shall consider the provisions of RCW 9.41.800.
+
+.. The stalking no-contact order shall also be issued in writing as soon as possible.
+
+. [Empty]
+.. At the time of arraignment or whenever a motion is brought to modify the conditions of the defendant's release, the court shall determine whether a stalking no-contact order shall be issued or extended. If a stalking no-contact order is issued or extended, the court may also include in the conditions of release a requirement that the defendant submit to electronic monitoring, including real-time global positioning system monitoring with victim notification. If electronic monitoring is ordered, the court shall specify who shall provide the monitoring services, and the terms under which the monitoring shall be performed. Upon conviction, the court may require as a condition of the sentence that the defendant reimburse the providing agency for the costs of the electronic monitoring, including costs relating to real-time global positioning system monitoring with victim notification.
+
+.. A stalking no-contact order issued by the court in conjunction with criminal charges shall terminate if the defendant is acquitted or the charges are dismissed, unless the victim files an independent action for a stalking protection order. If the victim files an independent action for a civil stalking protection order, the order may be continued by the court until a full hearing is conducted pursuant to chapter 7.105 RCW.
+
+. [Empty]
+.. The written order releasing the person charged or arrested shall contain the court's directives and shall bear the legend: "Violation of this order is a criminal offense under chapter 7.105 RCW and will subject a violator to arrest. You can be arrested even if any person protected by the order invites or allows you to violate the order's prohibitions. You have the sole responsibility to avoid or refrain from violating the order's provisions. Only the court can change the order."
+
+.. A certified copy of the order shall be provided to the victim at no charge.
+
+. If a stalking no-contact order has been issued prior to charging, that order shall expire at arraignment or within seventy-two hours if charges are not filed.
+
+. Whenever an order prohibiting contact is issued pursuant to subsection (2) of this section, the clerk of the court shall forward a copy of the order on or before the next judicial day to the appropriate law enforcement agency specified in the order. Upon receipt of the copy of the order, the law enforcement agency shall enter the order for one year unless a different expiration date is specified on the order into any computer-based criminal intelligence information system available in this state used by law enforcement agencies to list outstanding warrants. Entry into the computer-based criminal intelligence information system constitutes notice to all law enforcement agencies of the existence of the order. The order is fully enforceable in any jurisdiction in the state.
+
+. [Empty]
+.. When a defendant is found guilty of stalking as defined in RCW 9A.46.110 or any other stalking-related offense under RCW 9A.46.060 and a condition of the sentence restricts the defendant's ability to have contact with the victim, and the victim does not qualify for a domestic violence protection order under chapter 7.105 RCW, the condition shall be recorded as a stalking no-contact order.
+
+.. The written order entered as a condition of sentencing shall contain the court's directives and shall bear the legend: "Violation of this order is a criminal offense under chapter 7.105 RCW and will subject a violator to arrest. You can be arrested even if any person protected by the order invites or allows you to violate the order's prohibitions. You have the sole responsibility to avoid or refrain from violating the order's provisions. Only the court can change the order."
+
+.. A final stalking no-contact order entered in conjunction with a criminal prosecution shall remain in effect for a period of five years from the date of entry.
+
+.. A certified copy of the order shall be provided to the victim at no charge.
+
+. A knowing violation of a court order issued under subsection (1), (2), or (6) of this section is punishable under RCW 7.105.450.
+
+. Whenever a stalking no-contact order is issued, modified, or terminated under subsection (1), (2), or (6) of this section, the clerk of the court shall forward a copy of the order on or before the next judicial day to the appropriate law enforcement agency specified in the order. Upon receipt of the copy of the order, the law enforcement agency shall enter the order for one year unless a different expiration date is specified on the order into any computer-based criminal intelligence information system available in this state used by law enforcement agencies to list outstanding warrants. Entry into the computer-based criminal intelligence information system constitutes notice to all law enforcement agencies of the existence of the order. The order is fully enforceable in any jurisdiction in the state. Upon receipt of notice that an order has been terminated under subsection (2) of this section, the law enforcement agency shall remove the order from the computer-based criminal intelligence information system.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1320-S2.SL.pdf?cite=2021%20c%20215%20§%20165[2021 c 215 § 165]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf?cite=2013%20c%2084%20§%2016[2013 c 84 § 16]; ]
+
+== 9A.46.060 - Crimes included in harassment. (Effective until July 1, 2022.)
 As used in this chapter, "harassment" may include but is not limited to any of the following crimes:
 
 . Harassment (RCW 9A.46.020);
@@ -150,7 +187,7 @@ The victim shall be informed by local law enforcement agencies or the prosecutin
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2363-S.SL.pdf?cite=2012%20c%20223%20§%202[2012 c 223 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5579-S.SL.pdf?cite=2011%20c%20307%20§%205[2011 c 307 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c288.pdf?cite=1985%20c%20288%20§%208[1985 c 288 § 8]; ]
 
-== 9A.46.085 - Stalking no-contact orders—Appearance before magistrate required.
+== 9A.46.085 - Stalking no-contact orders—Appearance before magistrate required. (Effective until July 1, 2022.)
 . A defendant arrested for stalking as defined by RCW 9A.46.110 shall be required to appear in person before a magistrate within one judicial day after the arrest.
 
 . At the time of appearance provided in subsection (1) of this section the court shall determine the necessity of imposing a stalking no-contact order under chapter 7.92 RCW.
@@ -171,7 +208,7 @@ As used in RCW 9.61.230, 9.61.260, 9A.46.020, or 9A.46.110, a person has been "c
 
 [ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2771-S.SL.pdf?cite=2004%20c%2094%20§%205[2004 c 94 § 5]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2702-S.SL.pdf?cite=1992%20c%20186%20§%205[1992 c 186 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c288.pdf?cite=1985%20c%20288%20§%2010[1985 c 288 § 10]; ]
 
-== 9A.46.110 - Stalking.
+== 9A.46.110 - Stalking. (Effective until July 1, 2022.)
 . A person commits the crime of stalking if, without lawful authority and under circumstances not amounting to a felony attempt of another crime:
 
 .. He or she intentionally and repeatedly harasses or repeatedly follows another person; and

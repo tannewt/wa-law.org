@@ -62,7 +62,7 @@
 
 .. The address of the aquatic farmer;
 
-.. Contact information such as telephone, fax, web site, and email address, if available;
+.. Contact information such as telephone, fax, website, and email address, if available;
 
 .. The number and location of acres under cultivation, including a map displaying the location of the cultivated acres;
 

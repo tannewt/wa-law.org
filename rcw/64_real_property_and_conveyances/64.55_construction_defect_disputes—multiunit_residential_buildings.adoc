@@ -97,7 +97,7 @@ All multiunit residential buildings shall have the building enclosure inspected 
 == 64.55.040 - Inspectors—Qualifications.
 . A qualified building enclosure inspector:
 
-.. Must be a person with substantial and verifiable training and experience in building enclosure design and construction;
+.. Must be the architect or engineer of record or another person with substantial and verifiable training and experience in building enclosure design and construction;
 
 .. Shall be free from improper interference or influence relating to the inspections; and
 
@@ -105,7 +105,7 @@ All multiunit residential buildings shall have the building enclosure inspected 
 
 . Nothing in this section alters requirements for licensure of any architect, engineer, or other professional, or alters the jurisdiction, authority, or scope of practice of architects, engineers, other professionals, or general contractors.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1848.SL.pdf?cite=2005%20c%20456%20§%205[2005 c 456 § 5]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5024-S.SL.pdf?cite=2021%20c%20260%20§%201[2021 c 260 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1848.SL.pdf?cite=2005%20c%20456%20§%205[2005 c 456 § 5]; ]
 
 == 64.55.050 - Scope of inspection—Definition.
 . Any inspection required by this chapter shall include, at a minimum, the following:

@@ -163,6 +163,33 @@ Grades 9-12. . . .5.74
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2242.SL.pdf?cite=2017%203rd%20sp.s.%20c%2013%20§%20904[2017 3rd sp.s. c 13 § 904]; ]
 
+== 28A.400.009 - Secondary traumatic stress—Policy and procedure.
+. The Washington state school directors' association shall develop or revise, and periodically update, a model policy and procedure to prevent and address secondary traumatic stress in the workforce.
+
+. The model policy and procedure must include the following elements:
+
+.. A commitment to support mental health in the workplace;
+
+.. Promotion of a positive workplace climate with a focus on diversity and inclusion;
+
+.. Establishment of a district-wide workforce mental health committee with the following functions:
+
+... Share secondary traumatic stress, stress management, and other mental health resources and supports available through the office of the superintendent of public instruction, the educational service districts, and the school employees' benefits board created in RCW 41.05.740;
+
+... Share links to a secondary traumatic stress self-assessment tool and any associated resources; and
+
+... Report to the school district board of directors at least once per year with a summary of committee activities;
+
+.. Regular assessment of district-level and school building-level implementation of the policy and procedures that includes input from the workforce; and
+
+.. Provision of appropriate resources and training to schools and staff for continuous improvement.
+
+. The model policy and procedure developed under this section must be posted publicly on the Washington state school directors' association's website by August 1, 2021. Updates to the model policy and procedure must be posted publicly within a reasonable time of development.
+
+. By the beginning of the 2021-22 school year, each school district must adopt, or amend if necessary, policies and procedures that, at a minimum, incorporate all the elements described in subsection (2) of this section. School districts must periodically review their policies and procedures for consistency with updated versions of the model policy and procedure.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1363-S.SL.pdf?cite=2021%20c%20129%20§%203[2021 c 129 § 3]; ]
+
 == 28A.400.010 - Employment of superintendent—Superintendent's qualifications, general powers, term, contract renewal.
 In all districts the board of directors shall elect a superintendent who shall have such qualification as the local school board alone shall determine. The superintendent shall have supervision over the several departments of the schools thereof and carry out such other powers and duties as prescribed by law. Notwithstanding the provisions of *RCW 28A.400.300(1), the board may contract with such superintendent for a term not to exceed three years when deemed in the best interest of the district. The right to renew a contract of employment with any school superintendent shall rest solely with the discretion of the school board employing such school superintendent. Regarding such renewal of contracts of school superintendents the provisions of RCW 28A.405.210, 28A.405.240, and 28A.645.010 shall be inapplicable.
 
@@ -647,6 +674,34 @@ The school district board of directors shall include in any contract for service
 Any notice of discharge given to a classified or certificated employee, if that employee has a right to appeal the discharge, shall contain notice of that right, notice that a description of the appeal process is available, and how the description of the appeal process may be obtained.
 
 [ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5449.SL.pdf?cite=1991%20c%20102%20§%201[1991 c 102 § 1]; ]
+
+== 28A.400.345 - School safety and security staff—Required training.
+. Prior to assigning safety and security staff to work on school property when students are expected to be present, school districts and their contractors must either:
+
+.. Confirm that the safety and security staff have training series documentation provided under RCW 28A.310.515; or
+
+.. Require the safety and security staff to complete the training series described in subsection (2) of this section.
+
+. [Empty]
+.. The training series, two components for school resource officers and three components for other safety and security staff, must meet the requirements in this subsection.
+
+.. All safety and security staff must complete classroom training on the subjects listed in RCW 28A.310.515(2), within the first six months of working on school property when students are expected to be present.
+
+.. All safety and security staff must complete two days of on-the-job training with experienced safety and security staff, at the school of the experienced staff, within the first year of working on school property when students are expected to be present.
+
+.. Safety and security staff who are not school resource officers must complete at least six check-in trainings with experienced staff within the first year of working on school property when students are expected to be present.
+
+. School safety and security staff who complete the training series described in subsection (2) of this section, and staff with significant prior training and experience, may request training series documentation from an educational service district under RCW 28A.310.515.
+
+. Nothing in this section effects the categorization of safety and security staff as classified staff. Safety and security staff are not considered certificated instructional staff as that term and its meaning are used in this title.
+
+. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+.. "Safety and security staff" or "staff" has the same meaning as in RCW 28A.320.124.
+
+.. "School resource officer" has the same meaning as in RCW 28A.320.124.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1214-S.SL.pdf?cite=2021%20c%2038%20§%203[2021 c 38 § 3]; ]
 
 == 28A.400.350 - Medical, dental, vision, liability, life, accident, disability, and salary insurance authorized—Expiration of authority for basic and optional benefits—Health savings accounts—Premiums—Noncompliance.
 . The board of directors of any of the state's school districts or educational service districts may make available medical, dental, vision, liability, life, accident, disability, and salary protection or insurance, direct agreements as defined in chapter 48.150 RCW, or any one of, or a combination of the types of employee benefits enumerated in this subsection, or any other type of insurance or protection, for the members of the boards of directors, the students, and employees of the school district or educational service district, and their dependents. Except as provided in subsection (6) of this section, such coverage may be provided by contracts or agreements with private carriers, with the state health care authority, or through self-insurance or self-funding pursuant to chapter 48.62 RCW, or in any other manner authorized by law. Any direct agreement must comply with RCW 48.150.050.

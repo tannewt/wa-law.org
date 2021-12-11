@@ -37,9 +37,9 @@ The definitions in this section apply throughout this chapter unless the context
 
 . If the department does not determine by June 30, 2024, that safer and effective alternatives to copper-based antifouling paints are feasible, reasonable, and readily available, then the department must conduct a second review of relevant studies and information on alternatives to copper-based antifouling paints and submit a report to the legislature summarizing its findings no later than June 30, 2029.
 
-. Nothing in this section restricts the department from reviewing and restricting antifouling paints under *chapter 70.365 RCW.
+. Nothing in this section restricts the department from reviewing and restricting antifouling paints under chapter 70A.350 RCW.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6210-S.SL.pdf?cite=2020%20c%2067%20§%201[2020 c 67 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2634-S.SL.pdf?cite=2018%20c%2094%20§%203[2018 c 94 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5436-S.SL.pdf?cite=2011%20c%20248%20§%203[2011 c 248 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2076[2021 c 65 § 76]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6210-S.SL.pdf?cite=2020%20c%2067%20§%201[2020 c 67 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2634-S.SL.pdf?cite=2018%20c%2094%20§%203[2018 c 94 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5436-S.SL.pdf?cite=2011%20c%20248%20§%203[2011 c 248 § 3]; ]
 
 == 70A.445.030 - Recreational water vessel hull cleaning—Best practices.
 The department, in consultation and cooperation with other state natural resources agencies, must increase educational efforts regarding recreational water vessel hull cleaning to reduce the spread of invasive species. This effort must include a review of best practices that consider the type of antifouling paint used and recommendations regarding appropriate hull cleaning that includes in-water methods.

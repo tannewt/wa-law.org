@@ -704,8 +704,8 @@ All benefits and payments made, and all administrative costs accrued, pursuant t
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c122.pdf?cite=1973%201st%20ex.s.%20c%20122%20§%2015[1973 1st ex.s. c 122 § 15]; ]
 
-== 7.68.155 - Information on funding availability, payments, administrative costs—Posting on departmental web site.
-. Within current funding levels, the department's crime victims' compensation program shall post on its public web site a report that shows the following items:
+== 7.68.155 - Information on funding availability, payments, administrative costs—Posting on departmental website.
+. Within current funding levels, the department's crime victims' compensation program shall post on its public website a report that shows the following items:
 
 .. The total amount of current funding available in the crime victims' compensation fund;
 
@@ -713,7 +713,7 @@ All benefits and payments made, and all administrative costs accrued, pursuant t
 
 .. The total amount paid in overhead and administrative costs in the previous thirty days.
 
-. The information listed in subsection (1) of this section must be posted and maintained on the department's web site by July 1, 2010, and updated every thirty days thereafter.
+. The information listed in subsection (1) of this section must be posted and maintained on the department's website by July 1, 2010, and updated every thirty days thereafter.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6504-S2.SL.pdf?cite=2010%20c%20122%20§%207[2010 c 122 § 7]; ]
 
@@ -911,7 +911,7 @@ Members of the work group shall serve without compensation.
 == 7.68.370 - Trafficking of persons—Clearinghouse on human trafficking—Functions.
 . The office of crime victims advocacy is designated as the single point of contact in state government regarding the trafficking of persons.
 
-. The Washington state clearinghouse on human trafficking is created as an information portal to share and coordinate statewide efforts to combat the trafficking of persons. The clearinghouse will include an internet web site operated by the office of crime victims advocacy, and will serve the following functions:
+. The Washington state clearinghouse on human trafficking is created as an information portal to share and coordinate statewide efforts to combat the trafficking of persons. The clearinghouse will include an internet website operated by the office of crime victims advocacy, and will serve the following functions:
 
 .. Coordinating information regarding all statewide task forces relating to the trafficking of persons including, but not limited to, sex trafficking, commercial sexual exploitation of children, and labor trafficking;
 
@@ -1061,7 +1061,7 @@ Members of the work group shall serve without compensation.
 
 .. Researching any barriers that exist to full implementation of chapter 289, Laws of 2010 (Engrossed Substitute Senate Bill No. 6476) throughout the state;
 
-.. Convening a meeting and providing recommendations required under RCW 7.68.802; and
+.. Convening a meeting and providing recommendations required under *RCW 7.68.802; and
 
 .. Compiling data on the number of juveniles believed to be victims of sexual exploitation taken into custody under RCW 43.185C.260.
 
@@ -1073,38 +1073,22 @@ Members of the work group shall serve without compensation.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1775-S3.SL.pdf?cite=2020%20c%20331%20§%207[2020 c 331 § 7]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6287.SL.pdf?cite=2018%20c%2058%20§%2065[2018 c 58 § 65]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1832.SL.pdf?cite=2017%20c%2018%20§%201[2017 c 18 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5884-S.SL.pdf?cite=2015%20c%20273%20§%204[2015 c 273 § 4]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5308-S.SL.pdf?cite=2013%20c%20253%20§%201[2013 c 253 § 1]; ]
 
-== 7.68.802 - Commercially sexually exploited children statewide coordinating committee—Child advocacy centers—Report. (Expires June 30, 2021.)
-. By September 1, 2020, the statewide coordinating committee shall convene a meeting related to the role that child advocacy centers have in responding to and supporting commercially sexually exploited children.
+== 7.68.803 - Nonfatal strangulation—Payment of costs for medical examination. (Expires June 30, 2023.)
+. No costs incurred by a hospital or other emergency medical facility for the examination of the victim of domestic violence assault involving nonfatal strangulation, when such examination is performed for the purposes of gathering evidence for possible prosecution, shall be billed or charged directly or indirectly to the victim of such assault. Such costs shall be paid by the state pursuant to this chapter.
 
-.. The meeting required under this subsection must include representatives from child advocacy centers.
+. The department must notify the office of financial management and the fiscal committees of the legislature if it projects that the cost of services provided under this section exceeds the amount of funding provided by the legislature solely for the purposes of this section.
 
-.. By October 1, 2020, the department must provide a report to the statewide coordinating committee that includes:
+. No later than October 1, 2022, the department shall report to the legislature the following information for fiscal year 2022:
 
-... An inventory of the number and location of child advocacy centers in the state; and
+.. The number, type, and amount of claims received by victims of suspected nonfatal strangulation, with a subtotal of claims that also involved sexual assault;
 
-... A description of the services provided by each of the child advocacy centers in the state.
+.. The number, type, and amount of claims paid for victims of suspected nonfatal strangulation, with a subtotal of claims that also involved sexual assault; and
 
-. By December 1, 2020, and in compliance with RCW 43.01.036, the statewide coordinating committee must provide a report to the relevant committees of the legislature that includes:
+.. The number of police reports filed by victims of suspected nonfatal strangulation who received services under this section.
 
-.. An inventory of the number and location of child advocacy centers in the state;
+. This section expires June 30, 2023.
 
-.. A description of the services provided by each of the child advocacy centers in the state;
-
-.. Recommendations for expanded use of child advocacy centers in providing additional services for commercially sexually exploited children; and
-
-.. Recommendations for ensuring that child advocacy centers connect commercially sexually exploited children with available services in the community.
-
-. For purposes of this section:
-
-.. "Child advocacy center" has the same meaning as the definition provided under RCW 26.44.020.
-
-.. "Department" means the department of commerce.
-
-.. "Statewide coordinating committee" means the commercially sexually exploited children statewide coordinating committee established under RCW 7.68.801.
-
-. This section expires June 30, 2021.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1775-S3.SL.pdf?cite=2020%20c%20331%20§%2011[2020 c 331 § 11]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5183-S2.SL.pdf?cite=2021%20c%20269%20§%203[2021 c 269 § 3]; ]
 
 == 7.68.900 - Effective date—1973 1st ex.s. c 122.
 This chapter shall take effect on July 1, 1974.

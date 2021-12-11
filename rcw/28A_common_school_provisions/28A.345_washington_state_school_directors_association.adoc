@@ -49,7 +49,7 @@ The school directors' association may establish a graduated schedule of dues for
 
 .. Identify the extent and nature of the achievement gap and strategies necessary to close it;
 
-.. Increase mutual awareness and understanding of the importance of accurate, high-quality curriculum materials about the history, culture, and government of local tribes; and
+.. Increase mutual awareness and understanding of the importance of accurate, high quality curriculum materials about the history, culture, and government of local tribes; and
 
 .. Encourage school boards to identify and adopt curriculum that includes tribal experiences and perspectives, so that Indian students are more engaged and learn more successfully, and so that all students learn about the history, culture, government, and experiences of their Indian peers and neighbors.
 
@@ -109,7 +109,7 @@ The Washington state school directors' association shall adopt a model policy an
 
 .. Review research on, and examples of effective implementation of, restorative practices, collaborative and proactive practices, trauma-sensitive and trauma-informed practices, classroom management, and other topics related to the goal of the policy as identified in subsection (1) of this section.
 
-. The model policy and procedure developed under this section must be posted publicly on the Washington state school directors' association's web site by March 1, 2021. Updates to the model policy and procedure must be posted publicly within a reasonable time of development.
+. The model policy and procedure developed under this section must be posted publicly on the Washington state school directors' association's website by March 1, 2021. Updates to the model policy and procedure must be posted publicly within a reasonable time of development.
 
 . [Empty]
 .. By the beginning of the 2021-22 school year, each school district must adopt or amend if necessary policies and procedures that, at a minimum, incorporate all the elements described in subsection (3) of this section. School districts must periodically review their policies and procedures for consistency with updated versions of the model policy.
@@ -125,10 +125,34 @@ The Washington state school directors' association shall adopt a model policy an
 
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1541-S4.SL.pdf?cite=2016%20c%2072%20§%20103[2016 c 72 § 103]; ]
 
-== 28A.345.100 - Cultural competency training for school board directors and superintendents.
-The Washington state school directors' association, in consultation with the office of the superintendent of public instruction, the professional educator standards board, the steering committee established in RCW 28A.405.100, and the educational opportunity gap oversight and accountability committee, must develop a plan for the creation and delivery of cultural competency training for school board directors and superintendents. The training program must also include the foundational elements of cultural competence, focusing on multicultural education and principles of English language acquisition, including information regarding best practices to implement the tribal history and culture curriculum. The content of the training must be aligned with the standards for cultural competence developed by the professional educator standards board under RCW 28A.410.270.
+== 28A.345.110 - Model policy and procedure for students with epilepsy or other seizure disorders.
+By December 15, 2021, the Washington state school directors' association, in consultation with the office of the superintendent of public instruction, shall adopt a model policy and procedure that school districts may use to implement the requirements of RCW 28A.210.355. The model policy and procedure must be periodically reviewed by the Washington state school directors' association and may be revised as necessary.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1541-S4.SL.pdf?cite=2016%20c%2072%20§%20201[2016 c 72 § 201]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1085-S.SL.pdf?cite=2021%20c%2029%20§%204[2021 c 29 § 4]; ]
+
+== 28A.345.115 - School director governance—Cultural competency, diversity, equity, and inclusion—Report.
+. The Washington state school directors' association shall:
+
+.. Develop cultural competency, diversity, equity, and inclusion standards for school director governance;
+
+.. Collaborate with the Washington professional educator standards board to compare and align the standards for school director governance developed under (a) of this subsection with the standards of practice developed under RCW 28A.410.260. The review must include the educational opportunity gap oversight and accountability committee and may include the office of equity established under RCW 43.06D.020; and
+
+.. Maintain the final cultural competency, diversity, equity, and inclusion standards for school director governance on its website at no cost to school districts.
+
+. By November 1, 2030, and every 10 years thereafter, the Washington state school directors' association shall review the definitions in RCW 28A.415.443 and the cultural competency, diversity, equity, and inclusion standards for school director governance developed under subsection (1) of this section and report, in compliance with RCW 43.01.036, to the appropriate committees of the legislature with any recommendations for revising the definitions in RCW 28A.415.443.
+
+. For purposes of this section, "cultural competency," "diversity," "equity," and "inclusion" have the same meaning as in RCW 28A.415.443.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5044-S.SL.pdf?cite=2021%20c%20197%20§%203[2021 c 197 § 3]; ]
+
+== 28A.345.120 - School director governance—Cultural competency, diversity, equity, and inclusion—Training programs.
+. The Washington state school directors' association shall identify or develop and periodically update governance training programs that align with the cultural competency, diversity, equity, and inclusion standards for school director governance developed under RCW 28A.345.115. The governance training programs must also include building government-to-government relationships with federally recognized tribes, multicultural education, and principles of English language acquisition. Governance training programs may be developed in collaboration with other entities.
+
+. Beginning with the 2022 calendar year, the Washington state school directors' association shall provide a governance training program identified or developed under subsection (1) of this section at the frequency necessary for school directors to meet the requirement in RCW 28A.343.100.
+
+. For purposes of this section, "cultural competency," "diversity," "equity," and "inclusion" have the same meaning as in RCW 28A.415.443.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5044-S.SL.pdf?cite=2021%20c%20197%20§%205[2021 c 197 § 5]; ]
 
 == 28A.345.902 - Effective date—1983 c 187.
 This act is necessary for the immediate preservation of the public peace, health, and safety, the support of the state government and its existing public institutions, and shall take effect June 30, 1983.

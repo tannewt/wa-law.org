@@ -146,10 +146,19 @@ Physicians or licensed advanced registered nurse practitioners examining or atte
 
 [ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1691-S.SL.pdf?cite=2004%20c%2065%20§%2012[2004 c 65 § 12]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1352.SL.pdf?cite=1991%20c%2089%20§%203[1991 c 89 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c12.pdf?cite=1989%20c%2012%20§%2017[1989 c 12 § 17]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c224.pdf?cite=1975%201st%20ex.s.%20c%20224%20§%2015[1975 1st ex.s. c 224 § 15]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c289.pdf?cite=1971%20ex.s.%20c%20289%20§%2053[1971 ex.s. c 289 § 53]; ]
 
-== 51.36.070 - Medical examination—Reports—Costs. (Effective until January 1, 2021.)
-Whenever the director or the self-insurer deems it necessary in order to resolve any medical issue, a worker shall submit to examination by a physician or physicians selected by the director, with the rendition of a report to the person ordering the examination. The department or self-insurer shall provide the physician performing an examination with all relevant medical records from the worker's claim file. The director, in his or her discretion, may charge the cost of such examination or examinations to the self-insurer or to the medical aid fund as the case may be. The cost of said examination shall include payment to the worker of reasonable expenses connected therewith.
+== 51.36.070 - Medical examination—Reports—Costs.
+. [Empty]
+.. Whenever the department or the self-insurer deems it necessary in order to (i) make a decision regarding claim allowance or reopening, (ii) resolve a new medical issue, an appeal, or case progress, or (iii) evaluate the worker's permanent disability or work restriction, a worker shall submit to examination by a physician or physicians selected by the department, with the rendition of a report to the person ordering the examination, the attending physician, and the injured worker.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5205-S.SL.pdf?cite=2001%20c%20152%20§%202[2001 c 152 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c350.pdf?cite=1977%20ex.s.%20c%20350%20§%2060[1977 ex.s. c 350 § 60]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c289.pdf?cite=1971%20ex.s.%20c%20289%20§%2054[1971 ex.s. c 289 § 54]; ]
+.. The examination must be at a place reasonably convenient to the injured worker, or alternatively utilize telemedicine if the department determines telemedicine is appropriate for the examination. For purposes of this subsection, "reasonably convenient" means at a place where residents in the injured worker's community would normally travel to seek medical care for the same specialty as the examiner. The department must address in rule how to accommodate the injured worker if no approved medical examiner in the specialty needed is available in that community.
+
+. The department or self-insurer shall provide the physician performing an examination with all relevant medical records from the worker's claim file. The director, in his or her discretion, may charge the cost of such examination or examinations to the self-insurer or to the medical aid fund as the case may be. The cost of said examination shall include payment to the worker of reasonable expenses connected therewith.
+
+. For purposes of this section, "examination" means a physical or mental examination by a medical care provider licensed to practice medicine, osteopathy, podiatry, chiropractic, dentistry, or psychiatry at the request of the department or self-insured employer or by order of the board of industrial insurance appeals.
+
+. This section applies prospectively to all claims regardless of the date of injury.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6440-S.SL.pdf?cite=2020%20c%20213%20§%203[2020 c 213 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5205-S.SL.pdf?cite=2001%20c%20152%20§%202[2001 c 152 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c350.pdf?cite=1977%20ex.s.%20c%20350%20§%2060[1977 ex.s. c 350 § 60]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c289.pdf?cite=1971%20ex.s.%20c%20289%20§%2054[1971 ex.s. c 289 § 54]; ]
 
 == 51.36.072 - Medical examinations—Telemedicine—Rules.
 . The department may adopt rules to implement *section 3, chapter 213, Laws of 2020.

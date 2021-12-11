@@ -369,7 +369,7 @@ The commission shall conduct the initial classification and any subsequent revie
 
 .. The price of the package or bundle is equal to or greater than the cost for tariffed services plus the cost of any competitive services as determined in accordance with RCW 80.36.330(3); and
 
-.. The availability and price of the stand-alone noncompetitive services are displayed in the company's tariff and on its web site consistent with commission rules.
+.. The availability and price of the stand-alone noncompetitive services are displayed in the company's tariff and on its website consistent with commission rules.
 
 . For purposes of this section, "minimal regulation" shall have the same meaning as under RCW 80.36.330.
 

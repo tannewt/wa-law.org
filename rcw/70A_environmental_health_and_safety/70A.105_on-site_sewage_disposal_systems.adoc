@@ -2,7 +2,7 @@
 :toc:
 
 == 70A.105.010 - Legislative declaration.
-The legislature finds that over one million, two hundred thousand persons in the state are not served by sanitary sewers and that they must rely on septic tank systems. The failure of large numbers of such systems has resulted in significant health hazards, loss of property values, and water quality degradation. The legislature further finds that failure of such systems could be reduced by utilization of nonwater-carried sewage disposal systems, or other alternative methods of effluent disposal, as a correctional measure. Waste water volume diminution and disposal of most of the high bacterial waste through composting or other alternative methods of effluent disposal would result in restorative improvement or correction of existing substandard systems.
+The legislature finds that over one million, two hundred thousand persons in the state are not served by sanitary sewers and that they must rely on septic tank systems. The failure of large numbers of such systems has resulted in significant health hazards, loss of property values, and water quality degradation. The legislature further finds that failure of such systems could be reduced by utilization of nonwater-carried sewage disposal systems, or other alternative methods of effluent disposal, as a correctional measure. Wastewater volume diminution and disposal of most of the high bacterial waste through composting or other alternative methods of effluent disposal would result in restorative improvement or correction of existing substandard systems.
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c133.pdf?cite=1977%20ex.s.%20c%20133%20§%201[1977 ex.s. c 133 § 1]; ]
 

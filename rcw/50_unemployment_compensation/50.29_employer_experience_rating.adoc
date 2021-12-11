@@ -18,7 +18,7 @@ As used in this chapter:
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1338.SL.pdf?cite=2009%20c%2083%20§%201[2009 c 83 § 1]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2901.SL.pdf?cite=2002%20c%20149%20§%2011[2002 c 149 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c213.pdf?cite=1987%20c%20213%20§%202[1987 c 213 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c111.pdf?cite=1986%20c%20111%20§%201[1986 c 111 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c205.pdf?cite=1984%20c%20205%20§%203[1984 c 205 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c23.pdf?cite=1983%201st%20ex.s.%20c%2023%20§%2017[1983 1st ex.s. c 23 § 17]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c158.pdf?cite=1973%201st%20ex.s.%20c%20158%20§%2011[1973 1st ex.s. c 158 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971c3.pdf?cite=1971%20c%203%20§%2016[1971 c 3 § 16]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1970ex1c2.pdf?cite=1970%20ex.s.%20c%202%20§%2010[1970 ex.s. c 2 § 10]; ]
 
-== 50.29.021 - Experience rating accounts—Benefits not charged—Claims with an effective date on or after January 4, 2004.
+== 50.29.021 - Experience rating accounts—Benefits not charged.
 . [Empty]
 .. An experience rating account shall be established and maintained for each employer, except employers as described in RCW 50.44.010, 50.44.030, and 50.50.030 who have properly elected to make payments in lieu of contributions, taxable local government employers as described in RCW 50.44.035, and those employers who are required to make payments in lieu of contributions, based on existing records of the employment security department.
 
@@ -26,9 +26,11 @@ As used in this chapter:
 
 .. When the eligible individual's separating employer is a covered contribution paying base year employer, benefits paid to the eligible individual shall be charged to the experience rating account of only the individual's separating employer if the individual qualifies for benefits under:
 
-... RCW 50.20.050 (1)(b)(i) or (2)(b)(i), as applicable, and became unemployed after having worked and earned wages in the bona fide work; or
+... RCW 50.20.050 (1)(b)(i) or (2)(b)(i), as applicable, and became unemployed after having worked and earned wages in the bona fide work;
 
-... RCW 50.20.050 (1)(b) (v) through (x) or (2)(b) (v) through (x).
+... RCW 50.20.050 (1)(b) (v) through (x) or (2)(b) (v) through (x); or
+
+... During a public health emergency, the claimant worked at a health care facility as defined in RCW 9A.50.010, was directly involved in the delivery of health services, and was terminated from work due to entering quarantine because of exposure to or contracting the disease that is the subject of the declaration of the public health emergency.
 
 . The legislature finds that certain benefit payments, in whole or in part, should not be charged to the experience rating accounts of employers except those employers described in RCW 50.44.010, 50.44.030, and 50.50.030 who have properly elected to make payments in lieu of contributions, taxable local government employers described in RCW 50.44.035, and those employers who are required to make payments in lieu of contributions, as follows:
 
@@ -44,17 +46,20 @@ As used in this chapter:
 
 .. In the case of individuals who requalify for benefits under RCW 50.20.050 or 50.20.060, benefits based on wage credits earned prior to the disqualifying separation shall not be charged to the experience rating account of the contribution paying employer from whom that separation took place.
 
-.. Benefits paid to an individual who qualifies for benefits under RCW 50.20.050 (1)(b) (iv) or (xi) or (2)(b) (iv) or (xi), as applicable, shall not be charged to the experience rating account of any contribution paying employer.
+.. Benefits paid to an individual who qualifies for benefits under RCW 50.20.050(1)(b) (iv) or (xi), (2)(b) (iv), (xi), or (xii), or (3), as applicable, shall not be charged to the experience rating account of any contribution paying employer.
 
-.. With respect to claims with an effective date on or after the first Sunday following April 22, 2005, benefits paid that exceed the benefits that would have been paid if the weekly benefit amount for the claim had been determined as one percent of the total wages paid in the individual's base year shall not be charged to the experience rating account of any contribution paying employer. This subsection (2)(f) does not apply to the calculation of contribution rates under RCW 50.29.025 for rate year 2010 and thereafter.
-
-.. The forty-five dollar increase paid as part of an individual's weekly benefit amount as provided in RCW 50.20.1201 and the twenty-five dollar increase paid as part of an individual's weekly benefit amount as provided in RCW 50.20.1202 shall not be charged to the experience rating account of any contribution paying employer.
-
-.. With respect to claims where the minimum amount payable weekly is increased to one hundred fifty-five dollars pursuant to RCW 50.20.1201(3), benefits paid that exceed the benefits that would have been paid if the minimum amount payable weekly had been calculated pursuant to RCW 50.20.120 shall not be charged to the experience rating account of any contribution paying employer.
+.. Benefits paid that exceed the benefits that would have been paid if the weekly benefit amount for the claim had been determined as one percent of the total wages paid in the individual's base year shall not be charged to the experience rating account of any contribution paying employer. This subsection (2)(f) does not apply to the calculation of contribution rates under RCW 50.29.025 for rate year 2010 and thereafter.
 
 .. Upon approval of an individual's training benefits plan submitted in accordance with RCW 50.22.155(2), an individual is considered enrolled in training, and regular benefits beginning with the week of approval shall not be charged to the experience rating account of any contribution paying employer.
 
 .. Training benefits paid to an individual under RCW 50.22.155 shall not be charged to the experience rating account of any contribution paying employer.
+
+.. [Empty]
+... Benefits paid during the one week waiting period when the one week waiting period is fully paid or fully reimbursed by the federal government shall not be charged to the experience rating account of any contribution paying employer.
+
+... In the event the one week waiting period is partially paid or partially reimbursed by the federal government, the department may, by rule, elect to not charge, in full or in part, benefits paid during the one week waiting period to the experience rating account of any contribution paying employer.
+
+.. Benefits paid for all weeks starting with the week ending March 28, 2020, and ending with the week ending May 30, 2020, shall not be charged to the experience rating account of any contribution paying employer.
 
 . [Empty]
 .. A contribution paying base year employer, except employers as provided in subsection (5) of this section, not otherwise eligible for relief of charges for benefits under this section, may receive such relief if the benefit charges result from payment to an individual who:
@@ -63,7 +68,7 @@ As used in this chapter:
 
 ... Was discharged for misconduct or gross misconduct connected with his or her work not a result of inability to meet the minimum job requirements;
 
-... Is unemployed as a result of closure or severe curtailment of operation at the employer's plant, building, worksite, or other facility. This closure must be for reasons directly attributable to a catastrophic occurrence such as fire, flood, or other natural disaster;
+... Is unemployed as a result of closure or severe curtailment of operation at the employer's plant, building, worksite, or other facility. This closure must be for reasons directly attributable to a catastrophic occurrence such as fire, flood, or other natural disaster, or to the presence of any dangerous, contagious, or infectious disease that is the subject of a public health emergency at the employer's plant, building, worksite, or other facility;
 
 ... Continues to be employed on a regularly scheduled permanent part-time basis by a base year employer and who at some time during the base year was concurrently employed and subsequently separated from at least one other base year employer. Benefit charge relief ceases when the employment relationship between the employer requesting relief and the claimant is terminated. This subsection does not apply to shared work employers under chapter 50.60 RCW;
 
@@ -71,7 +76,7 @@ As used in this chapter:
 
 .. Was hired to replace an employee who is a member of the military reserves or National Guard and was called to federal active military service by the president of the United States and is subsequently laid off when that employee is reemployed by their employer upon release from active duty within the time provided for reemployment in RCW 73.16.035;
 
-.. Worked for an employer for twenty weeks or less, and was laid off at the end of temporary employment when that employee temporarily replaced a permanent employee receiving family or medical leave benefits under Title 50A RCW, and the layoff is due to the return of that permanent employee. This subsection (3)(a)(vii) applies to claims with an effective date on or after January 1, 2020; or
+.. Worked for an employer for 20 weeks or less, and was laid off at the end of temporary employment when that employee temporarily replaced a permanent employee receiving family or medical leave benefits under Title 50A RCW, and the layoff is due to the return of that permanent employee. This subsection (3)(a)(vii) applies to claims with an effective date on or after January 1, 2020; or
 
 .. Was discharged because the individual was unable to satisfy a job prerequisite required by law or administrative rule.
 
@@ -92,474 +97,10 @@ As used in this chapter:
 
 ... If an employer's agent is utilized, a pattern is established based on each individual client employer that the employer's agent represents.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2613-S.SL.pdf?cite=2020%20c%2086%20§%203[2020 c 86 § 3]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1399-S.SL.pdf?cite=2019%20c%2013%20§%2065[2019 c 13 § 65]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5975-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%205%20§%2083[2017 3rd sp.s. c 5 § 83]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1903.SL.pdf?cite=2013%20c%20244%20§%201[2013 c 244 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5355.SL.pdf?cite=2013%20c%20189%20§%203[2013 c 189 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1091.SL.pdf?cite=2011%20c%204%20§%2014[2011 c 4 § 14]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2649-S.SL.pdf?cite=2010%20c%2025%20§%201[2010 c 25 § 1]; prior:  2009 c 493 § 1; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5009-S.SL.pdf?cite=2009%20c%2050%20§%201[2009 c 50 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1906-S.SL.pdf?cite=2009%20c%203%20§%2013[2009 c 3 § 13]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6751-S.SL.pdf?cite=2008%20c%20323%20§%202[2008 c 323 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5373-S.SL.pdf?cite=2007%20c%20146%20§%202[2007 c 146 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6885-S.SL.pdf?cite=2006%20c%2013%20§%206[2006 c 13 § 6]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2255.SL.pdf?cite=2005%20c%20133%20§%204[2005 c 133 § 4]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6097.SL.pdf?cite=2003%202nd%20sp.s.%20c%204%20§%2021[2003 2nd sp.s. c 4 § 21]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5190-S.SL.pdf?cite=2021%20c%20251%20§%204[2021 c 251 § 4]; http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5061-S.SL.pdf?cite=2021%20c%202%20§%2016[2021 c 2 § 16]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2613-S.SL.pdf?cite=2020%20c%2086%20§%203[2020 c 86 § 3]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1399-S.SL.pdf?cite=2019%20c%2013%20§%2065[2019 c 13 § 65]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5975-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%205%20§%2083[2017 3rd sp.s. c 5 § 83]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1903.SL.pdf?cite=2013%20c%20244%20§%201[2013 c 244 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5355.SL.pdf?cite=2013%20c%20189%20§%203[2013 c 189 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1091.SL.pdf?cite=2011%20c%204%20§%2014[2011 c 4 § 14]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2649-S.SL.pdf?cite=2010%20c%2025%20§%201[2010 c 25 § 1]; prior:  2009 c 493 § 1; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5009-S.SL.pdf?cite=2009%20c%2050%20§%201[2009 c 50 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1906-S.SL.pdf?cite=2009%20c%203%20§%2013[2009 c 3 § 13]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6751-S.SL.pdf?cite=2008%20c%20323%20§%202[2008 c 323 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5373-S.SL.pdf?cite=2007%20c%20146%20§%202[2007 c 146 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6885-S.SL.pdf?cite=2006%20c%2013%20§%206[2006 c 13 § 6]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2255.SL.pdf?cite=2005%20c%20133%20§%204[2005 c 133 § 4]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6097.SL.pdf?cite=2003%202nd%20sp.s.%20c%204%20§%2021[2003 2nd sp.s. c 4 § 21]; ]
 
-== 50.29.025 - Contribution rates (as amended by 2011 c 3).
-. For contributions assessed for rate years 2005 through 2009, the contribution rate for each employer subject to contributions under RCW 50.24.010 shall be the sum of the array calculation factor rate and the graduated social cost factor rate determined under this subsection, and the solvency surcharge determined under RCW 50.29.041, if any.
-
-.. The array calculation factor rate shall be determined as follows:
-
-... An array shall be prepared, listing all qualified employers in ascending order of their benefit ratios. The array shall show for each qualified employer: (A) Identification number; (B) benefit ratio; and (C) taxable payrolls for the four consecutive calendar quarters immediately preceding the computation date and reported to the employment security department by the cut-off date.
-
-... Each employer in the array shall be assigned to one of forty rate classes according to his or her benefit ratio as follows, and, except as provided in RCW 50.29.026, the array calculation factor rate for each employer in the array shall be the rate specified in the rate class to which the employer has been assigned:
-
-Benefit RatioRateClassRate(percent)At leastLess than 0.00000110.000.0000010.00125020.130.0012500.00250030.250.0025000.00375040.380.0037500.00500050.500.0050000.00625060.630.0062500.00750070.750.0075000.00875080.880.0087500.01000091.000.0100000.011250101.150.0112500.012500111.300.0125000.013750121.450.0137500.015000131.600.0150000.016250141.750.0162500.017500151.900.0175000.018750162.050.0187500.020000172.200.0200000.021250182.350.0212500.022500192.500.0225000.023750202.650.0237500.025000212.800.0250000.026250222.950.0262500.027500233.100.0275000.028750243.250.0287500.030000253.400.0300000.031250263.550.0312500.032500273.700.0325000.033750283.850.0337500.035000294.000.0350000.036250304.150.0362500.037500314.300.0375000.040000324.450.0400000.042500334.600.0425000.045000344.750.0450000.047500354.900.0475000.050000365.050.0500000.052500375.200.0525000.055000385.300.0550000.057500395.350.057500 405.40
-
-
-
-Benefit Ratio
-
-Rate
-
-Class
-
-Rate
-
-..
-
-At least
-
-Less than
-
- 
-
-0.000001
-
-1
-
-0.00
-
-0.000001
-
-0.001250
-
-2
-
-0.13
-
-0.001250
-
-0.002500
-
-3
-
-0.25
-
-0.002500
-
-0.003750
-
-4
-
-0.38
-
-0.003750
-
-0.005000
-
-5
-
-0.50
-
-0.005000
-
-0.006250
-
-6
-
-0.63
-
-0.006250
-
-0.007500
-
-7
-
-0.75
-
-0.007500
-
-0.008750
-
-8
-
-0.88
-
-0.008750
-
-0.010000
-
-9
-
-1.00
-
-0.010000
-
-0.011250
-
-10
-
-1.15
-
-0.011250
-
-0.012500
-
-11
-
-1.30
-
-0.012500
-
-0.013750
-
-12
-
-1.45
-
-0.013750
-
-0.015000
-
-13
-
-1.60
-
-0.015000
-
-0.016250
-
-14
-
-1.75
-
-0.016250
-
-0.017500
-
-15
-
-1.90
-
-0.017500
-
-0.018750
-
-16
-
-2.05
-
-0.018750
-
-0.020000
-
-17
-
-2.20
-
-0.020000
-
-0.021250
-
-18
-
-2.35
-
-0.021250
-
-0.022500
-
-19
-
-2.50
-
-0.022500
-
-0.023750
-
-20
-
-2.65
-
-0.023750
-
-0.025000
-
-21
-
-2.80
-
-0.025000
-
-0.026250
-
-22
-
-2.95
-
-0.026250
-
-0.027500
-
-23
-
-3.10
-
-0.027500
-
-0.028750
-
-24
-
-3.25
-
-0.028750
-
-0.030000
-
-25
-
-3.40
-
-0.030000
-
-0.031250
-
-26
-
-3.55
-
-0.031250
-
-0.032500
-
-27
-
-3.70
-
-0.032500
-
-0.033750
-
-28
-
-3.85
-
-0.033750
-
-0.035000
-
-29
-
-4.00
-
-0.035000
-
-0.036250
-
-30
-
-4.15
-
-0.036250
-
-0.037500
-
-31
-
-4.30
-
-0.037500
-
-0.040000
-
-32
-
-4.45
-
-0.040000
-
-0.042500
-
-33
-
-4.60
-
-0.042500
-
-0.045000
-
-34
-
-4.75
-
-0.045000
-
-0.047500
-
-35
-
-4.90
-
-0.047500
-
-0.050000
-
-36
-
-5.05
-
-0.050000
-
-0.052500
-
-37
-
-5.20
-
-0.052500
-
-0.055000
-
-38
-
-5.30
-
-0.055000
-
-0.057500
-
-39
-
-5.35
-
-0.057500
-
- 
-
-40
-
-5.40
-
-.. The graduated social cost factor rate shall be determined as follows:
-
-...(A) Except as provided in (b)(i)(B) and (C) of this subsection, the commissioner shall calculate the flat social cost factor for a rate year by dividing the total social cost by the total taxable payroll. The division shall be carried to the second decimal place with the remaining fraction disregarded unless it amounts to five hundredths or more, in which case the second decimal place shall be rounded to the next higher digit. The flat social cost factor shall be expressed as a percentage.
-
-(B) If, on the cut-off date, the balance in the unemployment compensation fund is determined by the commissioner to be an amount that will provide more than ten months of unemployment benefits, the commissioner shall calculate the flat social cost factor for the rate year immediately following the cut-off date by reducing the total social cost by the dollar amount that represents the number of months for which the balance in the unemployment compensation fund on the cut-off date will provide benefits above ten months and dividing the result by the total taxable payroll. However, the calculation under this subsection (1)(b)(i)(B) for a rate year may not result in a flat social cost factor that is more than four-tenths lower than the calculation under (b)(i)(A) of this subsection for that rate year.
-
-For the purposes of this subsection, the commissioner shall determine the number of months of unemployment benefits in the unemployment compensation fund using the benefit cost rate for the average of the three highest calendar benefit cost rates in the twenty consecutive completed calendar years immediately preceding the cut-off date or a period of consecutive calendar years immediately preceding the cut-off date that includes three recessions, if longer.
-
-(C) The minimum flat social cost factor calculated under this subsection (1)(b) shall be six-tenths of one percent, except that if the balance in the unemployment compensation fund is determined by the commissioner to be an amount that will provide:
-
-(I) At least twelve months but less than fourteen months of unemployment benefits, the minimum shall be five-tenths of one percent; or
-
-(II) At least fourteen months of unemployment benefits, the minimum shall be five-tenths of one percent, except that, for employers in rate class 1, the minimum shall be forty-five hundredths of one percent.
-
-...(A) Except as provided in (b)(ii)(B) of this subsection, the graduated social cost factor rate for each employer in the array is the flat social cost factor multiplied by the percentage specified as follows for the rate class to which the employer has been assigned in (a)(ii) of this subsection, except that the sum of an employer's array calculation factor rate and the graduated social cost factor rate may not exceed six and five-tenths percent or, for employers whose North American industry classification system code is within "111," "112," "1141," "115," "3114," "3117," "42448," or "49312," may not exceed six percent through rate year 2007 and may not exceed five and seven-tenths percent for rate years 2008 and 2009:
-
-(I) Rate class 1 - 78 percent;
-
-(II) Rate class 2 - 82 percent;
-
-(III) Rate class 3 - 86 percent;
-
-(IV) Rate class 4 - 90 percent;
-
-(V) Rate class 5 - 94 percent;
-
-(VI) Rate class 6 - 98 percent;
-
-(VII) Rate class 7 - 102 percent;
-
-(VIII) Rate class 8 - 106 percent;
-
-(IX) Rate class 9 - 110 percent;
-
-(X) Rate class 10 - 114 percent;
-
-(XI) Rate class 11 - 118 percent; and
-
-(XII) Rate classes 12 through 40 - 120 percent.
-
-(B) For contributions assessed beginning July 1, 2005, through December 31, 2007, for employers whose North American industry classification system code is "111," "112," "1141," "115," "3114," "3117," "42448," or "49312," the graduated social cost factor rate is zero.
-
-... For the purposes of this section:
-
-(A) "Total social cost" means the amount calculated by subtracting the array calculation factor contributions paid by all employers with respect to the four consecutive calendar quarters immediately preceding the computation date and paid to the employment security department by the cut-off date from the total unemployment benefits paid to claimants in the same four consecutive calendar quarters. To calculate the flat social cost factor for rate year 2005, the commissioner shall calculate the total social cost using the array calculation factor contributions that would have been required to be paid by all employers in the calculation period if (a) of this subsection had been in effect for the relevant period. To calculate the flat social cost factor for rate years 2010 and 2011, the forty-five dollar increase paid as part of an individual's weekly benefit amount as provided in RCW 50.20.1201 shall not be considered for purposes of calculating the total unemployment benefits paid to claimants in the four consecutive calendar quarters immediately preceding the computation date.
-
-(B) "Total taxable payroll" means the total amount of wages subject to tax, as determined under RCW 50.24.010, for all employers in the four consecutive calendar quarters immediately preceding the computation date and reported to the employment security department by the cut-off date.
-
-.. For employers who do not meet the definition of "qualified employer" by reason of failure to pay contributions when due:
-
-... The array calculation factor rate shall be two-tenths higher than that in rate class 40, except employers who have an approved agency-deferred payment contract by September 30th of the previous rate year. If any employer with an approved agency-deferred payment contract fails to make any one of the succeeding deferred payments or fails to submit any succeeding tax report and payment in a timely manner, the employer's tax rate shall immediately revert to an array calculation factor rate two-tenths higher than that in rate class 40; and
-
-... The social cost factor rate shall be the social cost factor rate assigned to rate class 40 under (b)(ii) of this subsection.
-
-.. For all other employers not qualified to be in the array:
-
-... For rate years 2005, 2006, and 2007:
-
-(A) The array calculation factor rate shall be a rate equal to the average industry array calculation factor rate as determined by the commissioner, plus fifteen percent of that amount; however, the rate may not be less than one percent or more than the array calculation factor rate in rate class 40; and
-
-(B) The social cost factor rate shall be a rate equal to the average industry social cost factor rate as determined by the commissioner, plus fifteen percent of that amount, but not more than the social cost factor rate assigned to rate class 40 under (b)(ii) of this subsection.
-
-... For contributions assessed for rate years 2008 and 2009:
-
-(A) The array calculation factor rate shall be a rate equal to the average industry array calculation factor rate as determined by the commissioner, multiplied by the history factor, but not less than one percent or more than the array calculation factor rate in rate class 40;
-
-(B) The social cost factor rate shall be a rate equal to the average industry social cost factor rate as determined by the commissioner, multiplied by the history factor, but not more than the social cost factor rate assigned to rate class 40 under (b)(ii) of this subsection; and
-
-(C) The history factor shall be based on the total amounts of benefits charged and contributions paid in the three fiscal years ending prior to the computation date by employers not qualified to be in the array, other than employers in (c) of this subsection, who were first subject to contributions in the calendar year ending three years prior to the computation date. The commissioner shall calculate the history ratio by dividing the total amount of benefits charged by the total amount of contributions paid in this three-year period by these employers. The division shall be carried to the second decimal place with the remaining fraction disregarded unless it amounts to five one-hundredths or more, in which case the second decimal place shall be rounded to the next higher digit. The commissioner shall determine the history factor according to the history ratio as follows:
-
- HistoryRatio HistoryFactor(percent) At leastLess than (I) .9590(II).951.05100(III)1.05 115
-
- 
-
-History
-
-Ratio
-
- 
-
-History
-
-Factor
-
-..
-
- 
-
-At least
-
-Less than
-
- 
-
-(I)
-
- 
-
-.95
-
-90
-
-(II)
-
-.95
-
-1.05
-
-100
-
-(III)
-
-1.05
-
- 
-
-115
-
-. For contributions assessed in rate year 2010 and thereafter, the contribution rate for each employer subject to contributions under RCW 50.24.010 shall be the sum of the array calculation factor rate and the graduated social cost factor rate determined under this subsection, and the solvency surcharge determined under RCW 50.29.041, if any.
+== 50.29.025 - Contribution rates.
+. The contribution rate for each employer subject to contributions under RCW 50.24.010 shall be the sum of the array calculation factor rate and the graduated social cost factor rate determined under this subsection, and the solvency surcharge determined under RCW 50.29.041, if any.
 
 .. The array calculation factor rate shall be determined as follows:
 
@@ -568,8 +109,6 @@ Less than
 ... Each employer in the array shall be assigned to one of forty rate classes according to his or her benefit ratio as follows, and, except as provided in RCW 50.29.026, the array calculation factor rate for each employer in the array shall be the rate specified in the rate class to which the employer has been assigned:
 
 Benefit RatioRateClassRate(percent)At leastLess than 0.00000110.000.0000010.00125020.110.0012500.00250030.220.0025000.00375040.330.0037500.00500050.430.0050000.00625060.540.0062500.00750070.650.0075000.00875080.760.0087500.01000090.880.0100000.011250101.010.0112500.012500111.140.0125000.013750121.280.0137500.015000131.410.0150000.016250141.540.0162500.017500151.670.0175000.018750161.800.0187500.020000171.940.0200000.021250182.070.0212500.022500192.200.0225000.023750202.380.0237500.025000212.500.0250000.026250222.630.0262500.027500232.750.0275000.028750242.880.0287500.030000253.000.0300000.031250263.130.0312500.032500273.250.0325000.033750283.380.0337500.035000293.500.0350000.036250303.630.0362500.037500313.750.0375000.040000324.000.0400000.042500334.250.0425000.045000344.500.0450000.047500354.750.0475000.050000365.000.0500000.052500375.150.0525000.055000385.250.0550000.057500395.300.057500 405.40
-
-
 
 Benefit Ratio
 
@@ -909,11 +448,13 @@ Less than
 
 ...(A) Except as provided in (b)(i)(B) and (C) of this subsection, the commissioner shall calculate the flat social cost factor for a rate year by dividing the total social cost by the total taxable payroll. The division shall be carried to the second decimal place with the remaining fraction disregarded unless it amounts to five hundredths or more, in which case the second decimal place shall be rounded to the next higher digit. The flat social cost factor shall be expressed as a percentage.
 
-(B) If, on the cut-off date, the balance in the unemployment compensation fund is determined by the commissioner to be an amount that will provide more than ten months of unemployment benefits, the commissioner shall calculate the flat social cost factor for the rate year immediately following the cut-off date by reducing the total social cost by the dollar amount that represents the number of months for which the balance in the unemployment compensation fund on the cut-off date will provide benefits above ten months and dividing the result by the total taxable payroll. However, the calculation under this subsection (2)(b)(i)(B) for a rate year may not result in a flat social cost factor that is more than four-tenths lower than the calculation under (b)(i)(A) of this subsection for that rate year. For rate year 2011, the calculation may not result in a flat social cost factor that is more than one and twenty-two one-hundredths percent.
+(B)(I) If, on the cut-off date, the balance in the unemployment compensation fund is determined by the commissioner to be an amount that will provide more than ten months of unemployment benefits, the commissioner shall calculate the flat social cost factor for the rate year immediately following the cut-off date by reducing the total social cost by the dollar amount that represents the number of months for which the balance in the unemployment compensation fund on the cut-off date will provide benefits above ten months and dividing the result by the total taxable payroll. However, the calculation under this subsection (1)(b)(i)(B) for a rate year may not result in a flat social cost factor that is more than four-tenths lower than the calculation under (b)(i)(A) of this subsection for that rate year. For rate year 2011 and thereafter, the calculation may not result in a flat social cost factor that is more than one and twenty-two one-hundredths percent except for rate year 2021 the calculation may not result in a flat social cost factor that is more than five-tenths percent, for rate year 2022 the calculation may not result in a flat social cost factor that is more than seventy-five one-hundredths percent, for rate year 2023 the calculation may not result in a flat social cost factor that is more than eight-tenths percent, for rate year 2024 the calculation may not result in a flat social cost factor that is more than eighty-five one-hundredths percent, and for rate year 2025 the calculation may not result in a flat social cost factor that is more than nine-tenths percent.
 
-For the purposes of this subsection, the commissioner shall determine the number of months of unemployment benefits in the unemployment compensation fund using the benefit cost rate for the average of the three highest calendar benefit cost rates in the twenty consecutive completed calendar years immediately preceding the cut-off date or a period of consecutive calendar years immediately preceding the cut-off date that includes three recessions, if longer.
+(II) If, on the cut-off date, the balance in the unemployment compensation fund is determined by the commissioner to be an amount that will provide ten months of unemployment benefits or less, the flat social cost factor for the rate year immediately following the cut-off date may not increase by more than fifty percent over the previous rate year or may not exceed one and twenty-two one-hundredths percent, whichever is greater.
 
-(C) The minimum flat social cost factor calculated under this subsection (2)(b) shall be six-tenths of one percent, except that if the balance in the unemployment compensation fund is determined by the commissioner to be an amount that will provide:
+(III) For the purposes of this subsection (1)(b), the commissioner shall determine the number of months of unemployment benefits in the unemployment compensation fund using the benefit cost rate for the average of the three highest calendar benefit cost rates in the twenty consecutive completed calendar years immediately preceding the cut-off date or a period of consecutive calendar years immediately preceding the cut-off date that includes three recessions, if longer.
+
+(C) The minimum flat social cost factor calculated under this subsection (1)(b) shall be six-tenths of one percent, except that if the balance in the unemployment compensation fund is determined by the commissioner to be an amount that will provide:
 
 (I) At least ten months but less than eleven months of unemployment benefits, the minimum shall be five-tenths of one percent; or
 
@@ -929,107 +470,73 @@ For the purposes of this subsection, the commissioner shall determine the number
 
 (VII) At least eighteen months of unemployment benefits, the minimum shall be fifteen hundredths of one percent through rate year 2011 and shall be zero thereafter.
 
-...(A) Except as provided in (b)(ii)(B) of this subsection, the graduated social cost factor rate for each employer in the array is the flat social cost factor multiplied by the percentage specified as follows for the rate class to which the employer has been assigned in (a)(ii) of this subsection, except that the sum of an employer's array calculation factor rate and the graduated social cost factor rate may not exceed six percent or, for employers whose North American industry classification system code is within "111," "112," "1141," "115," "3114," "3117," "42448," or "49312," may not exceed five and four-tenths percent:
+... The graduated social cost factor rate for each employer in the array is the flat social cost factor multiplied by the percentage specified as follows for the rate class to which the employer has been assigned in (a)(ii) of this subsection, except that the sum of an employer's array calculation factor rate and the graduated social cost factor rate may not exceed six percent or, for employers whose North American industry classification system code is within "111," "112," "1141," "115," "3114," "3117," "42448," or "49312," may not exceed five and four-tenths percent:
 
-(((A))) (I) Rate class 1 - 78 percent;
+(A) Rate class 1 - 40 percent;
 
-(((B))) (II) Rate class 2 - 82 percent;
+(B) Rate class 2 - 44 percent;
 
-(((C))) (III) Rate class 3 - 86 percent;
+(C) Rate class 3 - 48 percent;
 
-(((D))) (IV) Rate class 4 - 90 percent;
+(D) Rate class 4 - 52 percent;
 
-(((E))) (V) Rate class 5 - 94 percent;
+(E) Rate class 5 - 56 percent;
 
-(((F))) (VI) Rate class 6 - 98 percent;
+(F) Rate class 6 - 60 percent;
 
-(((G))) (VII) Rate class 7 - 102 percent;
+(G) Rate class 7 - 64 percent;
 
-(((H))) (VIII) Rate class 8 - 106 percent;
+(H) Rate class 8 - 68 percent;
 
-(((I))) (IX) Rate class 9 - 110 percent;
+(I) Rate class 9 - 72 percent;
 
-(((J))) (X) Rate class 10 - 114 percent;
+(J) Rate class 10 - 76 percent;
 
-(((K))) (XI) Rate class 11 - 118 percent; and
+(K) Rate class 11 - 80 percent;
 
-(((L))) (XII) Rate classes 12 through 40 - 120 percent.
+(L) Rate class 12 - 84 percent;
 
-(B) For rate year 2011, the graduated social cost factor rate for each employer in the array is the flat social cost factor multiplied by the percentage specified as follows for the rate class to which the employer has been assigned in (a)(ii) of this subsection, except that the sum of an employer's array calculation factor rate and the graduated social cost factor rate may not exceed six percent or, for employers whose North American industry classification system code is within "111," "112," "1141," "115," "3114," "3117," "42448," or "49312," may not exceed five and four-tenths percent:
+(M) Rate class 13 - 88 percent;
 
-(I) Rate class 1 - 40 percent;
+(N) Rate class 14 - 92 percent;
 
-(II) Rate class 2 - 44 percent;
+(O) Rate class 15 - 96 percent;
 
-(III) Rate class 3 - 48 percent;
+(P) Rate class 16 - 100 percent;
 
-(IV) Rate class 4 - 52 percent;
+(Q) Rate class 17 - 104 percent;
 
-(V) Rate class 5 - 56 percent;
+(R) Rate class 18 - 108 percent;
 
-(VI) Rate class 6 - 60 percent;
+(S) Rate class 19 - 112 percent;
 
-(VII) Rate class 7 - 64 percent;
+(T) Rate class 20 - 116 percent; and
 
-(VIII) Rate class 8 - 68 percent;
-
-(IX) Rate class 9 - 72 percent;
-
-(X) Rate class 10 - 76 percent;
-
-(XI) Rate class 11 - 80 percent;
-
-(XII) Rate class 12 - 84 percent;
-
-(XIII) Rate class 13 - 88 percent;
-
-(XIV) Rate class 14 - 92 percent;
-
-(XV) Rate class 15 - 96 percent;
-
-(XVI) Rate class 16 - 100 percent;
-
-(XVII) Rate class 17 - 104 percent;
-
-(XVIII) Rate class 18 - 108 percent;
-
-(XIX) Rate class 19 - 112 percent;
-
-(XX) Rate class 20 - 116 percent; and
-
-(XXI) Rate classes 21 through 40 - 120 percent.
+(U) Rate classes 21 through 40 - 120 percent.
 
 ... For the purposes of this section:
 
-(A) "Total social cost" means the amount calculated by subtracting the array calculation factor contributions paid by all employers with respect to the four consecutive calendar quarters immediately preceding the computation date and paid to the employment security department by the cut-off date from the total unemployment benefits paid to claimants in the same four consecutive calendar quarters. 
+(A) "Total social cost" means the amount calculated by subtracting the array calculation factor contributions paid by all employers with respect to the four consecutive calendar quarters immediately preceding the computation date and paid to the employment security department by the cut-off date from the total unemployment benefits paid to claimants in the same four consecutive calendar quarters.
 
 (B) "Total taxable payroll" means the total amount of wages subject to tax, as determined under RCW 50.24.010, for all employers in the four consecutive calendar quarters immediately preceding the computation date and reported to the employment security department by the cut-off date.
 
 .. For employers who do not meet the definition of "qualified employer" by reason of failure to pay contributions when due:
 
-... For rate years through 2010:
+...(A) For an employer who does not enter into an approved agency-deferred payment contract as described in (c)(i)(B) or (C) of this subsection, the array calculation factor rate shall be the rate it would have been if the employer had not been delinquent in payment plus an additional one percent or, if the employer is delinquent in payment for a second or more consecutive year, an additional two percent;
 
-(A) The array calculation factor rate shall be two-tenths higher than that in rate class 40, except employers who have an approved agency-deferred payment contract by September 30th of the previous rate year. If any employer with an approved agency-deferred payment contract fails to make any one of the succeeding deferred payments or fails to submit any succeeding tax report and payment in a timely manner, the employer's tax rate shall immediately revert to an array calculation factor rate two-tenths higher than that in rate class 40; and
+(B) For an employer who enters an approved agency-deferred payment contract by September 30th of the previous rate year, the array calculation factor rate shall be the rate it would have been if the employer had not been delinquent in payment;
 
-(B) The social cost factor rate shall be the social cost factor rate assigned to rate class 40 under (b)(ii)(A) of this subsection.
+(C) For an employer who enters an approved agency-deferred payment contract after September 30th of the previous rate year, but within thirty days of the date the department sent its first tax rate notice, the array calculation factor rate shall be the rate it would have been had the employer not been delinquent in payment plus an additional one-half of one percent or, if the employer is delinquent in payment for a second or more consecutive year, an additional one and one-half percent;
 
-... For rate years 2011 and thereafter:
+(D) For an employer who enters an approved agency-deferred payment contract as described in (c)(i)(B) or (C) of this subsection, but who fails to make any one of the succeeding deferred payments or fails to submit any succeeding tax report and payment in a timely manner, the array calculation factor rate shall immediately revert to the applicable array calculation factor rate under (c)(i)(A) of this subsection; and
 
-(A)(I) For an employer who does not enter into an approved agency-deferred payment contract as described in (c)(ii)(A)(II) or (III) of this subsection, the array calculation factor rate shall be the rate it would have been if the employer had not been delinquent in payment plus an additional one percent or, if the employer is delinquent in payment for a second or more consecutive year, an additional two percent;
-
-(II) For an employer who enters an approved agency-deferred payment contract by September 30th of the previous rate year, the array calculation factor rate shall be the rate it would have been if the employer had not been delinquent in payment;
-
-(III) For an employer who enters an approved agency-deferred payment contract after September 30th of the previous rate year, but within thirty days of the date the department sent its first tax rate notice, the array calculation factor rate shall be the rate it would have been had the employer not been delinquent in payment plus an additional one-half of one percent or, if the employer is delinquent in payment for a second or more consecutive year, an additional one and one-half percent;
-
-(IV) For an employer who enters an approved agency-deferred payment contract as described in (c)(ii)(A)(II) or (III) of this subsection, but who fails to make any one of the succeeding deferred payments or fails to submit any succeeding tax report and payment in a timely manner, the array calculation factor rate shall immediately revert to the applicable array calculation factor rate under (c)(ii)(A)(I) of this subsection; and
-
-(B) The social cost factor rate shall be the social cost factor rate assigned to rate class 40 for the relevant year under (b)(ii)(A) or (B) of this subsection.
+... The social cost factor rate shall be the social cost factor rate assigned to rate class 40 under (b)(ii)(A) of this subsection.
 
 .. For all other employers not qualified to be in the array:
 
 ... The array calculation factor rate shall be a rate equal to the average industry array calculation factor rate as determined by the commissioner, multiplied by the history factor, but not less than one percent or more than the array calculation factor rate in rate class 40;
 
-... The social cost factor rate shall be a rate equal to the average industry social cost factor rate as determined by the commissioner, multiplied by the history factor, but not more than the social cost factor rate assigned to rate class 40 for the relevant year under (b)(ii)(A) or (B) of this subsection; and
+... The social cost factor rate shall be a rate equal to the average industry social cost factor rate as determined by the commissioner, multiplied by the history factor, but not more than the social cost factor rate assigned to rate class 40 under (b)(ii) of this subsection; and
 
 ... The history factor shall be based on the total amounts of benefits charged and contributions paid in the three fiscal years ending prior to the computation date by employers not qualified to be in the array, other than employers in (c) of this subsection, who were first subject to contributions in the calendar year ending three years prior to the computation date. The commissioner shall calculate the history ratio by dividing the total amount of benefits charged by the total amount of contributions paid in this three-year period by these employers. The division shall be carried to the second decimal place with the remaining fraction disregarded unless it amounts to five one-hundredths or more, in which case the second decimal place shall be rounded to the next higher digit. The commissioner shall determine the history factor according to the history ratio as follows:
 
@@ -1085,20 +592,30 @@ Less than
 
 . Assignment of employers by the commissioner to industrial classification, for purposes of this section, shall be in accordance with established classification practices found in the North American industry classification system code.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5135.SL.pdf?cite=2011%20c%203%20§%203[2011 c 3 § 3]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6524-S.SL.pdf?cite=2010%20c%2072%20§%201[2010 c 72 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5963-S.SL.pdf?cite=2009%20c%20493%20§%202[2009 c 493 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1906-S.SL.pdf?cite=2009%20c%203%20§%2014[2009 c 3 § 14]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1278-S.SL.pdf?cite=2007%20c%2051%20§%201[2007 c 51 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6885-S.SL.pdf?cite=2006%20c%2013%20§%204[2006 c 13 § 4]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2255.SL.pdf?cite=2005%20c%20133%20§%205[2005 c 133 § 5]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6097.SL.pdf?cite=2003%202nd%20sp.s.%20c%204%20§%2014[2003 2nd sp.s. c 4 § 14]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1832-S.SL.pdf?cite=2003%20c%204%20§%201[2003 c 4 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/3077-S.SL.pdf?cite=2000%20c%202%20§%204[2000 c 2 § 4]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5925.SL.pdf?cite=1995%20c%204%20§%202[1995 c 4 § 2]; 1995 c 4 § 1; prior:  1993 c 483 § 21; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1988-S.SL.pdf?cite=1993%20c%20226%20§%2014[1993 c 226 § 14]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1988-S.SL.pdf?cite=1993%20c%20226%20§%2013[1993 c 226 § 13]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c245.pdf?cite=1990%20c%20245%20§%207[1990 c 245 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c380.pdf?cite=1989%20c%20380%20§%2079[1989 c 380 § 79]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c171.pdf?cite=1987%20c%20171%20§%203[1987 c 171 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985ex1c5.pdf?cite=1985%20ex.s.%20c%205%20§%207[1985 ex.s. c 5 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c205.pdf?cite=1984%20c%20205%20§%205[1984 c 205 § 5]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5061-S.SL.pdf?cite=2021%20c%202%20§%2017[2021 c 2 § 17]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1091.SL.pdf?cite=2011%20c%204%20§%2016[2011 c 4 § 16]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5135.SL.pdf?cite=2011%20c%203%20§%203[2011 c 3 § 3]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6524-S.SL.pdf?cite=2010%20c%2072%20§%201[2010 c 72 § 1]; prior:  2009 c 493 § 2; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1906-S.SL.pdf?cite=2009%20c%203%20§%2014[2009 c 3 § 14]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1278-S.SL.pdf?cite=2007%20c%2051%20§%201[2007 c 51 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6885-S.SL.pdf?cite=2006%20c%2013%20§%204[2006 c 13 § 4]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2255.SL.pdf?cite=2005%20c%20133%20§%205[2005 c 133 § 5]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6097.SL.pdf?cite=2003%202nd%20sp.s.%20c%204%20§%2014[2003 2nd sp.s. c 4 § 14]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1832-S.SL.pdf?cite=2003%20c%204%20§%201[2003 c 4 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/3077-S.SL.pdf?cite=2000%20c%202%20§%204[2000 c 2 § 4]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5925.SL.pdf?cite=1995%20c%204%20§%202[1995 c 4 § 2]; 1995 c 4 § 1; prior:  1993 c 483 § 21; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1988-S.SL.pdf?cite=1993%20c%20226%20§%2014[1993 c 226 § 14]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1988-S.SL.pdf?cite=1993%20c%20226%20§%2013[1993 c 226 § 13]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c245.pdf?cite=1990%20c%20245%20§%207[1990 c 245 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c380.pdf?cite=1989%20c%20380%20§%2079[1989 c 380 § 79]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c171.pdf?cite=1987%20c%20171%20§%203[1987 c 171 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985ex1c5.pdf?cite=1985%20ex.s.%20c%205%20§%207[1985 ex.s. c 5 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c205.pdf?cite=1984%20c%20205%20§%205[1984 c 205 § 5]; ]
 
 == 50.29.026 - Modification of contribution rate.
-. Beginning with contributions assessed for rate year 1996, a qualified employer's contribution rate applicable for rate years beginning before January 1, 2005, or array calculation factor rate applicable for rate years beginning on or after January 1, 2005, determined under RCW 50.29.025 may be modified as follows:
+. Except as provided in subsection (3) of this section, a qualified employer's contribution rate or array calculation factor rate determined under RCW 50.29.025 may be modified as follows:
 
-.. Subject to the limitations of this subsection, an employer may make a voluntary contribution of an amount equal to part or all of the benefits charged to the employer's account during the two years most recently ended on June 30th that were used for the purpose of computing the employer's contribution rate applicable for rate years beginning before January 1, 2005, or array calculation factor rate applicable for rate years beginning on or after January 1, 2005. On receiving timely payment of a voluntary contribution, plus a surcharge of ten percent of the amount of the voluntary contribution, the commissioner shall cancel the benefits equal to the amount of the voluntary contribution, excluding the surcharge, and compute a new benefit ratio for the employer. The employer shall then be assigned the contribution rate applicable for rate years beginning before January 1, 2005, or array calculation factor rate applicable for rate years beginning on or after January 1, 2005, applicable to the rate class within which the recomputed benefit ratio is included. The minimum amount of a voluntary contribution, excluding the surcharge, must be an amount that will result in a recomputed benefit ratio that is in a rate class at least four rate classes lower than the rate class that included the employer's original benefit ratio.
+.. Subject to the limitations of this subsection, an employer may make a voluntary contribution of an amount equal to part or all of the benefits charged to the employer's account during the two years most recently ended on June 30th that were used for the purpose of computing the employer's contribution rate or array calculation factor rate. On receiving timely payment of a voluntary contribution, plus a surcharge of ten percent of the amount of the voluntary contribution, the commissioner shall cancel the benefits equal to the amount of the voluntary contribution, excluding the surcharge, and compute a new benefit ratio for the employer. The employer shall then be assigned the contribution rate applicable for rate years beginning before January 1, 2005, or array calculation factor rate applicable for rate years beginning on or after January 1, 2005, applicable to the rate class within which the recomputed benefit ratio is included. The minimum amount of a voluntary contribution, excluding the surcharge, must be an amount that will result in a recomputed benefit ratio that is in a rate class at least four rate classes lower than the rate class that included the employer's original benefit ratio.
 
-.. Payment of a voluntary contribution is considered timely if received by the department during the period beginning on the date of mailing to the employer the notice of contribution rate applicable for rate years beginning before January 1, 2005, or notice of array calculation factor rate applicable for rate years beginning on or after January 1, 2005, required under this title for the rate year for which the employer is seeking a modification of his or her rate and ending on February 15th of that rate year or, for voluntary contributions for rate year 2000, ending on March 31, 2000.
+.. Payment of a voluntary contribution is considered timely if received by the department during the period beginning on the date of mailing to the employer the notice of contribution rate required under this title for the rate year for which the employer is seeking a modification of the employer's rate and ending on February 15th of that rate year.
 
 .. A benefit ratio may not be recomputed nor a rate be reduced under this section as a result of a voluntary contribution received after the payment period prescribed in (b) of this subsection.
 
-. This section does not apply to any employer who has not had an increase of at least twelve rate classes from the previous tax rate year.
+. Except as provided in subsection (3) of this section, this section does not apply to any employer who has not had an increase of at least twelve rate classes from the previous tax rate year.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6097.SL.pdf?cite=2003%202nd%20sp.s.%20c%204%20§%2017[2003 2nd sp.s. c 4 § 17]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/3077-S.SL.pdf?cite=2000%20c%202%20§%205[2000 c 2 § 5]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1350-S.SL.pdf?cite=1995%20c%20322%20§%201[1995 c 322 § 1]; ]
+. From February 8, 2021, and until May 31, 2026, the following applies:
+
+.. The surcharge in subsection (1)(a) of this section will not be charged or used in the calculations;
+
+.. The ending payment date in subsection (1)(b) of this section is March 31st;
+
+.. The minimum amount of a voluntary contribution must be an amount that will result in a recomputed benefit ratio that is in a rate class at least two rate classes lower than the rate class that included the employer's original benefit ratio; and
+
+.. This section does not apply to any employer who has not had an increase of at least eight rate classes from the previous tax rate year.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5061-S.SL.pdf?cite=2021%20c%202%20§%2018[2021 c 2 § 18]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6097.SL.pdf?cite=2003%202nd%20sp.s.%20c%204%20§%2017[2003 2nd sp.s. c 4 § 17]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/3077-S.SL.pdf?cite=2000%20c%202%20§%205[2000 c 2 § 5]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1350-S.SL.pdf?cite=1995%20c%20322%20§%201[1995 c 322 § 1]; ]
 
 == 50.29.027 - Benefit ratio computed for 1985 and thereafter.
 For the rate year 1985 and each rate year thereafter, a benefit ratio shall be computed for each qualified employer by dividing the total amount of benefits charged to the account of the employer during the forty-eight consecutive months immediately preceding the computation date by the taxable payrolls of the employer for the same forty-eight month period as reported to the department by the cut-off dates. The division shall be carried to the sixth decimal place with the remaining fraction, if any, disregarded.
@@ -1111,15 +628,15 @@ For the purpose of prorating benefit charges "wages" shall mean "wages" as defin
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1970ex1c2.pdf?cite=1970%20ex.s.%20c%202%20§%2012[1970 ex.s. c 2 § 12]; ]
 
 == 50.29.041 - Contribution rate—Solvency surcharge.
-Beginning with contributions assessed for rate year 2005, the contribution rate of each employer subject to contributions under RCW 50.24.010 shall include a solvency surcharge determined as follows:
+Except for contributions assessed for rate years 2021, 2022, 2023, 2024, and 2025, the contribution rate of each employer subject to contributions under RCW 50.24.010 shall include a solvency surcharge determined as follows:
 
 . This section shall apply to employers' contributions for a rate year immediately following a cut-off date only if, on the cut-off date, the balance in the unemployment compensation fund is determined by the commissioner to be an amount that will provide fewer than seven months of unemployment benefits.
 
 . The solvency surcharge shall be the lowest rate necessary, as determined by the commissioner, but not more than two-tenths of one percent, to provide revenue during the applicable rate year that will fund unemployment benefits for the number of months that is the difference between nine months and the number of months for which the balance in the unemployment compensation fund on the cut-off date will provide benefits.
 
-. The basis for determining the number of months of unemployment benefits shall be the same basis used in *RCW 50.29.025(2)(b)(i)(B).
+. The basis for determining the number of months of unemployment benefits shall be the same basis used in RCW 50.29.025(1)(b)(i)(B).
 
-[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6885-S.SL.pdf?cite=2006%20c%2013%20§%205[2006 c 13 § 5]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6097.SL.pdf?cite=2003%202nd%20sp.s.%20c%204%20§%2016[2003 2nd sp.s. c 4 § 16]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5061-S.SL.pdf?cite=2021%20c%202%20§%2019[2021 c 2 § 19]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6885-S.SL.pdf?cite=2006%20c%2013%20§%205[2006 c 13 § 5]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6097.SL.pdf?cite=2003%202nd%20sp.s.%20c%204%20§%2016[2003 2nd sp.s. c 4 § 16]; ]
 
 == 50.29.062 - Contribution rates for predecessor and successor employers.
 . If the department finds that a significant purpose of the transfer of the business is to obtain a reduced array calculation factor rate, contribution rates shall be computed and penalties and other sanctions shall apply as specified in RCW 50.29.063.
@@ -1138,27 +655,15 @@ Beginning with contributions assessed for rate year 2005, the contribution rate 
 
 .. If the successor is not an employer at the time of the transfer, the following applies:
 
-... For transfers before January 1, 2005:
+... Except as provided in (b)(ii) and (iii) of this subsection (2), the successor shall pay contributions:
 
-(A) Except as provided in (b)(i)(B) of this subsection (2), the successor shall pay contributions at the lowest rate determined under either of the following:
+(A) At the contribution rate assigned to the predecessor employer at the time of the transfer for the remainder of that rate year. Any experience attributable to the predecessor relating to the assignment of the predecessor's rate class is transferred to the successor.
 
-(I) The contribution rate of the rate class assigned to the predecessor employer at the time of the transfer for the remainder of that rate year. Any experience relating to the assignment of that rate class attributable to the predecessor is transferred to the successor. Beginning with the January 1st following the transfer, the successor's contribution rate shall be based on a combination of the transferred experience of the acquired business and the successor's experience after the transfer; or
+(B) Beginning January 1st following the transfer, the successor's contribution rate for each rate year shall be based on an array calculation factor rate that is a combination of the following: The successor's experience with payrolls and benefits; and any experience assigned to the predecessor involved in the transfer. If only a portion of the business was transferred, then the experience attributable to the acquired portion is assigned to the successor if qualified under RCW 50.29.010 by including the transferred experience. If not qualified under RCW 50.29.010, the contribution rate shall equal the sum of the rates determined by the commissioner under RCW 50.29.025(1)(d) and 50.29.041, if applicable, and continuing until the successor qualifies for a different rate, including the transferred experience.
 
-(II) The contribution rate equal to the average industry rate as determined by the commissioner, but not less than one percent, and continuing until the successor qualifies for a different rate in its own right. Assignment of employers by the commissioner to industrial classification, for purposes of this subsection, must be in accordance with established classification practices found in the North American industry classification system issued by the federal office of management and budget to the fourth digit provided in the North American industry classification system.
+... If there is a substantial continuity of ownership, control, or management by the successor of the business of the predecessor, the successor shall pay contributions at the contribution rate determined for the predecessor employer at the time of the transfer for the remainder of that rate year. Any experience attributable to the predecessor relating to the assignment of the predecessor's rate class is transferred to the successor. Beginning January 1st following the transfer, the successor's array calculation factor rate shall be based on a combination of the transferred experience of the acquired business and the successor's experience after the transfer.
 
-(B) If the successor simultaneously acquires the business or a portion of the business of two or more employers in different rate classes, its rate, from the date the transfer occurred until the end of that rate year and until it qualifies in its own right for a new rate, shall be the rate of the highest rate class applicable at the time of the acquisition to any predecessor employer who is a party to the acquisition, but not less than one percent.
-
-... For transfers on or after January 1, 2005:
-
-(A) Except as provided in (b)(ii)(B) and (C) of this subsection (2), the successor shall pay contributions:
-
-(I) At the contribution rate assigned to the predecessor employer at the time of the transfer for the remainder of that rate year. Any experience attributable to the predecessor relating to the assignment of the predecessor's rate class is transferred to the successor.
-
-(II) Beginning January 1st following the transfer, the successor's contribution rate for each rate year shall be based on an array calculation factor rate that is a combination of the following: The successor's experience with payrolls and benefits; and any experience assigned to the predecessor involved in the transfer. If only a portion of the business was transferred, then the experience attributable to the acquired portion is assigned to the successor if qualified under RCW 50.29.010 by including the transferred experience. If not qualified under RCW 50.29.010, the contribution rate shall equal the sum of the rates determined by the commissioner under RCW 50.29.025 (1)(d)(ii) or (2)(d) and 50.29.041, if applicable, and continuing until the successor qualifies for a different rate, including the transferred experience.
-
-(B) If there is a substantial continuity of ownership, control, or management by the successor of the business of the predecessor, the successor shall pay contributions at the contribution rate determined for the predecessor employer at the time of the transfer for the remainder of that rate year. Any experience attributable to the predecessor relating to the assignment of the predecessor's rate class is transferred to the successor. Beginning January 1st following the transfer, the successor's array calculation factor rate shall be based on a combination of the transferred experience of the acquired business and the successor's experience after the transfer.
-
-(C) If the successor simultaneously acquires the business or a portion of the business of two or more employers with different contribution rates, the successor's rate, from the date the transfer occurred until the end of that rate year and until it qualifies in its own right for a new rate, shall be the sum of the rates determined by the commissioner under RCW 50.29.025 (1) (a) and (b) or (2) (a) and (b), and 50.29.041, applicable at the time of the acquisition, to the predecessor employer who, among the parties to the acquisition, had the largest total payroll in the completed calendar quarter immediately preceding the date of transfer, but not less than the sum of the rates determined by the commissioner under RCW 50.29.025 (1)(d)(ii) or (2)(d) and 50.29.041, if applicable.
+... If the successor simultaneously acquires the business or a portion of the business of two or more employers with different contribution rates, the successor's rate, from the date the transfer occurred until the end of that rate year and until it qualifies in its own right for a new rate, shall be the sum of the rates determined by the commissioner under RCW 50.29.025(1) (a) and (b) and 50.29.041, applicable at the time of the acquisition, to the predecessor employer who, among the parties to the acquisition, had the largest total payroll in the completed calendar quarter immediately preceding the date of transfer, but not less than the sum of the rates determined by the commissioner under RCW 50.29.025(1)(d) and 50.29.041, if applicable.
 
 .. With respect to predecessor employers:
 
@@ -1170,14 +675,14 @@ Beginning with contributions assessed for rate year 2005, the contribution rate 
 
 . For purposes of this section, "transfer of a business" means the same as RCW 50.29.063(4)(c).
 
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2491-S.SL.pdf?cite=2012%201st%20sp.s.%20c%202%20§%201[2012 1st sp.s. c 2 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2649-S.SL.pdf?cite=2010%20c%2025%20§%202[2010 c 25 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1339.SL.pdf?cite=2009%20c%20225%20§%201[2009 c 225 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6359-S.SL.pdf?cite=2006%20c%2047%20§%202[2006 c 47 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6097.SL.pdf?cite=2003%202nd%20sp.s.%20c%204%20§%2018[2003 2nd sp.s. c 4 § 18]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6413.SL.pdf?cite=1996%20c%20238%20§%201[1996 c 238 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5583.SL.pdf?cite=1995%20c%2056%20§%201[1995 c 56 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c380.pdf?cite=1989%20c%20380%20§%2081[1989 c 380 § 81]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c205.pdf?cite=1984%20c%20205%20§%206[1984 c 205 § 6]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5061-S.SL.pdf?cite=2021%20c%202%20§%2020[2021 c 2 § 20]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2491-S.SL.pdf?cite=2012%201st%20sp.s.%20c%202%20§%201[2012 1st sp.s. c 2 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2649-S.SL.pdf?cite=2010%20c%2025%20§%202[2010 c 25 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1339.SL.pdf?cite=2009%20c%20225%20§%201[2009 c 225 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6359-S.SL.pdf?cite=2006%20c%2047%20§%202[2006 c 47 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6097.SL.pdf?cite=2003%202nd%20sp.s.%20c%204%20§%2018[2003 2nd sp.s. c 4 § 18]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6413.SL.pdf?cite=1996%20c%20238%20§%201[1996 c 238 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5583.SL.pdf?cite=1995%20c%2056%20§%201[1995 c 56 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c380.pdf?cite=1989%20c%20380%20§%2081[1989 c 380 § 81]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c205.pdf?cite=1984%20c%20205%20§%206[1984 c 205 § 6]; ]
 
 == 50.29.063 - Predecessor or successor employers—Transfer to obtain reduced array calculation factor rate—Evasion of successor provisions—Penalties.
 . If it is found that a significant purpose of the transfer of a business was to obtain a reduced array calculation factor rate, then the following applies:
 
 .. If the successor was an employer at the time of the transfer, then the experience rating accounts of the employers involved shall be combined into a single account and the employers assigned the higher of the predecessor or successor array calculation factor rate to take effect as of the date of the transfer.
 
-.. If the successor was not an employer at the time of the transfer, then the experience rating account of the acquired business must not be transferred and, instead, the sum of the rate determined by the commissioner under RCW 50.29.025 (1)(d)(ii) or (2)(d) and 50.29.041, if applicable, shall be assigned.
+.. If the successor was not an employer at the time of the transfer, then the experience rating account of the acquired business must not be transferred and, instead, the sum of the rate determined by the commissioner under RCW 50.29.025(1)(d) and 50.29.041, if applicable, shall be assigned.
 
 . If any part of a delinquency for which an assessment is made under this title is due to an intent to knowingly evade the successorship provisions of RCW 50.29.062 and this section, then with respect to the employer, and to any business found to be knowingly promoting the evasion of such provisions:
 
@@ -1185,7 +690,7 @@ Beginning with contributions assessed for rate year 2005, the contribution rate 
 
 ... Recalculate the array calculation factor rate as the array calculation factor rate that should have applied to the employer or business under RCW 50.29.025 and 50.29.062; and
 
-... Calculate a civil penalty assessment rate in an amount that, when added to the array calculation factor rate determined under (a)(i) of this subsection for the applicable rate year, results in a total rate equal to the maximum array calculation factor rate under RCW 50.29.025 plus two percent, which total rate is not limited by any maximum array calculation factor rate established in RCW 50.29.025 (1)(b)(ii) or (2)(b)(ii);
+... Calculate a civil penalty assessment rate in an amount that, when added to the array calculation factor rate determined under (a)(i) of this subsection for the applicable rate year, results in a total rate equal to the maximum array calculation factor rate under RCW 50.29.025 plus two percent, which total rate is not limited by any maximum array calculation factor rate established in RCW 50.29.025(1)(b)(ii);
 
 .. The employer or business may be prosecuted under the penalties prescribed in RCW 50.36.020; and
 
@@ -1207,7 +712,7 @@ Beginning with contributions assessed for rate year 2005, the contribution rate 
 
 . The commissioner shall engage in prevention, detection, and collection activities related to evasion of the successorship provisions of RCW 50.29.062 and this section, and establish procedures to enforce this section.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2649-S.SL.pdf?cite=2010%20c%2025%20§%203[2010 c 25 § 3]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1339.SL.pdf?cite=2009%20c%20225%20§%202[2009 c 225 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1407-S.SL.pdf?cite=2007%20c%20327%20§%203[2007 c 327 § 3]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6359-S.SL.pdf?cite=2006%20c%2047%20§%201[2006 c 47 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5061-S.SL.pdf?cite=2021%20c%202%20§%2021[2021 c 2 § 21]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2649-S.SL.pdf?cite=2010%20c%2025%20§%203[2010 c 25 § 3]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1339.SL.pdf?cite=2009%20c%20225%20§%202[2009 c 225 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1407-S.SL.pdf?cite=2007%20c%20327%20§%203[2007 c 327 § 3]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6359-S.SL.pdf?cite=2006%20c%2047%20§%201[2006 c 47 § 1]; ]
 
 == 50.29.064 - Rules to implement 2006 c 47.
 The commissioner of the employment security department may adopt rules necessary to implement chapter 47, Laws of 2006.
@@ -1242,38 +747,10 @@ For purposes of this title, each client employer of a professional employer orga
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5373-S.SL.pdf?cite=2007%20c%20146%20§%2010[2007 c 146 § 10]; ]
 
-== 50.29.100 - COVID-19 unemployment account—Employer application for reimbursement. (Expires July 30, 2021.)
-. By September 30, 2020, a contribution paying employer may submit an application to the employment security department to have the approved benefits paid to approved employees be reimbursed by the COVID-19 unemployment account instead of charged to the employer's experience rating account. The application must be submitted in a form and manner approved by the department through rule.
+== 50.29.105 - Department-approved deferred payment contracts—Department determination of eligibility—Notice.
+. By September 1st of each year, the department must determine which employers have not paid all contributions, penalties, or interest due, and have not entered into a department-approved deferred payment contract, as of that date.
 
-. The department should not approve an application if the benefits paid will not otherwise be charged to the employer's experience rating account or if the employer was otherwise eligible to receive relief of benefit charges.
+. By September 1st of each year, for each employer meeting the criteria in subsection (1) of this section, the department must notify the employer of the availability of deferred payment contracts with the department. The department must provide technical, and culturally and linguistically relevant, assistance as needed to the employer in navigating the process for entering into a department-approved payment contract.
 
-. If the department approves an employer's application, the department will not charge the forgiven benefits to the employer's experience rating account. The commissioner shall instead transfer from the COVID-19 unemployment account to the unemployment trust fund account an amount equal to the forgiven benefits.
-
-. If the department rejects an employer's application, the department shall present the employer with the reasons why the application was rejected. The reasons for the rejection are final and nonappealable.
-
-. For purposes of this section, the following definitions apply:
-
-.. "Approved employee" means an employee who:
-
-... Was temporarily laid off as a direct or indirect consequence of an outbreak of COVID-19;
-
-... Was approved by the department to be on standby pursuant to rules adopted by the department;
-
-... Has returned to the same employment with the employer the employee had prior to the temporary unemployment; and
-
-... Meets other criteria the department may establish by rule.
-
-.. "Approved benefits" means benefits paid to an approved employee while the approved employee was on standby pursuant to rules adopted by the department.
-
-.. "Total approved benefits" means the sum total of all approved benefits paid to all approved employees.
-
-.. "Forgiveness ratio" is computed by dividing the amount of money in the COVID-19 unemployment account by the total approved benefits. The forgiveness ratio cannot be more than 1.
-
-.. "Forgiven benefits" means the approved benefits for an individual employer multiplied by the forgiveness ratio.
-
-. The department shall adopt such rules as are necessary to carry out the purposes of this section.
-
-. This section expires July 30, 2021.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2965.SL.pdf?cite=2020%20c%207%20§%205[2020 c 7 § 5]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5478-S.SL.pdf?cite=2021%20c%20292%20§%2010[2021 c 292 § 10]; ]
 

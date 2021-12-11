@@ -270,13 +270,13 @@ The office, in conjunction with the K-20 network users, shall maintain a technic
 
 .. Provide research that focuses on student transitions within and among the early learning, K-12, and higher education sectors in the P-20 system;
 
-.. Prepare a regular report on the educational and workforce outcomes of youth in the juvenile justice system, using data disaggregated by age, and by ethnic categories and racial subgroups in accordance with RCW 28A.300.042; and
+.. Prepare an annual report on the educational and workforce outcomes of youth in and released from institutional education facilities as defined in RCW 28A.190.005, using data disaggregated by age, and by ethnic categories and racial subgroups in accordance with RCW 28A.300.042. The annual report required by this subsection (2)(i) must be provided to the office of the superintendent of public instruction in a manner that is suitable for compliance with RCW 28A.190.110; and
 
 .. Make recommendations to the legislature as necessary to help ensure the goals and objectives of this section and RCW 28A.655.210 and 28A.300.507 are met.
 
 . The department of children, youth, and families, superintendent of public instruction, professional educator standards board, state board of education, state board for community and technical colleges, workforce training and education coordinating board, student achievement council, public four-year institutions of higher education, department of social and health services, and employment security department shall work with the education data center to develop data-sharing and research agreements, consistent with applicable security and confidentiality requirements, to facilitate the work of the center. The education data center shall also develop data-sharing and research agreements with the administrative office of the courts to conduct research on educational and workforce outcomes using data maintained under RCW 13.50.010(12) related to juveniles. Private, nonprofit institutions of higher education that provide programs of education beyond the high school level leading at least to the baccalaureate degree and are accredited by the Northwest association of schools and colleges or their peer accreditation bodies may also develop data-sharing and research agreements with the education data center, consistent with applicable security and confidentiality requirements. The education data center shall make data from collaborative analyses available to the education agencies and institutions that contribute data to the education data center to the extent allowed by federal and state security and confidentiality requirements applicable to the data of each contributing agency or institution.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1661-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%206%20§%20223[2017 3rd sp.s. c 6 § 223]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1541-S4.SL.pdf?cite=2016%20c%2072%20§%20108[2016 c 72 § 108]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2483-S2.SL.pdf?cite=2012%20c%20229%20§%20585[2012 c 229 § 585]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2261-S.SL.pdf?cite=2009%20c%20548%20§%20201[2009 c 548 § 201]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5843-S2.SL.pdf?cite=2007%20c%20401%20§%203[2007 c 401 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1295-S2.SL.pdf?cite=2021%20c%20164%20§%2015[2021 c 164 § 15]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1661-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%206%20§%20223[2017 3rd sp.s. c 6 § 223]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1541-S4.SL.pdf?cite=2016%20c%2072%20§%20108[2016 c 72 § 108]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2483-S2.SL.pdf?cite=2012%20c%20229%20§%20585[2012 c 229 § 585]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2261-S.SL.pdf?cite=2009%20c%20548%20§%20201[2009 c 548 § 201]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5843-S2.SL.pdf?cite=2007%20c%20401%20§%203[2007 c 401 § 3]; ]
 
 == 43.41.405 - K-12 data—Securing federal funds.
 The education data center and the superintendent of public instruction shall take all actions necessary to secure federal funds to implement RCW 43.41.400, 28A.655.210, and 28A.300.507.
@@ -378,55 +378,6 @@ The state agency office relocation pool account is created in the custody of the
 . The office shall report to the legislature with a draft plan by January 1, 2018, that includes draft bill language if necessary.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5849.SL.pdf?cite=2017%20c%20192%20§%204[2017 c 192 § 4]; ]
-
-== 43.41.800 - State employee child care survey. (Expires December 31, 2020.)
-. The office of financial management, within existing resources, in partnership with the department of commerce, the office of innovation, alignment, and accountability within the department of children, youth, and families, and the health care authority, shall develop a survey for state executive branch agency employees in order to better understand issues affecting child care access and affordability for state employees' families.
-
-. The survey must, at a minimum:
-
-.. Identify the number of children age twelve and under of state employees who are receiving care from child care or early learning providers. The survey must allow employees to differentiate, to the extent possible, the type of child care or early learning provider serving the family, including:
-
-... Licensed and certified child care centers and family homes;
-
-... License-exempt providers who care for children for four hours or less per day;
-
-... Family, friend, and neighbor caregivers;
-
-... Nannies and au pairs;
-
-.. Religious organizations providing care;
-
-.. Entities providing before-and-after school care;
-
-.. Employer-supported child care; and
-
-.. Other formal and informal networks of care;
-
-.. Identify the number of children age twelve and under whose care is paid for in whole or in part with state subsidies;
-
-.. Allow employees to describe challenges they face in accessing or paying for child care; and
-
-.. Ask employees to provide their total annual household income.
-
-. The survey must be made available to all state executive branch agency employees with children age twelve and under no later than January 15, 2020.
-
-. The department of commerce, in collaboration with the office of financial management and the office of innovation, alignment, and accountability within the department of children, youth, and families, shall analyze this data and report as part of the larger industry analysis described in RCW 43.330.529. In addition to the information required under RCW 43.330.529, the report must also include:
-
-.. A breakdown of:
-
-... The number of children of state executive branch agency employees receiving care based on provider type;
-
-... The number of children of state executive branch agency employees receiving state subsidized care; and
-
-... The number of children of state executive branch agency employees receiving exclusively private pay care;
-
-.. An analysis of the relationship between family child care choices and household income bracket; and
-
-.. A narrative summary of the challenges that state executive branch agency employees face in accessing or paying for child care.
-
-. This section expires December 31, 2020.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1344-S2.SL.pdf?cite=2019%20c%20368%20§%203[2019 c 368 § 3]; ]
 
 == 43.41.970 - Federal requirements for receipt of federal funds.
 If any part of this chapter is ruled to be in conflict with federal requirements which are a prescribed condition of the allocation of federal funds to the state, or to any departments or agencies thereof, such conflicting part of this chapter is declared to be inoperative solely to the extent of the conflict. No such ruling shall affect the operation of the remainder of this chapter. Any internal reorganization carried out under the terms of this chapter shall meet federal requirements which are a necessary condition to the receipt of federal funds by the state.

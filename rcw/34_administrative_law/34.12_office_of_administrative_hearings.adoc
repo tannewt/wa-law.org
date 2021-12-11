@@ -37,14 +37,18 @@ Unless the context clearly requires otherwise, the definitions in this section a
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2017-S.SL.pdf?cite=2020%20c%2077%20§%205[2020 c 77 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c67.pdf?cite=1981%20c%2067%20§%203[1981 c 67 § 3]; ]
 
 == 34.12.034 - Retail internet service adequacy proceedings.
-When requested by the public utility district commissioners, the chief administrative law judge shall assign an administrative law judge to conduct proceedings under RCW 54.16.420.
+When requested by the public utility district commissioners, the chief administrative law judge shall assign an administrative law judge to conduct proceedings under *RCW 54.16.420.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6034-S.SL.pdf?cite=2018%20c%20186%20§%202[2018 c 186 § 2]; ]
 
-== 34.12.035 - State patrol disciplinary hearings.
-The chief administrative law judge shall designate an administrative law judge to serve, as the need arises, as presiding officer in state patrol disciplinary hearings conducted under RCW 43.43.090.
+== 34.12.035 - State patrol disciplinary hearings and decertification hearings.
+The chief administrative law judge shall designate an administrative law judge with subject matter expertise to serve, as the need arises, as presiding officer in:
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c141.pdf?cite=1984%20c%20141%20§%206[1984 c 141 § 6]; ]
+. State patrol disciplinary hearings conducted under RCW 43.43.090; and
+
+. Decertification hearings conducted under RCW 43.101.380.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5051-S2.SL.pdf?cite=2021%20c%20323%20§%2018[2021 c 323 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c141.pdf?cite=1984%20c%20141%20§%206[1984 c 141 § 6]; ]
 
 == 34.12.036 - Landlord-tenant proceedings.
 When requested by the attorney general, the chief administrative law judge shall assign an administrative law judge to conduct proceedings under Title 59 RCW.

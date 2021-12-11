@@ -38,7 +38,7 @@ The legislature finds that the practices covered by this chapter are matters vit
 
 .. A publisher of a telephone directory or other publication or a provider of a directory assistance service publishing or providing information about another business.
 
-.. An internet web site that aggregates and provides information about other businesses.
+.. An internet website that aggregates and provides information about other businesses.
 
 .. An owner or publisher of a print advertising medium providing information about other businesses.
 

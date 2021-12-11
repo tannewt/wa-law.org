@@ -135,11 +135,11 @@ Fire protection districts may cooperate and participate with counties, cities, o
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c278.pdf?cite=1986%20c%20278%20§%2049[1986 c 278 § 49]; ]
 
 == 52.12.150 - Setting fires for firefighter instruction—When burning permit not required—Notice, inspection required.
-Without obtaining a permit issued under *RCW 70.94.650, fire protection district firefighters may set fire to structures located outside of urban growth areas in counties that plan under the requirements of RCW 36.70A.040, and outside of any city with a population of ten thousand or more in all other counties, for instruction in methods of firefighting, if all of the following conditions are met:
+Without obtaining a permit issued under RCW 70A.15.5090, fire protection district firefighters may set fire to structures located outside of urban growth areas in counties that plan under the requirements of RCW 36.70A.040, and outside of any city with a population of ten thousand or more in all other counties, for instruction in methods of firefighting, if all of the following conditions are met:
 
 . In consideration of prevailing air patterns, the fire is unlikely to cause air pollution in areas of sensitivity downwind of the proposed fire location;
 
-. The fire is not located in an area that is declared to be in an air pollution episode or any stage of an impaired air quality as defined in **RCW 70.94.715 and 70.94.473;
+. The fire is not located in an area that is declared to be in an air pollution episode or any stage of an impaired air quality as defined in RCW 70A.15.6010 and 70A.15.3580;
 
 . Nuisance laws are applicable to the fire, including nuisances related to the unreasonable interference with the enjoyment of life and property and the depositing of particulate matter or ash on other property;
 
@@ -149,7 +149,7 @@ Without obtaining a permit issued under *RCW 70.94.650, fire protection district
 
 . Before setting a structure on fire, a good-faith inspection is conducted by the fire agency or fire protection district conducting the training fire to determine if materials containing asbestos are present, the inspection is documented in writing and forwarded to the appropriate local air authority or the department of ecology if there is no local air authority, and asbestos that is found is removed as required by state and federal laws.
 
-[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2993.SL.pdf?cite=2000%20c%20199%20§%201[2000 c 199 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2771-S.SL.pdf?cite=1994%20c%2028%20§%201[1994 c 28 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2058[2021 c 65 § 58]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2993.SL.pdf?cite=2000%20c%20199%20§%201[2000 c 199 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2771-S.SL.pdf?cite=1994%20c%2028%20§%201[1994 c 28 § 1]; ]
 
 == 52.12.160 - Firefighting services for unprotected lands.
 . The definitions in this section apply throughout this section and RCW 4.24.780 unless the context clearly requires otherwise.

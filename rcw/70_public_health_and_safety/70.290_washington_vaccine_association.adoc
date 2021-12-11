@@ -35,7 +35,7 @@ There is created a nonprofit corporation to be known as the Washington vaccine a
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2551-S2.SL.pdf?cite=2010%20c%20174%20§%202[2010 c 174 § 2]; ]
 
-== 70.290.030 - Composition of association—Board of directors—Duties.
+== 70.290.030 - Composition of association—Board of directors—Duties. (Effective until January 1, 2022.)
 . The association is comprised of all health carriers issuing or renewing health benefit plans in Washington state and all third-party administrators conducting business on behalf of residents of Washington state or Washington health care providers and facilities. Third-party administrators are subject to registration under RCW 70.290.075.
 
 . The association is a nonprofit corporation under chapter 24.03 RCW and has the powers granted under that chapter.
@@ -116,9 +116,9 @@ There is created a nonprofit corporation to be known as the Washington vaccine a
 == 70.290.050 - Selection of vaccines to be purchased—Committee.
 . The board of the association shall establish a committee for the purposes of developing recommendations to the board regarding selection of vaccines to be purchased in each upcoming year by the department. The committee must be composed of at least five voting board members, including at least three health carrier or third-party administrator members, one physician, and the secretary or the secretary's designee. The committee must also include a representative of vaccine manufacturers, who is a nonvoting member of the committee. The representative of vaccine manufacturers must be chosen by the secretary from a list of three nominees submitted collectively by vaccine manufacturers on an annual basis.
 
-. In selecting vaccines to purchase, the following factors should be strongly considered by the committee: Patient safety and clinical efficacy, public health and purchaser value, compliance with *RCW 70.95M.115, patient and provider choice, and stability of vaccine supply.
+. In selecting vaccines to purchase, the following factors should be strongly considered by the committee: Patient safety and clinical efficacy, public health and purchaser value, compliance with RCW 70A.230.120, patient and provider choice, and stability of vaccine supply.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2551-S2.SL.pdf?cite=2010%20c%20174%20§%205[2010 c 174 § 5]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2068[2021 c 65 § 68]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2551-S2.SL.pdf?cite=2010%20c%20174%20§%205[2010 c 174 § 5]; ]
 
 == 70.290.060 - Additional duties and powers of the association and secretary—Penalty—Rules.
 In addition to the duties and powers enumerated elsewhere in this chapter:

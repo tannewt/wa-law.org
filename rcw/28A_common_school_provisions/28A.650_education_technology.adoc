@@ -1,53 +1,14 @@
 = 28A.650 - Education technology.
 :toc:
 
-== 28A.650.005 - Findings—Intent.
-The legislature recognizes that up-to-date tools will help students learn. Workplace technology requirements will continue to change and students should be knowledgeable in the use of technologies.
-
-Furthermore, the legislature finds that the Washington systemic initiative is a broad-based effort to promote widespread public literacy in mathematics, science, and technology. An important component of the systemic initiative is the universal electronic access to information by students. It is the intent of the legislature that components of RCW 28A.650.010 through 28A.650.025 will support the statewide systemic reform effort in mathematics, science, and technology as envisioned by the Washington systemic initiative.
-
-[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1209-S.SL.pdf?cite=1993%20c%20336%20§%20701[1993 c 336 § 701]; ]
-
 == 28A.650.010 - Definitions.
 Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
 
 . "Digital citizenship" includes the norms of appropriate, responsible, and healthy behavior related to current technology use, including digital and media literacy, ethics, etiquette, and security. The term also includes the ability to access, analyze, evaluate, develop, produce, and interpret media, as well as internet safety and cyberbullying prevention and response.
 
-. "Education technology" or "technology" means the effective use of electronic and optical tools, including telephones, and electronic and optical pathways in helping students learn.
+. "Learning device" means an internet-accessible computer, tablet, or other device, with an appropriate operating system, software applications, and data security, that can be used to access curricula, educational web applications and websites, and learning management systems, and with telecommunications capabilities sufficient for videoconferencing.
 
-. "Network" means integrated linking of education technology systems in schools for transmission of voice, data, video, or imaging, or a combination of these.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5449-S.SL.pdf?cite=2017%20c%2090%20§%201[2017 c 90 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1209-S.SL.pdf?cite=1993%20c%20336%20§%20702[1993 c 336 § 702]; ]
-
-== 28A.650.015 - Education technology plan—Educational technology advisory committee.
-. The superintendent of public instruction, to the extent funds are appropriated, shall develop and implement a Washington state K-12 education technology plan. The technology plan shall be updated on at least a biennial basis, shall be developed to coordinate and expand the use of education technology in the common schools of the state. The plan shall be consistent with applicable provisions of chapter 43.105 RCW. The plan, at a minimum, shall address:
-
-.. The provision of technical assistance to schools and school districts for the planning, implementation, and training of staff in the use of technology in curricular and administrative functions;
-
-.. The continued development of a network to connect school districts, institutions of higher learning, and other sources of online information; and
-
-.. Methods to equitably increase the use of education technology by students and school personnel throughout the state.
-
-. The superintendent of public instruction shall appoint an educational technology advisory committee to assist in the development and implementation of the technology plan in subsection (1) of this section. The committee shall include, but is not limited to, persons representing: The office of the chief information officer, educational service districts, school directors, school administrators, school principals, teachers, classified staff, higher education faculty, parents, students, business, labor, scientists and mathematicians, the workforce training and education coordinating board, and the state library.
-
-. The plan adopted and implemented under this section may not impose on school districts any requirements that are not specifically required by federal law or regulation, including requirements to maintain eligibility for the federal schools and libraries program of the universal service fund.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5931-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2043%20§%20725[2011 1st sp.s. c 43 § 725]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5182-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2011%20§%20133[2011 1st sp.s. c 11 § 133]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5889-S.SL.pdf?cite=2009%20c%20556%20§%2017[2009 c 556 § 17]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/3098-S2.SL.pdf?cite=2006%20c%20263%20§%20917[2006 c 263 § 917]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5169-S.SL.pdf?cite=1995%20c%20335%20§%20507[1995 c 335 § 507]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2850-S.SL.pdf?cite=1994%20c%20245%20§%202[1994 c 245 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1209-S.SL.pdf?cite=1993%20c%20336%20§%20703[1993 c 336 § 703]; ]
-
-== 28A.650.020 - Regional educational technology support centers—Advisory councils.
-Educational service districts shall establish, subject to available funding, regional educational technology support centers for the purpose of providing ongoing educator training, school district cost-benefit analysis, long-range planning, network planning, distance learning access support, and other technical and programmatic support. Each educational service district shall establish a representative advisory council to advise the educational service district in the expenditure of funds provided to the technology support centers.
-
-[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1209-S.SL.pdf?cite=1993%20c%20336%20§%20705[1993 c 336 § 705]; ]
-
-== 28A.650.025 - Distribution of funds for regional educational technology support centers.
-The superintendent of public instruction, to the extent funds are appropriated, shall distribute funds to educational service districts on a grant basis for the regional educational technology support centers established in RCW 28A.650.020.
-
-[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1209-S.SL.pdf?cite=1993%20c%20336%20§%20706[1993 c 336 § 706]; ]
-
-== 28A.650.030 - Distribution of funds to expand the education statewide network.
-The superintendent of public instruction, to the extent funds are appropriated, shall distribute funds to the Washington school information processing cooperative and to school districts on a grant basis, from moneys appropriated for the purposes of this section, for equipment, networking, and software to expand the current K-12 education statewide network.
-
-[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1209-S.SL.pdf?cite=1993%20c%20336%20§%20707[1993 c 336 § 707]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1365-S2.SL.pdf?cite=2021%20c%20301%20§%202[2021 c 301 § 2]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5449-S.SL.pdf?cite=2017%20c%2090%20§%201[2017 c 90 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1209-S.SL.pdf?cite=1993%20c%20336%20§%20702[1993 c 336 § 702]; ]
 
 == 28A.650.035 - Gifts, grants, and endowments.
 The superintendent of public instruction may receive such gifts, grants, and endowments from public or private sources as may be made from time to time, in trust or otherwise, for the use and benefit of the purposes of educational technology and expend the same or any income therefrom according to the terms of the gifts, grants, or endowments.
@@ -101,13 +62,77 @@ The superintendent of public instruction shall adopt rules as necessary under ch
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5449-S.SL.pdf?cite=2017%20c%2090%20§%204[2017 c 90 § 4]; ]
 
-== 28A.650.900 - Findings—Intent—Part headings not law—1993 c 336.
-See notes following RCW 28A.150.210.
+== 28A.650.060 - Technology consultation, procurement, and training.
+. Each educational service district shall provide technology consultation, procurement, and training, in consultation with teacher-librarians through school library information and technology programs as defined in RCW 28A.320.240, and as described in this section. An educational service district may meet the requirements of this section in cooperation with one or more other educational service districts.
 
-[ ]
+. Technology consultation involves providing technical assistance and guidance to local school districts related to technology needs and financing, and may include consultation with other entities.
 
-== 28A.650.901 - Findings—1993 c 336.
-See note following RCW 28A.150.210.
+. [Empty]
+.. Technology procurement involves negotiating for local school district purchasing and leasing of learning devices and peripheral devices, learning management systems, cybersecurity protection, device insurance, and other technology-related goods and services.
 
-[ ]
+.. When selecting goods and services for procurement, the educational service district must consider a variety of student needs, as well as accessibility, age appropriateness, privacy and security, data storage and transfer capacity, and telecommunications capability.
+
+.. Technology procurement may be performed in consultation and contract with the department of enterprise services under chapter 39.26 RCW.
+
+. Technology training involves developing and offering direct services to local school districts related to staff development and capacity building to provide digital navigation services to students and their families. The educational service districts must seek to consult teacher-librarians and other relevant information technology programs to determine where there is a need and focus for this training. These services may be provided on a fee-for-service basis.
+
+. Technology consultation, procurement, and training under this section must be provided to local public schools, as defined in RCW 28A.150.010, the Washington center for deaf and hard of hearing youth, and the school for the blind, in addition to local school districts. Technology training under this section may also be offered to child care providers.
+
+. The educational service districts must cooperate with the office of the superintendent of public instruction to provide the data required under RCW 28A.650.070(1).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1365-S2.SL.pdf?cite=2021%20c%20301%20§%203[2021 c 301 § 3]; ]
+
+== 28A.650.065 - Technology grant program.
+. Subject to the availability of amounts appropriated for this specific purpose, the office of the superintendent of public instruction shall develop and administer a technology grant program, as described in this section, to advance the following objectives:
+
+.. Attain a universal 1:1 student to learning device ratio;
+
+.. Expand technical support and training of school and district staff in using technology to support student learning; and
+
+.. Develop district-based and school-based capacity to assist students and their families in accessing and using technology to support student learning.
+
+. The following entities, individually or in cooperation, may apply to the office of the superintendent of public instruction for a grant under this section: A public school as defined in RCW 28A.150.010; a school district; an educational service district; the Washington center for deaf and hard of hearing youth; and the state school for the blind.
+
+. At a minimum, grant applications must include:
+
+.. The applicant's technology plan for accomplishing the goals of the grant program, the applicant's student demographics, including the percent of students eligible for free and reduced-price meals, and any specialized technology needs of the applicant's students, such as students with disabilities and English learners who may need adaptive or assistive technologies; and
+
+.. A description of preexisting programs and funding sources used by the applicant to provide learning devices to students, staff, or both.
+
+. When ranking and selecting applicants, the office of the superintendent of public instruction must prioritize both of the following:
+
+.. Applicants without preexisting programs to provide a device for every student and that have 30 percent or more students eligible for free and reduced-price meals; and
+
+.. Applicants with students who have specialized technology needs.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1365-S2.SL.pdf?cite=2021%20c%20301%20§%204[2021 c 301 § 4]; ]
+
+== 28A.650.070 - Technology initiatives—Technology levies—Data—Reports.
+. The office of the superintendent of public instruction shall collect and analyze the following data:
+
+.. Demographic, distribution, and other data related to technology initiatives; and
+
+.. Biennial survey data on school and school district progress to accomplish the objectives listed in RCW 28A.650.065(1).
+
+. By November 1, 2022, and by November 1st every even year thereafter, the office of the superintendent of public instruction shall provide a report to the appropriate policy and fiscal committees of the legislature, in accordance with RCW 43.01.036, with:
+
+.. A summary of the technology initiatives data collected under subsection (1) of this section;
+
+.. The status of the state's progress in accomplishing the following: (i) Accelerate student access to learning devices and related goods and services; (ii) expand training programs and technical assistance on using technology to support student learning; and (iii) build the capacity of schools and districts to support digital navigation services for students and their families;
+
+.. Recommendations for improving the administration and oversight of the technology initiatives; and
+
+.. An update on innovative and collaborative activities occurring in communities across the state to support widespread public technology literacy and fluency, as well as student universal access to learning devices.
+
+. By November 1, 2022, the office of the superintendent of public instruction shall survey districts, collect data, and provide a report to the appropriate policy and fiscal committees of the legislature that contains, at a minimum, the following:
+
+.. A list of districts that have a separate technology levy;
+
+.. The total amount of funding generated by the technology levies; and
+
+.. A detailed breakdown on how the funds generated by the technology levies are being used, including, but not limited to, the number of technology devices being purchased with those funds, personnel costs related to servicing and maintaining those devices covered by those funds, and any training or professional development for use of technology provided with those funds.
+
+. For the purposes of this section, "technology initiatives" means the technology grants awarded by the office of the superintendent of public instruction under RCW 28A.650.065, and the provision of technology consultation, procurement, and training by educational service districts under RCW 28A.650.060.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1365-S2.SL.pdf?cite=2021%20c%20301%20§%205[2021 c 301 § 5]; ]
 

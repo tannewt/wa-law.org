@@ -212,7 +212,7 @@ The veterans innovations program account is created in the state treasury. Money
 
 .. Maintain a current list of certified veteran-owned businesses; and
 
-.. Make the list of certified veteran-owned businesses available on the department's public web site.
+.. Make the list of certified veteran-owned businesses available on the department's public website.
 
 . To qualify as a certified veteran-owned business, the business must:
 
@@ -246,7 +246,7 @@ The veterans innovations program account is created in the state treasury. Money
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5391.SL.pdf?cite=2017%20c%20185%20§%207[2017 c 185 § 7]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2744.SL.pdf?cite=2014%20c%20182%20§%201[2014 c 182 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3360.SL.pdf?cite=2008%20c%20187%20§%201[2008 c 187 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5253.SL.pdf?cite=2007%20c%2011%20§%201[2007 c 11 § 1]; ]
 
 == 43.60A.195 - Veteran-owned business certification—Rules—Outreach.
-. The department shall develop a procedure for certifying veteran-owned businesses and maintain a list of veteran-owned businesses on the department's public web site.
+. The department shall develop a procedure for certifying veteran-owned businesses and maintain a list of veteran-owned businesses on the department's public website.
 
 . The department shall adopt rules necessary to implement chapter 5, Laws of 2010. The department shall consult agencies to determine what specific information they must report to the department.
 
@@ -355,6 +355,13 @@ The coordinator for the helmets to hardhats program is created in the department
 . The military spouse liaison is encouraged to periodically report on the work of the liaison to the relevant standing committees of the legislature and the joint committee on veterans' and military affairs and participate in policy development relating to military spouses.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6626.SL.pdf?cite=2020%20c%20328%20§%201[2020 c 328 § 1]; ]
+
+== 43.60A.250 - Purple heart state—Signage—Account.
+. The department is authorized to erect signs recognizing that Washington state is a purple heart state as designated in RCW 1.20.190. The department is authorized to accept gifts or donations to assist efforts related to Washington state being a purple heart state.
+
+. The department of veterans affairs purple heart state account is created in the custody of the state treasurer. All receipts from gifts and donations received pursuant to this section must be deposited into the account. Expenditures from the account may only be used to erect signs or other activities that assist efforts related to Washington state being a purple heart state, as authorized under this section. Only the director of the department of veterans affairs or the director's designee may authorize expenditures from the account. The account is subject to allotment procedures under chapter 43.88 RCW, but an appropriation is not required for expenditures.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1250-S.SL.pdf?cite=2021%20c%20213%20§%204[2021 c 213 § 4]; ]
 
 == 43.60A.900 - Transfer of personnel of department of social and health services engaged in veterans' services—Rights preserved.
 All employees and personnel of the department of social and health services directly engaged in services to veterans shall, on June 25, 1976, be transferred to the jurisdiction of the department of veterans affairs. All employees classified under chapter 41.06 RCW, the state civil service law, shall be assigned to the department to perform their usual duties upon the same terms as formerly, without any loss of rights, subject to any action that may be appropriate thereafter in accordance with the laws and rules governing the state civil service law.

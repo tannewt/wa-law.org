@@ -77,8 +77,8 @@ The definitions in this section apply throughout this chapter unless the context
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2192-S2.SL.pdf?cite=2014%20c%2068%20§%203[2014 c 68 § 3]; ]
 
-== 43.42A.030 - Information available to permit applicants—Links from agencies' web sites to office of regulatory assistance's web site—Central repository of information—Searchability of information on central repository.
-. To provide meaningful customer service that informs project planning and decision making by the citizens and businesses served, each agency must make available to permit applicants the following information through a link from the agency's web site to the office's web site, as provided in subsection (4) of this section:
+== 43.42A.030 - Information available to permit applicants—Links from agencies' websites to office of regulatory assistance's website—Central repository of information—Searchability of information on central repository.
+. To provide meaningful customer service that informs project planning and decision making by the citizens and businesses served, each agency must make available to permit applicants the following information through a link from the agency's website to the office's website, as provided in subsection (4) of this section:
 
 .. A list of the types of permit assistance available and how such assistance may be accessed;
 
@@ -103,7 +103,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 .. Agencies must consider the customer experience in ensuring all permit assistance information is simple to use, easy to access, and designed in a customer-friendly manner.
 
-. To ensure agencies can post the required information online with minimal expenditure of agency resources, the office of the chief information officer shall, in consultation with the office of regulatory assistance, establish a central repository of this information, hosted on the office of regulatory assistance's web site. Each agency shall include at least one link to the central repository from the agency's web site. Agencies shall place the link or links in such locations as the agency deems will be most customer-friendly and maximize accessibility of the information to users of the web site.
+. To ensure agencies can post the required information online with minimal expenditure of agency resources, the office of the chief information officer shall, in consultation with the office of regulatory assistance, establish a central repository of this information, hosted on the office of regulatory assistance's website. Each agency shall include at least one link to the central repository from the agency's website. Agencies shall place the link or links in such locations as the agency deems will be most customer-friendly and maximize accessibility of the information to users of the website.
 
 . The office shall ensure the searchability of the information posted on the central repository, applying industry best practices such as search engine optimization, to ensure that the permit performance and assistance information is readily findable and accessible by members of the public.
 
@@ -112,7 +112,7 @@ The definitions in this section apply throughout this chapter unless the context
 == 43.42A.040 - Comprehensive progress report—Identification of permits with processing and decision times that are most improved and those most in need of improvement.
 . By September 30th of 2016 and each even-numbered year thereafter up to and including 2020, the office shall publish a comprehensive progress report to the economic development committees of the house of representatives and the senate and to the governor on the performance of agencies in tracking permit timelines and other efforts to improve clarity and predictability of regulatory permitting. The report must include at a minimum for each agency a summary of the data reported by the agency to the office under RCW 43.42A.020(4).
 
-. The office shall post the comprehensive progress report on its web site. The report must be easily accessible and designed in a customer-friendly format.
+. The office shall post the comprehensive progress report on its website. The report must be easily accessible and designed in a customer-friendly format.
 
 . Beginning with the 2016 report, the office must identify permits with processing and decision times that are most improved and processing and decision times that are most in need of improvement, as indicated by the performance data collected under RCW 43.42A.020. Each agency may include a statement describing any process improvements the agency has identified for implementation in order to improve processing and decision times.
 

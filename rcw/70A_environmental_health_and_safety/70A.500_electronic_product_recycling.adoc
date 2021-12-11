@@ -250,11 +250,11 @@ Any person acquiring a manufacturer, or who has acquired a manufacturer, shall h
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5699.SL.pdf?cite=2013%20c%20305%20§%205[2013 c 305 § 5]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6428-S.SL.pdf?cite=2006%20c%20183%20§%2011[2006 c 183 § 11]; ]
 
 == 70A.500.120 - Promotion of covered product recycling.
-. An independent plan and the standard plan must inform covered entities about where and how to reuse and recycle their covered electronic products at the end of the product's life, including providing a web site or a toll-free telephone number that gives information about the recycling program in sufficient detail to educate covered entities regarding how to return their covered electronic products for recycling.
+. An independent plan and the standard plan must inform covered entities about where and how to reuse and recycle their covered electronic products at the end of the product's life, including providing a website or a toll-free telephone number that gives information about the recycling program in sufficient detail to educate covered entities regarding how to return their covered electronic products for recycling.
 
 . The department shall promote covered electronic product recycling by:
 
-.. Posting information describing where to recycle unwanted covered electronic products on its web site;
+.. Posting information describing where to recycle unwanted covered electronic products on its website;
 
 .. Providing information about recycling covered electronic products through a toll-free telephone service; and
 
@@ -262,7 +262,7 @@ Any person acquiring a manufacturer, or who has acquired a manufacturer, shall h
 
 . Local governments shall promote covered electronic product recycling, including listings of local collection sites and services, through existing educational methods typically used by each local government.
 
-. A retailer who sells new covered electronic products shall provide information to consumers describing where and how to recycle covered electronic products and opportunities and locations for the convenient collection or return of the products. This requirement can be fulfilled by providing the department's toll-free telephone number and web site. Remote sellers may include the information in a visible location on their web site as fulfillment of this requirement.
+. A retailer who sells new covered electronic products shall provide information to consumers describing where and how to recycle covered electronic products and opportunities and locations for the convenient collection or return of the products. This requirement can be fulfilled by providing the department's toll-free telephone number and website. Remote sellers may include the information in a visible location on their website as fulfillment of this requirement.
 
 . Manufacturers, state government, local governments, retailers, and collection sites and services shall collaborate in the development and implementation of the public information campaign.
 
@@ -326,12 +326,12 @@ Nonprofit charitable organizations that qualify for a taxation exemption under s
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6428-S.SL.pdf?cite=2006%20c%20183%20§%2016[2006 c 183 § 16]; ]
 
 == 70A.500.170 - Sale of covered electronic products.
-No person may sell or offer for sale a covered electronic product to any person in this state unless the manufacturer of the covered electronic product has filed a registration with the department under RCW 70A.500.040 and is participating in an approved plan under RCW 70A.500.050. A person that sells or offers for sale a covered electronic product in the state shall consult the department's web site for lists of manufacturers with registrations and approved plans prior to selling a covered electronic product in the state. A person is considered to have complied with this section if on the date the product was ordered from the manufacturer or its agent, the manufacturer was listed as having registered and having an approved plan on the department's web site.
+No person may sell or offer for sale a covered electronic product to any person in this state unless the manufacturer of the covered electronic product has filed a registration with the department under RCW 70A.500.040 and is participating in an approved plan under RCW 70A.500.050. A person that sells or offers for sale a covered electronic product in the state shall consult the department's website for lists of manufacturers with registrations and approved plans prior to selling a covered electronic product in the state. A person is considered to have complied with this section if on the date the product was ordered from the manufacturer or its agent, the manufacturer was listed as having registered and having an approved plan on the department's website.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201254[2020 c 20 § 1254]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6428-S.SL.pdf?cite=2006%20c%20183%20§%2017[2006 c 183 § 17]; ]
 
-== 70A.500.180 - Department web site.
-. The department shall maintain on its web site the following information:
+== 70A.500.180 - Department website.
+. The department shall maintain on its website the following information:
 
 .. The names of the manufacturers and the manufacturer's brands that are registered with the department under RCW 70A.500.040;
 
@@ -343,7 +343,7 @@ No person may sell or offer for sale a covered electronic product to any person 
 
 .. For program years 2009 through 2015, return and equivalent shares for all manufacturers.
 
-. The department shall update this web site information promptly upon receipt of a registration or a report.
+. The department shall update this website information promptly upon receipt of a registration or a report.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201255[2020 c 20 § 1255]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5699.SL.pdf?cite=2013%20c%20305%20§%207[2013 c 305 § 7]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6428-S.SL.pdf?cite=2006%20c%20183%20§%2018[2006 c 183 § 18]; ]
 

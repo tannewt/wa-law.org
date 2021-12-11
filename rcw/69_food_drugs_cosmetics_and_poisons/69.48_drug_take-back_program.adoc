@@ -8,9 +8,9 @@
 
 . A safe system for the collection and disposal of unused, unwanted, and expired medicines is a key element of a comprehensive strategy to prevent prescription drug abuse, but disposing of medicines by flushing them down the toilet or placing them in the garbage can contaminate groundwater and other bodies of water, contributing to long-term harm to the environment and animal life.
 
-. The legislature therefore finds that it is in the interest of public health to establish a single, uniform, statewide system of regulation for safe and secure collection and disposal of medicines through a uniform drug "take-back" program operated and funded by drug manufacturers.
+. The legislature therefore finds that it is in the interest of public health to establish a single, uniform, statewide system of regulation for safe and secure collection and disposal of medicines through drug "take-back" programs operated and funded by drug manufacturers.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1047-S.SL.pdf?cite=2018%20c%20196%20§%201[2018 c 196 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1161-S2.SL.pdf?cite=2021%20c%20155%20§%201[2021 c 155 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1047-S.SL.pdf?cite=2018%20c%20196%20§%201[2018 c 196 § 1]; ]
 
 == 69.48.020 - Definitions.
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
@@ -125,15 +125,17 @@ A covered manufacturer must establish and implement a drug take-back program tha
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1047-S.SL.pdf?cite=2018%20c%20196%20§%204[2018 c 196 § 4]; ]
 
 == 69.48.050 - Drug take-back program approval—Program modifications.
-. By July 1, 2019, a program operator must submit a proposal for the establishment and implementation of a drug take-back program to the department for approval. The department shall approve a proposed program if the applicant submits a completed application, the proposed program meets the requirements of subsection (2) of this section, and the applicant pays the appropriate fee established by the department under RCW 69.48.120.
+. By July 1, 2019, a program operator must submit a proposal for the establishment and implementation of a drug take-back program to the department for approval. Proposals from new entities seeking to become a program operator after July 1, 2019, may be submitted as provided in subsection (7) of this section. The department shall approve a proposed program if the applicant submits a completed application, the proposed program meets the requirements of subsection (2) of this section, and the applicant pays the appropriate proposal review fee established by the department under RCW 69.48.120. The department may approve drug take-back programs proposed by one or more program operators consistent with the provisions of this section.
 
-. To be approved by the department, a proposed drug take-back program must:
+. To be approved by the department, a proposed drug take-back program, independent of any other operating program, must:
 
 .. Identify and provide contact information for the program operator and each participating covered manufacturer;
 
 .. Identify and provide contact information for the authorized collectors for the proposed program, as well as the reasons for excluding any potential authorized collectors from participation in the program;
 
 .. Provide for a collection system that complies with RCW 69.48.060;
+
+.. Ensure that physical collection sites are the primary method of collection across the state and that methods of supplementing physical collection site service are the secondary methods for collection as required by RCW 69.48.060(3) (b) through (d). A drug take-back program's use of supplemental mail-back distribution locations or periodic collection events in any areas underserved by physical collection sites may provide collection services to no more than 15 percent of the state's residents;
 
 .. Provide for a handling and disposal system that complies with RCW 69.48.080;
 
@@ -166,7 +168,7 @@ A covered manufacturer must establish and implement a drug take-back program tha
 
 ... Find the covered manufacturer out of compliance with the requirements of this chapter and take enforcement action as provided in RCW 69.48.110.
 
-. The program operator must initiate operation of an approved drug take-back program no later than one hundred eighty days after approval of the proposal by the department.
+. The program operator must fully implement an approved drug take-back program no later than one hundred eighty days after approval of the proposal by the department.
 
 . [Empty]
 .. Proposed changes to an approved drug take-back program that substantially alter program operations must have prior written approval of the department. A program operator must submit to the department such a proposed change in writing at least fifteen days before the change is scheduled to occur. Changes requiring prior approval of the department include changes to participating covered manufacturers, collection methods, achievement of the service convenience goal described in RCW 69.48.060, policies and procedures for handling covered drugs, education and promotion methods, and selection of disposal facilities.
@@ -175,11 +177,32 @@ A covered manufacturer must establish and implement a drug take-back program tha
 
 .. A program operator must notify the department of any changes to the official point of contact for the program no later than fifteen days after the change. A program operator must notify the department of any changes in ownership or contact information for participating covered manufacturers no later than ninety days after such change.
 
-. No later than four years after a drug take-back program initiates operations, and every four years thereafter, the program operator must submit an updated proposal to the department describing any substantive changes to program elements described in subsection (2) of this section. The department shall approve or reject the updated proposal using the process described in subsection (3) of this section.
+. By July 1, 2024, and every four years thereafter, all program operators must submit an updated proposal to the department describing any substantive changes to program elements described in subsection (2) of this section. The department shall approve or reject the updated proposal using the process described in subsection (3) of this section.
+
+. [Empty]
+.. On July 1, 2021, the department will begin the review of new proposals received by that date from entities seeking to become a program operator.
+
+.. Beginning July 1, 2024, and every four years thereafter, the department will review new proposals from entities seeking to become a program operator.
+
+.. The department shall approve a proposal if it meets the requirements in subsection (2) of this section and the applicant pays the appropriate fee established by the department under RCW 69.48.120. The department must approve or reject proposals received using the process provided in subsection (3) of this section.
+
+. [Empty]
+.. If there is a single approved drug take-back program at any time and that program operator intends to leave the program for any reason, participating manufacturers must find a new entity to take over operations of the existing program without a break in program services. The new entity may not make changes to the operations of the approved program, which must be consistent with the proposal as it was approved by the department under this section, or each covered manufacturer or group of covered manufacturers must identify a new program operator to develop a new program proposal. The department must accept new proposals from potential program operators for a minimum of four months from the date the department is notified of the program operator intending to cease operations, or until a proposal is approved by the department. The department may approve a proposal if it meets the requirements in subsection (2) of this section and the applicant pays the appropriate fee established by the department under RCW 69.48.120. The department must approve or reject proposals received using the process described in subsection (3) of this section.
+
+.. If there is a single approved drug take-back program, and that program operator leaves the program and participating manufacturers do not identify a program operator to take over the approved program as provided in (a) of this subsection, all covered manufacturers must participate in a new approved drug take-back program as soon as one is approved.
+
+. If there is more than one approved drug take-back program, and a program operator for a drug take-back program leaves the program for any reason and the covered manufacturers participating in that program fail to identify a new entity to take over operations of the existing program without a break in program services as described in subsection (8)(a) of this section, those manufacturers must immediately join an existing approved drug take-back program.
+
+. A covered manufacturer may change the approved drug take-back program it participates in but the covered manufacturer must maintain continuous participation in an established drug take-back program and may not leave an approved program until it transfers participation to an approved drug take-back program that has begun drug collection.
 
 . The department shall make all proposals submitted under this section available to the public and shall provide an opportunity for written public comment on each proposal.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1047-S.SL.pdf?cite=2018%20c%20196%20§%205[2018 c 196 § 5]; ]
+. [Empty]
+.. All program operators must collaborate to present a consistent statewide drug take-back system for residents to ensure that all state residents can easily identify, understand, and access services provided by any approved drug take-back program. The department may identify or clarify in rule additional requirements for coordination or performance amongst program operators, if necessary, to ensure consistent operation of the drug take-back program. Requirements may include, but are not limited to: Consistent drop box appearance and signage; consistent messaging in education and outreach; and consistent metrics included in operator annual reports as required in RCW 69.48.100 to ensure the department can accurately analyze the data.
+
+.. Failure to comply with these requirements may result in enforcement action against a program operator as authorized under RCW 69.48.110.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1161-S2.SL.pdf?cite=2021%20c%20155%20§%203[2021 c 155 § 3]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1047-S.SL.pdf?cite=2018%20c%20196%20§%205[2018 c 196 § 5]; ]
 
 == 69.48.060 - Collection system.
 . [Empty]
@@ -202,9 +225,9 @@ A covered manufacturer must establish and implement a drug take-back program tha
 
 .. A collection site located at a long-term care facility may only accept covered drugs that are in the possession of individuals who reside or have resided at the facility.
 
-.. A collection site must use secure collection receptacles in compliance with state and federal law, including any applicable on-site storage and collection standards adopted by rule pursuant to *chapter 70.95 or 70.105 RCW and United States drug enforcement administration regulations. The program operator must provide a service schedule that meets the needs of each collection site to ensure that each secure collection receptacle is serviced as often as necessary to avoid reaching capacity and that collected covered drugs are transported to final disposal in a timely manner, including a process for additional prompt collection service upon notification from the collection site. Secure collection receptacle signage must prominently display a toll-free telephone number and web site for the program so that members of the public may provide feedback on collection activities.
+.. A collection site must use secure collection receptacles in compliance with state and federal law, including any applicable on-site storage and collection standards adopted by rule pursuant to chapter 70A.205 or 70A.300 RCW and United States drug enforcement administration regulations. The program operator must provide a service schedule that meets the needs of each collection site to ensure that each secure collection receptacle is serviced as often as necessary to avoid reaching capacity and that collected covered drugs are transported to final disposal in a timely manner, including a process for additional prompt collection service upon notification from the collection site. Secure collection receptacle signage must prominently display a toll-free telephone number and website for the program so that members of the public may provide feedback on collection activities.
 
-.. An authorized collector must comply with applicable provisions of *chapters 70.95 and 70.105 RCW, including rules adopted pursuant to those chapters that establish collection and transportation standards, and federal laws and regulations governing the handling of covered drugs, including United States drug enforcement administration regulations.
+.. An authorized collector must comply with applicable provisions of chapters 70A.205 and 70A.300 RCW, including rules adopted pursuant to those chapters that establish collection and transportation standards, and federal laws and regulations governing the handling of covered drugs, including United States drug enforcement administration regulations.
 
 . [Empty]
 .. A drug take-back program's collection system must be safe, secure, and convenient on an ongoing, year-round basis and must provide equitable and reasonably convenient access for residents across the state.
@@ -220,11 +243,11 @@ A covered manufacturer must establish and implement a drug take-back program tha
 
 .. A program operator must establish mail-back distribution locations or hold periodic collection events to supplement service to any area of the state that is underserved by collection sites, as determined by the department, in consultation with the local health jurisdiction. The program operator, in consultation with the department, local law enforcement, the local health jurisdiction, and the local community, must determine the number and locations of mail-back distribution locations or the frequency and location of these collections events, to be held at least twice a year, unless otherwise determined through consultation with the local community. The program must arrange any periodic collection events in advance with local law enforcement agencies and conduct periodic collection events in compliance with United States drug enforcement administration regulations and protocols and applicable state laws.
 
-.. Upon request, a drug take-back program must provide a mail-back program free of charge to covered entities and to retail pharmacies that offer to distribute prepaid, preaddressed mailing envelopes for the drug take-back program. A drug take-back program must permit covered entities to request prepaid, preaddressed mailing envelopes through the program's web site, the program's toll-free telephone number, and a request to a pharmacist at a retail pharmacy distributing the program's mailing envelopes.
+.. Upon request, a drug take-back program must provide a mail-back program free of charge to covered entities and to retail pharmacies that offer to distribute prepaid, preaddressed mailing envelopes for the drug take-back program. A drug take-back program must permit covered entities to request prepaid, preaddressed mailing envelopes through the program's website, the program's toll-free telephone number, and a request to a pharmacist at a retail pharmacy distributing the program's mailing envelopes.
 
 .. The program operator must provide alternative collection methods for any covered drugs, other than controlled substances, that cannot be accepted or commingled with other covered drugs in secure collection receptacles, through a mail-back program, or at periodic collection events, to the extent permissible under applicable state and federal laws. The department shall review and approve of any alternative collection methods prior to their implementation.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1047-S.SL.pdf?cite=2018%20c%20196%20§%206[2018 c 196 § 6]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2064[2021 c 65 § 64]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1047-S.SL.pdf?cite=2018%20c%20196%20§%206[2018 c 196 § 6]; ]
 
 == 69.48.070 - Drug take-back program promotion.
 . A drug take-back program must develop and provide a system of promotion, education, and public outreach about the safe storage and secure collection of covered drugs. This system may include signage, written materials to be provided at the time of purchase or delivery of covered drugs, and advertising or other promotional materials. At a minimum, each program must:
@@ -235,7 +258,7 @@ A covered manufacturer must establish and implement a drug take-back program tha
 
 .. Promote the use of the drug take-back program so that where and how to return covered drugs is widely understood by residents, pharmacists, retail pharmacies, health care facilities and providers, veterinarians, and veterinary hospitals;
 
-.. Establish a toll-free telephone number and web site publicizing collection options and collection sites and discouraging improper disposal practices for covered drugs, such as flushing them or placing them in the garbage;
+.. Establish a toll-free telephone number and website publicizing collection options and collection sites and discouraging improper disposal practices for covered drugs, such as flushing them or placing them in the garbage;
 
 .. Prepare educational and outreach materials that: Promote safe storage of covered drugs; discourage the disposal of covered drugs in solid waste collection, sewer, or septic systems; and describe how to return covered drugs to the drug take-back program. The materials must use plain language and explanatory images to make collection services and discouraged disposal practices readily understandable to all residents, including residents with limited English proficiency;
 
@@ -245,11 +268,11 @@ A covered manufacturer must establish and implement a drug take-back program tha
 
 .. Annually report on its promotion, outreach, and public education activities in its annual report required by RCW 69.48.100.
 
-. If more than one drug take-back program is approved by the department, the programs must coordinate their promotional activities to ensure that all state residents can easily identify, understand, and access the collection services provided by any drug take-back program. Coordination efforts must include providing residents with a single toll-free telephone number and single web site to access information about collection services for every approved program.
+. If more than one drug take-back program is approved by the department, the programs must coordinate their promotional activities to ensure that all state residents can easily identify, understand, and access the collection services provided by any drug take-back program. Coordination efforts must include providing residents with a single toll-free telephone number and single website to access information about collection services for every approved program, including presenting all available collection sites, mail-back distribution locations, and take-back events to ensure residents are able to access the most convenient method of collection, regardless of the program operator, and must manage requests for prepaid, preaddressed mailing envelopes from covered entities and from retail pharmacies as provided in RCW 69.48.060(3)(e).
 
 . Pharmacies and other entities that sell medication in the state are encouraged to promote secure disposal of covered drugs through the use of one or more approved drug take-back programs. Upon request, a pharmacy must provide materials explaining the use of approved drug take-back programs to its customers. The program operator must provide pharmacies with these materials upon request and at no cost to the pharmacy.
 
-. The department, the health care authority, the department of social and health services, the department of ecology, and any other state agency that is responsible for health, solid waste management, and wastewater treatment shall, through their standard educational methods, promote safe storage of prescription and nonprescription drugs by covered entities, secure disposal of covered drugs through a drug take-back program, and the toll-free telephone number and web site for approved drug take-back programs. Local health jurisdictions and local government agencies are encouraged to promote approved drug take-back programs.
+. The department, the health care authority, the department of social and health services, the department of ecology, and any other state agency that is responsible for health, solid waste management, and wastewater treatment shall, through their standard educational methods, promote safe storage of prescription and nonprescription drugs by covered entities, secure disposal of covered drugs through a drug take-back program, and the toll-free telephone number and website for approved drug take-back programs. Local health jurisdictions and local government agencies are encouraged to promote approved drug take-back programs.
 
 . The department:
 
@@ -257,7 +280,7 @@ A covered manufacturer must establish and implement a drug take-back program tha
 
 .. May, upon review of results of public awareness surveys, direct a program operator for an approved drug take-back program to modify the program's promotion and outreach activities to better achieve widespread awareness among Washington state residents and health care professionals about where and how to return covered drugs to the drug take-back program.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1047-S.SL.pdf?cite=2018%20c%20196%20§%207[2018 c 196 § 7]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1161-S2.SL.pdf?cite=2021%20c%20155%20§%204[2021 c 155 § 4]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1047-S.SL.pdf?cite=2018%20c%20196%20§%207[2018 c 196 § 7]; ]
 
 == 69.48.080 - Disposal and handling of covered drugs.
 . Covered drugs collected under a drug take-back program must be disposed of at a permitted hazardous waste disposal facility that meets the requirements of 40 C.F.R. parts 264 and 265, as they exist on June 7, 2018.
@@ -344,19 +367,23 @@ A covered manufacturer must establish and implement a drug take-back program tha
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1047-S.SL.pdf?cite=2018%20c%20196%20§%2011[2018 c 196 § 11]; ]
 
-== 69.48.120 - Department to set program fee.
+== 69.48.120 - Department to set program fees.
 . [Empty]
-.. By July 1, 2019, the department shall: Determine its costs for the administration, oversight, and enforcement of the requirements of this chapter, including the survey required under RCW 69.48.200; pursuant to RCW 43.70.250, set fees at a level sufficient to recover the costs associated with administration, oversight, and enforcement; and adopt rules establishing requirements for program operator proposals.
+.. The department shall: Determine its costs for the administration, oversight, and enforcement of the requirements of this chapter, including, but not limited to, a fee for proposal review, and the survey required under RCW 69.48.200; pursuant to RCW 43.70.250, set fees at a level sufficient to recover the costs associated with administration, oversight, and enforcement; and adopt rules establishing requirements for program operator proposals.
 
 .. The department shall not impose any fees in excess of its actual administrative, oversight, and enforcement costs. The fees collected from each program operator in calendar year 2020 and any subsequent year may not exceed ten percent of the program's annual expenditures as reported to the department in the annual report required by RCW 69.48.100 and determined by the department.
 
 .. Adjustments to the department's fees may be made annually and shall not exceed actual administration, oversight, and enforcement costs. Adjustments for inflation may not exceed the percentage change in the consumer price index for all urban consumers in the United States as calculated by the United States department of labor as averaged by city for the twelve-month period ending with June of the previous year.
 
-.. The department shall collect fees from each program operator by October 1, 2019, and annually thereafter.
+.. The annual fee set by the department shall be evenly split amongst each approved program operator.
+
+.. The department shall collect annual operating fees from each program operator by October 1, 2019, and annually thereafter.
+
+.. Between July 25, 2021, and January 1, 2024, the department shall collect a nonrefundable one-time fee of $157,000 for review of proposals from each potential program operator applicant as provided in RCW 69.48.050.
 
 . All fees collected under this section must be deposited in the secure drug take-back program account established in RCW 69.48.130.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1047-S.SL.pdf?cite=2018%20c%20196%20§%2012[2018 c 196 § 12]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1161-S2.SL.pdf?cite=2021%20c%20155%20§%205[2021 c 155 § 5]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1047-S.SL.pdf?cite=2018%20c%20196%20§%2012[2018 c 196 § 12]; ]
 
 == 69.48.130 - Secure drug take-back program account.
 The secure drug take-back program account is created in the state treasury. All receipts received by the department under this chapter must be deposited in the account. Moneys in the account may be spent only after appropriation. Expenditures from the account may be used by the department only for administering and enforcing this chapter.

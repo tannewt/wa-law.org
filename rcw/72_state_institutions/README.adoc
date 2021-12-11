@@ -18,7 +18,7 @@
 * link:72.36_soldiers_and_veterans_homes_and_veterans_cemetery.adoc[72.36 - Soldiers' and veterans' homes and veterans' cemetery.]
 * link:72.40_state_schools_for_blind_deaf_sensory_handicapped.adoc[72.40 - State schools for blind, deaf, sensory handicapped.]
 * link:72.41_board_of_trustees—school_for_the_blind.adoc[72.41 - Board of trustees—School for the blind.]
-* link:72.42_board_of_trustees—center_for_childhood_deafness_and_hearing_loss.adoc[72.42 - Board of trustees—Center for childhood deafness and hearing loss.]
+* link:72.42_board_of_trustees—center_for_deaf_and_hard_of_hearing_youth.adoc[72.42 - Board of trustees—Center for deaf and hard of hearing youth.]
 * link:72.49_narcotic_or_dangerous_drugs—treatment_and_rehabilitation.adoc[72.49 - Narcotic or dangerous drugs—Treatment and rehabilitation.]
 * link:72.60_correctional_industries.adoc[72.60 - Correctional industries.]
 * link:72.62_vocational_education_programs.adoc[72.62 - Vocational education programs.]

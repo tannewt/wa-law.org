@@ -529,9 +529,9 @@ The department shall establish a consolidated emergency assistance program for f
 
 . If state funds appropriated for the consolidated emergency assistance program are exhausted, the department may discontinue the program.
 
-. During a state of emergency and pursuant to an order from the governor, benefits under this program may be extended to individuals and families without children.
+. During a state of emergency and pursuant to an order from the governor under this subsection, benefits under this program may be extended to individuals and families without children and may be provided for more than one period of time within any consecutive 12-month period, as established in an order from the governor. Adjustments to the program under this subsection remain in effect until either the state of emergency ceases, the order expires, or the governor issues an order terminating these adjustments, whichever occurs first.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6950.SL.pdf?cite=2008%20c%20181%20§%20301[2008 c 181 § 301]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6584.SL.pdf?cite=1994%20c%20296%20§%201[1994 c 296 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5729.SL.pdf?cite=1993%20c%2063%20§%201[1993 c 63 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c11.pdf?cite=1989%20c%2011%20§%2026[1989 c 11 § 26]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c335.pdf?cite=1985%20c%20335%20§%203[1985 c 335 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981ex1c6.pdf?cite=1981%201st%20ex.s.%20c%206%20§%206[1981 1st ex.s. c 6 § 6]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1151-S.SL.pdf?cite=2021%20c%209%20§%201[2021 c 9 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6950.SL.pdf?cite=2008%20c%20181%20§%20301[2008 c 181 § 301]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6584.SL.pdf?cite=1994%20c%20296%20§%201[1994 c 296 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5729.SL.pdf?cite=1993%20c%2063%20§%201[1993 c 63 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c11.pdf?cite=1989%20c%2011%20§%2026[1989 c 11 § 26]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c335.pdf?cite=1985%20c%20335%20§%203[1985 c 335 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981ex1c6.pdf?cite=1981%201st%20ex.s.%20c%206%20§%206[1981 1st ex.s. c 6 § 6]; ]
 
 == 74.04.670 - Long-term care services—Eligibility.
 . For purposes of *RCW 74.04.005(10)(a), an applicant or recipient is not eligible for long-term care services if the applicant or recipient's equity interest in the home exceeds an amount established by the department in rule, which shall not be less than five hundred thousand dollars. This requirement does not apply if any of the following persons related to the applicant or recipient are legally residing in the home:
@@ -552,6 +552,17 @@ The department shall establish a consolidated emergency assistance program for f
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1247.SL.pdf?cite=2007%20c%20161%20§%201[2007 c 161 § 1]; ]
 
+== 74.04.680 - Cash benefits in final month of eligibility. (Effective July 1, 2022.)
+. To assist with family-related expenses, households with children receiving food benefits under this title, who are not simultaneously receiving temporary assistance for needy families, are eligible to receive a one-time state-funded cash benefit in the final month of eligibility when the household's food benefits terminate due to exceeding the gross income limit or when the household requests voluntary closure.
+
+. For households receiving a cash benefit under subsection (1) of this section, the department shall provide transitional food assistance for a period of five months when eligibility for food benefits ceases due to exceeding the gross income limit or when the household requests voluntary closure.
+
+. If necessary, the department shall extend the household's food benefit certification until the end of the transition period.
+
+. The amount of the cash benefit issued by the department under subsection (1) of this section must be set in accordance with available funds appropriated for this purpose.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1151-S.SL.pdf?cite=2021%20c%209%20§%202[2021 c 9 § 2]; ]
+
 == 74.04.750 - Reporting requirements—Food stamp allotments and rent or housing subsidies, consideration as income.
 . Applicants and recipients under this title must satisfy all reporting requirements imposed by the department.
 
@@ -565,15 +576,20 @@ Payment of assistance shall not be made for any month if the payment prior to an
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981ex2c10.pdf?cite=1981%202nd%20ex.s.%20c%2010%20§%202[1981 2nd ex.s. c 10 § 2]; ]
 
 == 74.04.770 - Consolidated standards of need—Rateable reductions—Grant maximums.
-The department shall establish consolidated standards of need each fiscal year which may vary by geographical areas, program, and family size, for temporary assistance for needy families, refugee assistance, supplemental security income, and benefits under RCW 74.62.030. Standards for temporary assistance for needy families, refugee assistance, and benefits under RCW 74.62.030 shall be based on studies of actual living costs and generally recognized inflation indices and shall include reasonable allowances for shelter, fuel, food, transportation, clothing, household maintenance and operations, personal maintenance, and necessary incidentals. The standard of need may take into account the economies of joint living arrangements, but unless explicitly required by federal statute, there shall not be proration of any portion of assistance grants unless the amount of the grant standard is equal to the standard of need.
+. The department shall establish consolidated standards of need each fiscal year which may vary by geographical areas, program, and family size, for temporary assistance for needy families, refugee assistance, supplemental security income, and benefits under RCW 74.62.030.
+
+. [Empty]
+.. Standards of need for temporary assistance for needy families, refugee assistance, and benefits under RCW 74.62.030 shall be based on studies of actual living costs and generally recognized inflation indices and shall include reasonable allowances for basic household needs including shelter, fuel, food, transportation, clothing, household maintenance and operations, personal maintenance, necessary incidentals, cell phone and internet, and out-of-pocket costs for child care and health care.
+
+.. By July 1, 2022, to ensure the standards of need reflect the current goods and services households need, the department must use an existing, broadly used national standard that meets the requirements of (a) of this subsection as the base for annual updating in subsection (1) of this section.
+
+.. The standard of need may take into account the economies of joint living arrangements, but unless explicitly required by federal statute, there shall not be proration of any portion of assistance grants unless the amount of the grant standard is equal to the standard of need.
 
 The department is authorized to establish rateable reductions and grant maximums consistent with federal law.
 
-Payment level will be equal to need or a lesser amount if rateable reductions or grant maximums are imposed. In no case shall a recipient of supplemental security income receive a state supplement less than the minimum required by federal law.
+. Payment level will be equal to need or a lesser amount if rateable reductions or grant maximums are imposed. In no case shall a recipient of supplemental security income receive a state supplement less than the minimum required by federal law.
 
-The department may establish a separate standard for shelter provided at no cost.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2082-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2036%20§%2026[2011 1st sp.s. c 36 § 26]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2782-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%208%20§%2023[2010 1st sp.s. c 8 § 23]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1089-S.SL.pdf?cite=1997%20c%2059%20§%2011[1997 c 59 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c41.pdf?cite=1983%201st%20ex.s.%20c%2041%20§%2038[1983 1st ex.s. c 41 § 38]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981ex2c10.pdf?cite=1981%202nd%20ex.s.%20c%2010%20§%204[1981 2nd ex.s. c 10 § 4]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1151-S.SL.pdf?cite=2021%20c%209%20§%203[2021 c 9 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2082-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2036%20§%2026[2011 1st sp.s. c 36 § 26]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2782-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%208%20§%2023[2010 1st sp.s. c 8 § 23]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1089-S.SL.pdf?cite=1997%20c%2059%20§%2011[1997 c 59 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c41.pdf?cite=1983%201st%20ex.s.%20c%2041%20§%2038[1983 1st ex.s. c 41 § 38]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981ex2c10.pdf?cite=1981%202nd%20ex.s.%20c%2010%20§%204[1981 2nd ex.s. c 10 § 4]; ]
 
 == 74.04.790 - Supplementary program—Reimbursement for employees being victims of assault.
 . For purposes of this section only, "assault" means an unauthorized touching of a child protective, child welfare, or adult protective services worker employed by the department of children, youth, and families or the department of social and health services resulting in physical injury to the employee.

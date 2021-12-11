@@ -227,7 +227,7 @@ Ten days after a special election held in February or April, ten days after a pr
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5273.SL.pdf?cite=2019%20c%207%20§%205[2019 c 7 § 5]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1919-S.SL.pdf?cite=2015%20c%20146%20§%204[2015 c 146 § 4]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5171-S.SL.pdf?cite=2011%20c%20349%20§%2021[2011 c 349 § 21]; 2011 c 349 § 20; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5124-S.SL.pdf?cite=2011%20c%2010%20§%2058[2011 c 10 § 58]; 2011 c 10 § 57; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6236.SL.pdf?cite=2006%20c%20344%20§%2017[2006 c 344 § 17]; 2006 c 344 § 16; prior:  2005 c 243 § 16; 2005 c 153 § 12; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6417.SL.pdf?cite=2004%20c%20266%20§%2018[2004 c 266 § 18]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5221-S.SL.pdf?cite=2003%20c%20111%20§%201519[2003 c 111 § 1519]; ]
 
 == 29A.60.195 - Provisional ballots—Disposition.
-Before certification of the primary or election, the county auditor must examine and investigate all received provisional ballots to determine whether the ballot can be counted. The auditor shall provide the disposition of the provisional ballot and, if the ballot was not counted, the reason why it was not counted, on a free access system such as a toll-free telephone number, web site, mail, or other means. The auditor must notify the voter in accordance with RCW 29A.60.165 when the declaration is unsigned or when the signatures do not match.
+Before certification of the primary or election, the county auditor must examine and investigate all received provisional ballots to determine whether the ballot can be counted. The auditor shall provide the disposition of the provisional ballot and, if the ballot was not counted, the reason why it was not counted, on a free access system such as a toll-free telephone number, website, mail, or other means. The auditor must notify the voter in accordance with RCW 29A.60.165 when the declaration is unsigned or when the signatures do not match.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5124-S.SL.pdf?cite=2011%20c%2010%20§%2059[2011 c 10 § 59]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5499-S.SL.pdf?cite=2005%20c%20243%20§%209[2005 c 243 § 9]; ]
 
@@ -282,7 +282,7 @@ Immediately after the official results of a state primary or general election in
 
 .. The number of federal write-in ballots rejected;
 
-.. The number of overseas and service ballots issued by mail, email, web site link, or facsimile;
+.. The number of overseas and service ballots issued by mail, email, website link, or facsimile;
 
 .. The number of overseas and service ballots received by mail, email, or facsimile;
 
@@ -290,7 +290,7 @@ Immediately after the official results of a state primary or general election in
 
 .. The number of overseas and service ballots rejected by mail, email, or facsimile;
 
-.. The number of nonoverseas and nonservice ballots sent by email, web site link, or facsimile;
+.. The number of nonoverseas and nonservice ballots sent by email, website link, or facsimile;
 
 .. The number of nonoverseas and nonservice ballots received by email or facsimile;
 
@@ -314,10 +314,10 @@ Immediately after the official results of a state primary or general election in
 
 .. Any other information the auditor or secretary of state deems necessary to reconcile the number of ballots counted with the number of voters credited with voting, and to maintain an audit trail.
 
-. The county auditor must make the report available to the public at the auditor's office and must publish the report on the auditor's web site at the time of certification. The county auditor must submit the report to the secretary of state at the time of certification in any form determined by the secretary of state.
+. The county auditor must make the report available to the public at the auditor's office and must publish the report on the auditor's website at the time of certification. The county auditor must submit the report to the secretary of state at the time of certification in any form determined by the secretary of state.
 
 . [Empty]
-.. The secretary of state must collect the reconciliation reports from each county auditor and prepare a statewide reconciliation report for each state primary and general election. The report may be produced in a form determined by the secretary that includes the information as described in this subsection (3). The report must be prepared and published on the secretary of state's web site within two months after the last county's election results have been certified.
+.. The secretary of state must collect the reconciliation reports from each county auditor and prepare a statewide reconciliation report for each state primary and general election. The report may be produced in a form determined by the secretary that includes the information as described in this subsection (3). The report must be prepared and published on the secretary of state's website within two months after the last county's election results have been certified.
 
 .. The state report must include a comparison among counties on rates of votes received, counted, and rejected, including provisional, write-in, overseas ballots, and ballots transmitted electronically. The comparison information may be in the form of rankings, percentages, or other relevant quantifiable data that can be used to measure performance and trends.
 

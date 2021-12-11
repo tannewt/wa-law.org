@@ -144,8 +144,72 @@ The governor, in conjunction with the secretary of health, shall identify and ho
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2079-S.SL.pdf?cite=2009%20c%20343%20§%202[2009 c 343 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1133-S.SL.pdf?cite=2005%20c%20274%20§%20301[2005 c 274 § 301]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex1c9.pdf?cite=1989%201st%20ex.s.%20c%209%20§%20107[1989 1st ex.s. c 9 § 107]; ]
 
-== 43.70.052 - Hospital financial and patient discharge data—Financial reports—Data retrieval—American Indian health data—Patient discharge data—Confidentiality and protection.
-. To promote the public interest consistent with the purposes of chapter 492, Laws of 1993 as amended by chapter 267, Laws of 1995, the department shall continue to require hospitals to submit hospital financial and patient discharge information, which shall be collected, maintained, analyzed, and disseminated by the department. The department shall, if deemed cost-effective and efficient, contract with a private entity for any or all parts of data collection. Data elements shall be reported in conformance with a uniform reporting system established by the department. This includes data elements identifying each hospital's revenues, expenses, contractual allowances, charity care, bad debt, other income, total units of inpatient and outpatient services, and other financial and employee compensation information reasonably necessary to fulfill the purposes of this section. Data elements relating to use of hospital services by patients shall be the same as those currently compiled by hospitals through inpatient discharge abstracts. The department shall encourage and permit reporting by electronic transmission or hard copy as is practical and economical to reporters.
+== 43.70.052 - Hospital financial and patient discharge data—Financial reports—Data retrieval—American Indian health data—Reporting—Patient discharge data—Confidentiality and protection.
+. [Empty]
+.. To promote the public interest consistent with the purposes of chapter 492, Laws of 1993 as amended by chapter 267, Laws of 1995, the department shall require hospitals to submit hospital financial and patient discharge information, including any applicable information reported pursuant to RCW 43.70.053, which shall be collected, maintained, analyzed, and disseminated by the department. The department shall, if deemed cost-effective and efficient, contract with a private entity for any or all parts of data collection. Data elements shall be reported in conformance with a uniform reporting system established by the department. This includes data elements identifying each hospital's revenues, expenses, contractual allowances, charity care, bad debt, other income, total units of inpatient and outpatient services, and other financial and employee compensation information reasonably necessary to fulfill the purposes of this section.
+
+.. Data elements relating to use of hospital services by patients shall be the same as those currently compiled by hospitals through inpatient discharge abstracts. The department shall encourage and permit reporting by electronic transmission or hard copy as is practical and economical to reporters.
+
+.. By January 1, 2023, the department must revise the uniform reporting system to further delineate hospital expenses reported in the other direct expense category in the statement of revenue and expense. The department must include the following additional categories of expenses within the other direct expenses category:
+
+... Blood supplies;
+
+... Contract staffing;
+
+... Information technology, including licenses and maintenance;
+
+... Insurance and professional liability;
+
+.. Laundry services;
+
+.. Legal, audit, and tax professional services;
+
+.. Purchased laboratory services;
+
+.. Repairs and maintenance;
+
+... Shared services or system office allocation;
+
+.. Staff recruitment;
+
+.. Training costs;
+
+.. Taxes;
+
+.. Utilities; and
+
+.. Other noncategorized expenses.
+
+.. The department must revise the uniform reporting system to further delineate hospital revenues reported in the other operating revenue category in the statement of revenue and expense. The department must include the following additional categories of revenues within the other operating revenues category:
+
+... Donations;
+
+... Grants;
+
+... Joint venture revenue;
+
+... Local taxes;
+
+.. Outpatient pharmacy;
+
+.. Parking;
+
+.. Quality incentive payments;
+
+.. Reference laboratories;
+
+... Rental income;
+
+.. Retail cafeteria; and
+
+.. Other noncategorized revenues.
+
+.. [Empty]
+... A hospital, other than a hospital designated by medicare as a critical access hospital or sole community hospital, must report line items and amounts for any expenses or revenues in the other noncategorized expenses category in (c)(xiv) of this subsection or the other noncategorized revenues category in (d)(xi) of this subsection that either have a value: (A) Of $1,000,000 or more; or (B) representing one percent or more of the total expenses or total revenues; or
+
+... A hospital designated by medicare as a critical access hospital or sole community hospital must report line items and amounts for any expenses or revenues in the other noncategorized expenses category in (c)(xiv) of this subsection or the other noncategorized revenues category in (d)(xi) of this subsection that represent the greater of: (A) $1,000,000; or (B) one percent or more of the total expenses or total revenues.
+
+.. A hospital must report any money, including loans, received by the hospital or a health system to which it belongs from a federal, state, or local government entity in response to a national or state-declared emergency, including a pandemic. Hospitals must report this information as it relates to federal, state, or local money received after January 1, 2020, in association with the COVID-19 pandemic. The department shall provide guidance on reporting pursuant to this subsection.
 
 . In identifying financial reporting requirements, the department may require both annual reports and condensed quarterly reports from hospitals, so as to achieve both accuracy and timeliness in reporting, but shall craft such requirements with due regard of the data reporting burdens of hospitals.
 
@@ -158,13 +222,32 @@ The governor, in conjunction with the secretary of health, shall identify and ho
 
 .. To satisfy the reporting requirements of this subsection (3), the department shall create a form and make it available no later than August 1, 2012. To the greatest extent possible, the form shall follow the format and reporting requirements of the portion of the internal revenue service form 990 schedule relating to compensation information. If the internal revenue service substantially revises its schedule, the department shall update its form.
 
-. The health care data collected, maintained, and studied by the department shall only be available for retrieval in original or processed form to public and private requestors pursuant to subsection (7) of this section and shall be available within a reasonable period of time after the date of request. The cost of retrieving data for state officials and agencies shall be funded through the state general appropriation. The cost of retrieving data for individuals and organizations engaged in research or private use of data or studies shall be funded by a fee schedule developed by the department that reflects the direct cost of retrieving the data or study in the requested form.
+. The health care data collected, maintained, and studied by the department shall only be available for retrieval in original or processed form to public and private requestors pursuant to subsection (9) of this section and shall be available within a reasonable period of time after the date of request. The cost of retrieving data for state officials and agencies shall be funded through the state general appropriation. The cost of retrieving data for individuals and organizations engaged in research or private use of data or studies shall be funded by a fee schedule developed by the department that reflects the direct cost of retrieving the data or study in the requested form.
 
-. The department shall, in consultation and collaboration with the federally recognized tribes, urban or other Indian health service organizations, and the federal area Indian health service, design, develop, and maintain an American Indian-specific health data, statistics information system. 
+. The department shall, in consultation and collaboration with tribes, urban or other Indian health service organizations, and the federal area Indian health service, design, develop, and maintain an American Indian-specific health data, statistics information system.
+
+. [Empty]
+.. Except as provided in subsection (c) of this section, beginning January 1, 2023, patient discharge information reported by hospitals to the department must identify patients by race, ethnicity, gender identity, sexual orientation, preferred language, any disability, and zip code of primary residence. The department shall provide guidance on reporting pursuant to this subsection. When requesting demographic information under this subsection, a hospital must inform patients that providing the information is voluntary. If a hospital fails to report demographic information under this subsection because a patient refused to provide the information, the department may not take any action against the hospital for failure to comply with reporting requirements or other licensing standards on that basis.
+
+.. The department must develop a waiver process for the requirements of (a) of this subsection for a hospital that is certified by the centers for medicare and medicaid services as a critical access hospital, is certified by the centers of medicare and medicaid services as a sole community hospital, or qualifies as a medicare dependent hospital due to economic hardship, technological limitations that are not reasonably in the control of the hospital, or other exceptional circumstance demonstrated by the hospital. The waiver must be limited to one year or less, or for any other specified time frame set by the department. Hospitals may apply for waiver extensions.
+
+.. Subject to funding appropriated specifically for this purpose, the department shall establish a process no later than October 1, 2022, for any hospital that is certified by the centers for medicare and medicaid services as a critical access hospital, is certified by the centers for medicare and medicaid services as a sole community hospital, or qualifies as a medicare dependent hospital, to apply for a grant to support updating the hospital's electronic health records system to comply with the requirements of this subsection, subject to the following:
+
+... A hospital owned or operated by a health system that owns or operates two or more hospitals is not eligible to apply for a grant under this subsection;
+
+... In considering a hospital application, the department may consider information about the hospital's need for financial support to alter the hospital's electronic health records system, including, but not limited to, demonstrated costs necessary to update the hospital's current electronic health record system to comply with the requirements in this section and evidence of need for financial assistance. The department may provide grant amounts of varying sizes depending on the need of the applicant hospital;
+
+... A hospital that receives a grant under this section must update the hospital's electronic health records system to comply with the requirements of this section before the hospital may make other changes to its electronic health records system, except for changes that are required for security, compliance, or privacy purposes; and
+
+... A hospital that receives a grant under this section must comply with subsection (a) of this section no later than July 1, 2023.
+
+.. The department shall adopt rules to implement this subsection (6) no later than July 1, 2022.
+
+. Beginning January 1, 2023, each hospital must report to the department, on a quarterly basis, the number of submitted and completed charity care applications that the hospital received in the prior quarter and the number of charity care applications approved in the prior quarter pursuant to the hospital's charity care policy, consistent with chapter 70.170 RCW. The department shall develop a standard form for hospitals to use in submitting information pursuant to this subsection.
 
 . All persons subject to the data collection requirements of this section shall comply with departmental requirements established by rule in the acquisition of data.
 
-. The department must maintain the confidentiality of patient discharge data it collects under subsection (1) of this section. Patient discharge data that includes direct and indirect identifiers is not subject to public inspection and the department may only release such data as allowed for in this section. Any agency that receives patient discharge data under (a) or (b) of this subsection must also maintain the confidentiality of the data and may not release the data except as consistent with subsection (8)(b) of this section. The department may release the data as follows:
+. The department must maintain the confidentiality of patient discharge data it collects under subsections (1) and (6) of this section. Patient discharge data that includes direct and indirect identifiers is not subject to public inspection and the department may only release such data as allowed for in this section. Any agency that receives patient discharge data under (a) or (b) of this subsection must also maintain the confidentiality of the data and may not release the data except as consistent with subsection (10)(b) of this section. The department may release the data as follows:
 
 .. Data that includes direct and indirect patient identifiers, as specifically defined in rule, may be released to:
 
@@ -176,13 +259,13 @@ The governor, in conjunction with the secretary of health, shall identify and ho
 
 .. Data that does not contain direct or indirect patient identifiers may be released on request.
 
-. Recipients of data under subsection (7)(a) and (b) of this section must agree in a written data use agreement, at a minimum, to:
+. Recipients of data under subsection (9)(a) and (b) of this section must agree in a written data use agreement, at a minimum, to:
 
 .. Take steps to protect direct and indirect patient identifying information as described in the data use agreement; and
 
 .. Not redisclose the data except as authorized in their data use agreement consistent with the purpose of the agreement.
 
-. Recipients of data under subsection (7)(b) and (c) of this section must not attempt to determine the identity of persons whose information is included in the data set or use the data in any manner that identifies individuals or their families.
+. Recipients of data under subsection (9)(b) and (c) of this section must not attempt to determine the identity of persons whose information is included in the data set or use the data in any manner that identifies individuals or their families.
 
 . For the purposes of this section:
 
@@ -192,7 +275,17 @@ The governor, in conjunction with the secretary of health, shall identify and ho
 
 . The department must adopt rules necessary to carry out its responsibilities under this section. The department must consider national standards when adopting rules.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6265-S.SL.pdf?cite=2014%20c%20220%20§%202[2014 c 220 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2229-S.SL.pdf?cite=2012%20c%2098%20§%201[2012 c 98 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1589-S.SL.pdf?cite=1995%20c%20267%20§%201[1995 c 267 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1272-S2.SL.pdf?cite=2021%20c%20162%20§%201[2021 c 162 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6265-S.SL.pdf?cite=2014%20c%20220%20§%202[2014 c 220 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2229-S.SL.pdf?cite=2012%20c%2098%20§%201[2012 c 98 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1589-S.SL.pdf?cite=1995%20c%20267%20§%201[1995 c 267 § 1]; ]
+
+== 43.70.053 - Hospital consolidated annual income—Reporting.
+. [Empty]
+.. Beginning July 1, 2022, for a health system operating a hospital licensed under chapter 70.41 RCW, the health system must annually submit to the department a consolidated annual income statement and balance sheet, including hospitals, ambulatory surgical facilities, health clinics, urgent care clinics, physician groups, health-related laboratories, long-term care facilities, home health agencies, dialysis facilities, ambulance services, behavioral health settings, and virtual care entities that are operated in Washington.
+
+.. The state auditor's office shall provide the department with audited financial statements for all hospitals owned or operated by a public hospital district under chapter 70.44 RCW. Public hospital districts are not required to submit additional information to the department under this subsection.
+
+. The department must make information submitted under this section available in the same manner as hospital financial data.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1272-S2.SL.pdf?cite=2021%20c%20162%20§%202[2021 c 162 § 2]; ]
 
 == 43.70.054 - Health care data standards—Submittal of standards to legislature.
 . To promote the public interest consistent with chapter 267, Laws of 1995, the department of health, in cooperation with the director of the consolidated technology services agency established in RCW 43.105.025, shall develop health care data standards to be used by, and developed in collaboration with, consumers, purchasers, health carriers, providers, and state government as consistent with the intent of chapter 492, Laws of 1993 as amended by chapter 267, Laws of 1995, to promote the delivery of quality health services that improve health outcomes for state residents. The data standards shall include content, coding, confidentiality, and transmission standards for all health care data elements necessary to support the intent of this section, and to improve administrative efficiency and reduce cost. Purchasers, as allowed by federal law, health carriers, health facilities and providers as defined in chapter 48.43 RCW, and state government shall utilize the data standards. The information and data elements shall be reported as the department of health directs by rule in accordance with data standards developed under this section.
@@ -240,7 +333,7 @@ If the centers for medicare and medicaid services changes reporting from the nat
 
 .. By November 1, 2013, and biennially thereafter, submit a report to the appropriate committees of the legislature that contains: (i) Categories of reporting currently required of hospitals under subsection (2)(a) of this section; (ii) categories of reporting the department plans to add, delete, or modify by rule; and (iii) a description of the evaluation process used under (d) of this subsection;
 
-.. By December 1, 2009, and by each December 1st thereafter, prepare and publish a report on the department's web site that compares the health care-associated infection rates at individual hospitals in the state using the data reported in the previous calendar year pursuant to subsection (2) of this section. The department may update the reports quarterly. In developing a methodology for the report and determining its contents, the department shall consider the recommendations of the advisory committee established in subsection (5) of this section. The report is subject to the following:
+.. By December 1, 2009, and by each December 1st thereafter, prepare and publish a report on the department's website that compares the health care-associated infection rates at individual hospitals in the state using the data reported in the previous calendar year pursuant to subsection (2) of this section. The department may update the reports quarterly. In developing a methodology for the report and determining its contents, the department shall consider the recommendations of the advisory committee established in subsection (5) of this section. The report is subject to the following:
 
 ... The report must disclose data in a format that does not release health information about any individual patient; and
 
@@ -442,7 +535,7 @@ The department shall evaluate and analyze readily available data and information
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1049-S.SL.pdf?cite=2019%20c%2062%20§%201[2019 c 62 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2292-S2.SL.pdf?cite=2006%20c%208%20§%20109[2006 c 8 § 109]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1046-S.SL.pdf?cite=1995%20c%20265%20§%2019[1995 c 265 § 19]; ]
 
 == 43.70.080 - Transfer of powers and duties from the department of social and health services.
-The powers and duties of the department of social and health services and the secretary of social and health services under the following statutes are hereby transferred to the department of health and the secretary of health: Chapters 16.70, 18.46, 18.71, 18.73, 18.76, 69.30, 70.28, 70.30, 70.50, *70.58, 70.62, 70.83, 70.90, **70.98, 70.104, **70.116, **70.118, **70.119, **70.119A, **70.121, 70.127, **70.142, and 80.50 RCW. More specifically, the following programs and services presently administered by the department of social and health services are hereby transferred to the department of health:
+The powers and duties of the department of social and health services and the secretary of social and health services under the following statutes are hereby transferred to the department of health and the secretary of health: Chapters 16.70, 18.46, 18.71, 18.73, 18.76, 69.30, 70.28, 70.30, 70.50, *70.58, 70.62, 70.83, 70.90, 70A.388, 70.104, 70A.100, 70A.105, 70A.120, 70A.125, 70A.310, 70.127, 70A.130, and 80.50 RCW. More specifically, the following programs and services presently administered by the department of social and health services are hereby transferred to the department of health:
 
 . Personal health and protection programs and related management and support services, including, but not limited to: Immunizations; tuberculosis; sexually transmitted diseases; AIDS; diabetes control; primary health care; cardiovascular risk reduction; kidney disease; regional genetic services; newborn metabolic screening; sentinel birth defects; cytogenetics; communicable disease epidemiology; and chronic disease epidemiology;
 
@@ -456,7 +549,7 @@ The powers and duties of the department of social and health services and the se
 
 . Effective January 1, 1991, parent and child health services and related management support services, including, but not limited to: Maternal and infant health; child health; parental health; nutrition; services for children with disabilities; family planning; adolescent pregnancy services; high priority infant tracking; early intervention; parenting education; prenatal regionalization; and power and duties under RCW 43.20A.635. The director of the office of financial management may recommend to the legislature a delay in this transfer, if it is determined that this time frame is not adequate.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1388-S.SL.pdf?cite=2018%20c%20201%20§%208009[2018 c 201 § 8009]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex1c9.pdf?cite=1989%201st%20ex.s.%20c%209%20§%20201[1989 1st ex.s. c 9 § 201]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2044[2021 c 65 § 44]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1388-S.SL.pdf?cite=2018%20c%20201%20§%208009[2018 c 201 § 8009]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex1c9.pdf?cite=1989%201st%20ex.s.%20c%209%20§%20201[1989 1st ex.s. c 9 § 201]; ]
 
 == 43.70.081 - Transfer of certain behavioral health-related powers, duties, and functions from the department of social and health services.
 . The powers, duties, and functions of the department of social and health services pertaining to licensing and certification of behavioral health provider agencies and facilities, except for state-run mental health institutions, are hereby transferred to the department of health to the extent necessary to carry out the purposes of chapter 201, Laws of 2018. All references to the secretary or the department of social and health services in the Revised Code of Washington shall be construed to mean the secretary of the department of health or the department of health when referring to the functions transferred in this section.
@@ -647,11 +740,6 @@ The health officer of each county, district, municipality and county-city depart
 The secretary of health shall have charge of the state system of registration of births, deaths, fetal deaths, marriages, and decrees of divorce, annulment and separate maintenance, and shall prepare the necessary rules, forms, and blanks for obtaining records, and insure the faithful registration thereof.
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex1c9.pdf?cite=1989%201st%20ex.s.%20c%209%20§%20254[1989 1st ex.s. c 9 § 254]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c141.pdf?cite=1979%20c%20141%20§%2051[1979 c 141 § 51]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c26.pdf?cite=1967%20c%2026%20§%201[1967 c 26 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c8.pdf?cite=1965%20c%208%20§%2043.20.070[1965 c 8 § 43.20.070]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c83.pdf?cite=1907%20c%2083%20§%201[1907 c 83 § 1]; RRS § 6018; ]
-
-== 43.70.160 - Duties of registrar. (Effective until January 1, 2021.)
-The state registrar of vital statistics shall prepare, print, and supply to all registrars all blanks and forms used in registering, recording, and preserving the returns, or in otherwise carrying out the purposes of Title 70 RCW; and shall prepare and issue such detailed instructions as may be required to secure the uniform observance of its provisions and the maintenance of a perfect system of registration. No other blanks shall be used than those supplied by the state registrar. The state registrar shall carefully examine the certificates received monthly from the local registrars, county auditors, and clerks of the court and, if any are incomplete or unsatisfactory, the state registrar shall require such further information to be furnished as may be necessary to make the record complete and satisfactory, and shall cause such further information to be incorporated in or attached to and filed with the certificate. The state registrar shall furnish, arrange, bind, and make a permanent record of the certificate in a systematic manner, and shall prepare and maintain a comprehensive index of all births, deaths, fetal deaths, marriages, and decrees of divorce, annulment and separate maintenance registered.
-
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex1c9.pdf?cite=1989%201st%20ex.s.%20c%209%20§%20255[1989 1st ex.s. c 9 § 255]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c26.pdf?cite=1967%20c%2026%20§%202[1967 c 26 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c8.pdf?cite=1965%20c%208%20§%2043.20.080[1965 c 8 § 43.20.080]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961ex1c5.pdf?cite=1961%20ex.s.%20c%205%20§%202[1961 ex.s. c 5 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1951c106.pdf?cite=1951%20c%20106%20§%201[1951 c 106 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1915c180.pdf?cite=1915%20c%20180%20§%209[1915 c 180 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1907c83.pdf?cite=1907%20c%2083%20§%2017[1907 c 83 § 17]; RRS § 6034; ]
 
 == 43.70.170 - Threat to public health—Investigation, examination or sampling of articles or conditions constituting—Access—Subpoena power.
 The secretary on his or her own motion or upon the complaint of any interested party, may investigate, examine, sample or inspect any article or condition constituting a threat to the public health including, but not limited to, outbreaks of communicable diseases, food poisoning, contaminated water supplies, and all other matters injurious to the public health. When not otherwise available, the department may purchase such samples or specimens as may be necessary to determine whether or not there exists a threat to the public health. In furtherance of any such investigation, examination or inspection, the secretary or the secretary's authorized representative may examine that portion of the ledgers, books, accounts, memorandums, and other documents and other articles and things used in connection with the business of such person relating to the actions involved.
@@ -1076,96 +1164,12 @@ This act shall be known and cited as the Head Injury Prevention Act of 1990.
 
 .. Any other organizations or groups the secretary deems appropriate.
 
-. The secretary shall complete the plan no later than November 15, 2015, publish the report on the department's web site, and submit copies to the governor and the relevant standing committees of the legislature.
+. The secretary shall complete the plan no later than November 15, 2015, publish the report on the department's website, and submit copies to the governor and the relevant standing committees of the legislature.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2315-S.SL.pdf?cite=2014%20c%2071%20§%204[2014 c 71 § 4]; ]
 
-== 43.70.445 - Suicide-safer homes task force—Suicide awareness and prevention. (Expires July 1, 2021.)
-. [Empty]
-.. Subject to the availability of amounts appropriated for this specific purpose, a suicide-safer homes task force is established to raise public awareness and increase suicide prevention education among new partners who are in key positions to help reduce suicide. The task force shall be administered and staffed by the University of Washington school of social work. To the extent possible, the task force membership should include representatives from geographically diverse and priority populations, including tribal populations.
-
-.. The suicide-safer homes task force comprises a suicide prevention and firearms subcommittee and a suicide prevention and health care subcommittee, as follows:
-
-... The suicide prevention and firearms subcommittee shall consist of the following members and be cochaired by the University of Washington school of social work and a member identified in (b)(i)(A) of this subsection (1):
-
-(A) A representative of the national rifle association and a representative of the second amendment foundation;
-
-(B) Two representatives of suicide prevention organizations, selected by the cochairs of the subcommittee;
-
-(C) Two representatives of the firearms industry, selected by the cochairs of the subcommittee;
-
-(D) Two individuals who are suicide attempt survivors or who have experienced suicide loss, selected by the cochairs of the subcommittee;
-
-(E) Two representatives of law enforcement agencies, selected by the cochairs of the subcommittee;
-
-(F) One representative from the department of health;
-
-(G) One representative from the department of veterans affairs, and one other individual representing veterans to be selected by the cochairs of the subcommittee; and
-
-(H) No more than two other interested parties, selected by the cochairs of the subcommittee.
-
-... The suicide prevention and health care subcommittee shall consist of the following members and be cochaired by the University of Washington school of social work and a member identified in (b)(ii)(A) of this subsection (1):
-
-(A) Two representatives of the Washington state pharmacy association;
-
-(B) Two representatives of retailers who operate pharmacies, selected by the cochairs of the subcommittee;
-
-(C) One faculty member from the University of Washington school of pharmacy and one faculty member from the Washington State University school of pharmacy;
-
-(D) One representative of the department of health;
-
-(E) One representative of the pharmacy quality assurance commission;
-
-(F) Two representatives of the Washington state poison control center;
-
-(G) One representative of the department of veterans affairs, and one other individual representing veterans to be selected by the cochairs of the subcommittee;
-
-(H) Three members representing health care professionals providing suicide prevention training in the state, selected by the cochairs of the subcommittee; and
-
-(I) No more than two other interested parties, selected by the cochairs of the subcommittee.
-
-.. The University of Washington school of social work shall convene the initial meeting of the task force.
-
-. The task force shall:
-
-.. Develop and prepare to disseminate online trainings on suicide awareness and prevention for firearms dealers and their employees and firearm range owners and their employees;
-
-.. In consultation with the department of fish and wildlife, review the firearm safety pamphlet produced by the department of fish and wildlife under RCW 9.41.310 and, by January 1, 2017, recommend changes to the pamphlet to incorporate information on suicide awareness and prevention;
-
-.. Develop and approve suicide awareness and prevention messages for posters and brochures that are tailored to be effective for firearms owners for distribution to firearms dealers and firearms ranges;
-
-.. Develop suicide awareness and prevention messages for posters and brochures for distribution to pharmacies;
-
-.. In consultation with the department of fish and wildlife, develop strategies for creating and disseminating suicide awareness and prevention information for hunting safety classes, including messages to parents that can be shared during online registration, in either follow-up email communications, or in writing, or both;
-
-.. Develop suicide awareness and prevention messages for training for the schools of pharmacy and provide input on trainings being developed for community pharmacists;
-
-.. Create a web site that will be a clearinghouse for the newly created suicide awareness and prevention materials developed by the task force;
-
-.. Conduct a survey of firearms dealers and firearms ranges in the state to determine the types and amounts of incentives that would be effective in encouraging those entities to participate in suicide-safer homes projects;
-
-.. Gather input on collateral educational materials that will help health care professionals in suicide prevention work; and
-
-.. Create, implement, and evaluate a suicide awareness and prevention pilot program in two counties, one rural and one urban, that have high suicide rates. The pilot program shall include:
-
-... Developing and directing advocacy efforts with firearms dealers to pair suicide awareness and prevention training with distribution of safe storage devices;
-
-... Developing and directing advocacy efforts with pharmacies to pair suicide awareness and prevention training with distribution of medication disposal kits and safe storage devices;
-
-... Training health care providers on suicide awareness and prevention, paired with distribution of medication disposal kits and safe storage devices; and
-
-... Training local law enforcement officers on suicide awareness and prevention, paired with distribution of medication disposal kits and safe storage devices.
-
-. The task force shall, in consultation with the department of health, develop and prioritize a list of projects to carry out the task force's purposes and submit the prioritized list to the department of health for funding from the suicide-safer homes project account created in RCW 43.70.446.
-
-. Beginning December 1, 2016, the task force shall annually report to the legislature on the status of its work. The task force shall submit a final report by December 1, 2020, that includes the findings of the suicide awareness and prevention pilot program evaluation under subsection (2) of this section and recommendations on possible continuation of the program. The task force shall submit its reports in accordance with RCW 43.01.036.
-
-. This section expires July 1, 2021.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1109-S.SL.pdf?cite=2019%20c%20415%20§%20967[2019 c 415 § 967]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1612-S2.SL.pdf?cite=2017%20c%20262%20§%202[2017 c 262 § 2]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2793-S2.SL.pdf?cite=2016%20c%2090%20§%202[2016 c 90 § 2]; ]
-
 == 43.70.446 - Suicide-safer homes project—Suicide-safer homes project account.
-. The suicide-safer homes project is created within the department of health for the purpose of accepting private funds for use by the suicide-safer homes task force created in RCW 43.70.445 in developing and providing suicide education and prevention materials, training, and outreach programs to help create suicide-safer homes. The secretary may accept gifts, grants, donations, or moneys from any source for deposit in the suicide-safer homes project account created in subsection (2) of this section.
+. The suicide-safer homes project is created within the department of health for the purpose of accepting private funds for use by the suicide-safer homes task force created in *RCW 43.70.445 in developing and providing suicide education and prevention materials, training, and outreach programs to help create suicide-safer homes. The secretary may accept gifts, grants, donations, or moneys from any source for deposit in the suicide-safer homes project account created in subsection (2) of this section.
 
 . The suicide-safer homes project account is created in the custody of the state treasurer. The account shall consist of funds appropriated by the legislature for the suicide-safer homes project account and all receipts from gifts, grants, bequests, devises, or other funds from public and private sources to support the activities of the suicide-safer homes project. Only the secretary of the department of health, or the secretary's designee, may authorize expenditures from the account to fund projects identified and prioritized by the suicide-safer homes task force. Funds deposited in the suicide-safer homes project account may be used for the development and production of suicide prevention materials and training programs, for providing financial incentives to encourage firearms dealers and others to participate in suicide prevention training, and to implement pilot programs involving community outreach on creating suicide-safer homes.
 
@@ -1174,7 +1178,7 @@ This act shall be known and cited as the Head Injury Prevention Act of 1990.
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1612-S2.SL.pdf?cite=2017%20c%20262%20§%203[2017 c 262 § 3]; ]
 
 == 43.70.447 - Suicide assessment, treatment, and management—Curriculum for dental students and dentists.
-. By July 1, 2020, the school of dentistry at the University of Washington shall develop a curriculum on suicide assessment, treatment, and management for dental students and licensed dentists. The curriculum must meet the minimum standards established under RCW 43.70.442 and must include material on identifying at-risk patients and limiting access to lethal means. When developing the curriculum, the school of dentistry must consult with experts on suicide assessment, treatment, and management and with the suicide-safer homes task force established in RCW 43.70.445. The school of dentistry shall submit a progress report to the governor and the relevant committees of the legislature by July 1, 2019.
+. By July 1, 2020, the school of dentistry at the University of Washington shall develop a curriculum on suicide assessment, treatment, and management for dental students and licensed dentists. The curriculum must meet the minimum standards established under RCW 43.70.442 and must include material on identifying at-risk patients and limiting access to lethal means. When developing the curriculum, the school of dentistry must consult with experts on suicide assessment, treatment, and management and with the suicide-safer homes task force established in *RCW 43.70.445. The school of dentistry shall submit a progress report to the governor and the relevant committees of the legislature by July 1, 2019.
 
 . The dental quality assurance commission shall, for purposes of RCW 43.70.442(4)(a), consider a dentist who has successfully completed the curriculum developed under subsection (1) of this section prior to licensure as possessing the minimum training and experience necessary to be exempt from the training requirements in RCW 43.70.442.
 
@@ -1185,7 +1189,7 @@ This act shall be known and cited as the Head Injury Prevention Act of 1990.
 
 . When implementing the pilot program, the department shall consider the report of the task force on behavioral health and suicide prevention in the agricultural industry established in section 2, chapter 95, Laws of 2018.
 
-. In implementing the pilot program, the department shall contract with an entity that has behavioral health and suicide prevention expertise to develop a free resource for workers in the agricultural industry. When selecting an entity, the department shall seek to use an entity that has an existing telephonic and web-based resource, including entities that have prepared similar resources for other states. The contracting entity must be responsible for constructing and hosting the free resource and linking the free resource to the web sites of the department, the department of agriculture, and other relevant stakeholders.
+. In implementing the pilot program, the department shall contract with an entity that has behavioral health and suicide prevention expertise to develop a free resource for workers in the agricultural industry. When selecting an entity, the department shall seek to use an entity that has an existing telephonic and web-based resource, including entities that have prepared similar resources for other states. The contracting entity must be responsible for constructing and hosting the free resource and linking the free resource to the websites of the department, the department of agriculture, and other relevant stakeholders.
 
 . At a minimum, the free resource must:
 
@@ -1253,7 +1257,7 @@ The guidelines shall include development of a simple form that shall be used sta
 [ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6213-S.SL.pdf?cite=2000%20c%2070%20§%201[2000 c 70 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1481-S.SL.pdf?cite=1992%20c%2098%20§%2014[1992 c 98 § 14]; ]
 
 == 43.70.490 - Emergency medical service personnel training program—Assistance to persons with disabilities—Requirements—Law enforcement officer training—Definitions.
-. Subject to the availability of amounts appropriated for this specific purpose, the department, in collaboration with the department of social and health services, the state fire marshal's office, the superintendent of public instruction, and the Washington state council of firefighters, must review existing local training programs and training programs being used in other states and design a statewide training program that will familiarize fire department and emergency medical service personnel with the techniques, procedures, and protocols for best handling situations in which persons with disabilities are present at the scene of an emergency in order to maximize the safety of persons with disabilities, minimize the likelihood of injury to persons with disabilities, and promote the safety of all persons present. The program must include a checklist of disabilities, symptoms of such disabilities, and things to do and not to do relevant to a particular disability so fire department and emergency medical services personnel can easily and quickly determine the specific scenario into which they are entering. The department must make the training program available on the department's web site for use by all fire departments and emergency medical service agencies in the state. The department must include on its web site a list of public and private nonprofit disability-related agencies and organizations and the contact information of each agency and organization. Fire departments and emergency medical service agencies must ensure their employees are adequately trained in and familiarized with techniques, procedures, and protocols for best handling situations in which persons with particular disabilities are present at the scene of an emergency.
+. Subject to the availability of amounts appropriated for this specific purpose, the department, in collaboration with the department of social and health services, the state fire marshal's office, the superintendent of public instruction, and the Washington state council of firefighters, must review existing local training programs and training programs being used in other states and design a statewide training program that will familiarize fire department and emergency medical service personnel with the techniques, procedures, and protocols for best handling situations in which persons with disabilities are present at the scene of an emergency in order to maximize the safety of persons with disabilities, minimize the likelihood of injury to persons with disabilities, and promote the safety of all persons present. The program must include a checklist of disabilities, symptoms of such disabilities, and things to do and not to do relevant to a particular disability so fire department and emergency medical services personnel can easily and quickly determine the specific scenario into which they are entering. The department must make the training program available on the department's website for use by all fire departments and emergency medical service agencies in the state. The department must include on its website a list of public and private nonprofit disability-related agencies and organizations and the contact information of each agency and organization. Fire departments and emergency medical service agencies must ensure their employees are adequately trained in and familiarized with techniques, procedures, and protocols for best handling situations in which persons with particular disabilities are present at the scene of an emergency.
 
 . Subject to the availability of amounts appropriated for this specific purpose, the criminal justice training commission, in consultation with the Washington state patrol and other stakeholders, must examine existing training programs and curricula related to law enforcement officers responding to an emergency where a person with a disability may be present, to ensure that those programs and curricula are consistent with best practices.
 
@@ -1268,9 +1272,9 @@ The guidelines shall include development of a simple form that shall be used sta
 == 43.70.495 - Telemedicine training for health care professionals.
 . The legislature finds that a large segment of Washington residents do not have access to critical health care services. Telemedicine is a way to increase access to health care services to those who would otherwise not have reasonable access. The legislature therefore intends to ensure that health care professionals who provide services through telemedicine, as defined in RCW 70.41.020, in cities and rural areas alike, have current information available, making it possible for them to provide telemedicine services to the entire state of Washington.
 
-. Except as permitted under subsection (3) of this section, beginning January 1, 2021, a health care professional who provides clinical services through telemedicine, other than a physician licensed under chapter 18.71 RCW or an osteopathic physician licensed under chapter 18.57 RCW, shall complete a telemedicine training. By January 1, 2020, the telemedicine collaborative shall make a telemedicine training available on its web site for use by health care professionals who use telemedicine technology. If a health care professional completes the training, the health care professional shall sign and retain an attestation. The training:
+. Except as permitted under subsection (3) of this section, beginning January 1, 2021, a health care professional who provides clinical services through telemedicine, other than a physician licensed under chapter 18.71 RCW or an osteopathic physician licensed under chapter 18.57 RCW, shall complete a telemedicine training. By January 1, 2020, the telemedicine collaborative shall make a telemedicine training available on its website for use by health care professionals who use telemedicine technology. If a health care professional completes the training, the health care professional shall sign and retain an attestation. The training:
 
-.. Must include information on current state and federal law, liability, informed consent, and other criteria established by the collaborative for the advancement of telemedicine, in collaboration with the department and the Washington state medical quality assurance commission;
+.. Must include information on current state and federal law, liability, informed consent, and other criteria established by the collaborative for the advancement of telemedicine, in collaboration with the department and the Washington state medical quality assurance commission [medical commission];
 
 .. Must include a question and answer methodology to demonstrate accrual of knowledge; and
 
@@ -1525,6 +1529,57 @@ Consistent with funds appropriated specifically for this purpose, the department
 
 [ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5253-S.SL.pdf?cite=1995%20c%2043%20§%204[1995 c 43 § 4]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5304-S2.SL.pdf?cite=1993%20c%20492%20§%20468[1993 c 492 § 468]; ]
 
+== 43.70.595 - Health equity zones.
+. Subject to the availability of amounts appropriated for this specific purpose, the department, in coordination with the governor's interagency council on health disparities, local health jurisdictions, and accountable communities of health, must share and review population health data, which may be related to chronic and infectious diseases, maternal birth complications, preterm births and other newborn health complications, and any other relevant health data, including hospital community health needs assessments, to identify, or allow communities to self-identify, potential health equity zones in the state and develop projects to meet the unique needs of each zone. The department must provide technical support to communities in the use of data to facilitate self-identification of health equity zones.
+
+. Communities' uses of data must align with projects and outcomes to be measured in self-identified zones.
+
+. The department must use the first 12 months following July 25, 2021, to develop a plan and process to allow communities to implement health equity zone programs statewide. The department has authority to determine the number of health equity zones and projects based on available resources.
+
+. Communities that self-identify zones or the department must notify relevant community organizations in the zones of the health equity zone designation and allow those organizations to identify projects to address the zone's most urgent needs related to health disparities. Community organizations may include, but are not limited to:
+
+.. Community health clinics;
+
+.. Local health providers;
+
+.. Federally qualified health centers;
+
+.. Health systems;
+
+.. Local government;
+
+.. Public school districts;
+
+.. Recognized American Indian organizations and Indian health organizations;
+
+.. Local health jurisdictions; and
+
+.. Any other nonprofit organization working to address health disparities in the zone.
+
+. Local organizations working within zones may form coalitions to identify the needs of the zone, design projects to address those needs, and develop an action plan to implement the projects. Local organizations may partner with state or national organizations outside the specific zone designation. Projects may include, but are not limited to:
+
+.. Addressing health care provider access and health service delivery;
+
+.. Improving information sharing and community trust in providers and services;
+
+.. Conducting outreach and education efforts; and
+
+.. Recommending systems and policy changes that will improve population health.
+
+. The department must provide:
+
+.. Support to the coalitions in identifying and applying for resources to support projects within the zones;
+
+.. Technical assistance related to project management and developing health outcome and other measures to evaluate project success; and
+
+.. Subject to availability, funding to implement projects.
+
+. Subject to the availability of amounts appropriated for this specific purpose, by December 1, 2023, and every two years thereafter, the department must submit a report to the legislature detailing the projects implemented in each zone and the outcome measures, including year-over-year health data, to demonstrate project success.
+
+. For the purposes of this section "health equity zone" or "zone" means a contiguous geographic area that demonstrates measurable and documented health disparities and poor health outcomes, which may include but are not limited to high rates of maternal complications, newborn health complications, and chronic and infectious disease, is populated by communities of color, Indian communities, communities experiencing poverty, or immigrant communities, and is small enough for targeted interventions to have a significant impact on health outcomes and health disparities. Documented health disparities must be documented or identified by the department or the centers for disease control and prevention.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5052-S2.SL.pdf?cite=2021%20c%20262%20§%202[2021 c 262 § 2]; ]
+
 == 43.70.600 - Survey regarding exposure to radio frequencies—Results.
 When funds are appropriated for this purpose, the department shall conduct a survey of scientific literature regarding the possible health effects of human exposure to the radio frequency part of the electromagnetic spectrum (300Hz to 300GHz). The department may submit the survey results to the legislature, prepare a summary of that survey, and make the summary available to the public. The department may update the survey and summary periodically.
 
@@ -1540,19 +1595,72 @@ The legislature finds that domestic violence is the leading cause of injury amon
 
 [ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2151-S.SL.pdf?cite=1996%20c%20191%20§%2089[1996 c 191 § 89]; ]
 
-== 43.70.615 - Multicultural health awareness and education program—Integration into health professions basic education preparation curriculum.
-. For the purposes of this section, "multicultural health" means the provision of health care services with the knowledge and awareness of the causes and effects of the determinants of health that lead to disparities in health status between different genders and racial and ethnic populations and the practice skills necessary to respond appropriately. 
+== 43.70.613 - Health care professionals—Health equity continuing education.
+. By January 1, 2024, the rule-making authority for each health profession licensed under Title 18 RCW subject to continuing education requirements must adopt rules requiring a licensee to complete health equity continuing education training at least once every four years.
 
-. The department, in consultation with the disciplining authorities as defined in RCW 18.130.040, shall establish, within available department general funds, an ongoing multicultural health awareness and education program as an integral part of its health professions regulation. The purpose of the education program is to raise awareness and educate health care professionals regarding the knowledge, attitudes, and practice skills necessary to care for diverse populations to achieve a greater understanding of the relationship between culture and health. The disciplining authorities having the authority to offer continuing education may provide training in the dynamics of providing culturally competent, multicultural health care to diverse populations. Any such education shall be developed in collaboration with education programs that train students in that health profession. A disciplining authority may require that instructors of continuing education or continuing competency programs integrate multicultural health into their curricula when it is appropriate to the subject matter of the instruction. No funds from the health professions account may be utilized to fund activities under this section unless the disciplining authority authorizes expenditures from its proportions of the account. A disciplining authority may defray costs by authorizing a fee to be charged for participants or materials relating to any sponsored program.
+. Health equity continuing education courses may be taken in addition to or, if a rule-making authority determines the course fulfills existing continuing education requirements, in place of other continuing education requirements imposed by the rule-making authority.
+
+. [Empty]
+.. The secretary and the rule-making authorities must work collaboratively to provide information to licensees about available courses. The secretary and rule-making authorities shall consult with patients or communities with lived experiences of health inequities or racism in the health care system and relevant professional organizations when developing the information and must make this information available by July 1, 2023. The information should include a course option that is free of charge to licensees. It is not required that courses be included in the information in order to fulfill the health equity continuing education requirement.
+
+.. By January 1, 2023, the department, in consultation with the boards and commissions, shall adopt model rules establishing the minimum standards for continuing education programs meeting the requirements of this section. The department shall consult with patients or communities with lived experience of health inequities or racism in the health care system, relevant professional organizations, and the rule-making authorities in the development of these rules.
+
+.. The minimum standards must include instruction on skills to address the structural factors, such as bias, racism, and poverty, that manifest as health inequities. These skills include individual-level and system-level intervention, and self-reflection to assess how the licensee's social position can influence their relationship with patients and their communities. These skills enable a health care professional to care effectively for patients from diverse cultures, groups, and communities, varying in race, ethnicity, gender identity, sexuality, religion, age, ability, socioeconomic status, and other categories of identity. The courses must assess the licensee's ability to apply health equity concepts into practice. Course topics may include, but are not limited to:
+
+... Strategies for recognizing patterns of health care disparities on an individual, institutional, and structural level and eliminating factors that influence them;
+
+... Intercultural communication skills training, including how to work effectively with an interpreter and how communication styles differ across cultures;
+
+... Implicit bias training to identify strategies to reduce bias during assessment and diagnosis;
+
+... Methods for addressing the emotional well-being of children and youth of diverse backgrounds;
+
+.. Ensuring equity and antiracism in care delivery pertaining to medical developments and emerging therapies;
+
+.. Structural competency training addressing five core competencies:
+
+(A) Recognizing the structures that shape clinical interactions;
+
+(B) Developing an extraclinical language of structure;
+
+(C) Rearticulating "cultural" formulations in structural terms;
+
+(D) Observing and imagining structural interventions; and
+
+(E) Developing structural humility; and
+
+.. Cultural safety training.
+
+. The rule-making authority may adopt rules to implement and administer this section, including rules to establish a process to determine if a continuing education course meets the health equity continuing education requirement established in this section.
+
+. For purposes of this section the following definitions apply:
+
+.. "Rule-making authority" means the regulatory entities identified in RCW 18.130.040 and authorized to establish continuing education requirements for the health care professions governed by those regulatory entities.
+
+.. "Structural competency" means a shift in medical education away from pedagogic approaches to stigma and inequalities that emphasize cross-cultural understandings of individual patients, toward attention to forces that influence health outcomes at levels above individual interactions. Structural competency reviews existing structural approaches to stigma and health inequities developed outside of medicine and proposes changes to United States medical education that will infuse clinical training with a structural focus.
+
+.. "Cultural safety" means an examination by health care professionals of themselves and the potential impact of their own culture on clinical interactions and health care service delivery. This requires individual health care professionals and health care organizations to acknowledge and address their own biases, attitudes, assumptions, stereotypes, prejudices, structures, and characteristics that may affect the quality of care provided. In doing so, cultural safety encompasses a critical consciousness where health care professionals and health care organizations engage in ongoing self-reflection and self-awareness and hold themselves accountable for providing culturally safe care, as defined by the patient and their communities, and as measured through progress towards achieving health equity. Cultural safety requires health care professionals and their associated health care organizations to influence health care to reduce bias and achieve equity within the workforce and working environment.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5229-S.SL.pdf?cite=2021%20c%20276%20§%202[2021 c 276 § 2]; ]
+
+== 43.70.615 - Multicultural health awareness and education program—Integration into health professions basic education preparation curriculum.
+. For the purposes of this section, "multicultural health" means the provision of health care services with the knowledge and awareness of the causes and effects of the determinants of health that lead to disparities in health status between different genders and racial and ethnic populations and the practice skills necessary to respond appropriately.
+
+. The department, in consultation with the disciplining authorities as defined in RCW 18.130.040, shall establish, within available department general funds, an ongoing multicultural health awareness and education program as an integral part of its health professions regulation. The purpose of the education program is to raise awareness and educate health care professionals regarding the knowledge, attitudes, and practice skills necessary to care for diverse populations to achieve a greater understanding of the relationship between culture and health. Any such education shall be developed in collaboration with education programs that train students in that health profession. No funds from the health professions account may be utilized to fund activities under this section unless the disciplining authority authorizes expenditures from its proportions of the account.
 
 . By July 1, 2008, each education program with a curriculum to train health professionals for employment in a profession credentialed by a disciplining authority under chapter 18.130 RCW shall integrate into the curriculum instruction in multicultural health as part of its basic education preparation curriculum. The department may not deny the application of any applicant for a credential to practice a health profession on the basis that the education or training program that the applicant successfully completed did not include integrated multicultural health curriculum as part of its basic instruction.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6194.SL.pdf?cite=2006%20c%20237%20§%202[2006 c 237 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5229-S.SL.pdf?cite=2021%20c%20276%20§%203[2021 c 276 § 3]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6194.SL.pdf?cite=2006%20c%20237%20§%202[2006 c 237 § 2]; ]
 
 == 43.70.617 - Prenatal nutrition best practices—Educational resources for pregnant women.
-The department shall develop and make available educational resources for pregnant women regarding prenatal nutrition best practices to promote infant health. The educational resources may include, but are not limited to, courses delivered in-person or electronically and pamphlets printed on paper or made available on the department's web site. The educational resources are intended to provide pregnant women knowledge of healthy foods and essential daily nutrients needed to promote infant growth and development.
+The department shall develop and make available educational resources for pregnant women regarding prenatal nutrition best practices to promote infant health. The educational resources may include, but are not limited to, courses delivered in-person or electronically and pamphlets printed on paper or made available on the department's website. The educational resources are intended to provide pregnant women knowledge of healthy foods and essential daily nutrients needed to promote infant growth and development.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6299.SL.pdf?cite=2014%20c%2038%20§%201[2014 c 38 § 1]; ]
+
+== 43.70.619 - Pregnancy complications—Informational resources.
+By December 31, 2021, the department shall design, prepare, and make available online, written materials to clearly inform health care providers and staff of the provisions of, and authority to act under, chapter 70.400 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5140-S.SL.pdf?cite=2021%20c%20235%20§%205[2021 c 235 § 5]; ]
 
 == 43.70.620 - List of contacts—Health care professions.
 The secretary shall create and maintain a list of contacts with each of the health care professions regulated under the following chapters for the purpose of policy advice and information dissemination: RCW 18.06.080, 18.89.050, and 18.138.070 and chapters *18.135, 18.55, and 18.88A RCW.
@@ -1621,7 +1729,7 @@ The secretary is authorized to create a school sealant endorsement program for d
 
 .. Are unsafe or illegal to place into the stream of commerce under the infant crib safety act, chapter 70.111 RCW; or
 
-.. Contain chemicals of high concern for children as identified under *RCW 70.240.030.
+.. Contain chemicals of high concern for children as identified under RCW 70A.430.040.
 
 . The department shall make reasonable efforts to ensure that this infant and children product safety education campaign reaches the target population. The target population for this campaign includes, but is not limited to, parents, foster parents and other caregivers, child care providers, consignment and resale stores selling infant and child products, and charitable and governmental entities serving infants, children, and families.
 
@@ -1633,7 +1741,7 @@ The secretary is authorized to create a school sealant endorsement program for d
 
 . The department may receive funding for this infant and children product safety education effort from federal, state, and local governmental entities, child-serving foundations, or other private sources.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2647-S2.SL.pdf?cite=2008%20c%20288%20§%206[2008 c 288 § 6]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1365-S.SL.pdf?cite=2001%20c%20257%20§%202[2001 c 257 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2045[2021 c 65 § 45]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2647-S2.SL.pdf?cite=2008%20c%20288%20§%206[2008 c 288 § 6]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1365-S.SL.pdf?cite=2001%20c%20257%20§%202[2001 c 257 § 2]; ]
 
 == 43.70.665 - Early detection breast and cervical cancer screening program—Medical advisory committee.
 . The legislature finds that Washington state has the highest incidence of breast cancer in the nation. Despite this, mortality rates from breast cancer have declined due largely to early screening and detection. Invasive cervical cancer is the most preventable type of cancer. The Pap test, used to detect early signs of this disease, has been called "medicine's most successful screening test." Applied consistently, invasive cervical cancer could nearly be eliminated. The legislature further finds that increasing access to breast and cervical cancer screening is critical to reducing incidence and mortality rates, and eliminating the disparities of this disease in women in Washington state. Furthermore, the legislature finds there is a need for a permanent program providing early detection and screening to the women and families of Washington state.
@@ -1664,6 +1772,67 @@ It is the intent of the legislature to establish an early detection breast and c
 . The department of health may pay for health insurance coverage on behalf of persons with human immunodeficiency virus, who meet department eligibility requirements, and who are eligible for "continuation coverage" as provided by the federal consolidated omnibus budget reconciliation act of 1985, group health insurance policies, or individual policies.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1738-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2015%20§%2072[2011 1st sp.s. c 15 § 72]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5930-S2.SL.pdf?cite=2007%20c%20259%20§%2038[2007 c 259 § 38]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1275-S.SL.pdf?cite=2003%20c%20274%20§%202[2003 c 274 § 2]; ]
+
+== 43.70.675 - Public health advisory board.
+. The public health advisory board is established within the department. The advisory board shall:
+
+.. Advise and provide feedback to the governmental public health system and provide formal public recommendations on public health;
+
+.. Monitor the performance of the governmental public health system;
+
+.. Develop goals and a direction for public health in Washington and provide recommendations to improve public health performance and to achieve the identified goals and direction;
+
+.. Advise and report to the secretary;
+
+.. Coordinate with the governor's office, department, state board of health, local health jurisdictions, and the secretary;
+
+.. Evaluate public health emergency response and provide recommendations for future response, including coordinating with relevant committees, task forces, and stakeholders to analyze the COVID-19 public health response; and
+
+.. Evaluate the use of foundational public health services funding by the governmental public health system.
+
+. The public health advisory board shall consist of representatives from each of the following appointed by the governor:
+
+.. The governor's office;
+
+.. The director of the state board of health or the director's designee;
+
+.. The secretary of the department or the secretary's designee;
+
+.. The chair of the governor's interagency council on health disparities;
+
+.. Two representatives from the tribal government public health sector selected by the American Indian health commission;
+
+.. One member of the county legislative authority from a eastern Washington county selected by a statewide association representing counties;
+
+.. One member of the county legislative authority from a western Washington county selected by a statewide association representing counties;
+
+.. An organization representing businesses in a region of the state;
+
+.. A statewide association representing community and migrant health centers;
+
+.. A statewide association representing Washington cities;
+
+.. Four representatives from local health jurisdictions selected by a statewide association representing local public health officials, including one from a jurisdiction east of the Cascade mountains with a population between 200,000 and 600,000, one from a jurisdiction east of the Cascade mountains with a population under 200,000, one from a jurisdiction west of the Cascade mountains with a population between 200,000 and 600,000, and one from a jurisdiction west of the Cascade mountains with a population less than 200,000;
+
+.. A statewide association representing Washington hospitals;
+
+.. A statewide association representing Washington physicians;
+
+.. A statewide association representing Washington nurses;
+
+.. A statewide association representing Washington public health or public health professionals; and
+
+.. A consumer nonprofit organization representing marginalized populations.
+
+. In addition to the members of the public health advisory board listed in subsection (2) of this section, there must be four nonvoting ex officio members from the legislature consisting of one legislator from each of the two largest caucuses in both the house of representatives and the senate.
+
+. Staff support for the public health advisory board, including arranging meetings, must be provided by the department.
+
+. Legislative members of the public health advisory board may be reimbursed for travel expenses in accordance with RCW 44.04.120. Nonlegislative members are not entitled to be reimbursed for travel expenses if they are elected officials or are participating on behalf of an employer, governmental entity, or other organization. Any reimbursement for other nonlegislative members is subject to chapter 43.03 RCW.
+
+. The public health advisory board is a class one group under chapter 43.03 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1152-S2.SL.pdf?cite=2021%20c%20205%20§%202[2021 c 205 § 2]; ]
 
 == 43.70.680 - Volunteers for emergency or disaster assistance.
 . The department is authorized to contact persons issued credentials under this title for the purpose of requesting permission to collect his or her name, profession, and contact information as a possible volunteer in the event of a bioterrorism incident, natural disaster, public health emergency, or other emergency or disaster, as defined in RCW 38.52.010, that requires the services of health care providers.
@@ -1717,6 +1886,35 @@ Within funds appropriated for this purpose, the department shall develop a state
 The department of health shall annually review the medication practices of five jails that provide for the delivery and administration of medications to inmates in their custody by nonpractitioner jail personnel. The review shall assess whether the jails are in compliance with sections 3 and 4, chapter 411, Laws of 2009. To the extent that a jail is found not in compliance, the department shall provide technical assistance to assist the jail in resolving any areas of noncompliance.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5252-S.SL.pdf?cite=2009%20c%20411%20§%205[2009 c 411 § 5]; ]
+
+== 43.70.715 - COVID-19 public health response account.
+. The COVID-19 public health response account is created in the custody of the state treasurer. The account shall consist of funds appropriated by the legislature and grants received by the department of health for activities in response to the coronavirus pandemic (COVID-19). Only the secretary, or the secretary's designee, may authorize expenditures from the account for costs related to the public health response to COVID-19, subject to any limitations imposed by grant funding deposited into the account. The COVID-19 public health response account is subject to allotment procedures under chapter 43.88 RCW, but an appropriation is not required for expenditures.
+
+. [Empty]
+.. The legislature finds that a safe, efficient, and effective delivery of vaccinations is of the utmost importance for restoring societal and economic functions. As we learn more about the virus, the vaccine, and challenges to vaccine allocation and distribution, it is anticipated that the state's COVID-19 vaccination distribution plan will evolve. To that end, the legislature has provided flexibility by funding expenditures for testing, contact tracing, mitigation activities, vaccine administration and distribution, and other allowable uses for the state, local health jurisdictions, and tribes at the discretion of the secretary and without an appropriation. However, to maintain fiscal control and to ensure spending priorities align, the department is required to collaborate and communicate with the chairs and ranking members of the health care and fiscal committees of the legislature and local health jurisdictions in advance of any significant revision of the state's COVID-19 vaccination plan and to provide regular updates on its implementation and spending.
+
+.. As part of the public health response to COVID-19, the expenditures from the account must be used to effectively administer the vaccine for COVID-19 and conduct testing and contact tracing. The department must ensure that COVID-19 outreach is accessible, culturally and linguistically appropriate, and that it includes community-driven partnerships and strategies.
+
+.. When making expenditures for administering the vaccine for COVID-19, the department must focus on identifying persons for vaccination, prioritizing underserved, underrepresented, and hard-to-reach communities, making the vaccine accessible, and providing support to schools for safe reopening. Strategies for vaccine distribution shall include the establishment and expansion of community vaccination centers, mobile vaccination units, reporting enhancements, in-home visits for vaccinations for the elderly, and transportation of individuals to vaccination sites.
+
+.. When making expenditures regarding testing and contact tracing, the department must provide equitable access, prioritize underserved, underrepresented, and hard-to-reach communities, and provide support and resources to facilitate the safe reopening of schools while minimizing community spread of the virus.
+
+.. The department may also make expenditures from the account related to developing the public health workforce using funds granted by the federal government for that purpose in section 2501, the American rescue plan act of 2021, P.L. 117-2.
+
+. When making expenditures from the account, the department must include an emphasis on public communication regarding the availability and accessibility of the vaccine and testing, and the importance of vaccine and testing availability to the safe reopening of the state.
+
+. [Empty]
+.. The department must report to the fiscal and health care committees of the legislature on a monthly basis regarding its COVID-19 response.
+
+.. To the extent that it is available, the report must include data regarding vaccine distribution, testing, and contact tracing, as follows:
+
+... The number of vaccines administered per day, including regional data regarding the location and age groups of persons receiving the vaccine, specifically identifying hard-to-reach communities in which vaccines were administered; and
+
+... The number of tests conducted per week, including data specifically addressing testing conducted in hard-to-reach communities.
+
+.. The first monthly report is due no later than one month from February 19, 2021. Monthly reports are no longer required upon the department's determination that the remaining balance of the COVID-19 [public health] response account is less than $100,000.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5092-S.SL.pdf?cite=2021%20c%20334%20§%201004[2021 c 334 § 1004]; http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1368-S.SL.pdf?cite=2021%20c%203%20§%2019[2021 c 3 § 19]; ]
 
 == 43.70.720 - Universal vaccine purchase account.
 The universal vaccine purchase account is created in the custody of the state treasurer. Receipts from public and private sources for the purpose of increasing access to vaccines for children may be deposited into the account. Expenditures from the account must be used exclusively for the purchase of vaccines, at no cost to health care providers in Washington, to administer to children under nineteen years old who are not eligible to receive vaccines at no cost through federal programs. Only the secretary or the secretary's designee may authorize expenditures from the account. The account is subject to allotment procedures under chapter 43.88 RCW, but an appropriation is not required for expenditures.
@@ -1781,7 +1979,7 @@ The department of health must review the professional certification and training
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1358-S2.SL.pdf?cite=2017%20c%20273%20§%203[2017 c 273 § 3]; ]
 
 == 43.70.765 - Opioid drugs—Warning—Patient education materials.
-. The department must create a statement warning individuals about the risks of opioid use and abuse and provide information about safe disposal of opioids. The department must provide the warning on its web site.
+. The department must create a statement warning individuals about the risks of opioid use and abuse and provide information about safe disposal of opioids. The department must provide the warning on its website.
 
 . The department must review the science, data, and best practices around the use of opioids and their associated risks. As evidence and best practices evolve, the department must update its warning to reflect these changes.
 
@@ -1847,6 +2045,118 @@ The department must conduct a review of statutes for all health care facility ty
 . The department must design, prepare, and make available online, written materials to provide information to providers and patients regarding Washington's death with dignity act, chapter 70.245 RCW.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1608-S.SL.pdf?cite=2020%20c%20102%20§%204[2020 c 102 § 4]; ]
+
+== 43.70.815 - Environmental health disparities map.
+. In consultation with the environmental justice council established in RCW 70A.02.110, the department must continue to develop and maintain an environmental health disparities map with the most current available information necessary to identify cumulative environmental health impacts and overburdened communities. The department may also consult with other interested partners, such as the University of Washington department of environmental and occupational health sciences, other academic partners, members of overburdened communities and vulnerable populations, and other agencies. The environmental health disparities map must include tools to:
+
+.. Track changes in environmental health disparities over time in an interactive, regularly updated display; and
+
+.. Measure the link between overall environmental health disparity map ranks, environmental data, vulnerable populations characteristics, such as race and income, and human health data.
+
+. In further developing and maintaining the environmental health disparities map, the department must:
+
+.. Solicit feedback from representatives from overburdened communities and vulnerable populations through community engagement and listening sessions in all regions of the state and provide opportunities for public comment; and
+
+.. Request assistance from:
+
+... State universities;
+
+... Other academic researchers, such as the Washington state institute for public policy, to perform modeling and create evidence-based indicators and to conduct sensitivity analyses to assess the impact of new indicators on communities and determinations of overburdened communities; and
+
+... Other state agencies to provide applicable statewide environmental and sampling data for air, water, soil, polluted sites, toxic waste, pesticides, toxic chemicals, and other applicable media.
+
+. The department must:
+
+.. Document and publish a summary of the regular updates and revisions to the environmental health disparities map that happen over time as the new data becomes available, in order to help the public understand different versions of the map as they are published;
+
+.. At least every three years, perform a comprehensive evaluation of the map to ensure that the most current modeling and methods available to evaluate cumulative environmental health impacts are being used to develop and update the environmental health disparities map's indicators;
+
+.. Develop technical guidance for agencies that includes an online training video detailing a description of how to use the environmental health disparities map's features, access source data, and explanation of map and indicator limitations; and
+
+.. Provide support and consultation to agencies on the use of the environmental health disparities map by Washington tracking network staff.
+
+. [Empty]
+.. By November 1, 2022, the Washington state institute for public policy must conduct a technical review of the measures and methods used in the environmental health disparities map. The review must, to the extent possible, address the following:
+
+... Identify how the measures used in the map compare to measures used in other similar tools that aim to identify communities that are disproportionately impacted as a result of environmental justice issues;
+
+... Compare characteristics such as the reliability, validity, and clinical importance of individual and composite measures included in the map and other similar tools; and
+
+... Compare methodologies used in the map to statistical methodologies used in other similar tools.
+
+.. The department of health and the University of Washington must provide technical documentation regarding current methods to the Washington state institute for public policy and must consult with the institute as needed to ensure that the institute has adequate information to complete the technical review.
+
+.. By November 1, 2022, the Washington state institute for public policy must submit a report on their findings to the office of the governor, the appropriate committees of the legislature, and the environmental justice council.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5141-S2.SL.pdf?cite=2021%20c%20314%20§%2019[2021 c 314 § 19]; ]
+
+== 43.70.820 - Environmental justice obligations of the department of health.
+The department must apply and comply with the substantive and procedural requirements of chapter 70A.02 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5141-S2.SL.pdf?cite=2021%20c%20314%20§%204[2021 c 314 § 4]; ]
+
+== 43.70.825 - School-based health center program office.
+. The school-based health center program office is established within the department, with the objective to expand and sustain the availability of school-based health center services to K-12 students in public schools, with a focus on historically underserved populations.
+
+. Subject to the availability of amounts appropriated for this specific purpose, the school-based health center program office shall:
+
+.. Develop funding criteria and metrics for monitoring and evaluation in partnership with a statewide nonprofit organization providing training and technical assistance to school-based health centers;
+
+.. Award grant funding for school-based health centers. The department may grant funding for the following purposes:
+
+... Planning a school-based health center;
+
+... Start-up costs associated with setting up a school-based health center; and
+
+... Ongoing costs of operating a school-based health center;
+
+.. Monitor and evaluate school-based health centers that receive grant funding from the program office;
+
+.. Partner with a statewide nonprofit organization to provide training and technical assistance to school-based health centers; and
+
+.. Coordinate with the statewide nonprofit organization providing training and technical assistance, educational service districts, the health care authority, hosting school districts, and the office of the insurance commissioner, to provide support to school-based health centers.
+
+. For purposes of this section, a "school-based health center" means a collaboration between the community, the school, and a sponsoring agency that operates the school-based health center, which is a student-focused health center located in or adjacent to a school that provides integrated medical, behavioral health, and other health care services such as dental care.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1225-S.SL.pdf?cite=2021%20c%2068%20§%202[2021 c 68 § 2]; ]
+
+== 43.70.830 - Lead contamination in drinking water in school buildings—Sampling and testing—Data-sharing agreement.
+. The department shall conduct sampling and testing for lead contamination at drinking water outlets in school buildings built, or with all plumbing replaced, before 2016 as specified in this section. The department meets the requirements of this section when a school contracts for sampling and testing that meets the requirements of this section and submits the test results to the department according to a procedure and deadlines determined by the department.
+
+. Sampling and testing for the presence and level of lead in drinking water must meet the technical requirements described in the technical guidance.
+
+. [Empty]
+.. Initial testing for lead contamination in drinking water must be conducted between July 1, 2014, and June 30, 2026.
+
+.. Retesting for lead contamination in drinking water must be conducted no less than every five years beginning July 1, 2026.
+
+. [Empty]
+.. The department shall develop and publish a two-year plan for sampling and testing. The plan must be updated at least annually. Prior to adding a school to the plan, the department must contact the school to determine whether the school has contracted, or is planning to contract, for sampling and testing.
+
+.. Beginning July 1, 2026, in developing the two-year plan for sampling and testing, the department must group school buildings by governing body and then prioritize the groups based on the combined length of time since each school building built, or with all plumbing replaced, before 2016 was sampled and tested.
+
+. The department shall enter a data-sharing agreement with the office of the superintendent of public instruction for the purpose of compiling a list of school buildings built, or with all plumbing replaced, before 2016.
+
+. The definitions in RCW 28A.210.410 apply throughout this section unless the context clearly requires otherwise.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1139-S2.SL.pdf?cite=2021%20c%20154%20§%203[2021 c 154 § 3]; ]
+
+== 43.70.835 - Lead contamination in drinking water in school buildings—State-tribal compact schools.
+The department shall allow state-tribal compact schools established under chapter 28A.715 RCW to opt into sampling and testing for lead contamination at drinking water outlets in school buildings built, or with all plumbing replaced, before 2016 pursuant to RCW 43.70.830.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1139-S2.SL.pdf?cite=2021%20c%20154%20§%204[2021 c 154 § 4]; ]
+
+== 43.70.840 - Lead contamination in drinking water in school buildings—Technical guidance.
+The department shall develop and make available technical guidance for reducing lead contamination in drinking water at schools that is at least as protective of student health as any technical guidance on this topic issued by the United States environmental protection agency. The technical guidance must include the technical requirements for sampling, processing, and analysis, including that analysis must be conducted by a laboratory accredited by the department of ecology. The technical guidance must describe best practices for remediating elevated lead levels at drinking water outlets in schools. Best practices must include installing and maintaining filters certified by a body accredited by the American national standards institute. Provisions of the technical guidance related to testing for the presence and level of lead in drinking water, as opposed to testing to identify sources of lead for remediation, must be designed to maximize detection of lead in water, and therefore must prohibit sampling or analytical methods that tend to mask lead contamination, including prestagnation flushing and removal of aerators prior to sampling.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1139-S2.SL.pdf?cite=2021%20c%20154%20§%205[2021 c 154 § 5]; ]
+
+== 43.70.845 - Lead contamination in drinking water in school buildings—Department of health as lead agency—Waiver.
+. To the fullest extent permitted by federal law, the department, rather than community water systems, is designated as the lead or principal agency in regard to lead in drinking water sampling, testing, notification, remediation, public education, and other actions at public and private elementary and secondary schools as required by the federal lead and copper rule, 40 C.F.R. Part 141.
+
+. The department must issue a written waiver that exempts community water systems that serve schools from the sampling and testing requirements of 40 C.F.R. Part 141.92 related to schools if the department determines that the mandatory requirements for sampling and testing for, and remediation of, lead contamination in drinking water outlets at elementary and secondary schools under chatper 154, Laws of 2021 are consistent with the requirements in 40 C.F.R. Part 141.92 of the federal lead and copper rule.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1139-S2.SL.pdf?cite=2021%20c%20154%20§%207[2021 c 154 § 7]; ]
 
 == 43.70.900 - References to the secretary or department of social and health services—1989 1st ex.s. c 9.
 All references to the secretary or department of social and health services in the Revised Code of Washington shall be construed to mean the secretary or department of health when referring to the functions transferred in RCW 43.70.080, 18.104.005, 70.08.005, 70.24.005, 70.40.005, 70.41.005, and 70.54.005.

@@ -12,7 +12,7 @@ As used in this title, unless specially defined otherwise or unless the context 
 
 . "Low-level radioactive waste site operating company" includes every corporation, company, association, joint stock association, partnership, and person, their lessees, trustees, or receivers appointed by any court whatsoever, owning, operating, controlling, or managing a low-level radioactive waste disposal site or sites located within the state of Washington.
 
-. "Low-level radioactive waste" means low-level waste as defined by *RCW 43.145.010.
+. "Low-level radioactive waste" means low-level waste as defined by RCW 70A.380.010.
 
 . "Person" includes an individual, a firm, or copartnership.
 
@@ -38,7 +38,7 @@ As used in this title, unless specially defined otherwise or unless the context 
 
 . The term "service" is used in this title in its broadest and most inclusive sense.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1312-S.SL.pdf?cite=2007%20c%20234%20§%204[2007 c 234 § 4]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1931-S.SL.pdf?cite=1993%20c%20427%20§%209[1993 c 427 § 9]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5756-S.SL.pdf?cite=1991%20c%20272%20§%203[1991 c 272 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c13.pdf?cite=1981%20c%2013%20§%202[1981 c 13 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c14.pdf?cite=1961%20c%2014%20§%2081.04.010[1961 c 14 § 81.04.010]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c316.pdf?cite=1955%20c%20316%20§%203[1955 c 316 § 3]; prior: 1929 c 223 § 1, part; 1923 c 116 § 1, part; 1911 c 117 § 8, part; RRS § 10344, part; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%20100[2021 c 65 § 100]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1312-S.SL.pdf?cite=2007%20c%20234%20§%204[2007 c 234 § 4]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1931-S.SL.pdf?cite=1993%20c%20427%20§%209[1993 c 427 § 9]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5756-S.SL.pdf?cite=1991%20c%20272%20§%203[1991 c 272 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c13.pdf?cite=1981%20c%2013%20§%202[1981 c 13 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c14.pdf?cite=1961%20c%2014%20§%2081.04.010[1961 c 14 § 81.04.010]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c316.pdf?cite=1955%20c%20316%20§%203[1955 c 316 § 3]; prior: 1929 c 223 § 1, part; 1923 c 116 § 1, part; 1911 c 117 § 8, part; RRS § 10344, part; ]
 
 == 81.04.020 - Procedure before commission and courts.
 Each commissioner shall have power to administer oaths, certify to all official acts, and to issue subpoenas for the attendance of witnesses and the production of papers, waybills, books, accounts, documents, and testimony in any inquiry, investigation, hearing, or proceeding in any part of the state.

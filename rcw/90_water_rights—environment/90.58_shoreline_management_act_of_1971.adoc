@@ -265,7 +265,7 @@ This chapter establishes a cooperative program of shoreline management between l
 == 90.58.090 - Approval of master program or segments or amendments—Procedure—Departmental alternatives when shorelines of statewide significance—Later adoption of master program supersedes departmental program.
 . A master program, segment of a master program, or an amendment to a master program shall become effective when approved by the department as provided in subsection (7) of this section. Within the time period provided in RCW 90.58.080, each local government shall have submitted a master program, either totally or by segments, for all shorelines of the state within its jurisdiction to the department for review and approval.
 
-The department shall strive to achieve final action on a submitted master program within one hundred eighty days of receipt and shall post an annual assessment related to this performance benchmark on the agency web site.
+The department shall strive to achieve final action on a submitted master program within one hundred eighty days of receipt and shall post an annual assessment related to this performance benchmark on the agency website.
 
 . Upon receipt of a proposed master program or amendment, the department shall:
 
@@ -479,25 +479,32 @@ If a permittee begins construction pursuant to (a), (b), (c), (d), or (e) of thi
 == 90.58.147 - Substantial development permit—Exemption for projects to improve fish or wildlife habitat or fish passage.
 . A public or private project that is designed to improve fish or wildlife habitat or fish passage shall be exempt from the substantial development permit requirements of this chapter when all of the following apply:
 
-.. The project has been approved by the department of fish and wildlife;
+.. The project has been approved by the department of fish and wildlife or, for forest practices hydraulic projects within the scope of RCW 77.55.181, the department of natural resources if the local government notification provisions of RCW 77.55.181 are satisfied;
 
-.. The project has received hydraulic project approval by the department of fish and wildlife pursuant to chapter 77.55 RCW; and
+.. The project has received hydraulic project approval by the department of fish and wildlife pursuant to chapter 77.55 RCW or approval of a forest practices hydraulic project within the scope of RCW 77.55.181 from the department of natural resources if the local government notification provisions of RCW 77.55.181 are satisfied; and
 
 .. The local government has determined that the project is substantially consistent with the local shoreline master program. The local government shall make such determination in a timely manner and provide it by letter to the project proponent.
 
 . Fish habitat enhancement projects that conform to the provisions of RCW 77.55.181 are determined to be consistent with local shoreline master programs.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5404.SL.pdf?cite=2019%20c%20150%20§%202[2019 c 150 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5172.SL.pdf?cite=2003%20c%2039%20§%2049[2003 c 39 § 49]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2879-S2.SL.pdf?cite=1998%20c%20249%20§%204[1998 c 249 § 4]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5155-S.SL.pdf?cite=1995%20c%20333%20§%201[1995 c 333 § 1]; ]
+. Public projects for the primary purpose of fish passage improvement or fish passage barrier removal are exempt from the substantial development permit requirements of this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5381-S.SL.pdf?cite=2021%20c%20289%20§%202[2021 c 289 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5404.SL.pdf?cite=2019%20c%20150%20§%202[2019 c 150 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5172.SL.pdf?cite=2003%20c%2039%20§%2049[2003 c 39 § 49]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2879-S2.SL.pdf?cite=1998%20c%20249%20§%204[1998 c 249 § 4]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5155-S.SL.pdf?cite=1995%20c%20333%20§%201[1995 c 333 § 1]; ]
 
 == 90.58.150 - Selective commercial timber cutting, when.
 With respect to timber situated within two hundred feet abutting landward of the ordinary high water mark within shorelines of statewide significance, the department or local government shall allow only selective commercial timber cutting, so that no more than thirty percent of the merchantable trees may be harvested in any ten year period of time: PROVIDED, That other timber harvesting methods may be permitted in those limited instances where the topography, soil conditions or silviculture practices necessary for regeneration render selective logging ecologically detrimental: PROVIDED FURTHER, That clear cutting of timber which is solely incidental to the preparation of land for other uses authorized by this chapter may be permitted.
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c286.pdf?cite=1971%20ex.s.%20c%20286%20§%2015[1971 ex.s. c 286 § 15]; ]
 
-== 90.58.160 - Prohibition against surface drilling for oil or gas, where.
-Surface drilling for oil or gas is prohibited in the waters of Puget Sound north to the Canadian boundary and the Strait of Juan de Fuca seaward from the ordinary high water mark and on all lands within one thousand feet landward from said mark.
+== 90.58.160 - Prohibition against seabed mining for hard minerals and surface drilling for oil or gas, where.
+. Seabed mining for hard minerals and surface drilling for oil or gas is prohibited in the waters of Puget Sound north to the Canadian boundary and the Strait of Juan de Fuca seaward from the ordinary high water mark and on all lands within one thousand feet landward from said mark.
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c286.pdf?cite=1971%20ex.s.%20c%20286%20§%2016[1971 ex.s. c 286 § 16]; ]
+. [Empty]
+.. For purposes of this section, "hard minerals" means natural deposits of valuable minerals including, but not limited to, metals and placer deposits of metals, nonmetallic minerals, gemstones, ores, sediments, gold, silver, copper, lead, iron, manganese, silica, chrome, platinum, tungsten, zirconium, titanium, garnet, and phosphorus.
+
+.. "Hard minerals" does not include rock, gravel, sand, silt, coal, or hydrocarbons.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5145.SL.pdf?cite=2021%20c%20181%20§%203[2021 c 181 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c286.pdf?cite=1971%20ex.s.%20c%20286%20§%2016[1971 ex.s. c 286 § 16]; ]
 
 == 90.58.170 - Shorelines hearings board—Established—Members—Chair—Quorum for decision—Expenses of members.
 A shorelines hearings board sitting as a quasi-judicial body is hereby established within the environmental and land use hearings office under *RCW 43.21B.005. The shorelines hearings board shall be made up of six members: Three members shall be members of the pollution control hearings board; two members, one appointed by the association of Washington cities and one appointed by the association of county commissioners, both to serve at the pleasure of the associations; and the commissioner of public lands or his or her designee. The chair of the pollution control hearings board shall be the chair of the shorelines hearings board. Except as provided in RCW 90.58.185, a decision must be agreed to by at least four members of the board to be final. The members of the shorelines hearings board shall receive the compensation, travel, and subsistence expenses as provided in RCW 43.03.050 and 43.03.060.
@@ -651,11 +658,11 @@ The state, through the department of ecology and the attorney general, shall rep
 ... "Floating home" means a single-family dwelling unit constructed on a float, that is moored, anchored, or otherwise secured in waters, and is not a vessel, even though it may be capable of being towed.
 
 . [Empty]
-.. A floating on-water residence legally established prior to July 1, 2014, must be considered a conforming use and accommodated through reasonable shoreline master program regulations, permit conditions, or mitigation that will not effectively preclude maintenance, repair, replacement, and remodeling of existing floating on-water residences and their moorages by rendering these actions impracticable.
+.. A floating on-water residence legally established prior to July 1, 2014, must be considered a conforming use and accommodated through reasonable shoreline master program regulations, permit conditions, or mitigation that will not effectively preclude maintenance, repair, replacement, and remodeling of existing floating on-water residences and their moorages by rendering these actions impracticable. A substantial development permit is not required when replacing or remodeling a floating on-water residence if the size of the existing residence is not materially exceeded. A substantial development permit is required if the replacement or remodel of a floating on-water residence materially exceeds the size of the existing residence. All replacements and remodels which add one hundred twenty square feet or more to the living space must require on-board graywater containment or a wastewater connection that disposes of the graywater to a wastewater disposal system.
 
-.. For the purpose of this subsection, "floating on-water residence" means any floating structure other than a floating home, as defined under subsection (5) of this section, that: (i) Is designed or used primarily as a residence on the water and has detachable utilities; and (ii) whose owner or primary occupant has held an ownership interest in space in a marina, or has held a lease or sublease to use space in a marina, since a date prior to July 1, 2014.
+.. For the purpose of this subsection, "floating on-water residence" means a vessel or any other floating structure other than a floating home, as defined under subsection (5) of this section: (i) That is designed or used primarily as a residence on the water and has detachable utilities; and (ii) whose owner or primary occupant has held an ownership interest in space in a marina, or has held a lease or sublease to use space in a marina, since a date prior to July 1, 2014.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6450-S.SL.pdf?cite=2014%20c%2056%20§%202[2014 c 56 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1783-S.SL.pdf?cite=2011%20c%20212%20§%202[2011 c 212 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c286.pdf?cite=1971%20ex.s.%20c%20286%20§%2027[1971 ex.s. c 286 § 27]; ]
+[ ?cite=2021%20c%20148%20§%201[2021 c 148 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6450-S.SL.pdf?cite=2014%20c%2056%20§%202[2014 c 56 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1783-S.SL.pdf?cite=2011%20c%20212%20§%202[2011 c 212 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c286.pdf?cite=1971%20ex.s.%20c%20286%20§%2027[1971 ex.s. c 286 § 27]; ]
 
 == 90.58.280 - Application to all state agencies, counties, public and municipal corporations.
 The provisions of this chapter shall be applicable to all agencies of state government, counties, and public and municipal corporations and to all shorelines of the state owned or administered by them.
@@ -701,11 +708,13 @@ Requirements to obtain a substantial development permit, conditional use permit,
 
 . Any person conducting a remedial action at a facility pursuant to a consent decree, order, or agreed order issued pursuant to chapter 70A.305 RCW, or to the department of ecology when it conducts a remedial action under chapter 70A.305 RCW. The department must ensure compliance with the substantive requirements of this chapter through the consent decree, order, or agreed order issued pursuant to chapter 70A.305 RCW, or during the department-conducted remedial action, through the procedures developed by the department pursuant to RCW 70A.305.090;
 
-. Any person installing site improvements for stormwater treatment in an existing boatyard facility to meet requirements of a national pollutant discharge elimination system stormwater general permit. The department must ensure compliance with the substantive requirements of this chapter through the review of engineering reports, site plans, and other documents related to the installation of boatyard stormwater treatment facilities; or
+. Any person installing site improvements for stormwater treatment in an existing boatyard facility to meet requirements of a national pollutant discharge elimination system stormwater general permit. The department must ensure compliance with the substantive requirements of this chapter through the review of engineering reports, site plans, and other documents related to the installation of boatyard stormwater treatment facilities;
 
-. The department of transportation projects and activities that meet the conditions of RCW 90.58.356.
+. The department of transportation projects and activities that meet the conditions of RCW 90.58.356; or
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201506[2020 c 20 § 1506]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5994-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%2015%20§%209[2015 3rd sp.s. c 15 § 9]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2469.SL.pdf?cite=2012%20c%20169%20§%201[2012 c 169 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6339-S.SL.pdf?cite=1994%20c%20257%20§%2020[1994 c 257 § 20]; ]
+. Actions taken on the Columbia river by the United States army corps of engineers, under the authority of United States Code Titles 33 and 42 and 33 C.F.R. Sec. 335, to maintain and improve federal navigation channels in accordance with federally mandated dredged material management and improvement project plans, provided the project: (a) Has undergone environmental review under both the national environmental policy act, 42 U.S.C. Sec. 4321-4370h and the state environmental policy act, chapter 43.21C RCW; and (b) has applied for federal clean water act section 401 water quality certifications issued by the department.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1193-S.SL.pdf?cite=2021%20c%20299%20§%201[2021 c 299 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201506[2020 c 20 § 1506]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5994-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%2015%20§%209[2015 3rd sp.s. c 15 § 9]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2469.SL.pdf?cite=2012%20c%20169%20§%201[2012 c 169 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6339-S.SL.pdf?cite=1994%20c%20257%20§%2020[1994 c 257 § 20]; ]
 
 == 90.58.356 - Projects and activities not required to obtain certain permits, variances, letters of exemption, or other local review—Written notice, when required.
 . For purposes of this section, the following definitions apply:
@@ -822,7 +831,7 @@ The department of ecology shall consult with affected state agencies, local gove
 
 .. The application for relief must be submitted to the department for written approval or disapproval. This review must occur during the department's normal review of a shoreline substantial development permit, conditional use permit, or variance. If no such permit is required, then the department shall conduct its review when the local government provides a copy of a complete application and all supporting information necessary to conduct the review.
 
-... Except as otherwise provided in subsection (2) of this section, the department shall provide at least twenty-days notice to parties that have indicated interest to the department in reviewing applications for relief under this section, and post the notice on their web site.
+... Except as otherwise provided in subsection (2) of this section, the department shall provide at least twenty-days notice to parties that have indicated interest to the department in reviewing applications for relief under this section, and post the notice on their website.
 
 ... The department shall act within thirty calendar days of close of the public notice period, or within thirty days of receipt of the proposal from the local government if additional public notice is not required.
 

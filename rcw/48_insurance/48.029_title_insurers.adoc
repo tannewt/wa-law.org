@@ -356,7 +356,7 @@ The existence of notices of payment obligations in RCW 80.28.065 may be disclose
 
 .. Be made available to the public during normal business hours in each office of the title insurer and its appointed title insurance agents in this state;
 
-.. Be made available on the title insurer's and title insurance agent's web site, if the title insurer or title insurance agent has a web site;
+.. Be made available on the title insurer's and title insurance agent's website, if the title insurer or title insurance agent has a website;
 
 .. Set forth the total title insurance premium charged for the title insurance policy issued by the title insurer either by stating the premium for each title insurance policy in given amounts of coverage, or by stating the charge per unit amount of coverage, or by a combination of the two; and
 

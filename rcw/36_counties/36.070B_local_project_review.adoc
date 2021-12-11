@@ -151,11 +151,11 @@ The development regulations must, for each type of permit application, specify t
 
 .. Counties and cities subject to the requirements of this subsection must:
 
-... Provide notice of and access to the annual performance reports through the county's or city's web site; and
+... Provide notice of and access to the annual performance reports through the county's or city's website; and
 
-... Post electronic facsimiles of the annual performance reports through the county's or city's web site. Postings on a county's or city's web site indicating that the reports are available by contacting the appropriate county or city department or official do not comply with the requirements of this subsection.
+... Post electronic facsimiles of the annual performance reports through the county's or city's website. Postings on a county's or city's website indicating that the reports are available by contacting the appropriate county or city department or official do not comply with the requirements of this subsection.
 
-If a county or city subject to the requirements of this subsection does not maintain a web site, notice of the reports must be given by reasonable methods, including but not limited to those methods specified in RCW 36.70B.110(4).
+If a county or city subject to the requirements of this subsection does not maintain a website, notice of the reports must be given by reasonable methods, including but not limited to those methods specified in RCW 36.70B.110(4).
 
 . Nothing in this section prohibits a county or city from extending a deadline for issuing a decision for a specific project permit application for any reasonable period of time mutually agreed upon by the applicant and the local government.
 
@@ -268,7 +268,7 @@ A local government not planning under RCW 36.70A.040 may incorporate some or all
 [ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1724-S.SL.pdf?cite=1995%20c%20347%20§%20419[1995 c 347 § 419]; ]
 
 == 36.70B.160 - Additional project review encouraged—Construction.
-. Each local government is encouraged to adopt further project review provisions to provide prompt, coordinated review and ensure accountability to applicants and the public, including expedited review for project permit applications for projects that are consistent with adopted development regulations and within the capacity of system-wide infrastructure improvements.
+. Each local government is encouraged to adopt further project review provisions to provide prompt, coordinated review and ensure accountability to applicants and the public, including expedited review for project permit applications for projects that are consistent with adopted development regulations and within the capacity of systemwide infrastructure improvements.
 
 . Nothing in this chapter is intended or shall be construed to prevent a local government from requiring a preapplication conference or a public meeting by rule, ordinance, or resolution.
 

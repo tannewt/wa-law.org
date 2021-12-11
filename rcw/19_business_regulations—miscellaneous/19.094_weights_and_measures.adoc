@@ -15,11 +15,17 @@ The legislature finds:
 == 19.94.010 - Definitions—Director may prescribe by rule.
 . The definitions in this section apply throughout this chapter and to any rules adopted pursuant to this chapter unless the context clearly requires otherwise.
 
+.. "Charging session" means an event starting when a user or a vehicle initiates a refueling event and stops when a user or a vehicle ends a refueling event.
+
 .. "City" means a first-class city or a code city, as defined in RCW 35A.01.035, with a population of over fifty thousand persons.
 
 .. "City sealer" means the person duly authorized by a city to enforce and administer the weights and measures program within such city and any duly appointed deputy sealer acting under the instructions and at the direction of the city sealer.
 
+.. "Clearly marked" means, at a minimum, a sign, sticker, plaque, or any other visible marker that is readable.
+
 .. "Commodity in package form" means a commodity put up or packaged in any manner in advance of sale in units suitable for either wholesale or retail sale, exclusive, however, of an auxiliary shipping container enclosing packages that individually conform to the requirements of this chapter. An individual item or lot of any commodity not in packaged form, but on which there is marked a selling price based on established price per unit of weight or of measure, shall be construed to be a commodity in package form.
+
+.. "Common interest community" has the same meaning as defined in RCW 64.90.010.
 
 .. "Consumer package" or "package of consumer commodity" means a commodity in package form that is customarily produced or distributed for sale through retail sales agencies or instrumentalities for consumption by persons, or used by persons for the purpose of personal care or in the performance of services ordinarily rendered in or about a household or in connection with personal possessions.
 
@@ -27,21 +33,41 @@ The legislature finds:
 
 .. "Department" means the department of agriculture of the state of Washington.
 
+.. "Direct current fast charger" means electric vehicle supply equipment capable of supplying direct current electricity to a vehicle fitted with the appropriate connection to support refueling the vehicle's energy storage battery.
+
 .. "Director" means the director of the department or duly authorized representative acting under the instructions and at the direction of the director.
+
+.. "Electric vehicle service provider" means the entity responsible for operating one or more networked or nonnetworked electric vehicle supply equipment. Operating includes, but is not limited to: Sending commands or messages to a networked electric vehicle supply equipment; receiving commands or messages from a networked electric vehicle supply equipment; or providing billing, maintenance, reservations, or other services to a nonnetworked or networked electric vehicle supply equipment. An electric vehicle service provider may designate another entity to act as the electric vehicle service provider for purposes of this chapter. A state agency, an electric utility as defined in RCW 19.405.020, or a municipal corporation as defined in RCW 39.69.010 is considered an electric vehicle service provider when responsible for operating one or more publicly available electric vehicle supply equipment.
+
+.. "Electric vehicle supply equipment" means the unit controlling the power supply to one or more vehicles during a charging session including, but not limited to, level 2 electric vehicle supply equipment and direct current fast chargers.
 
 .. "Fish" means any waterbreathing animal, including shellfish, such as, but not limited to, lobster, clam, crab, or other mollusca that is prepared, processed, sold, or intended for sale.
 
+.. "Installed" means operational and made available for a charging session.
+
+.. "Kiosk" means a stand-alone physical unit that allows users to pay for and initiate a charging session at one or more electric vehicle supply equipment located at the same site as the kiosk.
+
+.. "Level 2 electric vehicle supply equipment" means electric vehicle supply equipment capable of supplying 208 to 240 volt alternating current.
+
+.. "Meat" means and shall include all animal flesh, carcasses, or parts of animals, and shall also include fish, shellfish, game, poultry, and meat food products of every kind and character, whether fresh, frozen, cooked, cured, or processed.
+
 .. "Net weight" means the weight of a commodity excluding any materials, substances, or items not considered to be part of such commodity. Materials, substances, or items not considered to be part of a commodity shall include, but are not limited to, containers, conveyances, bags, wrappers, packaging materials, labels, individual piece coverings, decorative accompaniments, and coupons.
+
+.. "Networked electric vehicle supply equipment" means electric vehicle supply equipment capable of receiving and sending commands or messages remotely from an electric vehicle service provider, including electric vehicle supply equipment with secondary systems that provide remote communication capabilities that have been installed.
 
 .. "Nonconsumer package" or "package of nonconsumer commodity" means a commodity in package form other than a consumer package and particularly a package designed solely for industrial or institutional use or for wholesale distribution only.
 
-.. "Meat" means and shall include all animal flesh, carcasses, or parts of animals, and shall also include fish, shellfish, game, poultry, and meat food products of every kind and character, whether fresh, frozen, cooked, cured, or processed.
+.. "Nonnetworked electric vehicle supply equipment" means electric vehicle supply equipment incapable of receiving and sending commands or messages remotely from an electric vehicle service provider, including electric vehicle supply equipment with remote communication capabilities that have been disabled.
 
 .. "Official seal of approval" means the seal or certificate issued by the director or city sealer which indicates that a secondary weights and measures standard or a weighing or measuring instrument or device conforms with the specifications, tolerances, and other technical requirements adopted in RCW 19.94.190.
 
 .. "Person" means any individual, receiver, administrator, executor, assignee, trustee in bankruptcy, trust, estate, firm, copartnership, joint venture, club, company, business trust, corporation, association, society, or any group of individuals acting as a unit, whether mutual, cooperative, fraternal, nonprofit, or otherwise.
 
 .. "Poultry" means all fowl, domestic or wild, that is prepared, processed, sold, or intended or offered for sale.
+
+.. "Publicly available electric vehicle supply equipment" means electric vehicle supply equipment and associated parking space or spaces designated by a property owner or lessee to be available to, and accessible by, the public.
+
+.. "Secondary weights and measures standard" means the physical standards that are traceable to the primary standards through comparisons, used by the director, a city sealer, or a service agent that under specified conditions defines or represents a recognized weight or measure during the inspection, adjustment, testing, or systematic standardization of the graduations of any weighing or measuring instrument or device.
 
 .. "Service agent" means a person who for hire, award, commission, or any other payment of any kind, installs, tests, inspects, checks, adjusts, repairs, reconditions, or systematically standardizes the graduations of a weighing or measuring instrument or device.
 
@@ -53,11 +79,9 @@ The legislature finds:
 
 .. "Weights and measures" means the recognized standards or units of measure used to indicate the size, quantity, capacity, count, extent, area, heaviness, or measurement of any consumable commodity.
 
-.. "Secondary weights and measures standard" means the physical standards that are traceable to the primary standards through comparisons, used by the director, a city sealer, or a service agent that under specified conditions defines or represents a recognized weight or measure during the inspection, adjustment, testing, or systematic standardization of the graduations of any weighing or measuring instrument or device.
-
 . The director shall prescribe by rule other definitions as may be necessary for the implementation of this chapter.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1298-S.SL.pdf?cite=2019%20c%2096%20§%201[2019 c 96 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1524-S2.SL.pdf?cite=1995%20c%20355%20§%204[1995 c 355 § 4]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6483-S.SL.pdf?cite=1992%20c%20237%20§%203[1992 c 237 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c67.pdf?cite=1969%20c%2067%20§%201[1969 c 67 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5192-S2.SL.pdf?cite=2021%20c%20238%20§%201[2021 c 238 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1298-S.SL.pdf?cite=2019%20c%2096%20§%201[2019 c 96 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1524-S2.SL.pdf?cite=1995%20c%20355%20§%204[1995 c 355 § 4]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6483-S.SL.pdf?cite=1992%20c%20237%20§%203[1992 c 237 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c67.pdf?cite=1969%20c%2067%20§%201[1969 c 67 § 1]; ]
 
 == 19.94.015 - Commercial use of instrument or device—Registration—Fees.
 . Except as provided in subsection (4) of this section for the initial registration of an instrument or device, no weighing or measuring instrument or device may be used for commercial purposes in the state unless its commercial use is registered annually. If its commercial use is within a city that has a city sealer and a weights and measures program as provided by RCW 19.94.280, the commercial use of the instrument or device must be registered with the city if the city has adopted fees pursuant to subsection (2) of this section. If its commercial use is outside of such a city, the commercial use of the instrument or device must be registered with the department.
@@ -94,7 +118,7 @@ Physical weights and measures standards that conform to the standards of the Uni
 == 19.94.175 - Registration—Inspection and testing—Fees—Report.
 . Pursuant to RCW 19.94.015, the following annual registration fees shall be charged for each weighing or measuring instrument or device used for commercial purposes in this state:
 
-..Weighing devices:(i)Small scales "zero to four hundred pounds capacity" . . . .$16.00(ii)Intermediate scales "four hundred one pounds to five thousand pounds capacity" . . . .$60.00(iii)Large scales "over five thousand pounds capacity" . . . .$120.00(iv)Railroad track scales . . . .$1,200.00(b)Liquid fuel metering devices:(i)Motor fuel meters with flows of twenty gallons or less per minute . . . .$16.00(ii)Motor fuel meters with flows of more than twenty but not more than one hundred fifty gallons per minute . . . .$50.00(iii)Motor fuel meters with flows over one hundred fifty gallons per minute . . . .$75.00(c)Liquid petroleum gas meters:(i)With one inch diameter or smaller dispensers . . . .$40.00(ii)With greater than one inch diameter dispensers . . . .$80.00(d)Fabric meters . . . .$15.00(e)Cordage meters . . . .$15.00(f)Mass flow meters . . . .$300.00(g)Taxi meters . . . .$40.00
+..Weighing devices:(i)Small scales "zero to four hundred pounds capacity" . . . .$16.00(ii)Intermediate scales "four hundred one pounds to five thousand pounds capacity" . . . .$60.00(iii)Large scales "over five thousand pounds capacity" . . . .$120.00(iv)Railroad track scales . . . .$1,200.00(b)Liquid fuel metering devices:(i)Motor fuel meters with flows of twenty gallons or less per minute . . . .$16.00(ii)Motor fuel meters with flows of more than twenty but not more than one hundred fifty gallons per minute . . . .$50.00(iii)Motor fuel meters with flows over one hundred fifty gallons per minute . . . .$75.00(c)Liquid petroleum gas meters:(i)With one inch diameter or smaller dispensers . . . .$40.00(ii)With greater than one inch diameter dispensers . . . .$80.00(d)Fabric meters . . . .$15.00(e)Cordage meters . . . .$15.00(f)Mass flow meters . . . .$300.00(g)Taxi meters . . . .$40.00(h)Level 2 electric vehicle supply equipment port . . . .$20.00(i)Direct current fast charger electric vehicle supply equipment port . . . .$40.00
 
 ..
 
@@ -212,13 +236,31 @@ $
 
 40.00
 
-. With the exception of subsection (3) of this section, no person shall be required to pay more than the annual registration fee for any weighing or measuring instrument or device in any one year.
+..
+
+Level 2 electric vehicle supply equipment port . . . .
+
+$
+
+20.00
+
+..
+
+Direct current fast charger electric vehicle supply equipment port . . . .
+
+$
+
+40.00
+
+. Pursuant to RCW 19.94.015, a reasonable registration fee for electric vehicle supply equipment, in addition to the fees established in subsection (1) of this section, may be established through rule making to cover the remaining costs associated with enforcing this chapter on electric vehicle supply equipment. The department may consider differential fees to reduce the potential burden of the registration fee for electric vehicle service providers operating less than 25 publicly available electric vehicle supply equipment in Washington.
+
+. With the exception of subsection (4) of this section, no person shall be required to pay more than the annual registration fee for any weighing or measuring instrument or device in any one year.
 
 . The department or a city sealer may establish reasonable inspection and testing fees for each type or class of weighing or measuring instrument or device specially requested to be inspected or tested by the device owner. These inspection and testing fees shall be limited to those amounts necessary for the department or city sealer to cover the direct costs associated with such inspection and testing. The fees shall not be set so as to compete with service agents normally engaged in such services.
 
 . The weights and measures advisory group within the department must review the fees in subsection (1) of this section and report to stakeholders on the financial status of the program supported by the fees by September 1, 2024, and September 1st every five years thereafter.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1298-S.SL.pdf?cite=2019%20c%2096%20§%203[2019 c 96 § 3]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6365-S.SL.pdf?cite=2006%20c%20358%20§%202[2006 c 358 § 2]; 2006 c 358 § 1; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1524-S2.SL.pdf?cite=1995%20c%20355%20§%207[1995 c 355 § 7]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6483-S.SL.pdf?cite=1992%20c%20237%20§%207[1992 c 237 § 7]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5192-S2.SL.pdf?cite=2021%20c%20238%20§%208[2021 c 238 § 8]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1298-S.SL.pdf?cite=2019%20c%2096%20§%203[2019 c 96 § 3]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6365-S.SL.pdf?cite=2006%20c%20358%20§%202[2006 c 358 § 2]; 2006 c 358 § 1; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1524-S2.SL.pdf?cite=1995%20c%20355%20§%207[1995 c 355 § 7]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6483-S.SL.pdf?cite=1992%20c%20237%20§%207[1992 c 237 § 7]; ]
 
 == 19.94.185 - Deposit of moneys—Weights and measures account—General fund.
 . Except as provided in subsection (2) of this section, all moneys collected under this chapter shall be payable to the director and placed in the weights and measures account hereby established in the agricultural local fund. Moneys deposited in this account shall be used solely for the purposes of implementing or enforcing this chapter. No appropriation is required for the disbursement of moneys from the weights and measures account by the director.
@@ -256,7 +298,17 @@ $
 
 . Rules adopted under this section must also include specifications and tolerances for the acceptable range of accuracy required of weighing or measuring instruments or devices and must be designed to eliminate from use, without prejudice to weighing or measuring instruments or devices that conform as closely as practicable to official specifications and tolerances, those that: (a) Are of such construction that they are faulty, that is, that are not reasonably permanent in their adjustment or will not repeat their indications correctly; or (b) facilitate the perpetration of fraud.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1298-S.SL.pdf?cite=2019%20c%2096%20§%204[2019 c 96 § 4]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1524-S2.SL.pdf?cite=1995%20c%20355%20§%209[1995 c 355 § 9]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6483-S.SL.pdf?cite=1992%20c%20237%20§%209[1992 c 237 § 9]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1856-S.SL.pdf?cite=1991%20sp.s.%20c%2023%20§%206[1991 sp.s. c 23 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c354.pdf?cite=1989%20c%20354%20§%2036[1989 c 354 § 36]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c26.pdf?cite=1977%20ex.s.%20c%2026%20§%205[1977 ex.s. c 26 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c67.pdf?cite=1969%20c%2067%20§%2019[1969 c 67 § 19]; ]
+. Rules adopted by the director related to the sale of electricity sold as a vehicle fuel and electric vehicle fueling systems may take effect no earlier than January 1, 2024, and may be modified to achieve state objectives, reviewed, and, if necessary, amended, to maintain consistency with evolving technology. To ensure existing infrastructure may continue operating without substantial equipment replacement or alteration, electric vehicle supply equipment installed and placed into service before January 1, 2024, is exempt from the rules of this section until January 1, 2034. Electric vehicle supply equipment that is replaced or retrofitted with new hardware after January 1, 2024, must be considered as having been installed and placed into service after January 1, 2024.
+
+.. Exempt electric vehicle supply equipment installed and placed into service before January 1, 2024, must:
+
+... Comply with RCW 19.94.175; and
+
+... Be clearly marked, identifying the date of installation.
+
+.. For the purpose of this subsection (6), "retrofitted" means a substantial modification outside of normal wear and tear maintenance.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5192-S2.SL.pdf?cite=2021%20c%20238%20§%209[2021 c 238 § 9]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1298-S.SL.pdf?cite=2019%20c%2096%20§%204[2019 c 96 § 4]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1524-S2.SL.pdf?cite=1995%20c%20355%20§%209[1995 c 355 § 9]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6483-S.SL.pdf?cite=1992%20c%20237%20§%209[1992 c 237 § 9]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1856-S.SL.pdf?cite=1991%20sp.s.%20c%2023%20§%206[1991 sp.s. c 23 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c354.pdf?cite=1989%20c%20354%20§%2036[1989 c 354 § 36]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c26.pdf?cite=1977%20ex.s.%20c%2026%20§%205[1977 ex.s. c 26 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969c67.pdf?cite=1969%20c%2067%20§%2019[1969 c 67 § 19]; ]
 
 == 19.94.205 - Correct and incorrect—Instruments, devices, weights, measures—When deemed.
 All weighing or measuring instruments or devices used for commercial purposes within this state must be correct. For the purposes of this chapter, weighing or measuring instruments or devices and weights and measures standards are deemed to be "correct" when they conform to all applicable requirements of this chapter and the requirements of any rule adopted by the department under this chapter; all other weighing or measuring instruments or devices and weights and measures standards are deemed to be "incorrect."
@@ -629,7 +681,7 @@ A person who owns or uses a weighing or measuring instrument or device and uses 
 == 19.94.517 - Incorrect commercial instrument or device to benefit of owner/operator—Penalties—Appeal.
 . Whenever the department or a city sealer tests or inspects a weighing or measuring instrument or device and finds the instrument or device to be incorrect to the economic benefit of the owner/operator of the weighing or measuring instrument or device and to the economic detriment of the customer, the owner of the weighing or measuring instrument or device is subject to the following civil penalties:
 
-Device deviations outside the tolerances stated in Handbook 44. PenaltySmall weighing or measuring instruments or devices: First violation . . . .$200.00 Second or subsequent violation within one year of first violation . . . .$500.00Medium weighing or measuring instruments or devices: First violation . . . .$400.00 Second or subsequent violation within one year of first violation . . . .$1,000.00Large weighing or measuring instruments or devices: First violation . . . .$500.00 Second or subsequent violation within one year of first violation . . . .$2,000.00
+Device deviations outside the tolerances stated in Handbook 44. PenaltySmall weighing or measuring instruments or devices: First violation . . . .$200.00 Second or subsequent violation within one year of first violation . . . .$500.00Medium weighing or measuring instruments or devices: First violation . . . .$400.00 Second or subsequent violation within one year of first violation . . . .$1,000.00Large weighing or measuring instruments or devices: First violation . . . .$500.00 Second or subsequent violation within one year of first violation . . . .$2,000.00Electric vehicle fuel measuring instruments or devices: First violation . . . .$200.00 Second or subsequent violation within one year of first violation . . . .$500.00
 
 Device deviations outside the tolerances stated in Handbook 44.
 
@@ -691,6 +743,24 @@ $
 
 2,000.00
 
+Electric vehicle fuel measuring instruments or devices:
+
+ 
+
+First violation . . . .
+
+$
+
+200.00
+
+ 
+
+Second or subsequent violation within one year of first violation . . . .
+
+$
+
+500.00
+
 . For the purposes of this section:
 
 .. The following are small weighing or measuring instruments or devices: Scales of zero to four hundred pounds capacity, liquid fuel metering devices with flows of not more than twenty gallons per minute, liquid petroleum gas meters with one inch in diameter or smaller dispensers, fabric meters, cordage meters, and taxi meters.
@@ -701,7 +771,7 @@ $
 
 . The weighing or measuring instrument or device owner may appeal the civil penalty.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1298-S.SL.pdf?cite=2019%20c%2096%20§%2019[2019 c 96 § 19]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1524-S2.SL.pdf?cite=1995%20c%20355%20§%2023[1995 c 355 § 23]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5192-S2.SL.pdf?cite=2021%20c%20238%20§%2010[2021 c 238 § 10]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1298-S.SL.pdf?cite=2019%20c%2096%20§%2019[2019 c 96 § 19]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1524-S2.SL.pdf?cite=1995%20c%20355%20§%2023[1995 c 355 § 23]; ]
 
 == 19.94.520 - Injunction against violations.
 The director is authorized to apply to any court of competent jurisdiction for, and such court upon hearing and for cause shown may grant, a temporary or permanent injunction restraining any person from violating any provision of this chapter.
@@ -733,6 +803,128 @@ For the purposes of this chapter, proof of the existence of a weighing or measur
 The requirements of this section and RCW 19.94.540 and 19.94.542 shall not apply to the sale of a motor vehicle that contains engine coolant or antifreeze.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1095.SL.pdf?cite=2018%20c%20198%20§%201[2018 c 198 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2996-S.SL.pdf?cite=2008%20c%2068%20§%203[2008 c 68 § 3]; ]
+
+== 19.94.550 - Electric vehicle supply equipment—Publicly available.
+. In addition to the definition of publicly available electric vehicle supply equipment provided in RCW 19.94.010 and except for the applicable exemptions in RCW 19.94.555, electric vehicle supply equipment is considered publicly available and is subject to the requirements of this chapter if:
+
+.. A lessee, electric vehicle service provider, or a property owner designates electric vehicle supply equipment to be available only to customers or visitors of a business or charging network;
+
+.. Any member of the public can obtain vehicular access to electric vehicle supply equipment and associated parking spaces for free or through payment of a fee, including electric vehicle supply equipment located in a parking garage or gated facility; or
+
+.. The electric vehicle supply equipment and associated parking spaces are made available to the public for only limited time periods, then the electric vehicle supply equipment and associated parking spaces are considered publicly available electric vehicle supply equipment during those limited time periods only.
+
+. The director may by rule subject additional types of electric vehicle supply equipment to the requirements of this chapter to benefit the public and provide protections to consumers.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5192-S2.SL.pdf?cite=2021%20c%20238%20§%202[2021 c 238 § 2]; ]
+
+== 19.94.555 - Electric vehicle supply equipment exemptions.
+. Publicly available electric vehicle supply equipment is exempt from compliance with the requirements of RCW 19.94.560 through 19.94.570 if:
+
+.. Members of the public may use the electric vehicle supply equipment at no cost, including no charges, fees, memberships, minimum balance on an account, and other cost at all times; and
+
+.. It is clearly marked that the electric vehicle supply equipment is available for use at no cost at all times.
+
+. RCW 19.94.560 through 19.94.575 do not apply to:
+
+.. Workplace electric vehicle supply equipment and its associated parking spaces if it is clearly marked and operated as available exclusively to employees or contracted drivers, regardless of the physical accessibility of the electric vehicle supply equipment to the public;
+
+.. Electric vehicle supply equipment and associated parking spaces reserved exclusively for residents, tenants, visitors, or employees of a private residence or common interest community; or a residential building adjacent to a private residence;
+
+.. Level 2 electric vehicle supply equipment located on or near the curb of a residential electric utility customer's property, directly connected to that residential electric utility customer's meter, and intended to serve only that residential electric utility customer;
+
+.. Electric vehicle supply equipment and associated parking spaces provided by a vehicle dealer licensed under chapter 46.70 RCW at its established place of business.
+
+. The director may by rule provide exemptions from compliance with some or all requirements of this chapter to benefit the public and provide protections to consumers, including electric vehicle supply equipment that is not available or intended for use by the public but where charges, fees, or other costs are required to initiate a charging session.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5192-S2.SL.pdf?cite=2021%20c%20238%20§%203[2021 c 238 § 3]; ]
+
+== 19.94.560 - Electric vehicle service provider disclosures.
+. By January 1, 2023, the electric vehicle service provider must ensure all publicly available electric vehicle supply equipment is clearly marked and discloses all charges, fees, and costs associated with a charging session at the point of sale and prior to a user or a vehicle initiating a charging session. At a minimum, the electric vehicle service provider must disclose to the user the following information at the point of sale, if applicable:
+
+.. A fee for use of the parking space;
+
+.. A nonmember plug-in fee from the electric vehicle service provider;
+
+.. Price to refuel in United States dollars per kilowatt-hour or megajoule;
+
+.. Any potential changes in the price to refuel, in United States dollars per kilowatt-hour or megajoule, due to variable pricing; and
+
+.. Any other fees charged for a charging session.
+
+. If the charging session or portion of a charging session is offered at no cost, it must be disclosed at the location where the charging session is initiated and prior to a user or a vehicle initiating a charging session.
+
+. For the purpose of this section, "point of sale" means the location where the charging session and associated commercial transaction is initiated including, but not limited to, electric vehicle supply equipment or kiosk used to service that electric vehicle supply equipment.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5192-S2.SL.pdf?cite=2021%20c%20238%20§%204[2021 c 238 § 4]; ]
+
+== 19.94.565 - Department rules for electric vehicle service providers.
+. By January 1, 2023, the department, in consultation with the department of commerce and the Washington utilities and transportation commission, must adopt rules requiring all electric vehicle service providers make available multiple payment methods at all publicly available level 2 electric vehicle supply equipment or direct current fast charger electric vehicle supply equipment installed in Washington and may review and, if necessary, amend the rules every two years, to maintain consistency with evolving technology. At a minimum, the rules must include:
+
+.. Deadlines for electric vehicle service provider compliance for publicly available direct current fast charger electric vehicle supply equipment installed prior to a specific date;
+
+.. Deadlines for electric vehicle service provider compliance for publicly available level 2 electric vehicle supply equipment installed prior to a specific date;
+
+.. Deadlines for electric vehicle service provider compliance for publicly available direct current fast charger electric vehicle supply equipment installed on or after a specific date;
+
+.. Deadlines for electric vehicle service provider compliance for publicly available level 2 electric vehicle supply equipment installed on or after a specific date;
+
+.. Minimum required payment methods that are convenient and reasonably support access for all current and future users at publicly available level 2 electric vehicle supply equipment and direct current fast charger electric vehicle supply equipment installed in Washington. Payment methods may include, but are not limited to:
+
+... A credit card reader device physically located on or in either the electric vehicle supply equipment unit or a kiosk used to service that electric vehicle supply equipment. Contactless credit card reader devices may be used as an option to meet the requirements of this subsection;
+
+... A toll-free number on each electric vehicle supply equipment and kiosk used to service that electric vehicle supply equipment that provides the user with the option to initiate a charging session and submit payment at any time that the electric vehicle supply equipment is operational and publicly available;
+
+... A mobile payment option used to initiate a charging session;
+
+.. Means for conducting a charging session in languages other than English;
+
+.. Means for facilitating charging sessions for consumers who are unbanked, underbanked, or low-moderate income, such as accepting prepaid cards through a card reader device. Methods established in (e) of this subsection may be used to meet this requirement if they adequately facilitate charging sessions for these consumers.
+
+. In adopting the rules required under subsection (1) of this section, the department must seek to minimize costs and maximize benefits to the public.
+
+. The electric vehicle service provider may not require a subscription, membership, or account or a minimum balance on an account in order to initiate a charging session at electric vehicle supply equipment subject to this section.
+
+. For the purpose of this section, "mobile payment" means an electronic fund transfer initiated through a mobile phone or device.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5192-S2.SL.pdf?cite=2021%20c%20238%20§%205[2021 c 238 § 5]; ]
+
+== 19.94.570 - Electric vehicle supply equipment interoperability standards.
+. Interoperability standards provide safeguards to consumers and support access to electric vehicle supply equipment. In order for Washington to have reliable, accessible, and competitive markets for electric vehicle supply equipment that are necessary for the movement of goods and people by electric vehicles, interoperability standards that align with national and international best practices or standards are necessary.
+
+. By January 1, 2023, the department, in consultation with the department of commerce and the Washington utilities and transportation commission, must adopt rules establishing requirements for all electric vehicle service providers to, at a minimum, meet and maintain nonproprietary interoperability standards for publicly available level 2 electric vehicle supply equipment and direct current fast charger electric vehicle supply equipment and may review and, if necessary, amend the rules every two years, to maintain consistency with evolving technology. The requirements shall not provide that any charging provider must purchase or license proprietary technology or software from any other company, and shall not require that companies maintain interoperability agreements with other companies.
+
+. For the purpose of this section, "interoperability" means the ability of hardware, software, or a communications network provided by one party, vendor, or service provider to interact with or exchange and make use of information, including payment information, between hardware, software, or a communications network provided by a different party, vendor, or service provider.
+
+. The requirements of this section shall not apply to publicly available electric vehicle supply equipment provided by a manufacturer of electric vehicles for the exclusive use by vehicles it manufactures.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5192-S2.SL.pdf?cite=2021%20c%20238%20§%206[2021 c 238 § 6]; ]
+
+== 19.94.575 - Electric vehicle service providers operating one or more publicly available level 2 electric vehicle supply equipment or direct current fast charger electric vehicle supply equipment.
+. This section applies to all electric vehicle service providers operating one or more publicly available level 2 electric vehicle supply equipment or direct current fast charger electric vehicle supply equipment installed in Washington. If an electric vehicle service provider also operates electric vehicle supply equipment that is not available to the public, the requirements of this section apply only to that electric vehicle service provider's publicly available level 2 electric vehicle supply equipment or direct current fast charger electric vehicle supply equipment installed in Washington.
+
+. By January 1, 2023, electric vehicle service providers must report inventory and payment method information to the national renewable energy laboratory, alternative fuels data center. The information must be reported, at a minimum, annually and must include, but is not limited to:
+
+.. Electric vehicle service provider information;
+
+.. Electric vehicle supply equipment inventory for both active and retired, decommissioned, or removed electric vehicle supply equipment in Washington;
+
+.. Electric vehicle supply equipment payment method information.
+
+. The department may adopt additional reporting requirements to support compliance with chapter 238, Laws of 2021.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5192-S2.SL.pdf?cite=2021%20c%20238%20§%207[2021 c 238 § 7]; ]
+
+== 19.94.580 - Electric vehicle service provider penalties.
+. An electric vehicle service provider that fails to meet the requirements established under RCW 19.94.560 through 19.94.570, or any rule adopted pursuant to the authority granted to the department under RCW 19.94.560 through 19.94.570, is subject to a civil penalty of $200 per electric vehicle supply equipment for the first violation and $500 per electric vehicle supply equipment for each subsequent violation within one year of the first violation.
+
+. Moneys collected under this section must first be used to cover the department's costs to enforce this section. Any remaining moneys must be deposited into the electric vehicle account created in RCW 82.44.200.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5192-S2.SL.pdf?cite=2021%20c%20238%20§%2011[2021 c 238 § 11]; ]
+
+== 19.94.585 - Charging session—Consumer data disclosure.
+If an electric vehicle service provider sells or intends to sell consumer data collected during or associated with a charging session, the electric vehicle service provider shall disclose all types of data collected to the consumer.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5192-S2.SL.pdf?cite=2021%20c%20238%20§%2013[2021 c 238 § 13]; ]
 
 == 19.94.900 - Chapter cumulative and nonexclusive.
 The provisions of this chapter shall be cumulative and nonexclusive and shall not affect any other remedy available at law.

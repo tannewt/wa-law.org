@@ -67,9 +67,9 @@ As used in this chapter, the following terms have the meanings indicated:
 [ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6530-S.SL.pdf?cite=2000%20c%20247%20§%20402[2000 c 247 § 402]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6306-S.SL.pdf?cite=1998%20c%20341%20§%20302[1998 c 341 § 302]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1206-S.SL.pdf?cite=1995%20c%20239%20§%20203[1995 c 239 § 203]; ]
 
 == 41.34.040 - Contributions—Rate structures—Annual option.
-. A member shall contribute from his or her compensation according to one of the following rate structures in addition to the mandatory minimum five percent:
+. A member shall contribute from the member's compensation according to one of the following rate structures in addition to the mandatory minimum five percent:
 
-Option AContribution RateAll Ages0.0% fixedOption B Up to Age 350.0%Age 35 to 441.0%Age 45 and above 2.5%Option C Up to Age 351.0%Age 35 to 442.5%Age 45 and above3.5%Option D All Ages2.0%Option E All Ages5.0%Option F All Ages10.0%
+Option AContribution RateAll Ages0.0% fixedOption B Up to Age 350.0%Age 35 to 441.0%Age 45 and above2.5%Option C Up to Age 351.0%Age 35 to 442.5%Age 45 and above3.5%Option D All Ages2.0%Option E All Ages5.0%Option F All Ages10.0%
 
 Option A
 
@@ -91,7 +91,7 @@ Age 35 to 44
 
 1.0%
 
-Age 45 and above 
+Age 45 and above
 
 2.5%
 
@@ -138,19 +138,21 @@ All Ages
 . The department shall have the right to offer contribution rate options in addition to those listed in subsection (1) of this section, provided that no significant additional administrative costs are created. All options offered by the department shall conform to the requirements stated in subsections (3) and (5) of this section.
 
 . [Empty]
-.. For members of the teachers' retirement system entering plan 3 under RCW 41.32.835 or members of the school employees' retirement system entering plan 3 under RCW 41.35.610, within ninety days of becoming a member he or she has an option to choose one of the above contribution rate structures. If the member does not select an option within the ninety-day period, he or she shall be assigned option A.
+.. For members of the teachers' retirement system entering plan 3 under RCW 41.32.835 or members of the school employees' retirement system entering plan 3 under RCW 41.35.610, within ninety days of becoming a member the member has an option to choose one of the above contribution rate structures. If the member does not select an option within the ninety-day period, the member shall be assigned option A.
 
-.. For members of the public employees' retirement system entering plan 3 under RCW 41.40.785, within the ninety days described in RCW 41.40.785 an employee who irrevocably chooses plan 3 shall select one of the above contribution rate structures. If the member does not select an option within the ninety-day period, he or she shall be assigned option A.
+.. For members of the public employees' retirement system entering plan 3 under RCW 41.40.785, within the ninety days described in RCW 41.40.785 an employee who irrevocably chooses plan 3 shall select one of the above contribution rate structures. If the member does not select an option within the ninety-day period, the member shall be assigned option A.
 
-.. For members of the teachers' retirement system transferring to plan 3 under RCW 41.32.817, members of the school employees' retirement system transferring to plan 3 under RCW 41.35.510, or members of the public employees' retirement system transferring to plan 3 under RCW 41.40.795, upon election to plan 3 he or she must choose one of the above contribution rate structures.
+.. For members of the teachers' retirement system transferring to plan 3 under RCW 41.32.817, members of the school employees' retirement system transferring to plan 3 under RCW 41.35.510, or members of the public employees' retirement system transferring to plan 3 under RCW 41.40.795, upon election to plan 3 the member must choose one of the above contribution rate structures.
 
-.. Within ninety days of the date that an employee changes employers, he or she has an option to choose one of the above contribution rate structures. If the member does not select an option within this ninety-day period, he or she shall be assigned option A.
+.. Within ninety days of the date that an employee changes employers, the member has an option to choose one of the above contribution rate structures. If the member does not select an option within this ninety-day period, the member shall be assigned option A.
 
 . Each year, through January of 2015, members of plan 3 of the teachers' retirement system may change their contribution rate option by notifying their employer in writing during the month of January. After January of 2015, a member of plan 3 of the teachers' retirement system may only change their contribution rate option under subsection (3)(d) of this section. The termination of this annual contribution rate change option in January 2015 is required to meet the plan qualification requirements in section 401(a) of the internal revenue code. Consistent with plan qualification requirements in the internal revenue code, this annual contribution rate change has never been available to plan 3 members of the public employees' retirement system and the school employees' retirement system.
 
 . Contributions shall begin the first day of the pay cycle in which the rate option is made, or the first day of the pay cycle in which the end of the ninety-day period occurs.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6321.SL.pdf?cite=2014%20c%2095%20§%201[2014 c 95 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2617-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%207%20§%2032[2010 1st sp.s. c 7 § 32]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1206.SL.pdf?cite=2003%20c%20156%20§%201[2003 c 156 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6530-S.SL.pdf?cite=2000%20c%20247%20§%20403[2000 c 247 § 403]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2192-S.SL.pdf?cite=1996%20c%2039%20§%2014[1996 c 39 § 14]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1206-S.SL.pdf?cite=1995%20c%20239%20§%20204[1995 c 239 § 204]; ]
+. The contribution of plan 3 members is not affected by any reduction in hours worked because of participation of their employer in a shared work program under chapter 50.60 RCW. Plan 3 members shall continue to make contributions as if the member did not incur a reduction in hours through participating in an approved shared work compensation plan under chapter 50.60 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5021.SL.pdf?cite=2021%20c%2012%20§%204[2021 c 12 § 4]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6321.SL.pdf?cite=2014%20c%2095%20§%201[2014 c 95 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2617-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%207%20§%2032[2010 1st sp.s. c 7 § 32]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1206.SL.pdf?cite=2003%20c%20156%20§%201[2003 c 156 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6530-S.SL.pdf?cite=2000%20c%20247%20§%20403[2000 c 247 § 403]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2192-S.SL.pdf?cite=1996%20c%2039%20§%2014[1996 c 39 § 14]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1206-S.SL.pdf?cite=1995%20c%20239%20§%20204[1995 c 239 § 204]; ]
 
 == 41.34.050 - Legislature may contribute to members' accounts.
 The legislature may authorize contributions to the members' accounts for a biennium through budget appropriation.
@@ -198,7 +200,7 @@ The legislature may authorize contributions to the members' accounts for a bienn
 
 . This section shall not be deemed to prohibit a beneficiary of a retirement allowance from authorizing deductions therefrom for payment of premiums due on any group insurance policy or plan issued for the benefit of a group comprised of public employees of the state of Washington or its political subdivisions and that has been approved for deduction in accordance with rules that may be adopted by the state health care authority and/or the department. This section shall not be deemed to prohibit a beneficiary of a retirement allowance from authorizing deductions therefrom for payment of dues and other membership fees to any retirement association or organization the membership of which is composed of retired public employees, if a total of three hundred or more of such retired employees have authorized such deduction for payment to the same retirement association or organization.
 
-. Subsection (1) of this section shall not prohibit the department from complying with (a) a wage assignment order for child support issued pursuant to chapter 26.18 RCW, (b) an order to withhold and deliver issued pursuant to chapter 74.20A RCW, (c) a notice of payroll deduction issued pursuant to RCW 26.23.060, (d) a mandatory benefits assignment order issued by the department, (e) a court order directing the department to pay benefits directly to an obligee under a dissolution order as defined in RCW 41.50.500(3) which fully complies with RCW 41.50.670 and 41.50.700, or (f) any administrative or court order expressly authorized by federal law.
+. Subsection (1) of this section shall not prohibit the department from complying with (a) a wage assignment order for child support issued pursuant to chapter 26.18 RCW, (b) an order to withhold and deliver issued pursuant to chapter 74.20A RCW, (c) a notice of payroll deduction issued pursuant to *RCW 26.23.060, (d) a mandatory benefits assignment order issued by the department, (e) a court order directing the department to pay benefits directly to an obligee under a dissolution order as defined in RCW 41.50.500(3) which fully complies with RCW 41.50.670 and 41.50.700, or (f) any administrative or court order expressly authorized by federal law.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1552-S.SL.pdf?cite=2012%20c%20159%20§%2023[2012 c 159 § 23]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6530-S.SL.pdf?cite=2000%20c%20247%20§%20405[2000 c 247 § 405]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6306-S.SL.pdf?cite=1998%20c%20341%20§%20304[1998 c 341 § 304]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1206-S.SL.pdf?cite=1995%20c%20239%20§%20208[1995 c 239 § 208]; ]
 

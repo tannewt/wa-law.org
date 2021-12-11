@@ -773,10 +773,12 @@ Notwithstanding any provision of RCW 11.98.200 through 11.98.240 seemingly to th
 
 [ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5196.SL.pdf?cite=1999%20c%2042%20§%20626[1999 c 42 § 626]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2076[1997 c 252 § 76]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2270-S.SL.pdf?cite=1994%20c%20221%20§%2066[1994 c 221 § 66]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5066-S.SL.pdf?cite=1993%20c%20339%20§%206[1993 c 339 § 6]; ]
 
-== 11.98.900 - Application of RCW  11.98.130 through  11.98.160.
-The provisions of RCW 11.98.130 through 11.98.160 are applicable to any instrument purporting to create a trust regardless of the date such instrument bears, unless it has been previously adjudicated in the courts of this state.
+== 11.98.900 - Application of RCW  11.98.130 through  11.98.160—RCW  11.68.090 prevails.
+. The provisions of RCW 11.98.130 through 11.98.160 are applicable to any instrument purporting to create a trust regardless of the date such instrument bears, unless it has been previously adjudicated in the courts of this state.
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c30.pdf?cite=1985%20c%2030%20§%2060[1985 c 30 § 60]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c149.pdf?cite=1984%20c%20149%20§%2093[1984 c 149 § 93]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c229.pdf?cite=1971%20ex.s.%20c%20229%20§%201[1971 ex.s. c 229 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c145.pdf?cite=1965%20c%20145%20§%2011.98.050[1965 c 145 § 11.98.050]; prior:  1959 c 146 § 5; ]
+. To the extent that this chapter is in conflict with RCW 11.68.090, RCW 11.68.090 prevails.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5132.SL.pdf?cite=2021%20c%20140%20§%204023[2021 c 140 § 4023]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c30.pdf?cite=1985%20c%2030%20§%2060[1985 c 30 § 60]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c149.pdf?cite=1984%20c%20149%20§%2093[1984 c 149 § 93]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c229.pdf?cite=1971%20ex.s.%20c%20229%20§%201[1971 ex.s. c 229 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c145.pdf?cite=1965%20c%20145%20§%2011.98.050[1965 c 145 § 11.98.050]; prior:  1959 c 146 § 5; ]
 
 == 11.98.920 - Short title.
 This act shall be known as the "Washington Trust Act."

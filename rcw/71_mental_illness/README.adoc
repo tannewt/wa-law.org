@@ -11,4 +11,5 @@
 * link:71.32_mental_health_advance_directives.adoc[71.32 - Mental health advance directives.]
 * link:71.34_behavioral_health_services_for_minors.adoc[71.34 - Behavioral health services for minors.]
 * link:71.36_coordination_of_childrens_mental_health_services.adoc[71.36 - Coordination of children's mental health services.]
+* link:71.40_office_of_behavioral_health_consumer_advocacy.adoc[71.40 - Office of behavioral health consumer advocacy.]
 * link:71.98_construction.adoc[71.98 - Construction.]

@@ -140,7 +140,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 .. Any other information deemed necessary by the department to ensure an effective mercury light product stewardship program that is in compliance with all applicable laws and rules.
 
-. All plans submitted to the department must be made available for public review on the department's web site and at the department's headquarters.
+. All plans submitted to the department must be made available for public review on the department's website and at the department's headquarters.
 
 . At least two years from the start of the product stewardship program and once every four years thereafter, each stewardship organization operating a product stewardship program must update its product stewardship plan and submit the updated plan to the department for review and approval according to rules adopted by the department.
 
@@ -162,7 +162,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 . Beginning in 2023 every stewardship organization must include in its annual report an analysis of the percent of total sales of lights sold at retail to covered entities in Washington that mercury-containing lights constitute, the estimated number of mercury-containing lights in use by covered entities in the state, and the projected number of unwanted mercury-containing lights to be recycled in future years.
 
-. All plans and reports submitted to the department must be made available for public review, excluding sections determined to be confidential pursuant to RCW 43.21A.160, on the department's web site and at the department's headquarters.
+. All plans and reports submitted to the department must be made available for public review, excluding sections determined to be confidential pursuant to RCW 43.21A.160, on the department's website and at the department's headquarters.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201416[2020 c 20 § 1416]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5762.SL.pdf?cite=2017%20c%20254%20§%202[2017 c 254 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2014%20c%20119%20§%204[2014 c 119 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5543-S.SL.pdf?cite=2010%20c%20130%20§%204[2010 c 130 § 4]; ]
 
@@ -250,10 +250,10 @@ As of January 1, 2013, no producer, wholesaler, retailer, electric utility, or o
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5543-S.SL.pdf?cite=2010%20c%20130%20§%2010[2010 c 130 § 10]; ]
 
-== 70A.505.110 - Department's web site to list producers participating in product stewardship plan—Required participation in a product stewardship plan—Written warning—Penalty—Rules—Exemptions.
-. The department shall provide on its web site a list of all producers participating in a product stewardship plan that the department has approved and a list of all producers the department has identified as noncompliant with this chapter and any rules adopted to implement this chapter.
+== 70A.505.110 - Department's website to list producers participating in product stewardship plan—Required participation in a product stewardship plan—Written warning—Penalty—Rules—Exemptions.
+. The department shall provide on its website a list of all producers participating in a product stewardship plan that the department has approved and a list of all producers the department has identified as noncompliant with this chapter and any rules adopted to implement this chapter.
 
-. Product wholesalers, retailers, distributors, and electric utilities must check the department's web site or producer-provided written verification to determine if producers of products they are selling in or into the state are in compliance with this chapter.
+. Product wholesalers, retailers, distributors, and electric utilities must check the department's website or producer-provided written verification to determine if producers of products they are selling in or into the state are in compliance with this chapter.
 
 . No one may distribute or sell mercury-containing lights in or into the state from producers who are not participating in a product stewardship program or who are not in compliance with this chapter and rules adopted under this chapter.
 

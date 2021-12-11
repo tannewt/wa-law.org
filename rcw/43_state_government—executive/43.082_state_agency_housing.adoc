@@ -59,13 +59,13 @@ The acquisition of any real property or any rights or interests therein for the 
 
 . State agencies shall submit modified predesigns to the office of financial management and the legislature. Modified predesigns must include a problem statement, an analysis of alternatives to address programmatic and space requirements, proposed locations, and a financial assessment. For proposed projects of twenty thousand gross square feet or less, the agency may provide a cost-benefit analysis, rather than a life-cycle cost analysis, as determined by the office of financial management.
 
-. Projects that meet the capital requirements for predesign on major facility projects with an estimated project cost of five million dollars or more pursuant to chapter 43.88 RCW shall not be required to prepare a modified predesign.
+. Projects that meet the capital requirements for predesign on major facility projects with an estimated project cost of 10 million dollars or more pursuant to chapter 43.88 RCW shall not be required to prepare a modified predesign.
 
 . The office of financial management shall require state agencies to identify plans for major leased facilities as part of the ten-year capital budget plan. State agencies shall not enter into new or renewed leases of more than one million dollars per year unless such leases have been approved by the office of financial management except when the need for the lease is due to an unanticipated emergency. The regular termination date on an existing lease does not constitute an emergency. The department of enterprise services shall notify the office of financial management and the appropriate legislative fiscal committees if an emergency situation arises.
 
 . For project proposals in which there are estimates of operational savings, the office of financial management shall require the agency or agencies involved to provide details including but not limited to fund sources and timelines.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5024.SL.pdf?cite=2015%20c%20225%20§%2075[2015 c 225 § 75]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2366-S.SL.pdf?cite=2007%20c%20506%20§%204[2007 c 506 § 4]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1023.SL.pdf?cite=2021%20c%2054%20§%203[2021 c 54 § 3]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5024.SL.pdf?cite=2015%20c%20225%20§%2075[2015 c 225 § 75]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2366-S.SL.pdf?cite=2007%20c%20506%20§%204[2007 c 506 § 4]; ]
 
 == 43.82.045 - Approval of leases—Privately owned buildings being planned or under construction.
 State agencies are prohibited from entering into lease agreements for privately owned buildings that are in the planning stage of development or under construction unless there is prior written approval by the director of the office of financial management. Approval of such leases shall not be delegated. Lease agreements described in this section must comply with RCW 43.82.035.

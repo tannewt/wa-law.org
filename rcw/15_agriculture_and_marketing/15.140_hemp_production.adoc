@@ -23,7 +23,11 @@ The definitions in this section apply throughout this chapter unless the context
 
 . "Department" means the Washington state department of agriculture.
 
+. "Food" has the same meaning as defined in RCW 69.07.010.
+
 . "Hemp" means the plant Cannabis sativa L. and any part of that plant, including the seeds thereof and all derivatives, extracts, cannabinoids, isomers, acids, salts, and salts of isomers, whether growing or not, with a delta-9 tetrahydrocannabinol concentration of not more than 0.3 percent on a dry weight basis.
+
+. "Hemp processor" means a person who takes possession of raw hemp material with the intent to modify, package, or sell a transitional or finished hemp product.
 
 . [Empty]
 .. "Industrial hemp" means all parts and varieties of the genera Cannabis, cultivated or possessed by a grower, whether growing or not, that contain a tetrahydrocannabinol concentration of 0.3 percent or less by dry weight that was grown under the industrial hemp research program as it existed on December 31, 2019.
@@ -40,7 +44,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 . "Produce" or "production" means the planting, cultivation, growing, or harvesting of hemp including hemp seed.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5276-S2.SL.pdf?cite=2019%20c%20158%20§%202[2019 c 158 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5372.SL.pdf?cite=2021%20c%20104%20§%202[2021 c 104 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5276-S2.SL.pdf?cite=2019%20c%20158%20§%202[2019 c 158 § 2]; ]
 
 == 15.140.030 - Agricultural commodity program—Rule-making authority.
 . The department must develop an agricultural commodity program to replace the industrial hemp research pilot program in *chapter 15.120 RCW, in accordance with the agriculture improvement act of 2018.
@@ -83,14 +87,16 @@ The department must develop a postharvest test protocol for testing hemp under t
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5276-S2.SL.pdf?cite=2019%20c%20158%20§%205[2019 c 158 § 5]; ]
 
-== 15.140.060 - Hemp producer license—Rules—Fees.
-. The department must issue hemp producer licenses to applicants qualified under this chapter and the agriculture improvement act of 2018. The department may adopt rules pursuant to this chapter and chapter 34.05 RCW as necessary to license persons to grow hemp under a commercial hemp program.
+== 15.140.060 - Hemp producer license—Hemp processor registration—Rules—Fees.
+. The department must issue hemp producer licenses to applicants qualified under this chapter and the agriculture improvement act of 2018. The department may adopt rules pursuant to this chapter and chapter 34.05 RCW as necessary to license persons to grow hemp under a commercial hemp program. The department may adopt rules pursuant to this chapter and chapter 34.05 RCW as necessary to register hemp processors.
+
+. A hemp processor that processes hemp for commercial use or sale may register with the department. The registration application must include the physical address of all locations where hemp is processed or stored, a registration fee as set in rule, and any other information required by the department by rule. A registered hemp processor is not required to obtain a hemp producer license. A registered hemp processor must be a registered business entity in Washington state or a foreign entity compliant with state laws.
 
 . The plan must identify qualifications for license applicants, to include adults and corporate persons and to exclude persons with felony convictions as required under the agriculture improvement act of 2018.
 
 . The department must establish license fees in an amount that will fund the implementation of this chapter and sustain the hemp program. The department may adopt rules establishing fees for tetrahydrocannabinol testing, inspections, and additional services required by the United States department of agriculture. License fees and any money received by the department under this chapter must be deposited in the hemp regulatory account created in RCW 15.140.080.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5276-S2.SL.pdf?cite=2019%20c%20158%20§%206[2019 c 158 § 6]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5372.SL.pdf?cite=2021%20c%20104%20§%203[2021 c 104 § 3]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5276-S2.SL.pdf?cite=2019%20c%20158%20§%206[2019 c 158 § 6]; ]
 
 == 15.140.070 - Source of hemp seeds or clones.
 A person producing hemp pursuant to this chapter must notify the department of the source of the hemp seed or clones solely for the purpose of maintaining a record of the sources of seeds and clones being used or having been used for hemp production in this state. Hemp seed is an agricultural seed.
@@ -124,11 +130,13 @@ Washington State University may, within existing resources, develop and make acc
 == 15.140.120 - Limitation of enforcement of certain laws and rules.
 Beginning on April 26, 2019:
 
-. No law or rule related to certified or interstate hemp seeds applies to or may be enforced against a person with a license to produce or process hemp issued under this chapter or *chapter 15.120 RCW; and
+. No law or rule related to certified or interstate hemp seeds applies to or may be enforced against a person with a license to produce or process hemp issued under this chapter; and
 
-. No department or other state agency rule may establish or enforce a buffer zone or distance requirement between a person with a license or authorization to produce or process hemp under this chapter or *chapter 15.120 RCW and a person with a license to produce or process marijuana issued under chapter 69.50 RCW. The department may not adopt rules without the evaluation of sufficient data showing impacts to either crop as a result of cross-pollination.
+. No department or other state agency rule may establish or enforce a buffer zone or distance requirement between a person with a license or authorization to produce or process hemp under this chapter and a person with a license to produce or process marijuana issued under chapter 69.50 RCW. The department may not adopt rules without the evaluation of sufficient data showing impacts to either crop as a result of cross-pollination.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5276-S2.SL.pdf?cite=2019%20c%20158%20§%2016[2019 c 158 § 16]; ]
+. Notwithstanding the rule-making provisions of RCW 15.140.030(2), if a marijuana producer or marijuana processor licensed by the liquor and cannabis board under chapter 69.50 RCW is engaged in producing or processing hemp at the same location for which they are licensed to produce or process marijuana, the liquor and cannabis board may test samples represented as hemp that are obtained from a location licensed for marijuana production or marijuana processing for the sole purpose of validating THC content of products represented as hemp. Any product with a delta-9 tetrahydrocannabinol concentration exceeding 0.3 percent on a dry weight basis is considered marijuana and is subject to the provisions of chapter 69.50 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5372.SL.pdf?cite=2021%20c%20104%20§%204[2021 c 104 § 4]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5276-S2.SL.pdf?cite=2019%20c%20158%20§%2016[2019 c 158 § 16]; ]
 
 == 15.140.900 - Effective date—2019 c 158.
 This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [April 26, 2019].

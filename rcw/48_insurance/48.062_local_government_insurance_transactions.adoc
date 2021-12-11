@@ -8,7 +8,7 @@
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1431.SL.pdf?cite=2019%20c%2026%20§%201[2019 c 26 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1907-S.SL.pdf?cite=1991%20sp.s.%20c%2030%20§%201[1991 sp.s. c 30 § 1]; ]
 
-== 48.62.021 - Definitions.
+== 48.62.021 - Definitions. (Effective until January 1, 2022.)
 Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
 
 . "Health and welfare benefits" means a plan or program established by a local government entity or entities for the purpose of providing its employees and their dependents, and in the case of school districts, its district employees, students, directors, or any of their dependents, with health care, accident, disability, death, and salary protection benefits.

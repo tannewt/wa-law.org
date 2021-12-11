@@ -8,7 +8,7 @@ The legislature finds that existing statutes may not provide an adequate mechani
 
 [ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5134-S.SL.pdf?cite=1999%20c%20184%20§%202[1999 c 184 § 2]; ]
 
-== 26.52.010 - Definitions.
+== 26.52.010 - Definitions. (Effective until July 1, 2022.)
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 
 . "Domestic or family violence" includes, but is not limited to, conduct when committed by one family member against another that is classified in the jurisdiction where the conduct occurred as a domestic violence crime or a crime committed in another jurisdiction that under the laws of this state would be classified as domestic violence under RCW 10.99.020.
@@ -98,7 +98,7 @@ A public agency may not charge a fee for filing or preparation of certified, aut
 
 [ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5134-S.SL.pdf?cite=1999%20c%20184%20§%208[1999 c 184 § 8]; ]
 
-== 26.52.070 - Violation of foreign orders—Penalties.
+== 26.52.070 - Violation of foreign orders—Penalties. (Effective until July 1, 2022.)
 . Whenever a foreign protection order is granted to a person entitled to protection and the person under restraint knows of the foreign protection order, a violation of a provision prohibiting the person under restraint from contacting or communicating with another person, or of a provision excluding the person under restraint from a residence, workplace, school, or day care, or of a provision prohibiting a person from knowingly coming within, or knowingly remaining within, a specified distance of a location, or a violation of any provision for which the foreign protection order specifically indicates that a violation will be a crime, is punishable under RCW 26.50.110.
 
 . A peace officer shall arrest without a warrant and take into custody a person when the peace officer has probable cause to believe that a foreign protection order has been issued of which the person under restraint has knowledge and the person under restraint has violated a provision of the foreign protection order that prohibits the person under restraint from contacting or communicating with another person, or a provision that excludes the person under restraint from a residence, workplace, school, or day care, or of a provision prohibiting a person from knowingly coming within, or knowingly remaining within, a specified distance of a location, or a violation of any provision for which the foreign protection order specifically indicates that a violation will be a crime. Presence of the order in the law enforcement computer-based criminal intelligence information system is not the only means of establishing knowledge of the order.

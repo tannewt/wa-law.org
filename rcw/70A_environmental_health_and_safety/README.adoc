@@ -1,6 +1,7 @@
 = 70A ENVIRONMENTAL HEALTH AND SAFETY
 
 * link:70A.001_general_provisions.adoc[70A.01 - General provisions.]
+* link:70A.002_environmental_justice.adoc[70A.02 - Environmental justice.]
 * link:70A.005_integrated_climate_change_response_strategy.adoc[70A.05 - Integrated climate change response strategy.]
 * link:70A.010_weather_modification.adoc[70A.10 - Weather modification.]
 * link:70A.015_washington_clean_air_act.adoc[70A.15 - Washington clean air act.]
@@ -12,6 +13,8 @@
 * link:70A.045_limiting_greenhouse_gas_emissions.adoc[70A.45 - Limiting greenhouse gas emissions.]
 * link:70A.050_energy_efficiency_improvements.adoc[70A.50 - Energy efficiency improvements.]
 * link:70A.055_diesel_emissions—air_pollution_reduction.adoc[70A.55 - Diesel emissions—Air pollution reduction.]
+* link:70A.060_hydrofluorocarbons—emissions_reduction.adoc[70A.60 - Hydrofluorocarbons—Emissions reduction.]
+* link:70A.065_greenhouse_gas_emissions—cap_and_invest_program.adoc[70A.65 - Greenhouse gas emissions—Cap and invest program.]
 * link:70A.100_public_water_system_coordination_act_of_1977.adoc[70A.100 - Public water system coordination act of 1977.]
 * link:70A.105_on-site_sewage_disposal_systems.adoc[70A.105 - On-site sewage disposal systems.]
 * link:70A.110_on-site_sewage_disposal_systems—marine_recovery_areas.adoc[70A.110 - On-site sewage disposal systems—Marine recovery areas.]
@@ -37,6 +40,7 @@
 * link:70A.230_mercury.adoc[70A.230 - Mercury.]
 * link:70A.235_beverage_containers.adoc[70A.235 - Beverage containers.]
 * link:70A.240_recycling_development_center.adoc[70A.240 - Recycling development center.]
+* link:70A.245_recycling_waste_and_litter_reduction.adoc[70A.245 - Recycling, waste, and litter reduction.]
 * link:70A.300_hazardous_waste_management.adoc[70A.300 - Hazardous waste management.]
 * link:70A.305_hazardous_waste_cleanup—model_toxics_control_act.adoc[70A.305 - Hazardous waste cleanup—Model toxics control act.]
 * link:70A.310_mill_tailings—licensing_and_perpetual_care.adoc[70A.310 - Mill tailings—Licensing and perpetual care.]
@@ -73,4 +77,5 @@
 * link:70A.515_architectural_paint_stewardship_program.adoc[70A.515 - Architectural paint stewardship program.]
 * link:70A.520_plastic_packaging—evaluation_and_assessment.adoc[70A.520 - Plastic packaging—Evaluation and assessment.]
 * link:70A.525_disposable_wipes_products—labeling_standards.adoc[70A.525 - Disposable wipes products—Labeling standards.]
-* link:70A.530_plastic_bags.adoc[70A.530 - Plastic bags.]
+* link:70A.530_carryout_bags.adoc[70A.530 - Carryout bags.]
+* link:70A.535_transportation_fuel—clean_fuels_program.adoc[70A.535 - Transportation fuel—Clean fuels program.]

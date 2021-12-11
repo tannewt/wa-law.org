@@ -60,7 +60,7 @@
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1515-S.SL.pdf?cite=2017%20c%20112%20§%201[2017 c 112 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2463-S.SL.pdf?cite=2014%20c%20124%20§%202[2014 c 124 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5168-S.SL.pdf?cite=2011%20c%2096%20§%2032[2011 c 96 § 32]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6379.SL.pdf?cite=2010%20c%20161%20§%20701[2010 c 161 § 701]; ]
 
-== 46.19.020 - Eligible organizations—Rules.
+== 46.19.020 - Eligible organizations—Rules. (Effective until January 1, 2022.)
 . The following organizations may apply for special parking privileges:
 
 .. Public transportation authorities;

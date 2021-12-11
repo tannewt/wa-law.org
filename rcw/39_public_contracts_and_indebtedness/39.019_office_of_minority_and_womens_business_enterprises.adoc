@@ -2,7 +2,7 @@
 :toc:
 
 == 39.19.010 - Intent.
-The legislature finds that minority and women-owned businesses are significantly under-represented and have been denied equitable competitive opportunities in contracting. It is the intent of this chapter to mitigate societal discrimination and other factors in participating in public works and in providing goods and services and to delineate a policy that an increased level of participation by minority and women-owned and controlled businesses is desirable at all levels of state government. The purpose and intent of this chapter are to provide the maximum practicable opportunity for increased participation by minority and women-owned and controlled businesses in participating in public works and the process by which goods and services are procured by state agencies and educational institutions from the private sector.
+The legislature finds that minority and women-owned businesses are significantly underrepresented and have been denied equitable competitive opportunities in contracting. It is the intent of this chapter to mitigate societal discrimination and other factors in participating in public works and in providing goods and services and to delineate a policy that an increased level of participation by minority and women-owned and controlled businesses is desirable at all levels of state government. The purpose and intent of this chapter are to provide the maximum practicable opportunity for increased participation by minority and women-owned and controlled businesses in participating in public works and the process by which goods and services are procured by state agencies and educational institutions from the private sector.
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c328.pdf?cite=1987%20c%20328%20§%201[1987 c 328 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c120.pdf?cite=1983%20c%20120%20§%201[1983 c 120 § 1]; ]
 
@@ -14,6 +14,8 @@ The definitions in this section apply throughout this chapter unless the context
 . "Broker" means a person that provides a bona fide service, such as professional, technical, consultant, brokerage, or managerial services and assistance in the procurement of essential personnel, facilities, equipment, materials, or supplies required for performance of a contract.
 
 . "Contractor" means an individual or entity granted state certification and awarded either a direct contract with an agency or an indirect contract as a subcontractor to perform a service or provide goods.
+
+. "Debar" means to prohibit a contractor, individual, or other entity from submitting a bid, having a bid considered, or entering into a state contract during a specified period of time as set forth in a debarment order.
 
 . "Director" means the director of the office of minority and women's business enterprises.
 
@@ -33,7 +35,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 . "State agency" includes the state of Washington and all agencies, departments, offices, divisions, boards, commissions, and correctional and other types of institutions.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5418-S.SL.pdf?cite=2019%20c%20434%20§%202[2019 c 434 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6572-S.SL.pdf?cite=1996%20c%2069%20§%204[1996 c 69 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c328.pdf?cite=1987%20c%20328%20§%202[1987 c 328 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c120.pdf?cite=1983%20c%20120%20§%202[1983 c 120 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1259-S.SL.pdf?cite=2021%20c%20160%20§%201[2021 c 160 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5418-S.SL.pdf?cite=2019%20c%20434%20§%202[2019 c 434 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6572-S.SL.pdf?cite=1996%20c%2069%20§%204[1996 c 69 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c328.pdf?cite=1987%20c%20328%20§%202[1987 c 328 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c120.pdf?cite=1983%20c%20120%20§%202[1983 c 120 § 2]; ]
 
 == 39.19.030 - Office of minority and women's business enterprises—Director—Powers and duties.
 There is hereby created the office of minority and women's business enterprises. The governor shall appoint a director for the office, subject to confirmation by the senate. The director may employ a deputy director and a confidential secretary, both of which shall be exempt under chapter 41.06 RCW, and such staff as are necessary to carry out the purposes of this chapter.
@@ -77,9 +79,11 @@ The rules adopted under RCW 39.19.030 shall include requirements for standard cl
 
 . Each state agency shall adopt a plan, developed in consultation with the director and the advisory committee, to ensure that minority and women-owned businesses are afforded the maximum practicable opportunity to directly and meaningfully participate in the execution of public contracts for public works and goods and services. The plan shall include specific measures the agency will undertake to increase the participation of certified minority and women-owned businesses.
 
+. Of all state agencies and educational institutions, the office must annually identify those: (a) In the lowest quintile of utilization of minority and women-owned contractors as a percentage of all contracts issued by the agency; (b) in the lowest quintile of the dollar value awarded to minority and women-owned contractors as a percentage of the dollar value of all contracts issued by the agency; and (c) that are performing significantly below their established goals, as determined by the office. The office must meet with each identified agency to review its plan and identify available tools and actions for increasing participation.
+
 . The office shall annually notify the governor, the state auditor, and the joint legislative audit and review committee of all agencies and educational institutions not in compliance with this chapter.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5418-S.SL.pdf?cite=2019%20c%20434%20§%203[2019 c 434 § 3]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2222-S2.SL.pdf?cite=1996%20c%20288%20§%2028[1996 c 288 § 28]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1493-S.SL.pdf?cite=1993%20c%20512%20§%209[1993 c 512 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c120.pdf?cite=1983%20c%20120%20§%206[1983 c 120 § 6]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1259-S.SL.pdf?cite=2021%20c%20160%20§%202[2021 c 160 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5418-S.SL.pdf?cite=2019%20c%20434%20§%203[2019 c 434 § 3]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2222-S2.SL.pdf?cite=1996%20c%20288%20§%2028[1996 c 288 § 28]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1493-S.SL.pdf?cite=1993%20c%20512%20§%209[1993 c 512 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c120.pdf?cite=1983%20c%20120%20§%206[1983 c 120 § 6]; ]
 
 == 39.19.070 - Compliance with goals—Bidding procedures.
 It is the intent of this chapter that the goals established under this chapter for participation by minority and women-owned and controlled businesses be achievable. If necessary to accomplish this intent, contracts may be awarded to the next lowest responsible bidder in turn, or all bids may be rejected and new bids obtained, if the lowest responsible bidder does not meet the goals established for a particular contract under this chapter. The dollar value of the total contract used for the calculation of the specific contract goal may be increased or decreased to reflect executed change orders. An apparent low-bidder must be in compliance with the contract provisions required under this chapter as a condition precedent to the granting of a notice of award by any state agency or educational institution.
@@ -91,86 +95,57 @@ For purposes of measuring an agency's or educational institution's goal attainme
 
 [ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6572-S.SL.pdf?cite=1996%20c%2069%20§%206[1996 c 69 § 6]; ]
 
-== 39.19.080 - Prohibited activities—Penalties.
-. A person, firm, corporation, business, union, or other organization shall not:
+== 39.19.080 - Prohibited activities.
+A person, firm, corporation, business, union, or other organization shall not:
 
-.. Prevent or interfere with a contractor's or subcontractor's compliance with this chapter, or any rule adopted under this chapter;
+. Prevent or interfere with a contractor's or subcontractor's compliance with this chapter, or any rule adopted under this chapter;
 
-.. Submit false or fraudulent information to the state concerning compliance with this chapter or any such rule;
+. Submit false or fraudulent information to the state concerning compliance with this chapter or any such rule;
 
-.. Fraudulently obtain, retain, attempt to obtain or retain, or aid another in fraudulently obtaining or retaining or attempting to obtain or retain certification as a minority or women's business enterprise for the purpose of this chapter;
+. Fraudulently obtain, retain, attempt to obtain or retain, or aid another in fraudulently obtaining or retaining or attempting to obtain or retain certification as a minority or women's business enterprise for the purpose of this chapter;
 
-.. Knowingly make a false statement, whether by affidavit, verified statement, report, or other representation, to a state official or employee for the purpose of influencing the certification or denial of certification of any entity as a minority or women's business enterprise;
+. Knowingly make a false statement, whether by affidavit, verified statement, report, or other representation, to a state official or employee for the purpose of influencing the certification or denial of certification of any entity as a minority or women's business enterprise;
 
-.. Knowingly obstruct, impede, or attempt to obstruct or impede any state official or employee who is investigating the qualification of a business entity that has requested certification as a minority or women's business enterprise;
+. Knowingly obstruct, impede, or attempt to obstruct or impede any state official or employee who is investigating the qualification of a business entity that has requested certification as a minority or women's business enterprise;
 
-.. Fraudulently obtain, attempt to obtain, or aid another person in fraudulently obtaining or attempting to obtain public moneys to which the person is not entitled under this chapter; or
+. Fraudulently obtain, attempt to obtain, or aid another person in fraudulently obtaining or attempting to obtain public moneys to which the person is not entitled under this chapter; or
 
-.. Knowingly make false statements that any entity is or is not certified as a minority or women's business enterprise for purposes of obtaining a contract governed by this chapter.
+. Knowingly make false statements that any entity is or is not certified as a minority or women's business enterprise for purposes of obtaining a contract governed by this chapter.
 
-. Any person or entity violating this chapter or any rule adopted under this chapter shall be subject to the penalties in RCW 39.19.090. Nothing in this section prevents the state agency or educational institution from pursuing such procedures or sanctions as are otherwise provided by statute, rule, or contract provision.
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1259-S.SL.pdf?cite=2021%20c%20160%20§%203[2021 c 160 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c328.pdf?cite=1987%20c%20328%20§%205[1987 c 328 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c120.pdf?cite=1983%20c%20120%20§%208[1983 c 120 § 8]; ]
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c328.pdf?cite=1987%20c%20328%20§%205[1987 c 328 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c120.pdf?cite=1983%20c%20120%20§%208[1983 c 120 § 8]; ]
+== 39.19.090 - Compliance with chapter or contract—Penalties—Audit and review unit established—Remedies.
+. [Empty]
+.. Except as provided in (b) of this subsection, if a person, firm, corporation, or business does not comply with any provision of this chapter or with a contract requirement established under this chapter, the state may impose one or more of the following penalties: Withholding payment, decertifying the contractor, debarring the contractor, suspending or terminating the contract, or subjecting the contractor to civil penalties of up to 10 percent of the amount of the contract or up to $5,000 for each violation.
 
-== 39.19.090 - Compliance with chapter or contract—Remedies.
-If a person, firm, corporation, or business does not comply with any provision of this chapter or with a contract requirement established under this chapter, the state may withhold payment, debar the contractor, suspend, or terminate the contract and subject the contractor to civil penalties of up to ten percent of the amount of the contract or up to five thousand dollars for each violation. The office shall adopt, by rule, criteria for the imposition of penalties under this section. Wilful repeated violations, exceeding a single violation, may disqualify the contractor from further participation in state contracts for a period of up to three years. An apparent low-bidder must be in compliance with the contract provisions required under this chapter as a condition precedent to the granting of a notice of award by any state agency or educational institution.
+.. If a person, firm, corporation, or business commits any of the activities prohibited in RCW 39.19.080, the state must impose one or more of the following penalties: Withholding payment, decertifying the contractor, debarring the contractor for a period between one and three years, terminating the contract, or subjecting the contractor to civil penalties of between two and 10 percent of the amount of the contract or between $1 and $5,000 for each violation.
 
-The office shall follow administrative procedures under chapter 34.05 RCW in determining a violation and imposing penalties under this chapter.
+.. In addition to any other penalties imposed, willful repeated violations, exceeding a single violation, must disqualify the contractor from further participation in state contracts for a period of three years. A willful violation includes a conscious or deliberate false statement, misrepresentation, omission, or concealment of a material fact, with the specific intent of obtaining, continuing, or increasing benefits under this chapter.
 
-The procedures and sanctions in this section are not exclusive; nothing in this section prevents the state agency or educational institution administering the contracts from pursuing such procedures or sanctions as are otherwise provided by statute, rule, or contract provision.
+. An apparent low-bidder must be in compliance with the contract provisions required under this chapter as a condition precedent to the granting of a notice of award by any state agency or educational institution.
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c328.pdf?cite=1987%20c%20328%20§%206[1987 c 328 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c120.pdf?cite=1983%20c%20120%20§%209[1983 c 120 § 9]; ]
-
-== 39.19.100 - Enforcement by attorney general—Injunctive relief.
-The attorney general may bring an action in the name of the state against any person to restrain and prevent the doing of any act prohibited or declared to be unlawful in this chapter. The attorney general may, in the discretion of the court, recover the costs of the action including reasonable attorneys' fees and the costs of investigation.
-
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c328.pdf?cite=1987%20c%20328%20§%2012[1987 c 328 § 12]; ]
-
-== 39.19.110 - Enforcement by attorney general—Investigative powers.
-. Whenever the attorney general believes that any person (a) may be in possession, custody, or control of any original or copy of any book, record, report, memorandum, paper, communication, tabulation, map, chart, photograph, mechanical transcription, or other tangible document or recording, wherever situated, that the attorney general believes to be relevant to the subject matter of an investigation, the attorney general may require such person to answer written interrogatories or give oral testimony regarding a possible violation of this chapter, or of any provision of a contract as required by this chapter, or (b) may have knowledge of any information that the attorney general believes relevant to the subject matter of such an investigation, the attorney general may, before instituting a civil proceeding thereon, execute in writing and cause to be served upon such a person, a civil investigative demand requiring the person to produce the documentary material and permit inspection and copying, to answer in writing written interrogatories, to give oral testimony, or any combination of demands pertaining to the documentary material or information. Documents and information obtained under this section shall not be admissible in criminal prosecutions.
-
-. Each such demand shall:
-
-.. State the statute, the alleged violation of which is under investigation, and the general subject matter of the investigation;
-
-.. State with reasonable specificity what documentary material is required, if the demand is for the production of documentary material;
-
-.. Prescribe a return date governed by the court rules within which the documentary material is to be produced, the answers to written interrogatories are to be made, or a date, time, and place at which oral testimony is to be taken; and
-
-.. Identify the members of the attorney general's staff to whom such documentary material is to be made available for inspection and copying, to whom answers to written interrogatories are to be made, or who are to conduct the examination for oral testimony.
-
-. No such demand may:
-
-.. Contain any requirement that would be unreasonable or improper if contained in a subpoena duces tecum, a request for answers to written interrogatories, or a notice of deposition upon oral examination issued under the court rules of this state; or
-
-.. Require the disclosure of any documentary material which would be privileged, or which for any other reason would not be required by a subpoena duces tecum issued by a court of this state.
-
-. Service of any such demand may be made by:
-
-.. Delivering a duly executed copy thereof to the person to be served, or, if that person is not a natural person, to any officer or managing agent of the person to be served;
-
-.. Delivering a duly executed copy thereof to the principal place of business in this state of the person to be served; or
-
-.. Mailing by registered or certified mail a duly executed copy thereof addressed to the person to be served at the principal place of business in this state, or, if that person has no place of business in this state, to the person's principal office or place of business.
+. The office shall follow administrative procedures under chapter 34.05 RCW in determining a violation and imposing penalties under this chapter. The office shall adopt by rule criteria for the imposition of penalties under this section. The rule may incorporate the debarment process authorized for the department of enterprise services in RCW 39.26.200.
 
 . [Empty]
-.. Documentary material demanded under this section shall be produced for inspection and copying during normal business hours at the principal office or place of business of the person served, or at such other times and places as may be agreed upon by the person served and the attorney general;
+.. An audit and review unit is established within the office for the purpose of detecting and investigating fraud and violations of this chapter. The office must employ qualified personnel for the unit.
 
-.. Written interrogatories in a demand served under this section shall be answered in the same manner as provided in the civil rules for superior court;
+.. For the purpose of any investigation or proceeding under this chapter, the director or the director's designee may administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, agreements, or other documents or records that the director or the director's designee deems relevant or material to the inquiry.
 
-.. The oral testimony of any person obtained pursuant to a demand served under this section shall be taken in the same manner as provided in the civil rules for superior court for the taking of depositions. In the course of the deposition, the assistant attorney general conducting the examination may exclude all persons other than the person being examined, the person's counsel, and the officer before whom the testimony is to be taken from the place where the examination is held;
+.. Subpoenas issued under this section may be enforced under RCW 34.05.588.
 
-.. Any person compelled to appear pursuant to a demand for oral testimony under this section may be accompanied by counsel;
+.. The audit and review unit must annually:
 
-.. The oral testimony of any person obtained pursuant to a demand served under this section shall be taken in the county within which the person resides, is found, or transacts business, or in such other place as may be agreed upon between the person served and the attorney general.
+... Conduct a site review of a minimum of three percent of persons, firms, corporations, or businesses awarded a contract under this chapter;
 
-. No documentary material, answers to written interrogatories, or transcripts of oral testimony produced pursuant to a demand, or copies thereof, may, unless otherwise ordered by a superior court for good cause shown, be produced for inspection or copying by, nor may the contents thereof be disclosed to, anyone other than an authorized employee or agent of the attorney general, without the consent of the person who produced such material, answered written interrogatories, or gave oral testimony: PROVIDED, That under such reasonable terms and conditions as the attorney general shall prescribe, the copies of such documentary material, answers to written interrogatories, or transcripts of oral testimony shall be available for inspection and copying by the person who produced the material, answered written interrogatories, or gave oral testimony, or any duly authorized representative of that person. The attorney general or any assistant attorney general may use such copies of documentary material, answers to written interrogatories, or transcripts of oral testimony as he or she determines necessary to enforce this chapter, including presentation before any court: PROVIDED FURTHER, That any such material, answers to written interrogatories, or transcripts of oral testimony that contain material designated by the declarant to be trade secrets shall not be presented except with the approval of the court in which the action is pending after adequate notice to the person furnishing the material, answers to written interrogatories, or oral testimony.
+... Submit a response for all complaints for investigation made by an external agency to the agency submitting the complaint;
 
-. At any time before the return date specified in the demand, or within twenty days after the demand has been served, whichever period is shorter, a petition to extend the return date for, or to modify or set aside a demand issued pursuant to subsection (1) of this section, stating good cause, may be filed in the superior court for Thurston county, or in any other county where the parties reside or are found. A petition, by the person on whom the demand is served, stating good cause, to require the attorney general or any person to perform any duty imposed by this section, and all other petitions in connection with a demand, may be filed in the superior court for Thurston county, or in the county where the parties reside. The court shall have jurisdiction to impose such sanctions as are provided for in the civil rules for superior court with respect to discovery motions.
+... Develop and implement a process for prioritizing and conducting thorough investigations of persons, firms, corporations, or businesses identified by an external complaint and determined to be the highest priority for the agency; and
 
-. Whenever any person fails to comply with any civil investigative demand for documentary material, answers to written interrogatories, or oral testimony duly served upon that person under this section, or whenever satisfactory copying or reproduction of any such material cannot be done and the person refuses to surrender such material, the attorney general may file, in the trial court of general jurisdiction in the county in which the person resides, is found, or transacts business, and serve upon that person a petition for an order of the court for the enforcement of this section, except that if such person transacts business in more than one county, the petition shall be filed in the county in which the person maintains his or her principal place of business or in such other county as may be agreed upon by the parties to the petition. Whenever any petition is filed under this section in the trial court of general jurisdiction in any county, the court shall have jurisdiction to hear and determine the matter so presented and to enter such order or orders as may be required to carry into effect this section, and may impose such sanctions as are provided for in the civil rules for superior court with respect to discovery motions.
+... Develop and implement a process for prioritizing and conducting thorough investigations of persons, firms, corporations, or businesses internally identified and determined to be the highest priority for the agency.
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c328.pdf?cite=1987%20c%20328%20§%2013[1987 c 328 § 13]; ]
+. The procedures and sanctions in this section are not exclusive; nothing in this section prevents the state agency or educational institution administering the contracts from pursuing such procedures or sanctions as are otherwise provided by statute, rule, or contract provision.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1259-S.SL.pdf?cite=2021%20c%20160%20§%204[2021 c 160 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c328.pdf?cite=1987%20c%20328%20§%206[1987 c 328 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c120.pdf?cite=1983%20c%20120%20§%209[1983 c 120 § 9]; ]
 
 == 39.19.120 - Certification of business enterprises.
 The office shall be the sole authority to perform certification of minority business enterprises, socially and economically disadvantaged business enterprises, and women's business enterprises throughout the state of Washington. Certification by the state office will allow these firms to participate in programs for these enterprises administered by the state of Washington, any city, town, county, special purpose district, public corporation created by the state, municipal corporation, or quasi-municipal corporation within the state of Washington.
@@ -220,9 +195,9 @@ Any city, town, county, special purpose district, public corporation created by 
 [ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1493-S.SL.pdf?cite=1993%20c%20512%20§%2010[1993 c 512 § 10]; ]
 
 == 39.19.200 - Minority and women's business enterprises account—Created.
-The minority and women's business enterprises account is created in the custody of the state treasurer. All receipts from RCW 39.19.210, 39.19.220, and 39.19.230 shall be deposited in the account. Expenditures from the account may be used only for the purposes defraying all or part of the costs of the office in administering this chapter. Only the director or the director's designee may authorize expenditures from the account. Moneys in the account may be spent only after appropriation.
+The minority and women's business enterprises account is created in the custody of the state treasurer. All receipts from RCW 39.19.210, 39.19.220, and 39.19.230 and civil penalties imposed under RCW 39.19.090 shall be deposited in the account. Expenditures from the account may be used only for the purposes defraying all or part of the costs of the office in administering this chapter. Only the director or the director's designee may authorize expenditures from the account. Moneys in the account may be spent only after appropriation.
 
-[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1800.SL.pdf?cite=1993%20c%20195%20§%201[1993 c 195 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1259-S.SL.pdf?cite=2021%20c%20160%20§%206[2021 c 160 § 6]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1800.SL.pdf?cite=1993%20c%20195%20§%201[1993 c 195 § 1]; ]
 
 == 39.19.210 - Businesses using the office—Fees.
 The office may charge a reasonable fee or other appropriate charge, to be set by rule adopted by the office under chapter 34.05 RCW, to a business using the services of the office.
@@ -263,13 +238,28 @@ The office may charge to a state agency and educational institutions, as both ar
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5782-S2.SL.pdf?cite=2005%20c%20302%20§%205[2005 c 302 § 5]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2456-S.SL.pdf?cite=2002%20c%20305%20§%202[2002 c 305 § 2]; ]
 
 == 39.19.250 - Participation in contracts by qualified minority and women-owned and controlled businesses—Data—Contact people—Reports.
-. For the purpose of annual reporting on progress required by *section 1 of this act, each state agency and educational institution shall submit data to the office and the office of minority and women's business enterprises on the participation by qualified minority and women-owned and controlled businesses in the agency's or institution's contracts and other related information requested by the director. The director of the office of minority and women's business enterprises shall determine the content and format of the data and the reporting schedule, which must be at least annually.
+. For the purpose of annual reporting on progress required by this chapter, each state agency and educational institution shall submit data to the office and the office of minority and women's business enterprises on the participation by qualified minority and women-owned and controlled businesses in the agency's or institution's contracts and other related information requested by the director. The director of the office of minority and women's business enterprises shall determine the content and format of the data and the reporting schedule, which must be at least annually.
 
 . The office must develop and maintain a list of contact people at each state agency and educational institution who are able to present to hearings of the appropriate committees of the legislature its progress in carrying out the purposes of chapter 39.19 RCW.
 
-. The office must submit a report aggregating the data received from each state agency and educational institution to the legislature and the governor.
+. The office must submit a report aggregating the data received from each state agency and educational institution, and the information identified and actions taken under RCW 39.19.060(3) and 39.19.090(4), to the legislature and the governor.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5418-S.SL.pdf?cite=2019%20c%20434%20§%204[2019 c 434 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1087.SL.pdf?cite=2009%20c%20348%20§%202[2009 c 348 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1259-S.SL.pdf?cite=2021%20c%20160%20§%207[2021 c 160 § 7]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5418-S.SL.pdf?cite=2019%20c%20434%20§%204[2019 c 434 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1087.SL.pdf?cite=2009%20c%20348%20§%202[2009 c 348 § 2]; ]
+
+== 39.19.260 - Subpoenas—Application—Court issuance—Notice not required.
+. The director or director's designee may apply for and obtain a superior court order approving and authorizing a subpoena in advance of its issuance. The application may be made in the county where the subpoenaed person resides or is found, or the county where the subpoenaed documents, records, or evidence are located, or in Thurston county. The application must:
+
+.. State that an order is sought under this section;
+
+.. Adequately specify the documents, records, evidence, or testimony; and
+
+.. Include a declaration made under oath that an investigation is being conducted for a lawfully authorized purpose related to an investigation within the office's authority and that the subpoenaed documents, records, evidence, or testimony are reasonably related to an investigation within the office's authority.
+
+. When an application under this section is made to the satisfaction of the court, the court must issue an order approving the subpoena. An order under this subsection constitutes authority of law for the agency to subpoena the documents, records, evidence, or testimony.
+
+. The director or director's designee may seek approval and a court may issue an order under this section without prior notice to any person, including the person to whom the subpoena is directed and the person who is the subject of an investigation. An application for court approval is subject to the fee and process set forth in RCW 36.18.012(3).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1259-S.SL.pdf?cite=2021%20c%20160%20§%205[2021 c 160 § 5]; ]
 
 == 39.19.910 - Effective date—Applicability—1983 c 120.
 . This act is necessary for the immediate preservation of the public peace, health, and safety, the support of the state government and its existing public institutions, and shall take effect July 1, 1983.

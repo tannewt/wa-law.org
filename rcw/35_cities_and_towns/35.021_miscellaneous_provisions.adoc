@@ -428,7 +428,7 @@ Any city or town may assist a street abutter in improving the street serving the
 
 .. A career and technical education program;
 
-.. A state recognized apprenticeship preparation program; or
+.. A state-recognized apprenticeship preparation program; or
 
 .. Training under a construction career exploration program for high school students administered by a nonprofit organization.
 
@@ -453,10 +453,16 @@ Any city or town may assist a street abutter in improving the street serving the
 
 [ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5514-S3.SL.pdf?cite=2002%20c%20363%20§%205[2002 c 363 § 5]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5452-S2.SL.pdf?cite=1999%20c%20165%20§%2019[1999 c 165 § 19]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2115.SL.pdf?cite=1995%203rd%20sp.s.%20c%201%20§%20202[1995 3rd sp.s. c 1 § 202]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6049-S.SL.pdf?cite=1995%201st%20sp.s.%20c%2014%20§%208[1995 1st sp.s. c 14 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.21.280[1965 c 7 § 35.21.280]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1957c126.pdf?cite=1957%20c%20126%20§%201[1957 c 126 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1951c35.pdf?cite=1951%20c%2035%20§%201[1951 c 35 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1943c80.pdf?cite=1943%20c%2080%20§%201[1943 c 80 § 1]; Rem. Supp. 1943 § 8370-44a; ]
 
-== 35.21.290 - Utility services—Lien for.
-Except as provided in RCW 35.21.217(4), cities and towns owning their own waterworks, or electric light or power plants shall have a lien against the premises to which water, electric light, or power services were furnished for four months charges therefor due or to become due, but not for any charges more than four months past due.
+== 35.21.290 - Utility services—Lien for—Emergency declaration.
+. Except as provided in RCW 35.21.217(4) and in subsection (2) of this section, cities and towns owning their own waterworks, or electric light or power plants shall have a lien against the premises to which water, electric light, or power services were furnished for four months charges therefor due or to become due, but not for any charges more than four months past due.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6261.SL.pdf?cite=2010%20c%20135%20§%202[2010 c 135 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.21.290[1965 c 7 § 35.21.290]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1933c135.pdf?cite=1933%20c%20135%20§%201[1933 c 135 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1909c161.pdf?cite=1909%20c%20161%20§%201[1909 c 161 § 1]; RRS § 9471; ]
+. The lien provided for in subsection (1) of this section may apply to charges more than four months past due, if the city or town has been unable to pursue collection or a lien against the premises to which water, electric light, or power services were furnished due to an emergency declaration by the governor. A lien may be imposed after the expiration of the emergency declaration that prevented collection. The period in which the lien may be imposed is the later of:
+
+.. Three months from the expiration of the emergency declaration preventing collection or a lien; or
+
+.. Three months of the ratepayer's failure to abide by the terms of an agreed payment plan, if the payment plan for past due charges would have allowed the ratepayer to repay the past due charges over a period of six months or more.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1069-S2.SL.pdf?cite=2021%20c%20296%20§%2015[2021 c 296 § 15]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6261.SL.pdf?cite=2010%20c%20135%20§%202[2010 c 135 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.21.290[1965 c 7 § 35.21.290]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1933c135.pdf?cite=1933%20c%20135%20§%201[1933 c 135 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1909c161.pdf?cite=1909%20c%20161%20§%201[1909 c 161 § 1]; RRS § 9471; ]
 
 == 35.21.300 - Utility services—Enforcement of lien—Limitations on termination of service for residential heating.
 . The lien for charges for service by a city waterworks, or electric light or power plant may be enforced only by cutting off the service until the delinquent and unpaid charges are paid, except that until June 30, 1991, utility service for residential space heating may be terminated between November 15 and March 15 only as provided in subsections (2) and (4) of this section. In the event of a disputed account and tender by the owner of the premises of the amount the owner claims to be due before the service is cut off, the right to refuse service to any premises shall not accrue until suit has been entered by the city and judgment entered in the case.
@@ -891,6 +897,16 @@ Any public corporation, commission or authority created as provided in RCW 35.21
 The legislative body of any city or town, is hereby authorized and empowered in its discretion by resolution or ordinance passed by a majority of the legislative body, to take whatever action it deems necessary to enable the city or town to participate in the programs set forth in the Economic Opportunity Act of 1964 (Public Law 88-452; 78 Stat. 508), as amended. Such participation may be engaged in as a sole city or town operation or in conjunction or cooperation with the state, any other city or town, county, or municipal corporation, or any private corporation qualified under said Economic Opportunity Act.
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c177.pdf?cite=1971%20ex.s.%20c%20177%20§%203[1971 ex.s. c 177 § 3]; ]
+
+== 35.21.682 - City or town may not limit number of unrelated persons occupying a household or dwelling unit—Exceptions.
+Except for occupant limits on group living arrangements regulated under state law or on short-term rentals as defined in RCW 64.37.010 and any lawful limits on occupant load per square foot or generally applicable health and safety provisions as established by applicable building code or city ordinance, a city or town may not regulate or limit the number of unrelated persons that may occupy a household or dwelling unit.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5235-S.SL.pdf?cite=2021%20c%20306%20§%205[2021 c 306 § 5]; ]
+
+== 35.21.683 - Transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing.
+A city shall not prohibit transitional housing or permanent supportive housing in any zones in which residential dwelling units or hotels are allowed. Effective September 30, 2021, a city shall not prohibit indoor emergency shelters and indoor emergency housing in any zones in which hotels are allowed, except in such cities that have adopted an ordinance authorizing indoor emergency shelters and indoor emergency housing in a majority of zones within a one-mile proximity to transit. Reasonable occupancy, spacing, and intensity of use requirements may be imposed by ordinance on permanent supportive housing, transitional housing, indoor emergency housing, and indoor emergency shelters to protect public health and safety. Any such requirements on occupancy, spacing, and intensity of use may not prevent the siting of a sufficient number of permanent supportive housing, transitional housing, indoor emergency housing, or indoor emergency shelters necessary to accommodate each city's projected need for such housing and shelter under RCW 36.70A.070(2)(a)(ii).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1220-S2.SL.pdf?cite=2021%20c%20254%20§%204[2021 c 254 § 4]; ]
 
 == 35.21.684 - Authority to regulate placement or use of homes—Regulation of manufactured homes—Issuance of permits—Restrictions on location of manufactured/mobile homes and entry or removal of recreational vehicles used as primary residences.
 . A city or town may not adopt an ordinance that has the effect, directly or indirectly, of discriminating against consumers' choices in the placement or use of a home in such a manner that is not equally applicable to all homes. Homes built to 42 U.S.C. Sec. 5401-5403 standards (as amended in 2000) must be regulated for the purposes of siting in the same manner as site built homes, factory built homes, or homes built to any other state construction or local design standard. However, except as provided in subsection (2) of this section, any city or town may require that:
@@ -1605,7 +1621,7 @@ The antidiscrimination provisions of RCW 49.60.500 apply to community athletics 
 
 ... Delivering to each local newspaper of general circulation and local radio or television station that has on file with the governing body a written request to be notified of special meetings;
 
-... Posting on the city or town's web site. A city or town is not required to post a special meeting notice on its web site if it: (A) Does not have a web site; (B) employs fewer than ten full-time equivalent employees; or (C) does not employ personnel whose duty, as defined by a job description or existing contract, is to maintain or update the web site;
+... Posting on the city or town's website. A city or town is not required to post a special meeting notice on its website if it: (A) Does not have a website; (B) employs fewer than ten full-time equivalent employees; or (C) does not employ personnel whose duty, as defined by a job description or existing contract, is to maintain or update the website;
 
 ... Prominently displaying, on signage at least two feet in height and two feet in width, one or more meeting notices that can be placed on or adjacent to the main arterials in proximity to the location of the meeting; or
 
@@ -1736,7 +1752,7 @@ A city or town must comply with the requirements of RCW 47.01.485 in making a fi
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2519-S.SL.pdf?cite=2016%20c%20100%20§%201[2016 c 100 § 1]; ]
 
 == 35.21.960 - Removal of restrictive covenants—Hearing, notice.
-Any city, town, or municipal corporation must hold a public hearing upon a proposal to remove, vacate, or extinguish a restrictive covenant from property owned by the city, town, or municipal corporation before the action is finalized. The public hearing must allow individuals to provide testimony regarding the proposed action. The city, town, or municipal corporation must provide notice of the public hearing at least ten days before the hearing at its usual place of business and issue a press release to local media providing the date, time, location, and reason for the public hearing. The notice must be posted on the city, town, or municipal corporation's web site if it is updated for any reason before the hearing date. The notice must also identify the property and provide a brief explanation of the restrictive covenant to be removed, vacated, or extinguished. Any member of the public, in person or by counsel, may submit testimony at the public hearing.
+Any city, town, or municipal corporation must hold a public hearing upon a proposal to remove, vacate, or extinguish a restrictive covenant from property owned by the city, town, or municipal corporation before the action is finalized. The public hearing must allow individuals to provide testimony regarding the proposed action. The city, town, or municipal corporation must provide notice of the public hearing at least ten days before the hearing at its usual place of business and issue a press release to local media providing the date, time, location, and reason for the public hearing. The notice must be posted on the city, town, or municipal corporation's website if it is updated for any reason before the hearing date. The notice must also identify the property and provide a brief explanation of the restrictive covenant to be removed, vacated, or extinguished. Any member of the public, in person or by counsel, may submit testimony at the public hearing.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1959.SL.pdf?cite=2017%20c%20119%20§%203[2017 c 119 § 3]; ]
 

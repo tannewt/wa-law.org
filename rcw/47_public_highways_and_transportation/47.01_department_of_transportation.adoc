@@ -568,7 +568,7 @@ To support the implementation of RCW 47.04.280 and 47.01.078(4), the department 
 .. Information demonstrating the prospective owner's intent to obtain legal moorage following the transfer, in the manner determined by the department.
 
 . [Empty]
-.. The department shall remove any containers or other materials that are not fixed to the vessel and contain hazardous substances, as defined under *RCW 70.105D.020.
+.. The department shall remove any containers or other materials that are not fixed to the vessel and contain hazardous substances, as defined under RCW 70A.305.020.
 
 .. However, the department may transfer a vessel with:
 
@@ -580,7 +580,7 @@ To support the implementation of RCW 47.04.280 and 47.01.078(4), the department 
 
 . Prior to sale, and unless the vessel has a title or valid marine document, the department is required to apply for a certificate of title for the vessel under RCW 88.02.510 and register the vessel under RCW 88.02.550.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1245-S.SL.pdf?cite=2013%20c%20291%20§%2014[2013 c 291 § 14]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2054[2021 c 65 § 54]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1245-S.SL.pdf?cite=2013%20c%20291%20§%2014[2013 c 291 § 14]; ]
 
 == 47.01.480 - Connecting Washington project delivery—Transportation future funding program—Report.
 . [Empty]
@@ -736,4 +736,103 @@ The commission must convene an executive and legislative work group to develop p
 .. The recommendations made by the commission may include proposed modifications to state law and rules to address the emergence and deployment of autonomous vehicle technology in the state.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2970-S.SL.pdf?cite=2018%20c%20180%20§%201[2018 c 180 § 1]; ]
+
+== 47.01.515 - Environmental justice obligations of the department of transportation.
+The department must apply and comply with the substantive and procedural requirements of chapter 70A.02 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5141-S2.SL.pdf?cite=2021%20c%20314%20§%209[2021 c 314 § 9]; ]
+
+== 47.01.520 - Publicly available mapping and forecasting tool—Charging and refueling infrastructure locations and information.
+. The department, through the department's public-private partnership office and in consultation with the department of ecology, the department of commerce, and the office of equity, must develop and maintain a publicly available mapping and forecasting tool that provides locations and essential information of charging and refueling infrastructure to support forecasted levels of electric vehicle adoption, travel, and usage across Washington state.
+
+. [Empty]
+.. The publicly available mapping and forecasting tool must be designed to enable coordinated, effective, efficient, and timely deployment of charging and refueling infrastructure necessary to support statewide and local transportation electrification efforts that result in emissions reductions consistent with RCW 70A.45.020.
+
+.. The tool must:
+
+... Initially prioritize on-road transportation;
+
+... To the greatest extent possible, maintain the latest data;
+
+... Model charging and refueling infrastructure that may be used by owners and operators of light, medium, and heavy-duty vehicles; and
+
+... Incorporate the department's traffic data for passenger and freight vehicles.
+
+.. The tool must, if feasible:
+
+... Provide the data necessary to support programs by state agencies that directly or indirectly support transportation electrification efforts;
+
+... Evolve over time to support future transportation electrification programs;
+
+... Provide data at a scale that supports electric utility planning for the impacts of transportation electrification both systemwide and on specific components of the distribution system; and
+
+... Forecast statewide zero emissions vehicle use that would achieve the emissions reductions consistent with RCW 70A.45.020. The department may reference existing zero emissions vehicle use forecasts, such as that established in the state energy strategy.
+
+. The department, in consultation with the department of commerce, the department of ecology, and the office of equity, may elect to include other transportation charging and refueling infrastructure, such as maritime, public transportation, and aviation in the mapping and forecasting tool.
+
+. The tool must include, to the extent feasible, the following elements:
+
+.. The amount, type, location, and year of installation for electric vehicle supply equipment that is expected to be necessary to support forecasted electric vehicle penetration and usage within the state;
+
+.. Electric vehicle adoption, usage, technological profiles, and any other characteristics necessary to model future electric vehicle penetration levels and use cases that impact electric vehicle supply equipment needs within the state;
+
+.. The estimated energy and capacity demand based on inputs from (b) of this subsection;
+
+.. Boundaries of political subdivisions including, but not limited to:
+
+... Retail electricity suppliers;
+
+... Public transportation agency boundaries;
+
+... Municipalities;
+
+... Counties; and
+
+.. Federally recognized tribal governments;
+
+.. Existing and known publicly or privately owned level 2, direct current fast charge, and refueling infrastructure. The department must identify gas stations, convenience stores, and other small retailers that are colocated with existing and known electric vehicle charging infrastructure identified under this subsection;
+
+.. A public interface designed to provide any user the ability to determine the forecasted charging and refueling infrastructure needs within a provided geographic boundary, including those listed under (d) of this subsection; and
+
+.. The ability for all data tracked within the tool to be downloadable or usable within a separate mapping and forecasting tool.
+
+. The tool must, if feasible, integrate scenarios including:
+
+.. Varying levels of public transportation utilization;
+
+.. Varying levels of active transportation usage, such as biking or walking;
+
+.. Vehicle miles traveled amounts above and below the baseline;
+
+.. Adoption of autonomous and shared mobility services; and
+
+.. Forecasts capturing each utility service area's relative level of zero emissions vehicle use that would achieve each utility service area's relative emissions reductions consistent with RCW 70A.45.020.
+
+. To support highly impacted communities and vulnerable populations disproportionately burdened by transportation-related emissions and to ensure economic and mobility benefits flow to communities that have historically received less investment in infrastructure, the mapping and forecasting tool must integrate population, health, environmental, and socioeconomic data on a census tract basis. The department may use existing data used by other state or federal agencies. The department must consult with the department of health, the office of equity, the department of ecology, and other agencies as necessary in order to ensure the tool properly integrates cumulative impact analyses best practices and to ensure that the tool is developed in coordination with other state government administrative efforts to identify disproportionately impacted communities.
+
+. The mapping and forecasting tool must, to the extent appropriate, integrate related analyses, such as the department of commerce's state energy strategy, the joint transportation committee's public fleet electrification study, the west coast collaborative's alternative fuel infrastructure corridor coalition report, and other related electric vehicle supply equipment assessments as deemed appropriate. To the extent that the mapping and forecasting tool is used by the department as the basis for the identification of recommended future electric vehicle charging sites, the department must consider recommending sites that are colocated with small retailers, including gas stations and convenience stores, and other amenities.
+
+. Where appropriate and feasible, the mapping and forecasting tool must incorporate infrastructure located at or near the border in neighboring state and provincial jurisdictions.
+
+. In designing the mapping and forecasting tool, the department must coordinate with the department of commerce, the department of ecology, the utilities and transportation commission, and other state agencies as needed in order to ensure the mapping and forecasting tool is able to successfully facilitate other state agency programs that involve deployment of electric vehicle supply equipment.
+
+. The department must conduct a stakeholder process in developing the mapping and forecasting tool to ensure the tool supports the needs of communities, public agencies, and relevant private organizations. The stakeholder process must involve stakeholders, including but not limited to electric utilities, early in the development of the tool.
+
+. The department may contract with the department of commerce or consultants, or both, to develop and implement all or portions of the mapping and forecasting tool. The department may rely on or, to the extent necessary, contract for privately maintained data sufficient to develop the elements specified in subsection (4) of this section.
+
+. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+.. "Charging infrastructure" means a unit of fueling infrastructure that supplies electric energy for the recharging of battery electric vehicles.
+
+.. "Direct current fast charger" means infrastructure that supplies electricity to battery electric vehicles at capacities no less than 50 kilowatts, typically using 208/408 volt three-phase direct current electricity.
+
+.. "Electric vehicle" means any craft, vessel, automobile, public transportation vehicle, or equipment that transports people or goods and operates, either partially or exclusively, on electrical energy from an off-board source that is stored onboard for motive purpose.
+
+.. "Electric vehicle supply equipment" means charging infrastructure and hydrogen refueling infrastructure.
+
+.. "Level 2 charger" means infrastructure that supplies electricity to battery electric vehicles at 240 volts and equal to or less than 80 amps.
+
+.. "Refueling infrastructure" means a unit of fueling infrastructure that supplies hydrogen for the resupply of hydrogen fuel cell electric vehicles.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1287-S2.SL.pdf?cite=2021%20c%20300%20§%202[2021 c 300 § 2]; ]
 

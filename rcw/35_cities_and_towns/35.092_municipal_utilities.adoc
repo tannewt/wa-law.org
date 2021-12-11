@@ -40,7 +40,7 @@ Pay back shall be in the form of incremental additions to the utility bill, bill
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2677.SL.pdf?cite=2010%201st%20sp.s.%20c%205%20§%201[2010 1st sp.s. c 5 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c421.pdf?cite=1989%20c%20421%20§%203[1989 c 421 § 3]; ]
 
-== 35.92.020 - Authority to acquire and operate sewerage and solid waste handling systems, plants, sites, or facilities—Classification of services and facilities for rates—Assistance for low-income persons.
+== 35.92.020 - Authority to acquire and operate sewerage and solid waste handling systems, plants, sites, or facilities—Classification of services and facilities for rates—Assistance for low-income persons. (Effective until January 1, 2022.)
 . A city or town may construct, condemn and purchase, purchase, acquire, add to, alter, maintain, and operate systems, plants, sites, or other facilities of sewerage as defined in RCW 35.67.010, or solid waste handling as defined by RCW 70A.205.015. A city or town shall have full authority to manage, regulate, operate, control, and, except as provided in subsection (3) of this section, to fix the price of service and facilities of those systems, plants, sites, or other facilities within and without the limits of the city or town.
 
 . Subject to subsection (3) of this section, the rates charged shall be uniform for the same class of customers or service and facilities. In classifying customers served or service and facilities furnished by a system or systems of sewerage, the legislative authority of the city or town may in its discretion consider any or all of the following factors:
@@ -345,12 +345,34 @@ Such refusal shall be conclusive unless appeal therefrom to the superior court o
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c220.pdf?cite=1971%20ex.s.%20c%20220%20§%201[1971 ex.s. c 220 § 1]; ]
 
-== 35.92.355 - Energy conservation—Legislative findings.
+== 35.92.355 - Energy conservation—Legislative findings—Tree plantings.
 The conservation of energy in all forms and by every possible means is found and declared to be a public purpose of highest priority. The legislature further finds and declares that all municipal corporations, quasi municipal corporations, and other political subdivisions of the state which are engaged in the generation, sale, or distribution of energy should be granted the authority to develop and carry out programs which will conserve resources, reduce waste, and encourage more efficient use of energy by consumers.
 
-In order to establish the most effective statewide program for energy conservation, the legislature hereby encourages any company, corporation, or association engaged in selling or furnishing utility services to assist their customers in the acquisition and installation of materials and equipment, for compensation or otherwise, for the conservation or more efficient use of energy. The use of appropriate tree plantings for energy conservation is encouraged as part of these programs.
+In order to establish the most effective statewide program for energy conservation, the legislature hereby encourages any company, corporation, or association engaged in selling or furnishing utility services to assist their customers in the acquisition and installation of materials and equipment, for compensation or otherwise, for the conservation or more efficient use of energy including, but not limited to, materials and equipment installed as part of a utility cool roof program. The use of appropriate tree plantings for energy conservation is highly encouraged as part of these programs. It is the policy of the state of Washington that any tree planting program engaged in by a municipal utility where energy reduction is a goal as part of a broader energy conservation program under this section should accomplish the following:
 
-[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5159-S.SL.pdf?cite=1993%20c%20204%20§%205[1993 c 204 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c239.pdf?cite=1979%20ex.s.%20c%20239%20§%201[1979 ex.s. c 239 § 1]; ]
+. Reduce the peak-load demand for electricity in residential and commercial business areas during the summer months through direct shading of buildings provided by strategically planted trees;
+
+. Reduce wintertime demand for energy in residential areas by blocking cold winds from reaching homes, which lowers interior temperatures and drives heating demand;
+
+. Protect public health by removing harmful pollution from the air and prioritize in communities with environmental health disparities;
+
+. Utilize the natural photosynthetic and transpiration process of trees to lower ambient temperatures and absorb carbon dioxide;
+
+. Lower electric bills for residential and commercial business ratepayers by limiting electricity consumption without reducing benefits;
+
+. Relieve financial and demand pressure on the utility that stems from large peak-load electricity demand;
+
+. Protect water quality and public health by reducing and cooling stormwater runoff and keeping harmful pollutants from entering waterways, with special attention given to waterways vital for the preservation of threatened and endangered salmon;
+
+. Ensure that trees are planted in locations that limit the amount of public funding needed to maintain public and electric infrastructure;
+
+. Measure program performance in terms of the estimated present value benefit per tree planted and equitable and accessible community engagement consistent with the department of health's environmental health disparities map recommendations 12 and 13, and with the community engagement plan guidance in appendix C of the final report of the environmental justice task force established under chapter 415, Laws of 2019;
+
+. Give special consideration to achieving environmental justice in goals and policies, avoid creating or worsening environmental health disparities, and make use of the department of health's environmental health disparities map to help guide engagement and actions; and
+
+. Coordinate with the department of natural resources urban and community forestry program's efforts to identify areas of need related to urban tree canopy and to provide technical assistance and capacity building to encourage urban tree canopy.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1114-S.SL.pdf?cite=2021%20c%2011%20§%202[2021 c 11 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5159-S.SL.pdf?cite=1993%20c%20204%20§%205[1993 c 204 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c239.pdf?cite=1979%20ex.s.%20c%20239%20§%201[1979 ex.s. c 239 § 1]; ]
 
 == 35.92.360 - Energy conservation plan—Financing authorized for energy conservation projects in structures or equipment—Limitations.
 . Any city or town engaged in the generation, sale, or distribution of energy is hereby authorized, within limits established by the Constitution of the state of Washington, to assist the owners of structures or equipment in financing the acquisition and installation of materials and equipment, for compensation or otherwise, for the conservation or more efficient use of energy in such structures or equipment pursuant to an energy conservation plan adopted by the city or town if the cost per unit of energy saved or produced by the use of such materials and equipment is less than the cost per unit of energy produced by the next least costly new energy resource which the city or town could acquire to meet future demand. Any financing authorized under this chapter shall only be used for conservation purposes in existing structures, and such financing shall not be used for any purpose which results in a conversion from one energy source to another. For the purposes of this section, "conservation purposes in existing structures" may include projects to allow a municipal electric utility's customers to generate all or a portion of their own electricity through the on-site installation of a distributed electricity generation system that uses as its fuel solar, wind, geothermal, or hydropower, or other renewable resource that is available on-site and not from a commercial source. Such projects shall not be considered "a conversion from one energy source to another" which is limited to the change or substitution of one commercial energy supplier for another commercial energy supplier. Except where otherwise authorized, such assistance shall be limited to:
@@ -383,20 +405,22 @@ Whenever a city or town waives or delays collection of tap-in charges, connectio
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c150.pdf?cite=1980%20c%20150%20§%201[1980 c 150 § 1]; ]
 
 == 35.92.390 - Municipal utilities encouraged to provide customers with landscaping information and to request voluntary donations for urban forestry.
-. Municipal utilities under this chapter are encouraged to provide information to their customers regarding landscaping that includes tree planting for energy conservation.
+. Municipal utilities under this chapter are highly encouraged to provide information to their customers regarding landscaping that includes tree planting for energy conservation.
 
 . [Empty]
-.. Municipal utilities under this chapter are encouraged to request voluntary donations from their customers for the purposes of urban forestry. The request may be in the form of a check-off on the billing statement or other form of request for a voluntary donation.
+.. Municipal utilities under this chapter are highly encouraged to request voluntary donations from their customers for the purposes of urban forestry. The request may be in the form of a check-off on the billing statement or other form of request for a voluntary donation.
 
 .. Voluntary donations collected by municipal utilities under this section may be used by the municipal utility to:
 
-... Support the development and implementation of evergreen community ordinances, as that term is defined in RCW 35.105.010, for cities, towns, or counties within their service areas; or
+... Support the development and implementation of urban forestry ordinances, as that term is defined in RCW 76.15.010, for cities, towns, or counties within their service areas;
 
-... Complete projects consistent with the model evergreen community management plans and ordinances developed under RCW 35.105.050.
+... Complete projects consistent with the urban forestry management plans and ordinances developed under RCW 76.15.090; or
+
+... Fund a tree planting program for energy conservation that accomplishes the goals established under RCW 35.92.355.
 
 .. Donations received under this section do not contribute to the gross income of a light and power business or gas distribution business under chapter 82.16 RCW.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2844-S2.SL.pdf?cite=2008%20c%20299%20§%2019[2008 c 299 § 19]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5159-S.SL.pdf?cite=1993%20c%20204%20§%202[1993 c 204 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1216-S2.SL.pdf?cite=2021%20c%20209%20§%2012[2021 c 209 § 12]; http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1114-S.SL.pdf?cite=2021%20c%2011%20§%203[2021 c 11 § 3]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2844-S2.SL.pdf?cite=2008%20c%20299%20§%2019[2008 c 299 § 19]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5159-S.SL.pdf?cite=1993%20c%20204%20§%202[1993 c 204 § 2]; ]
 
 == 35.92.395 - Voluntary donations for purpose of supporting hunger programs.
 . Municipal utilities under this chapter may request voluntary donations from their customers for the purpose of supporting hunger programs.
@@ -452,7 +476,7 @@ In addition to any other authority provided by law, municipal utilities are auth
 
 .. On regular billing statements provided electronically or in written form;
 
-.. On the city or town's web site, if the city or town provides written notice to customers or taxpayers that such information is available on its web site; or
+.. On the city or town's website, if the city or town provides written notice to customers or taxpayers that such information is available on its website; or
 
 .. Through a billing insert, mailer, or other written or electronic communication provided to customers or taxpayers on either an annual basis or within thirty days of the effective date of any subsequent tax rate change.
 

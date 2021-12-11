@@ -164,7 +164,7 @@ The state's public and private institutions of higher education offering teacher
 
 . The plans required under subsection (1) of this section must be submitted to the Washington professional educator standards board and updated by July 1st every even-numbered year.
 
-. The Washington professional educator standards board shall post the plans and updates required under this section on its web site.
+. The Washington professional educator standards board shall post the plans and updates required under this section on its website.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1139-S2.SL.pdf?cite=2019%20c%20295%20§%20202[2019 c 295 § 202]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6455-S2.SL.pdf?cite=2016%20c%20233%20§%2010[2016 c 233 § 10]; ]
 
@@ -176,11 +176,11 @@ The state's public and private institutions of higher education offering teacher
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1139-S2.SL.pdf?cite=2019%20c%20295%20§%20205[2019 c 295 § 205]; ]
 
 == 28B.10.035 - Concurrent enrollment program accreditation.
-. To establish a uniform standard by which concurrent enrollment programs and professional development activities may be measured, any college or university offering concurrent enrollment program courses at a public high school, or college in the high school programs under RCW 28A.600.290, must receive accreditation by a national accrediting body for concurrent enrollment by the 2027-28 school year.
+. To establish a uniform standard by which concurrent enrollment programs and professional development activities may be measured, any college or university offering concurrent enrollment program courses at a public high school, or college in the high school programs, must receive accreditation by a national accrediting body for concurrent enrollment by the 2027-28 school year.
 
-. Any college or university engaged in concurrent enrollment program courses at a public high school, or college in the high school programs under RCW 28A.600.290, during or before the 2019-20 academic year that are not accredited by a national accrediting body for concurrent enrollment must continue to meet the same quality and eligibility standards and obtain approval in a manner consistent with the procedure established by rules adopted under RCW 28A.600.290 for the college in the high school program until the program is accredited by a national accrediting body for concurrent enrollment.
+. Any college or university engaged in concurrent enrollment program courses at a public high school, or college in the high school programs, during or before the 2019-20 academic year that are not accredited by a national accrediting body for concurrent enrollment must continue to meet the same quality and eligibility standards and obtain approval in a manner consistent with the procedure established by rules adopted for the college in the high school program until the program is accredited by a national accrediting body for concurrent enrollment.
 
-. After the 2027-28 school year, any college or university with concurrent enrollment program courses in place at a public high school, or college in the high school programs under RCW 28A.600.290, during or before the 2019-20 academic year that have not been accredited in accordance with subsection (1) of this section or do not have an application pending further action by the accrediting body under subsection (1) of this section may not offer a concurrent enrollment program course at a public high school or college in the high school program under RCW 28A.600.290.
+. After the 2027-28 school year, any college or university with concurrent enrollment program courses in place at a public high school, or college in the high school programs, during or before the 2019-20 academic year that have not been accredited in accordance with subsection (1) of this section or do not have an application pending further action by the accrediting body under subsection (1) of this section may not offer a concurrent enrollment program course at a public high school or college in the high school program.
 
 . New college and university concurrent enrollment program courses that are implemented after the 2019-20 academic year have seven years from the beginning of the first term of classes to submit an application for accreditation for review by a national accrediting body for concurrent enrollment to comply with this section.
 
@@ -188,11 +188,13 @@ The state's public and private institutions of higher education offering teacher
 
 . The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
 
+.. "College in the high school program" is a program that meets the requirements of RCW 28A.600.287.
+
 .. "Concurrent enrollment program" means a partnership between K-12 schools and postsecondary education institutions through which credit-bearing college courses offered by public or private institutions of higher education and taught by appropriately qualified high school teachers are taken in high school by high school students who have not yet received the credits required for the award of a high school diploma, and for which earned credits are recorded on a college or university transcript. "Concurrent enrollment program" does not include programs under RCW 28B.50.531 or the running start program.
 
 .. "Public high school" means a high school that is a public school as defined in RCW 28A.150.010.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1734-S.SL.pdf?cite=2019%20c%20272%20§%201[2019 c 272 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1302-S.SL.pdf?cite=2021%20c%2071%20§%205[2021 c 71 § 5]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1734-S.SL.pdf?cite=2019%20c%20272%20§%201[2019 c 272 § 1]; ]
 
 == 28B.10.037 - Student expression in school-sponsored media.
 . Students at institutions of higher education have the right to exercise freedom of speech and of the press in school-sponsored media, whether or not the media are supported financially by the school or by use of school facilities, or are produced in conjunction with a class. All school-sponsored media produced primarily by students at an institution of higher education are public forums for expression by the student journalists and student editors at the particular institution. Student media, whether school-sponsored or nonschool sponsored, are not subject to mandatory prior review by school officials.
@@ -258,7 +260,7 @@ Except as the legislature shall otherwise specifically direct, the boards of reg
 
 . Each institution of higher education, in designing its certificate, technical degree program, two-year academic transfer program, or first-year student and sophomore courses of a baccalaureate program or baccalaureate degree, must recognize the equivalencies of at least one year of course credit and maximize the application of the credits toward lower division general education requirements that can be earned through successfully demonstrating proficiency on examinations, including but not limited to advanced placement and international baccalaureate examinations. The successful completion of the examination and the award of credit shall be noted on the student's college transcript.
 
-. Each institution of higher education must clearly include in its admissions materials and on its web site the credits or the institution's list of postsecondary courses that can be fulfilled by proficiency examinations or demonstrated competencies and the agreed-upon examination scores and demonstrated competencies that qualify for postsecondary credit. Each institution must provide the information to the student achievement council and state board for community and technical colleges in a form that the superintendent of public instruction is able to distribute to school districts.
+. Each institution of higher education must clearly include in its admissions materials and on its website the credits or the institution's list of postsecondary courses that can be fulfilled by proficiency examinations or demonstrated competencies and the agreed-upon examination scores and demonstrated competencies that qualify for postsecondary credit. Each institution must provide the information to the student achievement council and state board for community and technical colleges in a form that the superintendent of public instruction is able to distribute to school districts.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5077-S.SL.pdf?cite=2013%20c%2023%20§%2052[2013 c 23 § 52]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2483-S2.SL.pdf?cite=2012%20c%20229%20§%20510[2012 c 229 § 510]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5974.SL.pdf?cite=2011%202nd%20sp.s.%20c%203%20§%201[2011 2nd sp.s. c 3 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1808-S2.SL.pdf?cite=2011%20c%2077%20§%203[2011 c 77 § 3]; ]
 
@@ -267,7 +269,7 @@ Except as the legislature shall otherwise specifically direct, the boards of reg
 
 . Each institution of higher education must create a process for retroactively awarding international baccalaureate exam undergraduate college credits under the terms of this section to students who first enrolled in the institution of higher education in the 2018-19 academic year.
 
-. Credit policies regarding all advanced placement and international baccalaureate exams must be posted on campus web sites effective for the 2019 fall academic term. Credit policies regarding all Cambridge international exams must be posted on campus web sites effective for the 2020 fall academic term. If an institution of higher education is unable to award a general education course equivalency, the student may request in writing an evidence-based reason as to why general education course equivalency cannot be granted. Institutions of higher education must maintain web sites regarding their advanced placement, international baccalaureate, and Cambridge international policies in a publicly accessible way. The institutions of higher education must conduct biennial reviews of their advanced placement, international baccalaureate, and Cambridge international credit policies and report noncompliance to the appropriate committees of the legislature by November 1st each biennium beginning November 1, 2019.
+. Credit policies regarding all advanced placement and international baccalaureate exams must be posted on campus websites effective for the 2019 fall academic term. Credit policies regarding all Cambridge international exams must be posted on campus websites effective for the 2020 fall academic term. If an institution of higher education is unable to award a general education course equivalency, the student may request in writing an evidence-based reason as to why general education course equivalency cannot be granted. Institutions of higher education must maintain websites regarding their advanced placement, international baccalaureate, and Cambridge international policies in a publicly accessible way. The institutions of higher education must conduct biennial reviews of their advanced placement, international baccalaureate, and Cambridge international credit policies and report noncompliance to the appropriate committees of the legislature by November 1st each biennium beginning November 1, 2019.
 
 . The institutions of higher education must provide an update to the joint legislative audit and review committee on their credit awarding policies by December 31, 2019.
 
@@ -328,6 +330,75 @@ Whenever a course is authorized to be offered and taught by this code, in any of
 The University of Washington, Washington State University, Central Washington University, Eastern Washington University, Western Washington University, and The Evergreen State College are each authorized to train teachers and other personnel for whom teaching certificates or special credentials prescribed by the Washington professional educator standards board are required, for any grade, level, department, or position of the public schools of the state.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5732-S.SL.pdf?cite=2005%20c%20497%20§%20217[2005 c 497 § 217]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6407.SL.pdf?cite=2004%20c%2060%20§%201[2004 c 60 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c169.pdf?cite=1977%20ex.s.%20c%20169%20§%2010[1977 ex.s. c 169 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c223.pdf?cite=1969%20ex.s.%20c%20223%20§%2028B.10.140[1969 ex.s. c 223 § 28B.10.140]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c47.pdf?cite=1967%20c%2047%20§%2017[1967 c 47 § 17]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1949c34.pdf?cite=1949%20c%2034%20§%201[1949 c 34 § 1]; Rem. Supp. 1949 § 4618-3; ]
+
+== 28B.10.145 - Diversity, equity, inclusion, and antiracism—Professional development.
+. Each institution of higher education must:
+
+.. Provide professional development, either existing or new, focused on diversity, equity, inclusion, and antiracism for faculty and staff. This program must be developed in partnership with the institution's administration, faculty, staff, and student leadership groups. Efforts must be made to ensure the program is developed and delivered by individuals with innate and acquired experience and expertise in the field of diversity, equity, and inclusion. The content framework for professional development must be posted on each institution's public website for parents and community members. The professional development must begin in the 2022-23 academic year;
+
+.. Create an evaluation for professional development participants. The evaluations must, at minimum, capture a participant's level of satisfaction with the professional development opportunity, the degree to which the learning objectives were achieved, and how the knowledge gained may be applied to their work;
+
+.. [Empty]
+... Share completed evaluations of program participants annually with either the state board for community and technical colleges or an organization representing the presidents of the public four-year institutions of higher education, depending on the institution; and (ii) submit curriculum and other pertinent information regarding the program beginning July 1, 2023, and, subsequently, if there is a meaningful change or by request of the reporting entity.
+
+. The purpose of each professional development program curriculum must be rooted in eliminating structural racism against all races and promoting diversity, equity, and inclusion while improving academic, social, and health and wellness outcomes for students from historically marginalized communities. The program must also include elements that focus on commonalities and humanity. Institutions of higher education may further develop a curriculum that is reflective of the needs of the campus community.
+
+. [Empty]
+.. Beginning with the 2022-23 academic year, every new faculty and staff member at an institution of higher education must participate in the program, regardless of whether they are a full-time or part-time employee. All faculty and staff participating in the professional development program must complete an evaluation. Other faculty and staff may participate in the professional development program as needed or required by their institution. Each institution must develop a goal of at least 80 percent of their total faculty and staff completing the professional development program every two years and report on their goal's progress in the report established in RCW 28B.10.151. Each institution may determine how to show progress towards their goal. Part-time faculty and staff who are employed at more than one institution of higher education are only required to complete the professional development program at one institution if they provide proof of completion to their other institution of higher education employers to receive credit for participation.
+
+.. Beginning with the 2024-25 academic year, 35 percent of tenured faculty and 35 percent of administrators at each institution of higher education must complete the professional development program every two years, regardless of whether they are a full-time or part-time employee.
+
+. The state board for community and technical colleges and an organization representing the presidents of the public four-year institutions of higher education may conduct further analysis of the professional development programs through participant evaluation data, use of focus groups, or other methods to determine promising practices. The state board for community and technical colleges and an organization representing the presidents of the public four-year institutions of higher education must post a list of model standards and promising practices for professional development on their public websites for parents and community members.
+
+. The institutions of higher education shall adopt rules as necessary or appropriate for effecting the provisions of this section, not in conflict with this chapter, and in accordance with the provisions of chapter 34.05 RCW, the administrative procedure act.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5227-S2.SL.pdf?cite=2021%20c%20275%20§%202[2021 c 275 § 2]; ]
+
+== 28B.10.147 - Diversity, equity, inclusion, and antiracism—Campus climate assessment.
+. [Empty]
+.. The institutions of higher education as defined in RCW 28B.10.016 shall each conduct a campus climate assessment to understand the current state of diversity, equity, and inclusion in the learning, working, and living environment on campus for students, faculty, and staff. The assessment shall occur, at minimum, every five years. Institutions of higher education shall use the results of the campus climate assessment to inform the professional development, established in RCW 28B.10.145, and program, established in RCW 28B.10.149. Institutions may use an existing campus climate assessment to meet this requirement.
+
+.. The state board for community and technical colleges shall develop a model campus climate assessment for the community and technical colleges that the colleges may use or modify to meet the requirements of this section.
+
+. The design of an existing or new campus climate assessment must involve, at minimum, students, college and university diversity officers, faculty, and staff. The campus climate assessment must include, at minimum, an evaluation of student and employee attitudes and awareness of campus diversity, equity, and inclusion issues. The campus climate assessment may also include questions evaluating the prevalence of discrimination, sexual assault, harassment, and retaliation on and off campus, in addition to student, faculty, and staff knowledge of campus policies and procedures addressing discrimination, sexual assault, harassment, and retaliation. College and university diversity officers and students must be consulted in the development of recommendations.
+
+. Institutions of higher education must, at minimum, conduct annual listening and feedback sessions for diversity, equity, and inclusion for the entire campus community during periods between campus climate assessments. Institutions of higher education must, to the maximum extent practicable, compensate students for their participation in the annual listening and feedback sessions.
+
+. Beginning July 1, 2022, the institutions of higher education shall report findings or progress in completing their campus climate assessment and, when applicable, information on their listening and feedback sessions annually to either the state board for community and technical colleges or an organization representing the presidents of the public four-year institutions of higher education. The institutions of higher education must also publish annually on the institution's public website the results of either the campus climate assessment or listening and feedback sessions.
+
+. The state board for community and technical colleges may require colleges to repeat their campus climate assessment. An organization representing the presidents of the public four-year institutions of higher education may also request state universities, regional universities, and The Evergreen State College to repeat their campus climate assessment.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5227-S2.SL.pdf?cite=2021%20c%20275%20§%203[2021 c 275 § 3]; ]
+
+== 28B.10.149 - Diversity, equity, inclusion, and antiracism—Program for students.
+. Each institution of higher education must:
+
+.. Provide a program, either existing or new, on diversity, equity, inclusion, and antiracism to students beginning with the 2024-25 academic year. Institutions of higher education may expand the focus of its program to reflect the needs of the campus community. This program must be developed in partnership with the institution's administration, faculty, staff, and student leadership groups. Efforts should be made to ensure the program is developed and delivered by individuals with innate and acquired experience and expertise in the field of diversity, equity, and inclusion. The content framework for each program must be posted on each institution's public website for parents and community members; and
+
+.. Create an evaluation for program participants. The evaluation must, at minimum, capture a participant's level of satisfaction with the program and how they will apply the program to their education.
+
+. The purpose of each program must be rooted in eliminating structural racism against all races and promoting diversity, equity, and inclusion while improving outcomes for students from historically marginalized communities. The program must also include elements that focus on commonalities and humanity. Institutions of higher education may further develop a curriculum that is reflective of the needs of the campus community.
+
+. During the 2024-25 academic year, all degree-seeking students at institutions of higher education must participate in the program, regardless of whether they are a full-time or part-time student. Beginning with the 2025-26 academic year, the program is only required for degree-seeking students who are new or have transferred to the institution and have not yet participated in a required diversity, equity, inclusion, and antiracism program at an institution of higher education. Students must be allowed to opt out of participation in the program if they self-attest to taking a diversity, equity, inclusion, and antiracism training at an institution of higher education within the previous five years.
+
+. The state board for community and technical colleges and an organization representing the presidents of the public four-year institutions of higher education may conduct further analysis of the programs, through participant evaluation data, use of focus groups, or other methods to determine promising practices. The state board for community and technical colleges and an organization representing the presidents of the public four-year institutions of higher education must post a list of model standards and promising practices for programs on their public websites for parents and community members.
+
+. The institutions of higher education shall adopt rules as necessary or appropriate for effecting the provisions of this section, not in conflict with this chapter, and in accordance with the provisions of chapter 34.05 RCW, the administrative procedure act.
+
+. For purposes of this section, "student" or "students" does not include nonmatriculated students.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5227-S2.SL.pdf?cite=2021%20c%20275%20§%204[2021 c 275 § 4]; ]
+
+== 28B.10.151 - Diversity, equity, inclusion, and antiracism—Reports.
+By December 31, 2024, and biennially thereafter, the state board for community and technical colleges and an organization representing the presidents of the public four-year institutions of higher education shall each submit a report to the higher education committees of the legislature in accordance with RCW 43.01.036 for their respective institutions of higher education. The reports must include the following:
+
+. Information on the professional development programs implemented by each institution of higher education, including updates on progress towards meeting the goal outlined in section 1, chapter 275, Laws of 2021;
+
+. A summary of results of the campus climate assessments and other relevant information received by the institutions of higher education; and
+
+. By December 31, 2026, and biennially thereafter, the reports must also include information on the student diversity, equity, inclusion, and antiracism programs implemented by each institution of higher education.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5227-S2.SL.pdf?cite=2021%20c%20275%20§%205[2021 c 275 § 5]; ]
 
 == 28B.10.170 - College and university fees.
 See chapter 28B.15 RCW.
@@ -406,7 +477,7 @@ See chapter 26.30 RCW.
 
 . The notification provided under subsection (2) of this section must include a statement that the estimates and ranges provided are general in nature and not meant as a guarantee or promise of the actual projected amount. It must also include a statement that a variety of repayment plans are available for federal student loans that may limit the monthly repayment amount based on income.
 
-. The notification must include information about how to access resources for student education loan borrowers provided by federal or state agencies, such as a student education loan debt hotline and web site or student loan advocate, federal student loan repayment calculator, complaint portals, or other available resources. This information must include contact information for the student loan advocate established pursuant to RCW 28B.77.007.
+. The notification must include information about how to access resources for student education loan borrowers provided by federal or state agencies, such as a student education loan debt hotline and website or student loan advocate, federal student loan repayment calculator, complaint portals, or other available resources. This information must include contact information for the student loan advocate established pursuant to RCW 28B.77.007.
 
 . An educational institution must provide the notification required in subsection (2) of this section via email. In addition, the educational institution may provide the notification in writing, in an electronic format, or in person.
 
@@ -427,11 +498,11 @@ See chapter 26.30 RCW.
 
 . The postsecondary institution must:
 
-.. Provide the student, in a readily noticeable way and a reasonably understandable format, a summary of the key features associated with the debit card, access device, or financial account associated with the student's financial aid disbursement and the commonly assessed fees that the student may incur, such as surcharges if a student uses an automated teller machine that is not affiliated with the third-party servicer or financial institution issuing the disbursement. The notice may be provided by a link to a public web site;
+.. Provide the student, in a readily noticeable way and a reasonably understandable format, a summary of the key features associated with the debit card, access device, or financial account associated with the student's financial aid disbursement and the commonly assessed fees that the student may incur, such as surcharges if a student uses an automated teller machine that is not affiliated with the third-party servicer or financial institution issuing the disbursement. The notice may be provided by a link to a public website;
 
 .. Provide the student with information on the location of every surcharge-free automated teller machine located on campus that the student may use to access the student's financial aid disbursement funds without incurring a fee and whether the machines are accessible twenty-four hours a day;
 
-.. Provide the student with full disclosure of the contract the postsecondary institution has entered into with a third-party servicer or financial institution in the disbursement of student financial aid balances. The disclosure may be provided by a link to a public web site;
+.. Provide the student with full disclosure of the contract the postsecondary institution has entered into with a third-party servicer or financial institution in the disbursement of student financial aid balances. The disclosure may be provided by a link to a public website;
 
 .. Provide easily understandable and prominent notice to the student of the student's rights as a consumer and notice of a complaint process for students to file complaints with the postsecondary institution if the student is being charged excessive fees or is unable to access his or her funds without incurring fees;
 
@@ -957,14 +1028,14 @@ Unless the context clearly indicates otherwise, the words used in RCW 28B.10.580
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c43.pdf?cite=1979%20c%2043%20§%203[1979 c 43 § 3]; ]
 
-== 28B.10.590 - Course materials—Cost savings.
+== 28B.10.590 - Course materials—Cost savings—Online course descriptions.
 . The boards of regents of the state universities, the boards of trustees of the regional universities and The Evergreen State College, and the boards of trustees of each community and technical college district, in collaboration with affiliated bookstores and student and faculty representatives, shall adopt rules requiring that:
 
 .. Affiliated bookstores:
 
 ... Provide students the option of purchasing materials that are unbundled when possible, disclose to faculty and staff the costs to students of purchasing materials, and disclose publicly how new editions vary from previous editions;
 
-... Actively promote and publicize book buy-back programs; 
+... Actively promote and publicize book buy-back programs;
 
 ... Disclose retail costs for course materials on a per course basis to faculty and staff and make this information publicly available; and
 
@@ -972,13 +1043,17 @@ Unless the context clearly indicates otherwise, the words used in RCW 28B.10.580
 
 .. Faculty and staff members consider the least costly practices in assigning course materials, such as adopting the least expensive edition available, adopting free, open textbooks when available, and working with college librarians to put together collections of free online web and library resources, when educational content is comparable as determined by the faculty.
 
+. The state universities, the regional universities, and The Evergreen State College shall each designate in their online course descriptions used by students for registration purposes whether a course uses open educational resources or low-cost required instructional materials. If a course's required textbooks and course materials are not determined prior to registration due to an unassigned faculty member, the textbooks' and course materials' low-cost or open educational resource designation must be provided as soon as feasible after a faculty member is assigned.
+
 . As used in this section:
 
 .. "Materials" means any supplies or texts required or recommended by faculty or staff for a given course.
 
 .. "Bundled" means a group of objects joined together by packaging or required to be purchased as an indivisible unit.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1025-S2.SL.pdf?cite=2009%20c%20241%20§%201[2009 c 241 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1224.SL.pdf?cite=2007%20c%20457%20§%201[2007 c 457 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/3087-S.SL.pdf?cite=2006%20c%2081%20§%202[2006 c 81 § 2]; ]
+.. "Low-cost" means the entire course's required instructional materials equal $50 or less in 2021 dollars. The institutions of higher education shall adjust the dollar value of low-cost course materials at least once every five years to reflect the percentage change in the consumer price index over the preceding five years.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1119.SL.pdf?cite=2021%20c%20152%20§%201[2021 c 152 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1025-S2.SL.pdf?cite=2009%20c%20241%20§%201[2009 c 241 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1224.SL.pdf?cite=2007%20c%20457%20§%201[2007 c 457 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/3087-S.SL.pdf?cite=2006%20c%2081%20§%202[2006 c 81 § 2]; ]
 
 == 28B.10.592 - College textbook information—Publishers' duties.
 . Each publisher of college textbooks shall make immediately available to faculty of institutions of higher education:
@@ -1045,7 +1120,7 @@ The boards of regents of the state universities may expend funds available to sa
 
 .. Publicize their commercialization processes and include an explanation of how to access commercialization resources at the universities;
 
-.. Develop mechanisms for pairing researchers, entrepreneurs, and investors. Such mechanisms are to include, but are not limited to, developing guides, web sites, or workshops on funding opportunities, on entrepreneurship and the process of starting a company, and on university-industry relations;
+.. Develop mechanisms for pairing researchers, entrepreneurs, and investors. Such mechanisms are to include, but are not limited to, developing guides, websites, or workshops on funding opportunities, on entrepreneurship and the process of starting a company, and on university-industry relations;
 
 .. Host events to connect researchers to entrepreneurs, investors, and individuals from the state's technology-based industries; and
 
@@ -1129,7 +1204,7 @@ For students who enrolled in a precollege class within three years of graduating
 [ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1336-S.SL.pdf?cite=1995%20c%20310%20§%203[1995 c 310 § 3]; ]
 
 == 28B.10.686 - Precollege coursework—When required—Use of multiple measures—Posting course placement options.
-State universities, regional universities, and The Evergreen State College may use multiple measures to determine whether a student must enroll in a precollege course including, but not limited to, placement tests, the SAT, high school transcripts, college transcripts, or initial class performance. Additionally, state universities, regional universities, and The Evergreen State College must post all the available options for course placement on their web sites and in their admissions materials.
+State universities, regional universities, and The Evergreen State College may use multiple measures to determine whether a student must enroll in a precollege course including, but not limited to, placement tests, the SAT, high school transcripts, college transcripts, or initial class performance. Additionally, state universities, regional universities, and The Evergreen State College must post all the available options for course placement on their websites and in their admissions materials.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5122.SL.pdf?cite=2015%20c%2083%20§%201[2015 c 83 § 1]; ]
 
@@ -1174,11 +1249,39 @@ Each institution of higher education as defined in RCW 28B.10.016 may enter into
 
 . Each institution of higher education must develop a minimum of one degree within the arts and sciences disciplines that can be completed within the equivalent of ninety quarter upper-division credits by any student who enters an institution of higher education with junior status and lower division general education requirements completed.
 
-. Each four-year institution of higher education must publish a list of recommended courses for each academic major designed to help students who are planning to transfer design their course of study. Publication of the list of courses must be easily identified and accessible on the institution's web site.
+. Each four-year institution of higher education must publish a list of recommended courses for each academic major designed to help students who are planning to transfer design their course of study. Publication of the list of courses must be easily identified and accessible on the institution's website.
 
 . The requirements to publish a list of recommended courses for each academic major under this section does not apply if an institution does not require courses or majors to meet specific requirements but generally applies credits earned towards degree requirements.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1795-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2010%20§%2011[2011 1st sp.s. c 10 § 11]; ]
+
+== 28B.10.698 - Schools of medicine—Health equity curriculum.
+. Within existing resources, by January 1, 2023, the school of medicine at the University of Washington, established under chapter 28B.20 RCW, and the school of medicine at Washington State University, established under chapter 28B.30 RCW, shall each develop curriculum on health equity for medical students. The curriculum must teach attitudes, knowledge, and skills that enable students to care effectively for patients from diverse cultures, groups, and communities. The objectives of the curriculum must be to provide tools for eliminating structural racism in health care systems and to build cultural safety. A person may not graduate with a degree from either medical school without completing a course, or courses, that include curriculum on health equity for medical students.
+
+. Course topics on health equity may include, but are not limited to:
+
+.. Strategies for recognizing patterns of health care disparities and eliminating factors that influence them;
+
+.. Intercultural communication skills training, including how to work effectively with an interpreter and how communication styles differ across cultures;
+
+.. Historical examples of medical and public health racism and how racism may manifest itself in a student's field of medicine;
+
+.. Cultural safety training that requires examination of each student's culture and potential impacts on clinical interactions and health care service delivery;
+
+.. Structural competency training that gives attention to forces influencing health outcomes at levels above individual interactions;
+
+.. Methods of evaluating health care systems; and
+
+.. Implicit bias training to identify strategies to reduce bias during assessment and diagnosis.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5228-S.SL.pdf?cite=2021%20c%2096%20§%202[2021 c 96 § 2]; ]
+
+== 28B.10.699 - Schools of medicine—Underrepresented students—Report.
+. Within existing resources, by January 1, 2022, the school of medicine at the University of Washington, established under chapter 28B.20 RCW, and the school of medicine at Washington State University, established under chapter 28B.30 RCW, shall each develop a goal focused on increasing the number of underrepresented students at each school of medicine, guided by the state of Washington's need for physicians from diverse racial and ethnic backgrounds and each school's predominant equity goals. In developing the goal, special consideration may be given to students attending the school of medicine at the University of Washington as a part of a regional partnership with other states. Each initial goal shall be set for January 1, 2025.
+
+. The school of medicine at the University of Washington and the school of medicine at Washington State University shall report progress towards their goal on an annual basis through their public websites.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5228-S.SL.pdf?cite=2021%20c%2096%20§%203[2021 c 96 § 3]; ]
 
 == 28B.10.700 - Physical education in curriculum.
 The *state board for community college education, the boards of trustees of the regional universities and of The Evergreen State College, and the boards of regents of the state universities, with appreciation of the legislature's desire to emphasize physical education courses in their respective institutions, shall provide for the same, being cognizant of legislative guide lines put forth in RCW 28A.230.050 relating to physical education courses in high schools.
@@ -1522,7 +1625,7 @@ If a state university or foundation derives income from the commercialization of
 .. Information demonstrating the prospective owner's intent to obtain legal moorage following the transfer, in the manner determined by the institution of higher education.
 
 . [Empty]
-.. The institution of higher education shall remove any containers or other materials that are not fixed to the vessel and contain hazardous substances, as defined under *RCW 70.105D.020.
+.. The institution of higher education shall remove any containers or other materials that are not fixed to the vessel and contain hazardous substances, as defined under RCW 70A.305.020.
 
 .. However, the institution of higher education may transfer a vessel with:
 
@@ -1534,7 +1637,7 @@ If a state university or foundation derives income from the commercialization of
 
 . Prior to sale, and unless the vessel has a title or valid marine document, the institution of higher education is required to apply for a certificate of title for the vessel under RCW 88.02.510 and register the vessel under RCW 88.02.550.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1245-S.SL.pdf?cite=2013%20c%20291%20§%2026[2013 c 291 § 26]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2021[2021 c 65 § 21]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1245-S.SL.pdf?cite=2013%20c%20291%20§%2026[2013 c 291 § 26]; ]
 
 == 28B.10.928 - Investment authority—Bonds, warrants, certificates, notes, bankers' acceptances, and commercial paper.
 . The following definitions apply throughout this section unless the context clearly requires otherwise.

@@ -224,7 +224,7 @@ This section shall not be construed as permitting the sale or distribution of an
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c323.pdf?cite=1985%20c%20323%20§%201[1985 c 323 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c136.pdf?cite=1984%20c%20136%20§%201[1984 c 136 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c22.pdf?cite=1980%20c%2022%20§%201[1980 c 22 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c96.pdf?cite=1973%201st%20ex.s.%20c%2096%20§%201[1973 1st ex.s. c 96 § 1]; ]
 
-== 66.44.318 - Employees or interns aged eighteen to twenty-one handling, transporting, and possessing beer and wine.
+== 66.44.318 - Employees or interns aged eighteen to twenty-one handling, transporting, and possessing beer and wine—Wine production.
 . Except as provided in this section, nothing is construed to permit a nonretail class liquor licensee's employee or intern between the ages of eighteen and twenty-one years to handle, transport, or otherwise possess liquor.
 
 . Licensees holding nonretail class liquor licenses are permitted to allow their employees between the ages of eighteen and twenty-one years to stock, merchandise, and handle liquor on or about the:
@@ -232,6 +232,8 @@ This section shall not be construed as permitting the sale or distribution of an
 .. Nonretail premises if there is an adult twenty-one years of age or older on duty supervising such activities on the premises; and
 
 .. Retail licensee's premises, except between 11:00 p.m. and 4:00 a.m., as long as there is an adult twenty-one years of age or older, employed by the retail licensee, and present at the retail licensee's premises during the activities described in this subsection (2).
+
+. Employees of a domestic winery who are at least age 18 but under 21 years of age may engage in wine production and work in a winery's production facility, so long as there is an adult age 21 years of age or older on duty supervising such activities on the premises. Nothing in this subsection authorizes a winery employee under age 21 to taste, consume, sell, or serve wine or liquor.
 
 . Any act or omission of the nonretail class liquor licensee's employee occurring at or about the retail licensee's premises, which violates any provision of this title, is the sole responsibility of the nonretail class liquor licensee.
 
@@ -246,7 +248,7 @@ This section shall not be construed as permitting the sale or distribution of an
 
 .. Any act or omission of the domestic winery's intern occurring at or about the domestic winery's premises, which violates any provision of this title, is the sole responsibility of the domestic winery.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1563.SL.pdf?cite=2019%20c%20112%20§%202[2019 c 112 § 2]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5504.SL.pdf?cite=2015%20c%2033%20§%201[2015 c 33 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1059.SL.pdf?cite=1995%20c%20100%20§%202[1995 c 100 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1289.SL.pdf?cite=2021%20c%20123%20§%201[2021 c 123 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1563.SL.pdf?cite=2019%20c%20112%20§%202[2019 c 112 § 2]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5504.SL.pdf?cite=2015%20c%2033%20§%201[2015 c 33 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1059.SL.pdf?cite=1995%20c%20100%20§%202[1995 c 100 § 2]; ]
 
 == 66.44.325 - Unlawful transfer to minor of age identification.
 Any person who transfers in any manner an identification of age to a minor for the purpose of permitting such minor to obtain alcoholic beverages shall be guilty of a misdemeanor punishable as provided by RCW 9A.20.021, except that a minimum fine of two hundred fifty dollars shall be imposed and any sentence requiring community restitution shall require not fewer than twenty-five hours of community restitution: PROVIDED, That corroborative testimony of a witness other than the minor shall be a condition precedent to conviction.

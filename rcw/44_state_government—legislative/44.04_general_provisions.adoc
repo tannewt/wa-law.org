@@ -132,7 +132,7 @@ The members of the joint transportation committee will receive allowances while 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5513.SL.pdf?cite=2005%20c%20319%20§%2013[2005 c 319 § 13]; ]
 
 == 44.04.320 - Oral history program.
-. The secretary of the senate and the chief clerk of the house of representatives, at the direction of the legislative oral history committee, shall administer and conduct a program to record and document oral histories of current and former members and staff of the Washington state legislature, and other citizens who have participated in the political history of the Washington state legislature. The secretary of the senate and the chief clerk of the house of representatives may contract with independent oral historians or the history departments of the state universities to interview and record oral histories. The manuscripts and publications shall be made available for research and reference through the state archives. The manuscripts, together with current and historical photographs, may be published for distribution to libraries and the general public, and posted on the legislative oral history web site.
+. The secretary of the senate and the chief clerk of the house of representatives, at the direction of the legislative oral history committee, shall administer and conduct a program to record and document oral histories of current and former members and staff of the Washington state legislature, and other citizens who have participated in the political history of the Washington state legislature. The secretary of the senate and the chief clerk of the house of representatives may contract with independent oral historians or the history departments of the state universities to interview and record oral histories. The manuscripts and publications shall be made available for research and reference through the state archives. The manuscripts, together with current and historical photographs, may be published for distribution to libraries and the general public, and posted on the legislative oral history website.
 
 . The oral history of a person who occupied positions, or was staff to a person who occupied positions, in more than one branch of government, shall be conducted by the entity authorized to conduct oral histories of persons in the position last held by the person who is the subject of the oral history. However, the person being interviewed may select the entity he or she wishes to prepare his or her oral history.
 
@@ -259,4 +259,25 @@ The Gina Grant Bull memorial legislative page scholarship account is created in 
 The chief clerk of the house of representatives and the secretary of the senate shall develop and provide a training course for registered lobbyists regarding the legislative code of conduct and any policies related to appropriate conduct adopted by the senate or the house of representatives.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5861-S.SL.pdf?cite=2019%20c%20469%20§%201[2019 c 469 § 1]; ]
+
+== 44.04.400 - Rosa Franklin legislative internship program scholarship.
+The secretary of the senate and the chief clerk of the house of representatives may administer and conduct the Rosa Franklin legislative internship program scholarship to provide resources for Washington students who participate in the legislative internship program of the senate and house of representatives. The scholarship program should provide assistance to students, based on financial need, who are accepted as legislative interns. The program is called the Rosa Franklin legislative internship program scholarship.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5431.SL.pdf?cite=2021%20c%20108%20§%201[2021 c 108 § 1]; ]
+
+== 44.04.405 - Rosa Franklin legislative internship program scholarship—Gifts, grants, conveyances, bequests, devises—Expenditures—Joint rules.
+. The secretary of the senate and the chief clerk of the house of representatives may solicit and accept gifts, grants, conveyances, bequests, and devises of real or personal property, or both, in trust or otherwise, and sell, lease, exchange, or expend these donations or the proceeds, rents, profits, and income from the donations except as limited by the donor's terms. Any legislative member or legislative employee may solicit the same types of contributions for the secretary of the senate and the chief clerk of the house of representatives.
+
+. Moneys received under this section may be used only for establishing and operating the Rosa Franklin legislative internship program scholarship authorized in RCW 44.04.400.
+
+. Moneys received under this section must be deposited in the legislative internship program scholarship account established in RCW 44.04.410.
+
+. The secretary of the senate and the chief clerk of the house of representatives must adopt joint rules to govern and protect the receipt and expenditure of the proceeds.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5431.SL.pdf?cite=2021%20c%20108%20§%202[2021 c 108 § 2]; ]
+
+== 44.04.410 - Rosa Franklin legislative internship program scholarship account.
+The Rosa Franklin legislative internship program scholarship account is created in the custody of the state treasurer. All moneys received under RCW 44.04.405 must be deposited in the account. Expenditures from the account may be made only for the purposes of the Rosa Franklin legislative internship program scholarship created in RCW 44.04.400. Only the secretary of the senate or the chief clerk of the house of representatives or their designee may authorize expenditures from the account. An appropriation is not required for expenditures, but the account is subject to allotment procedures under chapter 43.88 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5431.SL.pdf?cite=2021%20c%20108%20§%203[2021 c 108 § 3]; ]
 

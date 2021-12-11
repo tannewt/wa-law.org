@@ -35,9 +35,14 @@ The definitions in this section apply throughout this chapter unless the context
 
 . "Secretary" means the secretary of the department of health.
 
-. "Supervision" means supervision of procedures permitted pursuant to this chapter by a health care practitioner who is physically present and is immediately available in the facility. The health care practitioner does not need to be present during procedures to withdraw blood, but must be immediately available.
+. [Empty]
+.. "Supervision" means supervision of procedures permitted pursuant to this chapter by a health care practitioner who is physically present and is immediately available in the facility, except as provided in (b) and (c) of this subsection.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1614-S2.SL.pdf?cite=2017%20c%20336%20§%2014[2017 c 336 § 14]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2350.SL.pdf?cite=2016%20c%20124%20§%201[2016 c 124 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6237-S.SL.pdf?cite=2012%20c%20153%20§%202[2012 c 153 § 2]; ]
+.. The health care practitioner does not need to be present during procedures to withdraw blood, but must be immediately available.
+
+.. During a telemedicine visit, supervision over a medical assistant assisting a health care practitioner with the telemedicine visit may be provided through interactive audio and video telemedicine technology.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1378.SL.pdf?cite=2021%20c%2044%20§%201[2021 c 44 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1614-S2.SL.pdf?cite=2017%20c%20336%20§%2014[2017 c 336 § 14]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2350.SL.pdf?cite=2016%20c%20124%20§%201[2016 c 124 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6237-S.SL.pdf?cite=2012%20c%20153%20§%202[2012 c 153 § 2]; ]
 
 == 18.360.020 - Certification or registration required.
 . No person may practice as a medical assistant-certified, medical assistant-hemodialysis technician, medical assistant-phlebotomist, or forensic phlebotomist unless he or she is certified under RCW 18.360.040.

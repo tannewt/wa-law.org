@@ -193,7 +193,7 @@ The authority may assess a fine of up to one thousand dollars per day for failur
 
 . The data in the report must be aggregated and must not reveal information specific to individual health carriers, pharmacy benefit managers, pharmacy services administrative organizations, individual prescription drugs, individual classes of prescription drugs, individual manufacturers, or discount amounts paid in connection with individual prescription drugs.
 
-. Beginning January 1, 2021, and by each January 1st thereafter, the authority must publish the report on its web site.
+. Beginning January 1, 2021, and by each January 1st thereafter, the authority must publish the report on its website.
 
 . Except for the report, and as provided in subsection (5) of this section, the authority shall keep confidential all data submitted pursuant to RCW 43.71C.020 through 43.71C.080.
 

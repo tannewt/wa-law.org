@@ -1,7 +1,7 @@
 = 11.130 - Uniform guardianship, conservatorship, and other protective arrangements act.
 :toc:
 
-== 11.130.001 - Intent. (Effective January 1, 2021.)
+== 11.130.001 - Intent.
 It is the intent of the legislature to protect the liberty and autonomy of all people of this state, and to enable them to exercise their rights under the law to the maximum extent, consistent with the capacity of each person. The legislature recognizes that people with incapacities have unique abilities and needs, and that some people with incapacities cannot exercise their rights or provide for their basic needs without the help of a guardian. However, their liberty and autonomy should be restricted through guardianship, conservatorship, emergency guardianship, emergency conservatorship, and other protective arrangements only to the minimum extent necessary to adequately provide for their own health or safety, or to adequately manage their financial affairs.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6287-S.SL.pdf?cite=2020%20c%20312%20§%20801[2020 c 312 § 801]; ]
@@ -195,9 +195,9 @@ For the purposes of this chapter, an adult is presumed to have legal capacity.
 
 . Letters of office issued to a guardian or conservator who is a nonresident of this state must include the name and contact information for the resident agent of the guardian or conservator, appointed pursuant to RCW 11.130.090(1)(c).
 
-. This chapter does not affect the validity of letters of office issued under *chapter 11.88 RCW prior to **January 1, 2021.
+. This chapter does not affect the validity of letters of office issued under *chapter 11.88 RCW prior to January 1, 2022.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6287-S.SL.pdf?cite=2020%20c%20312%20§%20303[2020 c 312 § 303]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5604-S2.SL.pdf?cite=2019%20c%20437%20§%20108[2019 c 437 § 108]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%20104[2021 c 65 § 104]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6287-S.SL.pdf?cite=2020%20c%20312%20§%20303[2020 c 312 § 303]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5604-S2.SL.pdf?cite=2019%20c%20437%20§%20108[2019 c 437 § 108]; ]
 
 == 11.130.045 - Effect of acceptance of appointment. (Effective January 1, 2021, or January 1, 2022; see RCW  11.130.915.)
 On acceptance of appointment, a guardian or conservator submits to personal jurisdiction of the court in this state in any proceeding relating to the guardianship or conservatorship.
@@ -990,11 +990,11 @@ For the purposes of this chapter, the terms spouse, marriage, marital, husband, 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6287-S.SL.pdf?cite=2020%20c%20312%20§%20110[2020 c 312 § 110]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5604-S2.SL.pdf?cite=2019%20c%20437%20§%20212[2019 c 437 § 212]; ]
 
 == 11.130.245 - Prior court order validity. (Effective January 1, 2021, or January 1, 2022; see RCW  11.130.915.)
-. This chapter does not affect the validity of any court order issued under *chapter 26.10 RCW prior to **January 1, 2021. Orders issued under *chapter 26.10 RCW prior to **January 1, 2021, remain in effect and do not need to be reissued in a new order under this chapter.
+. This chapter does not affect the validity of any court order issued under chapter 26.10 RCW prior to the repeal of chapter 26.10 RCW. Orders issued under chapter 26.10 RCW prior to the repeal of chapter 26.10 RCW, remain in effect and do not need to be reissued in a new order under this chapter.
 
-. All orders issued under *chapter 26.10 RCW prior to the effective date of chapter 437, Laws of 2019 remain operative after the effective date of chapter 437, Laws of 2019. After the effective date of chapter 437, Laws of 2019, if an order issued under *chapter 26.10 RCW is modified, the modification is subject to the requirements of this chapter.
+. All orders issued under chapter 26.10 RCW prior to the effective date of chapter 437, Laws of 2019 remain operative after the effective date of chapter 437, Laws of 2019. After the effective date of chapter 437, Laws of 2019, if an order issued under chapter 26.10 RCW is modified, the modification is subject to the requirements of this chapter.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6287-S.SL.pdf?cite=2020%20c%20312%20§%20111[2020 c 312 § 111]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5604-S2.SL.pdf?cite=2019%20c%20437%20§%20213[2019 c 437 § 213]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%20105[2021 c 65 § 105]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6287-S.SL.pdf?cite=2020%20c%20312%20§%20111[2020 c 312 § 111]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5604-S2.SL.pdf?cite=2019%20c%20437%20§%20213[2019 c 437 § 213]; ]
 
 == 11.130.250 - Application of the Indian child welfare act. (Effective January 1, 2021, or January 1, 2022; see RCW  11.130.915.)
 . Every petition filed in proceedings under this chapter shall contain a statement alleging whether the child is or may be an Indian child as defined in RCW 13.38.040. If the child is an Indian child, chapter 13.38 RCW shall apply.
@@ -1008,7 +1008,7 @@ In entering or modifying an order under this chapter, the court may order one or
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5604-S2.SL.pdf?cite=2019%20c%20437%20§%20215[2019 c 437 § 215]; ]
 
-== 11.130.257 - Temporary support, restraining, and protective orders—Effect—Support debts to state. (Effective January 1, 2021.)
+== 11.130.257 - Temporary support, restraining, and protective orders—Effect—Support debts to state. (Effective until July 1, 2022.)
 . In a proceeding under this chapter either party may file a motion for temporary support of children entitled to support. The motion shall be accompanied by an affidavit setting forth the factual basis for the motion and the amount requested.
 
 . In a proceeding under this chapter either party may file a motion for a temporary restraining order or preliminary injunction, providing relief proper in the circumstances, and restraining or enjoining another party from:
@@ -1043,7 +1043,7 @@ In entering or modifying an order under this chapter, the court may order one or
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6287-S.SL.pdf?cite=2020%20c%20312%20§%20112[2020 c 312 § 112]; ]
 
-== 11.130.259 - Order for relocation. (Effective January 1, 2021.)
+== 11.130.259 - Order for relocation.
 Any order for the relocation of a minor under a guardianship must comply with the notice requirements of RCW 26.09.430 through 26.09.490.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6287-S.SL.pdf?cite=2020%20c%20312%20§%20122[2020 c 312 § 122]; ]
@@ -1789,7 +1789,7 @@ Any order for the relocation of a minor under a guardianship must comply with th
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6287-S.SL.pdf?cite=2020%20c%20312%20§%20205[2020 c 312 § 205]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5604-S2.SL.pdf?cite=2019%20c%20437%20§%20314[2019 c 437 § 314]; ]
 
-== 11.130.335 - Special limitations on guardian's power. (Effective January 1, 2022.)
+== 11.130.335 - Special limitations on guardian's power. (Effective January 1, 2022, until July 1, 2022.)
 . A guardian for an adult does not have the power to revoke or amend a power of attorney for health care or power of attorney for finances executed by the adult. If a power of attorney for health care is in effect, unless there is a court order to the contrary, a health care decision of an agent takes precedence over that of the guardian and the guardian shall cooperate with the agent to the extent feasible. If a power of attorney for finances is in effect, unless there is a court order to the contrary, a decision by the agent which the agent is authorized to make under the power of attorney for finances takes precedence over that of the guardian and the guardian shall cooperate with the agent to the extent feasible. The court has authority to revoke or amend any power of attorney executed by the adult.
 
 . A guardian for an adult shall not initiate the commitment of the adult to an evaluation and treatment facility except in accordance with the provisions of chapter 10.77, 71.05, or 72.23 RCW.
@@ -4194,9 +4194,9 @@ Relation
 
 . The superior court has authority to enforce the certified professional guardianship board's standards of practice in this article to the extent those standards are related to statutory or fiduciary duties of guardians and conservators.
 
-. Any unresolved grievances filed with the certified professional guardianship board one year or more before *January 1, 2021, must be forwarded to the superior court for that guardianship or conservatorship for review by the superior court as set forth in RCW 11.130.140 if the grievance is not in process of a hearing or final resolution.
+. Any unresolved grievances filed with the certified professional guardianship board one year or more before January 1, 2022, must be forwarded to the superior court for that guardianship or conservatorship for review by the superior court as set forth in RCW 11.130.140 if the grievance is not in process of a hearing or final resolution.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6287-S.SL.pdf?cite=2020%20c%20312%20§%20225[2020 c 312 § 225]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5604-S2.SL.pdf?cite=2019%20c%20437%20§%20701[2019 c 437 § 701]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%20106[2021 c 65 § 106]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6287-S.SL.pdf?cite=2020%20c%20312%20§%20225[2020 c 312 § 225]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5604-S2.SL.pdf?cite=2019%20c%20437%20§%20701[2019 c 437 § 701]; ]
 
 == 11.130.700 - Definitions. (Effective January 1, 2022.)
 The definitions in this section apply throughout this section and RCW 11.130.705 through 11.130.755 unless the context clearly requires otherwise.
@@ -4447,13 +4447,13 @@ Chapter 437, Laws of 2019 modifies, limits, or supersedes the electronic signatu
 == 11.130.910 - Applicability. (Effective January 1, 2022.)
 This chapter applies to:
 
-. A proceeding for appointment of a guardian or conservator or for a protective arrangement instead of guardianship or conservatorship commenced after *January 1, 2021; and
+. A proceeding for appointment of a guardian or conservator or for a protective arrangement instead of guardianship or conservatorship commenced after January 1, 2022; and
 
-. A guardianship, conservatorship, or protective arrangement instead of a guardianship or conservatorship in existence on *January 1, 2021, unless the court finds application of a particular provision of chapter 437, Laws of 2019 would substantially interfere with the effective conduct of the proceeding or prejudice the rights of a party, in which case the particular provision of chapter 437, Laws of 2019 does not apply and the superseded law applies.
+. A guardianship, conservatorship, or protective arrangement instead of a guardianship or conservatorship in existence on January 1, 2022, unless the court finds application of a particular provision of chapter 437, Laws of 2019 would substantially interfere with the effective conduct of the proceeding or prejudice the rights of a party, in which case the particular provision of chapter 437, Laws of 2019 does not apply and the superseded law applies.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5604-S2.SL.pdf?cite=2019%20c%20437%20§%20804[2019 c 437 § 804]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%20107[2021 c 65 § 107]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5604-S2.SL.pdf?cite=2019%20c%20437%20§%20804[2019 c 437 § 804]; ]
 
-== 11.130.911 - Construction—Chapters  11.88 and  11.92 RCW prevail. (Effective January 1, 2021, until January 1, 2022.)
+== 11.130.911 - Construction—Chapters  11.88 and  11.92 RCW prevail. (Expires January 1, 2022.)
 . To the extent of a conflict between this chapter and chapter 11.88 or 11.92 RCW, chapter 11.88 or 11.92 RCW prevails.
 
 . This section expires January 1, 2022.

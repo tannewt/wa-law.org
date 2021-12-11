@@ -54,7 +54,7 @@ As part of the state needs assessment process conducted by the *board in accorda
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5182-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2011%20§%20106[2011 1st sp.s. c 11 § 106]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2021-S2.SL.pdf?cite=2009%20c%20215%20§%207[2009 c 215 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c370.pdf?cite=1985%20c%20370%20§%2023[1985 c 370 § 23]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c132.pdf?cite=1975%201st%20ex.s.%20c%20132%20§%2015[1975 1st ex.s. c 132 § 15]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c263.pdf?cite=1969%20ex.s.%20c%20263%20§%207[1969 ex.s. c 263 § 7]; ]
 
 == 28B.76.502 - Financial aid counseling curriculum for institutions with Washington college grant recipients—Financial education workshops.
-. The office must provide a financial aid counseling curriculum to institutions of higher education with Washington college grant recipients. The curriculum must be available via a web site. The curriculum must include, but not be limited to:
+. The office must provide a financial aid counseling curriculum to institutions of higher education with Washington college grant recipients. The curriculum must be available via a website. The curriculum must include, but not be limited to:
 
 .. An explanation of the Washington college grant program rules, including maintaining satisfactory progress, repayment rules, and usage limits;
 
@@ -70,7 +70,7 @@ As part of the state needs assessment process conducted by the *board in accorda
 
 .. Contact information for local financial aid resources and the federal student aid ombuds' office.
 
-. By the 2013-14 academic year, the institution of higher education must take reasonable steps to ensure that each Washington college grant recipient receives information outlined in subsection (1)(a) through (g) of this section by directly referencing or linking to the web site on the conditions of award statement provided to each recipient.
+. By the 2013-14 academic year, the institution of higher education must take reasonable steps to ensure that each Washington college grant recipient receives information outlined in subsection (1)(a) through (g) of this section by directly referencing or linking to the website on the conditions of award statement provided to each recipient.
 
 . By July 1, 2013, the office must disseminate the curriculum to all institutions of higher education participating in the Washington college grant program. The institutions of higher education may require students who are not participating in the Washington college grant program to participate in all or portions of the financial aid counseling.
 
@@ -426,9 +426,9 @@ The office shall administer Washington's participation in the border county high
 
 ... Apprenticeship materials as determined appropriate by the college or university to pay for specific course-related material costs, which may include occupation-specific tools, work clothes, rain gear, or boots.
 
-.. An eligible student enrolled in a college in the high school program may receive a scholarship for tuition fees as set forth under RCW 28A.600.290(5)(a).
+.. An eligible student enrolled in a college in the high school program may receive a scholarship for tuition fees as set forth under RCW 28A.600.287.
 
 . The Washington dual enrollment scholarship pilot program must apply after the fee waivers for low-income students under RCW 28A.600.310 and subsidies under RCW 28A.600.290 are provided for.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6374.SL.pdf?cite=2020%20c%20259%20§%201[2020 c 259 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1973-S2.SL.pdf?cite=2019%20c%20176%20§%201[2019 c 176 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1302-S.SL.pdf?cite=2021%20c%2071%20§%206[2021 c 71 § 6]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6374.SL.pdf?cite=2020%20c%20259%20§%201[2020 c 259 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1973-S2.SL.pdf?cite=2019%20c%20176%20§%201[2019 c 176 § 1]; ]
 

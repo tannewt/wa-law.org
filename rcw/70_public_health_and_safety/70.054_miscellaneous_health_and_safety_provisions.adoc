@@ -460,7 +460,7 @@ The secretary of health shall adopt by rule requirements, in accordance with nat
 
 .. "Emergency" means an occurrence that renders the personal emergency response services system inoperable for a period of twenty-four or more continuous hours, and that requires the attention of first responders acting within the scope of their official duties.
 
-.. "First responder" means firefighters, law enforcement officers, and emergency medical personnel, as licensed or certificated by this state.
+.. "First responder" means firefighters, law enforcement officers, coroners and medical examiners, and emergency medical personnel, as licensed or certificated by this state.
 
 .. "Personal emergency response services" means a service provided for profit that allows persons in need of emergency assistance to contact a call center by activating a wearable device, such as a pendant or bracelet.
 
@@ -470,7 +470,7 @@ The secretary of health shall adopt by rule requirements, in accordance with nat
 
 .. Provide subscriber contact information to entities other than first responders.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5346-S.SL.pdf?cite=2015%20c%2030%20§%201[2015 c 30 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1271.SL.pdf?cite=2021%20c%20122%20§%205[2021 c 122 § 5]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5346-S.SL.pdf?cite=2015%20c%2030%20§%201[2015 c 30 § 1]; ]
 
 == 70.54.440 - Epinephrine autoinjectors—Prescribing to certain entities—Training—Liability—Incident reporting.
 . An authorized health care provider may prescribe epinephrine autoinjectors in the name of an authorized entity for use in accordance with this section, and pharmacists, advanced registered nurse practitioners, and physicians may dispense epinephrine autoinjectors pursuant to a prescription issued in the name of an authorized entity.

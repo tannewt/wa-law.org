@@ -1,7 +1,7 @@
 = 18.89 - Respiratory care practitioners.
 :toc:
 
-== 18.89.010 - Legislative findings—Insurance coverage not mandated.
+== 18.89.010 - Legislative findings—Insurance coverage not mandated. (Effective until July 1, 2022.)
 The legislature finds that in order to safeguard life, health, and to promote public welfare, a person practicing or offering to practice respiratory care as a respiratory care practitioner in this state shall be required to submit evidence that he or she is qualified to practice, and shall be licensed as provided. The settings for these services may include, health facilities licensed in this state, clinics, home care, home health agencies, physicians' offices, and public or community health services. Nothing in this chapter shall be construed to require that individual or group policies or contracts of an insurance carrier, health care service contractor, or health maintenance organization provide benefits or coverage for services and supplies provided by a person certified under this chapter.
 
 [ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1536-S.SL.pdf?cite=1997%20c%20334%20§%201[1997 c 334 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c415.pdf?cite=1987%20c%20415%20§%201[1987 c 415 § 1]; ]
@@ -22,7 +22,7 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 .. An osteopathic physician or surgeon licensed under chapter 18.57 RCW; or
 
-.. Acting within the scope of their respective licensure, a podiatric physician and surgeon licensed under chapter 18.22 RCW, an advanced registered nurse practitioner licensed under chapter 18.79 RCW, a naturopath licensed under chapter 18.36A RCW, a physician assistant licensed under chapter 18.71A RCW, or an osteopathic physician assistant licensed under chapter 18.57A RCW.
+.. Acting within the scope of their respective licensure, a podiatric physician and surgeon licensed under chapter 18.22 RCW, an advanced registered nurse practitioner licensed under chapter 18.79 RCW, a naturopath licensed under chapter 18.36A RCW, a physician assistant licensed under chapter 18.71A RCW, or an osteopathic physician assistant licensed under chapter 18.57A RCW..
 
 . "Respiratory care practitioner" means an individual licensed under this chapter.
 
@@ -35,7 +35,7 @@ A respiratory care practitioner is a person who adopts or uses any title or any 
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c415.pdf?cite=1987%20c%20415%20§%204[1987 c 415 § 4]; ]
 
-== 18.89.040 - Scope of practice.
+== 18.89.040 - Scope of practice. (Effective until July 1, 2022.)
 . A respiratory care practitioner licensed under this chapter is employed in the treatment, management, diagnostic testing, rehabilitation, and care of patients with deficiencies and abnormalities which affect the cardiopulmonary system and associated aspects of other systems, and is under the direct order and under the qualified medical direction of a health care practitioner. The practice of respiratory care includes:
 
 .. The use and administration of prescribed medical gases, exclusive of general anesthesia;
@@ -78,7 +78,7 @@ Nothing in this chapter shall be construed to require that individual or group p
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1640.SL.pdf?cite=2011%20c%20235%20§%202[2011 c 235 § 2]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5262.SL.pdf?cite=1999%20c%2084%20§%201[1999 c 84 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1536-S.SL.pdf?cite=1997%20c%20334%20§%204[1997 c 334 § 4]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20716[1994 sp.s. c 9 § 716]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c415.pdf?cite=1987%20c%20415%20§%205[1987 c 415 § 5]; ]
 
-== 18.89.050 - Powers of secretary—Ad hoc advisers—Application of Uniform Disciplinary Act.
+== 18.89.050 - Powers of secretary—Ad hoc advisers—Application of Uniform Disciplinary Act. (Effective until July 1, 2022.)
 . In addition to any other authority provided by law, the secretary may:
 
 .. Adopt rules, in accordance with chapter 34.05 RCW, necessary to implement this chapter;
@@ -117,7 +117,7 @@ The secretary, ad hoc committee members, or individuals acting on their behalf a
 
 [ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1536-S.SL.pdf?cite=1997%20c%20334%20§%207[1997 c 334 § 7]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20513[1994 sp.s. c 9 § 513]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%20231[1991 c 3 § 231]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c415.pdf?cite=1987%20c%20415%20§%209[1987 c 415 § 9]; ]
 
-== 18.89.090 - Licensure—Qualifications.
+== 18.89.090 - Licensure—Qualifications. (Effective until July 1, 2022.)
 . The secretary shall issue a license to any applicant who demonstrates to the secretary's satisfaction that the following requirements have been met:
 
 .. Graduation from a school approved by the secretary or successful completion of alternate training which meets the criteria established by the secretary;

@@ -184,7 +184,7 @@ The definitions in this section apply throughout this chapter unless the content
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201460[2020 c 20 § 1460]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1652-S.SL.pdf?cite=2019%20c%20344%20§%205[2019 c 344 § 5]; ]
 
-== 70A.515.060 - Department's review of the plan—Approval/rejection—Public review—Assessment, departmental oversight—Recovery of costs for administering and enforcing chapter—Administrative fee—Penalties—List of producers and brands on the department's web site—Rules.
+== 70A.515.060 - Department's review of the plan—Approval/rejection—Public review—Assessment, departmental oversight—Recovery of costs for administering and enforcing chapter—Administrative fee—Penalties—List of producers and brands on the department's website—Rules.
 . The department shall review the plan within one hundred twenty days of receipt, and make a determination as to whether or not to approve the plan. The department shall provide a letter of approval for the plan if it provides for the establishment of a paint stewardship program that meets the requirements of RCW 70A.515.040 and 70A.515.050. If a plan is rejected, the department shall provide the reasons for rejecting the plan to the stewardship organization. The stewardship organization must submit a new plan within sixty days after receipt of the letter of disapproval.
 
 . When a plan or an amendment to an approved plan is submitted under this section, the department shall make the proposed plan or amendment available for public review and comment for at least thirty days.
@@ -203,9 +203,9 @@ The definitions in this section apply throughout this chapter unless the content
 
 .. Any person who incurs a penalty under this section may appeal the penalty to the pollution control hearings board established by chapter 43.21B RCW.
 
-. Upon the date the first plan is approved, the department shall post on its web site a list of producers and their brands for which the department has approved a plan pursuant to RCW 70A.515.040. The department shall update the list of producers and brands participating under an approved program plan on a monthly basis based on information provided to the department from a stewardship organization.
+. Upon the date the first plan is approved, the department shall post on its website a list of producers and their brands for which the department has approved a plan pursuant to RCW 70A.515.040. The department shall update the list of producers and brands participating under an approved program plan on a monthly basis based on information provided to the department from a stewardship organization.
 
-. Upon a demonstration to the satisfaction of the department that a previously unlisted producer is in compliance with this chapter, within fourteen days the department must add the name of the producer to its web site.
+. Upon a demonstration to the satisfaction of the department that a previously unlisted producer is in compliance with this chapter, within fourteen days the department must add the name of the producer to its website.
 
 . The department shall review each annual report required pursuant to RCW 70A.515.080 within ninety days of its submission to ensure compliance with RCW 70A.515.080(1).
 
@@ -214,9 +214,9 @@ The definitions in this section apply throughout this chapter unless the content
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201461[2020 c 20 § 1461]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1652-S.SL.pdf?cite=2019%20c%20344%20§%206[2019 c 344 § 6]; ]
 
 == 70A.515.070 - Required participation in an approved stewardship plan—Information regarding available end-of-life paint management options.
-. A producer or paint retailer may not sell or offer for sale to any person in the state architectural paint unless the producer or brand of architectural paint is participating in an approved stewardship plan under this chapter. A retailer complies with the requirements of this section if, on the date the architectural paint was ordered from the producer or its agent, the producer of the paint was listed on the department's web site as a producer participating in an approved paint stewardship program plan. However, a retailer may sell any paint purchased prior to July 28, 2019.
+. A producer or paint retailer may not sell or offer for sale to any person in the state architectural paint unless the producer or brand of architectural paint is participating in an approved stewardship plan under this chapter. A retailer complies with the requirements of this section if, on the date the architectural paint was ordered from the producer or its agent, the producer of the paint was listed on the department's website as a producer participating in an approved paint stewardship program plan. However, a retailer may sell any paint purchased prior to July 28, 2019.
 
-. A distributor or a paint retailer that distributes or sells architectural paint shall monitor the department's web site to determine if the sale of a producer's architectural paint is in compliance with this chapter.
+. A distributor or a paint retailer that distributes or sells architectural paint shall monitor the department's website to determine if the sale of a producer's architectural paint is in compliance with this chapter.
 
 . At the time of sale to a consumer, a producer, a stewardship organization, or a paint retailer selling or offering architectural paint for sale in Washington shall provide the consumer with information regarding available end-of-life management options for leftover architectural paint collected through a paint stewardship program.
 

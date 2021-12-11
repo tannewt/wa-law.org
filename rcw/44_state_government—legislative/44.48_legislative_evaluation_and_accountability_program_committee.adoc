@@ -104,8 +104,8 @@ The committee shall cooperate, act, and function with Washington state legislati
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c373.pdf?cite=1977%20ex.s.%20c%20373%20§%2014[1977 ex.s. c 373 § 14]; ]
 
-== 44.48.150 - State expenditure information web site—Access to data—Maintenance—Capital and transportation projects—Web site testing.
-. By January 1, 2009, in collaboration with the office of financial management, using existing databases and structures currently shared, the office of the legislative evaluation and accountability program committee shall establish and make available to the public a searchable state expenditure information web site. The state expenditure information web site shall provide access to current budget data, access to current accounting data for budgeted expenditures and staff, and access to historical data. At a minimum, the web site will provide access or links to the following information as data are available:
+== 44.48.150 - State expenditure information website—Access to data—Maintenance—Capital and transportation projects—Website testing.
+. By January 1, 2009, in collaboration with the office of financial management, using existing databases and structures currently shared, the office of the legislative evaluation and accountability program committee shall establish and make available to the public a searchable state expenditure information website. The state expenditure information website shall provide access to current budget data, access to current accounting data for budgeted expenditures and staff, and access to historical data. At a minimum, the website will provide access or links to the following information as data are available:
 
 .. State expenditures by fund or account;
 
@@ -123,7 +123,7 @@ The committee shall cooperate, act, and function with Washington state legislati
 
 . "State agency," as used in this section, includes every state agency, office, board, commission, or institution of the executive, legislative, or judicial branches, including institutions of higher education.
 
-. The state expenditure information web site shall be updated periodically as subsequent fiscal year data become available, and the prior year expenditure data shall be maintained by the legislative evaluation and accountability program committee as part of its ten-year historical budget data.
+. The state expenditure information website shall be updated periodically as subsequent fiscal year data become available, and the prior year expenditure data shall be maintained by the legislative evaluation and accountability program committee as part of its ten-year historical budget data.
 
 . By January 1, 2014, current and future capital project and transportation project investments must be coded with the geographic information sufficient to permit the public to search and identify appropriation and expenditure data at the parent and subproject level to the extent available by:
 
@@ -133,7 +133,7 @@ The committee shall cooperate, act, and function with Washington state legislati
 
 .. Agency project identifier.
 
-. The office of the legislative evaluation and accountability program committee must, within existing resources, update the state expenditure information web site to allow the public to search for capital budget and transportation projects by selecting from an online geographical map. The map must allow an in-depth examination of financial and other data associated with such projects. Data elements must include:
+. The office of the legislative evaluation and accountability program committee must, within existing resources, update the state expenditure information website to allow the public to search for capital budget and transportation projects by selecting from an online geographical map. The map must allow an in-depth examination of financial and other data associated with such projects. Data elements must include:
 
 .. Project title;
 
@@ -145,7 +145,7 @@ The committee shall cooperate, act, and function with Washington state legislati
 
 .. Administering agency.
 
-. The web site must be easy to use, contain current and readily available data, and allow for review and analysis by the public. The legislative evaluation and accountability program committee must test the web site with potential users to ensure that it is easy to navigate and comprehend.
+. The website must be easy to use, contain current and readily available data, and allow for review and analysis by the public. The legislative evaluation and accountability program committee must test the website with potential users to ensure that it is easy to navigate and comprehend.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2058.SL.pdf?cite=2013%20c%20327%20§%202[2013 c 327 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5751.SL.pdf?cite=2013%20c%2063%20§%202[2013 c 63 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6818.SL.pdf?cite=2008%20c%20326%20§%202[2008 c 326 § 2]; ]
 

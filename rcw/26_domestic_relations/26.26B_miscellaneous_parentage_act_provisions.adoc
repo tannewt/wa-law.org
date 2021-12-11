@@ -8,7 +8,7 @@
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5333-S.SL.pdf?cite=2019%20c%2046%20§%205027[2019 c 46 § 5027]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1668.SL.pdf?cite=2005%20c%20282%20§%2038[2005 c 282 § 38]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2784-S.SL.pdf?cite=1992%20c%20229%20§%207[1992 c 229 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990ex1c2.pdf?cite=1990%201st%20ex.s.%20c%202%20§%2028[1990 1st ex.s. c 2 § 28]; ]
 
-== 26.26B.020 - Judgment or order determining parent and child relationship—Support judgment and orders—Residential provisions—Custody—Restraining orders—Notice of modification or termination of restraining order.
+== 26.26B.020 - Judgment or order determining parent and child relationship—Support judgment and orders—Residential provisions—Custody—Restraining orders—Notice of modification or termination of restraining order. (Effective until July 1, 2022.)
 . The judgment and order of the court determining the existence or nonexistence of the parent and child relationship shall be determinative for all purposes.
 
 . If the judgment and order of the court is at variance with the child's birth certificate, the court shall order that an amended birth certificate be issued.
@@ -49,7 +49,7 @@ A court may not order payment for support provided or expenses incurred more tha
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5333-S.SL.pdf?cite=2019%20c%2046%20§%205029[2019 c 46 § 5029]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20693[2011 c 336 § 693]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c41.pdf?cite=1983%201st%20ex.s.%20c%2041%20§%2011[1983 1st ex.s. c 41 § 11]; ]
 
-== 26.26B.050 - Restraining order—Knowing violation—Penalty—Law enforcement immunity.
+== 26.26B.050 - Restraining order—Knowing violation—Penalty—Law enforcement immunity. (Effective until July 1, 2022.)
 . Whenever a restraining order is issued under this chapter or chapter 26.26A RCW, and the person to be restrained knows of the order, a violation of the provisions restricting the person from acts or threats of violence or of a provision restraining the person from going onto the grounds of or entering the residence, workplace, school, or day care of another, or prohibiting the person from knowingly coming within, or knowingly remaining within, a specified distance of a location, is punishable under RCW 26.50.110.
 
 . A person is deemed to have notice of a restraining order if:

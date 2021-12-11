@@ -4,7 +4,7 @@
 == 19.270.010 - Definitions.
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 
-. "Advertisement" means a communication, the primary purpose of which is the commercial promotion of a commercial product or service, including a communication on an internet web site that is operated for a commercial purpose.
+. "Advertisement" means a communication, the primary purpose of which is the commercial promotion of a commercial product or service, including a communication on an internet website that is operated for a commercial purpose.
 
 . "Computer software" means a sequence of instructions written in any programming language that is executed on a computer. "Computer software" does not include computer software that is a web page, or are data components of web pages that are not executable independently of the web page.
 
@@ -114,7 +114,7 @@ It is unlawful for a person who is not an owner or operator to do any of the fol
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2879-S.SL.pdf?cite=2008%20c%2066%20§%204[2008 c 66 § 4]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1012-S.SL.pdf?cite=2005%20c%20500%20§%205[2005 c 500 § 5]; ]
 
 == 19.270.060 - Who may bring an action—Damages—Attorneys' fees—Limit of damages.
-. In addition to any other remedies provided by this chapter or any other provision of law, the attorney general, or a provider of computer software or owner of a web site or trademark who is adversely affected by reason of a violation of this chapter, and whose action arises directly out of such person's status as a provider or owner, may bring an action against a person who violates this chapter to enjoin further violations and to recover either actual damages or one hundred thousand dollars per violation, whichever is greater.
+. In addition to any other remedies provided by this chapter or any other provision of law, the attorney general, or a provider of computer software or owner of a website or trademark who is adversely affected by reason of a violation of this chapter, and whose action arises directly out of such person's status as a provider or owner, may bring an action against a person who violates this chapter to enjoin further violations and to recover either actual damages or one hundred thousand dollars per violation, whichever is greater.
 
 . In an action under subsection (1) of this section, a court may increase the damages up to three times the damages allowed under subsection (1) of this section if the defendant has engaged in a pattern and practice of violating this chapter. The court may also award costs and reasonable attorneys' fees to the prevailing party.
 

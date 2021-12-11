@@ -2,7 +2,7 @@
 :toc:
 
 == 28B.92.005 - Financial aid application due dates and information—Notification.
-Community and technical colleges shall provide financial aid application due dates and information on whether or not financial aid will be awarded on a rolling basis to their admitted students at the time of acceptance. State universities, regional universities, and The Evergreen State College shall provide financial aid application due dates and distribution policies on their web sites, including whether financial aid is awarded on a rolling basis, for prospective and admitted students.
+Community and technical colleges shall provide financial aid application due dates and information on whether or not financial aid will be awarded on a rolling basis to their admitted students at the time of acceptance. State universities, regional universities, and The Evergreen State College shall provide financial aid application due dates and distribution policies on their websites, including whether financial aid is awarded on a rolling basis, for prospective and admitted students.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5328-S.SL.pdf?cite=2015%20c%20212%20§%201[2015 c 212 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6358.SL.pdf?cite=2014%20c%2053%20§%202[2014 c 53 § 2]; ]
 
@@ -73,7 +73,7 @@ In awarding need grants, the office shall proceed substantially as follows: PROV
 
 . The office shall annually select the financial aid award recipients from among Washington residents applying for student financial aid who have been ranked according to:
 
-.. College bound scholarship eligibility. Eligible students as defined in RCW 28B.118.010 who meet the requirements in RCW 28B.118.010(4)(b)(i) for the college bound scholarship may not be denied state need grant funding due to institutional policies or delayed awarding of college bound scholarship students. College bound scholarship eligible students whose family income exceeds sixty-five percent of the state median family income, but who are eligible for the state need grant, shall be prioritized and awarded the maximum state need grant for which the student is eligible;
+.. College bound scholarship eligibility. Eligible students as defined in RCW 28B.118.010 who meet the requirements in *RCW 28B.118.010(4)(b)(i) for the college bound scholarship may not be denied state need grant funding due to institutional policies or delayed awarding of college bound scholarship students. College bound scholarship eligible students whose family income exceeds sixty-five percent of the state median family income, but who are eligible for the state need grant, shall be prioritized and awarded the maximum state need grant for which the student is eligible;
 
 .. Financial need as determined by the amount of the family contribution; and
 

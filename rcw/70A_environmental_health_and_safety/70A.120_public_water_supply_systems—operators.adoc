@@ -29,7 +29,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 . "Group A water system" means a system with fifteen or more service connections, regardless of the number of people; or a system serving an average of twenty-five or more people per day for sixty or more days within a calendar year, regardless of the number of service connections.
 
-. "Nationally recognized association of certification authorities" shall mean an organization which serves as an information center for certification activities, recommends minimum standards and guidelines for classification of potable water treatment plants, water distribution systems and waste water facilities and certification of operators, facilitates reciprocity between state programs and assists authorities in establishing new certification programs and updating existing ones.
+. "Nationally recognized association of certification authorities" shall mean an organization which serves as an information center for certification activities, recommends minimum standards and guidelines for classification of potable water treatment plants, water distribution systems and wastewater facilities and certification of operators, facilitates reciprocity between state programs and assists authorities in establishing new certification programs and updating existing ones.
 
 . "Operator" includes backflow assembly tester, certified operator, and cross-connection control specialist as these terms are defined in this section.
 

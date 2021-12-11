@@ -380,7 +380,7 @@ Forestlands used solely for the planting, growing, or harvesting of trees may be
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5094.SL.pdf?cite=2005%20c%20466%20§%201[2005 c 466 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2371.SL.pdf?cite=1992%20c%2070%20§%201[1992 c 70 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c18.pdf?cite=1989%20c%2018%20§%201[1989 c 18 § 1]; ]
 
-== 89.08.405 - Rates and charges system.
+== 89.08.405 - Rates and charges system. (Effective until January 1, 2022.)
 . Any county legislative authority may approve by resolution revenues to a conservation district by fixing rates and charges. The county legislative authority may provide for this system of rates and charges as an alternative to, but not in addition to, a special assessment provided by RCW 89.08.400. In fixing rates and charges, the county legislative authority may in its discretion consider the information proposed to the county legislative authority by a conservation district consistent with this section.
 
 . A conservation district, in proposing a system of rates and charges, may consider:
@@ -491,7 +491,7 @@ State agencies, tribes, and local governments responsible for permits or other a
 
 ... The statement of environmental benefits;
 
-... Whether, except as conditioned by RCW 89.08.580, the applicant is a Puget Sound partner, as defined in RCW 90.71.010, and except as otherwise provided in RCW 89.08.590, and effective one calendar year following the development and statewide availability of model evergreen community management plans and ordinances under RCW 35.105.050, whether the applicant is an entity that has been recognized, and what gradation of recognition was received, in the evergreen community recognition program created in RCW 35.105.030; and
+... Whether, except as conditioned by RCW 89.08.580, the applicant is a Puget Sound partner, as defined in RCW 90.71.010, and except as otherwise provided in RCW 89.08.590, and effective one calendar year following the development and statewide availability of urban forestry management plans and ordinances under RCW 76.15.090, whether the applicant is an entity that has been recognized, and what gradation of recognition was received, in the evergreen community designation program created in RCW 76.15.090; and
 
 ... Whether the project is referenced in the action agenda developed by the Puget Sound partnership under RCW 90.71.310; and
 
@@ -502,7 +502,7 @@ State agencies, tribes, and local governments responsible for permits or other a
 
 .. The commission shall work with the districts to develop uniform performance measures across participating districts and, to the extent possible, the commission should coordinate its performance measure system with other natural resource-related agencies as defined in RCW 43.41.270. The commission shall consult with affected interest groups in implementing this section.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2844-S2.SL.pdf?cite=2008%20c%20299%20§%2027[2008 c 299 § 27]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5372-S.SL.pdf?cite=2007%20c%20341%20§%2028[2007 c 341 § 28]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1785-S.SL.pdf?cite=2001%20c%20227%20§%203[2001 c 227 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1216-S2.SL.pdf?cite=2021%20c%20209%20§%2015[2021 c 209 § 15]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2844-S2.SL.pdf?cite=2008%20c%20299%20§%2027[2008 c 299 § 27]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5372-S.SL.pdf?cite=2007%20c%20341%20§%2028[2007 c 341 § 28]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1785-S.SL.pdf?cite=2001%20c%20227%20§%203[2001 c 227 § 3]; ]
 
 == 89.08.530 - Agricultural conservation easements program.
 . The agricultural conservation easements program is created. The state conservation commission shall manage the program and adopt rules as necessary to implement the legislature's intent.
@@ -559,9 +559,9 @@ When administering water quality and habitat protection grants under this chapte
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5372-S.SL.pdf?cite=2007%20c%20341%20§%2029[2007 c 341 § 29]; ]
 
 == 89.08.590 - Administering funds—Preference to an evergreen community.
-When administering funds under this chapter, the commission shall give preference only to an evergreen community recognized under RCW 35.105.030 in comparison to other entities that are eligible to receive evergreen community designation. Entities not eligible for designation as an evergreen community shall not be given less preferential treatment than an evergreen community.
+When administering funds under this chapter, the commission shall give preference only to an evergreen community recognized under RCW 76.15.090 in comparison to other entities that are eligible to receive evergreen community designation. Entities not eligible for designation as an evergreen community shall not be given less preferential treatment than an evergreen community.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2844-S2.SL.pdf?cite=2008%20c%20299%20§%2032[2008 c 299 § 32]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1216-S2.SL.pdf?cite=2021%20c%20209%20§%2022[2021 c 209 § 22]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2844-S2.SL.pdf?cite=2008%20c%20299%20§%2032[2008 c 299 § 32]; ]
 
 == 89.08.610 - Sustainable farms and fields grant program—Definitions.
 The definitions in this section apply throughout this section and RCW 89.08.615 through 89.08.635 unless the context clearly requires otherwise.
@@ -622,7 +622,7 @@ The definitions in this section apply throughout this section and RCW 89.08.615 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5947-S2.SL.pdf?cite=2020%20c%20351%20§%203[2020 c 351 § 3]; ]
 
 == 89.08.620 - Grant recipients—Prioritization.
-. When prioritizing grant recipients, the commission, in consultation with the department of agriculture, Washington State University, and the United States department of agriculture natural resources conservation service, shall seek to maximize the benefits of the grant program by leveraging other state, nonstate, public, and private sources of money. The primary metrics used to rank grant applications must be made public by the commission.
+. When prioritizing grant recipients, the commission, in consultation with the department of agriculture, Washington State University, the department of fish and wildlife, and the United States department of agriculture natural resources conservation service, shall seek to maximize the benefits of the grant program by leveraging other state, nonstate, public, and private sources of money. The primary metrics used to rank grant applications must be made public by the commission.
 
 . The grant program must prioritize or weight projects based on consideration of the individual project's ability to:
 
@@ -630,7 +630,7 @@ The definitions in this section apply throughout this section and RCW 89.08.615 
 
 .. Increase the quantity of organic carbon in aquatic soils;
 
-.. Intentionally integrate trees, shrubs, seaweed, or other vegetation into management of agricultural and aquacultural lands;
+.. Intentionally integrate trees, shrubs, seaweed, or other vegetation into management of agricultural and aquacultural lands, with preference for native vegetation where practicable and appropriate;
 
 .. Reduce or avoid carbon dioxide equivalent emissions in or from soils;
 
@@ -642,9 +642,14 @@ The definitions in this section apply throughout this section and RCW 89.08.615 
 
 . Applicants that create riparian buffers along waterways, or otherwise benefit fish habitat, must receive an enhanced prioritization compared to other grant applications that perform similarly under the prioritization metrics developed by the commission.
 
+. [Empty]
+.. Applicants that create or maintain pollinator habitat must receive an enhanced prioritization compared to other grant applications that perform similarly under the prioritization metrics developed by the commission.
+
+.. For the purposes of this subsection, "pollinator habitat" means an area of land that is or may be developed as habitat beneficial for the feeding, nesting, and reproduction of all pollinators, including honey bees, as determined by the department of agriculture.
+
 . The commission shall downgrade a specific grant proposal within its prioritization metric if the proposal is expected to cause significant environmental damage to fish and wildlife habitat.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5947-S2.SL.pdf?cite=2020%20c%20351%20§%204[2020 c 351 § 4]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5253-S2.SL.pdf?cite=2021%20c%20278%20§%209[2021 c 278 § 9]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5947-S2.SL.pdf?cite=2020%20c%20351%20§%204[2020 c 351 § 4]; ]
 
 == 89.08.625 - Methods for measuring, estimating, and verifying outcomes.
 . The commission shall determine methods for measuring, estimating, and verifying outcomes under the sustainable farms and fields grant program in consultation with Washington State University, the department of agriculture, and the United States department of agriculture natural resources conservation service.
@@ -668,4 +673,15 @@ The definitions in this section apply throughout this section and RCW 89.08.615 
 The sustainable farms and fields account is created in the state treasury. All receipts of money directed to the account must be deposited in the account. Expenditures from the account may be used only for purposes relating to the sustainable farms and fields grant program established in RCW 89.08.615. Moneys in the account may be spent only after appropriation.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5947-S2.SL.pdf?cite=2020%20c%20351%20§%207[2020 c 351 § 7]; ]
+
+== 89.08.640 - Habitat for managed and native pollinators—Small grants program.
+. Subject to the availability of amounts appropriated for this specific purpose, the commission is authorized to develop an ongoing small grants program to provide funding to the conservation districts to educate residents and community groups in urban, suburban, and rural nonfarm areas about the value of habitat for both managed and native pollinators, and to provide the necessary technical and financial assistance and materials to create it.
+
+. Educational efforts should include the benefits of habitat diversity, especially pollen-rich and nectar-rich flowering forbs and shrubs. Preference for pollinator plants should be given to native plants or noninvasive, nonnative plants.
+
+. Planting projects should provide diverse native or nonnative, noninvasive plants of high quality for pollinator foraging, nesting, and overwintering, as determined by site suitability. Options may include, but are not limited to, bee or eco-lawns, flowering meadow gardens, xeriscaping, shrub plantings, tree plantings, rain gardens, riparian restoration, and other pollinator-friendly landscaping.
+
+. Criteria to rank applicants should include a detailed budget demonstrating funding needs, resource concerns addressed, value to at-risk native pollinators, multiple-use benefits of habitat, planned project longevity, and plans for long-term maintenance.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5253-S2.SL.pdf?cite=2021%20c%20278%20§%2010[2021 c 278 § 10]; ]
 

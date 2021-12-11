@@ -6,6 +6,8 @@ The definitions in this section apply throughout this chapter unless the context
 
 . "Amplified DNA" means DNA generated during scientific analysis using a polymerase chain reaction.
 
+. "Association" means the Washington association of sheriffs and police chiefs.
+
 . "DNA work product" means (a) product generated during the process of scientific analysis of such material, except amplified DNA, material that had been subjected to DNA extraction, screening by-products, and DNA extracts from reference samples; or (b) any material contained on a microscope slide, swab, in a sample tube, cutting, DNA extract, or some other similar retention method used to isolate potential biological evidence that has been collected by law enforcement or a forensic nurse as part of an investigation and prepared for scientific analysis, whether or not it is submitted for scientific analysis and derived from:
 
 ... The contents of a sexual assault examination kit;
@@ -32,6 +34,40 @@ Notwithstanding the foregoing, "DNA work product" does not include a reference s
 
 . "Governmental entity" means any general law enforcement agency or any person or organization officially acting on behalf of the state or any political subdivision of the state involved in the collection, examination, tracking, packaging, storing, or disposition of biological material collected in connection with a criminal investigation relating to a felony offense.
 
+. "Investigational status" means:
+
+.. The agency case or incident number;
+
+.. The date the request for forensic examination of the sexual assault kit was submitted to the Washington state patrol crime laboratory;
+
+.. The date the forensic examination was complete and reported to the law enforcement agency;
+
+.. Whether the case is open or closed;
+
+.. Whether the case was reopened as a result of the hit in the combined DNA index system;
+
+.. For open cases, whether the case remains:
+
+... An active investigation;
+
+... Open pending forensic examination results; or
+
+... Open and inactive, in which case the agency must include a brief description as to why the case is inactive; and
+
+.. For closed cases, whether the case was closed as a result of:
+
+... A referral for prosecution where charges were filed or the prosecutor is reviewing the case;
+
+... A referral for prosecution where the prosecutor declined to file charges based on the case being legally insufficient;
+
+... A referral for prosecution where the prosecutor declined to file charges because the case failed to meet prosecutorial charging standards;
+
+... After reviewing the results of the forensic examination, there was no evidence that a crime occurred, or there was lack of probable cause that a crime occurred;
+
+.. The inability to locate the victim or lack of victim participation; or
+
+.. Any other reason, in which case the agency must include a brief description as to why the case closed.
+
 . "Reference sample" means a known sample collected from an individual by a governmental entity for the purpose of comparison to DNA profiles developed in a criminal case.
 
 . "Screening by-product" means a product or waste generated during examination of DNA evidence, or the screening process of such evidence, that is not intended for long-term storage.
@@ -40,7 +76,7 @@ Notwithstanding the foregoing, "DNA work product" does not include a reference s
 
 . "Unreported sexual assault kit" means a sexual assault kit where a law enforcement agency has not received a related report or complaint alleging a sexual assault or other crime has occurred.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2318-S.SL.pdf?cite=2020%20c%2026%20§%202[2020 c 26 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1109-S.SL.pdf?cite=2021%20c%20118%20§%201[2021 c 118 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2318-S.SL.pdf?cite=2020%20c%2026%20§%202[2020 c 26 § 2]; ]
 
 == 5.70.010 - Preservation of DNA work product—Failure to preserve DNA work product.
 . In any felony case initially charged as a violent or sex offense, as defined in RCW 9.94A.030, a governmental entity shall preserve any DNA work product that has been secured in connection with the criminal case, including related investigatory reports and records, according to the following guidelines:
@@ -141,4 +177,15 @@ Notwithstanding the foregoing, "DNA work product" does not include a reference s
 . Nothing in this section may be construed to create a private right of action or claim on the part of any individual, entity, or agency against any law enforcement agency or any contractor of any law enforcement agency.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2318-S.SL.pdf?cite=2020%20c%2026%20§%205[2020 c 26 § 5]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1166-S2.SL.pdf?cite=2019%20c%2093%20§%207[2019 c 93 § 7]; ]
+
+== 5.70.060 - Case status updates—Reports.
+. For any sexual assault kit under RCW 5.70.050 where forensic analysis has generated a profile that has resulted in a hit in the combined DNA index system, the office of the attorney general shall request information from the applicable law enforcement agency and prosecuting attorney as to the case status of any related criminal investigation and prosecution, including information as provided under RCW 5.70.005(5) as well as any other relevant information. The law enforcement agency and prosecuting attorney shall provide requested case status updates to the office of the attorney general. The office of the attorney general shall consult with the association when developing any procedures for requesting and collecting case status updates under this section.
+
+. Nothing in this section may be interpreted to require any law enforcement agency or prosecuting attorney to disclose any information that would jeopardize an active criminal investigation or prosecution.
+
+. The attorney general's office shall report quarterly to the association the investigational status of any sexual assault kit under RCW 5.70.050.
+
+. Beginning in 2022, in consultation with the attorney general's office, the association must submit reports on the information collected pursuant to this section to the governor and appropriate committees of the legislature by January 1st and July 1st of each year.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1109-S.SL.pdf?cite=2021%20c%20118%20§%202[2021 c 118 § 2]; ]
 

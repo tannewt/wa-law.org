@@ -701,7 +701,7 @@ If adopted by April 1, 2023, amendments to development regulations and other non
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2343-S.SL.pdf?cite=2020%20c%20173%20§%202[2020 c 173 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1923-S2.SL.pdf?cite=2019%20c%20348%20§%204[2019 c 348 § 4]; ]
 
-== 43.21C.500 - Certain project actions evaluated under this chapter by a city or town planning under RCW  36.70A.040—When exempt from appeals under this chapter.
+== 43.21C.501 - Certain project actions evaluated under this chapter by a city or town planning under RCW  36.70A.040—When exempt from appeals under this chapter.
 . A project action pertaining to residential, multifamily, or mixed use development evaluated under this chapter by a city or town planning under RCW 36.70A.040 is exempt from appeals under this chapter on the basis of the evaluation of or impacts to transportation elements of the environment, so long as the project does not present significant adverse impacts to the state-owned transportation system as determined by the department of transportation and the project is:
 
 .. [Empty]
@@ -717,6 +717,18 @@ If adopted by April 1, 2023, amendments to development regulations and other non
 . For purposes of this section, "impacts to transportation elements of the environment" include impacts to transportation systems; vehicular traffic; waterborne, rail, and air traffic; parking; movement or circulation of people or goods; and traffic hazards.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1923-S2.SL.pdf?cite=2019%20c%20348%20§%206[2019 c 348 § 6]; ]
+
+== 43.21C.515 - Projects permitted pursuant to RCW  77.55.480—Not subject to RCW  43.21C.030(2). (Expires June 30, 2025.)
+. A project that receives a permit pursuant to RCW 77.55.480 is not subject to the requirements of RCW 43.21C.030(2).
+
+. This section expires June 30, 2025.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1382-S2.SL.pdf?cite=2021%20c%2075%20§%203[2021 c 75 § 3]; ]
+
+== 43.21C.520 - Review of greenhouse gas emissions from a new or expanded facility.
+The review under this chapter of greenhouse gas emissions from a new or expanded facility subject to the greenhouse gas emission reduction requirements of chapter 70A.65 RCW must occur consistent with RCW 70A.65.080(9).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5126-S2.SL.pdf?cite=2021%20c%20316%20§%2034[2021 c 316 § 34]; ]
 
 == 43.21C.900 - Short title.
 This chapter shall be known and may be cited as the "State Environmental Policy Act" or "SEPA".

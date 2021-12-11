@@ -1,14 +1,14 @@
 = 70.58A - Vital statistics.
 :toc:
 
-== 70.58A.005 - Purpose. (Effective January 1, 2021.)
+== 70.58A.005 - Purpose.
 . Protection of public health requires a vital records system that provides proof of vital life events and gathers population health data for assessment, evaluation, research, and other public health purposes. An efficient and effective vital records system is a foundational public health service to support a healthy and productive population.
 
 . The purpose of this chapter is to provide a framework for ongoing administration of a single comprehensive vital records system in the state that is operated and maintained by the department, under the supervision of the state registrar, to preserve the security, integrity, and confidentiality of state vital records and vital statistics, established under RCW 43.70.130 and this chapter.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%201[2019 c 148 § 1]; ]
 
-== 70.58A.010 - Definitions. (Effective January 1, 2021, until January 1, 2022.)
+== 70.58A.010 - Definitions. (Effective until January 1, 2022.)
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 
 . "Adult" means a person who is at least eighteen years of age, or an emancipated minor under chapter 13.64 RCW.
@@ -124,12 +124,12 @@ The definitions in this section apply throughout this chapter unless the context
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%203[2019 c 148 § 3]; ]
 
-== 70.58A.030 - Appointment of the state registrar. (Effective January 1, 2021.)
+== 70.58A.030 - Appointment of the state registrar.
 The secretary shall appoint the state registrar in accordance with RCW 43.70.020 and 43.70.150.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%204[2019 c 148 § 4]; ]
 
-== 70.58A.040 - Duties of the state registrar. (Effective January 1, 2021.)
+== 70.58A.040 - Duties of the state registrar.
 . The state registrar shall administer and enforce the provisions of this chapter and shall:
 
 .. Administer the operation and maintenance of the vital records system to preserve the security, integrity, and confidentiality of state vital records and vital statistics established under RCW 43.70.130 and 43.70.150 and this chapter;
@@ -158,7 +158,7 @@ The secretary shall appoint the state registrar in accordance with RCW 43.70.020
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%205[2019 c 148 § 5]; ]
 
-== 70.58A.050 - Appointment of local and deputy registrars. (Effective January 1, 2021.)
+== 70.58A.050 - Appointment of local and deputy registrars.
 . Under the direction and control of the state registrar, the local health officer of each health jurisdiction is and shall serve as local registrar.
 
 . Subject to the approval of the state registrar, each local registrar shall appoint a sufficient number of deputy registrars to perform the duties prescribed by this chapter applicable to local registrars. The local registrar shall submit each proposed appointment to the state registrar in writing. The state registrar shall either approve or deny the appointment in writing prior to the assumption of duties by the deputy registrar. The state registrar may deny an appointment for good cause.
@@ -169,7 +169,7 @@ The secretary shall appoint the state registrar in accordance with RCW 43.70.020
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%206[2019 c 148 § 6]; ]
 
-== 70.58A.060 - Vital records system security requirements—Fraud detection—Data validation. (Effective January 1, 2021.)
+== 70.58A.060 - Vital records system security requirements—Fraud detection—Data validation.
 . A person may not prepare or issue any vital record that purports to be an original, certification of, or copy of a vital record except as authorized in this chapter.
 
 . All certifications of vital records must include security features to deter alteration, counterfeiting, or simulation without ready detection.
@@ -192,14 +192,14 @@ The secretary shall appoint the state registrar in accordance with RCW 43.70.020
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%207[2019 c 148 § 7]; ]
 
-== 70.58A.070 - Mandatory use of prescribed forms, reporting of data required for registration. (Effective January 1, 2021.)
+== 70.58A.070 - Mandatory use of prescribed forms, reporting of data required for registration.
 . Forms prescribed by the state registrar must be used in reporting, registering, and issuing certifications and informational copies, and preserving vital records, or in otherwise carrying out the purpose of this chapter.
 
 . Reports must contain the data required for registration. No report may be held to be complete and correct that does not supply all items of information required under this chapter, or that does not satisfactorily account for the omission of required items.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%208[2019 c 148 § 8]; ]
 
-== 70.58A.100 - Live birth of child of known parentage—Reporting and registration requirements. (Effective January 1, 2021.)
+== 70.58A.100 - Live birth of child of known parentage—Reporting and registration requirements.
 . A facility representative or midwife shall prepare and submit a report of live birth for each live birth at which that person attended that occurs in this state to the department within ten calendar days after the birth occurs. The facility representative or midwife shall:
 
 .. Include all data and evidence required to establish the facts of live birth under this section;
@@ -246,7 +246,7 @@ The secretary shall appoint the state registrar in accordance with RCW 43.70.020
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%209[2019 c 148 § 9]; ]
 
-== 70.58A.110 - Live birth of child of unknown parentage—Reporting and registration requirements. (Effective January 1, 2021.)
+== 70.58A.110 - Live birth of child of unknown parentage—Reporting and registration requirements.
 . When a child is found for whom no record of live birth is known to be on file, within ten calendar days of the child being found, a report of a live birth must be filed with the department in a manner prescribed by the state registrar.
 
 . If the child is identified at a later date and another live birth record is found, the state registrar shall void the record registered under subsection (1) of this section.
@@ -255,7 +255,7 @@ The secretary shall appoint the state registrar in accordance with RCW 43.70.020
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%2010[2019 c 148 § 10]; ]
 
-== 70.58A.120 - Delayed report of live birth—Registration requirements. (Effective January 1, 2021.)
+== 70.58A.120 - Delayed report of live birth—Registration requirements.
 . An individual requesting a delayed report of live birth shall submit to the state registrar a completed and signed delayed report of live birth. Each report must include documentary evidence establishing the facts of the live birth and any applicable fees. The completed delayed report of live birth must be signed and sworn under penalty of perjury by the individual whose live birth is to be registered if the individual is an adult, or by the parent or legal guardian if the individual whose live birth is to be registered is not an adult.
 
 . An individual requesting the delayed report of live birth of an individual under twelve years of age must establish the facts concerning full name, date, and place of live birth.
@@ -274,7 +274,7 @@ The secretary shall appoint the state registrar in accordance with RCW 43.70.020
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%2011[2019 c 148 § 11]; ]
 
-== 70.58A.130 - Court-ordered registration of a delayed report of live birth—Petition and hearing requirements—Burden and standard of proof. (Effective January 1, 2021.)
+== 70.58A.130 - Court-ordered registration of a delayed report of live birth—Petition and hearing requirements—Burden and standard of proof.
 . If the state registrar denies a delayed report of live birth under the provisions of RCW 70.58A.120, the individual requesting the delayed report of live birth may petition a court of competent jurisdiction for an order establishing a record of the name, date, and place of the live birth, and parentage of the individual whose live birth is to be registered.
 
 . The petition must allege:
@@ -297,7 +297,7 @@ The secretary shall appoint the state registrar in accordance with RCW 43.70.020
 
 . If the court finds, by clear and convincing evidence, that the individual for whom a delayed report of live birth is sought was born in state, the court shall issue an order requiring the state registrar to establish a delayed record of live birth. This order must include, at a minimum, the following findings:
 
-.. The full name, city and county of live birth, and birth date to be registered of the individual whose live birth is to be registered;
+.. The full name, city and county of live birth, and birthdate to be registered of the individual whose live birth is to be registered;
 
 .. The full name, state or country of birth, and date of birth of the individual who gave birth; and
 
@@ -309,7 +309,7 @@ The secretary shall appoint the state registrar in accordance with RCW 43.70.020
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%2012[2019 c 148 § 12]; ]
 
-== 70.58A.200 - Reports of death—Filing and registration requirements. (Effective January 1, 2021.)
+== 70.58A.200 - Reports of death—Filing and registration requirements.
 . [Empty]
 .. Reports of death and fetal death must comply with the requirements of this section.
 
@@ -391,7 +391,7 @@ The secretary shall appoint the state registrar in accordance with RCW 43.70.020
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%2013[2019 c 148 § 13]; ]
 
-== 70.58A.210 - Final disposition of human remains—Issuance of burial-transit and disinterment permits. (Effective January 1, 2021.)
+== 70.58A.210 - Final disposition of human remains—Issuance of burial-transit and disinterment permits.
 . [Empty]
 .. Reports of death and fetal death must comply with the requirements of this section.
 
@@ -445,17 +445,17 @@ The secretary shall appoint the state registrar in accordance with RCW 43.70.020
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%2014[2019 c 148 § 14]; ]
 
-== 70.58A.300 - Registration of reports of marriage. (Effective January 1, 2021.)
+== 70.58A.300 - Registration of reports of marriage.
 The state registrar shall register reports of marriage received from a state county auditor pursuant to chapter 26.04 RCW.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%2015[2019 c 148 § 15]; ]
 
-== 70.58A.310 - Registration of reports of legal separation, dissolution, and declaration of invalidity of marriage or domestic partnership. (Effective January 1, 2021.)
+== 70.58A.310 - Registration of reports of legal separation, dissolution, and declaration of invalidity of marriage or domestic partnership.
 The state registrar shall register reports of legal separation, dissolution of marriage, dissolution of domestic partnership, declaration of invalidity of marriage, and declaration of invalidity of domestic partnership from the clerk of each state superior court pursuant to chapter 26.09 RCW.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%2016[2019 c 148 § 16]; ]
 
-== 70.58A.400 - Adoption—Amendment of birth record or registration of birth—Sealing of original birth record. (Effective January 1, 2021.)
+== 70.58A.400 - Adoption—Amendment of birth record or registration of birth—Sealing of original birth record.
 . The state registrar shall amend the birth record of a child born in state to reflect an adoption decree received from a Washington state court of competent jurisdiction upon receipt of:
 
 .. An application to register an adoption;
@@ -498,7 +498,7 @@ The state registrar shall register reports of legal separation, dissolution of m
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%2017[2019 c 148 § 17]; ]
 
-== 70.58A.500 - Amendment of vital records—When authorized—Grounds for denial. (Effective January 1, 2021.)
+== 70.58A.500 - Amendment of vital records—When authorized—Grounds for denial.
 . The state registrar may amend certification items on state vital records.
 
 . The state registrar may amend a live birth record to change the name of a person born in state:
@@ -525,7 +525,7 @@ The state registrar shall register reports of legal separation, dissolution of m
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%2018[2019 c 148 § 18]; ]
 
-== 70.58A.510 - Preservation of vital records—Transfer to state archives. (Effective January 1, 2021.)
+== 70.58A.510 - Preservation of vital records—Transfer to state archives.
 . The state registrar shall develop and implement a preservation management policy for the vital records system for permanent preservation while in the custody of the state registrar.
 
 . The state registrar shall transfer the custody of vital records to the state archives in accordance with state archival procedures when:
@@ -552,7 +552,7 @@ The state registrar shall register reports of legal separation, dissolution of m
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%2019[2019 c 148 § 19]; ]
 
-== 70.58A.520 - Disclosure of vital records, data, and vital statistics—When authorized. (Effective January 1, 2021.)
+== 70.58A.520 - Disclosure of vital records, data, and vital statistics—When authorized.
 . The department may disclose vital records information for persons named in any birth, death, or fetal death record only as provided under this chapter.
 
 . Proposals for research and public health purposes must be reviewed and approved as to scientific merit and adequacy of confidentiality safeguards in accordance with this section.
@@ -627,7 +627,7 @@ The state registrar shall register reports of legal separation, dissolution of m
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%2020[2019 c 148 § 20]; ]
 
-== 70.58A.530 - Issuance of certifications and informational copies of vital records. (Effective January 1, 2021.)
+== 70.58A.530 - Issuance of certifications and informational copies of vital records. (Effective until October 1, 2022.)
 . [Empty]
 .. A certification issued in accordance with this section is considered for all purposes the same as the original vital record and is prima facie evidence of the facts stated therein.
 
@@ -715,14 +715,14 @@ The state registrar shall register reports of legal separation, dissolution of m
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%2021[2019 c 148 § 21]; ]
 
-== 70.58A.540 - Vital records not subject to public disclosure—Exceptions. (Effective January 1, 2021.)
+== 70.58A.540 - Vital records not subject to public disclosure—Exceptions.
 . All or part of any vital records, reports, supporting documentation, vital statistics, data, or information contained therein are not subject to public inspection and copying under chapter 42.56 RCW.
 
 . With the exception of certifications and informational copies issued under RCW 70.58A.530, or unless otherwise authorized by this chapter, no person may permit the inspection of, disclose data or information contained in, or copy or issue a copy of all or part of any vital records, reports, supporting documentation, vital statistics, data, or information contained therein.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%2022[2019 c 148 § 22]; ]
 
-== 70.58A.550 - Adjudicative proceedings. (Effective January 1, 2021.)
+== 70.58A.550 - Adjudicative proceedings.
 . This section governs any case in which the state registrar takes one of the following adverse actions:
 
 .. Denies or revokes registration of a report or application for an amendment;
@@ -751,7 +751,7 @@ The state registrar shall register reports of legal separation, dissolution of m
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%2023[2019 c 148 § 23]; ]
 
-== 70.58A.560 - Fees for certifications or informational copies of vital records—Exceptions. (Effective January 1, 2021.)
+== 70.58A.560 - Fees for certifications or informational copies of vital records—Exceptions.
 . The department and local registrars shall charge a fee of twenty-five dollars for a certification or informational copy of a vital record or for a search of the vital records system when no matching record was identified, except as provided in subsection (2) of this section.
 
 . The department and local registrars may not charge a fee for issuing a certification of:
@@ -790,7 +790,7 @@ The state registrar shall register reports of legal separation, dissolution of m
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%2024[2019 c 148 § 24]; ]
 
-== 70.58A.570 - Duty of local registrar to submit monthly reports—Duty of state registrar to periodically test and audit fraud prevention procedures. (Effective January 1, 2021.)
+== 70.58A.570 - Duty of local registrar to submit monthly reports—Duty of state registrar to periodically test and audit fraud prevention procedures.
 . The local registrar shall, on a monthly basis, submit the following to the state registrar:
 
 .. A summary of the number of certifications and informational copies issued by vital life event type in a format provided by the state registrar;
@@ -803,7 +803,7 @@ The state registrar shall register reports of legal separation, dissolution of m
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%2025[2019 c 148 § 25]; ]
 
-== 70.58A.580 - Enforcement—Duties of local registrars—Investigations. (Effective January 1, 2021.)
+== 70.58A.580 - Enforcement—Duties of local registrars—Investigations.
 . All requirements of this chapter must be uniformly complied with by all local registrars in state.
 
 . Local registrars are charged with the strict and thorough enforcement of the provisions of this chapter in their health jurisdictions, under the supervision and direction of the state registrar, and:
@@ -830,14 +830,14 @@ The state registrar shall register reports of legal separation, dissolution of m
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%2026[2019 c 148 § 26]; ]
 
-== 70.58A.590 - Penalties. (Effective January 1, 2021.)
+== 70.58A.590 - Penalties.
 . Every person who violates or willfully fails, neglects, or refuses to comply with any provisions of this chapter is guilty of a misdemeanor.
 
 . Every person who willfully furnishes false information or who makes any false statement to establish a vital record or obtain a certification required by this chapter is guilty of a gross misdemeanor.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%2027[2019 c 148 § 27]; ]
 
-== 70.58A.900 - Applicability—2019 c 148. (Effective January 1, 2021.)
+== 70.58A.900 - Applicability—2019 c 148.
 . This act applies to all causes of action commenced on or after January 1, 2021, regardless of when the cause of action arose.
 
 . The requirements of this act apply to all records covered by this act that are held by the department or state registrar, regardless of the date the record was created or modified.

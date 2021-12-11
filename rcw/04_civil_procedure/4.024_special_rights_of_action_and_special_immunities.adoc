@@ -93,7 +93,7 @@ All notes, bills, bonds, mortgages, or other securities, or other conveyances, t
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1559-S.SL.pdf?cite=2012%20c%20160%20§%201[2012 c 160 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%2095[2011 c 336 § 95]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6674-S.SL.pdf?cite=2010%20c%20120%20§%201[2010 c 120 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c305.pdf?cite=1986%20c%20305%20§%20601[1986 c 305 § 601]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c46.pdf?cite=1967%20ex.s.%20c%2046%20§%202[1967 ex.s. c 46 § 2]; ]
 
-== 4.24.130 - Action for change of name—Fees.
+== 4.24.130 - Action for change of name—Fees. (Effective until July 1, 2022.)
 . Any person desiring a change of his or her name or that of his or her child or ward, may apply therefor to the district court of the judicial district in which he or she resides, by petition setting forth the reasons for such change; thereupon such court in its discretion may order a change of the name and thenceforth the new name shall be in place of the former.
 
 . An offender under the jurisdiction of the department of corrections who applies to change his or her name under subsection (1) of this section shall submit a copy of the application to the department of corrections not fewer than five days before the entry of an order granting the name change. No offender under the jurisdiction of the department of corrections at the time of application shall be granted an order changing his or her name if the court finds that doing so will interfere with legitimate penological interests, except that no order shall be denied when the name change is requested for religious or legitimate cultural reasons or in recognition of marriage or dissolution of marriage. An offender under the jurisdiction of the department of corrections who receives an order changing his or her name shall submit a copy of the order to the department of corrections within five days of the entry of the order. Violation of this subsection is a misdemeanor.
@@ -287,6 +287,28 @@ For the purposes of RCW 4.24.300 the following words and phrases shall have the 
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c223.pdf?cite=1989%20c%20223%20§%201[1989 c 223 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c212.pdf?cite=1987%20c%20212%20§%20501[1987 c 212 § 501]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c443.pdf?cite=1985%20c%20443%20§%2020[1985 c 443 § 20]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975c58.pdf?cite=1975%20c%2058%20§%202[1975 c 58 § 2]; ]
 
+== 4.24.311 - Immunity from liability for certain care or assistance at scene of emergency or disaster.
+. Any person who, without compensation or the expectation of compensation, renders nonmedical care or assistance at the scene of an emergency or disaster shall not be liable for civil damages resulting from any act or omission in the rendering of such care or assistance other than acts or omissions constituting gross negligence or willful or wanton misconduct. Any person rendering such care or assistance during the course of regular employment and receiving compensation or expecting to receive compensation for rendering such care or assistance is excluded from the protection of this section.
+
+. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+.. "Compensation" has its ordinary meaning but does not include: Nominal payments, reimbursement for expenses, or pension benefits; payments made to volunteer part-time and volunteer on-call personnel of fire departments, fire districts, ambulance districts, police departments, or any emergency response organization; or any payment to a person employed as a transit operator who is paid for his or her regular work, which work does not routinely include providing emergency transportation.
+
+.. "Emergency or disaster" means an event or set of circumstances that:
+
+... Demands immediate action to preserve public health, protect life, protect public property, or to provide relief to any stricken community overtaken by such occurrence; or
+
+... Reaches such a dimension or degree of destructiveness as to warrant the governor declaring a state of emergency pursuant to RCW 43.06.010.
+
+.. "Nonmedical care or assistance" includes response and rescue operations as well as the provision of such necessities and amenities as food, supplies, shelter, transportation, and child care.
+
+. [Empty]
+.. This section does not apply to emergency workers registered in accordance with chapter 38.52 RCW or to the related volunteer organizations to which they may belong.
+
+.. The immunity granted by this section is in addition to any common law or statutory immunity enjoyed by such person, and nothing in this section abrogates or modifies in any way such common law or statutory immunity.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1209-S.SL.pdf?cite=2021%20c%2066%20§%201[2021 c 66 § 1]; ]
+
 == 4.24.314 - Person causing hazardous materials incident—Responsibility for incident clean-up—Liability.
 . Any person transporting hazardous materials shall clean up any hazardous materials incident that occurs during transportation, and shall take such additional action as may be reasonably necessary after consultation with the designated incident command agency in order to achieve compliance with all applicable federal and state laws and regulations.
 
@@ -316,6 +338,45 @@ Any person whose livestock is damaged as a result of actions described in RCW 16
 Merchants and other parties who create a database of individuals who have been: Apprehended in the process of committing a property crime; assessed a civil fine or penalty for committing a property crime; or convicted of a property crime are not subject to civil fines or penalties for sharing information from the database with other merchants, law enforcement officials, or legal professionals.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6167.SL.pdf?cite=2009%20c%20431%20§%2019[2009 c 431 § 19]; ]
+
+== 4.24.345 - Unlawfully summoning a law enforcement officer—Civil action.
+. A person may bring a civil action for damages against any person who knowingly causes a law enforcement officer to arrive at a location to contact another person with the intent to:
+
+.. Infringe on the other person's rights under the Washington state or United States Constitutions;
+
+.. Unlawfully discriminate against the other person;
+
+.. Cause the other person to feel harassed, humiliated, or embarrassed;
+
+.. Cause the other person to be expelled from a place in which the other person is lawfully located; or
+
+.. Damage the other person's:
+
+... Reputation or standing in the community; or
+
+... Financial, economic, consumer, or business prospects or interests.
+
+. A person shall not be held liable under subsection (1) of this section if the person acted in good faith in causing a law enforcement officer to arrive.
+
+. Upon prevailing in an action under this section, the plaintiff may recover:
+
+.. The greater of:
+
+... Economic and noneconomic damages; or
+
+... $250 against each defendant found liable under this section; and
+
+.. Punitive damages.
+
+. The court may award reasonable attorneys' fees and costs to the prevailing plaintiff in an action under this section.
+
+. A civil action under this section:
+
+.. May be maintained in a court of limited jurisdiction if the total damages claimed do not exceed the statutory limit for damages that the court of limited jurisdiction may award; and
+
+.. Does not affect a right or remedy available under any other law of this state.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5135.SL.pdf?cite=2021%20c%20330%20§%201[2021 c 330 § 1]; ]
 
 == 4.24.350 - Actions for damages that are false, unfounded, malicious, without probable cause, or part of conspiracy—Action, claim, or counterclaim by judicial officer, prosecuting authority, or law enforcement officer for malicious prosecution—Damages and costs—Attorneys' fees—Definitions.
 . In any action for damages, whether based on tort or contract or otherwise, a claim or counterclaim for damages may be litigated in the principal action for malicious prosecution on the ground that the action was instituted with knowledge that the same was false, and unfounded, malicious and without probable cause in the filing of such action, or that the same was filed as a part of a conspiracy to misuse judicial process by filing an action known to be false and unfounded.
@@ -374,10 +435,14 @@ No building warden, who acts in good faith, with or without compensation, shall 
 
 [ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1864.SL.pdf?cite=1993%20c%20180%20§%201[1993 c 180 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c26.pdf?cite=1989%20c%2026%20§%201[1989 c 26 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c22.pdf?cite=1982%20c%2022%20§%201[1982 c 22 § 1]; ]
 
-== 4.24.420 - Action by person committing a felony—Defense—Actions under 42 U.S.C. Sec. 1983.
-It is a complete defense to any action for damages for personal injury or wrongful death that the person injured or killed was engaged in the commission of a felony at the time of the occurrence causing the injury or death and the felony was a proximate cause of the injury or death. However, nothing in this section shall affect a right of action under 42 U.S.C. Sec. 1983.
+== 4.24.420 - Action by person committing a felony—Defense—Law enforcement activities—Actions under 42 U.S.C. Sec. 1983.
+. Except in an action arising out of law enforcement activities resulting in personal injury or death, it is a complete defense to any action for damages for personal injury or wrongful death that the person injured or killed was engaged in the commission of a felony at the time of the occurrence causing the injury or death and the felony was a proximate cause of the injury or death.
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c212.pdf?cite=1987%20c%20212%20§%20901[1987 c 212 § 901]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c305.pdf?cite=1986%20c%20305%20§%20501[1986 c 305 § 501]; ]
+. In an action arising out of law enforcement activities resulting in personal injury or death, it is a complete defense to the action that the finder of fact has determined beyond a reasonable doubt that the person injured or killed was engaged in the commission of a felony at the time of the occurrence causing the injury or death, the commission of which was a proximate cause of the injury or death.
+
+. Nothing in this section shall affect a right of action under 42 U.S.C. Sec. 1983.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5263-S.SL.pdf?cite=2021%20c%20325%20§%201[2021 c 325 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c212.pdf?cite=1987%20c%20212%20§%20901[1987 c 212 § 901]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c305.pdf?cite=1986%20c%20305%20§%20501[1986 c 305 § 501]; ]
 
 == 4.24.430 - Actions by persons serving criminal sentence—Waiver of filing fees—Effect of previous claims dismissed on grounds claim was frivolous or malicious.
 If a person serving a criminal sentence in a federal, state, local, or privately operated correctional facility seeks leave to proceed in state court without payment of filing fees in any civil action or appeal against the state, a state or local governmental agency or entity, or a state or local official, employee, or volunteer acting in such capacity, except an action that, if successful, would affect the duration of the person's confinement, the court shall deny the request for waiver of the court filing fees if the person has, on three or more occasions while incarcerated or detained in any such facility, brought an action or appeal that was dismissed by a state or federal court on grounds that it was frivolous or malicious. One of the three previous dismissals must have involved an action or appeal commenced after July 22, 2011. A court may permit the person to commence the action or appeal without payment of filing fees if the court determines the person is in imminent danger of serious physical injury.
@@ -465,80 +530,6 @@ In order to protect the free flow of information from citizens to their governme
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c234.pdf?cite=1989%20c%20234%20§%204[1989 c 234 § 4]; ]
 
-== 4.24.525 - Public participation lawsuits—Special motion to strike claim—Damages, costs, attorneys' fees, other relief—Definitions.
-. As used in this section:
-
-.. "Claim" includes any lawsuit, cause of action, claim, cross-claim, counterclaim, or other judicial pleading or filing requesting relief;
-
-.. "Government" includes a branch, department, agency, instrumentality, official, employee, agent, or other person acting under color of law of the United States, a state, or subdivision of a state or other public authority;
-
-.. "Moving party" means a person on whose behalf the motion described in subsection (4) of this section is filed seeking dismissal of a claim;
-
-.. "Other governmental proceeding authorized by law" means a proceeding conducted by any board, commission, agency, or other entity created by state, county, or local statute or rule, including any self-regulatory organization that regulates persons involved in the securities or futures business and that has been delegated authority by a federal, state, or local government agency and is subject to oversight by the delegating agency.
-
-.. "Person" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, or any other legal or commercial entity;
-
-.. "Responding party" means a person against whom the motion described in subsection (4) of this section is filed.
-
-. This section applies to any claim, however characterized, that is based on an action involving public participation and petition. As used in this section, an "action involving public participation and petition" includes:
-
-.. Any oral statement made, or written statement or other document submitted, in a legislative, executive, or judicial proceeding or other governmental proceeding authorized by law;
-
-.. Any oral statement made, or written statement or other document submitted, in connection with an issue under consideration or review by a legislative, executive, or judicial proceeding or other governmental proceeding authorized by law;
-
-.. Any oral statement made, or written statement or other document submitted, that is reasonably likely to encourage or to enlist public participation in an effort to effect consideration or review of an issue in a legislative, executive, or judicial proceeding or other governmental proceeding authorized by law;
-
-.. Any oral statement made, or written statement or other document submitted, in a place open to the public or a public forum in connection with an issue of public concern; or
-
-.. Any other lawful conduct in furtherance of the exercise of the constitutional right of free speech in connection with an issue of public concern, or in furtherance of the exercise of the constitutional right of petition.
-
-. This section does not apply to any action brought by the attorney general, prosecuting attorney, or city attorney, acting as a public prosecutor, to enforce laws aimed at public protection.
-
-. [Empty]
-.. A party may bring a special motion to strike any claim that is based on an action involving public participation and petition, as defined in subsection (2) of this section.
-
-.. A moving party bringing a special motion to strike a claim under this subsection has the initial burden of showing by a preponderance of the evidence that the claim is based on an action involving public participation and petition. If the moving party meets this burden, the burden shifts to the responding party to establish by clear and convincing evidence a probability of prevailing on the claim. If the responding party meets this burden, the court shall deny the motion.
-
-.. In making a determination under (b) of this subsection, the court shall consider pleadings and supporting and opposing affidavits stating the facts upon which the liability or defense is based.
-
-.. If the court determines that the responding party has established a probability of prevailing on the claim:
-
-... The fact that the determination has been made and the substance of the determination may not be admitted into evidence at any later stage of the case; and
-
-... The determination does not affect the burden of proof or standard of proof that is applied in the underlying proceeding.
-
-.. The attorney general's office or any government body to which the moving party's acts were directed may intervene to defend or otherwise support the moving party.
-
-. [Empty]
-.. The special motion to strike may be filed within sixty days of the service of the most recent complaint or, in the court's discretion, at any later time upon terms it deems proper. A hearing shall be held on the motion not later than thirty days after the service of the motion unless the docket conditions of the court require a later hearing. Notwithstanding this subsection, the court is directed to hold a hearing with all due speed and such hearings should receive priority.
-
-.. The court shall render its decision as soon as possible but no later than seven days after the hearing is held.
-
-.. All discovery and any pending hearings or motions in the action shall be stayed upon the filing of a special motion to strike under subsection (4) of this section. The stay of discovery shall remain in effect until the entry of the order ruling on the motion. Notwithstanding the stay imposed by this subsection, the court, on motion and for good cause shown, may order that specified discovery or other hearings or motions be conducted.
-
-.. Every party has a right of expedited appeal from a trial court order on the special motion or from a trial court's failure to rule on the motion in a timely fashion.
-
-. [Empty]
-.. The court shall award to a moving party who prevails, in part or in whole, on a special motion to strike made under subsection (4) of this section, without regard to any limits under state law:
-
-... Costs of litigation and any reasonable attorneys' fees incurred in connection with each motion on which the moving party prevailed;
-
-... An amount of ten thousand dollars, not including the costs of litigation and attorney fees; and
-
-... Such additional relief, including sanctions upon the responding party and its attorneys or law firms, as the court determines to be necessary to deter repetition of the conduct and comparable conduct by others similarly situated.
-
-.. If the court finds that the special motion to strike is frivolous or is solely intended to cause unnecessary delay, the court shall award to a responding party who prevails, in part or in whole, without regard to any limits under state law:
-
-... Costs of litigation and any reasonable attorneys' fees incurred in connection with each motion on which the responding party prevailed;
-
-... An amount of ten thousand dollars, not including the costs of litigation and attorneys' fees; and
-
-... Such additional relief, including sanctions upon the moving party and its attorneys or law firms, as the court determines to be necessary to deter repetition of the conduct and comparable conduct by others similarly situated.
-
-. Nothing in this section limits or precludes any rights the moving party may have under any other constitutional, statutory, case or common law, or rule provisions.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6395-S.SL.pdf?cite=2010%20c%20118%20§%202[2010 c 118 § 2]; ]
-
 == 4.24.530 - Limitations on liability for equine activities—Definitions.
 Unless the context clearly indicates otherwise, the definitions in this section apply to RCW 4.24.530, 4.24.540, and section 3, chapter 292, Laws of 1989.
 
@@ -587,7 +578,7 @@ Local governments, their subdivisions and employees, the department of correctio
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5912-S2.SL.pdf?cite=2013%202nd%20sp.s.%20c%2035%20§%2033[2013 2nd sp.s. c 35 § 33]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2407-S.SL.pdf?cite=2006%20c%20130%20§%203[2006 c 130 § 3]; ]
 
-== 4.24.550 - Sex offenders and kidnapping offenders—Release of information to public—Web site.
+== 4.24.550 - Sex offenders and kidnapping offenders—Release of information to public—Website.
 . In addition to the disclosure under subsection (5) of this section, public agencies are authorized to release information to the public regarding sex offenders and kidnapping offenders when the agency determines that disclosure of the information is relevant and necessary to protect the public and counteract the danger created by the particular offender. This authorization applies to information regarding: (a) Any person adjudicated or convicted of a sex offense as defined in RCW 9A.44.128 or a kidnapping offense as defined by RCW 9A.44.128; (b) any person under the jurisdiction of the indeterminate sentence review board as the result of a sex offense or kidnapping offense; (c) any person committed as a sexually violent predator under chapter 71.09 RCW or as a sexual psychopath under chapter 71.06 RCW; (d) any person found not guilty of a sex offense or kidnapping offense by reason of insanity under chapter 10.77 RCW; and (e) any person found incompetent to stand trial for a sex offense or kidnapping offense and subsequently committed under chapter 71.05 or 71.34 RCW.
 
 . Except for the information specifically required under subsection (5) of this section, the extent of the public disclosure of relevant and necessary information shall be rationally related to: (a) The level of risk posed by the offender to the community; (b) the locations where the offender resides, expects to reside, or is regularly found; and (c) the needs of the affected community members for information to enhance their individual and collective safety.
@@ -597,18 +588,18 @@ Local governments, their subdivisions and employees, the department of correctio
 . The county sheriff with whom an offender classified as risk level III is registered shall release a sex offender community notification that conforms to the guidelines established under RCW 4.24.5501.
 
 . [Empty]
-.. When funded by federal grants or other sources, the Washington association of sheriffs and police chiefs shall create and maintain a statewide registered kidnapping and sex offender web site, which shall be available to the public. The web site shall post all level III and level II registered sex offenders, level I registered sex offenders only during the time they are out of compliance with registration requirements under RCW 9A.44.130 or if lacking a fixed residence as provided in RCW 9A.44.130, and all registered kidnapping offenders in the state of Washington.
+.. When funded by federal grants or other sources, the Washington association of sheriffs and police chiefs shall create and maintain a statewide registered kidnapping and sex offender website, which shall be available to the public. The website shall post all level III and level II registered sex offenders, level I registered sex offenders only during the time they are out of compliance with registration requirements under RCW 9A.44.130 or if lacking a fixed residence as provided in RCW 9A.44.130, and all registered kidnapping offenders in the state of Washington.
 
-... For level III offenders, the web site shall contain, but is not limited to, the registered sex offender's name, relevant criminal convictions, address by hundred block, physical description, and photograph. The web site shall provide mapping capabilities that display the sex offender's address by hundred block on a map. The web site shall allow citizens to search for registered sex offenders within the state of Washington by county, city, zip code, last name, and address by hundred block.
+... For level III offenders, the website shall contain, but is not limited to, the registered sex offender's name, relevant criminal convictions, address by hundred block, physical description, and photograph. The website shall provide mapping capabilities that display the sex offender's address by hundred block on a map. The website shall allow citizens to search for registered sex offenders within the state of Washington by county, city, zip code, last name, and address by hundred block.
 
-... For level II offenders, and level I sex offenders during the time they are out of compliance with registration requirements under RCW 9A.44.130, the web site shall contain, but is not limited to, the same information and functionality as described in (a)(i) of this subsection, provided that it is permissible under state and federal law. If it is not permissible, the web site shall be limited to the information and functionality that is permissible under state and federal law.
+... For level II offenders, and level I sex offenders during the time they are out of compliance with registration requirements under RCW 9A.44.130, the website shall contain, but is not limited to, the same information and functionality as described in (a)(i) of this subsection, provided that it is permissible under state and federal law. If it is not permissible, the website shall be limited to the information and functionality that is permissible under state and federal law.
 
-... For kidnapping offenders, the web site shall contain, but is not limited to, the same information and functionality as described in (a)(i) of this subsection, provided that it is permissible under state and federal law. If it is not permissible, the web site shall be limited to the information and functionality that is permissible under state and federal law.
+... For kidnapping offenders, the website shall contain, but is not limited to, the same information and functionality as described in (a)(i) of this subsection, provided that it is permissible under state and federal law. If it is not permissible, the website shall be limited to the information and functionality that is permissible under state and federal law.
 
-.. Law enforcement agencies must provide information requested by the Washington association of sheriffs and police chiefs to administer the statewide registered kidnapping and sex offender web site.
+.. Law enforcement agencies must provide information requested by the Washington association of sheriffs and police chiefs to administer the statewide registered kidnapping and sex offender website.
 
 .. [Empty]
-... Within five business days of the Washington association of sheriffs and police chiefs receiving any public record request under chapter 42.56 RCW for sex offender and kidnapping offender information, records or web site data it holds or maintains pursuant to this section or a unified sex offender registry, the Washington association of sheriffs and police chiefs shall refer the requester in writing to the appropriate law enforcement agency or agencies for submission of such a request. The Washington association of sheriffs and police chiefs shall have no further obligation under chapter 42.56 RCW for responding to such a request.
+... Within five business days of the Washington association of sheriffs and police chiefs receiving any public record request under chapter 42.56 RCW for sex offender and kidnapping offender information, records or website data it holds or maintains pursuant to this section or a unified sex offender registry, the Washington association of sheriffs and police chiefs shall refer the requester in writing to the appropriate law enforcement agency or agencies for submission of such a request. The Washington association of sheriffs and police chiefs shall have no further obligation under chapter 42.56 RCW for responding to such a request.
 
 ... This subparagraph (c) of this section is remedial and applies retroactively.
 
@@ -840,7 +831,7 @@ No person who owns, operates, is employed by, or volunteers at a program approve
 == 4.24.680 - Unlawful release of court and law enforcement employee information—Exception.
 . A person shall not knowingly make available on the world wide web the personal information of a peace officer, corrections person, justice, judge, commissioner, public defender, or prosecutor if the dissemination of the personal information poses an imminent and serious threat to the peace officer's, corrections person's, justice's, judge's, commissioner's, public defender's, or prosecutor's safety or the safety of that person's immediate family and the threat is reasonably apparent to the person making the information available on the world wide web to be serious and imminent.
 
-. It is not a violation of this section if an employee of a county auditor or county assessor publishes personal information, in good faith, on the web site of the county auditor or county assessor in the ordinary course of carrying out public functions.
+. It is not a violation of this section if an employee of a county auditor or county assessor publishes personal information, in good faith, on the website of the county auditor or county assessor in the ordinary course of carrying out public functions.
 
 . For the purposes of this section:
 
@@ -950,13 +941,13 @@ The legislature finds that the provision of preconviction and postconviction mis
 
 . For the purposes of this section:
 
-.. "Limited jurisdiction court" means a district court or a municipal court, and anyone acting or operating at the direction of such court, including but not limited to its officers, employees, agents, contractors, and volunteers.
+.. "Limited jurisdiction court" means a district court or a municipal court, and anyone acting or operating at the direction of such court, including but not limited to its officers, employees, agents, contractors, volunteers, and others acting pursuant to an interlocal agreement.
 
-.. "Misdemeanant supervision services" means preconviction or postconviction misdemeanor probation or supervision services, or the monitoring of a misdemeanor defendant's compliance with a preconviction or postconviction order of the court, including but not limited to community corrections programs, probation supervision, pretrial supervision, or pretrial release services.
+.. "Misdemeanant supervision services" means preconviction or postconviction misdemeanor probation or supervision services, or the monitoring of a misdemeanor defendant's compliance with a preconviction or postconviction order of the court, including but not limited to community corrections programs, probation supervision, pretrial supervision, or pretrial release services, including such services conducted pursuant to an interlocal agreement.
 
 . This section does not create any duty and shall not be construed to create a duty where none exists. Nothing in this section shall be construed to affect judicial immunity.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1669-S.SL.pdf?cite=2007%20c%20174%20§%202[2007 c 174 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1294-S.SL.pdf?cite=2021%20c%2041%20§%201[2021 c 41 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1669-S.SL.pdf?cite=2007%20c%20174%20§%202[2007 c 174 § 2]; ]
 
 == 4.24.770 - Private employer not liable for injury to unauthorized third-party occupant of private employer's vehicle.
 . A private employer is not liable for any injury received by a third-party occupant of a vehicle that is owned, leased, or rented by the employer if, at the time the injuries were inflicted, the third-party occupant was riding in or on the vehicle with an employee who had explicitly acknowledged in writing the employer's policy on use of vehicles owned, leased, or rented by the employer and the third-party occupant was not:
@@ -998,19 +989,19 @@ Any fire service protection agency, as well as the firefighters therein, whether
 
 .. "Actual person" means a living individual.
 
-.. "Blog" means a web site that is created primarily for the writer to maintain an online personal journal with reflections, comments, or hyperlinks provided by the writer.
+.. "Blog" means a website that is created primarily for the writer to maintain an online personal journal with reflections, comments, or hyperlinks provided by the writer.
 
 .. "Impersonates" or "impersonation" means using an actual person's name or likeness to create an impersonation that another person would reasonably believe or did reasonably believe was or is the actual person being impersonated.
 
 .. "Interactive computer service" means any information service, system, or access software provider that provides or enables computer access by multiple users to a computer server, including specifically a service or system that provides access to the internet and such systems operated or services offered by libraries or educational institutions.
 
-.. "Online bulletin board" means a web site that is designed specifically for internet users to post and respond to online classified advertisements that are viewable by other internet users.
+.. "Online bulletin board" means a website that is designed specifically for internet users to post and respond to online classified advertisements that are viewable by other internet users.
 
-.. "Social networking web site" means a web site that allows a user to create an account or profile for the user for the purposes of, among other things, connecting the user's account or profile to other users' accounts or profiles. A blog is not a social networking web site.
+.. "Social networking website" means a website that allows a user to create an account or profile for the user for the purposes of, among other things, connecting the user's account or profile to other users' accounts or profiles. A blog is not a social networking website.
 
 . A person may be liable in a civil action based on a claim of invasion of privacy when:
 
-.. The person impersonates another actual person on a social networking web site or online bulletin board;
+.. The person impersonates another actual person on a social networking website or online bulletin board;
 
 .. The impersonation was intentional and without the actual person's consent;
 
@@ -1036,7 +1027,7 @@ Any fire service protection agency, as well as the firefighters therein, whether
 . A court of this state may exercise jurisdiction in a suit brought by a Washington resident or against a defendant who is a Washington resident. Jurisdiction over any person who is not a Washington resident may be exercised in a manner consistent with the laws and Constitution of the state of Washington, including RCW 4.28.185, and the Constitution of the United States.
 
 . [Empty]
-.. This section may not be construed to impose any liability on a social networking web site, online bulletin board, internet service provider, interactive computer service, computer hardware or software provider, or web site operator or administrator or its employees, unless the provider, operator, administrator, or employee is the person impersonating an actual person. Nothing in this section is intended to preclude other common law causes of action against these entities.
+.. This section may not be construed to impose any liability on a social networking website, online bulletin board, internet service provider, interactive computer service, computer hardware or software provider, or website operator or administrator or its employees, unless the provider, operator, administrator, or employee is the person impersonating an actual person. Nothing in this section is intended to preclude other common law causes of action against these entities.
 
 .. This section may not be construed to limit any other civil cause of action available to a person under statute or common law or any criminal prosecution.
 

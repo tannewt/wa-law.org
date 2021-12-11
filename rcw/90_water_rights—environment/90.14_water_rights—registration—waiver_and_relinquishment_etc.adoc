@@ -207,7 +207,7 @@ When it appears to the department of ecology that a person entitled to the use o
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5077-S.SL.pdf?cite=2013%20c%2023%20§%20607[2013 c 23 § 607]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c109.pdf?cite=1987%20c%20109%20§%2013[1987 c 109 § 13]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c233.pdf?cite=1967%20c%20233%20§%2013[1967 c 233 § 13]; ]
 
-== 90.14.140 - "Sufficient cause" for nonuse defined—Rights exempted. (Effective until June 30, 2021.)
+== 90.14.140 - "Sufficient cause" for nonuse defined—Rights exempted.
 . For the purposes of RCW 90.14.130 through 90.14.180, "sufficient cause" shall be defined as the nonuse of all or a portion of the water by the owner of a water right for a period of five or more consecutive years where such nonuse occurs as a result of:
 
 .. Drought, or other unavailability of water;
@@ -248,15 +248,13 @@ When it appears to the department of ecology that a person entitled to the use o
 
 .. If such right or portion of the right is leased to another person for use on land other than the land to which the right is appurtenant as long as the lessee makes beneficial use of the right in accordance with this chapter and a transfer or change of the right has been approved by the department in accordance with RCW 90.03.380, 90.03.383, 90.03.390, or 90.44.100;
 
-.. If such a right or portion of the right is authorized for a purpose that is satisfied by the use of agricultural industrial process water as authorized under RCW 90.46.150;
+.. If such a right or portion of the right is authorized for a purpose that is satisfied by the use of agricultural industrial process water as authorized under RCW 90.46.150; or
 
-.. If such right is a trust water right under chapter 90.38 or 90.42 RCW;
-
-.. If such a right is involved in an approved local water plan created under RCW 90.92.090, provided the right is subject to an agreement not to divert under RCW 90.92.050, or provided the right is banked under RCW 90.92.070.
+.. If such right is a trust water right under chapter 90.38 or 90.42 RCW.
 
 . In adding provisions to this section by chapter 237, Laws of 2001, the legislature does not intend to imply legislative approval or disapproval of any existing administrative policy regarding, or any existing administrative or judicial interpretation of, the provisions of this section not expressly added or revised.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1381.SL.pdf?cite=2012%20c%207%20§%202[2012 c 7 § 2]; 2012 c 7 § 1; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1580-S2.SL.pdf?cite=2009%20c%20183%20§%2014[2009 c 183 § 14]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5910-S.SL.pdf?cite=2001%20c%20240%20§%201[2001 c 240 § 1]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1832-S.SL.pdf?cite=2001%20c%20237%20§%2027[2001 c 237 § 27]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5925-S.SL.pdf?cite=2001%20c%2069%20§%205[2001 c 69 § 5]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/3060.SL.pdf?cite=1998%20c%20258%20§%201[1998 c 258 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c125.pdf?cite=1987%20c%20125%20§%201[1987 c 125 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c233.pdf?cite=1967%20c%20233%20§%2014[1967 c 233 § 14]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1381.SL.pdf?cite=2012%20c%207%20§%202[2012 c 7 § 2]; 2012 c 7 § 1; 2009 c 183 § 14; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5910-S.SL.pdf?cite=2001%20c%20240%20§%201[2001 c 240 § 1]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1832-S.SL.pdf?cite=2001%20c%20237%20§%2027[2001 c 237 § 27]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5925-S.SL.pdf?cite=2001%20c%2069%20§%205[2001 c 69 § 5]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/3060.SL.pdf?cite=1998%20c%20258%20§%201[1998 c 258 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c125.pdf?cite=1987%20c%20125%20§%201[1987 c 125 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c233.pdf?cite=1967%20c%20233%20§%2014[1967 c 233 § 14]; ]
 
 == 90.14.150 - Rights arising from permit to withdraw public waters not affected—Extensions.
 Nothing in this chapter shall be construed to affect any rights or privileges arising from any permit to withdraw public waters or any application for such permit, but the department of ecology shall grant extensions of time to the holder of a preliminary permit only as provided by RCW 90.03.290.

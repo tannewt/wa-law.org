@@ -127,7 +127,7 @@ In order to have the best possible program for appropriating and administering w
 
 [ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2054-S2.SL.pdf?cite=1997%20c%20442%20§%20106[1997 c 442 § 106]; ]
 
-== 90.82.060 - Initiation of watershed planning—Scope of planning—Technical assistance from state agencies. (Effective until June 30, 2021.)
+== 90.82.060 - Initiation of watershed planning—Scope of planning—Technical assistance from state agencies.
 . Planning conducted under this chapter must provide for a process to allow the local citizens within a WRIA or multi-WRIA area to join together in an effort to: (a) Assess the status of the water resources of their WRIA or multi-WRIA area; and (b) determine how best to manage the water resources of the WRIA or multi-WRIA area to balance the competing resource demands for that area within the parameters under RCW 90.82.120.
 
 . [Empty]
@@ -151,9 +151,7 @@ In order to have the best possible program for appropriating and administering w
 
 . As used in this section, "lead agency" means the entity that coordinates staff support of its own or of other local governments and receives grants for developing a watershed plan.
 
-. A planning unit is dissolved when the department approves a water management board, as authorized in RCW 90.92.030, and all assets, funds, files, planning documents, pending plans and grant applications, and other current activities of the planning unit are transferred to the approved water management board. The approved water management board must assume the duties, responsibilities, and activities of the planning unit and the initiating governments, as required in this chapter.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1580-S2.SL.pdf?cite=2009%20c%20183%20§%2018[2009 c 183 § 18]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6204.SL.pdf?cite=2008%20c%20210%20§%201[2008 c 210 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5074-S.SL.pdf?cite=2007%20c%20245%20§%201[2007 c 245 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5343.SL.pdf?cite=2003%20c%20328%20§%201[2003 c 328 § 1]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1865.SL.pdf?cite=2001%20c%20229%20§%201[2001 c 229 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2514-S.SL.pdf?cite=1998%20c%20247%20§%202[1998 c 247 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6204.SL.pdf?cite=2008%20c%20210%20§%201[2008 c 210 § 1]; 2009 c 183 § 18; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5074-S.SL.pdf?cite=2007%20c%20245%20§%201[2007 c 245 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5343.SL.pdf?cite=2003%20c%20328%20§%201[2003 c 328 § 1]; 2009 c 183 § 18; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1865.SL.pdf?cite=2001%20c%20229%20§%201[2001 c 229 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2514-S.SL.pdf?cite=1998%20c%20247%20§%202[1998 c 247 § 2]; ]
 
 == 90.82.070 - Water quantity component.
 Watershed planning under this chapter shall address water quantity in the management area by undertaking an assessment of water supply and use in the management area and developing strategies for future use.

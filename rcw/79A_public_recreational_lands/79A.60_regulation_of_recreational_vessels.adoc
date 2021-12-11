@@ -28,7 +28,7 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 . "Marina" means a facility providing boat moorage space, fuel, or commercial services. Commercial services include but are not limited to overnight or live-aboard boating accommodations.
 
-. "Motor driven boats and vessels" means all boats and vessels which are self propelled.
+. "Motor-driven boats and vessels" means all boats and vessels which are self-propelled.
 
 . "Motor vessel safety operating and equipment checklist" means a printed list of the safety requirements for a vessel with a motor installed or attached to the vessel being rented, chartered, or leased and meeting minimum requirements adopted by the commission in accordance with RCW 79A.60.630.
 
@@ -820,8 +820,8 @@ January 1, 2016 - All boat operators;
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5918.SL.pdf?cite=2019%20c%20293%20§%201[2019 c 293 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5061.SL.pdf?cite=2011%20c%20171%20§%20118[2011 c 171 § 118]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5145-S.SL.pdf?cite=2005%20c%20392%20§%203[2005 c 392 § 3]; ]
 
-== 79A.60.640 - Requirements to operate motor driven boats/vessels—Exemptions—Penalty.
-. No person shall operate or permit the operation of motor driven boats and vessels with a mechanical power of fifteen horsepower or greater unless the person:
+== 79A.60.640 - Requirements to operate motor-driven boats/vessels—Exemptions—Penalty.
+. No person shall operate or permit the operation of motor-driven boats and vessels with a mechanical power of fifteen horsepower or greater unless the person:
 
 .. Is at least twelve years of age, except that an operator of a personal watercraft shall comply with the age requirements under RCW 79A.60.190; and
 
@@ -840,9 +840,9 @@ January 1, 2016 - All boat operators;
 
 .. Any person who is legally engaged in the operation of a vessel that is exempt from vessel registration requirements under chapter 88.02 RCW and applicable rules and is used for purposes of law enforcement or official government work. However, the person when operating a vessel for recreational purposes must carry a boater education card;
 
-.. Any person at least twelve years old renting, chartering, or leasing a motor driven boat or vessel with an engine power of fifteen horsepower or greater who completes a commission-approved motor vessel safety operating and equipment checklist each time before operating the motor driven boat or vessel, except that an operator of a personal watercraft shall comply with the age requirements under RCW 79A.60.190;
+.. Any person at least twelve years old renting, chartering, or leasing a motor-driven boat or vessel with an engine power of fifteen horsepower or greater who completes a commission-approved motor vessel safety operating and equipment checklist each time before operating the motor-driven boat or vessel, except that an operator of a personal watercraft shall comply with the age requirements under RCW 79A.60.190;
 
-.. Any person who is not a resident of Washington state and who does not operate a motor driven boat or vessel with an engine power of fifteen horsepower or greater in waters of the state for more than sixty consecutive days;
+.. Any person who is not a resident of Washington state and who does not operate a motor-driven boat or vessel with an engine power of fifteen horsepower or greater in waters of the state for more than sixty consecutive days;
 
 .. Any person who is not a resident of Washington state and who holds a current out-of-state or out-of-country certificate or card that is equivalent to the rules adopted by the commission;
 
@@ -858,7 +858,7 @@ January 1, 2016 - All boat operators;
 
 . Failure to possess a boater education card required by this section is an infraction under chapter 7.84 RCW. The penalty shall be waived if the boater provides proof to the court within sixty days that he or she has received a boater education card.
 
-. No person shall permit the rental, charter, or lease of a motor driven boat or vessel with an engine power of fifteen horsepower or greater to a person without first reviewing with that person, and all other persons who may be permitted by the person to operate the vessel, all the information contained in the motor vessel safety operating and equipment checklist.
+. No person shall permit the rental, charter, or lease of a motor-driven boat or vessel with an engine power of fifteen horsepower or greater to a person without first reviewing with that person, and all other persons who may be permitted by the person to operate the vessel, all the information contained in the motor vessel safety operating and equipment checklist.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5145-S.SL.pdf?cite=2005%20c%20392%20§%204[2005 c 392 § 4]; ]
 
@@ -867,16 +867,16 @@ The boating safety education certification account is created in the custody of 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5145-S.SL.pdf?cite=2005%20c%20392%20§%205[2005 c 392 § 5]; ]
 
-== 79A.60.660 - Operating motor driven boat or vessel for teak surfing, platform dragging, bodysurfing—Prohibition—Exceptions—Penalty.
-. No person may operate a motor driven boat or vessel or have the engine of a motor driven boat or vessel run idle while an individual is teak surfing, platform dragging, or bodysurfing behind the motor driven boat or vessel.
+== 79A.60.660 - Operating motor-driven boat or vessel for teak surfing, platform dragging, bodysurfing—Prohibition—Exceptions—Penalty.
+. No person may operate a motor-driven boat or vessel or have the engine of a motor-driven boat or vessel run idle while an individual is teak surfing, platform dragging, or bodysurfing behind the motor-driven boat or vessel.
 
-. No person may operate a motor driven boat or vessel or have the engine of a motor driven boat or vessel run idle while an individual is occupying or holding onto the swim platform, swim deck, swim step, or swim ladder of the motor driven boat or vessel.
+. No person may operate a motor-driven boat or vessel or have the engine of a motor-driven boat or vessel run idle while an individual is occupying or holding onto the swim platform, swim deck, swim step, or swim ladder of the motor-driven boat or vessel.
 
 . Subsection (2) of this section does not apply when an individual is occupying the swim platform, swim deck, swim step, or swim ladder for a very brief period of time while assisting with the docking or departure of the vessel, while exiting or entering the vessel, or while the vessel is engaged in law enforcement or emergency rescue activity.
 
-. For the purposes of this section, "teak surfing" or "platform dragging" means holding onto the swim platform, swim deck, swim step, swim ladder, or any portion of the exterior of the transom of a motor driven boat or vessel for any amount of time while the motor driven boat or vessel is underway at any speed.
+. For the purposes of this section, "teak surfing" or "platform dragging" means holding onto the swim platform, swim deck, swim step, swim ladder, or any portion of the exterior of the transom of a motor-driven boat or vessel for any amount of time while the motor-driven boat or vessel is underway at any speed.
 
-. For the purposes of this section, "bodysurfing" means swimming or floating on one's stomach or on one's back on or in the wake directly behind a motor driven boat or vessel that is underway.
+. For the purposes of this section, "bodysurfing" means swimming or floating on one's stomach or on one's back on or in the wake directly behind a motor-driven boat or vessel that is underway.
 
 . A violation of this section is a natural resource infraction punishable as provided under chapter 7.84 RCW, however the fine imposed may not exceed one hundred dollars.
 

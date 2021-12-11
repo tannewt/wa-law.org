@@ -1,6 +1,7 @@
 = 24 CORPORATIONS AND ASSOCIATIONS  (NONPROFIT)
 
 * link:24.03_washington_nonprofit_corporation_act.adoc[24.03 - Washington nonprofit corporation act.]
+* link:24.03A_washington_nonprofit_corporation_act.adoc[24.03A - Washington nonprofit corporation act.]
 * link:24.06_nonprofit_miscellaneous_and_mutual_corporations_act.adoc[24.06 - Nonprofit miscellaneous and mutual corporations act.]
 * link:24.12_corporations_sole.adoc[24.12 - Corporations sole.]
 * link:24.20_fraternal_societies.adoc[24.20 - Fraternal societies.]

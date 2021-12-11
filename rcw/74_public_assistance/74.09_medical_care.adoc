@@ -232,7 +232,7 @@ Nothing in this chapter shall be construed as empowering the secretary or direct
 
 .. In any appeal by a health care provider, employ or contract with a medical or dental professional who practices within the same specialty, is board certified, and experienced in the treatment, billing, and coding procedures used by the provider being audited to make findings and determinations;
 
-.. Compile, on an annual basis, metrics specified by the authority. The authority shall publish the metrics on its web site. The metrics must, at a minimum, include:
+.. Compile, on an annual basis, metrics specified by the authority. The authority shall publish the metrics on its website. The metrics must, at a minimum, include:
 
 ... The number and type of claims reviewed;
 
@@ -449,7 +449,7 @@ Whenever the secretary or director imposes a civil penalty under RCW 74.09.210, 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1388-S.SL.pdf?cite=2018%20c%20201%20§%207016[2018 c 201 § 7016]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5978-S.SL.pdf?cite=2012%20c%20241%20§%20104[2012 c 241 § 104]; ]
 
-== 74.09.325 - Reimbursement of a health care service provided through telemedicine or store and forward technology—Report to the legislature.
+== 74.09.325 - Reimbursement of a health care service provided through telemedicine or store and forward technology—Audio-only telemedicine.
 . [Empty]
 .. Upon initiation or renewal of a contract with the Washington state health care authority to administer a medicaid managed care plan, a managed health care system shall reimburse a provider for a health care service provided to a covered person through telemedicine or store and forward technology if:
 
@@ -457,16 +457,20 @@ Whenever the secretary or director imposes a civil penalty under RCW 74.09.210, 
 
 ... The health care service is medically necessary;
 
-... The health care service is a service recognized as an essential health benefit under section 1302(b) of the federal patient protection and affordable care act in effect on January 1, 2015; and
+... The health care service is a service recognized as an essential health benefit under section 1302(b) of the federal patient protection and affordable care act in effect on January 1, 2015;
 
-... The health care service is determined to be safely and effectively provided through telemedicine or store and forward technology according to generally accepted health care practices and standards, and the technology used to provide the health care service meets the standards required by state and federal laws governing the privacy and security of protected health information.
+... The health care service is determined to be safely and effectively provided through telemedicine or store and forward technology according to generally accepted health care practices and standards, and the technology used to provide the health care service meets the standards required by state and federal laws governing the privacy and security of protected health information; and
+
+.. Beginning January 1, 2023, for audio-only telemedicine, the covered person has an established relationship with the provider.
 
 .. [Empty]
-... Except as provided in (b)(ii) of this subsection, upon initiation or renewal of a contract with the Washington state health care authority to administer a medicaid managed care plan, a managed health care system shall reimburse a provider for a health care service provided to a covered person through telemedicine at the same rate as if the health care service was provided in person by the provider.
+... Except as provided in (b)(ii) of this subsection, upon initiation or renewal of a contract with the Washington state health care authority to administer a medicaid managed care plan, a managed health care system shall reimburse a provider for a health care service provided to a covered person through telemedicine the same amount of compensation the managed health care system would pay the provider if the health care service was provided in person by the provider.
 
-... Hospitals, hospital systems, telemedicine companies, and provider groups consisting of eleven or more providers may elect to negotiate a reimbursement rate for telemedicine services that differs from the reimbursement rate for in-person services.
+... Hospitals, hospital systems, telemedicine companies, and provider groups consisting of eleven or more providers may elect to negotiate an amount of compensation for telemedicine services that differs from the amount of compensation for in-person services.
 
 ... For purposes of this subsection (1)(b), the number of providers in a provider group refers to all providers within the group, regardless of a provider's location.
+
+... A rural health clinic shall be reimbursed for audio-only telemedicine at the rural health clinic encounter rate.
 
 . For purposes of this section, reimbursement of store and forward technology is available only for those services specified in the negotiated agreement between the managed health care system and health care provider.
 
@@ -480,7 +484,7 @@ Whenever the secretary or director imposes a civil penalty under RCW 74.09.210, 
 
 .. Physician's or other health care provider's office;
 
-.. Community mental health center;
+.. Licensed or certified behavioral health agency;
 
 .. Skilled nursing facility;
 
@@ -488,7 +492,7 @@ Whenever the secretary or director imposes a civil penalty under RCW 74.09.210, 
 
 .. Renal dialysis center, except an independent renal dialysis center.
 
-. Except for subsection (3)(g) of this section, any originating site under subsection (3) of this section may charge a facility fee for infrastructure and preparation of the patient. Reimbursement for a facility fee must be subject to a negotiated agreement between the originating site and the managed health care system. A distant site or any other site not identified in subsection (3) of this section may not charge a facility fee.
+. Except for subsection (3)(g) of this section, any originating site under subsection (3) of this section may charge a facility fee for infrastructure and preparation of the patient. Reimbursement for a facility fee must be subject to a negotiated agreement between the originating site and the managed health care system. A distant site, a hospital that is an originating site for audio-only telemedicine, or any other site not identified in subsection (3) of this section may not charge a facility fee.
 
 . A managed health care system may not distinguish between originating sites that are rural and urban in providing the coverage required in subsection (1) of this section.
 
@@ -502,9 +506,29 @@ Whenever the secretary or director imposes a civil penalty under RCW 74.09.210, 
 
 .. An originating site or health care provider when the site or provider is not a contracted provider under the plan.
 
+. [Empty]
+.. If a provider intends to bill a patient or a managed health care system for an audio-only telemedicine service, the provider must obtain patient consent for the billing in advance of the service being delivered and comply with all rules created by the authority related to restrictions on billing medicaid recipients. The authority may submit information on any potential violations of this subsection to the appropriate disciplining authority, as defined in RCW 18.130.020[,] or take contractual actions against the provider's agreement for participation in the medicaid program, or both.
+
+.. If the health care authority has cause to believe that a provider has engaged in a pattern of unresolved violations of this subsection (8), the health care authority may submit information to the appropriate disciplining authority for action. Prior to submitting information to the appropriate disciplining authority, the health care authority may provide the provider with an opportunity to cure the alleged violations or explain why the actions in question did not violate this subsection (8).
+
+.. If the provider has engaged in a pattern of unresolved violations of this subsection (8), the appropriate disciplining authority may levy a fine or cost recovery upon the provider in an amount not to exceed the applicable statutory amount per violation and take other action as permitted under the authority of the disciplining authority. Upon completion of its review of any potential violation submitted by the health care authority or initiated directly by an enrollee, the disciplining authority shall notify the health care authority of the results of the review, including whether the violation was substantiated and any enforcement action taken as a result of a finding of a substantiated violation.
+
 . For purposes of this section:
 
+.. [Empty]
+... "Audio-only telemedicine" means the delivery of health care services through the use of audio-only technology, permitting real-time communication between the patient at the originating site and the provider, for the purpose of diagnosis, consultation, or treatment.
+
+... For purposes of this section only, "audio-only telemedicine" does not include:
+
+(A) The use of facsimile or email; or
+
+(B) The delivery of health care services that are customarily delivered by audio-only technology and customarily not billed as separate services by the provider, such as the sharing of laboratory results;
+
+.. "Disciplining authority" has the same meaning as in RCW 18.130.020;
+
 .. "Distant site" means the site at which a physician or other licensed provider, delivering a professional service, is physically located at the time the service is provided through telemedicine;
+
+.. "Established relationship" means the covered person has had at least one in-person appointment within the past year with the provider providing audio-only telemedicine or with a provider employed at the same clinic as the provider providing audio-only telemedicine or the covered person was referred to the provider providing audio-only telemedicine by another provider who has had at least one in-person appointment with the covered person within the past year and has provided relevant medical information to the provider providing audio-only telemedicine;
 
 .. "Health care service" has the same meaning as in RCW 48.43.005;
 
@@ -518,11 +542,25 @@ Whenever the secretary or director imposes a civil penalty under RCW 74.09.210, 
 
 .. "Store and forward technology" means use of an asynchronous transmission of a covered person's medical information from an originating site to the health care provider at a distant site which results in medical diagnosis and management of the covered person, and does not include the use of audio-only telephone, facsimile, or email; and
 
-.. "Telemedicine" means the delivery of health care services through the use of interactive audio and video technology, permitting real-time communication between the patient at the originating site and the provider, for the purpose of diagnosis, consultation, or treatment. For purposes of this section only, "telemedicine" does not include the use of audio-only telephone, facsimile, or email.
+.. "Telemedicine" means the delivery of health care services through the use of interactive audio and video technology, permitting real-time communication between the patient at the originating site and the provider, for the purpose of diagnosis, consultation, or treatment. For purposes of this section only, "telemedicine" includes audio-only telemedicine, but does not include facsimile or email.
 
-. To measure the impact on access to care for underserved communities and costs to the state and the medicaid managed health care system for reimbursement of telemedicine services, the Washington state health care authority, using existing data and resources, shall provide a report to the appropriate policy and fiscal committees of the legislature no later than December 31, 2018.
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1196-S.SL.pdf?cite=2021%20c%20157%20§%205[2021 c 157 § 5]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5385-S.SL.pdf?cite=2020%20c%2092%20§%203[2020 c 92 § 3]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5436.SL.pdf?cite=2017%20c%20219%20§%203[2017 c 219 § 3]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6519-S.SL.pdf?cite=2016%20c%2068%20§%205[2016 c 68 § 5]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5175-S.SL.pdf?cite=2015%20c%2023%20§%204[2015 c 23 § 4]; ]
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5385-S.SL.pdf?cite=2020%20c%2092%20§%203[2020 c 92 § 3]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5436.SL.pdf?cite=2017%20c%20219%20§%203[2017 c 219 § 3]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6519-S.SL.pdf?cite=2016%20c%2068%20§%205[2016 c 68 § 5]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5175-S.SL.pdf?cite=2015%20c%2023%20§%204[2015 c 23 § 4]; ]
+== 74.09.327 - Audio-only telemedicine—Fee-for-service reimbursement.
+. The authority shall adopt rules regarding medicaid fee-for-service reimbursement for services delivered through audio-only telemedicine. Except as provided in subsection (2) of this section, the rules must establish a manner of reimbursement for audio-only telemedicine that is consistent with RCW 74.09.325.
+
+. The rules shall require rural health clinics to be reimbursed for audio-only telemedicine at the rural health clinic encounter rate.
+
+. [Empty]
+.. For purposes of this section, "audio-only telemedicine" means the delivery of health care services through the use of audio-only technology, permitting real-time communication between a patient at the originating site and the provider, for the purpose of diagnosis, consultation, or treatment.
+
+.. For purposes of this section only, "audio-only telemedicine" does not include:
+
+... The use of facsimile or email; or
+
+... The delivery of health care services that are customarily delivered by audio-only technology and customarily not billed as separate services by the provider, such as the sharing of laboratory results.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1196-S.SL.pdf?cite=2021%20c%20157%20§%206[2021 c 157 § 6]; ]
 
 == 74.09.328 - Use of substitute providers—When permitted—Reimbursement requirements.
 . In order to protect patients and ensure that they benefit from seamless quality care when contracted providers are absent from their practices or when there is a temporary vacancy in a position while a hospital, rural health clinic, or rural provider is recruiting to meet patient demand, hospitals, rural health clinics, and rural providers may use substitute providers to provide services. Medicaid managed care organizations must allow for the use of substitute providers and provide payment consistent with the provisions in this section.
@@ -695,7 +733,7 @@ The authority shall adopt standards for the reimbursement of health care service
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6287.SL.pdf?cite=2018%20c%2058%20§%202[2018 c 58 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2003.SL.pdf?cite=2011%201st%20sp.s.%20c%2033%20§%202[2011 1st sp.s. c 33 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1738-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2015%20§%2021[2011 1st sp.s. c 15 § 21]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2128-S.SL.pdf?cite=2009%20c%20463%20§%202[2009 c 463 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5093-S2.SL.pdf?cite=2007%20c%205%20§%202[2007 c 5 § 2]; ]
 
 == 74.09.4701 - Apple health for kids—Unemployment compensation.
-For apple health for kids, the department shall not count the twenty-five dollar increase paid as part of an individual's weekly benefit amount as provided in RCW 50.20.1202 when determining family income, eligibility, and payment levels.
+For apple health for kids, the department shall not count the twenty-five dollar increase paid as part of an individual's weekly benefit amount as provided in *RCW 50.20.1202 when determining family income, eligibility, and payment levels.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1091.SL.pdf?cite=2011%20c%204%20§%2019[2011 c 4 § 19]; ]
 
@@ -996,7 +1034,17 @@ Medical assistance may be provided in accordance with eligibility requirements e
 
 . Subject to the availability of amounts appropriated for this specific purpose, effective January 1, 2018, the authority shall require provider payment for maternal depression screening for mothers of children ages birth to six months. This requirement is subject to the availability of funds appropriated for this specific purpose.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1713-S2.SL.pdf?cite=2017%20c%20202%20§%204[2017 c 202 § 4]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5317-S.SL.pdf?cite=2015%201st%20sp.s.%20c%208%20§%202[2015 1st sp.s. c 8 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1738-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2015%20§%2027[2011 1st sp.s. c 15 § 27]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1095-S2.SL.pdf?cite=2007%20c%203%20§%201[2007 c 3 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5732-S.SL.pdf?cite=2004%20c%20141%20§%202[2004 c 141 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1621.SL.pdf?cite=2003%20c%20279%20§%201[2003 c 279 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6219.SL.pdf?cite=1998%20c%20245%20§%20145[1998 c 245 § 145]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1908-S2.SL.pdf?cite=1995%201st%20sp.s.%20c%2018%20§%2039[1995 1st sp.s. c 18 § 39]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2492.SL.pdf?cite=1994%20c%2021%20§%204[1994 c 21 § 4]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5727-S.SL.pdf?cite=1993%20c%20149%20§%2010[1993 c 149 § 10]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5444.SL.pdf?cite=1993%20c%2057%20§%201[1993 c 57 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1890.SL.pdf?cite=1991%20sp.s.%20c%208%20§%209[1991 sp.s. c 8 § 9]; prior:  1991 c 233 § 1; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1536.SL.pdf?cite=1991%20c%20119%20§%201[1991 c 119 § 1]; prior:  1990 c 33 § 594; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c25.pdf?cite=1990%20c%2025%20§%201[1990 c 25 § 1]; prior:  1989 c 427 § 10; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c400.pdf?cite=1989%20c%20400%20§%203[1989 c 400 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c5.pdf?cite=1985%20c%205%20§%203[1985 c 5 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982ex1c19.pdf?cite=1982%201st%20ex.s.%20c%2019%20§%204[1982 1st ex.s. c 19 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981ex1c6.pdf?cite=1981%201st%20ex.s.%20c%206%20§%2021[1981 1st ex.s. c 6 § 21]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c8.pdf?cite=1981%20c%208%20§%2020[1981 c 8 § 20]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c141.pdf?cite=1979%20c%20141%20§%20344[1979 c 141 § 344]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c173.pdf?cite=1969%20ex.s.%20c%20173%20§%2011[1969 ex.s. c 173 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c30.pdf?cite=1967%20ex.s.%20c%2030%20§%205[1967 ex.s. c 30 § 5]; ]
+. Subject to the availability of amounts appropriated for this specific purpose, the authority shall:
+
+.. Allow otherwise eligible reimbursement for the following related to mental health assessment and diagnosis of children from birth through five years of age:
+
+... Up to five sessions for purposes of intake and assessment, if necessary;
+
+... Assessments in home or community settings, including reimbursement for provider travel; and
+
+.. Require providers to use the current version of the DC:0-5 diagnostic classification system for mental health assessment and diagnosis of children from birth through five years of age.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1325-S2.SL.pdf?cite=2021%20c%20126%20§%202[2021 c 126 § 2]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1713-S2.SL.pdf?cite=2017%20c%20202%20§%204[2017 c 202 § 4]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5317-S.SL.pdf?cite=2015%201st%20sp.s.%20c%208%20§%202[2015 1st sp.s. c 8 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1738-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2015%20§%2027[2011 1st sp.s. c 15 § 27]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1095-S2.SL.pdf?cite=2007%20c%203%20§%201[2007 c 3 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5732-S.SL.pdf?cite=2004%20c%20141%20§%202[2004 c 141 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1621.SL.pdf?cite=2003%20c%20279%20§%201[2003 c 279 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6219.SL.pdf?cite=1998%20c%20245%20§%20145[1998 c 245 § 145]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1908-S2.SL.pdf?cite=1995%201st%20sp.s.%20c%2018%20§%2039[1995 1st sp.s. c 18 § 39]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2492.SL.pdf?cite=1994%20c%2021%20§%204[1994 c 21 § 4]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5727-S.SL.pdf?cite=1993%20c%20149%20§%2010[1993 c 149 § 10]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5444.SL.pdf?cite=1993%20c%2057%20§%201[1993 c 57 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1890.SL.pdf?cite=1991%20sp.s.%20c%208%20§%209[1991 sp.s. c 8 § 9]; prior:  1991 c 233 § 1; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1536.SL.pdf?cite=1991%20c%20119%20§%201[1991 c 119 § 1]; prior:  1990 c 33 § 594; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c25.pdf?cite=1990%20c%2025%20§%201[1990 c 25 § 1]; prior:  1989 c 427 § 10; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c400.pdf?cite=1989%20c%20400%20§%203[1989 c 400 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c5.pdf?cite=1985%20c%205%20§%203[1985 c 5 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982ex1c19.pdf?cite=1982%201st%20ex.s.%20c%2019%20§%204[1982 1st ex.s. c 19 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981ex1c6.pdf?cite=1981%201st%20ex.s.%20c%206%20§%2021[1981 1st ex.s. c 6 § 21]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c8.pdf?cite=1981%20c%208%20§%2020[1981 c 8 § 20]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c141.pdf?cite=1979%20c%20141%20§%20344[1979 c 141 § 344]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c173.pdf?cite=1969%20ex.s.%20c%20173%20§%2011[1969 ex.s. c 173 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c30.pdf?cite=1967%20ex.s.%20c%2030%20§%205[1967 ex.s. c 30 § 5]; ]
 
 == 74.09.522 - Medical assistance—Agreements with managed health care systems for provision of services to medicaid recipients—Principles to be applied in purchasing managed health care.
 . For the purposes of this section:
@@ -1243,31 +1291,27 @@ Therefore the legislature intends to promote the adoption of primary care health
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c220.pdf?cite=1986%20c%20220%20§%201[1986 c 220 § 1]; ]
 
 == 74.09.555 - Medical assistance—Reinstatement upon release from confinement—Expedited eligibility determinations.
-. The authority shall adopt rules and policies providing that when persons with a mental disorder, who were enrolled in medical assistance immediately prior to confinement, are released from confinement, their medical assistance coverage will be fully reinstated on the day of their release, subject to any expedited review of their continued eligibility for medical assistance coverage that is required under federal or state law.
+. The authority shall adopt rules and policies providing that when persons who were enrolled in medical assistance immediately prior to confinement, or who become enrolled in medical assistance in suspense status during the period of confinement, are released from confinement, their medical assistance coverage shall be fully reinstated no later than at the moment of their release, subject to any expedited review of their continued eligibility for medical assistance coverage that is required under federal or state law. The authority may reinstate medical assistance prior to the day of release provided that no federal funds are expended for any purpose that is not authorized by the state's agreements with the federal government.
 
-. The authority, in collaboration with the Washington association of sheriffs and police chiefs, the department of corrections, managed care organizations, and behavioral health administrative services organizations, shall establish procedures for coordination between the authority and department field offices, institutions for mental disease, and correctional institutions, as defined in RCW 9.94.049, that result in prompt reinstatement of eligibility and speedy eligibility determinations for persons who are likely to be eligible for medical assistance services upon release from confinement. Procedures developed under this subsection must address:
+. The authority, in collaboration with the Washington association of sheriffs and police chiefs, the department of corrections, the department of children, youth, and families, managed care organizations, and behavioral health administrative services organizations, shall establish procedures for coordination between the authority and department field offices, institutions for mental disease, and correctional institutions, as defined in RCW 9.94.049, that result in prompt reinstatement of eligibility and speedy eligibility determinations for medical assistance services upon release from confinement. Procedures developed under this subsection must address:
 
 .. Mechanisms for receiving medical assistance services applications on behalf of confined persons in anticipation of their release from confinement;
 
 .. Expeditious review of applications filed by or on behalf of confined persons and, to the extent practicable, completion of the review before the person is released;
 
-.. Mechanisms for providing medical assistance services identity cards to persons eligible for medical assistance services immediately upon their release from confinement; and
+.. Mechanisms for providing medical assistance services identity cards to persons eligible for medical assistance services before their release from confinement;
 
-.. Coordination with the federal social security administration, through interagency agreements or otherwise, to expedite processing of applications for federal supplemental security income or social security disability benefits, including federal acceptance of applications on behalf of confined persons.
+.. Coordination with the federal social security administration, through interagency agreements or otherwise, to expedite processing of applications for federal supplemental security income or social security disability benefits, including federal acceptance of applications on behalf of confined persons; and
+
+.. Assuring that notification of the person's release date, current location, and other appropriate information is provided to the person's managed care organization before the person's scheduled release from confinement, or as soon as practicable thereafter.
 
 . Where medical or psychiatric examinations during a person's confinement indicate that the person is disabled, the correctional institution or institution for mental diseases shall provide the authority with that information for purposes of making medical assistance eligibility and enrollment determinations prior to the person's release from confinement. The authority shall, to the maximum extent permitted by federal law, use the examination in making its determination whether the person is disabled and eligible for medical assistance.
 
 . For purposes of this section, "confined" or "confinement" means incarcerated in a correctional institution, as defined in RCW 9.94.049, or admitted to an institute for mental disease, as defined in 42 C.F.R. part 435, Sec. 1009 on July 24, 2005.
 
-. For purposes of this section, "likely to be eligible" means that a person:
+. The economic services administration within the department shall adopt standardized statewide screening and application practices and forms designed to facilitate the application of a confined person for medicaid.
 
-.. Was enrolled in medicaid or supplemental security income or the medical care services program immediately before he or she was confined and his or her enrollment was terminated during his or her confinement; or
-
-.. Was enrolled in medicaid or supplemental security income or the medical care services program at any time during the five years before his or her confinement, and medical or psychiatric examinations during the person's confinement indicate that the person continues to be disabled and the disability is likely to last at least twelve months following release.
-
-. The economic services administration within the department shall adopt standardized statewide screening and application practices and forms designed to facilitate the application of a confined person who is likely to be eligible for medicaid.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5432-S2.SL.pdf?cite=2019%20c%20325%20§%204005[2019 c 325 § 4005]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6312-S2.SL.pdf?cite=2014%20c%20225%20§%20102[2014 c 225 § 102]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2082-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2036%20§%2032[2011 1st sp.s. c 36 § 32]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1738-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2015%20§%2034[2011 1st sp.s. c 15 § 34]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2782-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%208%20§%2030[2010 1st sp.s. c 8 § 30]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1290-S2.SL.pdf?cite=2005%20c%20503%20§%2012[2005 c 503 § 12]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5304-S2.SL.pdf?cite=2021%20c%20243%20§%203[2021 c 243 § 3]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5432-S2.SL.pdf?cite=2019%20c%20325%20§%204005[2019 c 325 § 4005]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6312-S2.SL.pdf?cite=2014%20c%20225%20§%20102[2014 c 225 § 102]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2082-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2036%20§%2032[2011 1st sp.s. c 36 § 32]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1738-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2015%20§%2034[2011 1st sp.s. c 15 § 34]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2782-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%208%20§%2030[2010 1st sp.s. c 8 § 30]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1290-S2.SL.pdf?cite=2005%20c%20503%20§%2012[2005 c 503 § 12]; ]
 
 == 74.09.557 - Medical assistance—Complex rehabilitation technology products.
 . The authority shall establish a separate recognition for individually configured, complex rehabilitation technology products and services for complex needs patients with the medical assistance program. This separate recognition shall:
@@ -1385,6 +1429,35 @@ The authority shall incorporate the expected outcomes and criteria to measure th
 . Funds directed from any other lawful source may also be used to support the purposes of this section.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5913-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2017%20§%2018[2013 2nd sp.s. c 17 § 18]; ]
+
+== 74.09.630 - Opioid overdose reversal medications—Reimbursement.
+Until the opioid overdose reversal medication bulk purchasing and distribution program established in RCW 70.14.170 is operational:
+
+. Upon initiation or renewal of a contract with the authority to administer a medicaid managed care plan, a managed care organization must reimburse a hospital or behavioral health agency for dispensing or distributing opioid overdose reversal medication to a covered person under RCW 70.41.485 and 71.24.594.
+
+. If the person is not enrolled in a medicaid managed care plan and does not have any other available insurance coverage, the authority must reimburse a hospital, behavioral health agency, or pharmacy for dispensing or distributing opioid overdose reversal medication under RCW 70.41.485 and 71.24.594.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5195-S2.SL.pdf?cite=2021%20c%20273%20§%205[2021 c 273 § 5]; ]
+
+== 74.09.632 - Opioid overdose reversal medications—Technical assistance—Written materials.
+. The authority, in consultation with the department of health, the office of the insurance commissioner, and the addictions, drug, and alcohol institute at the University of Washington, shall provide technical assistance to hospitals and licensed or certified , behavioral health agencies to assist these entities, practitioners, and providers in complying with RCW 70.41.485 and 71.24.594. The technical assistance provided to behavioral health agencies must include:
+
+.. Training nonmedical providers on distributing and providing client education and directions for use of opioid overdose reversal medication;
+
+.. Providing written guidance for billing for opioid overdose reversal medication; and
+
+.. Analyzing the cost of additional behavioral health agency staff time to carry out the activities in RCW 71.24.594, and providing written guidance no later than January 1, 2022, for funding and billing direct service activities related to assisting clients to obtain opioid overdose reversal medication.
+
+. The authority shall develop written materials in all relevant languages for each hospital and applicable licensed or certified behavioral health agency to comply with RCW 70.41.485 and 71.24.594, including directions for the use of opioid overdose reversal medication, and provide them to all hospitals and behavioral health agencies by January 1, 2022.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5195-S2.SL.pdf?cite=2021%20c%20273%20§%206[2021 c 273 § 6]; ]
+
+== 74.09.634 - Opioid overdose reversal medications—Bulk purchasing and distribution program.
+. Upon initiation or renewal of a contract with the authority to administer a medicaid managed care plan, a managed health care system must participate in the opioid overdose reversal medication bulk purchasing and distribution program established in RCW 70.14.170 once the program is operational.
+
+. The health care authority must participate in the opioid overdose reversal medication bulk purchasing and distribution program established in RCW 70.14.170 once the program is operational for purposes of individuals enrolled in medical assistance under this chapter that are not enrolled in a managed care plan and are uninsured individuals.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5195-S2.SL.pdf?cite=2021%20c%20273%20§%2012[2021 c 273 § 12]; ]
 
 == 74.09.640 - Opioid use disorder—Nonpharmacologic treatments.
 . In order to support prevention of potential opioid use disorders, the authority must develop and recommend for coverage nonpharmacologic treatments for acute, subacute, and chronic noncancer pain and must report to the governor and the appropriate committees of the legislature, including any requests for funding necessary to implement the recommendations under this section. The recommendations must contain the following elements:
@@ -1509,9 +1582,18 @@ Each of the state's area agencies on aging shall implement a program intended to
 [ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6088.SL.pdf?cite=2003%201st%20sp.s.%20c%2029%20§%208[2003 1st sp.s. c 29 § 8]; ]
 
 == 74.09.670 - Medical assistance benefits—Incarcerated or committed persons—Suspension.
-The authority is directed to suspend, rather than terminate, medical assistance benefits by July 1, 2017, for persons who are incarcerated or committed to a state hospital. This must include the ability for a person to apply for medical assistance in suspense status during incarceration, and may not depend upon knowledge of the release date of the person. The authority must provide a progress report describing program design and a detailed fiscal estimate to the governor and relevant committees of the legislature by December 1, 2016.
+. Except as provided in subsection (2) of this section, when the authority receives information that a person enrolled in medical assistance is confined in a setting in which federal financial participation is disallowed by the state's agreements with the federal government, the authority shall suspend, rather than terminate, medical assistance benefits for these persons, including those who are incarcerated in a correctional institution as defined in RCW 9.94.049, or committed to a state hospital or other treatment facility. A person who is not currently enrolled in medical assistance must be allowed to apply for medical assistance in suspense status during confinement, and the ability to apply may not depend upon knowledge of the release or discharge date of the person.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6430-S.SL.pdf?cite=2016%20c%20154%20§%202[2016 c 154 § 2]; ]
+. [Empty]
+.. During the first 29 days of a person's incarceration in a correctional institution, as defined in RCW 9.94.049:
+
+... A person's incarceration status may not affect the person's enrollment in medical assistance if the person was enrolled in medical assistance at the time of incarceration; and
+
+... A person not enrolled in medical assistance at the time of incarceration must have the ability to apply for medical assistance during incarceration, which may not depend on knowledge of the release date of the person. If the person is enrolled in medical assistance during the first 29 days of the person's incarceration, the person's incarceration status may not affect the person's enrollment in medical assistance.
+
+.. After the first 29 days of the person's incarceration, the person's medical assistance status is subject to suspension or application in suspense status under subsection (1) of this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5304-S2.SL.pdf?cite=2021%20c%20243%20§%202[2021 c 243 § 2]; http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1348-S.SL.pdf?cite=2021%20c%20166%20§%202[2021 c 166 § 2]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6430-S.SL.pdf?cite=2016%20c%20154%20§%202[2016 c 154 § 2]; ]
 
 == 74.09.671 - Incarcerated persons—Local jails—Behavioral health services—Federal funding.
 The authority shall collaborate with the department, the Washington state association of counties, the Washington association of sheriffs and police chiefs, and accountable communities of health to improve population health and reduce avoidable use of intensive services and settings by requesting expenditure authority from the federal government to provide behavioral health services to persons who are incarcerated in local jails. The authority in consultation with its partners may narrow its submission to discrete programs or regions of the state as deemed advisable to effectively demonstrate the potential to achieve savings by integrating medical assistance across community and correctional settings.
@@ -1522,6 +1604,27 @@ The authority shall collaborate with the department, the Washington state associ
 It is the understanding of the legislature that persons participating in a work release program or other partial confinement programs at the state, county, or city level which allow regular freedom during the day to pursue rehabilitative community activities such as participation in work, treatment, or medical care should not be considered "inmates of a public institution" for the purposes of exclusion from medicaid coverage under the social security act. The authority is instructed to obtain any permissions from the federal government necessary to confirm this understanding, and report back to the governor and relevant committees of the legislature.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6430-S.SL.pdf?cite=2016%20c%20154%20§%205[2016 c 154 § 5]; ]
+
+== 74.09.675 - Gender affirming care services—Prohibited discrimination.
+. In the provision of gender affirming care services through programs under this chapter, the authority, managed care plans, and providers that administer or deliver such services may not discriminate in the delivery of a service provided through a program of the authority based on the covered person's gender identity or expression.
+
+. Beginning January 1, 2022:
+
+.. The authority and any managed care plans delivering or administering services purchased or contracted for by the authority may not apply categorical cosmetic or blanket exclusions to gender affirming treatment.
+
+.. Facial feminization surgeries and facial gender affirming treatment, such as tracheal shaves, hair electrolysis, and other care such as mastectomies, breast reductions, breast implants, or any combination of gender affirming procedures, including revisions to prior treatment, when prescribed as gender affirming treatment, may not be excluded as cosmetic.
+
+.. The authority and managed care plans administering services purchased or contracted for by the authority may not issue an adverse benefit determination denying or limiting access to gender affirming treatment, unless a health care provider with experience prescribing or delivering gender affirming treatment has reviewed and confirmed the appropriateness of the adverse benefit determination.
+
+.. If the authority and managed care plans administering services purchased or contracted for by the authority do not have an adequate network for gender affirming treatment, they shall ensure the delivery of timely and geographically accessible medically necessary gender affirming treatment at no greater expense than if they had an in-network, geographically accessible provider available. This includes, but is not limited to, providing case management services to secure out-of-network gender affirming treatment options that are available to the enrollee in a timely manner within their geographic region. The enrollee shall pay no more than the same cost sharing that the enrollee would pay for the same covered services received from an in-network provider.
+
+. For the purposes of this section, "gender affirming treatment" means a service or product that a health care provider, as defined in RCW 70.02.010, prescribes to an individual to support and affirm the individual's gender identity. Gender affirming treatment includes, but is not limited to, treatment for gender dysphoria. Gender affirming treatment can be prescribed to two spirit, transgender, nonbinary, and other gender diverse individuals.
+
+. Nothing in this section may be construed to mandate coverage of a service that is not medically necessary.
+
+. The authority shall adopt rules necessary to implement this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5313-S2.SL.pdf?cite=2021%20c%20280%20§%204[2021 c 280 § 4]; ]
 
 == 74.09.700 - Medical care—Limited casualty program.
 . To the extent of available funds and subject to any conditions placed on appropriations made for this purpose, medical care may be provided under the limited casualty program to persons not eligible for medical assistance or medical care services who are medically needy as defined in the social security Title XIX state plan and medical indigents in accordance with eligibility requirements established by the authority. The eligibility requirements may include minimum levels of incurred medical expenses. This includes residents of nursing facilities, residents of intermediate care facilities for persons with intellectual disabilities, and individuals who are otherwise eligible for section 1915(c) of the federal social security act home and community-based waiver services, administered by the department who are aged, blind, or disabled as defined in Title XVI of the federal social security act and whose income exceeds three hundred percent of the federal supplement security income benefit level.
@@ -1875,6 +1978,29 @@ The authority shall, consistent with the state budget act, develop a maternity c
 To the extent that federal matching funds are available, the authority or the department of health shall establish, in consultation with the health science programs of the state's colleges and universities, and community health clinics, a loan repayment program that will encourage maternity care providers to practice in medically underserved areas in exchange for repayment of part or all of their health education loans.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1738-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2015%20§%2052[2011 1st sp.s. c 15 § 52]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex1c10.pdf?cite=1989%201st%20ex.s.%20c%2010%20§%207[1989 1st ex.s. c 10 § 7]; ]
+
+== 74.09.830 - Postpartum health care coverage.
+. The authority shall extend health care coverage from 60 days postpartum to one year postpartum for pregnant or postpartum persons who, on or after the expiration date of the federal public health emergency declaration related to COVID-19, are receiving postpartum coverage provided under this chapter.
+
+. By June 1, 2022, the authority must:
+
+.. Provide health care coverage to postpartum persons who reside in Washington state, have countable income equal to or below 193 percent of the federal poverty level, and are not otherwise eligible under Title XIX or Title XXI of the federal social security act; and
+
+.. Ensure all persons approved for pregnancy or postpartum coverage at any time are continuously eligible for postpartum coverage for 12 months after the pregnancy ends regardless of whether they experience a change in income during the period of eligibility.
+
+. Health care coverage under this section must be provided during the 12-month period beginning on the last day of the pregnancy.
+
+. The authority shall not provide health care coverage under this section to individuals who are eligible to receive health care coverage under Title XIX or Title XXI of the federal social security act. Health care coverage for these individuals shall be provided by a program that is funded by Title XIX or Title XXI of the federal social security act. Further, the authority shall make every effort to expedite and complete eligibility determinations for individuals who are presumptively eligible to receive health care coverage under Title XIX or Title XXI of the federal social security act to ensure the state is receiving the maximum federal match. This includes, but is not limited to, working with the managed care organizations to provide continuous outreach in various modalities until the individual's eligibility determination is completed. Beginning January 1, 2022, the authority must submit quarterly reports to the caseload forecast work group on the number of individuals who are presumptively eligible to receive health care coverage under Title XIX or Title XXI of the federal social security act but are awaiting for the authority to complete eligibility determination, the number of individuals who were presumptively eligible but are now receiving health care coverage with the maximum federal match under Title XIX or Title XXI of the federal social security act, and outreach activities including the work with managed care organizations.
+
+. To ensure continuity of care and maximize the efficiency of the program, the amount and scope of health care services provided to individuals under this section must be the same as that provided to pregnant and postpartum persons under medical assistance, as defined in RCW 74.09.520.
+
+. In administering this program, the authority must seek any available federal financial participation under the medical assistance program, as codified at Title XIX of the federal social security act, the state children's health insurance program, as codified at Title XXI of the federal social security act, and any other federal funding sources that are now available or may become available. This includes, but is not limited to, ensuring the state is receiving the maximum federal match for individuals who are presumptively eligible to receive health care coverage under Title XIX or Title XXI of the federal social security act by expediting completion of the individual's eligibility determination.
+
+. Working with stakeholder and community organizations and the Washington health benefit exchange, the authority must establish a comprehensive community education and outreach campaign to facilitate applications for and enrollment in the program or into a more appropriate program where the state receives maximum federal match. Subject to the availability of amounts appropriated for this specific purpose, the education and outreach campaign must provide culturally and linguistically accessible information to facilitate participation in the program, including but not limited to enrollment procedures, program services, and benefit utilization.
+
+. Beginning January 1, 2022, the managed care organizations contracted with the authority to provide postpartum coverage must annually report to the legislature on their work to improve maternal health for enrollees, including but not limited to postpartum services offered to enrollees, the percentage of enrollees utilizing each postpartum service offered, outreach activities to engage enrollees in available postpartum services, and efforts to collect eligibility information for the authority to ensure the enrollee is in the most appropriate program for the state to receive the maximum federal match.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5068-S.SL.pdf?cite=2021%20c%2090%20§%202[2021 c 90 § 2]; ]
 
 == 74.09.850 - Conflict with federal requirements.
 If any part of this chapter is found to conflict with federal requirements which are a prescribed condition to the allocation of federal funds to the state, the conflicting part of this chapter is hereby declared to be inoperative solely to the extent of the conflict, and such finding or determination shall not affect the operation of the remainder of this chapter.

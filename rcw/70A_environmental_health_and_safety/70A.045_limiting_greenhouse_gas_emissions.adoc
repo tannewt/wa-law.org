@@ -8,7 +8,7 @@
 
 . It is the intent of the legislature that the state will: (a) Limit and reduce emissions of greenhouse gas consistent with the emission reductions established in RCW 70A.45.020; (b) minimize the potential to export pollution, jobs, and economic opportunities; (c) support industry sectors that can act as sequesterers of carbon; and (d) reduce emissions at the lowest cost to Washington's economy, consumers, and businesses.
 
-. In the event the state elects to participate in a regional multisector market-based system, it is the intent of the legislature that the system will become effective by January 1, 2012, after authority is provided to the department for its implementation. By acting now, Washington businesses and citizens will have adequate time and opportunities to be well positioned to take advantage of the low-carbon economy and to make necessary investments in low-carbon technology.
+. In the event the state elects to participate in a regional multisector market-based system, it is the intent of the legislature that the system will become effective by January 1, 2012, after authority is provided to the department for its implementation. By acting now, Washington businesses and citizens will have adequate time and opportunities to be well positioned to take advantage of the low carbon economy and to make necessary investments in low carbon technology.
 
 . It is also the intent of the legislature that the regional multisector market-based system recognize Washington's unique emissions and sequestration portfolio, including the:
 
@@ -18,9 +18,9 @@
 
 .. State's leadership in energy efficiency and the actions it has already taken that have reduced its generation of greenhouse gas emissions and that entities receive appropriate credit for early actions to reduce greenhouse gases.
 
-. If any revenues, excluding those from state trust lands, that accrue to the state are created by a market system, they must be used to further the state's efforts to achieve the goals established in RCW 70A.45.020, address the impacts of global warming on affected habitats, species, and communities, promote and invest in industry sectors that act as sequesterers of carbon, and increase investment in the clean energy economy particularly for communities and workers that have suffered from heavy job losses and chronic unemployment and underemployment.
+. If any revenues, excluding those from state trust lands, that accrue to the state are created by a market system, they must be used for the purposes established in chapter 70A.65 RCW and to further the state's efforts to achieve the goals established in RCW 70A.45.020, address the impacts of global warming on affected habitats, species, and communities, promote and invest in industry sectors that act as sequesterers of carbon, and increase investment in the clean energy economy particularly for communities and workers that have suffered from heavy job losses and chronic unemployment and underemployment.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2528-S2.SL.pdf?cite=2020%20c%20120%20§%202[2020 c 120 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201397[2020 c 20 § 1397]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2815-S2.SL.pdf?cite=2008%20c%2014%20§%201[2008 c 14 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5126-S2.SL.pdf?cite=2021%20c%20316%20§%2044[2021 c 316 § 44]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2528-S2.SL.pdf?cite=2020%20c%20120%20§%202[2020 c 120 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201397[2020 c 20 § 1397]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2815-S2.SL.pdf?cite=2008%20c%2014%20§%201[2008 c 14 § 1]; ]
 
 == 70A.45.010 - Definitions.
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
@@ -28,8 +28,6 @@ The definitions in this section apply throughout this chapter unless the context
 . "Carbon dioxide equivalents" means a metric measure used to compare the emissions from various greenhouse gases based upon their global warming potential.
 
 . "Carbon sequestration" means the process of capturing and storing atmospheric carbon dioxide through biologic, chemical, geologic, or physical processes.
-
-. "Class I substance" and "class II substance" means those substances listed in 42 U.S.C. Sec. 7671a, as it read on November 15, 1990, or those substances listed in Appendix A or B of Subpart A of 40 C.F.R. Part 82, as those read on January 3, 2017.
 
 . "Climate advisory team" means the stakeholder group formed in response to executive order 07-02.
 
@@ -41,23 +39,13 @@ The definitions in this section apply throughout this chapter unless the context
 
 . "Greenhouse gas" and "greenhouse gases" includes carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, sulfur hexafluoride, and any other gas or gases designated by the department by rule.
 
-. "Hydrofluorocarbons" means a class of greenhouse gases that are saturated organic compounds containing hydrogen, fluorine, and carbon.
-
-. "Manufacturer" includes any person, firm, association, partnership, corporation, governmental entity, organization, or joint venture that produces any product that contains or uses hydrofluorocarbons or is an importer or domestic distributor of such a product.
-
 . "Person" means an individual, partnership, franchise holder, association, corporation, a state, a city, a county, or any subdivision or instrumentality of the state.
 
 . "Program" means the department's climate change program.
 
-. "Residential consumer refrigeration products" has the same meaning as defined in section 430.2 of Subpart A of 10 C.F.R. Part 430 (2017).
-
-. "Retrofit" has the same meaning as defined in section 152 of Subpart F of 40 C.F.R. Part 82, as that section existed as of January 3, 2017.
-
-. "Substitute" means a chemical, product substitute, or alternative manufacturing process, whether existing or new, that is used to perform a function previously performed by a class I substance or class II substance and any substitute subsequently adopted to perform that function, including, but not limited to, hydrofluorocarbons. "Substitute" does not include 2-BTP or any compound as applied to its use in aerospace fire extinguishing systems.
-
 . "Western climate initiative" means the collaboration of states, Canadian provinces, Mexican states, and tribes to design a multisector market-based mechanism as directed under the western regional climate action initiative signed by the governor on February 22, 2007.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2311-S2.SL.pdf?cite=2020%20c%2079%20§%205[2020 c 79 § 5]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1112-S2.SL.pdf?cite=2019%20c%20284%20§%202[2019 c 284 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6373-S.SL.pdf?cite=2010%20c%20146%20§%201[2010 c 146 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2815-S2.SL.pdf?cite=2008%20c%2014%20§%202[2008 c 14 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1050-S2.SL.pdf?cite=2021%20c%20315%20§%203[2021 c 315 § 3]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2311-S2.SL.pdf?cite=2020%20c%2079%20§%205[2020 c 79 § 5]; prior:  2019 c 284 § 2; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6373-S.SL.pdf?cite=2010%20c%20146%20§%201[2010 c 146 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2815-S2.SL.pdf?cite=2008%20c%2014%20§%202[2008 c 14 § 2]; ]
 
 == 70A.45.020 - Greenhouse gas emissions reductions—Reporting requirements.
 . [Empty]
@@ -178,86 +166,11 @@ Beginning in 2010, when distributing capital funds through competitive programs 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201403[2020 c 20 § 1403]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5560-S2.SL.pdf?cite=2009%20c%20519%20§%209[2009 c 519 § 9]; ]
 
-== 70A.45.080 - Prohibited products and equipment—Department's rule-making authority—Restrictions on substitutes applicable to new light duty vehicles—Disclosure of substitutes used in products or equipment.
-. A person may not offer any product or equipment for sale, lease, or rent, or install or otherwise cause any equipment or product to enter into commerce in Washington if that equipment or product consists of, uses, or will use a substitute, as set forth in appendix U and V, Subpart G of 40 C.F.R. Part 82, as those read on January 3, 2017, for the applications or end uses restricted by appendix U or V of the federal regulation, as those read on January 3, 2017, consistent with the deadlines established in subsection (2) of this section. Except where existing equipment is retrofit, nothing in this subsection requires a person that acquired a restricted product or equipment prior to the effective date of the restrictions in subsection (2) of this section to cease use of that product or equipment. Products or equipment manufactured prior to the applicable effective date of the restrictions specified in subsection (2) of this section may be sold, imported, exported, distributed, installed, and used after the specified effective date.
-
-. The restrictions under subsection (1) of this section for the following products and equipment identified in appendix U and V, Subpart G of 40 C.F.R. Part 82, as those read on January 3, 2017, take effect beginning:
-
-.. January 1, 2020, for:
-
-... Propellants;
-
-... Rigid polyurethane applications and spray foam, flexible polyurethane, integral skin polyurethane, flexible polyurethane foam, polystyrene extruded sheet, polyolefin, phenolic insulation board, and bunstock;
-
-... Supermarket systems, remote condensing units, stand-alone units, and vending machines;
-
-.. January 1, 2021, for:
-
-... Refrigerated food processing and dispensing equipment;
-
-... Compact residential consumer refrigeration products;
-
-... Polystyrene extruded boardstock and billet, and rigid polyurethane low-pressure two component spray foam;
-
-.. January 1, 2022, for residential consumer refrigeration products other than compact and built-in residential consumer refrigeration products;
-
-.. January 1, 2023, for cold storage warehouses;
-
-.. January 1, 2023, for built-in residential consumer refrigeration products;
-
-.. January 1, 2024, for centrifugal chillers and positive displacement chillers; and
-
-.. On either January 1, 2020, or the effective date of the restrictions identified in appendix U and V, Subpart G of 40 C.F.R. Part 82, as those read on January 3, 2017, whichever comes later, for all other applications and end uses for substitutes not covered by the categories listed in (a) through (f) of this subsection.
-
-. The department may by rule:
-
-.. Modify the effective date of a prohibition established in subsection (2) of this section if the department determines that the rule reduces the overall risk to human health or the environment and reflects the earliest date that a substitute is currently or potentially available;
-
-.. Prohibit the use of a substitute if the department determines that the prohibition reduces the overall risk to human health or the environment and that a lower risk substitute is currently or potentially available;
-
-.. [Empty]
-... Adopt a list of approved substitutes, use conditions, or use limits, if any; and
-
-... Add or remove substitutes, use conditions, or use limits to or from the list of approved substitutes if the department determines those substitutes reduce the overall risk to human health and the environment; and
-
-.. Designate acceptable uses of hydrofluorocarbons for medical uses that are exempt from the requirements of subsection (2) of this section.
-
-. [Empty]
-.. Within twelve months of another state's enactment or adoption of restrictions on substitutes applicable to new light duty vehicles, the department may adopt restrictions applicable to the sale, lease, rental, or other introduction into commerce by a manufacturer of new light duty vehicles consistent with the restrictions identified in appendix B, Subpart G of 40 C.F.R. Part 82, as it read on January 3, 2017. The department may not adopt restrictions that take effect prior to the effective date of restrictions adopted or enacted in at least one other state.
-
-.. If the United States environmental protection agency approves a previously prohibited hydrofluorocarbon blend with a global warming potential of seven hundred fifty or less for foam blowing of polystyrene extruded boardstock and billet and rigid polyurethane low-pressure two-component spray foam pursuant to the significant new alternatives policy program under section 7671(k) of the federal clean air act (42 U.S.C. Sec. 7401 et seq.), the department must expeditiously propose a rule consistent with RCW 34.05.320 to conform the requirements established under this section with that federal action.
-
-. A manufacturer must disclose the substitutes used in its products or equipment. That disclosure must take the form of:
-
-.. A label on the equipment or product. The label must meet requirements designated by the department by rule. To the extent feasible, the department must recognize existing labeling that provides sufficient disclosure of the use of substitutes in the product or equipment.
-
-... The department must consider labels required by state building codes and other safety standards in its rule making; and
-
-... The department may not require labeling of aircraft and aircraft components subject to certification requirements of the federal aviation administration.
-
-.. Submitting information about the use of substitutes to the department, upon request.
-
-... By December 31, 2019, all manufacturers must notify the department of the status of each product class utilizing hydrofluorocarbons or other substitutes restricted under subsection (1) of this section that the manufacturer sells, offers for sale, leases, installs, or rents in Washington state. This status notification must identify the substitutes used by products or equipment in each product or equipment class in a manner determined by rule by the department.
-
-... Within one hundred twenty days after the date of a restriction put in place under this section, any manufacturer affected by the restriction must provide an updated status notification. This notification must indicate whether the manufacturer has ceased the use of hydrofluorocarbons or substitutes restricted under this section within each product class and, if not, what hydrofluorocarbons or other restricted substitutes remain in use.
-
-... After the effective date of a restriction put in place under this section, any manufacturer must provide an updated status notification when the manufacturer introduces a new or modified product or piece of equipment that uses hydrofluorocarbons or changes the type of hydrofluorocarbons utilized within a product class affected by a restriction. Such a notification must occur within one hundred twenty days of the introduction into commerce in Washington of the product or equipment triggering this notification requirement.
-
-. The department may adopt rules to administer, implement, and enforce this section. If the department elects to adopt rules, the department must seek, where feasible and appropriate, to adopt rules, including rules under subsection (4) of this section, that are the same or consistent with the regulatory standards, exemptions, reporting obligations, disclosure requirements, and other compliance requirements of other states or the federal government that have adopted restrictions on the use of hydrofluorocarbons and other substitutes. Prior to the adoption or update of a rule under this section, the department must identify the sources of information it relied upon, including peer-reviewed science.
-
-. For the purposes of implementing the restrictions specified in appendix U of Subpart G of 40 C.F.R. Part 82, as it read on January 3, 2017, consistent with this section, the department must interpret the term "aircraft maintenance" to mean activities to support the production, fabrication, manufacture, rework, inspection, maintenance, overhaul, or repair of commercial, civil, or military aircraft, aircraft parts, aerospace vehicles, or aerospace components.
-
-. The authority granted by this section to the department for restricting the use of substitutes is supplementary to the department's authority to control air pollution pursuant to chapter 70A.15 RCW. Nothing in this section limits the authority of the department under chapter 70A.15 RCW.
-
-. Except where existing equipment is retrofit, the restrictions of this section do not apply to or limit any use of commercial refrigeration equipment that was installed or in use prior to the effective date of the restrictions established in this section.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201404[2020 c 20 § 1404]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1112-S2.SL.pdf?cite=2019%20c%20284%20§%203[2019 c 284 § 3]; ]
-
 == 70A.45.090 - Forests and forest products sector—Climate response.
 . [Empty]
 .. Washington's existing forest products sector, including public and private working forests and the harvesting, transportation, and manufacturing sectors that enable working forests to remain on the land and the state to be a global supplier of forest products, is, according to a University of Washington study analyzing the global warming mitigating role of wood products from Washington's private forests, an industrial sector that currently operates as a significant net sequesterer of carbon. This value, which is only provided through the maintenance of an intact and synergistic industrial sector, is an integral component of the state's contribution to the global climate response and efforts to mitigate carbon emissions.
 
-.. Satisfying the goals set forth in *RCW 70.235.020 requires supporting, throughout all of state government, consistent with other laws and mandates of the state, the economic vitality of the sustainable forest products sector and other business sectors capable of sequestering and storing carbon. This includes support for working forests of all sizes, ownerships, and management objectives, and the necessary manufacturing sectors that support the transformation of stored carbon into long-lived forest products while maintaining and enhancing the carbon mitigation benefits of the forest sector, sustaining rural communities, and providing for fish, wildlife, and clean water, as provided in chapter 76.09 RCW. Support for the forest sector also ensures the state's public and private working forests avoid catastrophic wildfire and other similar disturbances and avoid conversion in the face of unprecedented conversion pressures.
+.. Satisfying the goals set forth in RCW 70A.45.020 requires supporting, throughout all of state government, consistent with other laws and mandates of the state, the economic vitality of the sustainable forest products sector and other business sectors capable of sequestering and storing carbon. This includes support for working forests of all sizes, ownerships, and management objectives, and the necessary manufacturing sectors that support the transformation of stored carbon into long-lived forest products while maintaining and enhancing the carbon mitigation benefits of the forest sector, sustaining rural communities, and providing for fish, wildlife, and clean water, as provided in chapter 76.09 RCW. Support for the forest sector also ensures the state's public and private working forests avoid catastrophic wildfire and other similar disturbances and avoid conversion in the face of unprecedented conversion pressures.
 
 .. It is the policy of the state to support the contributions of all working forests and the synergistic forest products sector to the state's climate response. This includes landowners, mills, bioenergy, pulp and paper, and the related harvesting and transportation infrastructure that is necessary for forestland owners to continue the rotational cycle of carbon capture and sequestration in growing trees and allows forest products manufacturers to store the captured carbon in wood products and maintain and enhance the forest sector's role in mitigating a significant percentage of the state's carbon emissions while providing other environmental and social benefits and supporting a strong rural economic base. It is further the policy of the state to support the participation of working forests in current and future carbon markets, strengthening the state's role as a valuable contributor to the global carbon response while supporting one of its largest manufacturing sectors.
 
@@ -265,17 +178,22 @@ Beginning in 2010, when distributing capital funds through competitive programs 
 
 . Any state carbon programs must support the policies stated in this section and recognize the forest products industry's contribution to the state's climate response.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2528-S2.SL.pdf?cite=2020%20c%20120%20§%203[2020 c 120 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2070[2021 c 65 § 70]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2528-S2.SL.pdf?cite=2020%20c%20120%20§%203[2020 c 120 § 3]; ]
 
 == 70A.45.100 - Carbon sequestration.
-. Separate and apart from the emissions limits established in *RCW 70.235.020, it is the policy of the state to promote the removal of excess carbon from the atmosphere through voluntary and incentive-based sequestration activities in Washington including, but not limited to, on natural and working lands and by recognizing the potential for sequestration in products and product supply chains. It is the policy of the state to prioritize carbon sequestration in amounts necessary to achieve the carbon neutrality goal established in *RCW 70.235.020, and at a level consistent with pathways to limit global warming to one and one-half degrees.
+. Separate and apart from the emissions limits established in RCW 70A.45.020, it is the policy of the state to promote the removal of excess carbon from the atmosphere through voluntary and incentive-based sequestration activities in Washington including, but not limited to, on natural and working lands and by recognizing the potential for sequestration in products and product supply chains. It is the policy of the state to prioritize carbon sequestration in amounts necessary to achieve the carbon neutrality goal established in RCW 70A.45.020, and at a level consistent with pathways to limit global warming to one and one-half degrees.
 
 . [Empty]
 .. All agencies of state government including, but not limited to, the department, the department of natural resources, the department of transportation, the department of fish and wildlife, the department of agriculture, the department of commerce, the recreation and conservation office, and the conservation commission, shall seek all practicable opportunities, consistent with existing legal mandates and requirements and statutory objectives, to cost-effectively maximize carbon sequestration and carbon storage in their nonland management agency operations, contracting, and grant-making activities.
 
 .. Any such effort to promote carbon sequestration activities that affects support for, or management of private lands or trust lands managed by the department of natural resources must be done in cooperation with the owners and managers of those natural and working lands.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2311-S2.SL.pdf?cite=2020%20c%2079%20§%204[2020 c 79 § 4]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2071[2021 c 65 § 71]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2311-S2.SL.pdf?cite=2020%20c%2079%20§%204[2020 c 79 § 4]; ]
+
+== 70A.45.110 - Siting of certain facilities.
+The state, state agencies, and political subdivisions of the state, in implementing their duties and authorities established under other laws, may only consider the greenhouse gas limits established in RCW 70A.45.020 in a manner that recognizes, where applicable, that the siting and placement of new or expanded best-in-class facilities with lower carbon emitting processes is in the economic and environmental interests of the state of Washington.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5126-S2.SL.pdf?cite=2021%20c%20316%20§%2036[2021 c 316 § 36]; ]
 
 == 70A.45.900 - Scope of chapter 14, Laws of 2008.
 Except where explicitly stated otherwise, nothing in chapter 14, Laws of 2008 alters or limits any authorities of the department as they existed prior to June 12, 2008.

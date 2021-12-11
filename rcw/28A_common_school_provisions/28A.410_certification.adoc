@@ -333,9 +333,9 @@ The professional educator standards board shall, in its regular review and revis
 == 28A.410.2211 - Washington professional educator standards board—Revision of assessments to meet revised STEM-related standards.
 . The professional educator standards board shall revise assessments for prospective teachers and teachers adding subject area endorsements required for teacher certification under RCW 28A.410.220 to measure the revised standards in RCW 28A.410.221.
 
-. In implementing the evidence-based assessment of teaching effectiveness under RCW 28A.410.280, the professional educator standards board shall require that successful candidates for the residency certificate demonstrate effective subject specific instructional methods that address the revised standards.
+. The professional educator standards board shall require that successful candidates for the residency certificate demonstrate effective subject specific instructional methods that address the revised standards.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2160.SL.pdf?cite=2011%202nd%20sp.s.%20c%202%20§%202[2011 2nd sp.s. c 2 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1028-S2.SL.pdf?cite=2021%20c%20198%20§%205[2021 c 198 § 5]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2160.SL.pdf?cite=2011%202nd%20sp.s.%20c%202%20§%202[2011 2nd sp.s. c 2 § 2]; ]
 
 == 28A.410.2212 - Washington professional educator standards board—Certificate renewal rules for teachers in STEM-related subjects.
 The professional educator standards board shall revise certificate renewal rules for teachers at the elementary and secondary levels in STEM-related subjects by September 1, 2014. The revised rules shall include the requirement that continuing education or professional growth plans for these teachers include a specific focus on the integration of science, mathematics, technology, and engineering instruction.
@@ -383,7 +383,7 @@ The Washington professional educator standards board shall report the proposed a
 
 .. The range of scores on the subject assessments under *RCW 28A.410.220(2) for persons who passed the assessments and earned an endorsement.
 
-. The information under subsection (1) of this section shall be reported for the individual public and private colleges and universities in Washington, as well as reported on an aggregate basis. The report shall also include results disaggregated demographically. The report shall include information on the number and percentage of candidates exempted from assessments, demographic information on candidates exempted, institutions attended and endorsements sought by exempted candidates, and reasons for exclusion from the required assessments. The report shall be made available through the state library, on the web site of the office of superintendent of public instruction, and placed on the legislative alert list.
+. The information under subsection (1) of this section shall be reported for the individual public and private colleges and universities in Washington, as well as reported on an aggregate basis. The report shall also include results disaggregated demographically. The report shall include information on the number and percentage of candidates exempted from assessments, demographic information on candidates exempted, institutions attended and endorsements sought by exempted candidates, and reasons for exclusion from the required assessments. The report shall be made available through the state library, on the website of the office of superintendent of public instruction, and placed on the legislative alert list.
 
 [ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2760.SL.pdf?cite=2000%20c%2039%20§%20203[2000 c 39 § 203]; ]
 
@@ -406,33 +406,35 @@ The agency responsible for educator certification shall adopt rules for professi
 
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6455-S2.SL.pdf?cite=2016%20c%20233%20§%205[2016 c 233 § 5]; ]
 
-== 28A.410.253 - Out-of-state professional certification—Washington state institute for public policy—Review—Report. (Expires July 1, 2021.)
-. By September 1, 2020, the Washington state institute for public policy must review the effect of the provisions in RCW * 28A.410.250(8) and 28A.410.252 and report to the appropriate committees of the legislature, in accordance with RCW 43.01.036. The review and report must include information on:
+== 28A.410.260 - Washington professional educator standards board—Cultural competency, diversity, equity, and inclusion standards of practice.
+. The Washington professional educator standards board shall:
 
-.. The extent to which advanced level teacher certificates from other states compare to the standards and requirements of the Washington professional certificate;
+.. Develop or update cultural competency, diversity, equity, and inclusion standards of practice for preparation, continuing education, and other training of school district staff;
 
-.. The extent to which United States federal or state-issued advanced level certificates that allow individuals to teach internationally compare to the standards and requirements of the Washington professional certificate; and
+.. Collaborate with the Washington state school directors' association to compare and align the standards of practice developed under (a) of this subsection with the standards of governance developed under RCW 28A.345.115. The review must include the educational opportunity gap oversight and accountability committee and may include the office of equity established under RCW 43.06D.020; and
 
-.. Whether the provisions in RCW * 28A.410.250(8) and 28A.410.252 have increased the number of professional certifications issued to individuals from out-of-state.
+.. Post on its public website the cultural competency, diversity, equity, and inclusion standards of practice for school district staff.
 
-. The Washington state institute for public policy must coordinate with state agencies including the office of the superintendent of public instruction, the employment security department, and the professional educator standards board to gather data that informs the review. These state agencies must cooperate in a timely manner with data requests in service of this review.
+. The Washington professional educator standards board shall develop and periodically update rubrics to evaluate the alignment of training and professional development programs and related materials with the cultural competency, diversity, equity, and inclusion standards of practice for school district staff developed under subsection (1) of this section.
 
-. This section expires July 1, 2021.
+. By November 1, 2030, and every 10 years thereafter, the Washington professional educator standards board shall review the definitions in RCW 28A.415.443 and the cultural competency, diversity, equity, and inclusion standards of practice for school district staff developed under subsection (1) of this section and report, in compliance with RCW 43.01.036, to the appropriate committees of the legislature any recommendations for revising the definitions in RCW 28A.415.443.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6455-S2.SL.pdf?cite=2016%20c%20233%20§%206[2016 c 233 § 6]; ]
+. For purposes of this section, "cultural competency," "diversity," "equity," and "inclusion" have the same meaning as in RCW 28A.415.443.
 
-== 28A.410.260 - Washington professional educator standards board—Model standards for cultural competency—Recommendations.
-. The professional educator standards board, in consultation and collaboration with the *achievement gap oversight and accountability committee established under RCW 28A.300.136, shall identify a list of model standards for cultural competency and make recommendations to the education committees of the legislature on the strengths and weaknesses of those standards.
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5044-S.SL.pdf?cite=2021%20c%20197%20§%204[2021 c 197 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5973-S2.SL.pdf?cite=2009%20c%20468%20§%205[2009 c 468 § 5]; ]
 
-. For the purposes of this section, "cultural competency" includes knowledge of student cultural histories and contexts, as well as family norms and values in different cultures; knowledge and skills in accessing community resources and community and parent outreach; and skills in adapting instruction to students' experiences and identifying cultural contexts for individual students.
+== 28A.410.265 - Washington professional educator standards board—Certification—Cultural competency, diversity, equity, and inclusion standards of practice.
+. In establishing policies and requirements for the preparation and certification of educators under RCW 28A.410.210, the Washington professional educator standards board shall require that the programs of courses, requirements, and other activities leading to educator certification incorporate the cultural competency, diversity, equity, and inclusion standards of practice developed under RCW 28A.410.260 and include the foundational elements of cultural competence, focusing on multicultural education and principles of English language acquisition, including information regarding best practices to implement the tribal history and culture curriculum.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5973-S2.SL.pdf?cite=2009%20c%20468%20§%205[2009 c 468 § 5]; ]
+. For purposes of this section, "cultural competency," "diversity," "equity," and "inclusion" have the same meaning as in RCW 28A.415.443.
 
-== 28A.410.270 - Washington professional educator standards board—Performance standards—Certification levels—Teacher effectiveness evaluations—Requirements for professional certificate and residency teaching certificate—Demonstration of educator preparation programs' outcomes.
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5044-S.SL.pdf?cite=2021%20c%20197%20§%206[2021 c 197 § 6]; ]
+
+== 28A.410.270 - Washington professional educator standards board—Performance standards—Certification levels—Teacher effectiveness evaluations—Requirements for professional certificate and residency teaching certificate—Demonstration of educator preparation programs' outcomes (as amended by 2021 c 197).
 . [Empty]
 .. The Washington professional educator standards board shall adopt a set of articulated teacher knowledge, skill, and performance standards for effective teaching that are evidence-based, measurable, meaningful, and documented in high quality research as being associated with improved student learning. The standards shall be calibrated for each level along the entire career continuum.
 
-.. In developing the standards, the board shall, to the extent possible, incorporate standards for cultural competency along the entire continuum. For the purposes of this subsection, "cultural competency" includes knowledge of student cultural histories and contexts, as well as family norms and values in different cultures; knowledge and skills in accessing community resources and community and parent outreach; and skills in adapting instruction to students' experiences and identifying cultural contexts for individual students.
+.. ((In developing the standards, the board shall, to the extent possible, incorporate standards for cultural competency along the entire continuum. For the purposes of this subsection, "cultural competency" includes knowledge of student cultural histories and contexts, as well as family norms and values in different cultures; knowledge and skills in accessing community resources and community and parent outreach; and skills in adapting instruction to students' experiences and identifying cultural contexts for individual students.))The Washington professional educator standards board shall incorporate along the entire continuum the standards of practice developed under RCW 28A.410.260.
 
 .. By January 1, 2020, in order to ensure that teachers can recognize signs of emotional or behavioral distress in students and appropriately refer students for assistance and support, the Washington professional educator standards board shall incorporate along the entire continuum the social-emotional learning standards and benchmarks recommended by the social-emotional learning benchmarks work group in its October 1, 2016, final report titled, "addressing social emotional learning in Washington's K-12 public schools." In incorporating the social-emotional learning standards and benchmarks, the Washington professional educator standards board must include related competencies, such as trauma-informed practices, consideration of adverse childhood experiences, mental health literacy, antibullying strategies, and culturally sustaining practices.
 
@@ -444,7 +446,7 @@ The agency responsible for educator certification shall adopt rules for professi
 
 . Educator preparation programs approved to offer the residency teaching certificate shall be required to demonstrate how the program produces effective teachers as evidenced by the measures established under this section and other criteria established by the Washington professional educator standards board.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5082-S2.SL.pdf?cite=2019%20c%20386%20§%203[2019 c 386 § 3]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1341-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%2026%20§%204[2017 3rd sp.s. c 26 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2261-S.SL.pdf?cite=2009%20c%20548%20§%20402[2009 c 548 § 402]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5044-S.SL.pdf?cite=2021%20c%20197%20§%2011[2021 c 197 § 11]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5082-S2.SL.pdf?cite=2019%20c%20386%20§%203[2019 c 386 § 3]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1341-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%2026%20§%204[2017 3rd sp.s. c 26 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2261-S.SL.pdf?cite=2009%20c%20548%20§%20402[2009 c 548 § 402]; ]
 
 == 28A.410.271 - Washington professional educator standards board—Standards for educational interpreters.
 . The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
@@ -480,9 +482,37 @@ By January 1, 2020, in order to ensure that principals can recognize signs of em
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5082-S2.SL.pdf?cite=2019%20c%20386%20§%204[2019 c 386 § 4]; ]
 
 == 28A.410.275 - Washington professional educator standards board—Preparation program review.
-The Washington professional educator standards board must periodically review approved preparation programs to assess whether and to what extent the programs are meeting knowledge, skill, and performance standards, and publish on its web site the results of the review in a format that facilitates program comparison.
+The Washington professional educator standards board must periodically review approved preparation programs to assess whether and to what extent the programs are meeting knowledge, skill, and performance standards, and publish on its website the results of the review in a format that facilitates program comparison.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5082-S2.SL.pdf?cite=2019%20c%20386%20§%208[2019 c 386 § 8]; ]
+
+== 28A.410.277 - Washington professional educator standards board—Continuing education requirements for administrator and teacher certificate renewals.
+. The Washington professional educator standards board must adopt rules for renewal of administrator certificates and teacher certificates that meet the continuing education requirements of this section.
+
+. To renew an administrator certificate on or after July 1, 2023, continuing education must meet the following requirements: 10 percent must focus on equity-based school practices, 10 percent must focus on the national professional standards for education leaders, and five percent must focus on government-to-government relationships with federally recognized tribes.
+
+. To renew a teacher certificate on or after July 1, 2023, 15 percent of continuing education must focus on equity-based school practices. This subsection (3) does not apply to a person renewing both a teacher certificate and an administrator certificate.
+
+. [Empty]
+.. Except as provided under (b) of this subsection (4), continuing education must be provided by one or more of the following entities, if they are an approved clock hour provider:
+
+... The office of the superintendent of public instruction;
+
+... A school district;
+
+... An educational service district;
+
+... A Washington professional educator standards board-approved administrator or teacher preparation program;
+
+.. The association of Washington school principals; or
+
+.. The Washington education association.
+
+.. Continuing education related to government-to-government relationships with federally recognized tribes must be provided by one or more subject matter experts approved by the governor's office on Indian affairs in collaboration with the tribal leaders congress on education and the office of Native education in the office of the superintendent of public instruction.
+
+. Continuing education focused on equity-based school practices must be aligned with the standards for cultural competency developed under *RCW 28A.410.260.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1426-S.SL.pdf?cite=2021%20c%2077%20§%201[2021 c 77 § 1]; ]
 
 == 28A.410.278 - Residency principal certificates—Principal preparation program requirements.
 . After August 31, 2013, candidates for a residency principal certificate must have demonstrated knowledge of teacher evaluation research and Washington's evaluation requirements and successfully completed opportunities to practice teacher evaluation skills.
@@ -503,20 +533,10 @@ The Washington professional educator standards board must periodically review ap
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1139-S2.SL.pdf?cite=2019%20c%20295%20§%20304[2019 c 295 § 304]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5895-S.SL.pdf?cite=2012%20c%2035%20§%204[2012 c 35 § 4]; ]
 
-== 28A.410.280 - Evidence-based assessment of teaching effectiveness—Teacher preparation program requirement.
-. Beginning with the 2011-12 school year, all professional educator standards board-approved teacher preparation programs must administer to all preservice candidates the evidence-based assessment of teaching effectiveness adopted by the professional educator standards board. The professional educator standards board shall adopt rules that establish a date during the 2012-13 school year after which candidates completing teacher preparation programs must successfully pass this assessment. Assessment results from persons completing each preparation program must be reported annually by the professional educator standards board to the governor and the education and fiscal committees of the legislature by December 1st.
+== 28A.410.283 - Uniform, statewide performance assessment of teaching effectiveness—Prohibited as requirement.
+The Washington professional educator standards board may not adopt rules requiring that candidates for residency teacher certification take or pass a uniform, statewide performance assessment of teaching effectiveness.
 
-. The professional educator standards board and the superintendent of public instruction, as determined by the board, may contract with one or more third parties for:
-
-.. The administration, scoring, and reporting of scores of the assessment under this section;
-
-.. Related clerical and administrative activities; or
-
-.. Any combination of the purposes of this subsection (2).
-
-. Candidates for residency certification who are required to successfully complete the assessment under this section, and who are charged a fee for the assessment by a third party contracted with under this section, shall pay the fee charged by the contractor directly to the contractor. Such fees shall be reasonably related to the actual costs of the contractor in providing the assessment.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6696-S2.SL.pdf?cite=2010%20c%20235%20§%20501[2010 c 235 § 501]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1028-S2.SL.pdf?cite=2021%20c%20198%20§%203[2021 c 198 § 3]; ]
 
 == 28A.410.285 - Teacher preparation programs.
 Each Washington professional educator standards board-approved teacher preparation program, including an alternative route teacher certification program, must develop a plan regarding field placement of student teachers in accordance with RCW 28B.10.033.

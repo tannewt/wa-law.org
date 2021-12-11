@@ -87,7 +87,7 @@ In determining the lowest and best bid on the new equipment the board shall cons
 
 .. Post notice of the sale in a conspicuous place in the county courthouse; and
 
-.. If a public auction sale by electronic media will be conducted pursuant to RCW 36.16.145, post notice of the sale on the county's internet web site.
+.. If a public auction sale by electronic media will be conducted pursuant to RCW 36.16.145, post notice of the sale on the county's internet website.
 
 . The posting and date of first publication must be at least ten days before the day fixed for the sale.
 

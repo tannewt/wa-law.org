@@ -515,7 +515,7 @@ The provisions of this chapter shall not apply in respect to the use of form lum
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c37.pdf?cite=1980%20c%2037%20§%2067[1980 c 37 § 67]; ]
 
-== 82.12.02685 - Exemptions—Use of tangible personal property related to agricultural employee housing.
+== 82.12.02685 - Exemptions—Use of tangible personal property related to agricultural employee housing. (Effective until October 1, 2021.)
 . The provisions of this chapter shall not apply in respect to the use of tangible personal property that becomes an ingredient or component of buildings or other structures used as agricultural employee housing during the course of constructing, repairing, decorating, or improving the buildings or other structures by any person.
 
 . The exemption provided in this section for agricultural employee housing provided to year-round employees of the agricultural employer, only applies if that housing is built to the current building code for single-family or multifamily dwellings according to the state building code, chapter 19.27 RCW.
@@ -620,11 +620,14 @@ The provisions of this chapter shall not apply in respect to the use of ferry ve
 [ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1977.SL.pdf?cite=2003%20c%205%20§%209[2003 c 5 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c37.pdf?cite=1980%20c%2037%20§%2077[1980 c 37 § 77]; ]
 
 == 82.12.0282 - Exemptions—Use of vans as ride-sharing vehicles.
-. The tax imposed by this chapter does not apply with respect to the use of passenger motor vehicles used primarily for commuter ride sharing or ride sharing for persons with special transportation needs, as defined in RCW 46.74.010, if the vehicles are used as ride-sharing vehicles for thirty-six consecutive months beginning with the date of first use.
+. The tax imposed by this chapter does not apply with respect to the use of passenger motor vehicles used primarily for ride sharing or ride sharing for persons with special transportation needs, as defined in RCW 46.74.010, if the vehicles are used as ride-sharing vehicles for thirty-six consecutive months beginning with the date of first use.
 
-. To qualify for the tax exemption, those passenger motor vehicles with five or six passengers, including the driver, used for commuter ride sharing, must be operated either within the state's eight largest counties that are required to develop commute trip reduction plans as directed by chapter 70A.15 RCW or in other counties, or cities and towns within those counties, that elect to adopt and implement a commute trip reduction plan. Additionally at least one of the following conditions must apply: (a) The vehicle must be operated by a public transportation agency for the general public; or (b) the vehicle must be used by a major employer, as defined in RCW 70A.15.4010 as an element of its commute trip reduction program for their employees; or (c) the vehicle must be owned and operated by individual employees and must be registered either with the employer as part of its commute trip reduction program or with a public transportation agency serving the area where the employees live or work. Individual employee owned and operated motor vehicles will require certification that the vehicle is registered with a major employer or a public transportation agency. Major employers who own and operate motor vehicles for their employees must certify that the commuter ride-sharing arrangement conforms to a carpool/vanpool element contained within their commute trip reduction program.
+. [Empty]
+.. To qualify for the tax exemption, those passenger motor vehicles with three or more passengers, including the driver, used for ride sharing, must be operated either within the state's eight largest counties that are required to develop commute trip reduction plans as directed by chapter 70A.15 RCW, in other counties, or cities and towns within those counties, that elect to adopt and implement a commute trip reduction plan, or in other counties where the vehicle is registered with or operated by a public transportation agency. Additionally at least one of the following conditions must apply: (i) The vehicle must be operated by a public transportation agency for the benefit of the general public; or (ii) the vehicle must be used by a major employer, as defined in RCW 70A.15.4010 as an element of its commute trip reduction program for their employees; or (iii) the vehicle must be owned and operated by individual employees and must be registered either with the employer as part of its commute trip reduction program or with a public transportation agency. Individual employee owned and operated motor vehicles will require certification that the vehicle is registered with a major employer or a public transportation agency. Major employers who own and operate motor vehicles for their employees must certify that the ride-sharing arrangement conforms to a carpool/vanpool element contained within their commute trip reduction program.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201477[2020 c 20 § 1477]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6333-S.SL.pdf?cite=2014%20c%2097%20§%20504[2014 c 97 § 504]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1361.SL.pdf?cite=2001%20c%20320%20§%205[2001 c 320 § 5]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1623-S.SL.pdf?cite=1999%20c%20358%20§%2011[1999 c 358 § 11]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2591.SL.pdf?cite=1996%20c%2088%20§%204[1996 c 88 § 4]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5876-S.SL.pdf?cite=1993%20c%20488%20§%204[1993 c 488 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c166.pdf?cite=1980%20c%20166%20§%202[1980 c 166 § 2]; ]
+.. Notwithstanding the ridership requirements under (a) of this subsection (2), unless the vehicle is operated by a public transportation agency, the vehicle must be used for ride sharing in the transport of at least five passengers.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1514-S.SL.pdf?cite=2021%20c%20135%20§%207[2021 c 135 § 7]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201477[2020 c 20 § 1477]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6333-S.SL.pdf?cite=2014%20c%2097%20§%20504[2014 c 97 § 504]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1361.SL.pdf?cite=2001%20c%20320%20§%205[2001 c 320 § 5]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1623-S.SL.pdf?cite=1999%20c%20358%20§%2011[1999 c 358 § 11]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2591.SL.pdf?cite=1996%20c%2088%20§%204[1996 c 88 § 4]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5876-S.SL.pdf?cite=1993%20c%20488%20§%204[1993 c 488 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c166.pdf?cite=1980%20c%20166%20§%202[1980 c 166 § 2]; ]
 
 == 82.12.0283 - Exemptions—Use of certain irrigation equipment.
 The provisions of this chapter do not apply to the use of irrigation equipment if:
@@ -651,7 +654,7 @@ The provisions of this chapter shall not apply in respect to the use of any item
 
 [ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5622.SL.pdf?cite=1998%20c%20183%20§%202[1998 c 183 § 2]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5710-S2.SL.pdf?cite=1997%20c%20386%20§%2057[1997 c 386 § 57]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1611-S.SL.pdf?cite=1995%20c%20346%20§%202[1995 c 346 § 2]; ]
 
-== 82.12.0293 - Exemptions—Use of food and food ingredients.
+== 82.12.0293 - Exemptions—Use of food and food ingredients. (Effective until January 1, 2022.)
 . The provisions of this chapter do not apply in respect to the use of food and food ingredients for human consumption. "Food and food ingredients" has the same meaning as in RCW 82.08.0293.
 
 . The exemption of "food and food ingredients" provided for in subsection (1) of this section does not apply to prepared food, soft drinks, bottled water, or dietary supplements. "Prepared food," "soft drinks," "bottled water," and "dietary supplements" have the same meanings as in RCW 82.08.0293.
@@ -910,7 +913,7 @@ When computing the tax levied by RCW 82.12.020, if a shipment consists of taxabl
 
 ... Labor and services rendered in respect to repairing, cleaning, altering, or improving large private airplanes owned by nonresidents of this state.
 
-.. The exemption provided by this section applies only when the large private airplane is not required to be registered with the department of transportation, or its successor, under chapter 47.68 RCW. The airplane owner or lessee claiming an exemption under this section must provide the department, upon request, a copy of the written statement required under RCW 47.68.250(5)(c)(ii) documenting the airplane's registration exemption and any additional information the department may require.
+.. The exemption provided by this section applies only when the large private airplane is not required to be registered with the department of transportation, or its successor, under chapter 47.68 RCW. The airplane owner or lessee claiming an exemption under this section must provide the department, upon request, a copy of the written statement required under *RCW 47.68.250(5)(c)(ii) documenting the airplane's registration exemption and any additional information the department may require.
 
 . Upon request, the department of transportation must provide to the department of revenue information needed by the department of revenue to verify eligibility under this section.
 
@@ -924,7 +927,7 @@ When computing the tax levied by RCW 82.12.020, if a shipment consists of taxabl
 . The provisions of this chapter do not apply in respect to the use of any article of personal property, valued at less than twelve thousand dollars, purchased or received as a prize in a contest of chance, as defined in RCW 82.04.285, from a nonprofit organization or a library, if the gross income the nonprofit organization or library receives from the sale is exempt under RCW 82.04.3651.
 
 . [Empty]
-.. Beginning December 2020, and each December thereafter, the department must adjust the value limit for the exemption under subsection (1) of this section by multiplying the current value limit for the exemption under subsection (1) of this section by the greater of one or one plus the percentage change in the consumer price index for the most recent twelve-month period available as of December 1st of the current calendar year, and rounding the result to the nearest ten dollars. If an adjustment under this subsection (2) would reduce the value limit for the exemption under subsection (1) of this section, the department may not adjust the value limit for use in the following year. The department must promptly publish the adjusted value limit for the next calendar year on its public web site. Each adjusted value limit calculated under this subsection takes effect on the following January 1st.
+.. Beginning December 2020, and each December thereafter, the department must adjust the value limit for the exemption under subsection (1) of this section by multiplying the current value limit for the exemption under subsection (1) of this section by the greater of one or one plus the percentage change in the consumer price index for the most recent twelve-month period available as of December 1st of the current calendar year, and rounding the result to the nearest ten dollars. If an adjustment under this subsection (2) would reduce the value limit for the exemption under subsection (1) of this section, the department may not adjust the value limit for use in the following year. The department must promptly publish the adjusted value limit for the next calendar year on its public website. Each adjusted value limit calculated under this subsection takes effect on the following January 1st.
 
 .. For purposes of this subsection (2):
 
@@ -960,6 +963,15 @@ When computing the tax levied by RCW 82.12.020, if a shipment consists of taxabl
 . "Feminine hygiene products" has the same meaning as provided in RCW 82.08.798.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5147-S.SL.pdf?cite=2020%20c%20350%20§%204[2020 c 350 § 4]; ]
+
+== 82.12.799 - Exemptions—Vessels exempt from registration. (Expires January 1, 2029.)
+. Except as otherwise provided in this section, the provisions of this chapter do not apply to the use of a vessel exempt from registration under RCW 88.02.570(12).
+
+. The use of a vessel exempt from registration under RCW 88.02.570(12) for chartering with a captain or crew is subject to the tax imposed in RCW 82.12.020 based on the reasonable bare rental value of the vessel as provided in RCW 82.12.010(7)(c).
+
+. This section expires January 1, 2029.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1107-S.SL.pdf?cite=2021%20c%20150%20§%206[2021 c 150 § 6]; ]
 
 == 82.12.800 - Exemptions—Uses of vessel, vessel's trailer by manufacturer.
 . The tax imposed under RCW 82.12.020 shall not apply to the following uses of a vessel, as defined in RCW 88.02.310, by the manufacturer of the vessel:
@@ -1159,6 +1171,31 @@ The provisions of this chapter shall not apply in respect to the use of ostomic 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2042-S2.SL.pdf?cite=2019%20c%20287%20§%2012[2019 c 287 § 12]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1481-S2.SL.pdf?cite=2009%20c%20459%20§%205[2009 c 459 § 5]; ]
 
+== 82.12.817 - Exemptions—Fuel cell electric vehicles. (Effective July 1, 2022, until June 30, 2029.)
+. Subject to the limitations in this subsection and RCW 82.08.993(1)(c), beginning July 1, 2022, with sales made or lease agreements signed on or after this date until the expiration of this section, fifty percent of the tax levied by RCW 82.12.020 does not apply to sales or leases of new electric passenger cars, light duty trucks, and medium duty passenger vehicles, that are powered by a fuel cell.
+
+. [Empty]
+.. Subject to the limitations in this subsection (2), beginning July 1, 2022, with sales made or lease agreements signed on or after this date until the expiration of this section, the entire tax levied by RCW 82.12.020 does not apply to the sale or lease of used electric passenger cars, light duty trucks, and medium duty passenger vehicles, that are powered by a fuel cell.
+
+.. The per vehicle exemption must be based on the sales price for purchased vehicles and fair market value at the inception of the lease for leased vehicles. However, the maximum value amount eligible for the exemption under (a) of this subsection is the lesser of either sixteen thousand dollars or the fair market value of the vehicle.
+
+.. A person may not claim the exemption under this subsection (2) if the person claims the exemption under RCW 82.08.9999 or 82.12.9999.
+
+. The buyer must keep records necessary for the department to verify eligibility under this section. The buyer claiming the exemption must also submit itemized information to the department for all vehicles for which an exemption is claimed that must include the following: Vehicle make; vehicle model; model year; whether the vehicle has been sold or leased; date of sale or start date of lease; length of lease; sales price for purchased vehicles and fair market value at the inception of the lease for leased vehicles; and the total amount qualifying for the incentive claimed for each vehicle, in addition to the future monthly amount to be claimed for each leased vehicle. This information must be provided in a form and manner prescribed by the department.
+
+. On the last day of July, October, January, and April of each year, the state treasurer, based upon information provided by the department, must transfer from the electric vehicle account to the general fund a sum equal to the dollar amount that would otherwise have been deposited into the general fund during the prior fiscal quarter but for the exemptions provided in this section. Information provided by the department to the state treasurer must be based on the best available data.
+
+. [Empty]
+.. Sales of vehicles delivered to the buyer after the expiration of this section, or leased vehicles for which the lease agreement was signed after the expiration of this section, do not qualify for the exemptions under this section.
+
+.. All leased vehicles that qualified for the exemption under this section before the expiration of this section must continue to receive the exemption on any lease payments due through the remainder of the lease.
+
+. The definitions in RCW 82.08.993 apply to this section.
+
+. This section expires June 30, 2029.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5000-S2.SL.pdf?cite=2021%20c%20171%20§%203[2021 c 171 § 3]; ]
+
 == 82.12.820 - Exemptions—Warehouse and grain elevators and distribution centers.
 . Wholesalers or third-party warehousers who own or operate warehouses or grain elevators, and retailers who own or operate distribution centers, and who have paid the tax levied under RCW 82.12.020 on:
 
@@ -1346,11 +1383,11 @@ The provisions of this chapter shall not apply in respect to the use of steam, e
 
 .. "Hog fuel" has the same meaning as provided in RCW 82.08.956; and
 
-.. "Biofuel" has the same meaning as provided in *RCW 43.325.010.
+.. "Biofuel" has the same meaning as provided in RCW 82.08.956.
 
 . This section expires June 30, 2024.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5882-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2013%20§%201003[2013 2nd sp.s. c 13 § 1003]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6170-S.SL.pdf?cite=2009%20c%20469%20§%20302[2009 c 469 § 302]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5251-S.SL.pdf?cite=2021%20c%20145%20§%2014[2021 c 145 § 14]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5882-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2013%20§%201003[2013 2nd sp.s. c 13 § 1003]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6170-S.SL.pdf?cite=2009%20c%20469%20§%20302[2009 c 469 § 302]; ]
 
 == 82.12.962 - Exemptions—Use of machinery and equipment in generating electricity. (Expires January 1, 2030.)
 . [Empty]
@@ -1454,15 +1491,11 @@ The provisions of this chapter shall not apply in respect to the use of steam, e
 
 . No application is necessary for the tax exemption. The person is subject to all of the requirements of chapter 82.32 RCW.
 
-. Any person who has claimed the exemption under this section must reimburse the department for fifty percent of the amount of the tax preference under this section, if:
-
-.. The number of persons employed by the person claiming the tax preference is less than ninety percent of the person's three-year employment average for the three years immediately preceding the year in which the exemption is claimed; or
-
-.. The person is subject to a review under section 501(4)(a), chapter 37, Laws of 2017 3rd sp. sess. and such person does not meet performance criteria in section 501(4)(a), chapter 37, Laws of 2017 3rd sp. sess.
+. Any person who has claimed the exemption under this section must reimburse the department for fifty percent of the amount of the tax preference under this section, if the number of persons employed by the person claiming the tax preference is less than ninety percent of the person's three-year employment average for the three years immediately preceding the year in which the exemption is claimed.
 
 . This section expires December 1, 2028.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5402.SL.pdf?cite=2020%20c%20139%20§%2022[2020 c 139 § 22]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5977-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2037%20§%20508[2017 3rd sp.s. c 37 § 508]; 2017 3rd sp.s. c 37 § 507; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1296-S.SL.pdf?cite=2017%20c%20135%20§%2031[2017 c 135 § 31]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6333-S.SL.pdf?cite=2014%20c%2097%20§%20406[2014 c 97 § 406]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/3066-S.SL.pdf?cite=2010%20c%20114%20§%20130[2010 c 114 § 130]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6170-S.SL.pdf?cite=2009%20c%20469%20§%20503[2009 c 469 § 503]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/3190-S.SL.pdf?cite=2006%20c%2084%20§%204[2006 c 84 § 4]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5251-S.SL.pdf?cite=2021%20c%20145%20§%2015[2021 c 145 § 15]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5402.SL.pdf?cite=2020%20c%20139%20§%2022[2020 c 139 § 22]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5977-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2037%20§%20508[2017 3rd sp.s. c 37 § 508]; 2017 3rd sp.s. c 37 § 507; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1296-S.SL.pdf?cite=2017%20c%20135%20§%2031[2017 c 135 § 31]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6333-S.SL.pdf?cite=2014%20c%2097%20§%20406[2014 c 97 § 406]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/3066-S.SL.pdf?cite=2010%20c%20114%20§%20130[2010 c 114 § 130]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6170-S.SL.pdf?cite=2009%20c%20469%20§%20503[2009 c 469 § 503]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/3190-S.SL.pdf?cite=2006%20c%2084%20§%204[2006 c 84 § 4]; ]
 
 == 82.12.970 - Exemptions—Gases and chemicals used to manufacture semiconductor materials. (Contingent effective date; contingent expiration date.)
 . The provisions of this chapter do not apply with respect to the use of gases and chemicals used by a manufacturer or processor for hire in the manufacturing of semiconductor materials. This exemption is limited to gases and chemicals used in the manufacturing process to grow the product, deposit or grow permanent or sacrificial layers on the product, to etch or remove material from the product, to anneal the product, to immerse the product, to clean the product, and other such uses whereby the gases and chemicals come into direct contact with the product during the manufacturing process, or uses of gases and chemicals to clean the chambers and other like equipment in which such processing takes place. For purposes of this section, "semiconductor materials" has the same meaning as provided in RCW 82.04.240(2).

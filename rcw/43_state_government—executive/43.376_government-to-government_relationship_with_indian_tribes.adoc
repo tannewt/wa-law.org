@@ -13,7 +13,7 @@ The definitions in this section apply throughout this chapter unless the context
 == 43.376.020 - Government-to-government relationships—State agency duties.
 In establishing a government-to-government relationship with Indian tribes, state agencies must:
 
-. Make reasonable efforts to collaborate with Indian tribes in the development of policies, agreements, and program implementation that directly affect Indian tribes and develop a consultation process that is used by the agency for issues involving specific Indian tribes;
+. Make reasonable efforts to collaborate with Indian tribes in the development of policies, agreements, and program implementation that directly affect Indian tribes and develop a consultation process that is used by the agency for issues involving specific Indian tribes. Covered agencies, as defined in RCW 70A.02.010, subject to the requirements of chapter 70A.02 RCW, must offer consultation with Indian tribes on the actions specified in RCW 70A.02.100. State agencies described in *section 6 of this act must offer consultation with Indian tribes on the actions specified in *section 6 of this act;
 
 . Designate a tribal liaison who reports directly to the head of the state agency;
 
@@ -21,7 +21,7 @@ In establishing a government-to-government relationship with Indian tribes, stat
 
 . Submit an annual report to the governor on activities of the state agency involving Indian tribes and on implementation of this chapter.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6175.SL.pdf?cite=2012%20c%20122%20§%202[2012 c 122 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5126-S2.SL.pdf?cite=2021%20c%20316%20§%2040[2021 c 316 § 40]; http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5141-S2.SL.pdf?cite=2021%20c%20314%20§%2023[2021 c 314 § 23]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6175.SL.pdf?cite=2012%20c%20122%20§%202[2012 c 122 § 2]; ]
 
 == 43.376.030 - State agency tribal liaison.
 The position of tribal liaison within a state agency is responsible for:

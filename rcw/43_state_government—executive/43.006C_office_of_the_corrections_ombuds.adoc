@@ -48,7 +48,7 @@ The ombuds reports directly to the governor and exercises his or her powers and 
 
 .. Establish priorities for use of the limited resources available to the ombuds;
 
-.. Maintain a statewide toll-free telephone number, a collect telephone number, a web site, and a mailing address for the receipt of complaints and inquiries;
+.. Maintain a statewide toll-free telephone number, a collect telephone number, a website, and a mailing address for the receipt of complaints and inquiries;
 
 .. Provide information, as appropriate, to inmates, family members, representatives of inmates, department employees, and others regarding the rights of inmates;
 
@@ -185,4 +185,17 @@ The ombuds reports directly to the governor and exercises his or her powers and 
 . This section is not intended to infringe on the rights of an employer to supervise, discipline, or terminate an employee for other reasons.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1889-S2.SL.pdf?cite=2018%20c%20270%20§%208[2018 c 270 § 8]; ]
+
+== 43.06C.080 - Unexpected fatality review team—Duties.
+. The ombuds or the ombuds' designee shall serve as a member of the unexpected fatality review team convened under chapter 72.09 RCW.
+
+. The department shall:
+
+.. Permit the ombuds or the ombuds' designee physical access to state institutions serving incarcerated individuals and state-licensed facilities or residences for the purposes of carrying out its duties under this chapter; and
+
+.. Upon the ombuds' request, grant the ombuds or the ombuds' designee the right to access, inspect, and copy all relevant information, records, or documents in the possession or control of the department that the ombuds considers necessary in an investigation.
+
+. The office shall issue an annual report to the legislature on the status of the implementation of unexpected fatality review recommendations.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5119-S.SL.pdf?cite=2021%20c%20139%20§%202[2021 c 139 § 2]; ]
 

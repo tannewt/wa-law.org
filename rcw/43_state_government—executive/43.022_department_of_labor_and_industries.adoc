@@ -119,6 +119,23 @@ The director or any employee of the department of labor and industries may enter
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5038.SL.pdf?cite=2009%20c%20549%20§%205100[2009 c 549 § 5100]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c8.pdf?cite=1965%20c%208%20§%2043.22.310[1965 c 8 § 43.22.310]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1901c74.pdf?cite=1901%20c%2074%20§%205[1901 c 74 § 5]; RRS § 7590; ]
 
+== 43.22.315 - Use of social security numbers in correspondence with third parties.
+. For the purposes of preventing fraud and protecting personal privacy, the department shall examine its current practices in which it discloses the full social security numbers of persons in its correspondence with nongovernmental third parties.
+
+. If the disclosure of full social security numbers in its correspondence with nongovernmental third parties is not required for compliance with any state or federal law, the department shall:
+
+.. Institute procedures to replace the use of full social security numbers with other forms of personal identifiers in its correspondence with nongovernmental third parties; and
+
+.. By July 1, 2023, cease disclosing the full social security numbers of persons in its correspondence with nongovernmental third parties.
+
+. The definitions in this subsection apply throughout this section:
+
+.. "Correspondence" means written communications, emails, or other similar communications. "Correspondence" does not include financial transactions or communications sent via secured or encrypted methods.
+
+.. "Nongovernmental third party" means an individual, corporation, business trust, estate, trust, partnership, association, joint venture, or other legal commercial entity. The term does not include a government or governmental subdivision, agency, or instrumentality.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1455-S.SL.pdf?cite=2021%20c%2080%20§%201[2021 c 80 § 1]; ]
+
 == 43.22.331 - Annual report on workers' compensation fraud.
 The department shall annually compile a comprehensive report on workers' compensation fraud in Washington. The report shall include the department's activities related to the prevention, detection, and prosecution of worker, employer, and provider fraud and the cost of such activities, as well as the actual and estimated cost savings of such activities. The report shall be submitted to the appropriate committees of the legislature prior to the start of the legislative session in January.
 

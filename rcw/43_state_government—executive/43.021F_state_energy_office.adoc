@@ -130,7 +130,7 @@ Nothing in this subsection prohibits the use of confidential information to prep
 
 .. Maintain and enhance economic competitiveness by ensuring an affordable and reliable supply of energy resources and by supporting clean energy technology innovation, access to clean energy markets worldwide, and clean energy business and workforce development;
 
-.. Reduce dependence on fossil fuel energy sources through improved efficiency and development of cleaner energy sources, such as bioenergy, low-carbon energy sources, and natural gas, and leveraging the indigenous resources of the state for the production of clean energy;
+.. Reduce dependence on fossil fuel energy sources through improved efficiency and development of cleaner energy sources, such as bioenergy, low carbon energy sources, and natural gas, and leveraging the indigenous resources of the state for the production of clean energy;
 
 .. Improve efficiency of transportation energy use through advances in vehicle technology, increased system efficiencies, development of electricity, biofuels, and other clean fuels, and regional transportation planning to improve transportation choices;
 

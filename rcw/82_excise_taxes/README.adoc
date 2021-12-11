@@ -52,4 +52,6 @@
 * link:82.82_community_empowerment_zones—tax_deferral_program.adoc[82.82 - Community empowerment zones—Tax deferral program.]
 * link:82.84_local_grocery_tax_restrictions.adoc[82.84 - Local grocery tax restrictions.]
 * link:82.85_job_creation_and_economic_development_investment_incentives—pilot_program.adoc[82.85 - Job creation and economic development investment incentives—Pilot program.]
+* link:82.86_988_behavioral_health_crisis_response_and_suicide_prevention_line_tax.adoc[82.86 - 988 behavioral health crisis response and suicide prevention line tax.]
+* link:82.87_capital_gains_tax.adoc[82.87 - Capital gains tax.]
 * link:82.98_construction.adoc[82.98 - Construction.]

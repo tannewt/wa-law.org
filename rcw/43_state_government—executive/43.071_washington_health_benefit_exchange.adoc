@@ -94,7 +94,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 .. Certify qualified health and dental plans to be offered for enrollment through the exchange;
 
-.. Provide consumer education and assistance regarding cost and coverage of certified plans, plan selection, eligibility for subsidies, and health insurance literacy, which must include, but not be limited to, a web site, toll-free call center, and consumer assistance by navigators and insurance producers;
+.. Provide consumer education and assistance regarding cost and coverage of certified plans, plan selection, eligibility for subsidies, and health insurance literacy, which must include, but not be limited to, a website, toll-free call center, and consumer assistance by navigators and insurance producers;
 
 .. Determine eligibility for premium tax credits, cost-sharing reductions, other available subsidies, and enrollment in state and federal health care programs consistent with applicable federal law; and
 
@@ -207,7 +207,7 @@ The board shall establish a rating system consistent with applicable federal law
 . [Empty]
 .. A person or entity functioning as a navigator may only request health care information that is relevant to the specific assessment and recommendation of health plan options. Any health care information received by a navigator may not be disclosed to any third party that is not part of the enrollment process and must be destroyed after enrollment has been completed.
 
-.. If a person's health care information is received and disclosed to a third party in violation of (a) of this subsection, the navigator must notify the person of the breach. The exchange must develop a policy to establish a reasonable notification period and what information must be included in the notice. This policy and information on the exchange's confidentiality policies must be made available on the exchange's web site.
+.. If a person's health care information is received and disclosed to a third party in violation of (a) of this subsection, the navigator must notify the person of the breach. The exchange must develop a policy to establish a reasonable notification period and what information must be included in the notice. This policy and information on the exchange's confidentiality policies must be made available on the exchange's website.
 
 . For the purposes of this section:
 
@@ -272,7 +272,7 @@ The board shall establish a rating system consistent with applicable federal law
 
 . This section does not prohibit an issuer from offering a plan that covers dental benefits that do not meet the requirements of a stand-alone family dental plan outside the exchange.
 
-. The exchange shall monitor enrollment and provide periodic reports which must be available on its web site.
+. The exchange shall monitor enrollment and provide periodic reports which must be available on its website.
 
 . The board shall offer all qualified health plans through the exchange, and the exchange shall not add criteria for certification of qualified health plans beyond those set out in RCW 43.71.065 without specific statutory direction. Nothing shall be construed to limit duties, obligations, and authority otherwise legislatively delegated or granted to the exchange.
 
@@ -290,25 +290,116 @@ The board shall establish a rating system consistent with applicable federal law
 .. The exchange must provide written notice of the standardized health plans to licensed health carriers by January 31st before the year in which the health plans are to be offered on the exchange. The exchange may make modifications to the standardized plans after January 31st to comply with changes to state or federal law or regulations.
 
 . [Empty]
-.. Beginning January 1, 2021, any health carrier offering a qualified health plan on the exchange must offer one silver standardized health plan and one gold standardized health plan on the exchange. If a health carrier offers a bronze health plan on the exchange, it must offer one bronze standardized health plan on the exchange.
+.. Beginning January 1, 2021, any health carrier offering a qualified health plan on the exchange must offer the silver and gold standardized health plans established under this section on the exchange in each county where the carrier offers a qualified health plan. If a health carrier offers a bronze health plan on the exchange, it must offer the bronze standardized health plans established under this section on the exchange in each county where the carrier offers a qualified health plan.
 
 .. [Empty]
-... A health plan offering a standardized health plan under this section may also offer nonstandardized health plans on the exchange.
+... Until December 31, 2022, a health carrier offering a standardized health plan under this section may also offer nonstandardized health plans on the exchange. Beginning January 1, 2023, a health carrier offering a standardized health plan under this section may also offer up to two nonstandardized gold health plans, two nonstandardized bronze health plans, one nonstandardized silver health plan, one nonstandardized platinum health plan, and one nonstandardized catastrophic health plan in each county where the carrier offers a qualified health plan.
 
-... The exchange, in consultation with the office of the insurance commissioner, shall analyze the impact to exchange consumers of offering only standard plans beginning in 2025 and submit a report to the appropriate committees of the legislature by December 1, 2023. The report must include an analysis of how plan choice and affordability will be impacted for exchange consumers across the state.
+... The exchange, in consultation with the office of the insurance commissioner, shall analyze the impact to exchange consumers of offering only standard plans beginning in 2025 and submit a report to the appropriate committees of the legislature by December 1, 2023. The report must include an analysis of how plan choice and affordability will be impacted for exchange consumers across the state, including an analysis of offering a bronze standardized high deductible health plan compatible with a health savings account, and a gold standardized health plan closer in actuarial value to the silver standardized health plan.
 
 ... The actuarial value of nonstandardized silver health plans offered on the exchange may not be less than the actuarial value of the standardized silver health plan with the lowest actuarial value.
 
 .. A health carrier offering a standardized health plan on the exchange under this section must continue to meet all requirements for qualified health plan certification under RCW 43.71.065 including, but not limited to, requirements relating to rate review and network adequacy.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5526-S.SL.pdf?cite=2019%20c%20364%20§%201[2019 c 364 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5377-S2.SL.pdf?cite=2021%20c%20246%20§%207[2021 c 246 § 7]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5526-S.SL.pdf?cite=2019%20c%20364%20§%201[2019 c 364 § 1]; ]
 
 == 43.71.100 - Access to information about exclusion of mandated benefits from qualified health plans—Exchange's duties.
-. Beginning November 1, 2021, the exchange shall provide individuals seeking to enroll in coverage on its web site with access to the information a health carrier must provide under RCW 48.43.725 for any qualified health plan the health carrier offers that excludes, under state or federal law, any benefit required or mandated by Title 48 RCW or rules adopted by the commissioner.
+. Beginning November 1, 2021, the exchange shall provide individuals seeking to enroll in coverage on its website with access to the information a health carrier must provide under RCW 48.43.725 for any qualified health plan the health carrier offers that excludes, under state or federal law, any benefit required or mandated by Title 48 RCW or rules adopted by the commissioner.
 
-. The exchange may provide the access required under this section directly on its web site, through a link to an external web site, or in any other manner that allows consumers to easily access the information.
+. The exchange may provide the access required under this section directly on its website, through a link to an external website, or in any other manner that allows consumers to easily access the information.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2554-S.SL.pdf?cite=2020%20c%20283%20§%202[2020 c 283 § 2]; ]
+
+== 43.71.110 - Premium assistance and cost-sharing reduction program.
+. Subject to the availability of amounts appropriated for this specific purpose, a premium assistance and cost-sharing reduction program is hereby established to be administered by the exchange.
+
+. Premium assistance and cost-sharing reduction amounts must be established by the exchange within parameters established in the omnibus appropriations act.
+
+. The exchange must establish, consistent with the omnibus appropriations act:
+
+.. Procedural requirements for eligibility and continued participation in any premium assistance program or cost-sharing program established under this section, including participant documentation requirements that are necessary to administer the program; and
+
+.. Procedural requirements for facilitating payments to carriers.
+
+. Subject to the availability of amounts appropriated for this specific purpose, an individual is eligible for premium assistance and cost-sharing reductions under this section if the individual:
+
+.. [Empty]
+... Is a resident of the state;
+
+... Has income that is up to an income threshold determined through appropriation or by the exchange if no income threshold is determined through appropriation;
+
+... Is enrolled in a silver or gold standard plan offered in the enrollee's county of residence;
+
+... Applies for and accepts all federal advance premium tax credits for which they may be eligible before receiving any state premium assistance;
+
+.. Applies for and accepts all federal cost-sharing reductions for which they may be eligible before receiving any state cost-sharing reductions;
+
+.. Is ineligible for minimum essential coverage through medicare, a federal or state medical assistance program administered by the authority under chapter 74.09 RCW, or for premium assistance under RCW 43.71A.020; and
+
+.. Meets any other eligibility criteria established by the exchange; or
+
+.. Meets alternate eligibility criteria as established in the omnibus appropriations act.
+
+. [Empty]
+.. The exchange may disqualify an individual from receiving premium assistance or cost-sharing reductions under this section if the individual:
+
+... No longer meets the eligibility criteria in subsection (4) of this section;
+
+... Fails, without good cause, to comply with any procedural or documentation requirements established by the exchange in accordance with subsection (3) of this section;
+
+... Fails, without good cause, to notify the exchange of a change of address in a timely manner;
+
+... Voluntarily withdraws from the program; or
+
+.. Performs an act, practice, or omission that constitutes fraud, and, as a result, an issuer rescinds the individual's policy for the qualified health plan.
+
+.. The exchange must develop a process for an individual to appeal a premium assistance or cost-sharing assistance eligibility determination from the exchange.
+
+. Prior to establishing or altering premium assistance or cost-sharing reduction amounts, eligibility criteria, or procedural requirements under this section, the exchange must:
+
+.. Publish notice of the proposal on the exchange's website and provide electronic notice of the proposal to any person who has requested such notice. The notice must include an explanation of the proposal, the date, time, and location of the public hearing required in (b) of this subsection, and instructions and reasonable timelines to submit written comments on the proposal;
+
+.. Conduct at least one public hearing no sooner than 20 days after publishing the notice required in (a) of this subsection; and
+
+.. Publish notice of the finalized premium assistance or cost-sharing reduction amounts, eligibility criteria, or procedural requirements on the exchange's website and provide the notice electronically to any person who has requested it. The notice must include a detailed description of the finalized premium assistance or cost-sharing reduction amounts, eligibility criteria, or procedural requirements and a description and explanation of how they vary from the initial proposal.
+
+. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+.. "Advance premium tax credit" means the premium assistance amount determined in accordance with the federal patient protection and affordable care act, P.L. 111-148, as amended by the federal health care and education reconciliation act of 2010, P.L. 111-152, or federal regulations or guidance issued under the affordable care act.
+
+.. "Income" means the modified adjusted gross income attributed to an individual for purposes of determining his or her eligibility for advance premium tax credits.
+
+.. "Standard plan" means a standardized health plan under RCW 43.71.095.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5377-S2.SL.pdf?cite=2021%20c%20246%20§%201[2021 c 246 § 1]; ]
+
+== 43.71.120 - Applications to federal government for waivers and other flexibilities.
+. The exchange, in close consultation with the authority and the office of the insurance commissioner, must explore all opportunities to apply to the secretary of health and human services under 42 U.S.C. Sec. 18052 for a waiver or other available federal flexibilities to:
+
+.. Receive federal funds for the implementation of the premium assistance or cost-sharing reduction programs established under RCW 43.71.110;
+
+.. Increase access to qualified health plans; and
+
+.. Implement or expand other exchange programs that increase affordability of or access to health insurance coverage in Washington state.
+
+. If, through the process described in subsection (1) of this section[,] an opportunity to submit a waiver is identified, the exchange, in collaboration with the office of the insurance commissioner and the health care authority, may develop an application under this section to be submitted by the health care authority. If an application is submitted, the health care authority must notify the chairs and ranking minority members of the appropriate policy and fiscal committees of the legislature.
+
+. Any application submitted under this section must meet all federal public notice and comment requirements under 42 U.S.C. Sec. 18052(a)(4)(B), including public hearings to ensure a meaningful level of public input.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5377-S2.SL.pdf?cite=2021%20c%20246%20§%202[2021 c 246 § 2]; ]
+
+== 43.71.130 - State health care affordability account.
+. The state health care affordability account is created in the state treasury. Expenditures from the account may only be used for premium and cost-sharing assistance programs established in RCW 43.71.110.
+
+. The following funds must be deposited in the account:
+
+.. Any grants, donations, or contributions of money collected for purposes of the premium assistance or cost-sharing reduction programs established in RCW 48.43.795;
+
+.. Any federal funds received by the health benefit exchange pursuant to RCW 43.71.120; and
+
+.. Any additional funding specifically appropriated to the account.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5377-S2.SL.pdf?cite=2021%20c%20246%20§%203[2021 c 246 § 3]; ]
 
 == 43.71.900 - Conflict with federal requirements—2011 c 317.
 If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state, the conflicting part of this act is inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and this finding does not affect the operation of the remainder of this act in its application to the agencies concerned. Rules adopted under this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state.

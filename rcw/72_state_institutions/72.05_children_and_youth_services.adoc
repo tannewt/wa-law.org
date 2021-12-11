@@ -304,7 +304,7 @@ The risk assessment must include consideration of all prior convictions and all 
 
 .. "Residential custody services" means a comprehensive program established pursuant to RCW 72.05.130 for the custody, care, education, treatment, instruction, guidance, control, and rehabilitation of youth committed to a state juvenile rehabilitation facility.
 
-.. "State juvenile rehabilitation facility" means an institution as defined in RCW 13.40.020(13), a community facility as defined in RCW 72.05.020(1), or other juvenile rehabilitation facility operated by the department.
+.. "State juvenile rehabilitation facility" means an institution as defined in *RCW 13.40.020(13), a community facility as defined in RCW 72.05.020(1), or other juvenile rehabilitation facility operated by the department.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6115.SL.pdf?cite=2018%20c%2031%20§%201[2018 c 31 § 1]; ]
 

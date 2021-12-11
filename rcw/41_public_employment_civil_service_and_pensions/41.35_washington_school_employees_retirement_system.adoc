@@ -24,7 +24,11 @@ The definitions in this section apply throughout this chapter, unless the contex
 . [Empty]
 .. "Average final compensation" for plan 2 and plan 3 members means the member's average compensation earnable of the highest consecutive sixty months of service credit months prior to such member's retirement, termination, or death. Periods constituting authorized leaves of absence may not be used in the calculation of average final compensation except under RCW 41.40.710(2).
 
-.. In calculating average final compensation under (a) of this subsection, the department of retirement systems shall include any compensation forgone by a member during the 2011-2013 fiscal biennium as a result of reduced work hours, mandatory leave without pay, temporary layoffs, or reductions to current pay if the reduced compensation is an integral part of the employer's expenditure reduction efforts, as certified by the employer. Reductions to current pay shall not include elimination of previously agreed upon future salary reductions.
+.. In calculating average final compensation under (a) of this subsection, the department of retirement systems shall include:
+
+... Any compensation forgone by a member during the 2011-2013 fiscal biennium as a result of reduced work hours, mandatory leave without pay, temporary layoffs, or reductions to current pay if the reduced compensation is an integral part of the employer's expenditure reduction efforts, as certified by the employer. Reductions to current pay shall not include elimination of previously agreed upon future salary reductions; and
+
+... Any compensation forgone by a member during the 2019-2021 and 2021-2023 fiscal biennia as a result of reduced work hours, mandatory leave without pay, temporary layoffs, furloughs, reductions to current pay, or other similar measures resulting from the COVID-19 budgetary crisis, if the reduced compensation is an integral part of the employer's expenditure reduction efforts, as certified by the employer. Reductions to current pay shall not include elimination of previously agreed upon future salary increases.
 
 . "Beneficiary" for plan 2 and plan 3 members means any person in receipt of a retirement allowance or other benefit provided by this chapter resulting from service rendered to an employer by another person.
 
@@ -117,6 +121,8 @@ Any fraction of a year of service shall be taken into account in the computation
 
 .. Thirty-three or more days but less than forty-five days equals one and one-half service credit month.
 
+.. Reduction efforts such as furloughs, reduced work hours, mandatory leave without pay, temporary layoffs, or other similar situations as contemplated by subsection (5)(b)(ii) of this section do not result in a reduction in service credit that otherwise would have been earned for that month of work, and the member shall receive the full service credit for the hours that were scheduled to be worked before the reduction.
+
 . "Service credit month" means a month or an accumulation of months of service credit which is equal to one.
 
 . "Service credit year" means an accumulation of months of service credit which is equal to one when divided by twelve.
@@ -129,7 +135,7 @@ Any fraction of a year of service shall be taken into account in the computation
 
 . "Substitute employee" means a classified employee who is employed by an employer exclusively as a substitute for an absent employee.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6210.SL.pdf?cite=2018%20c%20257%20§%203[2018 c 257 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2771.SL.pdf?cite=2012%20c%20236%20§%204[2012 c 236 § 4]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2070.SL.pdf?cite=2011%201st%20sp.s.%20c%205%20§%203[2011 1st sp.s. c 5 § 3]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5094.SL.pdf?cite=2003%20c%20157%20§%201[2003 c 157 § 1]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1213.SL.pdf?cite=2001%20c%20180%20§%203[2001 c 180 § 3]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6306-S.SL.pdf?cite=1998%20c%20341%20§%202[1998 c 341 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5021.SL.pdf?cite=2021%20c%2012%20§%205[2021 c 12 § 5]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6210.SL.pdf?cite=2018%20c%20257%20§%203[2018 c 257 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2771.SL.pdf?cite=2012%20c%20236%20§%204[2012 c 236 § 4]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2070.SL.pdf?cite=2011%201st%20sp.s.%20c%205%20§%203[2011 1st sp.s. c 5 § 3]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5094.SL.pdf?cite=2003%20c%20157%20§%201[2003 c 157 § 1]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1213.SL.pdf?cite=2001%20c%20180%20§%203[2001 c 180 § 3]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6306-S.SL.pdf?cite=1998%20c%20341%20§%202[1998 c 341 § 2]; ]
 
 == 41.35.015 - Construction—Chapter applicable to state registered domestic partnerships—2009 c 521.
 For the purposes of this chapter, the terms spouse, marriage, marital, husband, wife, widow, widower, next of kin, and family shall be interpreted as applying equally to state registered domestic partnerships or individuals in state registered domestic partnerships as well as to marital relationships and married persons, and references to dissolution of marriage shall apply equally to state registered domestic partnerships that have been terminated, dissolved, or invalidated, to the extent that such interpretation does not conflict with federal law. Where necessary to implement chapter 521, Laws of 2009, gender-specific terms such as husband and wife used in any statute, rule, or other law shall be construed to be gender neutral, and applicable to individuals in state registered domestic partnerships.
@@ -263,7 +269,7 @@ The deductions from the compensation of members, provided for in RCW 41.35.430, 
 
 . This section does not prohibit a beneficiary of a retirement allowance from authorizing deductions therefrom for payment of premiums due on any group insurance policy or plan issued for the benefit of a group comprised of public employees of the state of Washington or its political subdivisions and which has been approved for deduction in accordance with rules that may be adopted by the state health care authority and/or the department. This section also does not prohibit a beneficiary of a retirement allowance from authorizing deductions therefrom for payment of dues and other membership fees to any retirement association or organization the membership of which is composed of retired public employees, if a total of three hundred or more of such retired employees have authorized such deduction for payment to the same retirement association or organization.
 
-. Subsection (1) of this section does not prohibit the department from complying with (a) a wage assignment order for child support issued pursuant to chapter 26.18 RCW, (b) an order to withhold and deliver issued pursuant to chapter 74.20A RCW, (c) a notice of payroll deduction issued pursuant to RCW 26.23.060, (d) a mandatory benefits assignment order issued by the department, (e) a court order directing the department of retirement systems to pay benefits directly to an obligee under a dissolution order as defined in RCW 41.50.500(3) which fully complies with RCW 41.50.670 and 41.50.700, or (f) any administrative or court order expressly authorized by federal law.
+. Subsection (1) of this section does not prohibit the department from complying with (a) a wage assignment order for child support issued pursuant to chapter 26.18 RCW, (b) an order to withhold and deliver issued pursuant to chapter 74.20A RCW, (c) a notice of payroll deduction issued pursuant to *RCW 26.23.060, (d) a mandatory benefits assignment order issued by the department, (e) a court order directing the department of retirement systems to pay benefits directly to an obligee under a dissolution order as defined in RCW 41.50.500(3) which fully complies with RCW 41.50.670 and 41.50.700, or (f) any administrative or court order expressly authorized by federal law.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1552-S.SL.pdf?cite=2012%20c%20159%20§%2024[2012 c 159 § 24]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6306-S.SL.pdf?cite=1998%20c%20341%20§%2011[1998 c 341 § 11]; ]
 
@@ -359,7 +365,7 @@ No bond of any kind shall be required of a claimant appealing to the superior co
 
 . A qualifying period of prior service is a school year prior to January 1, 1987, in which the member:
 
-.. Was employed in an eligible position by a school district or districts, educational service district, the state school for the deaf, the state school for the blind, an institution of higher education, or a community college;
+.. Was employed in an eligible position by a school district or districts, educational service district, the *state school for the deaf, the state school for the blind, an institution of higher education, or a community college;
 
 .. Earned earnable compensation for at least six hundred thirty hours as determined by the department;
 

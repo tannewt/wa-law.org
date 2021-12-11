@@ -87,8 +87,8 @@ The definitions in this subsection apply throughout this chapter unless the cont
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1908.SL.pdf?cite=2019%20c%20132%20§%205[2019 c 132 § 5]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1845-S.SL.pdf?cite=2017%20c%20307%20§%201[2017 c 307 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5471.SL.pdf?cite=2015%20c%20263%20§%201[2015 c 263 § 1]; ]
 
-== 48.185.010 - Certain property and casualty insurance information—May be mailed, delivered, or posted on web site—Requirements to post on web site.
-. Notwithstanding any other provisions of this chapter, standard property and casualty insurance policy forms and endorsements that do not contain personally identifiable information may be mailed, delivered, or posted on the insurer's web site. If the insurer elects to post insurance policy forms and endorsements on its web site in lieu of mailing or delivering them to the insured, it must comply with all of the following conditions:
+== 48.185.010 - Certain property and casualty insurance information—May be mailed, delivered, or posted on website—Requirements to post on website.
+. Notwithstanding any other provisions of this chapter, standard property and casualty insurance policy forms and endorsements that do not contain personally identifiable information may be mailed, delivered, or posted on the insurer's website. If the insurer elects to post insurance policy forms and endorsements on its website in lieu of mailing or delivering them to the insured, it must comply with all of the following conditions:
 
 .. The policy forms and endorsements must be accessible to the insured and the producer of record and remain that way for as long as the policy is in force;
 

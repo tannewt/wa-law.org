@@ -172,17 +172,21 @@ A final judgment or decree rendered in any action brought under RCW 19.86.080 by
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1970ex1c26.pdf?cite=1970%20ex.s.%20c%2026%20§%206[1970 ex.s. c 26 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c216.pdf?cite=1961%20c%20216%20§%2013[1961 c 216 § 13]; ]
 
 == 19.86.140 - Civil penalties.
-Every person who shall violate the terms of any injunction issued as in this chapter provided, shall forfeit and pay a civil penalty of not more than twenty-five thousand dollars.
+Every person who shall violate the terms of any injunction issued as in this chapter provided, shall forfeit and pay a civil penalty of not more than $125,000.
 
-Every person, other than a corporation, who violates RCW 19.86.030 or 19.86.040 shall pay a civil penalty of not more than one hundred thousand dollars. Every corporation which violates RCW 19.86.030 or 19.86.040 shall pay a civil penalty of not more than five hundred thousand dollars.
+Every individual who violates RCW 19.86.030 or 19.86.040 shall pay a civil penalty of not more than $180,000. Every person, other than an individual, who violates RCW 19.86.030 or 19.86.040 shall pay a civil penalty of not more than $900,000.
 
-Every person who violates RCW 19.86.020 shall forfeit and pay a civil penalty of not more than two thousand dollars for each violation: PROVIDED, That nothing in this paragraph shall apply to any radio or television broadcasting station which broadcasts, or to any publisher, printer or distributor of any newspaper, magazine, billboard or other advertising medium who publishes, prints or distributes, advertising in good faith without knowledge of its false, deceptive or misleading character.
+Every person who violates RCW 19.86.020 shall forfeit and pay a civil penalty of not more than $7,500 for each violation: PROVIDED, That nothing in this paragraph shall apply to any radio or television broadcasting station which broadcasts, or to any publisher, printer or distributor of any newspaper, magazine, billboard or other advertising medium who publishes, prints or distributes, advertising in good faith without knowledge of its false, deceptive or misleading character.
+
+For unlawful acts or practices that target or impact specific individuals or communities based on demographic characteristics including, but not limited to, age, race, national origin, citizenship or immigration status, sex, sexual orientation, presence of any sensory, mental, or physical disability, religion, veteran status, or status as a member of the armed forces, as that term is defined in 10 U.S.C. Sec. 101, an enhanced penalty of $5,000 shall apply.
 
 For the purpose of this section the superior court issuing any injunction shall retain jurisdiction, and the cause shall be continued, and in such cases the attorney general acting in the name of the state may petition for the recovery of civil penalties.
 
 With respect to violations of RCW 19.86.030 and 19.86.040, the attorney general, acting in the name of the state, may seek recovery of such penalties in a civil action.
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c288.pdf?cite=1983%20c%20288%20§%202[1983 c 288 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1970ex1c26.pdf?cite=1970%20ex.s.%20c%2026%20§%207[1970 ex.s. c 26 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c216.pdf?cite=1961%20c%20216%20§%2014[1961 c 216 § 14]; ]
+By December 1, 2022, and every five years thereafter, the office of the attorney general shall evaluate the efficacy of the maximum civil penalty amounts established in this section in deterring violations of the consumer protection act and the difference, if any, between the current penalty amounts and the penalty amounts adjusted for inflation, and provide the legislature with a report of its findings and any recommendations in compliance with RCW 43.01.036.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5025-S.SL.pdf?cite=2021%20c%20228%20§%202[2021 c 228 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c288.pdf?cite=1983%20c%20288%20§%202[1983 c 288 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1970ex1c26.pdf?cite=1970%20ex.s.%20c%2026%20§%207[1970 ex.s. c 26 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c216.pdf?cite=1961%20c%20216%20§%2014[1961 c 216 § 14]; ]
 
 == 19.86.145 - Penalties—Animals used in biomedical research.
 Any violation of RCW 9.08.070 through 9.08.078 or 16.52.220 constitutes an unfair or deceptive practice in violation of this chapter. The relief available under this chapter for violations of RCW 9.08.070 through 9.08.078 or 16.52.220 by a research institution shall be limited to only monetary penalties in an amount not to exceed two thousand five hundred dollars.

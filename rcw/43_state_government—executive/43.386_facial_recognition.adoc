@@ -1,7 +1,7 @@
 = 43.386 - Facial recognition.
 :toc:
 
-== 43.386.010 - Definitions. (Effective July 1, 2021.)
+== 43.386.010 - Definitions.
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 
 . "Accountability report" means a report developed in accordance with RCW 43.386.020.
@@ -41,7 +41,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6280-S.SL.pdf?cite=2020%20c%20257%20§%202[2020 c 257 § 2]; ]
 
-== 43.386.020 - Notice of intent—Accountability report. (Effective July 1, 2021.)
+== 43.386.020 - Notice of intent—Accountability report.
 . A state or local government agency using or intending to develop, procure, or use a facial recognition service must file with a legislative authority a notice of intent to develop, procure, or use a facial recognition service and specify a purpose for which the technology is to be used. A state or local government agency may commence the accountability report once it files the notice of intent by the legislative authority.
 
 . Prior to developing, procuring, or using a facial recognition service, a state or local government agency must produce an accountability report for that service. Each accountability report must include, at minimum, clear and understandable statements of the following:
@@ -65,7 +65,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 ... Any additional rules that will govern use of the facial recognition service and what processes will be required prior to each use of the facial recognition service;
 
-.. Data security measures applicable to the facial recognition service including how data collected using the facial recognition service will be securely stored and accessed, if and why an agency intends to share access to the facial recognition service or the data from that facial recognition service with any other entity, and the rules and procedures by which an agency sharing data with any other entity will ensure that such entities comply with the sharing agency's use and data management policy as part of the data sharing agreement;
+.. Data security measures applicable to the facial recognition service including how data collected using the facial recognition service will be securely stored and accessed, if and why an agency intends to share access to the facial recognition service or the data from that facial recognition service with any other entity, and the rules and procedures by which an agency sharing data with any other entity will ensure that such entities comply with the sharing agency's use and data management policy as part of the data-sharing agreement;
 
 .. How the facial recognition service provider intends to fulfill security breach notification requirements pursuant to chapter 19.255 RCW and how the agency intends to fulfill security breach notification requirements pursuant to RCW 42.56.590; and
 
@@ -89,7 +89,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 . The final accountability report must be updated every two years and submitted to a legislative authority.
 
-. The final adopted accountability report must be clearly communicated to the public at least ninety days prior to the agency putting the facial recognition service into operational use, posted on the agency's public web site, and submitted to a legislative authority. The legislative authority must post each submitted accountability report on its public web site.
+. The final adopted accountability report must be clearly communicated to the public at least ninety days prior to the agency putting the facial recognition service into operational use, posted on the agency's public website, and submitted to a legislative authority. The legislative authority must post each submitted accountability report on its public website.
 
 . A state or local government agency seeking to procure a facial recognition service must require vendors to disclose any complaints or reports of bias regarding the service.
 
@@ -99,19 +99,19 @@ The definitions in this section apply throughout this chapter unless the context
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6280-S.SL.pdf?cite=2020%20c%20257%20§%203[2020 c 257 § 3]; ]
 
-== 43.386.030 - Meaningful human review—When required. (Effective July 1, 2021.)
+== 43.386.030 - Meaningful human review—When required.
 A state or local government agency using a facial recognition service to make decisions that produce legal effects concerning individuals or similarly significant effects concerning individuals must ensure that those decisions are subject to meaningful human review. Decisions that produce legal effects concerning individuals or similarly significant effects concerning individuals means decisions that result in the provision or denial of financial and lending services, housing, insurance, education enrollment, criminal justice, employment opportunities, health care services, or access to basic necessities such as food and water, or that impact civil rights of individuals.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6280-S.SL.pdf?cite=2020%20c%20257%20§%204[2020 c 257 § 4]; ]
 
-== 43.386.040 - Testing—When required. (Effective July 1, 2021.)
+== 43.386.040 - Testing—When required.
 Prior to deploying a facial recognition service in the context in which it will be used, a state or local government agency using a facial recognition service to make decisions that produce legal effects on individuals or similarly significant effects on individuals must test the facial recognition service in operational conditions. An agency must take reasonable steps to ensure best quality results by following all guidance provided by the developer of the facial recognition service.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6280-S.SL.pdf?cite=2020%20c%20257%20§%205[2020 c 257 § 5]; ]
 
-== 43.386.050 - Performance differences across subpopulations—Testing and mitigation. (Effective July 1, 2021.)
+== 43.386.050 - Performance differences across subpopulations—Testing and mitigation.
 . [Empty]
-.. A state or local government agency that deploys a facial recognition service must require a facial recognition service provider to make available an application programming interface or other technical capability, chosen by the provider, to enable legitimate, independent, and reasonable tests of those facial recognition services for accuracy and unfair performance differences across distinct subpopulations. Such subpopulations are defined by visually detectable characteristics such as: (i) Race, skin tone, ethnicity, gender, age, or disability status; or (ii) other protected characteristics that are objectively determinable or self-identified by the individuals portrayed in the testing dataset. If the results of the independent testing identify material unfair performance differences across subpopulations, the provider must develop and implement a plan to mitigate the identified performance differences within ninety days of receipt of such results. For purposes of mitigating the identified performance differences, the methodology and data used in the independent testing must be disclosed to the provider in a manner that allows full reproduction.
+.. A state or local government agency that deploys a facial recognition service must require a facial recognition service provider to make available an application programming interface or other technical capability, chosen by the provider, to enable legitimate, independent, and reasonable tests of those facial recognition services for accuracy and unfair performance differences across distinct subpopulations. Such subpopulations are defined by visually detectable characteristics such as: (i) Race, skin tone, ethnicity, gender, age, or disability status; or (ii) other protected characteristics that are objectively determinable or self-identified by the individuals portrayed in the testing data set. If the results of the independent testing identify material unfair performance differences across subpopulations, the provider must develop and implement a plan to mitigate the identified performance differences within ninety days of receipt of such results. For purposes of mitigating the identified performance differences, the methodology and data used in the independent testing must be disclosed to the provider in a manner that allows full reproduction.
 
 .. Making an application programming interface or other technical capability does not require providers to do so in a manner that would increase the risk of cyberattacks or to disclose proprietary data. Providers bear the burden of minimizing these risks when making an application programming interface or other technical capability available for testing.
 
@@ -119,7 +119,7 @@ Prior to deploying a facial recognition service in the context in which it will 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6280-S.SL.pdf?cite=2020%20c%20257%20§%206[2020 c 257 § 6]; ]
 
-== 43.386.060 - Training. (Effective July 1, 2021.)
+== 43.386.060 - Training.
 A state or local government agency using a facial recognition service must conduct periodic training of all individuals who operate a facial recognition service or who process personal data obtained from the use of a facial recognition service. The training must include, but not be limited to, coverage of:
 
 . The capabilities and limitations of the facial recognition service;
@@ -130,7 +130,7 @@ A state or local government agency using a facial recognition service must condu
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6280-S.SL.pdf?cite=2020%20c%20257%20§%207[2020 c 257 § 7]; ]
 
-== 43.386.070 - Disclosure to criminal defendants—Retention of records—Reporting of surveillance warrants. (Effective July 1, 2021.)
+== 43.386.070 - Disclosure to criminal defendants—Retention of records—Reporting of surveillance warrants.
 . A state or local government agency must disclose their use of a facial recognition service on a criminal defendant to that defendant in a timely manner prior to trial.
 
 . A state or local government agency using a facial recognition service shall maintain records of its use of the service that are sufficient to facilitate public reporting and auditing of compliance with the agency's facial recognition policies.
@@ -151,7 +151,7 @@ A state or local government agency using a facial recognition service must condu
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6280-S.SL.pdf?cite=2020%20c%20257%20§%208[2020 c 257 § 8]; ]
 
-== 43.386.080 - Use for surveillance, real-time identification, or persistent tracking—When permitted—Restrictions on law enforcement use. (Effective July 1, 2021.)
+== 43.386.080 - Use for surveillance, real-time identification, or persistent tracking—When permitted—Restrictions on law enforcement use.
 . A state or local government agency may not use a facial recognition service to engage in ongoing surveillance, conduct real-time or near real-time identification, or start persistent tracking unless:
 
 .. A warrant is obtained authorizing the use of the service for those purposes;
@@ -174,19 +174,19 @@ A state or local government agency using a facial recognition service must condu
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6280-S.SL.pdf?cite=2020%20c%20257%20§%2011[2020 c 257 § 11]; ]
 
-== 43.386.090 - Exemption—Federal regulations and orders—Airports and seaports. (Effective July 1, 2021.)
+== 43.386.090 - Exemption—Federal regulations and orders—Airports and seaports.
 . This chapter does not apply to a state or local government agency that: (a) Is mandated to use a specific facial recognition service pursuant to a federal regulation or order, or that are undertaken through partnership with a federal agency to fulfill a congressional mandate; or (b) uses a facial recognition service in association with a federal agency to verify the identity of individuals presenting themselves for travel at an airport or seaport.
 
 . A state or local government agency must report to a legislative authority the use of a facial recognition service pursuant to subsection (1) of this section.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6280-S.SL.pdf?cite=2020%20c%20257%20§%209[2020 c 257 § 9]; ]
 
-== 43.386.100 - Exemption—Department of licensing—Drivers' licenses, permits, and identicards. (Effective July 1, 2021.)
+== 43.386.100 - Exemption—Department of licensing—Drivers' licenses, permits, and identicards.
 Nothing in this chapter applies to the use of a facial recognition matching system by the department of licensing pursuant to RCW 46.20.037.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6280-S.SL.pdf?cite=2020%20c%20257%20§%2012[2020 c 257 § 12]; ]
 
-== 43.386.900 - Findings—2020 c 257. (Effective July 1, 2021.)
+== 43.386.900 - Findings—2020 c 257.
 The legislature finds that:
 
 . Unconstrained use of facial recognition services by state and local government agencies poses broad social ramifications that should be considered and addressed. Accordingly, legislation is required to establish safeguards that will allow state and local government agencies to use facial recognition services in a manner that benefits society while prohibiting uses that threaten our democratic freedoms and put our civil liberties at risk.

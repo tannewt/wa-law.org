@@ -76,6 +76,8 @@ In the declaration and bylaws, unless specifically provided otherwise or the con
 
 . "Effective age" means the difference between the estimated useful life and remaining useful life.
 
+. "Electronic transmission" or "electronically transmitted" means any electronic communication not directly involving the physical transfer of a writing in a tangible medium, but that may be retained, retrieved, and reviewed by the sender and the recipient of the communication, and that may be directly reproduced in a tangible medium by a sender and recipient.
+
 . "Eligible mortgagee" means the holder of a mortgage on a unit that has filed with the secretary of the association a written request that it be given copies of notices of any action by the association that requires the consent of mortgagees.
 
 . "Foreclosure" means a forfeiture or judicial or nonjudicial foreclosure of a mortgage or a deed in lieu thereof.
@@ -114,6 +116,8 @@ In the declaration and bylaws, unless specifically provided otherwise or the con
 
 . "Special declarant rights" means rights reserved for the benefit of a declarant to: (a) Complete improvements indicated on survey maps and plans filed with the declaration under RCW 64.34.232; (b) exercise any development right under RCW 64.34.236; (c) maintain sales offices, management offices, signs advertising the condominium, and models under RCW 64.34.256; (d) use easements through the common elements for the purpose of making improvements within the condominium or within real property which may be added to the condominium under RCW 64.34.260; (e) make the condominium part of a larger condominium or a development under RCW 64.34.280; (f) make the condominium subject to a master association under RCW 64.34.276; or (g) appoint or remove any officer of the association or any master association or any member of the board of directors, or to veto or approve a proposed action of the board or association, during any period of declarant control under RCW 64.34.308(5).
 
+. "Tangible medium" means a writing, copy of a writing, facsimile, or a physical reproduction, each on paper or on other tangible material.
+
 . "Timeshare" shall have the meaning specified in the timeshare act, RCW 64.36.010(11).
 
 . "Unit" means a physical portion of the condominium designated for separate ownership, the boundaries of which are described pursuant to RCW 64.34.216(1)(d). "Separate ownership" includes leasing a unit in a leasehold condominium under a lease that expires contemporaneously with any lease, the expiration or termination of which will remove the unit from the condominium.
@@ -122,7 +126,7 @@ In the declaration and bylaws, unless specifically provided otherwise or the con
 
 . "Useful life" means the estimated time, between years, that major maintenance, repair, or replacement is estimated to occur.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1309-S.SL.pdf?cite=2011%20c%20189%20§%201[2011 c 189 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6215.SL.pdf?cite=2008%20c%20115%20§%208[2008 c 115 § 8]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5536-S.SL.pdf?cite=2004%20c%20201%20§%209[2004 c 201 § 9]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6042-S.SL.pdf?cite=1992%20c%20220%20§%202[1992 c 220 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c166.pdf?cite=1990%20c%20166%20§%201[1990 c 166 § 1]; 1989 c 43 § 1-103; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5011-S.SL.pdf?cite=2021%20c%20227%20§%204[2021 c 227 § 4]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1309-S.SL.pdf?cite=2011%20c%20189%20§%201[2011 c 189 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6215.SL.pdf?cite=2008%20c%20115%20§%208[2008 c 115 § 8]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5536-S.SL.pdf?cite=2004%20c%20201%20§%209[2004 c 201 § 9]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6042-S.SL.pdf?cite=1992%20c%20220%20§%202[1992 c 220 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c166.pdf?cite=1990%20c%20166%20§%201[1990 c 166 § 1]; 1989 c 43 § 1-103; ]
 
 == 64.34.030 - Variation by agreement.
 Except as expressly provided in this chapter, provisions of this chapter may not be varied by agreement, and rights conferred by this chapter may not be waived. A declarant may not act under a power of attorney or use any other device to evade the limitations or prohibitions of this chapter or the declaration.
@@ -557,7 +561,7 @@ The declaration may require that all or a specified number or percentage of the 
 
 [ 1989 c 43 § 2-121; ]
 
-== 64.34.300 - Unit owners' association—Organization.
+== 64.34.300 - Unit owners' association—Organization. (Effective until January 1, 2022.)
 A unit owners' association shall be organized no later than the date the first unit in the condominium is conveyed. The membership of the association at all times shall consist exclusively of all the unit owners. Following termination of the condominium, the membership of the association shall consist of all of the unit owners at the time of termination entitled to distributions of proceeds under RCW 64.34.268 or their heirs, successors, or assigns. The association shall be organized as a profit or nonprofit corporation. In case of any conflict between Title 23B RCW, the business corporation act, chapter 24.03 RCW, the nonprofit corporation act, or chapter 24.06 RCW, the nonprofit miscellaneous and mutual corporations act, and this chapter, this chapter shall control.
 
 [ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6042-S.SL.pdf?cite=1992%20c%20220%20§%2014[1992 c 220 § 14]; 1989 c 43 § 3-101; ]
@@ -771,9 +775,11 @@ If entered into before the board of directors elected by the unit owners pursuan
 [ 1989 c 43 § 3-108; ]
 
 == 64.34.332 - Meetings.
-A meeting of the association must be held at least once each year. Special meetings of the association may be called by the president, a majority of the board of directors, or by unit owners having twenty percent or any lower percentage specified in the declaration or bylaws of the votes in the association. Not less than ten nor more than sixty days in advance of any meeting, the secretary or other officer specified in the bylaws shall cause notice to be hand-delivered or sent prepaid by first-class United States mail to the mailing address of each unit or to any other mailing address designated in writing by the unit owner. The notice of any meeting shall state the time and place of the meeting and the items on the agenda to be voted on by the members, including the general nature of any proposed amendment to the declaration or bylaws, changes in the previously approved budget that result in a change in assessment obligations, and any proposal to remove a director or officer.
+. A meeting of the association must be held at least once each year. Special meetings of the association may be called by the president, a majority of the board of directors, or by unit owners having twenty percent or any lower percentage specified in the declaration or bylaws of the votes in the association. Not less than fourteen nor more than fifty days in advance of any meeting, the secretary or other officer specified in the bylaws shall cause notice to be provided in accordance with this chapter. The notice of any meeting shall state the time and place of the meeting and the items on the agenda to be voted on by the members, including the general nature of any proposed amendment to the declaration or bylaws, changes in the previously approved budget that result in a change in assessment obligations, and any proposal to remove a director or officer.
 
-[ 1989 c 43 § 3-109; ]
+. Except as otherwise restricted by the declaration, bylaws, or articles of incorporation, meetings of unit owners may be conducted by telephonic, video, or other conferencing process, if: (a) The meeting notice states the conferencing process to be used and provides information explaining how unit owners may participate in the conference directly or by meeting at a central location or conference connection; and (b) the process provides all unit owners the opportunity to hear or perceive the discussion and to comment.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5011-S.SL.pdf?cite=2021%20c%20227%20§%205[2021 c 227 § 5]; 1989 c 43 § 3-109; ]
 
 == 64.34.336 - Quorums.
 . Unless the bylaws specify a larger percentage, a quorum is present throughout any meeting of the association if the owners of units to which twenty-five percent of the votes of the association are allocated are present in person or by proxy at the beginning of the meeting.
@@ -782,16 +788,82 @@ A meeting of the association must be held at least once each year. Special meeti
 
 [ 1989 c 43 § 3-110; ]
 
-== 64.34.340 - Voting—Proxies.
-. If only one of the multiple owners of a unit is present at a meeting of the association or has delivered a written ballot or proxy to the association secretary, the owner is entitled to cast all the votes allocated to that unit. If more than one of the multiple owners are present or has delivered a written ballot or proxy to the association secretary, the votes allocated to that unit may be cast only in accordance with the agreement of a majority in interest of the multiple owners, unless the declaration expressly provides otherwise. There is majority agreement if any one of the multiple owners casts the votes allocated to that unit without protest being made promptly to the person presiding over the meeting by any of the other owners of the unit.
+== 64.34.340 - Voting—In person, absentee ballots, proxies.
+. Unit owners may vote at a meeting in person, by absentee ballot pursuant to subsection (3)(d) of this section, or by a proxy pursuant to subsection (5) of this section.
 
-. Votes allocated to a unit may be cast pursuant to a proxy duly executed by a unit owner. If a unit is owned by more than one person, each owner of the unit may vote or register protest to the casting of votes by the other owners of the unit through a duly executed proxy. A unit owner may not revoke a proxy given pursuant to this section except by actual notice of revocation to the person presiding over a meeting of the association. A proxy is void if it is not dated or purports to be revocable without notice. Unless stated otherwise in the proxy, a proxy terminates eleven months after its date of issuance.
+. When a vote is conducted without a meeting, unit owners may vote by ballot pursuant to subsection (6) of this section.
 
-. If the declaration requires that votes on specified matters affecting the condominium be cast by lessees rather than unit owners of leased units: (a) The provisions of subsections (1) and (2) of this section apply to lessees as if they were unit owners; (b) unit owners who have leased their units to other persons may not cast votes on those specified matters; and (c) lessees are entitled to notice of meetings, access to records, and other rights respecting those matters as if they were unit owners. Unit owners must also be given notice, in the manner provided in RCW 64.34.332, of all meetings at which lessees may be entitled to vote.
+. At a meeting of unit owners the following requirements apply:
 
-. No votes allocated to a unit owned by the association may be cast, and in determining the percentage of votes required to act on any matter, the votes allocated to units owned by the association shall be disregarded.
+.. Unit owners or their proxies who are present in person may vote by voice vote, show of hands, standing, written ballot, or any other method for determining the votes of unit owners, as designated by the person presiding at the meeting.
 
-[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6042-S.SL.pdf?cite=1992%20c%20220%20§%2017[1992 c 220 § 17]; 1989 c 43 § 3-111; ]
+.. If only one of several unit owners of a unit is present, that unit owner is entitled to cast all the votes allocated to that unit. If more than one of the unit owners are present, the votes allocated to that unit may be cast only in accordance with the agreement of a majority in interest of the unit owners, unless the declaration expressly provides otherwise. There is a majority agreement if any one of the unit owners casts the votes allocated to the unit without protest being made promptly to the person presiding over the meeting by any of the other unit owners of the unit.
+
+.. Unless a greater number or fraction of the votes in the association is required under this chapter or the declaration or organizational documents, a majority of the votes cast determines the outcome of any action of the association.
+
+.. Whenever proposals or board members are to be voted upon at a meeting, a unit owner may vote by duly executed absentee ballot if:
+
+... The name of each candidate and the text of each proposal to be voted upon are set forth in a writing accompanying or contained in the notice of meeting; and
+
+... A ballot is provided by the association for such purpose.
+
+. When a unit owner votes by absentee ballot, the association must be able to verify that the ballot is cast by the unit owner having the right to do so.
+
+. Except as provided otherwise in the declaration or organizational documents, the following requirements apply with respect to proxy voting:
+
+.. Votes allocated to a unit may be cast pursuant to a directed or undirected proxy duly executed by a unit owner in the same manner as provided in RCW 24.06.110.
+
+.. If a unit is owned by more than one person, each unit owner of the unit may vote or register protest to the casting of votes by the other unit owners of the unit through a duly executed proxy.
+
+.. A unit owner may revoke a proxy given pursuant to this section only by actual notice of revocation to the secretary or the person presiding over a meeting of the association or by delivery of a subsequent proxy. The death or disability of a unit owner does not revoke a proxy given by the unit owner unless the person presiding over the meeting has actual notice of the death or disability.
+
+.. A proxy is void if it is not dated or purports to be revocable without notice.
+
+.. Unless stated otherwise in the proxy, a proxy terminates eleven months after its date of issuance.
+
+. Unless prohibited or limited by the declaration or organizational documents, an association may conduct a vote without a meeting. In that event, the following requirements apply:
+
+.. The association must notify the unit owners that the vote will be taken by ballot.
+
+.. The notice must state:
+
+... The time and date by which a ballot must be delivered to the association to be counted, which may not be fewer than fourteen days after the date of the notice, and which deadline may be extended in accordance with (g) of this subsection;
+
+... The percent of votes necessary to meet the quorum requirements;
+
+... The percent of votes necessary to approve each matter other than election of board members; and
+
+... The time, date, and manner by which unit owners wishing to deliver information to all unit owners regarding the subject of the vote may do so.
+
+.. The association must deliver a ballot to every unit owner with the notice.
+
+.. The ballot must set forth each proposed action and provide an opportunity to vote for or against the action.
+
+.. A ballot cast pursuant to this section may be revoked only by actual notice to the association of revocation. The death or disability of a unit owner does not revoke a ballot unless the association has actual notice of the death or disability prior to the date set forth in (b)(i) of this subsection.
+
+.. Approval by ballot pursuant to this subsection is valid only if the number of votes cast by ballot equals or exceeds the quorum required to be present at a meeting authorizing the action.
+
+.. If the association does not receive a sufficient number of votes to constitute a quorum or to approve the proposal by the date and time established for return of ballots, the board of directors may extend the deadline for a reasonable period not to exceed eleven months upon further notice to all members in accordance with (b) of this subsection. In that event, all votes previously cast on the proposal must be counted unless subsequently revoked as provided in this section.
+
+.. A ballot or revocation is not effective until received by the association.
+
+.. The association must give notice to unit owners of any action taken pursuant to this subsection within a reasonable time after the action is taken.
+
+.. When an action is taken pursuant to this subsection, a record of the action, including the ballots or a report of the persons appointed to tabulate such ballots, must be kept with the minutes of meetings of the association.
+
+. If the governing documents require that votes on specified matters affecting the common interest community be cast by lessees rather than unit owners of leased units:
+
+.. This section applies to lessees as if they were unit owners;
+
+.. Unit owners that have leased their units to other persons may not cast votes on those specified matters; and
+
+.. Lessees are entitled to notice of meetings, access to records, and other rights respecting those matters as if they were unit owners.
+
+. Unit owners must also be given notice, in the manner provided in RCW 64.34.396, of all meetings at which lessees may be entitled to vote.
+
+. In any vote of the unit owners, votes allocated to a unit owned by the association must be cast in the same proportion as the votes cast on the matter by unit owners other than the association.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5011-S.SL.pdf?cite=2021%20c%20227%20§%206[2021 c 227 § 6]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6042-S.SL.pdf?cite=1992%20c%20220%20§%2017[1992 c 220 § 17]; 1989 c 43 § 3-111; ]
 
 == 64.34.344 - Tort and contract liability.
 Neither the association nor any unit owner except the declarant is liable for that declarant's torts in connection with any part of the condominium which that declarant has the responsibility to maintain. Otherwise, an action alleging a wrong done by the association must be brought against the association and not against any unit owner or any officer or director of the association. Unless the wrong was done by a unit owner other than the declarant, if the wrong by the association occurred during any period of declarant control and the association gives the declarant reasonable notice of and an opportunity to defend against the action, the declarant who then controlled the association is liable to the association or to any unit owner: (1) For all tort losses not covered by insurance suffered by the association or that unit owner; and (2) for all costs which the association would not have incurred but for a breach of contract or other wrongful act or omission by the association. If the declarant does not defend the action and is determined to be liable to the association under this section, the declarant is also liable for all litigation expenses, including reasonable attorneys' fees, incurred by the association in such defense. Any statute of limitations affecting the association's right of action under this section is tolled until the period of declarant control terminates. A unit owner is not precluded from bringing an action contemplated by this section because he or she is a unit owner or a member or officer of the association. Liens resulting from judgments against the association are governed by RCW 64.34.368.
@@ -820,7 +892,7 @@ Neither the association nor any unit owner except the declarant is liable for th
 
 .. Liability insurance, including medical payments insurance, in an amount determined by the board of directors but not less than the amount specified in the declaration, covering all occurrences commonly insured against for death, bodily injury, and property damage arising out of or in connection with the use, ownership, or maintenance of the common elements.
 
-. If the insurance described in subsection (1) of this section is not reasonably available, or is modified, canceled, or not renewed, the association promptly shall cause notice of that fact to be hand-delivered or sent prepaid by first-class United States mail to all unit owners, to each eligible mortgagee, and to each mortgagee to whom a certificate or memorandum of insurance has been issued at their respective last known addresses. The declaration may require the association to carry any other insurance, and the association in any event may carry any other insurance it deems appropriate to protect the association or the unit owners.
+. If the insurance described in subsection (1) of this section is not reasonably available, or is modified, canceled, or not renewed, the association promptly shall cause notice of that fact to be provided to each unit owner in accordance with this chapter and hand-delivered or sent prepaid by first-class United States mail to each eligible mortgagee and to each mortgagee to whom a certificate or memorandum of insurance has been issued at their respective last known addresses. The declaration may require the association to carry any other insurance, and the association in any event may carry any other insurance it deems appropriate to protect the association or the unit owners.
 
 . Insurance policies carried pursuant to subsection (1) of this section shall provide that:
 
@@ -842,7 +914,7 @@ Neither the association nor any unit owner except the declarant is liable for th
 
 . The provisions of this section may be varied or waived as provided in the declaration if all units of a condominium are restricted to nonresidential use.
 
-[ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6042-S.SL.pdf?cite=1992%20c%20220%20§%2018[1992 c 220 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c166.pdf?cite=1990%20c%20166%20§%204[1990 c 166 § 4]; 1989 c 43 § 3-114; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5011-S.SL.pdf?cite=2021%20c%20227%20§%207[2021 c 227 § 7]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6042-S.SL.pdf?cite=1992%20c%20220%20§%2018[1992 c 220 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c166.pdf?cite=1990%20c%20166%20§%204[1990 c 166 § 4]; 1989 c 43 § 3-114; ]
 
 == 64.34.354 - Insurance—Conveyance.
 Promptly upon the conveyance of a unit, the new unit owner shall notify the association of the date of the conveyance and the unit owner's name and address. The association shall notify each insurance company that has issued an insurance policy to the association for the benefit of the owners under RCW 64.34.352 of the name and address of the new owner and request that the new owner be made a named insured under such policy.
@@ -877,7 +949,7 @@ Unless otherwise provided in the declaration, any surplus funds of the associati
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c166.pdf?cite=1990%20c%20166%20§%205[1990 c 166 § 5]; 1989 c 43 § 3-116; ]
 
-== 64.34.364 - Lien for assessments.
+== 64.34.364 - Lien for assessments—Notice of delinquency. (Effective until January 1, 2024.)
 . The association has a lien on a unit for any unpaid assessments levied against a unit from the time the assessment is due.
 
 . A lien under this section shall be prior to all other liens and encumbrances on a unit except: (a) Liens and encumbrances recorded before the recording of the declaration; (b) a mortgage on the unit recorded before the date on which the assessment sought to be enforced became delinquent; and (c) liens for real property taxes and other governmental assessments or charges against the unit. A lien under this section is not subject to the provisions of chapter 6.13 RCW.
@@ -910,7 +982,53 @@ Unless otherwise provided in the declaration, any surplus funds of the associati
 
 . To the extent not inconsistent with this section, the declaration may provide for such additional remedies for collection of assessments as may be permitted by law.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5077-S.SL.pdf?cite=2013%20c%2023%20§%20175[2013 c 23 § 175]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c166.pdf?cite=1990%20c%20166%20§%206[1990 c 166 § 6]; 1989 c 43 § 3-117; ]
+. An association may not commence an action to foreclose a lien on a unit under this section unless:
+
+.. The unit owner, at the time the action is commenced, owes at least a sum equal to the greater of:
+
+... Three months or more of assessments, not including fines, late charges, interest, attorneys' fees, or costs incurred by the association in connection with the collection of a delinquent owner's account; or
+
+... $200 of assessments, not including fines, late charges, interest, attorneys' fees, or costs incurred by the association in connection with the collection of a delinquent owner's account;
+
+.. At or after the date that assessments have become past due for at least 90 days, the association has mailed, by first-class mail, to the owner, at the unit address and to any other address which the owner has provided to the association, a notice of delinquency, which shall state as follows:
+
+THIS IS A NOTICE OF DELINQUENCY FOR PAST DUE ASSESSMENTS
+
+FROM THE UNIT OWNERS' ASSOCIATION TO WHICH YOUR HOME BELONGS.
+
+THIS NOTICE IS ONE STEP IN A PROCESS THAT COULD RESULT IN YOUR LOSING YOUR HOME.
+
+CONTACT A HOUSING COUNSELOR OR AN ATTORNEY LICENSED IN WASHINGTON NOW to assess your situation and refer you to mediation if you might benefit. DO NOT DELAY.
+
+BE CAREFUL of people who claim they can help you. There are many individuals and businesses that prey upon borrowers in distress.
+
+REFER TO THE CONTACTS BELOW for sources of assistance.
+
+SEEKING ASSISTANCE
+
+Housing counselors and legal assistance may be available at little or no cost to you. If you would like assistance in determining your rights and opportunities to keep your house, you may contact the following:
+
+The statewide foreclosure hotline for assistance and referral to housing counselors recommended by the Housing Finance Commission
+
+Telephone: . . . . . . . Website: . . . . . .
+
+The United States Department of Housing and Urban Development
+
+Telephone: . . . . . . . Website: . . . . . .
+
+The statewide civil legal aid hotline for assistance and referrals to other housing counselors and attorneys
+
+Telephone: . . . . . . . Website: . . . . . .
+
+The association shall obtain the toll-free numbers and website information from the department of commerce for inclusion in the notice;
+
+.. At least 180 days have elapsed from the date the minimum amount required in (a) of this subsection has accrued; and
+
+.. The board approves commencement of a foreclosure action specifically against that unit.
+
+. Every aspect of a collection, foreclosure, sale, or other conveyance under this section, including the method, advertising, time, date, place, and terms, must be commercially reasonable.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1482.SL.pdf?cite=2021%20c%20222%20§%205[2021 c 222 § 5]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5077-S.SL.pdf?cite=2013%20c%2023%20§%20175[2013 c 23 § 175]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c166.pdf?cite=1990%20c%20166%20§%206[1990 c 166 § 6]; 1989 c 43 § 3-117; ]
 
 == 64.34.368 - Liens—General provisions.
 . Except as provided in subsection (2) of this section, a judgment for money against the association perfected under RCW 4.64.020 is a lien in favor of the judgment lienholder against all of the units in the condominium and their interest in the common elements at the time the judgment was entered. No other property of a unit owner is subject to the claims of creditors of the association.
@@ -1040,6 +1158,43 @@ Monetary damages or any other liability may not be awarded against or imposed up
 ... The use of firewise methods to reduce ignition risk in a building ignition zone.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1165.SL.pdf?cite=2020%20c%209%20§%203[2020 c 9 § 3]; ]
+
+== 64.34.396 - Notice.
+. Notwithstanding any inconsistent provision in the governing documents, notice to the association, board of directors, or any owner or occupant of a unit under this chapter shall be in writing and shall be provided to the recipient by personal delivery, public or private mail or delivery service, or by electronic transmission as provided in this section: PROVIDED, That if this chapter requires different or additional notice requirements for particular circumstances, those requirements shall apply.
+
+. Notice in a tangible medium shall be provided as follows:
+
+.. Notice to the association or board of directors shall be addressed to the association's registered agent at its registered office, to the association at its principal office shown in its most recent annual report, or to an address provided by the association to the unit owners.
+
+.. Notice to a unit owner or occupant shall be addressed to the unit address unless the unit owner has requested, in a writing delivered to the association, that notices be sent to an alternate address.
+
+. Notice in an electronic transmission shall be provided as follows:
+
+.. Notice to the association, the board of directors, or unit owners by electronic transmission is effective only upon those who have consented, in writing, to receive electronically transmitted notices under this chapter and have designated the address, location, or system to which such notices may be electronically transmitted, provided that such notice otherwise complies with any other requirements of this chapter and applicable law.
+
+.. Notice under this subsection includes any materials that accompany the notice.
+
+.. Owners who have consented to receipt of electronically transmitted notices may revoke this consent by delivering a revocation to the association in writing.
+
+.. The consent of any owner is revoked if the association is unable to electronically transmit two consecutive notices and this inability becomes known to the secretary of the association or any other person responsible for giving the notice. The inadvertent failure by the association to treat this inability as a revocation does not invalidate any meeting or other action.
+
+.. Notice to unit owners who have consented to receipt of electronically transmitted notices may be provided by posting the notice on an electronic network and delivering to the unit owner separate notice of the posting, together with comprehensible instructions regarding how to obtain access to the posting on the electronic network.
+
+. Notice is effective as follows:
+
+.. Notice provided in a tangible medium is effective as of the date of hand delivery, deposit with the carrier, or when sent by fax.
+
+.. Notice provided in an electronic transmission is effective as of the date it:
+
+... Is electronically transmitted to an address, location, or system designated by the recipient for that purpose; or
+
+... Has been posted on an electronic network and separate notice of the posting has been sent to the recipient containing instructions regarding how to obtain access to the posting on the electronic network.
+
+. The ineffectiveness of a good faith effort to deliver notice by an authorized means does not invalidate action taken at or without a meeting.
+
+. This chapter modifies, limits, and supersedes the federal electronic signatures in global and national commerce act, 15 U.S.C. Sec. 7001 et seq., but does not modify, limit, or supersede 15 U.S.C. Sec. 7001(c) or authorize electronic delivery of any of the notices described in 15 U.S.C. Sec. 7003(b).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5011-S.SL.pdf?cite=2021%20c%20227%20§%208[2021 c 227 § 8]; ]
 
 == 64.34.400 - Applicability—Waiver.
 . This article applies to all units subject to this chapter, except as provided in subsection (2) of this section and unless and to the extent otherwise agreed to in writing by the seller and purchasers of those units that are restricted to nonresidential use in the declaration.

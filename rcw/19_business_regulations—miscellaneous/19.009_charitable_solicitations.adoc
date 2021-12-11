@@ -272,7 +272,7 @@ All entities soliciting contributions for charitable purposes must comply with t
 
 .. The identity of the charitable organization and the city of the principal place of business of the charitable organization;
 
-.. The published number and web site of the office of the secretary, if requested, for the donor to obtain additional financial and other information on file with the secretary. The disclosure must be made during an oral solicitation of a contribution, and at the same time at which a written request for a contribution is made.
+.. The published number and website of the office of the secretary, if requested, for the donor to obtain additional financial and other information on file with the secretary. The disclosure must be made during an oral solicitation of a contribution, and at the same time at which a written request for a contribution is made.
 
 . A commercial fund-raiser must meet the required disclosures described in subsection (1) of this section clearly and conspicuously at the point of solicitation and must also disclose the name of the entity for which the fund-raiser is an agent or employee and the name and city of the charitable organization for which the solicitation is being conducted.
 
@@ -284,7 +284,7 @@ All entities soliciting contributions for charitable purposes must comply with t
 
 .. The registration required by the charitable solicitation act is on file with the secretary's office; and
 
-.. The potential donor can obtain additional financial and other information at a published number or web site for the office of the secretary.
+.. The potential donor can obtain additional financial and other information at a published number or website for the office of the secretary.
 
 . A container or vending machine displaying a solicitation must display:
 

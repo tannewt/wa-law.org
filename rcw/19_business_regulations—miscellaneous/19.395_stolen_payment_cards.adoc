@@ -2,7 +2,7 @@
 :toc:
 
 == 19.395.010 - Requirements for financial institutions.
-. Any financial institution which issues payment cards shall list a phone number on its web site for cardholders and merchants to report suspected incidents in which payment cards are used for fraud or payment cards have been stolen.
+. Any financial institution which issues payment cards shall list a phone number on its website for cardholders and merchants to report suspected incidents in which payment cards are used for fraud or payment cards have been stolen.
 
 . Any financial institution which issues payment cards shall have employees or contractors available during business hours to receive phone calls for the purpose of providing assistance to cardholders or merchants regarding suspected incidents in which payment cards are used for fraud or payment cards have been stolen. The use of an automated electronic or interactive voice response system may not substitute for the assistance of a live person for these types of suspected incidents.
 

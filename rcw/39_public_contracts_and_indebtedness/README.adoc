@@ -55,3 +55,4 @@
 * link:39.108_local_infrastructure_project_areas.adoc[39.108 - Local infrastructure project areas.]
 * link:39.110_local_economic_development_financing.adoc[39.110 - Local economic development financing.]
 * link:39.112_state_land_improvement_financing_areas.adoc[39.112 - State land improvement financing areas.]
+* link:39.114_tax_increment_financing.adoc[39.114 - Tax increment financing.]

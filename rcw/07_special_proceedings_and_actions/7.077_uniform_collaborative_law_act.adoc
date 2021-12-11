@@ -144,7 +144,7 @@ In this chapter:
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1116-S.SL.pdf?cite=2013%20c%20119%20§%206[2013 c 119 § 6]; ]
 
-== 7.77.060 - Emergency order.
+== 7.77.060 - Emergency order. (Effective until July 1, 2022.)
 During a collaborative law process, a tribunal may issue emergency orders to protect the health, safety, welfare, or interest of a party or of a family or household member or intimate partner, as defined in RCW 26.50.010.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2473-S.SL.pdf?cite=2020%20c%2029%20§%201[2020 c 29 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1116-S.SL.pdf?cite=2013%20c%20119%20§%207[2013 c 119 § 7]; ]
@@ -154,7 +154,7 @@ A tribunal may approve an agreement resulting from a collaborative law process.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1116-S.SL.pdf?cite=2013%20c%20119%20§%208[2013 c 119 § 8]; ]
 
-== 7.77.080 - Disqualification of collaborative lawyer and lawyers in associated law firm.
+== 7.77.080 - Disqualification of collaborative lawyer and lawyers in associated law firm. (Effective until July 1, 2022.)
 . Except as otherwise provided in subsection (3) of this section, a collaborative lawyer is disqualified from appearing before a tribunal to represent a party in a proceeding related to the collaborative matter.
 
 . Except as otherwise provided in subsection (3) of this section and RCW 7.77.090, a lawyer in a law firm with which the collaborative lawyer is associated is disqualified from appearing before a tribunal to represent a party in a proceeding related to the collaborative matter if the collaborative lawyer is disqualified from doing so under subsection (1) of this section.

@@ -98,13 +98,13 @@ The legislature finds and declares that the potential for meeting future energy 
 [ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2026-S.SL.pdf?cite=1991%20c%20347%20§%2023[1991 c 347 § 23]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c149.pdf?cite=1980%20c%20149%20§%202[1980 c 149 § 2]; ]
 
 == 80.28.030 - Commission may order improved quality of commodity—Ordering improvements to the storage, distribution, or supply of water—Ordering improvements to the system of sewerage.
-. Whenever the commission finds, after such hearing, that the illuminating or heating power, purity or pressure of gas, the efficiency of electric lamp supply, the voltage of the current supplied for light, heat or power, the quality of wastewater company services, or the purity, quality, volume, and pressure of water, supplied by any gas company, electrical company, wastewater company, or water company, as the case may be, is insufficient, impure, inadequate or inefficient, it shall order such improvement in the manufacture, distribution or supply of gas, in the manufacture, transmission or supply of electricity, in the operation of the services and facilities of wastewater companies, or in the storage, distribution or supply of water, or in the methods employed by such gas company, electrical company, wastewater company, or water company, as will in its judgment be efficient, adequate, just and reasonable. Failure of a water company to comply with state board of health standards adopted under RCW 43.20.050(2)(a) or department standards adopted under *chapter 70.116 RCW for purity, volume, and pressure is prima facie evidence that the water supplied is insufficient, impure, inadequate, or inefficient. Failure of a wastewater company to comply with standards and permit conditions adopted and implemented under chapter **70.118B or 90.48 RCW for treatment and disposal of sewerage, is prima facie evidence that the system of sewerage is insufficient, inadequate, or inefficient.
+. Whenever the commission finds, after such hearing, that the illuminating or heating power, purity or pressure of gas, the efficiency of electric lamp supply, the voltage of the current supplied for light, heat or power, the quality of wastewater company services, or the purity, quality, volume, and pressure of water, supplied by any gas company, electrical company, wastewater company, or water company, as the case may be, is insufficient, impure, inadequate or inefficient, it shall order such improvement in the manufacture, distribution or supply of gas, in the manufacture, transmission or supply of electricity, in the operation of the services and facilities of wastewater companies, or in the storage, distribution or supply of water, or in the methods employed by such gas company, electrical company, wastewater company, or water company, as will in its judgment be efficient, adequate, just and reasonable. Failure of a water company to comply with state board of health standards adopted under RCW 43.20.050(2)(a) or department standards adopted under chapter 70A.100 RCW for purity, volume, and pressure is prima facie evidence that the water supplied is insufficient, impure, inadequate, or inefficient. Failure of a wastewater company to comply with standards and permit conditions adopted and implemented under chapter 70A.115 or 90.48 RCW for treatment and disposal of sewerage, is prima facie evidence that the system of sewerage is insufficient, inadequate, or inefficient.
 
 . In ordering improvements in the storage, distribution, or supply of water, the commission shall consult and coordinate with the department of health. In the event that a water company fails to comply with an order of the commission within the deadline specified in the order, the commission may request that the department petition the superior court of Thurston county to place the company in receivership pursuant to chapter 7.60 RCW.
 
 . In ordering improvements to the system of sewerage, the commission shall consult and coordinate with the department of health or the department of ecology, as appropriate to the agencies' jurisdiction. In the event that a wastewater company fails to comply with an order of the commission within the deadline specified in the order, the commission may petition the superior court of Thurston county to place the company in receivership pursuant to chapter 7.60 RCW.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5034-S2.SL.pdf?cite=2011%20c%20214%20§%2013[2011 c 214 § 13]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c207.pdf?cite=1989%20c%20207%20§%204[1989 c 207 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c14.pdf?cite=1961%20c%2014%20§%2080.28.030[1961 c 14 § 80.28.030]; 1911 c 117 § 54, part; RRS § 10390, part; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2096[2021 c 65 § 96]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5034-S2.SL.pdf?cite=2011%20c%20214%20§%2013[2011 c 214 § 13]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c207.pdf?cite=1989%20c%20207%20§%204[1989 c 207 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c14.pdf?cite=1961%20c%2014%20§%2080.28.030[1961 c 14 § 80.28.030]; 1911 c 117 § 54, part; RRS § 10390, part; ]
 
 == 80.28.040 - Commission may order improved service—Water companies, system of sewerage noncompliance, receivership.
 . Whenever the commission finds, after hearing, that any rules, regulations, measurements or the standard thereof, practices, acts or services of any such gas company, electrical company, wastewater company, or water company are unjust, unreasonable, improper, insufficient, inefficient or inadequate, or that any service which may be reasonably demanded is not furnished, the commission shall fix the reasonable rules, regulations, measurements or the standard thereof, practices, acts or service to be thereafter furnished, imposed, observed and followed, and shall fix the same by order or rule.
@@ -137,9 +137,27 @@ Every gas company, electrical company, wastewater company, and water company sha
 [ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1326-S.SL.pdf?cite=1993%20c%20245%20§%202[1993 c 245 § 2]; ]
 
 == 80.28.068 - Rates—Low-income customers.
-Upon request by an electrical or gas company, or other party to a general rate case hearing, the commission may approve rates, charges, services, and/or physical facilities at a discount for low-income senior customers and low-income customers. Expenses and lost revenues as a result of these discounts shall be included in the company's cost of service and recovered in rates to other customers.
+. Upon its own motion, or upon request by an electrical or gas company, or other party to a general rate case hearing, or other proceeding to set rates, the commission may approve rates, charges, services, and/or physical facilities at a discount, or through grants, for low-income senior customers and low-income customers. Expenses and lost revenues as a result of these discounts, grants, or other low-income assistance programs shall be included in the company's cost of service and recovered in rates to other customers. Each gas or electrical company must propose a low-income assistance program comprised of a discount rate for low-income senior customers and low-income customers as well as grants and other low-income assistance programs. The commission shall approve, disapprove, or approve with modifications each gas or electrical company's low-income assistance discount rate and grant program. The gas or electrical company must use reasonable and good faith efforts to seek approval for low-income program design, eligibility, operation, outreach, and funding proposals from its low-income and equity advisory groups in advance of filing such proposals with the commission. In order to remove barriers and to expedite assistance, low-income discounts or grants approved under this section must be provided in coordination with community-based organizations in the gas or electrical company's service territory including, but not limited to, grantees of the department of commerce, community action agencies, and community-based nonprofit organizations. Nothing in this section may be construed as limiting the commission's authority to approve or modify tariffs authorizing low-income discounts or grants.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5290-S.SL.pdf?cite=2009%20c%2032%20§%201[2009 c 32 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1459.SL.pdf?cite=1999%20c%2062%20§%201[1999 c 62 § 1]; ]
+. Eligibility for a low-income discount rate or grant established in this section may be established upon verification of a low-income customer's receipt of any means-tested public benefit, or verification of eligibility for the low-income home energy assistance program, or its successor program, for which eligibility does not exceed the low-income definition set by the commission pursuant to RCW  19.405.020. The public benefits may include, but are not limited to, assistance that provides cash, housing, food, or medical care including, but not limited to, temporary assistance for needy families, supplemental security income, emergency assistance to elders, disabled, and children, supplemental nutrition assistance program benefits, public housing, federally subsidized or state-subsidized housing, the low-income home energy assistance program, veterans' benefits, and similar benefits.
+
+. Each gas or electrical company shall conduct substantial outreach efforts to make the low-income discounts or grants available to eligible customers and must provide annual reports to the commission as to the gas or electrical company's outreach activities and results. Such outreach: (a) Shall be made at least semiannually to inform customers of available rebates, discounts, credits, and other cost-saving mechanisms that can help them lower their monthly bills for gas or electrical service; and (b) may be in the form of any customary and usual methods of communication or distribution including, without limitation, widely broadcast communications with customers, direct mailing, telephone calls, electronic communications, social media postings, in-person contacts, websites of the gas or electrical company, press releases, and print and electronic media, that are designed to increase access to and participation in bill assistance programs.
+
+. Outreach may include establishing an automated program of matching customer accounts with lists of recipients of the means-tested public benefit programs and, based on the results of the matching program, to presumptively offer a low-income discount rate or grant to eligible customers so identified. However, the gas or electrical company must within 60 days of the presumptive enrollment inform such a low-income customer of the presumptive enrollment and all rights and obligations of a customer under the program, including the right to withdraw from the program without penalty.
+
+. A residential customer eligible for a low-income discount rate must receive the service on demand.
+
+. A residential customer may not be charged for initiating or terminating low-income discount rates, grants, or any other form of energy assistance.
+
+. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+.. "Energy burden" has the same meaning as defined in RCW  19.405.020.
+
+.. "Low-income" has the same meaning as defined in RCW 19.405.020.
+
+.. "Physical facilities" includes, but may not be limited to, a community solar project as defined in RCW  80.28.370.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5295-S.SL.pdf?cite=2021%20c%20188%20§%203[2021 c 188 § 3]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5290-S.SL.pdf?cite=2009%20c%2032%20§%201[2009 c 32 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1459.SL.pdf?cite=1999%20c%2062%20§%201[1999 c 62 § 1]; ]
 
 == 80.28.070 - Sliding scale of charges permitted.
 Nothing in this chapter shall be taken to prohibit a gas company, electrical company or water company from establishing a sliding scale of charges, whereby a greater charge is made per unit for a lesser than a greater quantity for gas, electricity or water, or any service rendered or to be rendered.
@@ -149,15 +167,15 @@ Nothing in this chapter shall be taken to prohibit a gas company, electrical com
 == 80.28.074 - Legislative declaration.
 The legislature declares it is the policy of the state to:
 
-. Preserve affordable natural gas and electric services to the residents of the state;
+. Preserve affordable energy services to the residents of the state;
 
-. Maintain and advance the efficiency and availability of natural gas and electric services to the residents of the state of Washington;
+. Maintain and advance the efficiency and availability of energy services to the residents of the state of Washington;
 
-. Ensure that customers pay only reasonable charges for natural gas and electric service;
+. Ensure that customers pay only reasonable charges for energy services;
 
-. Permit flexible pricing of natural gas and electric services.
+. Permit flexible pricing of energy services.
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c166.pdf?cite=1988%20c%20166%20§%201[1988 c 166 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5295-S.SL.pdf?cite=2021%20c%20188%20§%205[2021 c 188 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c166.pdf?cite=1988%20c%20166%20§%201[1988 c 166 § 1]; ]
 
 == 80.28.075 - Banded rates—Natural gas and electric services.
 Upon request by a natural gas company or an electrical company, the commission may approve a tariff that includes banded rates for any nonresidential natural gas or electric service that is subject to effective competition from energy suppliers not regulated by the utilities and transportation commission. "Banded rate" means a rate that has a minimum and maximum rate. Rates may be changed within the rate band upon such notice as the commission may order.
@@ -193,9 +211,9 @@ No gas company, electrical company, wastewater company, or water company may, di
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5034-S2.SL.pdf?cite=2011%20c%20214%20§%2019[2011 c 214 § 19]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c14.pdf?cite=1961%20c%2014%20§%2080.28.100[1961 c 14 § 80.28.100]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1911c117.pdf?cite=1911%20c%20117%20§%2031[1911 c 117 § 31]; RRS § 10367; ]
 
 == 80.28.110 - Service to be furnished on reasonable notice.
-Every gas company, electrical company, wastewater company, or water company, engaged in the sale and distribution of gas, electricity or water or the provision of wastewater company services, shall, upon reasonable notice, furnish to all persons and corporations who may apply therefor and be reasonably entitled thereto, suitable facilities for furnishing and furnish all available gas, electricity, wastewater company services, and water as demanded, except that a water company may not furnish water contrary to the provisions of water system plans approved under chapter 43.20 or * 70.116 RCW and wastewater companies may not provide services contrary to the approved general sewer plan.
+Every gas company, electrical company, wastewater company, or water company, engaged in the sale and distribution of gas, electricity or water or the provision of wastewater company services, shall, upon reasonable notice, furnish to all persons and corporations who may apply therefor and be reasonably entitled thereto, suitable facilities for furnishing and furnish all available gas, electricity, wastewater company services, and water as demanded, except that a water company may not furnish water contrary to the provisions of water system plans approved under chapter 43.20 or 70A.100 RCW and wastewater companies may not provide services contrary to the approved general sewer plan.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5034-S2.SL.pdf?cite=2011%20c%20214%20§%2020[2011 c 214 § 20]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c132.pdf?cite=1990%20c%20132%20§%205[1990 c 132 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c14.pdf?cite=1961%20c%2014%20§%2080.28.110[1961 c 14 § 80.28.110]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1911c117.pdf?cite=1911%20c%20117%20§%2033[1911 c 117 § 33]; RRS § 10369; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2097[2021 c 65 § 97]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5034-S2.SL.pdf?cite=2011%20c%20214%20§%2020[2011 c 214 § 20]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c132.pdf?cite=1990%20c%20132%20§%205[1990 c 132 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c14.pdf?cite=1961%20c%2014%20§%2080.28.110[1961 c 14 § 80.28.110]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1911c117.pdf?cite=1911%20c%20117%20§%2033[1911 c 117 § 33]; RRS § 10369; ]
 
 == 80.28.120 - Effect on existing contracts.
 Every gas, water, wastewater, or electrical company owning, operating or managing a plant or system for the distribution and sale of gas, water or electricity, or the provision of wastewater company services to the public for hire is, and is held to be, a public service company as to such plant or system and as to all gas, water, wastewater company services, or electricity distributed or furnished therefrom, whether such gas, water, wastewater company services, or electricity be sold wholesale or retail or be distributed wholly to the general public or in part as surplus gas, water, wastewater company services, or electricity to manufacturing or industrial concerns or to other public service companies or municipalities for redistribution. Nothing in this title may be construed to prevent any gas company, electrical company or water company from continuing to furnish its product or the use of its lines, equipment or service under any contract or contracts in force on June 7, 1911, at the rates fixed in such contract or contracts. However, the commission has power, in its discretion, to direct by order that such contract or contracts be terminated by the company party thereto and thereupon such contract or contracts must be terminated by such company as and when directed by such order.
@@ -310,13 +328,35 @@ A city, town or county may, by ordinance or resolution, require a water company 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c119.pdf?cite=1986%20c%20119%20§%201[1986 c 119 § 1]; ]
 
 == 80.28.260 - Adoption of policies to provide financial incentives for energy efficiency programs.
-. The commission shall adopt a policy allowing an incentive rate of return on investment (a) for payments made under *RCW 19.27A.035 and (b) for programs that improve the efficiency of energy end use if priority is given to senior citizens and low-income citizens in the course of carrying out such programs. The incentive rate of return on investments set forth in this subsection is established by adding an increment of two percent to the rate of return on common equity permitted on the company's other investments.
+. The commission shall adopt a policy allowing an incentive rate of return on investment for programs that improve the efficiency of energy end use if priority is given to senior citizens and low-income citizens in the course of carrying out such programs. The incentive rate of return on investments set forth in this subsection is established by adding an increment of two percent to the rate of return on common equity permitted on the company's other investments.
 
-. The commission shall consider and may adopt a policy allowing an incentive rate of return on investment in additional programs to improve the efficiency of energy end use or other incentive policies to encourage utility investment in such programs.
+. The commission shall consider and may adopt a policy allowing an incentive rate of return on investment in additional programs to improve the efficiency of energy end use including, but not limited to, tree planting programs and cool roof programs, or other incentive policies to encourage utility investment in such programs. Any tree planting program where energy reduction is a goal for which an electrical company seeks an incentive rate of return on investment under this subsection (2) should accomplish the following:
+
+.. Reduce the peak-load demand for electricity in residential and commercial business areas during the summer months through direct shading of buildings provided by strategically planted trees;
+
+.. Reduce wintertime demand for energy in residential areas by blocking cold winds from reaching homes, which lowers interior temperatures and drives heating demand;
+
+.. Protect public health by removing harmful pollution from the air and prioritize in communities with environmental health disparities;
+
+.. Utilize the natural photosynthetic and transpiration process of trees to lower ambient temperatures and absorb carbon dioxide;
+
+.. Lower electric bills for residential and commercial business ratepayers by limiting electricity consumption without reducing benefits;
+
+.. Relieve financial and demand pressure on the utility that stems from large peak-load electricity demand;
+
+.. Protect water quality and public health by reducing and cooling stormwater runoff and keeping harmful pollutants from entering waterways, with special attention given to waterways vital for the preservation of threatened and endangered salmon;
+
+.. Ensure that trees are planted in locations that limit the amount of public funding needed to maintain public and electric infrastructure;
+
+.. Measure program performance in terms of the estimated present value benefit per tree planted and equitable and accessible community engagement consistent with the department of health's environmental health disparities map recommendations 12 and 13, and with the community engagement plan guidance appendix C of the final report of the environmental justice task force established under chapter 415, Laws of 2019;
+
+.. Give special consideration to achieving environmental justice in goals and policies, avoid creating or worsening environmental health disparities, and make use of the department of health's environmental health disparities map to help guide engagement and actions; and
+
+.. Coordinate with the department of natural resources urban and community forestry program's efforts to identify areas of need related to urban tree canopy and to provide technical assistance and capacity building to encourage urban tree canopy.
 
 . The commission shall consider and may adopt other policies to protect a company from a reduction of short-term earnings that may be a direct result of utility programs to increase the efficiency of energy use. These policies may include allowing a periodic rate adjustment for investments in end use efficiency or allowing changes in price structure designed to produce additional new revenue.
 
-[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2009-S4.SL.pdf?cite=1996%20c%20186%20§%20520[1996 c 186 § 520]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c2.pdf?cite=1990%20c%202%20§%209[1990 c 2 § 9]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1114-S.SL.pdf?cite=2021%20c%2011%20§%206[2021 c 11 § 6]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2009-S4.SL.pdf?cite=1996%20c%20186%20§%20520[1996 c 186 § 520]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c2.pdf?cite=1990%20c%202%20§%209[1990 c 2 § 9]; ]
 
 == 80.28.270 - Water or wastewater companies—Extension, installation, or connection charges.
 The commission's jurisdiction over the rates, charges, practices, acts or services of any water company or wastewater company includes any aspect of line extension, service installation, or service connection. If the charges for such services are not set forth by specific amount in the company's tariff filed with the commission pursuant to RCW 80.28.050, the commission shall determine the fair, just, reasonable, and sufficient charge for such extension, installation, or connection. In any such proceeding in which there is no specified tariffed rate, the burden is on the company to prove that its proposed charges are fair, just, reasonable, and sufficient.
@@ -341,20 +381,22 @@ The commission shall identify barriers to the development of refueling stations 
 [ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1028-S.SL.pdf?cite=1991%20c%20199%20§%20217[1991 c 199 § 217]; ]
 
 == 80.28.300 - Gas, electrical companies encouraged to provide customers with landscaping information and to request voluntary donations for urban forestry.
-. Gas companies and electrical companies under this chapter are encouraged to provide information to their customers regarding landscaping that includes tree planting for energy conservation.
+. Gas companies and electrical companies under this chapter are highly encouraged to provide information to their customers regarding landscaping that includes tree planting for energy conservation.
 
 . [Empty]
 .. Gas companies and electrical companies under this chapter may request voluntary donations from their customers for the purposes of urban forestry. The request may be in the form of a check-off on the billing statement or other form of a request for a voluntary donation.
 
 .. Voluntary donations collected by gas companies and electrical companies under this section may be used by the gas companies and electrical companies to:
 
-... Support the development and implementation of evergreen community ordinances, as that term is defined in RCW 35.105.010, for cities, towns, or counties within their service areas; or
+... Support the development and implementation of urban forestry ordinances, as that term is defined in RCW 76.15.010, for cities, towns, or counties within their service areas;
 
-... Complete projects consistent with the model evergreen community management plans and ordinances developed under RCW 35.105.050.
+... Complete projects consistent with the urban forestry management plans and ordinances developed under RCW 76.15.090; or
+
+... Fund a tree planting program for energy conservation that accomplishes the goals established under RCW 80.28.260(2) (a) through (k).
 
 .. Donations received under this section do not contribute to the gross income of a light and power business or gas distribution business under chapter 82.16 RCW.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2844-S2.SL.pdf?cite=2008%20c%20299%20§%2021[2008 c 299 § 21]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5159-S.SL.pdf?cite=1993%20c%20204%20§%204[1993 c 204 § 4]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1216-S2.SL.pdf?cite=2021%20c%20209%20§%2014[2021 c 209 § 14]; http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1114-S.SL.pdf?cite=2021%20c%2011%20§%207[2021 c 11 § 7]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2844-S2.SL.pdf?cite=2008%20c%20299%20§%2021[2008 c 299 § 21]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5159-S.SL.pdf?cite=1993%20c%20204%20§%204[1993 c 204 § 4]; ]
 
 == 80.28.303 - Conservation service tariff—Contents of filing—Rate base—Duties of commission.
 . An electrical, gas, or water company may file a conservation service tariff with the commission. The tariff shall provide:
@@ -679,6 +721,57 @@ For the purposes of chapter 288, Laws of 2019, the cost of greenhouse gas emissi
 . Nothing in this section may be construed to impose requirements or restrictions on or otherwise regulate interstate pipelines.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2518-S2.SL.pdf?cite=2020%20c%2032%20§%202[2020 c 32 § 2]; ]
+
+== 80.28.425 - Multiyear rate plan.
+. Beginning January 1, 2022, every general rate case filing of a gas or electrical company must include a proposal for a multiyear rate plan as provided in this chapter. The commission may, by order after an adjudicative proceeding as provided by chapter 34.05 RCW, approve, approve with conditions, or reject, a multiyear rate plan proposal made by a gas or electrical company or an alternative proposal made by one or more parties, or any combination thereof. The commission's consideration of a proposal for a multiyear rate plan is subject to the same standards applicable to other rate filings made under this title, including the public interest and fair, just, reasonable, and sufficient rates. In determining the public interest, the commission may consider such factors including, but not limited to, environmental health and greenhouse gas emissions reductions, health and safety concerns, economic development, and equity, to the extent such factors affect the rates, services, and practices of a gas or electrical company regulated by the commission.
+
+. The commission may approve, disapprove, or approve with modifications any proposal to recover from ratepayers up to five percent of the total revenue requirement approved by the commission for each year of a multiyear rate plan for tariffs that reduce the energy burden of low-income residential customers including, but not limited to: (a) Bill assistance programs; or (b) one or more special rates. For any multiyear rate plan approved under this section resulting in a rate increase, the commission must approve an increase in the amount of low-income bill assistance to take effect in each year of the rate plan where there is a rate increase. At a minimum, the amount of such low-income assistance increase must be equal to double the percentage increase, if any, in the residential base rates approved for each year of the rate plan. The commission may approve a larger increase to low-income bill assistance based on an appropriate record.
+
+. [Empty]
+.. If it approves a multiyear rate plan, the commission shall separately approve rates for each of the initial rate year, the second rate year and, if applicable, the third rate year, and the fourth rate year.
+
+.. The commission shall ascertain and determine the fair value for rate-making purposes of the property of any gas or electrical company that is or will be used and useful under RCW  80.04.250 for service in this state by or during each rate year of the multiyear rate plan. For the initial rate year, the commission shall, at a minimum, ascertain and determine the fair value for rate-making purposes of the property of any gas or electrical company that is used and useful for service in this state as of the rate effective date. The commission may order refunds to customers if property expected to be used and useful by the rate effective date when the commission approves a multiyear rate plan is in fact not used and useful by such a date.
+
+.. The commission shall ascertain and determine the revenues and operating expenses for rate-making purposes of any gas or electrical company for each rate year of the multiyear rate plan.
+
+.. In ascertaining and determining the fair value of property of a gas or electrical company pursuant to (b) of this subsection and projecting the revenues and operating expenses of a gas or electrical company pursuant to (c) of this subsection, the commission may use any standard, formula, method, or theory of valuation reasonably calculated to arrive at fair, just, reasonable, and sufficient rates.
+
+.. If the commission approves a multiyear rate plan with a duration of three or four years, then the electrical company must update its power costs as of the rate effective date of the third rate year. The proceeding to update the electrical company's power costs is subject to the same standards that apply to other rate filings made under this title.
+
+. Subject to subsection (5) of this section, the commission may by order establish terms, conditions, and procedures for a multiyear rate plan and ensure that rates remain fair, just, reasonable, and sufficient during the course of the plan.
+
+. Notwithstanding subsection (4) of this section, a gas or electrical company is bound by the terms of the multiyear rate plan approved by the commission for each of the initial rate year and the second rate year. A gas or electrical company may file a new multiyear rate plan in accordance with this section for the third rate year and fourth rate year, if any, of a multiyear rate plan.
+
+. If the annual commission basis report for a gas or electrical company demonstrates that the reported rate of return on rate base of the company for the 12-month period ending as of the end of the period for which the annual commission basis report is filed is more than .5 percent higher than the rate of return authorized by the commission in the multiyear rate plan for such a company, the company shall defer all revenues that are in excess of .5 percent higher than the rate of return authorized by the commission for refunds to customers or another determination by the commission in a subsequent adjudicative proceeding. If a multistate electrical company with fewer than 250,000 customers in Washington files a multiyear rate plan that provides for no increases in base rates in consecutive years beyond the initial rate year, the commission shall waive the requirements of this subsection provided that such a waiver results in just and reasonable rates.
+
+. The commission must, in approving a multiyear rate plan, determine a set of performance measures that will be used to assess a gas or electrical company operating under a multiyear rate plan. These performance measures may be based on proposals made by the gas or electrical company in its initial application, by any other party to the proceeding in its response to the company's filing, or in the testimony and evidence admitted in the proceeding. In developing performance measures, incentives, and penalty mechanisms, the commission may consider factors including, but not limited to, lowest reasonable cost planning, affordability, increases in energy burden, cost of service, customer satisfaction and engagement, service reliability, clean energy or renewable procurement, conservation acquisition, demand side management expansion, rate stability, timely execution of competitive procurement practices, attainment of state energy and emissions reduction policies, rapid integration of renewable energy resources, and fair compensation of utility employees.
+
+. Nothing in this section precludes any gas or electrical company from making filings required or permitted by the commission.
+
+. The commission shall align, to the extent practical, the timing of approval of a multiyear rate plan of an electrical company submitted pursuant to this section with the clean energy implementation plan of the electrical company filed pursuant to RCW  19.405.060.
+
+. The provisions of this section may not be construed to limit the existing rate-making authority of the commission.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5295-S.SL.pdf?cite=2021%20c%20188%20§%202[2021 c 188 § 2]; ]
+
+== 80.28.430 - Authority to enter into agreements with certain organizations—Agreement to govern manner in which financial assistance is provided to an organization—Requirements.
+. A gas company or electrical company shall, upon request, enter into one or more written agreements with organizations that represent broad customer interests in regulatory proceedings conducted by the commission, subject to commission approval in accordance with subsection (2) of this section, including but not limited to organizations representing low-income, commercial, and industrial customers, vulnerable populations, or highly impacted communities. The agreement must govern the manner in which financial assistance may be provided to the organization. More than one gas company, electrical company, or organization representing customer interests may join in a single agreement. Any agreement entered into under this section must be approved, approved with modifications, or rejected by the commission. The commission must consider whether the agreement is consistent with a reasonable allocation of financial assistance provided to organizations pursuant to this section among classes of customers of the gas or electrical company.
+
+. Before administering an agreement entered into under subsection (1) of this section, the commission shall, by rule or order, determine:
+
+.. The amount of financial assistance, if any, that may be provided to any organization;
+
+.. The manner in which the financial assistance is distributed;
+
+.. The manner in which the financial assistance is recovered in the rates of the gas company or electrical company under subsection (3) of this section; and
+
+.. Other matters necessary to administer the agreement.
+
+. The commission shall allow a gas company or electrical company that provides financial assistance under this section to recover the amounts provided in rates. The commission shall allow a gas company or electrical company to defer inclusion of those amounts in rates if the gas company or electrical company so elects. An agreement under this section may not provide for payment of any amounts to the commission.
+
+. Organizations representing vulnerable populations or highly impacted communities must be prioritized for funding under this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5295-S.SL.pdf?cite=2021%20c%20188%20§%204[2021 c 188 § 4]; ]
 
 == 80.28.900 - Construction—Chapter applicable to state registered domestic partnerships—2009 c 521.
 For the purposes of this chapter, the terms spouse, marriage, marital, husband, wife, widow, widower, next of kin, and family shall be interpreted as applying equally to state registered domestic partnerships or individuals in state registered domestic partnerships as well as to marital relationships and married persons, and references to dissolution of marriage shall apply equally to state registered domestic partnerships that have been terminated, dissolved, or invalidated, to the extent that such interpretation does not conflict with federal law. Where necessary to implement chapter 521, Laws of 2009, gender-specific terms such as husband and wife used in any statute, rule, or other law shall be construed to be gender neutral, and applicable to individuals in state registered domestic partnerships.

@@ -1,12 +1,16 @@
 = 29A.76 - Redistricting.
 :toc:
 
-== 29A.76.010 - Counties, municipal corporations, and special purpose districts.
+== 29A.76.010 - Counties, municipal corporations, and special purpose districts. (Effective until January 1, 2023.)
 . It is the responsibility of each county, municipal corporation, and special purpose district with a governing body comprised of internal director, council, or commissioner districts not based on statutorily required land ownership criteria to periodically redistrict its governmental unit, based on population information from the most recent federal decennial census.
 
 . Within forty-five days after receipt of federal decennial census information applicable to a specific local area, the commission established in RCW 44.05.030 shall forward the census information to each municipal corporation, county, and district charged with redistricting under this section.
 
-. Except as otherwise provided in chapter 301, Laws of 2018, no later than eight months after its receipt of federal decennial census data, the governing body of the municipal corporation, county, or district shall prepare a plan for redistricting its internal or director districts.
+. Except as otherwise provided in chapter 301, Laws of 2018, the governing body of the municipal corporation, county, or district shall prepare a plan for redistricting its internal or director districts:
+
+.. By December 31, 2021, if the jurisdiction is scheduled to elect members to its governing body in 2022; or
+
+.. By November 15, 2022, if the jurisdiction is not scheduled to elect members to its governing body in 2022.
 
 . The plan shall be consistent with the following criteria:
 
@@ -35,7 +39,7 @@
 
 .. If the superior court finds that any request for review is frivolous or has been filed solely for purposes of harassment or delay, it may impose appropriate sanctions on the party requesting review, including payment of attorneys' fees and costs to the respondent municipal corporation, county, or district.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2887-S.SL.pdf?cite=2018%20c%20301%20§%208[2018 c 301 § 8]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5171-S.SL.pdf?cite=2011%20c%20349%20§%2026[2011 c 349 § 26]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5221-S.SL.pdf?cite=2003%20c%20111%20§%201901[2003 c 111 § 1901]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c13.pdf?cite=1984%20c%2013%20§%204[1984 c 13 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c16.pdf?cite=1983%20c%2016%20§%2015[1983 c 16 § 15]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c2.pdf?cite=1982%20c%202%20§%2027[1982 c 2 § 27]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5013-S.SL.pdf?cite=2021%20c%20173%20§%201[2021 c 173 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2887-S.SL.pdf?cite=2018%20c%20301%20§%208[2018 c 301 § 8]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5171-S.SL.pdf?cite=2011%20c%20349%20§%2026[2011 c 349 § 26]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5221-S.SL.pdf?cite=2003%20c%20111%20§%201901[2003 c 111 § 1901]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c13.pdf?cite=1984%20c%2013%20§%204[1984 c 13 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c16.pdf?cite=1983%20c%2016%20§%2015[1983 c 16 § 15]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c2.pdf?cite=1982%20c%202%20§%2027[1982 c 2 § 27]; ]
 
 == 29A.76.020 - Boundary information.
 The legislative authority of each county and each city, town, and special purpose district which lies within the county shall provide the county auditor accurate information describing its geographical boundaries and the boundaries of its director, council, or commissioner districts and shall ensure that the information provided to the auditor is kept current.

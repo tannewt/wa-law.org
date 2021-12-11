@@ -24,9 +24,9 @@ The method of allocating state revenues shall not be modified for a period of on
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c91.pdf?cite=1984%20c%2091%20§%204[1984 c 91 § 4]; ]
 
 == 36.65.050 - Fire protection or law enforcement units—Binding arbitration in collective bargaining.
-If the city-county government includes a fire protection or law enforcement unit that was, prior to the formation of the city-county, governed by a state statute providing for binding arbitration in collective bargaining, then the entire fire protection or law enforcement unit of the city-county shall be governed by that statute.
+Subject to the requirements of RCW 41.56.100 and 41.58.070, if the city-county government includes a fire protection or law enforcement unit that was, prior to the formation of the city-county, governed by a state statute providing for binding arbitration in collective bargaining, then the entire fire protection or law enforcement unit of the city-county shall be governed by that statute.
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c91.pdf?cite=1984%20c%2091%20§%205[1984 c 91 § 5]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5055-S.SL.pdf?cite=2021%20c%2013%20§%205[2021 c 13 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c91.pdf?cite=1984%20c%2091%20§%205[1984 c 91 § 5]; ]
 
 == 36.65.060 - Public employee retirement or disability benefits not affected.
 The formation of a city-county shall not have the effect of reducing, restricting, or limiting retirement or disability benefits of any person employed by or retired from a municipal corporation, or who had a vested right in any state or local retirement system, prior to the formation of the city-county.

@@ -1,4 +1,4 @@
-= Revised Code of Washington
+# Revised Code of Washington
 Welcome to the git version of the Revised Code of Washington (RCW). It is an *unofficial* copy derived from http://apps.leg.wa.gov/rcw/[the official website]. This root commit will stay the same but all others may change if/when we import historical changes. Tags will be redone as things change so they should be stable.
 
 * link:01_general_provisions[1 - GENERAL PROVISIONS]

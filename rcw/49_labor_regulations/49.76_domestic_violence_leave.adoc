@@ -14,7 +14,7 @@
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2661.SL.pdf?cite=2018%20c%2047%20§%201[2018 c 47 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2602-S.SL.pdf?cite=2008%20c%20286%20§%201[2008 c 286 § 1]; ]
 
-== 49.76.020 - Definitions.
+== 49.76.020 - Definitions. (Effective until July 1, 2022.)
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 
 . "Child," "spouse," "parent," "parent-in-law," "grandparent," and "sick leave and other paid time off" have the same meanings as in RCW 49.12.265.

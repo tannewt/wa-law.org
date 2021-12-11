@@ -2,9 +2,9 @@
 :toc:
 
 == 68.50.010 - Coroner's jurisdiction over remains.
-The jurisdiction of bodies of all deceased persons who come to their death suddenly when in apparent good health without medical attendance within the thirty-six hours preceding death; or where the circumstances of death indicate death was caused by unnatural or unlawful means; or where death occurs under suspicious circumstances; or where a coroner's autopsy or postmortem or coroner's inquest is to be held; or where death results from unknown or obscure causes, or where death occurs within one year following an accident; or where the death is caused by any violence whatsoever, or where death results from a known or suspected abortion; whether self-induced or otherwise; where death apparently results from drowning, hanging, burns, electrocution, gunshot wounds, stabs or cuts, lightning, starvation, radiation, exposure, alcoholism, narcotics or other addictions, tetanus, strangulations, suffocation or smothering; or where death is due to premature birth or still birth; or where death is due to a violent contagious disease or suspected contagious disease which may be a public health hazard; or where death results from alleged rape, carnal knowledge or sodomy, where death occurs in a jail or prison; where a body is found dead or is not claimed by relatives or friends, is hereby vested in the county coroner, which bodies may be removed and placed in the morgue under such rules as are adopted by the coroner with the approval of the county commissioners, having jurisdiction, providing therein how the bodies shall be brought to and cared for at the morgue and held for the proper identification where necessary.
+The jurisdiction of bodies of all deceased persons who come to their death suddenly when in apparent good health without medical attendance within the thirty-six hours preceding death; or where the circumstances of death indicate death was caused by unnatural or unlawful means; or where death occurs under suspicious circumstances; or where a coroner's autopsy or postmortem or coroner's inquest is to be held; or where death results from unknown or obscure causes, or where death occurs within one year following an accident; or where the death is caused by any violence whatsoever, or where death results from a known or suspected abortion; whether self-induced or otherwise; where death apparently results from drowning, hanging, burns, electrocution, gunshot wounds, stabs or cuts, lightning, starvation, radiation, exposure, alcoholism, narcotics or other addictions, tetanus, strangulations, suffocation or smothering; or where death is due to premature birth or still birth; or where death is due to a violent contagious disease or suspected contagious disease which may be a public health hazard; or where death results from alleged rape, carnal knowledge or sodomy, where death occurs in a jail or prison; where a body is found dead or is not claimed by relatives or friends, is hereby vested in the county coroner or medical examiner, which bodies may be removed and placed in the morgue under such rules as are adopted by the coroner or medical examiner with the approval of the county commissioners, having jurisdiction, providing therein how the bodies shall be brought to and cared for at the morgue and held for the proper identification where necessary.
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c178.pdf?cite=1963%20c%20178%20§%201[1963 c 178 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1953c188.pdf?cite=1953%20c%20188%20§%201[1953 c 188 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1917c90.pdf?cite=1917%20c%2090%20§%203[1917 c 90 § 3]; RRS § 6042; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1326-S.SL.pdf?cite=2021%20c%20127%20§%207[2021 c 127 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c178.pdf?cite=1963%20c%20178%20§%201[1963 c 178 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1953c188.pdf?cite=1953%20c%20188%20§%201[1953 c 188 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1917c90.pdf?cite=1917%20c%2090%20§%203[1917 c 90 § 3]; RRS § 6042; ]
 
 == 68.50.015 - Immunity for determining cause and manner of death—Judicial review of determination.
 A county coroner or county medical examiner or persons acting in that capacity shall be immune from civil liability for determining the cause and manner of death. The accuracy of the determinations is subject to judicial review.
@@ -112,7 +112,7 @@ In an industrial death where the cause of death is unknown, and where the depart
 
 ... Up to forty percent of the cost of contracting for the services of a pathologist to perform an autopsy;
 
-... Up to twenty-five percent of the salary of pathologists who are primarily engaged in performing autopsies and are (A) county coroners or county medical examiners, or (B) employees of a county coroner or county medical examiner; and
+... Up to 30 percent of the salary of pathologists who are primarily engaged in performing autopsies and are (A) county coroners or county medical examiners, or (B) employees of a county coroner or county medical examiner; and
 
 ... One hundred percent of the cost of autopsies conducted under RCW 70.54.450.
 
@@ -120,7 +120,9 @@ In an industrial death where the cause of death is unknown, and where the depart
 
 . Payments from the account shall be made pursuant to biennial appropriation: PROVIDED, That no county may reduce funds appropriated for this purpose below 1983 budgeted levels.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5425-S.SL.pdf?cite=2019%20c%20317%20§%204[2019 c 317 § 4]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1216.SL.pdf?cite=2001%20c%2082%20§%202[2001 c 82 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c16.pdf?cite=1983%201st%20ex.s.%20c%2016%20§%2014[1983 1st ex.s. c 16 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c178.pdf?cite=1963%20c%20178%20§%203[1963 c 178 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1953c188.pdf?cite=1953%20c%20188%20§%207[1953 c 188 § 7]; ]
+. Where the county coroner's office or county medical examiner's office is not accredited pursuant to RCW 36.24.210, or a coroner, medical examiner, or other medicolegal investigative employee is not certified as required by RCW 36.24.205 and 43.101.480, the state treasurer's office shall withhold 25 percent of autopsy reimbursement funds until accreditation under RCW 36.24.210 or compliance with RCW 36.24.205 and 43.101.480 is achieved.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1326-S.SL.pdf?cite=2021%20c%20127%20§%208[2021 c 127 § 8]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5425-S.SL.pdf?cite=2019%20c%20317%20§%204[2019 c 317 § 4]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1216.SL.pdf?cite=2001%20c%2082%20§%202[2001 c 82 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c16.pdf?cite=1983%201st%20ex.s.%20c%2016%20§%2014[1983 1st ex.s. c 16 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c178.pdf?cite=1963%20c%20178%20§%203[1963 c 178 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1953c188.pdf?cite=1953%20c%20188%20§%207[1953 c 188 § 7]; ]
 
 == 68.50.105 - Autopsies, postmortems—Reports and records confidential—Exceptions.
 . Reports and records of autopsies or postmortems shall be confidential, except that the following persons may examine and obtain copies of any such report or record: The personal representative of the decedent as defined in RCW 11.02.005, any family member, the attending physician or advanced registered nurse practitioner, the prosecuting attorney or law enforcement agencies having jurisdiction, public health officials, the department of labor and industries in cases in which it has an interest under RCW 68.50.103, or the secretary of the department of children, youth, and families or his or her designee in cases being reviewed under RCW 74.13.640.
@@ -282,18 +284,21 @@ In any subsequent civil action in which the next of kin of a decedent contends t
 
 [ 1975-'76 2nd ex.s. c 60 § 2; ]
 
-== 68.50.300 - Release of information concerning a death. (Effective until January 1, 2021.)
+== 68.50.300 - Release of information concerning a death.
 . The county coroner, medical examiner, or prosecuting attorney having jurisdiction may in such official's discretion release information concerning a person's death to the media and general public, in order to aid in identifying the deceased, when the identity of the deceased is unknown to the official and when he or she does not know the information to be readily available through other sources.
 
-. The county coroner, medical examiner, or prosecuting attorney may withhold any information which directly or indirectly identifies a decedent until either:
+. [Empty]
+.. The county coroner, medical examiner, or prosecuting attorney may withhold any information which directly or indirectly identifies a decedent until either:
 
-.. A notification period of forty-eight hours has elapsed after identification of the decedent by such official; or
+... A notification period of forty-eight hours has elapsed after identification of the decedent by such official; or
 
-.. The next of kin of the decedent has been notified.
+... The next of kin of the decedent has been notified.
 
-During the forty-eight hour notification period, such official shall make a good faith attempt to locate and notify the next of kin of the decedent.
+.. During the forty-eight hour notification period, such official shall make a good faith attempt to locate and notify the next of kin of the decedent.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20318[2012 c 117 § 318]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c176.pdf?cite=1981%20c%20176%20§%202[1981 c 176 § 2]; ]
+. The county coroner, medical examiner, or prosecuting attorney having jurisdiction may release information contained in a report of death, as defined in chapter 70.58A RCW, to the media and general public.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%2037[2019 c 148 § 37]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20318[2012 c 117 § 318]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c176.pdf?cite=1981%20c%20176%20§%202[1981 c 176 § 2]; ]
 
 == 68.50.310 - Dental identification system established—Powers and duties.
 A dental identification system is established in the identification section of the Washington state patrol. The dental identification system shall act as a repository or computer center or both for dental examination records and it shall be responsible for comparing such records with dental records filed under RCW 68.50.330. It shall also determine which scoring probabilities are the highest for purposes of identification and shall submit such information to the coroner or medical examiner who prepared and forwarded the dental examination records. Once the dental identification system is established, operating funds shall come from the state general fund.

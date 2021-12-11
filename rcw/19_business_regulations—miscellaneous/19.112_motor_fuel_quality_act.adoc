@@ -122,7 +122,9 @@ Methyl tertiary-butyl ether may not be intentionally added to any gasoline, moto
 
 . The director and the director of licensing must each adopt rules, in coordination with each other, for enforcing and carrying out the purposes of this section.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1883-S.SL.pdf?cite=2013%20c%20225%20§%20601[2013 c 225 § 601]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1010-S.SL.pdf?cite=2009%20c%20132%20§%202[2009 c 132 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6508-S.SL.pdf?cite=2006%20c%20338%20§%202[2006 c 338 § 2]; ]
+. To the extent that the requirements of this section conflict with the requirements of chapter 70A.535 RCW, the requirements of chapter 70A.535 RCW prevail.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1091-S3.SL.pdf?cite=2021%20c%20317%20§%2026[2021 c 317 § 26]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1883-S.SL.pdf?cite=2013%20c%20225%20§%20601[2013 c 225 § 601]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1010-S.SL.pdf?cite=2009%20c%20132%20§%202[2009 c 132 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6508-S.SL.pdf?cite=2006%20c%20338%20§%202[2006 c 338 § 2]; ]
 
 == 19.112.120 - Motor vehicle fuel licensees—Required sales of denatured ethanol—Rules—Limitation of section.
 . By December 1, 2008, motor vehicle fuel licensees under chapter 82.38 RCW, as determined by the department of licensing, must provide evidence to the department of licensing that at least two percent of total gasoline sold in Washington, measured on a quarterly basis, is denatured ethanol.
@@ -135,7 +137,9 @@ Methyl tertiary-butyl ether may not be intentionally added to any gasoline, moto
 
 . Nothing in this section is intended to prohibit the production, sale, or use of motor fuel for use in federally designated flexibly fueled vehicles capable of using E85 motor fuel. Nothing in this section is intended to limit the use of high octane gasoline not blended with ethanol for use in aircraft.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1883-S.SL.pdf?cite=2013%20c%20225%20§%20602[2013 c 225 § 602]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1029-S.SL.pdf?cite=2007%20c%20309%20§%202[2007 c 309 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6508-S.SL.pdf?cite=2006%20c%20338%20§%203[2006 c 338 § 3]; ]
+. To the extent that the requirements of this section conflict with the requirements of chapter 70A.535 RCW, the requirements of chapter 70A.535 RCW prevail.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1091-S3.SL.pdf?cite=2021%20c%20317%20§%2027[2021 c 317 § 27]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1883-S.SL.pdf?cite=2013%20c%20225%20§%20602[2013 c 225 § 602]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1029-S.SL.pdf?cite=2007%20c%20309%20§%202[2007 c 309 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6508-S.SL.pdf?cite=2006%20c%20338%20§%203[2006 c 338 § 3]; ]
 
 == 19.112.130 - Information submitted under RCW  19.112.110 or  19.112.120—Limitation on release.
 The department of licensing shall not publicly release, unless pursuant to an order of a court of competent jurisdiction, information submitted as evidence as required by RCW 19.112.110 or 19.112.120, except information disclosed in aggregate form that does not permit the identification of information related to individual fuel licensees.

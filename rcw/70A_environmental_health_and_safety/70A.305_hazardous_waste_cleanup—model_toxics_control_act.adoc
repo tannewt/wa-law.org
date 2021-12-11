@@ -517,7 +517,7 @@ In providing grants to local governments, the department shall require grant rec
 
 .. De minimis amounts of any hazardous substance leaked or discharged onto the ground;
 
-.. The discharge of hazardous substances to a permitted waste water treatment facility or from a permitted waste water collection system or treatment facility as allowed by a facility's discharge permit;
+.. The discharge of hazardous substances to a permitted wastewater treatment facility or from a permitted wastewater collection system or treatment facility as allowed by a facility's discharge permit;
 
 .. Any releases originating from a single-family or multifamily residence, including but not limited to the discharge of oil from a residential home heating oil tank with the capacity of five hundred gallons or less;
 
@@ -708,9 +708,11 @@ When administering funds under this chapter, the department shall give preferenc
 
 .. Funding requirements to maintain receipt of federal funds under the federal solid waste disposal act (42 U.S.C. Sec. 6901 et seq.);
 
-.. Air quality programs and actions for reducing public exposure to toxic air pollution; and
+.. Air quality programs and actions for reducing public exposure to toxic air pollution;
 
-.. Petroleum-based plastic or expanded polystyrene foam debris clean-up activities in fresh or marine waters.
+.. Petroleum-based plastic or expanded polystyrene foam debris clean-up activities in fresh or marine waters; and
+
+.. For the 2021-2023 fiscal biennium, and solely to continue the policy of previous biennia, forest practices at the department of natural resources.
 
 . Except for unanticipated receipts under RCW 43.79.260 through 43.79.282, moneys in model toxics control operating account may be spent only after appropriation by statute.
 
@@ -718,7 +720,7 @@ When administering funds under this chapter, the department shall give preferenc
 
 . The department must adopt rules for grant or loan issuance and performance.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201319[2020 c 20 § 1319]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5993-S.SL.pdf?cite=2019%20c%20422%20§%20202[2019 c 422 § 202]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5092-S.SL.pdf?cite=2021%20c%20334%20§%20988[2021 c 334 § 988]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201319[2020 c 20 § 1319]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5993-S.SL.pdf?cite=2019%20c%20422%20§%20202[2019 c 422 § 202]; ]
 
 == 70A.305.190 - Model toxics control capital account.
 . The model toxics control capital account is hereby created in the state treasury.

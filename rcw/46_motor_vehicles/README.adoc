@@ -12,6 +12,7 @@
 * link:46.19_special_parking_privileges_for_persons_with_disabilities.adoc[46.19 - Special parking privileges for persons with disabilities.]
 * link:46.20_drivers_licenses—identicards.adoc[46.20 - Drivers' licenses—Identicards.]
 * link:46.21_driver_license_compact.adoc[46.21 - Driver license compact.]
+* link:46.22_vehicle_and_driver_data.adoc[46.22 - Vehicle and driver data.]
 * link:46.23_nonresident_violator_compact.adoc[46.23 - Nonresident violator compact.]
 * link:46.25_uniform_commercial_drivers_license_act.adoc[46.25 - Uniform commercial driver's license act.]
 * link:46.29_financial_responsibility.adoc[46.29 - Financial responsibility.]

@@ -69,7 +69,7 @@ For the purposes of this section "regular" meetings shall mean recurring meeting
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c240.pdf?cite=1977%20ex.s.%20c%20240%20§%2012[1977 ex.s. c 240 § 12]; ]
 
 == 42.30.077 - Agendas of regular meetings—Online availability.
-Public agencies with governing bodies must make the agenda of each regular meeting of the governing body available online no later than twenty-four hours in advance of the published start time of the meeting. An agency subject to provisions of this section is not required to post an agenda if it does not have a web site or if it employs fewer than ten full-time equivalent employees. Nothing in this section prohibits subsequent modifications to agendas nor invalidates any otherwise legal action taken at a meeting where the agenda was not posted in accordance with this section. Nothing in this section modifies notice requirements or shall be construed as establishing that a public body or agency's online posting of an agenda as required by this section is sufficient notice to satisfy public notice requirements established under other laws. Failure to post an agenda in accordance with this section shall not provide a basis for awarding attorney fees under RCW 42.30.120 or commencing an action for mandamus or injunction under RCW 42.30.130.
+Public agencies with governing bodies must make the agenda of each regular meeting of the governing body available online no later than twenty-four hours in advance of the published start time of the meeting. An agency subject to provisions of this section is not required to post an agenda if it does not have a website or if it employs fewer than ten full-time equivalent employees. Nothing in this section prohibits subsequent modifications to agendas nor invalidates any otherwise legal action taken at a meeting where the agenda was not posted in accordance with this section. Nothing in this section modifies notice requirements or shall be construed as establishing that a public body or agency's online posting of an agenda as required by this section is sufficient notice to satisfy public notice requirements established under other laws. Failure to post an agenda in accordance with this section shall not provide a basis for awarding attorney fees under RCW 42.30.120 or commencing an action for mandamus or injunction under RCW 42.30.130.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2105-S.SL.pdf?cite=2014%20c%2061%20§%202[2014 c 61 § 2]; ]
 
@@ -84,7 +84,7 @@ Public agencies with governing bodies must make the agenda of each regular meeti
 
 .. Delivered to each local newspaper of general circulation and local radio or television station that has on file with the governing body a written request to be notified of such special meeting or of all special meetings;
 
-.. Posted on the agency's web site. An agency is not required to post a special meeting notice on its web site if it (i) does not have a web site; (ii) employs fewer than ten full-time equivalent employees; or (iii) does not employ personnel whose duty, as defined by a job description or existing contract, is to maintain or update the web site; and
+.. Posted on the agency's website. An agency is not required to post a special meeting notice on its website if it (i) does not have a website; (ii) employs fewer than ten full-time equivalent employees; or (iii) does not employ personnel whose duty, as defined by a job description or existing contract, is to maintain or update the website; and
 
 .. Prominently displayed at the main entrance of the agency's principal location and the meeting site if it is not held at the agency's principal location.
 
@@ -208,7 +208,7 @@ The attorney general's office may provide information, technical assistance, and
 [ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1384-S.SL.pdf?cite=2001%20c%20216%20§%202[2001 c 216 § 2]; ]
 
 == 42.30.900 - Short title.
-This chapter may be cited as the "Open Public Meetings Act of 1971".
+This chapter may be cited as the "Open Public Meetings Act of 1971."
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c250.pdf?cite=1971%20ex.s.%20c%20250%20§%2016[1971 ex.s. c 250 § 16]; ]
 

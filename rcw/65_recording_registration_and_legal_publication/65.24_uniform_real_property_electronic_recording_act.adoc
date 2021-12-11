@@ -20,9 +20,9 @@ The definitions in this section apply throughout this chapter unless the context
 
 . "State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States.
 
-. "E-recording standards commission" means the body of stakeholders appointed by the secretary of state to review electronic recording standards and make recommendations to the secretary under RCW 65.24.040.
+. "Recording standards commission" means the body of stakeholders appointed by the secretary of state to review recording standards, including but not limited to electronic recording standards, and make recommendations to the secretary under RCW 65.24.040.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2459.SL.pdf?cite=2008%20c%2057%20§%202[2008 c 57 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5019.SL.pdf?cite=2021%20c%20137%20§%202[2021 c 137 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2459.SL.pdf?cite=2008%20c%2057%20§%202[2008 c 57 § 2]; ]
 
 == 65.24.020 - Electronic authentication.
 . If a law requires, as a condition for recording, that a document be an original, be on paper or another tangible medium, or be in writing, the requirement is satisfied by an electronic document satisfying this chapter.
@@ -56,32 +56,82 @@ The definitions in this section apply throughout this chapter unless the context
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2459.SL.pdf?cite=2008%20c%2057%20§%204[2008 c 57 § 4]; ]
 
-== 65.24.040 - E-recording standards commission.
-The office of the secretary of state shall create and appoint an e-recording standards commission. The e-recording standards commission shall review electronic recording standards and make recommendations to the secretary of state for rules necessary to implement this chapter. A majority of the commission must be county recorders or auditors. The commission may include assessors, treasurers, land title company representatives, escrow agents, and mortgage brokers, the state archivist, and any other party the secretary of state deems appropriate. The term of the commissioners will be set by the secretary of state.
+== 65.24.040 - Recording standards commission.
+. The office of the secretary of state shall create and appoint a recording standards commission. The recording standards commission shall review recording standards, including electronic recording standards, and make recommendations to the secretary of state for rules necessary to implement this chapter. A majority of the commission must be county recorders or county auditors. The commission may include assessors, treasurers, land title company representatives, escrow agents, and mortgage brokers, the state archivist, county surveyors, and any other party the secretary of state deems appropriate. The term of the commissioners will be set by the secretary of state.
 
-To keep the standards and practices of recording officers in this state in harmony with the standards and practices of recording offices in other jurisdictions that enact this chapter and to keep the technology used by recording officers in this state compatible with technology used by recording offices in other jurisdictions that enact this chapter, the office of the secretary of state, so far as is consistent with the purposes, policies, and provisions of this chapter, in adopting, amending, and repealing standards shall consider:
+. To keep the standards and practices of recording officers in this state in harmony, and to promote harmony with the standards and practices of recording offices in other jurisdictions that enact similar legislation or policy and to keep the technology used by recording officers in this state compatible with technology used by recording offices in other jurisdictions that enact similar legislation or policy, the office of the secretary of state, under RCW 40.14.020, so far as is consistent with the purposes, policies, and provisions of this chapter, in adopting, amending, and repealing rules supporting recording standards shall consider:
 
-. The standards and practices of other jurisdictions;
+.. The standards and practices of other jurisdictions;
 
-. The most recent standards adopted by national standard-setting bodies, such as the property records industry association;
+.. The most recent standards adopted by national standard-setting bodies, such as the property records industry association;
 
-. The views of interested persons and governmental officials and entities;
+.. The views of interested persons and governmental officials and entities;
 
-. The needs of counties of varying size, population, and resources; and
+.. The needs of counties of varying size, population, and resources;
 
-. Standards requiring adequate information security protection to ensure that electronic documents are accurate, authentic, adequately preserved, and resistant to tampering.
+.. Standards requiring adequate information security protection to ensure that documents are accurate, authentic, adequately preserved, and resistant to tampering;
 
-[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2459.SL.pdf?cite=2008%20c%2057%20§%205[2008 c 57 § 5]; ]
+.. Standards requiring adequate information security protection to ensure that electronic documents are accurate, authentic, adequately preserved, and resistant to tampering;
+
+.. Standards for the certification of recorded documents including imaged paper documents and documents that are received by the recording officer in an electronic form; and
+
+.. Standards on the documentation and recording of boundary line adjustments for real property.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5019.SL.pdf?cite=2021%20c%20137%20§%203[2021 c 137 § 3]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2459.SL.pdf?cite=2008%20c%2057%20§%205[2008 c 57 § 5]; ]
 
 == 65.24.050 - Electronic signatures in global and national commerce act.
 This chapter modifies, limits, and supersedes the federal electronic signatures in global and national commerce act (15 U.S.C. Sec. 7001, et seq.) but does not modify, limit, or supersede section 101(c) of that act or authorize electronic delivery of any of the notices described in section 103(b) of that act.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2459.SL.pdf?cite=2008%20c%2057%20§%207[2008 c 57 § 7]; ]
 
-== 65.24.900 - Short title.
-This chapter may be known and cited as the uniform real property electronic recording act.
+== 65.24.060 - Uniform recording standards—Rule-making authority.
+. The secretary of state, as chief archivist, shall make reasonable rules in accordance with federal and state laws, to provide for the uniform recording of documents in cooperation with the commission established in this chapter.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2459.SL.pdf?cite=2008%20c%2057%20§%201[2008 c 57 § 1]; ]
+. In addition to the rule-making authority granted otherwise by this section, the secretary of state may make rules governing the following:
+
+.. Recording duties of county recorders and county auditors;
+
+.. Recording standards for the creation of certified copies for use as evidence;
+
+.. Recording standards for documents related to eminent domain;
+
+.. Recording standards for documents related to community property;
+
+.. Recording standards for documents related to unfit dwellings, buildings, and structures;
+
+.. Recording standards for court summons served and court judgments;
+
+.. Recording standards for documents related to military discharge;
+
+.. Recording standards for documents related to boundaries and plats not otherwise under the rule-making authority of another state agency;
+
+.. Recording standards for documents related to liens;
+
+.. Recording standards for documents related to mortgages, deeds of trust, and real estate contracts;
+
+.. Recording standards for documents related to the uniform commercial code;
+
+.. Recording standards for documents related to real property and conveyances;
+
+.. Standards to be used in recording, registration, and legal publication under this chapter;
+
+.. Recording standards for documents related to cemetery property;
+
+.. Standards for fee waivers including but not limited to documents for veterans, and support of dependent children;
+
+.. Recording standards for documents related to mines, minerals, and petroleum;
+
+.. Recording standards for documents related to public lands, including tidelands, and shorelines;
+
+.. Recording standards for documents related to excise tax on real estate;
+
+.. Recording standards for documents related to property tax;
+
+.. Recording standards for documents prepared in foreign countries; and
+
+.. Recording standards for documents not identified in (a) through (t) of this subsection.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5019.SL.pdf?cite=2021%20c%20137%20§%204[2021 c 137 § 4]; ]
 
 == 65.24.901 - Application—Construction.
 In applying and construing this chapter, consideration must be given to the need to promote uniformity of the law with respect to its subject matter among states that enact a uniform real property electronic recording act.

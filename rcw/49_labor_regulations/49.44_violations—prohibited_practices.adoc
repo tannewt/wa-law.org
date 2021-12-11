@@ -182,9 +182,11 @@ It shall be unlawful for any person, firm, corporation, or the state of Washingt
 
 .. Prohibit an employer from requesting or requiring an employee to disclose login information for access to: (i) An account or service provided by virtue of the employee's employment relationship with the employer; or (ii) an electronic communications device or online account paid for or supplied by the employer;
 
-.. Prohibit an employer from enforcing existing personnel policies that do not conflict with this section; or
+.. Prohibit an employer from enforcing existing personnel policies that do not conflict with this section;
 
-.. Prevent an employer from complying with the requirements of state or federal statutes, rules or regulations, case law, or rules of self-regulatory organizations.
+.. Prevent an employer from complying with the requirements of state or federal statutes, rules or regulations, case law, or rules of self-regulatory organizations; or
+
+.. Apply to a background investigation in accordance with RCW 43.101.095. However, the officer must not be required to provide login information.
 
 . If, through the use of an employer-provided electronic communications device or an electronic device or program that monitors an employer's network, an employer inadvertently receives an employee's login information, the employer is not liable for possessing the information but may not use the login information to access the employee's personal social networking account.
 
@@ -200,7 +202,7 @@ It shall be unlawful for any person, firm, corporation, or the state of Washingt
 
 .. "Login information" means a user name and password, a password, or other means of authentication that protects access to a personal social networking account.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5211-S.SL.pdf?cite=2013%20c%20330%20§%201[2013 c 330 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5051-S2.SL.pdf?cite=2021%20c%20323%20§%2024[2021 c 323 § 24]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5211-S.SL.pdf?cite=2013%20c%20330%20§%201[2013 c 330 § 1]; ]
 
 == 49.44.205 - Violations of RCW  49.44.200—Civil action—Remedies.
 An employee or applicant aggrieved by a violation of RCW 49.44.200 may bring a civil action in a court of competent jurisdiction. The court may:

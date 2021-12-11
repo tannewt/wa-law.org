@@ -131,7 +131,7 @@ Any person who is damaged by any act prohibited in RCW 9.91.150 may bring a civi
 
 .. "Personal protection spray device" means a commercially available dispensing device designed and intended for use in self-defense and containing a nonlethal sternutator or lacrimator agent, including but not limited to:
 
-... Tear gas, the active ingredient of which is either chloracetophenone (CN) or O-chlorobenzylidene malonotrile (CS); or
+... Tear gas, the active ingredient of which is either chloroacetophenone (CN) or O-chlorobenzylidene malononitrile (CS); or
 
 ... Other agent commonly known as mace, pepper mace, or pepper gas.
 

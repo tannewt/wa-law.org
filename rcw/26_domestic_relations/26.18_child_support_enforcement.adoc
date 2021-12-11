@@ -9,37 +9,39 @@ The legislature finds that there is an urgent need for vigorous enforcement of c
 == 26.18.020 - Definitions.
 Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
 
+. "Department" means the department of social and health services.
+
 . "Dependent child" means any child for whom a support order has been established or for whom a duty of support is owed.
+
+. "Disposable earnings" means that part of the earnings of an individual remaining after the deduction from those earnings of any amount required by law to be withheld.
 
 . "Duty of maintenance" means the duty to provide for the needs of a spouse or former spouse or domestic partner or former domestic partner imposed under chapter 26.09 RCW.
 
 . "Duty of support" means the duty to provide for the needs of a dependent child, which may include necessary food, clothing, shelter, education, and health care. The duty includes any obligation to make monetary payments, to pay expenses, including maintenance in cases in which there is a dependent child, or to reimburse another person or an agency for the cost of necessary support furnished a dependent child. The duty may be imposed by court order, by operation of law, or otherwise.
 
+. "Earnings" means compensation paid or payable for personal services or remuneration for employment, whether denominated as wages, salary, commission, bonus, or otherwise, and, notwithstanding any other provision of law making the payments exempt from garnishment, attachment, or other process to satisfy support or maintenance obligations, specifically includes periodic payments pursuant to pension or retirement programs, or insurance policies of any type, but does not include payments made under Title 50 RCW, except as provided in RCW 50.40.020 and 50.40.050, or Title 74 RCW.
+
+. "Employer" includes the United States government, a state or local unit of government, and any person or entity who pays or owes earnings or remuneration for employment to the obligor.
+
+. "Health care coverage" means fee for service, health maintenance organization, preferred provider organization, and other types of private health insurance and public health care coverage under which medical services could be provided to a dependent child or children. The term "health care coverage" includes, but is not limited to, health insurance coverage.
+
+. "Health insurance coverage" is another term for, and included in the definition of, "health care coverage." Health insurance coverage includes any coverage under which medical services are provided by an employer or a union whether that coverage is provided through a self-insurance program, under the employee retirement income security act of 1974, a commercial insurer pursuant to chapters 48.20 and 48.21 RCW, a health care service contractor pursuant to chapter 48.44 RCW, or a health maintenance organization pursuant to chapter 48.46 RCW, and the state through chapter 41.05 RCW.
+
+. "Income withholding order" means an order regarding withholding of income of amounts payable as a support obligation that complies with the requirements in 42 U.S.C. Sec. 666.
+
+. "Insurer" means a commercial insurance company providing disability insurance under chapter 48.20 or 48.21 RCW, a health care service contractor providing health care coverage under chapter 48.44 RCW, a health maintenance organization providing comprehensive health care services under chapter 48.46 RCW, and shall also include any employer or union which is providing health insurance coverage on a self-insured basis.
+
 . "Obligee" means the custodian of a dependent child, the spouse or former spouse or domestic partner or former domestic partner, or person or agency, to whom a duty of support or duty of maintenance is owed, or the person or agency to whom the right to receive or collect support or maintenance has been assigned.
 
 . "Obligor" means the person owing a duty of support or duty of maintenance.
 
-. "Support or maintenance order" means any judgment, decree, or order of support or maintenance issued by the superior court or authorized agency of the state of Washington; or a judgment, decree, or other order of support or maintenance issued by a court or agency of competent jurisdiction in another state or country, which has been registered or otherwise made enforceable in this state.
-
-. "Employer" includes the United States government, a state or local unit of government, and any person or entity who pays or owes earnings or remuneration for employment to the obligor.
-
-. "Earnings" means compensation paid or payable for personal services or remuneration for employment, whether denominated as wages, salary, commission, bonus, or otherwise, and, notwithstanding any other provision of law making the payments exempt from garnishment, attachment, or other process to satisfy support or maintenance obligations, specifically includes periodic payments pursuant to pension or retirement programs, or insurance policies of any type, but does not include payments made under Title 50 RCW, except as provided in RCW 50.40.020 and 50.40.050, or Title 74 RCW.
-
-. "Disposable earnings" means that part of the earnings of an individual remaining after the deduction from those earnings of any amount required by law to be withheld.
-
-. "Department" means the department of social and health services.
-
-. "Health insurance coverage" is another term for, and included in the definition of, "health care coverage." Health insurance coverage includes any coverage under which medical services are provided by an employer or a union whether that coverage is provided through a self-insurance program, under the employee retirement income security act of 1974, a commercial insurer pursuant to chapters 48.20 and 48.21 RCW, a health care service contractor pursuant to chapter 48.44 RCW, or a health maintenance organization pursuant to chapter 48.46 RCW, and the state through chapter 41.05 RCW.
-
-. "Insurer" means a commercial insurance company providing disability insurance under chapter 48.20 or 48.21 RCW, a health care service contractor providing health care coverage under chapter 48.44 RCW, a health maintenance organization providing comprehensive health care services under chapter 48.46 RCW, and shall also include any employer or union which is providing health insurance coverage on a self-insured basis.
+. "Public health care coverage," sometimes called "state purchased health care," means state-financed or federally financed medical coverage, whether or not there is an assignment of rights. For children residing in Washington state, this includes coverage through the department of social and health services or the health care authority, except for coverage under chapter 41.05 RCW; for children residing outside of Washington, this includes coverage through another state's agencies that administer state purchased health care programs.
 
 . "Remuneration for employment" means moneys due from or payable by the United States to an individual within the scope of 42 U.S.C. Sec. 659 and 42 U.S.C. Sec. 662(f).
 
-. "Health care coverage" means fee for service, health maintenance organization, preferred provider organization, and other types of private health insurance and public health care coverage under which medical services could be provided to a dependent child or children. The term "health care coverage" includes, but is not limited to, health insurance coverage.
+. "Support or maintenance order" means any judgment, decree, or order of support or maintenance issued by the superior court or authorized agency of the state of Washington; or a judgment, decree, or other order of support or maintenance issued by a court or agency of competent jurisdiction in another state or country, which has been registered or otherwise made enforceable in this state.
 
-. "Public health care coverage," sometimes called "state purchased health care," means state-financed or federally financed medical coverage, whether or not there is an assignment of rights. For children residing in Washington state, this includes coverage through the department of social and health services or the health care authority, except for coverage under chapter 41.05 RCW; for children residing outside of Washington, this includes coverage through another state's agencies that administer state purchased health care programs.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6334-S.SL.pdf?cite=2018%20c%20150%20§%20102[2018 c 150 § 102]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%201027[2008 c 6 § 1027]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1760-S.SL.pdf?cite=1993%20c%20426%20§%202[1993 c 426 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c416.pdf?cite=1989%20c%20416%20§%202[1989 c 416 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c435.pdf?cite=1987%20c%20435%20§%2017[1987 c 435 § 17]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c260.pdf?cite=1984%20c%20260%20§%202[1984 c 260 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1171-S.SL.pdf?cite=2021%20c%2035%20§%205[2021 c 35 § 5]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6334-S.SL.pdf?cite=2018%20c%20150%20§%20102[2018 c 150 § 102]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%201027[2008 c 6 § 1027]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1760-S.SL.pdf?cite=1993%20c%20426%20§%202[1993 c 426 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c416.pdf?cite=1989%20c%20416%20§%202[1989 c 416 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c435.pdf?cite=1987%20c%20435%20§%2017[1987 c 435 § 17]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c260.pdf?cite=1984%20c%20260%20§%202[1984 c 260 § 2]; ]
 
 == 26.18.030 - Application—Liberal construction.
 . The remedies provided in this chapter are in addition to, and not in substitution for, any other remedies provided by law.
@@ -113,187 +115,64 @@ Child support debts, not paid when due, become liens by operation of law against
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%201031[2008 c 6 § 1031]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2488-S.SL.pdf?cite=1994%20c%20230%20§%203[1994 c 230 § 3]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1760-S.SL.pdf?cite=1993%20c%20426%20§%206[1993 c 426 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c435.pdf?cite=1987%20c%20435%20§%2018[1987 c 435 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c260.pdf?cite=1984%20c%20260%20§%207[1984 c 260 § 7]; ]
 
-== 26.18.080 - Wage assignment order—Issuance—Information transmitted to state support registry.
-. Upon receipt of a petition or motion seeking a mandatory wage assignment that complies with RCW 26.18.070, the court shall issue a wage assignment order, as provided in RCW 26.18.100 and including the information required in RCW 26.18.090(1), directed to the employer, and commanding the employer to answer the order on the forms served with the order that comply with RCW 26.18.120 within twenty days after service of the order upon the employer.
+== 26.18.080 - Wage assignment order or income withholding order—Issuance—Information transmitted to state support registry.
+. Upon receipt of a petition or motion seeking a mandatory wage assignment that complies with RCW 26.18.070, the court shall issue: (a) A wage assignment order for unpaid maintenance; (b) an income withholding order for unpaid child support; or (c) an income withholding order for unpaid maintenance and unpaid child support, including the information required in RCW 26.18.090, directed to the employer, and commanding the employer to answer the order on the forms served with the order that comply with RCW 26.18.120 within twenty days after service of the order upon the employer.
 
-. The clerk of the court shall forward a copy of the mandatory wage assignment order, a true and correct copy of the support orders in the court file, and a statement containing the obligee's address and social security number shall be forwarded to the Washington state support registry within five days of the entry of the order.
+. The clerk of the court shall forward a copy of the mandatory wage assignment or income withholding order, a true and correct copy of the support orders in the court file, and a statement containing the obligee's address and social security number shall be forwarded to the Washington state support registry within five days of the entry of the order.
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c435.pdf?cite=1987%20c%20435%20§%2019[1987 c 435 § 19]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c260.pdf?cite=1984%20c%20260%20§%208[1984 c 260 § 8]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1171-S.SL.pdf?cite=2021%20c%2035%20§%206[2021 c 35 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c435.pdf?cite=1987%20c%20435%20§%2019[1987 c 435 § 19]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c260.pdf?cite=1984%20c%20260%20§%208[1984 c 260 § 8]; ]
 
-== 26.18.090 - Wage assignment order—Contents—Amounts—Apportionment of disbursements.
-. The wage assignment order in RCW 26.18.080 shall include:
+== 26.18.090 - Wage assignment order for unpaid maintenance—Contents—Amounts—Apportionment of disbursements.
+. The wage assignment order in RCW 26.18.080 for unpaid maintenance only shall include:
 
-.. The maximum amount of current support or maintenance, if any, to be withheld from the obligor's earnings each month, or from each earnings disbursement; and
+.. The maximum amount of current maintenance, if any, to be withheld from the obligor's earnings each month, or from each earnings disbursement; and
 
 .. The total amount of the arrearage or reimbursement judgment previously entered by the court, if any, together with interest, if any.
 
-. The total amount to be withheld from the obligor's earnings each month, or from each earnings disbursement, shall not exceed fifty percent of the disposable earnings of the obligor. If the amounts to be paid toward the arrearage are specified in the support or maintenance order, then the maximum amount to be withheld is the sum of: Either the current support or maintenance ordered, or both; and the amount ordered to be paid toward the arrearage, or fifty percent of the disposable earnings of the obligor, whichever is less.
+. The total amount to be withheld from the obligor's earnings each month, or from each earnings disbursement, shall not exceed fifty percent of the disposable earnings of the obligor. If the amounts to be paid toward the arrearage are specified in the maintenance order, then the maximum amount to be withheld is the sum of: Either the current support or maintenance ordered, or both; and the amount ordered to be paid toward the arrearage, or fifty percent of the disposable earnings of the obligor, whichever is less.
 
-. The provisions of RCW 6.27.150 do not apply to wage assignments for child support or maintenance authorized under this chapter, but fifty percent of the disposable earnings of the obligor are exempt, and may be disbursed to the obligor.
-
-. If an obligor is subject to two or more attachments for child support on account of different obligees, the employer shall, if the nonexempt portion of the obligor's earnings is not sufficient to respond fully to all the attachments, apportion the obligor's nonexempt disposable earnings between or among the various obligees equally. Any obligee may seek a court order reapportioning the obligor's nonexempt disposable earnings upon notice to all interested obligees. Notice shall be by personal service, or in the manner provided by the civil rules of superior court or applicable statute.
+. The provisions of RCW 6.27.150 do not apply to wage assignments for maintenance authorized under this chapter, but fifty percent of the disposable earnings of the obligor are exempt, and may be disbursed to the obligor.
 
 . If an obligor is subject to two or more attachments for maintenance on account of different obligees, the employer shall, if the nonexempt portion of the obligor's earnings is not sufficient to respond fully to all the attachments, apportion the obligor's nonexempt disposable earnings between or among the various obligees equally. An obligee may seek a court order reapportioning the obligor's nonexempt disposable earnings upon notice to all interested obligees. Notice shall be by personal service, or in the manner provided by the civil rules of superior court or applicable statute.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%201032[2008 c 6 § 1032]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1760-S.SL.pdf?cite=1993%20c%20426%20§%207[1993 c 426 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c260.pdf?cite=1984%20c%20260%20§%209[1984 c 260 § 9]; ]
+. An income withholding order for unpaid child support or unpaid child support and unpaid maintenance shall meet federal requirements in 42 U.S.C. Sec. 666.
 
-== 26.18.100 - Wage assignment order—Form.
-The wage assignment order shall be substantially in the following form:
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1171-S.SL.pdf?cite=2021%20c%2035%20§%207[2021 c 35 § 7]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%201032[2008 c 6 § 1032]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1760-S.SL.pdf?cite=1993%20c%20426%20§%207[1993 c 426 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c260.pdf?cite=1984%20c%20260%20§%209[1984 c 260 § 9]; ]
 
-IN THE SUPERIOR COURT OF THESTATE OF WASHINGTON IN AND FOR THECOUNTY OF  . . . . . . . . .. . . . . . . . . . . . , ObligeeNo.  . . . . vs.  . . . . . . . . . . . . ,WAGE ASSIGNMENTObligorORDER. . . . . . . . . . . . , Employer THE STATE OF WASHINGTON TO: . . . . EmployerAND TO: . . . .Obligor
+== 26.18.110 - Wage assignment order or income withholding order—Employer's answer, duties, and liability—Priorities.
+. An employer upon whom service of a wage assignment order or income withholding order has been made shall answer the order by sworn affidavit within twenty days after the date of service. The answer shall state whether the obligor is employed by or receives earnings or other remuneration from the employer, whether the employer will honor the wage assignment order or income withholding order, and whether there are either multiple child support or maintenance attachments, or both, against the obligor.
 
-IN THE SUPERIOR COURT OF THE
-
-STATE OF WASHINGTON IN AND FOR THE
-
-COUNTY OF  . . . . . . . . .
-
-. . . . . . . . . . . . ,
-
- 
-
-Obligee
-
-No.  . . . .
-
- 
-
-vs.
-
- 
-
- 
-
-. . . . . . . . . . . . ,
-
-WAGE ASSIGNMENT
-
-Obligor
-
-ORDER
-
-. . . . . . . . . . . . ,
-
- 
-
-Employer
-
- 
-
-THE STATE OF WASHINGTON TO: . . . .
-
- 
-
-Employer
-
-AND TO: . . . .
-
-Obligor
-
-The above-named obligee claims that the above-named obligor is subject to a support order requiring immediate income withholding or is more than fifteen days past due in either child support or maintenance payments, or both, in an amount equal to or greater than the child support or maintenance payable for one month. The amount of the accrued child support or maintenance debt as of this date is . . . . . . dollars, the amount of arrearage payments specified in the support or maintenance order (if applicable) is . . . . . . dollars per . . . . . ., and the amount of the current and continuing support or maintenance obligation under the order is . . . . . . dollars per . . . . . .
-
-You are hereby commanded to answer this order by filling in the attached form according to the instructions, and you must mail or deliver the original of the answer to the court, one copy to the Washington state support registry, one copy to the obligee or obligee's attorney, and one copy to the obligor within twenty days after service of this wage assignment order upon you.
-
-If you possess any earnings or other remuneration for employment due and owing to the obligor, then you shall do as follows:
-
-. Withhold from the obligor's earnings or remuneration each month, or from each regular earnings disbursement, the lesser of:
-
-.. The sum of the accrued support or maintenance debt and the current support or maintenance obligation;
-
-.. The sum of the specified arrearage payment amount and the current support or maintenance obligation; or
-
-.. Fifty percent of the disposable earnings or remuneration of the obligor.
-
-. The total amount withheld above is subject to the wage assignment order, and all other sums may be disbursed to the obligor.
-
-. Upon receipt of this wage assignment order you shall make immediate deductions from the obligor's earnings or remuneration and remit to the Washington state support registry or other address specified below the proper amounts within five working days of each regular pay interval.
-
-You shall continue to withhold the ordered amounts from nonexempt earnings or remuneration of the obligor until notified by:
-
-.. The court that the wage assignment has been modified or terminated; or
-
-.. The addressee specified in the wage assignment order under this section that the accrued child support or maintenance debt has been paid.
-
-You shall promptly notify the court and the addressee specified in the wage assignment order under this section if and when the employee is no longer employed by you, or if the obligor no longer receives earnings or remuneration from you. If you no longer employ the employee, the wage assignment order shall remain in effect until you are no longer in possession of any earnings or remuneration owed to the employee.
-
-You shall deliver the withheld earnings or remuneration to the Washington state support registry or other address stated below within five working days of each regular pay interval.
-
-You shall deliver a copy of this order to the obligor as soon as is reasonably possible. This wage assignment order has priority over any other wage assignment or garnishment, except for another wage assignment or garnishment for child support or maintenance, or order to withhold or deliver under chapter 74.20A RCW.
-
-WHETHER OR NOT YOU OWE ANYTHING TO THE OBLIGOR, YOUR FAILURE TO ANSWER AS REQUIRED MAY MAKE YOU LIABLE FOR THE AMOUNT OF SUPPORT MONEYS THAT SHOULD HAVE BEEN WITHHELD FROM THE OBLIGOR'S EARNINGS OR SUBJECT TO CONTEMPT OF COURT.
-
-NOTICE TO OBLIGOR: YOU HAVE A RIGHT TO REQUEST A HEARING IN THE SUPERIOR COURT THAT ISSUED THIS WAGE ASSIGNMENT ORDER, TO REQUEST THAT THE COURT QUASH, MODIFY, OR TERMINATE THE WAGE ASSIGNMENT ORDER. REGARDLESS OF THE FACT THAT YOUR WAGES ARE BEING WITHHELD PURSUANT TO THIS ORDER, YOU MAY HAVE SUSPENDED OR NOT RENEWED A PROFESSIONAL, DRIVER'S, OR OTHER LICENSE IF YOU ACCRUE CHILD SUPPORT ARREARAGES TOTALING MORE THAN SIX MONTHS OF CHILD SUPPORT PAYMENTS OR FAIL TO MAKE PAYMENTS TOWARDS A SUPPORT ARREARAGE IN AN AMOUNT THAT EXCEEDS SIX MONTHS OF PAYMENTS.
-
-DATED THIS . . . . day of . . . ., (year) . . . .
-
-. . . .. . . .Obligee,or obligee's attorneyJudge/Court CommissionerSend withheld payments to:  . . . . . . . . . . . . . . . .
-
-. . . .
-
-. . . .
-
-Obligee,
-
-or obligee's attorney
-
-Judge/Court Commissioner
-
-Send withheld payments to:
-
- 
-
- 
-
-. . . .
-
- 
-
-. . . .
-
- 
-
-. . . .
-
- 
-
-. . . .
-
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2359-S.SL.pdf?cite=2016%20c%20202%20§%2024[2016 c 202 § 24]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%201033[2008 c 6 § 1033]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2732.SL.pdf?cite=1998%20c%2077%20§%201[1998 c 77 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1687-S2.SL.pdf?cite=1997%20c%20296%20§%2010[1997 c 296 § 10]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/3901.SL.pdf?cite=1997%20c%2058%20§%20889[1997 c 58 § 889]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2488-S.SL.pdf?cite=1994%20c%20230%20§%204[1994 c 230 § 4]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1760-S.SL.pdf?cite=1993%20c%20426%20§%208[1993 c 426 § 8]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5120-S2.SL.pdf?cite=1991%20c%20367%20§%2020[1991 c 367 § 20]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c416.pdf?cite=1989%20c%20416%20§%2010[1989 c 416 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c435.pdf?cite=1987%20c%20435%20§%2020[1987 c 435 § 20]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c260.pdf?cite=1984%20c%20260%20§%2010[1984 c 260 § 10]; ]
-
-== 26.18.110 - Wage assignment order—Employer's answer, duties, and liability—Priorities.
-. An employer upon whom service of a wage assignment order has been made shall answer the order by sworn affidavit within twenty days after the date of service. The answer shall state whether the obligor is employed by or receives earnings or other remuneration from the employer, whether the employer will honor the wage assignment order, and whether there are either multiple child support or maintenance attachments, or both, against the obligor.
-
-. If the employer possesses any earnings or remuneration due and owing to the obligor, the earnings subject to the wage assignment order shall be withheld immediately upon receipt of the wage assignment order. The withheld earnings shall be delivered to the Washington state support registry or, if the wage assignment order is to satisfy a duty of maintenance, to the addressee specified in the assignment within five working days of each regular pay interval.
+. If the employer possesses any earnings or remuneration due and owing to the obligor, the earnings subject to the wage assignment order or income withholding order shall be withheld immediately upon receipt of the wage assignment order or income withholding order. The withheld earnings shall be delivered to the Washington state support registry or, if the wage assignment order is to satisfy a duty of maintenance, to the addressee specified in the assignment within five working days of each regular pay interval.
 
 . The employer shall continue to withhold the ordered amounts from nonexempt earnings or remuneration of the obligor until notified by:
 
 .. The court that the wage assignment has been modified or terminated; or
 
-.. The Washington state support registry or obligee that the accrued child support or maintenance debt has been paid, provided the wage assignment order contains the language set forth under RCW 26.18.100(3)(b). The employer shall promptly notify the addressee specified in the assignment when the employee is no longer employed. If the employer no longer employs the employee, the wage assignment order shall remain in effect for one year after the employee has left the employment or the employer has been in possession of any earnings or remuneration owed to the employee, whichever is later. The employer shall continue to hold the wage assignment order during that period. If the employee returns to the employer's employment during the one-year period the employer shall immediately begin to withhold the employee's earnings or remuneration according to the terms of the wage assignment order. If the employee has not returned within one year, the wage assignment shall cease to have effect at the expiration of the one-year period, unless the employer continues to owe remuneration for employment to the obligor.
+.. In the case of an income withholding order, the Washington state support registry that the accrued child support or maintenance debt has been paid. The employer shall promptly notify the addressee specified in the assignment when the employee is no longer employed. If the employer no longer employs the employee, the wage assignment order shall remain in effect for one year after the employee has left the employment or the employer has been in possession of any earnings or remuneration owed to the employee, whichever is later. The employer shall continue to hold the wage assignment order during that period. If the employee returns to the employer's employment during the one-year period the employer shall immediately begin to withhold the employee's earnings or remuneration according to the terms of the wage assignment order. If the employee has not returned within one year, the wage assignment shall cease to have effect at the expiration of the one-year period, unless the employer continues to owe remuneration for employment to the obligor.
 
-. The employer may deduct a processing fee from the remainder of the employee's earnings after withholding under the wage assignment order, even if the remainder is exempt under RCW 26.18.090. The processing fee may not exceed (a) ten dollars for the first disbursement made by the employer to the Washington state support registry; and (b) one dollar for each subsequent disbursement to the clerk.
+. The employer may deduct a processing fee from the remainder of the employee's earnings after withholding under the wage assignment order or income withholding order, even if the remainder is exempt under RCW 26.18.090. The processing fee may not exceed (a) ten dollars for the first disbursement made by the employer to the Washington state support registry; and (b) one dollar for each subsequent disbursement to the clerk.
 
-. An order for wage assignment for support for a dependent child entered under this chapter shall have priority over any other wage assignment or garnishment, except for another wage assignment or garnishment for child support, or order to withhold and deliver under chapter 74.20A RCW. An order for wage assignment for spousal maintenance entered under this chapter shall have priority over any other wage assignment or garnishment, except for a wage assignment, garnishment, or order to withhold and deliver under chapter 74.20A RCW for support of a dependent child, and except for another wage assignment or garnishment for maintenance.
+. An income withholding order for support for a dependent child entered under this chapter shall have priority over any other wage assignment or garnishment, except for another wage assignment or garnishment for child support, or order to withhold and deliver under chapter 74.20A RCW. An order for wage assignment for spousal maintenance entered under this chapter shall have priority over any other wage assignment or garnishment, except for a wage assignment, garnishment, or order to withhold and deliver under chapter 74.20A RCW for support of a dependent child, and except for another wage assignment or garnishment for maintenance.
 
-. An employer who fails to withhold earnings as required by a wage assignment issued under this chapter may be held liable to the obligee for one hundred percent of the support or maintenance debt, or the amount of support or maintenance moneys that should have been withheld from the employee's earnings whichever is the lesser amount, if the employer:
+. An employer who fails to withhold earnings as required by a wage assignment order or income withholding order issued under this chapter may be held liable to the obligee for one hundred percent of the support or maintenance debt, or the amount of support or maintenance moneys that should have been withheld from the employee's earnings whichever is the lesser amount, if the employer:
 
-.. Fails or refuses, after being served with a wage assignment order, to deduct and promptly remit from the unpaid earnings the amounts of money required in the order;
+.. Fails or refuses, after being served with a wage assignment order or income withholding order, to deduct and promptly remit from the unpaid earnings the amounts of money required in the order;
 
-.. Fails or refuses to submit an answer to the notice of wage assignment after being served; or
+.. Fails or refuses to submit an answer to the notice of wage assignment or income withholding after being served; or
 
 .. Is unwilling to comply with the other requirements of this section.
 
 Liability may be established in superior court. Awards in superior court shall include costs, interest under RCW 19.52.020 and 4.56.110, and reasonable attorneys' fees.
 
-. No employer who complies with a wage assignment issued under this chapter may be liable to the employee for wrongful withholding.
+. No employer who complies with a wage assignment order or income withholding order issued under this chapter may be liable to the employee for wrongful withholding.
 
-. No employer may discharge, discipline, or refuse to hire an employee because of the entry or service of a wage assignment issued and executed under this chapter. If an employer discharges, disciplines, or refuses to hire an employee in violation of this section, the employee or person shall have a cause of action against the employer. The employer shall be liable for double the amount of damages suffered as a result of the violation and for costs and reasonable attorneys' fees, and shall be subject to a civil penalty of not more than two thousand five hundred dollars for each violation. The employer may also be ordered to hire, rehire, or reinstate the aggrieved individual.
+. No employer may discharge, discipline, or refuse to hire an employee because of the entry or service of a wage assignment or income withholding order issued and executed under this chapter. If an employer discharges, disciplines, or refuses to hire an employee in violation of this section, the employee or person shall have a cause of action against the employer. The employer shall be liable for double the amount of damages suffered as a result of the violation and for costs and reasonable attorneys' fees, and shall be subject to a civil penalty of not more than two thousand five hundred dollars for each violation. The employer may also be ordered to hire, rehire, or reinstate the aggrieved individual.
 
-. For wage assignments payable to the Washington state support registry, an employer may combine amounts withheld from various employees into a single payment to the Washington state support registry, if the payment includes a listing of the amounts attributable to each employee and other information as required by the registry.
+. For wage assignments or income withholding payable to the Washington state support registry, an employer may combine amounts withheld from various employees into a single payment to the Washington state support registry, if the payment includes a listing of the amounts attributable to each employee and other information as required by the registry.
 
-. An employer shall deliver a copy of the wage assignment order to the obligor as soon as is reasonably possible.
+. An employer shall deliver a copy of the wage assignment order or income withholding order to the obligor as soon as is reasonably possible.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%201034[2008 c 6 § 1034]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2732.SL.pdf?cite=1998%20c%2077%20§%202[1998 c 77 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2488-S.SL.pdf?cite=1994%20c%20230%20§%205[1994 c 230 § 5]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1760-S.SL.pdf?cite=1993%20c%20426%20§%209[1993 c 426 § 9]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5120-S2.SL.pdf?cite=1991%20c%20367%20§%2021[1991 c 367 § 21]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c416.pdf?cite=1989%20c%20416%20§%2011[1989 c 416 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c435.pdf?cite=1987%20c%20435%20§%2021[1987 c 435 § 21]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c260.pdf?cite=1984%20c%20260%20§%2011[1984 c 260 § 11]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1171-S.SL.pdf?cite=2021%20c%2035%20§%209[2021 c 35 § 9]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%201034[2008 c 6 § 1034]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2732.SL.pdf?cite=1998%20c%2077%20§%202[1998 c 77 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2488-S.SL.pdf?cite=1994%20c%20230%20§%205[1994 c 230 § 5]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1760-S.SL.pdf?cite=1993%20c%20426%20§%209[1993 c 426 § 9]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5120-S2.SL.pdf?cite=1991%20c%20367%20§%2021[1991 c 367 § 21]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c416.pdf?cite=1989%20c%20416%20§%2011[1989 c 416 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c435.pdf?cite=1987%20c%20435%20§%2021[1987 c 435 § 21]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c260.pdf?cite=1984%20c%20260%20§%2011[1984 c 260 § 11]; ]
 
 == 26.18.120 - Wage assignment order—Employer's answer—Form.
 The answer of the employer shall be made on forms, served on the employer with the wage assignment order, substantially as follows:
@@ -382,19 +261,19 @@ Connection with employer
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%201035[2008 c 6 § 1035]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1760-S.SL.pdf?cite=1993%20c%20426%20§%2010[1993 c 426 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c260.pdf?cite=1984%20c%20260%20§%2012[1984 c 260 § 12]; ]
 
-== 26.18.130 - Wage assignment order—Service.
-. Service of the wage assignment order on the employer is invalid unless it is served with five answer forms in substantial conformance with RCW 26.18.120, together with stamped envelopes addressed to, respectively, the clerk of the court where the order was issued, the Washington state support registry, the obligee's attorney or the obligee, and the obligor. The obligee shall also include an extra copy of the wage assignment order for the employer to deliver to the obligor. Service on the employer shall be in person or by any form of mail requiring a return receipt.
+== 26.18.130 - Wage assignment order or income withholding order—Service.
+. Service of the wage assignment order or income withholding order on the employer is invalid unless it is served with five answer forms in substantial conformance with RCW 26.18.120, together with stamped envelopes addressed to, respectively, the clerk of the court where the order was issued, the Washington state support registry, the obligee's attorney or the obligee, and the obligor. The obligee shall also include an extra copy of the wage assignment order or income withholding order for the employer to deliver to the obligor. Service on the employer shall be in person or by any form of mail requiring a return receipt.
 
-. On or before the date of service of the wage assignment order on the employer, the obligee shall mail or cause to be mailed by certified mail a copy of the wage assignment order to the obligor at the obligor's last known post office address; or, in the alternative, a copy of the wage assignment order shall be served on the obligor in the same manner as a summons in a civil action on, before, or within two days after the date of service of the order on the employer. This requirement is not jurisdictional, but if the copy is not mailed or served as this subsection provides, or if any irregularity appears with respect to the mailing or service, the superior court, in its discretion, may quash the wage assignment order, upon motion of the obligor promptly made and supported by an affidavit showing that the obligor has suffered substantial injury due to the failure to mail or serve the copy.
+. On or before the date of service of the wage assignment order or income withholding order on the employer, the obligee shall mail or cause to be mailed by certified mail a copy of the wage assignment order or income withholding order to the obligor at the obligor's last known post office address; or, in the alternative, a copy of the wage assignment order or income withholding order shall be served on the obligor in the same manner as a summons in a civil action on, before, or within two days after the date of service of the order on the employer. This requirement is not jurisdictional, but if the copy is not mailed or served as this subsection provides, or if any irregularity appears with respect to the mailing or service, the superior court, in its discretion, may quash the wage assignment order or income withholding order, upon motion of the obligor promptly made and supported by an affidavit showing that the obligor has suffered substantial injury due to the failure to mail or serve the copy.
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c435.pdf?cite=1987%20c%20435%20§%2022[1987 c 435 § 22]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c260.pdf?cite=1984%20c%20260%20§%2013[1984 c 260 § 13]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1171-S.SL.pdf?cite=2021%20c%2035%20§%2010[2021 c 35 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c435.pdf?cite=1987%20c%20435%20§%2022[1987 c 435 § 22]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c260.pdf?cite=1984%20c%20260%20§%2013[1984 c 260 § 13]; ]
 
-== 26.18.140 - Hearing to quash, modify, or terminate wage assignment order—Grounds—Alternate payment plan.
-. Except as provided in subsection (2) of this section, in a hearing to quash, modify, or terminate the wage assignment order, the court may grant relief only upon a showing that the wage assignment order causes extreme hardship or substantial injustice. Satisfaction by the obligor of all past due payments subsequent to the issuance of the wage assignment order is not grounds to quash, modify, or terminate the wage assignment order. If a wage assignment order has been in operation for twelve consecutive months and the obligor's support or maintenance obligation is current, the court may terminate the order upon motion of the obligor unless the obligee can show good cause as to why the wage assignment order should remain in effect.
+== 26.18.140 - Hearing to quash, modify, or terminate wage assignment order or income withholding order—Grounds—Alternate payment plan.
+. Except as provided in subsection (2) of this section, in a hearing to quash, modify, or terminate the wage assignment order or income withholding order, the court may grant relief only upon a showing that the wage assignment order or income withholding order causes extreme hardship or substantial injustice. Satisfaction by the obligor of all past due payments subsequent to the issuance of the wage assignment order or income withholding order is not grounds to quash, modify, or terminate the wage assignment order or income withholding order. If a wage assignment order or income withholding order has been in operation for twelve consecutive months and the obligor's support or maintenance obligation is current, the court may terminate the order upon motion of the obligor unless the obligee can show good cause as to why the wage assignment order or income withholding order should remain in effect.
 
-. The court may enter an order delaying, modifying, or terminating the wage assignment order and order the obligor to make payments directly to the obligee as provided in RCW 26.23.050(2).
+. The court may enter an order delaying, modifying, or terminating the wage assignment order or income withholding order and order the obligor to make payments directly to the obligee as provided in RCW 26.23.050(2).
 
-[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%201036[2008 c 6 § 1036]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2488-S.SL.pdf?cite=1994%20c%20230%20§%206[1994 c 230 § 6]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1760-S.SL.pdf?cite=1993%20c%20426%20§%2011[1993 c 426 § 11]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5120-S2.SL.pdf?cite=1991%20c%20367%20§%2022[1991 c 367 § 22]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c260.pdf?cite=1984%20c%20260%20§%2014[1984 c 260 § 14]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1171-S.SL.pdf?cite=2021%20c%2035%20§%2011[2021 c 35 § 11]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%201036[2008 c 6 § 1036]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2488-S.SL.pdf?cite=1994%20c%20230%20§%206[1994 c 230 § 6]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1760-S.SL.pdf?cite=1993%20c%20426%20§%2011[1993 c 426 § 11]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5120-S2.SL.pdf?cite=1991%20c%20367%20§%2022[1991 c 367 § 22]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c260.pdf?cite=1984%20c%20260%20§%2014[1984 c 260 § 14]; ]
 
 == 26.18.150 - Bond or other security.
 . In any action to enforce a support or maintenance order under Title 26 RCW, the court may, in its discretion, order a parent obligated to pay support for a minor child or person owing a duty of maintenance to post a bond or other security with the court. The bond or other security shall be in the amount of support or maintenance due for a two-year period. The bond or other security is subject to approval by the court. The bond shall include the name and address of the issuer. If the bond is canceled, any person issuing a bond under this section shall notify the court and the person entitled to receive payment under the order.

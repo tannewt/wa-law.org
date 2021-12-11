@@ -171,9 +171,9 @@ This chapter shall not apply to performance-based contracts, as defined in *RCW 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c169.pdf?cite=1985%20c%20169%20§%205[1985 c 169 § 5]; ]
 
 == 39.04.175 - Application of chapter to certain agreements relating to water pollution control, solid waste handling facilities.
-This chapter does not apply to the selection of persons or entities to construct or develop water pollution control facilities or to provide water pollution control services under *RCW 70.150.040 or the selection of persons or entities to construct or develop solid waste handling facilities or to provide solid waste handling services under RCW 35.21.156 or under RCW 36.58.090.
+This chapter does not apply to the selection of persons or entities to construct or develop water pollution control facilities or to provide water pollution control services under RCW 70A.140.040 or the selection of persons or entities to construct or develop solid waste handling facilities or to provide solid waste handling services under RCW 35.21.156 or under RCW 36.58.090.
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c399.pdf?cite=1989%20c%20399%20§%2011[1989 c 399 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c244.pdf?cite=1986%20c%20244%20§%2013[1986 c 244 § 13]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2026[2021 c 65 § 26]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c399.pdf?cite=1989%20c%20399%20§%2011[1989 c 399 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c244.pdf?cite=1986%20c%20244%20§%2013[1986 c 244 § 13]; ]
 
 == 39.04.180 - Trench excavations—Safety systems required.
 On public works projects in which trench excavation will exceed a depth of four feet, any contract therefor shall require adequate safety systems for the trench excavation that meet the requirements of the Washington industrial safety and health act, chapter 49.17 RCW. This requirement shall be included in the cost estimates and bidding forms as a separate item. The costs of trench safety systems shall not be considered as incidental to any other contract item and any attempt to include the trench safety systems as an incidental cost is prohibited.
@@ -439,7 +439,7 @@ The Washington state apprenticeship and training council shall lead and coordina
 
 .. If bidding on a public works project subject to the apprenticeship utilization requirements in RCW 39.04.320, not have been found out of compliance by the Washington state apprenticeship and training council for working apprentices out of ratio, without appropriate supervision, or outside their approved work processes as outlined in their standards of apprenticeship under chapter 49.04 RCW for the one-year period immediately preceding the date of the bid solicitation;
 
-.. Have received training on the requirements related to public works and prevailing wage under this chapter and chapter 39.12 RCW. The bidder must designate a person or persons to be trained on these requirements. The training must be provided by the department of labor and industries or by a training provider whose curriculum is approved by the department. The department, in consultation with the prevailing wage advisory committee, must determine the length of the training. Bidders that have completed three or more public works projects and have had a valid business license in Washington for three or more years are exempt from this subsection. The department of labor and industries must keep records of entities that have satisfied the training requirement or are exempt and make the records available on its web site. Responsible parties may rely on the records made available by the department regarding satisfaction of the training requirement or exemption; and
+.. Have received training on the requirements related to public works and prevailing wage under this chapter and chapter 39.12 RCW. The bidder must designate a person or persons to be trained on these requirements. The training must be provided by the department of labor and industries or by a training provider whose curriculum is approved by the department. The department, in consultation with the prevailing wage advisory committee, must determine the length of the training. Bidders that have completed three or more public works projects and have had a valid business license in Washington for three or more years are exempt from this subsection. The department of labor and industries must keep records of entities that have satisfied the training requirement or are exempt and make the records available on its website. Responsible parties may rely on the records made available by the department regarding satisfaction of the training requirement or exemption; and
 
 .. Within the three-year period immediately preceding the date of the bid solicitation, not have been determined by a final and binding citation and notice of assessment issued by the department of labor and industries or through a civil judgment entered by a court of limited or general jurisdiction to have willfully violated, as defined in RCW 49.48.082, any provision of chapter 49.46, 49.48, or 49.52 RCW.
 
@@ -457,7 +457,7 @@ The Washington state apprenticeship and training council shall lead and coordina
 
 .. If the bidder has a history of receiving monetary penalties for not achieving the apprentice utilization requirements pursuant to RCW 39.04.320, or is habitual in utilizing the good faith effort exception process, the bidder must submit an apprenticeship utilization plan within ten business days immediately following the notice to proceed date.
 
-. The capital projects advisory review board created in RCW 39.10.220 shall develop suggested guidelines to assist the state and municipalities in developing supplemental bidder responsibility criteria. The guidelines must be posted on the board's web site.
+. The capital projects advisory review board created in RCW 39.10.220 shall develop suggested guidelines to assist the state and municipalities in developing supplemental bidder responsibility criteria. The guidelines must be posted on the board's website.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6239.SL.pdf?cite=2020%20c%20255%20§%202[2020 c 255 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5017-S.SL.pdf?cite=2019%20c%20232%20§%2015[2019 c 232 § 15]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1673-S2.SL.pdf?cite=2018%20c%20243%20§%201[2018 c 243 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5301-S.SL.pdf?cite=2017%20c%20258%20§%202[2017 c 258 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2805.SL.pdf?cite=2010%20c%20276%20§%202[2010 c 276 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5873-S.SL.pdf?cite=2009%20c%20197%20§%202[2009 c 197 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2010-S.SL.pdf?cite=2007%20c%20133%20§%202[2007 c 133 § 2]; ]
 
@@ -482,7 +482,7 @@ No later than thirty days after satisfactory completion of any additional work o
 
 .. The department of labor and industries shall include requests for the information about off-site, prefabricated, nonstandard, project specific items produced outside Washington on the affidavit of wages paid form required under RCW 39.12.040.
 
-.. The department of enterprise services shall develop standard contract language to meet the requirements of subsection (1) of this section and make the language available on its web site.
+.. The department of enterprise services shall develop standard contract language to meet the requirements of subsection (1) of this section and make the language available on its website.
 
 .. Failure to submit the information required in subsection (1) of this section as part of the affidavit of wages paid form does not constitute a violation of RCW 39.12.050.
 
@@ -521,6 +521,11 @@ No later than thirty days after satisfactory completion of any additional work o
 The repair or replacement of a city, town, or county bridge deemed structurally deficient, as defined in RCW 43.21C.470, may use the contracting process available under RCW 47.28.170.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1851-S.SL.pdf?cite=2015%20c%20144%20§%203[2015 c 144 § 3]; ]
+
+== 39.04.410 - Public works projects—Pollinator habitat.
+If a public works project includes landscaping, at least 25 percent of the planted area must be pollinator habitat to the extent practicable. For purposes of this section, "pollinator habitat" means an area of land that is or may be developed as habitat beneficial for the feeding, nesting, and reproduction of all pollinators, including honey bees. The department of agriculture, in consultation with the conservation commission and the department of fish and wildlife, must develop a list of native forage plants that are pollen-rich or nectar-rich and beneficial for all pollinators, including honey bees.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5253-S2.SL.pdf?cite=2021%20c%20278%20§%207[2021 c 278 § 7]; ]
 
 == 39.04.900 - Rights may not be waived—Construction—1992 c 223.
 . The rights provided in chapter 223, Laws of 1992 may not be waived by the parties and a contract provision that provides for waiver of the rights provided in chapter 223, Laws of 1992 is void as against public policy.

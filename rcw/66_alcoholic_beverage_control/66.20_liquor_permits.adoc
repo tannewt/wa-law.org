@@ -427,7 +427,7 @@ Day spas must provide separate service areas of the day spa for at least three o
 
 .. A sales record does not have to include the name of the delivery person, but it is encouraged.
 
-. Web site requirements. When selling over the internet, all web site pages associated with the sale of liquor must display the distillery or craft distillery licensee's registered trade name.
+. Website requirements. When selling over the internet, all website pages associated with the sale of liquor must display the distillery or craft distillery licensee's registered trade name.
 
 . A distillery or craft distillery licensee is accountable for all deliveries of liquor made on its behalf.
 

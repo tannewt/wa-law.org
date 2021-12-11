@@ -62,53 +62,6 @@ Beginning in 2005, and every other year thereafter, the department shall examine
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1897-S.SL.pdf?cite=2011%20c%20272%20§%202[2011 c 272 § 2]; ]
 
-== 47.66.110 - Transit coordination grant program. (Expires June 30, 2021.)
-. The transit coordination grant program is created in the department. The purpose of the transit coordination grant program is to encourage joint planning and coordination on the part of central Puget Sound transit systems in order to improve the user experience, increase ridership, and make the most effective use of tax dollars. The department shall oversee, manage, score, select, and evaluate transit coordination grant program project applications, and shall select transit coordination grant recipients annually. A transit agency located in a county or counties with a population of seven hundred thousand or more that border Puget Sound is eligible to apply to the department for transit coordination grants.
-
-. Projects eligible for transit coordination grants include, but are not limited to, projects that:
-
-.. Integrate marketing efforts;
-
-.. Align fare structures;
-
-.. Integrate service planning;
-
-.. Coordinate long-range planning, including capital projects planning and implementation;
-
-.. Integrate other administrative functions and internal business processes as appropriate; and
-
-.. Integrate certain customer-focused tools and initiatives.
-
-. Transit coordination grants must, at a minimum, be proposed jointly by two or more eligible transit agencies and must include a description of the:
-
-.. Issue or problem to be addressed;
-
-.. Specific solution and measurable outcomes;
-
-.. Benefits such as cost savings, travel time improvements, improved coordination, and improved customer experience; and
-
-.. Performance measurements and an evaluation plan that includes the identification of milestones towards successful completion of the project.
-
-. Transit coordination grant applications must include measurable outcomes for the project including, but not limited to, the following:
-
-.. Impacts on service, such as increased service, improved service delivery, and improved transfers and coordination across transit service;
-
-.. Impacts on customer service, such as: Improved reliability; improved outreach and coordination with customers, employers, and communities; improvements in customer service functions, such as customer response time and web-based and other communications; and
-
-.. Impacts on administration, such as improved marketing and outreach efforts, integrated customer-focused tools, and improved cross-agency communications.
-
-. Transit coordination grant applications must also include:
-
-.. Project budget and cost details; and
-
-.. A commitment and description of local matching funding of at least ten percent of the project cost.
-
-. Upon completion of the project, transit coordination grant recipients must provide a report to the department that includes an overview of the project, how the grant funds were spent, and the extent to which the identified project outcomes were met. In addition, such reports must include a description of best practices that could be transferred to other transit agencies faced with similar issues to those addressed by the transit coordination grant recipient. The department must report annually to the transportation committees of the legislature on the transit coordination grants that were awarded, and the report must include data to determine if completed transit coordination grant projects produced the anticipated outcomes included in the grant applications.
-
-. This section expires June 30, 2021.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2322-S.SL.pdf?cite=2020%20c%20219%20§%20704[2020 c 219 § 704]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1842-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%2011%20§%204[2015 3rd sp.s. c 11 § 4]; ]
-
 == 47.66.120 - Green transportation capital grant program.
 . [Empty]
 .. Subject to the availability of amounts appropriated for this specific purpose through the 2023-2025 biennium, the department's public transportation division shall establish a green transportation capital grant program. The purpose of the grant program is to aid any transit authority in funding cost-effective capital projects to reduce the carbon intensity of the Washington transportation system, examples of which include: Electrification of vehicle fleets, including battery and fuel cell electric vehicles; modification or replacement of capital facilities in order to facilitate fleet electrification and/or hydrogen refueling; necessary upgrades to electrical transmission and distribution systems; and construction of charging and fueling stations. The department's public transportation division shall identify projects and shall submit a prioritized list of all projects requesting funding to the legislature by December 1st of each even-numbered year.
@@ -127,7 +80,9 @@ Beginning in 2005, and every other year thereafter, the department shall examine
 
 . For purposes of this section, "transit authority" means a city transit system under RCW 35.58.2721 or chapter 35.95A RCW, a county public transportation authority under chapter 36.57 RCW, a metropolitan municipal corporation transit system under chapter 36.56 RCW, a public transportation benefit area under chapter 36.57A RCW, an unincorporated transportation benefit area under RCW 36.57.100, a regional transit authority under chapter 81.112 RCW, or any special purpose district formed to operate a public transportation system.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2042-S2.SL.pdf?cite=2019%20c%20287%20§%2018[2019 c 287 § 18]; ]
+. During the 2021-2023 fiscal biennium, the department may provide up to 20 percent of the total green transportation capital grant program funding for zero emissions capital transition planning projects.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5165-S.SL.pdf?cite=2021%20c%20333%20§%20721[2021 c 333 § 721]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2042-S2.SL.pdf?cite=2019%20c%20287%20§%2018[2019 c 287 § 18]; ]
 
 == 47.66.900 - Effective date—1993 c 393.
 This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and shall take effect immediately [May 15, 1993].

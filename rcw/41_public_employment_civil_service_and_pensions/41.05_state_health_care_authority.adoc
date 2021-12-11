@@ -150,9 +150,9 @@ The director shall designate a medical director who is licensed under chapter 18
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1388-S.SL.pdf?cite=2018%20c%20201%20§%207001[2018 c 201 § 7001]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1738-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2015%20§%2055[2011 1st sp.s. c 15 § 55]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6199-S2.SL.pdf?cite=2000%20c%205%20§%2016[2000 c 5 § 16]; ]
 
 == 41.05.017 - Provisions applicable to health plans offered under this chapter.
-Each health plan that provides medical insurance offered under this chapter, including plans created by insuring entities, plans not subject to the provisions of Title 48 RCW, and plans created under RCW 41.05.140, are subject to the provisions of RCW 48.43.500, 70.02.045, 48.43.505 through 48.43.535, 48.43.537, 48.43.545, 48.43.550, 70.02.110, 70.02.900, 48.43.190, 48.43.083, and chapter 48.49 RCW.
+Each health plan that provides medical insurance offered under this chapter, including plans created by insuring entities, plans not subject to the provisions of Title 48 RCW, and plans created under RCW 41.05.140, are subject to the provisions of RCW 48.43.500, 70.02.045, 48.43.505 through 48.43.535, 48.43.537, 48.43.545, 48.43.550, 70.02.110, 70.02.900, 48.43.190, 48.43.083, 48.43.0128, and chapter 48.49 RCW.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1065-S2.SL.pdf?cite=2019%20c%20427%20§%2021[2019 c 427 § 21]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2326.SL.pdf?cite=2016%20c%20139%20§%204[2016 c 139 § 4]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5596-S2.SL.pdf?cite=2008%20c%20304%20§%202[2008 c 304 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5597-S2.SL.pdf?cite=2007%20c%20502%20§%202[2007 c 502 § 2]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6199-S2.SL.pdf?cite=2000%20c%205%20§%2020[2000 c 5 § 20]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5313-S2.SL.pdf?cite=2021%20c%20280%20§%202[2021 c 280 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1065-S2.SL.pdf?cite=2019%20c%20427%20§%2021[2019 c 427 § 21]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2326.SL.pdf?cite=2016%20c%20139%20§%204[2016 c 139 § 4]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5596-S2.SL.pdf?cite=2008%20c%20304%20§%202[2008 c 304 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5597-S2.SL.pdf?cite=2007%20c%20502%20§%202[2007 c 502 § 2]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6199-S2.SL.pdf?cite=2000%20c%205%20§%2020[2000 c 5 § 20]; ]
 
 == 41.05.018 - Transfer of certain behavioral health-related powers, duties, and functions from the department of social and health services.
 . The powers, duties, and functions of the department of social and health services pertaining to the behavioral health system and purchasing function of the behavioral health administration, except for oversight and management of state-run mental health institutions and licensing and certification activities, are hereby transferred to the Washington state health care authority to the extent necessary to carry out the purposes of chapter 201, Laws of 2018. All references to the secretary or the department of social and health services in the Revised Code of Washington shall be construed to mean the director of the health care authority or the health care authority when referring to the functions transferred in this section.
@@ -304,7 +304,7 @@ Each health plan that provides medical insurance offered under this chapter, inc
 
 . For purposes of this section:
 
-.. "Medical home" means a site of care that provides comprehensive preventive and coordinated care centered on the patient needs and assures high-quality, accessible, and efficient care.
+.. "Medical home" means a site of care that provides comprehensive preventive and coordinated care centered on the patient needs and assures high quality, accessible, and efficient care.
 
 .. "Chronic care management" means the authority's program that provides care management and coordination activities for health plan enrollees determined to be at risk for high medical costs. "Chronic care management" provides education and training and/or coordination that assist program participants in improving self-management skills to improve health outcomes and reduce medical costs by educating clients to better utilize services.
 
@@ -339,7 +339,7 @@ The authority, in conjunction with these agencies, shall determine:
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c222.pdf?cite=1990%20c%20222%20§%204[1990 c 222 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c107.pdf?cite=1988%20c%20107%20§%205[1988 c 107 § 5]; ]
 
 == 41.05.033 - Shared decision-making demonstration project—Preference-sensitive care.
-. The legislature finds that there is growing evidence that, for preference-sensitive care involving elective surgery, patient-practitioner communication is improved through the use of high-quality decision aids that detail the benefits, harms, and uncertainty of available treatment options. Improved communication leads to more fully informed patient decisions. The legislature intends to increase the extent to which patients make genuinely informed, preference-based treatment decisions, by promoting public/private collaborative efforts to broaden the development, certification, use, and evaluation of effective decision aids and by recognition of shared decision making and patient decision aids in the state's laws on informed consent.
+. The legislature finds that there is growing evidence that, for preference-sensitive care involving elective surgery, patient-practitioner communication is improved through the use of high quality decision aids that detail the benefits, harms, and uncertainty of available treatment options. Improved communication leads to more fully informed patient decisions. The legislature intends to increase the extent to which patients make genuinely informed, preference-based treatment decisions, by promoting public/private collaborative efforts to broaden the development, certification, use, and evaluation of effective decision aids and by recognition of shared decision making and patient decision aids in the state's laws on informed consent.
 
 . The health care authority shall implement a shared decision-making demonstration project. The demonstration project shall be conducted at one or more multispecialty group practice sites providing state purchased health care in the state of Washington, and may include other practice sites providing state purchased health care. The demonstration project shall include the following elements:
 
@@ -667,11 +667,11 @@ The authority may participate as an employer-sponsored program established in se
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5073-S.SL.pdf?cite=2009%20c%20479%20§%2025[2009 c 479 § 25]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1287.SL.pdf?cite=2005%20c%20195%20§%202[2005 c 195 § 2]; ]
 
 == 41.05.074 - Public employees—Prior authorization standards and criteria—Health plan requirements—Definitions.
-. A health plan offered to public employees and their covered dependents under this chapter that imposes different prior authorization standards and criteria for a covered service among tiers of contracting providers of the same licensed profession in the same health plan shall inform an enrollee which tier an individual provider or group of providers is in by posting the information on its web site in a manner accessible to both enrollees and providers.
+. A health plan offered to public employees and their covered dependents under this chapter that imposes different prior authorization standards and criteria for a covered service among tiers of contracting providers of the same licensed profession in the same health plan shall inform an enrollee which tier an individual provider or group of providers is in by posting the information on its website in a manner accessible to both enrollees and providers.
 
 . The health plan may not require prior authorization for an evaluation and management visit or an initial treatment visit with a contracting provider in a new episode of chiropractic, physical therapy, occupational therapy, acupuncture and Eastern medicine, massage therapy, or speech and hearing therapies. Notwithstanding RCW 48.43.515(5) this section may not be interpreted to limit the ability of a health plan to require a referral or prescription for the therapies listed in this section.
 
-. The health care authority shall post on its web site and provide upon the request of a covered person or contracting provider any prior authorization standards, criteria, or information the health plan uses for medical necessity decisions.
+. The health care authority shall post on its website and provide upon the request of a covered person or contracting provider any prior authorization standards, criteria, or information the health plan uses for medical necessity decisions.
 
 . A health care provider with whom the administrator of the health plan consults regarding a decision to deny, limit, or terminate a person's covered health care services must hold a license, certification, or registration, in good standing and must be in the same or related health field as the health care provider being reviewed or of a specialty whose practice entails the same or similar covered health care service.
 
@@ -1146,7 +1146,30 @@ RCW 41.05.123, 41.05.300 through 41.05.350, and 41.05.295 shall be construed to 
 
 [ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/3154.SL.pdf?cite=2000%20c%2080%20§%207[2000 c 80 § 7]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6067-S2.SL.pdf?cite=2000%20c%2079%20§%2046[2000 c 79 § 46]; ]
 
-== 41.05.410 - Qualified health plans—Contract for—Requirements.
+== 41.05.405 - Public option plans—Availability—Hospital contracts—Recommendations.
+. If a public option plan is not available in each county in the state during plan year 2022 or later, the following requirements apply for all subsequent plan years:
+
+.. Upon an offer from a public option plan, a hospital licensed under chapter 70.41 RCW that receives payment for services provided to enrollees in the public employees' benefits program or school employees' benefits program, or through a medical assistance program under chapter 74.09 RCW, must contract with at least one public option plan to provide in-network services to enrollees of that plan. This subsection (1)(a) does not apply to a hospital owned and operated by a health maintenance organization licensed under chapter 48.46 RCW; and
+
+.. The authority shall contract, under RCW 41.05.410, with one or more health carriers to offer at least one standardized bronze, one standardized silver, and one standardized gold qualified health plan in every county in the state or in each county within a region of the state.
+
+. Health carriers and hospitals may not condition negotiations or participation of a hospital licensed under chapter 70.41 RCW in any health plan offered by the health carrier on the hospital's negotiations or participation in a public option plan.
+
+. By December 1st of the plan year during which enrollment in public option plans statewide is greater than 10,000 covered lives:
+
+.. The health benefit exchange, in consultation with the insurance commissioner and the authority, shall analyze public option plan rates paid to hospitals for in-network services and whether they have impacted hospital financial sustainability. The analysis must include any impact on hospitals' operating margins during the years public option health plans have been offered in the state and the estimated impact on operating margins in future years if enrollment in public option plans increases. It must also examine the income levels of public option plan enrollees over time. The analysis may examine a sample of hospitals of various sizes and located in various counties. In conducting its analysis, the exchange must give substantial weight to any available reporting of health care provider and health system costs under RCW 70.390.050;
+
+.. The health care cost transparency board established under chapter 70.390 RCW shall analyze the effect that enrollment in public option plans has had on consumers, including an analysis of the benefits provided to, and premiums and cost-sharing amounts paid by, consumers enrolled in public option plans compared to other standardized and nonstandardized qualified health plans; and
+
+.. The health benefit exchange, in consultation with the insurance commissioner, the authority, and interested stakeholders, including, but not limited to, statewide associations representing hospitals, health insurers, and physicians, shall review the analyses completed under (a) and (b) of this subsection and develop recommendations to the legislature to address financial or other issues identified in the analyses.
+
+. The authority may adopt program rules, in consultation with the office of the insurance commissioner, to ensure compliance with this section, including levying fines and taking other contract actions it deems necessary to enforce compliance with this section.
+
+. For the purposes of this section, "public option plan" means a qualified health plan contracted by the authority under RCW 41.05.410.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5377-S2.SL.pdf?cite=2021%20c%20246%20§%205[2021 c 246 § 5]; ]
+
+== 41.05.410 - Qualified health plans—Contract for—Requirements—Cost and quality data.
 . The authority, in consultation with the health benefit exchange, must contract with one or more health carriers to offer qualified health plans on the Washington health benefit exchange for plan years beginning in 2021. A health carrier contracting with the authority under this section must offer at least one bronze, one silver, and one gold qualified health plan in a single county or in multiple counties. The goal of the procurement conducted under this section is to have a choice of qualified health plans under this section offered in every county in the state. The authority may not execute a contract with an apparently successful bidder under this section until after the insurance commissioner has given final approval of the health carrier's rates and forms pertaining to the health plan to be offered under this section and certification of the health plan under RCW 43.71.065.
 
 . A qualified health plan offered under this section must meet the following criteria:
@@ -1167,10 +1190,7 @@ RCW 41.05.123, 41.05.300 through 41.05.350, and 41.05.295 shall be construed to 
 
 ... Meet national accreditation standards;
 
-.. [Empty]
-... The total amount the qualified health plan reimburses providers and facilities for all covered benefits in the statewide aggregate, excluding pharmacy benefits, may not exceed one hundred sixty percent of the total amount medicare would have reimbursed providers and facilities for the same or similar services in the statewide aggregate;
-
-... Beginning in calendar year 2023, if the authority determines that selective contracting will result in actuarially sound premium rates that are no greater than the qualified health plan's previous plan year rates adjusted for inflation using the consumer price index, the director may, in consultation with the health benefit exchange, waive (g)(i) of this subsection as a requirement of the contracting process under this section;
+.. The total amount the qualified health plan reimburses providers and facilities for all covered benefits in the statewide aggregate, excluding pharmacy benefits, may not exceed one hundred sixty percent of the total amount medicare would have reimbursed providers and facilities for the same or similar services in the statewide aggregate;
 
 .. For services provided by rural hospitals certified by the centers for medicare and medicaid services as critical access hospitals or sole community hospitals, the rates may not be less than one hundred one percent of allowable costs as defined by the United States centers for medicare and medicaid services for purposes of medicare cost reporting;
 
@@ -1178,14 +1198,19 @@ RCW 41.05.123, 41.05.300 through 41.05.350, and 41.05.295 shall be construed to 
 
 .. The qualified health plan must comply with any requirements established by the authority to address amounts expended on pharmacy benefits including, but not limited to, increasing generic utilization and use of evidence-based formularies.
 
+. [Empty]
+.. At the request of the authority for monitoring, enforcement, or program and quality improvement activities, a qualified health plan offered under this section must provide cost and quality of care information and data to the authority, and may not enter into an agreement with a provider or third party that would restrict the qualified health plan from providing this information or data.
+
+.. Pursuant to RCW 42.56.650, any cost or quality information or data submitted to the authority is exempt from public disclosure.
+
 . Nothing in this section prohibits a health carrier offering qualified health plans under this section from offering other health plans in the individual market.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5526-S.SL.pdf?cite=2019%20c%20364%20§%203[2019 c 364 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5377-S2.SL.pdf?cite=2021%20c%20246%20§%206[2021 c 246 § 6]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5526-S.SL.pdf?cite=2019%20c%20364%20§%203[2019 c 364 § 3]; ]
 
 == 41.05.413 - Qualified health plans—Reimbursement limit—Waiver.
-The director may, in his or her sole discretion, waive the requirements of RCW 41.05.410(2)(g)(i) if he or she finds that:
+The director may, in his or her sole discretion, waive the requirements of *RCW 41.05.410(2)(g)(i) if he or she finds that:
 
-. A health carrier offering a qualified health plan under RCW 41.05.410 is unable to form a provider network that meets the network access standards adopted by the insurance commissioner due to the requirements of RCW 41.05.410(2)(g)(i); and
+. A health carrier offering a qualified health plan under RCW 41.05.410 is unable to form a provider network that meets the network access standards adopted by the insurance commissioner due to the requirements of *RCW 41.05.410(2)(g)(i); and
 
 . The health carrier is able to achieve actuarially sound premiums that are ten percent lower than the previous plan year through other means.
 
@@ -1266,6 +1291,11 @@ A health plan offered to employees, school employees, and their covered dependen
 . For the purposes of this section "withdrawal management services" means twenty-four hour medically managed or medically monitored detoxification and assessment and treatment referral for adults or adolescents withdrawing from alcohol or drugs, which may include induction on medications for addiction recovery.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2642-S.SL.pdf?cite=2020%20c%20345%20§%202[2020 c 345 § 2]; ]
+
+== 41.05.527 - Opioid overdose reversal medication bulk purchasing and distribution program.
+A health plan offered to public employees and their covered dependents under this chapter that is issued or renewed on or after January 1, 2023, must participate in the bulk purchasing and distribution program for opioid overdose reversal medication established in RCW 70.14.170 once the program is operational.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5195-S2.SL.pdf?cite=2021%20c%20273%20§%2010[2021 c 273 § 10]; ]
 
 == 41.05.528 - Standard set of criteria—Medical necessity for substance use disorder treatment—Substance use disorder levels of care—Rules.
 For the purposes of promoting standardized training for behavioral health professionals and facilitating communications between behavioral health agencies, executive agencies, managed care organizations, private health plans, and plans offered through the public employees' benefits board, it is the policy of the state to adopt a single standard set of criteria to define medical necessity for substance use disorder treatment and to define substance use disorder levels of care in Washington. The criteria selected must be comprehensive, widely understood and accepted in the field, and based on continuously updated research and evidence. The health care authority and the office of the insurance commissioner must independently review their regulations and practices by January 1, 2021. The health care authority may make rules if necessary to promulgate the selected standard set of criteria.
@@ -1496,7 +1526,7 @@ The authority shall coordinate a discussion with carriers to learn from successf
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5432-S2.SL.pdf?cite=2019%20c%20325%20§%205009[2019 c 325 § 5009]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2572-S2.SL.pdf?cite=2014%20c%20223%20§%206[2014 c 223 § 6]; ]
 
-== 41.05.700 - Reimbursement of health care services provided through telemedicine or store and forward technology.
+== 41.05.700 - Reimbursement of health care services provided through telemedicine or store and forward technology—Audio-only telemedicine.
 . [Empty]
 .. A health plan offered to employees, school employees, and their covered dependents under this chapter issued or renewed on or after January 1, 2017, shall reimburse a provider for a health care service provided to a covered person through telemedicine or store and forward technology if:
 
@@ -1504,14 +1534,16 @@ The authority shall coordinate a discussion with carriers to learn from successf
 
 ... The health care service is medically necessary;
 
-... The health care service is a service recognized as an essential health benefit under section 1302(b) of the federal patient protection and affordable care act in effect on January 1, 2015; and
+... The health care service is a service recognized as an essential health benefit under section 1302(b) of the federal patient protection and affordable care act in effect on January 1, 2015;
 
-... The health care service is determined to be safely and effectively provided through telemedicine or store and forward technology according to generally accepted health care practices and standards, and the technology used to provide the health care service meets the standards required by state and federal laws governing the privacy and security of protected health information.
+... The health care service is determined to be safely and effectively provided through telemedicine or store and forward technology according to generally accepted health care practices and standards, and the technology used to provide the health care service meets the standards required by state and federal laws governing the privacy and security of protected health information; and
+
+.. Beginning January 1, 2023, for audio-only telemedicine, the covered person has an established relationship with the provider.
 
 .. [Empty]
-... Except as provided in (b)(ii) of this subsection, a health plan offered to employees, school employees, and their covered dependents under this chapter issued or renewed on or after January 1, 2021, shall reimburse a provider for a health care service provided to a covered person through telemedicine at the same rate as if the health care service was provided in person by the provider.
+... Except as provided in (b)(ii) of this subsection, a health plan offered to employees, school employees, and their covered dependents under this chapter issued or renewed on or after January 1, 2021, shall reimburse a provider for a health care service provided to a covered person through telemedicine the same amount of compensation the carrier would pay the provider if the health care service was provided in person by the provider.
 
-... Hospitals, hospital systems, telemedicine companies, and provider groups consisting of eleven or more providers may elect to negotiate a reimbursement rate for telemedicine services that differs from the reimbursement rate for in-person services.
+... Hospitals, hospital systems, telemedicine companies, and provider groups consisting of eleven or more providers may elect to negotiate an amount of compensation for telemedicine services that differs from the amount of compensation for in-person services.
 
 ... For purposes of this subsection (1)(b), the number of providers in a provider group refers to all providers within the group, regardless of a provider's location.
 
@@ -1527,7 +1559,7 @@ The authority shall coordinate a discussion with carriers to learn from successf
 
 .. Physician's or other health care provider's office;
 
-.. Community mental health center;
+.. Licensed or certified behavioral health agency;
 
 .. Skilled nursing facility;
 
@@ -1535,7 +1567,7 @@ The authority shall coordinate a discussion with carriers to learn from successf
 
 .. Renal dialysis center, except an independent renal dialysis center.
 
-. Except for subsection (3)(g) of this section, any originating site under subsection (3) of this section may charge a facility fee for infrastructure and preparation of the patient. Reimbursement for a facility fee must be subject to a negotiated agreement between the originating site and the health plan. A distant site or any other site not identified in subsection (3) of this section may not charge a facility fee.
+. Except for subsection (3)(g) of this section, any originating site under subsection (3) of this section may charge a facility fee for infrastructure and preparation of the patient. Reimbursement for a facility fee must be subject to a negotiated agreement between the originating site and the health plan. A distant site, a hospital that is an originating site for audio-only telemedicine, or any other site not identified in subsection (3) of this section may not charge a facility fee.
 
 . The plan may not distinguish between originating sites that are rural and urban in providing the coverage required in subsection (1) of this section.
 
@@ -1549,9 +1581,29 @@ The authority shall coordinate a discussion with carriers to learn from successf
 
 .. An originating site or health care provider when the site or provider is not a contracted provider under the plan.
 
+. [Empty]
+.. If a provider intends to bill a patient or the patient's health plan for an audio-only telemedicine service, the provider must obtain patient consent for the billing in advance of the service being delivered.
+
+.. If the health care authority has cause to believe that a provider has engaged in a pattern of unresolved violations of this subsection (8), the health care authority may submit information to the appropriate disciplining authority, as defined in RCW 18.130.020, for action. Prior to submitting information to the appropriate disciplining authority, the health care authority may provide the provider with an opportunity to cure the alleged violations or explain why the actions in question did not violate this subsection (8).
+
+.. If the provider has engaged in a pattern of unresolved violations of this subsection (8), the appropriate disciplining authority may levy a fine or cost recovery upon the provider in an amount not to exceed the applicable statutory amount per violation and take other action as permitted under the authority of the disciplining authority. Upon completion of its review of any potential violation submitted by the health care authority or initiated directly by an enrollee, the disciplining authority shall notify the health care authority of the results of the review, including whether the violation was substantiated and any enforcement action taken as a result of a finding of a substantiated violation.
+
 . For purposes of this section:
 
+.. [Empty]
+... "Audio-only telemedicine" means the delivery of health care services through the use of audio-only technology, permitting real-time communication between the patient at the originating site and the provider, for the purpose of diagnosis, consultation, or treatment.
+
+... For purposes of this section only, "audio-only telemedicine" does not include:
+
+(A) The use of facsimile or email; or
+
+(B) The delivery of health care services that are customarily delivered by audio-only technology and customarily not billed as separate services by the provider, such as the sharing of laboratory results;
+
+.. "Disciplining authority" has the same meaning as in RCW 18.130.020;
+
 .. "Distant site" means the site at which a physician or other licensed provider, delivering a professional service, is physically located at the time the service is provided through telemedicine;
+
+.. "Established relationship" means the covered person has had at least one in-person appointment within the past year with the provider providing audio-only telemedicine or with a provider employed at the same clinic as the provider providing audio-only telemedicine or the covered person was referred to the provider providing audio-only telemedicine by another provider who has had at least one in-person appointment with the covered person within the past year and has provided relevant medical information to the provider providing audio-only telemedicine;
 
 .. "Health care service" has the same meaning as in RCW 48.43.005;
 
@@ -1563,9 +1615,9 @@ The authority shall coordinate a discussion with carriers to learn from successf
 
 .. "Store and forward technology" means use of an asynchronous transmission of a covered person's medical information from an originating site to the health care provider at a distant site which results in medical diagnosis and management of the covered person, and does not include the use of audio-only telephone, facsimile, or email; and
 
-.. "Telemedicine" means the delivery of health care services through the use of interactive audio and video technology, permitting real-time communication between the patient at the originating site and the provider, for the purpose of diagnosis, consultation, or treatment. For purposes of this section only, "telemedicine" does not include the use of audio-only telephone, facsimile, or email.
+.. "Telemedicine" means the delivery of health care services through the use of interactive audio and video technology, permitting real-time communication between the patient at the originating site and the provider, for the purpose of diagnosis, consultation, or treatment. For purposes of this section only, "telemedicine" includes audio-only telemedicine, but does not include facsimile or email.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5385-S.SL.pdf?cite=2020%20c%2092%20§%202[2020 c 92 § 2]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6241-S.SL.pdf?cite=2018%20c%20260%20§%2030[2018 c 260 § 30]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5436.SL.pdf?cite=2017%20c%20219%20§%202[2017 c 219 § 2]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6519-S.SL.pdf?cite=2016%20c%2068%20§%204[2016 c 68 § 4]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5175-S.SL.pdf?cite=2015%20c%2023%20§%202[2015 c 23 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1196-S.SL.pdf?cite=2021%20c%20157%20§%201[2021 c 157 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5385-S.SL.pdf?cite=2020%20c%2092%20§%202[2020 c 92 § 2]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6241-S.SL.pdf?cite=2018%20c%20260%20§%2030[2018 c 260 § 30]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5436.SL.pdf?cite=2017%20c%20219%20§%202[2017 c 219 § 2]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6519-S.SL.pdf?cite=2016%20c%2068%20§%204[2016 c 68 § 4]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5175-S.SL.pdf?cite=2015%20c%2023%20§%202[2015 c 23 § 2]; ]
 
 == 41.05.730 - Ground emergency medical transportation services—Medicaid reimbursement—Calculation—Federal approval—Department's duties.
 . An eligible provider, as described in subsection (2) of this section, must, in addition to the rate of payment that the provider would otherwise receive for medicaid ground emergency medical transportation services, receive supplemental medicaid reimbursement to the extent provided by law.
@@ -1710,9 +1762,9 @@ The authority shall coordinate a discussion with carriers to learn from successf
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6241-S.SL.pdf?cite=2018%20c%20260%20§%201[2018 c 260 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2242.SL.pdf?cite=2017%203rd%20sp.s.%20c%2013%20§%20801[2017 3rd sp.s. c 13 § 801]; ]
 
 == 41.05.742 - Single enrollment requirement.
-Beginning with the 2022 plan year, individuals are limited to a single enrollment in medical, dental, and vision plans among school employees' benefits board and public employees' benefits board plans. However, individuals may be enrolled in both public employees' benefits board and school employees' benefits board plans as long as those enrollments are across different types of plans, such as medical, dental, and vision. The school employees' benefits board and the public employees' benefits board shall adopt policies to reflect this single enrollment requirement.
+Beginning with the 2022 plan year, individuals are limited to a single enrollment in medical, dental, and vision plans in either the school employees' benefits board or the public employees' benefits board. The school employees' benefits board and the public employees' benefits board shall adopt policies to reflect this single enrollment requirement.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6189-S.SL.pdf?cite=2020%20c%208%20§%204[2020 c 8 § 4]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5322.SL.pdf?cite=2021%20c%2018%20§%201[2021 c 18 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6189-S.SL.pdf?cite=2020%20c%208%20§%204[2020 c 8 § 4]; ]
 
 == 41.05.744 - School employee eligibility during COVID-19 state of emergency.
 . A school employee eligible as of February 29, 2020, for the employer contribution towards benefits offered by the school employees' benefits board shall maintain their eligibility for the employer contribution under the following circumstances directly related or in response to the governor's February 29, 2020, proclamation of a state of emergency existing in all counties in the state of Washington related to the novel coronavirus (COVID-19):
@@ -1865,6 +1917,90 @@ The problem gambling account is created in the state treasury. Money in the acco
 . For the purposes of this section, "hearing instrument" and "hearing aid specialist" have the same meaning as defined in RCW 18.35.010.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5179-S2.SL.pdf?cite=2018%20c%20159%20§%201[2018 c 159 § 1]; ]
+
+== 41.05.840 - Universal health care commission.
+. The universal health care commission is established to create immediate and impactful changes in the health care access and delivery system in Washington and to prepare the state for the creation of a health care system that provides coverage and access for all Washington residents through a unified financing system once the necessary federal authority has become available. The authority must begin any necessary federal application process within 60 days of its availability.
+
+. The commission includes the following voting members:
+
+.. One member from each of the two largest caucuses of the house of representatives, appointed by the speaker of the house of representatives;
+
+.. One member from each of the two largest caucuses of the senate, appointed by the president of the senate;
+
+.. The secretary of the department of health, or the secretary's designee;
+
+.. The director of the health care authority, or the director's designee;
+
+.. The chief executive officer of the Washington health benefit exchange, or the chief executive officer's designee;
+
+.. The insurance commissioner, or the commissioner's designee;
+
+.. The director of the office of equity, or the director's designee; and
+
+.. Six members appointed by the governor, using an equity lens, with knowledge and experience regarding health care coverage, access, and financing, or other relevant expertise, including at least one consumer representative and at least one invitation to an individual representing tribal governments with knowledge of the Indian health care delivery in the state.
+
+. [Empty]
+.. The governor must appoint the chair of the commission from any of the members identified in subsection (2) of this section for a term of no more than three years. A majority of the voting members of the commission shall constitute a quorum for any votes of the commission.
+
+.. The commission's meetings shall be open to the public pursuant to chapter 42.30 RCW. The authority must publish on its website the dates and locations of commission meetings, agendas of prior and upcoming commission meetings, and meeting materials for prior and upcoming commission meetings.
+
+. The health care authority shall staff the commission.
+
+. Members of the commission shall serve without compensation but must be reimbursed for their travel expenses while on official business in accordance with RCW 43.03.050 and 43.03.060.
+
+. The commission may establish advisory committees that include members of the public with knowledge and experience in health care, in order to support stakeholder engagement and an analytical process by which key design options are developed. A member of an advisory committee need not be a member of the commission.
+
+. By November 1, 2022, the commission shall submit a baseline report to the legislature and the governor, and post it on the authority's website. The report must include:
+
+.. A complete synthesis of analyses done on Washington's existing health care finance and delivery system, including cost, quality, workforce, and provider consolidation trends and how they impact the state's ability to provide all Washingtonians with timely access to high quality, affordable health care;
+
+.. A strategy for developing implementable changes to the state's health care financing and delivery system to increase access to health care services and health coverage, reduce health care costs, reduce health disparities, improve quality, and prepare for the transition to a unified health care financing system by actively examining data and reports from sources that are monitoring the health care system. Such sources shall include data or reports from the health care cost transparency board under RCW 70.390.070, the public health advisory board, the governor's interagency coordinating council on health disparities under RCW 43.20.275, the all-payer health care claims database established under chapter 43.371 RCW, prescription drug price data, performance measure data under chapter 70.320 RCW, and other health care cost containment programs;
+
+.. An inventory of the key design elements of a universal health care system including:
+
+... A unified financing system including, but not limited to, a single-payer financing system;
+
+... Eligibility and enrollment processes and requirements;
+
+... Covered benefits and services;
+
+... Provider participation;
+
+.. Effective and efficient provider payments, including consideration of global budgets and health plan payments;
+
+.. Cost containment and savings strategies that are designed to assure that total health care expenditures do not exceed the health care cost growth benchmark established under chapter 70.390 RCW;
+
+.. Quality improvement strategies;
+
+.. Participant cost sharing, if appropriate;
+
+... Quality monitoring and disparities reduction;
+
+.. Initiatives for improving culturally appropriate health services within public and private health-related agencies;
+
+.. Strategies to reduce health disparities including, but not limited to, mitigating structural racism and other determinants of health as set forth by the office of equity;
+
+.. Information technology systems and financial management systems;
+
+.. Data sharing and transparency; and
+
+.. Governance and administration structure, including integration of federal funding sources;
+
+.. An assessment of the state's current level of preparedness to meet the elements of (c) of this subsection and steps Washington should take to prepare for a just transition to a unified health care financing system, including a single-payer financing system. Recommendations must include, but are not limited to, administrative changes, reorganization of state programs, retraining programs for displaced workers, federal waivers, and statutory and constitutional changes;
+
+.. Recommendations for implementing reimbursement rates for health care providers serving medical assistance clients who are enrolled in programs under chapter 74.09 RCW at a rate that is no less than 80 percent of the rate paid by medicare for similar services;
+
+.. Recommendations for coverage expansions to be implemented prior to and consistent with a universal health care system, including potential funding sources; and
+
+.. Recommendations for the creation of a finance committee to develop a financially feasible model to implement universal health care coverage using state and federal funds.
+
+. Following the submission of the baseline report on November 1, 2022, the commission must structure its work to continue to further identify opportunities to implement reforms consistent with subsection (7)(b) of this section and to implement structural changes to prepare the state for a transition to a unified health care financing system. The commission must submit annual reports to the governor and the legislature each November 1st, beginning in 2023. The reports must detail the work of the commission, the opportunities identified to advance the goals under subsection (7) of this section, which, if any, of the opportunities a state agency is implementing, which, if any, opportunities should be pursued with legislative policy or fiscal authority, and which opportunities have been identified as beneficial, but lack federal authority to implement.
+
+. Subject to sufficient existing agency authority, state agencies may implement specific elements of any report issued under this section. This section shall not be construed to authorize the commission to implement a universal health care system through a unified financing system until there is further action by the legislature and the governor.
+
+. The commission must hold its first meeting within 90 days of July 25, 2021.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5399-S2.SL.pdf?cite=2021%20c%20309%20§%202[2021 c 309 § 2]; ]
 
 == 41.05.890 - Certain health care and financial related data provided to authority—Exempt from disclosure.
 . All health care and financial related data as required by section 4, chapter 3, Laws of 2012 2nd sp. sess. that was sent by school districts and their benefits providers to the office of the insurance commissioner for plan years ending in 2012 through 2016 for the purposes of studying health benefits provided to school employees must be provided to the authority by March 15, 2018.

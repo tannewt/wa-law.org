@@ -1,7 +1,7 @@
 = 28A.710 - Charter schools.
 :toc:
 
-== 28A.710.010 - Definitions.
+== 28A.710.010 - Definitions. (Effective until January 1, 2022.)
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 
 . "Applicant" means a nonprofit corporation that has submitted an application to an authorizer. The nonprofit corporation must be either a public benefit nonprofit corporation as defined in RCW 24.03.490, or a nonprofit corporation as defined in RCW 24.03.005 that has applied for tax exempt status under section 501(c)(3) of the internal revenue code of 1986 (26 U.S.C. Sec. 501(c)(3)). The nonprofit corporation may not be a sectarian or religious organization and must meet all of the requirements for a public benefit nonprofit corporation before receiving any funding under RCW 28A.710.220.
@@ -64,7 +64,7 @@ A charter school established under this chapter:
 
 . A charter school board may not acquire property by eminent domain.
 
-. A charter school board, through web site postings and written notice with receipt acknowledged by signature of the recipient, must advise families of new, ongoing, and prospective students of any ongoing litigation challenging the constitutionality of charter schools or that may require charter schools to cease operations.
+. A charter school board, through website postings and written notice with receipt acknowledged by signature of the recipient, must advise families of new, ongoing, and prospective students of any ongoing litigation challenging the constitutionality of charter schools or that may require charter schools to cease operations.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6194-S2.SL.pdf?cite=2016%20c%20241%20§%20103[2016 c 241 § 103]; 2013 c 2 § 203 (Initiative Measure No. 1240, approved November 6, 2012); ]
 
@@ -576,7 +576,7 @@ The state legislature shall, at each regular session in an odd-numbered year, ap
 
 .. The superintendent also shall, for purposes of making distributions under this section, and in accordance with the applicable formulae for categorical programs specified in (b)(i) through (v) of this subsection (2) and any enrichment to those statutory formulae that is specified in the omnibus appropriations act, separately calculate and distribute moneys appropriated by the legislature to charter schools for:
 
-... Supplemental instruction and services for underachieving students through the learning assistance program under RCW 28A.165.005 through 28A.165.065;
+... Supplemental instruction and services for students who are not meeting academic standards through the learning assistance program under RCW 28A.165.005 through 28A.165.065;
 
 ... Supplemental instruction and services for eligible and enrolled students and exited students whose primary language is other than English through the transitional bilingual instruction program under RCW 28A.180.010 through 28A.180.080;
 
@@ -588,7 +588,7 @@ The state legislature shall, at each regular session in an odd-numbered year, ap
 
 . The superintendent of public instruction must adopt rules necessary for the distribution of funding required by this section and to comply with federal reporting requirements.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6362-S2.SL.pdf?cite=2018%20c%20266%20§%20403[2018 c 266 § 403]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6194-S2.SL.pdf?cite=2016%20c%20241%20§%20128[2016 c 241 § 128]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1208-S.SL.pdf?cite=2021%20c%20111%20§%2012[2021 c 111 § 12]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6362-S2.SL.pdf?cite=2018%20c%20266%20§%20403[2018 c 266 § 403]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6194-S2.SL.pdf?cite=2016%20c%20241%20§%20128[2016 c 241 § 128]; ]
 
 == 28A.710.290 - Personal financial affairs statements—Commission members—Charter school board members.
 . Members of the commission must file personal financial affairs statements with the public disclosure commission.
@@ -625,6 +625,21 @@ The administrator of a charter public school governed by this chapter must compl
 .. Report all data relating to employees eligible to participate in benefits or plans administered by the school employees' benefits board and the health care authority in a format designed and communicated by the school employees' benefits board and the health care authority.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6241-S.SL.pdf?cite=2018%20c%20260%20§%2024[2018 c 260 § 24]; ]
+
+== 28A.710.355 - School safety and security staff.
+RCW 28A.320.1241, 28A.400.345, 28A.320.1242, and 28A.320.124 govern school operation and management under RCW 28A.710.040 and apply to charter schools established under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1214-S.SL.pdf?cite=2021%20c%2038%20§%207[2021 c 38 § 7]; ]
+
+== 28A.710.360 - Professional development.
+RCW 28A.343.100 and 28A.415.445 govern school operation and management under RCW 28A.710.040 and apply to charter schools established under chapter 28A.710 RCW [this chapter].
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5044-S.SL.pdf?cite=2021%20c%20197%20§%209[2021 c 197 § 9]; ]
+
+== 28A.710.370 - Student transportation allocation—Additional uses under emergency.
+RCW 28A.160.185 governs school operation and management under RCW 28A.710.040 and applies to charter schools established under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5128-S2.SL.pdf?cite=2021%20c%20234%20§%204[2021 c 234 § 4]; ]
 
 == 28A.710.901 - Effective date—2016 c 241.
 This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [April 3, 2016].

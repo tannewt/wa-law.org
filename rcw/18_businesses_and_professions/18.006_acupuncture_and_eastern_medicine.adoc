@@ -4,11 +4,17 @@
 == 18.06.010 - Definitions.
 The following terms in this chapter shall have the meanings set forth in this section unless the context clearly indicates otherwise:
 
-. "Acupuncture" or "Eastern medicine" means a health care service utilizing acupuncture or Eastern medicine diagnosis and treatment to promote health and treat organic or functional disorders and includes the following:
+. "Acupuncture and Eastern medicine" means a health care service utilizing acupuncture or Eastern medicine diagnosis and treatment to promote health and treat organic or functional disorders, which includes a variety of traditional and modern acupuncture and Eastern medicine therapeutic treatments, such as the practice of acupuncture techniques and herbal medicine to maintain and promote wellness, prevent, manage, and reduce pain, and treat substance use disorder. Acupuncture and Eastern medicine includes the following:
 
-.. Acupuncture, including the use of acupuncture needles or lancets to directly and indirectly stimulate acupuncture points and meridians;
+.. Use of presterilized, disposable needles, such as filiform needles, and other acupuncture needles, syringes, or lancets to directly and indirectly stimulate meridians and acupuncture points including ashi points, motor points, trigger points, and other nonspecific points throughout the body;
 
-.. Use of electrical, mechanical, or magnetic devices to stimulate acupuncture points and meridians;
+.. Use of electrical, mechanical, or magnetic devices to stimulate meridians and acupuncture points including ashi points, motor points, trigger points, and other nonspecific points throughout the body;
+
+.. Intramuscular needling and dry needling of trigger points and other nonspecific points throughout the body in accordance with acupuncture and Eastern medicine training;
+
+.. All points and protocols for ear acupuncture including auricular acupuncture, national acupuncture detoxification association protocol, battlefield acupuncture, and the Nogier system;
+
+.. Use of contact needling and noninsertion tools such as teishin, enshin, or zanshin;
 
 .. Moxibustion;
 
@@ -24,7 +30,7 @@ The following terms in this chapter shall have the meanings set forth in this se
 
 .. Laserpuncture;
 
-.. Point injection therapy, as defined in rule by the department. Point injection therapy includes injection of substances, limited to saline, sterile water, herbs, minerals, vitamins in liquid form, and homeopathic and nutritional substances, consistent with the practice of acupuncture or Eastern medicine. Point injection therapy does not include injection of controlled substances contained in Schedules I through V of the uniform controlled substances act, chapter 69.50 RCW or steroids as defined in RCW 69.41.300;
+.. Point injection therapy, as defined in rule by the department. Point injection therapy includes injection of substances, limited to saline, sterile water, herbs, minerals, vitamins in liquid form, and homeopathic and nutritional substances, consistent with the practice of acupuncture or Eastern medicine. Point injection therapy also includes injection of local anesthetics, such as lidocaine and procaine, for reduction of pain during point injection therapy, consistent with the practice of acupuncture and Eastern medicine and training requirements as defined in rule. An acupuncturist or acupuncture and Eastern medicine practitioner using point injection therapy who has met the training and education requirements established pursuant to RCW 18.06.230 may use oxygen, and epinephrine for potential emergency purposes, such as an allergic or adverse reaction, for patient care and safety. Point injection therapy does not include injection of controlled substances contained in Schedules I through V of the uniform controlled substances act, chapter 69.50 RCW or steroids as defined in RCW 69.41.300;
 
 .. Dietary advice and health education based on acupuncture or Eastern medical theory, including the recommendation and sale of herbs, vitamins, minerals, and dietary and nutritional supplements;
 
@@ -42,9 +48,9 @@ The following terms in this chapter shall have the meanings set forth in this se
 
 . "Secretary" means the secretary of health or the secretary's designee.
 
-Nothing in this chapter requires individuals to be licensed as an acupuncturist or Eastern medicine practitioner in order to provide the techniques and services in subsection (1)(k) through (o) of this section or to sell herbal products.
+Nothing in this chapter requires individuals to be licensed as an acupuncturist or acupuncture and Eastern medicine practitioner in order to provide the techniques and services in subsection (1)(n) through (r) of this section or to sell herbal products.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1865-S.SL.pdf?cite=2019%20c%20308%20§%202[2019 c 308 § 2]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2448-S.SL.pdf?cite=2016%20c%2097%20§%201[2016 c 97 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6280-S.SL.pdf?cite=2010%20c%20286%20§%202[2010 c 286 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1398-S.SL.pdf?cite=1995%20c%20323%20§%204[1995 c 323 § 4]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1392-S.SL.pdf?cite=1992%20c%20110%20§%201[1992 c 110 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%204[1991 c 3 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c326.pdf?cite=1985%20c%20326%20§%201[1985 c 326 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5018.SL.pdf?cite=2021%20c%2087%20§%201[2021 c 87 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1865-S.SL.pdf?cite=2019%20c%20308%20§%202[2019 c 308 § 2]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2448-S.SL.pdf?cite=2016%20c%2097%20§%201[2016 c 97 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6280-S.SL.pdf?cite=2010%20c%20286%20§%202[2010 c 286 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1398-S.SL.pdf?cite=1995%20c%20323%20§%204[1995 c 323 § 4]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1392-S.SL.pdf?cite=1992%20c%20110%20§%201[1992 c 110 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%204[1991 c 3 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c326.pdf?cite=1985%20c%20326%20§%201[1985 c 326 § 1]; ]
 
 == 18.06.020 - Practice without license unlawful.
 . No one may hold themselves out to the public as an acupuncturist, licensed acupuncturist, acupuncture and Eastern medicine practitioner, or any derivative thereof which is intended to or is likely to lead the public to believe such a person is an acupuncturist, licensed acupuncturist[,] or acupuncture and Eastern medicine practitioner, unless licensed as provided for in this chapter.
@@ -179,7 +185,9 @@ The Washington state acupuncture and Eastern medicine advisory committee is esta
 
 . Any acupuncturist or acupuncture and Eastern medicine practitioner performing point injection therapy prior to June 9, 2016, must be able to demonstrate, upon request of the department of health, successful completion of education and training in point injection therapy.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1865-S.SL.pdf?cite=2019%20c%20308%20§%2012[2019 c 308 § 12]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2448-S.SL.pdf?cite=2016%20c%2097%20§%204[2016 c 97 § 4]; ]
+. Prior to administering local anesthetics, epinephrine, or oxygen in providing point injection therapy services, an acupuncturist or acupuncture and Eastern medicine practitioner must satisfy education and training requirements established by the department. The department must adopt rules establishing these requirements by July 1, 2022.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5018.SL.pdf?cite=2021%20c%2087%20§%202[2021 c 87 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1865-S.SL.pdf?cite=2019%20c%20308%20§%2012[2019 c 308 § 12]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2448-S.SL.pdf?cite=2016%20c%2097%20§%204[2016 c 97 § 4]; ]
 
 == 18.06.240 - Continuing education.
 The department shall adopt a rule requiring completion of continuing education for acupuncturists as a condition of license renewal.

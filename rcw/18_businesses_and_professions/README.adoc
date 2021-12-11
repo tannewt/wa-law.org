@@ -96,3 +96,4 @@
 * link:18.370_tanning_facilities.adoc[18.370 - Tanning facilities.]
 * link:18.380_applied_behavior_analysis.adoc[18.380 - Applied behavior analysis.]
 * link:18.390_continuing_care_retirement_communities.adoc[18.390 - Continuing care retirement communities.]
+* link:18.400_professional_licensure—previous_criminal_convictions.adoc[18.400 - Professional licensure—Previous criminal convictions.]

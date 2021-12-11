@@ -24,7 +24,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 . "Color additive" means the same as "color additive" in 21 U.S.C. Sec. 321.
 
-. "Direct seller" means an entity that: (a) Receives prepackaged food from a food processor licensed or inspected, or both, by a state or federal regulatory agency or the department; (b) delivers the food directly to consumers who placed and paid for an order on the entity's web site; (c) delivers food without opening the packaging and without dividing it into smaller packages; (d) provides no interim storage; and (e) delivers the food by means of vehicles equipped with either refrigeration or freezer units, or both. A direct seller is not a "carrier" under this chapter.
+. "Direct seller" means an entity that: (a) Receives prepackaged food from a food processor licensed or inspected, or both, by a state or federal regulatory agency or the department; (b) delivers the food directly to consumers who placed and paid for an order on the entity's website; (c) delivers food without opening the packaging and without dividing it into smaller packages; (d) provides no interim storage; and (e) delivers the food by means of vehicles equipped with either refrigeration or freezer units, or both. A direct seller is not a "carrier" under this chapter.
 
 . "Food" means the same as "food" in 21 U.S.C. Sec. 321 and includes any article used for food or drink by humans or other animals.
 

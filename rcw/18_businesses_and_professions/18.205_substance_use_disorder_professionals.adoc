@@ -111,7 +111,13 @@ The secretary shall keep an official record of all proceedings. A part of the re
 == 18.205.090 - Certification requirements.
 . The secretary shall issue a certificate to any applicant who demonstrates to the secretary's satisfaction that the following requirements have been met:
 
-.. Completion of an educational program approved by the secretary or successful completion of alternate training that meets established criteria;
+.. Completion of:
+
+... An educational program approved by the secretary;
+
+... An apprenticeship program reviewed by the substance use disorder certification advisory committee, approved by the secretary, and registered and approved under chapter 49.04 RCW; or
+
+... Alternate training that meets established criteria;
 
 .. Successful completion of an approved examination, based on core competencies of substance use disorder counseling; and
 
@@ -125,24 +131,28 @@ The secretary shall keep an official record of all proceedings. A part of the re
 
 . As of July 28, 2019, a person certified under this chapter holding the title of chemical dependency professional is considered to hold the title of substance use disorder professional until such time as the person's present certification expires or is renewed.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1768-S.SL.pdf?cite=2019%20c%20444%20§%205[2019 c 444 § 5]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5877-S.SL.pdf?cite=2001%20c%20251%20§%2030[2001 c 251 § 30]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6550-S.SL.pdf?cite=1998%20c%20243%20§%209[1998 c 243 § 9]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1311.SL.pdf?cite=2021%20c%20165%20§%202[2021 c 165 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1768-S.SL.pdf?cite=2019%20c%20444%20§%205[2019 c 444 § 5]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5877-S.SL.pdf?cite=2001%20c%20251%20§%2030[2001 c 251 § 30]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6550-S.SL.pdf?cite=1998%20c%20243%20§%209[1998 c 243 § 9]; ]
 
 == 18.205.095 - Certification requirements—Trainees.
 . The secretary shall issue a trainee certificate to any applicant who demonstrates to the satisfaction of the secretary that he or she is working toward the education and experience requirements in RCW 18.205.090.
 
-. A trainee certified under this section shall submit to the secretary for approval a declaration, in accordance with rules adopted by the department, that he or she is enrolled in an approved education program and actively pursuing the experience requirements in RCW 18.205.090. This declaration must be updated with the trainee's annual renewal.
+. A trainee certified under this section shall submit to the secretary for approval a declaration, in accordance with rules adopted by the department, which shall be updated with the trainee's annual renewal, that he or she is actively pursuing the experience requirements under RCW 18.205.090 and is enrolled in:
 
-. A trainee certified under this section may practice only under the supervision of a certified substance use disorder professional. The first fifty hours of any face-to-face client contact must be under direct observation. All remaining experience must be under supervision in accordance with rules adopted by the department.
+.. An approved education program; or
+
+.. An apprenticeship program reviewed by the substance use disorder certification advisory committee, approved by the secretary, and registered and approved under chapter 49.04 RCW.
+
+. A trainee certified under this section may practice only under the supervision of a certified substance use disorder professional. The first 50 hours of any face-to-face client contact must be under direct observation. All remaining experience must be under supervision in accordance with rules adopted by the department.
 
 . A certified substance use disorder professional trainee provides substance use disorder assessments, counseling, and case management with a state regulated agency and can provide clinical services to patients consistent with his or her education, training, and experience as approved by his or her supervisor.
 
-. A trainee certification may only be renewed four times.
+. A trainee certification may only be renewed four times, unless the secretary finds that a waiver to allow additional renewals is justified due to barriers to testing or training resulting from a governor-declared emergency.
 
 . Applicants are subject to denial of a certificate or issuance of a conditional certificate for the reasons set forth in chapter 18.130 RCW.
 
-. As of July 28, 2019, a person certified under this chapter holding the title of chemical dependency professional trainee is considered to hold the title of substance use disorder professional trainee until such time as the person's present certification expires or is renewed.
+. A person certified under this chapter holding the title of chemical dependency professional trainee is considered to hold the title of substance use disorder professional trainee until such time as the person's present certification expires or is renewed.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1768-S.SL.pdf?cite=2019%20c%20444%20§%206[2019 c 444 § 6]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2674-S2.SL.pdf?cite=2008%20c%20135%20§%2018[2008 c 135 § 18]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1311.SL.pdf?cite=2021%20c%20165%20§%201[2021 c 165 § 1]; http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1063.SL.pdf?cite=2021%20c%2057%20§%201[2021 c 57 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1768-S.SL.pdf?cite=2019%20c%20444%20§%206[2019 c 444 § 6]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2674-S2.SL.pdf?cite=2008%20c%20135%20§%2018[2008 c 135 § 18]; ]
 
 == 18.205.097 - Certification—Impermissible grounds for denial.
 The department may not automatically deny an applicant for certification under this chapter for a position as a substance use disorder professional or substance use disorder professional trainee based on a conviction history consisting of convictions for simple assault, assault in the fourth degree, prostitution, theft in the third degree, theft in the second degree, or forgery, the same offenses as they may be renamed, or substantially equivalent offenses committed in other states or jurisdictions if:
@@ -159,6 +169,11 @@ The department may not automatically deny an applicant for certification under t
 The secretary may establish by rule the standards and procedures for approval of educational programs and alternative training. The requirements for who may provide approved supervision towards training must be the same for all applicants in the regular or alternative training pathways. The requirements for who may provide approved supervision towards training must allow approved supervision to be provided by a person who meets or exceeds the requirements of a certified substance use disorder professional in the state of Washington and who would be eligible to take the examination required for certification. The secretary may utilize or contract with individuals or organizations having expertise in the profession or in education to assist in the evaluations. The secretary shall establish by rule the standards and procedures for revocation of approval of educational programs. The standards and procedures set shall apply equally to educational programs and training in the United States and in foreign jurisdictions. The secretary may establish a fee for educational program evaluations.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1768-S.SL.pdf?cite=2019%20c%20444%20§%207[2019 c 444 § 7]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2400.SL.pdf?cite=2000%20c%20171%20§%2042[2000 c 171 § 42]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6550-S.SL.pdf?cite=1998%20c%20243%20§%2010[1998 c 243 § 10]; ]
+
+== 18.205.102 - Education requirements—Secretary to define.
+All education requirements established as defined by the secretary under RCW 18.205.100 credited by an approved education program for participants in the apprenticeship program for substance use disorder professionals must meet or exceed competency requirements established by the secretary.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1311.SL.pdf?cite=2021%20c%20165%20§%204[2021 c 165 § 4]; ]
 
 == 18.205.105 - Co-occurring disorder specialist enhancement—Training standards.
 . The department shall develop training standards for the creation of a co-occurring disorder specialist enhancement which may be added to the license or registration held by one of the following:

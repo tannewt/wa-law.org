@@ -10,7 +10,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 . "Federal securities law" means the securities act of 1933, the securities exchange act of 1934, and the investment company act of 1940.
 
-. "Location" means any physical locale in this state and any web site, call center site, or similar site directed to residents of this state.
+. "Location" means any physical locale in this state and any website, call center site, or similar site directed to residents of this state.
 
 . "Portable electronics" means personal, self-contained, easily carried by an individual, battery-operated electronic communication, viewing, listening, recording, gaming, computing or global positioning devices and other similar devices and their accessories, and service related to the use of such devices.
 

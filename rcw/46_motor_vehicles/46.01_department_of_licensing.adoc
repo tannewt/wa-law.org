@@ -287,7 +287,7 @@ The use of a personal credit card does not rely upon the credit of the state as 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6379.SL.pdf?cite=2010%20c%20161%20§%20207[2010 c 161 § 207]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5428-S.SL.pdf?cite=2004%20c%20249%20§%209[2004 c 249 § 9]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2053-S.SL.pdf?cite=1999%20c%20271%20§%201[1999 c 271 § 1]; ]
 
 == 46.01.240 - Internet payment option.
-. The department shall provide on its internet payment option web site:
+. The department shall provide on its internet payment option website:
 
 .. That a filing fee will be collected on all transactions subject to a filing fee;
 
@@ -365,4 +365,14 @@ To ensure cost recovery for department of licensing services, the department of 
 The department may, in coordination with the state parks and recreation commission, offer for sale and distribute discover passes and day-use permits, as provided in chapter 79A.80 RCW, at the department's drivers' licenses offices. Any amounts collected by the department through the sales of discover passes and day-use permits must be deposited in the recreation access pass account created in RCW 79A.80.090.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2373-S2.SL.pdf?cite=2012%20c%20261%20§%2011[2012 c 261 § 11]; ]
+
+== 46.01.380 - Cost recovery—Portion of credit card and other financial transaction costs.
+The department must implement cost recovery mechanisms to recoup at least a portion of credit card and other financial transaction costs as part of charges imposed for driver and vehicle fee transactions. The department must develop a method of tracking the amount of credit card and other financial cost recovery revenues. The department must notify the state treasurer of these amounts and the state treasurer must deposit these revenues in the agency financial transaction account created in RCW 46.01.385 on a quarterly basis.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=2021%20c%2032%20§%201[2021 c 32 § 1]; ]
+
+== 46.01.385 - Agency financial transaction account.
+The agency financial transaction account is created in the state treasury. Receipts directed by law to the account from cost recovery charges for credit card and other financial transaction fees must be deposited into the account. Moneys in the account may be spent only after appropriation. Expenditures from the account may be used only for paying credit card and financial transaction fees, and other related costs incurred by state agencies.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=2021%20c%2032%20§%202[2021 c 32 § 2]; ]
 

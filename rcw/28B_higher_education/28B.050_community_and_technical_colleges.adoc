@@ -56,7 +56,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 . "District" means any one of the community and technical college districts created by this chapter.
 
-. "Forest products worker" means a worker in the forest products industries affected by the reduction of forest fiber enhancement, transportation, or production. The workers included within this definition shall be determined by the employment security department, but shall include workers employed in the industries assigned the major group standard industrial classification codes "24" and "26" and the industries involved in the harvesting and management of logs, transportation of logs and wood products, processing of wood products, and the manufacturing and distribution of wood processing and logging equipment. The commissioner may adopt rules further interpreting these definitions. For the purposes of this subsection, "standard industrial classification code" means the code identified in *RCW 50.29.025(3).
+. "Forest products worker" means a worker in the forest products industries affected by the reduction of forest fiber enhancement, transportation, or production. The workers included within this definition shall be determined by the employment security department, but shall include workers employed in the industries assigned the major group standard industrial classification codes "24" and "26" and the industries involved in the harvesting and management of logs, transportation of logs and wood products, processing of wood products, and the manufacturing and distribution of wood processing and logging equipment. The commissioner may adopt rules further interpreting these definitions.
 
 . "High employer demand program of study" means an apprenticeship, or an undergraduate or graduate certificate or degree program in which the number of students prepared for employment per year from in-state institutions is substantially less than the number of projected job openings per year in that field, statewide or in a substate region.
 
@@ -98,7 +98,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 . "Technical college" includes those higher education institutions with the mission of conducting occupational education, basic skills, literacy programs, and offering on short notice, when appropriate, programs that meet specific industry needs. For purposes of this chapter, technical colleges shall include the following college districts as created in RCW 28B.50.040: The twenty-fifth college district, the twenty-sixth college district, the twenty-seventh college district, the twenty-eighth college district, and the twenty-ninth college district.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1961.SL.pdf?cite=2015%20c%2055%20§%20226[2015 c 55 § 226]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2483-S2.SL.pdf?cite=2012%20c%20229%20§%20536[2012 c 229 § 536]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1395.SL.pdf?cite=2009%20c%20353%20§%201[2009 c 353 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1323-S.SL.pdf?cite=2009%20c%20151%20§%203[2009 c 151 § 3]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1328-S.SL.pdf?cite=2009%20c%2064%20§%203[2009 c 64 § 3]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1096-S2.SL.pdf?cite=2007%20c%20277%20§%20301[2007 c 277 § 301]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1794-S2.SL.pdf?cite=2005%20c%20258%20§%208[2005 c 258 § 8]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6097.SL.pdf?cite=2003%202nd%20sp.s.%20c%204%20§%2033[2003 2nd sp.s. c 4 § 33]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1201-S2.SL.pdf?cite=1997%20c%20367%20§%2013[1997 c 367 § 13]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5342-S2.SL.pdf?cite=1995%20c%20226%20§%2017[1995 c 226 § 17]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2821.SL.pdf?cite=1992%20c%2021%20§%205[1992 c 21 § 5]; prior:  1991 c 315 § 15; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5184-S.SL.pdf?cite=1991%20c%20238%20§%2022[1991 c 238 § 22]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c461.pdf?cite=1985%20c%20461%20§%2014[1985 c 461 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982ex1c53.pdf?cite=1982%201st%20ex.s.%20c%2053%20§%2024[1982 1st ex.s. c 53 § 24]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973c62.pdf?cite=1973%20c%2062%20§%2012[1973 c 62 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c261.pdf?cite=1969%20ex.s.%20c%20261%20§%2018[1969 ex.s. c 261 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c223.pdf?cite=1969%20ex.s.%20c%20223%20§%2028B.50.030[1969 ex.s. c 223 § 28B.50.030]; prior:  1967 ex.s. c 8 § 3; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5061-S.SL.pdf?cite=2021%20c%202%20§%202[2021 c 2 § 2]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1961.SL.pdf?cite=2015%20c%2055%20§%20226[2015 c 55 § 226]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2483-S2.SL.pdf?cite=2012%20c%20229%20§%20536[2012 c 229 § 536]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1395.SL.pdf?cite=2009%20c%20353%20§%201[2009 c 353 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1323-S.SL.pdf?cite=2009%20c%20151%20§%203[2009 c 151 § 3]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1328-S.SL.pdf?cite=2009%20c%2064%20§%203[2009 c 64 § 3]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1096-S2.SL.pdf?cite=2007%20c%20277%20§%20301[2007 c 277 § 301]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1794-S2.SL.pdf?cite=2005%20c%20258%20§%208[2005 c 258 § 8]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6097.SL.pdf?cite=2003%202nd%20sp.s.%20c%204%20§%2033[2003 2nd sp.s. c 4 § 33]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1201-S2.SL.pdf?cite=1997%20c%20367%20§%2013[1997 c 367 § 13]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5342-S2.SL.pdf?cite=1995%20c%20226%20§%2017[1995 c 226 § 17]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2821.SL.pdf?cite=1992%20c%2021%20§%205[1992 c 21 § 5]; prior:  1991 c 315 § 15; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5184-S.SL.pdf?cite=1991%20c%20238%20§%2022[1991 c 238 § 22]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c461.pdf?cite=1985%20c%20461%20§%2014[1985 c 461 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982ex1c53.pdf?cite=1982%201st%20ex.s.%20c%2053%20§%2024[1982 1st ex.s. c 53 § 24]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973c62.pdf?cite=1973%20c%2062%20§%2012[1973 c 62 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c261.pdf?cite=1969%20ex.s.%20c%20261%20§%2018[1969 ex.s. c 261 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c223.pdf?cite=1969%20ex.s.%20c%20223%20§%2028B.50.030[1969 ex.s. c 223 § 28B.50.030]; prior:  1967 ex.s. c 8 § 3; ]
 
 == 28B.50.040 - College districts enumerated.
 The state of Washington is hereby divided into thirty college districts as follows:
@@ -243,7 +243,7 @@ The college board shall have general supervision and control over the state syst
 
 .. Common student identifiers such that once a student has enrolled at any community or technical college he or she retains the same student identification upon transfer to any college district;
 
-. Encourage colleges to use multiple measures to determine whether a student must enroll in a precollege course including, but not limited to, placement tests, the SAT, high school transcripts, college transcripts, or initial class performance, and require colleges to post all the available options for course placement on their web site and in their admissions materials;
+. Encourage colleges to use multiple measures to determine whether a student must enroll in a precollege course including, but not limited to, placement tests, the SAT, high school transcripts, college transcripts, or initial class performance, and require colleges to post all the available options for course placement on their website and in their admissions materials;
 
 . Establish and administer criteria and procedures for all capital construction including the establishment, installation, and expansion of facilities within the various college districts;
 
@@ -294,7 +294,7 @@ The college board shall cooperate with the workforce training and education coor
 [ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5184-S.SL.pdf?cite=1991%20c%20238%20§%2079[1991 c 238 § 79]; ]
 
 == 28B.50.097 - Electronic job bank.
-. The college board shall create an electronic job bank on its web site to act as a clearinghouse for people seeking academic teaching positions at the state's community and technical colleges. The job bank must be accessible on the internet. Use of the electronic job bank is not mandatory.
+. The college board shall create an electronic job bank on its website to act as a clearinghouse for people seeking academic teaching positions at the state's community and technical colleges. The job bank must be accessible on the internet. Use of the electronic job bank is not mandatory.
 
 . The college board shall include a separate section on its electronic job bank reserved for the exclusive listing of part-time academic employment opportunities at state community and technical colleges.
 
@@ -371,7 +371,7 @@ Each board of trustees:
 
 . Shall prescribe, with the assistance of the faculty, the course of study in the various departments of the community and technical college or colleges under its control, and publish such catalogues and bulletins as may become necessary;
 
-. May grant to every student, upon graduation or completion of a course of study, a suitable diploma, degree, or certificate under the rules of the state board for community and technical colleges that are appropriate to their mission. The purposes of these diplomas, certificates, and degrees are to lead individuals directly to employment in a specific occupation or prepare individuals for a bachelor's degree or beyond. Technical colleges may only offer transfer degrees that prepare students for bachelor's degrees in professional fields, subject to rules adopted by the college board. In adopting rules, the college board, where possible, shall create consistency between community and technical colleges and may address issues related to tuition and fee rates; tuition waivers; enrollment counting, including the use of credits instead of clock hours; degree granting authority; or any other rules necessary to offer the associate degrees that prepare students for transfer to bachelor's degrees in professional areas. Only colleges under RCW 28B.50.810 or 28B.50.825 may award baccalaureate degrees. The board, upon recommendation of the faculty, may also confer honorary associate of arts degrees, or if it is authorized to award baccalaureate degrees may confer honorary bachelor of applied science degrees, upon persons other than graduates of the community college, in recognition of their learning or devotion to education, literature, art, or science. No degree may be conferred in consideration of the payment of money or the donation of any kind of property;
+. May grant to every student, upon graduation or completion of a course of study, a suitable diploma, degree, or certificate under the rules of the state board for community and technical colleges that are appropriate to their mission. The purposes of these diplomas, certificates, and degrees are to lead individuals directly to employment in a specific occupation or prepare individuals for a bachelor's degree or beyond. Technical colleges may only offer transfer degrees that prepare students for bachelor's degrees in professional fields, subject to rules adopted by the college board. In adopting rules, the college board, where possible, shall create consistency between community and technical colleges and may address issues related to tuition and fee rates; tuition waivers; enrollment counting, including the use of credits instead of clock hours; degree-granting authority; or any other rules necessary to offer the associate degrees that prepare students for transfer to bachelor's degrees in professional areas. Only colleges under RCW 28B.50.810 or 28B.50.825 may award baccalaureate degrees. The board, upon recommendation of the faculty, may also confer honorary associate of arts degrees, or if it is authorized to award baccalaureate degrees may confer honorary bachelor of applied science degrees, upon persons other than graduates of the community college, in recognition of their learning or devotion to education, literature, art, or science. No degree may be conferred in consideration of the payment of money or the donation of any kind of property;
 
 . Shall enforce the rules prescribed by the state board for community and technical colleges for the government of community and technical colleges, students and teachers, and adopt such rules and perform all other acts not inconsistent with law or rules of the state board for community and technical colleges as the board of trustees may in its discretion deem necessary or appropriate to the administration of college districts: PROVIDED, That such rules shall include, but not be limited to, rules relating to housing, scholarships, conduct at the various community and technical college facilities, and discipline: PROVIDED, FURTHER, That the board of trustees may suspend or expel from community and technical colleges students who refuse to obey any of the duly adopted rules;
 
@@ -474,10 +474,10 @@ The state board for community and technical colleges shall provide statewide coo
 
 [ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5184-S.SL.pdf?cite=1991%20c%20238%20§%2045[1991 c 238 § 45]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c208.pdf?cite=1990%20c%20208%20§%2010[1990 c 208 § 10]; ]
 
-== 28B.50.248 - Effect of child care subsidy eligibility expansion—Use of existing resources. (Effective until January 1, 2021.)
+== 28B.50.248 - Effect of child care subsidy eligibility expansion—Use of existing resources.
 Nothing in RCW 43.216.135 or 43.216.136 requires a community or technical college to expand any of its existing child care facilities. Any additional child care services provided by a community or technical college as a result of RCW 43.216.135 or 43.216.136 must be provided within existing resources and existing facilities.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2456-S.SL.pdf?cite=2020%20c%20279%20§%203[2020 c 279 § 3]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2158-S2.SL.pdf?cite=2019%20c%20406%20§%2071[2019 c 406 § 71]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1303-S2.SL.pdf?cite=2019%20c%2097%20§%203[2019 c 97 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5237-S2.SL.pdf?cite=2021%20c%20199%20§%20502[2021 c 199 § 502]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6540-S.SL.pdf?cite=2020%20c%20355%20§%204[2020 c 355 § 4]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2456-S.SL.pdf?cite=2020%20c%20279%20§%203[2020 c 279 § 3]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2158-S2.SL.pdf?cite=2019%20c%20406%20§%2071[2019 c 406 § 71]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1303-S2.SL.pdf?cite=2019%20c%2097%20§%203[2019 c 97 § 3]; ]
 
 == 28B.50.250 - Adult education programs in common school districts, limitations—Certain federal programs, administration.
 The state board for community and technical colleges and the state board of education are hereby authorized to permit, on an ad hoc basis, the common school districts to conduct pursuant to RCW 28B.50.530 a program in adult education in behalf of a college district when such program will not conflict with existing programs of the same nature and in the same geographical area conducted by the college districts: PROVIDED, That federal programs for adult education shall be administered by the state board for community and technical colleges, which agency is hereby declared to be the state educational agency primarily responsible for supervision of adult education in the public schools as defined by *RCW 28B.50.020.
@@ -818,11 +818,11 @@ Within thirty-five days from the date of start of each quarter all collected bui
 
 . On or before June 30th of each year the college board, if issuing bonds payable out of building fees, shall certify to the state treasurer the amounts required in the ensuing twelve-month period to pay and secure the payment of the principal of and interest on such bonds. The state treasurer shall thereupon deposit the amounts so certified in the community and technical college capital projects account. Such amounts of the funds deposited in the community and technical college capital projects account as are necessary to pay and secure the payment of the principal of and interest on the building bonds issued by the college board as authorized by this chapter shall be devoted to that purpose. If in any twelve-month period it shall appear that the amount certified by the college board is insufficient to pay and secure the payment of the principal of and interest on the outstanding building bonds, the state treasurer shall notify the college board and such board shall adjust its certificate so that all requirements of moneys to pay and secure the payment of the principal and interest on all such bonds then outstanding shall be fully met at all times.
 
-. The community and technical college capital projects account is hereby created in the state treasury. The sums deposited in the capital projects account shall be appropriated and expended to pay and secure the payment of the principal of and interest on bonds payable out of the building fees and for the construction, reconstruction, erection, equipping, maintenance, demolition and major alteration of buildings and other capital assets owned by the state board for community and technical colleges in the name of the state of Washington, and the acquisition of sites, rights-of-way, easements, improvements or appurtenances in relation thereto, engineering and architectural services provided by the department of enterprise services, and for the payment of principal of and interest on any bonds issued for such purposes. During the 2017-2019 biennium, sums in the capital projects account may also be used for routine facility maintenance and utility costs. During the 2019-2021 biennium, sums in the capital projects account may also be used for routine facility maintenance and utility costs.
+. The community and technical college capital projects account is hereby created in the state treasury. The sums deposited in the capital projects account shall be appropriated and expended to pay and secure the payment of the principal of and interest on bonds payable out of the building fees and for the construction, reconstruction, erection, equipping, maintenance, demolition and major alteration of buildings and other capital assets owned by the state board for community and technical colleges in the name of the state of Washington, and the acquisition of sites, rights-of-way, easements, improvements or appurtenances in relation thereto, engineering and architectural services provided by the department of enterprise services, and for the payment of principal of and interest on any bonds issued for such purposes. During the 2019-2021 biennium, sums in the capital projects account may also be used for routine facility maintenance and utility costs. During the 2021-2023 biennium, sums in the capital projects account may also be used for routine facility maintenance and utility costs.
 
 . Funds available in the community and technical college capital projects account may also be used for certificates of participation under chapter 39.94 RCW.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1102-S.SL.pdf?cite=2019%20c%20413%20§%207028[2019 c 413 § 7028]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5883-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%201%20§%20955[2017 3rd sp.s. c 1 § 955]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=2015%203rd%20sp.s.%20c%203%20§%207030[2015 3rd sp.s. c 3 § 7030]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5035-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2019%20§%207031[2013 2nd sp.s. c 19 § 7031]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1497-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2048%20§%207025[2011 1st sp.s. c 48 § 7025]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2254-S.SL.pdf?cite=2009%20c%20499%20§%206[2009 c 499 § 6]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6094-S.SL.pdf?cite=2005%20c%20488%20§%20922[2005 c 488 § 922]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2573-S.SL.pdf?cite=2004%20c%20277%20§%20910[2004 c 277 § 910]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6396.SL.pdf?cite=2002%20c%20238%20§%20303[2002 c 238 § 303]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5932-S.SL.pdf?cite=2000%20c%2065%20§%201[2000 c 65 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5647.SL.pdf?cite=1997%20c%2042%20§%201[1997 c 42 § 1]; 1991 sp.s. c 13 §§ 47, 48; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5184-S.SL.pdf?cite=1991%20c%20238%20§%2051[1991 c 238 § 51]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c390.pdf?cite=1985%20c%20390%20§%2056[1985 c 390 § 56]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c57.pdf?cite=1985%20c%2057%20§%2016[1985 c 57 § 16]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c112.pdf?cite=1974%20ex.s.%20c%20112%20§%204[1974 ex.s. c 112 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c279.pdf?cite=1971%20ex.s.%20c%20279%20§%2020[1971 ex.s. c 279 § 20]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1970ex1c15.pdf?cite=1970%20ex.s.%20c%2015%20§%2020[1970 ex.s. c 15 § 20]; prior:  1969 ex.s. c 261 § 28; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c238.pdf?cite=1969%20ex.s.%20c%20238%20§%207[1969 ex.s. c 238 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c223.pdf?cite=1969%20ex.s.%20c%20223%20§%2028B.50.360[1969 ex.s. c 223 § 28B.50.360]; prior:  1967 ex.s. c 8 § 36; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1080-S.SL.pdf?cite=2021%20c%20332%20§%207030[2021 c 332 § 7030]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1102-S.SL.pdf?cite=2019%20c%20413%20§%207028[2019 c 413 § 7028]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5883-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%201%20§%20955[2017 3rd sp.s. c 1 § 955]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=2015%203rd%20sp.s.%20c%203%20§%207030[2015 3rd sp.s. c 3 § 7030]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5035-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2019%20§%207031[2013 2nd sp.s. c 19 § 7031]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1497-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2048%20§%207025[2011 1st sp.s. c 48 § 7025]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2254-S.SL.pdf?cite=2009%20c%20499%20§%206[2009 c 499 § 6]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6094-S.SL.pdf?cite=2005%20c%20488%20§%20922[2005 c 488 § 922]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2573-S.SL.pdf?cite=2004%20c%20277%20§%20910[2004 c 277 § 910]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6396.SL.pdf?cite=2002%20c%20238%20§%20303[2002 c 238 § 303]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5932-S.SL.pdf?cite=2000%20c%2065%20§%201[2000 c 65 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5647.SL.pdf?cite=1997%20c%2042%20§%201[1997 c 42 § 1]; 1991 sp.s. c 13 §§ 47, 48; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5184-S.SL.pdf?cite=1991%20c%20238%20§%2051[1991 c 238 § 51]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c390.pdf?cite=1985%20c%20390%20§%2056[1985 c 390 § 56]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c57.pdf?cite=1985%20c%2057%20§%2016[1985 c 57 § 16]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1974ex1c112.pdf?cite=1974%20ex.s.%20c%20112%20§%204[1974 ex.s. c 112 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c279.pdf?cite=1971%20ex.s.%20c%20279%20§%2020[1971 ex.s. c 279 § 20]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1970ex1c15.pdf?cite=1970%20ex.s.%20c%2015%20§%2020[1970 ex.s. c 15 § 20]; prior:  1969 ex.s. c 261 § 28; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c238.pdf?cite=1969%20ex.s.%20c%20238%20§%207[1969 ex.s. c 238 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c223.pdf?cite=1969%20ex.s.%20c%20223%20§%2028B.50.360[1969 ex.s. c 223 § 28B.50.360]; prior:  1967 ex.s. c 8 § 36; ]
 
 == 28B.50.370 - Construction, reconstruction, equipping, and demolition of community and technical college facilities and acquisition of property—Bonds—Sources for payment of principal and interest on—Funds credited to bond retirement fund—Pledge to collect building fees.
 For the purpose of paying and securing the payment of the principal of and interest on the bonds as the same shall become due, there shall be paid into the state treasury and credited to the bond retirement fund of the college board, the following:
@@ -1117,9 +1117,9 @@ Notwithstanding any other statutory provision relating to indebtedness of school
 
 == 28B.50.785 - Publication of transferable college-level courses—Course lists for one-year academic completion certificates and transferable degrees.
 . [Empty]
-.. Community and technical colleges must identify and publish in their admissions materials the college-level courses that are recognized by all four-year institutions of higher education as transferable to the four-year institutions of higher education. Publication of the list of courses must be easily identified and accessible on the college's web site.
+.. Community and technical colleges must identify and publish in their admissions materials the college-level courses that are recognized by all four-year institutions of higher education as transferable to the four-year institutions of higher education. Publication of the list of courses must be easily identified and accessible on the college's website.
 
-.. If a four-year institution of higher education does not require courses of majors for transfer, the community and technical colleges must identify and publish the transfer policy of the institution in their admissions materials and make the transfer policy of the institution easily identifiable on the college's web site.
+.. If a four-year institution of higher education does not require courses of majors for transfer, the community and technical colleges must identify and publish the transfer policy of the institution in their admissions materials and make the transfer policy of the institution easily identifiable on the college's website.
 
 . Community and technical colleges must create a list of courses that satisfy the basic requirements, distribution requirements, and approved electives for:
 
@@ -1132,7 +1132,7 @@ Notwithstanding any other statutory provision relating to indebtedness of school
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1795-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2010%20§%2012[2011 1st sp.s. c 10 § 12]; ]
 
 == 28B.50.789 - Online course descriptions—Required materials' cost information—Reports.
-. To the maximum extent practicable, but no later than the first full quarter after a community or technical college has implemented the ctcLink system, a community or technical college shall provide the following information to students during registration by displaying it in the online course description or by providing a link that connects to the bookstore's web site or other web site where students can search and view:
+. To the maximum extent practicable, but no later than the first full quarter after a community or technical college has implemented the ctcLink system, a community or technical college shall provide the following information to students during registration by displaying it in the online course description or by providing a link that connects to the bookstore's website or other website where students can search and view:
 
 .. The cost of any required textbook or other course materials;
 
@@ -1193,14 +1193,31 @@ The college board may authorize any board of trustees within the system to promo
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1107.SL.pdf?cite=2017%20c%2052%20§%2011[2017 c 52 § 11]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2483-S2.SL.pdf?cite=2012%20c%20229%20§%20538[2012 c 229 § 538]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1794-S2.SL.pdf?cite=2005%20c%20258%20§%2012[2005 c 258 § 12]; ]
 
-== 28B.50.825 - Bachelor of science degree in computer science—Bellevue college.
-. Subject to approval by the college board, Bellevue college is authorized to offer bachelor of science degrees in computer science.
+== 28B.50.825 - Bachelor of science degree in computer science.
+. Subject to approval by the college board, community colleges and technical colleges are authorized to offer bachelor of science degrees in computer science.
 
-. Bellevue college may develop the curriculum for and design and deliver courses leading to a bachelor of science degree in computer science.
+. Community colleges and technical colleges may develop the curriculum for and design and deliver courses leading to a bachelor of science degree in computer science.
 
 . Degree programs developed under this section are subject to approval by the college board under RCW 28B.50.090 before a college may enroll students in upper-division courses.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5928-S.SL.pdf?cite=2016%20sp.s.%20c%2033%20§%201[2016 sp.s. c 33 § 1]; ]
+. [Empty]
+.. Colleges may submit an application to the college board. The college board shall review the applications and select the colleges using objective criteria including, but not limited to:
+
+... The college demonstrates the capacity to make a long-term commitment of resources to build and sustain a high quality program;
+
+... The college has or can readily engage faculty appropriately qualified to develop and deliver a high quality curriculum at the baccalaureate level;
+
+... The college can demonstrate demand for the proposed program from a sufficient number of students within its service area to make the program cost-effective and feasible to operate;
+
+... The college can demonstrate that employers demand the level of technical training proposed within the program, making it cost-effective for students to seek the degree; and
+
+.. The proposed program fills a gap in options available for students because it is not offered by a public four-year institution of higher education in the college's geographic area or if there is a shortage of programs demanded by industry and workforce.
+
+.. Applications may not be submitted earlier than December 1, 2021.
+
+. A community college offering a bachelor of science degree in computer science on July 25, 2021, is exempt from the requirements of subsection (4) of this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5401-S.SL.pdf?cite=2021%20c%20147%20§%202[2021 c 147 § 2]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5928-S.SL.pdf?cite=2016%20sp.s.%20c%2033%20§%201[2016 sp.s. c 33 § 1]; ]
 
 == 28B.50.835 - Exceptional faculty awards—Intent.
 The legislature recognizes that quality in the state's community and technical colleges would be strengthened by additional partnerships between citizens and the institutions. The legislature intends to foster these partnerships by creating a matching grant program to assist public community and technical colleges in creating endowments for funding exceptional faculty awards.
@@ -1348,6 +1365,19 @@ The district board of trustees of any college district currently operating an ed
 
 [ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5184-S.SL.pdf?cite=1991%20c%20238%20§%2071[1991 c 238 § 71]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c282.pdf?cite=1977%20ex.s.%20c%20282%20§%201[1977 ex.s. c 282 § 1]; ]
 
+== 28B.50.871 - Faculty tenure—Number of tenure-track positions—Report. (Expires July 1, 2024.)
+. The legislature recognizes that student outcomes and success, especially for first generation, underserved students, may be significantly improved by increasing the number of full-time faculty at community and technical colleges.
+
+.. The legislature's goal is that community and technical colleges increase the numbers of full-time tenured positions by adding 200 new full-time tenure-track positions in the 2021-2023 fiscal biennium.
+
+.. This goal is best accomplished through converting part-time faculty positions to full-time tenure-track positions and by hiring new full-time faculty through processes identified in each college's diversity, equity, and inclusion of all races strategic plan described in RCW 28B.50.920. If specific funding for the purpose of conversion assignments proposed in this section is not provided in the omnibus appropriations act, the conversion assignments proposed must be delayed until such time as specific funding is provided.
+
+.. The college board must collect data and assess the impact of the 200 additional full-time tenure-track faculty on student completion rates. The college board must convene representatives of faculty, staff, and administration to report on outcomes as a result of increasing full-time tenure-track faculty. In consultation with representatives of faculty, staff, and administration, the college board must make recommendations about future steps to increase full-time tenure-track faculty that incorporate faculty diversity and historically underserved communities. The college board must report the results of its assessment, along with next step recommendations, to the legislature by December 15, 2023. The college board shall conspicuously post on its website and include in the report definitions for key terms including: Diversity, equity, inclusion, culturally competent, culturally appropriate, historically marginalized communities, communities of color, low-income communities, and community organizations.
+
+. This section expires July 1, 2024.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5194-S2.SL.pdf?cite=2021%20c%20272%20§%205[2021 c 272 § 5]; ]
+
 == 28B.50.872 - Periodic posttenure evaluation.
 By June 30, 1994, each community and technical college shall establish, through the local collective bargaining process, periodic posttenure evaluation of all full-time faculty consistent with the standards of the Northwest association of schools and colleges.
 
@@ -1440,9 +1470,9 @@ The state board for community and technical colleges shall provide recommendatio
 [ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1061-S.SL.pdf?cite=2003%20c%20128%20§%203[2003 c 128 § 3]; ]
 
 == 28B.50.891 - Apprenticeship programs or certificate programs—Transferable course credits.
-Beginning with the 2015-16 academic year, any community or technical college that offers an apprenticeship program or certificate program for paraeducators must provide candidates the opportunity to earn transferable course credits within the program. The programs must also incorporate the standards for cultural competence, including multicultural education and principles of language acquisition, developed by the professional educator standards board under RCW 28A.410.270. Subject to the availability of amounts appropriated for this specific purpose, by September 1, 2018, the paraeducator apprenticeship and certificate programs must also incorporate the state paraeducator standards of practice adopted by the paraeducator board under RCW 28A.413.050.
+Beginning with the 2015-16 academic year, any community or technical college that offers an apprenticeship program or certificate program for paraeducators must provide candidates the opportunity to earn transferable course credits within the program. The programs must also incorporate the standards of practice developed by the Washington professional educator standards board under RCW 28A.410.260 and include multicultural education and principles of language acquisition. Subject to the availability of amounts appropriated for this specific purpose, by September 1, 2018, the paraeducator apprenticeship and certificate programs must also incorporate the state paraeducator standards of practice adopted by the paraeducator board under RCW 28A.413.050.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1115-S.SL.pdf?cite=2017%20c%20237%20§%2020[2017 c 237 § 20]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6129-S.SL.pdf?cite=2014%20c%20136%20§%204[2014 c 136 § 4]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5044-S.SL.pdf?cite=2021%20c%20197%20§%2013[2021 c 197 § 13]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1115-S.SL.pdf?cite=2017%20c%20237%20§%2020[2017 c 237 § 20]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6129-S.SL.pdf?cite=2014%20c%20136%20§%204[2014 c 136 § 4]; ]
 
 == 28B.50.895 - Apprentice education waivers.
 With regard to waivers for courses offered for the purpose of satisfying related or supplemental educational requirements for apprentices registered with the Washington state apprenticeship council or the federal bureau of apprenticeship and training, colleges may at the request of an apprenticeship organization, deduct the tuition owed from training contracts with that apprentice organization.
@@ -1509,8 +1539,8 @@ The public nonprofit corporation for the Washington institute for applied techno
 
 [ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5184-S.SL.pdf?cite=1991%20c%20238%20§%2094[1991 c 238 § 94]; ]
 
-== 28B.50.916 - Homeless and foster care students pilot program. (Expires January 1, 2024.)
-. Subject to the availability of amounts appropriated for this specific purpose, the college board shall select four college districts, two on each side of the crest of the Cascade mountain range, to participate in a pilot program to provide assistance to students experiencing homelessness and to students who were in the foster care system when they graduated high school. The college districts chosen to participate in the pilot program must provide certain accommodations to these students that may include, but are not limited to, the following:
+== 28B.50.916 - Homeless and foster care students pilot program. (Expires January 1, 2025.)
+. Subject to the availability of amounts appropriated for this specific purpose, the college board shall select eight college districts, with no less than four located outside of the Puget Sound region to participate in a pilot program to provide assistance to students experiencing homelessness and to students who were in the foster care system when they graduated high school. The college districts chosen to participate in the pilot program must provide certain accommodations to these students that may include, but are not limited to, the following:
 
 .. Access to laundry facilities;
 
@@ -1546,11 +1576,127 @@ The public nonprofit corporation for the Washington institute for applied techno
 
 .. Encouraged to submit the data required of the pilot program participants under subsection (4) of this section, regardless of participation status.
 
-. The pilot program expires July 1, 2023.
+. The pilot program expires July 1, 2024.
 
-. This section expires January 1, 2024.
+. This section expires January 1, 2025.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5800-S2.SL.pdf?cite=2019%20c%20330%20§%201[2019 c 330 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1166-S.SL.pdf?cite=2021%20c%2062%20§%201[2021 c 62 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5800-S2.SL.pdf?cite=2019%20c%20330%20§%201[2019 c 330 § 1]; ]
+
+== 28B.50.920 - Diversity, equity, and inclusion—Strategic plans—Student-based organizations—Outreach programs—Model faculty diversity programs.
+. Beginning July 30, 2022, all community and technical colleges must submit, on a biennial basis, strategic plans to the state board for community and technical colleges for achieving diversity, equity, and inclusion of all races on their campuses.
+
+. Colleges must create their strategic plans using an inclusive process of stakeholders including, but not limited to, classified staff, faculty, administrative exempt staff, students, and community organizations. Colleges are encouraged to use campus climate surveys to develop and update strategic plans for diversity, equity, and inclusion of all races.
+
+. In addition to planning, each community and technical college shall include in its diversity program opportunities for students from historically marginalized communities to form student-based organizations, and to use community-based organizations, that permit students to work together to mentor and assist one another in navigating the educational system and to access trained mentors using evidence-based mentoring strategies.
+
+. Each community and technical college shall establish a culturally appropriate outreach program. The outreach program may include communities of color, students with disabilities, neurodiverse communities, and low-income communities and be designed to assist potential students to understand the opportunities available in the community and technical college system. The outreach program may assist students with navigating the student aid system. Outreach programs may include partnerships with appropriate community-based organizations and use research and supports from the student achievement council.
+
+. The state board for community and technical colleges shall develop a model faculty diversity program designed to provide for the retention and recruitment of faculty from all racial, ethnic, and cultural backgrounds. The faculty diversity program must be based on proven practices in diversity hiring processes.
+
+. Each community and technical college shall conspicuously post on its website and include in the strategic plans, programs, and reports definitions for key terms including: Diversity, equity, inclusion, culturally competent, culturally appropriate, historically marginalized communities, communities of color, low-income communities, and community organizations.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5194-S2.SL.pdf?cite=2021%20c%20272%20§%203[2021 c 272 § 3]; ]
+
+== 28B.50.925 - Guided pathways—Implementation—Reports.
+. Subject to availability of amounts appropriated for this specific purpose, each community and technical college shall fully implement guided pathways. At a minimum, guided pathways implementation must include:
+
+.. Comprehensive mapping of student educational pathways with student end goals in mind. These must include transparent and clear career paths that are tightly aligned to the skills sought by employers. Pathways must align course sequences to show clear paths for students, alignment with K-12 and university curriculum, and skill sets needed to enter the workforce;
+
+.. Dedicated advising and career counseling that helps students make informed program choices and develop completion plans. Advising services may include processes that help students explore possible career and educational choices while also emphasizing early planning. Advising must be culturally competent and with an emphasis on helping historically underserved, low-income, and students of color navigate their education;
+
+.. Data analysis of student learning as well as program and service outcomes. Data must be used to inform program development, the creation and further refinement of student pathways, and to provide opportunities for early intervention to help students succeed; and
+
+.. A student success support infrastructure using programs that the state board for community and technical colleges finds have been effective in closing equity gaps among historically underserved student populations and improve student completion rates. The student success support program must be based on research or documented evidence of success. In tandem with guided pathways implementation, student success support programs may include evidence-based elements such as:
+
+... Equity competent academic advising services;
+
+... Equity competent career development programming;
+
+... Clear information regarding financial aid and financial literacy; and
+
+... Inclusive curriculum and teaching practices.
+
+. Each community and technical college shall post on its website and include in the guided pathways program documentation and reports definitions for key terms including: Diversity, equity, inclusion, culturally competent, culturally appropriate, historically marginalized communities, communities of color, low-income communities, and community organizations.
+
+. [Empty]
+.. The Washington state institute for public policy, in consultation with the workforce education investment accountability and oversight board under RCW 28C.18.200, shall complete an evaluation of the guided pathways model. To the extent possible, the institute shall complete a preliminary report that evaluates the effect of the guided pathways model on early student outcomes including, but not limited to, student retention and persistence, college level English and math within the first year, and graduation and transfer rates. The preliminary report must review the implementation of the guided pathways model in Washington and any available evidence of the effectiveness of the guided pathways model. The preliminary report must be submitted by December 15, 2023.
+
+.. The Washington state institute for public policy shall complete a final report that evaluates the effect of the guided pathways on longer-term student outcomes including, but not limited to, degree completion, time to degree, transfer to four-year institutions, employment, and earnings, to the extent possible. The final report must be submitted by December 15, 2029.
+
+.. Both the preliminary and final reports must consider differences in outcomes by racial and ethnic subgroups and socioeconomic status.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5194-S2.SL.pdf?cite=2021%20c%20272%20§%204[2021 c 272 § 4]; ]
+
+== 28B.50.930 - Mental health counselor pilot program. (Expires January 1, 2026.)
+. Subject to the availability of amounts appropriated for this specific purpose, the college board shall administer a pilot program to increase student access to mental health counseling and services.
+
+. The college board, in collaboration with the selection committee, shall select community or technical colleges to participate in the pilot program. At least half of the participating colleges must be located outside of the Puget Sound area. For purposes of this section, "Puget Sound area" means Snohomish, King, Pierce, and Thurston counties. Each participating college must receive a grant to implement one or more strategies to increase student access to mental health counseling and services, including substance use disorder counseling and services.
+
+. [Empty]
+.. A selection committee consisting of the following shall assist with the application selection process:
+
+... One community or technical college president;
+
+... One community or technical college vice president for student services or student instruction;
+
+... Two faculty counselors employed at a community or technical college; and
+
+... One community or technical college student.
+
+.. The selection committee may consult with representatives of an entity within a college or university that has expertise in suicide prevention and the department of health in developing selection criteria.
+
+. Community and technical colleges wishing to participate in the pilot program shall apply to the college board. Applicants must identify opportunities for expanding on-campus mental health counseling and services. Applicants must also show a commitment to further develop partnerships by engaging external community providers, including those who provide crisis services and substance use disorder treatment and counseling. Applications that demonstrate plans to include one or more of the following strategies recommended by the community and technical college counselors task force must be prioritized:
+
+.. Improve equity, diversity, and inclusion of all races in counseling services, such as by diversifying the counselor workforce by adopting equity-centered recruiting, training, and retention practices or by providing equity training and awareness for all counselors;
+
+.. Meet mental health needs of students through an all-campus effort;
+
+.. Engage students to help increase mental health and counseling awareness and promote help-seeking behavior through student groups and other methods;
+
+.. Increase the visibility of counseling services on campus;
+
+.. Increase or expand external partnerships with community service providers;
+
+.. Adopt the use of telebehavioral health, especially in underresourced communities;
+
+.. Develop an assessment of counseling services to inform improvements and ensure counseling services are meeting student needs; or
+
+.. Implement counseling approaches grounded in theory that have evidence of being effective.
+
+. Colleges selected to participate in the pilot program that use grant funding to hire additional mental health counselors must hire counselors who have specific graduate-level training for meeting the mental and behavioral health needs of students.
+
+. Colleges selected to participate in the pilot program shall submit a joint report to the appropriate committees of the legislature and in accordance with RCW 43.01.036 by November 1, 2023. The report must include:
+
+.. Information on which colleges were selected for the pilot program, how much grant funding was received per college, and what strategies each implemented to increase student access to mental health counseling and services;
+
+.. Demographic data of students accessing mental health counseling and services, including those students who are considered underrepresented or traditionally have limited access to mental health counseling and services;
+
+.. Whether the mental health counseling and services provided are meeting the demand of students in terms of type and availability, and whether the various types of mental health counseling and services are being provided by community providers versus on-campus services;
+
+.. Information and data on the effectiveness, including cost-effectiveness, of each strategy used to increase student access to mental health counseling and services, including substance use disorder counseling and services, such as the number of additional students served, reduced wait times for counseling appointments, or other data that reflects expanded access; and
+
+.. Lessons learned and recommendations for improving student access to mental health counseling and services at community and technical colleges and to community providers, including whether there were any strategies implemented that proved more effective than others in increasing access.
+
+. Colleges selected for the pilot program shall conspicuously post on their websites and include in the report to the legislature the definitions for key terms including: Diversity, equity, inclusion, culturally competent, culturally appropriate, historically marginalized communities, communities of color, low-income communities, and community organizations.
+
+. The pilot program expires July 1, 2025.
+
+. This section expires January 1, 2026.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5194-S2.SL.pdf?cite=2021%20c%20272%20§%206[2021 c 272 § 6]; ]
+
+== 28B.50.935 - Faculty counselors—Minimum standards.
+. It is the intent of the legislature to provide clear minimum standards to ensure qualified faculty counselors while also providing flexibility to allow for differences in criteria required by hiring institutions. Within existing resources, and beginning September 1, 2021, the college board shall adopt rules regarding the minimum hiring standards for a faculty counselor. At a minimum, these must include:
+
+.. A graduate or professional degree in a related field;
+
+.. Completion of appropriate graduate coursework; and
+
+.. Standards established by the state board for community and technical colleges.
+
+. The requirements and standards imposed through this section do not apply to an individual employed by a college district as a counselor before September 1, 2021. Counselors who began employment at one college district prior to September 1, 2021, and moved employment to a different college district after that date may carry the exemptions from the requirements and standards imposed through this section to their new place of employment.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5194-S2.SL.pdf?cite=2021%20c%20272%20§%207[2021 c 272 § 7]; ]
 
 == 28B.50.980 - Construction—Chapter applicable to state registered domestic partnerships—2009 c 521.
 For the purposes of this chapter, the terms spouse, marriage, marital, husband, wife, widow, widower, next of kin, and family shall be interpreted as applying equally to state registered domestic partnerships or individuals in state registered domestic partnerships as well as to marital relationships and married persons, and references to dissolution of marriage shall apply equally to state registered domestic partnerships that have been terminated, dissolved, or invalidated, to the extent that such interpretation does not conflict with federal law. Where necessary to implement chapter 521, Laws of 2009, gender-specific terms such as husband and wife used in any statute, rule, or other law shall be construed to be gender neutral, and applicable to individuals in state registered domestic partnerships.

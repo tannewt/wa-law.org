@@ -58,7 +58,7 @@ In this chapter:
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5081-S.SL.pdf?cite=2017%20c%20281%20§%202[2017 c 281 § 2]; ]
 
-== 42.45.020 - Authority to perform notarial act. (Effective until October 1, 2020.)
+== 42.45.020 - Authority to perform notarial act.
 . A notarial officer may perform a notarial act authorized by this chapter or by law of this state other than this chapter.
 
 . [Empty]
@@ -68,7 +68,9 @@ In this chapter:
 
 .. A notarial act performed in violation of this subsection (2) is voidable.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5081-S.SL.pdf?cite=2017%20c%20281%20§%204[2017 c 281 § 4]; ]
+. A notarial officer may certify that a tangible copy of an electronic record is an accurate copy of the electronic record.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5641.SL.pdf?cite=2019%20c%20154%20§%202[2019 c 154 § 2]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5081-S.SL.pdf?cite=2017%20c%20281%20§%204[2017 c 281 § 4]; ]
 
 == 42.45.030 - Certain notarial acts—Requirements.
 . A notarial officer who takes an acknowledgment of a record shall determine, from personal knowledge or satisfactory evidence of the identity of the individual, that the individual appearing before the officer and making the acknowledgment has the identity claimed and that the signature on the record is the signature of the individual.
@@ -83,10 +85,10 @@ In this chapter:
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5081-S.SL.pdf?cite=2017%20c%20281%20§%205[2017 c 281 § 5]; ]
 
-== 42.45.040 - Personal appearance. (Effective until October 1, 2020.)
-If a notarial act relates to a statement made in or a signature executed on a record, the individual making the statement or executing the signature shall appear personally before the notarial officer.
+== 42.45.040 - Personal appearance.
+Except as provided in RCW 42.45.280, if a notarial act relates to a statement made in or a signature executed on a record, the individual making the statement or executing the signature shall appear personally before the notarial officer.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5081-S.SL.pdf?cite=2017%20c%20281%20§%206[2017 c 281 § 6]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5641.SL.pdf?cite=2019%20c%20154%20§%203[2019 c 154 § 3]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5081-S.SL.pdf?cite=2017%20c%20281%20§%206[2017 c 281 § 6]; ]
 
 == 42.45.050 - Identification of individual.
 . A notarial officer has personal knowledge of the identity of an individual appearing before the officer if the individual is personally known to the officer through dealings sufficient to provide reasonable certainty that the individual has the identity claimed.
@@ -198,7 +200,7 @@ Except as otherwise provided in RCW 64.08.100, if an individual is physically un
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5081-S.SL.pdf?cite=2017%20c%20281%20§%2014[2017 c 281 § 14]; ]
 
-== 42.45.130 - Certificate of notarial act. (Effective until October 1, 2020.)
+== 42.45.130 - Certificate of notarial act.
 . A notarial act must be evidenced by a certificate. The certificate must:
 
 .. Be executed contemporaneously with the performance of the notarial act;
@@ -209,9 +211,11 @@ Except as otherwise provided in RCW 64.08.100, if an individual is physically un
 
 .. Contain the title of office of the notarial officer;
 
-.. Be written in English or in dual languages, one of which must be English; and
+.. Be written in English or in dual languages, one of which must be English;
 
-.. If the notarial officer is a notary public, indicate the date of expiration, if any, of the officer's commission.
+.. If the notarial officer is a notary public, indicate the date of expiration, if any, of the officer's commission; and
+
+.. If the notarial act is performed under RCW 42.45.280, indicate that the notarial act was performed using communication technology.
 
 . Regarding notarial act certificates on a tangible record:
 
@@ -241,10 +245,10 @@ Except as otherwise provided in RCW 64.08.100, if an individual is physically un
 
 . If a notarial act is performed regarding a tangible record, a certificate must be part of, or securely attached to, the record. If a notarial act is performed regarding an electronic record, the certificate must be affixed to, or logically associated with, the electronic record. If the director has established standards pursuant to RCW 42.45.250 for attaching, affixing, or logically associating the certificate, the process must conform to the standards.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5081-S.SL.pdf?cite=2017%20c%20281%20§%2015[2017 c 281 § 15]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5641.SL.pdf?cite=2019%20c%20154%20§%204[2019 c 154 § 4]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5081-S.SL.pdf?cite=2017%20c%20281%20§%2015[2017 c 281 § 15]; ]
 
-== 42.45.140 - Short form certificates. (Effective until October 1, 2020.)
-The following short form certificates of notarial acts are sufficient for the purposes indicated, if completed with the information required by RCW 42.45.130 (1) through (4):
+== 42.45.140 - Short form certificates.
+The following short form certificates of notarial acts are sufficient for the purposes indicated, if completed with the information required by RCW 42.45.130 (1) through (4) and 42.45.280:
 
 . For an acknowledgment in an individual capacity:
 
@@ -530,7 +534,7 @@ My commission expires:
 
 ..
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5081-S.SL.pdf?cite=2017%20c%20281%20§%2016[2017 c 281 § 16]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5641.SL.pdf?cite=2019%20c%20154%20§%205[2019 c 154 § 5]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5081-S.SL.pdf?cite=2017%20c%20281%20§%2016[2017 c 281 § 16]; ]
 
 == 42.45.150 - Official stamp.
 . It is unlawful for any person intentionally to manufacture, give, sell, procure, or possess a seal or stamp evidencing the current appointment of a person as a notary public until the director has issued a notary commission. The official seal or stamp of a notary public must include:
@@ -717,7 +721,7 @@ The uniform regulation of business and professions act, chapter 18.235 RCW, gove
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5081-S.SL.pdf?cite=2017%20c%20281%20§%2032[2017 c 281 § 32]; ]
 
-== 42.45.280 - Electronic records notary public. (Effective October 1, 2020.)
+== 42.45.280 - Electronic records notary public.
 . The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
 
 .. "Communication technology" means an electronic device or process that:
@@ -792,10 +796,10 @@ The uniform regulation of business and professions act, chapter 18.235 RCW, gove
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5641.SL.pdf?cite=2019%20c%20154%20§%201[2019 c 154 § 1]; ]
 
-== 42.45.900 - Short title. (Effective until October 1, 2020.)
-This chapter may be known and cited as the revised uniform law on notarial acts.
+== 42.45.900 - Short title.
+This chapter may be known and cited as the 2018 revised uniform law on notarial acts.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5081-S.SL.pdf?cite=2017%20c%20281%20§%201[2017 c 281 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5641.SL.pdf?cite=2019%20c%20154%20§%206[2019 c 154 § 6]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5081-S.SL.pdf?cite=2017%20c%20281%20§%201[2017 c 281 § 1]; ]
 
 == 42.45.901 - Application.
 This chapter applies to a notarial act performed on or after July 1, 2018.

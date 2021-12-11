@@ -11,7 +11,7 @@ The supreme court shall appoint the director of the office of public defense fro
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6442-S.SL.pdf?cite=2008%20c%20313%20§%203[2008 c 313 § 3]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6189-S.SL.pdf?cite=1996%20c%20221%20§%202[1996 c 221 § 2]; ]
 
-== 2.70.020 - Director—Duties—Limitations.
+== 2.70.020 - Director—Duties—Limitations. (Effective until January 1, 2022.)
 The director shall:
 
 . Administer all state-funded services in the following program areas:
@@ -179,6 +179,11 @@ Subject to the availability of amounts appropriated for this specific purpose, c
 . A subsequent report must be delivered to the legislature by December 1, 2019. In addition to the information required under subsection (2) of this section, this report must include statistics demonstrating the effect of the program on reunification rates and lengths of time families were engaged in the dependency court system before achieving permanency.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5486-S2.SL.pdf?cite=2015%20c%20117%20§%206[2015 c 117 § 6]; ]
+
+== 2.70.110 - Identifying information of youth. (Effective January 1, 2022.)
+Subject to the rules of discovery, the office of public defense is authorized to collect identifying information for any youth who speaks with a consulting attorney pursuant to RCW 13.40.740; provided, however, that such records are exempt from public disclosure.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1140-S.SL.pdf?cite=2021%20c%20328%20§%204[2021 c 328 § 4]; ]
 
 == 2.70.900 - Transfer of certain powers, duties, and functions of the department of social and health services.
 . All powers, duties, and functions of the department of social and health services and the special commitment center pertaining to indigent defense under chapter 71.09 RCW are transferred to the office of public defense.

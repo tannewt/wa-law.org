@@ -97,7 +97,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 . The lead organization and work group established to review prior authorization requirements must consider the following areas in their efforts:
 
-.. Requiring carriers and pharmacy benefit managers to provide a listing of prior authorization requirements electronically on a web site. The listing of requirements for any procedure, supply, or service requiring preauthorization must include criteria needed by the carrier specific to that medical or procedural code, to allow a provider's office to submit all information needed on the initial request for prior authorization, along with instructions for submitting that information;
+.. Requiring carriers and pharmacy benefit managers to provide a listing of prior authorization requirements electronically on a website. The listing of requirements for any procedure, supply, or service requiring preauthorization must include criteria needed by the carrier specific to that medical or procedural code, to allow a provider's office to submit all information needed on the initial request for prior authorization, along with instructions for submitting that information;
 
 .. Requiring a carrier or pharmacy benefit manager to issue an acknowledgment of receipt or reference number for prior authorization within a specified time frame, such as two business days of receipt of a prior authorization request from a provider;
 
@@ -109,7 +109,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 .. Recommendations to refine the time frames in current rule; and
 
-.. Recommendations specific to pharmacy services, including communication between the pharmacy to the carrier or pharmacy benefit manager, communications between the carrier or pharmacy benefit manager with the provider's office, communication of the authorization number, posting of the criteria for pharmacy related prior authorization on a web site and other recommended alternatives; and options for prior authorizations involving urgent and emergent care with short-term prescription fill, such as a three-day supply, while the authorization is obtained.
+.. Recommendations specific to pharmacy services, including communication between the pharmacy to the carrier or pharmacy benefit manager, communications between the carrier or pharmacy benefit manager with the provider's office, communication of the authorization number, posting of the criteria for pharmacy related prior authorization on a website and other recommended alternatives; and options for prior authorizations involving urgent and emergent care with short-term prescription fill, such as a three-day supply, while the authorization is obtained.
 
 . In preparing the recommendations, the work group must consider the opportunities to align with national mandates and regulatory guidance in the health insurance portability and accountability act and the patient protection and affordable care act, and use information technologies and electronic health records to increase efficiencies in health care and reengineer and automate age-old practices to improve business functions and ensure timely access to care for patients. 
 
@@ -193,9 +193,9 @@ The lead organization shall:
 
 ... Require payors to use common and consistent time frames when responding to provider requests for medical management approvals. Whenever possible, such time frames shall be consistent with those established by leading national organizations and be based upon the acuity of the patient's need for care or treatment;
 
-.. Develop, maintain, and promote widespread adoption of a single common web site where providers can obtain payors' preauthorization, benefits advisory, and preadmission requirements;
+.. Develop, maintain, and promote widespread adoption of a single common website where providers can obtain payors' preauthorization, benefits advisory, and preadmission requirements;
 
-.. Establish guidelines for payors to develop and maintain a web site that providers can employ to:
+.. Establish guidelines for payors to develop and maintain a website that providers can employ to:
 
 ... Request a preauthorization, including a prospective clinical necessity review;
 

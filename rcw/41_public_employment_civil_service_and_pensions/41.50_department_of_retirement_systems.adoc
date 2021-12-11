@@ -494,6 +494,17 @@ The department shall adopt rules under chapter 34.05 RCW implementing and admini
 
 [ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6143-S.SL.pdf?cite=1994%20c%20197%20§%204[1994 c 197 § 4]; ]
 
+== 41.50.180 - Inactive accounts—Identification, closing, and refund.
+. By January 1, 2022, the department will establish by rule an effective means of:
+
+.. Identifying inactive accounts of nonvested members of the retirement systems listed in RCW 41.50.030 whose account balance is less than one thousand dollars; and
+
+.. Providing for the orderly closing and refunding of member account balances in those accounts in accordance with the federal internal revenue code.
+
+. The refund of a member's account balance will terminate all rights to future benefits, unless otherwise restored under the rules for each of the respective retirement systems.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5367.SL.pdf?cite=2021%20c%20189%20§%201[2021 c 189 § 1]; ]
+
 == 41.50.200 - Subdivision of retirement system funds.
 In the records of the teachers' retirement system the teachers' retirement system plan 1 fund shall be subdivided into the member reserve, the pension reserve, and other funds as may from time to time be created by the director for the purpose of the internal accounting record. The director may adopt rules creating or deleting funds as he or she deems necessary.
 
@@ -583,6 +594,17 @@ The person responsible for making up the payroll shall transmit promptly to the 
 .. In the event that the department is not provided with all data required by the notice in (a) of this subsection, the institution of higher education will remain responsible for payment of higher education retirement plan supplemental benefits to that member. In addition, the collection of overpayments and error correction provisions of this chapter apply in the event that the department makes supplemental benefit payments based on incomplete or inaccurate data provided by an institution.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1661-S2.SL.pdf?cite=2020%20c%20103%20§%206[2020 c 103 § 6]; ]
+
+== 41.50.290 - Shared work programs—Effect of employer's participation.
+. With respect to plans administered by the department:
+
+.. If an employer participates in the shared work program under chapter 50.60 RCW, any reduction in hours worked by a member as a result of the employer's participation in the program does not impact the retirement benefit the member would otherwise be entitled to receive had the member's hours not been reduced. A member's benefit will be calculated as if the member did not incur a reduction in hours through participating in an approved shared work compensation plan under chapter 50.60 RCW.
+
+.. This section does not apply to deferred compensation plans.
+
+. This section applies both prospectively and retroactively to July 28, 2013, the date that chapter 79, Laws of 2013 became effective.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5021.SL.pdf?cite=2021%20c%2012%20§%209[2021 c 12 § 9]; ]
 
 == 41.50.500 - Mandatory assignment of retirement benefits—Definitions.
 Unless the context clearly requires otherwise, the definitions in this section apply throughout RCW 41.50.500 through 41.50.650, 41.50.670 through 41.50.720, and 26.09.138.

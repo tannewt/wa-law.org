@@ -54,13 +54,13 @@ Unless the context clearly requires otherwise, the definitions in this section a
 .. Nothing in this chapter shall be construed to confer on a nursing assistant the authority to administer medication unless delegated as a specific nursing task pursuant to this chapter or to practice as a licensed (registered) nurse or licensed practical nurse as defined in chapter 18.79 RCW.
 
 . [Empty]
-.. A nursing assistant employed in a nursing home must have successfully obtained certification through: (i) An approved training program and the competency evaluation within four months after the date of employment; or (ii) alternative training and the competency evaluation prior to employment.
+.. A nursing assistant employed in a nursing home must have successfully obtained certification through: (i) An approved training program and the competency evaluation within a period of time determined in rule by the commission; or (ii) alternative training and the competency evaluation prior to employment.
 
 .. Certification is voluntary for nursing assistants working in health care facilities other than nursing homes unless otherwise required by state or federal law or regulation.
 
 . The commission may adopt rules to implement the provisions of this chapter.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6582-S.SL.pdf?cite=2010%20c%20169%20§%204[2010 c 169 § 4]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1908-S2.SL.pdf?cite=1995%201st%20sp.s.%20c%2018%20§%2052[1995 1st sp.s. c 18 § 52]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20709[1994 sp.s. c 9 § 709]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5796-S.SL.pdf?cite=1991%20c%2016%20§%203[1991 c 16 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c300.pdf?cite=1989%20c%20300%20§%205[1989 c 300 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c267.pdf?cite=1988%20c%20267%20§%203[1988 c 267 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1120-S.SL.pdf?cite=2021%20c%20203%20§%2016[2021 c 203 § 16]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6582-S.SL.pdf?cite=2010%20c%20169%20§%204[2010 c 169 § 4]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1908-S2.SL.pdf?cite=1995%201st%20sp.s.%20c%2018%20§%2052[1995 1st sp.s. c 18 § 52]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20709[1994 sp.s. c 9 § 709]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5796-S.SL.pdf?cite=1991%20c%2016%20§%203[1991 c 16 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c300.pdf?cite=1989%20c%20300%20§%205[1989 c 300 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c267.pdf?cite=1988%20c%20267%20§%203[1988 c 267 § 3]; ]
 
 == 18.88A.040 - Registration and certification.
 . No person may practice or represent himself or herself as a nursing assistant-registered by use of any title or description without being registered by the department pursuant to this chapter.
@@ -198,16 +198,16 @@ In addition to any other authority provided by law, the commission may:
 
 ... Is a certified medical assistant pursuant to a certification program accredited by a national medical assistant accreditation organization and approved by the commission; and
 
-.. Has successfully completed twenty-four hours of training that the commission determines is necessary to provide training equivalent to approved training on topics not addressed in the training specified for certification as a home care aide or medical assistant, as applicable. In the commission's discretion, a portion of these hours may include clinical training.
+.. Has successfully completed at least twenty-four hours of training that the commission determines is necessary to provide training equivalent to approved training on topics not addressed in the training specified for certification as a home care aide or medical assistant, as applicable. In the commission's discretion, a portion of these hours may include clinical training.
 
 . [Empty]
-.. By July 1, 2011, the commission, in consultation with the secretary, the department of social and health services, and consumer, employer, and worker representatives, shall adopt rules to implement this section and to provide, beginning January 1, 2012, for a program of credentialing reciprocity to the extent required by this section between home care aide and medical assistant certification and nursing assistant certification. By July 1, 2011, the secretary shall also adopt such rules as may be necessary to implement this section and the credentialing reciprocity program.
+.. The commission, in consultation with the secretary, the department of social and health services, and consumer, employer, and worker representatives, shall adopt rules to implement this section and to provide for a program of credentialing reciprocity to the extent required by this section between home care aide and medical assistant certification and nursing assistant certification. The secretary shall also adopt such rules as may be necessary to implement this section and the credentialing reciprocity program.
 
 .. Rules adopted under this section must be consistent with requirements under 42 U.S.C. Sec. 1395i-3(e) and (f) of the federal social security act relating to state-approved competency evaluation programs for certified nurse aides.
 
-. Beginning December 1, 2012, the secretary, in consultation with the commission, shall report annually by December 1st to the governor and the appropriate committees of the legislature on the progress made in achieving career advancement for certified home care aides and medical assistants into nursing practice.
+. The secretary, in consultation with the commission, shall report annually by December 1st to the governor and the appropriate committees of the legislature on the progress made in achieving career advancement for certified home care aides and medical assistants into nursing practice.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6582-S.SL.pdf?cite=2010%20c%20169%20§%203[2010 c 169 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1120-S.SL.pdf?cite=2021%20c%20203%20§%2017[2021 c 203 § 17]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6582-S.SL.pdf?cite=2010%20c%20169%20§%203[2010 c 169 § 3]; ]
 
 == 18.88A.088 - Certification—Military training or experience.
 An applicant with military training or experience satisfies the training or experience requirements of this chapter unless the commission determines that the military training or experience is not substantially equivalent to the standards of this state.

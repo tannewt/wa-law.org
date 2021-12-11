@@ -113,7 +113,7 @@ Unless the articles of incorporation or bylaws provide otherwise, the board of d
 
 . The requirements of subsection (2) of this section are satisfied if a public company:
 
-.. Posts the information required by subsection (3) of this section on the public company's principal internet web site address or another electronic network (either separate from, or in combination or as part of, any other materials the public company has posted on the electronic network in compliance with applicable federal law); or
+.. Posts the information required by subsection (3) of this section on the public company's principal internet website address or another electronic network (either separate from, or in combination or as part of, any other materials the public company has posted on the electronic network in compliance with applicable federal law); or
 
 .. Includes the information required by subsection (3) of this section in a proxy statement filed in accordance with 17 C.F.R. Sec. 240.14a-1 through 17 C.F.R. Sec. 240.14a-101, or in an information statement filed in accordance with 17 C.F.R. Sec. 240.14c-1 through 17 C.F.R. Sec. 240.14c-101.
 
@@ -153,13 +153,13 @@ Unless the articles of incorporation or bylaws provide otherwise, the board of d
 == 23B.08.210 - Corporate action without meeting.
 . Unless the articles of incorporation or bylaws provide otherwise, corporate action required or permitted by this title to be approved at a board of directors' meeting may be approved without a meeting if the corporate action is approved by all members of the board. The approval of the corporate action must be evidenced by one or more written consents describing the corporate action being approved, executed by each director either before or after the corporate action becomes effective, and delivered to the corporation for inclusion in the minutes or filing with the corporate records.
 
-. A written consent in the form of an electronic transmission must contain or be accompanied by information from which the corporation can determine that the electronic transmission was transmitted by the director and the date on which the director transmitted the electronic transmission.
+. A written consent in the form of an electronic transmission will be deemed to have been executed by a director if it indicates the director's present intent to approve the corporate action and contains or is accompanied by information from which the corporation can determine that the electronic transmission was transmitted by the director and the date on which the director transmitted the electronic transmission.
 
 . Corporate action is approved under this section when the last director executes the consent.
 
 . A consent under this section has the effect of a meeting vote and may be described as such in any document.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6028-S.SL.pdf?cite=2020%20c%2057%20§%2059[2020 c 57 § 59]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1068.SL.pdf?cite=2009%20c%20189%20§%2024[2009 c 189 § 24]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2301-S.SL.pdf?cite=2002%20c%20297%20§%2029[2002 c 297 § 29]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c165.pdf?cite=1989%20c%20165%20§%2092[1989 c 165 § 92]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5005.SL.pdf?cite=2021%20c%2084%20§%205[2021 c 84 § 5]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6028-S.SL.pdf?cite=2020%20c%2057%20§%2059[2020 c 57 § 59]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1068.SL.pdf?cite=2009%20c%20189%20§%2024[2009 c 189 § 24]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2301-S.SL.pdf?cite=2002%20c%20297%20§%2029[2002 c 297 § 29]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c165.pdf?cite=1989%20c%20165%20§%2092[1989 c 165 § 92]; ]
 
 == 23B.08.220 - Notice of meeting.
 . Unless the articles of incorporation or bylaws provide otherwise, regular meetings of the board of directors may be held without notice of the date, time, place, or purpose of the meeting.

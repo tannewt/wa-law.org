@@ -55,7 +55,7 @@ In fulfilling its responsibilities under this subsection, the state board may cr
 
 . In order to protect public health, the state board of health shall:
 
-.. Adopt rules for group A public water systems, as defined in *RCW 70.119A.020, necessary to assure safe and reliable public drinking water and to protect the public health. Such rules shall establish requirements regarding:
+.. Adopt rules for group A public water systems, as defined in RCW 70A.125.010, necessary to assure safe and reliable public drinking water and to protect the public health. Such rules shall establish requirements regarding:
 
 ... The design and construction of public water system facilities, including proper sizing of pipes and storage for the number and type of customers;
 
@@ -71,7 +71,7 @@ In fulfilling its responsibilities under this subsection, the state board may cr
 
 .. Quality standards for the source or supply, or both source and supply, of water for bottled water plants;
 
-.. Adopt rules as necessary for group B public water systems, as defined in *RCW 70.119A.020. The rules shall, at a minimum, establish requirements regarding the initial design and construction of a public water system. The state board of health rules may waive some or all requirements for group B public water systems with fewer than five connections;
+.. Adopt rules as necessary for group B public water systems, as defined in RCW 70A.125.010. The rules shall, at a minimum, establish requirements regarding the initial design and construction of a public water system. The state board of health rules may waive some or all requirements for group B public water systems with fewer than five connections;
 
 .. Adopt rules and standards for prevention, control, and abatement of health hazards and nuisances related to the disposal of human and animal excreta and animal remains;
 
@@ -91,7 +91,7 @@ In fulfilling its responsibilities under this subsection, the state board may cr
 
 . The state board may advise the secretary on health policy issues pertaining to the department of health and the state.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1488.SL.pdf?cite=2011%20c%2027%20§%201[2011 c 27 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6171-S.SL.pdf?cite=2009%20c%20495%20§%201[2009 c 495 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5894-S.SL.pdf?cite=2007%20c%20343%20§%2011[2007 c 343 § 11]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5304-S2.SL.pdf?cite=1993%20c%20492%20§%20489[1993 c 492 § 489]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2747-S.SL.pdf?cite=1992%20c%2034%20§%204[1992 c 34 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex1c9.pdf?cite=1989%201st%20ex.s.%20c%209%20§%20210[1989 1st ex.s. c 9 § 210]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c207.pdf?cite=1989%20c%20207%20§%201[1989 c 207 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c213.pdf?cite=1985%20c%20213%20§%201[1985 c 213 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c141.pdf?cite=1979%20c%20141%20§%2049[1979 c 141 § 49]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c102.pdf?cite=1967%20ex.s.%20c%20102%20§%209[1967 ex.s. c 102 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c8.pdf?cite=1965%20c%208%20§%2043.20.050[1965 c 8 § 43.20.050]; prior:   1901 c 116 § 1; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1891c98.pdf?cite=1891%20c%2098%20§%202[1891 c 98 § 2]; RRS § 6001.   1921 c 7 § 58; RRS § 10816; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2037[2021 c 65 § 37]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1488.SL.pdf?cite=2011%20c%2027%20§%201[2011 c 27 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6171-S.SL.pdf?cite=2009%20c%20495%20§%201[2009 c 495 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5894-S.SL.pdf?cite=2007%20c%20343%20§%2011[2007 c 343 § 11]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5304-S2.SL.pdf?cite=1993%20c%20492%20§%20489[1993 c 492 § 489]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2747-S.SL.pdf?cite=1992%20c%2034%20§%204[1992 c 34 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex1c9.pdf?cite=1989%201st%20ex.s.%20c%209%20§%20210[1989 1st ex.s. c 9 § 210]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c207.pdf?cite=1989%20c%20207%20§%201[1989 c 207 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c213.pdf?cite=1985%20c%20213%20§%201[1985 c 213 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c141.pdf?cite=1979%20c%20141%20§%2049[1979 c 141 § 49]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967ex1c102.pdf?cite=1967%20ex.s.%20c%20102%20§%209[1967 ex.s. c 102 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c8.pdf?cite=1965%20c%208%20§%2043.20.050[1965 c 8 § 43.20.050]; prior:   1901 c 116 § 1; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1891c98.pdf?cite=1891%20c%2098%20§%202[1891 c 98 § 2]; RRS § 6001.   1921 c 7 § 58; RRS § 10816; ]
 
 == 43.20.065 - On-site sewage system failures and inspections—Rule making.
 . Rules adopted by the state board under RCW 43.20.050(3) regarding failures of on-site sewage systems must:
@@ -108,11 +108,11 @@ In fulfilling its responsibilities under this subsection, the state board may cr
 
 .. Require any inspection of an on-site sewage system carried out by a certified professional inspector or responsible public agency to be authorized by the owner of the on-site sewage system prior to accessing the on-site sewage system;
 
-.. Allow, in cases where an inspection has not been authorized by a property owner, the local health jurisdiction to follow the procedures established for an administrative search warrant in *RCW 70.118.030; and
+.. Allow, in cases where an inspection has not been authorized by a property owner, the local health jurisdiction to follow the procedures established for an administrative search warrant in RCW 70A.105.030; and
 
 .. Forbid local health jurisdictions from requiring private property owners to grant inspection or maintenance easements for on-site sewage systems as a condition of permit issuance for on-site sewage systems that are located on a single property and service a single dwelling unit.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5503.SL.pdf?cite=2019%20c%2021%20§%202[2019 c 21 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2038[2021 c 65 § 38]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5503.SL.pdf?cite=2019%20c%2021%20§%202[2019 c 21 § 2]; ]
 
 == 43.20.100 - Biennial report.
 The state board of health shall report to the governor by July 1st of each even-numbered year including therein suggestions for public health priorities for the following biennium and such legislative action as it deems necessary.
@@ -255,6 +255,11 @@ In approving the water system plan of a public water system, the department shal
 
 [ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1338-S2.SL.pdf?cite=2003%201st%20sp.s.%20c%205%20§%208[2003 1st sp.s. c 5 § 8]; ]
 
+== 43.20.265 - Elevated lead level—Definition.
+After July 1, 2030, the state board may, by rule, define "elevated lead level" at a concentration of five or fewer parts per billion if scientific evidence supports a lower concentration as having the potential for further reducing the health effects of lead contamination in drinking water.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1139-S2.SL.pdf?cite=2021%20c%20154%20§%206[2021 c 154 § 6]; ]
+
 == 43.20.270 - Governor's interagency coordinating council on health disparities—Action plan—Statewide policy.
 The legislature finds that women and people of color experience significant disparities from men and the general population in education, employment, healthful living conditions, access to health care, and other social determinants of health. The legislature finds that these circumstances coupled with lower, slower, and less culturally appropriate and gender appropriate access to needed medical care result in higher rates of morbidity and mortality for women and persons of color than observed in the general population. Health disparities are defined by the national institute of health as the differences in incidence, prevalence, mortality, and burden of disease and other adverse health conditions that exist among specific population groups in the United States.
 
@@ -291,7 +296,7 @@ The state board shall, to the extent that funds are available expressly for this
 
 . A state agency may decline a request to provide assistance if complying with the request would not be feasible while operating within its available resources.
 
-. Upon delivery of the review to the requesting party, it shall be a public document, and shall be available on the state board's web site.
+. Upon delivery of the review to the requesting party, it shall be a public document, and shall be available on the state board's website.
 
 . The review shall be based on the best available empirical information and professional assumptions available to the state board within the time required for completing the review. The review should consider direct impacts on health disparities as well as changes in the social determinants of health.
 
@@ -303,4 +308,15 @@ The state board shall, to the extent that funds are available expressly for this
 The state board and the department shall collaborate to obtain any federal or private funding that may become available to implement the state board's duties under this chapter. If the department receives such funding, the department shall allocate it to the state board to implement its duties under this chapter, and any state general funds that may have been appropriated but are no longer needed by the state board shall lapse to the state general fund.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6197-S2.SL.pdf?cite=2006%20c%20239%20§%206[2006 c 239 § 6]; ]
+
+== 43.20.300 - Local boards of health—Membership.
+. The state board of health shall adopt rules establishing the appointment process for the members of local boards of health who are not elected officials. The selection process established by the rules must:
+
+.. Be fair and unbiased; and
+
+.. Ensure, to the extent practicable, that the membership of local boards of health include a balanced representation of elected officials and nonelected people with a diversity of expertise and lived experience.
+
+. The rules adopted under this section must go into effect no later than one year after July 25, 2021.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1152-S2.SL.pdf?cite=2021%20c%20205%20§%208[2021 c 205 § 8]; ]
 

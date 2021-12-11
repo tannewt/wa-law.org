@@ -67,7 +67,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 . "Original equipment service" means brake friction material provided as service parts originally designed for and using the same brake friction material formulation sold with a new motor vehicle.
 
-. "Small volume motor vehicle manufacturer" means a manufacturer of motor vehicles with Washington annual sales of less than one thousand new passenger cars, light-duty trucks, medium-duty vehicles, heavy-duty vehicles, and heavy-duty engines based on the average number of vehicles sold for the three previous consecutive model years.
+. "Small volume motor vehicle manufacturer" means a manufacturer of motor vehicles with Washington annual sales of less than one thousand new passenger cars, light duty trucks, medium duty vehicles, heavy duty vehicles, and heavy duty engines based on the average number of vehicles sold for the three previous consecutive model years.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201421[2020 c 20 § 1421]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5061.SL.pdf?cite=2011%20c%20171%20§%20111[2011 c 171 § 111]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6557-S.SL.pdf?cite=2010%20c%20147%20§%202[2010 c 147 § 2]; ]
 
@@ -121,7 +121,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 .. A representative of a nongovernmental organization concerned with the environment.
 
-. If convened pursuant to subsection (2) of this section, the committee shall separately assess alternative brake friction material for passenger vehicles, light-duty vehicles, and heavy-duty vehicles. The committee shall make different recommendations to the department as to whether alternative brake friction material is available or unavailable for passenger vehicles, light-duty vehicles, and heavy-duty vehicles. For purposes of this section, "heavy-duty vehicle" means a vehicle used for commercial purposes with a gross vehicle weight rating above twenty-six thousand pounds. The committee shall also consider appropriate exemptions including original equipment service and brake friction material manufactured prior to the dates specified in RCW 70A.340.050. The department shall consider the committee's recommendations and make a finding as to whether alternative brake friction material is available or unavailable.
+. If convened pursuant to subsection (2) of this section, the committee shall separately assess alternative brake friction material for passenger vehicles, light duty vehicles, and heavy duty vehicles. The committee shall make different recommendations to the department as to whether alternative brake friction material is available or unavailable for passenger vehicles, light duty vehicles, and heavy duty vehicles. For purposes of this section, "heavy duty vehicle" means a vehicle used for commercial purposes with a gross vehicle weight rating above twenty-six thousand pounds. The committee shall also consider appropriate exemptions including original equipment service and brake friction material manufactured prior to the dates specified in RCW 70A.340.050. The department shall consider the committee's recommendations and make a finding as to whether alternative brake friction material is available or unavailable.
 
 . If, pursuant to subsection (3) of this section, the department finds that alternative brake friction material:
 

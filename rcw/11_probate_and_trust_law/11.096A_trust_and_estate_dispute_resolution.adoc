@@ -28,7 +28,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 .. The direction of a personal representative or trustee to do or to abstain from doing any act in a fiduciary capacity;
 
-.. The determination of any question arising in the administration of an estate or trust, or with respect to any nonprobate asset, or with respect to any other asset or property interest passing at death, that may include, without limitation, questions relating to: (i) The construction of wills, trusts, community property agreements, and other writings; (ii) a change of personal representative or trustee; (iii) a change of the situs of a trust; (iv) an accounting from a personal representative or trustee; (v) the determination of fees for a personal representative or trustee; or (vi) the powers and duties of a statutory trust advisor or directed trustee of a directed trust under *chapter 11.98A RCW;
+.. The determination of any question arising in the administration of an estate or trust, or with respect to any nonprobate asset, or with respect to any other asset or property interest passing at death, that may include, without limitation, questions relating to: (i) The construction of wills, trusts, community property agreements, and other writings; (ii) a change of personal representative or trustee; (iii) a change of the situs of a trust; (iv) an accounting from a personal representative or trustee; (v) the determination of fees for a personal representative or trustee; or (vi) the powers and duties of a statutory trust director or directed trustee of a directed trust under chapter 11.98B RCW;
 
 .. The grant to a personal representative or trustee of any necessary or desirable power not otherwise granted in the governing instrument or given by law;
 
@@ -50,7 +50,9 @@ The definitions in this section apply throughout this chapter unless the context
 
 .. The resolution of any matter referencing this chapter, including a determination of any questions relating to the ownership or distribution of an individual retirement account on the death of the spouse of the account holder as contemplated by RCW 6.15.020(6);
 
-.. The resolution of any other matter that could affect the nonprobate asset; and
+.. The resolution of any other matter that could affect the nonprobate asset;
+
+.. With respect to any custodianship under a uniform transfers to minors act, the determination of any issues subject to court determination under chapter 11.114 RCW; and
 
 .. The reformation of a will or trust to correct a mistake under RCW 11.96A.125.
 
@@ -58,45 +60,83 @@ The definitions in this section apply throughout this chapter unless the context
 
 . "Notice agent" has the meanings given in RCW 11.42.010.
 
-. "Party" or "parties" means each of the following persons who has an interest in the subject of the particular proceeding and whose name and address are known to, or are reasonably ascertainable by, the petitioner:
+. "Party" or "parties" means any person who has a legal or equitable interest in, or who holds a power or a claim with respect to, the subject of a matter. Each of the terms "party" or "parties" must be construed liberally in its context to fulfill the purposes of the procedural rules contained in this chapter as supplemented by the court rules and to promote justice, without creating new substantive rights that do not otherwise exist under the laws of this state or principles of equity, and may include without limitation the following:
 
-.. The trustor if living;
+.. With respect to any property held subject to a revocable trust:
 
-.. The trustee;
+... Each trustee of the property subject to the trust; and
 
-.. The personal representative;
+... Each trustor who transferred the property;
 
-.. An heir;
+.. With respect to any property held subject to an irrevocable trust:
 
-.. A beneficiary, including devisees, legatees, and trust beneficiaries;
+... Each trustee of the trust holding the property;
 
-.. The surviving spouse or surviving domestic partner of a decedent with respect to his or her interest in the decedent's property;
+... Each qualified beneficiary, as defined in RCW 11.98.002, of the property subject to the trust and any other beneficiary whose interest is protected under the constitutional principles of due process; and
 
-.. A guardian ad litem;
+... Each holder of a power relating to the property;
 
-.. A creditor;
+.. With respect to any testate property:
 
-.. Any other person who has an interest in the subject of the particular proceeding;
+... Each personal representative appointed to execute the will governing that property;
 
-.. The attorney general if required under RCW 11.110.120;
+... Each devisee or legatee of that testate property;
 
-.. Any duly appointed and acting legal representative of a party such as a guardian, special representative, or attorney-in-fact;
+... Each holder of a power relating to the testate property following the testator's death; and
 
-.. Where applicable, the virtual representative of any person described in this subsection the giving of notice to whom would meet notice requirements as provided in RCW 11.96A.120;
+... Each creditor whose claim has been established by allowance or judgment;
 
-.. Any notice agent, resident agent, or a qualified person, as those terms are defined in chapter 11.42 RCW;
+.. With respect to any intestate property:
 
-.. The owner or the personal representative of the estate of the deceased owner of the nonprobate asset that is the subject of the particular proceeding, if the subject of the particular proceeding relates to the beneficiary's liability to a decedent's estate or creditors under RCW 11.18.200; and
+... Each personal representative appointed to administer that property;
 
-.. A statutory trust advisor or directed trustee of a directed trust under *chapter 11.98A RCW.
+... Each heir of the decedent who owned that property;
 
-. "Persons interested in the estate or trust" means the trustor, if living, all persons beneficially interested in the estate or trust, persons holding powers over the trust or estate assets, the attorney general in the case of any charitable trust where the attorney general would be a necessary party to judicial proceedings concerning the trust, and any personal representative or trustee of the estate or trust.
+... Each holder of a power relating to the intestate property following the owner's death; and
 
-. "Representative" and other similar terms refer to a person who virtually represents another under RCW 11.96A.120.
+... Each creditor whose claim has been established by allowance or judgment;
+
+.. With respect to any nonprobate asset, or with respect to any other asset or property interest passing at death, including joint tenancy property, property subject to a community property agreement, or assets subject to a pay on death or transfer on death designation:
+
+... Each custodian of the property;
+
+... Each transferee and beneficiary of the property; and
+
+... Each qualified person, the notice agent, or resident agent, as those terms are defined in chapter 11.42 RCW;
+
+.. With respect to any custodial property subject to a uniform transfers to minors act:
+
+... Each custodian of the custodial property;
+
+... The minor, as defined in RCW 11.114.010, for whose benefit the custodian holds the custodial property; and
+
+... Each other person who holds a power under chapter 11.114 RCW to act on behalf of the minor;
+
+.. With respect to any community property, each spouse;
+
+.. With respect to a matter relating to the powers and duties of a trust director or a directed trustee, or both:
+
+.. Each trust director with an interest in the matter;
+
+... Each directed trustee;
+
+... Each beneficiary, holder of a power, or other person whose interest or power is affected by the matter and is protected under the constitutional principles of due process;
+
+... Each creditor whose claim has been allowed but has not been paid;
+
+.. The attorney general to the extent that the attorney general is a necessary and proper party under RCW 11.110.120 and corresponding common law;
+
+.. Each person who claims a legal right, title, or interest in property being subjected to probate or trust administration, nonprobate assets, other property passing at death, or custodial property, including without limitation the resolution of rights and duties under RCW 11.18.200 and questions relating to legal ownership or abatement; and
+
+.. When necessary, a party's representative or representatives, which may include without limitation guardians; custodians; guardians ad litem; special representatives; virtual representatives; attorneys in fact; fiduciaries; and notice agents, resident agents, and qualified persons, as those terms are defined in chapter 11.42 RCW.
+
+. "Persons interested in the estate, trust, nonprobate asset, other property passing at death, or custodial property" means all persons legally or beneficially interested in the estate, trust, nonprobate asset, other property passing at death, or custodial property; all persons holding powers with respect to the trust, estate, nonprobate asset, other property passing at death, or custodial property; the attorney general in the case of any charitable trust where the attorney general would be a necessary party to judicial proceedings concerning the trust; all fiduciaries of the estate, trust, nonprobate asset, or other property passing at death; and all custodians of custodial property.
 
 . "Trustee" means any acting and qualified trustee of the trust.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5302.SL.pdf?cite=2015%20c%20115%20§%201[2015 c 115 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1051-S.SL.pdf?cite=2011%20c%20327%20§%205[2011 c 327 § 5]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1103-S.SL.pdf?cite=2009%20c%20525%20§%2020[2009 c 525 § 20]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%20927[2008 c 6 § 927]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6597-S.SL.pdf?cite=2006%20c%20360%20§%2010[2006 c 360 § 10]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6484.SL.pdf?cite=2002%20c%2066%20§%202[2002 c 66 § 2]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5196.SL.pdf?cite=1999%20c%2042%20§%20104[1999 c 42 § 104]; ]
+. "Virtual representative" and other similar terms refer to a person who virtually represents another under RCW 11.96A.120 or other applicable law.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5132.SL.pdf?cite=2021%20c%20140%20§%204018[2021 c 140 § 4018]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5302.SL.pdf?cite=2015%20c%20115%20§%201[2015 c 115 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1051-S.SL.pdf?cite=2011%20c%20327%20§%205[2011 c 327 § 5]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1103-S.SL.pdf?cite=2009%20c%20525%20§%2020[2009 c 525 § 20]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%20927[2008 c 6 § 927]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6597-S.SL.pdf?cite=2006%20c%20360%20§%2010[2006 c 360 § 10]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6484.SL.pdf?cite=2002%20c%2066%20§%202[2002 c 66 § 2]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5196.SL.pdf?cite=1999%20c%2042%20§%20104[1999 c 42 § 104]; ]
 
 == 11.96A.040 - Original jurisdiction in probate and trust matters—Powers of court.
 . The superior court of every county has original subject matter jurisdiction over the probate of wills and the administration of estates of incapacitated, missing, and deceased individuals in all instances, including without limitation:
@@ -305,13 +345,13 @@ Telephone Number: . . . . . .
 [ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5052-S.SL.pdf?cite=2001%20c%2014%20§%201[2001 c 14 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5196.SL.pdf?cite=1999%20c%2042%20§%20303[1999 c 42 § 303]; ]
 
 == 11.96A.110 - Notice in judicial proceedings under this title requiring notice.
-. Subject to RCW 11.96A.160, in all judicial proceedings under this title that require notice, the notice must be personally served on or mailed to all parties or the parties' virtual representatives at least twenty days before the hearing on the petition unless a different period is provided by statute or ordered by the court. The date of service shall be determined under the rules of civil procedure. Notwithstanding the foregoing, notice that is provided in an electronic transmission and electronically transmitted complies with this section if the party receiving notice has previously consented in a record delivered to the party giving notice to receiving notice by electronic transmission. Consent to receive notice by electronic transmission may be revoked at any time by a record delivered to the party giving notice. Consent is deemed revoked if the party giving notice is unable to electronically transmit two consecutive notices given in accordance with the consent.
+. Subject to RCW 11.96A.160, in all judicial proceedings under this title that require notice, the notice must be personally served on or mailed to all parties or the parties' legal or virtual representatives and to any other persons to whom notice may be required under applicable law at least twenty days before the hearing on the petition unless a different period is provided by statute or ordered by the court. The date of service shall be determined under the rules of civil procedure. Notwithstanding the foregoing, notice that is provided in an electronic transmission and electronically transmitted complies with this section if the party receiving notice has previously consented in a record delivered to the party giving notice to receiving notice by electronic transmission. Consent to receive notice by electronic transmission may be revoked at any time by a record delivered to the party giving notice. Consent is deemed revoked if the party giving notice is unable to electronically transmit two consecutive notices given in accordance with the consent.
 
 . Proof of the service, mailing, or electronic delivery required in this section must be made by affidavit or declaration filed at or before the hearing.
 
 . For the purposes of this title, the terms "electronic transmission" and "electronically transmitted" have the same meaning as set forth in RCW 23B.01.400.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1051-S.SL.pdf?cite=2011%20c%20327%20§%208[2011 c 327 § 8]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5196.SL.pdf?cite=1999%20c%2042%20§%20304[1999 c 42 § 304]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5132.SL.pdf?cite=2021%20c%20140%20§%204019[2021 c 140 § 4019]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1051-S.SL.pdf?cite=2011%20c%20327%20§%208[2011 c 327 § 8]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5196.SL.pdf?cite=1999%20c%2042%20§%20304[1999 c 42 § 304]; ]
 
 == 11.96A.115 - Discovery.
 In all matters governed by this title, discovery shall be permitted only in the following matters:
@@ -451,18 +491,18 @@ The purpose of RCW 11.96A.220 through 11.96A.250 is to provide a binding nonjudi
 [ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5196.SL.pdf?cite=1999%20c%2042%20§%20401[1999 c 42 § 401]; ]
 
 == 11.96A.220 - Binding agreement. (Effective until January 1, 2022.)
-RCW 11.96A.210 through 11.96A.250 shall be applicable to the resolution of any matter, as defined by RCW 11.96A.030, other than matters subject to *chapter 11.88 or 11.92 RCW, or a trust for a minor or other incapacitated person created at its inception by the judgment or decree of a court unless the judgment or decree provides that RCW 11.96A.210 through 11.96A.250 shall be applicable. If all parties agree to a resolution of any such matter, then the agreement shall be evidenced by a written agreement signed by all parties. Subject to the provisions of RCW 11.96A.240, the written agreement shall be binding and conclusive on all persons interested in the estate or trust. The agreement shall identify the subject matter of the dispute and the parties. If the agreement or a memorandum of the agreement is to be filed with the court under RCW 11.96A.230, the agreement may, but need not, include provisions specifically addressing jurisdiction, governing law, the waiver of notice of the filing as provided in RCW 11.96A.230, and the discharge of any special representative who has acted with respect to the agreement.
+RCW 11.96A.210 through 11.96A.250 shall be applicable to the resolution of any matter, as defined by RCW 11.96A.030, other than matters subject to *chapter 11.88 or 11.92 RCW, or a trust for a minor or other incapacitated person created at its inception by the judgment or decree of a court unless the judgment or decree provides that RCW 11.96A.210 through 11.96A.250 shall be applicable. If all parties agree to a resolution of any such matter, then the agreement shall be evidenced by a written agreement signed by all parties. Subject to the provisions of RCW 11.96A.240, the written agreement shall be binding and conclusive on all persons interested in the estate, trust, nonprobate asset, other property passing at death, or custodial property. The agreement shall identify the subject matter of the dispute and the parties. If the agreement or a memorandum of the agreement is to be filed with the court under RCW 11.96A.230, the agreement may, but need not, include provisions specifically addressing jurisdiction, governing law, the waiver of notice of the filing as provided in RCW 11.96A.230, and the discharge of any special representative who has acted with respect to the agreement.
 
 If a party who virtually represents another under RCW 11.96A.120 signs the agreement, then the party's signature constitutes the signature of all persons whom the party virtually represents, and all the virtually represented persons shall be bound by the agreement.
 
-[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5196.SL.pdf?cite=1999%20c%2042%20§%20402[1999 c 42 § 402]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5132.SL.pdf?cite=2021%20c%20140%20§%204020[2021 c 140 § 4020]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5196.SL.pdf?cite=1999%20c%2042%20§%20402[1999 c 42 § 402]; ]
 
 == 11.96A.230 - Entry of agreement with court—Effect.
 . Any party, or a party's legal representative, may file the written agreement or a memorandum summarizing the written agreement with the court having jurisdiction over the estate or trust. The agreement or a memorandum of its terms may be filed within thirty days of the agreement's execution by all parties only with the written consent of the special representative. The agreement or a memorandum of its terms may be filed after a special representative has commenced a proceeding under RCW 11.96A.240 only after the court has determined that the special representative has adequately represented and protected the parties represented. Failure to complete any action authorized or required under this subsection does not cause the written agreement to be ineffective and the agreement is nonetheless binding and conclusive on all persons interested in the estate or trust.
 
-. On filing the agreement or memorandum, the agreement will be deemed approved by the court and is equivalent to a final court order binding on all persons interested in the estate or trust.
+. On filing the agreement or memorandum, the agreement will be deemed approved by the court and is equivalent to a final court order binding on all persons interested in the estate, trust, nonprobate asset, other property passing at death, or custodial property.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5052-S.SL.pdf?cite=2001%20c%2014%20§%202[2001 c 14 § 2]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5196.SL.pdf?cite=1999%20c%2042%20§%20403[1999 c 42 § 403]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5132.SL.pdf?cite=2021%20c%20140%20§%204022[2021 c 140 § 4022]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5052-S.SL.pdf?cite=2001%20c%2014%20§%202[2001 c 14 § 2]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5196.SL.pdf?cite=1999%20c%2042%20§%20403[1999 c 42 § 403]; ]
 
 == 11.96A.240 - Judicial approval of agreement.
 Within thirty days of execution of the agreement by all parties, the special representative may note a hearing for presentation of the written agreement to a court of competent jurisdiction. The special representative shall provide notice of the time and date of the hearing to each party to the agreement whose address is known, unless such notice has been waived. Proof of mailing or delivery of the notice must be filed with the court. At such hearing the court shall review the agreement on behalf of the parties represented by the special representative. The court shall determine whether or not the interests of the represented parties have been adequately represented and protected, and an order declaring the court's determination shall be entered. If the court determines that such interests have not been adequately represented and protected, the agreement shall be declared of no effect.

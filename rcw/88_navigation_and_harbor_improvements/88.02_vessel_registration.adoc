@@ -167,7 +167,7 @@ A vessel owner shall notify the department within ten days of any of the followi
 
 .. Notify the new vessel owner described in (c) of this subsection that the carbon monoxide sticker must be affixed to the vessel as described in subsection (2) of this section.
 
-. A new or used motor driven vessel, as defined in RCW 79A.60.010, other than a personal watercraft, as defined in RCW 79A.60.010, sold within this state must display a carbon monoxide warning sticker as provided in subsection (1) of this section.
+. A new or used motor-driven vessel, as defined in RCW 79A.60.010, other than a personal watercraft, as defined in RCW 79A.60.010, sold within this state must display a carbon monoxide warning sticker as provided in subsection (1) of this section.
 
 . A vessel dealer shall ensure that a carbon monoxide warning sticker has been affixed to any vessel sold by the dealer before completing the sale.
 
@@ -389,7 +389,7 @@ It is the intention of the legislature:
 
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5987-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%2044%20§%20215[2015 3rd sp.s. c 44 § 215]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5061.SL.pdf?cite=2011%20c%20171%20§%20129[2011 c 171 § 129]; 2011 c 171 § 128; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6379.SL.pdf?cite=2010%20c%20161%20§%201020[2010 c 161 § 1020]; 2010 c 161 § 1019; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6044-S2.SL.pdf?cite=2007%20c%20342%20§%206[2007 c 342 § 6]; 2007 c 342 § 5; 2005 c 464 § 2; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2376-S.SL.pdf?cite=2002%20c%20286%20§%2013[2002 c 286 § 13]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1318-S.SL.pdf?cite=1993%20c%20244%20§%2038[1993 c 244 § 38]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c17.pdf?cite=1989%20c%2017%20§%201[1989 c 17 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex2c3.pdf?cite=1983%202nd%20ex.s.%20c%203%20§%2045[1983 2nd ex.s. c 3 § 45]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c7.pdf?cite=1983%20c%207%20§%2018[1983 c 7 § 18]; ]
 
-== 88.02.570 - Exemptions. (Effective until July 1, 2026.)
+== 88.02.570 - Exemptions. (Effective until January 1, 2029.)
 Vessel registration is required under this chapter except for the following:
 
 . A military vessel owned by the United States government;
@@ -500,18 +500,22 @@ The department shall include an informational brochure about the dangers of carb
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5061.SL.pdf?cite=2011%20c%20171%20§%20132[2011 c 171 § 132]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6379.SL.pdf?cite=2010%20c%20161%20§%201026[2010 c 161 § 1026]; ]
 
-== 88.02.620 - Nonresident vessel permit. (Effective until July 1, 2026.)
+== 88.02.620 - Nonresident vessel permit. (Effective until January 1, 2029.)
 . A vessel owner who is a nonresident person must obtain a nonresident vessel permit on or before the sixty-first day of use in Washington state if the vessel:
 
-.. Is currently registered or numbered under the laws of the state of principal operation or has been issued a valid number under federal law; and
+.. Is currently registered or numbered under the laws of the state or county of principal operation, has been issued a valid number under federal law, or has a valid United States customs service cruising license issued under 19 C.F.R. Sec. 4.94; and
 
-.. Has been brought into Washington state for personal use for not more than six months in any continuous twelve-month period.
+.. Has been brought into Washington state for not more than six months in any continuous twelve-month period, and is used:
 
-. In addition to the requirements in subsection (1) of this section, a nonresident vessel owner that is not a natural person may only obtain a nonresident vessel permit if:
+... For personal use; or
 
-.. The vessel is at least thirty feet in length, but no more than one hundred sixty-four feet in length;
+... For the purposes of chartering a vessel with a captain or crew, as long as individual charters are for at least three or more consecutive days in duration. The permit also applies for the purposes of necessary transit to or from the start or end point of such a charter, but that transit time is not counted toward the duration of the charter.
 
-.. No Washington state resident is a principal, as defined in RCW 82.32.865, of the nonresident person; and
+. In addition to the requirements in subsection (1) of this section, a nonresident vessel owner that is not a natural person, or a nonresident vessel owner who is a natural person who intends to charter the vessel with a captain or crew as provided in subsection (1)(b)(ii) of this section, may only obtain a nonresident vessel permit if:
+
+.. The vessel is at least thirty feet in length, but no more than two hundred feet in length;
+
+.. No Washington state resident owns the vessel or is a principal, as defined in RCW 82.32.865, of the nonresident person which owns the vessel; and
 
 .. The department of revenue has provided the nonresident vessel owner written approval authorizing the permit as provided in RCW 82.32.865.
 
@@ -519,17 +523,15 @@ The department shall include an informational brochure about the dangers of carb
 
 .. May be obtained from the department, county auditor or other agent, or subagent appointed by the director;
 
-.. Must show the date the vessel first came into Washington state;
+.. Must show the date the vessel first came into Washington state; and
 
-.. Is valid for two months; and
-
-.. May not be issued after December 31, 2025, to a nonresident vessel owner that is not a natural person.
+.. Is valid for two months.
 
 . The department, county auditor or other agent, or subagent appointed by the director must collect the fee required in RCW 88.02.640(1)(i) when issuing nonresident vessel permits.
 
 . A nonresident vessel permit is not required under this section if the vessel is used in conducting temporary business activity within Washington state.
 
-. For any permits issued under this section to a nonresident vessel owner that is not a natural person, the department must maintain a record of the following information and provide it to the department of revenue quarterly or as otherwise mutually agreed to by the department and department of revenue:
+. For any permits issued under this section to a nonresident vessel owner that is not a natural person, or for any permits issued to a natural person who intends to charter the vessel with a captain or crew as provided in subsection (1)(b)(ii) of this section, the department must maintain a record of the following information and provide it to the department of revenue quarterly or as otherwise mutually agreed to by the department and department of revenue:
 
 .. The name of the record owner of the vessel;
 
@@ -545,9 +547,9 @@ The department shall include an informational brochure about the dangers of carb
 
 . The department must adopt rules to implement this section, including rules on issuing and displaying the nonresident vessel permit.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6057-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%206%20§%20802[2015 3rd sp.s. c 6 § 802]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5061.SL.pdf?cite=2011%20c%20171%20§%20133[2011 c 171 § 133]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6379.SL.pdf?cite=2010%20c%20161%20§%201027[2010 c 161 § 1027]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1107-S.SL.pdf?cite=2021%20c%20150%20§%201[2021 c 150 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6057-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%206%20§%20802[2015 3rd sp.s. c 6 § 802]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5061.SL.pdf?cite=2011%20c%20171%20§%20133[2011 c 171 § 133]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6379.SL.pdf?cite=2010%20c%20161%20§%201027[2010 c 161 § 1027]; ]
 
-== 88.02.640 - Fees by type—Disposition, distribution. (Effective until January 1, 2026.)
+== 88.02.640 - Fees by type—Disposition, distribution. (Effective until January 1, 2029.)
 . In addition to any other fees and taxes required by law, the department, county auditor or other agent, or subagent appointed by the director must charge the following vessel fees and surcharge:
 
 FEEAMOUNTAUTHORITYDISTRIBUTION(a) Dealer temporary permit$5.00RCW 88.02.800(2)General fund(b) Derelict vessel and invasive species removalSubsection (3) of this sectionSubsection (3) of this sectionSubsection (3) of this section(c) Derelict vessel removal surcharge$1.00Subsection (4) of this sectionSubsection (4) of this section(d) Duplicate certificate of title$1.25RCW 88.02.530(1)(c)General fund(e) Duplicate registration$1.25RCW 88.02.590(1)(c)General fund(f) FilingRCW 46.17.005RCW 88.02.560(2)RCW 46.68.400(g) License plate technologyRCW 46.17.015RCW 88.02.560(2)RCW 46.68.370(h) License serviceRCW 46.17.025RCW 88.02.560(2)RCW 46.68.220(i) Nonresident vessel permitSubsection (5) of this sectionRCW 88.02.620(4)Subsection (5) of this section(j) Quick title service$50.00RCW 88.02.540(3)Subsection (7) of this section(k) Registration$10.50RCW 88.02.560(2)RCW 88.02.650(l) Replacement decal$1.25RCW 88.02.595(1)(c)General fund(m) Service feeRCW 46.17.040RCW 88.02.515 and 88.02.560(2)RCW 46.17.040(n) Title application$5.00RCW 88.02.515General fund(o) Transfer$1.00RCW 88.02.560(7)General fund(p) Vessel visitor permit$30.00RCW 88.02.610(3)Subsection (6) of this section
@@ -711,11 +713,11 @@ Subsection (6) of this section
 
 (B) Thirty dollars per foot for vessels between one hundred and one hundred twenty feet in length; and
 
-(C) Thirty-seven dollars and fifty cents per foot for vessels between one hundred twenty-one and one hundred sixty-four feet in length. The fee must be multiplied by the extreme length of the vessel in feet, rounded up to the nearest whole foot.
+(C) Thirty-seven dollars and fifty cents per foot for vessels between one hundred twenty-one and two hundred feet in length. The fee must be multiplied by the extreme length of the vessel in feet, rounded up to the nearest whole foot.
 
 .. The fee must be paid by the vessel owner to the department. Any moneys remaining from the fee after the payment of costs to administer the permit must be allocated to counties by the state treasurer for approved boating safety programs under RCW 88.02.650.
 
-.. A nonresident vessel owner that is not a natural person may not obtain more than two nonresident vessel permits under RCW 88.02.620 within any thirty-six month period.
+.. In addition to the applicable fees under this section, vessel owners who obtain a nonresident vessel permit for the purposes of chartering their vessel with a captain or crew are subject to use tax as provided in RCW 82.12.799.
 
 . The thirty dollar vessel visitor permit fee must be distributed as follows:
 
@@ -740,7 +742,7 @@ Subsection (6) of this section
 
 . The department, county auditor or other agent, or subagent appointed by the director shall charge the service fee under subsection (1)(m) of this section beginning January 1, 2016.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5303-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2017%20§%20104[2017 3rd sp.s. c 17 § 104]; 2017 3rd sp.s. c 17 § 103; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5987-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%2044%20§%20216[2015 3rd sp.s. c 44 § 216]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6057-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%206%20§%20803[2015 3rd sp.s. c 6 § 803]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1157-S.SL.pdf?cite=2015%202nd%20sp.s.%20c%201%20§%202[2015 2nd sp.s. c 1 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1245-S.SL.pdf?cite=2013%20c%20291%20§%201[2013 c 291 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2660.SL.pdf?cite=2012%20c%2074%20§%2016[2012 c 74 § 16]; prior:  2011 c 326 § 5; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5061.SL.pdf?cite=2011%20c%20171%20§%20134[2011 c 171 § 134]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5036-S.SL.pdf?cite=2011%20c%20169%20§%201[2011 c 169 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6379.SL.pdf?cite=2010%20c%20161%20§%201028[2010 c 161 § 1028]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1107-S.SL.pdf?cite=2021%20c%20150%20§%202[2021 c 150 § 2]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5303-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2017%20§%20104[2017 3rd sp.s. c 17 § 104]; 2017 3rd sp.s. c 17 § 103; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5987-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%2044%20§%20216[2015 3rd sp.s. c 44 § 216]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6057-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%206%20§%20803[2015 3rd sp.s. c 6 § 803]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1157-S.SL.pdf?cite=2015%202nd%20sp.s.%20c%201%20§%202[2015 2nd sp.s. c 1 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1245-S.SL.pdf?cite=2013%20c%20291%20§%201[2013 c 291 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2660.SL.pdf?cite=2012%20c%2074%20§%2016[2012 c 74 § 16]; prior:  2011 c 326 § 5; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5061.SL.pdf?cite=2011%20c%20171%20§%20134[2011 c 171 § 134]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5036-S.SL.pdf?cite=2011%20c%20169%20§%201[2011 c 169 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6379.SL.pdf?cite=2010%20c%20161%20§%201028[2010 c 161 § 1028]; ]
 
 == 88.02.650 - Deposit of fees in general fund—Allocation for boating safety and education and law enforcement purposes.
 . General fees for vessel registrations collected by the director must be deposited in the general fund. Except as provided in subsection (2) of this section, any amount above one million one hundred thousand dollars per fiscal year must be allocated to counties by the state treasurer for boating safety/education and law enforcement programs. Eligibility for boating safety/education and law enforcement program allocations is contingent upon approval of the local boating safety program by the state parks and recreation commission. Fund allocation must be based on the numbers of registered vessels by county of moorage. Each benefiting county is responsible for equitable distribution of such allocation to other jurisdictions with approved boating safety programs within the county. Any fees not allocated to counties due to the absence of an approved boating safety program must be allocated to the state parks and recreation commission for awards to local governments to offset law enforcement and boating safety impacts of boaters recreating in jurisdictions other than where registered. Jurisdictions receiving funds under this section shall deposit the funds into an account dedicated solely for supporting the jurisdiction's boating safety programs. These funds may not replace existing local funds used for boating safety programs.

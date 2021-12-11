@@ -205,7 +205,7 @@ Any person or health facility may assume that a directive complies with this cha
 
 . The registry must:
 
-.. Be maintained in a secure database that is accessible through a web site maintained by the department of health;
+.. Be maintained in a secure database that is accessible through a website maintained by the department of health;
 
 .. Send annual electronic messages to individuals that have submitted health care declarations to request that they review the registry materials to ensure that it is current;
 
@@ -213,9 +213,9 @@ Any person or health facility may assume that a directive complies with this cha
 
 .. Provide the personal representatives of individuals who have submitted one or more health care declarations to the registry, attending physicians, advanced registered nurse practitioners, health care providers licensed by a disciplining authority identified in RCW 18.130.040 who is acting under the direction of a physician or an advanced registered nurse practitioner, and health care facilities, as defined in this chapter or in chapter 71.32 RCW, access to the registry at all times.
 
-. In designing the registry and web site, the department of health shall ensure compliance with state and federal requirements related to patient confidentiality.
+. In designing the registry and website, the department of health shall ensure compliance with state and federal requirements related to patient confidentiality.
 
-. The department shall provide information to health care providers and health care facilities on the registry web site regarding the different federal and Washington state requirements to ascertain and document whether a patient has an advance directive.
+. The department shall provide information to health care providers and health care facilities on the registry website regarding the different federal and Washington state requirements to ascertain and document whether a patient has an advance directive.
 
 . The department of health may accept donations, grants, gifts, or other forms of voluntary contributions to support activities related to the creation and maintenance of the health care declarations registry and statewide public education campaigns related to the existence of the registry. All receipts from donations made under this section, and other contributions and appropriations specifically made for the purposes of creating and maintaining the registry established under this section and statewide public education campaigns related to the existence of the registry, shall be deposited into the general fund. These moneys in the general fund may be spent only after appropriation.
 

@@ -8,7 +8,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 . "Business" means any trade, occupation, activity, or enterprise engaged in for the purpose of selling or distributing vapor products in this state.
 
-. "Child care facility" has the same meaning as provided in *RCW 70.140.020.
+. "Child care facility" has the same meaning as provided in RCW 70A.320.020.
 
 . "Closed system nicotine container" means a sealed, prefilled, and disposable container of nicotine in a solution or other form in which such container is inserted directly into an electronic cigarette, electronic nicotine delivery system, or other similar product, if the nicotine in the container is inaccessible through customary or reasonably foreseeable handling or use, including reasonably foreseeable ingestion or other contact by children.
 
@@ -41,7 +41,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 .. The term "sale" includes a gift by a person engaged in the business of selling vapor products, for advertising, promoting, or as a means of evading the provisions of this chapter.
 
-. "School" has the same meaning as provided in *RCW 70.140.020.
+. "School" has the same meaning as provided in RCW 70A.320.020.
 
 . "Self-service display" means a display that contains vapor products and is located in an area that is openly accessible to customers and from which customers can readily access such products without the assistance of a salesperson. A display case that holds vapor products behind locked doors does not constitute a self-service display.
 
@@ -53,7 +53,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 .. For purposes of this subsection (18), "marijuana," "useable marijuana," "marijuana concentrates," and "marijuana-infused products" have the same meaning as provided in RCW 69.50.101.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1873-S2.SL.pdf?cite=2019%20c%20445%20§%20210[2019 c 445 § 210]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1074.SL.pdf?cite=2019%20c%2015%20§%204[2019 c 15 § 4]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6328-S.SL.pdf?cite=2016%20sp.s.%20c%2038%20§%204[2016 sp.s. c 38 § 4]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2069[2021 c 65 § 69]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1873-S2.SL.pdf?cite=2019%20c%20445%20§%20210[2019 c 445 § 210]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1074.SL.pdf?cite=2019%20c%2015%20§%204[2019 c 15 § 4]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6328-S.SL.pdf?cite=2016%20sp.s.%20c%2038%20§%204[2016 sp.s. c 38 § 4]; ]
 
 == 70.345.020 - Types of licenses—Applications—License expiration and display.
 . The licenses issuable by the board under this chapter are as follows:

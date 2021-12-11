@@ -90,14 +90,14 @@ The meaning and effect of a power of attorney is determined by the law of the ju
 
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5635-S.SL.pdf?cite=2016%20c%20209%20§%20107[2016 c 209 § 107]; ]
 
-== 11.125.080 - Guardian of principal's estate or person. (Effective until January 1, 2021.)
+== 11.125.080 - Guardian of principal's estate or person. (Effective until January 1, 2022.)
 . In a power of attorney, a principal may nominate a guardian of the principal's estate or guardian of the principal's person for consideration by the court if protective proceedings for the principal's estate or person are begun after the principal executes the power of attorney. Except for good cause shown or disqualification, the court shall make its appointment in accordance with the principal's most recent nomination.
 
-. If, after a principal executes a power of attorney, a court appoints a guardian of the principal's estate or other fiduciary charged with the management of all of the principal's property, the power of attorney is terminated and the agent's authority does not continue unless continued by the court.
+. If, after a principal executes a power of attorney, a court appoints a guardian of the principal's estate or other fiduciary charged with the management of all of the principal's property, the power of attorney remains in effect subject to the provisions of RCW 11.130.335(1).
 
 . If, after a principal executes a power of attorney, a court appoints a guardian of the principal's estate or other fiduciary charged with the management of some but not all of the principal's property, the power of attorney shall not terminate or be modified, except to the extent ordered by the court.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5635-S.SL.pdf?cite=2016%20c%20209%20§%20108[2016 c 209 § 108]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5604-S2.SL.pdf?cite=2019%20c%20437%20§%20316[2019 c 437 § 316]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5635-S.SL.pdf?cite=2016%20c%20209%20§%20108[2016 c 209 § 108]; ]
 
 == 11.125.090 - Power of attorney—When effective—Principal's personal representative for health care.
 . A power of attorney is effective when executed unless the principal provides in the power of attorney that it becomes effective at a future date or upon the occurrence of a future event or contingency.

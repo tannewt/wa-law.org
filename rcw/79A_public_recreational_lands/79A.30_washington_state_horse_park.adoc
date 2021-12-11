@@ -44,7 +44,7 @@ Unless the context clearly indicates otherwise, the definitions in this section 
 
 [ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2399-S.SL.pdf?cite=2000%20c%2011%20§%2084[2000 c 11 § 84]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5403-S.SL.pdf?cite=1995%20c%20200%20§%203[1995 c 200 § 3]; ]
 
-== 79A.30.030 - Washington state horse park authority—Formation—Powers—Articles of incorporation—Board.
+== 79A.30.030 - Washington state horse park authority—Formation—Powers—Articles of incorporation—Board. (Effective until January 1, 2022.)
 . A nonprofit corporation may be formed under the nonprofit corporation provisions of chapter 24.03 RCW to carry out the purposes of this chapter. Except as provided in RCW 79A.30.040, the corporation shall have all the powers and be subject to the same restrictions as are permitted or prescribed to nonprofit corporations and shall exercise those powers only for carrying out the purposes of this chapter and those purposes necessarily implied therefrom. The nonprofit corporation shall be known as the Washington state horse park authority. The articles of incorporation shall provide that it is the responsibility of the authority to develop, promote, operate, manage, and maintain the Washington state horse park. The articles of incorporation shall provide for appointment of directors and other conduct of business consistent with the requirements of this chapter.
 
 . [Empty]
@@ -66,7 +66,7 @@ Unless the context clearly indicates otherwise, the definitions in this section 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5212.SL.pdf?cite=2013%20c%2031%20§%202[2013 c 31 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1371-S2.SL.pdf?cite=2011%201st%20sp.s.%20c%2021%20§%2032[2011 1st sp.s. c 21 § 32]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2399-S.SL.pdf?cite=2000%20c%2011%20§%2085[2000 c 11 § 85]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5403-S.SL.pdf?cite=1995%20c%20200%20§%204[1995 c 200 § 4]; ]
 
-== 79A.30.040 - Washington state horse park authority—Powers.
+== 79A.30.040 - Washington state horse park authority—Powers. (Effective until January 1, 2022.)
 To meet its responsibility for developing, promoting, operating, managing, and maintaining the state horse park, the authority is empowered to do the following:
 
 . Exercise the general powers authorized for any nonprofit corporation as specified in RCW 24.03.035. All debts of the authority shall be in the name of the authority and shall not be debts of the state of Washington for which the state or any state agency shall have any obligation to pay; and the authority may not issue bonds. Neither the full faith and credit of the state nor the state's taxing power is pledged for any indebtedness of the authority;

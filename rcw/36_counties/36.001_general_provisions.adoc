@@ -216,6 +216,11 @@ The county legislative authority of any county that receives payment in lieu of 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5183-S.SL.pdf?cite=2019%20c%20390%20§%2016[2019 c 390 § 16]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1227.SL.pdf?cite=2009%20c%2079%20§%203[2009 c 79 § 3]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5524-S.SL.pdf?cite=2008%20c%20117%20§%203[2008 c 117 § 3]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6593.SL.pdf?cite=2004%20c%20256%20§%204[2004 c 256 § 4]; ]
 
+== 36.01.227 - County may not limit number of unrelated persons occupying a household or dwelling unit—Exceptions.
+Except for occupant limits on group living arrangements regulated under state law or on short-term rentals as defined in RCW 64.37.010 and any lawful limits on occupant load per square foot or generally applicable health and safety provisions as established by applicable building code or county ordinance, a county may not regulate or limit the number of unrelated persons that may occupy a household or dwelling unit.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5235-S.SL.pdf?cite=2021%20c%20306%20§%207[2021 c 306 § 7]; ]
+
 == 36.01.230 - Cooperative watershed management.
 A county may, acting through the county legislative authority, participate in and expend revenue on cooperative watershed management actions, including watershed management partnerships under RCW 39.34.210 and other intergovernmental agreements, for purposes of water supply, water quality, and water resource and habitat protection and management.
 
@@ -233,12 +238,12 @@ A county or governmental entity subject to this title may not regulate the terms
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1929-S.SL.pdf?cite=2007%20c%20349%20§%206[2007 c 349 § 6]; ]
 
-== 36.01.260 - Evergreen community ordinances.
-. Any county may adopt evergreen community ordinances, as that term is defined in RCW 35.105.010, which the county must apply to new building or land development in the unincorporated portions of the county's urban growth areas, as that term is defined in RCW 36.70A.030, and may apply to other areas of the county as deemed appropriate by the county.
+== 36.01.260 - Urban forestry ordinances.
+. Any county may adopt urban forestry ordinances, as that term is defined in RCW 76.15.010, which the county must apply to new building or land development in the unincorporated portions of the county's urban growth areas, as that term is defined in RCW 36.70A.030, and may apply to other areas of the county as deemed appropriate by the county.
 
-. As an alternative to subsection (1) of this section, a city or town may request that the county in which it is located apply to any new building or land development permit in the unincorporated portions of the urban growth areas, as defined in RCW 36.70A.030, the evergreen community ordinances standards adopted under RCW 35.105.090 by the city or town in the county located closest to the proposed building or development.
+. As an alternative to subsection (1) of this section, a city or town may request that the county in which it is located apply to any new building or land development permit in the unincorporated portions of the urban growth areas, as defined in RCW 36.70A.030, the urban forestry ordinances standards adopted under RCW 76.15.090 by the city or town in the county located closest to the proposed building or development.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2844-S2.SL.pdf?cite=2008%20c%20299%20§%2015[2008 c 299 § 15]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1216-S2.SL.pdf?cite=2021%20c%20209%20§%2020[2021 c 209 § 20]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2844-S2.SL.pdf?cite=2008%20c%20299%20§%2015[2008 c 299 § 15]; ]
 
 == 36.01.270 - Contractors—Authority of county to verify registration and report violations.
 A county that issues a business license to a person required to be registered under chapter 18.27 RCW may verify that the person is registered under chapter 18.27 RCW and report violations to the department of labor and industries.
@@ -346,7 +351,7 @@ The antidiscrimination provisions of RCW 49.60.500 apply to community athletics 
 
 ... Delivering to each local newspaper of general circulation and local radio or television station that has on file with the governing body a written request to be notified of special meetings;
 
-... Posting on the county's web site. A county is not required to post a special meeting notice on its web site if it: (A) Does not have a web site; (B) employs fewer than ten full-time equivalent employees; or (C) does not employ personnel whose duty, as defined by a job description or existing contract, is to maintain or update the web site;
+... Posting on the county's website. A county is not required to post a special meeting notice on its website if it: (A) Does not have a website; (B) employs fewer than ten full-time equivalent employees; or (C) does not employ personnel whose duty, as defined by a job description or existing contract, is to maintain or update the website;
 
 ... Prominently displaying, on signage at least two feet in height and two feet in width, one or more meeting notices that can be placed on or adjacent to the main arterials in proximity to the location of the meeting; or
 
@@ -446,7 +451,37 @@ A county must comply with the requirements of RCW 47.01.485 in making a final de
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5994-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%2015%20§%205[2015 3rd sp.s. c 15 § 5]; ]
 
 == 36.01.350 - Removal of restrictive covenants—Hearing, notice.
-Any county must hold a public hearing upon a proposal to remove, vacate, or extinguish a restrictive covenant from property owned by the county before the action is finalized. The public hearing must allow individuals to provide testimony regarding the proposed action. The county must provide notice of the public hearing at least ten days before the hearing at its usual place of business and issue a press release to local media providing the date, time, location, and reason for the public hearing. The notice must be posted on the county's web site if it is updated for any reason before the hearing. The notice must also identify the property and provide a brief explanation of the restrictive covenant to be removed, vacated, or extinguished. Any member of the public, in person or by counsel, may submit testimony regarding the proposed action at the public hearing.
+Any county must hold a public hearing upon a proposal to remove, vacate, or extinguish a restrictive covenant from property owned by the county before the action is finalized. The public hearing must allow individuals to provide testimony regarding the proposed action. The county must provide notice of the public hearing at least ten days before the hearing at its usual place of business and issue a press release to local media providing the date, time, location, and reason for the public hearing. The notice must be posted on the county's website if it is updated for any reason before the hearing. The notice must also identify the property and provide a brief explanation of the restrictive covenant to be removed, vacated, or extinguished. Any member of the public, in person or by counsel, may submit testimony regarding the proposed action at the public hearing.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1959.SL.pdf?cite=2017%20c%20119%20§%205[2017 c 119 § 5]; ]
+
+== 36.01.360 - Telecommunications services and facilities authorized—Requirements.
+. A county may construct, purchase, acquire, develop, finance, lease, license, provide, contract for, interconnect, alter, improve, repair, operate, and maintain telecommunications services or telecommunications facilities for the purpose of furnishing the county and its inhabitants with telecommunications services. The county has full authority to regulate and control the use, distribution, and price of the services.
+
+. [Empty]
+.. Before providing telecommunications services pursuant to subsection (1) of this section, a county must examine and report to its governing body and to the state broadband office the following about the area to be served by the county:
+
+... An assessment of the current availability of broadband infrastructure and its adequacy to provide high-speed internet access and other advanced telecommunications services to end users;
+
+... The location of where retail telecommunications services will be provided;
+
+... Evidence relating to the unserved nature of the community in which retail telecommunications services will be provided;
+
+... Expected costs of providing retail telecommunications services to customers to be served by the county;
+
+.. Evidence that proposed telecommunications infrastructure will be capable of scaling to greater download and upload speeds to meet state broadband goals under RCW 43.330.536;
+
+.. Sources of funding for the project that will supplement any grant or loan awards; and
+
+.. A strategic plan to maintain long-term operation of the infrastructure, and the expected installation charges and monthly costs for end users.
+
+.. The state broadband office must post a review of the proposed project on its website.
+
+. For purposes of this section:
+
+.. "Telecommunications" has the same meaning as defined in RCW 80.04.010.
+
+.. "Unserved" means an area of Washington in which households and businesses lack access to broadband service at a minimum 100 megabits per second download speed and at a minimum 20 megabits per second upload speed.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1336-S.SL.pdf?cite=2021%20c%20294%20§%207[2021 c 294 § 7]; ]
 

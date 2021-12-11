@@ -1,7 +1,7 @@
 = 2.36 - Juries.
 :toc:
 
-== 2.36.010 - Definitions.
+== 2.36.010 - Definitions. (Effective until January 1, 2022.)
 Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
 
 . A jury is a body of persons temporarily selected from the qualified inhabitants of a particular district, and invested with power—

@@ -1,12 +1,12 @@
 = 11.98B - Uniform directed trust act.
 :toc:
 
-== 11.98B.005 - Short title. (Effective January 1, 2021.)
+== 11.98B.005 - Short title.
 This chapter may be known and cited as the uniform directed trust act.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6029-S.SL.pdf?cite=2020%20c%20303%20§%201[2020 c 303 § 1]; ]
 
-== 11.98B.010 - Definitions. (Effective January 1, 2021.)
+== 11.98B.010 - Definitions.
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 
 . "Breach of trust" includes a violation by a trust director or trustee of a duty imposed on that director or trustee by the terms of the trust, this chapter, or law of this state other than this chapter pertaining to trusts.
@@ -45,7 +45,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6029-S.SL.pdf?cite=2020%20c%20303%20§%202[2020 c 303 § 2]; ]
 
-== 11.98B.020 - Applicability—Principal place of administration. (Effective January 1, 2021.)
+== 11.98B.020 - Applicability—Principal place of administration.
 . This chapter applies to a trust, whenever created, that has its principal place of administration in this state, subject to the following rules:
 
 .. If the trust was created before January 1, 2021, this chapter applies only to a decision or action occurring on or after January 1, 2021.
@@ -62,7 +62,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6029-S.SL.pdf?cite=2020%20c%20303%20§%203[2020 c 303 § 3]; ]
 
-== 11.98B.030 - Applicability—Exclusions—Power of appointment. (Effective January 1, 2021.)
+== 11.98B.030 - Applicability—Exclusions—Power of appointment.
 . In this section, "power of appointment" means a power that enables a person acting in a nonfiduciary capacity to designate a recipient of an ownership interest in or another power of appointment over trust property.
 
 . This chapter does not apply to a:
@@ -89,12 +89,12 @@ The definitions in this section apply throughout this chapter unless the context
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6029-S.SL.pdf?cite=2020%20c%20303%20§%205[2020 c 303 § 5]; ]
 
-== 11.98B.040 - Common law and principles of equity supplement. (Effective January 1, 2021.)
+== 11.98B.040 - Common law and principles of equity supplement.
 The common law and principles of equity supplement this chapter, except to the extent modified by this chapter or law of this state other than this chapter.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6029-S.SL.pdf?cite=2020%20c%20303%20§%204[2020 c 303 § 4]; ]
 
-== 11.98B.050 - Trust director—Power of direction. (Effective January 1, 2021.)
+== 11.98B.050 - Trust director—Power of direction.
 . Subject to RCW 11.98B.060, the terms of a trust may grant a power of direction to a trust director.
 
 . Unless the terms of a trust provide otherwise:
@@ -105,7 +105,7 @@ The common law and principles of equity supplement this chapter, except to the e
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6029-S.SL.pdf?cite=2020%20c%20303%20§%206[2020 c 303 § 6]; ]
 
-== 11.98B.060 - Trust director—Power of direction—Limitations. (Effective January 1, 2021.)
+== 11.98B.060 - Trust director—Power of direction—Limitations.
 A trust director is subject to the same rules as a trustee in a like position and under similar circumstances in the exercise or nonexercise of a power of direction or further power under RCW 11.98B.050(2)(a) regarding:
 
 . A payback provision in the terms of a trust necessary to comply with the reimbursement requirements of medicaid law in section 1917 of the social security act, 42 U.S.C. Sec. 1396p(d)(4)(A), as amended, as of January 1, 2021; and
@@ -114,7 +114,7 @@ A trust director is subject to the same rules as a trustee in a like position an
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6029-S.SL.pdf?cite=2020%20c%20303%20§%207[2020 c 303 § 7]; ]
 
-== 11.98B.070 - Trust director—Duties and liability. (Effective January 1, 2021.)
+== 11.98B.070 - Trust director—Duties and liability.
 . Subject to subsection (2) of this section, with respect to a power of direction or further power under RCW 11.98B.050(2)(a):
 
 .. A trust director has the same fiduciary duty and liability in the exercise or nonexercise of the power:
@@ -131,7 +131,7 @@ A trust director is subject to the same rules as a trustee in a like position an
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6029-S.SL.pdf?cite=2020%20c%20303%20§%208[2020 c 303 § 8]; ]
 
-== 11.98B.080 - Directed trustee—Duties and liability. (Effective January 1, 2021.)
+== 11.98B.080 - Directed trustee—Duties and liability.
 . Subject to subsection (2) of this section, a directed trustee shall take reasonable action to comply with a trust director's exercise or nonexercise of a power of direction or further power under RCW 11.98B.050(2)(a), and the trustee is not liable for the action.
 
 . A directed trustee must not comply with a trust director's exercise or nonexercise of a power of direction or further power under RCW 11.98B.050(2)(a) to the extent that by complying the trustee would engage in willful misconduct.
@@ -150,7 +150,7 @@ A trust director is subject to the same rules as a trustee in a like position an
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6029-S.SL.pdf?cite=2020%20c%20303%20§%209[2020 c 303 § 9]; ]
 
-== 11.98B.090 - Duty to provide information to trust director or trustee. (Effective January 1, 2021.)
+== 11.98B.090 - Duty to provide information to trust director or trustee.
 . Subject to RCW 11.98B.100, a trustee shall provide information to a trust director to the extent the information is reasonably related both to:
 
 .. The powers or duties of the trustee; and
@@ -169,7 +169,7 @@ A trust director is subject to the same rules as a trustee in a like position an
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6029-S.SL.pdf?cite=2020%20c%20303%20§%2010[2020 c 303 § 10]; ]
 
-== 11.98B.100 - No duty to monitor, inform, or advise trust director or trustee. (Effective January 1, 2021.)
+== 11.98B.100 - No duty to monitor, inform, or advise trust director or trustee.
 . Unless the terms of a trust provide otherwise:
 
 .. A trustee does not have a duty to:
@@ -192,31 +192,31 @@ A trust director is subject to the same rules as a trustee in a like position an
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6029-S.SL.pdf?cite=2020%20c%20303%20§%2011[2020 c 303 § 11]; ]
 
-== 11.98B.110 - Application to cotrustee. (Effective January 1, 2021.)
+== 11.98B.110 - Application to cotrustee.
 The terms of a trust may relieve a cotrustee from duty and liability with respect to another cotrustee's exercise or nonexercise of a power of the other cotrustee to the same extent that in a directed trust a directed trustee is relieved from duty and liability with respect to a trust director's power of direction under RCW 11.98B.080 through 11.98B.100.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6029-S.SL.pdf?cite=2020%20c%20303%20§%2012[2020 c 303 § 12]; ]
 
-== 11.98B.120 - Trust director—Action against—Limitation. (Effective January 1, 2021.)
+== 11.98B.120 - Trust director—Action against—Limitation.
 . An action against a trust director for breach of trust must be commenced within the same limitation period under RCW 11.96A.070 as for an action for breach of trust against a trustee in a like position and under similar circumstances.
 
 . A report or accounting has the same effect on the limitation period for an action against a trust director for breach of trust that the report or accounting would have under RCW 11.96A.070 in an action for breach of trust against a trustee in a like position and under similar circumstances.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6029-S.SL.pdf?cite=2020%20c%20303%20§%2013[2020 c 303 § 13]; ]
 
-== 11.98B.130 - Trust director—Action against—Defenses. (Effective January 1, 2021.)
+== 11.98B.130 - Trust director—Action against—Defenses.
 In an action against a trust director for breach of trust, the director may assert the same defenses a trustee in a like position and under similar circumstances could assert in an action for breach of trust against the trustee.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6029-S.SL.pdf?cite=2020%20c%20303%20§%2014[2020 c 303 § 14]; ]
 
-== 11.98B.140 - Trust director—Personal jurisdiction. (Effective January 1, 2021.)
+== 11.98B.140 - Trust director—Personal jurisdiction.
 . By accepting appointment as a trust director of a trust subject to this chapter, the director submits to personal jurisdiction of the courts of this state regarding any matter related to a power or duty of the director.
 
 . This section does not preclude other methods of obtaining jurisdiction over a trust director.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6029-S.SL.pdf?cite=2020%20c%20303%20§%2015[2020 c 303 § 15]; ]
 
-== 11.98B.150 - Trust director—Rules applicable to trustees apply. (Effective January 1, 2021.)
+== 11.98B.150 - Trust director—Rules applicable to trustees apply.
 Unless the terms of a trust provide otherwise, the rules applicable to a trustee apply to a trust director regarding the following matters:
 
 . Acceptance;
@@ -233,12 +233,12 @@ Unless the terms of a trust provide otherwise, the rules applicable to a trustee
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6029-S.SL.pdf?cite=2020%20c%20303%20§%2016[2020 c 303 § 16]; ]
 
-== 11.98B.900 - Uniformity of application and construction. (Effective January 1, 2021.)
+== 11.98B.900 - Uniformity of application and construction.
 In applying and construing this uniform act, consideration must be given to the need to promote uniformity of the law with respect to its subject matter among states that enact it.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6029-S.SL.pdf?cite=2020%20c%20303%20§%2017[2020 c 303 § 17]; ]
 
-== 11.98B.901 - Relation to electronic signatures in global and national commerce act. (Effective January 1, 2021.)
+== 11.98B.901 - Relation to electronic signatures in global and national commerce act.
 This chapter modifies, limits, or supersedes the electronic signatures in global and national commerce act, 15 U.S.C. Sec. 7001 et seq., but does not modify, limit, or supersede section 101(c) of that act (15 U.S.C. Sec. 7001(c)) or authorize electronic delivery of any of the notices described in section 103(b) of that act (15 U.S.C. Sec. 7003(b)).
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6029-S.SL.pdf?cite=2020%20c%20303%20§%2018[2020 c 303 § 18]; ]

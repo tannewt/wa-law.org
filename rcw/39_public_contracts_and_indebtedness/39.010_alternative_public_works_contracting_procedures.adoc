@@ -13,7 +13,11 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 . "Board" means the capital projects advisory review board.
 
+. "Budget contingencies" means contingencies established by a public body outside of the design-build or general contractor/construction manager contract for payment of project costs that are not the responsibility of the design-builder or general contractor/construction manager under the respective contract.
+
 . "Certified public body" means a public body certified to use design-build or general contractor/construction manager contracting procedures, or both, under RCW 39.10.270.
+
+. "Coefficient" means the job order contractor's competitively bid numerical factor applied to the public body's prices as published in the unit price book.
 
 . "Committee," unless otherwise noted, means the project review committee.
 
@@ -25,7 +29,7 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 . "Heavy civil construction project" means a civil engineering project, the predominant features of which are infrastructure improvements.
 
-. "Job order contract" means a contract in which the contractor agrees to a fixed period, indefinite quantity delivery order contract which provides for the use of negotiated, definitive work orders for public works as defined in RCW 39.04.010.
+. "Job order contract" means a contract in which the contractor agrees to a fixed period, indefinite quantity delivery order contract which provides for the use of work orders for public works as defined in RCW 39.04.010.
 
 . "Job order contractor" means a registered or licensed contractor awarded a job order contract.
 
@@ -41,24 +45,26 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 . "Public works project" means any work for a public body within the definition of "public work" in RCW 39.04.010.
 
+. "Risk contingency" means a contingency for use as defined in the contract and established as part of the maximum allowable construction cost for unexpected cost of work items that have not otherwise been included or addressed in the maximum allowable construction cost.
+
 . "Small business entity" means a small business as defined in RCW 39.26.010.
 
 . "Total contract cost" means the fixed amount for the detailed specified general conditions work, the negotiated maximum allowable construction cost, and the percent fee on the negotiated maximum allowable construction cost.
 
 . "Total project cost" means the cost of the project less financing and land acquisition costs.
 
-. "Unit price book" means a book containing specific prices, based on generally accepted industry standards and information, where available, for various items of work to be performed by the job order contractor. The prices may include: All the costs of materials; labor; equipment; overhead, including bonding costs; and profit for performing the items of work. The unit prices for labor must be at the rates in effect at the time the individual work order is issued.
+. "Unit price book" means a book containing specific prices, based on generally accepted industry standards and information, where available, for various items of work to be performed by the job order contractor. 
 
 . "Work order" means an order issued for a definite scope of work to be performed pursuant to a job order contract.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1295-S.SL.pdf?cite=2019%20c%20212%20§%201[2019 c 212 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2208.SL.pdf?cite=2014%20c%2042%20§%201[2014 c 42 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%201[2013 c 222 § 1]; prior:  2010 1st sp.s. c 36 § 6014; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20101[2007 c 494 § 101]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5285-S.SL.pdf?cite=2005%20c%20469%20§%203[2005 c 469 § 3]; prior:  2003 c 352 § 1; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1788-S.SL.pdf?cite=2003%20c%20301%20§%202[2003 c 301 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2056-S.SL.pdf?cite=2003%20c%20300%20§%203[2003 c 300 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5060-S.SL.pdf?cite=2001%20c%20328%20§%201[2001 c 328 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1070.SL.pdf?cite=2000%20c%20209%20§%201[2000 c 209 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1425-S.SL.pdf?cite=1997%20c%20376%20§%201[1997 c 376 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2607-S.SL.pdf?cite=1994%20c%20132%20§%202[1994 c 132 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5032.SL.pdf?cite=2021%20c%20230%20§%201[2021 c 230 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1295-S.SL.pdf?cite=2019%20c%20212%20§%201[2019 c 212 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2208.SL.pdf?cite=2014%20c%2042%20§%201[2014 c 42 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%201[2013 c 222 § 1]; prior:  2010 1st sp.s. c 36 § 6014; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20101[2007 c 494 § 101]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5285-S.SL.pdf?cite=2005%20c%20469%20§%203[2005 c 469 § 3]; prior:  2003 c 352 § 1; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1788-S.SL.pdf?cite=2003%20c%20301%20§%202[2003 c 301 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2056-S.SL.pdf?cite=2003%20c%20300%20§%203[2003 c 300 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5060-S.SL.pdf?cite=2001%20c%20328%20§%201[2001 c 328 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1070.SL.pdf?cite=2000%20c%20209%20§%201[2000 c 209 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1425-S.SL.pdf?cite=1997%20c%20376%20§%201[1997 c 376 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2607-S.SL.pdf?cite=1994%20c%20132%20§%202[1994 c 132 § 2]; ]
 
 == 39.10.220 - Board—Membership—Vacancies.
 . The board is created in the department of enterprise services to provide an evaluation of public capital projects construction processes, including the impact of contracting methods on project outcomes, and to advise the legislature on policies related to public works delivery methods.
 
-. Members of the board are appointed as follows:
+. Members of the board identified in (a) through (f) of this subsection must be knowledgeable or have experience in public works procurement and contracting, including state and federal laws, rules, and best practices concerning public contracting for minority, women, and veteran-owned businesses and small businesses, and are appointed as follows:
 
-.. Two representatives from construction general contracting; one representative from the architectural profession; one representative from the engineering profession; two representatives from construction specialty subcontracting; two representatives from construction trades labor organizations; one representative from the office of minority and women's business enterprises; one representative from a higher education institution; one representative from the department of enterprise services; one individual representing Washington cities; two representatives from private industry; and one representative of a domestic insurer authorized to write surety bonds for contractors in Washington state, each appointed by the governor. All appointed members must be knowledgeable about public works contracting procedures. If a vacancy occurs, the governor shall fill the vacancy for the unexpired term;
+.. Two representatives from construction general contracting; one representative from the architectural profession; one representative from the engineering profession; two representatives from construction specialty subcontracting; two representatives from construction trades labor organizations; one representative from the office of minority and women's business enterprises; one representative from a higher education institution; one representative from the department of enterprise services; one individual representing Washington cities; two representatives from private industry; one individual from the private sector representing the interests of the disadvantaged business enterprises community; and one representative of a domestic insurer authorized to write surety bonds for contractors in Washington state, each appointed by the governor. The board must reflect the gender, racial, ethnic, and geographic diversity of the state, including the interests of persons with disabilities. If a vacancy occurs, the governor shall fill the vacancy for the unexpired term;
 
 .. One member representing counties, selected by the Washington state association of counties;
 
@@ -66,7 +72,9 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 .. One member representing public hospital districts, selected by the association of Washington public hospital districts;
 
-.. One member representing school districts, selected by the Washington state school directors' association; and
+.. One member representing school districts, selected by the Washington state school directors' association;
+
+.. One member representing transit, selected by the Washington state transit association; and
 
 .. Two members of the house of representatives, one from each major caucus, appointed by the speaker of the house of representatives, and two members of the senate, one from each major caucus, appointed by the president of the senate. Legislative members are nonvoting.
 
@@ -86,14 +94,14 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 . The board may establish committees as it desires and may invite nonmembers of the board to serve as committee members.
 
-. The board shall encourage participation from persons and entities not represented on the board.
+. The board shall provide opportunities for persons and entities not represented on the board to participate and provide insights on matters of interest to the board, particularly with respect to the experiences of minority, women, and veteran-owned businesses and small businesses.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%202[2013 c 222 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20102[2007 c 494 § 102]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1830-S.SL.pdf?cite=2005%20c%20377%20§%201[2005 c 377 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5032.SL.pdf?cite=2021%20c%20230%20§%202[2021 c 230 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%202[2013 c 222 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20102[2007 c 494 § 102]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1830-S.SL.pdf?cite=2005%20c%20377%20§%201[2005 c 377 § 1]; ]
 
 == 39.10.230 - Board—Powers and duties.
 The board has the following powers and duties:
 
-. Develop and recommend to the legislature policies to further enhance the quality, efficiency, and accountability of capital construction projects through the use of traditional and alternative delivery methods in Washington, and make recommendations regarding expansion, continuation, elimination, or modification of the alternative public works contracting methods;
+. Develop and recommend to the legislature policies to encourage competition and to further enhance the quality, efficiency, and accountability of and equitable participation by disadvantaged business enterprises in capital construction projects through the use of traditional and alternative delivery methods in Washington, and make recommendations regarding best practices, expansion, continuation, elimination, or modification of the alternative public works contracting methods, including specific recommendations for reducing barriers for and increasing participation by disadvantaged business enterprises;
 
 . Evaluate the use of existing contracting procedures and the potential future use of other alternative contracting procedures including competitive negotiation contracts;
 
@@ -101,16 +109,14 @@ The board has the following powers and duties:
 
 . Appoint members of committees; and
 
-. Develop and administer questionnaires designed to provide quantitative and qualitative data on alternative public works contracting procedures on which evaluations are based.
+. Direct the department of enterprise services to collect quantitative and qualitative data on alternative public works contracting procedures to support the board's work in meeting the purpose established in RCW 39.10.220(1).
 
-The capital projects advisory review board is directed to review current statutes regarding life-cycle cost analysis and energy efficiency as related to the design-build procurement method performed under chapter 39.10 RCW. Capital projects advisory review board shall report to the appropriate committees of the legislature by December 31, 2013, with recommendations for statutory changes that promote energy efficiency and reduce the total cost to construct, operate and maintain public buildings. Recommendation must include provisions for postoccupancy validation of estimated energy efficiency measures, and operating and maintenance cost estimates. Life-cycle estimates of energy use must include estimates of energy consumptions for materials used in construction.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%203[2013 c 222 § 3]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1690.SL.pdf?cite=2010%201st%20sp.s.%20c%2021%20§%203[2010 1st sp.s. c 21 § 3]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1197.SL.pdf?cite=2009%20c%2075%20§%201[2009 c 75 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20103[2007 c 494 § 103]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1830-S.SL.pdf?cite=2005%20c%20377%20§%202[2005 c 377 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5032.SL.pdf?cite=2021%20c%20230%20§%203[2021 c 230 § 3]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%203[2013 c 222 § 3]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1690.SL.pdf?cite=2010%201st%20sp.s.%20c%2021%20§%203[2010 1st sp.s. c 21 § 3]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1197.SL.pdf?cite=2009%20c%2075%20§%201[2009 c 75 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20103[2007 c 494 § 103]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1830-S.SL.pdf?cite=2005%20c%20377%20§%202[2005 c 377 § 2]; ]
 
 == 39.10.240 - Project review committee—Creation—Members.
 . The board shall establish a project review committee to review and approve public works projects using the design-build and general contractor/construction manager contracting procedures authorized in RCW 39.10.300 and 39.10.340 and to certify public bodies as provided in RCW 39.10.270.
 
-. The board shall, by a majority vote of the board, appoint persons to the committee who are knowledgeable in the use of the design-build and general contractor/construction manager contracting procedures. Appointments must represent a balance among the industries and public owners on the board listed in RCW 39.10.220.
+. The board shall, by a majority vote of the board, appoint persons to the committee who are knowledgeable in the use of the design-build and general contractor/construction manager contracting procedures. Appointments must represent a balance of public and private sector representatives of the board listed in RCW 39.10.220, and must include at least one member representing the interests of disadvantaged business enterprises.
 
 .. Each member of the committee shall be appointed for a term of three years. However, for initial appointments, the board shall stagger the appointment of committee members so that the first members are appointed to serve terms of one, two, or three years from the date of appointment. Appointees may be reappointed to serve more than one term.
 
@@ -118,7 +124,7 @@ The capital projects advisory review board is directed to review current statute
 
 .. The committee chair may select a person or persons on a temporary basis as a nonvoting member if project specific expertise is needed to assist in a review.
 
-. The chair of the committee, in consultation with the vice chair, may appoint one or more panels of at least six committee members to carry out the duties of the committee. Each panel shall have balanced representation of the private and public sector representatives serving on the committee.
+. The chair of the committee, in consultation with the vice chair, may appoint one or more panels of at least six committee members to carry out the duties of the committee. Each panel shall have balanced representation of the private and public sector representatives serving on the committee, and shall include a member representing the interests of disadvantaged business enterprises.
 
 . Any member of the committee directly or indirectly affiliated with a submittal before the committee must recuse himself or herself from the committee consideration of that submittal.
 
@@ -126,7 +132,7 @@ The capital projects advisory review board is directed to review current statute
 
 . The committee shall meet as often as necessary to ensure that certification and approvals are completed in a timely manner.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%204[2013 c 222 § 4]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20104[2007 c 494 § 104]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5032.SL.pdf?cite=2021%20c%20230%20§%204[2021 c 230 § 4]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%204[2013 c 222 § 4]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20104[2007 c 494 § 104]; ]
 
 == 39.10.250 - Project review committee—Duties.
 The committee shall:
@@ -135,16 +141,18 @@ The committee shall:
 
 . Review and approve the use of the design-build or general contractor/construction manager contracting procedures on a project by project basis for public bodies that are not certified under RCW 39.10.270;
 
+. Review and approve the use of alternative subcontractor selection under RCW 39.10.385 on a project-by-project basis for public bodies that are not certified under RCW 39.10.270, which review and approval may be concurrent with project approval; and
+
 . Review and approve not more than two design-build demonstration projects that include procurement of operations and maintenance services for a period longer than three years.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1295-S.SL.pdf?cite=2019%20c%20212%20§%202[2019 c 212 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%205[2013 c 222 § 5]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1197.SL.pdf?cite=2009%20c%2075%20§%202[2009 c 75 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20105[2007 c 494 § 105]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5032.SL.pdf?cite=2021%20c%20230%20§%205[2021 c 230 § 5]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1295-S.SL.pdf?cite=2019%20c%20212%20§%202[2019 c 212 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%205[2013 c 222 § 5]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1197.SL.pdf?cite=2009%20c%2075%20§%202[2009 c 75 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20105[2007 c 494 § 105]; ]
 
 == 39.10.260 - Project review committee—Meetings—Open and public.
 . The committee shall hold regular public meetings to carry out its duties as described in RCW 39.10.250. Committee meetings are subject to chapter 42.30 RCW.
 
-. The committee shall publish notice of its public meetings at least twenty days before the meeting in a legal newspaper circulated in the area where the public body seeking certification is located, or where each of the proposed projects under consideration will be constructed. All meeting notices must be posted on the committee's web site.
+. The committee shall publish notice of its public meetings at least twenty days before the meeting in a legal newspaper circulated in the area where the public body seeking certification is located, or where each of the proposed projects under consideration will be constructed. All meeting notices must be posted on the committee's website.
 
-. The meeting notice must identify the public body that is seeking certification or project approval, and where applicable, a description of projects to be considered at the meeting. The notice must indicate when, where, and how the public may present comments regarding the committee's certification of a public body or approval of a project. Information submitted by a public body to be reviewed at the meeting shall be available on the committee's web site at the time the notice is published.
+. The meeting notice must identify the public body that is seeking certification or project approval, and where applicable, a description of projects to be considered at the meeting. The notice must indicate when, where, and how the public may present comments regarding the committee's certification of a public body or approval of a project. Information submitted by a public body to be reviewed at the meeting shall be available on the committee's website at the time the notice is published.
 
 . The committee must allow for public comment on the appropriateness of certification of a public body or on the appropriateness of the use of the proposed contracting procedure and the qualifications of a public body to use the contracting procedure. The committee shall receive and record both written and oral comments at the public meeting.
 
@@ -163,7 +171,7 @@ The committee shall:
 
 .. Has resolved any audit findings on previous public works projects in a manner satisfactory to the committee.
 
-. The committee shall make its determination at the public meeting during which an application for certification is reviewed. Public comments must be considered before a determination is made. Within ten business days of the public meeting, the committee shall provide a written determination to the public body, and make its determination available to the public on the committee's web site.
+. The committee shall make its determination at the public meeting during which an application for certification is reviewed. Public comments must be considered before a determination is made. Within ten business days of the public meeting, the committee shall provide a written determination to the public body, and make its determination available to the public on the committee's website.
 
 . The committee may revoke any public body's certification upon a finding, after a public hearing, that its use of design-build or general contractor/construction manager contracting procedures no longer serves the public interest.
 
@@ -190,7 +198,7 @@ The committee shall:
 
 . The committee shall, if practicable, make its determination at the public meeting during which a submittal is reviewed. Public comments must be considered before a determination is made.
 
-. Within ten business days after the public meeting, the committee shall provide a written determination to the public body, and make its determination available to the public on the committee's web site. If the committee fails to make a written determination within ten business days of the public meeting, the request of the public body to use the alternative contracting procedure on the requested project shall be deemed approved.
+. Within ten business days after the public meeting, the committee shall provide a written determination to the public body, and make its determination available to the public on the committee's website. If the committee fails to make a written determination within ten business days of the public meeting, the request of the public body to use the alternative contracting procedure on the requested project shall be deemed approved.
 
 . Failure of the committee to meet within sixty calendar days of a public body's application to use an alternative contracting procedure on a project shall be deemed an approval of the application.
 
@@ -201,8 +209,8 @@ Final determinations by the committee may be appealed to the board within seven 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20109[2007 c 494 § 109]; ]
 
-== 39.10.300 - Design-build procedure—Uses.
-. Subject to the requirements in RCW 39.10.250, 39.10.270, or 39.10.280, public bodies may utilize the design-build procedure, including progressive design-build, for public works projects in which the total project cost is over two million dollars and where:
+== 39.10.300 - Design-build procedure—Uses—Washington State University may perform design-build demonstration projects.
+. Subject to the requirements in RCW 39.10.250, 39.10.270, or 39.10.280, public bodies may utilize the design-build procedure, including progressive design-build, for public works projects in which the total project cost is over $2,000,000 and where:
 
 .. The construction activities are highly specialized and a design-build approach is critical in developing the construction methodology; or
 
@@ -210,15 +218,17 @@ Final determinations by the committee may be appealed to the board within seven 
 
 .. Significant savings in project delivery time would be realized.
 
-. Subject to the process in RCW 39.10.270 or 39.10.280, public bodies may use the design-build procedure for parking garages, regardless of cost.
+. Subject to the process in RCW 39.10.270 or 39.10.280, public bodies may use the design-build procedure, including progressive design-build, for parking garages and preengineered metal buildings, regardless of cost.
 
-. The design-build procedure may be used for the construction or erection of portable facilities as defined in WAC 392-343-018, preengineered metal buildings, or not more than ten prefabricated modular buildings per installation site, regardless of cost and is not subject to approval by the committee.
+. The design-build procedure may be used for the construction or erection of portable facilities as defined in WAC 392-343-018, or not more than 10 prefabricated modular buildings per installation site, regardless of cost and is not subject to approval by the committee.
 
 . Except for utility projects and approved demonstration projects, the design-build procedure may not be used to procure operations and maintenance services for a period longer than three years. State agency projects that propose to use the design-build-operate-maintain procedure shall submit cost estimates for the construction portion of the project consistent with the office of financial management's capital budget requirements. Operations and maintenance costs must be shown separately and must not be included as part of the capital budget request.
 
 . Subject to the process in RCW 39.10.280, a public body may seek committee approval for a design-build demonstration project that includes procurement of operations and maintenance services for a period longer than three years.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1295-S.SL.pdf?cite=2019%20c%20212%20§%204[2019 c 212 § 4]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%209[2013 c 222 § 9]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1197.SL.pdf?cite=2009%20c%2075%20§%204[2009 c 75 § 4]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20201[2007 c 494 § 201]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5520-S.SL.pdf?cite=2003%20c%20352%20§%202[2003 c 352 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2056-S.SL.pdf?cite=2003%20c%20300%20§%204[2003 c 300 § 4]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6597-S.SL.pdf?cite=2002%20c%2046%20§%201[2002 c 46 § 1]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5060-S.SL.pdf?cite=2001%20c%20328%20§%202[2001 c 328 § 2]; ]
+. Washington State University may perform design-build demonstration projects with a total project cost under $2,000,000 to develop best practices in encouraging participation of small business entities and of minority, women, and veteran-owned businesses, and in managing capital projects under $2,000,000. Washington State University shall provide reports to the board every other year, starting with two years after May 10, 2021. Such reports shall include information on the type of projects performed, the initial and final project cost and schedule of the projects, participation of small business entities and of minority, women, and veteran-owned businesses, and the best practices derived from the projects. The report shall include outreach measures developed in concert with the office of minority and women's business enterprises.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5032.SL.pdf?cite=2021%20c%20230%20§%206[2021 c 230 § 6]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1295-S.SL.pdf?cite=2019%20c%20212%20§%204[2019 c 212 § 4]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%209[2013 c 222 § 9]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1197.SL.pdf?cite=2009%20c%2075%20§%204[2009 c 75 § 4]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20201[2007 c 494 § 201]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5520-S.SL.pdf?cite=2003%20c%20352%20§%202[2003 c 352 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2056-S.SL.pdf?cite=2003%20c%20300%20§%204[2003 c 300 § 4]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6597-S.SL.pdf?cite=2002%20c%2046%20§%201[2002 c 46 § 1]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5060-S.SL.pdf?cite=2001%20c%20328%20§%202[2001 c 328 § 2]; ]
 
 == 39.10.320 - Design-build procedure—Project management and contracting requirements.
 . A public body utilizing the design-build contracting procedure shall provide:
@@ -240,7 +250,7 @@ Final determinations by the committee may be appealed to the board within seven 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1295-S.SL.pdf?cite=2019%20c%20212%20§%205[2019 c 212 § 5]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%2010[2013 c 222 § 10]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20203[2007 c 494 § 203]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2607-S.SL.pdf?cite=1994%20c%20132%20§%207[1994 c 132 § 7]; ]
 
 == 39.10.330 - Design-build contract award process.
-. Contracts for design-build services shall be awarded through a competitive process using public solicitation of proposals for design-build services. The public body shall publish at least once in a legal newspaper of general circulation published in, or as near as possible to, that part of the county in which the public work will be done, a notice of its request for qualifications from proposers for design-build services, and the availability and location of the request for proposal documents. The request for qualifications documents shall include:
+. Contracts for design-build services shall be awarded through a competitive process using public solicitation of proposals for design-build services. At a minimum, the public body shall publish at least once in a legal newspaper of general circulation published in, or as near as possible to, that part of the county in which the public work will be done, a notice of its request for qualifications from proposers for design-build services, and the availability and location of the request for proposal documents. The public body is encouraged to post the design-build opportunity in additional areas, such as websites for business associations or the office of minority and women's business enterprises, to further publicize the opportunity for qualified design-build teams. The request for qualifications documents shall include:
 
 .. A description of the project including the estimated design-build contract value and the intended use of the project;
 
@@ -250,9 +260,9 @@ Final determinations by the committee may be appealed to the board within seven 
 
 .. A description of the process the public body will use to evaluate qualifications and finalists' proposals, including evaluation factors and the relative weight of factors and any specific forms to be used by the proposers;
 
-... Evaluation factors for qualifications shall include technical qualifications, such as specialized experience and technical competence of the firms and the key design and construction personnel; capacity to perform; the proposer's past performance in utilization of the office of minority and women's business enterprises certified businesses, to the extent permitted by law; ability to provide a performance and payment bond for the project; and other appropriate factors. Evaluation factors may also include, but are not limited to, the proposer's past performance in utilization of small business entities. Cost or price-related factors are not permitted in the request for qualifications phase;
+... Evaluation factors for qualifications shall include technical qualifications, such as specialized experience and technical competence of the firms and the key design and construction personnel; capacity to perform; the proposer's past performance in utilization of disadvantaged business enterprises, to the extent permitted by law; ability to provide a performance and payment bond for the project; and other appropriate factors. Evaluation factors must also include, but are not limited to, the proposer's past performance in utilization of small business entities. Cost or price-related factors are not permitted in the request for qualifications phase;
 
-... Evaluation factors for finalists' proposals shall include the management plan to meet time and budget requirements and one or more price-related factors. Evaluation factors may also include, but not be limited to, the technical approach, design concept, and the outreach plan to include small business entities and disadvantaged business enterprises as subconsultants, subcontractors, and suppliers for the project;
+... Evaluation factors for finalists' proposals shall include the management plan to meet time and budget requirements and one or more price-related factors. Evaluation factors must include a proposer's inclusion plan for small business entities and disadvantaged business enterprises as subconsultants, subcontractors, and suppliers for the project, to the extent permitted by law. Evaluation factors may also include, but not be limited to, the technical approach or the design concept;
 
 .. Protest procedures including time limits for filing a protest, which in no event may limit the time to file a protest to fewer than four business days from the date the proposer was notified of the selection decision;
 
@@ -280,11 +290,11 @@ Final determinations by the committee may be appealed to the board within seven 
 
 . The firm awarded the contract shall provide a performance and payment bond for the contracted amount.
 
-. Any contract must require the firm awarded the contract to track and report to the public body its utilization of the office of minority and women's business enterprises certified businesses and veteran certified businesses.
+. Any contract must require the firm awarded the contract to track and report to the public body and to the office of minority and women's business enterprises its utilization of the office of minority and women's business enterprises certified businesses and veteran certified businesses.
 
 . The public body shall provide appropriate honorarium payments to finalists submitting responsive proposals that are not awarded a design-build contract. Honorarium payments shall be sufficient to generate meaningful competition among potential proposers on design-build projects. In determining the amount of the honorarium, the public body shall recognize the level of effort required to meet the selection criteria.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1295-S.SL.pdf?cite=2019%20c%20212%20§%206[2019 c 212 § 6]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2555.SL.pdf?cite=2014%20c%2019%20§%201[2014 c 19 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%2011[2013 c 222 § 11]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1197.SL.pdf?cite=2009%20c%2075%20§%205[2009 c 75 § 5]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20204[2007 c 494 § 204]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5032.SL.pdf?cite=2021%20c%20230%20§%207[2021 c 230 § 7]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1295-S.SL.pdf?cite=2019%20c%20212%20§%206[2019 c 212 § 6]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2555.SL.pdf?cite=2014%20c%2019%20§%201[2014 c 19 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%2011[2013 c 222 § 11]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1197.SL.pdf?cite=2009%20c%2075%20§%205[2009 c 75 § 5]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20204[2007 c 494 § 204]; ]
 
 == 39.10.340 - General contractor/construction manager procedure—Uses.
 Subject to the process in RCW 39.10.270 or 39.10.280, public bodies may utilize the general contractor/construction manager procedure for public works projects where at least one of the following is met:
@@ -318,7 +328,7 @@ Subject to the process in RCW 39.10.270 or 39.10.280, public bodies may utilize 
 
 .. Contract documents that include alternative dispute resolution procedures to be attempted before the initiation of litigation;
 
-.. Contract documents that: (i) Obligate the public owner to accept or reject a request for equitable adjustment, change order, or claim within a specified time period but no later than sixty calendar days after the receipt by the public body of related documentation; and (ii) provide that if the public owner does not respond in writing to a request for equitable adjustment, change order, or claim within the specified time period, the request is deemed denied;
+.. Contract documents that: (i) Obligate the public owner to, in writing, accept, dispute, or reject a request for equitable adjustment, change order request, or claim within a specified time period but no later than 30 calendar days after the receipt by the public body of related documentation; (ii) provide that, if the request is disputed or rejected, the public owner shall state in writing why part or all of the request is disputed or rejected; and (iii) provide that if the public owner does not respond in writing to a request for equitable adjustment, change order request, or claim within the specified time period, the contractor shall not be deemed to have waived any right to the claims process;
 
 .. Submission of project information, as required by the board; and
 
@@ -328,26 +338,18 @@ Subject to the process in RCW 39.10.270 or 39.10.280, public bodies may utilize 
 
 . If the construction is completed for less than the maximum allowable construction cost, any savings not otherwise negotiated as part of an incentive clause shall accrue to the public body. If the construction is completed for more than the maximum allowable construction cost, the additional cost is the responsibility of the general contractor/construction manager.
 
-. If the public body and the general contractor/construction manager agree, in writing, on a price for additional work, the public body must issue a change order within thirty days of the written agreement. If the public body does not issue a change order within the thirty days, interest shall accrue on the dollar amount of the additional work satisfactorily completed until a change order is issued. The public body shall pay this interest at a rate of one percent per month.
+. If the public body and the general contractor/construction manager agree, in writing, on a price for additional work, the public body must issue a change order within 30 days of the written agreement. If the public body does not issue a change order within the 30 days, interest shall accrue on the dollar amount of the additional work satisfactorily completed until a change order is issued. The public body shall pay this interest at a rate of one percent per month.
 
-. For a project procured as a heavy civil construction project, an independent audit, paid for by the public body, must be conducted to confirm the proper accrual of costs as outlined in the contract.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2208.SL.pdf?cite=2014%20c%2042%20§%204[2014 c 42 § 4]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20302[2007 c 494 § 302]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5032.SL.pdf?cite=2021%20c%20230%20§%208[2021 c 230 § 8]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2208.SL.pdf?cite=2014%20c%2042%20§%204[2014 c 42 § 4]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20302[2007 c 494 § 302]; ]
 
 == 39.10.360 - General contractor/construction manager procedure—Contract award process.
-. Public bodies should select general contractor/construction managers early in the life of public works projects, and in most situations no later than the completion of schematic design.
+. Public bodies should select general contractor/construction managers at a time in the project when the general contractor/construction manager's participation provides value.
 
-. Contracts for the services of a general contractor/construction manager under this section shall be awarded through a competitive process requiring the public solicitation of proposals for general contractor/construction manager services. The public solicitation of proposals shall include:
+. Contracts for the services of a general contractor/ construction manager under this section shall be awarded through a competitive process requiring the public solicitation of proposals for general contractor/construction manager services. At a minimum, the public body shall publish at least once in a legal newspaper of general circulation published in, or as near as possible to, that part of the county in which the public work will be performed, a notice of its request for qualifications from proposers for general contractor/construction manager services, and the availability and location of the request for proposal documents. The public body is encouraged to post the general contractor/construction manager opportunity in additional areas, such as websites for business associations or the office of minority and women's business enterprises, to further publicize the opportunity for qualified general contractors/construction managers. The public solicitation of proposals shall include:
 
 .. A description of the project, including programmatic, performance, and technical requirements and specifications when available;
 
-.. The reasons for using the general contractor/construction manager procedure including, if applicable, a clear statement that the public body is electing to procure the project as a heavy civil construction project, in which case the solicitation must additionally:
-
-... Indicate the minimum percentage of the cost of the work to construct the project that will constitute the negotiated self-perform portion of the project;
-
-... Indicate whether the public body will allow the price to be paid for the negotiated self-perform portion of the project to be deemed a cost of the work to which the general contractor/construction manager's percent fee applies; and
-
-... Require proposals to indicate the proposer's fee for the negotiated self-perform portion of the project;
+.. The reasons for using the general contractor/construction manager procedure;
 
 .. A description of the qualifications to be required of the firm, including submission of the firm's accident prevention program;
 
@@ -359,32 +361,27 @@ Subject to the process in RCW 39.10.270 or 39.10.280, public bodies may utilize 
 
 .. The bid instructions to be used by the general contractor/construction manager finalists.
 
-. [Empty]
-.. Evaluation factors for selection of the general contractor/construction manager shall include, but not be limited to:
+. Evaluation factors for qualifications of the general contractor/construction manager shall include, but not be limited to:
 
-... Ability of the firm's professional personnel;
+.. Experience and technical competence of key personnel;
 
-... The firm's past performance in negotiated and complex projects;
+.. The proposer's past performance with negotiated or similarly complex projects;
 
-... The firm's ability to meet time and budget requirements;
+.. The proposer's capacity to perform the work;
 
-... The scope of work the firm proposes to self-perform and its ability to perform that work;
+.. The scope of work the firm proposes to self-perform and its past performance of that scope of work;
 
-.. The firm's proximity to the project location;
+.. The proposer's approach to executing the project, including ability to meet the project time and budget requirements; and
 
-.. Recent, current, and projected workloads of the firm; and
+.. The proposer's past performance in utilization of disadvantaged business enterprises and small business entities and the inclusion plan for small business entities and disadvantaged business enterprises as subconsultants, subcontractors, and suppliers for the project, to the extent permitted by law.
 
-.. The firm's approach to executing the project.
-
-.. An agency may also consider the firm's outreach plan to include small business entities and disadvantaged business enterprises, and the firm's past performance in the utilization of such firms as an evaluation factor.
-
-. A public body shall establish a committee to evaluate the proposals. After the committee has selected the most qualified finalists, at the time specified by the public body, these finalists shall submit final proposals, including sealed bids for the percent fee on the estimated maximum allowable construction cost and the fixed amount for the general conditions work specified in the request for proposal. The public body shall establish a time and place for the opening of sealed bids for the percent fee on the estimated maximum allowable construction cost and the fixed amount for the general conditions work specified in the request for proposal. At the time and place named, these bids must be publicly opened and read and the public body shall make all previous scoring available to the public. The public body shall select the firm submitting the highest scored final proposal using the evaluation factors and the relative weight of factors published in the public solicitation of proposals. A public body shall not evaluate or disqualify a proposal based on the terms of a collective bargaining agreement.
+. A public body shall establish a committee to evaluate the proposals. After the committee has selected the most qualified finalists, at the time specified by the public body, these finalists shall submit final proposals, which must include sealed bids for the percent fee on the estimated maximum allowable construction cost and which may include other price-related factors identified in the request for proposal. In no event shall a price-related factor include a request for overall project budget, estimate, or bid. The public body shall establish a time and place for the opening of sealed bids. At the time and place named, these bids must be publicly opened and read and the public body shall make all previous scoring available to the public. The public body shall select the firm submitting the highest scored final proposal using the evaluation factors and the relative weight of factors published in the public solicitation of proposals. A public body shall not evaluate or disqualify a proposal based on the terms of a collective bargaining agreement.
 
 . The public body shall notify all finalists of the selection decision and make a selection summary of the final proposals available to all proposers within two business days of such notification. If the public body receives a timely written protest from a proposer, the public body may not execute a contract until two business days after the final protest decision is transmitted to the protestor. The protestor must submit its protest in accordance with the published protest procedures.
 
 . Public bodies may contract with the selected firm to provide services during the design phase that may include life-cycle cost design considerations, value engineering, scheduling, cost estimating, constructability, alternative construction options for cost savings, and sequencing of work, and to act as the construction manager and general contractor during the construction phase.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2208.SL.pdf?cite=2014%20c%2042%20§%205[2014 c 42 § 5]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%2013[2013 c 222 § 13]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1197.SL.pdf?cite=2009%20c%2075%20§%206[2009 c 75 § 6]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20303[2007 c 494 § 303]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5032.SL.pdf?cite=2021%20c%20230%20§%209[2021 c 230 § 9]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2208.SL.pdf?cite=2014%20c%2042%20§%205[2014 c 42 § 5]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%2013[2013 c 222 § 13]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1197.SL.pdf?cite=2009%20c%2075%20§%206[2009 c 75 § 6]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20303[2007 c 494 § 303]; ]
 
 == 39.10.370 - General contractor/construction manager procedure—Maximum allowable construction cost.
 . The maximum allowable construction cost shall be used to establish a total contract cost for which the general contractor/construction manager shall provide a performance and payment bond. The maximum allowable construction cost shall be negotiated between the public body and the selected firm when the construction documents and specifications are at least ninety percent complete.
@@ -393,77 +390,53 @@ Subject to the process in RCW 39.10.270 or 39.10.280, public bodies may utilize 
 
 . The public body may, at its option, authorize the general contractor/construction manager to proceed with the bidding and award of bid packages and construction before receipt of complete project plans and specifications. Any contracts awarded under this subsection shall be incorporated in the negotiated maximum allowable construction cost.
 
-. The total contract cost includes the fixed amount for the detailed specified general conditions work, the negotiated maximum allowable construction cost, the negotiated support services, and the percent fee on the negotiated maximum allowable construction cost. Negotiated support services may be included in the specified general conditions at the discretion of the public body.
+. The total contract cost includes the fixed amount for the detailed specified general conditions work, the negotiated maximum allowable construction cost, the negotiated support services, and the percent fee on the negotiated maximum allowable construction cost. Unless portions or all are converted to lump sum, negotiated support services shall be treated as a contractual allowance, subject to reconciliation at the conclusion of work.
 
 . If the public body is unable to negotiate a satisfactory maximum allowable construction cost with the firm selected that the public body determines to be fair, reasonable, and within the available funds, negotiations with that firm shall be formally terminated and the public body shall negotiate with the next highest scored firm and continue until an agreement is reached or the process is terminated.
 
-. If the maximum allowable construction cost varies more than fifteen percent from the bid estimated maximum allowable construction cost due to requested and approved changes in the scope by the public body, the percent fee shall be renegotiated.
+. If the maximum allowable construction cost varies more than 15 percent from the bid estimated maximum allowable construction cost due to requested and approved changes in the scope by the public body, the percent fee shall be renegotiated.
 
-. As part of the negotiation of the maximum allowable construction cost under subsection (1) of this section, on a project that the public body has elected to procure as a heavy civil construction project:
-
-.. The general contractor/construction manager shall submit a proposed construction management and contracting plan, which must include, at a minimum:
-
-... The scope of work and cost estimates for each bid package;
-
-... A proposed price and scope of work for the negotiated self-perform portion of the project;
-
-... The bases used by the general contractor/construction manager to develop all cost estimates, including the negotiated self-perform portion of the project; and
-
-... The general contractor/construction manager's updated outreach plan to include small business entities, disadvantaged business entities, and any other disadvantaged or underutilized businesses as the public body may designate in the public solicitation of proposals, as subcontractors and suppliers for the project;
-
-.. The public body and general contractor/construction manager may negotiate the scopes of work to be procured by bid and the price and scope of work for the negotiated self-perform portion of the project, if any;
-
-.. The negotiated self-perform portion of the project must not exceed fifty percent of the cost of the work to construct the project;
-
-.. Subject to the limitation of RCW 39.10.390(4), the public body may additionally negotiate with the general contractor/construction manager to determine on which scopes of work the general contractor/construction manager will be permitted to bid, if any;
-
-.. The public body and general contractor/construction manager shall negotiate, to the public body's satisfaction, a fair and reasonable outreach plan;
-
-.. If the public body is unable to negotiate to its reasonable satisfaction a component of this subsection (7), negotiations with the firm must be terminated and the public body shall negotiate with the next highest scored firm and continue until an agreement is reached or the process is terminated.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2208.SL.pdf?cite=2014%20c%2042%20§%206[2014 c 42 § 6]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20304[2007 c 494 § 304]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5032.SL.pdf?cite=2021%20c%20230%20§%2010[2021 c 230 § 10]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2208.SL.pdf?cite=2014%20c%2042%20§%206[2014 c 42 § 6]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20304[2007 c 494 § 304]; ]
 
 == 39.10.380 - General contractor/construction manager procedure—Subcontract bidding procedure.
-. All subcontract work and equipment and material purchases shall be competitively bid with public bid openings. Subcontract bid packages and equipment and materials purchases shall be awarded to the responsible bidder submitting the lowest responsive bid. In preparing subcontract bid packages, the general contractor/construction manager shall not be required to violate or waive terms of a collective bargaining agreement.
+. All subcontract work and equipment and material purchases shall be competitively bid with public bid openings and require the public solicitation of the bid documents. At a minimum, the general contractor/construction manager shall publish at least once in a legal newspaper of general circulation published in, or as near as possible to, that part of the county in which the subcontract work will be performed, a notice of its request for bid, and the availability and location of the bid documents. The general contractor/construction manager is encouraged to post the subcontract opportunity in additional areas beyond the legal newspaper as required by this subsection, such as websites for business associations, the office of minority and women's business enterprises, and other locations and mediums that will further publicize the opportunity for qualified subcontractors. Subcontract bid packages and equipment and materials purchases shall be awarded to the responsible bidder submitting the lowest responsive bid. In preparing subcontract bid packages, the general contractor/construction manager shall not be required to violate or waive terms of a collective bargaining agreement. Individual bid packages are to be prepared with trades separated in the manner consistent with industry practice to maximize participation and competition across all trades. Bundling of trades not normally combined into one bid package is not allowed without justification and specific approval by the public body. Bid packages must be prepared to reduce barriers for and increase participation by disadvantaged business enterprises.
 
 . All subcontract bid packages in which bidder eligibility was not determined in advance shall include the specific objective criteria that will be used by the general contractor/construction manager and the public body to evaluate bidder responsibility. If the lowest bidder submitting a responsive bid is determined by the general contractor/construction manager and the public body not to be responsible, the general contractor/construction manager and the public body must provide written documentation to that bidder explaining their intent to reject the bidder as not responsible and afford the bidder the opportunity to establish that it is a responsible bidder. Responsibility shall be determined in accordance with criteria listed in the bid documents. Protests concerning bidder responsibility determination by the general contractor/construction manager and the public body shall be in accordance with subsection (4) of this section.
 
-. All subcontractors who bid work over three hundred thousand dollars shall post a bid bond. All subcontractors who are awarded a contract over three hundred thousand dollars shall provide a performance and payment bond for the contract amount. All other subcontractors shall provide a performance and payment bond if required by the general contractor/construction manager.
+. All subcontractors who bid work over $300,000 shall post a bid bond. All subcontractors who are awarded a contract over $300,000 shall provide a performance and payment bond for the contract amount. All other subcontractors shall provide a performance and payment bond if required by the general contractor/construction manager.
 
 . If the general contractor/construction manager receives a written protest from a subcontractor bidder or an equipment or material supplier, the general contractor/construction manager shall not execute a contract for the subcontract bid package or equipment or material purchase order with anyone other than the protesting bidder without first providing at least two full business days' written notice to all bidders of the intent to execute a contract for the subcontract bid package. The protesting bidder must submit written notice of its protest no later than two full business days following the bid opening. Intermediate Saturdays, Sundays, and legal holidays are not counted.
 
 . A low bidder who claims error and fails to enter into a contract is prohibited from bidding on the same project if a second or subsequent call for bids is made for the project.
 
-. The general contractor/construction manager may negotiate with the lowest responsible and responsive bidder to negotiate an adjustment to the lowest bid or proposal price based upon agreed changes to the contract plans and specifications under the following conditions:
+. The general contractor/construction manager may negotiate with the lowest responsible and responsive bidder to negotiate an adjustment to the lowest bid or proposal price to reduce cost based upon agreed changes to the contract plans and specifications under the following conditions:
 
-.. All responsive bids or proposal prices exceed the available funds;
+.. All responsive bids or proposal prices exceed the published bid package estimates; and
 
-.. The apparent low responsive bid or proposal does not exceed the available funds by the greater of one hundred twenty-five thousand dollars or two percent for projects valued over ten million dollars; and
-
-.. The negotiated adjustment will bring the bid or proposal price within the amount of available funds.
+.. The apparent low responsive bid or proposal does not exceed the published bid package estimates by more than 10 percent.
 
 . If the negotiation is unsuccessful, the subcontract work or equipment or material purchases must be rebid.
 
-. The general contractor/construction manager must provide a written explanation if all bids are rejected.
+. The general contractor/construction manager must provide a written explanation to the public body if all bids are rejected.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%2014[2013 c 222 § 14]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20305[2007 c 494 § 305]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5032.SL.pdf?cite=2021%20c%20230%20§%2011[2021 c 230 § 11]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%2014[2013 c 222 § 14]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20305[2007 c 494 § 305]; ]
 
 == 39.10.385 - General contractor/construction manager procedure—Alternative subcontractor selection process.
-As an alternative to the subcontractor selection process outlined in RCW 39.10.380, a general contractor/construction manager may, with the approval of the public body, select mechanical subcontractors, electrical subcontractors, or both, using the process outlined in this section. This alternative selection process may only be used when the anticipated value of the subcontract will exceed three million dollars. When using the alternative selection process, the general contractor/construction manager should select the subcontractor early in the life of the public works project.
+The selection process in this section may be used by public bodies certified under RCW 39.10.270. It may also be used by noncertified public bodies if this selection process has been approved for the project by the project review committee. As an alternative to the subcontractor selection process outlined in RCW 39.10.380, a general contractor/construction manager may, with the approval of the public body, select one or more subcontractors using the process outlined in this section. This alternative selection process may only be used when the anticipated value of the subcontract will exceed three million dollars. When using the alternative selection process, the general contractor/construction manager should select the subcontractor early in the life of the public works project.
 
 . In order to use this alternative selection process, the general contractor/construction manager and the public body must determine that it is in the best interest of the public. In making this determination the general contractor/construction manager and the public body must:
 
-.. Publish a notice of intent to use this alternative selection process in a legal newspaper published in or as near as possible to that part of the county where the public work will be constructed. Notice must be published at least fourteen calendar days before conducting a public hearing. The notice must include the date, time, and location of the hearing; a statement justifying the basis and need for the alternative selection process; how interested parties may, prior to the hearing, obtain the evaluation criteria and applicable weight given to each criteria that will be used for evaluation; and protest procedures including time limits for filing a protest, which may in no event, limit the time to file a protest to fewer than four business days from the date the proposer was notified of the selection decision;
+.. Publish a notice of intent to use this alternative selection process in the same legal newspaper where the public solicitation of proposals is published. The general contractor/construction manager and public body are encouraged to post the notice in additional areas beyond the legal newspaper as required under this subsection, such as websites for business associations, the office of minority and women's business enterprises, and other locations and mediums that will further publicize the intent to use this alternative selection process. Notice must be published at least fourteen calendar days before conducting a public hearing. The notice must include the date, time, and location of the hearing; a statement justifying the basis and need for the alternative selection process; [and] how interested parties may, prior to the hearing, obtain the following: (i) The evaluation criteria and applicable weight given to each criteria that will be used for evaluation, including clear definitions of what should be considered specified general conditions work and what should be considered the fee; and (ii) protest procedures including time limits for filing a protest, which may, in no event, limit the time to file a protest to fewer than four business days from the date the proposer was notified of the selection decision. The evaluation criteria, weights assigned to each criteria, and justification for using this selection process must be made available upon request at least seven calendar days before the public hearing;
 
 .. Conduct a hearing and provide an opportunity for any interested party to submit written and verbal comments regarding the justification for using this selection process, the evaluation criteria, weights for each criteria, and protest procedures;
 
 .. After the public hearing, consider the written and verbal comments received and determine if using this alternative selection process is in the best interests of the public; and
 
-.. Issue a written final determination to all interested parties. All protests of the decision to use the alternative selection process must be in writing and submitted to the public body within seven calendar days of the final determination. Any modifications to the criteria, weights, and protest procedures based on comments received during the public hearing process must be included in the final determination.
+.. Issue a written final determination to all interested parties. The final determination shall state the reasons the alternative selection process is determined to be in the best interests of the public and shall reasonably address the comments received regarding the criteria and weights for each criterion. Any modifications to the criteria, weights, and protest procedures based on comments received during the public hearing process must be included in the final determination. All protests of the decision to use the alternative selection process must be in writing and submitted to the public body within seven calendar days of the final determination. The public body shall not proceed with the selection process until after responding in writing to the protest.
 
 . Contracts for the services of a subcontractor under this section must be awarded through a competitive process requiring a public solicitation of proposals. Notice of the public solicitation of proposals must be provided to the office of minority and women's business enterprises. The public solicitation of proposals must include:
 
-.. A description of the project, including programmatic, performance, and technical requirements and specifications when available;
+.. A description of the project, including programmatic, performance, and technical requirements and specifications when available, along with a description of the project's unique aspects, complexities, and challenges;
 
 .. The reasons for using the alternative selection process;
 
@@ -481,25 +454,25 @@ As an alternative to the subcontractor selection process outlined in RCW 39.10.3
 
 . Evaluation factors for selection of the subcontractor must include, but not be limited to:
 
-.. Ability of the firm's professional personnel;
+.. Ability of the firm's professional personnel to deliver projects similar in size, scope, or complexity;
 
-.. The firm's past performance on similar projects;
+.. The firm's past performance on projects similar in size, scope, or complexity;
 
-.. The firm's ability to meet time and budget requirements;
+.. The firm's ability to meet time and budget requirements on projects similar in size, scope, or complexity;
 
 .. The scope of work the firm proposes to perform with its own forces and its ability to perform that work;
 
-.. The firm's plan for outreach to minority and women-owned businesses;
+.. The firm's plan for inclusion of disadvantaged business enterprises, to the extent permitted by law;
 
 .. The firm's proximity to the project location;
 
-.. The firm's capacity to successfully complete the project;
-
-.. The firm's approach to executing the project;
+.. The firm's approach to executing the project based on its delivery of other projects similar in size, scope, or complexity;
 
 .. The firm's approach to safety on the project;
 
-.. The firm's safety history; and
+.. The firm's safety history;
+
+.. If interviews are part of the selection process, the solicitation shall describe how interviews will be scored or evaluated, and evaluations shall be included in the written selection summary; and
 
 .. If the firm is selected as one of the most qualified finalists, the firm's fee and cost proposal.
 
@@ -507,21 +480,21 @@ As an alternative to the subcontractor selection process outlined in RCW 39.10.3
 
 . The general contractor/construction manager must notify all proposers of the most qualified firms that will move to the next phase of the selection process. The process may not proceed to the next phase until two business days after all proposers are notified of the committee's selection decision. At the request of a proposer, the general contractor/construction manager must provide the requesting proposer with a scoring summary of the evaluation factors for its proposal. Proposers filing a protest on the selection of the most qualified finalists must file the protest with the public body in accordance with the published protest procedures. The selection process may not advance to the next phase of selection until two business days after the final protest decision issued by the public body is transmitted to the protestor.
 
-. The general contractor/construction manager and the public body shall select the firm submitting the highest scored final proposal using the evaluation factors and the relative weight of factors identified in the solicitation of proposals. The scoring of the nonprice factors must be made available at the opening of the fee and cost proposals. The general contractor/construction manager shall notify all proposers of the selection decision and make a selection summary of the final proposals, which shall be available to all proposers within two business days of such notification. The general contractor/construction manager may not evaluate or disqualify a proposal based on the terms of a collective bargaining agreement.
+. The general contractor/construction manager and the public body shall select the firm submitting the highest scored final proposal using the evaluation factors and the relative weight of factors identified in the solicitation of proposals. Scoring of the nonprice factors shall be added to the scoring of the fee and cost proposals to determine the highest scored firm. The scoring of the nonprice factors must be made available at the public opening of the fee and cost proposals. The general contractor/construction manager shall notify all proposers of the selection decision and make a selection summary of the final proposals, which shall be available to all proposers within two business days of such notification. The general contractor/construction manager may not evaluate or disqualify a proposal based on the terms of a collective bargaining agreement.
 
 . If the public body receives a timely written protest from a "most qualified firm," the general contractor/construction manager may not execute a contract for the protested subcontract work until two business days after the final protest decision issued by the public body is transmitted to the protestor. The protestor must submit its protest in accordance with the published protest procedures.
 
 . If the general contractor/construction manager is unable to negotiate a satisfactory maximum allowable subcontract cost with the firm selected deemed by public body and the general contractor/construction manager to be fair, reasonable, and within the available funds, negotiations with that firm must be formally terminated and the general contractor/construction manager may negotiate with the next highest scored firm until an agreement is reached or the process is terminated.
 
-. With the approval of the public body, the general contractor/construction manager may contract with the selected firm to provide preconstruction services during the design phase that may include life-cycle cost design considerations, value engineering, scheduling, cost estimating, constructability, alternative construction options for cost savings, and sequencing of work; and to act as the mechanical or electrical subcontractor during the construction phase.
+. With the approval of the public body, the general contractor/construction manager may contract with the selected firm to provide preconstruction services during the design phase that may include life-cycle cost design considerations, value engineering, scheduling, cost estimating, constructability, alternative construction options for cost savings, and sequencing of work; and to act as the subcontractor during the construction phase.
 
 . The maximum allowable subcontract cost must be used to establish a total subcontract cost for purposes of a performance and payment bond. Total subcontract cost means the fixed amount for the detailed specified general conditions work, the negotiated maximum allowable subcontract cost, and the percent fee on the negotiated maximum allowable subcontract cost. Maximum allowable subcontract cost means the maximum cost to complete the work specified for the subcontract, including the estimated cost of work to be performed by the subcontractor's own forces, a percentage for risk contingency, negotiated support services, and approved change orders. The maximum allowable subcontract cost must be negotiated between the general contractor/construction manager and the selected firm when the construction documents and specifications are at least ninety percent complete. Final agreement on the maximum allowable subcontract cost is subject to the approval of the public body.
 
-. If the work of the mechanical contractor or electrical contractor is completed for less than the maximum allowable subcontract cost, any savings not otherwise negotiated as part of an incentive clause becomes part of the risk contingency included in the general contractor/construction manager's maximum allowable construction cost. If the work of the mechanical contractor or the electrical contractor is completed for more than the maximum allowable subcontract cost, the additional cost is the responsibility of that subcontractor. An independent audit, paid for by the public body, must be conducted to confirm the proper accrual of costs as outlined in the contract.
+. If the work of the subcontractor is completed for less than the maximum allowable subcontract cost, any savings not otherwise negotiated as part of an incentive clause becomes part of the risk contingency included in the general contractor/construction manager's maximum allowable construction cost. If the work of the subcontractor is completed for more than the maximum allowable subcontract cost, the additional cost is the responsibility of that subcontractor. An independent audit, paid for by the public body, must be conducted to confirm the proper accrual of costs. The public body or general contractor/construction manager shall define the scope of the audit in the contract.
 
-. A mechanical or electrical contractor selected under this section may perform work with its own forces. In the event it elects to subcontract some of its work, it must select a subcontractor utilizing the procedure outlined in RCW 39.10.380.
+. A subcontractor selected under this section may perform work with its own forces. In the event it elects to subcontract some of its work, it must select a subcontractor utilizing the procedure outlined in RCW 39.10.380.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%2015[2013 c 222 § 15]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6401.SL.pdf?cite=2010%20c%20163%20§%201[2010 c 163 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5032.SL.pdf?cite=2021%20c%20230%20§%2012[2021 c 230 § 12]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%2015[2013 c 222 § 15]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6401.SL.pdf?cite=2010%20c%20163%20§%201[2010 c 163 § 1]; ]
 
 == 39.10.390 - General contractor/construction manager procedure—Subcontract work.
 . Except as provided in this section, bidding on subcontract work or for the supply of equipment or materials by the general contractor/construction manager or its subsidiaries is prohibited.
@@ -534,18 +507,16 @@ As an alternative to the subcontractor selection process outlined in RCW 39.10.3
 
 .. Notification of the general contractor/construction manager's intention to bid is included in the public solicitation of bids for the bid package or for the equipment or materials.
 
-. In no event may the general contractor/construction manager or its subsidiaries assign warranty responsibility or the terms of its contract or purchase order with vendors for equipment or material purchases to subcontract bid package bidders or subcontractors who have been awarded a contract. The value of subcontract work performed and equipment and materials supplied by the general contractor/construction manager may not exceed thirty percent of the negotiated maximum allowable construction cost, unless procured as a heavy civil construction project under this chapter. Negotiated support services performed by the general contractor/construction manager shall not be considered subcontract work for purposes of this subsection.
+. In no event may the general contractor/construction manager or its subsidiaries assign warranty responsibility or the terms of its contract or purchase order with vendors for equipment or material purchases to subcontract bid package bidders or subcontractors who have been awarded a contract. The value of subcontract work performed and equipment and materials supplied by the general contractor/construction manager may not exceed 30 percent of the negotiated maximum allowable construction cost, unless procured as a heavy civil construction project under this chapter. Negotiated support services performed by the general contractor/construction manager shall not be considered subcontract work for purposes of this subsection.
 
-. Notwithstanding any contrary provision of this chapter, for a project that a public body has elected to procure as a heavy civil construction project under this chapter, at least thirty percent of the cost of the work to construct the project included in the negotiated maximum allowable construction cost must be procured through competitive sealed bidding in which bidding by the general contractor/construction manager or its subsidiaries is prohibited.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2208.SL.pdf?cite=2014%20c%2042%20§%207[2014 c 42 § 7]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%2016[2013 c 222 § 16]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20306[2007 c 494 § 306]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5032.SL.pdf?cite=2021%20c%20230%20§%2013[2021 c 230 § 13]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2208.SL.pdf?cite=2014%20c%2042%20§%207[2014 c 42 § 7]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%2016[2013 c 222 § 16]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20306[2007 c 494 § 306]; ]
 
 == 39.10.400 - General contractor/construction manager procedure—Prebid determination of subcontractor eligibility.
 . If determination of subcontractor eligibility prior to seeking bids is in the best interest of the project and critical to the successful completion of a subcontract bid package, the general contractor/construction manager and the public body may determine subcontractor eligibility to bid. The general contractor/construction manager and the public body must:
 
 .. Conduct a hearing and provide an opportunity for any interested party to submit written and verbal comments regarding the justification for conducting bidder eligibility, the evaluation criteria, and weights for each criteria and subcriteria;
 
-.. Publish a notice of intent to evaluate and determine bidder eligibility in a legal newspaper published in or as near as possible to that part of the county where the public work will be constructed at least fourteen calendar days before conducting a public hearing;
+.. Publish a notice of intent to evaluate and determine bidder eligibility in a legal newspaper published in or as near as possible to that part of the county where the public work will be constructed at least 14 calendar days before conducting a public hearing. The general contractor/construction manager and public body are encouraged to post the notice in additional areas beyond the legal newspaper as required under this subsection, such as websites for business associations, the office of minority and women's business enterprises, and other locations and mediums that will further publicize the intent to use subcontractor eligibility prior to seeking bids;
 
 .. Ensure the public hearing notice includes the date, time, and location of the hearing, a statement justifying the basis and need for performing eligibility analysis before bid opening, and how interested parties may, at least five days before the hearing, obtain the specific eligibility criteria and applicable weights given to each criteria and subcriteria that will be used during evaluation;
 
@@ -555,7 +526,7 @@ As an alternative to the subcontractor selection process outlined in RCW 39.10.3
 
 . Determinations of bidder eligibility shall be in accordance with the evaluation criteria and weights for each criteria established in the final determination and shall be provided to interested persons upon request. Any potential bidder determined not to meet eligibility criteria must be afforded one opportunity to establish its eligibility. Protests concerning bidder eligibility determinations shall be in accordance with subsection (1) of this section.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%2017[2013 c 222 § 17]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20307[2007 c 494 § 307]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5032.SL.pdf?cite=2021%20c%20230%20§%2014[2021 c 230 § 14]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%2017[2013 c 222 § 17]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20307[2007 c 494 § 307]; ]
 
 == 39.10.410 - General contractor/construction manager procedure—Subcontract agreements.
 Subcontract agreements used by the general contractor/construction manager shall not:
@@ -587,9 +558,9 @@ Subcontract agreements used by the general contractor/construction manager shall
 == 39.10.430 - Job order procedure—Contract award process.
 . Job order contracts shall be awarded through a competitive process using public requests for proposals.
 
-. The public body shall make an effort to solicit proposals from certified minority or certified woman-owned contractors to the extent permitted by the Washington state civil rights act, RCW 49.60.400.
+. The public body shall prioritize efforts to solicit proposals from certified minority or certified woman-owned contractors to the extent permitted by the Washington state civil rights act, RCW 49.60.400.
 
-. The public body shall publish, at least once in a statewide publication and legal newspaper of general circulation published in every county in which the public works project is anticipated, a request for proposals for job order contracts and the availability and location of the request for proposal documents. The public body shall ensure that the request for proposal documents at a minimum includes:
+. The public body shall publish, at least once in a statewide publication and legal newspaper of general circulation published in every county in which the public works project is anticipated, a request for proposals for job order contracts and the availability and location of the request for proposal documents. The public body is encouraged to post the request for proposals for job order contracts and the availability and location of the request for proposal documents in other areas, such as websites for business associations, the office of minority and women's business enterprises, and other locations and mediums that will further publicize the opportunities. The public body shall ensure that the request for proposal documents at a minimum includes:
 
 .. A detailed description of the scope of the job order contract including performance, technical requirements and specifications, functional and operational elements, minimum and maximum work order amounts, duration of the contract, and options to extend the job order contract;
 
@@ -597,11 +568,11 @@ Subcontract agreements used by the general contractor/construction manager shall
 
 .. A description of the qualifications required of the proposer;
 
-.. The identity of the specific unit price book to be used;
+.. The identity of the specific unit price book to be used and a description of which elements shall be included in the coefficient as necessary to establish a firm fixed price on work orders to be awarded under the job order contract;
 
 .. The minimum contracted amount committed to the selected job order contractor;
 
-.. A description of the process the public body will use to evaluate qualifications and proposals, including evaluation factors and the relative weight of factors. The public body shall ensure that evaluation factors include, but are not limited to, proposal price and the ability of the proposer to perform the job order contract. In evaluating the ability of the proposer to perform the job order contract, the public body may consider: The ability of the professional personnel who will work on the job order contract; past performance on similar contracts; ability to meet time and budget requirements; past performance on approved subcontractor inclusion plans; ability to provide a performance and payment bond for the job order contract; recent, current, and projected workloads of the proposer; location; and the concept of the proposal;
+.. A description of the process the public body will use to evaluate qualifications and proposals, including evaluation factors and the relative weight of factors. The public body shall ensure that evaluation factors include, but are not limited to, the coefficient and the ability of the proposer to perform the job order contract. In evaluating the ability of the proposer to perform the job order contract, the public body may consider: The ability of the professional personnel who will work on the job order contract; past performance on similar contracts; ability to meet time and budget requirements; past performance on approved subcontractor inclusion plans; ability to provide a performance and payment bond for the job order contract; recent, current, and projected workloads of the proposer; location; and the concept of the proposal;
 
 .. The form of the contract to be awarded;
 
@@ -609,36 +580,34 @@ Subcontract agreements used by the general contractor/construction manager shall
 
 .. A notice that the proposals are subject to RCW 39.10.470; and
 
-.. Other information relevant to the project.
+.. Other relevant information.
 
-. A public body shall establish a committee to evaluate the proposals. After the committee has selected the most qualified finalists, the finalists shall submit final proposals, including sealed bids based upon the identified unit price book. Such bids may be in the form of coefficient markups from listed price book costs. The public body shall award the contract to the firm submitting the highest scored final proposal using the evaluation factors and the relative weight of factors published in the public request for proposals and will notify the board of the award of the contract.
+. A public body shall establish a committee, including a member with knowledge and experience in state and federal laws, rules, and best practices concerning public contracting for minority, women, and veteran-owned businesses and small businesses, to evaluate the proposals. After the committee has selected the most qualified finalists, the finalists shall submit a sealed bid including, but not limited to, coefficient(s). Such bids may be in the form of coefficient adjustments to the listed unit price book. The public body shall award the contract to the firm submitting the highest scored final proposal using the evaluation factors and the relative weight of factors published in the public request for proposals and will notify the board of the award of the contract.
 
 . The public body shall provide a protest period of at least ten business days following the day of the announcement of the apparent successful proposal to allow a protester to file a detailed statement of the grounds of the protest. The public body shall promptly make a determination on the merits of the protest and provide to all proposers a written decision of denial or acceptance of the protest. The public body shall not execute the contract until two business days following the public body's decision on the protest.
 
 . The requirements of RCW 39.30.060 do not apply to requests for proposals for job order contracts.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1295-S.SL.pdf?cite=2019%20c%20212%20§%208[2019 c 212 § 8]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20402[2007 c 494 § 402]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5032.SL.pdf?cite=2021%20c%20230%20§%2015[2021 c 230 § 15]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1295-S.SL.pdf?cite=2019%20c%20212%20§%208[2019 c 212 § 8]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20402[2007 c 494 § 402]; ]
 
 == 39.10.440 - Job order procedure—Contract requirements.
-. The maximum total dollar amount that may be awarded under a job order contract is four million dollars per year for a maximum of three years. Any unused capacity from the previous year may be carried over for one year and added to the immediate following year's limit. The maximum annual volume including unused capacity shall not exceed the limit of two years. The maximum total dollar amount that may be awarded under a job order contract for the department of enterprise services, counties with a population of more than one million, and cities with a population of more than four hundred thousand is six million dollars per year for a maximum of three years. The maximum total dollar amounts are exclusive of Washington state sales and use tax.
+. The maximum total dollar amount that may be awarded under a job order contract is $4,000,000 per year for a maximum of three years. Any unused capacity from the previous year may be carried over for one year and added to the immediate following year's limit. The maximum annual volume including unused capacity shall not exceed the limit of two years. The maximum total dollar amount that may be awarded under a job order contract for the department of enterprise services, counties with a population of more than 1,000,000, and cities with a population of more than 400,000 is $6,000,000 per year for a maximum of three years. The maximum total dollar amounts are exclusive of Washington state sales and use tax.
 
 . Job order contracts may be executed for an initial contract term of not to exceed two years, with the option of extending or renewing the job order contract for one year. All extensions or renewals must be priced as provided in the request for proposals. The extension or renewal must be mutually agreed to by the public body and the job order contractor.
 
 . A public body may have no more than three job order contracts in effect at any one time, with the exception of the department of enterprise services, which may have six job order contracts in effect at any one time.
 
-. At least ninety percent of work contained in a job order contract must be subcontracted to entities other than the job order contractor. The job order contractor must distribute contracts as equitably as possible among qualified and available subcontractors including certified minority and woman-owned subcontractors to the extent permitted by law as demonstrated on the subcontractor and supplier project submission, and shall limit subcontractor bonding requirements to the greatest extent possible.
+. At least 90 percent of work contained in a job order contract must be subcontracted to entities other than the job order contractor. The job order contractor must distribute contracts as equitably as possible among qualified and available subcontractors including certified minority and woman-owned subcontractors to the extent permitted by law as demonstrated on the subcontractor and supplier project submission, and shall limit subcontractor bonding requirements to the greatest extent possible.
 
-. The job order contractor shall publish notification of intent to perform public works projects at the beginning of each contract year in a statewide publication and in a legal newspaper of general circulation in every county in which the public works projects are anticipated.
+. The job order contractor shall publish notification of intent to perform public works projects at the beginning of each contract year in a statewide publication and in a legal newspaper of general circulation in every county in which the public works projects are anticipated. The job order contractor is encouraged to post the notification of intent to perform public works projects in other areas, such as websites for business associations, the office of minority and women's business enterprises, and other locations and mediums that will further publicize subcontractor opportunities.
 
 . Job order contractors shall pay prevailing wages for all work that would otherwise be subject to the requirements of chapter 39.12 RCW. Prevailing wages for all work performed pursuant to each work order must be the rates in effect at the time the individual work order is issued.
 
 . If, in the initial contract term, the public body, at no fault of the job order contractor, fails to issue the minimum amount of work orders stated in the public request for proposals, the public body shall pay the contractor an amount equal to the difference between the minimum work order amount and the actual total of the work orders issued multiplied by an appropriate percentage for overhead and profit contained in the contract award coefficient for services as specified in the request for proposals. This is the contractor's sole remedy.
 
-. All job order contracts awarded under this section must be signed before July 1, 2021; however the job order contract may be extended or renewed as provided for in this section.
+. All job order contracts awarded under this section must be signed before July 1, 2031; however the job order contract may be extended or renewed as provided for in this section.
 
-. Public bodies may amend job order contracts awarded prior to July 1, 2007, in accordance with this chapter.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1295-S.SL.pdf?cite=2019%20c%20212%20§%209[2019 c 212 § 9]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5203.SL.pdf?cite=2015%20c%20173%20§%201[2015 c 173 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%2019[2013 c 222 § 19]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20403[2007 c 494 § 403]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5032.SL.pdf?cite=2021%20c%20230%20§%2016[2021 c 230 § 16]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1295-S.SL.pdf?cite=2019%20c%20212%20§%209[2019 c 212 § 9]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5203.SL.pdf?cite=2015%20c%20173%20§%201[2015 c 173 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%2019[2013 c 222 § 19]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20403[2007 c 494 § 403]; ]
 
 == 39.10.450 - Job order procedure—Work orders.
 . The maximum dollar amount for a work order is five hundred thousand dollars, excluding Washington state sales and use tax.
@@ -667,20 +636,18 @@ Subcontract agreements used by the general contractor/construction manager shall
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1295-S.SL.pdf?cite=2019%20c%20212%20§%2010[2019 c 212 § 10]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2328.SL.pdf?cite=2012%20c%20102%20§%202[2012 c 102 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20404[2007 c 494 § 404]; ]
 
-== 39.10.460 - Job order procedure—Required information to board.
-Each year, a public body shall provide to the board the following information for each job order contract for the period July 1st through June 30th:
+== 39.10.460 - Job order procedure—Required information.
+Each public body shall maintain and make available the following information for each job order contract:
 
 . A list of work orders issued;
 
 . The cost of each work order;
 
-. A list of subcontractors hired under each work order;
+. A list of subcontractors hired under each work order, including whether those subcontractors were certified small, minority, women, or veteran-owned businesses; and
 
-. If requested by the board, a copy of the intent to pay prevailing wage and the affidavit of wages paid for each work order subcontract; and
+. A copy of the intent to pay prevailing wage and the affidavit of wages paid for each work order subcontract.
 
-. Any other information requested by the board.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2328.SL.pdf?cite=2012%20c%20102%20§%203[2012 c 102 § 3]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20405[2007 c 494 § 405]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5032.SL.pdf?cite=2021%20c%20230%20§%2017[2021 c 230 § 17]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2328.SL.pdf?cite=2012%20c%20102%20§%203[2012 c 102 § 3]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20405[2007 c 494 § 405]; ]
 
 == 39.10.470 - Public inspection of certain records—Protection of trade secrets—Protection of documents submitted.
 . Except as provided in subsections (2) and (3) of this section, all proceedings, records, contracts, and other public records relating to alternative public works transactions under this chapter shall be open to the inspection of any interested person, firm, or corporation in accordance with chapter 42.56 RCW.
@@ -697,9 +664,9 @@ This chapter shall not be construed to affect or modify the existing statutory, 
 [ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2607-S.SL.pdf?cite=1994%20c%20132%20§%209[1994 c 132 § 9]; ]
 
 == 39.10.490 - Application of chapter.
-The alternative public works contracting procedures authorized under this chapter are limited to public works contracts signed before July 1, 2021. Methods of public works contracting authorized under this chapter shall remain in full force and effect until completion of contracts signed before July 1, 2021.
+The alternative public works contracting procedures authorized under this chapter are limited to public works contracts signed before July 1, 2031. Methods of public works contracting authorized under this chapter shall remain in full force and effect until completion of contracts signed before July 1, 2031.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%2020[2013 c 222 § 20]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20501[2007 c 494 § 501]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5060-S.SL.pdf?cite=2001%20c%20328%20§%205[2001 c 328 § 5]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1425-S.SL.pdf?cite=1997%20c%20376%20§%207[1997 c 376 § 7]; 1997 c 220 § 404 (Referendum Bill No. 48, approved June 17, 1997); http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2115.SL.pdf?cite=1995%203rd%20sp.s.%20c%201%20§%20305[1995 3rd sp.s. c 1 § 305]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2607-S.SL.pdf?cite=1994%20c%20132%20§%2012[1994 c 132 § 12]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5032.SL.pdf?cite=2021%20c%20230%20§%2018[2021 c 230 § 18]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1466-S.SL.pdf?cite=2013%20c%20222%20§%2020[2013 c 222 § 20]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20501[2007 c 494 § 501]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5060-S.SL.pdf?cite=2001%20c%20328%20§%205[2001 c 328 § 5]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1425-S.SL.pdf?cite=1997%20c%20376%20§%207[1997 c 376 § 7]; 1997 c 220 § 404 (Referendum Bill No. 48, approved June 17, 1997); http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2115.SL.pdf?cite=1995%203rd%20sp.s.%20c%201%20§%20305[1995 3rd sp.s. c 1 § 305]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2607-S.SL.pdf?cite=1994%20c%20132%20§%2012[1994 c 132 § 12]; ]
 
 == 39.10.900 - Captions not law—1994 c 132.
 Captions as used in this act do not constitute any part of law.
@@ -725,4 +692,43 @@ This act is necessary for the immediate preservation of the public peace, health
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1506-S2.SL.pdf?cite=2007%20c%20494%20§%20513[2007 c 494 § 513]; ]
+
+== 39.10.908 - General contractor/construction manager method for heavy civil construction projects—Requirements.
+In addition to the general contractor/construction manager requirements established in this chapter, public bodies utilizing the general contractor/construction manager method for a heavy civil construction project must also comply with the following requirements:
+
+. The heavy civil construction general contractor/construction manager contract solicitation must:
+
+.. Provide the reasons for using the general contractor/construction manager procedure, including a clear statement that the public body is electing to procure the project as a heavy civil construction project;
+
+.. Indicate the minimum percentage of the cost of the work to construct the project that will constitute the negotiated self-perform portion of the project;
+
+.. Indicate whether the public body will allow the price to be paid for the negotiated self-perform portion of the project to be deemed a cost of the work to which the general contractor/construction manager's percent fee applies; and
+
+.. Require proposals to indicate the proposer's fee for the negotiated self-perform portion of the project;
+
+. As part of the negotiation of the maximum allowable construction cost established in RCW 39.10.370(1), the general contractor/construction manager shall submit a proposed construction management and contracting plan, which must include, at a minimum:
+
+.. The scope of work and cost estimates for each bid package;
+
+.. A proposed price and scope of work for the negotiated self-perform portion of the project;
+
+.. The bases used by the general contractor/construction manager to develop all cost estimates, including the negotiated self-perform portion of the project; and
+
+.. The general contractor/construction manager's updated inclusion plan for small business entities, disadvantaged business enterprises, and any other disadvantaged or underutilized businesses as the public body may designate in the public solicitation of proposals, as subcontractors and suppliers for the project;
+
+. The public body and general contractor/construction manager may negotiate the scopes of work to be procured by bid and the price and scope of work for the negotiated self-perform portion of the project, if any;
+
+. The negotiated self-perform portion of the project must not exceed 50 percent of the cost of the work to construct the project;
+
+. Notwithstanding any contrary provision of this chapter, for a project that a public body has elected to procure as a heavy civil construction project under this chapter, at least 30 percent of the cost of the work to construct the project included in the negotiated maximum allowable construction cost must be procured through competitive sealed bidding in which bidding by the general contractor/construction manager or its subsidiaries is prohibited;
+
+. Subject to the limitation of subsection (5) of this section, the public body may additionally negotiate with the general contractor/construction manager to determine on which scopes of work the general contractor/construction manager will be permitted to bid, if any;
+
+. The public body and general contractor/construction manager shall negotiate, to the public body's satisfaction, a fair and reasonable inclusion plan;
+
+. If the public body is unable to negotiate to its reasonable satisfaction a component of this section, negotiations with the firm must be terminated and the public body shall negotiate with the next highest scored firm and continue until an agreement is reached or the process is terminated; and
+
+. For a project procured as a heavy civil construction project, an independent audit, paid for by the public body, must be conducted to confirm the proper accrual of costs as outlined in the contract. The public body shall define the scope of the audit in the contract.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5032.SL.pdf?cite=2021%20c%20230%20§%2019[2021 c 230 § 19]; ]
 

@@ -46,6 +46,13 @@ The legislature finds that the provision of civil legal aid services to indigent
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2308-S.SL.pdf?cite=2018%20c%2021%20§%201[2018 c 21 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1747-S.SL.pdf?cite=2005%20c%20105%20§%205[2005 c 105 § 5]; ]
 
+== 2.53.025 - Statewide children's legal representation program.
+. The statewide children's legal representation program is established within the office of civil legal aid. The children's legal representation program shall ensure the provision of standards-based representation informed by best practice models, rigorous data analysis, race and other equity considerations that cause or perpetuate racial and other disparities in the child welfare system, involvement of stakeholders, including youth and young adults impacted by the system.
+
+. The statewide children's legal representation program is responsible for implementation of RCW 13.34.212 and 2.53.045 except that it is the court's responsibility to appoint attorneys in dependency proceedings.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1219-S2.SL.pdf?cite=2021%20c%20210%20§%205[2021 c 210 § 5]; ]
+
 == 2.53.030 - Public funds appropriated for civil legal aid to indigent persons—Use—Distribution formula—Audit—Rules.
 . [Empty]
 .. The legislature recognizes the ethical obligation of attorneys to represent clients without interference by third parties in the discharge of professional obligations to clients. The legislature further finds that the prevalence of civil legal problems experienced by low-income people in Washington state exceeds the capacity of the state-funded legal aid system to address. To ensure the most beneficial use of state resources, the legislature finds it appropriate to authorize legal assistance with respect to civil legal problems that directly affect important rights and basic needs of individual low-income residents and their families and to define certain limits on the use of state moneys appropriated for civil legal aid. Accordingly, moneys appropriated for civil legal aid pursuant to this section shall not be used for legal representation that is either outside the scope of or prohibited by this section.
@@ -84,13 +91,11 @@ A fee-generating case may be accepted when: (i) The case has been rejected by th
 
 .. Organizing any association, union, or federation, or representing a labor union. However, nothing in this subsection (5)(f) prohibits the provision of legal aid to clients as otherwise permitted by this section.
 
-.. Representation of individuals who are in the United States without legal authority.
-
 .. Picketing, demonstrations, strikes, or boycotts.
 
 .. Engaging in inappropriate solicitation. For purposes of this section, "inappropriate solicitation" means promoting the assertion of specific legal claims among persons who know of their rights to make a claim and who decline to do so. Nothing in this subsection precludes a legal aid program or its employees from providing information regarding legal rights and responsibilities or providing information regarding the program's services and intake procedures through community legal education activities, responding to an individual's specific question about whether the individual should consult with an attorney or take legal action, or responding to an individual's specific request for information about the individual's legal rights or request for assistance in connection with a specific legal problem.
 
-.. Conducting training programs that: (i) Advocate particular public policies; (ii) encourage or facilitate political activities, labor or antilabor activities, boycotts, picketing, strikes, or demonstrations; or (iii) attempt to influence legislation or rule making. Nothing in this subsection (5)(j) precludes representation of clients as otherwise permitted by this section.
+.. Conducting training programs that: (i) Advocate particular public policies; (ii) encourage or facilitate political activities, labor or antilabor activities, boycotts, picketing, strikes, or demonstrations; or (iii) attempt to influence legislation or rule making. Nothing in this subsection (5)(i) precludes representation of clients as otherwise permitted by this section.
 
 . The office of civil legal aid may establish requirements for client participation in the provision of civil legal aid under this section, including but not limited to copayments and sliding fee scales.
 
@@ -110,16 +115,23 @@ A fee-generating case may be accepted when: (i) The case has been rejected by th
 
 . The office of civil legal aid may adopt rules to implement this section.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2308-S.SL.pdf?cite=2018%20c%2021%20§%202[2018 c 21 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1747-S.SL.pdf?cite=2005%20c%20105%20§%203[2005 c 105 § 3]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2276-S.SL.pdf?cite=1997%20c%20319%20§%202[1997 c 319 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1014.SL.pdf?cite=1995%20c%20399%20§%2062[1995 c 399 § 62]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1378-S.SL.pdf?cite=1992%20c%2054%20§%204[1992 c 54 § 4]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1072.SL.pdf?cite=2021%20c%2058%20§%201[2021 c 58 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2308-S.SL.pdf?cite=2018%20c%2021%20§%202[2018 c 21 § 2]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1747-S.SL.pdf?cite=2005%20c%20105%20§%203[2005 c 105 § 3]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2276-S.SL.pdf?cite=1997%20c%20319%20§%202[1997 c 319 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1014.SL.pdf?cite=1995%20c%20399%20§%2062[1995 c 399 § 62]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1378-S.SL.pdf?cite=1992%20c%2054%20§%204[1992 c 54 § 4]; ]
 
 == 2.53.045 - Fund distribution for attorneys appointed in dependency proceedings.
-. Money appropriated by the legislature for legal services provided by an attorney appointed pursuant to RCW 13.34.100 must be administered by the office of civil legal aid established under RCW 2.53.020.
+. Money appropriated by the legislature for legal services provided by an attorney appointed pursuant to RCW 13.34.212 must be administered by the office of civil legal aid established under RCW 2.53.020.
 
-. The office of civil legal aid shall enter into contracts with attorneys and agencies for the provision of legal services under RCW 13.34.100 to remain within appropriated amounts.
+. The statewide children's legal representation program shall enter into contracts with attorneys and agencies for the provision of legal services under RCW 2.53.025 to remain within appropriated amounts.
 
-. Prior to distributing state funds under subsection (2) of this section, the office of civil legal aid must verify that attorneys providing legal representation to children under RCW 13.34.100 meet the standards of practice, voluntary training, and caseload limits developed and recommended by the statewide children's representation work group pursuant to section 5, chapter 180, Laws of 2010. Caseload limits described in this subsection must be determined as provided in RCW 13.34.100(6)(c)(ii).
+. Prior to distributing state funds under subsection (2) of this section, the statewide children's legal representation program must verify that attorneys providing legal representation to children under RCW 13.34.212 meet the standards of practice, caseload limits, and training guidelines adopted by the children's representation work group established in section 9, chapter 210, Laws of 2021.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2308-S.SL.pdf?cite=2018%20c%2021%20§%203[2018 c 21 § 3]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6126-S2.SL.pdf?cite=2014%20c%20108%20§%203[2014 c 108 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1219-S2.SL.pdf?cite=2021%20c%20210%20§%207[2021 c 210 § 7]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2308-S.SL.pdf?cite=2018%20c%2021%20§%203[2018 c 21 § 3]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6126-S2.SL.pdf?cite=2014%20c%20108%20§%203[2014 c 108 § 3]; ]
+
+== 2.53.050 - Fund distribution for attorneys appointed for indigent tenants.
+. Moneys appropriated by the legislature for legal services provided by an attorney appointed pursuant to RCW 59.18.640 must be administered by the office of civil legal aid established under RCW 2.53.020. The office of civil legal aid must enter into contracts with attorneys and agencies for the provision of legal services under RCW 59.18.640 to remain within appropriated amounts.
+
+. The legislature recognizes that the office of civil legal aid needs time to properly implement the right to attorney legal representation for indigent tenants under and consistent with RCW 59.18.640. Within 90 days after April 22, 2021, the office of civil legal aid must submit to the appropriate legislative committees a plan to fully implement the tenant representation program under and consistent with RCW 59.18.640 within 12 months of April 22, 2021.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5160-S2.SL.pdf?cite=2021%20c%20115%20§%209[2021 c 115 § 9]; ]
 
 == 2.53.055 - Kinship care legal aid coordinator.
 . Subject to amounts specifically appropriated for this purpose, the role of kinship care legal aid coordinator is hereby created at the office of civil legal aid. The office may contract with a separate nonprofit legal aid organization to satisfy the requirements of this section.

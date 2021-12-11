@@ -1,12 +1,12 @@
 = 7.92 - Jennifer Paulson stalking protection order act.
 :toc:
 
-== 7.92.010 - Intent—Finding.
+== 7.92.010 - Intent—Finding. (Effective until July 1, 2022.)
 Stalking is a crime that affects 3.4 million people over the age of eighteen each year in the United States. Almost half of those victims experience at least one unwanted contact per week. Twenty-nine percent of stalking victims fear that the stalking will never stop. The prevalence of anxiety, insomnia, social dysfunction, and severe depression is much higher among stalking victims than the general population. Three in four stalking victims are stalked by someone they know, and at least thirty percent of stalking victims are stalked by a current or former intimate partner. For many of those victims, the domestic violence protection order is a tool they can access to help them stay safer. For those who have not had an intimate relationship with the person stalking them, there are few remedies for them under the law. Victims who do not report the crime still desire safety and protection from future interactions with the offender. Some cases in which the stalking is reported are not prosecuted. In these situations, the victim should be able to seek a civil remedy requiring that the offender stay away from the victim. It is the intent of the legislature that the stalking protection order created by this chapter be a remedy for victims who do not qualify for a domestic violence order of protection. Moreover, it is the intent of the legislature that courts specifically distinguish stalking conduct covered by the stalking protection order from common acts of harassment or nuisance covered by antiharassment orders. Law enforcement agencies need to be able to rely on orders that distinguish stalking conduct from common acts of harassment or nuisance. Victims of stalking conduct deserve the same protection and access to the court system as victims of domestic violence and sexual assault, and this protection can be accomplished without infringing on constitutionally protected speech or activity. The legislature finds that preventing the issuance of conflicting orders is in the interest of both petitioners and respondents.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf?cite=2013%20c%2084%20§%201[2013 c 84 § 1]; ]
 
-== 7.92.020 - Definitions.
+== 7.92.020 - Definitions. (Effective until July 1, 2022.)
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 
 . "Electronic monitoring" means the same as in RCW 9.94A.030.
@@ -35,7 +35,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5149-S2.SL.pdf?cite=2020%20c%20296%20§%204[2020 c 296 § 4]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf?cite=2013%20c%2084%20§%202[2013 c 84 § 2]; ]
 
-== 7.92.030 - Petition for stalking protection order—Creation—Contents.
+== 7.92.030 - Petition for stalking protection order—Creation—Contents. (Effective until July 1, 2022.)
 There shall exist an action known as a petition for a stalking protection order.
 
 . A petition for relief shall allege the existence of stalking conduct and shall be accompanied by an affidavit made under oath stating the specific reasons that have caused the petitioner to become reasonably fearful that the respondent intends to injure the petitioner or another person, or the petitioner's property or the property of another. The petition shall disclose the existence of any other litigation or of any other restraining, protection, or no-contact orders between the parties.
@@ -50,7 +50,7 @@ There shall exist an action known as a petition for a stalking protection order.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf?cite=2013%20c%2084%20§%203[2013 c 84 § 3]; ]
 
-== 7.92.040 - Petition—Who may file.
+== 7.92.040 - Petition—Who may file. (Effective until July 1, 2022.)
 A petition for a stalking protection order may be filed by a person:
 
 . Who does not qualify for a protection order under chapter 26.50 RCW and who is a victim of stalking conduct; or
@@ -63,7 +63,7 @@ A petition for a stalking protection order may be filed by a person:
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf?cite=2013%20c%2084%20§%204[2013 c 84 § 4]; ]
 
-== 7.92.050 - Petition—Additional requirements.
+== 7.92.050 - Petition—Additional requirements. (Effective until July 1, 2022.)
 . Any person may seek relief under this chapter by filing a petition with a court alleging that the person has been the victim of stalking conduct committed by the respondent.
 
 . A minor sixteen years of age or older may seek relief under this chapter and is not required to seek relief through a guardian or next friend. This does not preclude a parent or legal custodian of a victim sixteen or seventeen years of age from seeking relief on behalf of the minor.
@@ -82,27 +82,27 @@ A petition for a stalking protection order may be filed by a person:
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf?cite=2013%20c%2084%20§%205[2013 c 84 § 5]; ]
 
-== 7.92.060 - Petition—Hearings prior to issuance of protection order.
+== 7.92.060 - Petition—Hearings prior to issuance of protection order. (Effective until July 1, 2022.)
 Upon receipt of the petition, the court shall order a hearing which shall be held not later than fourteen days from the date of the order. The court may schedule a hearing by telephone, to reasonably accommodate a disability, or in exceptional circumstances to protect a petitioner from further stalking behavior. The court shall require assurances of the petitioner's identity before conducting a telephonic hearing. Except as provided in RCW 7.92.150, personal service shall be made upon the respondent not less than five court days prior to the hearing. If timely personal service cannot be made, the court shall set a new hearing date and shall require additional attempts at obtaining personal service or other service as permitted under RCW 7.92.150. The court may issue an ex parte temporary stalking order pending the hearing as provided in RCW 7.92.120.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf?cite=2013%20c%2084%20§%206[2013 c 84 § 6]; ]
 
-== 7.92.070 - Consultation with judicial information system.
+== 7.92.070 - Consultation with judicial information system. (Effective until July 1, 2022.)
 Before granting an order under this chapter, the court may consult the judicial information system, if available, to determine criminal history or the pendency of other proceedings involving the parties.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf?cite=2013%20c%2084%20§%207[2013 c 84 § 7]; ]
 
-== 7.92.080 - Fees not permitted.
+== 7.92.080 - Fees not permitted. (Effective until July 1, 2022.)
 No fees for filing or service of process may be charged by a public agency to petitioners seeking relief under this chapter.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf?cite=2013%20c%2084%20§%208[2013 c 84 § 8]; ]
 
-== 7.92.090 - Victim's advocates.
+== 7.92.090 - Victim's advocates. (Effective until July 1, 2022.)
 Victim advocates shall be allowed to accompany the victim and confer with the victim, unless otherwise directed by the court. Court administrators shall allow advocates to assist victims of stalking conduct in the preparation of petitions for stalking protection orders. Advocates are not engaged in the unauthorized practice of law when providing assistance of the types specified in this section.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf?cite=2013%20c%2084%20§%209[2013 c 84 § 9]; ]
 
-== 7.92.100 - Burden of proof—Issuance of protection order—Remedies.
+== 7.92.100 - Burden of proof—Issuance of protection order—Remedies. (Effective until July 1, 2022.)
 . [Empty]
 .. If the court finds by a preponderance of the evidence that the petitioner has been a victim of stalking conduct by the respondent, the court shall issue a stalking protection order.
 
@@ -130,12 +130,12 @@ Victim advocates shall be allowed to accompany the victim and confer with the vi
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1786-S.SL.pdf?cite=2019%20c%20245%20§%207[2019 c 245 § 7]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf?cite=2013%20c%2084%20§%2010[2013 c 84 § 10]; ]
 
-== 7.92.110 - Accountability for conduct of others.
+== 7.92.110 - Accountability for conduct of others. (Effective until July 1, 2022.)
 For the purposes of issuing a stalking protection order, deciding what relief should be included in the order, and enforcing the order, RCW 9A.08.020 shall govern whether the respondent is legally accountable for the conduct of another person.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf?cite=2013%20c%2084%20§%2011[2013 c 84 § 11]; ]
 
-== 7.92.120 - Ex parte temporary order for protection—Issuance.
+== 7.92.120 - Ex parte temporary order for protection—Issuance. (Effective until July 1, 2022.)
 . Where it appears from the petition and any additional evidence that the respondent has engaged in stalking conduct and that irreparable injury could result if an order is not issued immediately without prior notice, the court may grant an ex parte temporary order for protection, pending a full hearing and grant such injunctive relief as it deems proper, including the relief as specified under *RCW 7.92.100 (2)(a) through (d) and (4).
 
 . Irreparable injury under this section includes, but is not limited to, situations in which the respondent has recently threatened the petitioner with bodily injury or has engaged in acts of stalking conduct against the petitioner.
@@ -154,12 +154,12 @@ For the purposes of issuing a stalking protection order, deciding what relief sh
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1786-S.SL.pdf?cite=2019%20c%20245%20§%208[2019 c 245 § 8]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf?cite=2013%20c%2084%20§%2012[2013 c 84 § 12]; ]
 
-== 7.92.125 - Ex parte temporary order—Admissibility in subsequent civil actions.
+== 7.92.125 - Ex parte temporary order—Admissibility in subsequent civil actions. (Effective until July 1, 2022.)
 An ex parte temporary order issued under this chapter shall not be admissible as evidence in any subsequent civil action for damages arising from the conduct alleged in the petition or the order.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf?cite=2013%20c%2084%20§%2022[2013 c 84 § 22]; ]
 
-== 7.92.130 - Protection orders—Duration.
+== 7.92.130 - Protection orders—Duration. (Effective until July 1, 2022.)
 . Except as otherwise provided in this section or RCW 7.92.160, a final stalking protection order shall be effective for a fixed period of time or be permanent.
 
 . Any ex parte temporary or final stalking protection order may be renewed one or more times. The petitioner may apply for renewal of the order by filing a petition for renewal at any time within the three months before the order expires. If the motion for renewal is uncontested and the petitioner seeks no modification of the order, the order may be renewed on the basis of the petitioner's motion or affidavit stating that there has been no material change in relevant circumstances since entry of the order and stating the reason for the requested renewal. The court shall grant the petition for renewal unless the respondent proves by a preponderance of the evidence that the respondent will not resume acts of stalking conduct against the petitioner or the petitioner's children or family or household members when the order expires. The court may renew the stalking protection order for another fixed time period or may enter a permanent order as provided in this section. The court may award court costs, service fees, and reasonable attorneys' fees as provided in RCW 7.92.100.
@@ -172,7 +172,7 @@ An ex parte temporary order issued under this chapter shall not be admissible as
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf?cite=2013%20c%2084%20§%2013[2013 c 84 § 13]; ]
 
-== 7.92.140 - Protection order—Contents.
+== 7.92.140 - Protection order—Contents. (Effective until July 1, 2022.)
 . Any stalking protection order shall describe each remedy granted by the court, in reasonable detail and not by reference to any other document, so that the respondent may clearly understand what he or she must do or refrain from doing.
 
 . A stalking protection order shall further state the following:
@@ -191,7 +191,7 @@ An ex parte temporary order issued under this chapter shall not be admissible as
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf?cite=2013%20c%2084%20§%2014[2013 c 84 § 14]; ]
 
-== 7.92.150 - Protection orders—Service to respondent—Service by publication.
+== 7.92.150 - Protection orders—Service to respondent—Service by publication. (Effective until July 1, 2022.)
 . An order issued under this chapter shall be personally served upon the respondent, except as provided in subsection (6), (7), or (8) of this section. If the respondent is a minor, the respondent's parent or legal custodian shall also be personally served.
 
 . The sheriff of the county or the peace officers of the municipality in which the respondent resides shall serve the respondent personally unless the petitioner elects to have the respondent served by a private party. If the order includes a requirement under RCW 9.41.800 for the immediate surrender of all firearms, dangerous weapons, and any concealed pistol license, the order must be served by a law enforcement officer.
@@ -254,7 +254,7 @@ Petitioner . . . .
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1786-S.SL.pdf?cite=2019%20c%20245%20§%209[2019 c 245 § 9]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf?cite=2013%20c%2084%20§%2015[2013 c 84 § 15]; ]
 
-== 7.92.160 - Court-initiated stalking no-contact orders.
+== 7.92.160 - Court-initiated stalking no-contact orders. (Effective until July 1, 2022. Recodified as RCW  9A.46.055.)
 . [Empty]
 .. When any person charged with or arrested for stalking as defined in RCW 9A.46.110 or any other stalking-related offense under RCW 9A.46.060 is released from custody before arraignment or trial on bail or personal recognizance, the court authorizing the release may prohibit that person from having any contact with the victim. The jurisdiction authorizing the release shall determine whether that person should be prohibited from having any contact with the victim. If there is no outstanding restraining or protective order prohibiting that person from having contact with the victim, and the victim does not qualify for a domestic violence protection order under chapter 26.50 RCW, the court authorizing release may issue, by telephone, a stalking no-contact order prohibiting the person charged or arrested from having contact with the victim or from knowingly coming within, or knowingly remaining within, a specified distance of a location.
 
@@ -291,7 +291,7 @@ Petitioner . . . .
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf?cite=2013%20c%2084%20§%2016[2013 c 84 § 16]; ]
 
-== 7.92.170 - Personal jurisdiction by court over nonresident individuals.
+== 7.92.170 - Personal jurisdiction by court over nonresident individuals. (Effective until July 1, 2022.)
 . In a proceeding in which a petition for a stalking protection order is sought under this chapter, a court of this state may exercise personal jurisdiction over a nonresident individual if:
 
 .. The individual is personally served with a petition within this state;
@@ -313,14 +313,14 @@ Petitioner . . . .
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf?cite=2013%20c%2084%20§%2017[2013 c 84 § 17]; ]
 
-== 7.92.180 - Copy of order to be forwarded to law enforcement agency—Entry of information into computer-based information systems.
+== 7.92.180 - Copy of order to be forwarded to law enforcement agency—Entry of information into computer-based information systems. (Effective until July 1, 2022.)
 . A copy of a stalking protection order or stalking no-contact order granted under this chapter shall be forwarded by the clerk of the court on or before the next judicial day to the appropriate law enforcement agency specified in the order. Upon receipt of the order, the law enforcement agency shall immediately enter the order into any computer-based criminal intelligence information system available in this state used by law enforcement agencies to list outstanding warrants. The order shall remain in the computer for one year unless a different expiration date is specified on the order. Upon receipt of notice that an order has been terminated, the law enforcement agency shall remove the order from the computer-based criminal intelligence information system. The law enforcement agency shall only expunge from the computer-based criminal intelligence information system orders that are expired, vacated, terminated, or superseded. Entry into the law enforcement information system constitutes notice to all law enforcement agencies of the existence of the order. The order is fully enforceable in any county in the state.
 
 . The information entered into the computer-based criminal intelligence information system shall include notice to law enforcement whether the order was personally served, served by publication, or served by mail.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf?cite=2013%20c%2084%20§%2018[2013 c 84 § 18]; ]
 
-== 7.92.190 - Modification or termination of protection orders.
+== 7.92.190 - Modification or termination of protection orders. (Effective until July 1, 2022.)
 . Upon application with notice to all parties and after a hearing, the court may modify the terms of an existing stalking protection order.
 
 . A respondent's motion to modify or terminate an existing stalking protection order must include a declaration setting forth facts supporting the requested order for termination or modification. The nonmoving parties to the proceeding may file opposing declarations. The court shall deny the motion unless it finds that adequate cause for hearing the motion is established by the declarations. If the court finds that the respondent established adequate cause, the court shall set a date for hearing the respondent's motion.
@@ -335,12 +335,12 @@ Petitioner . . . .
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1786-S.SL.pdf?cite=2019%20c%20245%20§%2010[2019 c 245 § 10]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf?cite=2013%20c%2084%20§%2019[2013 c 84 § 19]; ]
 
-== 7.92.900 - Construction—Filing of criminal charges not required.
+== 7.92.900 - Construction—Filing of criminal charges not required. (Effective until July 1, 2022.)
 Nothing in this chapter shall be construed as requiring criminal charges to be filed as a condition of a stalking protection order being issued.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf?cite=2013%20c%2084%20§%2023[2013 c 84 § 23]; ]
 
-== 7.92.901 - Short title.
+== 7.92.901 - Short title. (Effective until July 1, 2022.)
 Chapter 84, Laws of 2013 may be known and cited as the Jennifer Paulson stalking protection order act.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf?cite=2013%20c%2084%20§%2024[2013 c 84 § 24]; ]

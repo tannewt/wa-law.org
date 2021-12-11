@@ -124,9 +124,9 @@ The provisions of this chapter do not apply to amounts received from operating s
 [ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/3015-S.SL.pdf?cite=1998%20c%20179%20§%205[1998 c 179 § 5]; ]
 
 == 82.16.047 - Exemptions—Ride sharing.
-This chapter does not apply to any funds received in the course of commuter ride sharing or ride sharing for persons with special transportation needs in accordance with RCW 46.74.010.
+This chapter does not apply to any funds received in the course of ride sharing or ride sharing for persons with special transportation needs in accordance with RCW 46.74.010.
 
-[ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1623-S.SL.pdf?cite=1999%20c%20358%20§%2012[1999 c 358 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c111.pdf?cite=1979%20c%20111%20§%2018[1979 c 111 § 18]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1514-S.SL.pdf?cite=2021%20c%20135%20§%208[2021 c 135 § 8]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1623-S.SL.pdf?cite=1999%20c%20358%20§%2012[1999 c 358 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c111.pdf?cite=1979%20c%20111%20§%2018[1979 c 111 § 18]; ]
 
 == 82.16.0491 - Credit—Contributions to an electric utility rural economic development revolving fund.
 . The following definitions apply to this section:
@@ -310,9 +310,9 @@ $2,000,000
 
 . Credits are available on a first-in-time basis.
 
-.. The department must disallow any credits, or portion thereof, that would cause the total amount of credits claimed under this section, and RCW 82.04.4496, during any calendar year to exceed six million dollars. The department must provide notification on its web site monthly on the amount of credits that have been applied for, the amount issued, and the amount remaining before the statewide annual limit is reached. In addition, the department must provide written notice to any person who has applied to claim tax credits in excess of the limitation in this subsection.
+.. The department must disallow any credits, or portion thereof, that would cause the total amount of credits claimed under this section, and RCW 82.04.4496, during any calendar year to exceed six million dollars. The department must provide notification on its website monthly on the amount of credits that have been applied for, the amount issued, and the amount remaining before the statewide annual limit is reached. In addition, the department must provide written notice to any person who has applied to claim tax credits in excess of the limitation in this subsection.
 
-.. The department must disallow any credits, or portion thereof, that would cause the total amount of credits claimed beginning July 15, 2015, under this section and RCW 82.04.4496 to exceed thirty-two and one-half million dollars. The department must provide notification on its web site monthly on the total amount of credits that have been applied for, the amount issued, and the amount remaining before the statewide limit is reached. In addition, the department must provide written notice to any person who has applied to claim tax credits in excess of the limitation in this subsection.
+.. The department must disallow any credits, or portion thereof, that would cause the total amount of credits claimed beginning July 15, 2015, under this section and RCW 82.04.4496 to exceed thirty-two and one-half million dollars. The department must provide notification on its website monthly on the total amount of credits that have been applied for, the amount issued, and the amount remaining before the statewide limit is reached. In addition, the department must provide written notice to any person who has applied to claim tax credits in excess of the limitation in this subsection.
 
 . For the purposes of the limits provided in this section, a credit must be counted against such limits for the calendar year in which the credit is earned.
 
@@ -368,7 +368,7 @@ $2,000,000
 
 . To administer the credits, the department must, at a minimum:
 
-.. Provide notification on its web site monthly of the amount of credits that have been applied for, claimed, and the amount remaining before the statewide annual limit and total limit are reached;
+.. Provide notification on its website monthly of the amount of credits that have been applied for, claimed, and the amount remaining before the statewide annual limit and total limit are reached;
 
 .. Within fifteen days of receipt of the application, notify persons applying of the availability of tax credits in the year in which the vehicles or infrastructure applied for are anticipated to be delivered, constructed, or installed;
 
@@ -890,7 +890,7 @@ The definitions in this section apply throughout this section and RCW 82.16.165,
 
 .. Such notice of termination of participation is effective after fifteen days, at which point the Washington State University extension energy program may not accept new applications for certification of renewable energy systems that would be served by that utility.
 
-.. Upon receiving a utility's notice of termination of participation in the incentive program, the Washington State University extension energy program must report on its web site that customers of that utility are no longer eligible to receive new certifications under the program.
+.. Upon receiving a utility's notice of termination of participation in the incentive program, the Washington State University extension energy program must report on its website that customers of that utility are no longer eligible to receive new certifications under the program.
 
 .. A utility's termination of participation does not affect the utility's obligation to continue to make annual incentive payments for electricity generated by systems that were certified prior to the effective date of the notice. The Washington State University extension energy program must continue to process and issue certifications for renewable energy systems that were received by the Washington State University extension energy program before the effective date of the notice of termination.
 
@@ -1040,7 +1040,7 @@ $0.02
 
 . The manufacturer of a renewable energy system component subject to a bonus rate under subsection (12) of this section may apply to the Washington State University extension energy program to receive a determination of eligibility for such bonus rates. The Washington State University extension energy program must publish a list of components that have been certified as eligible for such bonus rates. The Washington State University extension energy program may assess an equipment certification fee to recover its costs. The Washington State University extension energy program must deposit all revenue generated by this fee into the state general fund.
 
-. Annually, the utility must report electronically to the Washington State University extension energy program the amount of gross kilowatt-hours generated by each renewable energy system since the prior annual report. For the purposes of this section, to report electronically means to submit statistical or factual information in alphanumeric form through a web site established by the Washington State University extension energy program or in a list, table, spreadsheet, or other nonnarrative format that can be digitally transmitted or processed. The utility may instead opt to report by mail or require program participants to report individually, but if the utility exercises one or more of these options it must negotiate with the Washington State University extension energy program the fee-for-service arrangement described in subsection (5)(b) of this section.
+. Annually, the utility must report electronically to the Washington State University extension energy program the amount of gross kilowatt-hours generated by each renewable energy system since the prior annual report. For the purposes of this section, to report electronically means to submit statistical or factual information in alphanumeric form through a website established by the Washington State University extension energy program or in a list, table, spreadsheet, or other nonnarrative format that can be digitally transmitted or processed. The utility may instead opt to report by mail or require program participants to report individually, but if the utility exercises one or more of these options it must negotiate with the Washington State University extension energy program the fee-for-service arrangement described in subsection (5)(b) of this section.
 
 . [Empty]
 .. The Washington State University extension energy program must calculate for the year and provide to the utility the amount of the incentive payment due to each participant and the total amount of credit against tax due available to the utility under RCW 82.16.130 that has been allocated as annual incentive payments. Upon notice to the Washington State University extension energy program, a utility may opt to directly perform this calculation and provide its results to the Washington State University extension energy program.
@@ -1052,7 +1052,7 @@ $0.02
 
 .. A utility is not liable for incentive payments to a customer-owner if the utility has disconnected the customer due to a violation of a customer service agreement, such as nonpayment of the customer's bill, or a violation of an interconnection agreement.
 
-. Beginning January 1, 2018, the Washington State University extension energy program must post on its web site and update at least monthly a report, by utility, of:
+. Beginning January 1, 2018, the Washington State University extension energy program must post on its website and update at least monthly a report, by utility, of:
 
 .. The number of certifications issued for renewable energy systems, including estimated system sizes, costs, and annual energy production and incentive yields for various system types; and
 
@@ -1228,15 +1228,6 @@ $0.02
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1257-S3.SL.pdf?cite=2019%20c%20285%20§%208[2019 c 285 § 8]; ]
 
-== 82.16.300 - Exemptions—Custom farming services. (Expires December 31, 2020.)
-. This chapter shall not apply to any person hauling agricultural products or farm machinery or equipment for a farmer or for a person performing custom farming services, when the person providing the hauling and the farmer or person performing custom farming services are related.
-
-. The exemption provided by this section shall not apply to the hauling of any substances or articles manufactured from agricultural products. For the purposes of this subsection, "manufactured" has the same meaning as "to manufacture" in RCW 82.04.120.
-
-. The definitions in RCW 82.04.213 and 82.04.625 apply to this section.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2352-S.SL.pdf?cite=2007%20c%20334%20§%202[2007 c 334 § 2]; ]
-
 == 82.16.305 - Exemptions—Joint municipal utility services authorities.
 This chapter does not apply to any payments between, or any transfer of assets to or from, a joint municipal utility services authority created under chapter 39.106 RCW and any of its members.
 
@@ -1281,4 +1272,25 @@ This chapter does not apply to any payments between, or any transfer of assets t
 .. "Solar grade silicon" means high-purity silicon used exclusively in components of solar energy systems using photovoltaic modules to capture direct sunlight. "Solar grade silicon" does not include silicon used in semiconductors.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5977-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2037%20§%20703[2017 3rd sp.s. c 37 § 703]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5977-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2037%20§%20702[2017 3rd sp.s. c 37 § 702]; ]
+
+== 82.16.320 - Exemptions—Qualifying grants—National emergency or state of emergency.
+. This chapter does not apply to any person with respect to the value proceeding or accruing from a qualifying grant received on or after February 29, 2020.
+
+. For purposes of this section, "qualifying grant" means an amount received, or relief from debt or other legal obligation received, that:
+
+.. Is received under a government-funded program either directly from a government entity, or through a nongovernmental third-party entity authorized by a government entity to distribute the program funds, or, in the case of relief from debt or other legal obligation, is received from a private entity under circumstances where, in exchange for providing the relief, the private entity receives some form of direct financial benefit from a government entity;
+
+.. Is provided to address the impacts of conditions giving rise to an official proclamation of a national emergency by the president of the United States or an official proclamation of a state of emergency by the governor of this state; and
+
+.. Is not an amount received:
+
+... Under a contract, including a sole source contract, for the acquisition of specific goods or services, or both, by purchase, lease, or barter, that was solicited and established in accordance with procurement laws or regulations; or
+
+... When the amount received or accrued during a tax reporting period is determined based on the amount of business actually conducted during that tax reporting period, such as the quantity, volume, or weight of products sold or transported, or the number of passengers transported. For purposes of this subsection (2)(c)(ii), "products" has the same meaning as in RCW 82.32.023 and includes electrical energy, water, natural gas, manufactured gas, and transporting persons or property.
+
+. For purposes of a grant awarded to address the impacts of conditions giving rise to a national emergency or state of emergency, the exemption under this section applies only if the legislation authorizing the grant or the associated legislative history, public records created by the grantor, or the terms of the underlying grant agreement between the grantor and grantee, clearly indicate that the grant was established to address the impacts of conditions giving rise to a national emergency or state of emergency.
+
+. For purposes of this section, "government" means any national, tribal, state, or local government.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1095-S.SL.pdf?cite=2021%20c%204%20§%202[2021 c 4 § 2]; ]
 

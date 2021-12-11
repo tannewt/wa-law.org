@@ -21,7 +21,7 @@
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%20916[2008 c 6 § 916]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2048[1997 c 252 § 48]; ]
 
 == 11.54.020 - Amount of basic award.
-The amount of the basic award shall be the amount specified in RCW 6.13.030(2) with regard to lands. If an award is divided between a surviving spouse or surviving domestic partner and the decedent's children who are not the children of the surviving spouse or surviving domestic partner, the aggregate amount awarded to all the claimants under this section shall be the amount specified in RCW 6.13.030(2) with respect to lands. The amount of the basic award may be increased or decreased in accordance with RCW 11.54.040 and 11.54.050.
+The amount of the basic award shall be the amount specified in *RCW 6.13.030(2) with regard to lands. If an award is divided between a surviving spouse or surviving domestic partner and the decedent's children who are not the children of the surviving spouse or surviving domestic partner, the aggregate amount awarded to all the claimants under this section shall be the amount specified in *RCW 6.13.030(2) with respect to lands. The amount of the basic award may be increased or decreased in accordance with RCW 11.54.040 and 11.54.050.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%20917[2008 c 6 § 917]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2049[1997 c 252 § 49]; ]
 
@@ -51,7 +51,7 @@ The amount of the basic award shall be the amount specified in RCW 6.13.030(2) w
 
 .. Oral or written statements made by the decedent that are otherwise admissible as evidence.
 
-The fact that the decedent has named beneficiaries other than the claimant as recipients of the decedent's estate is not of itself adequate to evidence such an intent as would prevent the award of an amount in excess of that provided for in RCW 6.13.030(2) with respect to lands.
+The fact that the decedent has named beneficiaries other than the claimant as recipients of the decedent's estate is not of itself adequate to evidence such an intent as would prevent the award of an amount in excess of that provided for in *RCW 6.13.030(2) with respect to lands.
 
 . [Empty]
 .. A petition for an increased award may only be made if a petition for an award has been granted under RCW 11.54.010. The request for an increased award may be made in conjunction with the petition for an award under RCW 11.54.010.
@@ -82,11 +82,11 @@ The fact that the decedent has named beneficiaries other than the claimant as re
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%20921[2008 c 6 § 921]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6181-S.SL.pdf?cite=1998%20c%20292%20§%20201[1998 c 292 § 201]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2054[1997 c 252 § 54]; ]
 
 == 11.54.080 - Exemption of additional assets from claims of creditors—Petition—Notice—Court order.
-. This section applies if the party entitled to petition for an award holds exempt property that is in an aggregate amount less than that specified in RCW 6.13.030(2) with respect to lands.
+. This section applies if the party entitled to petition for an award holds exempt property that is in an aggregate amount less than that specified in *RCW 6.13.030(2) with respect to lands.
 
-. For purposes of this section, the party entitled to petition for an award is referred to as the "claimant." If multiple parties are entitled to petition for an award, all of them are deemed a "claimant" and may petition for an exemption of additional assets as provided in this section, if the aggregate amount of exempt property to be held by all the claimants after the making of the award does not exceed the amount specified in RCW 6.13.030(2) with respect to lands.
+. For purposes of this section, the party entitled to petition for an award is referred to as the "claimant." If multiple parties are entitled to petition for an award, all of them are deemed a "claimant" and may petition for an exemption of additional assets as provided in this section, if the aggregate amount of exempt property to be held by all the claimants after the making of the award does not exceed the amount specified in *RCW 6.13.030(2) with respect to lands.
 
-. A claimant may petition the court for an order exempting other assets from the claims of creditors so that the aggregate amount of exempt property held by the claimants equals the amount specified in RCW 6.13.030(2) with respect to lands. The petition must:
+. A claimant may petition the court for an order exempting other assets from the claims of creditors so that the aggregate amount of exempt property held by the claimants equals the amount specified in *RCW 6.13.030(2) with respect to lands. The petition must:
 
 .. Set forth facts to establish that the petitioner is entitled to petition for an award under RCW 11.54.010;
 
@@ -96,7 +96,7 @@ The fact that the decedent has named beneficiaries other than the claimant as re
 
 . Notice of a petition for an order exempting assets from the claims of creditors must be given in accordance with RCW 11.96A.110.
 
-. At the hearing on the petition, the court shall order that certain assets of the claimants are exempt from the claims of creditors so that the aggregate amount of exempt property held by the claimants after the entry of the order is in the amount specified in RCW 6.13.030(2) with respect to lands. In the order the court shall designate those assets of the claimants that are so exempt.
+. At the hearing on the petition, the court shall order that certain assets of the claimants are exempt from the claims of creditors so that the aggregate amount of exempt property held by the claimants after the entry of the order is in the amount specified in *RCW 6.13.030(2) with respect to lands. In the order the court shall designate those assets of the claimants that are so exempt.
 
 [ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5196.SL.pdf?cite=1999%20c%2042%20§%20612[1999 c 42 § 612]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5110-S.SL.pdf?cite=1997%20c%20252%20§%2055[1997 c 252 § 55]; ]
 

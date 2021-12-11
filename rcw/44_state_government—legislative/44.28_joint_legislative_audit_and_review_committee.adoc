@@ -4,15 +4,17 @@
 == 44.28.005 - Definitions.
 Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
 
-. "Legislative auditor" means the executive officer of the joint legislative audit and review committee.
-
 . "Economy and efficiency audits" means performance audits that establish: (a) Whether a state agency or unit of local government receiving state funds is acquiring, protecting, and using its resources such as personnel, property, and space economically and efficiently; (b) the causes of inefficiencies or uneconomical practices; and (c) whether the state agency or local government has complied with significant laws and rules in acquiring, protecting, and using its resources.
+
+. "Ethnic commissions" means the Washington state commission on African American affairs established in chapter 43.113 RCW, the Washington state commission on Asian Pacific American affairs established in chapter 43.117 RCW, and the Washington state commission on Hispanic affairs established in chapter 43.115 RCW.
 
 . "Final compliance report" means a written document, as approved by the joint committee, that states the specific actions a state agency or unit of local government receiving state funds has taken to implement recommendations contained in the final performance audit report and the preliminary compliance report. Any recommendations, including proposed legislation and changes in the agency's rules and practices or the local government's practices, based on testimony received, must be included in the final compliance report.
 
 . "Final performance audit report" means a written document adopted by the joint legislative audit and review committee that contains the findings and proposed recommendations made in the preliminary performance audit report, the final recommendations adopted by the joint committee, any comments to the preliminary performance audit report by the joint committee, and any comments to the preliminary performance audit report by the state agency or local government that was audited.
 
 . "Joint committee" means the joint legislative audit and review committee.
+
+. "Legislative auditor" means the executive officer of the joint legislative audit and review committee.
 
 . "Local government" means a city, town, county, special purpose district, political subdivision, municipal corporation, or quasi-municipal corporation, including a public corporation created by such an entity.
 
@@ -28,7 +30,7 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 . "State agency" or "agency" means a state agency, department, office, officer, board, commission, bureau, division, institution, or institution of higher education. "State agency" includes all elective offices in the executive branch of state government.
 
-[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2222-S2.SL.pdf?cite=1996%20c%20288%20§%202[1996 c 288 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5405-S.SL.pdf?cite=2021%20c%20310%20§%203[2021 c 310 § 3]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2222-S2.SL.pdf?cite=1996%20c%20288%20§%202[1996 c 288 § 2]; ]
 
 == 44.28.010 - Committee created—Members.
 The joint legislative audit and review committee is created, which shall consist of eight senators and eight representatives from the legislature. The senate members of the joint committee shall be appointed by the president of the senate, and the house members of the joint committee shall be appointed by the speaker of the house. Not more than four members from each house shall be from the same political party. Members shall be appointed before the close of each regular session of the legislature during an odd-numbered year.
@@ -108,6 +110,11 @@ The legislative auditor shall:
 . As part of a performance audit, the legislative auditor may review the costs of programs recently implemented by the legislature to compare actual agency costs with the appropriations provided and the cost estimates that were included in the fiscal note for the program at the time the program was enacted.
 
 [ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2222-S2.SL.pdf?cite=1996%20c%20288%20§%2010[1996 c 288 § 10]; ]
+
+== 44.28.076 - Racial equity analysis.
+The joint committee shall incorporate a racial equity analysis into performance audits, sunset reviews, and other audits or reports conducted by the joint committee. The joint committee shall note in its audits, reviews, and reports if a racial equity analysis is not necessary or appropriate. The joint committee may work with the office of equity, the governor's office of Indian affairs, the LGBTQ commission, the Washington state women's commission, and the ethnic commissions to design the racial equity analysis required under this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5405-S.SL.pdf?cite=2021%20c%20310%20§%201[2021 c 310 § 1]; ]
 
 == 44.28.080 - Powers—Appropriations, expenses, revenues.
 The joint committee has the following powers:

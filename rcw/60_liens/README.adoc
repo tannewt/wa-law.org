@@ -26,3 +26,4 @@
 * link:60.76_lien_of_employees_for_contributions_to_benefit_plans.adoc[60.76 - Lien of employees for contributions to benefit plans.]
 * link:60.80_lien_for_unrecorded_utility_charges.adoc[60.80 - Lien for unrecorded utility charges.]
 * link:60.84_lien_on_dies_molds_forms_and_patterns.adoc[60.84 - Lien on dies, molds, forms, and patterns.]
+* link:60.90_washington_wage_recovery_act.adoc[60.90 - Washington wage recovery act.]

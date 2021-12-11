@@ -329,6 +329,11 @@ A code city with a population of one hundred thirty-five thousand or more may ch
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5183-S.SL.pdf?cite=2019%20c%20390%20§%2015[2019 c 390 § 15]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1227.SL.pdf?cite=2009%20c%2079%20§%202[2009 c 79 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5524-S.SL.pdf?cite=2008%20c%20117%20§%202[2008 c 117 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6593.SL.pdf?cite=2004%20c%20256%20§%203[2004 c 256 § 3]; ]
 
+== 35A.21.314 - Code city may not limit number of unrelated persons occupying a household or dwelling unit—Exceptions.
+Except for occupant limits on group living arrangements regulated under state law or on short-term rentals as defined in RCW 64.37.010 and any lawful limits on occupant load per square foot or generally applicable health and safety provisions as established by applicable building code or city ordinance, a code city may not regulate or limit the number of unrelated persons that may occupy a household or dwelling unit.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5235-S.SL.pdf?cite=2021%20c%20306%20§%206[2021 c 306 § 6]; ]
+
 == 35A.21.320 - Abandoned or derelict vessels.
 A code city has the authority, subject to the processes and limitation outlined in chapter 79.100 RCW, to store, strip, use, auction, sell, salvage, scrap, or dispose of an abandoned or derelict vessel found on or above publicly or privately owned aquatic lands within the jurisdiction of the code city.
 
@@ -481,7 +486,7 @@ The antidiscrimination provisions of RCW 49.60.500 apply to community athletics 
 
 ... Delivering to each local newspaper of general circulation and local radio or television station that has on file with the governing body a written request to be notified of special meetings;
 
-... Posting on the code city's web site. A code city is not required to post a special meeting notice on its web site if it: (A) Does not have a web site; (B) employs fewer than ten full-time equivalent employees; or (C) does not employ personnel whose duty, as defined by a job description or existing contract, is to maintain or update the web site;
+... Posting on the code city's website. A code city is not required to post a special meeting notice on its website if it: (A) Does not have a website; (B) employs fewer than ten full-time equivalent employees; or (C) does not employ personnel whose duty, as defined by a job description or existing contract, is to maintain or update the website;
 
 ... Prominently displaying, on signage at least two feet in height and two feet in width, one or more meeting notices that can be placed on or adjacent to the main arterials in proximity to the location of the meeting; or
 
@@ -569,7 +574,7 @@ A code city must comply with the requirements of RCW 47.01.485 in making a final
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2519-S.SL.pdf?cite=2016%20c%20100%20§%202[2016 c 100 § 2]; ]
 
 == 35A.21.410 - Removal of restrictive covenants—Hearing, notice.
-Any code city must hold a public hearing upon a proposal to remove, vacate, or extinguish a restrictive covenant from property owned by the code city before the action is finalized. The public hearing must allow individuals to provide testimony regarding the proposed action. The code city must provide notice of the public hearing at least ten days before the hearing at its usual place of business and issue a press release to local media providing the date, time, location, and reason for the public hearing. The notice must be posted on the code city's web site if it is updated for any reason prior to the hearing date. The notice must also identify the property and provide a brief explanation of the restrictive covenant to be removed, vacated, or extinguished. Any member of the public, in person or by counsel, may submit testimony regarding the proposed action at the public hearing.
+Any code city must hold a public hearing upon a proposal to remove, vacate, or extinguish a restrictive covenant from property owned by the code city before the action is finalized. The public hearing must allow individuals to provide testimony regarding the proposed action. The code city must provide notice of the public hearing at least ten days before the hearing at its usual place of business and issue a press release to local media providing the date, time, location, and reason for the public hearing. The notice must be posted on the code city's website if it is updated for any reason prior to the hearing date. The notice must also identify the property and provide a brief explanation of the restrictive covenant to be removed, vacated, or extinguished. Any member of the public, in person or by counsel, may submit testimony regarding the proposed action at the public hearing.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1959.SL.pdf?cite=2017%20c%20119%20§%204[2017 c 119 § 4]; ]
 
@@ -591,4 +596,9 @@ The legislative authority of a code city or town may authorize a change to its e
 A code city may authorize, by ordinance, the use of vacant or blighted city land for the purpose of community gardening under the terms and conditions established for the use of the city land set forth by the ordinance. The ordinance may establish fees for the use of the city land, provide requirements for liability insurance, and provide requirements for a deposit to use the city land, which may be refunded. The ordinance must require that a portion of the community garden include habitat beneficial for the feeding, nesting, and reproduction of all pollinators, including honey bees.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5552-S.SL.pdf?cite=2019%20c%20353%20§%2017[2019 c 353 § 17]; ]
+
+== 35A.21.430 - Transitional housing, permanent supportive housing, indoor emergency housing, and indoor emergency shelters.
+A code city shall not prohibit transitional housing or permanent supportive housing in any zones in which residential dwelling units or hotels are allowed. Effective September 30, 2021, a code city shall not prohibit indoor emergency shelters and indoor emergency housing in any zones in which hotels are allowed, except in such cities that have adopted an ordinance authorizing indoor emergency shelters and indoor emergency housing in a majority of zones within a one-mile proximity to transit. Reasonable occupancy, spacing, and intensity of use requirements may be imposed by ordinance on permanent supportive housing, transitional housing, indoor emergency housing, and indoor emergency shelters to protect public health and safety. Any such requirements on occupancy, spacing, and intensity of use may not prevent the siting of a sufficient number of permanent supportive housing, transitional housing, indoor emergency housing, or indoor emergency shelters necessary to accommodate each code city's projected need for such housing and shelter under RCW 36.70A.070(2)(a)(ii).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1220-S2.SL.pdf?cite=2021%20c%20254%20§%203[2021 c 254 § 3]; ]
 

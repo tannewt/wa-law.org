@@ -186,7 +186,7 @@ All judges and court commissioners adjudicating traffic infractions shall comple
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c136.pdf?cite=1979%20ex.s.%20c%20136%20§%207[1979 ex.s. c 136 § 7]; ]
 
-== 46.63.060 - Notice of traffic infraction—Determination final unless contested—Form.
+== 46.63.060 - Notice of traffic infraction—Determination final unless contested—Form. (Effective until January 1, 2023.)
 . A notice of traffic infraction represents a determination that an infraction has been committed. The determination will be final unless contested as provided in this chapter.
 
 . The form for the notice of traffic infraction shall be prescribed by rule of the supreme court and shall include the following:
@@ -216,7 +216,7 @@ All judges and court commissioners adjudicating traffic infractions shall comple
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1265-S.SL.pdf?cite=2013%20c%20170%20§%201[2013 c 170 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1483-S.SL.pdf?cite=2011%20c%20233%20§%201[2011 c 233 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1650-S.SL.pdf?cite=2006%20c%20270%20§%202[2006 c 270 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1741-S.SL.pdf?cite=1993%20c%20501%20§%209[1993 c 501 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c224.pdf?cite=1984%20c%20224%20§%202[1984 c 224 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982ex1c14.pdf?cite=1982%201st%20ex.s.%20c%2014%20§%202[1982 1st ex.s. c 14 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c128.pdf?cite=1980%20c%20128%20§%201[1980 c 128 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c136.pdf?cite=1979%20ex.s.%20c%20136%20§%208[1979 ex.s. c 136 § 8]; ]
 
-== 46.63.070 - Response to notice—Contesting determination—Hearing—Failure to respond or appear.
+== 46.63.070 - Response to notice—Contesting determination—Hearing—Failure to respond or appear. (Effective until January 1, 2023.)
 . Any person who receives a notice of traffic infraction shall respond to such notice as provided in this section within fifteen days of the date of the notice.
 
 . If the person determined to have committed the infraction does not contest the determination the person shall respond by completing the appropriate portion of the notice of infraction and submitting it, either by mail or in person, to the court specified on the notice. A check or money order in the amount of the penalty prescribed for the infraction must be submitted with the response. When a response which does not contest the determination is received, an appropriate order shall be entered in the court's records, and a record of the response and order shall be furnished to the department in accordance with RCW 46.20.270.
@@ -312,7 +312,7 @@ A city attorney, county prosecutor, or other prosecuting authority may not dismi
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6100-S.SL.pdf?cite=2007%20c%20367%20§%202[2007 c 367 § 2]; ]
 
-== 46.63.110 - Monetary penalties.
+== 46.63.110 - Monetary penalties. (Effective until January 1, 2023.)
 . A person found to have committed a traffic infraction shall be assessed a monetary penalty. No penalty may exceed two hundred and fifty dollars for each offense unless authorized by this chapter or title.
 
 . The monetary penalty for a violation of (a) RCW 46.55.105(2) is two hundred fifty dollars for each offense; (b) RCW 46.61.210(1) is five hundred dollars for each offense. No penalty assessed under this subsection (2) may be reduced.
@@ -443,10 +443,10 @@ Timely mailing of this statement to the issuing agency relieves a rental car bus
 . It is the intent of the legislature that the department provide an educational opportunity when vehicle owners incur fees and penalties associated with late payment of tolls for the first time. As part of this educational opportunity, the department may waive penalties and fees if the issue that resulted in the toll not being timely paid has been resolved and the vehicle owner establishes an electronic toll account, if practicable. To aid in collecting tolls in a timely manner, the department may waive or reduce the outstanding amounts of fees and penalties assessed when tolls are not timely paid.
 
 . [Empty]
-.. By June 30, 2016, the department of transportation must update its web site, and accommodate access to the web site from mobile platforms, to allow toll customers to efficiently manage all their tolling accounts, regardless of method of payment.
+.. By June 30, 2016, the department of transportation must update its website, and accommodate access to the website from mobile platforms, to allow toll customers to efficiently manage all their tolling accounts, regardless of method of payment.
 
 .. [Empty]
-... By June 30, 2016, the department of transportation must make available to the public a point of access that allows a third party to develop an application for mobile technologies that (A) securely accesses a user's toll account information and (B) allows the user to manage his or her toll account to the same extent possible through the department's web site.
+... By June 30, 2016, the department of transportation must make available to the public a point of access that allows a third party to develop an application for mobile technologies that (A) securely accesses a user's toll account information and (B) allows the user to manage his or her toll account to the same extent possible through the department's website.
 
 ... If the department determines that it would be cost-effective and in the best interests of the citizens of Washington, it may also develop an application for mobile technologies that allows toll customers to manage all of their tolling accounts from a mobile platform.
 
@@ -471,7 +471,7 @@ Timely mailing of this statement to the issuing agency relieves a rental car bus
 == 46.63.170 - Automated traffic safety cameras—Definition. (Effective until June 30, 2023.)
 . The use of automated traffic safety cameras for issuance of notices of infraction is subject to the following requirements:
 
-.. Except for proposed locations used solely for the pilot program purposes permitted under subsection (6) of this section, the appropriate local legislative authority must prepare an analysis of the locations within the jurisdiction where automated traffic safety cameras are proposed to be located: (i) Before enacting an ordinance allowing for the initial use of automated traffic safety cameras; and (ii) before adding additional cameras or relocating any existing camera to a new location within the jurisdiction. Automated traffic safety cameras may be used to detect one or more of the following: Stoplight, railroad crossing, or school speed zone violations; speed violations subject to (c) of this subsection; or violations included in subsection (6) of this section for the duration of the pilot program authorized under subsection (6) of this section. At a minimum, the local ordinance must contain the restrictions described in this section and provisions for public notice and signage. Cities and counties using automated traffic safety cameras before July 24, 2005, are subject to the restrictions described in this section, but are not required to enact an authorizing ordinance. Beginning one year after June 7, 2012, cities and counties using automated traffic safety cameras must post an annual report of the number of traffic accidents that occurred at each location where an automated traffic safety camera is located as well as the number of notices of infraction issued for each camera and any other relevant information about the automated traffic safety cameras that the city or county deems appropriate on the city's or county's web site.
+.. Except for proposed locations used solely for the pilot program purposes permitted under subsection (6) of this section, the appropriate local legislative authority must prepare an analysis of the locations within the jurisdiction where automated traffic safety cameras are proposed to be located: (i) Before enacting an ordinance allowing for the initial use of automated traffic safety cameras; and (ii) before adding additional cameras or relocating any existing camera to a new location within the jurisdiction. Automated traffic safety cameras may be used to detect one or more of the following: Stoplight, railroad crossing, or school speed zone violations; speed violations subject to (c) of this subsection; or violations included in subsection (6) of this section for the duration of the pilot program authorized under subsection (6) of this section. At a minimum, the local ordinance must contain the restrictions described in this section and provisions for public notice and signage. Cities and counties using automated traffic safety cameras before July 24, 2005, are subject to the restrictions described in this section, but are not required to enact an authorizing ordinance. Beginning one year after June 7, 2012, cities and counties using automated traffic safety cameras must post an annual report of the number of traffic accidents that occurred at each location where an automated traffic safety camera is located as well as the number of notices of infraction issued for each camera and any other relevant information about the automated traffic safety cameras that the city or county deems appropriate on the city's or county's website.
 
 .. Except as provided in (c) of this subsection and subsection (6) of this section, use of automated traffic safety cameras is restricted to the following locations only: (i) Intersections of two or more arterials with traffic control signals that have yellow change interval durations in accordance with RCW 47.36.022, which interval durations may not be reduced after placement of the camera; (ii) railroad crossings; and (iii) school speed zones.
 
@@ -571,4 +571,31 @@ Timely mailing of this statement to the issuing law enforcement agency relieves 
 . For purposes of this section, "automated school bus safety camera" means a device that is affixed to a school bus that is synchronized to automatically record one or more sequenced photographs, microphotographs, or electronic images of the rear of a vehicle at the time the vehicle is detected for an infraction identified in RCW 46.61.370(1).
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5024-S.SL.pdf?cite=2013%20c%20306%20§%20716[2013 c 306 § 716]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5540-S.SL.pdf?cite=2011%20c%20375%20§%202[2011 c 375 § 2]; ]
+
+== 46.63.190 - Payment plans—Request—Delinquency—Nonpayments—Fees—Modification allowed. (Effective January 1, 2023.)
+. [Empty]
+.. A person may request a payment plan at any time for the payment of any monetary penalty, fee, cost, assessment, or other monetary obligation associated with a traffic infraction. If the person does not have the ability to pay the monetary obligation in full, the person has not previously been granted a payment plan for the same monetary obligation, and the court has not authorized its collections agency to take civil legal enforcement action, the court shall enter into a payment plan with the individual. Where the court has authorized its collections agency to take civil legal enforcement action, the court may, at its discretion, enter into a payment plan.
+
+.. If a court authorized community restitution program for offenders is available in the jurisdiction, the court may allow conversion of all or part of the monetary obligations due under this section to court authorized community restitution in lieu of time payments if the person is unable to make reasonable time payments.
+
+. The person may voluntarily pay an amount at any time in addition to the payments required under the payment plan.
+
+. If a payment required to be made under the payment plan is delinquent or the person fails to complete a community restitution program on or before the time established under the payment plan, unless the court determines good cause therefor and adjusts the payment plan or the community restitution plan accordingly, the court may refer the unpaid monetary penalty, fee, cost, assessment, or other monetary obligation for civil enforcement until all monetary obligations have been paid and court authorized community restitution has been completed, or until the court has entered into a new payment plan or community restitution agreement with the person.
+
+. [Empty]
+.. If a person has not entered into a payment plan with the court and has not paid the monetary obligation in full, no sooner than 90 days from the date of the infraction the court may refer the unpaid monetary penalty, fee, cost, assessment, or other monetary obligation to a collections agency until all monetary obligations have been paid or until the person has entered into a payment plan under this section.
+
+.. If a person responded to a traffic infraction for a moving violation attesting that the person did not have the ability to pay the infraction in full, the court must attempt to enter into a payment plan with the person prior to referring the monetary obligation to a collections agency.
+
+. If the payment plan is to be administered by the court, the court may assess the person a reasonable administrative fee to be wholly retained by the city or county with jurisdiction. The administrative fee shall not exceed $10 per infraction or $25 per payment plan, whichever is less.
+
+. Nothing in this section precludes a court from contracting with outside entities to administer its payment plan system. When outside entities are used for the administration of a payment plan, the court may assess the person a reasonable fee for such administrative services, which fee may be calculated on a periodic, percentage, or other basis.
+
+. The court may modify a payment plan at any time.
+
+. The court may require a person who fails to make payment as required under a payment plan to appear and provide evidence of ability to pay.
+
+. For the purposes of this section, "payment plan" means a plan that requires reasonable payments based on the financial ability of the person to pay as determined by court rule.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5226-S.SL.pdf?cite=2021%20c%20240%20§%204[2021 c 240 § 4]; ]
 

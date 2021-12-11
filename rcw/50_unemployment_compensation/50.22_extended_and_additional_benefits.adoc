@@ -13,7 +13,7 @@ As used in this chapter, unless the context clearly indicates otherwise:
 
 .. Begins with the third week after a week for which there is an "on" indicator; and
 
-.. Ends with the third week after the first week for which there is an "off" indicator: PROVIDED, That no extended benefit period shall last for a period of less than thirteen consecutive weeks, and further that no extended benefit period may begin by reason of an "on" indicator before the fourteenth week after the close of a prior extended benefit period which was in effect with respect to this state.
+.. Except as provided in RCW 50.22.025, ends with the third week after the first week for which there is an "off" indicator: PROVIDED, That no extended benefit period shall last for a period of less than thirteen consecutive weeks, and further that no extended benefit period may begin by reason of an "on" indicator before the fourteenth week after the close of a prior extended benefit period which was in effect with respect to this state.
 
 . [Empty]
 .. There is an "on" indicator for this state for a week if the commissioner determines, in accordance with the regulations of the United States secretary of labor, that for the period consisting of such week and the immediately preceding twelve weeks:
@@ -57,7 +57,7 @@ As used in this chapter, unless the context clearly indicates otherwise:
 
 . "Eligibility period" of an individual means:
 
-.. The period consisting of the weeks in his or her benefit year which begin in an extended benefit period that is in effect in this state and, if his or her benefit year ends within such extended benefit period, any weeks thereafter which begin in such period; or
+.. Except as provided in RCW 50.22.025, the period consisting of the weeks in his or her benefit year which begin in an extended benefit period that is in effect in this state and, if his or her benefit year ends within such extended benefit period, any weeks thereafter which begin in such period; or
 
 .. For an individual who is eligible for emergency unemployment compensation during the extended benefit period beginning February 15, 2009, the period consisting of the week ending February 28, 2009, and applies as provided under the tax relief, unemployment insurance reauthorization, and job creation act of 2010 (P.L. 111-312) as it existed on December 17, 2010, or such subsequent date as may be provided by the department by rule, consistent with the purposes of this subsection.
 
@@ -84,7 +84,7 @@ As used in this chapter, unless the context clearly indicates otherwise:
 
 . "State law" means the unemployment insurance law of any state, approved by the United States secretary of labor under section 3304 of the internal revenue code of 1954.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5077-S.SL.pdf?cite=2013%20c%2023%20§%20103[2013 c 23 § 103]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1091.SL.pdf?cite=2011%20c%204%20§%205[2011 c 4 § 5]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5135.SL.pdf?cite=2011%20c%203%20§%201[2011 c 3 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5963-S.SL.pdf?cite=2009%20c%20493%20§%204[2009 c 493 § 4]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5702-S.SL.pdf?cite=1993%20c%20483%20§%2015[1993 c 483 § 15]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985ex1c5.pdf?cite=1985%20ex.s.%20c%205%20§%2010[1985 ex.s. c 5 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c1.pdf?cite=1983%20c%201%20§%201[1983 c 1 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982ex1c18.pdf?cite=1982%201st%20ex.s.%20c%2018%20§%202[1982 1st ex.s. c 18 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c35.pdf?cite=1981%20c%2035%20§%207[1981 c 35 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c292.pdf?cite=1977%20ex.s.%20c%20292%20§%2011[1977 ex.s. c 292 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973c73.pdf?cite=1973%20c%2073%20§%207[1973 c 73 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971c1.pdf?cite=1971%20c%201%20§%202[1971 c 1 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5425-S.SL.pdf?cite=2021%20c%20107%20§%202[2021 c 107 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5077-S.SL.pdf?cite=2013%20c%2023%20§%20103[2013 c 23 § 103]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1091.SL.pdf?cite=2011%20c%204%20§%205[2011 c 4 § 5]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5135.SL.pdf?cite=2011%20c%203%20§%201[2011 c 3 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5963-S.SL.pdf?cite=2009%20c%20493%20§%204[2009 c 493 § 4]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5702-S.SL.pdf?cite=1993%20c%20483%20§%2015[1993 c 483 § 15]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985ex1c5.pdf?cite=1985%20ex.s.%20c%205%20§%2010[1985 ex.s. c 5 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c1.pdf?cite=1983%20c%201%20§%201[1983 c 1 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982ex1c18.pdf?cite=1982%201st%20ex.s.%20c%2018%20§%202[1982 1st ex.s. c 18 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c35.pdf?cite=1981%20c%2035%20§%207[1981 c 35 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c292.pdf?cite=1977%20ex.s.%20c%20292%20§%2011[1977 ex.s. c 292 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973c73.pdf?cite=1973%20c%2073%20§%207[1973 c 73 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971c1.pdf?cite=1971%20c%201%20§%202[1971 c 1 § 2]; ]
 
 == 50.22.020 - Application of statute and rules—Eligibility for extended benefits.
 When the result would not be inconsistent with the other provisions of this chapter, the provisions of this title and commissioner's regulations enacted pursuant thereto, which apply to claims for, or the payment of, regular benefits, shall apply to claims for, and the payment of, extended benefits: PROVIDED, That
@@ -111,7 +111,7 @@ When the result would not be inconsistent with the other provisions of this chap
 
 ... The amount (if any) of supplemental unemployment compensation benefits (as defined in section 501(c)(17)(D) of the Internal Revenue Code of 1954, 26 U.S.C. Sec. 501(c)(17)(D)), payable to such individual for such week;
 
-.. The position was not offered to such individual in writing and was not listed with the employment security department;
+.. The position was not offered to such individual in writing or was not listed with the employment security department;
 
 .. Such failure would not result in a denial of compensation under the provisions of RCW 50.20.080 and 50.20.100 to the extent such provisions are not inconsistent with the provisions of subsections (3) and (5) of this section; or
 
@@ -133,7 +133,16 @@ When the result would not be inconsistent with the other provisions of this chap
 
 . The provisions of subsections (1) through (7) of this section shall apply with respect to weeks of unemployment beginning after March 31, 1981: PROVIDED HOWEVER, That the provisions of subsections (1) through (7) of this section shall not apply to those weeks of unemployment beginning after March 6, 1993, and before January 1, 1995.
 
-[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5702-S.SL.pdf?cite=1993%20c%20483%20§%2016[1993 c 483 § 16]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5546.SL.pdf?cite=1993%20c%2058%20§%203[1993 c 58 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c35.pdf?cite=1981%20c%2035%20§%208[1981 c 35 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971c1.pdf?cite=1971%20c%201%20§%203[1971 c 1 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5425-S.SL.pdf?cite=2021%20c%20107%20§%203[2021 c 107 § 3]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5702-S.SL.pdf?cite=1993%20c%20483%20§%2016[1993 c 483 § 16]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5546.SL.pdf?cite=1993%20c%2058%20§%203[1993 c 58 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c35.pdf?cite=1981%20c%2035%20§%208[1981 c 35 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971c1.pdf?cite=1971%20c%201%20§%203[1971 c 1 § 3]; ]
+
+== 50.22.025 - Extended benefit period.
+. Beginning December 27, 2020, through April 12, 2021, or such subsequent date as may be provided by the employment security department by rule, an individual's eligibility period under RCW 50.22.010(8)(a) shall also include any week that begins in an extended benefit period that is in effect in this state and after the individual exhausted all rights to pandemic emergency unemployment compensation, as established in the CARES act (P.L. 116-136), as amended.
+
+. With respect to determining whether the state is in an extended benefit period beginning November 1, 2020, through December 31, 2021, or such subsequent date as may be provided by the employment security department by rule, the state shall disregard the requirement in RCW 50.22.010(1)(b) that no extended benefit period may begin before the fourteenth week following the end of a prior extended benefit period which was in effect.
+
+. For purposes of subsections (1) and (2) of this section, the employment security department may not adopt a subsequent date by rule if the federal share of extended benefits is less than 50 percent minus any reductions required by the budget control act of 2011, P.L. 112-25.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5425-S.SL.pdf?cite=2021%20c%20107%20§%201[2021 c 107 § 1]; ]
 
 == 50.22.030 - Extended benefit eligibility conditions—Interstate claim.
 . An individual shall be eligible to receive extended benefits with respect to any week of unemployment in his or her eligibility period only if the commissioner finds with respect to such week that:

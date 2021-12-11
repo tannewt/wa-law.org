@@ -93,7 +93,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 ... Each electric utility must give notice by July 31, 2020, and semiannually thereafter, to the Washington State University extension energy program of the status of meeting the cumulative generating capacity available to net metering systems pursuant to subsection (1)(a) of this section.
 
-... The Washington State University extension energy program must make available on its web site a list of the following:
+... The Washington State University extension energy program must make available on its website a list of the following:
 
 (A) Each electric utility's progress on reaching the cumulative generating capacity available to net metering systems pursuant to subsection (1)(a) of this section;
 
@@ -139,7 +139,7 @@ Consistent with the other provisions of this chapter, the net energy measurement
 
 .. A retail electric customer who is a customer-generator and receives retail electric service from an electric utility at an aggregated meter must be the same retail electric customer who receives retail electric service from such an electric utility at the designated meter that is located on the premises where such a customer-generator's net metering system is located.
 
-.. Credits for excess kilowatt-hours earned by the net metering system at the site of a designated meter during a billing period shall be credited by the electric utility for kilowatt hour charges due at the aggregated meter at the applicable rate of the aggregated meter.
+.. Credits for excess kilowatt-hours earned by the net metering system at the site of a designated meter during a billing period shall be credited by the electric utility for kilowatt-hour charges due at the aggregated meter at the applicable rate of the aggregated meter.
 
 .. If credits generated in any billing period exceed total consumption for that billing period at both meters that are part of an aggregated arrangement, credits are retained pursuant to subsections (3) and (5) of this section.
 

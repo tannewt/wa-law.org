@@ -13,35 +13,37 @@ For the purposes of this chapter, unless the context otherwise requires:
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6379.SL.pdf?cite=2010%20c%20161%20§%201166[2010 c 161 § 1166]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c42.pdf?cite=1990%20c%2042%20§%20301[1990 c 42 § 301]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c107.pdf?cite=1979%20c%20107%20§%2010[1979 c 107 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c299.pdf?cite=1971%20ex.s.%20c%20299%20§%2054[1971 ex.s. c 299 § 54]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c121.pdf?cite=1967%20c%20121%20§%204[1967 c 121 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c199.pdf?cite=1963%20c%20199%20§%201[1963 c 199 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c15.pdf?cite=1961%20c%2015%20§%2082.44.010[1961 c 15 § 82.44.010]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1957c269.pdf?cite=1957%20c%20269%20§%2018[1957 c 269 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1955c264.pdf?cite=1955%20c%20264%20§%201[1955 c 264 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1945c152.pdf?cite=1945%20c%20152%20§%201[1945 c 152 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1943c144.pdf?cite=1943%20c%20144%20§%201[1943 c 144 § 1]; Rem. Supp. 1945 § 6312-115; ]
 
 == 82.44.015 - Ride-sharing passenger motor vehicles excluded—Exemption requirements—Notice—Liability for tax.
-. Passenger motor vehicles used primarily for commuter ride sharing and ride sharing for persons with special transportation needs, as defined in RCW 46.74.010, are not subject to the motor vehicle excise tax authorized under this chapter if the vehicles are used as ride-sharing vehicles for thirty-six consecutive months beginning from the date of purchase.
+. Passenger motor vehicles used primarily for ride sharing and ride sharing for persons with special transportation needs, as defined in RCW 46.74.010, are not subject to the motor vehicle excise tax authorized under this chapter if the vehicles are used as ride-sharing vehicles for thirty-six consecutive months beginning from the date of purchase.
 
-. To qualify for the motor vehicle excise tax exemption for commuter ride-sharing vehicles, passenger motor vehicles must:
+. To qualify for the motor vehicle excise tax exemption for ride-sharing vehicles, passenger motor vehicles must:
 
-.. Have a seating capacity of five or six passengers, including the driver;
+.. Have a seating capacity of three or more passengers, including the driver;
 
-.. Be used for commuter ride sharing;
+.. Be used for ride sharing;
 
 .. Be operated either within:
 
-... The state's eight largest counties that are required to develop commute trip reduction plans as directed by chapter 70A.15 RCW; or
+... The state's eight largest counties that are required to develop commute trip reduction plans as directed by chapter 70A.15 RCW;
 
-... In other counties, or cities and towns within those counties, that elect to adopt and implement a commute trip reduction plan; and
+... Other counties, or cities and towns within those counties, that elect to adopt and implement a commute trip reduction plan; or
+
+... Other counties, where the vehicle is registered with or operated by a public transportation agency; and
 
 .. Meet at least one of the following conditions:
 
-... The vehicle must be operated by a public transportation agency for the general public;
+... The vehicle must be operated by a public transportation agency for the benefit of the general public;
 
 ... The vehicle must be used by a major employer, as defined in RCW 70A.15.4010 as an element of its commute trip reduction program for their employees; or
 
-... The vehicle must be owned and operated by individual employees and must be registered either with the employer as part of its commute trip reduction program or with a public transportation agency serving the area where the employees live or work. Individual employee owned and operated motor vehicles will require certification that the vehicle is registered with a major employer or a public transportation agency. Major employers who own and operate motor vehicles for their employees must certify that the commuter ride-sharing arrangement conforms to a carpool/vanpool element contained within their commute trip reduction program.
+... The vehicle must be owned and operated by individual employees and must be registered either with the employer as part of its commute trip reduction program or with a public transportation agency. Individual employee owned and operated motor vehicles will require certification that the vehicle is registered with a major employer or a public transportation agency. Major employers who own and operate motor vehicles for their employees must certify that the ride-sharing arrangement conforms to a carpool/vanpool element contained within their commute trip reduction program.
 
 . The registered owner of a passenger motor vehicle described in subsection (2) of this section:
 
-.. Shall notify the department upon the termination of the primary use of the vehicle in commuter ride sharing or ride sharing for persons with special transportation needs; and
+.. Shall notify the department upon the termination of the primary use of the vehicle in ride sharing or ride sharing for persons with special transportation needs; and
 
 .. Is liable for the motor vehicle excise tax imposed under this chapter, prorated on the remaining months for which the vehicle is registered.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201488[2020 c 20 § 1488]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6333-S.SL.pdf?cite=2014%20c%2097%20§%20502[2014 c 97 § 502]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6379.SL.pdf?cite=2010%20c%20161%20§%20909[2010 c 161 § 909]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6699-S.SL.pdf?cite=1996%20c%20244%20§%207[1996 c 244 § 7]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5876-S.SL.pdf?cite=1993%20c%20488%20§%203[1993 c 488 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c142.pdf?cite=1982%20c%20142%20§%201[1982 c 142 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c166.pdf?cite=1980%20c%20166%20§%203[1980 c 166 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1514-S.SL.pdf?cite=2021%20c%20135%20§%209[2021 c 135 § 9]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201488[2020 c 20 § 1488]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6333-S.SL.pdf?cite=2014%20c%2097%20§%20502[2014 c 97 § 502]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6379.SL.pdf?cite=2010%20c%20161%20§%20909[2010 c 161 § 909]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6699-S.SL.pdf?cite=1996%20c%20244%20§%207[1996 c 244 § 7]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5876-S.SL.pdf?cite=1993%20c%20488%20§%203[1993 c 488 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c142.pdf?cite=1982%20c%20142%20§%201[1982 c 142 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c166.pdf?cite=1980%20c%20166%20§%203[1980 c 166 § 3]; ]
 
 == 82.44.035 - Valuation of vehicles.
 . For the purpose of determining any locally imposed motor vehicle excise tax, the value of a truck or trailer shall be the latest purchase price of the vehicle, excluding applicable federal excise taxes, state and local sales or use taxes, transportation or shipping costs, or preparatory or delivery costs, multiplied by the following percentage based on year of service of the vehicle since last sale. The latest purchase year shall be considered the first year of service.
@@ -224,7 +226,7 @@ PERCENTAGE
 == 82.44.065 - Appeal of valuation.
 If the department determines a value for a vehicle equivalent to a manufacturer's base suggested retail price or the value of a truck or trailer under RCW 82.44.035, any person who pays a locally imposed tax for that vehicle may appeal the valuation to the department under chapter 34.05 RCW. If the taxpayer is successful on appeal, the department shall refund the excess tax in the manner provided in RCW 82.44.120.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6379.SL.pdf?cite=2010%20c%20161%20§%20912[2010 c 161 § 912]; ( 2020 c 1 § 9 (Initiative Measure No. 976, approved November 5, 2019); )  2006 c 318 § 5; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c42.pdf?cite=1990%20c%2042%20§%20305[1990 c 42 § 305]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6379.SL.pdf?cite=2010%20c%20161%20§%20912[2010 c 161 § 912]; ( 2020 c 1 § 9 (Initiative Measure No. 976, approved November 5, 2019)); http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6247-S.SL.pdf?cite=2006%20c%20318%20§%205[2006 c 318 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c42.pdf?cite=1990%20c%2042%20§%20305[1990 c 42 § 305]; ]
 
 == 82.44.090 - Penalty for issuing a dealer's license, plates, or a registration without collecting tax.
 It is unlawful for the county auditor or any other person to issue a dealer's license or dealer's license plates or a registration or identification plates with respect to any motor vehicle without collecting, with the required vehicle license fee, the amount of any locally imposed motor vehicle excise tax due. Any violation of this section shall constitute a gross misdemeanor.
@@ -319,9 +321,9 @@ The legislature finds that new financing mechanisms are necessary to provide gre
 [ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2727-S.SL.pdf?cite=1996%20c%20262%20§%201[1996 c 262 § 1]; ]
 
 == 82.44.200 - Electric vehicle account.
-The electric vehicle account is created in the transportation infrastructure account. Proceeds from the principal and interest payments made on loans from the account must be deposited into the account. Expenditures from the account may be used only for the purposes specified in RCW 47.04.350, 82.08.9999, and 82.12.9999, and the support of other transportation electrification and alternative fuel related purposes. Moneys in the account may be spent only after appropriation.
+The electric vehicle account is created in the transportation infrastructure account. Proceeds from the principal and interest payments made on loans from the account must be deposited into the account. Expenditures from the account may be used only for the purposes specified in RCW 47.04.350, 82.08.9999, and 82.12.9999, and the support of other transportation electrification and alternative fuel related purposes, including RCW 47.01.520. Moneys in the account may be spent only after appropriation.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2042-S2.SL.pdf?cite=2019%20c%20287%20§%2015[2019 c 287 § 15]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5987-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%2044%20§%20404[2015 3rd sp.s. c 44 § 404]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1287-S2.SL.pdf?cite=2021%20c%20300%20§%205[2021 c 300 § 5]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2042-S2.SL.pdf?cite=2019%20c%20287%20§%2015[2019 c 287 § 15]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5987-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%2044%20§%20404[2015 3rd sp.s. c 44 § 404]; ]
 
 == 82.44.900 - Severability—Construction—1961 c 15.
 If any provision of this chapter relating either to the apportionment or allocation of the revenue derived from the excise tax thereby imposed, or to any appropriation made by this chapter, be adjudged unconstitutional, such adjudication shall not be held to render unconstitutional or ineffectual the remaining portions of said chapter or any part thereof: PROVIDED, HOWEVER, That except as otherwise hereinabove provided by this section, if any section or part of a section of this chapter be adjudged unconstitutional, this entire chapter shall thereupon be and become inoperative and of no force or effect whatsoever.

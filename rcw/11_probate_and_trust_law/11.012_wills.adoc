@@ -8,7 +8,7 @@ All wills executed subsequent to September 16, 1940, and which meet the requirem
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1970ex1c17.pdf?cite=1970%20ex.s.%20c%2017%20§%203[1970 ex.s. c 17 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c145.pdf?cite=1965%20c%20145%20§%2011.12.010[1965 c 145 § 11.12.010]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1943c193.pdf?cite=1943%20c%20193%20§%201[1943 c 193 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1917c156.pdf?cite=1917%20c%20156%20§%2024[1917 c 156 § 24]; Rem. Supp. 1943 § 1394; prior: Code 1881 § 1318; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1863%20p%20207%20§%2051[1863 p 207 § 51]; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1860%20p%20169%20§%2018[1860 p 169 § 18]; ]
 
-== 11.12.020 - Requisites of wills—Foreign wills.
+== 11.12.020 - Requisites of wills—Foreign wills. (Effective until January 1, 2022.)
 . Every will shall be in writing signed by the testator or by some other person under the testator's direction in the testator's presence, and shall be attested by two or more competent witnesses, by subscribing their names to the will, or by signing an affidavit that complies with RCW 11.20.020(2), while in the presence of the testator and at the testator's direction or request: PROVIDED, That a last will and testament, executed in the mode prescribed by the law of the place where executed or of the testator's domicile, either at the time of the will's execution or at the time of the testator's death, shall be deemed to be legally executed, and shall be of the same force and effect as if executed in the mode prescribed by the laws of this state.
 
 . This section shall be applied to all wills, whenever executed, including those subject to pending probate proceedings.
@@ -25,7 +25,7 @@ Every person who shall sign the testator's or testatrix's name to any will by hi
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%202011[2010 c 8 § 2011]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c145.pdf?cite=1965%20c%20145%20§%2011.12.030[1965 c 145 § 11.12.030]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1927c91.pdf?cite=1927%20c%2091%20§%201[1927 c 91 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1917c156.pdf?cite=1917%20c%20156%20§%2027[1917 c 156 § 27]; RRS § 1397; prior: Code 1881 § 1320; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1863%20p%20207%20§%2054[1863 p 207 § 54]; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1860%20p%20170%20§%2021[1860 p 170 § 21]; ]
 
-== 11.12.040 - Revocation of will—How effected—Effect on codicils.
+== 11.12.040 - Revocation of will—How effected—Effect on codicils. (Effective until January 1, 2022.)
 . A will, or any part thereof, can be revoked:
 
 .. By a subsequent will that revokes, or partially revokes, the prior will expressly or by inconsistency; or
@@ -98,12 +98,12 @@ A charge or encumbrance upon any real or personal estate for the purpose of secu
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3104-S2.SL.pdf?cite=2008%20c%206%20§%20911[2008 c 6 § 911]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2270-S.SL.pdf?cite=1994%20c%20221%20§%2010[1994 c 221 § 10]; ]
 
-== 11.12.110 - Death of grandparent's issue before grantor.
+== 11.12.110 - Death of grandparent's issue before grantor. (Effective until January 1, 2022.)
 Unless otherwise provided, when any property shall be given under a will, or under a trust of which the decedent is a grantor and which by its terms becomes irrevocable upon or before the grantor's death, to any issue of a grandparent of the decedent and that issue dies before the decedent, or dies before that issue's interest is no longer subject to a contingency, leaving descendants who survive the decedent, those descendants shall take that property as the predeceased issue would have done if the predeceased issue had survived the decedent. If those descendants are all in the same degree of kinship to the predeceased issue they shall take equally or, if of unequal degree, then those of more remote degree shall take by representation with respect to the predeceased issue.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1125.SL.pdf?cite=2005%20c%2097%20§%202[2005 c 97 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2270-S.SL.pdf?cite=1994%20c%20221%20§%2014[1994 c 221 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c145.pdf?cite=1965%20c%20145%20§%2011.12.110[1965 c 145 § 11.12.110]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1947c44.pdf?cite=1947%20c%2044%20§%201[1947 c 44 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1917c156.pdf?cite=1917%20c%20156%20§%2034[1917 c 156 § 34]; Rem. Supp. 1947 § 1404; prior: Code 1881 § 1327; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1863%20p%20208%20§%2062[1863 p 208 § 62]; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1860%20p%20171%20§%2029[1860 p 171 § 29]; ]
 
-== 11.12.120 - Lapsed gift—Procedure and proof.
+== 11.12.120 - Lapsed gift—Procedure and proof. (Effective until January 1, 2022.)
 . If a will makes a gift to a person on the condition that the person survive the testator and the person does not survive the testator, then, unless otherwise provided, the gift lapses and falls into the residue of the estate to be distributed under the residuary clause of the will, if any, but otherwise according to the laws of descent and distribution.
 
 . If the will gives the residue to two or more persons, the share of a person who does not survive the testator passes, unless otherwise provided, and subject to RCW 11.12.110, to the other person or persons receiving the residue, in proportion to the interest of each in the remaining part of the residue.
@@ -186,4 +186,170 @@ A will may incorporate by reference any writing in existence when the will is ex
 Any person who has custody or control of any original will and who has not received knowledge of the death of the testator may deliver the will for filing under seal to any court having jurisdiction. The testator may withdraw the original will so filed upon proper identification. Any other person, including an attorney-in-fact or guardian of the testator, may withdraw the original will so filed only upon court order after showing of good cause. Upon request and presentation of a certified copy of the testator's death certificate, the clerk shall unseal the file. This section does not preclude filing a will not under seal and does not alter any duty of a person having knowledge of the testator's death to file the will.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6121.SL.pdf?cite=2004%20c%2072%20§%201[2004 c 72 § 1]; ]
+
+== 11.12.400 - Electronic wills—Short title. (Effective January 1, 2022.)
+RCW 11.12.410 through 11.12.491 may be known and cited as the uniform electronic wills act.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5132.SL.pdf?cite=2021%20c%20140%20§%201001[2021 c 140 § 1001]; ]
+
+== 11.12.410 - Electronic wills—Definition. (Effective January 1, 2022.)
+The definition in this section applies throughout RCW 11.12.400 through 11.12.491 unless the context clearly requires otherwise.
+
+"Sign" means, with present intent to authenticate or adopt a record, to affix to or logically associate with the record an electronic symbol, an electronic sound, or process.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5132.SL.pdf?cite=2021%20c%20140%20§%201002[2021 c 140 § 1002]; ]
+
+== 11.12.420 - Electronic wills—Applicable law. (Effective January 1, 2022.)
+An electronic will is a will for all purposes of the law of this state. The law of this state applicable to wills and principles of equity apply to an electronic will, except as modified by RCW 11.12.400 through 11.12.491.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5132.SL.pdf?cite=2021%20c%20140%20§%201003[2021 c 140 § 1003]; ]
+
+== 11.12.430 - Electronic wills—Execution—Choice of law. (Effective January 1, 2022.)
+A will executed electronically but not in compliance with RCW 11.12.440(1) is an electronic will under RCW 11.12.400 through 11.12.491 if executed in compliance with the law of the jurisdiction where the testator is:
+
+. Physically located when the will is signed; or
+
+. Domiciled or resides when the will is signed or when the testator dies.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5132.SL.pdf?cite=2021%20c%20140%20§%201004[2021 c 140 § 1004]; ]
+
+== 11.12.440 - Electronic wills—Execution—Procedure. (Effective January 1, 2022.)
+. Subject to RCW 11.12.450(4), an electronic will must be:
+
+.. A record that is readable as text at the time of signing under (b) of this subsection;
+
+.. Signed by:
+
+... The testator; or
+
+... Another individual in the testator's name, in the testator's physical presence, and by the testator's direction; and
+
+.. Signed in the physical or electronic presence of the testator and at the testator's direction or request by at least two competent witnesses after:
+
+... The signing of the will under (b) of this subsection; or
+
+... The testator's acknowledgment of the signing of the will under (b) of this subsection or acknowledgment of the will.
+
+. Intent of a testator that the record under subsection (1)(a) of this section be the testator's electronic will may be established by extrinsic evidence.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5132.SL.pdf?cite=2021%20c%20140%20§%201005[2021 c 140 § 1005]; ]
+
+== 11.12.450 - Electronic wills—Self-proving. (Effective January 1, 2022.)
+. An electronic will may be simultaneously executed, attested, and made self-proving if:
+
+.. The affidavits of the attesting witnesses are affixed to or logically associated with the electronic will; and
+
+.. The qualified custodian maintains custody of the electronic will at all times following execution by the testator and witnesses.
+
+. The affidavits under subsection (1)(a) of this section must state such facts as the attesting witnesses would be required to testify to in court to prove such electronic will, and must be:
+
+.. Made before an officer authorized to administer oaths or, if fewer than two attesting witnesses are physically present in the same location as the testator at the time of signing under RCW 11.12.440(1)(b), before an officer authorized under RCW 42.45.280; and
+
+.. Evidenced by the officer's certificate under official seal affixed to or logically associated with the electronic will.
+
+. [Empty]
+.. If made before an officer authorized to administer oaths, the acknowledgment and affidavits under subsection (1) of this section must be in substantially the following form:
+
+I, ..... (name), the testator, and, being sworn, declare to the undersigned officer that I sign this instrument as my electronic will, I willingly sign it or willingly direct another individual to sign it for me, I execute it as my voluntary act for the purposes expressed in this instrument, and I am 18 years of age or older, of sound mind, and under no constraint or undue influence.
+
+..... (signature)
+
+Testator
+
+We, ..... (name) and ..... (name), witnesses, being sworn, declare to the undersigned officer that the testator signed this instrument as the testator's electronic will, that the testator willingly signed it or willingly directed another individual to sign for the testator, and that each of us, in the physical or electronic presence of the testator, signs this instrument as witness to the testator's signing, and to the best of our knowledge the testator is 18 years of age or older, of sound mind, and under no constraint or undue influence.
+
+..... (signature)
+
+Witness
+
+..... (signature)
+
+Witness
+
+Certificate of officer:
+
+State of .....
+
+County of .....
+
+Subscribed, sworn to, and acknowledged before me by ..... (name), the testator, and subscribed and sworn to before me by ..... (name) and ..... (name), witnesses, this ..... day of ....., .....
+
+(Seal) 					.....
+
+(Signed)
+
+.....
+
+(Capacity of officer)
+
+.. If made pursuant to chapter 5.50 RCW, the acknowledgment and affidavits under subsection (1) of this section must be in substantially the following form:
+
+I, ..... (name), the testator, declare under penalty of perjury under the law of Washington that the following is true and correct: That I sign this instrument as my electronic will, I willingly sign it or willingly direct another individual to sign it for me, I execute it as my voluntary act for the purposes expressed in this instrument, and I am 18 years of age or older, of sound mind, and under no constraint or undue influence.
+
+..... (signature)
+
+Testator
+
+We, ..... (name) and ..... (name), witnesses, declare under penalty of perjury under the law of Washington that the following is true and correct: That the testator signed this instrument as the testator's electronic will, that the testator willingly signed it or willingly directed another individual to sign for the testator, and that each of us, in the physical or electronic presence of the testator, signs this instrument as witness to the testator's signing, and to the best of our knowledge the testator is 18 years of age or older, of sound mind, and under no constraint or undue influence.
+
+..... (signature)
+
+Witness
+
+..... (signature)
+
+Witness
+
+. A signature physically or electronically affixed to an affidavit that is affixed to or logically associated with an electronic will under RCW 11.12.400 through 11.12.491 is deemed a signature of the electronic will under RCW 11.12.440(1).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5132.SL.pdf?cite=2021%20c%20140%20§%201006[2021 c 140 § 1006]; ]
+
+== 11.12.460 - Electronic wills—Qualified custodians—Eligibility. (Effective January 1, 2022.)
+. The following may serve as a qualified custodian:
+
+.. Any suitable person over the age of 18 years, who is a resident of the state of Washington at the time the electronic will was signed;
+
+.. A trust company regularly organized under the laws of this state and national banks when authorized to do so;
+
+.. A nonprofit corporation, if the articles of incorporation or bylaws of that corporation permit the action and if the corporation is in compliance with all applicable provisions of Title 24 RCW;
+
+.. Any professional service corporations, professional limited liability companies, or limited liability partnerships, that are duly organized under the laws of this state and whose shareholders, members, or partners, respectively, are exclusively attorneys; and
+
+.. A will repository in the county in which the testator is domiciled.
+
+. The following are disqualified to serve as a qualified custodian:
+
+.. Minors, persons of unsound mind, or persons who have been convicted of (i) any felony or (ii) any crime involving moral turpitude;
+
+.. An individual who is an heir, beneficiary, or otherwise has an interest in [the] testator's estate; and
+
+.. Corporations, limited liability companies, limited liability partnerships, except as provided in subsection (1) of this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5132.SL.pdf?cite=2021%20c%20140%20§%201007[2021 c 140 § 1007]; ]
+
+== 11.12.470 - Electronic wills—Qualified custodians—Duties. (Effective January 1, 2022.)
+. The qualified custodian of an electronic will shall, within 30 days after he or she receives knowledge of the death of the testator:
+
+.. Deliver said electronic will to the court having jurisdiction or to the person named in the electronic will as executor; and
+
+.. Make an affidavit before any person authorized to administer oaths, stating (i) the manner in which the qualified custodian received the electronic will; (ii) that the electronic will was at all times in the custody of the qualified custodian; and (iii) that the electronic will in the possession of the qualified custodian has not been altered in any way since the custodian received the electronic will. Such affidavit must be delivered with the electronic will to the court having jurisdiction or the person named as executor under the electronic will.
+
+. Any person who willfully violates any of the provisions of this section is liable to any party aggrieved for the damages which may be sustained by such violation.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5132.SL.pdf?cite=2021%20c%20140%20§%201008[2021 c 140 § 1008]; ]
+
+== 11.12.480 - Electronic wills—Certified paper copies. (Effective January 1, 2022.)
+An individual may create a certified paper copy of an electronic will by affirming under penalty of perjury that a paper copy of the electronic will is a complete, true, and accurate copy of the electronic will. If the electronic will is made self-proving, the certified paper copy of the will must include the self-proving affidavits.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5132.SL.pdf?cite=2021%20c%20140%20§%201009[2021 c 140 § 1009]; ]
+
+== 11.12.490 - Electronic wills—Uniformity of application and construction. (Effective January 1, 2022.)
+In applying and construing this uniform act, consideration must be given to the need to promote uniformity of the law with respect to its subject matter among states that enact it.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5132.SL.pdf?cite=2021%20c%20140%20§%201010[2021 c 140 § 1010]; ]
+
+== 11.12.491 - Electronic wills—Applicability. (Effective January 1, 2022.)
+RCW 11.12.400 through 11.12.490 apply to the electronic will of a decedent who dies on or after January 1, 2022.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5132.SL.pdf?cite=2021%20c%20140%20§%201011[2021 c 140 § 1011]; ]
 

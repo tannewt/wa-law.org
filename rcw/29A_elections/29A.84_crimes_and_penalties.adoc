@@ -273,16 +273,18 @@ Any person who tampers with or damages or attempts to damage any voting machine 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5221-S.SL.pdf?cite=2003%20c%20111%20§%202126[2003 c 111 § 2126]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1072.SL.pdf?cite=1991%20c%2081%20§%2018[1991 c 81 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c9.pdf?cite=1965%20c%209%20§%2029.85.260[1965 c 9 § 29.85.260]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1913c58.pdf?cite=1913%20c%2058%20§%2016[1913 c 58 § 16]; RRS § 5316; ]
 
-== 29A.84.610 - Deceptive, incorrect vote recording.
+== 29A.84.610 - Deceptive, incorrect vote recording—Misrepresentation as official ballot drop box.
 A person is guilty of a gross misdemeanor who knowingly:
 
-. Deceives any voter in recording his or her vote by providing incorrect or misleading recording information or by providing faulty election equipment or records; or
+. Deceives any voter in recording his or her vote by providing incorrect or misleading recording information or by providing faulty election equipment or records;
 
-. Records the vote of any voter in a manner other than as designated by the voter.
+. Records the vote of any voter in a manner other than as designated by the voter; or
+
+. Misrepresents an unofficial ballot collection site or device as an official ballot drop box that has been established by the county auditor.
 
 Such a gross misdemeanor is punishable to the same extent as a gross misdemeanor that is punishable under RCW 9A.20.021.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5221-S.SL.pdf?cite=2003%20c%20111%20§%202127[2003 c 111 § 2127]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1072.SL.pdf?cite=1991%20c%2081%20§%204[1991 c 81 § 4]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5015.SL.pdf?cite=2021%20c%2085%20§%201[2021 c 85 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5221-S.SL.pdf?cite=2003%20c%20111%20§%202127[2003 c 111 § 2127]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1072.SL.pdf?cite=1991%20c%2081%20§%204[1991 c 81 § 4]; ]
 
 == 29A.84.620 - Hindering or bribing voter.
 Any person who uses menace, force, threat, or any unlawful means towards any voter to hinder or deter such a voter from voting, or directly or indirectly offers any bribe, reward, or any thing of value to a voter in exchange for the voter's vote for or against any person or ballot measure, or authorizes any person to do so, is guilty of a class C felony punishable under RCW 9A.20.021.

@@ -6,11 +6,11 @@ The legislature recognizes the financial impact on custodial parents and childre
 
 It is the intent of the legislature to create a central Washington state support registry to improve the recordkeeping of support obligations and payments, thereby providing protection for both parties, and reducing the burden on employers by creating a single standardized process through which support payments are deducted from earnings.
 
-It is also the intent of the legislature that child support payments be made through mandatory wage assignment or payroll deduction if the responsible parent becomes delinquent in making support payments under a court or administrative order for support.
+It is also the intent of the legislature that child support payments be made through income withholding if the responsible parent becomes delinquent in making support payments under a court or administrative order for support.
 
 To that end, it is the intent of the legislature to interpret all existing statutes and processes to give effect to, and to implement, one central registry for recording and distributing support payments in this state.
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c435.pdf?cite=1987%20c%20435%20§%201[1987 c 435 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1171-S.SL.pdf?cite=2021%20c%2035%20§%2012[2021 c 35 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c435.pdf?cite=1987%20c%20435%20§%201[1987 c 435 § 1]; ]
 
 == 26.23.020 - Definitions.
 . The definitions contained in RCW 74.20A.020 shall be incorporated into and made a part of this chapter.
@@ -94,6 +94,65 @@ To that end, it is the intent of the legislature to interpret all existing statu
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5144-S2.SL.pdf?cite=2020%20c%20349%20§%201[2020 c 349 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6893-S.SL.pdf?cite=2010%202nd%20sp.s.%20c%203%20§%201[2010 2nd sp.s. c 3 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5244-S.SL.pdf?cite=2007%20c%20143%20§%202[2007 c 143 § 2]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/3901.SL.pdf?cite=1997%20c%2058%20§%20933[1997 c 58 § 933]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5120-S2.SL.pdf?cite=1991%20c%20367%20§%2038[1991 c 367 § 38]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c360.pdf?cite=1989%20c%20360%20§%2034[1989 c 360 § 34]; ]
 
+== 26.23.037 - Insurer information exchange—Child support debt—Reporting requirements. (Effective January 1, 2022.)
+. [Empty]
+.. Except as otherwise provided in subsection (8) of this section, each insurer shall, not later than 10 days after opening a tort liability claim for bodily injury or wrongful death, a workers' compensation claim, or a claim under a policy of life insurance, exchange information with the division of child support in the manner prescribed by the department to verify whether the claimant owes debt for the support of one or more children to the department or to a person receiving services from the division of child support. To the extent feasible, the division of child support shall facilitate a secure electronic process to exchange information with insurers pursuant to this subsection. The obligation of an insurer to exchange information with the division of child support is discharged upon complying with the requirements of this subsection.
+
+.. The exchange of information pursuant to chapter 168, Laws of 2021 must comply with privacy protections under applicable state and federal laws and regulations, including the federal health insurance portability and accountability act.
+
+. In order to determine whether a claimant owes a debt being enforced by the division of child support, all insurance companies doing business in the state of Washington that issue qualifying payments to claimants must provide minimum identifying information about the claimant to:
+
+.. An insurance claim data collection organization;
+
+.. The federal office of child support enforcement or the child support lien network; or
+
+.. The division of child support in a manner satisfactory to the department.
+
+. Insurers must take the steps necessary to authorize an insurance claim data collection organization to share minimum identifying information with the federal office of child support enforcement and the child support claim lien network.
+
+. Except as otherwise provided in subsections (5) and (7) of this section, if an insurer is notified by the division of child support that a claimant owes debt for the support of one or more children to the department or to a person receiving services from the division of child support, the insurer shall, upon the receipt of a notice issued by the department identifying the amount of debt owed pursuant to chapter 74.20A RCW:
+
+.. Withhold from payment on the claim the amount specified in the notice; and
+
+.. Remit the amount withheld from payment to the department within 20 days.
+
+. The department shall give any lien, claim, or demand for reasonable claim-related attorneys' fees, property damage, and medical costs priority over any withholding of payment pursuant to subsection (4) of this section.
+
+. Any information obtained pursuant to chapter 168, Laws of 2021 must be used only for the purpose of carrying out the provisions of chapter 168, Laws of 2021. An insurer or other entity described in subsection (2) of this section may not be held liable in any civil or criminal action for any act made in good faith pursuant to this section including, but not limited to:
+
+.. Any disclosure of information to the department or the division of child support; or
+
+.. The withholding of any money from payment on a claim or the remittance of such money to the department.
+
+. An insurer may not delay the disbursement of a payment on a claim to comply with the requirements of this section. An insurer is not required to comply with subsection (4) of this section if the notice issued by the department is received by the insurer after the insurer has disbursed the payment on the claim. In the case of a claim that will be paid through periodic payments, the insurer:
+
+.. Is not required to comply with the provisions of subsection (4) of this section with regard to any payments on the claim disbursed to the claimant before the notice was received by the insurer; and
+
+.. Must comply with the provisions of subsection (4) of this section with regard to any payments on the claim scheduled to be made after the receipt of the notice.
+
+. If periodic payment will be made to a claimant, an insurer is only required to engage in the exchange of information pursuant to subsection (1) of this section before issuing the initial payment.
+
+. An insurance company's failure to comply with the reporting requirements of chapter 168, Laws of 2021 does not amount to noncompliance with a requirement of the division of child support as described in RCW 74.20A.350.
+
+. For the purposes of this section, the following definitions apply:
+
+.. "Claimant" means any person who: (i) Brings a tort liability claim for bodily injury or wrongful death; (ii) is receiving workers' compensation benefits; or (iii) is a beneficiary under a life insurance policy. "Claim for bodily injury" does not include a claim for uninsured or underinsured vehicle coverage or medical payments coverage under a motor vehicle liability policy.
+
+.. "Insurance claim data collection organization" means an organization that maintains a centralized database of information concerning insurance claims to assist insurers that subscribe to the database in processing claims and detecting and preventing fraud, and also cooperates and coordinates with the federal or state child support entities to share relevant information for insurance intercept purposes.
+
+.. "Insurer" means: (i) A person who holds a certificate of authority to transact insurance in the state; or (ii) a chapter 48.15 RCW unauthorized insurer.
+
+.. "Qualifying payment" means a payment that is either a one-time lump sum or an installment payment issued by an insurance company doing business in the state of Washington, which is made for the purpose of satisfying, compromising, or settling, a tort or insurance claim where the payment is in excess of $500 and is intended to go directly to the claimant and not to a third party, such as a health care provider.
+
+.. "Tort or insurance claim" means: (i) A claim for general damages, which are also called noneconomic damages; or (ii) a claim for lost wages. "Tort or insurance claim" does not include claims for property damage under either liability insurance or uninsured motorist insurance.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1416-S.SL.pdf?cite=2021%20c%20168%20§%202[2021 c 168 § 2]; ]
+
+== 26.23.039 - Insurance company's compliance—Insurance claim data collection organization. (Effective January 1, 2022.)
+An insurance company may comply with the obligation to exchange information with the division of child support described in RCW 26.23.037(1) by using an insurance claim data collection organization as described in RCW 26.23.037(2).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1416-S.SL.pdf?cite=2021%20c%20168%20§%203[2021 c 168 § 3]; ]
+
 == 26.23.040 - Employment reporting requirements—Exceptions—Penalties—Retention of records.
 . All employers doing business in the state of Washington shall report to the Washington state support registry:
 
@@ -148,40 +207,42 @@ Information that is not permitted to be retained shall be promptly destroyed. Ag
 
 [ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/3901.SL.pdf?cite=1997%20c%2058%20§%20902[1997 c 58 § 902]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2488-S.SL.pdf?cite=1994%20c%20230%20§%208[1994 c 230 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c360.pdf?cite=1989%20c%20360%20§%2033[1989 c 360 § 33]; ]
 
-== 26.23.050 - Support orders—Provisions—Enforcement—Confidential information form—Rules. (Effective until February 1, 2021.)
+== 26.23.050 - Support orders—Provisions—Enforcement—Confidential information form—Rules.
 . If the division of child support is providing support enforcement services under RCW 26.23.045, or if a party is applying for support enforcement services by signing the application form on the bottom of the support order, the superior court shall include in all court orders that establish or modify a support obligation:
 
-.. A provision that orders and directs the responsible parent to make all support payments to the Washington state support registry;
+.. A provision that orders and directs the person required to pay support to make all support payments to the Washington state support registry;
 
-.. A statement that withholding action may be taken against wages, earnings, assets, or benefits, and liens enforced against real and personal property under the child support statutes of this or any other state, without further notice to the responsible parent at any time after entry of the court order, unless:
+.. A statement that withholding action may be taken against wages, earnings, assets, or benefits, and liens enforced against real and personal property under the child support statutes of this or any other state, without further notice to the person required to pay support at any time after entry of the court order, unless:
 
 ... One of the parties demonstrates, and the court finds, that there is good cause not to require immediate income withholding and that withholding should be delayed until a payment is past due; or
 
 ... The parties reach a written agreement that is approved by the court that provides for an alternate arrangement;
 
-.. A statement that the receiving parent might be required to submit an accounting of how the support, including any cash medical support, is being spent to benefit the child;
+.. A statement that the payee under the order or the person entitled to receive support might be required to submit an accounting of how the support, including any cash medical support, is being spent to benefit the child;
 
-.. A statement that any parent required to provide health care coverage for the child or children covered by the order must notify the division of child support and the other parent when the coverage terminates; and
+.. A statement that a party to the support order who is required to provide health care coverage for the child or children covered by the order must notify the division of child support and the other party to the support order when the coverage terminates;
 
-.. A statement that the responsible parent's privileges to obtain and maintain a license, as defined in RCW 74.20A.320, may not be renewed, or may be suspended if the parent is not in compliance with a support order as provided in RCW 74.20A.320.
+.. A statement that any privilege of the person required to pay support to obtain and maintain a license, as defined in RCW 74.20A.320, may not be renewed, or may be suspended if the person is not in compliance with a support order as provided in RCW 74.20A.320; and
+
+.. A statement that the support obligation under the order may be abated as provided in RCW 26.09.320 if the person required to pay support is confined in a jail, prison, or correctional facility for at least six months, or is serving a sentence greater than six months in a jail, prison, or correctional facility.
 
 As used in this subsection and subsection (3) of this section, "good cause not to require immediate income withholding" means a written determination of why implementing immediate wage withholding would not be in the child's best interests and, in modification cases, proof of timely payment of previously ordered support.
 
-. In all other cases not under subsection (1) of this section, the court may order the responsible parent to make payments directly to the person entitled to receive the payments, to the Washington state support registry, or may order that payments be made in accordance with an alternate arrangement agreed upon by the parties.
+. In all other cases not under subsection (1) of this section, the court may order the person required to pay support to make payments directly to the person entitled to receive the payments, to the Washington state support registry, or may order that payments be made in accordance with an alternate arrangement agreed upon by the parties.
 
 .. The superior court shall include in all orders under this subsection that establish or modify a support obligation:
 
-... A statement that withholding action may be taken against wages, earnings, assets, or benefits, and liens enforced against real and personal property under the child support statutes of this or any other state, without further notice to the responsible parent at any time after entry of the court order, unless:
+... A statement that withholding action may be taken against wages, earnings, assets, or benefits, and liens enforced against real and personal property under the child support statutes of this or any other state, without further notice to the person required to pay support at any time after entry of the court order, unless:
 
 (A) One of the parties demonstrates, and the court finds, that there is good cause not to require immediate income withholding and that withholding should be delayed until a payment is past due; or
 
 (B) The parties reach a written agreement that is approved by the court that provides for an alternate arrangement;
 
-... A statement that the receiving parent may be required to submit an accounting of how the support is being spent to benefit the child;
+... A statement that the payee under the order or the person entitled to receive support may be required to submit an accounting of how the support is being spent to benefit the child;
 
-... A statement that any parent required to provide health care coverage for the child or children covered by the order must notify the division of child support and the other parent when the coverage terminates; and
+... A statement that any party to the order required to provide health care coverage for the child or children covered by the order must notify the division of child support and the other party to the order when the coverage terminates; and
 
-... A statement that a parent seeking to enforce the obligation to provide health care coverage may:
+... A statement that a party to the order seeking to enforce the other party's obligation to provide health care coverage may:
 
 (A) File a motion in the underlying superior court action; or
 
@@ -191,25 +252,25 @@ As used in this subsection, "good cause not to require immediate income withhold
 
 .. The superior court may order immediate or delayed income withholding as follows:
 
-... Immediate income withholding may be ordered if the responsible parent has earnings. If immediate income withholding is ordered under this subsection, all support payments shall be paid to the Washington state support registry. The superior court shall issue a mandatory wage assignment order as set forth in chapter 26.18 RCW when the support order is signed by the court. The parent entitled to receive the transfer payment is responsible for serving the employer with the order and for its enforcement as set forth in chapter 26.18 RCW.
+... Immediate income withholding may be ordered if the person required to pay support has earnings. If immediate income withholding is ordered under this subsection, all support payments shall be paid to the Washington state support registry. The superior court shall issue a mandatory wage assignment order as set forth in chapter 26.18 RCW when the support order is signed by the court. The payee under the order or the person entitled to receive the transfer payment is responsible for serving the employer with the order and for its enforcement as set forth in chapter 26.18 RCW.
 
-... If immediate income withholding is not ordered, the court shall require that income withholding be delayed until a payment is past due. The support order shall contain a statement that withholding action may be taken against wages, earnings, assets, or benefits, and liens enforced against real and personal property under the child support statutes of this or any other state, without further notice to the responsible parent, after a payment is past due.
+... If immediate income withholding is not ordered, the court shall require that income withholding be delayed until a payment is past due. The support order shall contain a statement that withholding action may be taken against wages, earnings, assets, or benefits, and liens enforced against real and personal property under the child support statutes of this or any other state, without further notice to the person required to pay support, after a payment is past due.
 
-.. If a mandatory wage withholding order under chapter 26.18 RCW is issued under this subsection and the division of child support provides support enforcement services under RCW 26.23.045, the existing wage withholding assignment is prospectively superseded upon the division of child support's subsequent service of an income withholding notice.
+.. If a mandatory income withholding order under chapter 26.18 RCW is issued under this subsection and the division of child support provides support enforcement services under RCW 26.23.045, the existing wage withholding assignment is prospectively superseded upon the division of child support's subsequent service of an income withholding order.
 
-. The office of administrative hearings and the department of social and health services shall require that all support obligations established as administrative orders include a provision which orders and directs that the responsible parent shall make all support payments to the Washington state support registry. All administrative orders shall also state that the responsible parent's privileges to obtain and maintain a license, as defined in RCW 74.20A.320, may not be renewed, or may be suspended if the parent is not in compliance with a support order as provided in RCW 74.20A.320. All administrative orders shall also state that withholding action may be taken against wages, earnings, assets, or benefits, and liens enforced against real and personal property under the child support statutes of this or any other state without further notice to the responsible parent at any time after entry of the order, unless:
+. The office of administrative hearings and the department of social and health services shall require that all support obligations established as administrative orders include a provision which orders and directs that the person required to pay support shall make all support payments to the Washington state support registry. All administrative orders shall also state that any privilege of the person required to pay support to obtain and maintain a license, as defined in RCW 74.20A.320, may not be renewed, or may be suspended if the person is not in compliance with a support order as provided in RCW 74.20A.320. All administrative orders shall also state that withholding action may be taken against wages, earnings, assets, or benefits, and liens enforced against real and personal property under the child support statutes of this or any other state without further notice to the person required to pay support at any time after entry of the order, unless:
 
 .. One of the parties demonstrates, and the presiding officer finds, that there is good cause not to require immediate income withholding; or
 
 .. The parties reach a written agreement that is approved by the presiding officer that provides for an alternate agreement.
 
-. If the support order does not include the provision ordering and directing that all payments be made to the Washington state support registry and a statement that withholding action may be taken against wages, earnings, assets, or benefits if a support payment is past due or at any time after the entry of the order, or that a parent's licensing privileges may not be renewed, or may be suspended, the division of child support may serve a notice on the responsible parent stating such requirements and authorizations. Service may be by personal service or any form of mail requiring a return receipt.
+. If the support order does not include the provision ordering and directing that all payments be made to the Washington state support registry and a statement that withholding action may be taken against wages, earnings, assets, or benefits if a support payment is past due or at any time after the entry of the order, or that licensing privileges of the person required to pay support may not be renewed, or may be suspended, the division of child support may serve a notice on the person stating such requirements and authorizations. Service may be by personal service or any form of mail requiring a return receipt.
 
 . Every support order shall state:
 
 .. The address where the support payment is to be sent;
 
-.. That withholding action may be taken against wages, earnings, assets, or benefits, and liens enforced against real and personal property under the child support statutes of this or any other state, without further notice to the responsible parent at any time after entry of a support order, unless:
+.. That withholding action may be taken against wages, earnings, assets, or benefits, and liens enforced against real and personal property under the child support statutes of this or any other state, without further notice to the person required to pay support at any time after entry of a support order, unless:
 
 ... One of the parties demonstrates, and the court finds, that there is good cause not to require immediate income withholding; or
 
@@ -223,39 +284,39 @@ As used in this subsection, "good cause not to require immediate income withhold
 
 .. The names and ages of the dependent children;
 
-.. A provision requiring both the responsible parent and the custodial parent to keep the Washington state support registry informed of whether he or she has access to health care coverage at reasonable cost and, if so, the health care coverage information;
+.. A provision requiring both the person required to pay support, and the payee under the order or the person entitled to receive support who is a parent of the child or children covered by the order, to keep the Washington state support registry informed of whether he or she has access to health care coverage at reasonable cost and, if so, the health care coverage information;
 
-.. That either or both the responsible parent and the custodial parent shall be obligated to provide medical support for his or her child through health care coverage if:
+.. That either or both the person required to pay support, and the payee under the order or the person entitled to receive support who is a parent of the child or children covered by the order, shall be obligated to provide medical support for a child or children covered by the order through health care coverage if:
 
-.. The obligated parent provides accessible coverage for the child through private or public health care coverage; or
+.. The person obligated to provide medical support provides accessible coverage for the child or children through private or public health care coverage; or
 
-... Coverage that can be extended to cover the child is or becomes available to the parent through employment or is union-related; or
+... Coverage that can be extended to cover the child or children is or becomes available to the person obligated to provide medical support through employment or is union-related; or
 
-... In the absence of such coverage, through an additional sum certain amount, as that parent's monthly payment toward the premium as provided under RCW 26.09.105;
+... In the absence of such coverage, through an additional sum certain amount, as that obligated person's monthly payment toward the premium as provided under RCW 26.09.105;
 
-... That a parent providing health care coverage must notify both the division of child support and the other parent when coverage terminates;
+... That a person obligated to provide medical support who is providing health care coverage must notify both the division of child support and the other party to the order when coverage terminates;
 
-.. That if proof of health care coverage or proof that the coverage is unavailable is not provided within twenty days, the parent seeking enforcement or the department may seek direct enforcement of the coverage through the employer or union of the parent required to provide medical support without further notice to the parent as provided under chapter 26.18 RCW;
+.. That if proof of health care coverage or proof that the coverage is unavailable is not provided within twenty days, the person seeking enforcement or the department may seek direct enforcement of the coverage through the employer or union of the person required to provide medical support without further notice to the person as provided under chapter 26.18 RCW;
 
 .. The reasons for not ordering health care coverage if the order fails to require such coverage;
 
-.. That the responsible parent's privileges to obtain and maintain a license, as defined in RCW 74.20A.320, may not be renewed, or may be suspended if the parent is not in compliance with a support order as provided in RCW 74.20A.320;
+.. That any privilege of the person required to pay support to obtain and maintain a license, as defined in RCW 74.20A.320, may not be renewed, or may be suspended if the person is not in compliance with a support order as provided in RCW 74.20A.320;
 
-.. That each parent must:
+.. That each party to the support order must:
 
 ... Promptly file with the court and update as necessary the confidential information form required by subsection (7) of this section; and
 
 ... Provide the state case registry and update as necessary the information required by subsection (7) of this section; and
 
-.. That parties to administrative support orders shall provide to the state case registry and update as necessary their residential addresses and the address of the responsible parent's employer. The division of child support may adopt rules that govern the collection of parties' current residence and mailing addresses, telephone numbers, dates of birth, social security numbers, the names of the children, social security numbers of the children, dates of birth of the children, driver's license numbers, and the names, addresses, and telephone numbers of the parties' employers to enforce an administrative support order. The division of child support shall not release this information if the division of child support determines that there is reason to believe that release of the information may result in physical or emotional harm to the party or to the child, or a restraining order or protective order is in effect to protect one party from the other party.
+.. That parties to administrative support orders shall provide to the state case registry and update as necessary their residential addresses and the address of the employer of the person required to pay support. The division of child support may adopt rules that govern the collection of parties' current residence and mailing addresses, telephone numbers, dates of birth, social security numbers, the names of the children, social security numbers of the children, dates of birth of the children, driver's license numbers, and the names, addresses, and telephone numbers of the parties' employers to enforce an administrative support order. The division of child support shall not release this information if the division of child support determines that there is reason to believe that release of the information may result in physical or emotional harm to the party or to the child, or a restraining order or protective order is in effect to protect one party from the other party.
 
-. After the responsible parent has been ordered or notified to make payments to the Washington state support registry under this section, the responsible parent shall be fully responsible for making all payments to the Washington state support registry and shall be subject to payroll deduction or other income-withholding action. The responsible parent shall not be entitled to credit against a support obligation for any payments made to a person or agency other than to the Washington state support registry except as provided under RCW 74.20.101. A civil action may be brought by the payor to recover payments made to persons or agencies who have received and retained support moneys paid contrary to the provisions of this section.
+. After the person required to pay support has been ordered or notified to make payments to the Washington state support registry under this section, that person shall be fully responsible for making all payments to the Washington state support registry and shall be subject to payroll deduction or other income-withholding action. The person required to pay support shall not be entitled to credit against a support obligation for any payments made to a person or agency other than to the Washington state support registry except as provided under RCW 74.20.101. A civil action may be brought by the person required to pay support to recover payments made to persons or agencies who have received and retained support moneys paid contrary to the provisions of this section.
 
 . All petitioners and parties to all court actions under chapters 26.09, *26.10, 26.12, 26.18, 26.21A, 26.23, 26.26A, 26.26B, and 26.27 RCW shall complete to the best of their knowledge a verified and signed confidential information form or equivalent that provides the parties' current residence and mailing addresses, telephone numbers, dates of birth, social security numbers, driver's license numbers, and the names, addresses, and telephone numbers of the parties' employers. The clerk of the court shall not accept petitions, except in parentage actions initiated by the state, orders of child support, decrees of dissolution, or parentage orders for filing in such actions unless accompanied by the confidential information form or equivalent, or unless the confidential information form or equivalent is already on file with the court clerk. In lieu of or in addition to requiring the parties to complete a separate confidential information form, the clerk may collect the information in electronic form. The clerk of the court shall transmit the confidential information form or its data to the division of child support with a copy of the order of child support or parentage order, and may provide copies of the confidential information form or its data and any related findings, decrees, parenting plans, orders, or other documents to the state administrative agency that administers Title IV-A, IV-D, IV-E, or XIX of the federal social security act. In state initiated parentage actions, the parties adjudicated the parents of the child or children shall complete the confidential information form or equivalent or the state's attorney of record may complete that form to the best of the attorney's knowledge.
 
 . The department has rule-making authority to enact rules consistent with 42 U.S.C. Sec. 652(f) and 42 U.S.C. Sec. 666(a)(19) as amended by section 7307 of the deficit reduction act of 2005. Additionally, the department has rule-making authority to implement regulations required under 45 C.F.R. Parts 302, 303, 304, 305, and 308.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5333-S.SL.pdf?cite=2019%20c%2046%20§%205026[2019 c 46 § 5026]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6334-S.SL.pdf?cite=2018%20c%20150%20§%20104[2018 c 150 § 104]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1845-S.SL.pdf?cite=2009%20c%20476%20§%204[2009 c 476 § 4]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5244-S.SL.pdf?cite=2007%20c%20143%20§%203[2007 c 143 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1864.SL.pdf?cite=2001%20c%2042%20§%203[2001 c 42 § 3]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6418-S.SL.pdf?cite=1998%20c%20160%20§%202[1998 c 160 § 2]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/3901.SL.pdf?cite=1997%20c%2058%20§%20888[1997 c 58 § 888]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2488-S.SL.pdf?cite=1994%20c%20230%20§%209[1994 c 230 § 9]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5791.SL.pdf?cite=1993%20c%20207%20§%201[1993 c 207 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5120-S2.SL.pdf?cite=1991%20c%20367%20§%2039[1991 c 367 § 39]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c360.pdf?cite=1989%20c%20360%20§%2015[1989 c 360 § 15]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c435.pdf?cite=1987%20c%20435%20§%205[1987 c 435 § 5]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1171-S.SL.pdf?cite=2021%20c%2035%20§%2014[2021 c 35 § 14]; 2021 c 35 § 13; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2302-S.SL.pdf?cite=2020%20c%20227%20§%209[2020 c 227 § 9]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5333-S.SL.pdf?cite=2019%20c%2046%20§%205026[2019 c 46 § 5026]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6334-S.SL.pdf?cite=2018%20c%20150%20§%20104[2018 c 150 § 104]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1845-S.SL.pdf?cite=2009%20c%20476%20§%204[2009 c 476 § 4]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5244-S.SL.pdf?cite=2007%20c%20143%20§%203[2007 c 143 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1864.SL.pdf?cite=2001%20c%2042%20§%203[2001 c 42 § 3]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6418-S.SL.pdf?cite=1998%20c%20160%20§%202[1998 c 160 § 2]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/3901.SL.pdf?cite=1997%20c%2058%20§%20888[1997 c 58 § 888]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2488-S.SL.pdf?cite=1994%20c%20230%20§%209[1994 c 230 § 9]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5791.SL.pdf?cite=1993%20c%20207%20§%201[1993 c 207 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5120-S2.SL.pdf?cite=1991%20c%20367%20§%2039[1991 c 367 § 39]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c360.pdf?cite=1989%20c%20360%20§%2015[1989 c 360 § 15]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c435.pdf?cite=1987%20c%20435%20§%205[1987 c 435 § 5]; ]
 
 == 26.23.055 - Support proceedings, orders, and registry—Required information—Duty to update—Service.
 . Each party to a paternity or child support proceeding must provide the court and the Washington state child support registry with the confidential information form as required under RCW 26.23.050.
@@ -268,14 +329,14 @@ As used in this subsection, "good cause not to require immediate income withhold
 
 [ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1864.SL.pdf?cite=2001%20c%2042%20§%204[2001 c 42 § 4]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6418-S.SL.pdf?cite=1998%20c%20160%20§%203[1998 c 160 § 3]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/3901.SL.pdf?cite=1997%20c%2058%20§%20904[1997 c 58 § 904]; ]
 
-== 26.23.060 - Notice of payroll deduction—Answer—Processing fee.
-. The division of child support may issue a notice of payroll deduction:
+== 26.23.060 - Income withholding order—Answer—Processing fee.
+. The division of child support may issue an income withholding order:
 
 .. As authorized by a support order that contains a notice clearly stating that child support may be collected by withholding from earnings, wages, or benefits without further notice to the obligated parent; or
 
 .. After service of a notice containing an income-withholding provision under this chapter or chapter 74.20A RCW.
 
-. The division of child support shall serve a notice of payroll deduction upon a responsible parent's employer or upon the employment security department for the state in possession of or owing any benefits from the unemployment compensation fund to the responsible parent pursuant to Title 50 RCW or from the paid family and medical leave program under Title 50A RCW:
+. The division of child support shall serve an income withholding order upon a responsible parent's employer or upon the employment security department for the state in possession of or owing any benefits from the unemployment compensation fund to the responsible parent pursuant to Title 50 RCW or from the paid family and medical leave program under Title 50A RCW:
 
 .. In the manner prescribed for the service of a summons in a civil action;
 
@@ -285,11 +346,11 @@ As used in this subsection, "good cause not to require immediate income withhold
 
 .. By regular mail to a responsible parent's employer unless the division of child support reasonably believes that service of process in the manner prescribed in (a) or (b) of this subsection is required for initiating an action to ensure employer compliance with the withholding requirement.
 
-. Service of a notice of payroll deduction upon an employer or employment security department requires the employer or employment security department to immediately make a mandatory payroll deduction from the responsible parent's unpaid disposable earnings or benefits paid by the employment security department. The employer or employment security department shall thereafter deduct each pay period the amount stated in the notice divided by the number of pay periods per month. The payroll deduction each pay period shall not exceed fifty percent of the responsible parent's disposable earnings.
+. Service of an income withholding order upon an employer or employment security department requires the employer or employment security department to immediately make a mandatory payroll deduction from the responsible parent's unpaid disposable earnings or benefits paid by the employment security department. The employer or employment security department shall thereafter deduct each pay period the amount stated in the order divided by the number of pay periods per month. The payroll deduction each pay period shall not exceed fifty percent of the responsible parent's disposable earnings.
 
-. A notice of payroll deduction for support shall have priority over any wage assignment, garnishment, attachment, or other legal process.
+. An income withholding order for support shall have priority over any wage assignment, garnishment, attachment, or other legal process.
 
-. The notice of payroll deduction shall be in writing and include:
+. The income withholding order shall be in writing and include:
 
 .. The name and social security number of the responsible parent;
 
@@ -301,21 +362,21 @@ As used in this subsection, "good cause not to require immediate income withhold
 
 .. A notice to the responsible parent warning the responsible parent that, despite the payroll deduction, the responsible parent's privileges to obtain and maintain a license, as defined in RCW 74.20A.320, may not be renewed, or may be suspended if the parent is not in compliance with a support order as defined in RCW 74.20A.320.
 
-. An informational copy of the notice of payroll deduction shall be mailed to the last known address of the responsible parent by regular mail.
+. An informational copy of the income withholding order shall be mailed to the last known address of the responsible parent by regular mail.
 
-. An employer or employment security department that receives a notice of payroll deduction shall make immediate deductions from the responsible parent's unpaid disposable earnings and remit proper amounts to the Washington state support registry within seven working days of the date the earnings are payable to the responsible parent.
+. An employer or employment security department that receives an income withholding order shall make immediate deductions from the responsible parent's unpaid disposable earnings and remit proper amounts to the Washington state support registry within seven working days of the date the earnings are payable to the responsible parent.
 
-. An employer, or the employment security department, upon whom a notice of payroll deduction is served, shall make an answer to the division of child support within twenty days after the date of service. The answer shall confirm compliance and institution of the payroll deduction or explain the circumstances if no payroll deduction is in effect. The answer shall also state whether the responsible parent is employed by or receives earnings from the employer or receives benefit payments from the employment security department, whether the employer or employment security department anticipates paying earnings or benefits and the amount of earnings or benefit payments. If the responsible parent is no longer employed, or receiving earnings from the employer, the answer shall state the present employer's name and address, if known. If the responsible parent is no longer receiving benefit payments from the employment security department, the answer shall state the present employer's name and address, if known.
+. An employer, or the employment security department, upon whom an income withholding order is served, shall make an answer to the division of child support within twenty days after the date of service. The answer shall confirm compliance and institution of the payroll deduction or explain the circumstances if no payroll deduction is in effect. The answer shall also state whether the responsible parent is employed by or receives earnings from the employer or receives benefit payments from the employment security department, whether the employer or employment security department anticipates paying earnings or benefits and the amount of earnings or benefit payments. If the responsible parent is no longer employed, or receiving earnings from the employer, the answer shall state the present employer's name and address, if known. If the responsible parent is no longer receiving benefit payments from the employment security department, the answer shall state the present employer's name and address, if known.
 
-The returned answer or a payment remitted to the division of child support by the employer constitutes proof of service of the notice of payroll deduction in the case where the notice was served by regular mail.
+The returned answer or a payment remitted to the division of child support by the employer constitutes proof of service of the income withholding order in the case where the order was served by regular mail.
 
-. The employer may deduct a processing fee from the remainder of the responsible parent's earnings after withholding under the notice of payroll deduction, even if the remainder is exempt under RCW 26.18.090. The processing fee may not exceed: (a) Ten dollars for the first disbursement made to the Washington state support registry; and (b) one dollar for each subsequent disbursement to the registry.
+. The employer may deduct a processing fee from the remainder of the responsible parent's earnings after withholding under the income withholding order, even if the remainder is exempt under RCW 26.18.090. The processing fee may not exceed: (a) Ten dollars for the first disbursement made to the Washington state support registry; and (b) one dollar for each subsequent disbursement to the registry.
 
-. The notice of payroll deduction shall remain in effect until released by the division of child support, the court enters an order terminating the notice and approving an alternate arrangement under RCW 26.23.050, or until the employer no longer employs the responsible parent and is no longer in possession of or owing any earnings to the responsible parent. The employer shall promptly notify the office of support enforcement when the employer no longer employs the parent subject to the notice. For the employment security department, the notice of payroll deduction shall remain in effect until released by the division of child support or until the court enters an order terminating the notice.
+. The income withholding order shall remain in effect until released by the division of child support, the court enters an order terminating the income withholding order and approving an alternate arrangement under RCW 26.23.050, or until the employer no longer employs the responsible parent and is no longer in possession of or owing any earnings to the responsible parent. The employer shall promptly notify the office of support enforcement when the employer no longer employs the parent subject to the income withholding order. For the employment security department, the income withholding order shall remain in effect until released by the division of child support or until the court enters an order terminating the income withholding order.
 
-. The division of child support may use uniform interstate withholding forms adopted by the United States department of health and human services to take withholding actions under this section whether the responsible parent is receiving earnings or unemployment compensation in this state or in another state.
+. The division of child support must use income withholding forms adopted and required by the United States department of health and human services to take withholding actions under this section whether the responsible parent is receiving earnings or unemployment compensation in this state or in another state.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2614-S.SL.pdf?cite=2020%20c%20125%20§%2015[2020 c 125 § 15]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1399-S.SL.pdf?cite=2019%20c%2013%20§%2066[2019 c 13 § 66]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2579.SL.pdf?cite=2000%20c%2086%20§%204[2000 c 86 § 4]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6237.SL.pdf?cite=2000%20c%2029%20§%201[2000 c 29 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6418-S.SL.pdf?cite=1998%20c%20160%20§%208[1998 c 160 § 8]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/3901.SL.pdf?cite=1997%20c%2058%20§%20890[1997 c 58 § 890]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2488-S.SL.pdf?cite=1994%20c%20230%20§%2010[1994 c 230 § 10]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5120-S2.SL.pdf?cite=1991%20c%20367%20§%2040[1991 c 367 § 40]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c360.pdf?cite=1989%20c%20360%20§%2032[1989 c 360 § 32]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c435.pdf?cite=1987%20c%20435%20§%206[1987 c 435 § 6]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1171-S.SL.pdf?cite=2021%20c%2035%20§%2015[2021 c 35 § 15]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2614-S.SL.pdf?cite=2020%20c%20125%20§%2015[2020 c 125 § 15]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1399-S.SL.pdf?cite=2019%20c%2013%20§%2066[2019 c 13 § 66]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2579.SL.pdf?cite=2000%20c%2086%20§%204[2000 c 86 § 4]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6237.SL.pdf?cite=2000%20c%2029%20§%201[2000 c 29 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6418-S.SL.pdf?cite=1998%20c%20160%20§%208[1998 c 160 § 8]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/3901.SL.pdf?cite=1997%20c%2058%20§%20890[1997 c 58 § 890]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2488-S.SL.pdf?cite=1994%20c%20230%20§%2010[1994 c 230 § 10]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5120-S2.SL.pdf?cite=1991%20c%20367%20§%2040[1991 c 367 § 40]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c360.pdf?cite=1989%20c%20360%20§%2032[1989 c 360 § 32]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c435.pdf?cite=1987%20c%20435%20§%206[1987 c 435 § 6]; ]
 
 == 26.23.065 - Requirement to remit payments by electronic funds transfer—Employer, business, or payroll processor—Waiver.
 . The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
@@ -378,7 +439,7 @@ The returned answer or a payment remitted to the division of child support by th
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6334-S.SL.pdf?cite=2018%20c%20150%20§%20201[2018 c 150 § 201]; ]
 
-== 26.23.070 - Payments to registry—Methods—Immunity from civil liability.
+== 26.23.070 - Payments to registry—Methods—Immunity from civil liability. (Effective until January 1, 2022.)
 . The employer or the employment security department may combine amounts withheld from the earnings of more than one responsible parent in a single payment to the Washington state support registry, listing separately the amount of the payment which is attributable to each individual.
 
 . No employer nor employment security department that complies with a notice of payroll deduction under this chapter shall be civilly liable to the responsible parent for complying with a notice of payroll deduction under this chapter.
@@ -398,15 +459,15 @@ No employer shall discipline or discharge an employee or refuse to hire a person
 == 26.23.090 - Employer liability for failure or refusal to respond or remit earnings.
 . The employer shall be liable to the Washington state support registry, or to the agency or firm providing child support enforcement for another state, under Title IV-D of the federal social security act and issuing a notice, garnishment, or wage assignment attaching wages or earnings in satisfaction of a support obligation, for the amount of support moneys which should have been withheld from the employee's earnings, if the employer:
 
-.. Fails or refuses, after being served with a notice of payroll deduction, or substantially similar action issued by the agency or firm providing child support enforcement for another state, under Title IV-D of the federal social security act, to deduct and promptly remit from unpaid earnings the amounts of money required in the notice;
+.. Fails or refuses, after being served with an income withholding order under Title IV-D of the federal social security act, to deduct and promptly remit from unpaid earnings the amounts of money required in the order;
 
-.. Fails or refuses to submit an answer to the notice of payroll deduction, or substantially similar action issued by the agency or firm providing child support enforcement for another state, under Title IV-D of the federal social security act, after being served; or
+.. Fails or refuses to submit an answer to the income withholding order under Title IV-D of the federal social security act, after being served; or
 
 .. Is unwilling to comply with the other requirements of RCW 26.23.060.
 
 . Liability may be established in superior court or may be established pursuant to RCW 74.20A.350. Awards in superior court and in actions pursuant to RCW 74.20A.350 shall include costs, interest under RCW 19.52.020 and 4.56.110, and reasonable attorneys' fees and staff costs as a part of the award. Debts established pursuant to this section may be collected by the division of child support using any of the remedies available under chapter 26.09, 26.18, *26.21, 26.23, 74.20, or 74.20A RCW for the collection of child support.
 
-[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1687-S2.SL.pdf?cite=1997%20c%20296%20§%2013[1997 c 296 § 13]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/3901.SL.pdf?cite=1997%20c%2058%20§%20894[1997 c 58 § 894]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c165.pdf?cite=1990%20c%20165%20§%202[1990 c 165 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c435.pdf?cite=1987%20c%20435%20§%2010[1987 c 435 § 10]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1171-S.SL.pdf?cite=2021%20c%2035%20§%2016[2021 c 35 § 16]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1687-S2.SL.pdf?cite=1997%20c%20296%20§%2013[1997 c 296 § 13]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/3901.SL.pdf?cite=1997%20c%2058%20§%20894[1997 c 58 § 894]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c165.pdf?cite=1990%20c%20165%20§%202[1990 c 165 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c435.pdf?cite=1987%20c%20435%20§%2010[1987 c 435 § 10]; ]
 
 == 26.23.100 - Motion to quash, modify, or terminate payroll deduction—Grounds for relief.
 . The responsible parent subject to a payroll deduction pursuant to this chapter, may file a motion in superior court to quash, modify, or terminate the payroll deduction.

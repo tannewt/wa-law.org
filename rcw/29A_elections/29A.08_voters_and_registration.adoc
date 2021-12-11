@@ -107,7 +107,7 @@ Any elector of this state may register to vote by mail under this title.
 [ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6419-S.SL.pdf?cite=2004%20c%20267%20§%20109[2004 c 267 § 109]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5221-S.SL.pdf?cite=2003%20c%20111%20§%20208[2003 c 111 § 208]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5511-S2.SL.pdf?cite=1993%20c%20434%20§%203[1993 c 434 § 3]; ]
 
 == 29A.08.123 - Registration electronically.
-. A person who has a valid Washington state driver's license, state identification card, or tribal identification may submit a voter registration application electronically on the secretary of state's web site. A person who has a valid tribal identification card may submit a voter registration electronically on the secretary of state's web site if the secretary of state is able to obtain a copy of the applicant's signature from the federal government or the tribal government.
+. A person who has a valid Washington state driver's license, state identification card, or tribal identification may submit a voter registration application electronically on the secretary of state's website. A person who has a valid tribal identification card may submit a voter registration electronically on the secretary of state's website if the secretary of state is able to obtain a copy of the applicant's signature from the federal government or the tribal government.
 
 . The applicant must attest to the truth of the information provided on the application by affirmatively accepting the information as true.
 
@@ -234,7 +234,7 @@ Under no circumstances may an individual be required to affiliate with, join, ad
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1513-S2.SL.pdf?cite=2018%20c%20109%20§%206[2018 c 109 § 6]; ]
 
 == 29A.08.174 - Registration at age sixteen and seventeen—Application electronically. (Effective until January 1, 2022.)
-. A person who has attained sixteen years of age and has a valid Washington state driver's license or identicard may sign up to register to vote as part of the future voter program, by submitting a voter registration application electronically on the secretary of state's web site.
+. A person who has attained sixteen years of age and has a valid Washington state driver's license or identicard may sign up to register to vote as part of the future voter program, by submitting a voter registration application electronically on the secretary of state's website.
 
 . The applicant must attest to the truth of the information provided on the application by affirmatively accepting the information as true.
 
@@ -292,7 +292,7 @@ This information shall be recorded on a single registration form to be prescribe
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5518-S.SL.pdf?cite=2013%20c%2011%20§%2013[2013 c 11 § 13]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6419-S.SL.pdf?cite=2004%20c%20267%20§%20115[2004 c 267 § 115]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5221-S.SL.pdf?cite=2003%20c%20111%20§%20217[2003 c 111 § 217]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6188-S.SL.pdf?cite=1994%20c%2057%20§%2018[1994 c 57 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c143.pdf?cite=1990%20c%20143%20§%209[1990 c 143 § 9]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c21.pdf?cite=1973%201st%20ex.s.%20c%2021%20§%207[1973 1st ex.s. c 21 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c202.pdf?cite=1971%20ex.s.%20c%20202%20§%2018[1971 ex.s. c 202 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c9.pdf?cite=1965%20c%209%20§%2029.07.140[1965 c 9 § 29.07.140]; prior:   1933 c 1 § 30; RRS § 5114-30.  1933 c 1 § 13, part; RRS § 5114-13, part; ]
 
-== 29A.08.230 - Oath of applicant.
+== 29A.08.230 - Oath of applicant. (Effective until January 1, 2022.)
 For all voter registrations, the registrant shall sign the following oath:
 
 "I declare that the facts on this voter registration form are true. I am a citizen of the United States, I will have lived at this address in Washington for at least thirty days immediately before the next election at which I vote, I am at least sixteen years old, I am not disqualified from voting due to a court order, and I am not under department of corrections supervision for a Washington felony conviction."
@@ -320,7 +320,7 @@ In order to encourage the broadest possible voting participation by all eligible
 
 . The secretary of state shall design and provide a standard notice informing the public of the availability of voter registration, which notice shall be posted in each state agency where such services are available.
 
-. Each institution of higher education shall put in place an active prompt on its course registration web site, or similar web site that students actively and regularly use, that, if selected, will link the student to the secretary of state's voter registration web site. The prompt must ask the student if he or she wishes to register to vote.
+. Each institution of higher education shall put in place an active prompt on its course registration website, or similar website that students actively and regularly use, that, if selected, will link the student to the secretary of state's voter registration website. The prompt must ask the student if he or she wishes to register to vote.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5079-S.SL.pdf?cite=2019%20c%206%20§%204[2019 c 6 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5270-S.SL.pdf?cite=2009%20c%20369%20§%2019[2009 c 369 § 19]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5221-S.SL.pdf?cite=2003%20c%20111%20§%20222[2003 c 111 § 222]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2332.SL.pdf?cite=2002%20c%20185%20§%203[2002 c 185 § 3]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6188-S.SL.pdf?cite=1994%20c%2057%20§%2010[1994 c 57 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c211.pdf?cite=1984%20c%20211%20§%202[1984 c 211 § 2]; ]
 
@@ -514,7 +514,7 @@ Upon receiving official notice that a court has imposed a guardianship for an in
 
 [ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6419-S.SL.pdf?cite=2004%20c%20267%20§%20125[2004 c 267 § 125]; ]
 
-== 29A.08.520 - Felony conviction—Provisional and permanent restoration of voting rights.
+== 29A.08.520 - Felony conviction—Provisional and permanent restoration of voting rights. (Effective until January 1, 2022.)
 . For a felony conviction in a Washington state court, the right to vote is provisionally restored as long as the person is not under the authority of the department of corrections. For a felony conviction in a federal court or any state court other than a Washington state court, the right to vote is restored as long as the person is no longer incarcerated.
 
 . [Empty]
@@ -711,7 +711,7 @@ Only voters who appear on the official statewide voter registration list are eli
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5518-S.SL.pdf?cite=2013%20c%2011%20§%2020[2013 c 11 § 20]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5124-S.SL.pdf?cite=2011%20c%2010%20§%2021[2011 c 10 § 21]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6362-S.SL.pdf?cite=2006%20c%20320%20§%205[2006 c 320 § 5]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5221-S.SL.pdf?cite=2003%20c%20111%20§%20254[2003 c 111 § 254]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c288.pdf?cite=1987%20c%20288%20§%202[1987 c 288 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c30.pdf?cite=1983%201st%20ex.s.%20c%2030%20§%203[1983 1st ex.s. c 30 § 3]; ]
 
 == 29A.08.835 - County auditor to publish voter challenges on the internet—Ongoing notification requirements.
-The county auditor shall, within seventy-two hours of receipt, publish on the auditor's internet web site the entire content of any voter challenge filed under chapter 29A.08 RCW. Immediately after publishing any voter challenge, the county auditor shall notify any person who requests to receive such notifications on an ongoing basis.
+The county auditor shall, within seventy-two hours of receipt, publish on the auditor's internet website the entire content of any voter challenge filed under chapter 29A.08 RCW. Immediately after publishing any voter challenge, the county auditor shall notify any person who requests to receive such notifications on an ongoing basis.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6362-S.SL.pdf?cite=2006%20c%20320%20§%201[2006 c 320 § 1]; ]
 

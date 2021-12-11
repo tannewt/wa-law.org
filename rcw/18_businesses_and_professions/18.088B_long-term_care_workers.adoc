@@ -21,7 +21,7 @@ The definitions in this section apply throughout this chapter unless the context
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2314-S.SL.pdf?cite=2012%20c%20164%20§%20201[2012 c 164 § 201]; 2009 c 2 § 17 (Initiative Measure No. 1029, approved November 4, 2008); ]
 
 == 18.88B.021 - Certification requirements.
-. Beginning January 7, 2012, except as provided in RCW 18.88B.041, any person hired as a long-term care worker must be certified as a home care aide as provided in this chapter within two hundred calendar days after the date of being hired. In computing the time periods in this subsection, the first day is the date of hire.
+. Beginning January 7, 2012, except as provided in RCW 18.88B.041, any person hired as a long-term care worker must be certified as a home care aide as provided in this chapter within two hundred calendar days after the date of hire, as defined by the department. The department may adopt rules determining under which circumstances a long-term care worker may have more than one date of hire, restarting the person's 200-day period to obtain certification as a home care aide.
 
 . [Empty]
 .. No person may practice or, by use of any title or description, represent himself or herself as a certified home care aide without being certified as provided in this chapter.
@@ -30,9 +30,15 @@ The definitions in this section apply throughout this chapter unless the context
 
 .. In consultation with consumer and worker representatives, the department shall, by January 1, 2013, establish by rule a single scope of practice that encompasses both long-term care workers who are certified home care aides and long-term care workers who are exempted from certification under RCW 18.88B.041.
 
+. If a pandemic, natural disaster, or other declared state of emergency impacts the ability of long-term care workers to complete certification as required by this section, the department may adopt rules to allow long-term care workers additional time to become certified.
+
+.. Rules adopted under this subsection (3) are effective until the termination of the pandemic, natural disaster, or other declared state of emergency or until the department determines that additional time for long-term care workers to become certified is no longer necessary, whichever is later. Once the department determines a rule adopted under this subsection (3) is no longer necessary, it must repeal the rule under RCW 34.05.353.
+
+.. Within 12 months of the termination of the pandemic, natural disaster, or other declared state of emergency, the department shall conduct a review of certification compliance with subsection (1) of this section and rules adopted under this subsection (3) and provide the legislature with a report.
+
 . The department shall adopt rules to implement this section.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1629-S.SL.pdf?cite=2013%20c%20259%20§%201[2013 c 259 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2314-S.SL.pdf?cite=2012%20c%20164%20§%20301[2012 c 164 § 301]; 2012 c 1 § 103 (Initiative Measure No. 1163, approved November 8, 2011); ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1120-S.SL.pdf?cite=2021%20c%20203%20§%2010[2021 c 203 § 10]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1629-S.SL.pdf?cite=2013%20c%20259%20§%201[2013 c 259 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2314-S.SL.pdf?cite=2012%20c%20164%20§%20301[2012 c 164 § 301]; 2012 c 1 § 103 (Initiative Measure No. 1163, approved November 8, 2011); ]
 
 == 18.88B.031 - Certification examinations.
 . Except as provided in RCW 18.88B.041 and subject to the other requirements of this chapter, to be certified as a home care aide, a long-term care worker must successfully complete the training required under RCW 74.39A.074(1) and a certification examination. Any long-term care worker failing to make the required grade for the examination may not be certified as a home care aide.

@@ -48,3 +48,7 @@
 * link:10.110_individuals_in_custody—health_care_services.adoc[10.110 - Individuals in custody—Health care services.]
 * link:10.112_sexual_exploitation_of_children.adoc[10.112 - Sexual exploitation of children.]
 * link:10.114_use_of_deadly_force_by_peace_officer.adoc[10.114 - Use of deadly force by peace officer.]
+* link:10.116_peace_officers—tactics_and_equipment.adoc[10.116 - Peace officers—Tactics and equipment.]
+* link:10.118_law_enforcement—use_of_force—data_collection.adoc[10.118 - Law enforcement—Use of force—Data collection.]
+* link:10.120_law_enforcement_and_correctional_officers—permissible_uses_of_force.adoc[10.120 - Law enforcement and correctional officers—Permissible uses of force.]
+* link:10.122_uniform_electronic_recordation_of_custodial_interrogations_act.adoc[10.122 - Uniform electronic recordation of custodial interrogations act.]

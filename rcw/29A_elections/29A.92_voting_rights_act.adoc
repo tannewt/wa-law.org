@@ -64,7 +64,7 @@ As provided in RCW 29A.92.030, no method of electing the governing body of a pol
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6002-S.SL.pdf?cite=2018%20c%20113%20§%20201[2018 c 113 § 201]; ]
 
-== 29A.92.050 - Voluntary change to electoral system—Notice—New elections—Districting.
+== 29A.92.050 - Voluntary change to electoral system—Notice—New elections—Districting. (Effective until January 1, 2023.)
 . [Empty]
 .. Prior to the adoption of its proposed plan, the political subdivision must provide public notice to residents of the subdivision about the proposed remedy to a potential violation of RCW 29A.92.020. If a significant segment of the residents of the subdivision have limited English proficiency and speaks a language other than English, the political subdivision must:
 
@@ -97,9 +97,13 @@ As provided in RCW 29A.92.030, no method of electing the governing body of a pol
 
 . Within forty-five days after receipt of federal decennial census information applicable to a specific local area, the commission established in RCW 44.05.030 shall forward the census information to each political subdivision.
 
-. No later than eight months after its receipt of federal decennial census data, the governing body of the political subdivision that had previously invoked its authority under RCW 29A.92.040 to implement a district-based election system, or that was previously charged with redistricting under RCW 29A.92.110, shall prepare a plan for redistricting its districts, pursuant to RCW 29A.76.010, and in a manner consistent with this chapter.
+. The governing body of the political subdivision that had previously invoked its authority under RCW 29A.92.040 to implement a district-based election system, or that was previously charged with redistricting under RCW 29A.92.110, shall prepare a plan for redistricting its districts, pursuant to RCW 29A.76.010, and in a manner consistent with this chapter:
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5266-S.SL.pdf?cite=2019%20c%20454%20§%201[2019 c 454 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1091-S.SL.pdf?cite=2019%20c%2064%20§%208[2019 c 64 § 8]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6002-S.SL.pdf?cite=2018%20c%20113%20§%20202[2018 c 113 § 202]; ]
+.. By December 31, 2021, if the political subdivision is scheduled to elect members to its governing body in 2022; or
+
+.. By November 15, 2022, if the political subdivision is not scheduled to elect members to its governing body in 2022.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5013-S.SL.pdf?cite=2021%20c%20173%20§%203[2021 c 173 § 3]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5266-S.SL.pdf?cite=2019%20c%20454%20§%201[2019 c 454 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1091-S.SL.pdf?cite=2019%20c%2064%20§%208[2019 c 64 § 8]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6002-S.SL.pdf?cite=2018%20c%20113%20§%20202[2018 c 113 § 202]; ]
 
 == 29A.92.060 - Voter challenge of electoral system—Notice.
 . A voter who resides in the political subdivision who intends to challenge a political subdivision's electoral system under this chapter shall first notify the political subdivision. The political subdivision shall promptly make such notice public.
@@ -161,7 +165,7 @@ As provided in RCW 29A.92.030, no method of electing the governing body of a pol
 
 .. The remedy may provide for the political subdivision to hold elections for the members of its governing body at the same time as regularly scheduled elections for statewide or federal offices. All positions on the governing body must stand for election at the next election for the governing body, scheduled pursuant to this subsection (3). The governing body may subsequently choose to stagger the terms of its positions.
 
-. Within thirty days of the conclusion of any action filed under RCW 29A.92.100, the political subdivision must publish on the subdivision's web site, the outcome and summary of the action, as well as the legal costs incurred by the subdivision. If the political subdivision does not have its own web site, then it may publish on the county web site.
+. Within thirty days of the conclusion of any action filed under RCW 29A.92.100, the political subdivision must publish on the subdivision's website, the outcome and summary of the action, as well as the legal costs incurred by the subdivision. If the political subdivision does not have its own website, then it may publish on the county website.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5266-S.SL.pdf?cite=2019%20c%20454%20§%202[2019 c 454 § 2]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6002-S.SL.pdf?cite=2018%20c%20113%20§%20403[2018 c 113 § 403]; ]
 

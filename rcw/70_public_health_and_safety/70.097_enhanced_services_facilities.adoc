@@ -72,52 +72,8 @@ A person, eighteen years old or older, may be admitted to an enhanced services f
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2448-S.SL.pdf?cite=2020%20c%20278%20§%202[2020 c 278 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1768-S.SL.pdf?cite=2019%20c%20444%20§%2015[2019 c 444 § 15]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5763-S2.SL.pdf?cite=2005%20c%20504%20§%20405[2005 c 504 § 405]; ]
 
-== 70.97.040 - Rights of residents (as amended by 2020 c 278).
-(((1)(a) Every person who is a resident of an enhanced services facility shall be entitled to all the rights set forth in this chapter, and chapters 71.05 and 70.96A RCW, and shall retain all rights not denied him or her under these chapters.
-
-.. No person shall be presumed incompetent as a consequence of receiving an evaluation or voluntary or involuntary treatment for a mental disorder, chemical dependency disorder, or both, under this chapter, or chapter 71.05 or 70.96A RCW, or any prior laws of this state dealing with mental illness. Competency shall not be determined or withdrawn except under the provisions of chapter 10.77 or 11.88 RCW.
-
-.. At the time of his or her treatment planning meeting, every resident of an enhanced services facility shall be given a written statement setting forth the substance of this section. The department shall by rule develop a statement and process for informing residents of their rights in a manner that is likely to be understood by the resident.
-
-. Every resident of an enhanced services facility shall have the right to adequate care and individualized treatment.
-
-. The provisions of this chapter shall not be construed to deny to any person treatment by spiritual means through prayer in accordance with the tenets and practices of a church or religious denomination.
-
-. Persons receiving evaluation or treatment under this chapter shall be given a reasonable choice of an available physician or other professional person qualified to provide such services.
-
-. The physician-patient privilege or the psychologist-client privilege shall be deemed waived in proceedings under this chapter relating to the administration of antipsychotic medications. As to other proceedings under chapter 10.77, 70.96A, or 71.05 RCW, the privileges shall be waived when a court of competent jurisdiction in its discretion determines that such waiver is necessary to protect either the detained person or the public.
-
-. Insofar as danger to the person or others is not created, each resident of an enhanced services facility shall have, in addition to other rights not specifically withheld by law, the following rights, a list of which shall be prominently posted in all facilities, institutions, and hospitals providing such services:
-
-.. To wear his or her own clothes and to keep and use his or her own personal possessions, except when deprivation of same is essential to protect the safety of the resident or other persons;
-
-.. To keep and be allowed to spend a reasonable sum of his or her own money for canteen expenses and small purchases;
-
-.. To have access to individual storage space for his or her private use;
-
-.. To have visitors at reasonable times;
-
-.. To have reasonable access to a telephone, both to make and receive confidential calls, consistent with an effective treatment program;
-
-.. To have ready access to letter writing materials, including stamps, and to send and receive uncensored correspondence through the mails;
-
-.. Not to consent to the administration of antipsychotic medications beyond the hearing conducted pursuant to RCW 71.05.215 or 71.05.217, or the performance of electroconvulsant therapy, or surgery, except emergency lifesaving surgery, unless ordered by a court under RCW 71.05.217;
-
-.. To discuss and actively participate in treatment plans and decisions with professional persons;
-
-.. Not to have psychosurgery performed on him or her under any circumstances;
-
-.. To dispose of property and sign contracts unless such person has been adjudicated an incompetent in a court proceeding directed to that particular issue; and
-
-.. To complain about rights violations or conditions and request the assistance of a mental health ombuds or representative of Washington protection and advocacy. The facility may not prohibit or interfere with a resident's decision to consult with an advocate of his or her choice.
-
-. Nothing contained in this chapter shall prohibit a resident from petitioning by writ of habeas corpus for release.
-
-. Nothing in this section permits any person to knowingly violate a no-contact order or a condition of an active judgment and sentence or active supervision by the department of corrections.
-
-. A person has a right to refuse placement, except where subject to commitment, in an enhanced services facility. No person shall be denied other department services solely on the grounds that he or she has made such a refusal.
-
-. A person has a right to appeal the decision of the department that he or she is eligible for placement at an enhanced services facility, and shall be given notice of the right to appeal in a format that is accessible to the person with instructions regarding what to do if the person wants to appeal.))Every person who is a resident of an enhanced services facility shall be entitled to all of the rights set forth in chapter 70.129 RCW.
+== 70.97.040 - Rights of residents. (Effective until January 1, 2022.)
+Every person who is a resident of an enhanced services facility shall be entitled to all of the rights set forth in chapter 70.129 RCW.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2448-S.SL.pdf?cite=2020%20c%20278%20§%203[2020 c 278 § 3]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5077-S.SL.pdf?cite=2013%20c%2023%20§%20179[2013 c 23 § 179]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5763-S2.SL.pdf?cite=2005%20c%20504%20§%20406[2005 c 504 § 406]; ]
 
@@ -312,7 +268,13 @@ Notwithstanding the existence or use of any other remedy, the department may, in
 
 . The facility shall develop a written plan of correction for any violations identified by the department and provide a plan of correction to the department within ten working days from the receipt of the inspection report.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2448-S.SL.pdf?cite=2020%20c%20278%20§%209[2020 c 278 § 9]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5763-S2.SL.pdf?cite=2005%20c%20504%20§%20418[2005 c 504 § 418]; ]
+. If a pandemic, natural disaster, or other declared state of emergency prevents the department from completing inspections according to the timeline in this section, the department shall adopt rules to reestablish inspection timelines based on the length of time since last inspection, compliance history of each facility, and immediate health or safety concerns.
+
+.. Rules adopted under this subsection (7) are effective until the termination of the pandemic, natural disaster, or other declared state of emergency or until the department determines that all facility inspections are occurring according to time frames established in subsection (1) of this section, whichever is later. Once the department determines a rule adopted under this subsection (7) is no longer necessary, it must repeal the rule under RCW 34.05.353.
+
+.. Within 12 months of the termination of the pandemic, natural disaster, or other declared state of emergency, the department shall conduct a review of inspection compliance with subsection (1) of this section and provide the legislature with a report.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1120-S.SL.pdf?cite=2021%20c%20203%20§%2014[2021 c 203 § 14]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2448-S.SL.pdf?cite=2020%20c%20278%20§%209[2020 c 278 § 9]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5763-S2.SL.pdf?cite=2005%20c%20504%20§%20418[2005 c 504 § 418]; ]
 
 == 70.97.170 - Persons eligible for admittance.
 The facility shall only admit individuals:
@@ -335,6 +297,13 @@ At least sixty days before the effective date of any change of ownership, or cha
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5763-S2.SL.pdf?cite=2005%20c%20504%20§%20421[2005 c 504 § 421]; ]
 
+== 70.97.195 - Communication system—Telephones and other equipment.
+. Each enhanced services facility must be responsive to incoming communications and respond within a reasonable time to phone and electronic messages.
+
+. Each enhanced services facility must have a communication system, including a sufficient quantity of working telephones and other communication equipment to assure that residents have 24-hour access to communications with family, medical providers, and others, and also to allow for emergency contact to and from facility staff. The telephones and communication equipment must provide for auditory privacy, not be located in a staff office or station, be accessible and usable by persons with hearing loss and other disabilities, and not require payment for local calls. An enhanced services facility is not required to provide telephones at no cost in each resident room.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1218-S.SL.pdf?cite=2021%20c%20159%20§%2015[2021 c 159 § 15]; ]
+
 == 70.97.200 - Recordkeeping—Compliance with state, federal regulations—Health care information releases.
 The facility shall:
 
@@ -345,6 +314,33 @@ The facility shall:
 . Where possible, obtain signed releases of information designating the department, the facility, and the department of corrections where the person is under its supervision, as recipients of health care information.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2448-S.SL.pdf?cite=2020%20c%20278%20§%2010[2020 c 278 § 10]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5763-S2.SL.pdf?cite=2005%20c%20504%20§%20422[2005 c 504 § 422]; ]
+
+== 70.97.205 - Resident contact information—Department requirements and duties.
+. The department shall require each enhanced services facility to:
+
+.. Create and regularly maintain a current resident roster containing the name and room number of each resident and provide a written copy immediately upon an in-person request from any long-term care ombuds;
+
+.. Create and regularly maintain current, accurate, and aggregated contact information for all residents, including contact information for the resident representative, if any, of each resident. The contact information for each resident must include the resident's name, room number, and, if available, telephone number and email address. The contact information for each resident representative must include the resident representative's name, relationship to the resident, phone number, and, if available, email and mailing address;
+
+.. Record and update the aggregated contact information required by this section, upon receipt of new or updated contact information from the resident or resident representative; and
+
+.. Upon the written request of any long-term care ombuds that includes reference to this section and the relevant legal functions and duties of long-term care ombuds, provide a copy of the aggregated contact information required by this section within 48 hours, or within a reasonable time if agreed to by the requesting long-term care ombuds, by electronic copy to the secure email address or facsimile number provided in the written request.
+
+. In accordance with the federal older Americans act, federal regulations, and state laws that govern the state long-term care ombuds program, the department shall inform enhanced services facilities that:
+
+.. Any long-term care ombuds is authorized to request and obtain from enhanced services facilities the information required by this section in order to perform the functions and duties of long-term care ombuds as set forth in federal and state laws;
+
+.. The state long-term care ombuds program and all long-term care ombuds are considered a "health oversight agency," so that the federal health insurance portability and accountability act and chapter 70.02 RCW do not preclude enhanced services facilities from providing the information required by this section when requested by any long-term care ombuds, and pursuant to these laws, the federal older Americans act, federal regulations, and state laws that govern the state long-term care ombuds program, facilities are not required to seek or obtain consent from residents or resident representatives prior to providing the information required by this section in accordance with the requirements of this section;
+
+.. The information required by this section, when provided by an enhanced services facility to a requesting long-term care ombuds, becomes property of the state long-term care ombuds program and is subject to all state and federal laws governing the confidentiality and disclosure of the files, records, and information maintained by the state long-term care ombuds program or any local long-term care ombuds entity; and
+
+.. The enhanced services facility may not refuse to provide or unreasonably delay providing the resident roster, the contact information for a resident or resident representative, or the aggregated contact information required by this section, on any basis, including on the basis that the enhanced services facility must first seek or obtain consent from one or more of the residents or resident representatives.
+
+. Nothing in this section shall interfere with or diminish the authority of any long-term care ombuds to access facilities, residents, and resident records as otherwise authorized by law.
+
+. For the purposes of this section, "resident representative" has the same meaning as in RCW 70.129.010.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1218-S.SL.pdf?cite=2021%20c%20159%20§%2014[2021 c 159 § 14]; ]
 
 == 70.97.210 - Standards for fire protection.
 . Standards for fire protection and the enforcement thereof, with respect to all facilities licensed under this chapter, are the responsibility of the chief of the Washington state patrol, through the director of fire protection, who must adopt recognized standards as applicable to facilities for the protection of life against the cause and spread of fire and fire hazards. If the facility to be licensed meets with the approval of the chief of the Washington state patrol, through the director of fire protection, the director of fire protection must submit to the department a written report approving the facility with respect to fire protection before a full license can be issued. The chief of the Washington state patrol, through the director of fire protection, shall conduct an unannounced full inspection of facilities at least once every eighteen months. The statewide average interval between full facility inspections must be fifteen months.
@@ -364,6 +360,18 @@ No facility providing care and behavior support for individuals placed in a faci
 . Such rules shall at the minimum: (a) Promote safe treatment and necessary care of individuals residing in the facility and provide for safe and clean conditions; (b) establish licensee qualifications, licensing and enforcement, and license fees sufficient to cover the cost of licensing and enforcement.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5763-S2.SL.pdf?cite=2005%20c%20504%20§%20425[2005 c 504 § 425]; ]
+
+== 70.97.235 - Stop placement orders and limited stop placement orders.
+The department shall require an enhanced services facility that is subject to a stop placement order or limited stop placement order under RCW 70.97.110 to publicly post in a conspicuous place at the facility a standardized notice that the department has issued a stop placement order or limited stop placement order for the facility. The standardized notice shall be developed by the department to include the date of the stop placement order or limited stop placement order, any conditions placed upon the facility's license, contact information for the department, contact information for the administrator or provider of the facility, and a statement that anyone may contact the department or the administrator or provider for further information. The notice must remain posted until the department has terminated the stop placement order or limited stop placement order.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1218-S.SL.pdf?cite=2021%20c%20159%20§%2013[2021 c 159 § 13]; ]
+
+== 70.97.240 - Disaster preparedness plan.
+. Each enhanced services facility shall develop and maintain a comprehensive disaster preparedness plan to be followed in the event of a disaster or emergency, including fires, earthquakes, floods, infectious disease outbreaks, loss of power or water, and other events that may require sheltering in place, evacuations, or other emergency measures to protect the health and safety of residents. The enhanced services facility must review the comprehensive disaster preparedness plan annually, update the plan as needed, and train all employees when they begin work in the enhanced services facility on the comprehensive disaster preparedness plan and related staff procedures.
+
+. The department shall adopt rules governing the comprehensive disaster preparedness plan. At a minimum, the rules must address: Timely communication with the residents' emergency contacts; timely communication with state and local agencies, long-term care ombuds, and developmental disabilities ombuds; contacting and requesting emergency assistance; on-duty employees' responsibilities; meeting residents' essential needs; procedures to identify and locate residents; and procedures to provide emergency information to provide for the health and safety of residents. In addition, the rules shall establish standards for maintaining personal protective equipment and infection control capabilities, as well as department inspection procedures with respect to the plans.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1218-S.SL.pdf?cite=2021%20c%20159%20§%2016[2021 c 159 § 16]; ]
 
 == 70.97.800 - Request for proposal.
 To the extent that funds are specifically appropriated for this purpose, the department must issue a request for a proposal for enhanced services facility services by June 1, 2014, and complete the procurement process by January 1, 2015.

@@ -100,7 +100,7 @@ Every person who shall cut or cause to be cut, or assist in cutting the solid pa
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1901c146.pdf?cite=1901%20c%20146%20§%206[1901 c 146 § 6]; RRS § 3189. FORMER PART OF SECTION: Code 1881 § 840; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1871%20p%20103%20§%201[1871 p 103 § 1]; RRS § 3206, now codified as RCW  16.52.095; ]
 
-== 16.52.095 - Cutting ears—Misdemeanor.
+== 16.52.095 - Certain veterinary procedures—Misdemeanor.
 . Except as provided in subsection (2) of this section, it is a misdemeanor:
 
 .. For any person to cut off more than one-half of the ear or ears of any domestic animal such as an ox, cow, bull, calf, sheep, goat, or hog; or
@@ -490,4 +490,11 @@ A veterinarian lawfully licensed in this state to practice veterinary medicine, 
 .. A third or subsequent offense is a class 1 civil infraction under RCW 7.80.120(1)(a).
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5356-S.SL.pdf?cite=2017%20c%2065%20§%201[2017 c 65 § 1]; ]
+
+== 16.52.360 - Retail pet store—Sale of dog or cat.
+. Except as provided in this section, a retail pet store may not sell or offer for sale any dog or cat.
+
+. A retail pet store that sold or offered for sale any dog prior to July 25, 2021, may sell or offer for sale a dog.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1424-S.SL.pdf?cite=2021%20c%2076%20§%201[2021 c 76 § 1]; ]
 

@@ -39,7 +39,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 .. A label affixed to the lamp that displays the internationally recognized symbol for the element mercury; and
 
-.. A label on the lamp's packaging that: (i) Clearly informs the purchaser that mercury is present in the item; (ii) explains that the fluorescent lamp should be disposed of according to applicable federal, state, and local laws; and (iii) provides a toll-free telephone number, and a uniform resource locator internet address to a web site, that contains information on applicable disposal laws.
+.. A label on the lamp's packaging that: (i) Clearly informs the purchaser that mercury is present in the item; (ii) explains that the fluorescent lamp should be disposed of according to applicable federal, state, and local laws; and (iii) provides a toll-free telephone number, and a uniform resource locator internet address to a website, that contains information on applicable disposal laws.
 
 . The manufacturer of a mercury-added lamp is in compliance with the requirements of this section if the manufacturer is in compliance with the labeling requirements of another state.
 

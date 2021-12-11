@@ -1335,24 +1335,58 @@ Any licensed health care practitioner with prescription or dispensing authority 
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989ex1c9.pdf?cite=1989%201st%20ex.s.%20c%209%20§%20436[1989 1st ex.s. c 9 § 436]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c153.pdf?cite=1984%20c%20153%20§%2020[1984 c 153 § 20]; ]
 
-== 69.50.312 - Electronic communication of prescription information—Commission may adopt rules. (Effective until January 1, 2021.)
-. Information concerning a prescription for a controlled substance included in Schedules II through V, or information concerning a refill authorization for a controlled substance included in Schedules III through V, may be electronically communicated to a pharmacy of the patient's choice pursuant to the provisions of this chapter if the electronically communicated prescription information complies with the following:
+== 69.50.312 - Electronic communication of prescription information—Exceptions—Waiver—Penalty—Commission may adopt rules. 
+. Information concerning a prescription for a controlled substance included in Schedules II through V, or information concerning a refill authorization for a controlled substance included in Schedules III through V, must be electronically communicated to a pharmacy of the patient's choice pursuant to the provisions of this chapter if the electronically communicated prescription information complies with the following:
 
 .. Electronically communicated prescription information must comply with all applicable statutes and rules regarding the form, content, recordkeeping, and processing of a prescription for a legend drug;
 
-.. The system used for transmitting electronically communicated prescription information must comply with federal rules for electronically communicated prescriptions for controlled substances included in Schedules II through V, as set forth in Title 21 C.F.R. Parts 1300, 1304, 1306, and 1311;
-
-.. An explicit opportunity for practitioners must be made to indicate their preference on whether a therapeutically equivalent generic drug may be substituted;
-
-.. Prescription drug orders are confidential health information, and may be released only to the patient or the patient's authorized representative, the prescriber or other authorized practitioner then caring for the patient, or other persons specifically authorized by law to receive such information;
-
-.. To maintain confidentiality of prescription records, the electronic system shall have adequate security and systems safeguards designed to prevent and detect unauthorized access, modification, or manipulation of these records; and
+.. Prescription drug orders may be released only to the patient or the patient's authorized representative, the prescriber or other authorized practitioner then caring for the patient, or other persons specifically authorized by law to receive such information;
 
 .. The pharmacist shall exercise professional judgment regarding the accuracy, validity, and authenticity of the prescription drug order received by way of electronic transmission, consistent with federal and state laws and rules and guidelines of the commission.
 
-. The commission may adopt rules implementing this section.
+. The following are exempt from subsection (1) of this section:
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5380-S.SL.pdf?cite=2019%20c%20314%20§%2015[2019 c 314 § 15]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5416-S.SL.pdf?cite=2013%20c%20276%20§%204[2013 c 276 § 4]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1609.SL.pdf?cite=2013%20c%2019%20§%20105[2013 c 19 § 105]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1769-S.SL.pdf?cite=1998%20c%20222%20§%204[1998 c 222 § 4]; ]
+.. Prescriptions issued by veterinarians, as that practice is defined in RCW 18.92.010;
+
+.. Prescriptions issued for a patient of a long-term care facility as defined in RCW 18.64.011, or a hospice program as defined in RCW 18.64.011;
+
+.. When the electronic system used for the communication of prescription information is unavailable due to a temporary technological or electronic failure;
+
+.. Prescriptions issued that are intended for prescription fulfillment and dispensing outside Washington state;
+
+.. When the prescriber and pharmacist are employed by the same entity, or employed by entities under common ownership or control;
+
+.. Prescriptions issued for a drug that the United States food and drug administration or the United States drug enforcement administration requires to contain certain elements that are not able to be accomplished electronically;
+
+.. Any controlled substance prescription that requires compounding as defined in RCW 18.64.011;
+
+.. Prescriptions issued for the dispensing of a nonpatient specific prescription under a standing order, approved protocol for drug therapy, collaborative drug therapy agreement, in response to a public health emergency, or other circumstances allowed by statute or rule where a practitioner may issue a nonpatient specific prescription;
+
+.. Prescriptions issued under a drug research protocol;
+
+.. Prescriptions issued by a practitioner with the capability of electronic communication of prescription information under this section, when the practitioner reasonably determines it is impractical for the patient to obtain the electronically communicated prescription in a timely manner, and such delay would adversely impact the patient's medical condition; or
+
+.. Prescriptions issued by a prescriber who has received a waiver from the department.
+
+. The department must develop a waiver process for the requirements of subsection (1) of this section for practitioners due to economic hardship, technological limitations that are not reasonably in the control of the practitioner, or other exceptional circumstance demonstrated by the practitioner. The waiver must be limited to one year or less, or for any other specified time frame set by the department.
+
+. A pharmacist who receives a written, oral, or faxed prescription is not required to verify that the prescription properly meets any exemptions under this section. Pharmacists may continue to dispense and deliver medications from otherwise valid written, oral, or faxed prescriptions.
+
+. An individual who violates this section commits a civil violation. Disciplinary authorities may impose a fine of two hundred fifty dollars per violation, not to exceed five thousand dollars per calendar year. Fines imposed under this section must be allocated to the health professions account.
+
+. Systems used for the electronic communication of prescription information must:
+
+.. Comply with federal laws and rules for electronically communicated prescriptions for controlled substances included in Schedules II through V, as required by Title 21 C.F.R. parts 1300, 1304, 1306, and 1311;
+
+.. Meet the national council for prescription drug prescriber/pharmacist interface SCRIPT standard as determined by the department in rule;
+
+.. Have adequate security and systems safeguards designed to prevent and detect unauthorized access, modification, or manipulation of these records;
+
+.. Provide an explicit opportunity for practitioners to indicate their preference on whether a therapeutically equivalent generic drug may be substituted; and
+
+.. Include the capability to input and track partial fills of a controlled substance prescription in accordance with RCW 18.64.265.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5380-S.SL.pdf?cite=2019%20c%20314%20§%2016[2019 c 314 § 16]; 2019 c 314 § 15; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5416-S.SL.pdf?cite=2013%20c%20276%20§%204[2013 c 276 § 4]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1609.SL.pdf?cite=2013%20c%2019%20§%20105[2013 c 19 § 105]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1769-S.SL.pdf?cite=1998%20c%20222%20§%204[1998 c 222 § 4]; ]
 
 == 69.50.315 - Medical assistance—Drug-related overdose—Prosecution for possession.
 . A person acting in good faith who seeks medical assistance for someone experiencing a drug-related overdose shall not be charged or prosecuted for possession of a controlled substance pursuant to RCW 69.50.4013, or penalized under RCW 69.50.4014, if the evidence for the charge of possession of a controlled substance was obtained as a result of the person seeking medical assistance.
@@ -1363,7 +1397,7 @@ Any licensed health care practitioner with prescription or dispensing authority 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1671-S.SL.pdf?cite=2015%20c%20205%20§%204[2015 c 205 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5516.SL.pdf?cite=2010%20c%209%20§%202[2010 c 9 § 2]; ]
 
-== 69.50.317 - Opioid drugs—Communication with patient.
+== 69.50.317 - Opioid drugs—Communication with patient. (Effective until January 1, 2022.)
 . Any practitioner who writes the first prescription for an opioid during the course of treatment to any patient must, under professional rules, discuss the following with the patient:
 
 .. The risks of opioids, including risk of dependence and overdose;
@@ -1540,13 +1574,13 @@ Neither a licensed marijuana producer nor a licensed marijuana processor shall h
 
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2136-S2.SL.pdf?cite=2015%202nd%20sp.s.%20c%204%20§%20201[2015 2nd sp.s. c 4 § 201]; 2013 c 3 § 7 (Initiative Measure No. 502, approved November 6, 2012); ]
 
-== 69.50.335 - Marijuana retailer licenses—Social equity applicants—Rules—Definitions.
-. Beginning December 1, 2020, and until July 1, 2028, marijuana retailer licenses that have been subject to forfeiture, revocation, or cancellation by the board, or marijuana retailer licenses that were not previously issued by the board but could have been issued without exceeding the limit on the statewide number of marijuana retailer licenses established before January 1, 2020, by the board, may be issued or reissued to an applicant who meets the marijuana retailer license requirements of this chapter.
+== 69.50.335 - Cannabis retailer licenses—Social equity applicants—Rules—Definitions.
+. Beginning December 1, 2020, and until July 1, 2029, cannabis retailer licenses that have been subject to forfeiture, revocation, or cancellation by the board, or cannabis retailer licenses that were not previously issued by the board but could have been issued without exceeding the limit on the statewide number of cannabis retailer licenses established before January 1, 2020, by the board, may be issued or reissued to an applicant who meets the cannabis retailer license requirements of this chapter.
 
 . [Empty]
-.. In order to be considered for a retail license under subsection (1) of this section, an applicant must be a social equity applicant and submit a social equity plan along with other marijuana retailer license application requirements to the board. If the application proposes ownership by more than one person, then at least fifty-one percent of the proposed ownership structure must reflect the qualifications of a social equity applicant.
+.. In order to be considered for a retail license under subsection (1) of this section, an applicant must be a social equity applicant and submit a social equity plan along with other cannabis retailer license application requirements to the board. If the application proposes ownership by more than one person, then at least fifty-one percent of the proposed ownership structure must reflect the qualifications of a social equity applicant.
 
-.. Persons holding an existing marijuana retailer license or title certificate for a marijuana retailer business in a local jurisdiction subject to a ban or moratorium on marijuana retail businesses may apply for a license under this section.
+.. Persons holding an existing cannabis retailer license or title certificate for a cannabis retailer business in a local jurisdiction subject to a ban or moratorium on cannabis retail businesses may apply for a license under this section.
 
 . [Empty]
 .. In determining the issuance of a license among applicants, the board may prioritize applicants based on the extent to which the application addresses the components of the social equity plan.
@@ -1563,7 +1597,9 @@ Neither a licensed marijuana producer nor a licensed marijuana processor shall h
 
 . For the purposes of this section:
 
-.. "Disproportionately impacted area" means a census tract or comparable geographic area that satisfies the following criteria, which may be further defined in rule by the board after consultation with the commission on African American affairs and other agencies and stakeholders as determined by the board:
+.. "Cannabis" has the meaning provided for "marijuana" under this chapter.
+
+.. "Disproportionately impacted area" means a census tract or comparable geographic area that satisfies the following criteria, which may be further defined in rule by the board after consultation with the commission on African American affairs and other agencies, commissions, and community members as determined by the board:
 
 ... The area has a high poverty rate;
 
@@ -1571,38 +1607,40 @@ Neither a licensed marijuana producer nor a licensed marijuana processor shall h
 
 ... The area has a high rate of unemployment; and
 
-... The area has a high rate of arrest, conviction, or incarceration related to the sale, possession, use, cultivation, manufacture, or transport of marijuana.
+... The area has a high rate of arrest, conviction, or incarceration related to the sale, possession, use, cultivation, manufacture, or transport of cannabis.
 
 .. "Social equity applicant" means:
 
-... An applicant who has at least fifty-one percent ownership and control by one or more individuals who have resided for at least five of the preceding ten years in a disproportionately impacted area; or
+... An applicant who has at least fifty-one percent ownership and control by one or more individuals who have resided in a disproportionately impacted area for a period of time defined in rule by the board after consultation with the commission on African American affairs and other commissions, agencies, and community members as determined by the board;
 
-... An applicant who has at least fifty-one percent ownership and control by at least one individual who has been convicted of a marijuana offense or is a family member of such an individual.
+... An applicant who has at least fifty-one percent ownership and control by at least one individual who has been convicted of a cannabis offense, a drug offense, or is a family member of such an individual; or
+
+... An applicant who meets criteria defined in rule by the board after consultation with the commission on African American affairs and other commissions, agencies, and community members as determined by the board.
 
 .. "Social equity goals" means:
 
-... Increasing the number of marijuana retailer licenses held by social equity applicants from disproportionately impacted areas; and
+... Increasing the number of cannabis retailer licenses held by social equity applicants from disproportionately impacted areas; and
 
-... Reducing accumulated harm suffered by individuals, families, and local areas subject to severe impacts from the historical application and enforcement of marijuana prohibition laws.
+... Reducing accumulated harm suffered by individuals, families, and local areas subject to severe impacts from the historical application and enforcement of cannabis prohibition laws.
 
-.. "Social equity plan" means a plan that addresses at least some of the elements outlined in this subsection (6)(d), along with any additional plan components or requirements approved by the board following consultation with the task force created in RCW 69.50.336. The plan may include:
+.. "Social equity plan" means a plan that addresses at least some of the elements outlined in this subsection (6)(e), along with any additional plan components or requirements approved by the board following consultation with the task force created in RCW 69.50.336. The plan may include:
 
-... A statement that the social equity applicant qualifies as a social equity applicant and intends to own at least fifty-one percent of the proposed marijuana retail business or applicants representing at least fifty-one percent of the ownership of the proposed business qualify as social equity applicants;
+... A statement that the social equity applicant qualifies as a social equity applicant and intends to own at least fifty-one percent of the proposed cannabis retail business or applicants representing at least fifty-one percent of the ownership of the proposed business qualify as social equity applicants;
 
-... A description of how issuing a marijuana retail license to the social equity applicant will meet social equity goals;
+... A description of how issuing a cannabis retail license to the social equity applicant will meet social equity goals;
 
-... The social equity applicant's personal or family history with the criminal justice system including any offenses involving marijuana;
+... The social equity applicant's personal or family history with the criminal justice system including any offenses involving cannabis;
 
 ... The composition of the workforce the social equity applicant intends to hire;
 
 .. Neighborhood characteristics of the location where the social equity applicant intends to operate, focusing especially on disproportionately impacted areas; and
 
-.. Business plans involving partnerships or assistance to organizations or residents with connection to populations with a history of high rates of enforcement of marijuana prohibition.
+.. Business plans involving partnerships or assistance to organizations or residents with connection to populations with a history of high rates of enforcement of cannabis prohibition.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2870-S2.SL.pdf?cite=2020%20c%20236%20§%202[2020 c 236 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1443-S.SL.pdf?cite=2021%20c%20169%20§%202[2021 c 169 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2870-S2.SL.pdf?cite=2020%20c%20236%20§%202[2020 c 236 § 2]; ]
 
-== 69.50.336 - Social equity in marijuana task force. (Expires June 30, 2022.)
-. A legislative task force on social equity in marijuana is established. The purpose of the task force is to make recommendations to the board including but not limited to establishing a social equity program for the issuance and reissuance of existing retail marijuana licenses, and to advise the governor and the legislature on policies that will facilitate development of a marijuana social equity program.
+== 69.50.336 - Social equity in cannabis task force. (Expires June 30, 2023.)
+. A legislative task force on social equity in cannabis is established. The purpose of the task force is to make recommendations to the board including but not limited to establishing a social equity program for the issuance and reissuance of existing retail, processor, and producer cannabis licenses, and to advise the governor and the legislature on policies that will facilitate development of a cannabis social equity program.
 
 . The members of the task force are as provided in this subsection.
 
@@ -1624,7 +1662,7 @@ Neither a licensed marijuana producer nor a licensed marijuana processor shall h
 
 (E) An organization representing the Latinx community;
 
-(F) A labor organization involved in the marijuana industry;
+(F) A labor organization involved in the cannabis industry;
 
 (G) The liquor and cannabis board;
 
@@ -1634,9 +1672,11 @@ Neither a licensed marijuana producer nor a licensed marijuana processor shall h
 
 (J) The association of Washington cities;
 
-... Two members that currently hold a marijuana retail license; and
+... Two members that currently hold a cannabis retail license;
 
-... Two members that currently hold a producer or processor license or both.
+... Two members that currently hold a producer license; and
+
+... Two members that currently hold a processor license.
 
 . In addition to the members appointed to the task force under subsection (2) of this section, individuals representing other sectors may be invited by the chair of the task force, in consultation with the other appointed members of the task force, to participate in an advisory capacity in meetings of the task force.
 
@@ -1648,9 +1688,7 @@ Neither a licensed marijuana producer nor a licensed marijuana processor shall h
 
 . The task force shall hold its first meeting by July 1, 2020. The task force shall elect a chair from among its legislative members at the first meeting. The election of the chair must be by a majority vote of the task force members who are present at the meeting. The chair of the task force is responsible for arranging subsequent meetings and developing meeting agendas.
 
-. Staff support for the task force, including arranging the first meeting of the task force and assisting the chair of the task force in arranging subsequent meetings, must be provided by the health equity council of the governor's interagency council on health disparities. If Engrossed Second Substitute House Bill No. 1783 is enacted by June 30, 2020, then responsibility for providing staff support for the task force must be transferred to the office of equity created by Engrossed Second Substitute House Bill No. 1783 when requested by the office of equity.
-
-. The expenses of the task force must be paid jointly by the senate and the house of representatives. Task force expenditures are subject to approval by the senate facilities and operations committee and the house of representatives executive rules committee, or their successor committees.
+. Staff support for the task force, including arranging the first meeting of the task force and assisting the chair of the task force in arranging subsequent meetings, must be provided by the health equity council of the governor's interagency [coordinating] council on health disparities. The responsibility for providing staff support for the task force must be transferred to the office of equity created under chapter 43.06D RCW when requested by the office of equity.
 
 . Legislative members of the task force may be reimbursed for travel expenses in accordance with RCW 44.04.120. Nonlegislative members are not entitled to be reimbursed for travel expenses if they are elected officials or are participating on behalf of an employer, governmental entity, or other organization. Any reimbursement for other nonlegislative members is subject to chapter 43.03 RCW.
 
@@ -1658,17 +1696,31 @@ Neither a licensed marijuana producer nor a licensed marijuana processor shall h
 
 . A public comment period must be provided at every meeting of the task force.
 
-. The task force shall submit one or more reports on recommended policies that will facilitate the development of a marijuana social equity program in Washington to the governor, the board, and the appropriate committees of the legislature. The task force is encouraged to submit individual recommendations, as soon as possible, to facilitate the board's early work to implement the recommendations. The final recommendations must be submitted by December 1, 2020. The recommendations must include:
+. The task force shall submit one or more reports on recommended policies that will facilitate the development of a cannabis social equity program in Washington to the governor, the board, and the appropriate committees of the legislature. The task force is encouraged to submit individual recommendations, as soon as possible, to facilitate the board's early work to implement the recommendations. The final recommendations must be submitted by December 9, 2022. The recommendations must include:
 
-.. Factors the board must consider in distributing the licenses currently available from marijuana retailer licenses that have been subject to forfeiture, revocation, or cancellation by the board, or marijuana retailer licenses that were not previously issued by the board but could have been issued without exceeding the limit on the statewide number of marijuana retailer licenses established by the board before January 1, 2020; and
+.. Factors the board must consider in distributing the licenses currently available from cannabis retailer licenses that have been subject to forfeiture, revocation, or cancellation by the board, or cannabis retailer licenses that were not previously issued by the board but could have been issued without exceeding the limit on the statewide number of cannabis retailer licenses established by the board before January 1, 2020;
 
-.. Whether any additional marijuana licenses should be issued beyond the total number of marijuana licenses that have been issued as of June 11, 2020. For purposes of determining the total number of licenses issued as of June 11, 2020, the total number includes licenses that have been forfeited, revoked, or canceled.
+.. Whether any additional cannabis producer, processor, or retailer licenses should be issued beyond the total number of licenses that have been issued as of June 11, 2020. For purposes of determining the total number of licenses issued as of June 11, 2020, the total number includes licenses that have been forfeited, revoked, or canceled;
+
+.. The social equity impact of altering residential cannabis agriculture regulations;
+
+.. The social equity impact of shifting primary regulation of cannabis production from the board to the department of agriculture, including potential impacts to the employment rights of workers;
+
+.. The social equity impact of removing nonviolent cannabis-related felonies and misdemeanors from the existing point system used to determine if a person qualifies for obtaining or renewing a cannabis license;
+
+.. Whether to create workforce training opportunities for underserved communities to increase employment opportunities in the cannabis industry;
+
+.. The social equity impact of creating new cannabis license types; and
+
+.. Recommendations for the cannabis social equity technical assistance grant program created under RCW 43.330.540.
 
 . The board may adopt rules to implement the recommendations of the task force. However, any recommendation to increase the number of retail outlets above the current statewide limit of retail outlets, established by the board before January 1, 2020, must be approved by the legislature.
 
-. This section expires June 30, 2022.
+. For the purposes of this section, "cannabis" has the meaning provided for "marijuana" under this chapter.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2870-S2.SL.pdf?cite=2020%20c%20236%20§%205[2020 c 236 § 5]; ]
+. This section expires June 30, 2023.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1443-S.SL.pdf?cite=2021%20c%20169%20§%203[2021 c 169 § 3]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2870-S2.SL.pdf?cite=2020%20c%20236%20§%205[2020 c 236 § 5]; ]
 
 == 69.50.339 - Transfer of license to produce, process, or sell marijuana—Reporting of proposed sales of outstanding or issued stock of a corporation.
 . If the *state liquor control board approves, a license to produce, process, or sell marijuana may be transferred, without charge, to the surviving spouse or domestic partner of a deceased licensee if the license was issued in the names of one or both of the parties. For the purpose of considering the qualifications of the surviving party to receive a marijuana producer's, marijuana processor's, or marijuana retailer's license, the *state liquor control board may require a criminal history record information check. The *state liquor control board may submit the criminal history record information check to the Washington state patrol and to the identification division of the federal bureau of investigation in order that these agencies may search their records for prior arrests and convictions of the individual or individuals who filled out the forms. The *state liquor control board shall require fingerprinting of any applicant whose criminal history record information check is submitted to the federal bureau of investigation.
@@ -2170,10 +2222,14 @@ A marijuana retailer or a marijuana retailer holding a medical marijuana endorse
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1792.SL.pdf?cite=2019%20c%20379%20§%202[2019 c 379 § 2]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5564-S2.SL.pdf?cite=2015%20c%20265%20§%2034[2015 c 265 § 34]; 2013 c 3 § 19 (Initiative Measure No. 502, approved November 6, 2012); http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1072.SL.pdf?cite=2005%20c%20218%20§%201[2005 c 218 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%20331[2003 c 53 § 331]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5305-S.SL.pdf?cite=1998%20c%20290%20§%201[1998 c 290 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6139.SL.pdf?cite=1998%20c%2082%20§%202[1998 c 82 § 2]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5191-S.SL.pdf?cite=1997%20c%2071%20§%202[1997 c 71 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2339-S.SL.pdf?cite=1996%20c%20205%20§%202[1996 c 205 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c271.pdf?cite=1989%20c%20271%20§%20104[1989 c 271 § 104]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c458.pdf?cite=1987%20c%20458%20§%204[1987 c 458 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c67.pdf?cite=1979%20c%2067%20§%201[1979 c 67 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex2c2.pdf?cite=1973%202nd%20ex.s.%20c%202%20§%201[1973 2nd ex.s. c 2 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c308.pdf?cite=1971%20ex.s.%20c%20308%20§%2069.50.401[1971 ex.s. c 308 § 69.50.401]; ]
 
-== 69.50.4011 - Counterfeit substances—Penalties.
-. Except as authorized by this chapter, it is unlawful for any person to create, deliver, or possess a counterfeit substance.
+== 69.50.4011 - Counterfeit substances—Penalties. (Effective until July 1, 2023.)
+. Except as authorized by this chapter, it is unlawful for:
 
-. Any person who violates this section with respect to:
+.. Any person to create or deliver a counterfeit substance; or
+
+.. Any person to knowingly possess a counterfeit substance.
+
+. Any person who violates subsection (1)(a) of this section with respect to:
 
 .. A counterfeit substance classified in Schedule I or II which is a narcotic drug, or flunitrazepam classified in Schedule IV, is guilty of a class B felony and upon conviction may be imprisoned for not more than ten years, fined not more than twenty-five thousand dollars, or both;
 
@@ -2185,7 +2241,9 @@ A marijuana retailer or a marijuana retailer holding a medical marijuana endorse
 
 .. A counterfeit substance classified in Schedule V, is guilty of a class C felony punishable according to chapter 9A.20 RCW.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%20332[2003 c 53 § 332]; ]
+. A violation of subsection (1)(b) of this section is a misdemeanor. The prosecutor is encouraged to divert such cases for assessment, treatment, or other services.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5476.SL.pdf?cite=2021%20c%20311%20§%208[2021 c 311 § 8]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%20332[2003 c 53 § 332]; ]
 
 == 69.50.4012 - Delivery of substance in lieu of controlled substance—Penalty.
 . It is unlawful, except as authorized in this chapter and chapter 69.41 RCW, for any person to offer, arrange, or negotiate for the sale, gift, delivery, dispensing, distribution, or administration of a controlled substance to any person and then sell, give, deliver, dispense, distribute, or administer to that person any other liquid, substance, or material in lieu of such controlled substance.
@@ -2194,10 +2252,12 @@ A marijuana retailer or a marijuana retailer holding a medical marijuana endorse
 
 [ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%20333[2003 c 53 § 333]; ]
 
-== 69.50.4013 - Possession of controlled substance—Penalty—Possession of useable marijuana, marijuana concentrates, or marijuana-infused products—Delivery.
-. It is unlawful for any person to possess a controlled substance unless the substance was obtained directly from, or pursuant to, a valid prescription or order of a practitioner while acting in the course of his or her professional practice, or except as otherwise authorized by this chapter.
+== 69.50.4013 - Possession of controlled substance—Penalty—Possession of useable marijuana, marijuana concentrates, or marijuana-infused products—Delivery. (Effective until July 1, 2023.)
+. It is unlawful for any person to knowingly possess a controlled substance unless the substance was obtained directly from, or pursuant to, a valid prescription or order of a practitioner while acting in the course of his or her professional practice, or except as otherwise authorized by this chapter.
 
-. Except as provided in RCW 69.50.4014, any person who violates this section is guilty of a class C felony punishable under chapter 9A.20 RCW.
+. Except as provided in RCW 69.50.4014, any person who violates this section is guilty of a misdemeanor.
+
+. The prosecutor is encouraged to divert cases under this section for assessment, treatment, or other services.
 
 . [Empty]
 .. The possession, by a person twenty-one years of age or older, of useable marijuana, marijuana concentrates, or marijuana-infused products in amounts that do not exceed those set forth in RCW 69.50.360(3) is not a violation of this section, this chapter, or any other provision of Washington state law.
@@ -2215,7 +2275,7 @@ A marijuana retailer or a marijuana retailer holding a medical marijuana endorse
 
 ... Three and one-half grams of marijuana concentrates.
 
-.. The act of delivering marijuana or a marijuana product as authorized under this subsection (4) must meet one of the following requirements:
+.. The act of delivering marijuana or a marijuana product as authorized under this subsection (5) must meet one of the following requirements:
 
 ... The delivery must be done in a location outside of the view of general public and in a nonpublic place; or
 
@@ -2225,12 +2285,12 @@ A marijuana retailer or a marijuana retailer holding a medical marijuana endorse
 
 . The possession by a qualifying patient or designated provider of marijuana concentrates, useable marijuana, marijuana-infused products, or plants in accordance with chapter 69.51A RCW is not a violation of this section, this chapter, or any other provision of Washington state law.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5131-S.SL.pdf?cite=2017%20c%20317%20§%2015[2017 c 317 § 15]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2136-S2.SL.pdf?cite=2015%202nd%20sp.s.%20c%204%20§%20503[2015 2nd sp.s. c 4 § 503]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5052-S2.SL.pdf?cite=2015%20c%2070%20§%2014[2015 c 70 § 14]; 2013 c 3 § 20 (Initiative Measure No. 502, approved November 6, 2012); http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%20334[2003 c 53 § 334]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5476.SL.pdf?cite=2021%20c%20311%20§%209[2021 c 311 § 9]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5131-S.SL.pdf?cite=2017%20c%20317%20§%2015[2017 c 317 § 15]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2136-S2.SL.pdf?cite=2015%202nd%20sp.s.%20c%204%20§%20503[2015 2nd sp.s. c 4 § 503]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5052-S2.SL.pdf?cite=2015%20c%2070%20§%2014[2015 c 70 § 14]; 2013 c 3 § 20 (Initiative Measure No. 502, approved November 6, 2012); http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%20334[2003 c 53 § 334]; ]
 
-== 69.50.4014 - Possession of forty grams or less of marijuana—Penalty.
-Except as provided in RCW 69.50.401(2)(c) or as otherwise authorized by this chapter, any person found guilty of possession of forty grams or less of marijuana is guilty of a misdemeanor.
+== 69.50.4014 - Possession of forty grams or less of marijuana—Penalty. (Effective until July 1, 2023.)
+Except as provided in RCW 69.50.401(2)(c) or as otherwise authorized by this chapter, any person found guilty of knowing possession of forty grams or less of marijuana is guilty of a misdemeanor. The prosecutor is encouraged to divert cases under this section for assessment, treatment, or other services.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2136-S2.SL.pdf?cite=2015%202nd%20sp.s.%20c%204%20§%20505[2015 2nd sp.s. c 4 § 505]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%20335[2003 c 53 § 335]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5476.SL.pdf?cite=2021%20c%20311%20§%2010[2021 c 311 § 10]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2136-S2.SL.pdf?cite=2015%202nd%20sp.s.%20c%204%20§%20505[2015 2nd sp.s. c 4 § 505]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%20335[2003 c 53 § 335]; ]
 
 == 69.50.4015 - Involving a person under eighteen in unlawful controlled substance transaction—Penalty.
 . It is unlawful to compensate, threaten, solicit, or in any other manner involve a person under the age of eighteen years in a transaction unlawfully to manufacture, sell, or deliver a controlled substance.
@@ -2359,9 +2419,9 @@ For the purposes of this section only, the following words and phrases shall hav
 [ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5758.SL.pdf?cite=2003%20c%2053%20§%20342[2003 c 53 § 342]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1299.SL.pdf?cite=1999%20c%20324%20§%206[1999 c 324 § 6]; 1975-'76 2nd ex.s. c 103 § 1; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex2c2.pdf?cite=1973%202nd%20ex.s.%20c%202%20§%202[1973 2nd ex.s. c 2 § 2]; ]
 
 == 69.50.412 - Prohibited acts: E—Penalties.
-. It is unlawful for any person to use drug paraphernalia to plant, propagate, cultivate, grow, harvest, manufacture, compound, convert, produce, process, prepare, test, analyze, pack, repack, store, contain, conceal, inject, ingest, inhale, or otherwise introduce into the human body a controlled substance other than marijuana. Any person who violates this subsection is guilty of a misdemeanor.
+. It is unlawful for any person to use drug paraphernalia to plant, propagate, cultivate, grow, harvest, manufacture, compound, convert, produce, process, or prepare a controlled substance other than marijuana. Any person who violates this subsection is guilty of a misdemeanor.
 
-. It is unlawful for any person to deliver, possess with intent to deliver, or manufacture with intent to deliver drug paraphernalia, knowing, or under circumstances where one reasonably should know, that it will be used to plant, propagate, cultivate, grow, harvest, manufacture, compound, convert, produce, process, prepare, test, analyze, pack, repack, store, contain, conceal, inject, ingest, inhale, or otherwise introduce into the human body a controlled substance other than marijuana. Any person who violates this subsection is guilty of a misdemeanor.
+. It is unlawful for any person to deliver, possess with intent to deliver, or manufacture with intent to deliver drug paraphernalia, knowing, or under circumstances where one reasonably should know, that it will be used to plant, propagate, cultivate, grow, harvest, manufacture, compound, convert, produce, process, or prepare a controlled substance other than marijuana. Any person who violates this subsection is guilty of a misdemeanor.
 
 . Any person eighteen years of age or over who violates subsection (2) of this section by delivering drug paraphernalia to a person under eighteen years of age who is at least three years his or her junior is guilty of a gross misdemeanor.
 
@@ -2369,7 +2429,7 @@ For the purposes of this section only, the following words and phrases shall hav
 
 . It is lawful for any person over the age of eighteen to possess sterile hypodermic syringes and needles for the purpose of reducing blood-borne diseases.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1091-S.SL.pdf?cite=2019%20c%2064%20§%2022[2019 c 64 § 22]; 2013 c 3 § 22 (Initiative Measure No. 502, approved November 6, 2012); http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20368[2012 c 117 § 368]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1759-S.SL.pdf?cite=2002%20c%20213%20§%201[2002 c 213 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c48.pdf?cite=1981%20c%2048%20§%202[1981 c 48 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5476.SL.pdf?cite=2021%20c%20311%20§%2014[2021 c 311 § 14]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1091-S.SL.pdf?cite=2019%20c%2064%20§%2022[2019 c 64 § 22]; 2013 c 3 § 22 (Initiative Measure No. 502, approved November 6, 2012); http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6095.SL.pdf?cite=2012%20c%20117%20§%20368[2012 c 117 § 368]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1759-S.SL.pdf?cite=2002%20c%20213%20§%201[2002 c 213 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c48.pdf?cite=1981%20c%2048%20§%202[1981 c 48 § 2]; ]
 
 == 69.50.4121 - Drug paraphernalia—Selling or giving—Penalty.
 . Every person who sells or gives, or permits to be sold or given to any person any drug paraphernalia in any form commits a class I civil infraction under chapter 7.80 RCW. For purposes of this subsection, "drug paraphernalia" means all equipment, products, and materials of any kind which are used, intended for use, or designed for use in planting, propagating, cultivating, growing, harvesting, manufacturing, compounding, converting, producing, processing, preparing, testing, analyzing, packaging, repackaging, storing, containing, concealing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance other than marijuana. Drug paraphernalia includes, but is not limited to objects used, intended for use, or designed for use in ingesting, inhaling, or otherwise introducing cocaine into the human body, such as:
@@ -2833,11 +2893,11 @@ Whenever a controlled substance which is manufactured, distributed, dispensed, o
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c150.pdf?cite=1988%20c%20150%20§%209[1988 c 150 § 9]; ]
 
 == 69.50.511 - Cleanup of hazardous substances at illegal drug manufacturing facility—Rules.
-Law enforcement agencies who during the official investigation or enforcement of any illegal drug manufacturing facility come in contact with or are aware of any substances suspected of being hazardous as defined in *RCW 70.105D.020, shall notify the department of ecology for the purpose of securing a contractor to identify, clean up, store, and dispose of suspected hazardous substances, except for those random and representative samples obtained for evidentiary purposes. Whenever possible, a destruct order covering hazardous substances which may be described in general terms shall be obtained concurrently with a search warrant. Materials that have been photographed, fingerprinted, and subsampled by police shall be destroyed as soon as practical. The department of ecology shall make every effort to recover costs from the parties responsible for the suspected hazardous substance. All recoveries shall be deposited in the account or fund from which contractor payments are made.
+Law enforcement agencies who during the official investigation or enforcement of any illegal drug manufacturing facility come in contact with or are aware of any substances suspected of being hazardous as defined in RCW 70A.305.020, shall notify the department of ecology for the purpose of securing a contractor to identify, clean up, store, and dispose of suspected hazardous substances, except for those random and representative samples obtained for evidentiary purposes. Whenever possible, a destruct order covering hazardous substances which may be described in general terms shall be obtained concurrently with a search warrant. Materials that have been photographed, fingerprinted, and subsampled by police shall be destroyed as soon as practical. The department of ecology shall make every effort to recover costs from the parties responsible for the suspected hazardous substance. All recoveries shall be deposited in the account or fund from which contractor payments are made.
 
 The department of ecology may adopt rules to carry out its responsibilities under this section. The department of ecology shall consult with law enforcement agencies prior to adopting any rule or policy relating to this section.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5421.SL.pdf?cite=2007%20c%20104%20§%2017[2007 c 104 § 17]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c213.pdf?cite=1990%20c%20213%20§%2013[1990 c 213 § 13]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c271.pdf?cite=1989%20c%20271%20§%20228[1989 c 271 § 228]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2065[2021 c 65 § 65]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5421.SL.pdf?cite=2007%20c%20104%20§%2017[2007 c 104 § 17]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c213.pdf?cite=1990%20c%20213%20§%2013[1990 c 213 § 13]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c271.pdf?cite=1989%20c%20271%20§%20228[1989 c 271 § 228]; ]
 
 == 69.50.515 - Pharmacies—Marijuana—Notification and disposal.
 . Upon finding one ounce or less of marijuana inadvertently left at a retail store holding a pharmacy license, the store manager or employee must promptly notify the local law enforcement agency. After notification to the local law enforcement agency, the store manager or employee must properly dispose of the marijuana.
@@ -2923,21 +2983,21 @@ The legislature must annually appropriate moneys in the dedicated marijuana acco
 
 ... One million three hundred twenty-three thousand dollars for fiscal year 2020 to the health professions account established under RCW 43.70.320 for the development and administration of the marijuana authorization database by the department of health;
 
-... Two million four hundred fifty-three thousand dollars for fiscal year 2020 and two million seven hundred ninety-three thousand dollars for fiscal year 2021 to the Washington state patrol for a drug enforcement task force. It is the intent of the legislature that this policy will be continued in the 2021-2023 fiscal biennium; and
+... Two million four hundred fifty-three thousand dollars for fiscal year 2020 and two million four hundred twenty-three thousand dollars for fiscal years 2021, 2022, and 2023 to the Washington state patrol for a drug enforcement task force. It is the intent of the legislature that this policy will be continued in the 2021-2023 fiscal biennium; and
 
 ... Ninety-eight thousand dollars for fiscal year 2019 to the department of ecology for research on accreditation of marijuana product testing laboratories;
 
-.. Four hundred sixty-five thousand dollars for fiscal year 2020 and four hundred sixty-four thousand dollars for fiscal year 2021 to the department of ecology for implementation of accreditation of marijuana product testing laboratories;
+.. Four hundred sixty-five thousand dollars for fiscal year 2020, four hundred sixty-four thousand dollars for fiscal year 2021, two hundred seventy thousand dollars in fiscal year 2022, and two hundred seventy-six thousand dollars in fiscal year 2023 to the department of ecology for implementation of accreditation of marijuana product testing laboratories;
 
 .. One hundred eighty-nine thousand dollars for fiscal year 2020 to the department of health for rule making regarding compassionate care renewals;
 
-.. Eight hundred eight thousand dollars for fiscal year 2020 and eight hundred eight thousand dollars for fiscal year 2021 to the department of health for the administration of the marijuana authorization database;
+.. Eight hundred eight thousand dollars for each of fiscal years 2020 through 2023 to the department of health for the administration of the marijuana authorization database;
 
-.. Six hundred thirty-five thousand dollars for fiscal year 2020 and six hundred thirty-five thousand dollars for fiscal year 2021 to the department of agriculture for compliance-based laboratory analysis of pesticides in marijuana;
+.. Six hundred thirty-five thousand dollars for fiscal year 2020, six hundred thirty-five thousand dollars for fiscal year 2021, six hundred twenty-one thousand dollars for fiscal year 2022, and six hundred twenty-seven thousand dollars for fiscal year 2023 to the department of agriculture for compliance-based laboratory analysis of pesticides in marijuana;
 
-.. One million one hundred thousand dollars annually to the department of commerce to fund the marijuana social equity technical assistance competitive grant program under RCW 43.330.540; and
+.. One million six hundred fifty thousand dollars for fiscal year 2022 and one million six hundred fifty thousand dollars for fiscal year 2023 to the department of commerce to fund the *marijuana social equity technical assistance competitive grant program under RCW 43.330.540; and
 
-.. One million one hundred thousand dollars for fiscal year 2021 to the department of commerce to fund the marijuana social equity technical assistance competitive grant program under Engrossed Second Substitute House Bill No. 2870 (marijuana retail licenses); and
+.. One hundred sixty-three thousand dollars for fiscal year 2022 and one hundred fifty-nine thousand dollars for fiscal year 2023 to the department of commerce to establish a roster of mentors as part of the cannabis social equity technical assistance grant program under Engrossed Substitute House Bill No. 1443 (cannabis industry/equity) [chapter 169, Laws of 2021]; and
 
 . From the amounts in the dedicated marijuana account after appropriation of the amounts identified in subsection (1) of this section, the legislature must appropriate for the purposes listed in this subsection (2) as follows:
 
@@ -2970,7 +3030,7 @@ The legislature must annually appropriate moneys in the dedicated marijuana acco
 .. [Empty]
 ... Up to six-tenths of one percent to the University of Washington and four-tenths of one percent to Washington State University for research on the short and long-term effects of marijuana use, to include but not be limited to formal and informal methods for estimating and measuring intoxication and impairment, and for the dissemination of such research.
 
-... For each fiscal year, except for the 2017-2019 and 2019-2021 fiscal biennia, the legislature must appropriate a minimum of one million twenty-one thousand dollars to the University of Washington. For each fiscal year, except for the 2017-2019 and 2019-2021 fiscal biennia, the legislature must appropriate a minimum of six hundred eighty-one thousand dollars to Washington State University under this subsection (2)(c). It is the intent of the legislature that this policy will be continued in the 2019-2021 fiscal biennium;
+... For each fiscal year, except for the 2019-2021 and 2021-2023 fiscal biennia, the legislature must appropriate a minimum of one million twenty-one thousand dollars to the University of Washington. For each fiscal year, except for the 2019-2021 and 2021-2023 fiscal biennia, the legislature must appropriate a minimum of six hundred eighty-one thousand dollars to Washington State University under this subsection (2)(c). It is the intent of the legislature that this policy will be continued in the 2023-2025 fiscal biennium;
 
 .. Fifty percent to the state basic health plan trust account to be administered by the Washington basic health plan administrator and used as provided under chapter 70.47 RCW;
 
@@ -2993,9 +3053,9 @@ The legislature must annually appropriate moneys in the dedicated marijuana acco
 
 ... By September 15th of each year, the board must provide the state treasurer the annual distribution amount, if any, for each county and city as determined in (g)(i) of this subsection (2).
 
-... The total share of marijuana excise tax revenues distributed to counties and cities in (g)(i) of this subsection (2) may not exceed fifteen million dollars in fiscal years 2018, 2019, 2020, and 2021, and twenty million dollars per fiscal year thereafter. It is the intent of the legislature that the policy for the maximum distributions in the subsequent fiscal biennia will be no more than fifteen million dollars per fiscal year.
+... The total share of marijuana excise tax revenues distributed to counties and cities in (g)(i) of this subsection (2) may not exceed fifteen million dollars in fiscal years 2018, 2019, 2020, and 2021, and twenty million dollars per fiscal year thereafter.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6168-S.SL.pdf?cite=2020%20c%20357%20§%20916[2020 c 357 § 916]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2870-S2.SL.pdf?cite=2020%20c%20236%20§%204[2020 c 236 § 4]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1109-S.SL.pdf?cite=2019%20c%20415%20§%20978[2019 c 415 § 978]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6032-S.SL.pdf?cite=2018%20c%20299%20§%20910[2018 c 299 § 910]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1388-S.SL.pdf?cite=2018%20c%20201%20§%208014[2018 c 201 § 8014]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5883-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%201%20§%20979[2017 3rd sp.s. c 1 § 979]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6052-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%204%20§%20967[2015 3rd sp.s. c 4 § 967]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2136-S2.SL.pdf?cite=2015%202nd%20sp.s.%20c%204%20§%20206[2015 2nd sp.s. c 4 § 206]; 2013 c 3 § 28 (Initiative Measure No. 502, approved November 6, 2012); ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5092-S.SL.pdf?cite=2021%20c%20334%20§%20986[2021 c 334 § 986]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6168-S.SL.pdf?cite=2020%20c%20357%20§%20916[2020 c 357 § 916]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2870-S2.SL.pdf?cite=2020%20c%20236%20§%204[2020 c 236 § 4]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1109-S.SL.pdf?cite=2019%20c%20415%20§%20978[2019 c 415 § 978]; prior:  2018 c 299 § 910; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1388-S.SL.pdf?cite=2018%20c%20201%20§%208014[2018 c 201 § 8014]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5883-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%201%20§%20979[2017 3rd sp.s. c 1 § 979]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6052-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%204%20§%20967[2015 3rd sp.s. c 4 § 967]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2136-S2.SL.pdf?cite=2015%202nd%20sp.s.%20c%204%20§%20206[2015 2nd sp.s. c 4 § 206]; 2013 c 3 § 28 (Initiative Measure No. 502, approved November 6, 2012); ]
 
 == 69.50.550 - Cost-benefit evaluations.
 . The Washington state institute for public policy shall conduct cost-benefit evaluations of the implementation of chapter 3, Laws of 2013. A preliminary report, and recommendations to appropriate committees of the legislature, shall be made by September 1, 2015, and the first final report with recommendations by September 1, 2017. Subsequent reports shall be due September 1, 2022, and September 1, 2032.
@@ -3307,9 +3367,9 @@ The taxes, fees, assessments, and other charges imposed by this chapter do not a
 
 . Nothing in this chapter prohibits:
 
-.. Producers or processors from listing on their internet web sites information related to retailers who sell or promote their products, including direct links to the retailers' internet web sites; and
+.. Producers or processors from listing on their internet websites information related to retailers who sell or promote their products, including direct links to the retailers' internet websites; and
 
-.. Retailers from listing on their internet web sites information related to producers or processors whose products those retailers sell or promote, including direct links to the producers or processors' web sites; or
+.. Retailers from listing on their internet websites information related to producers or processors whose products those retailers sell or promote, including direct links to the producers or processors' websites; or
 
 .. Producers, processors, and retailers from producing, jointly or together with regional, state, or local industry associations, brochures and materials promoting tourism in Washington state which contain information regarding retail licensees, producers, processors, and their products.
 

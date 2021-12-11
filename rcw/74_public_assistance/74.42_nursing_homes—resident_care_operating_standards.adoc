@@ -370,7 +370,7 @@ Facilities shall have effective sanitary procedures for the food preparation sta
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c211.pdf?cite=1979%20ex.s.%20c%20211%20§%2032[1979 ex.s. c 211 § 32]; ]
 
 == 74.42.330 - Food storage.
-The facility shall store dry or staple food items at an appropriate height above the floor in a ventilated room not subject to sewage or waste water backflow or contamination by condensation, leakage, rodents or vermin. Perishable foods shall be stored at proper temperatures to conserve nutritive values.
+The facility shall store dry or staple food items at an appropriate height above the floor in a ventilated room not subject to sewage or wastewater backflow or contamination by condensation, leakage, rodents or vermin. Perishable foods shall be stored at proper temperatures to conserve nutritive values.
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c211.pdf?cite=1979%20ex.s.%20c%20211%20§%2033[1979 ex.s. c 211 § 33]; ]
 
@@ -448,7 +448,9 @@ The facility shall have and keep current an organization chart showing:
 
 . For the purposes of this section, "behavioral health condition" means one or more of the behavioral symptoms specified in section E of the minimum data set.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6515-S2.SL.pdf?cite=2020%20c%20263%20§%203[2020 c 263 § 3]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1349.SL.pdf?cite=2019%20c%2012%20§%202[2019 c 12 § 2]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1548-S.SL.pdf?cite=2017%20c%20200%20§%203[2017 c 200 § 3]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2678-S.SL.pdf?cite=2016%20c%20131%20§%202[2016 c 131 § 2]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1274-S.SL.pdf?cite=2015%202nd%20sp.s.%20c%202%20§%207[2015 2nd sp.s. c 2 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c211.pdf?cite=1979%20ex.s.%20c%20211%20§%2036[1979 ex.s. c 211 § 36]; ]
+. If a pandemic, natural disaster, or other declared state of emergency impedes or prevents facilities from compliance with subsections (2) through (4) of this section, the department may adopt rules to grant exceptions to these requirements, waive penalties, and suspend oversight activities. Facilities must remain in compliance with subsection (1) of this section. Rules adopted under this subsection are effective until 12 months after the termination of the pandemic, natural disaster, or other declared state of emergency or until determined no longer necessary by the department, whichever occurs first. Once the department determines a rule adopted under this subsection is no longer necessary, it must repeal the rule under RCW 34.05.353.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1120-S.SL.pdf?cite=2021%20c%20203%20§%206[2021 c 203 § 6]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6515-S2.SL.pdf?cite=2020%20c%20263%20§%203[2020 c 263 § 3]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1349.SL.pdf?cite=2019%20c%2012%20§%202[2019 c 12 § 2]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1548-S.SL.pdf?cite=2017%20c%20200%20§%203[2017 c 200 § 3]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2678-S.SL.pdf?cite=2016%20c%20131%20§%202[2016 c 131 § 2]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1274-S.SL.pdf?cite=2015%202nd%20sp.s.%20c%202%20§%207[2015 2nd sp.s. c 2 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c211.pdf?cite=1979%20ex.s.%20c%20211%20§%2036[1979 ex.s. c 211 § 36]; ]
 
 == 74.42.370 - Licensed administrator.
 The facility shall have an administrator who is a licensed nursing home administrator under chapter 18.52 RCW. The administrator is responsible for managing the facility and implementing established policies and procedures.
@@ -486,7 +488,7 @@ The facility shall manage laundry services to meet the residents' daily clothing
 == 74.42.420 - Resident record system.
 The facility shall maintain an organized record system containing a record for each resident. The record shall contain:
 
-. Identification information;
+. Identification information, including the information listed in RCW 18.51.095(1);
 
 . Admission information, including the resident's medical and social history;
 
@@ -502,7 +504,7 @@ The facility shall maintain an organized record system containing a record for e
 
 Resident records shall be available to the staff members directly involved with the resident and to appropriate representatives of the department. The facility shall protect resident records against destruction, loss, and unauthorized use. The facility shall keep a resident's record after the resident is discharged as provided in RCW 18.51.300.
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c211.pdf?cite=1979%20ex.s.%20c%20211%20§%2042[1979 ex.s. c 211 § 42]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1218-S.SL.pdf?cite=2021%20c%20159%20§%2010[2021 c 159 § 10]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c211.pdf?cite=1979%20ex.s.%20c%20211%20§%2042[1979 ex.s. c 211 § 42]; ]
 
 == 74.42.430 - Written policy guidelines. (Effective until January 1, 2022.)
 The facility shall develop written guidelines governing:
@@ -577,9 +579,9 @@ The facility may only admit individuals when the facility's rated capacity will 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5708-S.SL.pdf?cite=2011%20c%20366%20§%207[2011 c 366 § 7]; ]
 
 == 74.42.460 - Organization plan and procedures.
-The facility shall have a written staff organization plan and detailed written procedures to meet potential emergencies and disasters. The facility shall clearly communicate and periodically review the plan and procedures with the staff and residents. The plan and procedures shall be posted at suitable locations throughout the facility.
+The facility shall have a written staff organization plan and detailed written procedures to meet potential emergencies and disasters. The facility shall clearly communicate and periodically review the plan and procedures with the staff and residents. The plan and procedures shall be posted at suitable locations throughout the facility. The planning requirement of this section shall complement the comprehensive disaster preparedness planning requirement of RCW 18.51.580.
 
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c211.pdf?cite=1979%20ex.s.%20c%20211%20§%2046[1979 ex.s. c 211 § 46]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1218-S.SL.pdf?cite=2021%20c%20159%20§%2012[2021 c 159 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979ex1c211.pdf?cite=1979%20ex.s.%20c%20211%20§%2046[1979 ex.s. c 211 § 46]; ]
 
 == 74.42.470 - Infected employees.
 No employee with symptoms of a communicable disease may work in a facility. The facility shall have written guidelines that will help enforce this section.

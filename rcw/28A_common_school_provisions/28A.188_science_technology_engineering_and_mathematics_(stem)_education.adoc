@@ -73,7 +73,7 @@ The superintendent of public instruction shall provide support for statewide coo
 
 .. Provide data regarding current and projected STEM job openings in the state; and
 
-.. Be prominently displayed on a web site designed for this purpose.
+.. Be prominently displayed on a website designed for this purpose.
 
 . [Empty]
 .. The education data center under RCW 43.41.400 must coordinate data collection and analysis to support the report card.

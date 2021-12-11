@@ -496,8 +496,8 @@ A consumer reporting agency may furnish to a governmental agency a consumer's na
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5418.SL.pdf?cite=2005%20c%20342%20§%205[2005 c 342 § 5]; ]
 
-== 19.182.220 - Security freeze—Protected consumers—Definitions. (Effective until January 1, 2021.)
-The definitions in this section apply throughout this section and RCW 19.182.230 and 70.58.098 unless the context clearly requires otherwise.
+== 19.182.220 - Security freeze—Protected consumers—Definitions.
+The definitions in this section apply throughout this section and RCW 19.182.230 unless the context clearly requires otherwise.
 
 . "Credit report" means a consumer report, as defined in 15 U.S.C. Sec. 1681a, that is used or collected to serve as a factor in establishing a consumer's eligibility for credit for personal, family, or household purposes.
 
@@ -551,7 +551,7 @@ The definitions in this section apply throughout this section and RCW 19.182.230
 
 .. A copy of a bill, including a bill for telephone, sewer, septic tank, water, electric, oil, or natural gas services, that shows a name and home address.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2859-S.SL.pdf?cite=2016%20c%20135%20§%201[2016 c 135 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%2030[2019 c 148 § 30]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2859-S.SL.pdf?cite=2016%20c%20135%20§%201[2016 c 135 § 1]; ]
 
 == 19.182.230 - Security freeze—Protected consumers—Placement and removal—Fees—Exceptions.
 . A consumer reporting agency shall place a security freeze for a protected consumer if:

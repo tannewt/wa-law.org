@@ -1,7 +1,7 @@
 = 74.60 - Hospital safety net assessment.
 :toc:
 
-== 74.60.005 - Purpose—Findings—Intent. (Expires July 1, 2023.)
+== 74.60.005 - Purpose—Findings—Intent. (Expires July 1, 2025.)
 . The purpose of this chapter is to provide for a safety net assessment on certain Washington hospitals, which will be used solely to augment funding from all other sources and thereby support additional payments to hospitals for medicaid services as specified in this chapter.
 
 . The legislature finds that federal health care reform will result in an expansion of medicaid enrollment in this state and an increase in federal financial participation.
@@ -12,21 +12,21 @@
 
 .. To generate approximately one billion dollars per state fiscal biennium in new state and federal funds by disbursing all of that amount to pay for medicaid hospital services and grants to certified public expenditure and critical access hospitals, except costs of administration as specified in this chapter, in the form of additional payments to hospitals and managed care plans, which may not be a substitute for payments from other sources, but which include quality improvement incentive payments under RCW 74.09.611;
 
-.. To generate two hundred ninety-two million dollars per biennium during the 2019-2021 and 2021-2023 biennia in new funds to be used in lieu of state general fund payments for medicaid hospital services;
+.. To generate two hundred ninety-two million dollars per biennium during the 2021-2023 and 2023-2025 biennia in new funds to be used in lieu of state general fund payments for medicaid hospital services;
 
 .. That the total amount assessed not exceed the amount needed, in combination with all other available funds, to support the payments authorized by this chapter;
 
 .. To condition the assessment on receiving federal approval for receipt of additional federal financial participation and on continuation of other funding sufficient to maintain aggregate payment levels to hospitals for inpatient and outpatient services covered by medicaid, including fee-for-service and managed care, at least at the rates the state paid for those services on July 1, 2015, as adjusted for current enrollment and utilization; and
 
-.. For each of the two biennia starting with fiscal year 2020 to generate:
+.. For each of the two biennia starting with fiscal year 2022 to generate:
 
 ... Four million dollars for new integrated evidence-based psychiatry residency program slots that did not receive state funding prior to 2016 at the integrated psychiatry residency program at the University of Washington; and
 
 ... Eight million two hundred thousand dollars for family medicine residency program slots that did not receive state funding prior to 2016, as directed through the family medicine residency network at the University of Washington, for slots where residents are employed by hospitals.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5734-S.SL.pdf?cite=2019%20c%20318%20§%201[2019 c 318 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5815-S.SL.pdf?cite=2017%20c%20228%20§%201[2017 c 228 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2151.SL.pdf?cite=2015%202nd%20sp.s.%20c%205%20§%201[2015 2nd sp.s. c 5 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5913-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2017%20§%201[2013 2nd sp.s. c 17 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2956-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%2030%20§%201[2010 1st sp.s. c 30 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1316.SL.pdf?cite=2021%20c%20255%20§%201[2021 c 255 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5734-S.SL.pdf?cite=2019%20c%20318%20§%201[2019 c 318 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5815-S.SL.pdf?cite=2017%20c%20228%20§%201[2017 c 228 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2151.SL.pdf?cite=2015%202nd%20sp.s.%20c%205%20§%201[2015 2nd sp.s. c 5 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5913-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2017%20§%201[2013 2nd sp.s. c 17 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2956-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%2030%20§%201[2010 1st sp.s. c 30 § 1]; ]
 
-== 74.60.010 - Definitions. (Expires July 1, 2023.)
+== 74.60.010 - Definitions. (Expires July 1, 2025.)
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 
 . "Authority" means the health care authority.
@@ -71,12 +71,12 @@ The definitions in this section apply throughout this chapter unless the context
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5734-S.SL.pdf?cite=2019%20c%20318%20§%202[2019 c 318 § 2]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5815-S.SL.pdf?cite=2017%20c%20228%20§%202[2017 c 228 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5913-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2017%20§%202[2013 2nd sp.s. c 17 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2956-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%2030%20§%202[2010 1st sp.s. c 30 § 2]; ]
 
-== 74.60.020 - Hospital safety net assessment fund. (Expires July 1, 2023.)
+== 74.60.020 - Hospital safety net assessment fund. (Expires July 1, 2025.)
 . A dedicated fund is hereby established within the state treasury to be known as the hospital safety net assessment fund. The purpose and use of the fund shall be to receive and disburse funds, together with accrued interest, in accordance with this chapter. Moneys in the fund, including interest earned, shall not be used or disbursed for any purposes other than those specified in this chapter. Any amounts expended from the fund that are later recouped by the authority on audit or otherwise shall be returned to the fund.
 
 .. Any unexpended balance in the fund at the end of a fiscal year shall carry over into the following fiscal year or that fiscal year and the following fiscal year and shall be applied to reduce the amount of the assessment under RCW 74.60.050(1)(c).
 
-.. Any amounts remaining in the fund after July 1, 2023, shall be refunded to hospitals, pro rata according to the amount paid by the hospital since July 1, 2013, subject to the limitations of federal law.
+.. Any amounts remaining in the fund after July 1, 2025, shall be refunded to hospitals, pro rata according to the amount paid by the hospital since July 1, 2013, subject to the limitations of federal law.
 
 . All assessments, interest, and penalties collected by the authority under RCW 74.60.030 and 74.60.050 shall be deposited into the fund.
 
@@ -96,15 +96,15 @@ The definitions in this section apply throughout this chapter unless the context
 
 .. To pay an amount sufficient, when combined with the maximum available amount of federal funds necessary to provide a one percent increase in medicaid hospital inpatient rates to hospitals eligible for quality improvement incentives under RCW 74.09.611. By May 16, 2018, and by each May 16 thereafter, the authority, in cooperation with the department of health, must verify that each hospital eligible to receive quality improvement incentives under the terms of this chapter is in substantial compliance with the reporting requirements in RCW 43.70.052 and 70.01.040 for the prior period. For the purposes of this subsection, "substantial compliance" means, in the prior period, the hospital has submitted at least nine of the twelve monthly reports by the due date. The authority must distribute quality improvement incentives to hospitals that have met these requirements beginning July 1 of 2018 and each July 1 thereafter; and
 
-.. For each state fiscal year 2020 through 2023 to generate:
+.. For each state fiscal year 2022 through 2025 to generate:
 
 ... Two million dollars for integrated evidence-based psychiatry residency program slots that did not receive state funding prior to 2016 at the integrated psychiatry residency program at the University of Washington; and
 
 ... Four million one hundred thousand dollars for family medicine residency program slots that did not receive state funding prior to 2016, as directed through the family medicine residency network at the University of Washington, for slots where residents are employed by hospitals.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5734-S.SL.pdf?cite=2019%20c%20318%20§%203[2019 c 318 § 3]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5815-S.SL.pdf?cite=2017%20c%20228%20§%203[2017 c 228 § 3]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2151.SL.pdf?cite=2015%202nd%20sp.s.%20c%205%20§%202[2015 2nd sp.s. c 5 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5913-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2017%20§%203[2013 2nd sp.s. c 17 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2069.SL.pdf?cite=2011%201st%20sp.s.%20c%2035%20§%201[2011 1st sp.s. c 35 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2956-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%2030%20§%203[2010 1st sp.s. c 30 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1316.SL.pdf?cite=2021%20c%20255%20§%202[2021 c 255 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5734-S.SL.pdf?cite=2019%20c%20318%20§%203[2019 c 318 § 3]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5815-S.SL.pdf?cite=2017%20c%20228%20§%203[2017 c 228 § 3]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2151.SL.pdf?cite=2015%202nd%20sp.s.%20c%205%20§%202[2015 2nd sp.s. c 5 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5913-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2017%20§%203[2013 2nd sp.s. c 17 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2069.SL.pdf?cite=2011%201st%20sp.s.%20c%2035%20§%201[2011 1st sp.s. c 35 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2956-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%2030%20§%203[2010 1st sp.s. c 30 § 3]; ]
 
-== 74.60.030 - Assessments. (Expires July 1, 2023.)
+== 74.60.030 - Assessments. (Expires July 1, 2025.)
 . [Empty]
 .. Upon satisfaction of the conditions in RCW 74.60.150(1), and so long as the conditions in RCW 74.60.150(2) have not occurred, an assessment is imposed as set forth in this subsection. Assessment notices must be sent on or about thirty days prior to the end of each quarter and payment is due thirty days thereafter.
 
@@ -126,7 +126,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5734-S.SL.pdf?cite=2019%20c%20318%20§%204[2019 c 318 § 4]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5815-S.SL.pdf?cite=2017%20c%20228%20§%204[2017 c 228 § 4]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2151.SL.pdf?cite=2015%202nd%20sp.s.%20c%205%20§%203[2015 2nd sp.s. c 5 § 3]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6570-S.SL.pdf?cite=2014%20c%20143%20§%201[2014 c 143 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5913-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2017%20§%204[2013 2nd sp.s. c 17 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2956-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%2030%20§%204[2010 1st sp.s. c 30 § 4]; ]
 
-== 74.60.040 - Exemptions. (Expires July 1, 2023.)
+== 74.60.040 - Exemptions. (Expires July 1, 2025.)
 The following hospitals are exempt from any assessment under this chapter provided that if and to the extent any exemption is held invalid by a court of competent jurisdiction or by the centers for medicare and medicaid services, hospitals previously exempted shall be liable for assessments due after the date of final invalidation:
 
 . Hospitals owned or operated by an agency of federal or state government, including but not limited to western state hospital and eastern state hospital;
@@ -139,7 +139,7 @@ The following hospitals are exempt from any assessment under this chapter provid
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2956-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%2030%20§%205[2010 1st sp.s. c 30 § 5]; ]
 
-== 74.60.050 - Notices of assessment—Administration and collection. (Expires July 1, 2023.)
+== 74.60.050 - Notices of assessment—Administration and collection. (Expires July 1, 2025.)
 . The authority, in cooperation with the office of financial management, shall develop rules for determining the amount to be assessed to individual hospitals, notifying individual hospitals of the assessed amount, and collecting the amounts due. Such rule making shall specifically include provision for:
 
 .. Transmittal of notices of assessment by the authority to each hospital informing the hospital of its nonmedicare hospital inpatient days and the assessment amount due and payable;
@@ -187,17 +187,17 @@ The following hospitals are exempt from any assessment under this chapter provid
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5734-S.SL.pdf?cite=2019%20c%20318%20§%205[2019 c 318 § 5]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5815-S.SL.pdf?cite=2017%20c%20228%20§%205[2017 c 228 § 5]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2151.SL.pdf?cite=2015%202nd%20sp.s.%20c%205%20§%204[2015 2nd sp.s. c 5 § 4]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5913-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2017%20§%205[2013 2nd sp.s. c 17 § 5]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2956-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%2030%20§%206[2010 1st sp.s. c 30 § 6]; ]
 
-== 74.60.060 - Local assessments or taxes not authorized. (Expires July 1, 2023.)
+== 74.60.060 - Local assessments or taxes not authorized. (Expires July 1, 2025.)
 Nothing in this chapter shall be construed to authorize any unit of local government to impose a tax or assessment on hospitals, including but not limited to a tax or assessment measured by a hospital's income, earnings, bed days, or other similar measures.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2956-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%2030%20§%207[2010 1st sp.s. c 30 § 7]; ]
 
-== 74.60.070 - Assessment part of operating overhead. (Expires July 1, 2023.)
+== 74.60.070 - Assessment part of operating overhead. (Expires July 1, 2025.)
 The incidence and burden of assessments imposed under this chapter shall be on hospitals and the expense associated with the assessments shall constitute a part of the operating overhead of hospitals. Hospitals shall not increase charges or billings to patients or third-party payers as a result of the assessments under this chapter. The authority may require hospitals to submit certified statements by their chief financial officers or equivalent officials attesting that they have not increased charges or billings as a result of the assessments. 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5913-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2017%20§%206[2013 2nd sp.s. c 17 § 6]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2956-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%2030%20§%208[2010 1st sp.s. c 30 § 8]; ]
 
-== 74.60.080 - Disbursements from hospital safety net assessment fund. (Expires July 1, 2023.)
+== 74.60.080 - Disbursements from hospital safety net assessment fund. (Expires July 1, 2025.)
 In each fiscal year and upon satisfaction of the conditions in RCW 74.60.150(1), after deducting or reserving amounts authorized to be disbursed under RCW 74.60.020(4) (d), (e), and (f), disbursements from the fund must be made as follows:
 
 . For grants to certified public expenditure hospitals in accordance with RCW 74.60.090;
@@ -212,36 +212,36 @@ In each fiscal year and upon satisfaction of the conditions in RCW 74.60.150(1),
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5913-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2017%20§%207[2013 2nd sp.s. c 17 § 7]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2956-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%2030%20§%209[2010 1st sp.s. c 30 § 9]; ]
 
-== 74.60.090 - Grants to certified public expenditure hospitals. (Expires July 1, 2023.)
+== 74.60.090 - Grants to certified public expenditure hospitals. (Expires July 1, 2025.)
 . In each fiscal year commencing upon satisfaction of the applicable conditions in RCW 74.60.150(1), funds must be disbursed from the fund and the authority shall make grants to certified public expenditure hospitals, which shall not be considered payments for hospital services, as follows:
 
-.. University of Washington medical center: Ten million five hundred fifty-five thousand dollars in state fiscal year 2020 and up to twelve million fifty-five thousand dollars in state fiscal year 2021 through 2023 paid as follows, except if the full amount of the payments required under RCW 74.60.120(1) and 74.60.130 cannot be distributed in a given fiscal year, the amounts in this subsection must be reduced proportionately:
+.. University of Washington medical center: Up to twelve million fifty-five thousand dollars in state fiscal year 2022 through 2025 paid as follows, except if the full amount of the payments required under RCW 74.60.120(1) and 74.60.130 cannot be distributed in a given fiscal year, the amounts in this subsection must be reduced proportionately:
 
-... Four million four hundred fifty-five thousand dollars in state fiscal years 2020 through 2023, except that from state fiscal year 2021 through 2023, if northwest hospital is ineligible to participate in this chapter as a prospective payment hospital, the amount per state fiscal year must be five million nine hundred fifty-five thousand dollars;
+... Five million nine hundred fifty-five thousand dollars in state fiscal years 2022 through 2025;
 
 ... Two million dollars to integrated, evidence-based psychiatry residency program slots that did not receive state funding prior to 2016, at the integrated psychiatry residency program at the University of Washington; and
 
 ... Four million one hundred thousand dollars to family medicine residency program slots that did not receive state funding prior to 2016, as directed through the family medicine residency network at the University of Washington, for slots where residents are employed by hospitals;
 
-.. Harborview medical center: Ten million two hundred sixty thousand dollars in each state fiscal year 2020 through 2023, except if the full amount of the payments required under RCW 74.60.120(1) and 74.60.130 cannot be distributed in a given fiscal year, the amounts in this subsection must be reduced proportionately;
+.. Harborview medical center: Ten million two hundred sixty thousand dollars in each state fiscal year 2022 through 2025, except if the full amount of the payments required under RCW 74.60.120(1) and 74.60.130 cannot be distributed in a given fiscal year, the amounts in this subsection must be reduced proportionately;
 
-.. All other certified public expenditure hospitals: Five million six hundred fifteen thousand dollars in each state fiscal year 2020 through 2023, except if the full amount of the payments required under RCW 74.60.120(1) and 74.60.130 cannot be distributed in a given fiscal year, the amounts in this subsection must be reduced proportionately. The amount of payments to individual hospitals under this subsection must be determined using a methodology that provides each hospital with a proportional allocation of the group's total amount of medicaid and state children's health insurance program payments determined from claims and encounter data using the same general methodology set forth in RCW 74.60.120 (3) and (4).
+.. All other certified public expenditure hospitals: Five million six hundred fifteen thousand dollars in each state fiscal year 2022 through 2025, except if the full amount of the payments required under RCW 74.60.120(1) and 74.60.130 cannot be distributed in a given fiscal year, the amounts in this subsection must be reduced proportionately. The amount of payments to individual hospitals under this subsection must be determined using a methodology that provides each hospital with a proportional allocation of the group's total amount of medicaid and state children's health insurance program payments determined from claims and encounter data using the same general methodology set forth in RCW 74.60.120 (3) and (4).
 
 . Payments must be made quarterly, before the end of each quarter, taking the total disbursement amount and dividing by four to calculate the quarterly amount. The authority shall provide a quarterly report of such payments to the Washington state hospital association.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5734-S.SL.pdf?cite=2019%20c%20318%20§%206[2019 c 318 § 6]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5815-S.SL.pdf?cite=2017%20c%20228%20§%206[2017 c 228 § 6]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2151.SL.pdf?cite=2015%202nd%20sp.s.%20c%205%20§%205[2015 2nd sp.s. c 5 § 5]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5913-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2017%20§%208[2013 2nd sp.s. c 17 § 8]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2069.SL.pdf?cite=2011%201st%20sp.s.%20c%2035%20§%202[2011 1st sp.s. c 35 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2956-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%2030%20§%2010[2010 1st sp.s. c 30 § 10]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1316.SL.pdf?cite=2021%20c%20255%20§%203[2021 c 255 § 3]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5734-S.SL.pdf?cite=2019%20c%20318%20§%206[2019 c 318 § 6]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5815-S.SL.pdf?cite=2017%20c%20228%20§%206[2017 c 228 § 6]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2151.SL.pdf?cite=2015%202nd%20sp.s.%20c%205%20§%205[2015 2nd sp.s. c 5 § 5]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5913-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2017%20§%208[2013 2nd sp.s. c 17 § 8]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2069.SL.pdf?cite=2011%201st%20sp.s.%20c%2035%20§%202[2011 1st sp.s. c 35 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2956-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%2030%20§%2010[2010 1st sp.s. c 30 § 10]; ]
 
-== 74.60.100 - Critical access hospital payments. (Expires July 1, 2023.)
+== 74.60.100 - Critical access hospital payments. (Expires July 1, 2025.)
 In each fiscal year commencing upon satisfaction of the conditions in RCW 74.60.150(1), the authority shall make access payments to critical access hospitals that do not qualify for or receive a small rural disproportionate share hospital payment in a given fiscal year in the total amount of two million thirty-eight thousand dollars from the fund. The amount of payments to individual hospitals under this section must be determined using a methodology that provides each hospital with a proportional allocation of the group's total amount of medicaid and state children's health insurance program payments determined from claims and encounter data using the same general methodology set forth in RCW 74.60.120 (3) and (4). Payments must be made after the authority determines a hospital's payments under RCW 74.60.110. These payments shall be in addition to any other amount payable with respect to services provided by critical access hospitals and shall not reduce any other payments to critical access hospitals. The authority shall provide a report of such payments to the Washington state hospital association within thirty days after payments are made.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5815-S.SL.pdf?cite=2017%20c%20228%20§%207[2017 c 228 § 7]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2151.SL.pdf?cite=2015%202nd%20sp.s.%20c%205%20§%206[2015 2nd sp.s. c 5 § 6]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5913-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2017%20§%209[2013 2nd sp.s. c 17 § 9]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2956-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%2030%20§%2011[2010 1st sp.s. c 30 § 11]; ]
 
-== 74.60.110 - Small rural disproportionate share hospital payments. (Expires July 1, 2023.)
+== 74.60.110 - Small rural disproportionate share hospital payments. (Expires July 1, 2025.)
 In each fiscal year commencing upon satisfaction of the applicable conditions in RCW 74.60.150(1), one million nine hundred nine thousand dollars must be distributed from the fund and, with available federal matching funds, paid to hospitals eligible for small rural disproportionate share payments under WAC 182-550-4900 or successor rule. Payments must be made directly to hospitals by the authority in accordance with that regulation. The authority shall provide a report of such payments to the Washington state hospital association within thirty days after payments are made.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5913-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2017%20§%2010[2013 2nd sp.s. c 17 § 10]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2956-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%2030%20§%2012[2010 1st sp.s. c 30 § 12]; ]
 
-== 74.60.120 - Direct supplemental payments to hospitals. (Expires July 1, 2023.)
+== 74.60.120 - Direct supplemental payments to hospitals. (Expires July 1, 2025.)
 . In each state fiscal year, commencing upon satisfaction of the applicable conditions in RCW 74.60.150(1), the authority shall make supplemental payments directly to Washington hospitals, separately for inpatient and outpatient fee-for-service medicaid services, as follows unless there are federal restrictions on doing so. If there are federal restrictions, to the extent allowed, funds that cannot be paid under (a) of this subsection, should be paid under (b) of this subsection, and funds that cannot be paid under (b) of this subsection, shall be paid under (a) of this subsection:
 
 .. For inpatient fee-for-service payments for prospective payment hospitals other than psychiatric or rehabilitation hospitals, twenty-nine million eight hundred ninety-two thousand five hundred dollars per state fiscal year plus federal matching funds;
@@ -284,7 +284,7 @@ In each fiscal year commencing upon satisfaction of the applicable conditions in
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5734-S.SL.pdf?cite=2019%20c%20318%20§%207[2019 c 318 § 7]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5815-S.SL.pdf?cite=2017%20c%20228%20§%208[2017 c 228 § 8]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2151.SL.pdf?cite=2015%202nd%20sp.s.%20c%205%20§%207[2015 2nd sp.s. c 5 § 7]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6570-S.SL.pdf?cite=2014%20c%20143%20§%202[2014 c 143 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5913-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2017%20§%2011[2013 2nd sp.s. c 17 § 11]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2956-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%2030%20§%2013[2010 1st sp.s. c 30 § 13]; ]
 
-== 74.60.130 - Managed care capitation payments. (Expires July 1, 2023.)
+== 74.60.130 - Managed care capitation payments. (Expires July 1, 2025.)
 . For state fiscal year 2016 and for each subsequent fiscal year, commencing within thirty days after satisfaction of the conditions in RCW 74.60.150(1) and subsection (5) of this section, the authority shall increase capitation payments in a manner consistent with federal contracting requirements to managed care organizations by an amount at least equal to the amount available from the fund after deducting disbursements authorized by RCW 74.60.020(4) (c) through (f) and payments required by RCW 74.60.080 through 74.60.120. When combined with applicable federal matching funds, the capitation payment under this subsection must be at least three hundred sixty million dollars per year. The initial payment following satisfaction of the conditions in RCW 74.60.150(1) must include all amounts due from July 1, 2015, to the end of the calendar month during which the conditions in RCW 74.60.150(1) are satisfied. Subsequent payments shall be made monthly.
 
 . Payments to individual managed care organizations shall be determined by the authority based on each organization's or network's enrollment relative to the anticipated total enrollment in each program for the fiscal year in question, the anticipated utilization of hospital services by an organization's or network's medicaid enrollees, and such other factors as are reasonable and appropriate to ensure that purposes of this chapter are met.
@@ -309,7 +309,7 @@ In each fiscal year commencing upon satisfaction of the applicable conditions in
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5815-S.SL.pdf?cite=2017%20c%20228%20§%209[2017 c 228 § 9]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2151.SL.pdf?cite=2015%202nd%20sp.s.%20c%205%20§%208[2015 2nd sp.s. c 5 § 8]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6570-S.SL.pdf?cite=2014%20c%20143%20§%203[2014 c 143 § 3]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5913-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2017%20§%2012[2013 2nd sp.s. c 17 § 12]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2956-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%2030%20§%2014[2010 1st sp.s. c 30 § 14]; ]
 
-== 74.60.140 - Multihospital locations, new hospitals, and changes in ownership. (Expires July 1, 2023.)
+== 74.60.140 - Multihospital locations, new hospitals, and changes in ownership. (Expires July 1, 2025.)
 . If an entity owns or operates more than one hospital subject to assessment under this chapter, the entity shall pay the assessment for each hospital separately. However, if the entity operates multiple hospitals under a single medicaid provider number, it may pay the assessment for the hospitals in the aggregate.
 
 . Notwithstanding any other provision of this chapter, if a hospital subject to the assessment imposed under this chapter ceases to conduct hospital operations throughout a state fiscal year, the assessment for the quarter in which the cessation occurs shall be adjusted by multiplying the assessment computed under RCW 74.60.030 by a fraction, the numerator of which is the number of days during the year which the hospital conducts, operates, or maintains the hospital and the denominator of which is three hundred sixty-five. Immediately prior to ceasing to conduct, operate, or maintain a hospital, the hospital shall pay the adjusted assessment for the fiscal year to the extent not previously paid.
@@ -318,7 +318,7 @@ In each fiscal year commencing upon satisfaction of the applicable conditions in
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5913-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2017%20§%2014[2013 2nd sp.s. c 17 § 14]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2956-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%2030%20§%2016[2010 1st sp.s. c 30 § 16]; ]
 
-== 74.60.150 - Conditions. (Expires July 1, 2023.)
+== 74.60.150 - Conditions. (Expires July 1, 2025.)
 . The assessment, collection, and disbursement of funds under this chapter shall be conditional upon:
 
 .. Final approval by the centers for medicare and medicaid services of any state plan amendments or waiver requests that are necessary in order to implement the applicable sections of this chapter including, if necessary, waiver of the broad-based or uniformity requirements as specified under section 1903(w)(3)(E) of the federal social security act and 42 C.F.R. 433.68(e);
@@ -341,7 +341,7 @@ In each fiscal year commencing upon satisfaction of the applicable conditions in
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5815-S.SL.pdf?cite=2017%20c%20228%20§%2010[2017 c 228 § 10]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2151.SL.pdf?cite=2015%202nd%20sp.s.%20c%205%20§%209[2015 2nd sp.s. c 5 § 9]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5913-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2017%20§%2015[2013 2nd sp.s. c 17 § 15]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2956-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%2030%20§%2017[2010 1st sp.s. c 30 § 17]; ]
 
-== 74.60.160 - Contracting with health care authority. (Expires July 1, 2023.)
+== 74.60.160 - Contracting with health care authority. (Expires July 1, 2025.)
 . The legislature intends to provide the hospitals with an opportunity to contract with the authority each fiscal biennium to protect the hospitals from future legislative action during the biennium that could result in hospitals receiving less from supplemental payments, increased managed care payments, disproportionate share hospital payments, or access payments than the hospitals expected to receive in return for the assessment based on the biennial appropriations and assessment legislation.
 
 . Each odd-numbered year after enactment of the biennial omnibus operating appropriations act, the authority shall extend the existing contract for the period of the fiscal biennium beginning July 1st with a hospital that is required to pay the assessment under this chapter or shall offer to enter into a contract with any hospital subject to this chapter that has not previously been a party to a contract or whose contract has expired. The contract must include the following terms:
@@ -372,14 +372,14 @@ In each fiscal year commencing upon satisfaction of the applicable conditions in
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5815-S.SL.pdf?cite=2017%20c%20228%20§%2011[2017 c 228 § 11]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2151.SL.pdf?cite=2015%202nd%20sp.s.%20c%205%20§%2010[2015 2nd sp.s. c 5 § 10]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5913-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2017%20§%2017[2013 2nd sp.s. c 17 § 17]; ]
 
-== 74.60.170 - Estimated hospital net financial benefit determined by the authority—Formula—Modification. (Expires July 1, 2023.)
+== 74.60.170 - Estimated hospital net financial benefit determined by the authority—Formula—Modification. (Expires July 1, 2025.)
 . The estimated hospital net financial benefit under this chapter shall be determined by the authority by summing the following anticipated hospital payments, including all applicable federal matching funds, specified in RCW 74.60.090 for grants to certified public expenditure hospitals, RCW 74.60.100 for payments to critical access hospitals, RCW 74.60.110 for payments to small rural disproportionate share hospitals, RCW 74.60.120 for direct supplemental payments to hospitals, RCW 74.60.130 for managed care capitation payments, RCW 74.60.020(4)(f) for quality improvement incentives, minus the total assessments paid by all hospitals under RCW 74.60.030 for hospital assessments, and minus any taxes paid on RCW 74.60.130 for managed care payments.
 
 . If, for any reason including reduction or elimination of federal matching funds, the estimated hospital net financial benefit falls below one hundred thirty million dollars in any state fiscal year, the office of financial management shall direct the authority to modify the assessment rates provided for in RCW 74.60.030, and the office of financial management is authorized to direct the authority to adjust the amounts disbursed from the fund, including disbursements for payments under RCW 74.60.020(4)(f) and payments to hospitals under RCW 74.60.090 through 74.60.130 and 74.60.020(4)(g), such that the estimated hospital net financial benefit is equal to the amount disbursed from the fund for use in lieu of state general fund payments. Each category of adjusted payments to hospitals under RCW 74.60.090 through 74.60.130 and payments under RCW 74.60.020(4)(g) must bear the same relationship to the total of such adjusted payments as originally provided in this chapter.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5815-S.SL.pdf?cite=2017%20c%20228%20§%2014[2017 c 228 § 14]; ]
 
-== 74.60.900 - Severability—2010 1st sp.s. c 30. (Expires July 1, 2023.)
+== 74.60.900 - Severability—2010 1st sp.s. c 30. (Expires July 1, 2025.)
 . The provisions of this chapter are not severable: If the conditions in RCW 74.60.150(1) are not satisfied or if any of the circumstances in RCW 74.60.150(2) should occur, this entire chapter shall have no effect from that point forward.
 
 . In the event that any portion of this chapter shall have been validly implemented and the entire chapter is later rendered ineffective under this section, prior assessments and payments under the validly implemented portions shall not be affected.
@@ -387,9 +387,9 @@ In each fiscal year commencing upon satisfaction of the applicable conditions in
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5913-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2017%20§%2016[2013 2nd sp.s. c 17 § 16]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2956-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%2030%20§%2018[2010 1st sp.s. c 30 § 18]; ]
 
 == 74.60.901 - Expiration date—2010 1st sp.s. c 30.
-This chapter expires July 1, 2023.
+This chapter expires July 1, 2025.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5734-S.SL.pdf?cite=2019%20c%20318%20§%208[2019 c 318 § 8]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5815-S.SL.pdf?cite=2017%20c%20228%20§%2012[2017 c 228 § 12]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2151.SL.pdf?cite=2015%202nd%20sp.s.%20c%205%20§%2011[2015 2nd sp.s. c 5 § 11]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5913-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2017%20§%2019[2013 2nd sp.s. c 17 § 19]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2956-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%2030%20§%2021[2010 1st sp.s. c 30 § 21]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1316.SL.pdf?cite=2021%20c%20255%20§%204[2021 c 255 § 4]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5734-S.SL.pdf?cite=2019%20c%20318%20§%208[2019 c 318 § 8]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5815-S.SL.pdf?cite=2017%20c%20228%20§%2012[2017 c 228 § 12]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2151.SL.pdf?cite=2015%202nd%20sp.s.%20c%205%20§%2011[2015 2nd sp.s. c 5 § 11]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5913-S.SL.pdf?cite=2013%202nd%20sp.s.%20c%2017%20§%2019[2013 2nd sp.s. c 17 § 19]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2956-S2.SL.pdf?cite=2010%201st%20sp.s.%20c%2030%20§%2021[2010 1st sp.s. c 30 § 21]; ]
 
 == 74.60.902 - Expiration of chapter—2010 1st sp.s. c 30.
 Upon expiration of chapter 74.60 RCW, inpatient and outpatient hospital reimbursement rates shall return to a funding level as if the four percent medicaid inpatient and outpatient rate reductions did not occur on July 1, 2009, using the rate structure in effect July 1, 2015, or as otherwise specified in the 2019-2021 biennial operating appropriations act.

@@ -1,0 +1,18 @@
+= 53.58 - Cargo handling equipment.
+:toc:
+
+== 53.58.010 - Purchase of zero and near zero emissions cargo handling equipment. (Expires December 31, 2031.)
+. Moneys available to a port district or a port development authority may be used to purchase zero and near zero emissions cargo handling equipment and infrastructure supporting that equipment for the use of the port district, port development authority, or tenants or lessees thereof.
+
+. Moneys available to a port district or a port development authority shall not be used to purchase fully automated marine container cargo handling equipment.
+
+. For the purposes of this section:
+
+.. "Fully automated marine container cargo handling equipment" means equipment that is remotely operated or remotely monitored, with or without the exercise of human intervention or control.
+
+.. "Port development authority" means a port public development authority created by a single port district or jointly created by two port districts in accordance with RCW 53.57.020.
+
+. This section expires December 31, 2031.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5026.SL.pdf?cite=2021%20c%2088%20§%201[2021 c 88 § 1]; ]
+

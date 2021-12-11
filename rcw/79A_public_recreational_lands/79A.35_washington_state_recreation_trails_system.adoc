@@ -119,7 +119,7 @@ The department of transportation shall consider plans for trails along and acros
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1813.SL.pdf?cite=2007%20c%20241%20§%2071[2007 c 241 § 71]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c7.pdf?cite=1984%20c%207%20§%20368[1984 c 7 § 368]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c47.pdf?cite=1971%20ex.s.%20c%2047%20§%205[1971 ex.s. c 47 § 5]; ]
 
-== 79A.35.130 - Participants in conservation corps programs—Exempt from provisions related to rates of compensation.
+== 79A.35.130 - Participants in conservation corps programs—Exempt from provisions related to rates of compensation. (Effective until January 1, 2022.)
 Participants in conservation corps programs offered by a nonprofit organization affiliated with a national service organization established under the authority of the national and community service trust act of 1993, P.L. 103-82, are exempt from provisions related to rates of compensation while performing environmental and trail maintenance work provided:
 
 . The nonprofit organization must be registered as a nonprofit corporation pursuant to chapter 24.03 RCW;
@@ -133,6 +133,15 @@ Participants in conservation corps programs offered by a nonprofit organization 
 Participants are exempt from provisions related to rates of compensation only for environmental and trail maintenance work conducted pursuant to the conservation corps program.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5538-S.SL.pdf?cite=2011%20c%2056%20§%201[2011 c 56 § 1]; ]
+
+== 79A.35.140 - Electric-assisted bicycles—Use—Public process—Report—Persons who possess current parking placard for persons with disabilities.
+. The department of natural resources and the department of fish and wildlife shall each undergo a public process to collect information related to electric-assisted bicycle use on nonmotorized natural surface trails and closed roads open to bicycles to determine where such use may occur, and which classes of electric-assisted bicycles are acceptable on such trails and roads under the agencies' management. The public processes must also include a consideration of opportunities to improve awareness of applicable trail rules and trail etiquette among all classes of trail users.
+
+. The public processes shall include, but not be limited to, input from tribes, individuals with disabilities, representatives of natural resource conservation organizations, and representatives of outdoor recreation interests representing horseback riding, traditional and electric-assisted mountain biking, hiking, and hunting. The department of natural resources and the department of fish and wildlife must report their findings to the appropriate committees of the legislature by September 30, 2022.
+
+. Until June 30, 2023, or until legislation is enacted or rules are adopted related to the use of electric-assisted bicycles on nonmotorized natural surface trails and closed roads on lands managed by the department of natural resources and by the department of fish and wildlife, whichever is earlier, the department of natural resources and the department of fish and wildlife must allow persons who possess a current parking placard for persons with disabilities, issued by the department of transportation pursuant to RCW 46.19.030, to use class 1 and class 2 electric-assisted bicycles, as defined in RCW 46.04.169, on all nonmotorized natural surface trails and closed roads on which bicycles are allowed.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5452-S.SL.pdf?cite=2021%20c%20191%20§%201[2021 c 191 § 1]; ]
 
 == 79A.35.900 - Short title.
 This chapter may be cited as the Washington State Recreation Trails System Act.

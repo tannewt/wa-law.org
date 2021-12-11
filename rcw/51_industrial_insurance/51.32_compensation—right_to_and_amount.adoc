@@ -1075,10 +1075,10 @@ If it is determined that an injured worker had, at the time of his or her injury
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c350.pdf?cite=1977%20ex.s.%20c%20350%20§%2049[1977 ex.s. c 350 § 49]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c289.pdf?cite=1971%20ex.s.%20c%20289%20§%2044[1971 ex.s. c 289 § 44]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c23.pdf?cite=1961%20c%2023%20§%2051.32.100[1961 c 23 § 51.32.100]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1957c70.pdf?cite=1957%20c%2070%20§%2034[1957 c 70 § 34]; prior: 1949 c 219 § 1, part; 1947 c 246 § 1, part; 1929 c 132 § 2, part; 1927 c 310 § 4, part; 1923 c 136 § 2, part; 1919 c 131 § 4, part; 1917 c 28 § 1, part; 1913 c 148 § 1, part; 1911 c 74 § 5, part; Rem. Supp. 1949 § 7679, part; ]
 
-== 51.32.110 - Medical examination—Refusal to submit—Traveling expenses—Pay for time lost. (Effective until January 1, 2021.)
-. Any worker entitled to receive any benefits or claiming such under this title shall, if requested by the department or self-insurer, submit himself or herself for medical examination, at a time and from time to time, at a place reasonably convenient for the worker and as may be provided by the rules of the department. An injured worker, whether an alien or other injured worker, who is not residing in the United States at the time that a medical examination is requested may be required to submit to an examination at any location in the United States determined by the department or self-insurer.
+== 51.32.110 - Medical examination—Refusal to submit—Traveling expenses—Pay for time lost.
+. As required under RCW 51.36.070, any worker entitled to receive any benefits or claiming such under this title shall, if requested by the department or self-insurer, submit himself or herself for medical examination, at a place reasonably convenient for the worker. An injured worker, whether an alien or other injured worker, who is not residing in the United States at the time that a medical examination is requested may be required to submit to an examination at any location in the United States determined by the department or self-insurer.
 
-. If the worker refuses to submit to medical examination, or obstructs the same, or, if any injured worker shall persist in unsanitary or injurious practices which tend to imperil or retard his or her recovery, or shall refuse to submit to such medical or surgical treatment as is reasonably essential to his or her recovery or refuse or obstruct evaluation or examination for the purpose of vocational rehabilitation or does not cooperate in reasonable efforts at such rehabilitation, the department or the self-insurer upon approval by the department, with notice to the worker may suspend any further action on any claim of such worker so long as such refusal, obstruction, noncooperation, or practice continues and reduce, suspend, or deny any compensation for such period: PROVIDED, That the department or the self-insurer shall not suspend any further action on any claim of a worker or reduce, suspend, or deny any compensation if a worker has good cause for refusing to submit to or to obstruct any examination, evaluation, treatment or practice requested by the department or required under this section.
+. If the worker refuses to submit to medical examination, or obstructs the same, or, if any injured worker shall persist in unsanitary or injurious practices which tend to imperil or retard his or her recovery, or shall refuse to submit to such medical or surgical treatment as is reasonably essential to his or her recovery or refuse or obstruct evaluation or examination for the purpose of vocational rehabilitation or does not cooperate in reasonable efforts at such rehabilitation, the department or the self-insurer upon approval by the department, with notice to the worker may suspend any further action on any claim of such worker so long as such refusal, obstruction, noncooperation, or practice continues and reduce, suspend, or deny any compensation for such period: PROVIDED, That (a) the department or the self-insurer shall not suspend any further action on any claim of a worker or reduce, suspend, or deny any compensation if a worker has good cause for refusing to submit to or to obstruct any examination, evaluation, treatment or practice requested by the department or required under this section and (b) the department may not assess a no-show fee against the worker if the worker gives at least five business days' notice of the worker's intent not to attend the examination.
 
 . If the worker necessarily incurs traveling expenses in attending the examination pursuant to the request of the department, such traveling expenses shall be repaid to him or her out of the accident fund upon proper voucher and audit or shall be repaid by the self-insurer, as the case may be.
 
@@ -1091,7 +1091,7 @@ If it is determined that an injured worker had, at the time of his or her injury
 
 .. This subsection (4) shall apply prospectively to all claims regardless of the date of injury.
 
-[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5571.SL.pdf?cite=1997%20c%20325%20§%203[1997 c 325 § 3]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1244.SL.pdf?cite=1993%20c%20375%20§%201[1993 c 375 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c14.pdf?cite=1980%20c%2014%20§%2011[1980 c 14 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c350.pdf?cite=1977%20ex.s.%20c%20350%20§%2050[1977 ex.s. c 350 § 50]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c323.pdf?cite=1977%20ex.s.%20c%20323%20§%2017[1977 ex.s. c 323 § 17]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c289.pdf?cite=1971%20ex.s.%20c%20289%20§%2013[1971 ex.s. c 289 § 13]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c23.pdf?cite=1961%20c%2023%20§%2051.32.110[1961 c 23 § 51.32.110]; prior:  1917 c 28 § 18; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1915c188.pdf?cite=1915%20c%20188%20§%205[1915 c 188 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1911c74.pdf?cite=1911%20c%2074%20§%2013[1911 c 74 § 13]; RRS § 7688; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6440-S.SL.pdf?cite=2020%20c%20213%20§%202[2020 c 213 § 2]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/5571.SL.pdf?cite=1997%20c%20325%20§%203[1997 c 325 § 3]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1244.SL.pdf?cite=1993%20c%20375%20§%201[1993 c 375 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c14.pdf?cite=1980%20c%2014%20§%2011[1980 c 14 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c350.pdf?cite=1977%20ex.s.%20c%20350%20§%2050[1977 ex.s. c 350 § 50]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c323.pdf?cite=1977%20ex.s.%20c%20323%20§%2017[1977 ex.s. c 323 § 17]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c289.pdf?cite=1971%20ex.s.%20c%20289%20§%2013[1971 ex.s. c 289 § 13]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c23.pdf?cite=1961%20c%2023%20§%2051.32.110[1961 c 23 § 51.32.110]; prior:  1917 c 28 § 18; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1915c188.pdf?cite=1915%20c%20188%20§%205[1915 c 188 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1911c74.pdf?cite=1911%20c%2074%20§%2013[1911 c 74 § 13]; RRS § 7688; ]
 
 == 51.32.112 - Medical examination—Standards and criteria—Special examinations by chiropractors—Compensation guidelines and reporting criteria.
 . The department shall develop standards for the conduct of special medical examinations to determine permanent disabilities, including, but not limited to:
@@ -1162,6 +1162,94 @@ If a beneficiary shall reside or move out of the state, the department may, with
 Every worker who suffers disability from an occupational disease in the course of employment under the mandatory or elective adoption provisions of this title, or his or her family and dependents in case of death of the worker from such disease or infection, shall receive the same compensation benefits and medical, surgical and hospital care and treatment as would be paid and provided for a worker injured or killed in employment under this title, except as follows: (a) [(1)] This section and RCW 51.16.040 shall not apply where the last exposure to the hazards of the disease or infection occurred prior to January 1, 1937; and (b) [(2)] for claims filed on or after July 1, 1988, the rate of compensation for occupational diseases shall be established as of the date the disease requires medical treatment or becomes totally or partially disabling, whichever occurs first, and without regard to the date of the contraction of the disease or the date of filing the claim.
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c161.pdf?cite=1988%20c%20161%20§%205[1988 c 161 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c350.pdf?cite=1977%20ex.s.%20c%20350%20§%2053[1977 ex.s. c 350 § 53]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c289.pdf?cite=1971%20ex.s.%20c%20289%20§%2049[1971 ex.s. c 289 § 49]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c23.pdf?cite=1961%20c%2023%20§%2051.32.180[1961 c 23 § 51.32.180]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c308.pdf?cite=1959%20c%20308%20§%2019[1959 c 308 § 19]; prior: 1941 c 235 § 1, part; 1939 c 135 § 1, part; 1937 c 212 § 1, part; Rem. Supp. 1941 § 7679-1, part; ]
+
+== 51.32.181 - Occupational diseases—Public health emergencies—Infectious or contagious diseases.
+. For frontline employees who are covered under this title, there exists a prima facie presumption that any infectious or contagious diseases that are transmitted through respiratory droplets or aerosols, or through contact with contaminated surfaces and are the subject of a public health emergency are occupational diseases under RCW 51.08.140 during a public health emergency.
+
+. The frontline employee must provide verification, as required by the department by rule, to the department and the self-insured employer that the employee has contracted the infectious or contagious disease that is the subject of the public health emergency.
+
+. This presumption of occupational disease may be rebutted by a preponderance of the evidence that:
+
+.. The exposure to the infectious or contagious disease which is the subject of the public health emergency occurred from other employment or nonemployment activities; or
+
+.. The employee was working from the employee's home, on leave from the employee's employment, or some combination thereof, for the period of quarantine consistent with recommended guidance from state and federal health officials for the disease immediately prior to the employee's injury, occupational disease, or period of incapacity that resulted from exposure to the disease which is the subject of the public health emergency.
+
+. [Empty]
+.. RCW 51.32.090(7) does not apply to an occupational disease under this section except that no worker shall receive compensation for or during the day on which the occupational disease was contracted. For the purposes of this subsection (4), the day on which the occupational disease was contracted is whichever date occurs first of the following:
+
+... The date that the worker first missed work due to symptoms of the infectious or contagious disease;
+
+... The date the worker was quarantined by a medical provider or public health official; or
+
+... The date the worker received a positive test result confirming contraction of the infectious or contagious disease.
+
+.. If leave or similar benefits are paid to the frontline employee as part of a federal or state program for these employees during the public health emergency, temporary total disability benefits are not payable for the same period of time covered by the federal or state program.
+
+. When calculating assessments due to the department for which total claim costs are the basis, self-insured employers and self-insurance hospital groups formed under RCW 51.14.150 and 51.14.160 may deduct the cost of payments made under this section from the total of all claim costs reported.
+
+. Costs of the payments under this section shall not affect the experience rating of employers insured by the state fund.
+
+. As used in this section:
+
+.. "Assisted living facility" has the same meaning as in RCW 18.20.020.
+
+.. "Farm work" means work performed on a farm, in the employ of any person, in connection with the cultivation of the soil, or in connection with raising or harvesting any agricultural or horticultural commodity, including raising, shearing, feeding, caring for, training, and management of livestock, bees, poultry, and furbearing animals and wildlife, or in the employ of the owner or tenant or other operator of a farm in connection with the operation, management, conservation, improvement, or maintenance of such farm and its tools and equipment. For the purposes of this subsection, "farm work" includes floriculture.
+
+.. "Food distribution work" means work where the primary duties include transporting food from food producers or manufacturers to food warehouses or food service operators and retailers.
+
+.. "Food manufacturing work" means work performed for an employer whose North American industry classification code is within "311."
+
+.. "Food processing work" means work handling or processing of any food in any manner of preparation for sale for an employer required to be licensed by the department of agriculture under chapter 69.07 RCW.
+
+.. "Frontline employee" includes the following employees:
+
+... First responders, including law enforcement officers, firefighters, emergency medical service providers, paramedics, and ambulance drivers. "Firefighters" includes wildland firefighters when performing wildfire suppression or other emergency duties under the incident command system if the firefighter has in-person interaction with the general public or other firefighters as part of their job duties;
+
+... Employees performing food processing, food manufacturing, food distribution, farm, and meat packing work;
+
+... Maintenance, janitorial, and food service workers at any facility treating patients diagnosed with the infectious or contagious disease that is the subject of the public health emergency;
+
+... Drivers and operators employed by a transit agency or any other public entity authorized under state law to provide mass transportation services to the general public;
+
+.. Employees working at a child care facility licensed by the department of children, youth, and families under chapter 43.216 RCW, if the employee has in-person interaction with children or other members of the general public as part of their job duties;
+
+.. Employees employed by a retail store that remains open to the general public during the public health emergency, if the employee has in-person interaction with the general public as part of their job duties or has in-person interaction with other employees. For the purposes of this subsection, "retail store" means a business whose North American industry classification code is within "44-45";
+
+.. Employees employed by a hotel, motel, or other transient accommodation licensed under chapter 70.62 RCW that remains open to the general public during the public health emergency, if the employee has in-person interaction with the general public as part of their job duties or has in-person interaction with other employees;
+
+.. Employees employed by a restaurant, if the employee has in-person interaction with the general public as part of their job duties or works in the kitchen of the restaurant and has in-person interaction with other employees. For the purposes of this subsection, "restaurant" has the same meaning as in RCW 66.04.010;
+
+... Home care aides certified under chapter 18.88B RCW and home health aides that provide services under chapter 70.126 RCW that primarily work in the home of the individual receiving care;
+
+..(A) Corrections officers and correctional support employees working at a correctional institution.
+
+(B) For the purposes of this subsection (7)(f)(x):
+
+(I) "Correctional institution" has the same meaning as in RCW 9.94.049.
+
+(II) "Corrections officer" means any corrections agency employee whose primary job function is to provide custody, safety, and security of prisoners in jails and detention facilities.
+
+(III) "Correctional support employee" means any employee who provides food services or janitorial services in a correctional institution;
+
+.. Educational employees, including classroom teachers, paraeducators, principals, librarians, school bus drivers, and other educational support staff, of any school district, or a contractor of a school district, that are required to be physically present at a school or on the grounds of a school where classes are being taught in person, in a transportation vehicle necessary for school operations, or in the home of a student as part of their job duties, if the employee has in-person interaction with students, a student's family members, or other employees as part of their job duties;
+
+.. Employees of institutions of higher education that are required to be physically present on campus when classes are being taught in person, if the employee has in-person interaction with students or the general public as part of their job duties. For the purposes of this subsection, "institution of higher education" has the same meaning as in RCW 28B.10.016;
+
+.. Employees employed by a public library that remains open to the general public during the public health emergency, if the employee has in-person interaction with the general public as part of their job duties or has in-person interaction with other employees. For the purposes of this subsection, "public library" means a library covered by chapter 27.12 RCW.
+
+.. "Meat packing work" means work slaughtering animals and processing and packaging meat products for sale and the rendering of animal by-products.
+
+.. "Nursing home" means a nursing home licensed under chapter 18.51 RCW.
+
+.. "Public health emergency" means a declaration or order concerning any infectious or contagious diseases, including a pandemic and is issued as follows:
+
+... The president of the United States has declared a national or regional emergency that covers every county in the state of Washington; or
+
+... The governor of Washington has declared a state of emergency under RCW 43.06.010(12) in every county in the state.
+
+.. "School" has the same meaning as in RCW 28A.210.070.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5115-S.SL.pdf?cite=2021%20c%20252%20§%201[2021 c 252 § 1]; ]
 
 == 51.32.185 - Occupational diseases—Presumption of occupational disease for firefighters and fire investigators—Limitations—Exception—Rules—Advisory committee on occupational disease presumptions.
 . [Empty]
@@ -1497,4 +1585,46 @@ The department shall work with the department of health to establish one or more
 If the department of labor and industries has received notice that an injured worker entitled to benefits payable under this chapter is in the custody of the department of corrections pursuant to a conviction and sentence, the department shall send all such benefits to the worker in care of the department of corrections, except those benefits payable to a beneficiary as provided in RCW 51.32.040 (3)(c) and (4). Failure of the department to send such benefits to the department of corrections shall not result in liability to any party for either department.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5990-S.SL.pdf?cite=2003%20c%20379%20§%2026[2003 c 379 § 26]; ]
+
+== 51.32.390 - Health care employees—Presumption of occupational disease for infectious or contagious diseases which are the subject of a public health emergency—Rebuttal—Limitations—Costs.
+. For health care employees who are covered under this title, there exists a prima facie presumption that any infectious or contagious diseases which are the subject of a public health emergency are occupational diseases under RCW 51.08.140 during a public health emergency.
+
+. The health care employee must provide verification, as required by the department by rule, to the department or the self-insurer that the employee is in quarantine or has contracted the disease after exposure to the infectious or contagious disease that is the subject of the public health emergency.
+
+. This presumption of occupational disease may be rebutted by clear and convincing evidence that:
+
+.. The exposure to the infectious or contagious disease which is the subject of the public health emergency occurred from other employment or nonemployment activities; or
+
+.. The employee was working from the employee's home or other location not under the employer's control, on leave from the employee's employment, or some combination thereof, for the period of quarantine outlined for the disease immediately prior to the employee's date of disease contraction or period of incapacity resulting from exposure to the disease which is the subject of the public health emergency.
+
+. [Empty]
+.. RCW 51.32.090(7) does not apply to an occupational disease under this section except that no worker shall receive compensation for or during the day on which the occupational disease was contracted. For the purposes of this subsection (4), the day on which the occupational disease was contracted is whichever date occurs first of the following:
+
+... The date that the worker first missed work due to symptoms of the infectious or contagious disease;
+
+... The date the worker was quarantined by a medical provider or public health official; or
+
+... The date the worker received a positive test result confirming contraction of the infectious or contagious disease.
+
+.. If leave or similar benefits are paid to the worker as part of a federal or state program for these employees during the public health emergency, total temporary disability benefits are not payable for the same period of time covered by this federal or state program.
+
+. Costs of claims allowed under this section shall not affect the experience rating of employers insured by the state fund. When calculating assessments due to the department for which total claim costs are the basis, self-insured employers and self-insurance hospital groups formed under RCW 51.14.150 and 51.14.160 may deduct the cost of payments made under this section from the total of all claim costs reported.
+
+. For purposes of this section:
+
+.. "Health care employee" means an employee of any health care facility or other organization that provides emergency or medical services who has or likely has had direct contact with any person who has been exposed to or tested positive for any infectious or contagious diseases which are the subject of a public health emergency.
+
+.. "Health care facility" has the same meaning as in RCW 9A.50.010.
+
+.. "Public health emergency" means a declaration or order that covers the jurisdiction where the employee was working on the date of exposure concerning any dangerous, contagious, or infectious diseases, including a pandemic, and is issued as follows:
+
+... The president of the United States has declared a national or regional emergency; or
+
+... The governor of Washington declared a state of emergency under RCW 43.06.010(12).
+
+. The presumption in subsection (1) of this section takes effect on the day the national, regional, or state emergency is declared and continues until this declaration is revoked.
+
+. The provisions of RCW 51.28.055 concerning time limits for filing claims for occupational disease apply to claims covered under this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5190-S.SL.pdf?cite=2021%20c%20251%20§%206[2021 c 251 § 6]; ]
 

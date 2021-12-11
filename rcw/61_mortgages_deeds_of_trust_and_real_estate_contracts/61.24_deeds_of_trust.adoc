@@ -28,7 +28,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 . "Record" and "recorded" includes the appropriate registration proceedings, in the instance of registered land.
 
-. "Residential real property" means property consisting solely of a single-family residence, a residential condominium unit, or a residential cooperative unit. For the purposes of the application of RCW 61.24.163, owner-occupied residential real property includes residential real property of up to four units.
+. "Residential real property" means property consisting solely of a single-family residence, a residential condominium unit, or a residential cooperative unit. For the purposes of the application of RCW 61.24.163, residential real property includes residential real property of up to four units.
 
 . "Senior beneficiary" means the beneficiary of a deed of trust that has priority over any other deeds of trust encumbering the same residential real property.
 
@@ -38,7 +38,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 . "Trustee's sale" means a nonjudicial sale under a deed of trust undertaken pursuant to this chapter.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2723.SL.pdf?cite=2014%20c%20164%20§%201[2014 c 164 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5590-S.SL.pdf?cite=2011%20c%20364%20§%203[2011 c 364 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1362-S2.SL.pdf?cite=2011%20c%2058%20§%203[2011 c 58 § 3]; prior:  2009 c 292 § 1; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6191-S.SL.pdf?cite=1998%20c%20295%20§%201[1998 c 295 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1108-S.SL.pdf?cite=2021%20c%20151%20§%202[2021 c 151 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2723.SL.pdf?cite=2014%20c%20164%20§%201[2014 c 164 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5590-S.SL.pdf?cite=2011%20c%20364%20§%203[2011 c 364 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1362-S2.SL.pdf?cite=2011%20c%2058%20§%203[2011 c 58 § 3]; prior:  2009 c 292 § 1; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6191-S.SL.pdf?cite=1998%20c%20295%20§%201[1998 c 295 § 1]; ]
 
 == 61.24.008 - Borrower referred to mediation—When.
 . A borrower who has been referred to mediation before June 7, 2012, may continue through the mediation process and does not lose his or her right to mediation.
@@ -116,13 +116,13 @@ It shall be requisite to a trustee's sale:
 . That prior to the date of the notice of trustee's sale and continuing thereafter through the date of the trustee's sale, the trustee must maintain a street address in this state where personal service of process may be made, and the trustee must maintain a physical presence and have telephone service at such address;
 
 . [Empty]
-.. That, for residential real property, before the notice of trustee's sale is recorded, transmitted, or served, the trustee shall have proof that the beneficiary is the holder of any promissory note or other obligation secured by the deed of trust. A declaration by the beneficiary made under the penalty of perjury stating that the beneficiary is the holder of any promissory note or other obligation secured by the deed of trust shall be sufficient proof as required under this subsection.
+.. That, for residential real property of up to four units, before the notice of trustee's sale is recorded, transmitted, or served, the trustee shall have proof that the beneficiary is the holder of any promissory note or other obligation secured by the deed of trust. A declaration by the beneficiary made under the penalty of perjury stating that the beneficiary is the holder of any promissory note or other obligation secured by the deed of trust shall be sufficient proof as required under this subsection.
 
 .. Unless the trustee has violated his or her duty under RCW 61.24.010(4), the trustee is entitled to rely on the beneficiary's declaration as evidence of proof required under this subsection.
 
 .. This subsection (7) does not apply to association beneficiaries subject to chapter 64.32, 64.34, or 64.38 RCW;
 
-. That at least thirty days before notice of sale shall be recorded, transmitted or served, written notice of default and, for residential real property, the beneficiary declaration specified in subsection (7)(a) of this section shall be transmitted by the beneficiary or trustee to the borrower and grantor at their last known addresses by both first-class and either registered or certified mail, return receipt requested, and the beneficiary or trustee shall cause to be posted in a conspicuous place on the premises, a copy of the notice, or personally served on the borrower and grantor. This notice shall contain the following information:
+. That at least thirty days before notice of sale shall be recorded, transmitted or served, written notice of default and, for residential real property of up to four units, the beneficiary declaration specified in subsection (7)(a) of this section shall be transmitted by the beneficiary or trustee to the borrower and grantor at their last known addresses by both first-class and either registered or certified mail, return receipt requested, and the beneficiary or trustee shall cause to be posted in a conspicuous place on the premises, a copy of the notice, or personally served on the borrower and grantor. This notice shall contain the following information:
 
 .. A description of the property which is then subject to the deed of trust;
 
@@ -144,7 +144,7 @@ It shall be requisite to a trustee's sale:
 
 .. A statement that the borrower, grantor, and any guarantor has recourse to the courts pursuant to RCW 61.24.130 to contest the alleged default on any proper ground;
 
-.. In the event the property secured by the deed of trust is owner-occupied residential real property, a statement, prominently set out at the beginning of the notice, which shall state as follows:
+.. In the event the property secured by the deed of trust is residential real property of up to four units, a statement, prominently set out at the beginning of the notice, which shall state as follows:
 
 "THIS NOTICE IS ONE STEP IN A PROCESS THAT COULD RESULT IN YOUR
 
@@ -166,19 +166,19 @@ Housing counselors and legal assistance may be available at little or no cost to
 
 The statewide foreclosure hotline for assistance and referral to housing counselors recommended by the Housing Finance Commission
 
-Telephone: . . . . . . . Web site: . . . . . .
+Telephone: . . . . . . . Website: . . . . . .
 
 The United States Department of Housing and Urban Development
 
-Telephone: . . . . . . . Web site: . . . . . . .
+Telephone: . . . . . . . Website: . . . . . . .
 
 The statewide civil legal aid hotline for assistance and referrals to other housing counselors and attorneys
 
-Telephone: . . . . . . . Web site: . . . . . ."
+Telephone: . . . . . . . Website: . . . . . ."
 
-The beneficiary or trustee shall obtain the toll-free numbers and web site information from the department for inclusion in the notice;
+The beneficiary or trustee shall obtain the toll-free numbers and website information from the department for inclusion in the notice;
 
-.. In the event the property secured by the deed of trust is residential real property, the name and address of the holder of any promissory note or other obligation secured by the deed of trust and the name, address, and telephone number of a party acting as a servicer of the obligations secured by the deed of trust;
+.. In the event the property secured by the deed of trust is residential real property of up to four units, the name and address of the holder of any promissory note or other obligation secured by the deed of trust and the name, address, and telephone number of a party acting as a servicer of the obligations secured by the deed of trust;
 
 .. For notices issued after June 30, 2018, on the top of the first page of the notice:
 
@@ -188,7 +188,7 @@ The beneficiary or trustee shall obtain the toll-free numbers and web site infor
 
 ... The current trustee for the deed of trust;
 
-. That, for owner-occupied residential real property, before the notice of the trustee's sale is recorded, transmitted, or served, the beneficiary has complied with RCW 61.24.031 and, if applicable, RCW 61.24.163;
+. That, for residential real property of up to four units, before the notice of the trustee's sale is recorded, transmitted, or served, the beneficiary has complied with RCW 61.24.031 and, if applicable, RCW 61.24.163;
 
 . That, in the case where the borrower or grantor is known to the mortgage servicer or trustee to be deceased, the notice required under subsection (8) of this section must be sent to any spouse, child, or parent of the borrower or grantor known to the trustee or mortgage servicer, and to any owner of record of the property, at any address provided to the trustee or mortgage servicer, and to the property addressed to the heirs and devisees of the borrower.
 
@@ -214,7 +214,7 @@ The beneficiary or trustee shall obtain the toll-free numbers and web site infor
 
 . Nothing in this section shall prejudice the right of the mortgage servicer or beneficiary from discontinuing any foreclosure action initiated under the deed of trust act in favor of other allowed methods for pursuit of foreclosure of the security interest or deed of trust security interest.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2057-S.SL.pdf?cite=2018%20c%20306%20§%201[2018 c 306 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2614-S.SL.pdf?cite=2012%20c%20185%20§%209[2012 c 185 § 9]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1362-S2.SL.pdf?cite=2011%20c%2058%20§%204[2011 c 58 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5810.SL.pdf?cite=2009%20c%20292%20§%208[2009 c 292 § 8]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5378-S.SL.pdf?cite=2008%20c%20153%20§%202[2008 c 153 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2770-S.SL.pdf?cite=2008%20c%20108%20§%2022[2008 c 108 § 22]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6191-S.SL.pdf?cite=1998%20c%20295%20§%204[1998 c 295 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c111.pdf?cite=1990%20c%20111%20§%201[1990 c 111 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c352.pdf?cite=1987%20c%20352%20§%202[1987 c 352 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c193.pdf?cite=1985%20c%20193%20§%203[1985 c 193 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c129.pdf?cite=1975%201st%20ex.s.%20c%20129%20§%203[1975 1st ex.s. c 129 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c74.pdf?cite=1965%20c%2074%20§%203[1965 c 74 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1108-S.SL.pdf?cite=2021%20c%20151%20§%203[2021 c 151 § 3]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2057-S.SL.pdf?cite=2018%20c%20306%20§%201[2018 c 306 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2614-S.SL.pdf?cite=2012%20c%20185%20§%209[2012 c 185 § 9]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1362-S2.SL.pdf?cite=2011%20c%2058%20§%204[2011 c 58 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5810.SL.pdf?cite=2009%20c%20292%20§%208[2009 c 292 § 8]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5378-S.SL.pdf?cite=2008%20c%20153%20§%202[2008 c 153 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/2770-S.SL.pdf?cite=2008%20c%20108%20§%2022[2008 c 108 § 22]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6191-S.SL.pdf?cite=1998%20c%20295%20§%204[1998 c 295 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c111.pdf?cite=1990%20c%20111%20§%201[1990 c 111 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c352.pdf?cite=1987%20c%20352%20§%202[1987 c 352 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c193.pdf?cite=1985%20c%20193%20§%203[1985 c 193 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c129.pdf?cite=1975%201st%20ex.s.%20c%20129%20§%203[1975 1st ex.s. c 129 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c74.pdf?cite=1965%20c%2074%20§%203[1965 c 74 § 3]; ]
 
 == 61.24.031 - Notice of default under RCW  61.24.030(8)—Beneficiary's duties—Borrower's options.
 . [Empty]
@@ -269,7 +269,7 @@ If you filed bankruptcy or have been discharged in bankruptcy, this communicatio
 
 .. The beneficiary or authorized agent shall provide a means for the borrower to contact the beneficiary or authorized agent in a timely manner, including a toll-free telephone number or charge-free equivalent that will provide access to a live representative during business hours for the purpose of initiating and scheduling the meeting under subsection (1)(f) of this section.
 
-.. The beneficiary or authorized agent shall post a link on the home page of the beneficiary's or authorized agent's internet web site, if any, to the following information:
+.. The beneficiary or authorized agent shall post a link on the home page of the beneficiary's or authorized agent's internet website, if any, to the following information:
 
 ... Options that may be available to borrowers who are unable to afford their mortgage payments and who wish to avoid foreclosure, and instructions to borrowers advising them on steps to take to explore those options;
 
@@ -282,7 +282,7 @@ If you filed bankruptcy or have been discharged in bankruptcy, this communicatio
 . Subsections (1) and (5) of this section do not apply if the borrower has surrendered the property as evidenced by either a letter confirming the surrender or delivery of the keys to the property to the trustee, beneficiary, or authorized agent.
 
 . [Empty]
-.. This section applies only to deeds of trust that are recorded against owner-occupied residential real property. This section does not apply to deeds of trust: (i) Securing a commercial loan; (ii) securing obligations of a grantor who is not the borrower or a guarantor; or (iii) securing a purchaser's obligations under a seller-financed sale.
+.. This section applies only to deeds of trust that are recorded against residential real property of up to four units. This section does not apply to deeds of trust: (i) Securing a commercial loan; (ii) securing obligations of a grantor who is not the borrower or a guarantor; or (iii) securing a purchaser's obligations under a seller-financed sale.
 
 .. This section does not apply to association beneficiaries subject to chapter 64.32, 64.34, or 64.38 RCW.
 
@@ -312,9 +312,9 @@ The undersigned beneficiary or authorized agent for the beneficiary hereby repre
 
 Additional Optional Explanatory Comments:
 
-. . . .
+. . . ."
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2723.SL.pdf?cite=2014%20c%20164%20§%202[2014 c 164 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2614-S.SL.pdf?cite=2012%20c%20185%20§%204[2012 c 185 § 4]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1362-S2.SL.pdf?cite=2011%20c%2058%20§%205[2011 c 58 § 5]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5810.SL.pdf?cite=2009%20c%20292%20§%202[2009 c 292 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1108-S.SL.pdf?cite=2021%20c%20151%20§%204[2021 c 151 § 4]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2723.SL.pdf?cite=2014%20c%20164%20§%202[2014 c 164 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2614-S.SL.pdf?cite=2012%20c%20185%20§%204[2012 c 185 § 4]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1362-S2.SL.pdf?cite=2011%20c%2058%20§%205[2011 c 58 § 5]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5810.SL.pdf?cite=2009%20c%20292%20§%202[2009 c 292 § 2]; ]
 
 == 61.24.033 - Model language for initial contact letter used by beneficiaries—Rules.
 . [Empty]
@@ -534,17 +534,17 @@ Housing counselors and legal assistance may be available at little or no cost to
 
 The statewide foreclosure hotline for assistance and referral to housing counselors recommended by the Housing Finance Commission
 
-Telephone: . . . . . . . . Web site: . . . . . . . .
+Telephone: . . . . . . . . Website: . . . . . . . .
 
 The United States Department of Housing and Urban Development
 
-Telephone: . . . . . . . . Web site: . . . . . . . .
+Telephone: . . . . . . . . Website: . . . . . . . .
 
 The statewide civil legal aid hotline for assistance and referrals to other housing counselors and attorneys
 
-Telephone: . . . . . . . . Web site: . . . . . . . ."
+Telephone: . . . . . . . . Website: . . . . . . . ."
 
-The beneficiary or trustee shall obtain the toll-free numbers and web site information from the department for inclusion in the notice;
+The beneficiary or trustee shall obtain the toll-free numbers and website information from the department for inclusion in the notice;
 
 . In addition to providing the borrower and grantor the notice of sale described in subsection (2) of this section, the trustee shall include with the copy of the notice which is mailed to the grantor, a statement to the grantor in substantially the following form:
 
@@ -1030,7 +1030,7 @@ The trustee shall apply the proceeds of the sale as follows:
 
 . In any action against a guarantor following a trustee's sale under a deed of trust securing a commercial loan, the guarantor may request the court or other appropriate adjudicator to determine, or the court or other appropriate adjudicator may in its discretion determine, the fair value of the property sold at the sale and the deficiency judgment against the guarantor shall be for an amount equal to the sum of the total amount owed to the beneficiary by the guarantor as of the date of the trustee's sale, less the fair value of the property sold at the trustee's sale or the sale price paid at the trustee's sale, whichever is greater, plus interest on the amount of the deficiency from the date of the trustee's sale at the rate provided in the guaranty, the deed of trust, or in any other contracts evidencing the debt secured by the deed of trust, as applicable, and any costs, expenses, and fees that are provided for in any contract evidencing the guarantor's liability for such a judgment. If any other security is sold to satisfy the same debt prior to the entry of a deficiency judgment against the guarantor, the fair value of that security, as calculated in the manner applicable to the property sold at the trustee's sale, shall be added to the fair value of the property sold at the trustee's sale as of the date that additional security is foreclosed. This section is in lieu of any right any guarantor would otherwise have to establish an upset price pursuant to RCW 61.12.060 prior to a trustee's sale.
 
-. A guarantor granting a deed of trust to secure its guaranty of a commercial loan shall be subject to a deficiency judgment following a trustee's sale under that deed of trust only to the extent stated in subsection (3)(a)(i) of this section. If the deed of trust encumbers the guarantor's principal residence, the guarantor shall be entitled to receive an amount up to the homestead exemption set forth in RCW 6.13.030, without regard to the effect of RCW 6.13.080(2), from the bid at the foreclosure or trustee's sale accepted by the sheriff or trustee prior to the application of the bid to the guarantor's obligation.
+. A guarantor granting a deed of trust to secure its guaranty of a commercial loan shall be subject to a deficiency judgment following a trustee's sale under that deed of trust only to the extent stated in subsection (3)(a)(i) of this section. If the deed of trust encumbers the guarantor's principal residence, the guarantor shall be entitled to receive an amount up to $125,000, without regard to the effect of RCW 6.13.080(2), from the bid at the foreclosure or trustee's sale accepted by the sheriff or trustee prior to the application of the bid to the guarantor's obligation.
 
 . A beneficiary's acceptance of a deed in lieu of a trustee's sale under a deed of trust securing a commercial loan exonerates the guarantor from any liability for the debt secured thereby except to the extent the guarantor otherwise agrees as part of the deed in lieu transaction.
 
@@ -1044,7 +1044,7 @@ The trustee shall apply the proceeds of the sale as follows:
 
 . Notwithstanding anything in this section to the contrary, the rights and obligations of any borrower, grantor, and guarantor following a trustee's sale under a deed of trust securing a commercial loan or any guaranty of such a loan executed prior to June 11, 1998, shall be determined in accordance with the laws existing prior to June 11, 1998.
 
-[ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6191-S.SL.pdf?cite=1998%20c%20295%20§%2012[1998 c 295 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c111.pdf?cite=1990%20c%20111%20§%202[1990 c 111 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c74.pdf?cite=1965%20c%2074%20§%2010[1965 c 74 § 10]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5408-S.SL.pdf?cite=2021%20c%20290%20§%207[2021 c 290 § 7]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6191-S.SL.pdf?cite=1998%20c%20295%20§%2012[1998 c 295 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c111.pdf?cite=1990%20c%20111%20§%202[1990 c 111 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c74.pdf?cite=1965%20c%2074%20§%2010[1965 c 74 § 10]; ]
 
 == 61.24.110 - Reconveyance by trustee.
 . The trustee of record shall reconvey all or any part of the property encumbered by the deed of trust to the person entitled thereto on written request of the beneficiary, or upon satisfaction of the obligation secured and written request for reconveyance made by the beneficiary or the person entitled thereto.
@@ -1125,10 +1125,10 @@ In addition, the court may condition granting the restraining order or injunctio
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2057-S.SL.pdf?cite=2018%20c%20306%20§%205[2018 c 306 § 5]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5378-S.SL.pdf?cite=2008%20c%20153%20§%205[2008 c 153 § 5]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6191-S.SL.pdf?cite=1998%20c%20295%20§%2014[1998 c 295 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c352.pdf?cite=1987%20c%20352%20§%205[1987 c 352 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c161.pdf?cite=1981%20c%20161%20§%208[1981 c 161 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c129.pdf?cite=1975%201st%20ex.s.%20c%20129%20§%206[1975 1st ex.s. c 129 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c74.pdf?cite=1965%20c%2074%20§%2013[1965 c 74 § 13]; ]
 
-== 61.24.135 - Consumer protection act—Unfair or deceptive acts or practices.
+== 61.24.135 - Consumer protection act—Unfair or deceptive acts or practices. (Effective until January 1, 2022.)
 . It is an unfair or deceptive act or practice under the consumer protection act, chapter 19.86 RCW, for any person, acting alone or in concert with others, to offer, or offer to accept or accept from another, any consideration of any type not to bid, or to reduce a bid, at a sale of property conducted pursuant to a power of sale in a deed of trust. The trustee may decline to complete a sale or deliver the trustee's deed and refund the purchase price, if it appears that the bidding has been collusive or defective, or that the sale might have been void. However, it is not an unfair or deceptive act or practice for any person, including a trustee, to state that a property subject to a recorded notice of trustee's sale or subject to a sale conducted pursuant to this chapter is being sold in an "as-is" condition, or for the beneficiary to arrange to provide financing for a particular bidder or to reach any good faith agreement with the borrower, grantor, any guarantor, or any junior lienholder.
 
-. It is an unfair or deceptive act in trade or commerce and an unfair method of competition in violation of the consumer protection act, chapter 19.86 RCW, for any person or entity to: (a) Violate the duty of good faith under RCW 61.24.163; (b) fail to comply with the requirements of *RCW 61.24.174, as it existed prior to July 1, 2016, or RCW 61.24.173; or (c) fail to initiate contact with a borrower and exercise due diligence as required under RCW 61.24.031.
+. It is an unfair or deceptive act in trade or commerce and an unfair method of competition in violation of the consumer protection act, chapter 19.86 RCW, for any person or entity to: (a) Violate the duty of good faith under RCW 61.24.163; (b) fail to comply with the requirements of RCW * 61.24.174, as it existed prior to July 1, 2016, or RCW 61.24.173; or (c) fail to initiate contact with a borrower and exercise due diligence as required under RCW 61.24.031.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2876-S.SL.pdf?cite=2016%20c%20196%20§%203[2016 c 196 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1362-S2.SL.pdf?cite=2011%20c%2058%20§%2014[2011 c 58 § 14]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5378-S.SL.pdf?cite=2008%20c%20153%20§%206[2008 c 153 § 6]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6191-S.SL.pdf?cite=1998%20c%20295%20§%2015[1998 c 295 § 15]; ]
 
@@ -1313,17 +1313,17 @@ If the trustee elects to foreclose the interest of any occupant of tenant-occupi
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2057-S.SL.pdf?cite=2018%20c%20306%20§%206[2018 c 306 § 6]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2723.SL.pdf?cite=2014%20c%20164%20§%203[2014 c 164 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2614-S.SL.pdf?cite=2012%20c%20185%20§%206[2012 c 185 § 6]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5988-S.SL.pdf?cite=2011%202nd%20sp.s.%20c%204%20§%201[2011 2nd sp.s. c 4 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1362-S2.SL.pdf?cite=2011%20c%2058%20§%207[2011 c 58 § 7]; ]
 
 == 61.24.165 - Application of RCW  61.24.163.
-. RCW 61.24.163 applies only to deeds of trust that are recorded against owner-occupied residential real property of up to four units. The property must have been owner-occupied as of the date the initial contact under RCW 61.24.031 was made.
-
-. A borrower under a deed of trust on owner-occupied residential real property who has received a notice of default on or before July 22, 2011, may be referred to mediation under RCW 61.24.163 by a housing counselor or attorney.
+. RCW 61.24.163 applies only to deeds of trust that are recorded against residential real property of up to four units.
 
 . RCW 61.24.163 does not apply to deeds of trust:
 
 .. Securing a commercial loan;
 
-.. Securing obligations of a grantor who is not the borrower or a guarantor; or
+.. Securing obligations of a grantor who is not the borrower or a guarantor;
 
-.. Securing a purchaser's obligations under a seller-financed sale.
+.. Securing a purchaser's obligations under a seller-financed sale; or
+
+.. Where the grantor is a partnership, corporation, or limited liability company, or where the property is vested in a partnership, corporation, or limited liability company at the time the notice of default is issued.
 
 . RCW 61.24.163 does not apply to association beneficiaries subject to chapter 64.32, 64.34, or 64.38 RCW.
 
@@ -1331,12 +1331,12 @@ If the trustee elects to foreclose the interest of any occupant of tenant-occupi
 
 . For purposes of referral and mediation under RCW 61.24.163, a person may be referred to mediation if the person has been awarded title to the property in a proceeding for dissolution or legal separation. The referring counselor or attorney must determine the person's eligibility under this section and indicate the grounds for eligibility on the referral to mediation submitted to the department. For the purposes of mediation under RCW 61.24.163, the person must be treated as a "borrower." This subsection does not impose an affirmative duty on the beneficiary to accept an assumption of the loan.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2723.SL.pdf?cite=2014%20c%20164%20§%204[2014 c 164 § 4]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1362-S2.SL.pdf?cite=2011%20c%2058%20§%208[2011 c 58 § 8]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1108-S.SL.pdf?cite=2021%20c%20151%20§%206[2021 c 151 § 6]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2723.SL.pdf?cite=2014%20c%20164%20§%204[2014 c 164 § 4]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1362-S2.SL.pdf?cite=2011%20c%2058%20§%208[2011 c 58 § 8]; ]
 
 == 61.24.166 - Application of RCW  61.24.163 to federally insured depository institutions—Annual application for exemption.
-The provisions of RCW 61.24.163 do not apply to any federally insured depository institution, as defined in 12 U.S.C. Sec. 461(b)(1)(A), that certifies to the department under penalty of perjury that it was not a beneficiary of deeds of trust in more than two hundred fifty trustee sales of owner-occupied residential real property that occurred in this state during the preceding calendar year. A federally insured depository institution certifying that RCW 61.24.163 does not apply must do so annually, beginning no later than thirty days after July 22, 2011, and no later than January 31st of each year thereafter.
+Beginning on January 1, 2023, the provisions of RCW 61.24.163 do not apply to any federally insured depository institution, as defined in 12 U.S.C. Sec. 461(b)(1)(A), that certifies to the department under penalty of perjury that it was not a beneficiary of deeds of trust in more than two hundred fifty trustee sales of residential real property of up to four units that occurred in this state during the preceding calendar year. A federally insured depository institution certifying that RCW 61.24.163 does not apply must do so annually, beginning no later than January 31, 2023, and no later than January 31st of each year thereafter.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1362-S2.SL.pdf?cite=2011%20c%2058%20§%209[2011 c 58 § 9]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1108-S.SL.pdf?cite=2021%20c%20151%20§%207[2021 c 151 § 7]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1362-S2.SL.pdf?cite=2011%20c%2058%20§%209[2011 c 58 § 9]; ]
 
 == 61.24.169 - Department maintains list of approved foreclosure mediators—Training program—Mediator involvement in civil action.
 . For the purposes of RCW 61.24.163, the department must maintain a list of approved foreclosure mediators. The department may approve the following persons to serve as foreclosure mediators under this section if the person has completed ten mediations and either a forty-hour mediation course and sixty hours of mediating or has two hundred hours experience mediating:
@@ -1362,14 +1362,14 @@ The provisions of RCW 61.24.163 do not apply to any federally insured depository
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2614-S.SL.pdf?cite=2012%20c%20185%20§%207[2012 c 185 § 7]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5988-S.SL.pdf?cite=2011%202nd%20sp.s.%20c%204%20§%202[2011 2nd sp.s. c 4 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1362-S2.SL.pdf?cite=2011%20c%2058%20§%2010[2011 c 58 § 10]; ]
 
-== 61.24.172 - Foreclosure fairness account created—Uses.
+== 61.24.172 - Foreclosure fairness account created—Uses. (Effective until January 1, 2022.)
 The foreclosure fairness account is created in the custody of the state treasurer. All receipts received under *RCW 61.24.174, as it existed prior to July 1, 2016, and RCW 61.24.173 must be deposited into the account. Only the director of the department of commerce or the director's designee may authorize expenditures from the account. Funding to agencies and organizations under this section must be provided by the department through an interagency agreement or other applicable contract instrument. The account is subject to allotment procedures under chapter 43.88 RCW, but an appropriation is not required for expenditures. Biennial expenditures from the account must be used as follows: Four hundred thousand dollars to fund the counselor referral hotline. The remaining funds shall be distributed as follows: (1) Sixty-nine percent for the purposes of providing housing counseling activities to benefit borrowers; (2) eight percent to the office of the attorney general to be used by the consumer protection division to enforce this chapter; (3) six percent to the office of civil legal aid to be used for the purpose of contracting with qualified legal aid programs for legal representation of homeowners in matters relating to foreclosure. Funds provided under this subsection (3) must be used to supplement, not supplant, other federal, state, and local funds; and (4) seventeen percent to the department to be used for implementation and operation of the foreclosure fairness act.
 
 The department shall enter into interagency agreements to contract with the Washington state housing finance commission and other appropriate entities to implement the foreclosure fairness act.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2876-S.SL.pdf?cite=2016%20c%20196%20§%201[2016 c 196 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6052-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%204%20§%20965[2015 3rd sp.s. c 4 § 965]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2723.SL.pdf?cite=2014%20c%20164%20§%205[2014 c 164 § 5]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2614-S.SL.pdf?cite=2012%20c%20185%20§%2012[2012 c 185 § 12]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1362-S2.SL.pdf?cite=2011%20c%2058%20§%2011[2011 c 58 § 11]; ]
 
-== 61.24.173 - Required payment for each property subject to notice of trustee's sale—Residential real property—Exceptions—Deposit into foreclosure fairness account.
+== 61.24.173 - Required payment for each property subject to notice of trustee's sale—Residential real property—Exceptions—Deposit into foreclosure fairness account. (Effective until June 30, 2023.)
 . Except as provided in subsections (5) and (6) of this section, beginning July 1, 2016, and every quarter thereafter, every beneficiary on whose behalf a notice of trustee's sale has been recorded pursuant to RCW 61.24.040 on residential real property under this chapter must:
 
 .. Report to the department the number of notices of trustee's sale recorded for each residential property during the previous quarter;
@@ -1378,19 +1378,24 @@ The department shall enter into interagency agreements to contract with the Wash
 
 .. Report and update beneficiary contact information for the person and work group responsible for the beneficiary's compliance with the requirements of the foreclosure fairness act created in this chapter.
 
-. For each notice of trustee's sale recorded on residential real property, the beneficiary on whose behalf the notice of trustee's sale has been recorded shall remit three hundred twenty-five dollars to the department to be deposited, as provided under RCW 61.24.172, into the foreclosure fairness account. The three hundred twenty-five dollar payment is required for every recorded notice of trustee's sale for noncommercial loans on residential real property, but does not apply to the recording of an amended notice of trustee's sale. No later than January 1, 2020, the department may from time to time adjust the amount of the fee, not to exceed three hundred twenty-five dollars, at a sufficient level to defray the costs of the program. The beneficiary shall remit the total amount required in a lump sum each quarter.
+. For each notice of trustee's sale recorded on residential real property, the beneficiary on whose behalf the notice of trustee's sale has been recorded shall remit $325 to the department to be deposited, as provided under RCW 61.24.172, into the foreclosure fairness account. The $325 payment is required for every recorded notice of trustee's sale for noncommercial loans on residential real property, but does not apply to the recording of an amended notice of trustee's sale. No later than January 1, 2020, the department may from time to time adjust the amount of the fee, not to exceed $325, at a sufficient level to defray the costs of the program. The beneficiary shall remit the total amount required in a lump sum each quarter.
 
 . Any adjustment to the amount of the fee, pursuant to the authority of subsection (2) of this section, shall be made by rule adopted by the department in accordance with the provisions of chapter 34.05 RCW.
 
-. Reporting and payments under subsections (1) and (2) of this section are due within forty-five days of the end of each quarter.
+. Reporting and payments under subsections (1) and (2) of this section are due within 45 days of the end of each quarter.
 
-. This section does not apply to any beneficiary or loan servicer that is a federally insured depository institution, as defined in 12 U.S.C. Sec. 461(b)(1)(A), and that certifies under penalty of perjury that fewer than fifty notices of trustee's sale were recorded on its behalf in the preceding year.
+. [Empty]
+.. Except as provided in (b) of this subsection, this section does not apply to any beneficiary or loan servicer that is a federally insured depository institution, as defined in 12 U.S.C. Sec. 461(b)(1)(A), and that certifies under penalty of perjury that fewer than 50 notices of trustee's sale were recorded on its behalf in the preceding year.
+
+.. During the 2021 and 2022 calendar years, this section does not apply to any beneficiary or loan servicer that is a federally insured depository institution, as defined in 12 U.S.C. Sec. 461(b)(1)(A), and that certifies under penalty of perjury that fewer than 50 notices of trustee's sale were recorded on its behalf in 2019.
 
 . This section does not apply to association beneficiaries subject to chapter 64.32, 64.34, or 64.38 RCW.
 
 . For purposes of this section, "residential real property" includes residential real property with up to four dwelling units, whether or not the property or any part thereof is owner-occupied.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2057-S.SL.pdf?cite=2018%20c%20306%20§%207[2018 c 306 § 7]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2876-S.SL.pdf?cite=2016%20c%20196%20§%202[2016 c 196 § 2]; ]
+. After January 1, 2022, the requirements of this section apply only with respect to notices of trustee's sale for which remittance and reporting on a notice of default for that same residential real property was not made pursuant to RCW 61.24.190.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1108-S.SL.pdf?cite=2021%20c%20151%20§%2010[2021 c 151 § 10]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2057-S.SL.pdf?cite=2018%20c%20306%20§%207[2018 c 306 § 7]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/2876-S.SL.pdf?cite=2016%20c%20196%20§%202[2016 c 196 § 2]; ]
 
 == 61.24.177 - Deed of trust pool—Duty of servicer to maximize net present value.
 Any duty that servicers may have to maximize net present value under their pooling and servicing agreements is owed to all parties in a deed of trust pool, not to any particular parties, and a servicer acts in the best interests of all parties if it agrees to or implements a modification or workout plan when both of the following apply:
@@ -1441,4 +1446,27 @@ Any duty that servicers may have to maximize net present value under their pooli
 . If upon objection to the trustee's declaration of nonmonetary status the court finds that the declaration was filed without sufficient support based upon the allegations made in the complaint, the court may award the plaintiff attorneys' fees and costs associated with the objection together with any actual damages demonstrated. Any award may be made after notice and hearing with submission of evidence of the attorneys' fees and damages.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2057-S.SL.pdf?cite=2018%20c%20306%20§%208[2018 c 306 § 8]; ]
+
+== 61.24.190 - Notices of default—Requirements—Payment—Department not civilly liable if no gross negligence in releasing information—Application. (Effective January 1, 2022.)
+. Except as provided in subsections (6) and (7) of this section, beginning January 1, 2022, and every quarter thereafter, every beneficiary issuing notices of default, or causing notices of default to be issued on its behalf, on residential real property under this chapter must:
+
+.. Report to the department, on a form approved by the department, the total number of residential real properties for which the beneficiary has issued a notice of default during the previous quarter, together with the street address, city, and zip code;
+
+.. Remit the amount required under subsection (2) of this section; and
+
+.. Report and update beneficiary contact information for the person and work group responsible for the beneficiary's compliance with the requirements of the foreclosure fairness act created in this chapter.
+
+. For each residential real property for which a notice of default has been issued, the beneficiary issuing the notice of default, or causing the notice of default to be issued on the beneficiary's behalf, shall remit $250 to the department to be deposited, as provided under RCW 61.24.172, into the foreclosure fairness account. The $250 payment is required per property and not per notice of default. The beneficiary shall remit the total amount required in a lump sum each quarter.
+
+. Reporting and payments under subsections (1) and (2) of this section are due within 45 days of the end of each quarter.
+
+. For purposes of this section, "residential real property" includes residential real property with up to four dwelling units, whether or not the property or any part thereof is owner occupied.
+
+. The department, including its officials and employees, may not be held civilly liable for damages arising from any release of information or the failure to release information related to the reporting required under this section, so long as the release was without gross negligence.
+
+. Beginning on January 1, 2023, this section does not apply to any beneficiary or loan servicer that is a federally insured depository institution, as defined in 12 U.S.C. Sec. 461(b)(1)(A), and that certifies under penalty of perjury that it has issued, or has directed a trustee or authorized agent to issue, fewer than 250 notices of default in the preceding year.
+
+. This section does not apply to association beneficiaries subject to chapter 64.32, 64.34, or 64.38 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1108-S.SL.pdf?cite=2021%20c%20151%20§%2011[2021 c 151 § 11]; ]
 

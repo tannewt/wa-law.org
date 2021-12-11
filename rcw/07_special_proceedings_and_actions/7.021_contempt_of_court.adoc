@@ -25,7 +25,7 @@ A judge or commissioner of the supreme court, the court of appeals, or the super
 
 [ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1082.SL.pdf?cite=1998%20c%203%20§%201[1998 c 3 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c373.pdf?cite=1989%20c%20373%20§%202[1989 c 373 § 2]; ]
 
-== 7.21.030 - Remedial sanctions—Payment for losses. (Effective until July 1, 2021.)
+== 7.21.030 - Remedial sanctions—Payment for losses. (Effective until July 1, 2023.)
 . The court may initiate a proceeding to impose a remedial sanction on its own motion or on the motion of a person aggrieved by a contempt of court in the proceeding to which the contempt is related. Except as provided in RCW 7.21.050, the court, after notice and hearing, may impose a remedial sanction authorized by this chapter.
 
 . If the court finds that the person has failed or refused to perform an act that is yet within the person's power to perform, the court may find the person in contempt of court and impose one or more of the following remedial sanctions:
@@ -39,9 +39,9 @@ A judge or commissioner of the supreme court, the court of appeals, or the super
 .. Any other remedial sanction other than the sanctions specified in (a) through (c) of this subsection if the court expressly finds that those sanctions would be ineffectual to terminate a continuing contempt of court.
 
 .. [Empty]
-... In at-risk youth petition cases only under chapter 13.32A RCW and in cases under chapter 28A.225 RCW and subject to the requirements under RCW 13.32A.250 and 28A.225.090, commitment to juvenile detention for a period of time not to exceed seventy-two hours, excluding Saturdays, Sundays, and holidays. The seventy-two hour period shall commence upon the next nonholiday weekday following the court order and shall run to the end of the last nonholiday weekday within the seventy-two hour period. This sanction may be imposed in addition to, or as an alternative to, any other remedial sanction authorized by this chapter. This remedy is specifically determined to be a remedial sanction.
+... In at-risk youth petition cases only under chapter 13.32A RCW and subject to the requirements under RCW 13.32A.250, commitment to juvenile detention for a period of time not to exceed seventy-two hours, excluding Saturdays, Sundays, and holidays. The seventy-two hour period shall commence upon the next nonholiday weekday following the court order and shall run to the end of the last nonholiday weekday within the seventy-two hour period. This sanction may be imposed in addition to, or as an alternative to, any other remedial sanction authorized by this chapter. This remedy is specifically determined to be a remedial sanction.
 
-... Prior to committing any youth to juvenile detention as a sanction for contempt in at-risk youth petition cases only under chapter 13.32A RCW or for cases under chapter 28A.225 RCW, or for failure to appear at a court hearing in at-risk youth petition cases only under chapter 13.32A RCW or for cases under chapter 28A.225 RCW, the court must:
+... Prior to committing any youth to juvenile detention as a sanction for contempt in at-risk youth petition cases only under chapter 13.32A RCW, or for failure to appear at a court hearing in at-risk youth petition cases only under chapter 13.32A RCW, the court must:
 
 (A) Consider, on the record, the mitigating and aggravating factors used to determine the appropriateness of detention for enforcement of its order;
 
@@ -51,7 +51,7 @@ A judge or commissioner of the supreme court, the court of appeals, or the super
 
 (D) Seek input from all relevant parties, including the youth.
 
-... Detention periods for youth sanctioned to juvenile detention for contempt in at-risk youth petition cases only under chapter 13.32A RCW or for cases under chapter 28A.225 RCW, or for failure to appear at a court hearing in at-risk youth petition cases only under chapter 13.32A RCW or for cases under chapter 28A.225 RCW, shall be:
+... Detention periods for youth sanctioned to juvenile detention for contempt in at-risk youth petition cases only under chapter 13.32A RCW, or for failure to appear at a court hearing in at-risk youth petition cases only under chapter 13.32A RCW, shall be:
 
 (A) No more than seventy-two hours, regardless of the number of violations being considered at the hearing; and
 
@@ -61,9 +61,9 @@ A judge or commissioner of the supreme court, the court of appeals, or the super
 
 . The court may, in addition to the remedial sanctions set forth in subsection (2) of this section, order a person found in contempt of court to pay a party for any losses suffered by the party as a result of the contempt and any costs incurred in connection with the contempt proceeding, including reasonable attorney's fees.
 
-. If the court finds that a person under the age of eighteen years has willfully disobeyed the terms of an order issued under chapter 10.14 RCW, the court may find the person in contempt of court and may, as a sole sanction for such contempt, commit the person to juvenile detention for a period of time not to exceed seven days.
+. If the court finds that a person under the age of eighteen years has willfully disobeyed the terms of an order issued under *chapter 10.14 RCW, the court may find the person in contempt of court and may, as a sole sanction for such contempt, commit the person to juvenile detention for a period of time not to exceed seven days.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5290-S2.SL.pdf?cite=2019%20c%20312%20§%204[2019 c 312 § 4]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5290-S2.SL.pdf?cite=2019%20c%20312%20§%203[2019 c 312 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1041-S2.SL.pdf?cite=2001%20c%20260%20§%206[2001 c 260 § 6]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6208-S.SL.pdf?cite=1998%20c%20296%20§%2036[1998 c 296 § 36]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c373.pdf?cite=1989%20c%20373%20§%203[1989 c 373 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5290-S2.SL.pdf?cite=2019%20c%20312%20§%205[2019 c 312 § 5]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5290-S2.SL.pdf?cite=2019%20c%20312%20§%204[2019 c 312 § 4]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5290-S2.SL.pdf?cite=2019%20c%20312%20§%203[2019 c 312 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/1041-S2.SL.pdf?cite=2001%20c%20260%20§%206[2001 c 260 § 6]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6208-S.SL.pdf?cite=1998%20c%20296%20§%2036[1998 c 296 § 36]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c373.pdf?cite=1989%20c%20373%20§%203[1989 c 373 § 3]; ]
 
 == 7.21.040 - Punitive sanctions—Fines.
 . Except as otherwise provided in RCW 7.21.050, a punitive sanction for contempt of court may be imposed only pursuant to this section.

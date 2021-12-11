@@ -17,7 +17,7 @@ As used in this chapter:
 
 . "Department" means department of health.
 
-. "Hospital" means any health care institution which is required to qualify for a license under RCW 70.41.020 (7); or as a psychiatric hospital under chapter 71.12 RCW.
+. "Hospital" means any health care institution which is required to qualify for a license under *RCW 70.41.020(7); or as a psychiatric hospital under chapter 71.12 RCW.
 
 . "Secretary" means secretary of health.
 
@@ -65,12 +65,12 @@ The department shall have the authority to respond to requests of others for spe
 
 .. Financial service or billing areas where accessible to patients.
 
-. Current versions of the hospital's charity care policy, a plain language summary of the hospital's charity care policy, and the hospital's charity care application form must be available on the hospital's web site. The summary and application form must be available in all languages spoken by more than ten percent of the population of the hospital service area.
+. Current versions of the hospital's charity care policy, a plain language summary of the hospital's charity care policy, and the hospital's charity care application form must be available on the hospital's website. The summary and application form must be available in all languages spoken by more than ten percent of the population of the hospital service area.
 
 . [Empty]
 .. All hospital billing statements and other written communications concerning billing or collection of a hospital bill by a hospital must include the following or a substantially similar statement prominently displayed on the first page of the statement in both English and the second most spoken language in the hospital's service area:
 
-You may qualify for free care or a discount on your hospital bill, whether or not you have insurance. Please contact our financial assistance office at [web site] and [phone number].
+You may qualify for free care or a discount on your hospital bill, whether or not you have insurance. Please contact our financial assistance office at [website] and [phone number].
 
 .. Nothing in (a) of this subsection requires any hospital to alter any preprinted hospital billing statements existing as of October 1, 2018.
 

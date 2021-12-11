@@ -144,7 +144,7 @@ The budget document or documents shall also contain:
 
 .. (b) of this subsection (5) does not apply:
 
-... To any governor-proposed legislation submitted to the legislature that makes net reductions in general fund and related funds appropriations to prevent the governor from making across-the-board reductions in allotments for these particular funds as provided in RCW 43.88.110(7); or
+... To any governor-proposed legislation submitted to the legislature that makes net reductions in general fund and related funds appropriations to prevent the governor from making across-the-board reductions in allotments for these particular funds as provided in *RCW 43.88.110(7); or
 
 ... In a fiscal biennium for which the governor proposes appropriations from the budget stabilization account pursuant to Article VII, section 12(d)(ii) of the state Constitution.
 
@@ -195,7 +195,7 @@ For purposes of this subsection (6), the term "capital project" shall be defined
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6660-S.SL.pdf?cite=2020%20c%20218%20§%201[2020 c 218 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6800-S.SL.pdf?cite=2006%20c%20334%20§%2043[2006 c 334 § 43]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1242-S.SL.pdf?cite=2005%20c%20386%20§%203[2005 c 386 § 3]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5513.SL.pdf?cite=2005%20c%20319%20§%20108[2005 c 319 § 108]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2459-S.SL.pdf?cite=2004%20c%20276%20§%20908[2004 c 276 § 908]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6387-S.SL.pdf?cite=2002%20c%20371%20§%20911[2002 c 371 § 911]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6856-S2.SL.pdf?cite=2000%202nd%20sp.s.%20c%204%20§%2012[2000 2nd sp.s. c 4 § 12]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6108-S.SL.pdf?cite=1998%20c%20346%20§%20910[1998 c 346 § 910]; prior:  1997 c 168 § 5; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1066.SL.pdf?cite=1997%20c%2096%20§%204[1997 c 96 § 4]; prior:  1994 c 247 § 7; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2237-S.SL.pdf?cite=1994%20c%20219%20§%202[1994 c 219 § 2]; prior:  1991 c 358 § 1; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1428.SL.pdf?cite=1991%20c%20284%20§%201[1991 c 284 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c115.pdf?cite=1990%20c%20115%20§%201[1990 c 115 § 1]; prior:  1989 c 311 § 3; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c11.pdf?cite=1989%20c%2011%20§%2018[1989 c 11 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c502.pdf?cite=1987%20c%20502%20§%202[1987 c 502 § 2]; prior:  1986 c 215 § 3; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c112.pdf?cite=1986%20c%20112%20§%201[1986 c 112 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c138.pdf?cite=1984%20c%20138%20§%207[1984 c 138 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c270.pdf?cite=1981%20c%20270%20§%203[1981 c 270 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c87.pdf?cite=1980%20c%2087%20§%2026[1980 c 87 § 26]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c247.pdf?cite=1977%20ex.s.%20c%20247%20§%201[1977 ex.s. c 247 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c100.pdf?cite=1973%201st%20ex.s.%20c%20100%20§%203[1973 1st ex.s. c 100 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c8.pdf?cite=1965%20c%208%20§%2043.88.030[1965 c 8 § 43.88.030]; prior:  1959 c 328 § 3; ]
 
 == 43.88.0301 - Capital budget instructions—Additional information—Staff support from office of community development.
-. The office of financial management must include in its capital budget instructions, beginning with its instructions for the 2003-05 capital budget, a request for "yes" or "no" answers for the following additional informational questions from capital budget applicants for all proposed major capital construction projects valued over five million dollars and required to complete a predesign:
+. The office of financial management must include in its capital budget instructions, beginning with its instructions for the 2003-05 capital budget, a request for "yes" or "no" answers for the following additional informational questions from capital budget applicants for all proposed major capital construction projects valued over 10 million dollars and required to complete a predesign:
 
 .. For proposed capital projects identified in this subsection that are located in or serving city or county planning under RCW 36.70A.040:
 
@@ -217,11 +217,11 @@ For purposes of this subsection (6), the term "capital project" shall be defined
 
 . For projects subject to subsection (1) of this section, the office of financial management shall request the required information be provided during the predesign process of major capital construction projects to reduce long-term costs and increase process efficiency.
 
-. The office of financial management, in fulfilling its duties under *RCW 43.88.030(5) to create a capital budget document, must take into account information gathered under subsections (1) and (2) of this section in an effort to promote state capital facility expenditures that minimize unplanned or uncoordinated infrastructure and development costs, support economic and quality of life benefits for existing communities, and support local government planning efforts.
+. The office of financial management, in fulfilling its duties under RCW 43.88.030(6) to create a capital budget document, must take into account information gathered under subsections (1) and (2) of this section in an effort to promote state capital facility expenditures that minimize unplanned or uncoordinated infrastructure and development costs, support economic and quality of life benefits for existing communities, and support local government planning efforts.
 
 . The office of community development must provide staff support to the office of financial management and affected capital budget applicants to help collect data required by subsections (1) and (2) of this section.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5316.SL.pdf?cite=2017%203rd%20sp.s.%20c%2025%20§%202[2017 3rd sp.s. c 25 § 2]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2648-S.SL.pdf?cite=2002%20c%20312%20§%201[2002 c 312 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1023.SL.pdf?cite=2021%20c%2054%20§%204[2021 c 54 § 4]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5316.SL.pdf?cite=2017%203rd%20sp.s.%20c%2025%20§%202[2017 3rd sp.s. c 25 § 2]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2648-S.SL.pdf?cite=2002%20c%20312%20§%201[2002 c 312 § 1]; ]
 
 == 43.88.031 - Capital appropriation bill—Estimated general fund debt service costs.
 A capital appropriation bill shall include the estimated general fund debt service costs associated with new capital appropriations contained in that bill for the biennia in which the appropriations occur and for the succeeding two biennia.
@@ -272,26 +272,26 @@ If, for any applicable fund or account, the estimated receipts for the next ensu
 
 .. "Projected maintenance level" means estimated appropriations necessary to maintain the continuing costs of program and service levels either funded in that appropriations bill or mandated by other state or federal law, and the amount of any general fund moneys projected to be transferred to the budget stabilization account pursuant to Article VII, section 12 of the state Constitution;
 
-.. "Related funds," as used in this section, means the Washington opportunity pathways account, the workforce education investment account, and the education legacy trust account.
+.. "Related funds," as used in this section, means the Washington opportunity pathways account, the workforce education investment account, the fair start for kids account, and the education legacy trust account.
 
 . Subsection (1)(a) and (b) of this section does not apply to an appropriations bill that makes net reductions in general fund and related funds appropriations and is enacted between July 1st and February 15th of any fiscal year.
 
 . Subsection (1)(b) of this section does not apply in a fiscal biennium in which money is appropriated from the budget stabilization account pursuant to Article VII, section 12(d)(ii) of the state Constitution.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6660-S.SL.pdf?cite=2020%20c%20218%20§%202[2020 c 218 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6636-S.SL.pdf?cite=2012%201st%20sp.s.%20c%208%20§%201[2012 1st sp.s. c 8 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5237-S2.SL.pdf?cite=2021%20c%20199%20§%20103[2021 c 199 § 103]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6660-S.SL.pdf?cite=2020%20c%20218%20§%202[2020 c 218 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6636-S.SL.pdf?cite=2012%201st%20sp.s.%20c%208%20§%201[2012 1st sp.s. c 8 § 1]; ]
 
 == 43.88.058 - Maintenance level costs—Services for children.
 For the purposes of this chapter, expenditures for the following foster care, adoption support and related services, and child protective services must be forecasted and budgeted as maintenance level costs:
 
 . Behavioral rehabilitation services placements;
 
-. Social worker and related staff to receive, refer, and respond to screened-in reports of child abuse or neglect;
+. Social worker and related staff to receive, refer, and respond to screened-in reports of child abuse or neglect, except in fiscal year 2021;
 
 . Court-ordered parent-child and sibling visitations delivered by contractors; and
 
 . Those activities currently being treated as maintenance level costs for budgeting or forecasting purposes on June 7, 2018, including, but not limited to: (a) Adoption support and other adoption-related expenses; (b) foster care maintenance payments; (c) child-placing agency management fees; (d) support goods such as clothing vouchers; (e) child aides; and (f) child care for children in foster or relative placements when the caregiver is at work or in school.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2008.SL.pdf?cite=2018%20c%20208%20§%205[2018 c 208 § 5]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5092-S.SL.pdf?cite=2021%20c%20334%20§%201904[2021 c 334 § 1904]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2008.SL.pdf?cite=2018%20c%20208%20§%205[2018 c 208 § 5]; ]
 
 == 43.88.060 - Legislative review of budget document and budget bill or bills—Time for submission.
 The governor shall submit the budget document for the 1975-77 biennium and each succeeding biennium to the legislature no later than the twentieth day of December in the year preceding the session during which the budget is to be considered: PROVIDED, That where a budget document is submitted for a fiscal period other than a biennium, such document shall be submitted no less than twenty days prior to the first day of the session at which such budget document is to be considered. The governor shall also submit a budget bill or bills which for purposes of this chapter is defined to mean the appropriations proposed by the governor as set forth in the budget document. Such representatives of agencies as have been designated by the governor for this purpose shall, when requested, by either house of the legislature, appear to be heard with respect to the budget document and the budget bill or bills and to supply such additional information as may be required.
@@ -403,13 +403,31 @@ This section sets forth the expenditure programs and the allotment and reserve p
 
 This data may be incorporated into the existing accounting system or into a separate project management system, as deemed appropriate by the office of financial management.
 
-. The office of financial management, prior to approving allotments for major capital construction projects valued over five million dollars, with the exception of projects at institutions of higher education as defined in RCW 28B.10.016, which may be valued up to ten million dollars, shall institute procedures for reviewing such projects at the predesign stage that will reduce long-term costs and increase facility efficiency. The procedures shall include, but not be limited to, the following elements:
+. Except as provided for under subsection (6) of this section, the office of financial management, prior to approving allotments for major capital construction projects valued over ten million dollars, shall institute procedures for reviewing such projects at the predesign stage that will reduce long-term costs and increase facility efficiency. The procedures shall include, but not be limited to, the following elements:
 
 .. Evaluation of facility program requirements and consistency with long-range plans;
 
 .. Utilization of a system of cost, quality, and performance standards to compare major capital construction projects; and
 
 .. A requirement to incorporate value-engineering analysis and constructability review into the project schedule.
+
+. The office of financial management may make an exception to some or all of the predesign requirements in subsection (5) of this section. The office of financial management shall report any exception to the fiscal committees of the legislature and include: (a) A description of the major capital project for which the predesign waiver is made; (b) an explanation of the reason for the waiver; and (c) a rough order of magnitude cost estimate for the project's design and construction.
+
+. In deliberations related to submitting an exception under subsection (6) of this section, the office of financial management shall consider the following factors:
+
+.. Whether there is any determination to be made regarding the site of the project;
+
+.. Whether there is any determination to be made regarding whether the project will involve renovation, new construction, or both;
+
+.. Whether, within six years of submitting the request for funding, the agency has completed, or initiated the construction of, a substantially similar project;
+
+.. Whether there is any anticipated change to the project's program or the services to be delivered at the facility;
+
+.. Whether the requesting agency indicates that the project may not require some or all of the requirements in subsection (5) of this section due to a lack of complexity; and
+
+.. Whether any other factors related to project complexity or risk, as determined by the office of financial management, could reduce the need for, or scope of, a predesign.
+
+. If under subsection (6) of this section, some or all of the predesign requirements under subsection (5) of this section are waived, the office of financial management may instead propose a professional project cost estimate instead of a request for predesign funding.
 
 . No expenditure may be incurred or obligation entered into for such major capital construction projects including, without exception, land acquisition, site development, predesign, design, construction, and equipment acquisition and installation, until the allotment of the funds to be expended has been approved by the office of financial management. This limitation does not prohibit the continuation of expenditures and obligations into the succeeding biennium for projects for which allotments have been approved in the immediate prior biennium.
 
@@ -419,7 +437,7 @@ This data may be incorporated into the existing accounting system or into a sepa
 
 . The director of financial management may exempt certain public funds from the allotment controls established under this chapter if it is not practical or necessary to allot the funds. Allotment control exemptions expire at the end of the fiscal biennium for which they are granted. The director of financial management shall report any exemptions granted under this subsection to the legislative fiscal committees.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2613-S.SL.pdf?cite=2014%20c%20162%20§%204[2014 c 162 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2327-S.SL.pdf?cite=2009%20c%20518%20§%203[2009 c 518 § 3]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2196-S.SL.pdf?cite=2003%20c%20206%20§%201[2003 c 206 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1066.SL.pdf?cite=1997%20c%2096%20§%206[1997 c 96 § 6]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2237-S.SL.pdf?cite=1994%20c%20219%20§%205[1994 c 219 § 5]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1025-S.SL.pdf?cite=1991%20sp.s.%20c%2032%20§%2027[1991 sp.s. c 32 § 27]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2140-S.SL.pdf?cite=1991%20c%20358%20§%202[1991 c 358 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c502.pdf?cite=1987%20c%20502%20§%205[1987 c 502 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c215.pdf?cite=1986%20c%20215%20§%204[1986 c 215 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c138.pdf?cite=1984%20c%20138%20§%208[1984 c 138 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c47.pdf?cite=1983%201st%20ex.s.%20c%2047%20§%201[1983 1st ex.s. c 47 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982ex2c15.pdf?cite=1982%202nd%20ex.s.%20c%2015%20§%201[1982 2nd ex.s. c 15 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c270.pdf?cite=1981%20c%20270%20§%205[1981 c 270 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c151.pdf?cite=1979%20c%20151%20§%20138[1979 c 151 § 138]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c293.pdf?cite=1975%201st%20ex.s.%20c%20293%20§%206[1975 1st ex.s. c 293 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c8.pdf?cite=1965%20c%208%20§%2043.88.110[1965 c 8 § 43.88.110]; prior:  1959 c 328 § 11; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1023.SL.pdf?cite=2021%20c%2054%20§%202[2021 c 54 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2613-S.SL.pdf?cite=2014%20c%20162%20§%204[2014 c 162 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2327-S.SL.pdf?cite=2009%20c%20518%20§%203[2009 c 518 § 3]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2196-S.SL.pdf?cite=2003%20c%20206%20§%201[2003 c 206 § 1]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1066.SL.pdf?cite=1997%20c%2096%20§%206[1997 c 96 § 6]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2237-S.SL.pdf?cite=1994%20c%20219%20§%205[1994 c 219 § 5]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1025-S.SL.pdf?cite=1991%20sp.s.%20c%2032%20§%2027[1991 sp.s. c 32 § 27]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2140-S.SL.pdf?cite=1991%20c%20358%20§%202[1991 c 358 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c502.pdf?cite=1987%20c%20502%20§%205[1987 c 502 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c215.pdf?cite=1986%20c%20215%20§%204[1986 c 215 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c138.pdf?cite=1984%20c%20138%20§%208[1984 c 138 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c47.pdf?cite=1983%201st%20ex.s.%20c%2047%20§%201[1983 1st ex.s. c 47 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982ex2c15.pdf?cite=1982%202nd%20ex.s.%20c%2015%20§%201[1982 2nd ex.s. c 15 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c270.pdf?cite=1981%20c%20270%20§%205[1981 c 270 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c151.pdf?cite=1979%20c%20151%20§%20138[1979 c 151 § 138]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c293.pdf?cite=1975%201st%20ex.s.%20c%20293%20§%206[1975 1st ex.s. c 293 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c8.pdf?cite=1965%20c%208%20§%2043.88.110[1965 c 8 § 43.88.110]; prior:  1959 c 328 § 11; ]
 
 == 43.88.120 - Revenue estimates.
 Each agency engaged in the collection of revenues shall prepare estimated revenues and estimated receipts for the current and ensuing biennium and shall submit the estimates to the director of financial management and the director of revenue at times and in the form specified by the directors, along with any other information which the directors may request. For those agencies required to develop six-year programs and financial plans under *RCW 44.40.070, six-year revenue estimates shall be submitted to the director of financial management and the transportation committees of the senate and the house of representatives unless the responsibility for reporting these revenue estimates is assumed elsewhere.
@@ -738,17 +756,17 @@ The director of financial management shall establish policies and standards gove
 
 [ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/2881-S2.SL.pdf?cite=1998%20c%20232%20§%202[1998 c 232 § 2]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/1325-S.SL.pdf?cite=1997%20c%20374%20§%203[1997 c 374 § 3]; ]
 
-== 43.88.580 - Database of state agency contracts for personal services—State expenditure information web site.
+== 43.88.580 - Database of state agency contracts for personal services—State expenditure information website.
 . The department of enterprise services shall make electronically available to the public a database of state agency contracts for personal services required to be filed with the department of enterprise services under *chapter 39.29 RCW.
 
-. The state expenditure information web site described in RCW 44.48.150 shall include a link to the department of enterprise services database described in subsection (1) of this section.
+. The state expenditure information website described in RCW 44.48.150 shall include a link to the department of enterprise services database described in subsection (1) of this section.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5931-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2043%20§%20534[2011 1st sp.s. c 43 § 534]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6818.SL.pdf?cite=2008%20c%20326%20§%203[2008 c 326 § 3]; ]
 
-== 43.88.583 - Public inspection of state collective bargaining agreements—Web site—Contents.
-. To facilitate public inspection of state collective bargaining agreements, the office of financial management must maintain a web site that is accessible to the public of all agreements collectively bargained with state employees under the authority of chapters 28B.52, 41.56, 41.76, 41.80, and 47.64 RCW. In addition, the web site must contain all agreements collectively bargained with persons who are state employees solely for the purpose of collective bargaining under RCW 41.56.026, 41.56.028, 41.56.029, 41.56.473, 41.56.510, and 74.39A.270. Tentatively agreed to collective bargaining agreements must be posted to the web site in a searchable format within forty-five days of being submitted to the office of financial management. Revisions and modification to agreements must be posted to the web site within fifteen days of the agreement being signed by both parties.
+== 43.88.583 - Public inspection of state collective bargaining agreements—Website—Contents.
+. To facilitate public inspection of state collective bargaining agreements, the office of financial management must maintain a website that is accessible to the public of all agreements collectively bargained with state employees under the authority of chapters 28B.52, 41.56, 41.76, 41.80, and 47.64 RCW. In addition, the website must contain all agreements collectively bargained with persons who are state employees solely for the purpose of collective bargaining under RCW 41.56.026, 41.56.028, 41.56.029, 41.56.473, 41.56.510, and 74.39A.270. Tentatively agreed to collective bargaining agreements must be posted to the website in a searchable format within forty-five days of being submitted to the office of financial management. Revisions and modification to agreements must be posted to the website within fifteen days of the agreement being signed by both parties.
 
-. To facilitate public understanding of state collective bargaining agreements, the office of financial management must prepare a summary of each agreement subject to subsection (1) of this section for posting on the web site by December 20th of the year in which the agreement was negotiated, but no later than the date that the governor submits a request for funding to the legislature. The summary must identify the following information for each agreement:
+. To facilitate public understanding of state collective bargaining agreements, the office of financial management must prepare a summary of each agreement subject to subsection (1) of this section for posting on the website by December 20th of the year in which the agreement was negotiated, but no later than the date that the governor submits a request for funding to the legislature. The summary must identify the following information for each agreement:
 
 .. The term of the agreement;
 
@@ -784,17 +802,17 @@ The director of financial management shall establish policies and standards gove
 
 . For collective bargaining agreements negotiated by institutions of higher education, the institution of higher education must:
 
-.. Provide the office of financial management with a searchable version of the tentatively agreed to collective bargaining agreements to be posted on the web site identified in subsection (1) of this section to within forty days of submitting the agreements to the office of financial management.
+.. Provide the office of financial management with a searchable version of the tentatively agreed to collective bargaining agreements to be posted on the website identified in subsection (1) of this section to within forty days of submitting the agreements to the office of financial management.
 
-.. Submit revisions and modifications to agreements to the office of financial management to be posted to the web site identified in subsection (1) of this section within ten days of the agreement being signed by both parties.
+.. Submit revisions and modifications to agreements to the office of financial management to be posted to the website identified in subsection (1) of this section within ten days of the agreement being signed by both parties.
 
 .. Submit a summary of each agreement to the office of financial management by December 10th of the year in which a master agreement was negotiated or within fifteen days of a contract revision. The summary must include the information identified in subsection (2)(a) through (p) of this section.
 
-. The office of financial management must also include on the web site any additional information identified in budget instructions developed by the office of financial management or that is otherwise required under RCW 43.88.030.
+. The office of financial management must also include on the website any additional information identified in budget instructions developed by the office of financial management or that is otherwise required under RCW 43.88.030.
 
-. Information on the web site may include links to salary schedules, pay ranges, and other information on state or federal agency web sites to summarize information. Information may include links to specific language within an agreement to summarize information.
+. Information on the website may include links to salary schedules, pay ranges, and other information on state or federal agency websites to summarize information. Information may include links to specific language within an agreement to summarize information.
 
-. By January 1, 2018, the information under this section must be incorporated into the state expenditure information web site maintained by the legislative evaluation and accountability program committee under RCW 44.48.150.
+. By January 1, 2018, the information under this section must be incorporated into the state expenditure information website maintained by the legislative evaluation and accountability program committee under RCW 44.48.150.
 
 . The summaries of collective bargaining agreements created under this section must not disclose personally identifiable information of any bargaining unit member.
 
@@ -802,18 +820,20 @@ The director of financial management shall establish policies and standards gove
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5969.SL.pdf?cite=2017%203rd%20sp.s.%20c%2023%20§%201[2017 3rd sp.s. c 23 § 1]; ]
 
-== 43.88.585 - Fee inventory—State expenditure information web site—Work group.
+== 43.88.585 - Fee inventory—State expenditure information website—Work group.
 . By January 1, 2014, the office of financial management shall compile, maintain, and periodically update an inventory of all fees imposed by state agencies and institutions of higher education pursuant to statute or administrative rule. At a minimum, the inventory shall identify the agency or institution collecting the fee, the purpose of the fee, the current amount of the fee, the amount of the fee over the previous five years, and the statutory authority for the fee. The office of financial management may aggregate or consolidate fee information when there is commonality among the fee payers or the purposes for which the fee is paid.
 
 . To facilitate the fee inventory under this section, each state agency and institution of higher education shall report the information required under subsection (1) of this section to the office of financial management and shall update the information at least every two years.
 
-. The fee inventory under this section shall be incorporated into the state expenditure information web site maintained by the legislative evaluation and accountability program committee under RCW 44.48.150.
+. The fee inventory under this section shall be incorporated into the state expenditure information website maintained by the legislative evaluation and accountability program committee under RCW 44.48.150.
 
 . The office of financial management shall convene a work group consisting of representatives from the legislative evaluation and accountability program committee, the office of regulatory assistance, the department of licensing, the department of labor and industries, the department of transportation, and the department of health to develop a process to facilitate more frequent updates to the inventory and to recommend changes to increase public accessibility.
 
 . For purposes of this section, "fee" means any charge, fixed by law or administrative rule, for the benefit of a service or to cover the cost of a regulatory program or the costs of administering a program for which the fee payer benefits. "Fee" does not include taxes; penalties or fines; intergovernmental charges; commercial charges; pension or health care contributions or rates; industrial, unemployment, or other state-operated insurance programs; or individualized cost recoveries.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5751.SL.pdf?cite=2013%20c%2063%20§%201[2013 c 63 § 1]; ]
+. The requirements in this section are suspended during the 2019-2021 and 2021-2023 fiscal biennia.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5092-S.SL.pdf?cite=2021%20c%20334%20§%20974[2021 c 334 § 974]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5751.SL.pdf?cite=2013%20c%2063%20§%201[2013 c 63 § 1]; ]
 
 == 43.88.899 - Intent—Periodic review.
 The amendments to chapter 43.88 RCW by chapter 215, Laws of 1986 are intended to improve the reporting of state budgeting, accounting, and other fiscal data. The legislative evaluation and accountability program committee shall periodically review chapter 43.88 RCW and shall recommend further revisions if needed.

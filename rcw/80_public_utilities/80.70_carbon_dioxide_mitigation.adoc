@@ -4,7 +4,7 @@
 == 80.70.010 - Definitions.
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 
-. "Applicant" has the meaning provided in RCW 80.50.020 and includes an applicant for a permit for a fossil-fueled thermal electric generation facility subject to RCW * 70.94.152 and 80.70.020(1) (b) or (d).
+. "Applicant" has the meaning provided in RCW 80.50.020 and includes an applicant for a permit for a fossil-fueled thermal electric generation facility subject to RCW 70A.15.2210 and 80.70.020(1) (b) or (d).
 
 . "Authority" means any air pollution control agency whose jurisdictional boundaries are coextensive with the boundaries of one or more counties.
 
@@ -28,7 +28,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 . "Mitigation project" means one or more of the following:
 
-.. Projects or actions that are implemented by the certificate holder or order of approval holder, directly or through its agent, or by an independent qualified organization to mitigate the emission of carbon dioxide produced by the fossil-fueled thermal electric generation facility. This term includes but is not limited to the use of, energy efficiency measures, clean and efficient transportation measures, qualified alternative energy resources, demand side management of electricity consumption, and carbon sequestration programs;
+.. Projects or actions that are implemented by the certificate holder or order of approval holder, directly or through its agent, or by an independent qualified organization to mitigate the emission of carbon dioxide produced by the fossil-fueled thermal electric generation facility. This term includes but is not limited to the use of, energy efficiency measures, clean and efficient transportation measures, qualified alternative energy resources, demand-side management of electricity consumption, and carbon sequestration programs;
 
 .. Direct application of combined heat and power (cogeneration);
 
@@ -36,7 +36,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 .. Enforceable and permanent reductions in carbon dioxide or carbon dioxide equivalents through process change, equipment shutdown, or other activities under the control of the applicant and approved as part of a carbon dioxide mitigation plan.
 
-. "Order of approval" means an order issued under *RCW 70.94.152 with respect to a fossil-fueled thermal electric generation facility subject to RCW 80.70.020(1) (b) or (d).
+. "Order of approval" means an order issued under RCW 70A.15.2210 with respect to a fossil-fueled thermal electric generation facility subject to RCW 80.70.020(1) (b) or (d).
 
 . "Permanent" means that emission reductions used to offset emission increases are assured for the life of the corresponding increase, whether unlimited or limited in duration.
 
@@ -50,7 +50,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 .. For a fossil-fueled thermal electric generation facility described under RCW 80.70.020(1) (c) and (d), the amount of carbon dioxide emitted over a thirty-year period based on the proposed increase in the amount of electrical output of the facility that exceeds the station generation capability of the facility prior to the applicant applying for certification or an order of approval pursuant to RCW 80.70.020(1) (c) and (d), new equipment heat rate, an assumed sixty percent capacity factor for facilities under the council's jurisdiction or sixty percent of the operational limitations on facilities subject to an order of approval, and taking into account any enforceable limitations on operational hours or fuel types and use.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/3141-S.SL.pdf?cite=2004%20c%20224%20§%201[2004 c 224 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2098[2021 c 65 § 98]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/3141-S.SL.pdf?cite=2004%20c%20224%20§%201[2004 c 224 § 1]; ]
 
 == 80.70.020 - Applicability of chapter—Carbon dioxide mitigation plan—Mitigation by a third party.
 . The provisions of this chapter apply to:
@@ -114,7 +114,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 . Mitigation projects must be approved by the council, department, or authority, as appropriate, and made a condition of the proposed and final site certification agreement or order of approval. Direct investment mitigation projects shall be approved if the mitigation projects provide a reasonable certainty that the performance requirements of the mitigation projects will be achieved and the mitigation projects were implemented after July 1, 2004. No certificate holder or order of approval holder shall be required to make direct investments that would exceed the cost of making a lump sum payment to a third party, had the certificate holder or order of approval holder chosen that option under RCW 80.70.020.
 
-. Mitigation projects must be fully in place within a reasonable time after the start of commercial operation. Failure to implement an approved mitigation plan is subject to enforcement under chapter 80.50 or * 70.94 RCW.
+. Mitigation projects must be fully in place within a reasonable time after the start of commercial operation. Failure to implement an approved mitigation plan is subject to enforcement under chapter 80.50 or 70A.15 RCW.
 
 . The certificate holder or order of approval holder may not use more than twenty percent of the total funds for the selection, monitoring, and evaluation of mitigation projects and the management and enforcement of contracts.
 
@@ -125,7 +125,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 . Upon promulgation of federal requirements for carbon dioxide mitigation for fossil-fueled thermal electric generation facilities, those requirements may be deemed by the council, department, or authority to be equivalent and a replacement for the requirements of this section.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/3141-S.SL.pdf?cite=2004%20c%20224%20§%204[2004 c 224 § 4]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2099[2021 c 65 § 99]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/3141-S.SL.pdf?cite=2004%20c%20224%20§%204[2004 c 224 § 4]; ]
 
 == 80.70.050 - Independent qualified organizations with experience in mitigation activities—Council oversight—Reports.
 . The council shall maintain a list of independent qualified organizations with proven experience in emissions mitigation activities and a demonstrated ability to carry out their activities in an efficient, reliable, and cost-effective manner.

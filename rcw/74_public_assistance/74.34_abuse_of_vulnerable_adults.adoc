@@ -160,7 +160,7 @@ The cost of benefits and services provided to a vulnerable adult under this chap
 
 . Unless there is a judicial proceeding or the person consents, the identity of the person making the report under this section is confidential.
 
-. In conducting an investigation of abandonment, abuse, financial exploitation, self-neglect, or neglect, the department or law enforcement, upon request, must have access to all relevant records related to the vulnerable adult that are in the possession of mandated reporters and their employees, unless otherwise prohibited by law. Records maintained under RCW 4.24.250, 18.20.390, 43.70.510, 70.41.200, 70.230.080, and 74.42.640 shall not be subject to the requirements of this subsection. Providing access to records relevant to an investigation by the department or law enforcement under this provision may not be deemed a violation of any confidential communication privilege. Access to any records that would violate attorney-client privilege shall not be provided without a court order unless otherwise required by court rule or caselaw.
+. In conducting an investigation of abandonment, abuse, financial exploitation, self-neglect, or neglect, the department or law enforcement, upon request, must have access to all relevant records related to the vulnerable adult that are in the possession of mandated reporters and their employees, unless otherwise prohibited by law. Records maintained under RCW 4.24.250, 18.20.390, 43.70.510, 70.41.200, 70.230.080, and 74.42.640 shall not be subject to the requirements of this subsection. Providing access to records relevant to an investigation by the department or law enforcement under this provision may not be deemed a violation of any confidential communication privilege. Access to any records that would violate attorney-client privilege shall not be provided without a court order unless otherwise required by court rule or case law.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5510.SL.pdf?cite=2013%20c%20263%20§%202[2013 c 263 § 2]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6202-S.SL.pdf?cite=2010%20c%20133%20§%204[2010 c 133 § 4]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1904-S.SL.pdf?cite=2003%20c%20230%20§%202[2003 c 230 § 2]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1620-S.SL.pdf?cite=1999%20c%20176%20§%205[1999 c 176 § 5]; ]
 
@@ -276,7 +276,7 @@ The department shall maintain a system for statistical data collection, accessib
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5077-S.SL.pdf?cite=2013%20c%2023%20§%20218[2013 c 23 § 218]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2637-S2.SL.pdf?cite=2000%20c%2087%20§%204[2000 c 87 § 4]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1620-S.SL.pdf?cite=1999%20c%20176%20§%2017[1999 c 176 § 17]; ]
 
-== 74.34.110 - Protection of vulnerable adults—Petition for protective order.
+== 74.34.110 - Protection of vulnerable adults—Petition for protective order. (Effective until July 1, 2022.)
 An action known as a petition for an order for protection of a vulnerable adult in cases of abandonment, abuse, financial exploitation, or neglect is created.
 
 . A vulnerable adult, or interested person on behalf of the vulnerable adult, may seek relief from abandonment, abuse, financial exploitation, or neglect, or the threat thereof, by filing a petition for an order for protection in superior court.
@@ -299,7 +299,7 @@ An action known as a petition for an order for protection of a vulnerable adult 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1008-S.SL.pdf?cite=2007%20c%20312%20§%203[2007 c 312 § 3]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1620-S.SL.pdf?cite=1999%20c%20176%20§%2012[1999 c 176 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c187.pdf?cite=1986%20c%20187%20§%205[1986 c 187 § 5]; ]
 
-== 74.34.115 - Protection of vulnerable adults—Administrative office of the courts—Standard petition—Order for protection—Standard notice—Court staff handbook.
+== 74.34.115 - Protection of vulnerable adults—Administrative office of the courts—Standard petition—Order for protection—Standard notice—Court staff handbook. (Effective until July 1, 2022.)
 . The administrative office of the courts shall develop and prepare standard petition, temporary order for protection, and permanent order for protection forms, a standard notice form to provide notice to the vulnerable adult if the vulnerable adult is not the petitioner, instructions, and a court staff handbook on the protection order process. The standard petition and order for protection forms must be used after October 1, 2007, for all petitions filed and orders issued under this chapter. The administrative office of the courts, in preparing the instructions, forms, notice, and handbook, may consult with attorneys from the elder law section of the Washington state bar association, judges, the department, the Washington protection and advocacy system, and law enforcement personnel.
 
 .. The instructions shall be designed to assist petitioners in completing the petition, and shall include a sample of the standard petition and order for protection forms.
@@ -310,7 +310,7 @@ An action known as a petition for an order for protection of a vulnerable adult 
 
 . The administrative office of the courts shall distribute a master copy of the standard forms, instructions, and court staff handbook to all court clerks and shall distribute a master copy of the standard forms to all superior, district, and municipal courts.
 
-. The administrative office of the courts shall determine the significant non-English-speaking or limited-English-speaking populations in the state. The administrator shall then arrange for translation of the instructions required by this section, which shall contain a sample of the standard forms, into the languages spoken by those significant non-English-speaking populations, and shall distribute a master copy of the translated instructions to all court clerks by December 31, 2007.
+. The administrative office of the courts shall determine the significant non-English-speaking or limited English-speaking populations in the state. The administrator shall then arrange for translation of the instructions required by this section, which shall contain a sample of the standard forms, into the languages spoken by those significant non-English-speaking populations, and shall distribute a master copy of the translated instructions to all court clerks by December 31, 2007.
 
 . The administrative office of the courts shall update the instructions, standard forms, and court staff handbook when changes in the law make an update necessary. The updates may be made in consultation with the persons and entities specified in subsection (1) of this section.
 
@@ -318,7 +318,7 @@ An action known as a petition for an order for protection of a vulnerable adult 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1008-S.SL.pdf?cite=2007%20c%20312%20§%204[2007 c 312 § 4]; ]
 
-== 74.34.120 - Protection of vulnerable adults—Hearing.
+== 74.34.120 - Protection of vulnerable adults—Hearing. (Effective until July 1, 2022.)
 . The court shall order a hearing on a petition under RCW 74.34.110 not later than fourteen days from the date of filing the petition.
 
 . Personal service shall be made upon the respondent not less than six court days before the hearing. When good faith attempts to personally serve the respondent have been unsuccessful, the court shall permit service by mail or by publication.
@@ -334,7 +334,7 @@ An action known as a petition for an order for protection of a vulnerable adult 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1008-S.SL.pdf?cite=2007%20c%20312%20§%205[2007 c 312 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c187.pdf?cite=1986%20c%20187%20§%206[1986 c 187 § 6]; ]
 
-== 74.34.130 - Protection of vulnerable adults—Judicial relief.
+== 74.34.130 - Protection of vulnerable adults—Judicial relief. (Effective until July 1, 2022.)
 The court may order relief as it deems necessary for the protection of the vulnerable adult, including, but not limited to the following:
 
 . Restraining respondent from committing acts of abandonment, abuse, neglect, or financial exploitation against the vulnerable adult;
@@ -366,24 +366,24 @@ Any relief granted by an order for protection, other than a judgment for costs, 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1008-S.SL.pdf?cite=2007%20c%20312%20§%209[2007 c 312 § 9]; ]
 
-== 74.34.140 - Protection of vulnerable adults—Execution of protective order.
+== 74.34.140 - Protection of vulnerable adults—Execution of protective order. (Effective until July 1, 2022.)
 When an order for protection under RCW 74.34.130 is issued upon request of the petitioner, the court may order a peace officer to assist in the execution of the order of protection. A public agency may not charge a fee for service of process to petitioners seeking relief under this chapter. Petitioners must be provided the necessary number of certified copies at no cost.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/6403-S.SL.pdf?cite=2012%20c%20156%20§%202[2012 c 156 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c187.pdf?cite=1986%20c%20187%20§%208[1986 c 187 § 8]; ]
 
-== 74.34.145 - Protection of vulnerable adults—Notice of criminal penalties for violation—Enforcement under RCW  26.50.110.
+== 74.34.145 - Protection of vulnerable adults—Notice of criminal penalties for violation—Enforcement under RCW  26.50.110. (Effective until July 1, 2022.)
 . An order for protection of a vulnerable adult issued under this chapter, which restrains the respondent or another person from committing acts of abuse, prohibits contact with the vulnerable adult, excludes the person from any specified location, or prohibits the person from coming within a specified distance from a location, shall prominently bear on the front page of the order the legend: VIOLATION OF THIS ORDER WITH ACTUAL NOTICE OF ITS TERMS IS A CRIMINAL OFFENSE UNDER CHAPTER 26.50 RCW AND WILL SUBJECT A VIOLATOR TO ARREST.
 
 . Whenever an order for protection of a vulnerable adult is issued under this chapter and the respondent or person to be restrained knows of the order, a violation of a provision restraining the person from committing acts of abuse, prohibiting contact with the vulnerable adult, excluding the person from any specified location, or prohibiting the person from coming within a specified distance of a location shall be punishable under RCW 26.50.110, regardless of whether the person is a family or household member or intimate partner as defined in RCW 26.50.010.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2473-S.SL.pdf?cite=2020%20c%2029%20§%2017[2020 c 29 § 17]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1008-S.SL.pdf?cite=2007%20c%20312%20§%207[2007 c 312 § 7]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6400-S2.SL.pdf?cite=2000%20c%20119%20§%202[2000 c 119 § 2]; ]
 
-== 74.34.150 - Protection of vulnerable adults—Department may seek relief.
+== 74.34.150 - Protection of vulnerable adults—Department may seek relief. (Effective until July 1, 2022.)
 The department of social and health services, in its discretion, may seek relief under RCW 74.34.110 through 74.34.140 on behalf of and with the consent of any vulnerable adult. When the department has reason to believe a vulnerable adult lacks the ability or capacity to consent, the department, in its discretion, may seek relief under RCW 74.34.110 through 74.34.140 on behalf of the vulnerable adult. Neither the department of social and health services nor the state of Washington shall be liable for seeking or failing to seek relief on behalf of any persons under this section.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1008-S.SL.pdf?cite=2007%20c%20312%20§%208[2007 c 312 § 8]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c187.pdf?cite=1986%20c%20187%20§%209[1986 c 187 § 9]; ]
 
-== 74.34.160 - Protection of vulnerable adults—Proceedings are supplemental.
+== 74.34.160 - Protection of vulnerable adults—Proceedings are supplemental. (Effective until July 1, 2022.)
 Any proceeding under RCW 74.34.110 through 74.34.150 is in addition to any other civil or criminal remedies.
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c187.pdf?cite=1986%20c%20187%20§%2011[1986 c 187 § 11]; ]
@@ -450,7 +450,7 @@ The provision of services under RCW * 74.34.030, 74.34.040, 74.34.050, and ** 74
 
 [ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1620-S.SL.pdf?cite=1999%20c%20176%20§%2016[1999 c 176 § 16]; ]
 
-== 74.34.210 - Order for protection or action for damages—Standing—Jurisdiction.
+== 74.34.210 - Order for protection or action for damages—Standing—Jurisdiction. (Effective until July 1, 2022.)
 A petition for an order for protection may be brought by the vulnerable adult, the vulnerable adult's guardian or legal fiduciary, the department, or any interested person as defined in RCW 74.34.020. An action for damages under this chapter may be brought by the vulnerable adult, or where necessary, by his or her family members and/or guardian or legal fiduciary. The death of the vulnerable adult shall not deprive the court of jurisdiction over a petition or claim brought under this chapter. Upon petition, after the death of the vulnerable adult, the right to initiate or maintain the action shall be transferred to the executor or administrator of the deceased, for recovery of all damages for the benefit of the deceased person's beneficiaries set forth in chapter 4.20 RCW or if there are no beneficiaries, then for recovery of all economic losses sustained by the deceased person's estate.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1008-S.SL.pdf?cite=2007%20c%20312%20§%2011[2007 c 312 § 11]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1908-S2.SL.pdf?cite=1995%201st%20sp.s.%20c%2018%20§%2086[1995 1st sp.s. c 18 § 86]; ]
@@ -482,7 +482,7 @@ A petition for an order for protection may be brought by the vulnerable adult, t
 
 .. The time when the financial institution is satisfied that the disbursement will not result in financial exploitation of a vulnerable adult.
 
-. A court of competent jurisdiction may enter an order extending the refusal by the financial institution to disburse funds based on a reasonable belief that financial exploitation of a vulnerable adult may have occurred, may have been attempted, or is being attempted. A court of competent jurisdiction may also order other protective relief as authorized by RCW 7.40.010 and 74.34.130.
+. A court of competent jurisdiction may enter an order extending the refusal by the financial institution to disburse funds based on a reasonable belief that financial exploitation of a vulnerable adult may have occurred, may have been attempted, or is being attempted. A court of competent jurisdiction may also order other protective relief as authorized by RCW 7.40.010 and * 74.34.130.
 
 . A financial institution or an employee of a financial institution is immune from criminal, civil, and administrative liability for refusing to disburse funds or disbursing funds under this section and for actions taken in furtherance of that determination if the determination of whether or not to disburse funds was made in good faith.
 

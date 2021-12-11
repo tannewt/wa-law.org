@@ -54,7 +54,7 @@
 
 . A stewardship organization may be designated to act as an agent on behalf of a manufacturer or manufacturers in operating and implementing the stewardship program required under this chapter. Any stewardship organization that has obtained such designation must provide to the department a list of the manufacturers and brand names that the stewardship organization represents within sixty days of its designation by a manufacturer as its agent, or within sixty days of removal of such designation.
 
-. Each manufacturer must prepare and submit a stewardship plan to the department by the later of July 1, 2022, or within thirty days of its first sale of a photovoltaic module in or into the state.
+. Each manufacturer must prepare and submit a stewardship plan to the department by the later of July 1, 2024, or within thirty days of its first sale of a photovoltaic module in or into the state.
 
 .. A stewardship plan must, at a minimum:
 
@@ -77,13 +77,13 @@
 . The department must approve a stewardship plan if it determines the plan addresses each element outlined in the department's guidance.
 
 . [Empty]
-.. Beginning April 1, 2024, and by April 1st in each subsequent year, a manufacturer, or its designated stewardship organization, must provide to the department a report for the previous calendar year that documents implementation of the plan and assesses achievement of the performance goals established in subsection (5)(a)(vi) of this section.
+.. Beginning April 1, 2026, and by April 1st in each subsequent year, a manufacturer, or its designated stewardship organization, must provide to the department a report for the previous calendar year that documents implementation of the plan and assesses achievement of the performance goals established in subsection (5)(a)(vi) of this section.
 
 .. The report may include any recommendations to the department or the legislature on modifications to the program that would enhance the effectiveness of the program, including management of program costs and mitigation of environmental impacts of photovoltaic modules.
 
-.. The manufacturer or stewardship organization must post this report on a publicly accessible web site.
+.. The manufacturer or stewardship organization must post this report on a publicly accessible website.
 
-. Beginning July 1, 2023, no manufacturer, distributor, retailer, or installer may sell or offer for sale a photovoltaic module in or into the state unless the manufacturer of the photovoltaic module has submitted to the department a stewardship plan and received plan approval.
+. Beginning July 1, 2025, no manufacturer, distributor, retailer, or installer may sell or offer for sale a photovoltaic module in or into the state unless the manufacturer of the photovoltaic module has submitted to the department a stewardship plan and received plan approval.
 
 .. The department must send a written warning to a manufacturer that is not participating in a plan. The written warning must inform the manufacturer that it must submit a plan or participate in a plan within thirty days of the notice. The department may assess a penalty of up to ten thousand dollars upon a manufacturer for each sale that occurs in or into the state of a photovoltaic module for which a stewardship plan has not been submitted by the manufacturer and approved by the department after the initial written warning. A manufacturer may appeal a penalty issued under this section to the superior court of Thurston county within one hundred eighty days of receipt of the notice.
 
@@ -97,5 +97,5 @@
 
 . In lieu of preparing a stewardship plan and as provided by subsection (5) of this section, a manufacturer may participate in a national program for the convenient, safe, and environmentally sound takeback and recycling of photovoltaic modules and their components and materials, if substantially equivalent to the intent of the state program. The department may determine substantial equivalence if it determines that the national program adequately addresses and fulfills each of the elements of a stewardship plan outlined in subsection (5)(a) of this section and includes an enforcement mechanism reasonably calculated to ensure a manufacturer's compliance with the national program. Upon issuing a determination of substantial equivalence, the department must notify affected stakeholders including the manufacturer. If the national program is discontinued or the department determines the national program is no longer substantially equivalent to the state program in Washington, the department must notify the manufacturer and the manufacturer must provide a stewardship plan as described in subsection (5)(a) of this section to the department for approval within thirty days of notification.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2645-S.SL.pdf?cite=2020%20c%20287%20§%201[2020 c 287 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5939-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2036%20§%2012[2017 3rd sp.s. c 36 § 12]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1393.SL.pdf?cite=2021%20c%2045%20§%201[2021 c 45 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2645-S.SL.pdf?cite=2020%20c%20287%20§%201[2020 c 287 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5939-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%2036%20§%2012[2017 3rd sp.s. c 36 § 12]; ]
 

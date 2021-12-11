@@ -6,7 +6,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 . "Community" means a group of people who reside or work in the geographic area established by the community preservation and development authority board or the proposal to create the authority and who currently or historically share a distinct cultural identity or local history.
 
-. "Community preservation and development authority" or "authority" means an authority created by members of an impacted community.
+. "Community preservation and development authority" or "authority" means a public body corporate and politic and instrumentality of the state of Washington created by members of an impacted community.
 
 . "Constituency" means the general membership of the community preservation and development authority, which membership must be open to all persons eighteen years of age and over who are residents, property owners, employees, or business persons within the geographic boundaries established by the authority or the proposal to create the authority.
 
@@ -14,7 +14,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 . "Major public facilities project, public works project, or capital project with significant public funding" means any capital project whose total cost exceeds ten million dollars. On July 1, 2019, and on July 1st of each odd-numbered year thereafter, the capital project cost threshold must be adjusted by the capital project cost adjustment factor for inflation established by the office of financial management.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1918.SL.pdf?cite=2019%20c%20447%20§%203[2019 c 447 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1471.SL.pdf?cite=2021%20c%2047%20§%201[2021 c 47 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1918.SL.pdf?cite=2019%20c%20447%20§%203[2019 c 447 § 3]; ]
 
 == 43.167.007 - Purpose.
 . Community preservation and development authorities are hereby created to restore or enhance the health, safety, and economic well-being of communities adversely impacted by the construction of, or ongoing operation of, multiple major public facilities, public works, and capital projects with significant public funding or by other land use decisions.
@@ -60,19 +60,19 @@ The definitions in this section apply throughout this chapter unless the context
 
 .. Two representatives of the local legislative authority or authorities, as ex officio members.
 
-. No member of the board shall hold office for more than four years. Board positions shall be numbered one through nine, and the terms staggered as follows:
+. No member of the board shall hold office for more than six years. Board positions shall be numbered one through nine [thirteen], and the terms staggered as follows:
 
-.. Board members elected to positions one through five shall serve two-year terms, and if reelected, may serve no more than one additional two-year term.
+.. Board members elected to positions one through five shall serve three-year terms, and if reelected, may serve no more than one additional three-year term.
 
-.. Board members initially elected to positions six through thirteen shall serve a three-year term only.
+.. Board members initially elected to positions six through thirteen shall serve a two-year term, and if reelected, may serve no more than one additional three-year term.
 
-.. Board members elected to positions six through thirteen after the initial three-year term shall serve two-year terms, and if reelected, may serve no more than one additional two-year term.
+.. Board members elected to positions six through thirteen after the initially elected members shall serve three-year terms, and if reelected, may serve no more than one additional three-year term.
 
 . With respect to an authority's initial board of directors: The state legislative delegation and those proposing formation of the authority shall jointly establish a committee to select the members of the initial board of directors once the authority has received legislative approval as established in subsection (2) of this section. For the purpose of identifying those persons who meet the criteria in subsection (3)(a) through (e) of this section, community shall mean the proposed geographic boundaries as set out in the proposal.
 
 . With respect to subsequent elections of an authority's board of directors: A list of candidates shall be developed by the authority's existing board of directors and the election shall be held during the annual local town hall meeting as required in RCW 43.167.030.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1918.SL.pdf?cite=2019%20c%20447%20§%204[2019 c 447 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2125-S.SL.pdf?cite=2009%20c%20516%20§%201[2009 c 516 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6156-S.SL.pdf?cite=2007%20c%20501%20§%203[2007 c 501 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1471.SL.pdf?cite=2021%20c%2047%20§%202[2021 c 47 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1918.SL.pdf?cite=2019%20c%20447%20§%204[2019 c 447 § 4]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2125-S.SL.pdf?cite=2009%20c%20516%20§%201[2009 c 516 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6156-S.SL.pdf?cite=2007%20c%20501%20§%203[2007 c 501 § 3]; ]
 
 == 43.167.020 - Powers of authorities—Limitations.
 . A community preservation and development authority shall have the power to:

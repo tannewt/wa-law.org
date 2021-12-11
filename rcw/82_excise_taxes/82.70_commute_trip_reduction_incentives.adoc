@@ -4,21 +4,21 @@
 == 82.70.010 - Definitions. (Expires July 1, 2024.)
 The definitions in this section apply throughout this chapter and *RCW 70.94.996 unless the context clearly requires otherwise.
 
+. "Applicant" means a person applying for a tax credit under this chapter.
+
+. "Car sharing" means a membership program intended to offer an alternative to car ownership under which persons or entities that become members are permitted to use vehicles from a fleet on an hourly basis.
+
+. "Nonmotorized commuting" means commuting to and from the workplace by an employee by walking or running or by riding a bicycle or other device not powered by a motor.
+
 . "Public agency" means any county, city, or other local government agency or any state government agency, board, or commission.
 
 . "Public transportation" means the same as "public transportation service" as defined in RCW 36.57A.010 and includes passenger services of the Washington state ferries.
 
-. "Nonmotorized commuting" means commuting to and from the workplace by an employee by walking or running or by riding a bicycle or other device not powered by a motor.
-
-. "Ride sharing" means the same as "flexible commuter ride sharing" as defined in RCW 46.74.010, including ride sharing on Washington state ferries.
-
-. "Car sharing" means a membership program intended to offer an alternative to car ownership under which persons or entities that become members are permitted to use vehicles from a fleet on an hourly basis.
+. "Ride sharing" means the same as "ride sharing" as defined in RCW 46.74.010, including ride sharing on Washington state ferries.
 
 . "Telework" means a program where work functions that are normally performed at a traditional workplace are instead performed by an employee at his or her home at least one day a week for the purpose of reducing the number of trips to the employee's workplace.
 
-. "Applicant" means a person applying for a tax credit under this chapter.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6003.SL.pdf?cite=2005%20c%20297%20§%201[2005 c 297 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2228-S.SL.pdf?cite=2003%20c%20364%20§%201[2003 c 364 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1514-S.SL.pdf?cite=2021%20c%20135%20§%2010[2021 c 135 § 10]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6003.SL.pdf?cite=2005%20c%20297%20§%201[2005 c 297 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2228-S.SL.pdf?cite=2003%20c%20364%20§%201[2003 c 364 § 1]; ]
 
 == 82.70.020 - Tax credit authorized. (Expires July 1, 2024.)
 . Employers in this state who are taxable under chapter 82.04 or 82.16 RCW and provide financial incentives to their own or other employees for ride sharing, for using public transportation, for using car sharing, or for using nonmotorized commuting before January 1, 2024, are allowed a credit against taxes payable under chapters 82.04 and 82.16 RCW for amounts paid to or on behalf of employees for ride sharing in vehicles carrying two or more persons, for using public transportation, for using car sharing, or for using nonmotorized commuting, not to exceed sixty dollars per employee per fiscal year.

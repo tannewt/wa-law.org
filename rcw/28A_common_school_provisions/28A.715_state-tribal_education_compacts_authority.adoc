@@ -140,6 +140,11 @@
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6362-S2.SL.pdf?cite=2018%20c%20266%20§%20404[2018 c 266 § 404]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1134-S2.SL.pdf?cite=2013%20c%20242%20§%205[2013 c 242 § 5]; ]
 
+== 28A.715.050 - Student transportation allocation—Additional uses under emergency.
+RCW 28A.160.185 governs school operation and management under RCW 28A.715.020 and applies to state-tribal compact schools established under this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5128-S2.SL.pdf?cite=2021%20c%20234%20§%205[2021 c 234 § 5]; ]
+
 == 28A.715.800 - Modifications to school requirements—Pilot project. (Expires September 1, 2023.)
 . The office of the superintendent of public instruction shall establish a pilot project for one or more schools that are the subject of a state-tribal education compact, schools also known as "tribal compact schools," to implement modifications to requirements governing school attendance, school year length, and assessments. Tribal compact schools that apply to the office of the superintendent of public instruction to participate in the pilot project must be included in the pilot project.
 

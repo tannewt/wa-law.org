@@ -1,7 +1,7 @@
 = 9.41 - Firearms and dangerous weapons.
 :toc:
 
-== 9.41.010 - Terms defined.
+== 9.41.010 - Terms defined. (Effective until July 1, 2022.)
 Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
 
 . "Antique firearm" means a firearm or replica of a firearm not designed or redesigned for using rim fire or conventional center fire ignition with fixed ammunition and manufactured in or before 1898, including any matchlock, flintlock, percussion cap, or similar type of ignition system and also any firearm using fixed ammunition manufactured in or before 1898, for which ammunition is no longer manufactured in the United States and is not readily available in the ordinary channels of commercial trade.
@@ -140,7 +140,7 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2473-S.SL.pdf?cite=2020%20c%2029%20§%203[2020 c 29 § 3]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1739-S.SL.pdf?cite=2019%20c%20243%20§%201[2019 c 243 § 1]; 2019 c 3 § 16 (Initiative Measure No. 1639, approved November 6, 2018); http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5992.SL.pdf?cite=2018%20c%207%20§%201[2018 c 7 § 1]; prior:  2017 c 264 § 1; 2015 c 1 § 2 (Initiative Measure No. 594, approved November 4, 2014); http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1612-S.SL.pdf?cite=2013%20c%20183%20§%202[2013 c 183 § 2]; prior:  2009 c 216 § 1; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5790.SL.pdf?cite=2001%20c%20300%20§%202[2001 c 300 § 2]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/3900-S3.SL.pdf?cite=1997%20c%20338%20§%2046[1997 c 338 § 46]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2420-S.SL.pdf?cite=1996%20c%20295%20§%201[1996 c 295 § 1]; prior:  1994 sp.s. c 7 § 401; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2392.SL.pdf?cite=1994%20c%20121%20§%201[1994 c 121 § 1]; prior:  1992 c 205 § 117; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/6104-S.SL.pdf?cite=1992%20c%20145%20§%205[1992 c 145 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c232.pdf?cite=1983%20c%20232%20§%201[1983 c 232 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c302.pdf?cite=1971%20ex.s.%20c%20302%20§%201[1971 ex.s. c 302 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c124.pdf?cite=1961%20c%20124%20§%201[1961 c 124 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c172.pdf?cite=1935%20c%20172%20§%201[1935 c 172 § 1]; RRS § 2516-1; ]
 
-== 9.41.040 - Unlawful possession of firearms—Ownership, possession by certain persons—Restoration of right to possess—Penalties.
+== 9.41.040 - Unlawful possession of firearms—Ownership, possession by certain persons—Restoration of right to possess—Penalties. (Effective until July 1, 2022.)
 . [Empty]
 .. A person, whether an adult or juvenile, is guilty of the crime of unlawful possession of a firearm in the first degree, if the person owns, has in his or her possession, or has in his or her control any firearm after having previously been convicted or found not guilty by reason of insanity in this state or elsewhere of any serious offense as defined in this chapter.
 
@@ -322,7 +322,7 @@ The state of Washington, local governmental entities, and their officers, employ
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1041-S.SL.pdf?cite=2011%20c%20221%20§%203[2011 c 221 § 3]; ]
 
-== 9.41.070 - Concealed pistol license—Application—Fee—Renewal. (Effective until July 1, 2021.)
+== 9.41.070 - Concealed pistol license—Application—Fee—Renewal. (Effective until July 1, 2022.)
 . The chief of police of a municipality or the sheriff of a county shall within thirty days after the filing of an application of any person, issue a license to such person to carry a pistol concealed on his or her person within this state for five years from date of issue, for the purposes of protection or while engaged in business, sport, or while traveling. However, if the applicant does not have a valid permanent Washington driver's license or Washington state identification card or has not been a resident of the state for the previous consecutive ninety days, the issuing authority shall have up to sixty days after the filing of the application to issue a license. The issuing authority shall not refuse to accept completed applications for concealed pistol licenses during regular business hours.
 
 The applicant's constitutional right to bear arms shall not be denied, unless:
@@ -405,7 +405,7 @@ The renewal fee shall be distributed as follows:
 . [Empty]
 .. A licensee may renew a license if the licensee applies for renewal within ninety days before or after the expiration date of the license. A license so renewed shall take effect on the expiration date of the prior license. A licensee renewing after the expiration date of the license must pay a late renewal penalty of ten dollars in addition to the renewal fee specified in subsection (6) of this section. The fee shall be distributed as follows:
 
-... Three dollars shall be deposited in the state wildlife account and used exclusively first for the printing and distribution of a pamphlet on the legal limits of the use of firearms, firearms safety, and the preemptive nature of state law, and subsequently the support of volunteer instructors in the basic firearms safety training program conducted by the department of fish and wildlife. The pamphlet shall be given to each applicant for a license; and
+... Three dollars shall be deposited in the limited fish and wildlife account and used exclusively first for the printing and distribution of a pamphlet on the legal limits of the use of firearms, firearms safety, and the preemptive nature of state law, and subsequently the support of volunteer instructors in the basic firearms safety training program conducted by the department of fish and wildlife. The pamphlet shall be given to each applicant for a license; and
 
 ... Seven dollars shall be paid to the issuing authority for the purpose of enforcing this chapter.
 
@@ -440,7 +440,7 @@ The renewal fee shall be distributed as follows:
 
 .. A license renewed under this subsection takes effect on the expiration date of the prior license and is valid for a period of one year.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5508.SL.pdf?cite=2019%20c%20249%20§%201[2019 c 249 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1934.SL.pdf?cite=2019%20c%20135%20§%201[2019 c 135 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5333-S.SL.pdf?cite=2019%20c%2046%20§%205004[2019 c 46 § 5004]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2519.SL.pdf?cite=2018%20c%20226%20§%202[2018 c 226 § 2]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1388-S.SL.pdf?cite=2018%20c%20201%20§%206002[2018 c 201 § 6002]; prior:  2017 c 282 § 1; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1965.SL.pdf?cite=2017%20c%20174%20§%201[2017 c 174 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1100-S.SL.pdf?cite=2017%20c%2074%20§%201[2017 c 74 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1923-S.SL.pdf?cite=2011%20c%20294%20§%201[2011 c 294 § 1]; prior:  2009 c 216 § 5; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5739.SL.pdf?cite=2009%20c%2059%20§%201[2009 c 59 § 1]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2346-S2.SL.pdf?cite=2002%20c%20302%20§%20703[2002 c 302 § 703]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6052-S.SL.pdf?cite=1999%20c%20222%20§%202[1999 c 222 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2420-S.SL.pdf?cite=1996%20c%20295%20§%206[1996 c 295 § 6]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1152-S.SL.pdf?cite=1995%20c%20351%20§%201[1995 c 351 § 1]; prior:  1994 sp.s. c 7 § 407; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6057.SL.pdf?cite=1994%20c%20190%20§%202[1994 c 190 § 2]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2373-S.SL.pdf?cite=1992%20c%20168%20§%201[1992 c 168 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c195.pdf?cite=1990%20c%20195%20§%206[1990 c 195 § 6]; prior:  1988 c 263 § 10; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c223.pdf?cite=1988%20c%20223%20§%201[1988 c 223 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c219.pdf?cite=1988%20c%20219%20§%201[1988 c 219 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c36.pdf?cite=1988%20c%2036%20§%201[1988 c 36 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c428.pdf?cite=1985%20c%20428%20§%203[1985 c 428 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c232.pdf?cite=1983%20c%20232%20§%203[1983 c 232 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c158.pdf?cite=1979%20c%20158%20§%201[1979 c 158 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c302.pdf?cite=1971%20ex.s.%20c%20302%20§%202[1971 ex.s. c 302 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c124.pdf?cite=1961%20c%20124%20§%206[1961 c 124 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c172.pdf?cite=1935%20c%20172%20§%207[1935 c 172 § 7]; RRS § 2516-7; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6072-S.SL.pdf?cite=2020%20c%20148%20§%202[2020 c 148 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5508.SL.pdf?cite=2019%20c%20249%20§%201[2019 c 249 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1934.SL.pdf?cite=2019%20c%20135%20§%201[2019 c 135 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5333-S.SL.pdf?cite=2019%20c%2046%20§%205004[2019 c 46 § 5004]; prior:  2018 c 226 § 2; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1388-S.SL.pdf?cite=2018%20c%20201%20§%206002[2018 c 201 § 6002]; prior:  2017 c 282 § 1; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1965.SL.pdf?cite=2017%20c%20174%20§%201[2017 c 174 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1100-S.SL.pdf?cite=2017%20c%2074%20§%201[2017 c 74 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1923-S.SL.pdf?cite=2011%20c%20294%20§%201[2011 c 294 § 1]; prior:  2009 c 216 § 5; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5739.SL.pdf?cite=2009%20c%2059%20§%201[2009 c 59 § 1]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2346-S2.SL.pdf?cite=2002%20c%20302%20§%20703[2002 c 302 § 703]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6052-S.SL.pdf?cite=1999%20c%20222%20§%202[1999 c 222 § 2]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2420-S.SL.pdf?cite=1996%20c%20295%20§%206[1996 c 295 § 6]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1152-S.SL.pdf?cite=1995%20c%20351%20§%201[1995 c 351 § 1]; prior:  1994 sp.s. c 7 § 407; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/6057.SL.pdf?cite=1994%20c%20190%20§%202[1994 c 190 § 2]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/2373-S.SL.pdf?cite=1992%20c%20168%20§%201[1992 c 168 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c195.pdf?cite=1990%20c%20195%20§%206[1990 c 195 § 6]; prior:  1988 c 263 § 10; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c223.pdf?cite=1988%20c%20223%20§%201[1988 c 223 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c219.pdf?cite=1988%20c%20219%20§%201[1988 c 219 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c36.pdf?cite=1988%20c%2036%20§%201[1988 c 36 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c428.pdf?cite=1985%20c%20428%20§%203[1985 c 428 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c232.pdf?cite=1983%20c%20232%20§%203[1983 c 232 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c158.pdf?cite=1979%20c%20158%20§%201[1979 c 158 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c302.pdf?cite=1971%20ex.s.%20c%20302%20§%202[1971 ex.s. c 302 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c124.pdf?cite=1961%20c%20124%20§%206[1961 c 124 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c172.pdf?cite=1935%20c%20172%20§%207[1935 c 172 § 7]; RRS § 2516-7; ]
 
 == 9.41.073 - Concealed pistol license—Reciprocity.
 . [Empty]
@@ -456,7 +456,7 @@ The renewal fee shall be distributed as follows:
 
 [ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5083.SL.pdf?cite=2004%20c%20148%20§%201[2004 c 148 § 1]; ]
 
-== 9.41.075 - Concealed pistol license—Revocation.
+== 9.41.075 - Concealed pistol license—Revocation. (Effective until July 1, 2022.)
 . The license shall be revoked by the license-issuing authority immediately upon:
 
 .. Discovery by the issuing authority that the person was ineligible under RCW 9.41.070 for a concealed pistol license when applying for the license or license renewal;
@@ -868,7 +868,7 @@ It is a class C felony for any person who is not a citizen of the United States 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1052-S2.SL.pdf?cite=2009%20c%20216%20§%202[2009 c 216 § 2]; ]
 
-== 9.41.173 - Alien possession of firearms—Alien firearm license—Political subdivisions may not modify requirements—Penalty for false statement.
+== 9.41.173 - Alien possession of firearms—Alien firearm license—Political subdivisions may not modify requirements—Penalty for false statement. (Effective until July 1, 2022.)
 . In order to obtain an alien firearm license, a nonimmigrant alien residing in Washington must apply to the sheriff of the county in which he or she resides.
 
 . The sheriff of the county shall within sixty days after the filing of an application of a nonimmigrant alien residing in the state of Washington, issue an alien firearm license to such person to carry or possess a firearm for the purposes of hunting and sport shooting. The license shall be good for two years. The issuing authority shall not refuse to accept completed applications for alien firearm licenses during regular business hours. An application for a license may not be denied, unless the applicant's alien firearm license is in a revoked status, or the applicant:
@@ -1195,7 +1195,7 @@ The state of Washington hereby fully occupies and preempts the entire field of f
 
 [ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2319-S2.SL.pdf?cite=1994%20sp.s.%20c%207%20§%20428[1994 sp.s. c 7 § 428]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c428.pdf?cite=1985%20c%20428%20§%201[1985 c 428 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c232.pdf?cite=1983%20c%20232%20§%2012[1983 c 232 § 12]; ]
 
-== 9.41.300 - Weapons prohibited in certain places—Local laws and ordinances—Exceptions—Penalty.
+== 9.41.300 - Weapons prohibited in certain places—Local laws and ordinances—Exceptions—Penalty. (Effective until July 1, 2022.)
 . It is unlawful for any person to enter the following places when he or she knowingly possesses or knowingly has under his or her control a weapon:
 
 .. The restricted access areas of a jail, or of a law enforcement facility, or any place used for the confinement of a person (i) arrested for, charged with, or convicted of an offense, (ii) held for extradition or as a material witness, or (iii) otherwise confined pursuant to an order of a court, except an order under chapter 13.32A or 13.34 RCW. Restricted access areas do not include common areas of egress or ingress open to the general public;
@@ -1210,9 +1210,26 @@ The local judicial authority shall designate and clearly mark those areas where 
 
 .. The restricted access areas of a public mental health facility licensed or certified by the department of health for inpatient hospital care and state institutions for the care of the mentally ill, excluding those facilities solely for evaluation and treatment. Restricted access areas do not include common areas of egress and ingress open to the general public;
 
-.. That portion of an establishment classified by the state liquor and cannabis board as off-limits to persons under twenty-one years of age; or
+.. That portion of an establishment classified by the state liquor and cannabis board as off-limits to persons under 21 years of age; or
 
 .. The restricted access areas of a commercial service airport designated in the airport security plan approved by the federal transportation security administration, including passenger screening checkpoints at or beyond the point at which a passenger initiates the screening process. These areas do not include airport drives, general parking areas and walkways, and shops and areas of the terminal that are outside the screening checkpoints and that are normally open to unscreened passengers or visitors to the airport. Any restricted access area shall be clearly indicated by prominent signs indicating that firearms and other weapons are prohibited in the area.
+
+. [Empty]
+.. Except as provided in (c) of this subsection, it is unlawful for any person to knowingly open carry a firearm or other weapon while knowingly at any permitted demonstration. This subsection (2)(a) applies whether the person carries the firearm or other weapon on his or her person or in a vehicle.
+
+.. It is unlawful for any person to knowingly open carry a firearm or other weapon while knowingly within 250 feet of the perimeter of a permitted demonstration after a duly authorized state or local law enforcement officer advises the person of the permitted demonstration and directs the person to leave until he or she no longer possesses or controls the firearm or other weapon. This subsection (2)(b) does not apply to any person possessing or controlling any firearm or other weapon on private property owned or leased by that person.
+
+.. Duly authorized federal, state, and local law enforcement officers and personnel are exempt from the provisions of this subsection (2) when carrying a firearm or other weapon in conformance with their employing agency's policy. Members of the armed forces of the United States or the state of Washington are exempt from the provisions of this subsection (2) when carrying a firearm or other weapon in the discharge of official duty or traveling to or from official duty.
+
+.. For purposes of this subsection, the following definitions apply:
+
+... "Permitted demonstration" means either: (A) A gathering for which a permit has been issued by a federal agency, state agency, or local government; or (B) a gathering of 15 or more people who are assembled for a single event at a public place that has been declared as permitted by the chief executive, sheriff, or chief of police of a local government in which the gathering occurs. A "gathering" means a demonstration, march, rally, vigil, sit-in, protest, picketing, or similar public assembly.
+
+... "Public place" means any site accessible to the general public for business, entertainment, or another lawful purpose. A "public place" includes, but is not limited to, the front, immediate area, or parking lot of any store, shop, restaurant, tavern, shopping center, or other place of business; any public building, its grounds, or surrounding area; or any public parking lot, street, right-of-way, sidewalk, public park, or other public grounds.
+
+... "Weapon" has the same meaning given in subsection (1)(b) of this section.
+
+.. Nothing in this subsection applies to the lawful concealed carry of a firearm by a person who has a valid concealed pistol license.
 
 . Cities, towns, counties, and other municipalities may enact laws and ordinances:
 
@@ -1227,9 +1244,9 @@ The local judicial authority shall designate and clearly mark those areas where 
 . [Empty]
 .. Cities, towns, and counties may enact ordinances restricting the areas in their respective jurisdictions in which firearms may be sold, but, except as provided in (b) of this subsection, a business selling firearms may not be treated more restrictively than other businesses located within the same zone. An ordinance requiring the cessation of business within a zone shall not have a shorter grandfather period for businesses selling firearms than for any other businesses within the zone.
 
-.. Cities, towns, and counties may restrict the location of a business selling firearms to not less than five hundred feet from primary or secondary school grounds, if the business has a storefront, has hours during which it is open for business, and posts advertisements or signs observable to passersby that firearms are available for sale. A business selling firearms that exists as of the date a restriction is enacted under this subsection (3)(b) shall be grandfathered according to existing law.
+.. Cities, towns, and counties may restrict the location of a business selling firearms to not less than 500 feet from primary or secondary school grounds, if the business has a storefront, has hours during which it is open for business, and posts advertisements or signs observable to passersby that firearms are available for sale. A business selling firearms that exists as of the date a restriction is enacted under this subsection (4)(b) shall be grandfathered according to existing law.
 
-. Violations of local ordinances adopted under subsection (2) of this section must have the same penalty as provided for by state law.
+. Violations of local ordinances adopted under subsection (3) of this section must have the same penalty as provided for by state law.
 
 . The perimeter of the premises of any specific location covered by subsection (1) of this section shall be posted at reasonable intervals to alert the public as to the existence of any law restricting the possession of firearms on the premises.
 
@@ -1251,11 +1268,26 @@ The local judicial authority shall designate and clearly mark those areas where 
 
 . Government-sponsored law enforcement firearms training must be training that correctional personnel and community corrections officers receive as part of their job requirement and reference to such training does not constitute a mandate that it be provided by the correctional facility.
 
-. Any person violating subsection (1) of this section is guilty of a gross misdemeanor.
+. Any person violating subsection (1) or (2) of this section is guilty of a gross misdemeanor.
 
 . "Weapon" as used in this section means any firearm, explosive as defined in RCW 70.74.010, or instrument or weapon listed in RCW 9.41.250.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1388-S.SL.pdf?cite=2018%20c%20201%20§%209003[2018 c 201 § 9003]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1388-S.SL.pdf?cite=2018%20c%20201%20§%206007[2018 c 201 § 6007]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1041-S.SL.pdf?cite=2011%20c%20221%20§%202[2011 c 221 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6322-S.SL.pdf?cite=2008%20c%2033%20§%201[2008 c 33 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6389-S.SL.pdf?cite=2004%20c%20116%20§%201[2004 c 116 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2473.SL.pdf?cite=2004%20c%2016%20§%201[2004 c 16 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2319-S2.SL.pdf?cite=1994%20sp.s.%20c%207%20§%20429[1994 sp.s. c 7 § 429]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1059-S.SL.pdf?cite=1993%20c%20396%20§%201[1993 c 396 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c428.pdf?cite=1985%20c%20428%20§%202[1985 c 428 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5038-S.SL.pdf?cite=2021%20c%20261%20§%201[2021 c 261 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1388-S.SL.pdf?cite=2018%20c%20201%20§%209003[2018 c 201 § 9003]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1388-S.SL.pdf?cite=2018%20c%20201%20§%206007[2018 c 201 § 6007]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1041-S.SL.pdf?cite=2011%20c%20221%20§%202[2011 c 221 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6322-S.SL.pdf?cite=2008%20c%2033%20§%201[2008 c 33 § 1]; prior:  2004 c 116 § 1; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2473.SL.pdf?cite=2004%20c%2016%20§%201[2004 c 16 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2319-S2.SL.pdf?cite=1994%20sp.s.%20c%207%20§%20429[1994 sp.s. c 7 § 429]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/1059-S.SL.pdf?cite=1993%20c%20396%20§%201[1993 c 396 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c428.pdf?cite=1985%20c%20428%20§%202[1985 c 428 § 2]; ]
+
+== 9.41.305 - Open carry of weapons prohibited on state capitol grounds.
+. Unless exempt under subsection (4) of this section, it is unlawful for any person to knowingly open carry a firearm or other weapon, as defined in RCW 9.41.300(1)(b), while knowingly being in the following locations: The west state capitol campus grounds; any buildings on the state capitol grounds; any state legislative office; or any location of a public legislative hearing or meeting during the hearing or meeting.
+
+. "Buildings on the state capitol grounds" means the following buildings located on the state capitol grounds, commonly known as Legislative, Temple of Justice, John L. O'Brien, John A. Cherberg, Irving R. Newhouse, Joel M. Pritchard, Helen Sommers, Insurance, Governor's Mansion, Visitor Information Center, Carlyon House, Ayer House, General Administration, 1500 Jefferson, James M. Dolliver, Old Capitol, Capitol Court, State Archives, Natural Resources, Office Building #2, Highway-License, Transportation, Employment Security, Child Care Center, Union Avenue, Washington Street, Professional Arts, State Farm, and Powerhouse Buildings.
+
+. "West state capitol campus grounds" means areas of the campus south of Powerhouse Rd. SW, south of Union Avenue SW as extended westward to Powerhouse Rd. SW, west of Capitol Way, north of 15th Avenue SW between Capitol Way S. and Water Street SW, west of Water Street between 15th Avenue SW and 16th Avenue SW, north of 16th Avenue SW between Water Street SW and the east banks of Capitol Lake, and east of the banks of Capitol Lake.
+
+. Duly authorized federal, state, or local law enforcement officers or personnel are exempt from this section when carrying a firearm or other weapon in conformance with their employing agency's policy. Members of the armed forces of the United States or the state of Washington are exempt from this section when carrying a firearm or other weapon in the discharge of official duty or traveling to or from official duty.
+
+. A person violating this section is guilty of a gross misdemeanor.
+
+. Nothing in this section applies to the lawful concealed carry of a firearm by a person who has a valid concealed pistol license.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5038-S.SL.pdf?cite=2021%20c%20261%20§%202[2021 c 261 § 2]; ]
 
 == 9.41.310 - Information pamphlet.
 . After a public hearing, the department of fish and wildlife shall publish a pamphlet on firearms safety and the legal limits of the use of firearms. The pamphlet shall include current information on firearms laws and regulations and state preemption of local firearms laws. By July 1, 2017, the department of fish and wildlife shall update the pamphlet to incorporate information on suicide awareness and prevention as recommended by the safe homes task force established in *RCW 43.70.445.
@@ -1420,7 +1452,7 @@ Nothing in this chapter shall prohibit the possession, sale, or use of fireworks
 
 Because you have filed this voluntary waiver of firearm rights, effective immediately you may not purchase or receive any firearm. You may revoke this voluntary waiver of firearm rights any time after at least seven calendar days have elapsed since the time of filing.
 
-. The forms must be made available on the administrator for the courts web site, at all county clerk offices, and must also be made widely available at firearm and ammunition dealers and health care provider locations.
+. The forms must be made available on the administrator for the courts website, at all county clerk offices, and must also be made widely available at firearm and ammunition dealers and health care provider locations.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5553-S.SL.pdf?cite=2018%20c%20145%20§%202[2018 c 145 § 2]; ]
 
@@ -1475,7 +1507,7 @@ WARNING: YOU MAY FACE CRIMINAL PROSECUTION IF YOU STORE OR LEAVE AN UNSECURED FI
 
 [ 2019 c 3 § 6 (Initiative Measure No. 1639, approved November 6, 2018); ]
 
-== 9.41.800 - Surrender of weapons or licenses—Prohibition on future possession or licensing.
+== 9.41.800 - Surrender of weapons or licenses—Prohibition on future possession or licensing. (Effective until July 1, 2022.)
 . Any court when entering an order authorized under chapter 7.92 RCW, RCW 7.90.090, 9A.46.080, 10.14.080, 10.99.040, 10.99.045, 26.09.050, 26.09.060, * 26.10.040, 26.10.115, 26.26B.020, 26.50.060, 26.50.070, or 26.26A.470 shall, upon a showing by clear and convincing evidence, that a party has: Used, displayed, or threatened to use a firearm or other dangerous weapon in a felony, or is ineligible to possess a firearm under the provisions of RCW 9.41.040:
 
 .. Require that the party immediately surrender all firearms and other dangerous weapons;
@@ -1527,7 +1559,7 @@ WARNING: YOU MAY FACE CRIMINAL PROSECUTION IF YOU STORE OR LEAVE AN UNSECURED FI
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1786-S.SL.pdf?cite=2019%20c%20245%20§%201[2019 c 245 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5333-S.SL.pdf?cite=2019%20c%2046%20§%205006[2019 c 46 § 5006]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1840-S.SL.pdf?cite=2014%20c%20111%20§%202[2014 c 111 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf?cite=2013%20c%2084%20§%2025[2013 c 84 § 25]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/House/2346-S2.SL.pdf?cite=2002%20c%20302%20§%20704[2002 c 302 § 704]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2420-S.SL.pdf?cite=1996%20c%20295%20§%2014[1996 c 295 § 14]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2319-S2.SL.pdf?cite=1994%20sp.s.%20c%207%20§%20430[1994 sp.s. c 7 § 430]; ]
 
-== 9.41.801 - Surrender of weapons or licenses—Ensuring compliance.
+== 9.41.801 - Surrender of weapons or licenses—Ensuring compliance. (Effective until July 1, 2022.)
 . Because of the heightened risk of lethality to petitioners when respondents to protection orders become aware of court involvement and continue to have access to firearms, and the frequency of noncompliance with court orders prohibiting possession of firearms, law enforcement and judicial processes must emphasize swift and certain compliance with court orders prohibiting access, possession, and ownership of firearms.
 
 . A law enforcement officer serving a protection order, no-contact order, or restraining order that includes an order to surrender all firearms, dangerous weapons, and a concealed pistol license under RCW 9.41.800 shall inform the respondent that the order is effective upon service and the respondent must immediately surrender all firearms and dangerous weapons in his or her custody, control, or possession and any concealed pistol license issued under RCW 9.41.070, and conduct any search permitted by law for such firearms, dangerous weapons, and concealed pistol license. The law enforcement officer shall take possession of all firearms, dangerous weapons, and any concealed pistol license belonging to the respondent that are surrendered, in plain sight, or discovered pursuant to a lawful search. The order must be personally served upon the respondent or defendant if the order is entered in open court in the presence of the respondent or defendant. The respondent or defendant shall acknowledge receipt and service. If the respondent or defendant refuses service, an agent of the court may indicate on the record that the respondent or defendant refused service. The court shall enter the service and receipt into the record. A copy of the order and service shall be transmitted immediately to law enforcement. The respondent must immediately surrender all firearms, dangerous weapons, and any concealed pistol license in a safe manner to the control of the local law enforcement agency on the day of the hearing at which the respondent was present.
@@ -1588,4 +1620,15 @@ A party ordered to surrender firearms, dangerous weapons, and his or her conceal
 Any violation of any provision of this chapter, except as otherwise provided, shall be a misdemeanor and punishable accordingly.
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c258.pdf?cite=1984%20c%20258%20§%20312[1984 c 258 § 312]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c232.pdf?cite=1983%20c%20232%20§%2011[1983 c 232 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c3.pdf?cite=1983%20c%203%20§%207[1983 c 3 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1961c124.pdf?cite=1961%20c%20124%20§%2012[1961 c 124 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1935c172.pdf?cite=1935%20c%20172%20§%2016[1935 c 172 § 16]; RRS § 2516-16; ]
+
+== 9.41.815 - Surrender of weapons or licenses—Ensuring compliance—Information sharing. (Effective July 1, 2022.)
+For the purpose of assisting courts in ensuring compliance with an order to surrender and prohibit weapons or an extreme risk protection order, the department of licensing, or the agency with responsibility for maintaining that information should it be an agency other than the department of licensing, shall make the following information available to prosecuting attorneys' offices, city attorneys' offices, public defender agency staff, probation services personnel, and judicial officers and staff of municipal, district, and superior courts for the following law enforcement purposes:
+
+. Determining whether a person is ineligible to possess firearms;
+
+. Determining a person's firearms purchase history; and
+
+. Determining whether a person has or previously had a concealed pistol license, or has applied for a concealed pistol license.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1320-S2.SL.pdf?cite=2021%20c%20215%20§%2076[2021 c 215 § 76]; ]
 

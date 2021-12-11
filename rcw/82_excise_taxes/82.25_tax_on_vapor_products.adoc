@@ -130,22 +130,6 @@ Every person required to be licensed under chapter 70.345 RCW who sells vapor pr
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1873-S2.SL.pdf?cite=2019%20c%20445%20§%20108[2019 c 445 § 108]; ]
 
-== 82.25.045 - Shipped or transported outside state—Tax credit.
-. [Empty]
-.. Where vapor products upon which the tax imposed by this chapter has been reported and paid are shipped or transported outside this state by the distributor to a person engaged in the business of selling vapor products, to be sold by that person, or are returned to the manufacturer by the distributor or destroyed by the distributor, or are sold by the distributor to the United States or any of its agencies or instrumentalities, or are sold by the distributor to any Indian tribal organization, credit of such tax may be made to the distributor in accordance with rules prescribed by the department.
-
-.. For purposes of this subsection (1), the following definitions apply:
-
-... "Indian distributor" means a federally recognized Indian tribe or tribal entity that would otherwise meet the definition of "distributor" under RCW 82.25.005, if federally recognized Indian tribes and tribal entities were not excluded from the definition of "person" in RCW 82.25.005.
-
-... "Indian retailer" means a federally recognized Indian tribe or tribal entity that would otherwise meet the definition of "retailer" under RCW 82.25.005, if federally recognized Indian tribes and tribal entities were not excluded from the definition of "person" in RCW 82.25.005.
-
-... "Indian tribal organization" means a federally recognized Indian tribe, or tribal entity, and includes an Indian distributor or retailer that is owned by an Indian who is an enrolled tribal member conducting business under tribal license or similar tribal approval within Indian country.
-
-. Credit allowed under this section must be determined based on the tax rate in effect for the period for which the tax imposed by this chapter, for which a credit is sought, was paid.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1873-S2.SL.pdf?cite=2019%20c%20445%20§%20109[2019 c 445 § 109]; ]
-
 == 82.25.050 - Chapter  82.32 RCW application.
 All of the provisions contained in chapter 82.32 RCW not inconsistent with the provisions of this chapter have full force and application with respect to taxes imposed under the provisions of this chapter.
 
@@ -177,7 +161,7 @@ The department must authorize, as duly authorized agents, enforcement officers o
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1873-S2.SL.pdf?cite=2019%20c%20445%20§%20113[2019 c 445 § 113]; ]
 
 == 82.25.070 - Recordkeeping by the board.
-The board must compile and maintain a current record of the names of all distributors, retailers, and delivery sales licenses under chapter 70.345 RCW and the status of their license or licenses. The information must be updated on a monthly basis and published on the board's official internet web site. This information is not subject to the confidentiality provisions of RCW 82.32.330 and must be disclosed to manufacturers, distributors, retailers, and the general public upon request.
+The board must compile and maintain a current record of the names of all distributors, retailers, and delivery sales licenses under chapter 70.345 RCW and the status of their license or licenses. The information must be updated on a monthly basis and published on the board's official internet website. This information is not subject to the confidentiality provisions of RCW 82.32.330 and must be disclosed to manufacturers, distributors, retailers, and the general public upon request.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1873-S2.SL.pdf?cite=2019%20c%20445%20§%20114[2019 c 445 § 114]; ]
 

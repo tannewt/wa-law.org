@@ -16,7 +16,7 @@ The purpose of chapter 74.15 RCW and RCW 74.13.031 is:
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6407.SL.pdf?cite=2018%20c%20284%20§%2065[2018 c 284 § 65]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2106-S2.SL.pdf?cite=2009%20c%20520%20§%2012[2009 c 520 § 12]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1906-S.SL.pdf?cite=1995%20c%20302%20§%202[1995 c 302 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c3.pdf?cite=1983%20c%203%20§%20192[1983 c 3 § 192]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1977ex1c80.pdf?cite=1977%20ex.s.%20c%2080%20§%2070[1977 ex.s. c 80 § 70]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c172.pdf?cite=1967%20c%20172%20§%201[1967 c 172 § 1]; ]
 
-== 74.15.020 - Definitions.
+== 74.15.020 - Definitions. (Effective until January 1, 2022.)
 The definitions in this section apply throughout this chapter and RCW 74.13.031 unless the context clearly requires otherwise.
 
 . "Agency" means any person, firm, partnership, association, corporation, or facility which receives children, expectant mothers, or persons with developmental disabilities for control, care, or maintenance outside their own homes, or which places, arranges the placement of, or assists in the placement of children, expectant mothers, or persons with developmental disabilities for foster care or placement of children for adoption, and shall include the following irrespective of whether there is compensation to the agency or to the children, expectant mothers, or persons with developmental disabilities for services rendered:
@@ -37,7 +37,7 @@ The definitions in this section apply throughout this chapter and RCW 74.13.031 
 
 ... Facilities specializing in providing prenatal, postpartum, or parenting supports for youth; and
 
-... Facilities providing high-quality residential care and supportive services to children who are, or who are at risk of becoming, victims of sex trafficking;
+... Facilities providing high quality residential care and supportive services to children who are, or who are at risk of becoming, victims of sex trafficking;
 
 .. "HOPE center" means an agency licensed by the secretary to provide temporary residential placement and other services to street youth. A street youth may remain in a HOPE center for thirty days while services are arranged and permanent placement is coordinated. No street youth may stay longer than thirty days unless approved by the department and any additional days approved by the department must be based on the unavailability of a long-term placement option. A street youth whose parent wants him or her returned to home may remain in a HOPE center until his or her parent arranges return of the youth, not longer. All other street youth must have court approval under chapter 13.34 or 13.32A RCW to remain in a HOPE center up to thirty days;
 
@@ -253,7 +253,7 @@ The secretary may, at his or her discretion, issue an initial license instead of
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1661-S2.SL.pdf?cite=2017%203rd%20sp.s.%20c%206%20§%20413[2017 3rd sp.s. c 6 § 413]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/5885-S.SL.pdf?cite=1995%20c%20311%20§%2022[1995 c 311 § 22]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c141.pdf?cite=1979%20c%20141%20§%20361[1979 c 141 § 361]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1967c172.pdf?cite=1967%20c%20172%20§%2012[1967 c 172 § 12]; ]
 
-== 74.15.125 - Probationary licenses.
+== 74.15.125 - Probationary licenses—Child-specific licenses.
 . The department may issue a probationary license to a licensee who has had a license but is temporarily unable to comply with a rule or has been the subject of multiple complaints or concerns about noncompliance if:
 
 .. The noncompliance does not present an immediate threat to the health and well-being of the children but would be likely to do so if allowed to continue; and
@@ -270,7 +270,18 @@ The secretary may, at his or her discretion, issue an initial license instead of
 
 . A right to an adjudicative proceeding shall not accrue to the licensee whose license has been placed on probationary status unless the licensee does not agree with the placement on probationary status and the department then suspends, revokes, or modifies the license.
 
-[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1906-S.SL.pdf?cite=1995%20c%20302%20§%207[1995 c 302 § 7]; ]
+. [Empty]
+.. The department may issue a child-specific license to a relative, as defined in RCW 13.36.020, or a suitable person, as defined in RCW 13.36.020, who opts to become licensed for placement of a specific child and that child's siblings or relatives in the department's care, custody, and control.
+
+.. Such individuals must meet all minimum licensing requirements for foster family homes established pursuant to RCW 74.15.030 and are subject to child-specific license criteria, which the department is authorized to establish by rule.
+
+.. For purposes of federal funding, a child-specific license is considered a full license with all of the rights and responsibilities of a foster family home license, except that at the discretion of the department the licensee may only receive placement of specific children pursuant to (a) of this subsection.
+
+.. A child-specific license does not confer upon the licensee a right to placement of a particular child, nor does it confer party status in any proceeding under chapter 13.34 RCW.
+
+.. The department shall seek input from the following stakeholders during the development and adoption of rules necessary to implement this section: Representatives from the kinship care oversight committee, an organization that represents current and former foster youth, an organization that represents child placing agencies, and a statewide advisory group of foster youth and alumni of foster care. The department shall seek tribal input as outlined in the department's government-to-government policy, per RCW 43.376.020.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5151-S.SL.pdf?cite=2021%20c%20304%20§%2030[2021 c 304 § 30]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1906-S.SL.pdf?cite=1995%20c%20302%20§%207[1995 c 302 § 7]; ]
 
 == 74.15.127 - Expedited foster licensing process.
 . The department shall design and implement an expedited foster licensing process.
@@ -405,7 +416,7 @@ The secretary shall establish responsible living skills programs that provide no
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1686-S.SL.pdf?cite=2013%20c%2039%20§%2031[2013 c 39 § 31]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1493-S2.SL.pdf?cite=1999%20c%20267%20§%2013[1999 c 267 § 13]; ]
 
 == 74.15.240 - Responsible living skills program—Eligibility.
-To be eligible for placement in a responsible living skills program, the minor must be dependent under chapter 13.34 RCW and must have lived in a HOPE center or in a secure crisis residential center. However, if the minor's caseworker determines that placement in a responsible living skills program would be the most appropriate placement given the minor's current circumstances, prior residence in a HOPE center or secure crisis residential center before placement in a responsible living program is not required. Responsible living skills centers are intended as a placement alternative for dependent youth that the department chooses for the youth because no other services or alternative placements have been successful. Responsible living skills centers are not for dependent youth whose permanency plan includes return to home or family reunification.
+To be eligible for placement in a responsible living skills program, the minor must be dependent under chapter 13.34 RCW and must have lived in a HOPE center or in a secure crisis residential center. However, if the minor's caseworker determines that placement in a responsible living skills program would be the most appropriate placement given the minor's current circumstances, prior residence in a HOPE center or secure crisis residential center before placement in a responsible living program is not required. Responsible living skills [skill] centers are intended as a placement alternative for dependent youth that the department chooses for the youth because no other services or alternative placements have been successful. Responsible living skills [skill] centers are not for dependent youth whose permanency plan includes return to home or family reunification.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/6792-S.SL.pdf?cite=2008%20c%20267%20§%2011[2008 c 267 § 11]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1493-S2.SL.pdf?cite=1999%20c%20267%20§%2014[1999 c 267 § 14]; ]
 
@@ -460,6 +471,17 @@ For the purposes of chapter 473, Laws of 2005, "enforcement action" means denial
 . Resource and assessment centers may not be used to address placement disruptions for children who have been removed from a foster home because of behavior or safety concerns.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1261-S.SL.pdf?cite=2013%20c%20105%20§%203[2013 c 105 § 3]; ]
+
+== 74.15.315 - Host home program registration. (Effective January 1, 2022.)
+. A host home program must register with the secretary of state's office. This registration may occur when the secretary of state files articles of incorporation of the host home program under chapter 24.03A RCW.
+
+. The host home program registration must include a notarized statement by the host home program that it meets all of the requirements set out in RCW 74.15.020(2)(o).
+
+. The secretary of state has no duty to confirm that a host home program is meeting its statutory requirements. A filing under this section does not imply an endorsement by the secretary of state.
+
+. The secretary of state may adopt rules necessary to carry out its duties under this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5034-S.SL.pdf?cite=2021%20c%20176%20§%205104[2021 c 176 § 5104]; ]
 
 == 74.15.900 - Short title—Purpose—Entitlement not granted—1999 c 267 §§ 10-26.
 Sections 10 through 26, chapter 267, Laws of 1999 may be referred to as the homeless youth prevention, protection, and education act, or the HOPE act. Every day many youth in this state seek shelter out on the street. A nurturing nuclear family does not exist for them, and state-sponsored alternatives such as foster homes do not meet the demand and isolate youth, who feel like outsiders in families not their own. The legislature recognizes the need to develop placement alternatives for dependent youth ages sixteen to eighteen, who are living on the street. The HOPE act is an effort to engage youth and provide them access to services through development of life skills in a setting that supports them. Nothing in sections 10 through 26, chapter 267, Laws of 1999 shall constitute an entitlement.

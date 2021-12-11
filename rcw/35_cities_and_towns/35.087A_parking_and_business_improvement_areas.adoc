@@ -20,9 +20,12 @@ To aid general economic development and neighborhood revitalization, and to faci
 
 .. Providing transportation services for the benefit of the area.
 
-. To levy special assessments on all businesses and multifamily residential or mixed-use projects within the area and specially benefited by a parking and business improvement area to pay in whole or in part the damages or costs incurred therein as provided in this chapter.
+. [Empty]
+.. To levy special assessments on all businesses and multifamily residential or mixed-use projects within the area and specially benefited by a parking and business improvement area to pay in whole or in part the damages or costs incurred therein as provided in this chapter.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6012.SL.pdf?cite=2005%20c%20178%20§%201[2005 c 178 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6123.SL.pdf?cite=2000%20c%20201%20§%201[2000 c 201 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2009.SL.pdf?cite=1993%20c%20429%20§%201[1993 c 429 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c128.pdf?cite=1985%20c%20128%20§%201[1985 c 128 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c279.pdf?cite=1981%20c%20279%20§%201[1981 c 279 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c45.pdf?cite=1971%20ex.s.%20c%2045%20§%201[1971 ex.s. c 45 § 1]; ]
+.. A lodging business may, but is not required to, collect any special assessment amount from its guests in the form of a separately stated charge per night on the sale of lodging taxable by the state under chapter 82.08 RCW. Such charges must be separately stated from the room rate on the invoice, bill of sale, or similar document provided by the lodging business to the guest. A lodging business that collects a special assessment from its guests as authorized under this subsection (2)(b) is deemed to be collecting the assessment amount from its guests as agent for the jurisdiction levying the special assessment. Such per night charges are not part of the selling price under RCW 82.08.010 for state and local sales tax purposes, nor are they part of the gross proceeds of sales of the lodging business for purposes of state business and occupation taxes imposed under chapter 82.04 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1512-S.SL.pdf?cite=2021%20c%20225%20§%201[2021 c 225 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6012.SL.pdf?cite=2005%20c%20178%20§%201[2005 c 178 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6123.SL.pdf?cite=2000%20c%20201%20§%201[2000 c 201 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2009.SL.pdf?cite=1993%20c%20429%20§%201[1993 c 429 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c128.pdf?cite=1985%20c%20128%20§%201[1985 c 128 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c279.pdf?cite=1981%20c%20279%20§%201[1981 c 279 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c45.pdf?cite=1971%20ex.s.%20c%2045%20§%201[1971 ex.s. c 45 § 1]; ]
 
 == 35.87A.020 - Definitions.
 Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
@@ -31,11 +34,13 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 . "Legislative authority" means the legislative authority of any city or town including unclassified cities or towns operating under special charters or the legislative authority of any county.
 
+. "Lodging business" means a person that furnishes lodging taxable by the state under chapter 82.08 RCW.
+
 . "Multifamily residential or mixed-use project" means any building or buildings containing four or more residential units or a combination of residential and commercial units, whether title to the entire property is held in single or undivided ownership or title to individual units is held by owners who also, directly or indirectly through an association, own real property in common with the other unit owners.
 
 . "Residential operator" means the owner or operator of a multifamily residential or mixed-use project if title is held in single or undivided ownership, or, if title is held in a form of common interest ownership, the association of unit owners, condominium association, homeowners' association, property owners' association, or residential cooperative corporation.
 
-[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2009.SL.pdf?cite=1993%20c%20429%20§%202[1993 c 429 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c45.pdf?cite=1971%20ex.s.%20c%2045%20§%202[1971 ex.s. c 45 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1512-S.SL.pdf?cite=2021%20c%20225%20§%202[2021 c 225 § 2]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2009.SL.pdf?cite=1993%20c%20429%20§%202[1993 c 429 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c45.pdf?cite=1971%20ex.s.%20c%2045%20§%202[1971 ex.s. c 45 § 2]; ]
 
 == 35.87A.030 - Initiation petition or resolution—Contents.
 For the purpose of establishing a parking and business improvement area, an initiation petition may be presented to the legislative authority having jurisdiction of the area in which the proposed parking and business improvement area is to be located or the legislative authority may by resolution initiate a parking and business improvement area. The initiation petition or resolution shall contain the following:

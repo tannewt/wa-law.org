@@ -17,7 +17,7 @@ The following definitions apply to this chapter unless the context clearly requi
 
 . "Director" means the director of the department of revenue except as otherwise noted.
 
-. "Directory" means the directory to be created and published on a web site by the attorney general pursuant to RCW 70.158.030(2).
+. "Directory" means the directory to be created and published on a website by the attorney general pursuant to RCW 70.158.030(2).
 
 . "Distributor" has the same meaning as in **RCW 82.26.010(3), except that for purposes of this chapter, no person is a distributor if that person does not deal with cigarettes as defined in this section.
 
@@ -60,7 +60,7 @@ The following definitions apply to this chapter unless the context clearly requi
 
 .. A tobacco product manufacturer shall maintain all invoices and documentation of sales and other information relied upon for such certification for a period of five years, unless otherwise required by law to maintain them for a greater period of time.
 
-. Not later than November 1, 2003, the attorney general shall develop and publish on its web site a directory listing all tobacco product manufacturers that have provided current and accurate certifications conforming to the requirements of this section and all brand families that are listed in these certifications, except as noted below:
+. Not later than November 1, 2003, the attorney general shall develop and publish on its website a directory listing all tobacco product manufacturers that have provided current and accurate certifications conforming to the requirements of this section and all brand families that are listed in these certifications, except as noted below:
 
 .. The attorney general shall not include or retain in the directory the name or brand families of any nonparticipating manufacturer that has failed to provide the required certification or whose certification the attorney general determines is not in compliance with subsection (1)(b) and (c) of this section, unless the attorney general has determined that the violation has been cured to the satisfaction of the attorney general.
 
@@ -72,7 +72,7 @@ The following definitions apply to this chapter unless the context clearly requi
 
 .. A tobacco product manufacturer included in the directory may request that a new brand family be certified and added to the directory. Within forty-five business days of receiving the request, the attorney general will respond by either: (i) Certifying the new brand family; or (ii) denying the request. However, in cases where the attorney general determines that it needs clarification as to whether the requestor is actually the tobacco product manufacturer, the attorney general may take more time as needed to clarify the request, to locate and assemble information or documents needed to process the request, and to notify persons or agencies affected by the request.
 
-.. The web site will state that chapter 25, Laws of 2003 applies only to cigarettes including, pursuant to the definition of "cigarettes" in chapter 25, Laws of 2003, roll-your-own tobacco.
+.. The website will state that chapter 25, Laws of 2003 applies only to cigarettes including, pursuant to the definition of "cigarettes" in chapter 25, Laws of 2003, roll-your-own tobacco.
 
 . It is unlawful for any person (a) to affix a stamp to a package or other container of cigarettes of a tobacco product manufacturer or brand family not included in the directory, or to pay or cause to be paid the tobacco products tax on any package or container; or (b) to sell, offer, or possess for sale in this state or import for sale in this state, any cigarettes of a tobacco product manufacturer or brand family not included in the directory.
 

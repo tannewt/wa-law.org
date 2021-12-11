@@ -2,18 +2,18 @@
 :toc:
 
 == 72.40.010 - Schools established—Purpose—Direction.
-There are established at Vancouver, Clark county, a school which shall be known as the state school for the blind, and a separate school which shall be known as the state school for the deaf. The primary purpose of the state school for the blind and the state school for the deaf is to educate and train hearing and visually impaired children.
+There are established at Vancouver, Clark county, a school which shall be known as the state school for the blind, and a separate school which shall be known as the *state school for the deaf. The primary purpose of the state school for the blind and the *state school for the deaf is to educate and train hearing and visually impaired children.
 
-The school for the blind shall be under the direction of the superintendent with the advice of the board of trustees. The school for the deaf shall be under the direction of the director of the center or the director's designee and the board of trustees.
+The school for the blind shall be under the direction of the superintendent with the advice of the board of trustees. The *school for the deaf shall be under the direction of the director of the center or the director's designee and the board of trustees.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1879-S2.SL.pdf?cite=2009%20c%20381%20§%203[2009 c 381 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6558-S.SL.pdf?cite=2002%20c%20209%20§%201[2002 c 209 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c378.pdf?cite=1985%20c%20378%20§%2011[1985 c 378 § 11]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1959c28.pdf?cite=1959%20c%2028%20§%2072.40.010[1959 c 28 § 72.40.010]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1913c10.pdf?cite=1913%20c%2010%20§%201[1913 c 10 § 1]; http://leg.wa.gov/CodeReviser/Pages/session_laws.aspx?cite=1886%20p%20136%20§%201[1886 p 136 § 1]; RRS § 4645; ]
 
 == 72.40.015 - Center for deaf and hard of hearing youth—Functions.
-. The Washington center for deaf and hard of hearing youth is established to provide statewide leadership for the coordination and delivery of educational services to children who are deaf or hard of hearing. The activities of the center shall be under the authority of the director and the board of trustees. The superintendent and board of trustees of the state school for the deaf shall be the director and board of trustees of the center.
+. The Washington center for deaf and hard of hearing youth is established to provide statewide leadership for the coordination and delivery of educational services to children who are deaf or hard of hearing. The activities of the center shall be under the authority of the director and the board of trustees. The superintendent and board of trustees of the *state school for the deaf shall be the director and board of trustees of the center.
 
 . The center's primary functions are:
 
-.. Managing and directing the supervision of the state school for the deaf;
+.. Managing and directing the supervision of the *state school for the deaf;
 
 .. Providing statewide leadership and support for the coordination of regionally delivered educational services in the full range of communication modalities, for children who are deaf or hard of hearing; and
 
@@ -29,7 +29,7 @@ The governor shall appoint a director for the Washington center for deaf and har
 == 72.40.0191 - Center for deaf and hard of hearing youth—Director's powers and duties.
 In addition to any other powers and duties prescribed by law, the director of the Washington center for deaf and hard of hearing youth:
 
-. Shall be responsible for the supervision and management of the center, including the state school for the deaf, and the property of various kinds. The director may designate an individual to oversee the day-to-day operation and supervision of students at the school;
+. Shall be responsible for the supervision and management of the center, including the *state school for the deaf, and the property of various kinds. The director may designate an individual to oversee the day-to-day operation and supervision of students at the school;
 
 . Shall employ members of the faculty, administrative officers, and other employees, who shall all be subject to chapter 41.06 RCW, the state civil service law, unless specifically exempted by other provisions of law;
 
@@ -122,7 +122,7 @@ All teachers employed by the Washington center for deaf and hard of hearing yout
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1604.SL.pdf?cite=2019%20c%20266%20§%205[2019 c 266 § 5]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6362-S2.SL.pdf?cite=2018%20c%20266%20§%20405[2018 c 266 § 405]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1879-S2.SL.pdf?cite=2009%20c%20381%20§%207[2009 c 381 § 7]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/3098-S2.SL.pdf?cite=2006%20c%20263%20§%20829[2006 c 263 § 829]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c378.pdf?cite=1985%20c%20378%20§%2018[1985 c 378 § 18]; ]
 
 == 72.40.031 - School year—School term—Legal holidays—Use of schools.
-The school year for the state school for the blind and the state school for the deaf shall commence on the first day of July of each year and shall terminate on the 30th day of June of the succeeding year. The regular school term shall be for a period of nine months and shall commence as near as reasonably practical at the time of the commencement of regular terms in other public schools, with the equivalent number of days as are now required by law, and the regulations of the superintendent of public instruction as now or hereafter amended, during the school year in other public schools. The school and the center shall observe all legal holidays, in the same manner as other agencies of state government, and will not be in session on such days and such other days as may be approved by the superintendent or the director. During the period when the schools are not in session during the regular school term, schools may be operated, subject to the approval of the superintendent or the director or the director's designee, for the instruction of students or for such other reasons which are in furtherance of the objects and purposes of the respective facilities.
+The school year for the state school for the blind and the *state school for the deaf shall commence on the first day of July of each year and shall terminate on the 30th day of June of the succeeding year. The regular school term shall be for a period of nine months and shall commence as near as reasonably practical at the time of the commencement of regular terms in other public schools, with the equivalent number of days as are now required by law, and the regulations of the superintendent of public instruction as now or hereafter amended, during the school year in other public schools. The school and the center shall observe all legal holidays, in the same manner as other agencies of state government, and will not be in session on such days and such other days as may be approved by the superintendent or the director. During the period when the schools are not in session during the regular school term, schools may be operated, subject to the approval of the superintendent or the director or the director's designee, for the instruction of students or for such other reasons which are in furtherance of the objects and purposes of the respective facilities.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1879-S2.SL.pdf?cite=2009%20c%20381%20§%2012[2009 c 381 § 12]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c378.pdf?cite=1985%20c%20378%20§%2016[1985 c 378 § 16]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c141.pdf?cite=1979%20c%20141%20§%20248[1979 c 141 § 248]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1970ex1c50.pdf?cite=1970%20ex.s.%20c%2050%20§%206[1970 ex.s. c 50 § 6]; ]
 
@@ -214,7 +214,7 @@ The director of the Washington center for deaf and hard of hearing youth and the
 
 .. Reflect the ages and developmental levels of children in care.
 
-. The state school for the deaf and the state school for the blind shall use proactive, positive behavior support techniques to manage potential child behavior problems. These techniques shall include but not be limited to:
+. The *state school for the deaf and the state school for the blind shall use proactive, positive behavior support techniques to manage potential child behavior problems. These techniques shall include but not be limited to:
 
 .. Organization of the physical environment and staffing patterns to reduce factors leading to behavior incidents;
 
@@ -318,11 +318,11 @@ In consideration of the needs and circumstances of the program, the *state schoo
 [ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6361-S.SL.pdf?cite=2000%20c%20125%20§%2010[2000 c 125 § 10]; ]
 
 == 72.40.280 - Monitoring of residential program by department of social and health services—Recommendations—Comprehensive child health and safety reviews—Access to records and documents—Safety standards.
-. The department of social and health services must periodically monitor the residential program at the state school for the deaf, including but not limited to examining the residential-related policies and procedures as well as the residential facilities. The department of social and health services must make recommendations to the director and the board of trustees of the center or its successor board on health and safety improvements related to child safety and well-being. The department of social and health services must conduct the monitoring reviews at least annually. The director or the director's designee may from time to time request technical assistance from the department of social and health services.
+. The department of social and health services must periodically monitor the residential program at the *state school for the deaf, including but not limited to examining the residential-related policies and procedures as well as the residential facilities. The department of social and health services must make recommendations to the director and the board of trustees of the center or its successor board on health and safety improvements related to child safety and well-being. The department of social and health services must conduct the monitoring reviews at least annually. The director or the director's designee may from time to time request technical assistance from the department of social and health services.
 
-. The department of social and health services must conduct a comprehensive child health and safety review, as defined in rule, of the residential program at the state school for the deaf every three years. 
+. The department of social and health services must conduct a comprehensive child health and safety review, as defined in rule, of the residential program at the *state school for the deaf every three years. 
 
-. The state school for the deaf must provide the department of social and health services' staff with full and complete access to all records and documents that the department staff may request to carry out the requirements of this section. The department of social and health services must have full and complete access to all students and staff of the state school for the deaf to conduct interviews to carry out the requirements of this section.
+. The *state school for the deaf must provide the department of social and health services' staff with full and complete access to all records and documents that the department staff may request to carry out the requirements of this section. The department of social and health services must have full and complete access to all students and staff of the *state school for the deaf to conduct interviews to carry out the requirements of this section.
 
 . For the purposes of this section, the department of social and health services must use the safety standards established in this chapter when conducting the reviews.
 

@@ -573,7 +573,7 @@ $250
 
 .. Tax, penalty, or interest erroneously or illegally collected or paid.
 
-.. Fuel which is lost or destroyed, while the licensee is the owner thereof, through fire, lightning, flood, wind storm, or explosion.
+.. Fuel which is lost or destroyed, while the licensee is the owner thereof, through fire, lightning, flood, windstorm, or explosion.
 
 .. Fuel of five hundred gallons or more which is lost or destroyed while the licensee is the owner thereof, through leakage or other casualty except evaporation, shrinkage, or unknown causes.
 

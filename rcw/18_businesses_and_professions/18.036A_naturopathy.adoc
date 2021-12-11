@@ -11,6 +11,10 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 . "Board" means the board of naturopathy created in RCW 18.36A.150.
 
+. "Colon hydrotherapist" means a person certified under this chapter to perform colon hydrotherapy pursuant to an affiliation with one or more naturopaths.
+
+. "Colon hydrotherapy" means the performance of enemas or colonic irrigation.
+
 . "Common diagnostic procedures" means the use of venipuncture consistent with the practice of naturopathic medicine, commonly used diagnostic modalities consistent with naturopathic practice, health history taking, physical examination, radiography, examination of body orifices excluding endoscopy, laboratory medicine, and obtaining samples of human tissues, but excluding incision or excision beyond that which is authorized as a minor office procedure.
 
 . "Department" means the department of health.
@@ -39,7 +43,7 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 . "Suggestion" means techniques including but not limited to counseling, biofeedback, and hypnosis.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1181.SL.pdf?cite=2011%20c%2041%20§%203[2011 c 41 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5152-S.SL.pdf?cite=2011%20c%2040%20§%201[2011 c 40 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1546.SL.pdf?cite=2005%20c%20158%20§%201[2005 c 158 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%2087[1991 c 3 § 87]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c447.pdf?cite=1987%20c%20447%20§%204[1987 c 447 § 4]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5124.SL.pdf?cite=2021%20c%20179%20§%202l[2021 c 179 § 2l]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1181.SL.pdf?cite=2011%20c%2041%20§%203[2011 c 41 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5152-S.SL.pdf?cite=2011%20c%2040%20§%201[2011 c 40 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1546.SL.pdf?cite=2005%20c%20158%20§%201[2005 c 158 § 1]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%2087[1991 c 3 § 87]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c447.pdf?cite=1987%20c%20447%20§%204[1987 c 447 § 4]; ]
 
 == 18.36A.030 - License required.
 . No person may practice naturopathy or represent himself or herself as a naturopath without first applying for and receiving a license from the secretary to practice naturopathy.
@@ -69,21 +73,21 @@ Nothing in this chapter shall be construed to prohibit or restrict:
 [ http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%2090[1991 c 3 § 90]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c447.pdf?cite=1987%20c%20447%20§%205[1987 c 447 § 5]; ]
 
 == 18.36A.060 - Powers of secretary—Application of uniform disciplinary act.
- In addition to any other authority provided by law, the secretary may:
+In addition to any other authority provided by law, the secretary may:
 
-. Set all license, examination, and renewal fees in accordance with RCW 43.70.250;
+. Set all license and certificate, examination, and renewal fees in accordance with RCW 43.70.250;
 
 . Establish forms and procedures necessary to administer this chapter;
 
-. Issue a license to any applicant who has met the education, training, and examination requirements for licensure and deny a license to applicants who do not meet the minimum qualifications for licensure; except that denial of licenses based on unprofessional conduct or impaired practice shall be governed by the uniform disciplinary act, chapter 18.130 RCW;
+. Issue a license or certificate to any applicant who has met the education, training, and examination requirements for licensure or certification and deny a license or certification to applicants who do not meet the minimum qualifications for licensure or certification; except that denial of licenses or certificates based on unprofessional conduct or impaired practice shall be governed by the uniform disciplinary act, chapter 18.130 RCW;
 
 . Hire clerical, administrative, and investigative staff as needed to implement and administer this chapter and to hire individuals, including those licensed under this chapter, to serve as examiners or consultants as necessary to implement and administer this chapter;
 
-. Maintain the official department record of all applicants and licensees; and
+. Maintain the official department record of all applicants, licensees, and certified persons; and
 
-. Conduct a hearing on an appeal of a denial of a license based on the applicant's failure to meet the minimum qualifications for licensure. The hearing shall be conducted pursuant to chapter 34.05 RCW.
+. Conduct a hearing on an appeal of a denial of a license or certificate based on the applicant's failure to meet the minimum qualifications for licensure or certification. The hearing shall be conducted pursuant to chapter 34.05 RCW.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1181.SL.pdf?cite=2011%20c%2041%20§%205[2011 c 41 § 5]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%2091[1991 c 3 § 91]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c447.pdf?cite=1987%20c%20447%20§%206[1987 c 447 § 6]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5124.SL.pdf?cite=2021%20c%20179%20§%203[2021 c 179 § 3]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1181.SL.pdf?cite=2011%20c%2041%20§%205[2011 c 41 § 5]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%2091[1991 c 3 § 91]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c447.pdf?cite=1987%20c%20447%20§%206[1987 c 447 § 6]; ]
 
 == 18.36A.080 - Civil immunity.
 The secretary, members of the board, or individuals acting on their behalf, are immune from suit in any civil action based on any act performed in the course of their duties.
@@ -106,6 +110,19 @@ The department shall issue a license to any applicant who meets the following re
 The board shall establish what constitutes adequate proof of meeting the above requirements. Any person holding a valid license to practice drugless therapeutics under chapter 18.36 RCW upon January 1, 1988, shall be deemed licensed pursuant to this chapter.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1181.SL.pdf?cite=2011%20c%2041%20§%207[2011 c 41 § 7]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%2094[1991 c 3 § 94]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c447.pdf?cite=1987%20c%20447%20§%209[1987 c 447 § 9]; ]
+
+== 18.36A.095 - Colon hydrotherapist certification requirements.
+. Beginning July 1, 2022, the secretary shall issue a certification as a colon hydrotherapist to any applicant who:
+
+.. Has completed education and training requirements established by the board. At a minimum, education and training requirements must address proper technique, the use of appropriate equipment, and safety and consent procedures; and
+
+.. Has successfully passed an examination approved by the board.
+
+. The board may recognize certification or accreditation by a professional organization as satisfying any of the requirements in subsection (1) of this section if the organization's standards are substantially equivalent to or more stringent than those established under subsection (1) of this section.
+
+. A colon hydrotherapist may not practice colon hydrotherapy unless the colon hydrotherapist has established an affiliation with one or more naturopaths licensed under this chapter. A colon hydrotherapist must submit the names of all naturopaths with which the colon hydrotherapist is affiliated to the board on a schedule established by the board. A colon hydrotherapist may practice in a location other than the office of a naturopath. A colon hydrotherapist may only perform colon hydrotherapy on patients who have been referred to the colon hydrotherapist by a naturopath with whom the colon hydrotherapist is affiliated and only according to the plan of care delegated from the naturopath to the colon hydrotherapist.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5124.SL.pdf?cite=2021%20c%20179%20§%201[2021 c 179 § 1]; ]
 
 == 18.36A.100 - Standards for approval of educational programs.
 . The board shall establish by rule the standards for approval of educational programs and alternate training and may contract with individuals or organizations having expertise in the profession and/or in education to report to the board the information necessary for the board to evaluate the educational programs. The standards for approval shall be based on the minimal competencies necessary for safe practice. The standards and procedures for approval shall apply equally to educational programs and equivalent alternate training within the United States and those in foreign jurisdictions.
@@ -136,9 +153,9 @@ Applicants shall comply with administrative procedures, administrative requireme
 [ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2151-S.SL.pdf?cite=1996%20c%20191%20§%2022[1996 c 191 § 22]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%2098[1991 c 3 § 98]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c447.pdf?cite=1987%20c%20447%20§%2013[1987 c 447 § 13]; ]
 
 == 18.36A.140 - Fee for renewal, late renewal.
-The secretary shall establish the administrative procedures, administrative requirements, and fees for renewal and late renewal of licenses as provided in RCW 43.70.250 and 43.70.280.
+The secretary shall establish the administrative procedures, administrative requirements, and fees for renewal and late renewal of licenses and certificates as provided in RCW 43.70.250 and 43.70.280.
 
-[ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2151-S.SL.pdf?cite=1996%20c%20191%20§%2023[1996 c 191 § 23]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%2099[1991 c 3 § 99]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c447.pdf?cite=1987%20c%20447%20§%2014[1987 c 447 § 14]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5124.SL.pdf?cite=2021%20c%20179%20§%204[2021 c 179 § 4]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2151-S.SL.pdf?cite=1996%20c%20191%20§%2023[1996 c 191 § 23]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1115.SL.pdf?cite=1991%20c%203%20§%2099[1991 c 3 § 99]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c447.pdf?cite=1987%20c%20447%20§%2014[1987 c 447 § 14]; ]
 
 == 18.36A.150 - Board of naturopathy.
 . There is created the board of naturopathy consisting of seven members appointed by the governor to four-year terms. Five members of the board shall be persons licensed under this chapter and two shall be members of the public. No member may serve more than two consecutive full terms. Members hold office until their successors are appointed. The governor may appoint the initial members of the board to staggered terms from one to four years. Thereafter, all members shall be appointed to full four-year terms.
@@ -166,7 +183,11 @@ The secretary shall establish the administrative procedures, administrative requ
 
 .. Determine the minimum education and experience requirements for licensure in conformance with RCW 18.36A.090, including, but not limited to, approval of educational programs;
 
-.. Prepare and administer, or approve the preparation and administration of, examinations for licensure;
+.. Determine the minimum education and training requirements for certification as a colon hydrotherapist under RCW 18.36A.095, including identifying any certification or accreditation organizations that satisfy certification requirements;
+
+.. Establish standards for the affiliation relationship between a colon hydrotherapist and a naturopath, including standards for communicating a plan of care for a patient, transferring a patient to a higher level of care, and providing general, off-site supervision;
+
+.. Prepare and administer, or approve the preparation and administration of, examinations for licensure or certification;
 
 .. Establish by rule the procedures for an appeal of examination failure;
 
@@ -174,9 +195,9 @@ The secretary shall establish the administrative procedures, administrative requ
 
 .. Adopt rules implementing a continuing competency program.
 
-. The uniform disciplinary act, chapter 18.130 RCW, governs unlicensed practice, the issuance and denial of licenses, and the discipline of licensees under this chapter.
+. The uniform disciplinary act, chapter 18.130 RCW, governs unlicensed and uncertified practice, the issuance and denial of licenses and certifications, and the discipline of licensees and certified persons under this chapter.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1181.SL.pdf?cite=2011%20c%2041%20§%202[2011 c 41 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5124.SL.pdf?cite=2021%20c%20179%20§%205[2021 c 179 § 5]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1181.SL.pdf?cite=2011%20c%2041%20§%202[2011 c 41 § 2]; ]
 
 == 18.36A.900 - Effective date—1987 c 447 §§ 1-14.
 Sections 1 through 14 of this act shall take effect January 1, 1988.

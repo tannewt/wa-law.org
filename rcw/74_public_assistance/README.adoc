@@ -4,7 +4,7 @@
 * link:74.08_eligibility_generally—standards_of_assistance.adoc[74.08 - Eligibility generally—Standards of assistance.]
 * link:74.08A_washington_workfirst_temporary_assistance_for_needy_families.adoc[74.08A - Washington WorkFirst temporary assistance for needy families.]
 * link:74.09_medical_care.adoc[74.09 - Medical care.]
-* link:74.09A_medical_assistance—coordination_of_benefits—eligibility_and_coverage_information_transfer.adoc[74.09A - Medical assistance—Coordination of benefits—Eligibility and coverage information transfer.]
+* link:74.09A_medical_assistance—coordination_of_benefits—information_transfer.adoc[74.09A - Medical assistance—Coordination of benefits—Information transfer.]
 * link:74.12_temporary_assistance_for_needy_families.adoc[74.12 - Temporary assistance for needy families.]
 * link:74.12A_incentive_to_work—economic_independence.adoc[74.12A - Incentive to work—Economic independence.]
 * link:74.13_child_welfare_services.adoc[74.13 - Child welfare services.]

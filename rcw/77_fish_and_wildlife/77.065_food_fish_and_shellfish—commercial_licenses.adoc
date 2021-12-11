@@ -1610,17 +1610,23 @@ The department must revoke a geoduck diver license issued under RCW 77.65.410, a
 
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1232.SL.pdf?cite=2015%20c%20103%20§%201[2015 c 103 § 1]; ]
 
-== 77.65.610 - Crewmember license—Requirements—Fee—Exemptions.
+== 77.65.610 - Crewmember license—Requirements—Rule making—Fee—Exemptions.
 . [Empty]
 .. An individual age sixteen and older who works on board any vessel while operating in a commercial fishery regulated by the state must obtain a crewmember license from the department. However, an individual on the vessel designated as the primary or alternate operator on the commercial fishing license and an individual on the vessel licensed and working as a geoduck diver or geoduck tender do not also need a crewmember license. Crewmembers working for licensed charters or guides are not required to have a crewmember license.
 
 .. A crewmember license is required for each individual who participates in the operation of the vessel or the harvest. For the purposes of this section, the term "harvest" includes participation in tending, deploying, retrieving, or baiting fishing gear, harvesting, or placing fish or shellfish in holds.
 
+.. Each individual required to have a crewmember license as set forth in this section must have in their possession at least one piece of identifying documentation as specified in RCW 46.20.035(1) (a) through (f) that contains the signature and a photograph of the individual and produce the documentation at the request of a fish and wildlife officer or ex officio fish and wildlife officer.
+
 .. An albacore tuna crewmember license satisfies the requirements specified in (a) and (b) of this subsection on vessels fishing for albacore tuna or baitfish lampara.
 
 . A crewmember license must be purchased in the name of the individual working as the crewmember. The license holder may use the license aboard any commercial fishing vessel, except an albacore tuna crewmember license is only valid for participating in the albacore tuna fishery or baitfish lampara fishery. A crewmember license purchased by a crewmember may not be transferred to another individual.
 
-. Up to two crewmember licenses may be purchased and held by a commercial fishing license holder for use by any individual working on the vessel named in the commercial fishing license. Each crewmember license held by a commercial fishing license holder covers one crewmember per trip, but the same crewmember license may be used to authorize a different individual to act as a crewmember on a subsequent trip.
+. Up to two crewmember licenses may be purchased and held by a commercial fishing license holder for use by any individual working on the vessel named in the commercial fishing license, as long as the individual is not prohibited from obtaining a crewmember license. Each crewmember license held by a commercial fishing license holder covers one crewmember per trip, but the same crewmember license may be used to authorize a different individual to act as a crewmember on a subsequent trip. The commission may adopt fishery specific rules that:
+
+.. Increase the number of crewmember licenses that may be held by a commercial fishing license holder;
+
+.. Pertain to the issuance, period of validity, use, possession, and display of the licenses.
 
 . The fee for an annual crewmember license is thirty-five dollars for residents and one hundred ten dollars for nonresidents. The fee for an annual albacore tuna crewmember license is thirty-five dollars for residents and nonresidents. Additional application fees and surcharges do not apply except that if the license is purchased through the automated licensing system the fees authorized in RCW 77.32.050 apply.
 
@@ -1628,12 +1634,12 @@ The department must revoke a geoduck diver license issued under RCW 77.65.410, a
 
 . Family members of the commercial license holder or alternate operators are exempt from the requirements of this section. For purposes of this section, family members include children, grandchildren, spouse, parents, or siblings of the commercial license holder.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1597-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%208%20§%2015[2017 3rd sp.s. c 8 § 15]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1437.SL.pdf?cite=2021%20c%2046%20§%201[2021 c 46 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1597-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%208%20§%2015[2017 3rd sp.s. c 8 § 15]; ]
 
-== 77.65.615 - Commercial whale watching license—Fees—Definitions.
-. A commercial whale watching license is required for commercial whale watching operators. The annual fee is two hundred dollars in addition to the annual application fee of seventy-five dollars.
+== 77.65.615 - Commercial whale watching business license—Commercial whale watching operator license—Commercial whale watching kayak guide license—Fees—Definitions.
+. A commercial whale watching business license is required for commercial whale watching businesses. The annual fee for a commercial whale watching business license is two hundred dollars in addition to the annual application fee of seventy-five dollars.
 
-. The annual fees for a commercial whale watching license as described in subsection (1) of this section must include fees for each motorized or sailing vessel or vessels as follows:
+. The annual fees for a commercial whale watching business license as described in subsection (1) of this section must include fees for each motorized or sailing vessel or vessels as follows:
 
 .. One to twenty-four passengers, three hundred twenty-five dollars;
 
@@ -1645,17 +1651,7 @@ The department must revoke a geoduck diver license issued under RCW 77.65.410, a
 
 .. One hundred fifty-one passengers or greater, two thousand dollars.
 
-. The annual fees for a commercial whale watching license as described in subsection (1) of this section must include fees for each kayak as follows:
-
-.. One to ten kayaks, one hundred twenty-five dollars;
-
-.. Eleven to twenty kayaks, two hundred twenty-five dollars;
-
-.. Twenty-one to thirty kayaks, four hundred twenty-five dollars; and
-
-.. Thirty-one or more kayaks, six hundred twenty-five dollars.
-
-. The holder of a commercial whale watching license for motorized or sailing vessels required under subsection (2) of this section may substitute the vessel designated on the license, or designate a vessel if none has previously been designated, if the license holder:
+. The holder of a commercial whale watching business license for motorized or sailing vessels required under subsection (2) of this section may substitute the vessel designated on the license, or designate a vessel if none has previously been designated, if the license holder:
 
 .. Surrenders the previously issued license to the department;
 
@@ -1663,27 +1659,53 @@ The department must revoke a geoduck diver license issued under RCW 77.65.410, a
 
 .. Pays to the department a fee of thirty-five dollars and an application fee of one hundred five dollars.
 
-. Unless the license holder owns all vessels identified on the application described in subsection (4)(b) of this section, the department may not change the vessel designation on the license more than once per calendar year.
+. Unless the business license holder owns all vessels identified on the application described in subsection (3)(b) of this section, the department may not change the vessel designation on the license more than once per calendar year.
 
-. A person who is not the license holder may operate a motorized or sailing commercial whale watching vessel designated on the license only if:
+. A commercial whale watching operator license is required for commercial whale watching operators. A person may operate a motorized or sailing commercial whale watching vessel designated on a commercial whale watching business license only if:
 
-.. The person holds an alternate operator license issued by the director; and
+.. The person holds a commercial whale watching operator license issued by the director; and
 
-.. The person is designated as an alternate operator on the underlying commercial whale watching license.
+.. The person is designated as an operator on the underlying commercial whale watching business license.
 
-. No individual may hold more than one alternate operator license. An individual who holds an alternate operator license may be designated as an alternate operator on an unlimited number of commercial whale watching licenses.
+. No individual may hold more than one commercial whale watching operator license. An individual who holds an operator license may be designated as an operator on an unlimited number of commercial whale watching business licenses.
 
-. The annual fee for an alternate operator license is two hundred dollars in addition to an annual application fee of seventy-five dollars.
+. The annual fee for a commercial whale watching operator license is one hundred dollars in addition to an annual application fee of seventy-five dollars.
+
+. A person may conduct commercial whale watching via guided kayak tours only if:
+
+.. The person holds a kayak guide license issued by the director; and
+
+.. The person is designated as a kayak guide on the underlying commercial whale watching business license.
+
+. No individual may hold more than one kayak guide license. An individual who holds a kayak guide license may be designated on an unlimited number of commercial whale watching business licenses.
+
+. The annual fee for a kayak guide license is $25 in addition to an annual application fee of $25.
 
 . The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
 
-.. "Commercial whale watching" means the act of taking, or offering to take, passengers aboard a vessel in order to view marine mammals in their natural habitat for a fee.
+.. "Commercial whale watching" means the act of taking, or offering to take, passengers aboard a vessel or guided kayak tour in order to view marine mammals in their natural habitat for a fee.
 
-.. "Commercial whale watching operators" includes commercial vessels and kayak rentals that are engaged in the business of whale watching.
+.. "Commercial whale watching business" means a business that engages in the activity of commercial whale watching.
+
+.. "Commercial whale watching business license" means a department-issued license to operate a commercial whale watching business.
+
+.. "Commercial whale watching license" means a commercial whale watching business license, a commercial whale watching operator license, or a kayak guide license as defined in this section.
+
+.. "Commercial whale watching operator" means a person who operates a motorized or sailing vessel engaged in the business of whale watching.
+
+.. "Commercial whale watching operator license" means a department-issued license to operate a commercial motorized or sailing vessel on behalf of a commercial whale watching business.
 
 .. "Commercial whale watching vessel" means any vessel that is being used as a means of transportation for individuals to engage in commercial whale watching.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5577-S2.SL.pdf?cite=2019%20c%20291%20§%202[2019 c 291 § 2]; ]
+.. "Kayak guide" means a person who conducts guided kayak tours on behalf of a commercial whale watching business.
+
+.. "Kayak guide license" means a department-issued license to conduct commercial guided kayak tours on behalf of a commercial whale watching business.
+
+. The residency and business requirements of RCW 77.65.040 (2) and (3) do not apply to Canadian individuals or corporations applying for and holding Washington commercial whale watching licenses defined in this section.
+
+. The license and application fees in this section are waived for calendar years 2021 and 2022.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5330.SL.pdf?cite=2021%20c%20284%20§%201[2021 c 284 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5577-S2.SL.pdf?cite=2019%20c%20291%20§%202[2019 c 291 § 2]; ]
 
 == 77.65.620 - Commercial whale watching license—Adoption of rules—Analysis and report to the governor and the legislature—Definitions.
 . The department must adopt rules for holders of a commercial whale watching license established in RCW 77.65.615 for the viewing of southern resident orca whales for the inland waters of Washington by January 1, 2021. The rules must be designed to reduce the daily and cumulative impacts on southern resident orca whales and consider the economic viability of license holders. The department shall at a minimum consider protections for southern resident orca whales by establishing limitations on:

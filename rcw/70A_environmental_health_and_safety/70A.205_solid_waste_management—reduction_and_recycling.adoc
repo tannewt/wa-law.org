@@ -303,7 +303,7 @@ Each county and city comprehensive solid waste management plan shall include the
 
 .. An analysis of the costs and other impacts associated with contaminants to the recycling system; and
 
-.. An implementation schedule and details of how outreach is to be conducted. Contamination reduction education methods may include sharing community-wide messaging through newsletters, articles, mailers, social media, web sites, or community events, informing recycling drop box customers about contamination, and improving signage.
+.. An implementation schedule and details of how outreach is to be conducted. Contamination reduction education methods may include sharing community-wide messaging through newsletters, articles, mailers, social media, websites, or community events, informing recycling drop box customers about contamination, and improving signage.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201163[2020 c 20 § 1163]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1114-S2.SL.pdf?cite=2019%20c%20255%20§%204[2019 c 255 § 4]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1543-S2.SL.pdf?cite=2019%20c%20166%20§%206[2019 c 166 § 6]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/Senate/5478-S.SL.pdf?cite=1991%20c%20298%20§%203[1991 c 298 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c431.pdf?cite=1989%20c%20431%20§%203[1989 c 431 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c123.pdf?cite=1984%20c%20123%20§%205[1984 c 123 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971ex1c293.pdf?cite=1971%20ex.s.%20c%20293%20§%201[1971 ex.s. c 293 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1969ex1c134.pdf?cite=1969%20ex.s.%20c%20134%20§%209[1969 ex.s. c 134 § 9]; ]
 
@@ -334,7 +334,7 @@ Upon receipt, the department shall immediately provide the utilities and transpo
 == 70A.205.070 - Technical assistance for plan preparation—Guidelines—Informational materials and programs.
 . The department or the commission, as appropriate, shall provide to counties and cities technical assistance including, but not limited to, planning guidelines, in the preparation, review, and revision of solid waste management plans required by this chapter. Guidelines prepared under this section shall be consistent with the provisions of this chapter. Guidelines for the preparation of the waste reduction and recycling element of the comprehensive solid waste management plan shall be completed by the department by March 15, 1990. These guidelines shall provide recommendations to local government on materials to be considered for designation as recyclable materials. The state solid waste management plan prepared pursuant to RCW 70A.205.210 shall be consistent with these guidelines.
 
-. The department shall be responsible for development and implementation of a comprehensive statewide public information program designed to encourage waste reduction, source separation, and recycling by the public. The department shall operate a toll free hotline to provide the public information on waste reduction and recycling.
+. The department shall be responsible for development and implementation of a comprehensive statewide public information program designed to encourage waste reduction, source separation, and recycling by the public. The department shall operate a toll-free hotline to provide the public information on waste reduction and recycling.
 
 . The department shall provide technical assistance to local governments in the development and dissemination of informational materials and related activities to assure recognition of unique local waste reduction and recycling programs.
 
@@ -343,7 +343,7 @@ Upon receipt, the department shall immediately provide the utilities and transpo
 
 .. The department must provide technical assistance and create guidance to help local jurisdictions determine the extent of contamination in their regional recycling and to develop contamination reduction and outreach plans. Contamination means any material not included on the local jurisdiction's acceptance list.
 
-.. Contamination reduction education methods may include sharing community-wide messaging through newsletters, articles, mailers, social media, web sites, or community events, informing recycling drop box customers about contamination, and improving signage.
+.. Contamination reduction education methods may include sharing community-wide messaging through newsletters, articles, mailers, social media, websites, or community events, informing recycling drop box customers about contamination, and improving signage.
 
 .. The department must cite the sources of information that it relied upon, including any peer-reviewed science, in the development of the best management practices for recycling under (a) of this subsection and the guidance developed under (b) of this subsection.
 
@@ -1046,7 +1046,7 @@ The waste tire removal account is created in the state treasury. Expenditures fr
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5976.SL.pdf?cite=2009%20c%20261%20§%203[2009 c 261 § 3]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1094-S.SL.pdf?cite=2007%20c%20518%20§%20708[2007 c 518 § 708]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2085-S.SL.pdf?cite=2005%20c%20354%20§%203[2005 c 354 § 3]; ]
 
-== 70A.205.420 - Waste tire removal account—Use—Information required to be posted to department's web site.
+== 70A.205.420 - Waste tire removal account—Use—Information required to be posted to department's website.
 . Moneys in the waste tire removal account may be appropriated to the department of ecology:
 
 .. To provide for funding to state and local governments for the removal of discarded vehicle tires from unauthorized tire dump sites; and
@@ -1055,7 +1055,7 @@ The waste tire removal account is created in the state treasury. Expenditures fr
 
 . In spending funds in the account under this section, the department shall identify communities with the most severe problems with waste tires and provide funds first to those communities to remove accumulations of waste tires.
 
-. The department shall provide on its web site a summary of state and local government efforts funded using the waste tire removal account, a list of authorized waste tire storage sites and transporters, and tire recycling and reuse rates in the state for each calendar year.
+. The department shall provide on its website a summary of state and local government efforts funded using the waste tire removal account, a list of authorized waste tire storage sites and transporters, and tire recycling and reuse rates in the state for each calendar year.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201191[2020 c 20 § 1191]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2636.SL.pdf?cite=2014%20c%2076%20§%206[2014 c 76 § 6]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5976.SL.pdf?cite=2009%20c%20261%20§%205[2009 c 261 § 5]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2085-S.SL.pdf?cite=2005%20c%20354%20§%205[2005 c 354 § 5]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c250.pdf?cite=1988%20c%20250%20§%201[1988 c 250 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1985c345.pdf?cite=1985%20c%20345%20§%207[1985 c 345 § 7]; ]
 
@@ -1268,13 +1268,6 @@ By July 1, 2010, each state agency shall develop and implement:
 .. "Local governmental entities" means cities or counties.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1695-S.SL.pdf?cite=2015%20c%20142%20§%202[2015 c 142 § 2]; ]
-
-== 70A.205.705 - Report to the legislature. (Expires July 1, 2021.)
-. The department of transportation, together with its implementation partners, as that term is defined in RCW 70A.205.700, must report annually to the legislature on the implementation of RCW 70A.205.700. The annual report must be submitted to the legislature, consistent with RCW 43.01.036, by January 2nd of each year from 2017 through 2020.
-
-. This section expires July 1, 2021.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2246-S.SL.pdf?cite=2020%20c%2020%20§%201203[2020 c 20 § 1203]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1695-S.SL.pdf?cite=2015%20c%20142%20§%203[2015 c 142 § 3]; ]
 
 == 70A.205.710 - Composting food and yard wastes—Grants and study.
 . In order to establish the feasibility of composting food and yard wastes, the department shall provide funds, as available, to local governments submitting a proposal to compost such wastes.

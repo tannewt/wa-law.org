@@ -214,7 +214,7 @@ After a petition proposing an annexation by a code city has been filed with the 
 
 .. Separately or jointly, publish a notice of availability of the agreement at least once a week for four weeks before the date of the hearing in one or more newspapers of general circulation within the code city and one or more newspapers of general circulation within the territory proposed for annexation; and
 
-.. If the legislative body has the ability to do so, post the notice of availability of the agreement on its web site for the same four weeks that the notice is published in the newspapers under (a) of this subsection. The notice shall describe where the public may review the agreement and the territory to be annexed.
+.. If the legislative body has the ability to do so, post the notice of availability of the agreement on its website for the same four weeks that the notice is published in the newspapers under (a) of this subsection. The notice shall describe where the public may review the agreement and the territory to be annexed.
 
 . On the date set for hearing, the public shall be afforded an opportunity to be heard. Following the hearing, if the legislative body determines to effect the annexation, they shall do so by ordinance. If the annexation agreement includes phased annexation of territory, the legislative body shall adopt a separate ordinance at the time of each phase of annexation. Upon the date fixed in the ordinance of annexation the area annexed shall become part of the city. If the annexation ordinance provides for assumption of indebtedness or adoption of a proposed zoning regulation, the notice shall include a statement of such requirements. Upon passage of the annexation ordinance a certified copy shall be filed with the board of county commissioners of the county in which the annexed property is located.
 
@@ -355,6 +355,25 @@ After the expiration of the forty-fifth day from but excluding the date of passa
 . Costs for an election required under subsection (6) of this section shall be borne by the county.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6236.SL.pdf?cite=2006%20c%20344%20§%2026[2006 c 344 § 26]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1755-S.SL.pdf?cite=2003%20c%20299%20§%204[2003 c 299 § 4]; ]
+
+== 35A.14.472 - Annexation of unincorporated territory within urban growth areas—Interlocal agreement, when authorized—Requirements.
+. A code city as provided in RCW 35A.14.296(2) may collaborate with the county or counties where the code city is located to form an interlocal agreement regarding annexation of unincorporated territory within the urban growth area boundary. The interlocal agreement formation process must include procedures for public participation. The procedures must provide for broad dissemination of proposals and alternatives, opportunity for written comments, public meetings after effective notice, and consideration of and response to public comments. The interlocal agreement may only be executed after notice of availability of the agreement is posted on the website of each legislative body for four weeks and a public hearing by each legislative body, separately or jointly. This method of annexation shall be an alternative method and is additional to all other methods provided for in this chapter.
+
+. An interlocal agreement under this section may include use of a sales tax credit for annexed areas should such a credit be reinstated by the legislature.
+
+. The agreement or plan under this section must address the following:
+
+.. A balancing of annexations of commercial, industrial, and residential properties so that any potential loss or gain is considered and distributed fairly as determined by tax revenue;
+
+.. Development, ownership, and maintenance of infrastructure;
+
+.. The potential for revenue-sharing agreements.
+
+. In addressing the items in subsection (3)(a) through (c) of this section, the parties must also address the balancing of factors and objectives for annexation review in RCW 36.93.170 and 36.93.180.
+
+. By December 1, 2021, the association of Washington cities and the Washington state association of counties shall report to the legislature, in compliance with RCW 43.01.036, on how a sales tax credit may be utilized to encourage appropriate annexations and what limits should be associated with such a credit if reinstated.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5368-S2.SL.pdf?cite=2021%20c%20312%20§%201[2021 c 312 § 1]; ]
 
 == 35A.14.475 - Annexation of territory within regional transit authorities.
 When territory is annexed under this chapter to a code city located within the boundaries of a regional transit authority, the territory is simultaneously included within the boundaries of the authority and subject from the effective date of the annexation to all taxes and other liabilities and obligations applicable within the code city with respect to the authority. The code city must notify the authority of the annexation.

@@ -166,11 +166,11 @@ The director has the power reasonably necessary to carry out these duties.
 [ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5179-S.SL.pdf?cite=1999%20c%20249%20§%20304[1999 c 249 § 304]; http://lawfilesext.leg.wa.gov/biennium/1991-92/Pdf/Bills/Session%20Laws/House/1304-S.SL.pdf?cite=1991%20c%2011%20§%201[1991 c 11 § 1]; ]
 
 == 79A.05.050 - Community restitution for littering in state parks—Policy and procedures.
-. The commission shall establish a policy and procedures for supervising and evaluating community restitution activities that may be imposed under *RCW 70.93.060(3) including a description of what constitutes satisfactory completion of community restitution.
+. The commission shall establish a policy and procedures for supervising and evaluating community restitution activities that may be imposed under RCW 70A.200.060(3) including a description of what constitutes satisfactory completion of community restitution.
 
 . The commission shall inform each state park of the policy and procedures regarding community restitution activities, and each state park shall then notify the commission as to whether or not the park elects to participate in the community restitution program. The commission shall transmit a list notifying the district courts of each state park that elects to participate.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6627.SL.pdf?cite=2002%20c%20175%20§%2052[2002 c 175 § 52]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2757-S.SL.pdf?cite=1996%20c%20263%20§%203[1996 c 263 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2090[2021 c 65 § 90]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6627.SL.pdf?cite=2002%20c%20175%20§%2052[2002 c 175 § 52]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/2757-S.SL.pdf?cite=1996%20c%20263%20§%203[1996 c 263 § 3]; ]
 
 == 79A.05.055 - Additional powers and duties.
 The commission may:
@@ -330,7 +330,7 @@ The commission shall determine the fair market value for television station leas
 
 .. Products, services, or messages that are contrary to the public interest, including any advertisement that encourages or depicts unsafe behaviors or encourages unsafe or prohibited recreation activities. Tobacco and cannabis must be included among the products prohibited under this subsection (3)(d).
 
-. Notwithstanding subsection (1) of this section, commercial advertising, including product placement, is permitted on commission web sites, electronic social media, and printed materials within or outside of state parks.
+. Notwithstanding subsection (1) of this section, commercial advertising, including product placement, is permitted on commission websites, electronic social media, and printed materials within or outside of state parks.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6034.SL.pdf?cite=2014%20c%2086%20§%204[2014 c 86 § 4]; ]
 
@@ -549,7 +549,7 @@ To encourage the development of the Puget Sound country as a recreational boatin
 .. Information demonstrating the prospective owner's intent to obtain legal moorage following the transfer, in the manner determined by the commission.
 
 . [Empty]
-.. The commission shall remove any containers or other materials that are not fixed to the vessel and contain hazardous substances, as defined under *RCW 70.105D.020.
+.. The commission shall remove any containers or other materials that are not fixed to the vessel and contain hazardous substances, as defined under RCW 70A.305.020.
 
 .. However, the commission may transfer a vessel with:
 
@@ -561,7 +561,7 @@ To encourage the development of the Puget Sound country as a recreational boatin
 
 . Prior to sale, and unless the vessel has a title or valid marine document, the commission is required to apply for a certificate of title for the vessel under RCW 88.02.510 and register the vessel under RCW 88.02.550.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1245-S.SL.pdf?cite=2013%20c%20291%20§%2012[2013 c 291 § 12]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2091[2021 c 65 § 91]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1245-S.SL.pdf?cite=2013%20c%20291%20§%2012[2013 c 291 § 12]; ]
 
 == 79A.05.190 - Recreational metal detectors—Available land.
 . By September 1, 1997, the commission shall increase the area available for use by recreational metal detectors by at least two hundred acres.
@@ -684,7 +684,7 @@ The commission may adopt such rules as are necessary to implement and enforce RC
 [ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2459.SL.pdf?cite=2000%20c%2048%20§%201[2000 c 48 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2399-S.SL.pdf?cite=2000%20c%2011%20§%2035[2000 c 11 § 35]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2590.SL.pdf?cite=1994%20c%20264%20§%2019[1994 c 264 § 19]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c49.pdf?cite=1990%20c%2049%20§%201[1990 c 49 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c175.pdf?cite=1989%20c%20175%20§%20107[1989 c 175 § 107]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1988c36.pdf?cite=1988%20c%2036%20§%2016[1988 c 36 § 16]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c330.pdf?cite=1987%20c%20330%20§%201101[1987 c 330 § 1101]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c47.pdf?cite=1986%20c%2047%20§%202[1986 c 47 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c11.pdf?cite=1982%20c%2011%20§%206[1982 c 11 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1975ex1c209.pdf?cite=1975%201st%20ex.s.%20c%20209%20§%208[1975 1st ex.s. c 209 § 8]; ]
 
 == 79A.05.260 - Sun Lakes state park—"Vic Meyers Golf Course" designation—"Vic Meyers Lake" designation.
-The legislature hereby names the golf course located at Sun Lakes State Park the "Vic Meyers Golf Course", and Rainbow Lake shall be re-named "Vic Meyers Lake". The state shall provide and install a proper marker in a suitable location in the main activity area of the park which will set forth the key role Victor Aloysius Meyers had in the development of Sun Lakes State Park and the important part he had for many years in the political and governmental history of the state. In addition, the name hereby established for the golf course shall be prominently displayed at the golf course club house.
+The legislature hereby names the golf course located at Sun Lakes State Park the "Vic Meyers Golf Course", and Rainbow Lake shall be re-named "Vic Meyers Lake". The state shall provide and install a proper marker in a suitable location in the main activity area of the park which will set forth the key role Victor Aloysius Meyers had in the development of Sun Lakes State Park and the important part he had for many years in the political and governmental history of the state. In addition, the name hereby established for the golf course shall be prominently displayed at the golf course clubhouse.
 
 The legislature finds it appropriate to so honor Victor Aloysius Meyers for his long and dedicated service to the people of this state.
 
@@ -1233,7 +1233,7 @@ Nothing herein shall be construed as authorizing or directing the Yakima county 
 . [Empty]
 .. In consultation with the department of transportation, the commission must develop signage to be placed along the routes of each designated scenic bikeway.
 
-.. On the commission's web site, the commission must promote the use of designated scenic bikeways.
+.. On the commission's website, the commission must promote the use of designated scenic bikeways.
 
 .. The commission may develop promotional materials, including maps or telecommunications applications for purposes of facilitating public use of designed scenic bikeways. Promotional materials created by the commission must indicate whether the bikeway is paved or gravel and any other conditions of the bikeway that affect the safety of users. Consistent with the standards of RCW 79A.05.087, the commission may encourage local economic development in proximity to designated scenic bikeways in the promotional materials by noting opportunities for bicycle repair, food, lodging, camping, recreation, and other tourist activities.
 

@@ -104,6 +104,7 @@
 * link:43.099Z_financing_for_appropriations—2015-2017_biennium.adoc[43.99Z - Financing for appropriations—2015-2017 biennium.]
 * link:43.100A_general_obligation_bond_issues.adoc[43.100A - General obligation bond issues.]
 * link:43.101_criminal_justice_training_commission—education_and_training_standards_boards.adoc[43.101 - Criminal justice training commission—Education and training standards boards.]
+* link:43.102_office_of_independent_investigations.adoc[43.102 - Office of independent investigations.]
 * link:43.103_washington_state_forensic_investigations_council.adoc[43.103 - Washington state forensic investigations council.]
 * link:43.105_consolidated_technology_services_agency.adoc[43.105 - Consolidated technology services agency.]
 * link:43.110_local_government_research_and_services_program.adoc[43.110 - Local government research and services program.]

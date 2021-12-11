@@ -237,13 +237,13 @@ The applicant shall certify that all information furnished is true and complete.
 
 . The department must transmit the fees collected for CLPs to the state treasurer for deposit in the highway safety fund unless prior to July 1, 2023, the actions described in (a) or (b) of this subsection occur, in which case the portion of the revenue that is the result of the fee increased in section 206, chapter 44, Laws of 2015 3rd sp. sess. must be distributed to the connecting Washington account created under RCW 46.68.395.
 
-.. Any state agency files a notice of rule making under chapter 34.05 RCW for a rule regarding a fuel standard based upon or defined by the carbon intensity of fuel, including a low carbon fuel standard or clean fuel standard.
+.. Any state agency files a notice of rule making under chapter 34.05 RCW, absent explicit legislative authorization enacted subsequent to July 1, 2015, for a rule regarding a fuel standard based upon or defined by the carbon intensity of fuel, including a low carbon fuel standard or clean fuel standard.
 
-.. Any state agency otherwise enacts, adopts, orders, or in any way implements a fuel standard based upon or defined by the carbon intensity of fuel, including a low carbon fuel standard or clean fuel standard.
+.. Any state agency otherwise enacts, adopts, orders, or in any way implements a fuel standard based upon or defined by the carbon intensity of fuel, including a low carbon fuel standard or clean fuel standard, without explicit legislative authorization enacted subsequent to July 1, 2015.
 
 .. Nothing in this subsection acknowledges, establishes, or creates legal authority for the department of ecology or any other state agency to enact, adopt, order, or in any way implement a fuel standard based upon or defined by the carbon intensity of fuel, including a low carbon fuel standard or clean fuel standard.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5987-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%2044%20§%20206[2015 3rd sp.s. c 44 § 206]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1752-S.SL.pdf?cite=2013%20c%20224%20§%205[2013 c 224 § 5]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1091-S3.SL.pdf?cite=2021%20c%20317%20§%2022[2021 c 317 § 22]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5987-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%2044%20§%20206[2015 3rd sp.s. c 44 § 206]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1752-S.SL.pdf?cite=2013%20c%20224%20§%205[2013 c 224 § 5]; ]
 
 == 46.25.054 - Nondomiciled commercial driver's license and commercial learner's permit—Issuance, requirements.
 . The department may issue a nondomiciled CLP or CDL to a person who meets one of the following criteria:
@@ -302,7 +302,7 @@ Except as provided in 49 C.F.R. Sec. 391.67 as it existed on April 30, 2019, or 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2696-S.SL.pdf?cite=2018%20c%2049%20§%202[2018 c 49 § 2]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1597-S.SL.pdf?cite=2003%20c%20195%20§%204[2003 c 195 § 4]; ]
 
-== 46.25.060 - Knowledge and skills examination, exemptions, fee distribution. (Effective until January 1, 2021.)
+== 46.25.060 - Knowledge and skills examination, exemptions, fee distribution.
 . [Empty]
 .. No person may be issued a commercial driver's license unless that person:
 
@@ -328,14 +328,14 @@ Except as provided in 49 C.F.R. Sec. 391.67 as it existed on April 30, 2019, or 
 
 ... Public benefit not-for-profit corporations that are federally supported head start programs; or
 
-... Public benefit not-for-profit corporations that support early childhood education and assistance programs as described in *RCW 43.215.405(2).
+... Public benefit not-for-profit corporations that support early childhood education and assistance programs as described in RCW 43.216.505.
 
 .. Beginning July 1, 2016, if the applicant's primary use of a commercial driver's license is to drive a school bus, the applicant shall pay a fee of no more than one hundred dollars for the classified skill examination or combination of classified skill examinations conducted by the department.
 
 .. Beginning July 1, 2016, payment of the examination fees under this subsection entitles the applicant to take the examination up to two times in order to pass.
 
 . [Empty]
-.. The department may waive the skills examination and the requirement for completion of a course of instruction in the operation of a commercial motor vehicle specified in this section for a commercial driver's license applicant who meets the requirements of 49 C.F.R. Sec. 383.77.
+.. The department may waive the skills examination and the requirement for completion of a course of instruction in the operation of a commercial motor vehicle specified in this section for a commercial driver's license applicant who meets the requirements of 49 C.F.R. Sec. 383.77. For current or former military service members that meet the requirements of 49 C.F.R. Sec. 383.77, the department may also waive the requirements for a knowledge test for commercial driver's license applicants. Beginning December 1, 2021, the department shall provide an annual report to the house and senate transportation committees and the joint committee on veterans' and military affairs of the legislature on the number and types of waivers granted pursuant to this subsection.
 
 .. An applicant who operates a commercial motor vehicle for agribusiness purposes is exempt from the course of instruction completion and employer skills and training certification requirements under this section. By January 1, 2010, the department shall submit recommendations regarding the continuance of this exemption to the transportation committees of the legislature. For purposes of this subsection (2)(b), "agribusiness" means a private carrier who in the normal course of business primarily transports:
 
@@ -353,13 +353,13 @@ The department shall notify the transportation committees of the legislature if 
 
 . The fees under this section must be deposited into the highway safety fund unless prior to July 1, 2023, the actions described in (a) or (b) of this subsection occur, in which case the portion of the revenue that is the result of the fee increased in section 207, chapter 44, Laws of 2015 3rd sp. sess. must be distributed to the connecting Washington account created under RCW 46.68.395.
 
-.. Any state agency files a notice of rule making under chapter 34.05 RCW for a rule regarding a fuel standard based upon or defined by the carbon intensity of fuel, including a low carbon fuel standard or clean fuel standard.
+.. Any state agency files a notice of rule making under chapter 34.05 RCW, absent explicit legislative authorization enacted subsequent to July 1, 2015, for a rule regarding a fuel standard based upon or defined by the carbon intensity of fuel, including a low carbon fuel standard or clean fuel standard.
 
-.. Any state agency otherwise enacts, adopts, orders, or in any way implements a fuel standard based upon or defined by the carbon intensity of fuel, including a low carbon fuel standard or clean fuel standard.
+.. Any state agency otherwise enacts, adopts, orders, or in any way implements a fuel standard based upon or defined by the carbon intensity of fuel, including a low carbon fuel standard or clean fuel standard, without explicit legislative authorization enacted subsequent to July 1, 2015.
 
 .. Nothing in this subsection acknowledges, establishes, or creates legal authority for the department of ecology or any other state agency to enact, adopt, order, or in any way implement a fuel standard based upon or defined by the carbon intensity of fuel, including a low carbon fuel standard or clean fuel standard.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5987-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%2044%20§%20207[2015 3rd sp.s. c 44 § 207]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1752-S.SL.pdf?cite=2013%20c%20224%20§%206[2013 c 224 § 6]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1306.SL.pdf?cite=2011%20c%20153%20§%201[2011 c 153 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2223-S.SL.pdf?cite=2009%20c%20339%20§%201[2009 c 339 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1267-S.SL.pdf?cite=2007%20c%20418%20§%201[2007 c 418 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2532-S.SL.pdf?cite=2004%20c%20187%20§%203[2004 c 187 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6814-S.SL.pdf?cite=2002%20c%20352%20§%2018[2002 c 352 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c178.pdf?cite=1989%20c%20178%20§%208[1989 c 178 § 8]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1091-S3.SL.pdf?cite=2021%20c%20317%20§%2023[2021 c 317 § 23]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2188.SL.pdf?cite=2020%20c%2078%20§%202[2020 c 78 § 2]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5987-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%2044%20§%20207[2015 3rd sp.s. c 44 § 207]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1752-S.SL.pdf?cite=2013%20c%20224%20§%206[2013 c 224 § 6]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1306.SL.pdf?cite=2011%20c%20153%20§%201[2011 c 153 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/2223-S.SL.pdf?cite=2009%20c%20339%20§%201[2009 c 339 § 1]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1267-S.SL.pdf?cite=2007%20c%20418%20§%201[2007 c 418 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/2532-S.SL.pdf?cite=2004%20c%20187%20§%203[2004 c 187 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6814-S.SL.pdf?cite=2002%20c%20352%20§%2018[2002 c 352 § 18]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c178.pdf?cite=1989%20c%20178%20§%208[1989 c 178 § 8]; ]
 
 == 46.25.070 - Application—Change of address, name—Residency—Hazardous materials endorsement.
 . The application for a commercial driver's license or commercial learner's permit must include the following:
@@ -634,13 +634,13 @@ If any of the violations set forth in this subsection occurred while transportin
 
 . The fees under this section must be deposited into the highway safety fund unless prior to July 1, 2023, the actions described in (a) or (b) of this subsection occur, in which case the portion of the revenue that is the result of the fee increased in section 208, chapter 44, Laws of 2015 3rd sp. sess. must be distributed to the connecting Washington account created under RCW 46.68.395.
 
-.. Any state agency files a notice of rule making under chapter 34.05 RCW for a rule regarding a fuel standard based upon or defined by the carbon intensity of fuel, including a low carbon fuel standard or clean fuel standard.
+.. Any state agency files a notice of rule making under chapter 34.05 RCW, absent explicit legislative authorization enacted subsequent to July 1, 2015, for a rule regarding a fuel standard based upon or defined by the carbon intensity of fuel, including a low carbon fuel standard or clean fuel standard.
 
-.. Any state agency otherwise enacts, adopts, orders, or in any way implements a fuel standard based upon or defined by the carbon intensity of fuel, including a low carbon fuel standard or clean fuel standard.
+.. Any state agency otherwise enacts, adopts, orders, or in any way implements a fuel standard based upon or defined by the carbon intensity of fuel, including a low carbon fuel standard or clean fuel standard, without explicit legislative authorization enacted subsequent to July 1, 2015.
 
 .. Nothing in this subsection acknowledges, establishes, or creates legal authority for the department of ecology or any other state agency to enact, adopt, order, or in any way implement a fuel standard based upon or defined by the carbon intensity of fuel, including a low carbon fuel standard or clean fuel standard.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5987-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%2044%20§%20208[2015 3rd sp.s. c 44 § 208]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1752-S.SL.pdf?cite=2013%20c%20224%20§%2012[2013 c 224 § 12]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6461-S.SL.pdf?cite=2002%20c%20272%20§%204[2002 c 272 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c178.pdf?cite=1989%20c%20178%20§%2012[1989 c 178 § 12]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1091-S3.SL.pdf?cite=2021%20c%20317%20§%2020[2021 c 317 § 20]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5987-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%2044%20§%20208[2015 3rd sp.s. c 44 § 208]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1752-S.SL.pdf?cite=2013%20c%20224%20§%2012[2013 c 224 § 12]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6461-S.SL.pdf?cite=2002%20c%20272%20§%204[2002 c 272 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1989c178.pdf?cite=1989%20c%20178%20§%2012[1989 c 178 § 12]; ]
 
 == 46.25.110 - Driving with alcohol or THC in system.
 . Notwithstanding any other provision of Title 46 RCW, a person may not drive, operate, or be in physical control of a commercial motor vehicle while having alcohol or THC in his or her system.

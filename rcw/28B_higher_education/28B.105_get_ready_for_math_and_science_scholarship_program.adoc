@@ -125,7 +125,7 @@ The program administrator shall:
 == 28B.105.100 - Office of student financial assistance and program administrator—Joint duties.
 The office and the program administrator shall jointly:
 
-. Determine criteria for qualifying undergraduate programs, majors, and courses leading to a bachelor's degree in mathematics, science, or a related field, offered by institutions of higher education. The office shall publish the criteria for qualified courses, and lists of qualified programs and qualified majors, on its web site on a biennial basis; and
+. Determine criteria for qualifying undergraduate programs, majors, and courses leading to a bachelor's degree in mathematics, science, or a related field, offered by institutions of higher education. The office shall publish the criteria for qualified courses, and lists of qualified programs and qualified majors, on its website on a biennial basis; and
 
 . Establish criteria for selecting among eligible applicants those who, without scholarship assistance, would be least likely to pursue a qualified undergraduate program at an institution of higher education in Washington state.
 

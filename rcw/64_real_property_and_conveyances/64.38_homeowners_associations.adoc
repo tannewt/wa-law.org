@@ -19,9 +19,11 @@ For purposes of this chapter:
 
 . "Common expense" means the costs incurred by the association to exercise any of the powers provided for in this chapter.
 
-. "Contribution rate" means, in a reserve study as described in *RCW 64.34.380, the amount contributed to the reserve account so that the association will have cash reserves to pay major maintenance, repair, or replacement costs without the need of a special assessment.
+. "Contribution rate" means, in a reserve study as described in RCW 64.38.065, the amount contributed to the reserve account so that the association will have cash reserves to pay major maintenance, repair, or replacement costs without the need of a special assessment.
 
 . "Effective age" means the difference between the estimated useful life and remaining useful life.
+
+. "Electronic transmission" or "electronically transmitted" means any electronic communication not directly involving the physical transfer of a writing in a tangible medium, but that may be retained, retrieved, and reviewed by the sender and the recipient of the communication, and that may be directly reproduced in a tangible medium by a sender and recipient.
 
 . "Full funding plan" means setting a reserve funding goal of achieving one hundred percent fully funded reserves by the end of the thirty-year study period described under RCW 64.38.065, in which the reserve account balance equals the sum of the deteriorated portion of all reserve components.
 
@@ -41,15 +43,17 @@ For purposes of this chapter:
 
 . "Reserve component" means a common element whose cost of maintenance, repair, or replacement is infrequent, significant, and impractical to include in an annual budget.
 
-. "Reserve study professional" means an independent person who is suitably qualified by knowledge, skill, experience, training, or education to prepare a reserve study in accordance with *RCW 64.34.380 and 64.34.382.
+. "Reserve study professional" means an independent person who is suitably qualified by knowledge, skill, experience, training, or education to prepare a reserve study in accordance with RCW 64.38.065 and 64.38.070.
 
 . "Residential real property" means any real property, the use of which is limited by law, covenant or otherwise to primarily residential or recreational purposes.
 
 . "Significant assets" means that the current replacement value of the major reserve components is seventy-five percent or more of the gross budget of the association, excluding the association's reserve account funds.
 
+. "Tangible medium" means a writing, copy of a writing, facsimile, or a physical reproduction, each on paper or on other tangible material.
+
 . "Useful life" means the estimated time, between years, that major maintenance, repair, or replacement is estimated to occur.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1309-S.SL.pdf?cite=2011%20c%20189%20§%207[2011 c 189 § 7]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1471-S.SL.pdf?cite=1995%20c%20283%20§%202[1995 c 283 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5011-S.SL.pdf?cite=2021%20c%20227%20§%209[2021 c 227 § 9]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1309-S.SL.pdf?cite=2011%20c%20189%20§%207[2011 c 189 § 7]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1471-S.SL.pdf?cite=1995%20c%20283%20§%202[1995 c 283 § 2]; ]
 
 == 64.38.015 - Association membership.
 The membership of an association at all times shall consist exclusively of the owners of all real property over which the association has jurisdiction, both developed and undeveloped.
@@ -89,7 +93,7 @@ Unless otherwise provided in the governing documents, an association may:
 
 [ http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1471-S.SL.pdf?cite=1995%20c%20283%20§%204[1995 c 283 § 4]; ]
 
-== 64.38.025 - Board of directors—Standard of care—Restrictions—Budget—Removal from board.
+== 64.38.025 - Board of directors—Standard of care—Restrictions—Budget—Removal from board. (Effective until January 1, 2022.)
 . Except as provided in the association's governing documents or this chapter, the board of directors shall act in all instances on behalf of the association. In the performance of their duties, the officers and members of the board of directors shall exercise the degree of care and loyalty required of an officer or director of a corporation organized under chapter 24.03 RCW.
 
 . The board of directors shall not act on behalf of the association to amend the articles of incorporation, to take any action that requires the vote or approval of the owners, to terminate the association, to elect members of the board of directors, or to determine the qualifications, powers, and duties, or terms of office of members of the board of directors; but the board of directors may fill vacancies in its membership of the unexpired portion of any term.
@@ -187,19 +191,15 @@ Unless provided for in the governing documents, the bylaws of the association sh
 == 64.38.035 - Association meetings—Notice—Board of directors.
 . A meeting of the association must be held at least once each year. Special meetings of the association may be called by the president, a majority of the board of directors, or by owners having ten percent of the votes in the association. The association must make available to each owner of record for examination and copying minutes from the previous association meeting not more than sixty days after the meeting. Minutes of the previous association meeting must be approved at the next association meeting in accordance with the association's governing documents.
 
-. Not less than fourteen nor more than sixty days in advance of any meeting of the association, the secretary or other officers specified in the bylaws shall provide written notice to each owner of record by:
-
-.. Hand-delivery to the mailing address of the owner or other address designated in writing by the owner;
-
-.. Prepaid first-class United States mail to the mailing address of the owner or to any other mailing address designated in writing by the owner; or
-
-.. Electronic transmission to an address, location, or system designated in writing by the owner. Notice to owners by an electronic transmission complies with this section only with respect to those owners who have delivered to the secretary or other officers specified in the bylaws a written record consenting to receive electronically transmitted notices. An owner who has consented to receipt of electronically transmitted notices may revoke the consent at any time by delivering a written record of the revocation to the secretary or other officer specified in the bylaws. Consent is deemed revoked if the secretary or other officer specified in the bylaws is unable to electronically transmit two consecutive notices given in accordance with the consent.
+. Not less than fourteen nor more than fifty days in advance of any meeting of the association, the secretary or other officers specified in the bylaws shall cause notice of the meeting to be provided to each owner in accordance with this chapter.
 
 . The notice of any meeting shall state the time and place of the meeting and the business to be placed on the agenda by the board of directors for a vote by the owners, including the general nature of any proposed amendment to the articles of incorporation, bylaws, any budget or changes in the previously approved budget that result in a change in assessment obligation, and any proposal to remove a director.
 
 . Except as provided in this subsection, all meetings of the board of directors shall be open for observation by all owners of record and their authorized agents. The board of directors shall keep minutes of all actions taken by the board, which shall be available to all owners. Upon the affirmative vote in open meeting to assemble in closed session, the board of directors may convene in closed executive session to consider personnel matters; consult with legal counsel or consider communications with legal counsel; and discuss likely or pending litigation, matters involving possible violations of the governing documents of the association, and matters involving the possible liability of an owner to the association. The motion shall state specifically the purpose for the closed session. Reference to the motion and the stated purpose for the closed session shall be included in the minutes. The board of directors shall restrict the consideration of matters during the closed portions of meetings only to those purposes specifically exempted and stated in the motion. No motion, or other action adopted, passed, or agreed to in closed session may become effective unless the board of directors, following the closed session, reconvenes in open meeting and votes in the open meeting on such motion, or other action which is reasonably identified. The requirements of this subsection shall not require the disclosure of information in violation of law or which is otherwise exempt from disclosure.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2567-S.SL.pdf?cite=2014%20c%2020%20§%201[2014 c 20 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1370-S.SL.pdf?cite=2013%20c%20108%20§%201[2013 c 108 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1471-S.SL.pdf?cite=1995%20c%20283%20§%207[1995 c 283 § 7]; ]
+. Except as otherwise restricted by the governing documents, meetings of the association may be conducted by telephonic, video, or other conferencing process, if: (a) The meeting notice states the conferencing process to be used and provides information explaining how owners may participate in the conference directly or by meeting at a central location or conference connection; and (b) the process provides all owners the opportunity to hear or perceive the discussion and to comment.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5011-S.SL.pdf?cite=2021%20c%20227%20§%2010[2021 c 227 § 10]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2567-S.SL.pdf?cite=2014%20c%2020%20§%201[2014 c 20 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1370-S.SL.pdf?cite=2013%20c%20108%20§%201[2013 c 108 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1471-S.SL.pdf?cite=1995%20c%20283%20§%207[1995 c 283 § 7]; ]
 
 == 64.38.040 - Quorum for meeting.
 Unless the governing documents specify a different percentage, a quorum is present throughout any meeting of the association if the owners to which thirty-four percent of the votes of the association are allocated are present in person or by proxy at the beginning of the meeting.
@@ -391,4 +391,167 @@ Except as provided in RCW 64.90.080 and 64.90.545, an association is not require
 .. RCW 64.90.545.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5334.SL.pdf?cite=2019%20c%20238%20§%20225[2019 c 238 § 225]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/6175-S.SL.pdf?cite=2018%20c%20277%20§%20505[2018 c 277 § 505]; ]
+
+== 64.38.100 - Liens for unpaid assessments—Notice of delinquency. (Effective until January 1, 2024.)
+. If the governing documents of an association provide for a lien on the lot of any owner for unpaid assessments, the association may not commence an action to foreclose the lien unless:
+
+.. The lot owner, at the time the action is commenced, owes at least a sum equal to the greater of:
+
+... Three months or more of assessments, not including fines, late charges, interest, attorneys' fees, or costs incurred by the association in connection with the collection of a delinquent owner's account; or
+
+... $200 of assessments, not including fines, late charges, interest, attorneys' fees, or costs incurred by the association in connection with the collection of a delinquent owner's account;
+
+.. At or after the date that assessments have become past due for at least 90 days, the association has mailed, by first-class mail, to the owner, at the lot address and to any other address which the owner has provided to the association, a notice of delinquency, which shall state as follows:
+
+THIS IS A NOTICE OF DELINQUENCY FOR PAST DUE ASSESSMENTS
+
+FROM THE HOMEOWNERS' ASSOCIATION TO WHICH YOUR HOME BELONGS.
+
+THIS NOTICE IS ONE STEP IN A PROCESS THAT COULD RESULT IN YOUR LOSING YOUR HOME.
+
+CONTACT A HOUSING COUNSELOR OR AN ATTORNEY LICENSED IN WASHINGTON NOW to assess your situation and refer you to mediation if you might benefit. DO NOT DELAY.
+
+BE CAREFUL of people who claim they can help you. There are many individuals and businesses that prey upon borrowers in distress.
+
+REFER TO THE CONTACTS BELOW for sources of assistance.
+
+SEEKING ASSISTANCE
+
+Housing counselors and legal assistance may be available at little or no cost to you. If you would like assistance in determining your rights and opportunities to keep your house, you may contact the following:
+
+The statewide foreclosure hotline for assistance and referral to housing counselors recommended by the Housing Finance Commission
+
+Telephone: . . . . . . . Website: . . . . . .
+
+The United States Department of Housing and Urban Development
+
+Telephone: . . . . . . . Website: . . . . . .
+
+The statewide civil legal aid hotline for assistance and referrals to other housing counselors and attorneys
+
+Telephone: . . . . . . . Website: . . . . . .
+
+The association shall obtain the toll-free numbers and website information from the department of commerce for inclusion in the notice;
+
+.. At least 180 days have elapsed from the date the minimum amount required in (a) of this subsection has accrued; and
+
+.. The board approves commencement of a foreclosure action specifically against that lot.
+
+. Every aspect of a collection, foreclosure, sale, or other conveyance under this section, including the method, advertising, time, date, place, and terms, must be commercially reasonable.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1482.SL.pdf?cite=2021%20c%20222%20§%207[2021 c 222 § 7]; ]
+
+== 64.38.110 - Notice.
+. Notwithstanding any inconsistent provision in the governing documents, notice to the association of apartment owners, board, or any apartment owner or occupant of an apartment under this chapter shall be in writing and shall be provided to the recipient by personal delivery, public or private mail or delivery service, or by electronic transmission as provided in this section: PROVIDED, That if this chapter requires different or additional notice requirements for particular circumstances, those requirements shall apply.
+
+. Notice in a tangible medium shall be provided as follows:
+
+.. Notice to the association or board shall be addressed to the association's registered agent at its registered office, to the association at its principal office shown in its most recent annual report, or to an address provided by the association to the apartment owners.
+
+.. Notice to a lot owner or occupant shall be addressed to the lot address unless the owner has requested, in a writing delivered to the association, that notices be sent to an alternate address.
+
+. Notice in an electronic transmission shall be provided as follows:
+
+.. Notice to the association, the board, or lot owners by electronic transmission is effective only upon those who have consented, in writing, to receive electronically transmitted notices under this chapter and have designated the address, location, or system to which such notices may be electronically transmitted, provided that such notice otherwise complies with any other requirements of this chapter and applicable law.
+
+.. Notice under this subsection includes any materials that accompany the notice.
+
+.. Owners who have consented to receipt of electronically transmitted notices may revoke this consent by delivering a revocation to the association in writing.
+
+.. The consent of any lot owner is revoked if the association is unable to electronically transmit two consecutive notices and this inability becomes known to the secretary of the association of apartment owners or any other person responsible for giving the notice. The inadvertent failure by the association of apartment owners to treat this inability as a revocation does not invalidate any meeting or other action.
+
+.. Notice to lot owners who have consented to receipt of electronically transmitted notices may be provided by posting the notice on an electronic network and delivering to the owner separate notice of the posting, together with comprehensible instructions regarding how to obtain access to the posting on the electronic network.
+
+. Notice is effective as follows:
+
+.. Notice provided in a tangible medium is effective as of the date of hand delivery, deposit with the carrier, or when sent by fax.
+
+.. Notice provided in an electronic transmission is effective as of the date it:
+
+... Is electronically transmitted to an address, location, or system designated by the recipient for that purpose; or
+
+... Has been posted on an electronic network and separate notice of the posting has been sent to the recipient containing instructions regarding how to obtain access to the posting on the electronic network.
+
+. The ineffectiveness of a good faith effort to deliver notice by an authorized means does not invalidate action taken at or without a meeting.
+
+. This chapter modifies, limits, and supersedes the federal electronic signatures in global and national commerce act, 15 U.S.C. Sec. 7001 et seq., but does not modify, limit, or supersede 15 U.S.C. Sec. 7001(c) or authorize electronic delivery of any of the notices described in 15 U.S.C. Sec. 7003(b).
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5011-S.SL.pdf?cite=2021%20c%20227%20§%2011[2021 c 227 § 11]; ]
+
+== 64.38.120 - Voting—In person, absentee ballots, proxies.
+. Owners may vote at a meeting in person, by absentee ballot pursuant to subsection (3)(d) of this section, or by a proxy pursuant to subsection (5) of this section.
+
+. When a vote is conducted without a meeting, owners may vote by ballot pursuant to subsection (6) of this section.
+
+. At a meeting of owners the following requirements apply:
+
+.. Owners or their proxies who are present in person may vote by voice vote, show of hands, standing, written ballot, or any other method for determining the votes of owners, as designated by the person presiding at the meeting.
+
+.. If only one of several owners of a lot is present, that lot owner is entitled to cast all the votes allocated to that lot. If more than one of the lot owners are present, the votes allocated to that lot may be cast only in accordance with the agreement of a majority in interest of the lot owners, unless the declaration expressly provides otherwise. There is a majority agreement if any one of the lot owners casts the votes allocated to the lot without protest being made promptly to the person presiding over the meeting by any of the other lot owners of the lot.
+
+.. Unless a greater number or fraction of the votes in the association is required under this chapter or the declaration or organizational documents, a majority of the votes cast determines the outcome of any action of the association.
+
+.. Whenever proposals or board members are to be voted upon at a meeting, an owner may vote by duly executed absentee ballot if:
+
+... The name of each candidate and the text of each proposal to be voted upon are set forth in a writing accompanying or contained in the notice of meeting; and
+
+... A ballot is provided by the association for such purpose.
+
+. When an owner votes by absentee ballot, the association must be able to verify that the ballot is cast by the owner having the right to do so.
+
+. Except as provided otherwise in the declaration or organizational documents, the following requirements apply with respect to proxy voting:
+
+.. Votes allocated to a lot may be cast pursuant to a directed or undirected proxy duly executed by a lot owner in the same manner as provided in RCW 24.06.110.
+
+.. If a lot is owned by more than one person, each lot owner of the lot may vote or register protest to the casting of votes by the other lot owners of the lot through a duly executed proxy.
+
+.. An owner may revoke a proxy given pursuant to this section only by actual notice of revocation to the secretary or the person presiding over a meeting of the association or by delivery of a subsequent proxy. The death or disability of an owner does not revoke a proxy given by the owner unless the person presiding over the meeting has actual notice of the death or disability.
+
+.. A proxy is void if it is not dated or purports to be revocable without notice.
+
+.. Unless stated otherwise in the proxy, a proxy terminates eleven months after its date of issuance.
+
+. Unless prohibited or limited by the declaration or organizational documents, an association may conduct a vote without a meeting. In that event, the following requirements apply:
+
+.. The association must notify the owners that the vote will be taken by ballot.
+
+.. The notice must state:
+
+... The time and date by which a ballot must be delivered to the association to be counted, which may not be fewer than fourteen days after the date of the notice, and which deadline may be extended in accordance with (g) of this subsection;
+
+... The percent of votes necessary to meet the quorum requirements;
+
+... The percent of votes necessary to approve each matter other than election of board members; and
+
+... The time, date, and manner by which owners wishing to deliver information to all owners regarding the subject of the vote may do so.
+
+.. The association must deliver a ballot to every owner with the notice.
+
+.. The ballot must set forth each proposed action and provide an opportunity to vote for or against the action.
+
+.. A ballot cast pursuant to this section may be revoked only by actual notice to the association of revocation. The death or disability of an owner does not revoke a ballot unless the association has actual notice of the death or disability prior to the date set forth in (b)(i) of this subsection.
+
+.. Approval by ballot pursuant to this subsection is valid only if the number of votes cast by ballot equals or exceeds the quorum required to be present at a meeting authorizing the action.
+
+.. If the association does not receive a sufficient number of votes to constitute a quorum or to approve the proposal by the date and time established for return of ballots, the board may extend the deadline for a reasonable period not to exceed eleven months upon further notice to all members in accordance with (b) of this subsection. In that event, all votes previously cast on the proposal must be counted unless subsequently revoked as provided in this section.
+
+.. A ballot or revocation is not effective until received by the association.
+
+.. The association must give notice to owners of any action taken pursuant to this subsection within a reasonable time after the action is taken.
+
+.. When an action is taken pursuant to this subsection, a record of the action, including the ballots or a report of the persons appointed to tabulate such ballots, must be kept with the minutes of meetings of the association.
+
+. If the governing documents require that votes on specified matters affecting the common interest community be cast by lessees rather than owners of leased lots:
+
+.. This section applies to lessees as if they were owners;
+
+.. Owners that have leased their lots to other persons may not cast votes on those specified matters; and
+
+.. Lessees are entitled to notice of meetings, access to records, and other rights respecting those matters as if they were owners.
+
+. Owners must also be given notice, in the manner provided in RCW 64.38.110, of all meetings at which lessees may be entitled to vote.
+
+. In any vote of the lot owners, votes allocated to a lot owned by the association must be cast in the same proportion as the votes cast on the matter by lot owners other than the association.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5011-S.SL.pdf?cite=2021%20c%20227%20§%2012[2021 c 227 § 12]; ]
 

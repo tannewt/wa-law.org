@@ -62,6 +62,11 @@ The term "contributions" as used in this title shall be deemed to include "payme
 
 [ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c23.pdf?cite=1983%201st%20ex.s.%20c%2023%20§%201[1983 1st ex.s. c 23 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1971c3.pdf?cite=1971%20c%203%20§%204[1971 c 3 § 4]; ]
 
+== 50.04.074 - Department.
+"Department" means the employment security department, unless the context clearly indicates otherwise.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5061-S.SL.pdf?cite=2021%20c%202%20§%204[2021 c 2 § 4]; ]
+
 == 50.04.075 - Dislocated worker.
 . With respect to claims with an effective date prior to July 1, 2012, "dislocated worker" means any individual who:
 
@@ -442,13 +447,18 @@ With respect to claims that have an effective date on or after January 4, 2004:
 
 .. Inefficiency, unsatisfactory conduct, or failure to perform well as the result of inability or incapacity;
 
-.. Inadvertence or ordinary negligence in isolated instances; or
+.. Inadvertence or ordinary negligence in isolated instances;
 
-.. Good faith errors in judgment or discretion.
+.. Good faith errors in judgment or discretion; or
+
+.. [Empty]
+... A health care worker who left work for the period of quarantine consistent with the recommended guidance from the United States centers for disease control and prevention or subject to the direction of the state or local health jurisdiction because of exposure to or contracting the disease that is the subject of the declaration of the public health emergency.
+
+... For purposes of this subsection, "health care worker" means an individual who worked at a health care facility as defined in RCW 9A.50.010, and was directly involved in the delivery of health services.
 
 . "Gross misconduct" means a criminal act in connection with an individual's work for which the individual has been convicted in a criminal court, or has admitted committing, or conduct connected with the individual's work that demonstrates a flagrant and wanton disregard of and for the rights, title, or interest of the employer or a fellow employee.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6885-S.SL.pdf?cite=2006%20c%2013%20§%209[2006 c 13 § 9]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6097.SL.pdf?cite=2003%202nd%20sp.s.%20c%204%20§%206[2003 2nd sp.s. c 4 § 6]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5190-S.SL.pdf?cite=2021%20c%20251%20§%201[2021 c 251 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6885-S.SL.pdf?cite=2006%20c%2013%20§%209[2006 c 13 § 9]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6097.SL.pdf?cite=2003%202nd%20sp.s.%20c%204%20§%206[2003 2nd sp.s. c 4 § 6]; ]
 
 == 50.04.295 - Payments in lieu of contributions.
 "Payments in lieu of contributions" means money payments due to the state unemployment compensation fund as provided in RCW 50.44.060.
@@ -477,6 +487,17 @@ For the purposes of this title:
 . "Professional employer agreement" means a written contract between a client employer and a professional employer organization that provides for: (a) The coemployment of covered employees; and (b) the allocation of employer rights and obligations between the client and the professional employer organization with respect to the covered employees.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5373-S.SL.pdf?cite=2007%20c%20146%20§%208[2007 c 146 § 8]; ]
+
+== 50.04.299 - Public health emergency.
+"Public health emergency" means a declaration or order that covers the jurisdiction where the unemployed individual was working on the date the individual became unemployed concerning any dangerous, contagious, or infectious diseases, including a pandemic, and is issued as follows:
+
+. The president of the United States has declared a national or regional emergency;
+
+. The governor of Washington declared a state of emergency under RCW 43.06.010(12); or
+
+. The governor or state executive of another state where the unemployed individual was working at the time of the declaration declared a state of emergency.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5061-S.SL.pdf?cite=2021%20c%202%20§%203[2021 c 2 § 3]; ]
 
 == 50.04.300 - State.
 "State" includes, in addition to the states of the United States of America, the District of Columbia, the Virgin Islands, and the Commonwealth of Puerto Rico.
@@ -520,13 +541,13 @@ For the purposes of this title:
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/6239-S.SL.pdf?cite=2010%20c%208%20§%2013006[2010 c 8 § 13006]; http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/Senate/6421-S.SL.pdf?cite=1998%20c%20162%20§%201[1998 c 162 § 1]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1821-S.SL.pdf?cite=1995%20c%20296%20§%201[1995 c 296 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1986c21.pdf?cite=1986%20c%2021%20§%201[1986 c 21 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1984c134.pdf?cite=1984%20c%20134%20§%202[1984 c 134 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c23.pdf?cite=1983%201st%20ex.s.%20c%2023%20§%206[1983 1st ex.s. c 23 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c67.pdf?cite=1983%20c%2067%20§%201[1983 c 67 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1970ex1c2.pdf?cite=1970%20ex.s.%20c%202%20§%203[1970 ex.s. c 2 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1953ex1c8.pdf?cite=1953%20ex.s.%20c%208%20§%202[1953 ex.s. c 8 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1951c265.pdf?cite=1951%20c%20265%20§%203[1951 c 265 § 3]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1949c214.pdf?cite=1949%20c%20214%20§%204[1949 c 214 § 4]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1947c215.pdf?cite=1947%20c%20215%20§%206[1947 c 215 § 6]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1945c35.pdf?cite=1945%20c%2035%20§%2033[1945 c 35 § 33]; Rem. Supp. 1949 § 9998-171; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1943c127.pdf?cite=1943%20c%20127%20§%2013[1943 c 127 § 13]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1941c253.pdf?cite=1941%20c%20253%20§%2014[1941 c 253 § 14]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1939c214.pdf?cite=1939%20c%20214%20§%2016[1939 c 214 § 16]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1937c162.pdf?cite=1937%20c%20162%20§%2019[1937 c 162 § 19]; ]
 
 == 50.04.323 - Wages, remuneration—Government or private retirement pension plan payments—Effect upon eligibility—Reduction in benefits.
-. The amount of benefits payable to an individual for any week which begins after October 3, 1980, and which begins in a period with respect to which such individual is receiving a governmental or other pension, retirement or retired pay, annuity, or any other similar periodic payment which is based on the previous work of such individual shall be reduced (but not below zero) by an amount equal to the amount of such pension, retirement or retired pay, annuity, or other payment, which is reasonably attributable to such week. However:
+. The amount of benefits payable to an individual for any week which begins in a period with respect to which such individual is receiving a governmental or other pension, retirement or retired pay, annuity, or any other similar periodic payment which is based on the previous work of such individual shall be reduced (but not below zero) by an amount equal to the amount of such pension, retirement or retired pay, annuity, or other payment, which is reasonably attributable to such week. However:
 
 .. The requirements of this subsection shall apply to any pension, retirement or retired pay, annuity, or other similar periodic payment only if—
 
 ... Such pension, retirement or retired pay, annuity, or similar payment is under a plan maintained (or contributed to) by a base period employer; and
 
-... In the case of such a payment not made under the Social Security Act or the Railroad Retirement Act of 1974 (or corresponding provisions of prior law), services performed for such employer by the individual after the beginning of the base period (or remuneration for such services) affect eligibility for, or increase the amount of, such pension, retirement or retired pay, annuity, or similar payment; 
+... In the case of such a payment not made under the Social Security Act or the Railroad Retirement Act of 1974 (or corresponding provisions of prior law), services performed for such employer by the individual after the beginning of the base period (or remuneration for such services) affect eligibility for, or increase the amount of, such pension, retirement or retired pay, annuity, or similar payment;
 
 .. The amount of any such a reduction shall take into account contributions made by the individual for the pension, retirement or retired pay, annuity, or other similar periodic payment, in accordance with regulations prescribed by the commissioner; and
 
@@ -534,13 +555,13 @@ For the purposes of this title:
 
 . In the event that a retroactive pension or retirement payment covers a period in which an individual received benefits under the provisions of this title, the amount in excess of the amount to which such individual would have been entitled had such retirement or pension payment been considered as provided in this section shall be recoverable under RCW 50.20.190.
 
-. A lump sum payment accumulated in a plan described in this section paid to an individual eligible for such payment shall be prorated over the life expectancy of the individual computed in accordance with the commissioner's regulation.
+. A lump sum payment accumulated in a plan described in this section paid to an individual eligible for such payment shall not be deducted from the amount of benefits payable to an individual for any given week.
 
 . The resulting weekly benefit amount payable after reduction under this section, if not a multiple of one dollar, shall be reduced to the next lower multiple of one dollar.
 
-. Any ambiguity in subsection (1) of this section should be construed in a manner consistent with 26 U.S.C. Sec. 3304 (a)(15) as last amended by P.L. 96-364.
+. Any ambiguity in subsection (1) of this section should be construed in a manner consistent with 26 U.S.C. Sec. 3304 (a)(15).
 
-[ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5702-S.SL.pdf?cite=1993%20c%20483%20§%202[1993 c 483 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c23.pdf?cite=1983%201st%20ex.s.%20c%2023%20§%207[1983 1st ex.s. c 23 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c35.pdf?cite=1981%20c%2035%20§%201[1981 c 35 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c74.pdf?cite=1980%20c%2074%20§%201[1980 c 74 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex2c7.pdf?cite=1973%202nd%20ex.s.%20c%207%20§%202[1973 2nd ex.s. c 7 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c167.pdf?cite=1973%201st%20ex.s.%20c%20167%20§%201[1973 1st ex.s. c 167 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1970ex1c2.pdf?cite=1970%20ex.s.%20c%202%20§%2019[1970 ex.s. c 2 § 19]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5061-S.SL.pdf?cite=2021%20c%202%20§%205[2021 c 2 § 5]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/Senate/5702-S.SL.pdf?cite=1993%20c%20483%20§%202[1993 c 483 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983ex1c23.pdf?cite=1983%201st%20ex.s.%20c%2023%20§%207[1983 1st ex.s. c 23 § 7]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1981c35.pdf?cite=1981%20c%2035%20§%201[1981 c 35 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1980c74.pdf?cite=1980%20c%2074%20§%201[1980 c 74 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex2c7.pdf?cite=1973%202nd%20ex.s.%20c%207%20§%202[1973 2nd ex.s. c 7 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1973ex1c167.pdf?cite=1973%201st%20ex.s.%20c%20167%20§%201[1973 1st ex.s. c 167 § 1]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1970ex1c2.pdf?cite=1970%20ex.s.%20c%202%20§%2019[1970 ex.s. c 2 § 19]; ]
 
 == 50.04.330 - Wages, remuneration—Retirement and disability payments excepted.
 Prior to January 1, 1951, the term "wages" shall not include the amount of any payment by an employing unit for or on behalf of an individual in its employ under a plan or system established by such employing unit which makes provision for individuals in its employ generally, or for a class or classes of such individuals (including any amount paid by an employing unit for insurance or annuities or into a fund to provide for any payment) on account of retirement, sickness or accident disability, or medical and hospitalization expenses in connection with sickness or accident disability. After December 31, 1950, the term "wages" shall not include:

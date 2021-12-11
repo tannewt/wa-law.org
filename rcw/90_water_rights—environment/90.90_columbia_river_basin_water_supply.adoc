@@ -140,7 +140,7 @@
 
 .. The total aggregate volume of current water use under these rights as metered and reported by water users under current law.
 
-. The department of ecology shall publish the aggregate data on the department's web site no later than June 30, 2009, and shall periodically update the data.
+. The department of ecology shall publish the aggregate data on the department's website no later than June 30, 2009, and shall periodically update the data.
 
 . For purposes of this section, the definition of Columbia river mainstem in RCW 90.90.030(11) shall apply and the use of the definition is solely limited to the purpose of collecting data to meet the information requirements of this section.
 

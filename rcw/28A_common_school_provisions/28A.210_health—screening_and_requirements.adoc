@@ -163,7 +163,7 @@ Any employee of a public school district or private school that performs health 
 == 28A.210.260 - Public and private schools—Administration of medication—Conditions.
 . Public school districts and private schools which conduct any of grades kindergarten through the twelfth grade may provide for the administration of oral medication, topical medication, eye drops, ear drops, or nasal spray, of any nature to students who are in the custody of the school district or school at the time of administration, but are not required to do so by this section, subject to the following conditions:
 
-.. The board of directors of the public school district or the governing board of the private school or, if none, the chief administrator of the private school shall adopt policies which address the designation of employees who may administer oral medications, topical medications, eye drops, ear drops, or nasal spray to students, the acquisition of parent requests and instructions, and the acquisition of requests from licensed health professionals prescribing within the scope of their prescriptive authority and instructions regarding students who require medication for more than fifteen consecutive school days, the identification of the medication to be administered, the means of safekeeping medications with special attention given to the safeguarding of legend drugs as defined in chapter 69.41 RCW, and the means of maintaining a record of the administration of such medication;
+.. The board of directors of the public school district or the governing board of the private school or, if none, the chief administrator of the private school shall adopt policies which address the designation of employees who may administer oral medications, topical medications, eye drops, ear drops, or nasal spray to students, the acquisition of parent requests and instructions, and the acquisition of requests from licensed health professionals prescribing within the scope of their prescriptive authority and instructions regarding students who require medication for more than fifteen consecutive school days, the identification of the medication to be administered, the means of safekeeping medications with special attention given to the safeguarding of legend drugs as defined in chapter 69.41 RCW, and the means of maintaining a record of the administration of such medication. Policies adopted in accordance with this subsection (1) may not permit a school nurse to delegate the responsibility to administer student medications to a parent-designated adult who is not a school employee;
 
 .. The board of directors shall seek advice from one or more licensed physicians or nurses in the course of developing the foregoing policies;
 
@@ -171,15 +171,13 @@ Any employee of a public school district or private school that performs health 
 
 .. The public school district or the private school is in receipt of: (i) A written, current and unexpired request from a licensed health professional prescribing within the scope of his or her prescriptive authority for administration of the medication, as there exists a valid health reason which makes administration of such medication advisable during the hours when school is in session or the hours in which the student is under the supervision of school officials; and (ii) written, current and unexpired instructions from such licensed health professional prescribing within the scope of his or her prescriptive authority regarding the administration of prescribed medication to students who require medication for more than fifteen consecutive workdays;
 
-.. The medication is administered by an employee designated by or pursuant to the policies adopted pursuant to (a) of this subsection and in substantial compliance with the prescription of a licensed health professional prescribing within the scope of his or her prescriptive authority or the written instructions provided pursuant to (d) of this subsection. If a school nurse is on the premises, a nasal spray that is a legend drug or a controlled substance must be administered by the school nurse. If no school nurse is on the premises, a nasal spray that is a legend drug or a controlled substance may be administered by a trained school employee or parent-designated adult who is not a school nurse. The board of directors shall allow school personnel, who have received appropriate training and volunteered for such training, to administer a nasal spray that is a legend drug or a controlled substance. After a school employee who is not a school nurse administers a nasal spray that is a legend drug or a controlled substance, the employee shall summon emergency medical assistance as soon as practicable;
+.. The medication is administered by an employee designated by or pursuant to the policies adopted pursuant to (a) of this subsection and in substantial compliance with the prescription of a licensed health professional prescribing within the scope of his or her prescriptive authority or the written instructions provided pursuant to (d) of this subsection;
 
-.. The medication is first examined by the employee administering the same to determine in his or her judgment that it appears to be in the original container and to be properly labeled; and
+.. The medication is first examined by the employee administering the same to determine in his or her judgment that it appears to be in the original container and to be properly labeled;
 
-.. The board of directors shall designate a professional person licensed pursuant to chapter 18.71 RCW or chapter 18.79 RCW as it applies to registered nurses and advanced registered nurse practitioners, to delegate to, train, and supervise the designated school district personnel in proper medication procedures;
+.. The board of directors shall designate a professional person licensed pursuant to chapter 18.71 or 18.79 RCW as it applies to registered nurses and advanced registered nurse practitioners, to delegate to, train, and supervise the designated school district personnel in proper medication procedures; and
 
-.. To be eligible to be a parent-designated adult, a school district employee not licensed under chapter 18.79 RCW must file, without coercion by the employer, a voluntary written, current, and unexpired letter of intent stating the employee's willingness to be a parent-designated adult. If a school employee who is not licensed under chapter 18.79 RCW chooses not to file a letter under this section, the employee shall not be subject to any employer reprisal or disciplinary action for refusing to file a letter. A parent-designated adult must be a volunteer, who may be a school district employee, who receives additional training from a health care professional or expert in epileptic seizure care selected by the parents, and who provides care for the child consistent with the individual health plan; and
-
-.. The board of directors shall designate a professional person licensed under chapter 18.71, 18.57, or 18.79 RCW as it applies to registered nurses and advanced registered nurse practitioners, to consult and coordinate with the student's parents and health care provider, and train and supervise the appropriate school district personnel in proper procedures for care for students with epilepsy to ensure a safe, therapeutic learning environment. Training may also be provided by an epilepsy educator who is nationally certified. Parent-designated adults who are school employees are required to receive the training provided under this subsection. Parent-designated adults who are not school employees must show evidence of comparable training. The parent-designated adult must also receive additional training as established in (h) of this subsection for the additional care the parents have authorized the parent-designated adult to provide. The professional person designated under this subsection is not responsible for the supervision of the parent-designated adult for those procedures that are authorized by the parents.
+.. To be eligible to be a parent-designated adult, a school district employee not licensed under chapter 18.79 RCW must file, without coercion by the employer, a voluntary written, current, and unexpired letter of intent stating the employee's willingness to be a parent-designated adult. If a school district employee who is not licensed under chapter 18.79 RCW chooses not to file a letter under this section, the employee may not be subject to any employer reprisal or disciplinary action for refusing to file a letter. A parent-designated adult must be a volunteer, who may be a school district employee. The professional person designated under this subsection is not responsible for the supervision of the parent-designated adult for those procedures that are authorized by the parents.
 
 . This section does not apply to:
 
@@ -187,7 +185,7 @@ Any employee of a public school district or private school that performs health 
 
 .. Opioid overdose reversal medication. Provisions related to maintenance and administration of opioid overdose reversal medication are in RCW 28A.210.390.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5380-S.SL.pdf?cite=2019%20c%20314%20§%2041[2019 c 314 § 41]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5404-S.SL.pdf?cite=2017%20c%20186%20§%202[2017 c 186 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1541-S.SL.pdf?cite=2013%20c%20180%20§%201[2013 c 180 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2247.SL.pdf?cite=2012%20c%2016%20§%201[2012 c 16 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5590-S.SL.pdf?cite=2000%20c%2063%20§%201[2000 c 63 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20720[1994 sp.s. c 9 § 720]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c195.pdf?cite=1982%20c%20195%20§%201[1982 c 195 § 1]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1085-S.SL.pdf?cite=2021%20c%2029%20§%202[2021 c 29 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5380-S.SL.pdf?cite=2019%20c%20314%20§%2041[2019 c 314 § 41]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5404-S.SL.pdf?cite=2017%20c%20186%20§%202[2017 c 186 § 2]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1541-S.SL.pdf?cite=2013%20c%20180%20§%201[2013 c 180 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2247.SL.pdf?cite=2012%20c%2016%20§%201[2012 c 16 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/5590-S.SL.pdf?cite=2000%20c%2063%20§%201[2000 c 63 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2676-S.SL.pdf?cite=1994%20sp.s.%20c%209%20§%20720[1994 sp.s. c 9 § 720]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1982c195.pdf?cite=1982%20c%20195%20§%201[1982 c 195 § 1]; ]
 
 == 28A.210.270 - Public and private schools—Administration of medication—Immunity from liability—Discontinuance, procedure.
 . In the event a school employee administers oral medication, topical medication, eye drops, ear drops, or nasal spray to a student pursuant to RCW 28A.210.260 in substantial compliance with the prescription of the student's licensed health professional prescribing within the scope of the professional's prescriptive authority or the written instructions provided pursuant to RCW 28A.210.260(1)(d), and the other conditions set forth in RCW 28A.210.260 have been substantially complied with, then the employee, the employee's school district or school of employment, and the members of the governing board and chief administrator thereof shall not be liable in any criminal action or for civil damages in their individual or marital or governmental or corporate or other capacities as a result of the administration of the medication.
@@ -355,15 +353,62 @@ The superintendent of public instruction and the secretary of the department of 
 
 [ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6641-S.SL.pdf?cite=2002%20c%20350%20§%203[2002 c 350 § 3]; ]
 
-== 28A.210.350 - Students with diabetes—Compliance with individual health plan—Immunity.
-A school district, school district employee, agent, or parent-designated adult who, acting in good faith and in substantial compliance with the student's individual health plan and the instructions of the student's licensed health care professional, provides assistance or services under RCW 28A.210.330 shall not be liable in any criminal action or for civil damages in his or her individual or marital or governmental or corporate or other capacities as a result of the services provided under RCW 28A.210.330 to students with diabetes.
+== 28A.210.350 - Students with diabetes or epilepsy or other seizure disorders—Compliance with individual health plan—Immunity.
+A school district, school district employee, agent, or parent-designated adult who, acting in good faith and in substantial compliance with the student's individual health plan and the instructions of the student's licensed health care professional, provides assistance or services under RCW 28A.210.330 or 28A.210.410 shall not be liable in any criminal action or for civil damages in his or her individual or marital or governmental or corporate or other capacities as a result of the services provided under RCW 28A.210.330 to students with diabetes or under RCW 28A.210.410 to students with epilepsy or other seizure disorders.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6641-S.SL.pdf?cite=2002%20c%20350%20§%204[2002 c 350 § 4]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1085-S.SL.pdf?cite=2021%20c%2029%20§%203[2021 c 29 § 3]; http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/6641-S.SL.pdf?cite=2002%20c%20350%20§%204[2002 c 350 § 4]; ]
+
+== 28A.210.355 - Students with epilepsy or other seizure disorders—Individual health plans—Designation of professional to consult and coordinate with parents and health care provider—Training and supervision of school district personnel—Parent-designated adults.
+. School districts shall provide individual health plans for students with epilepsy or other seizure disorders, subject to the following conditions:
+
+.. The board of directors of the school district shall adopt and periodically revise policies to be followed for students with epilepsy or other seizure disorders. The policies must cover, but need not be limited to, the following subjects:
+
+... The acquisition of parent requests and instructions;
+
+... The acquisition of orders from licensed health professionals prescribing within the scope of their prescriptive authority for monitoring and treatment of seizure disorders at school;
+
+... The provision for storage of medical equipment and medication provided by the parent;
+
+... The establishment of school policy exceptions necessary to accommodate the students' needs related to epilepsy or other seizure disorders as described in the individual health plan;
+
+.. The development of individual emergency plans;
+
+.. The distribution of the individual health plan to appropriate staff based on the students' needs and staff level of contact with the student;
+
+.. The possession of legal documents for parent-designated adults to provide care, if needed; and
+
+.. The updating of the individual health plan at least annually; and
+
+.. The board of directors, in the course of developing the policies in (a) of this subsection, shall consult with one or more licensed physicians or nurses, or appropriate personnel from a national epilepsy organization that offers seizure training and education for school nurses and other school personnel.
+
+. [Empty]
+.. The board of directors shall designate a professional person licensed under chapter 18.71, 18.57, or 18.79 RCW as it applies to registered nurses and advanced registered nurse practitioners, to consult and coordinate with the student's parents and health care provider, and train and supervise the appropriate school district personnel in proper procedures for care for students with epilepsy or other seizure disorders to ensure a safe, therapeutic learning environment. Training required under this subsection (2)(a) may also be provided by a national organization that offers training for school nurses for managing students with seizures and seizure training for school personnel.
+
+.. [Empty]
+... Parent-designated adults who are school district employees must receive training in accordance with (a) of this subsection (2).
+
+... Parent-designated adults who are not school district employees must show evidence of training in proper procedures for care of students with epilepsy or other seizure disorders. Training required under this subsection (2)(b)(ii) may be provided by a national organization that offers training for school nurses for managing students with seizures and seizure training for school personnel.
+
+... The professional person designated under (a) of this subsection (2) is not responsible for the supervision of the parent-designated adult for procedures authorized by the parents.
+
+. [Empty]
+.. To be eligible to be a parent-designated adult, a school district employee not licensed under chapter 18.79 RCW shall file, without coercion by the employer, a voluntary written, current, and unexpired letter of intent stating the employee's willingness to be a parent-designated adult. If a school district employee who is not licensed under chapter 18.79 RCW chooses not to file a letter under this section, the employee may not be subject to any employer reprisal or disciplinary action for refusing to file a letter.
+
+.. [Empty]
+... For the purposes of this section, "parent-designated adult" means a parent-designated adult who: (A) Volunteers for the designation; (B) receives additional training from a health care professional or expert in care for epilepsy or other seizure disorders selected by the parents; and (C) provides care for the child consistent with the individual health plan.
+
+... A parent-designated adult may be a school district employee.
+
+. Nothing in this section is intended to supersede or otherwise modify nurse delegation requirements established in RCW 18.79.260.
+
+. This section applies beginning with the 2022-23 school year.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1085-S.SL.pdf?cite=2021%20c%2029%20§%201[2021 c 29 § 1]; ]
 
 == 28A.210.360 - Model policy on access to nutritious foods and developmentally appropriate exercise—School district policies.
 . Consistent with the essential academic learning requirements for health and fitness, including nutrition, the Washington state school directors' association, with the assistance of the office of the superintendent of public instruction, the department of health, and the Washington alliance for health, physical education, recreation and dance, shall convene an advisory committee to develop a model policy regarding access to nutritious foods, opportunities for developmentally appropriate exercise, and accurate information related to these topics. The policy shall address the nutritional content of foods and beverages, including fluoridated bottled water, sold or provided throughout the school day or sold in competition with the federal school breakfast and lunch program and the availability and quality of health, nutrition, and physical education and fitness curriculum. The model policy should include the development of a physical education and fitness curriculum for students. For middle school students, physical education and fitness curriculum means a daily period of physical activity, a minimum of twenty minutes of which is aerobic activity in the student's target heart rate zone, which includes instruction and practice in basic movement and fine motor skills, progressive physical fitness, athletic conditioning, and nutrition and wellness instruction through age-appropriate activities.
 
-. The school directors' association shall submit the model policy and recommendations on the related issues, along with a recommendation for local adoption, to the governor and the legislature and shall post the model policy on its web site by January 1, 2005.
+. The school directors' association shall submit the model policy and recommendations on the related issues, along with a recommendation for local adoption, to the governor and the legislature and shall post the model policy on its website by January 1, 2005.
 
 . Each district's board of directors shall establish its own policy by August 1, 2005.
 
@@ -599,9 +644,9 @@ Any compliance reporting requirements as a result of laws in this chapter that a
 
 .. Beginning with the 2020-21 school year, the following school districts must adopt an opioid-related overdose policy: (a)[(i)] School districts with a school that obtains, maintains, distributes, or administers opioid overdose reversal medication under RCW 28A.210.390; and (b) [(ii)] school districts with two thousand or more students.
 
-.. The office of the superintendent of public instruction and the Washington state school directors' association must maintain the model policy and procedure on each agency's web site at no cost to school districts.
+.. The office of the superintendent of public instruction and the Washington state school directors' association must maintain the model policy and procedure on each agency's website at no cost to school districts.
 
-. Subject to the availability of amounts appropriated for this specific purpose, the office of the superintendent of public instruction shall develop and administer a grant program to provide funding to public schools with any of grades nine through twelve and public higher education institutions to purchase opioid overdose reversal medication and train personnel on the administration of opioid overdose reversal medication to respond to symptoms of an opioid-related overdose. The office must publish on its web site a list of annual grant recipients, including award amounts.
+. Subject to the availability of amounts appropriated for this specific purpose, the office of the superintendent of public instruction shall develop and administer a grant program to provide funding to public schools with any of grades nine through twelve and public higher education institutions to purchase opioid overdose reversal medication and train personnel on the administration of opioid overdose reversal medication to respond to symptoms of an opioid-related overdose. The office must publish on its website a list of annual grant recipients, including award amounts.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5380-S.SL.pdf?cite=2019%20c%20314%20§%2040[2019 c 314 § 40]; ]
 
@@ -615,4 +660,78 @@ Any compliance reporting requirements as a result of laws in this chapter that a
 . The requirements in subsection (1) of this section apply to student identification cards and staff identification cards issued for the first time and issued to replace a damaged or lost identification card.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2589-S.SL.pdf?cite=2020%20c%2039%20§%202[2020 c 39 § 2]; ]
+
+== 28A.210.410 - Lead contamination at drinking water outlets.
+. This section applies to schools with buildings built, or with all plumbing replaced, before 2016.
+
+. With respect to sampling and testing for lead contamination at drinking water outlets, a school shall either:
+
+.. Cooperate with the department so that the department can conduct sampling and testing as required under RCW 43.70.830; or
+
+.. Contract for sampling and testing that meets the requirements of RCW 43.70.830 and submit the test results to the department according to a procedure and deadlines determined by the department.
+
+. [Empty]
+.. Except as provided in (b) of this subsection, a school shall communicate annually with students' families and staff about lead contamination in drinking water. The school shall consult with the department or a local health agency on the contents of the communication, which must include: The health effects of lead exposure; the website address of the most recent lead test results; and information about the school's plan for remedial action to reduce lead contamination in drinking water. Schools are encouraged to provide the communication as early in the school year as possible.
+
+.. The annual communication described under (a) of this subsection is not required if initial testing, or once postremediation testing, does not detect an elevated lead level at any drinking water outlet.
+
+. As soon as practicable after receiving a lead test result that reveals a lead concentration that exceeds 15 parts per billion at a drinking water outlet, and until a lead contamination mitigation measure, such as use of a filter, is implemented, the school must shut off the water to the outlet.
+
+. [Empty]
+.. For a lead test result that reveals an elevated lead level, as defined in subsection (7) of this section, at one or more drinking water outlets, the school's governing body shall adopt a school action plan in compliance with the requirements of this subsection.
+
+.. The school action plan must:
+
+... Be developed in consultation with the department or a local health agency regarding the technical guidance, and with the office of the superintendent of public instruction regarding funding for remediation activities;
+
+... Describe mitigation measures implemented since the lead test result was received;
+
+... Include a schedule of remediation activities, including use of filters, that adhere to the technical guidance. The schedule may be based on the availability of state or federal funding for remediation activities; and
+
+... Include postremediation retesting to confirm that remediation activities have reduced lead concentrations at drinking water outlets to below the elevated lead level.
+
+.. The school action plan may include sampling and testing of the drinking water entering the school when the results of testing for lead contamination at drinking water outlets within the school indicate that the infrastructure of the public water system is a documented significant contributor to the elevated lead levels.
+
+.. The school must provide the public with notice and opportunity to comment on the school action plan before it is adopted.
+
+.. If testing reveals that a significant contributor to lead contamination in school drinking water is the infrastructure operated by a public water system that is not a school water system, the school: (i) Is not financially responsible for remediating elevated lead levels in drinking water that passes through that infrastructure; (ii) must communicate with the public water system regarding its documented significant contribution to lead contamination in school drinking water and request from the public water system a plan for reducing the lead contamination; and (iii) may defer its remediation activities under (b) of this subsection until after the elevated lead level in the public water system's infrastructure is remediated and postremediation retesting does not detect an elevated lead level in the drinking water that passes through that infrastructure.
+
+.. The school action plan adoption deadlines are as follows:
+
+... For lead test results received between July 1, 2014, and July 25, 2021, for which a school did not take remedial action or for which postremediation retesting has not confirmed that the elevated lead level has been reduced to five or fewer parts per billion, the school shall provide notice of elevated lead levels in the communication required under subsection (3) of this section and the school's governing body shall adopt an action plan by March 31, 2022; and
+
+... For lead test results received after July 25, 2021, the school's governing body shall adopt an action plan within six months of receipt.
+
+.. A school's governing body may adopt an update to an existing school action plan, rather than adopting a new school action plan, in order to address additional lead test results that reveal elevated lead levels at drinking water outlets, coordinate remediation activities at multiple buildings, or adjust the schedule of remediation activities.
+
+. A school must post on a public website the most recent results of testing for lead contamination at drinking water outlets, no later than the time that the proposed school action plan is made publicly available, under subsection (5)(d) of this section.
+
+. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+.. "Department" means the department of health.
+
+.. "Drinking water" means any water that students have access to where it is reasonably foreseeable that the water may be used for drinking, cooking, or food preparation.
+
+.. "Drinking water outlet" or "outlet" means any end point for delivery of drinking water, for example a tap, faucet, or fountain.
+
+.. "Elevated lead level" means a lead concentration in drinking water that exceeds five parts per billion, unless a lower concentration is specified by the state board of health in rule in accordance with RCW 43.20.265.
+
+.. "Public water system" has the same meaning as in RCW 70A.120.020.
+
+.. "School" means a school district and the common schools, as defined in RCW 28A.150.020, within the district; a charter school established under chapter 28A.710 RCW; or the state school for the blind or the state school for the deaf established under RCW 72.40.010.
+
+.. "Technical guidance" means the technical guidance for reducing lead in drinking water at schools issued by the United States environmental protection agency until the department complies with RCW 43.70.840 when the term means the technical guidance developed by the department.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1139-S2.SL.pdf?cite=2021%20c%20154%20§%202[2021 c 154 § 2]; ]
+
+== 28A.210.420 - Menstrual hygiene products.
+. By the beginning of the 2022-23 school year, school districts and private schools must make menstrual hygiene products available at no cost in all gender-neutral bathrooms and bathrooms designated for female students located in schools that serve students in any of grades six through twelve. If a school building serving grades six through twelve does not have a gender-neutral bathroom, then the products must also be available in at least one bathroom accessible to male students or in a school health room accessible to all students. For schools that serve students in grades three through five, school districts and private schools must make menstrual hygiene products available in a school health room or other location as designated by the school principal.
+
+. Menstrual hygiene products must include sanitary napkins, tampons, or similar items.
+
+. School districts and private schools must bear the cost of supplying menstrual hygiene products. School districts and private schools may seek grants or partner with nonprofit or community-based organizations to fulfill this obligation.
+
+. This section governs school operation and management under RCW 28A.710.040 and 28A.715.020 and applies to charter schools established under chapter 28A.710 RCW and state-tribal compact schools established under chapter 28A.715 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1273-S.SL.pdf?cite=2021%20c%20163%20§%201[2021 c 163 § 1]; ]
 

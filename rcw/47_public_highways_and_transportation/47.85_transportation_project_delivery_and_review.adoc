@@ -11,7 +11,7 @@ The legislature recognizes the value that tribal governments provide in the revi
 
 [ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5996-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%2017%20§%202[2015 3rd sp.s. c 17 § 2]; ]
 
-== 47.85.020 - Multiagency permit program—Federal act compliance—Permit application guidance, quality control.
+== 47.85.020 - Multiagency permit program—Federal act compliance—Permit application guidance, quality control—Multiagency effort to streamline permit and approval process.
 The department must streamline the permitting process by developing and maintaining positive relationships with the regulatory agencies and the Indian tribes. The department can reduce the time it takes to obtain permits by incorporating impact avoidance and minimization measures into project design and by developing complete permit applications. To streamline the permitting process, the department must:
 
 . Implement a multiagency permit program, commensurate with program funding levels, consisting of appropriate regulatory agency staff with oversight and management from the department.
@@ -22,11 +22,13 @@ The department must streamline the permitting process by developing and maintain
 
 . Establish, implement, and maintain programmatic agreements and permits with federal and state agencies to expedite the process of ensuring compliance with the endangered species act, section 106 of the national historic preservation act, hydraulic project approvals, the clean water act, and other federal acts as appropriate;
 
-. Collaborate with permitting staff from the United States army corps of engineers, Seattle district, department of ecology, and department of fish and wildlife to develop, implement, and maintain complete permit application guidance. The guidance must identify the information that is required for agencies to consider a permit application complete; and
+. Collaborate with permitting staff from the United States army corps of engineers, Seattle district, department of ecology, and department of fish and wildlife to develop, implement, and maintain complete permit application guidance. The guidance must identify the information that is required for agencies to consider a permit application complete;
 
-. Perform internal quality assurance and quality control to ensure that permit applications are complete before submitting them to the regulatory agencies.
+. Perform internal quality assurance and quality control to ensure that permit applications are complete before submitting them to the regulatory agencies; and
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5996-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%2017%20§%203[2015 3rd sp.s. c 17 § 3]; ]
+. Implement a multiagency effort, in coordination with the department of ecology and the department of fish and wildlife, and work with the relevant federal environmental permitting agencies to streamline the acquisition of commonly needed environmental permits and approvals for department of transportation fish passage barrier correction projects. Expected results include developing programmatic permit options that simplify the application process, reduce paperwork, and reduce the amount of time and cost it takes to acquire these permits and approvals.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5381-S.SL.pdf?cite=2021%20c%20289%20§%203[2021 c 289 § 3]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5996-S.SL.pdf?cite=2015%203rd%20sp.s.%20c%2017%20§%203[2015 3rd sp.s. c 17 § 3]; ]
 
 == 47.85.030 - Finding—Environmental review and oversight.
 The legislature finds that an essential component of streamlined permit decision making is the ability of the department to demonstrate the capacity to meet environmental responsibilities. Therefore, the legislature directs that:

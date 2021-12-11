@@ -644,3 +644,33 @@ Wards shall be redrawn as provided in chapter 29A.76 RCW. Wards shall be used as
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5266-S.SL.pdf?cite=2019%20c%20454%20§%206[2019 c 454 § 6]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/House/1806-S.SL.pdf?cite=2015%20c%2053%20§%2041[2015 c 53 § 41]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/House/1015.SL.pdf?cite=1995%20c%20134%20§%2010[1995 c 134 § 10]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2278-S.SL.pdf?cite=1994%20c%20223%20§%2016[1994 c 223 § 16]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2244.SL.pdf?cite=1994%20c%2081%20§%2034[1994 c 81 § 34]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1965c7.pdf?cite=1965%20c%207%20§%2035.23.530[1965 c 7 § 35.23.530]; prior:  1907 c 241 § 14; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1890c147.pdf?cite=1890%20p%20147%20§%2035[1890 p 147 § 35]; RRS § 9019; ]
 
+== 35.23.860 - Telecommunications services and facilities authorized—Requirements.
+. A second-class city may construct, purchase, acquire, develop, finance, lease, license, provide, contract for, interconnect, alter, improve, repair, operate, and maintain telecommunications services or telecommunications facilities for the purpose of furnishing the second-class city and its inhabitants with telecommunications services. The second-class city has full authority to regulate and control the use, distribution, and price of the services.
+
+. [Empty]
+.. Before providing telecommunications services pursuant to subsection (1) of this section, a second-class city must examine and report to its governing body and to the state broadband office the following about the area to be served by the second-class city:
+
+... An assessment of the current availability of broadband infrastructure and its adequacy to provide high-speed internet access and other advanced telecommunications services to end users;
+
+... The location of where retail telecommunications services will be provided;
+
+... Evidence relating to the unserved nature of the community in which retail telecommunications services will be provided;
+
+... Expected costs of providing retail telecommunications services to customers to be served by the second-class city;
+
+.. Evidence that proposed telecommunications infrastructure will be capable of scaling to greater download and upload speeds to meet state broadband goals under RCW 43.330.536;
+
+.. Sources of funding for the project that will supplement any grant or loan awards; and
+
+.. A strategic plan to maintain long-term operation of the infrastructure, and the expected installation charges and monthly costs for end users.
+
+.. The state broadband office must post a review of the proposed project on its website.
+
+. For purposes of this section:
+
+.. "Telecommunications" has the same meaning as defined in RCW 80.04.010.
+
+.. "Unserved" means an area of Washington in which households and businesses lack access to broadband service at a minimum 100 megabits per second download speed and at a minimum 20 megabits per second upload speed.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1336-S.SL.pdf?cite=2021%20c%20294%20§%206[2021 c 294 § 6]; ]
+

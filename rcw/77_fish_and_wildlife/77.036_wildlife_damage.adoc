@@ -39,10 +39,10 @@ The definitions in this section apply throughout this chapter unless the context
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1778-S.SL.pdf?cite=2009%20c%20333%20§%2061[2009 c 333 § 61]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6146-S2.SL.pdf?cite=1996%20c%2054%20§%204[1996 c 54 § 4]; ]
 
-== 77.36.070 - Limit on total claims from wildlife account per fiscal year. (Effective until July 1, 2021.)
-The department may pay no more than one hundred twenty thousand dollars per fiscal year from the state wildlife account created in RCW 77.12.170 for claims and assessment costs for damage to commercial crops caused by wild deer or elk submitted under RCW 77.36.100.
+== 77.36.070 - Limit on total claims from the fish, wildlife, and conservation account per fiscal year.
+The department may pay no more than one hundred twenty thousand dollars per fiscal year from the fish, wildlife, and conservation account created in RCW 77.12.170(3) for claims and assessment costs for damage to commercial crops caused by wild deer or elk submitted under RCW 77.36.100.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1778-S.SL.pdf?cite=2009%20c%20333%20§%2059[2009 c 333 § 59]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6146-S2.SL.pdf?cite=1996%20c%2054%20§%208[1996 c 54 § 8]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6072-S.SL.pdf?cite=2020%20c%20148%20§%2023[2020 c 148 § 23]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/1778-S.SL.pdf?cite=2009%20c%20333%20§%2059[2009 c 333 § 59]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6146-S2.SL.pdf?cite=1996%20c%2054%20§%208[1996 c 54 § 8]; ]
 
 == 77.36.080 - Limit on total claims from general fund per fiscal year—Emergency exceptions.
 . Unless the legislature declares an emergency under this section, the department may pay no more than thirty thousand dollars per fiscal year from the general fund for claims and assessment costs for damage to commercial crops caused by wild deer or elk submitted under RCW 77.36.100.
@@ -163,20 +163,18 @@ This chapter represents the exclusive remedy against the state for damage caused
 == 77.36.160 - Request for relocating beaver.
 . Whenever the department receives a request for relocating beaver, the department must inform the requesting party of locations, if available, of surplus beaver available for capture and relocation. The department may identify nuisance beaver or areas with thriving beaver populations as a source population for capturing and relocating beaver.
 
-. The department shall post on the agency's web site quarterly reports of nuisance beaver activity, beaver trapping, and beaver relocations reported to the department.
+. The department shall post on the agency's website quarterly reports of nuisance beaver activity, beaver trapping, and beaver relocations reported to the department.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/2349-S.SL.pdf?cite=2012%20c%20167%20§%203[2012 c 167 § 3]; ]
 
-== 77.36.170 - Limit on amount paid for injury or loss of livestock caused by wolves—Exceptions. (Effective until July 1, 2021.)
-. The department may pay no more than fifty thousand dollars per fiscal year from the state wildlife account created in RCW 77.12.170 for claims and assessment costs for injury or loss of livestock caused by wolves submitted under RCW 77.36.100.
+== 77.36.170 - Limit on amount paid for injury or loss of livestock caused by wolves—Exceptions.
+. The department may pay no more than fifty thousand dollars per fiscal year from the limited fish and wildlife account created in RCW 77.12.170(1) for claims and assessment costs for injury or loss of livestock caused by wolves submitted under RCW 77.36.100.
 
 . Notwithstanding other provisions of this chapter, the department may also accept and expend money from other sources to address injury or loss of livestock or other property caused by wolves consistent with the requirements on that source of funding.
 
-. If any wildlife account expenditures authorized under subsections (1) and (4) of this section are unspent as of June 30th of a fiscal year, the state treasurer shall transfer the unspent amount to the wolf-livestock conflict account created in RCW 77.36.180.
+. If any wildlife account expenditures authorized under subsection (1) of this section are unspent as of June 30th of a fiscal year, the state treasurer shall transfer the unspent amount to the wolf-livestock conflict account created in RCW 77.36.180.
 
-. During the 2014 fiscal year, the department may pay no more than two hundred and fifty thousand dollars from the state wildlife account created in RCW 77.12.170 for claims and assessment costs for injury or loss of livestock caused by wolves submitted under RCW 77.36.100.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6002-S.SL.pdf?cite=2014%20c%20221%20§%20922[2014 c 221 § 922]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5193-S2.SL.pdf?cite=2013%20c%20329%20§%202[2013 c 329 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5058.SL.pdf?cite=2021%20c%2014%20§%201[2021 c 14 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6072-S.SL.pdf?cite=2020%20c%20148%20§%2024[2020 c 148 § 24]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6002-S.SL.pdf?cite=2014%20c%20221%20§%20922[2014 c 221 § 922]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5193-S2.SL.pdf?cite=2013%20c%20329%20§%202[2013 c 329 § 2]; ]
 
 == 77.36.180 - Wolf-livestock conflict account.
 . The wolf-livestock conflict account is created in the custody of the state treasurer. Any transfers under RCW 77.36.170 must be deposited in the account. The department may also deposit into the account any grants, gifts, or donations to the state for the purposes of providing compensation for injury or loss of livestock caused by wolves. Consistent with this chapter, expenditures from the account may be used only for mitigation, assessment, and payments for injury or loss of livestock caused by wolves. Only the director or the director's designee may authorize expenditures from the account. The account is subject to allotment procedures under chapter 43.88 RCW, but an appropriation is not required for expenditures.
@@ -187,25 +185,6 @@ This chapter represents the exclusive remedy against the state for damage caused
 .. The payment of a claim included on the list maintained by the department under this section is conditional on the availability of specific funding for this purpose and is not a guarantee of reimbursement.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5193-S2.SL.pdf?cite=2013%20c%20329%20§%203[2013 c 329 § 3]; ]
-
-== 77.36.190 - Elk management pilot project—Report to the legislature. (Expires July 1, 2021.)
-. Subject to the availability of amounts appropriated for this specific purpose, the department must conduct an elk management pilot project to explore the viability of various wildlife management actions to reduce elk highway collisions and elk damage to private crop lands. The pilot project must initially focus on achieving a reduction in highway collisions on interstate highways, and crop damage on properties, within the range of the Colockum herd. The department must invite the Yakama Nation to participate in all aspects of the project.
-
-. The department must work with the department of transportation to explore the viability of various wildlife management actions to reduce elk highway collisions, initially focusing on reducing traffic collisions along interstate highways within the range of the herd.
-
-. Direct wildlife management efforts must be employed in the pilot project implemented under this section, including:
-
-.. Increased use of special depredation hunts and general hunting opportunity within the Colockum herd. Total hunting depredations under the pilot project must be limited to three hundred elk per calendar year and these efforts must be designed and implemented in a manner that does not conflict with the primary goals of the current elk herd management plan for the Colockum herd;
-
-.. Feeding elk within the pilot project area by persons other than the department is prohibited, although in no event may this prohibition affect a person who sets out feed with the intent to feed domestic animals or livestock, even though such feed may be inadvertently consumed by elk or other wildlife; and
-
-.. The use of managed livestock grazing to attract elk away from roads and private property.
-
-. Consistent with RCW 43.01.036, the department and the department of transportation must report the results of the pilot project to the appropriate committees of the legislature by October 31, 2020. Along with results, the departments must report on how the information gleaned from the pilot project will be used to manage the Colockum elk herd and other similarly situated elk herds in the state.
-
-. This section expires July 1, 2021.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1353-S.SL.pdf?cite=2017%20c%20244%20§%202[2017 c 244 § 2]; ]
 
 == 77.36.200 - Wolf-livestock conflict—Staff resources in Ferry and Stevens counties.
 The department shall maintain sufficient staff resources in Ferry and Stevens counties for response to wolf-livestock conflict on an ongoing basis and for coordination with livestock producers on the continued implementation of proactive nonlethal deterrents.

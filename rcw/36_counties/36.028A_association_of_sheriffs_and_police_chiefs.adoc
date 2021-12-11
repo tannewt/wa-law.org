@@ -84,9 +84,9 @@ The Washington association of sheriffs and police chiefs may, upon request of a 
 
 (B) Become noncompliant with the state sex offender registry;
 
-... Permit a registered victim to receive the most recent status report for an offender in any Washington state city and county jail, department of corrections, or sex offender registry by calling the statewide automated victim information and notification system on a toll-free telephone number or by accessing the statewide automated victim information and notification system via a public web site. All registered victims calling the statewide automated victim information and notification system will be given the option to have live operator assistance to help use the program on a twenty-four hour, three hundred sixty-five day per year basis;
+... Permit a registered victim to receive the most recent status report for an offender in any Washington state city and county jail, department of corrections, or sex offender registry by calling the statewide automated victim information and notification system on a toll-free telephone number or by accessing the statewide automated victim information and notification system via a public website. All registered victims calling the statewide automated victim information and notification system will be given the option to have live operator assistance to help use the program on a twenty-four hour, three hundred sixty-five day per year basis;
 
-.. Permit a crime victim to register, or registered victim to update, the victim's registration information for the statewide automated victim information and notification system by calling a toll-free telephone number or by accessing a public web site; and
+.. Permit a crime victim to register, or registered victim to update, the victim's registration information for the statewide automated victim information and notification system by calling a toll-free telephone number or by accessing a public website; and
 
 .. Ensure that the offender information contained within the statewide automated victim information and notification system is updated frequently to timely notify a crime victim that an offender has been released or discharged or has escaped. However, the failure of the statewide automated victim information and notification system to provide notice to the victim does not establish a separate cause of action by the victim against state officials, local officials, law enforcement officers, or any related correctional authorities.
 
@@ -121,49 +121,6 @@ The department of corrections is not required to provide any data to the Washing
 
 [ http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2337-S.SL.pdf?cite=2000%20c%203%20§%202[2000 c 3 § 2]; ]
 
-== 36.28A.060 - Statewide first responder building mapping information system—Creation—Data must be available to law enforcement, military, and fire safety agencies—Standards—Public disclosure exemption.
-. When funded, the Washington association of sheriffs and police chiefs shall create and operate a statewide first responder building mapping information system.
-
-. All state agencies and local governments must utilize building mapping software that complies with the building mapping software standards established under RCW 36.28A.070 for any building mapped for this purpose after the statewide first responder building mapping information system is operational. If, prior to creation of the statewide building mapping information system, a local government has utilized building mapping software standards established under RCW 36.28A.070, the local government may continue to use its own building mapping system unless the Washington association of sheriffs and police chiefs provides funding to bring the local government's system in compliance with the standards established under RCW 36.28A.070.
-
-. All state and local government-owned buildings that are occupied by state or local government employees must be mapped when funding is provided by the Washington association of sheriffs and police chiefs, or from other sources. Nothing in chapter 102, Laws of 2003 requires any state agency or local government to map a building unless the entire cost of mapping the building is provided by the Washington association of sheriffs and police chiefs, or from other sources.
-
-. Once the statewide first responder building mapping information system is operational, all state and local government buildings that are mapped must forward their building mapping information data to the Washington association of sheriffs and police chiefs. All participating privately, federally, and tribally owned buildings may voluntarily forward their mapping and emergency information data to the Washington association of sheriffs and police chiefs. The Washington association of sheriffs and police chiefs may refuse any building mapping information that does not comply with the specifications described in RCW 36.28A.070.
-
-. Consistent with the guidelines developed under RCW 36.28A.070, the Washington association of sheriffs and police chiefs shall electronically make the building mapping information available to all state, local, federal, and tribal law enforcement agencies, the military department of Washington state, and fire departments.
-
-. Consistent with the guidelines developed under RCW 36.28A.070, the Washington association of sheriffs and police chiefs shall develop building mapping software standards that must be used to participate in the statewide first responder building mapping information system.
-
-. The Washington association of sheriffs and police chiefs shall pursue federal funds to: 
-
-.. Create the statewide first responder building mapping information system; and
-
-.. Develop grants for the mapping of all state and local government buildings in the order determined under RCW 36.28A.070.
-
-. All tactical and intelligence information provided to the Washington association of sheriffs and police chiefs under chapter 102, Laws of 2003 is exempt from public disclosure as provided in RCW 42.56.240.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/1133-S.SL.pdf?cite=2005%20c%20274%20§%20269[2005 c 274 § 269]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1218-S.SL.pdf?cite=2003%20c%20102%20§%202[2003 c 102 § 2]; ]
-
-== 36.28A.070 - Statewide first responder building mapping information system—Committee established—Development of guidelines.
-. The Washington association of sheriffs and police chiefs in consultation with the Washington state emergency management office, the Washington association of county officials, the Washington association of cities, the director of the consolidated technology services agency, the Washington state fire chiefs' association, and the Washington state patrol shall convene a committee to establish guidelines related to the statewide first responder building mapping information system. The committee shall have the following responsibilities:
-
-.. Develop the type of information to be included in the statewide first responder building mapping information system. The information shall include, but is not limited to: Floor plans, fire protection information, evacuation plans, utility information, known hazards, and text and digital images showing emergency personnel contact information;
-
-.. Develop building mapping software standards that must be utilized by all entities participating in the statewide first responder building mapping information system;
-
-.. Determine the order in which buildings shall be mapped when funding is received;
-
-.. Develop guidelines on how the information shall be made available. These guidelines shall include detailed procedures and security systems to ensure that the information is only made available to the government entity that either owns the building or is responding to an incident at the building;
-
-.. Recommend training guidelines regarding using the statewide first responder building mapping information system to the criminal justice training commission and the Washington state patrol fire protection bureau.
-
-. [Empty]
-.. Nothing in this section supersedes the authority of the consolidated technology services agency or the technology services board under chapter 43.105 RCW.
-
-.. Nothing in this section supersedes the authority of state agencies and local governments to control and maintain access to information within their independent systems.
-
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5315-S2.SL.pdf?cite=2015%203rd%20sp.s.%20c%201%20§%20405[2015 3rd sp.s. c 1 § 405]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5024.SL.pdf?cite=2015%20c%20225%20§%2032[2015 c 225 § 32]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/House/1218-S.SL.pdf?cite=2003%20c%20102%20§%203[2003 c 102 § 3]; ]
-
 == 36.28A.080 - Immunity from liability.
 Units of local government and their employees, as provided in RCW 36.28A.010, are immune from civil liability for damages arising out of the creation and use of the statewide first responder building mapping information system, unless it is shown that an employee acted with gross negligence or bad faith.
 
@@ -182,7 +139,7 @@ Units of local government and their employees, as provided in RCW 36.28A.010, ar
 
 . The firearms certificate is valid for a period of one year from the date that the law enforcement agency or individual or entity certified to provide firearms training determines that the bearer has been found qualified or otherwise found to meet the standards established by the criminal justice training commission for firearms qualification for the basic law enforcement training academy in the state, and the certificate shall state the date the determination was made.
 
-. The Washington association of sheriffs and police chiefs shall develop a model certificate that shall serve as the required firearms qualification certificate once the certificate is valid pursuant to subsection (2) of this section. The association shall make the model certificate accessible on its web site. The model certificate shall state that the retired law enforcement officer bearing the certificate has been qualified or otherwise found to meet the standards established by the criminal justice training commission for firearms qualification for the basic law enforcement training academy in the state.
+. The Washington association of sheriffs and police chiefs shall develop a model certificate that shall serve as the required firearms qualification certificate once the certificate is valid pursuant to subsection (2) of this section. The association shall make the model certificate accessible on its website. The model certificate shall state that the retired law enforcement officer bearing the certificate has been qualified or otherwise found to meet the standards established by the criminal justice training commission for firearms qualification for the basic law enforcement training academy in the state.
 
 . The retired law enforcement officer is responsible for paying the costs of the firearms qualification required under subsection (2) of this section.
 
@@ -197,18 +154,18 @@ Protocols for the investigation of reported missing persons, identification of h
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2805-S2.SL.pdf?cite=2006%20c%20102%20§%202[2006 c 102 § 2]; ]
 
-== 36.28A.110 - Missing persons information web site creation.
-The Washington association of sheriffs and police chiefs shall create and maintain a statewide web site, which shall be available to the public. The web site shall post relevant information concerning persons reported missing in the state of Washington. For missing persons, the web site shall contain, but is not limited to: The person's name, physical description, photograph, and other information that is deemed necessary according to the adopted protocols. This web site shall allow citizens to more broadly disseminate information regarding missing persons for at least thirty days.
+== 36.28A.110 - Missing persons information website creation.
+The Washington association of sheriffs and police chiefs shall create and maintain a statewide website, which shall be available to the public. The website shall post relevant information concerning persons reported missing in the state of Washington. For missing persons, the website shall contain, but is not limited to: The person's name, physical description, photograph, and other information that is deemed necessary according to the adopted protocols. This website shall allow citizens to more broadly disseminate information regarding missing persons for at least thirty days.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/Senate/5191-S.SL.pdf?cite=2007%20c%2010%20§%203[2007 c 10 § 3]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2805-S2.SL.pdf?cite=2006%20c%20102%20§%204[2006 c 102 § 4]; ]
 
-== 36.28A.112 - Missing persons information web site—Transmittal of information to the national missing and unidentified persons system.
-When funded, the Washington association of sheriffs and police chiefs must regularly transmit information contained within the statewide missing persons web site created pursuant to RCW 36.28A.110 to the national missing and unidentified persons system created by the United States department of justice's national institute of justice.
+== 36.28A.112 - Missing persons information website—Transmittal of information to the national missing and unidentified persons system.
+When funded, the Washington association of sheriffs and police chiefs must regularly transmit information contained within the statewide missing persons website created pursuant to RCW 36.28A.110 to the national missing and unidentified persons system created by the United States department of justice's national institute of justice.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2792.SL.pdf?cite=2020%20c%2045%20§%204[2020 c 45 § 4]; ]
 
 == 36.28A.120 - State patrol involvement with missing persons systems—Local law enforcement procedures for missing persons information.
-The Washington state patrol shall establish an interface with local law enforcement and the Washington association of sheriffs and police chiefs missing persons web site, the toll-free twenty-four hour hotline, and national and other statewide missing persons systems or clearinghouses.
+The Washington state patrol shall establish an interface with local law enforcement and the Washington association of sheriffs and police chiefs missing persons website, the toll-free twenty-four hour hotline, and national and other statewide missing persons systems or clearinghouses.
 
 Local law enforcement agencies shall file an official missing persons report and enter biographical information into the state missing persons computerized network without delay after notification of a missing person's report is received under this chapter.
 
@@ -422,9 +379,9 @@ Subject to the availability of amounts appropriated for this specific purpose, t
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1501-S.SL.pdf?cite=2017%20c%20261%20§%204[2017 c 261 § 4]; ]
 
-== 36.28A.410 - Statewide automated protected person notification system—Notification requirements—Immunity from civil liability—Public disclosure exemption.
+== 36.28A.410 - Statewide automated protected person notification system—Notification requirements—Immunity from civil liability—Public disclosure exemption. (Effective until July 1, 2022.)
 . [Empty]
-.. Subject to the availability of amounts appropriated for this specific purpose, the Washington association of sheriffs and police chiefs shall create and operate a statewide automated protected person notification system to automatically notify a registered person via the registered person's choice of telephone or email when a respondent subject to a court order specified in (b) of this subsection has attempted to purchase or acquire a firearm and been denied based on a background check or completed and submitted firearm purchase or transfer application that indicates the respondent is ineligible to possess a firearm under state or federal law. The system must permit a person to register for notification, or a registered person to update the person's registration information, for the statewide automated protected person notification system by calling a toll-free telephone number or by accessing a public web site.
+.. Subject to the availability of amounts appropriated for this specific purpose, the Washington association of sheriffs and police chiefs shall create and operate a statewide automated protected person notification system to automatically notify a registered person via the registered person's choice of telephone or email when a respondent subject to a court order specified in (b) of this subsection has attempted to purchase or acquire a firearm and been denied based on a background check or completed and submitted firearm purchase or transfer application that indicates the respondent is ineligible to possess a firearm under state or federal law. The system must permit a person to register for notification, or a registered person to update the person's registration information, for the statewide automated protected person notification system by calling a toll-free telephone number or by accessing a public website.
 
 .. The notification requirements of this section apply to any court order issued under chapter 7.92 RCW and RCW 7.90.090, 9A.46.080, 10.14.080, 10.99.040, 10.99.045, 26.09.050, 26.09.060, * 26.10.040, 26.10.115, 26.26A.470, 26.26B.020, 26.50.060, or 26.50.070, any foreign protection order filed with a Washington court pursuant to chapter 26.52 RCW, and any Canadian domestic violence protection order filed with a Washington court pursuant to chapter 26.55 RCW, where the order prohibits the respondent from possessing firearms or where by operation of law the respondent is ineligible to possess firearms during the term of the order. The notification requirements of this section apply even if the respondent has notified the Washington state patrol that he or she has appealed a background check denial under RCW 43.43.823.
 

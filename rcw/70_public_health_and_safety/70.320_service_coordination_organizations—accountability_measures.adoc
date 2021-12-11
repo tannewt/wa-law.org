@@ -40,18 +40,23 @@ The definitions in this section apply throughout this chapter unless the context
 
 .. The authority and the department may not release any public reports of client outcomes unless the data has been deidentified and aggregated in such a way that the identity of individual clients cannot be determined through directly identifiable data or the combination of multiple data elements.
 
-. The authority and department must establish a performance measure to be integrated into the statewide common measure set which tracks effective integration practices of behavioral health services in primary care settings.
+. [Empty]
+.. The performance measures coordinating committee must establish: (i) A performance measure to be integrated into the statewide common measure set which tracks effective integration practices of behavioral health services in primary care settings; and (ii) performance measures which track rates of criminal justice system involvement among public health system clients with an identified behavioral health need including, but not limited to, rates of arrest and incarceration. The authority must set improvement targets related to these measures.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5779-S.SL.pdf?cite=2017%20c%20226%20§%208[2017 c 226 § 8]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6312-S2.SL.pdf?cite=2014%20c%20225%20§%20107[2014 c 225 § 107]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1519-S.SL.pdf?cite=2013%20c%20320%20§%202[2013 c 320 § 2]; ]
+.. The performance measures coordinating committee must report to the governor and appropriate committees of the legislature regarding the implementation of this subsection by July 1, 2022.
+
+.. For purposes of establishing performance measures as specified in (a)(ii) of this subsection, the performance measures coordinating committee shall convene a work group of stakeholders including the authority, medicaid managed care organizations, the department of corrections, and others with expertise in criminal justice and behavioral health. The work group shall review current performance measures that have been adopted in other states or nationally to inform this effort.
+
+. The authority must report to the governor and appropriate committees of the legislature by October 1, 2022, regarding options and recommendations for integrating value-based purchasing terms and a performance improvement project into managed health care contracts relating to the criminal justice outcomes specified under subsection (1) of this section.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5157-S.SL.pdf?cite=2021%20c%20267%20§%202[2021 c 267 § 2]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5779-S.SL.pdf?cite=2017%20c%20226%20§%208[2017 c 226 § 8]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/6312-S2.SL.pdf?cite=2014%20c%20225%20§%20107[2014 c 225 § 107]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1519-S.SL.pdf?cite=2013%20c%20320%20§%202[2013 c 320 § 2]; ]
 
 == 70.320.030 - Adoption of performance measures.
-By September 1, 2014:
-
 . The authority shall adopt performance measures to determine whether service contracting entities are achieving the outcomes described in RCW 70.320.020 and 41.05.690 for clients enrolled in medical managed care programs operated according to Title XIX or XXI of the federal social security act.
 
-. The department shall adopt performance measures to determine whether service contracting entities are achieving the outcomes described in RCW 70.320.020 for clients receiving mental health, long-term care, or chemical dependency services.
+. The authority shall adopt performance measures to determine whether service contracting entities are achieving the outcomes described in RCW 70.320.020 for clients receiving mental health, long-term care, or chemical dependency services.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5147-S.SL.pdf?cite=2015%20c%20209%20§%201[2015 c 209 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1519-S.SL.pdf?cite=2013%20c%20320%20§%203[2013 c 320 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5157-S.SL.pdf?cite=2021%20c%20267%20§%203[2021 c 267 § 3]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/5147-S.SL.pdf?cite=2015%20c%20209%20§%201[2015 c 209 § 1]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1519-S.SL.pdf?cite=2013%20c%20320%20§%203[2013 c 320 § 3]; ]
 
 == 70.320.040 - Contract requirements.
 By July 1, 2015, the authority and the department shall require that contracts with service coordination organizations include provisions requiring:

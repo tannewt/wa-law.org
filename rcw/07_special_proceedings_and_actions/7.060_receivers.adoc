@@ -39,7 +39,7 @@ A receiver must be either a general receiver or a custodial receiver. A receiver
 
 [ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6189-S.SL.pdf?cite=2004%20c%20165%20§%203[2004 c 165 § 3]; ]
 
-== 7.60.025 - Appointment of receiver.
+== 7.60.025 - Appointment of receiver. (Effective until January 1, 2022.)
 . A receiver may be appointed by the superior court of this state in the following instances, but except in any case in which a receiver's appointment is expressly required by statute, or any case in which a receiver's appointment is sought by a state agent whose authority to seek the appointment of a receiver is expressly conferred by statute, or any case in which a receiver's appointment with respect to real property is sought under (b)(ii) of this subsection, a receiver shall be appointed only if the court additionally determines that the appointment of a receiver is reasonably necessary and that other available remedies either are not available or are inadequate:
 
 .. On application of any party, when the party is determined to have a probable right to or interest in property that is a subject of the action and in the possession of an adverse party, or when the property or its revenue-producing potential is in danger of being lost or materially injured or impaired. A receiver may be appointed under this subsection (1)(a) whether or not the application for appointment of a receiver is combined with, or is ancillary to, an action seeking a money judgment or other relief;
@@ -84,7 +84,7 @@ A receiver must be either a general receiver or a custodial receiver. A receiver
 
 .. In an action by the director of financial institutions under RCW 21.20.390 in cases involving actual or threatened violations of the securities act of Washington or under RCW 21.30.120 in cases involving actual or threatened violations of chapter 21.30 RCW with respect to certain businesses and transactions involving commodities;
 
-.. In an action for or relating to dissolution of a business corporation under RCW 23B.14.065, 23B.14.300, 23B.14.310, or 23B.14.320, for dissolution of a nonprofit corporation under RCW 24.03.271, for dissolution of a mutual corporation under RCW 24.06.305, or in any other action for the dissolution or winding up of any other entity provided for by Title 23, 23B, 24, or 25 RCW;
+.. In an action for or relating to dissolution of a business corporation under RCW 23B.14.065, 23B.14.300, 23B.14.310, or 23B.14.320, for dissolution of a nonprofit corporation under *RCW 24.03.271, for dissolution of a mutual corporation under RCW 24.06.305, or in any other action for the dissolution or winding up of any other entity provided for by Title 23, 23B, 24, or 25 RCW;
 
 .. In any action in which the dissolution of any public or private entity is sought, in any action involving any dispute with respect to the ownership or governance of such an entity, or upon the application of a person having an interest in such an entity when the appointment is reasonably necessary to protect the property of the entity or its business or other interests;
 
@@ -112,7 +112,7 @@ A receiver must be either a general receiver or a custodial receiver. A receiver
 
 .. Upon application of the attorney general under RCW 64.36.220(3), in aid of any writ or order restraining or enjoining violations of chapter 64.36 RCW applicable to timeshares;
 
-.. Under *RCW 70.95A.050(3), in aid of the enforcement of payment or performance of municipal bonds issued with respect to facilities used to abate, control, or prevent pollution;
+.. Under RCW 70A.210.070(3), in aid of the enforcement of payment or performance of municipal bonds issued with respect to facilities used to abate, control, or prevent pollution;
 
 ... Upon the application of the department of social and health services under RCW 74.42.580, in cases involving nursing homes;
 
@@ -134,7 +134,7 @@ A receiver must be either a general receiver or a custodial receiver. A receiver
 
 . The court may condition the appointment of a receiver upon the giving of security by the person seeking the receiver's appointment, in such amount as the court may specify, for the payment of costs and damages incurred or suffered by any person should it later be determined that the appointment of the receiver was wrongfully obtained.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%201[2019 c 389 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5034-S2.SL.pdf?cite=2011%20c%20214%20§%2027[2011 c 214 § 27]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5058.SL.pdf?cite=2011%20c%2034%20§%201[2011 c 34 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/3046-S.SL.pdf?cite=2010%20c%20212%20§%204[2010 c 212 § 4]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6596.SL.pdf?cite=2006%20c%2052%20§%201[2006 c 52 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6189-S.SL.pdf?cite=2004%20c%20165%20§%204[2004 c 165 § 4]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%206[2021 c 65 § 6]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5107.SL.pdf?cite=2019%20c%20389%20§%201[2019 c 389 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5034-S2.SL.pdf?cite=2011%20c%20214%20§%2027[2011 c 214 § 27]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5058.SL.pdf?cite=2011%20c%2034%20§%201[2011 c 34 § 1]; http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/House/3046-S.SL.pdf?cite=2010%20c%20212%20§%204[2010 c 212 § 4]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/6596.SL.pdf?cite=2006%20c%2052%20§%201[2006 c 52 § 1]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6189-S.SL.pdf?cite=2004%20c%20165%20§%204[2004 c 165 § 4]; ]
 
 == 7.60.035 - Eligibility to serve as receiver.
 Except as provided in this chapter or otherwise by statute, any person, whether or not a resident of this state, may serve as a receiver, with the exception that a person may not be appointed as a receiver, and shall be replaced as receiver if already appointed, if it should appear to the court that the person:
@@ -575,9 +575,9 @@ then the purchaser, licensee, or lessee may treat the rejection as a termination
 [ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6189-S.SL.pdf?cite=2004%20c%20165%20§%2016[2004 c 165 § 16]; ]
 
 == 7.60.150 - Abandonment of property.
-The receiver, or any party in interest, upon order of the court following notice and a hearing, and upon the conditions or terms the court considers just and proper, may abandon any estate property that is burdensome to the receiver or is of inconsequential value or benefit. However, a receiver may not abandon property that is a hazard or potential hazard to the public in contravention of a state statute or rule that is reasonably designed to protect the public health or safety from identified hazards, including but not limited to *chapters 70.105 and 70.105D RCW. Property that is abandoned no longer constitutes estate property.
+The receiver, or any party in interest, upon order of the court following notice and a hearing, and upon the conditions or terms the court considers just and proper, may abandon any estate property that is burdensome to the receiver or is of inconsequential value or benefit. However, a receiver may not abandon property that is a hazard or potential hazard to the public in contravention of a state statute or rule that is reasonably designed to protect the public health or safety from identified hazards, including but not limited to chapters 70A.300 and 70A.305 RCW. Property that is abandoned no longer constitutes estate property.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6189-S.SL.pdf?cite=2004%20c%20165%20§%2017[2004 c 165 § 17]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%207[2021 c 65 § 7]; http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/6189-S.SL.pdf?cite=2004%20c%20165%20§%2017[2004 c 165 § 17]; ]
 
 == 7.60.160 - Actions by and against the receiver or affecting property held by receiver.
 . The receiver has the right to sue and be sued in the receiver's capacity as such, without leave of court, in all cases necessary or proper for the conduct of the receivership. However, action seeking to dispossess the receiver of any estate property or otherwise to interfere with the receiver's management or control of any estate property may not be maintained or continued unless permitted by order of the court obtained upon notice and a hearing.

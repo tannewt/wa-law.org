@@ -164,7 +164,7 @@ A pipeline company that has been notified by an excavator that excavation work w
 
 [ http://lawfilesext.leg.wa.gov/biennium/2001-02/Pdf/Bills/Session%20Laws/Senate/5182-S.SL.pdf?cite=2001%20c%20238%20§%2011[2001 c 238 § 11]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/2420-S2.SL.pdf?cite=2000%20c%20191%20§%2014[2000 c 191 § 14]; ]
 
-== 81.88.160 - Gas pipeline company report to the commission—Known leaks in pipelines—Information required—Estimated volume of leaked gas—Provision of information on commission's web site—Transmission of information to department of ecology—Certain information exempt from disclosure.
+== 81.88.160 - Gas pipeline company report to the commission—Known leaks in pipelines—Information required—Estimated volume of leaked gas—Provision of information on commission's website—Transmission of information to department of ecology—Certain information exempt from disclosure.
 . Beginning March 15, 2021, and on an annual basis thereafter, each gas pipeline company must submit a report to the commission that includes:
 
 .. The total number of known leaks in pipelines owned by the gas pipeline company as of January 1st of the year the report is submitted;
@@ -195,17 +195,17 @@ A pipeline company that has been notified by an excavator that excavation work w
 
 . The commission must use the data reported by gas pipeline companies under this section, as well as other data reported by gas pipeline companies to the commission and to the department of ecology, to estimate the volume of leaked gas and associated greenhouse gas emissions from operational practices in the state. The commission may request additional information by order.
 
-. By March 31, 2021, and on an annual basis thereafter, the commission must provide on its public internet web site aggregate data, as submitted by gas pipeline companies under this section, concerning the volume and causes of gas leaks.
+. By March 31, 2021, and on an annual basis thereafter, the commission must provide on its public internet website aggregate data, as submitted by gas pipeline companies under this section, concerning the volume and causes of gas leaks.
 
 . By March 31, 2021, and on an annual basis thereafter, the commission must transmit to the department of ecology information on gas leakage in the state, as submitted by gas pipeline companies under this section.
 
 . Those portions of reports submitted by gas pipeline companies to the commission under this section that contain proprietary data, trade secrets, or if disclosure would adversely affect public safety, are exempt from public inspection and copying under chapter 42.56 RCW.
 
-. For the purposes of this section, "carbon dioxide equivalents" has the same meaning as provided in *RCW 70.235.010.
+. For the purposes of this section, "carbon dioxide equivalents" has the same meaning as provided in RCW 70A.45.010.
 
 . Nothing in this section may be construed to preempt the process by which a gas pipeline company is required to petition relevant state or local authorities when seeking to expand the capacity of the company's gas transmission or distribution lines.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2518-S2.SL.pdf?cite=2020%20c%2032%20§%203[2020 c 32 § 3]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%20101[2021 c 65 § 101]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2518-S2.SL.pdf?cite=2020%20c%2032%20§%203[2020 c 32 § 3]; ]
 
 == 81.88.900 - Conflict with federal requirements—2000 c 191.
 If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state, the conflicting part of this act is inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and this finding does not affect the operation of the remainder of this act in its application to the agencies concerned. Rules adopted under this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state.

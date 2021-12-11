@@ -1,7 +1,7 @@
 = 10.22 - Compromise of misdemeanors.
 :toc:
 
-== 10.22.010 - When permitted—Exceptions.
+== 10.22.010 - When permitted—Exceptions. (Effective until July 1, 2022.)
 When a defendant is prosecuted in a criminal action for a misdemeanor, other than a violation of RCW 9A.48.105, for which the person injured by the act constituting the offense has a remedy by a civil action, the offense may be compromised as provided in RCW 10.22.020, except when it was committed:
 
 . By or upon an officer while in the execution of the duties of his or her office;

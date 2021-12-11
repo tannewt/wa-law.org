@@ -30,16 +30,31 @@ Unless otherwise provided in this chapter, the plaintiff shall have the burden o
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20250[2011 c 336 § 250]; 1975-'76 2nd ex.s. c 56 § 8; ]
 
-== 7.70.040 - Necessary elements of proof that injury resulted from failure to follow accepted standard of care.
-The following shall be necessary elements of proof that injury resulted from the failure of the health care provider to follow the accepted standard of care:
+== 7.70.040 - Necessary elements of proof that injury resulted from failure to follow accepted standard of care—COVID-19 pandemic.
+. The following shall be necessary elements of proof that injury resulted from the failure of the health care provider to follow the accepted standard of care:
 
-. The health care provider failed to exercise that degree of care, skill, and learning expected of a reasonably prudent health care provider at that time in the profession or class to which he or she belongs, in the state of Washington, acting in the same or similar circumstances;
+.. The health care provider failed to exercise that degree of care, skill, and learning expected of a reasonably prudent health care provider at that time in the profession or class to which he or she belongs, in the state of Washington, acting in the same or similar circumstances;
 
-. Such failure was a proximate cause of the injury complained of.
+.. Such failure was a proximate cause of the injury complained of.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20251[2011 c 336 § 251]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c149.pdf?cite=1983%20c%20149%20§%202[1983 c 149 § 2]; 1975-'76 2nd ex.s. c 56 § 9; ]
+. [Empty]
+.. The following shall be necessary elements of proof that injury resulted from the failure of a health care provider to follow the accepted standard of care in acting or failing to act following the proclamation of a state of emergency in all counties in the state of Washington by the governor in response to the COVID-19 pandemic on February 29, 2020, and until the state of emergency is terminated:
 
-== 7.70.050 - Failure to secure informed consent—Necessary elements of proof—Emergency situations.
+... The health care provider failed to exercise that degree of care, skill, and learning expected of a reasonably prudent health care provider at that time in the profession or class to which he or she belongs, in the state of Washington, acting in the same or similar circumstances, taking into account whether the act or omission:
+
+(A) Was in good faith based upon guidance, direction, or recommendations, including in interim or preliminary form, published by the federal government, the state of Washington or departments, divisions, agencies, or agents thereof, or local governments in the state of Washington or departments, divisions, agencies, or agents thereof, in response to the COVID-19 pandemic and applicable to such health care provider; or
+
+(B) Was due to a lack of resources including, but not limited to, available facility capacity, staff, and supplies, directly attributable to the COVID-19 pandemic;
+
+... Such failure was a proximate cause of the injury complained of.
+
+.. The provisions in (a) of this subsection apply only if relevant to the determination of whether the health care provider followed the standard of care, as determined by the court.
+
+.. If any health care provider presents evidence described in (a) of this subsection, the injured patient or the patient's representative is permitted to present rebuttal evidence, so long as such evidence is otherwise admissible.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5271-S.SL.pdf?cite=2021%20c%20241%20§%202[2021 c 241 § 2]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20251[2011 c 336 § 251]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1983c149.pdf?cite=1983%20c%20149%20§%202[1983 c 149 § 2]; 1975-'76 2nd ex.s. c 56 § 9; ]
+
+== 7.70.050 - Failure to secure informed consent—Necessary elements of proof—Emergency situations. (Effective until January 1, 2022.)
 . The following shall be necessary elements of proof that injury resulted from health care in a civil negligence case or arbitration involving the issue of the alleged breach of the duty to secure an informed consent by a patient or his or her representatives against a health care provider:
 
 .. That the health care provider failed to inform the patient of a material fact or facts relating to the treatment;
@@ -66,7 +81,7 @@ The following shall be necessary elements of proof that injury resulted from the
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5045.SL.pdf?cite=2011%20c%20336%20§%20252[2011 c 336 § 252]; 1975-'76 2nd ex.s. c 56 § 10; ]
 
-== 7.70.060 - Consent form—Contents—Prima facie evidence—Shared decision making—Patient decision aid—Failure to use.
+== 7.70.060 - Consent form—Contents—Prima facie evidence—Shared decision making—Patient decision aid—Failure to use. (Effective until January 1, 2022.)
 . If a patient while legally competent, or his or her representative if he or she is not competent, signs a consent form which sets forth the following, the signed consent form shall constitute prima facie evidence that the patient gave his or her informed consent to the treatment administered and the patient has the burden of rebutting this by a preponderance of the evidence:
 
 .. A description, in language the patient could reasonably be expected to understand, of:
@@ -87,7 +102,7 @@ The following shall be necessary elements of proof that injury resulted from the
 
 .. A brief description of the services that the patient and provider jointly have agreed will be furnished;
 
-.. A brief description of the patient decision aid or aids that have been used by the patient and provider to address the needs for (i) high-quality, up-to-date information about the condition, including risk and benefits of available options and, if appropriate, a discussion of the limits of scientific knowledge about outcomes; (ii) values clarification to help patients sort out their values and preferences; and (iii) guidance or coaching in deliberation, designed to improve the patient's involvement in the decision process;
+.. A brief description of the patient decision aid or aids that have been used by the patient and provider to address the needs for (i) high quality, up-to-date information about the condition, including risk and benefits of available options and, if appropriate, a discussion of the limits of scientific knowledge about outcomes; (ii) values clarification to help patients sort out their values and preferences; and (iii) guidance or coaching in deliberation, designed to improve the patient's involvement in the decision process;
 
 .. A statement that the patient or his or her representative understands: The risk or seriousness of the disease or condition to be prevented or treated; the available treatment alternatives, including nontreatment; and the risks, benefits, and uncertainties of the treatment alternatives, including nontreatment; and
 

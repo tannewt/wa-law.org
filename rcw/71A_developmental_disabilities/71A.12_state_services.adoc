@@ -487,3 +487,8 @@ The legislature finds that the residential services and supports program adminis
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1394-S2.SL.pdf?cite=2019%20c%20324%20§%2013[2019 c 324 § 13]; ]
 
+== 71A.12.370 - Medicaid waiver—Priority.
+When there is funded capacity for services provided through a medicaid waiver administered by the department, and to the extent consistent with federal law and federal funding requirements, priority for that waiver shall be provided to eligible individuals who exited a dependency proceeding under chapter 13.34 RCW within the last two years.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1061-S2.SL.pdf?cite=2021%20c%2056%20§%204[2021 c 56 § 4]; ]
+

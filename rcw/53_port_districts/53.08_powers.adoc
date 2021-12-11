@@ -6,13 +6,15 @@ The definitions in this section apply throughout this chapter unless the context
 
 . "Commission" means the Washington utilities and transportation commission.
 
+. "Retail telecommunications services" means the sale, lease, license, or indivisible right of use of telecommunications services or telecommunications facilities directly to end users.
+
 . "Telecommunications" has the same meaning as contained in RCW 80.04.010.
 
 . "Telecommunications facilities" means lines, conduits, ducts, poles, wires, cables, crossarms, receivers, transmitters, instruments, machines, appliances, instrumentalities and all devices, real estate, easements, apparatus, property, and routes used, operated, owned, or controlled by any entity to facilitate the provision of telecommunications services.
 
-. "Wholesale telecommunications services" means the provision of telecommunications services or facilities for resale by an entity authorized to provide telecommunications services to the general public and internet service providers. Wholesale telecommunications services includes the provision of unlit or dark optical fiber for resale, but not the provision of lit optical fiber.
+. "Wholesale telecommunications services" means the provision of telecommunications services or telecommunications facilities for resale to an entity authorized to provide telecommunications services. Wholesale telecommunications services includes the provision of unlit or dark optical fiber for resale, but not the provision of lit optical fiber.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2664-S.SL.pdf?cite=2018%20c%20169%20§%201[2018 c 169 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6675-S.SL.pdf?cite=2000%20c%2081%20§%206[2000 c 81 § 6]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1336-S.SL.pdf?cite=2021%20c%20294%20§%208[2021 c 294 § 8]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2664-S.SL.pdf?cite=2018%20c%20169%20§%201[2018 c 169 § 1]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6675-S.SL.pdf?cite=2000%20c%2081%20§%206[2000 c 81 § 6]; ]
 
 == 53.08.010 - Acquisition of property—Levy of assessments.
 A port district may acquire by purchase, for cash or on deferred payments for a period not exceeding twenty years, or by condemnation, or both, all lands, property, property rights, leases, or easements necessary for its purposes and may exercise the right of eminent domain in the acquirement or damaging of all such lands, property, and property rights, and may levy and collect assessments upon property for the payment of all damages and compensation in carrying out its purposes, and such right shall be exercised in the same manner and by the same procedure as provided for cities of the first class insofar as consistent with this title, and in connection therewith the county treasurer shall perform the duties of the treasurers of such cities.
@@ -38,7 +40,7 @@ A district may apply to the United States for permission to establish, operate, 
 
 . No port shall enter into an agreement or contract to provide sewer and/or water utilities or pollution control facilities if substantially similar utilities or facilities are available from another source (or sources) which is able and willing to provide such utilities or facilities on a reasonable and nondiscriminatory basis unless such other source (or sources) consents thereto.
 
-. In the event that a port elects to make such other pollution control facilities available to others, it shall do so by lease, lease purchase agreement, or other agreement binding such user to pay for the use of said facilities for the full term of the revenue bonds issued by the port for the acquisition of said facilities, and said payments shall at least fully reimburse the port for all principal and interest paid by it on said bonds and for all operating or other costs, if any, incurred by the port in connection with said facilities. However, where there is more than one user of any such facilities, each user shall be responsible for its pro rata share of such costs and payment of principal and interest. Any port intending to provide pollution control facilities to others shall first survey the port district to ascertain the potential users of such facilities and the extent of their needs. The port shall conduct a public hearing upon the proposal and shall give each potential user an opportunity to participate in the use of such facilities upon equal terms and conditions.
+. In the event that a port elects to make such other pollution control facilities available to others, it shall do so by lease, lease-purchase agreement, or other agreement binding such user to pay for the use of said facilities for the full term of the revenue bonds issued by the port for the acquisition of said facilities, and said payments shall at least fully reimburse the port for all principal and interest paid by it on said bonds and for all operating or other costs, if any, incurred by the port in connection with said facilities. However, where there is more than one user of any such facilities, each user shall be responsible for its pro rata share of such costs and payment of principal and interest. Any port intending to provide pollution control facilities to others shall first survey the port district to ascertain the potential users of such facilities and the extent of their needs. The port shall conduct a public hearing upon the proposal and shall give each potential user an opportunity to participate in the use of such facilities upon equal terms and conditions.
 
 . "Pollution control facility," as used in this section and RCW 53.08.041, includes programs and activities that are intended to reduce air pollution from vehicles used in cargo transport to, from, and within district facilities; and programs and activities that are intended to reduce air pollution from cargo vessels within the district. Use of district funds for these purposes are deemed a governmental and public function, exercised for a public purpose and as a public necessity for promoting cleaner air; provided however, the provisions of subsections (2), (3), (4), and (5) of this section relating to condition, rates, other providers, and cost recovery do not apply to this subsection's subset of port pollution control facilities.
 
@@ -386,12 +388,14 @@ The funds authorized by RCW 53.08.330 may be expended by the port commission in 
 
 [ http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2182-S.SL.pdf?cite=1994%20c%2074%20§%202[1994 c 74 § 2]; ]
 
-== 53.08.370 - Telecommunications facilities—Construct, purchase, acquire, etc.—Purposes—Limitations—Eminent domain.
+== 53.08.370 - Telecommunications facilities—Construct, purchase, acquire, etc.—Purposes—Limitations—Eminent domain (as amended by 2021 c 293).
 . A port district in existence on June 8, 2000, may construct, purchase, acquire, develop, finance, lease, license, handle, provide, add to, contract for, interconnect, alter, improve, repair, operate, and maintain any telecommunications facilities within or without the district's limits for the following purposes:
 
-.. For the district's own use; and
+.. For the district's own use; ((and))
 
-.. For the provision of wholesale telecommunications services within or without the district's limits. Nothing in this subsection shall be construed to authorize port districts to provide telecommunications services to end users.
+.. For the provision of wholesale telecommunications services within or without the district's limits((. Nothing in this subsection shall be construed to authorize port districts to provide telecommunications services to end users)); or
+
+.. For the provision of retail telecommunications services as authorized in this section.
 
 . Except as provided in subsection (9) of this section, a port district providing wholesale telecommunications services under this section shall ensure that rates, terms, and conditions for such services are not unduly or unreasonably discriminatory or preferential. Rates, terms, and conditions are discriminatory or preferential when a port district offering such rates, terms, and conditions to an entity for wholesale telecommunications services does not offer substantially similar rates, terms, and conditions to all other entities seeking substantially similar services.
 
@@ -414,7 +418,55 @@ The funds authorized by RCW 53.08.330 may be expended by the port commission in 
 
 .. Nothing in this subsection (9) is intended to limit or otherwise restrict any other authority provided by law.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5511-S2.SL.pdf?cite=2019%20c%20365%20§%2010[2019 c 365 § 10]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2664-S.SL.pdf?cite=2018%20c%20169%20§%202[2018 c 169 § 2]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6675-S.SL.pdf?cite=2000%20c%2081%20§%207[2000 c 81 § 7]; ]
+. [Empty]
+.. A port district may provide retail telecommunications services to end users in unserved areas.
+
+.. A port district must notify and consult with the governor's statewide broadband office within 30 days of its decision to provide retail telecommunications services to unserved areas. The governor's statewide broadband office must post notices received from a port district pursuant to this subsection on its public website.
+
+.. Any port district that intends to provide retail telecommunications services to unserved areas must submit a telecommunications infrastructure and service plan to the governor's statewide broadband office that will be published on the office's website. Submission of plans will enable the governor's statewide broadband office: (i) To better understand infrastructure deployment; (ii) to potentially allocate funding for unserved areas; (iii) to advance the state policy objectives; (iv) to determine whether the plan aligns with state policy objectives and broadband priorities; (v) to measure progress toward serving those in unserved areas; (vi) to report on the feasibility and sustainability of the project; and (vii) to confirm that the project is within an unserved area. The telecommunications infrastructure and service plans shall include, but not be limited to, the following:
+
+(A) Map and description of how the deployment of proposed broadband infrastructure will achieve at a minimum 100 megabits per second download speed and at a minimum 20 megabits per second upload speed and then increases to be consistent with the stated long-term state broadband speed goals for unserved areas;
+
+(B) Project timeline prioritization of unserved areas; and
+
+(C) Description of potential state and federal funding available to provide service to the unserved area.
+
+.. A port district that exercises its authority under (a) of this subsection to provide retail telecommunications services may use state funds, federal funds appropriated through the state, or federal funds dedicated for projects in unserved areas to fund projects identified in the submitted telecommunications infrastructure and service plan required in (c) of this subsection.
+
+.. A port district providing retail telecommunications services under this subsection must operate an open access network.
+
+.. Provisions in this subsection do not apply to the provision of wholesale telecommunications services authorized in this section.
+
+.. For the purposes of this subsection:
+
+... "Open access network" means a network that, during the useful life of the infrastructure, ensures service providers may use network services and facilities at rates, terms, and conditions that are not discriminatory or preferential between providers, and employs accountable interconnection arrangements published and available publicly.
+
+... "Unserved areas" means areas of Washington in which households and businesses lack access to broadband service of speeds at a minimum of 100 megabits per second download and at a minimum 20 megabits per second upload.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5383-S2.SL.pdf?cite=2021%20c%20293%20§%203[2021 c 293 § 3]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5511-S2.SL.pdf?cite=2019%20c%20365%20§%2010[2019 c 365 § 10]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2664-S.SL.pdf?cite=2018%20c%20169%20§%202[2018 c 169 § 2]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/Senate/6675-S.SL.pdf?cite=2000%20c%2081%20§%207[2000 c 81 § 7]; ]
+
+== 53.08.375 - Retail telecommunications services—Reporting requirements.
+. Before providing retail telecommunications services, a port district must report to its governing body and to the state broadband office the following about the area to be served by the port district:
+
+.. An assessment of the current availability of broadband infrastructure and its adequacy to provide high-speed internet access and other advanced telecommunications services to end users;
+
+.. The location of where retail telecommunications services will be provided;
+
+.. Evidence relating to the unserved nature of the community in which retail telecommunications services will be provided;
+
+.. Expected costs of providing retail telecommunications services to customers to be served by the port district;
+
+.. Evidence that proposed telecommunications infrastructure will be capable of scaling to greater download and upload speeds to meet state broadband goals under RCW 43.330.536;
+
+.. Sources of funding for the project that will supplement any grant or loan awards; and
+
+.. A strategic plan to maintain long-term operation of the infrastructure, and the expected installation charges and monthly costs for end users.
+
+. The state broadband office must post a review of the proposed project on their website.
+
+. For the purposes of this section, "unserved" means an area of Washington in which households and businesses lack access to broadband service at a minimum 100 megabits per second download speed and at a minimum 20 megabits per second upload speed.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1336-S.SL.pdf?cite=2021%20c%20294%20§%2010[2021 c 294 § 10]; ]
 
 == 53.08.380 - Wholesale telecommunications services—Petition for review of rates, terms, conditions.
 . A person or entity that has requested wholesale telecommunications services from a port district may petition the commission under the procedures set forth in RCW 80.04.110 (1) through (3) if it believes the district's rates, terms, and conditions are unduly or unreasonably discriminatory or preferential. The person or entity shall provide the district notice of its intent to petition the commission and an opportunity to review within thirty days the rates, terms, and conditions as applied to it prior to submitting its petition. In determining whether a district is providing discriminatory or preferential rates, terms, and conditions, the commission may consider such matters as service quality, technical feasibility of connection points on the district's telecommunications facilities, time of response to service requests, system capacity, and other matters reasonably related to the provision of wholesale telecommunications services. If the commission, after notice and hearing, determines that a port district's rates, terms, and conditions are unduly or unreasonably discriminatory or preferential, it shall issue a final order finding noncompliance with this section and setting forth the specific areas of apparent noncompliance. An order imposed under this section shall be enforceable in any court of competent jurisdiction.
@@ -462,8 +514,8 @@ In addition to the authority provided in this chapter, a port district may parti
 
 [ http://lawfilesext.leg.wa.gov/biennium/2003-04/Pdf/Bills/Session%20Laws/Senate/5073.SL.pdf?cite=2003%20c%20327%20§%2016[2003 c 327 § 16]; ]
 
-== 53.08.440 - Web site for contract database—Requirements.
-By January 1, 2010, each port with more than ten million dollars in annual gross revenues, excluding grant and loan funds, shall maintain a database on a public web site of all contracts, including public works and personal services. At a minimum, the database shall identify the contractor, the purpose of the contract, effective dates and periods of performance, the cost of the contract and funding source, any modifications to the contract, and whether the contract was competitively procured or awarded on a sole source basis.
+== 53.08.440 - Website for contract database—Requirements.
+By January 1, 2010, each port with more than ten million dollars in annual gross revenues, excluding grant and loan funds, shall maintain a database on a public website of all contracts, including public works and personal services. At a minimum, the database shall identify the contractor, the purpose of the contract, effective dates and periods of performance, the cost of the contract and funding source, any modifications to the contract, and whether the contract was competitively procured or awarded on a sole source basis.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/3274-S2.SL.pdf?cite=2008%20c%20130%20§%203[2008 c 130 § 3]; ]
 
@@ -499,7 +551,7 @@ By January 1, 2010, each port with more than ten million dollars in annual gross
 .. Information demonstrating the prospective owner's intent to obtain legal moorage following the transfer, in the manner determined by the port district.
 
 . [Empty]
-.. The port district shall remove any containers or other materials that are not fixed to the vessel and contain hazardous substances, as defined under *RCW 70.105D.020.
+.. The port district shall remove any containers or other materials that are not fixed to the vessel and contain hazardous substances, as defined under RCW 70A.305.020.
 
 .. However, the port district may transfer a vessel with:
 
@@ -511,7 +563,7 @@ By January 1, 2010, each port with more than ten million dollars in annual gross
 
 . Prior to sale, and unless the vessel has a title or valid marine document, the port district is required to apply for a certificate of title for the vessel under RCW 88.02.510 and register the vessel under RCW 88.02.550.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1245-S.SL.pdf?cite=2013%20c%20291%20§%2022[2013 c 291 § 22]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1192.SL.pdf?cite=2021%20c%2065%20§%2059[2021 c 65 § 59]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/1245-S.SL.pdf?cite=2013%20c%20291%20§%2022[2013 c 291 § 22]; ]
 
 == 53.08.480 - Insurance requirements.
 . Every moorage facility operator must:

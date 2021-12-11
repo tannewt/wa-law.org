@@ -163,15 +163,31 @@ The department shall, in consultation with the interagency council on homelessne
 
 .. A report on state and local homelessness document recording fee expenditure by county, including the total amount of fee spending, percentage of total spending from fees, number of people served by major assistance type, and amount of expenditures for private rental housing payments required in RCW 36.22.179;
 
-.. A report on the expenditures, performance, and outcomes of the essential needs and housing support program meeting the requirements of RCW 43.185C.220; and
+.. A report on the expenditures, performance, and outcomes of the essential needs and housing support program meeting the requirements of RCW 43.185C.220;
 
-.. A report on the expenditures, performance, and outcomes of the independent youth housing program meeting the requirements of RCW 43.63A.311.
+.. A report on the expenditures, performance, and outcomes of the independent youth housing program meeting the requirements of RCW 43.63A.311;
 
-. The report required in subsection (1) of this section must be posted to the department's web site and may include links to updated or revised information contained in the report.
+.. A county-level report on the expenditures, performance, and outcomes of the eviction prevention rental assistance program under RCW 43.185C.185. The report must include, but is not limited to:
 
-. Any local government receiving state funds for homelessness assistance or state or local homelessness document recording fees under RCW 36.22.178, 36.22.179, or 36.22.1791 must provide an annual report on the current condition of homelessness in its jurisdiction, its performance in meeting the goals in its local homeless housing plan, and any significant changes made to the plan. The annual report must be posted on the department's web site. Along with each local government annual report, the department must produce and post information on the local government's homelessness spending from all sources by project during the prior state fiscal year in a format similar to the department's report under subsection (1)(c) of this section. If a local government fails to report or provides an inadequate or incomplete report, the department must take corrective action, which may include withholding state funding for homelessness assistance to the local government to enable the department to use such funds to contract with other public or nonprofit entities to provide homelessness assistance within the jurisdiction.
+.. The number of adults without minor children served in each county;
 
-[ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1570-S2.SL.pdf?cite=2018%20c%2085%20§%209[2018 c 85 § 9]; ]
+... The number of households with adults and minor children served in each county; and
+
+... The number of unaccompanied youth and young adults who are being served in each county; and
+
+... A county-level report on the expenditures, performance, and outcomes of the rapid rehousing, project-based vouchers, and housing acquisition programs under RCW 36.22.176. The report must include, but is not limited to:
+
+... The number of persons who are unsheltered receiving shelter through a project-based voucher in each county;
+
+... The number of units acquired or built via rapid rehousing and housing acquisition in each county; and
+
+... The number of adults without minor children, households with adults and minor children, unaccompanied youth, and young adults who are being served by the programs under RCW 36.22.176 in each county.
+
+. The report required in subsection (1) of this section must be posted to the department's website and may include links to updated or revised information contained in the report.
+
+. Any local government receiving state funds for homelessness assistance or state or local homelessness document recording fees under RCW 36.22.178, 36.22.179, or 36.22.1791 must provide an annual report on the current condition of homelessness in its jurisdiction, its performance in meeting the goals in its local homeless housing plan, and any significant changes made to the plan. The annual report must be posted on the department's website. Along with each local government annual report, the department must produce and post information on the local government's homelessness spending from all sources by project during the prior state fiscal year in a format similar to the department's report under subsection (1)(c) of this section. If a local government fails to report or provides an inadequate or incomplete report, the department must take corrective action, which may include withholding state funding for homelessness assistance to the local government to enable the department to use such funds to contract with other public or nonprofit entities to provide homelessness assistance within the jurisdiction.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1277-S2.SL.pdf?cite=2021%20c%20214%20§%203[2021 c 214 § 3]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1570-S2.SL.pdf?cite=2018%20c%2085%20§%209[2018 c 85 § 9]; ]
 
 == 43.185C.050 - Local homeless housing plans.
 . Each local homeless housing task force shall prepare and recommend to its local government legislative authority a five-year homeless housing plan for its jurisdictional area, which shall be not inconsistent with the department's statewide guidelines issued by December 1, 2018, and thereafter the department's five-year homeless housing strategic plan, and which shall be aimed at eliminating homelessness. The local government may amend the proposed local plan and shall adopt a plan by December 1, 2019. Performance in meeting the goals of this local plan shall be assessed annually in terms of the performance measures published by the department. Local plans may include specific local performance measures adopted by the local government legislative authority, and may include recommendations for any state legislation needed to meet the state or local plan goals.
@@ -198,16 +214,24 @@ The department shall, in consultation with the interagency council on homelessne
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1570-S2.SL.pdf?cite=2018%20c%2085%20§%205[2018 c 85 § 5]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2163-S2.SL.pdf?cite=2005%20c%20484%20§%208[2005 c 484 § 8]; ]
 
-== 43.185C.060 - Home security fund account—Expenditure review.
-. The home security fund account is created in the state treasury, subject to appropriation. The state's portion of the surcharge established in RCW 36.22.179 and 36.22.1791 must be deposited in the account. Expenditures from the account may be used only for homeless housing programs as described in this chapter.
+== 43.185C.060 - Home security fund account—Performance metrics—Expenditure review.
+. The home security fund account is created in the state treasury, subject to appropriation. The state's portion of the surcharge established in RCW 36.22.179 and 36.22.1791 and 36.22.176 must be deposited in the account. Expenditures from the account may be used only for homeless housing programs as described in this chapter, including the eviction prevention rental assistance program established in RCW 43.185C.185.
+
+. [Empty]
+.. By December 15, 2021, the department, in consultation with stakeholder groups specified in RCW 43.185C.185(2)(c), must create a set of performance metrics for each county receiving funding under RCW 36.22.176. The metrics must target actions within a county's control that will prevent and reduce homelessness, such as increasing the number of permanent supportive housing units and increasing or maintaining an adequate number of noncongregate shelter beds.
+
+.. [Empty]
+... Beginning July 1, 2023, and by July 1st every two years thereafter, the department must award funds for project-based vouchers for nonprofit housing providers and related services, rapid rehousing, and housing acquisition under RCW 36.22.176 to eligible grantees in a manner that 15 percent of funding is distributed as a performance-based allocation based on performance metrics created under (a) of this subsection, in addition to any base allocation of funding for the county.
+
+... Any county that demonstrates that it has met or exceeded the majority of the target actions to prevent and reduce homelessness over the previous two years must receive the remaining 15 percent performance-based allocation. Any county that fails to meet or exceed the majority of target actions to prevent and reduce homelessness must enter into a corrective action plan with the department. To receive its performance-based allocation, a county must agree to undertake the corrective actions outlined in the corrective action plan and any reporting and monitoring deemed necessary by the department. Any county that fails to meet or exceed the majority of targets for two consecutive years after entering into a corrective action plan may be subject to a reduction in the performance-based portion of the funds received in (b)(i) of this subsection, at the discretion of the department in consultation with stakeholder groups specified in RCW 43.185C.185(2)(c). Performance-based allocations unspent due to lack of compliance with a corrective action plan created under this subsection (2)(b) may be distributed to other counties that have met or exceeded their target actions.
 
 . The department must distinguish allotments from the account made to carry out the activities in RCW 43.330.167, 43.330.700 through 43.330.715, 43.330.911, 43.185C.010, 43.185C.250 through 43.185C.320, and 36.22.179(1)(b).
 
 . The office of financial management must secure an independent expenditure review of state funds received under RCW 36.22.179(1)(b) on a biennial basis. The purpose of the review is to assess the consistency in achieving policy priorities within the private market rental housing segment for housing persons experiencing homelessness. The independent reviewer must notify the department and the office of financial management of its findings. The first biennial expenditure review, for the 2017-2019 fiscal biennium, is due February 1, 2020. Independent reviews conducted thereafter are due February 1st of each even-numbered year.
 
-. During the 2019-2021 fiscal biennium, expenditures from the account may also be used for shelter capacity grants.
+. During the 2019-2021 and 2021-2023 fiscal biennia, expenditures from the account may also be used for shelter capacity grants.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6168-S.SL.pdf?cite=2020%20c%20357%20§%20915[2020 c 357 § 915]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1570-S2.SL.pdf?cite=2018%20c%2085%20§%206[2018 c 85 § 6]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5875-S.SL.pdf?cite=2014%20c%20200%20§%202[2014 c 200 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1359-S2.SL.pdf?cite=2007%20c%20427%20§%206[2007 c 427 § 6]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2163-S2.SL.pdf?cite=2005%20c%20484%20§%2010[2005 c 484 § 10]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5092-S.SL.pdf?cite=2021%20c%20334%20§%20980[2021 c 334 § 980]; http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1277-S2.SL.pdf?cite=2021%20c%20214%20§%204[2021 c 214 § 4]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/6168-S.SL.pdf?cite=2020%20c%20357%20§%20915[2020 c 357 § 915]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1570-S2.SL.pdf?cite=2018%20c%2085%20§%206[2018 c 85 § 6]; http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5875-S.SL.pdf?cite=2014%20c%20200%20§%202[2014 c 200 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1359-S2.SL.pdf?cite=2007%20c%20427%20§%206[2007 c 427 § 6]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2163-S2.SL.pdf?cite=2005%20c%20484%20§%2010[2005 c 484 § 10]; ]
 
 == 43.185C.061 - Home security fund account—Exemptions from set aside.
 Home security fund account funds appropriated to carry out the activities of RCW 43.330.700 through 43.330.715, 43.330.911, 43.185C.010, 43.185C.250 through 43.185C.320, and 43.330.167 are not subject to the set aside under RCW 36.22.179(1)(b).
@@ -390,10 +414,63 @@ Guidelines must include, when appropriate, standards for health and safety and n
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1630.SL.pdf?cite=2018%20c%2015%20§%201[2018 c 15 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1811-S.SL.pdf?cite=2011%20c%20239%20§%201[2011 c 239 § 1]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/House/2418-S2.SL.pdf?cite=2006%20c%20349%20§%208[2006 c 349 § 8]; http://lawfilesext.leg.wa.gov/biennium/1999-00/Pdf/Bills/Session%20Laws/House/1493-S2.SL.pdf?cite=1999%20c%20267%20§%204[1999 c 267 § 4]; ]
 
-== 43.185C.190 - Affordable housing for all account.
-The affordable housing for all account is created in the state treasury, subject to appropriation. The state's portion of the surcharges established in RCW 36.22.178 shall be deposited in the account. Expenditures from the account may only be used for affordable housing programs. During the 2011-2013 fiscal biennium, moneys in the account may be transferred to the home security fund.
+== 43.185C.185 - Eviction prevention rental assistance program.
+. The eviction prevention rental assistance program is created in the department to prevent evictions by providing resources to households most likely to become homeless or suffer severe health consequences, or both, after an eviction, while promoting equity by prioritizing households, including communities of color, disproportionately impacted by public health emergencies and by homelessness and housing instability. The department must provide grants to eligible organizations, as described in RCW 43.185.060, to provide assistance to program participants. The eligible organizations must use grant moneys for:
 
-[ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1087-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2050%20§%20955[2011 1st sp.s. c 50 § 955]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1359-S2.SL.pdf?cite=2007%20c%20427%20§%202[2007 c 427 § 2]; ]
+.. Rental assistance, including rental arrears and future rent if needed to stabilize the applicant's housing and prevent their eviction;
+
+.. Utility assistance for households if needed to prevent an eviction; and
+
+.. Administrative costs of the eligible organization, which must not exceed limits prescribed by the department.
+
+. Households eligible to receive assistance through the eviction prevention rental assistance program are those:
+
+.. With incomes at or below 80 percent of the county area median income;
+
+.. Who are families with children, living in doubled up situations, young adults, senior citizens, and others at risk of homelessness or significant physical or behavioral health complications from homelessness; and
+
+.. That meet any other eligibility requirements as established by the department after consultation with stakeholder groups, including persons at risk of homelessness due to unpaid rent, representatives of communities of color, homeless service providers, landlord representatives, local governments that administer homelessness assistance, a statewide association representing cities, a statewide association representing counties, a representative of homeless youth and young adults, and affordable housing advocates.
+
+. A landlord may assist an eligible household in applying for assistance through the eviction prevention rental assistance program or may apply for assistance on an eligible household's behalf.
+
+. [Empty]
+.. Eligible grantees must actively work with organizations rooted in communities of color to assist and serve marginalized populations within their communities.
+
+.. At least 10 percent of the grant total must be subgranted to organizations that serve and are substantially governed by marginalized populations to pay the costs associated with program outreach, assistance completing applications for assistance, rent assistance payments, activities that directly support the goal of improving access to rent assistance for people of color, and related costs. Upon request by an eligible grantee or the county or city in which it exists, the department must provide a list of organizations that serve and are substantially governed by marginalized populations, if known.
+
+.. An eligible grantee may request an exemption from the department from the requirements under (b) of this subsection. The department must consult with the stakeholder group established under subsection (2)(c) of this section before granting an exemption. An eligible grantee may request an exemption only if the eligible grantee:
+
+... Is unable to subgrant with an organization that serves and is substantially governed by marginalized populations; or
+
+... Provides the department with a plan to spend 10 percent of the grant total in a manner that the department determines will improve racial equity for historically underserved communities more effectively than a subgrant.
+
+. The department must ensure equity by developing performance measures and benchmarks that promote both equitable program access and equitable program outcomes. Performance measures and benchmarks must be developed by the department in consultation with stakeholder groups, including persons at risk of homelessness due to unpaid rent, representatives of communities of color, homeless service providers, landlord representatives, local governments that administer homelessness assistance, a statewide association representing cities, a statewide association representing counties, a representative of homeless youth and young adults, and affordable housing advocates. Performance measures and benchmarks must also ensure that the race and ethnicity of households served under the program are proportional to the numbers of people at risk of homelessness in each county for each of the following groups:
+
+.. Black or African American;
+
+.. American Indian and Alaska Native;
+
+.. Native Hawaiian or other Pacific Islander;
+
+.. Hispanic or Latinx;
+
+.. Asian;
+
+.. Other multiracial.
+
+. The department may develop additional rules, requirements, procedures, and guidelines as necessary to implement and operate the eviction prevention rental assistance program.
+
+. [Empty]
+.. The department must award funds under this section to eligible grantees in a manner that is proportional to the amount of revenue collected under RCW 36.22.176 from the county being served by the grantee.
+
+.. The department must provide counties with the right of first refusal to receive grant funds distributed under this subsection. If a county refuses the funds or does not respond within a time frame established by the department, the department must identify an alternative grantee. The alternative grantee must distribute the funds in a manner that is in compliance with this chapter.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1277-S2.SL.pdf?cite=2021%20c%20214%20§%202[2021 c 214 § 2]; ]
+
+== 43.185C.190 - Affordable housing for all account.
+The affordable housing for all account is created in the state treasury, subject to appropriation. The state's portion of the surcharges established in RCW 36.22.178 and 36.22.176 shall be deposited in the account. Expenditures from the account may only be used for affordable housing programs, including operations, maintenance, and services as described in RCW 36.22.176(1)(a). During the 2021-2023 fiscal biennium, expenditures from the account may be used for operations, maintenance, and services for permanent supportive housing as defined in RCW 36.70A.030. It is the intent of the legislature to continue this policy in future biennia.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5092-S.SL.pdf?cite=2021%20c%20334%20§%20981[2021 c 334 § 981]; http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1277-S2.SL.pdf?cite=2021%20c%20214%20§%205[2021 c 214 § 5]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1087-S.SL.pdf?cite=2011%201st%20sp.s.%20c%2050%20§%20955[2011 1st sp.s. c 50 § 955]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1359-S2.SL.pdf?cite=2007%20c%20427%20§%202[2007 c 427 § 2]; ]
 
 == 43.185C.200 - Transitional housing assistance to offenders—Pilot program.
 . *The department of community, trade, and economic development shall establish a pilot program to provide grants to eligible organizations, as described in RCW 43.185.060, to provide transitional housing assistance to offenders who are reentering the community and are in need of housing.
@@ -624,7 +701,7 @@ The department, in collaboration with the department of social and health servic
 
 (A) A HOPE Center as defined under RCW 43.185C.010;
 
-(B) A foster-family home as defined under RCW 74.15.020;
+(B) A foster family home as defined under RCW 74.15.020;
 
 (C) A crisis residential center as defined under RCW 43.185C.010; or
 

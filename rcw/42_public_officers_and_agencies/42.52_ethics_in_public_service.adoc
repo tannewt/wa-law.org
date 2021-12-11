@@ -344,7 +344,7 @@ No person shall give, pay, loan, transfer, or deliver, directly or indirectly, t
 
 .. A statement by an elected official in support of or in opposition to any ballot proposition at an open press conference or in response to a specific inquiry. For the purposes of this subsection, it is not a violation of this section for an elected official to respond to an inquiry regarding a ballot proposition, to make incidental remarks concerning a ballot proposition in an official communication, or otherwise comment on a ballot proposition without an actual, measurable expenditure of public funds. The ethics boards shall adopt by rule a definition of measurable expenditure;
 
-.. The maintenance of official legislative web sites throughout the year, regardless of pending elections. The web sites may contain any discretionary material which was also specifically prepared for the legislator in the course of his or her duties as a legislator, including newsletters and press releases. The official legislative web sites of legislators seeking reelection or election to any office shall not be altered, other than during a special legislative session, beginning on the first day of the declaration of candidacy filing period specified in RCW 29A.24.050 through the date of certification of the general election of the election year. The web site shall not be used for campaign purposes;
+.. The maintenance of official legislative websites throughout the year, regardless of pending elections. The websites may contain any discretionary material which was also specifically prepared for the legislator in the course of his or her duties as a legislator, including newsletters and press releases. The official legislative websites of legislators seeking reelection or election to any office shall not be altered, other than during a special legislative session, beginning on the first day of the declaration of candidacy filing period specified in RCW 29A.24.050 through the date of certification of the general election of the election year. The website shall not be used for campaign purposes;
 
 .. Activities that are part of the normal and regular conduct of the office or agency; and
 
@@ -792,6 +792,11 @@ This chapter does not prohibit state employees from attending informational or e
 This chapter does not prohibit the secretary of the senate, the chief clerk of the house of representatives, or their designee from soliciting and accepting contributions to the Gina Grant Bull memorial legislative page scholarship account created in RCW 44.04.380. Furthermore, this chapter does not prohibit any legislative member or legislative employee from soliciting gifts for the Gina Grant Bull memorial legislative page scholarship account.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5346-S.SL.pdf?cite=2017%20c%20322%20§%204[2017 c 322 § 4]; ]
+
+== 42.52.8024 - Exemption—Rosa Franklin legislative internship program scholarship.
+This chapter does not prohibit the secretary of the senate, the chief clerk of the house of representatives, or their designee from soliciting and accepting contributions to the Rosa Franklin legislative internship program scholarship account created in RCW 44.04.410. Furthermore, this chapter does not prohibit any legislative member or legislative employee from soliciting gifts for the Rosa Franklin legislative internship program scholarship account.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5431.SL.pdf?cite=2021%20c%20108%20§%204[2021 c 108 § 4]; ]
 
 == 42.52.803 - Exemption—Solicitation for legislative oral history account.
 This chapter does not prohibit the secretary of the senate, the chief clerk of the house of representatives, or their designee from soliciting and accepting contributions to the legislative oral history account created in RCW 44.04.345.

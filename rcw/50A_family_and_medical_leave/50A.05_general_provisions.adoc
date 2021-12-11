@@ -107,9 +107,9 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 .. To bond with the employee's child during the first twelve months after the child's birth, or the first twelve months after the placement of a child under the age of eighteen with the employee; or
 
-.. Because of any qualifying exigency as permitted under the federal family and medical leave act, 29 U.S.C. Sec. 2612(a)(1)(E) and 29 C.F.R. Sec. 825.126(b)(1) through (9), as they existed on October 19, 2017, for family members as defined in subsection (10) [(11)] of this section.
+.. Because of any qualifying exigency as permitted under the federal family and medical leave act, 29 U.S.C. Sec. 2612(a)(1)(E) and 29 C.F.R. Sec. 825.126(b)(1) through (9), as they existed on October 19, 2017, for family members as defined in subsection (11) of this section.
 
-. "Family member" means a child, grandchild, grandparent, parent, sibling, or spouse of an employee.
+. "Family member" means a child, grandchild, grandparent, parent, sibling, or spouse of an employee, and also includes any individual who regularly resides in the employee's home or where the relationship creates an expectation that the employee care for the person, and that individual depends on the employee for care. "Family member" includes any individual who regularly resides in the employee's home, except that it does not include an individual who simply resides in the same home with no expectation that the employee care for the individual.
 
 . "Grandchild" means a child of the employee's child.
 
@@ -210,7 +210,7 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 .. For the purpose of a self-employed person electing coverage under RCW 50A.10.010, the meaning is defined by rule.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2614-S.SL.pdf?cite=2020%20c%20125%20§%201[2020 c 125 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1399-S.SL.pdf?cite=2019%20c%2013%20§%201[2019 c 13 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2702.SL.pdf?cite=2018%20c%20141%20§%201[2018 c 141 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5975-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%205%20§%202[2017 3rd sp.s. c 5 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5097-S.SL.pdf?cite=2021%20c%20232%20§%202[2021 c 232 § 2]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2614-S.SL.pdf?cite=2020%20c%20125%20§%201[2020 c 125 § 1]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1399-S.SL.pdf?cite=2019%20c%2013%20§%201[2019 c 13 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/2702.SL.pdf?cite=2018%20c%20141%20§%201[2018 c 141 § 1]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5975-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%205%20§%202[2017 3rd sp.s. c 5 § 2]; ]
 
 == 50A.05.020 - Program administration—Information disclosure—Outreach.
 . The department shall establish and administer the family and medical leave program and pay family and medical leave benefits as specified in this title. The department shall adopt government efficiencies to improve administration and reduce costs. These efficiencies shall include, to the extent feasible, combined reporting and payment, with a single return, of premiums under this title and contributions under chapter 50.24 RCW.
@@ -346,4 +346,11 @@ This title does not create a continuing entitlement or contractual right. The le
 If any part of this title is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state or the eligibility of employers in this state for federal unemployment tax credits, the conflicting part of this title is inoperative solely to the extent of the conflict, and the finding or determination does not affect the operation of the remainder of this title. Rules adopted under this title must meet federal requirements that are a necessary condition to the receipt of federal funds by the state or the granting of federal unemployment tax credits to employers in this state.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1399-S.SL.pdf?cite=2019%20c%2013%20§%2064[2019 c 13 § 64]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5975-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%205%20§%20101[2017 3rd sp.s. c 5 § 101]; ]
+
+== 50A.05.125 - Continuity with prior law.
+. The provisions of chapter 49.78 RCW as they existed prior to January 1, 2020, apply to employee and employer conduct, acts, or omissions occurring on or before December 31, 2019, including but not limited to the enforcement provisions set forth in RCW 49.78.330 as they existed prior to January 1, 2020. Accordingly, a cause of action for conduct, acts, or omissions occurring on or before December 31, 2019, under chapter 49.78 RCW remains available within its applicable statute of limitations. As an exercise of the state's police powers and for remedial purposes, this subsection applies retroactively to claims based on conduct, acts, or omissions that occurred on or before December 31, 2019.
+
+. The provisions of this title apply to employee and employer conduct, acts, or omissions occurring on or after January 1, 2020, including but not limited to the enforcement provisions set forth in RCW 50A.40.040.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1087.SL.pdf?cite=2021%20c%2059%20§%202[2021 c 59 § 2]; ]
 

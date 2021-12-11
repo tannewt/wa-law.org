@@ -461,14 +461,14 @@ In the case of suspension for failure to comply with a support order under chapt
 
 [ http://lawfilesext.leg.wa.gov/biennium/1997-98/Pdf/Bills/Session%20Laws/House/3901.SL.pdf?cite=1997%20c%2058%20§%20820[1997 c 58 § 820]; ]
 
-== 18.39.525 - Certificates of removal registration. (Effective until January 1, 2021.)
-. The director shall issue a certificate of removal registration to a funeral establishment licensed in another state contiguous to Washington, with laws substantially similar to the provisions of this section, for the limited purpose of removing human remains from Washington prior to submitting a certificate of death. Licensed funeral establishments wishing to participate must: Apply to the department of licensing for a certificate of removal registration, on a form provided by the department, and pay the required application fee, as set by the director.
+== 18.39.525 - Certificates of removal registration.
+. The director shall issue a certificate of removal registration to a funeral establishment licensed in another state contiguous to Washington, with laws substantially similar to the provisions of this section, for the limited purpose of removing human remains from Washington prior to submitting a report of death. Licensed funeral establishments wishing to participate must: Apply to the department of licensing for a certificate of removal registration, on a form provided by the department, and pay the required application fee, as set by the director.
 
 . For purposes of this section, each branch of a registrant's funeral establishment is a separate establishment and must be registered as a fixed place of business.
 
-. Certificates of death are governed by RCW 70.58.160.
+. Certificates of death are governed by RCW 70.58A.200.
 
-. Notices of removal and disposition permits are governed by RCW 70.58.230.
+. Notices of removal and disposition permits are governed by RCW 70.58A.210.
 
 . The conduct of funeral directors, embalmers, or any other person employed by or acting on behalf of a removal registrant is the direct responsibility of the holder of the certificate of removal registration.
 
@@ -476,7 +476,7 @@ In the case of suspension for failure to comply with a support order under chapt
 
 . Certificates of removal registration expire January 31st, or as otherwise determined by the director.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5752-S.SL.pdf?cite=2005%20c%20365%20§%2026[2005 c 365 § 26]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/Senate/5332-S.SL.pdf?cite=2019%20c%20148%20§%2029[2019 c 148 § 29]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5752-S.SL.pdf?cite=2005%20c%20365%20§%2026[2005 c 365 § 26]; ]
 
 == 18.39.530 - Practice without license—Penalties.
 Unlicensed practice of a profession or operation of a business for which a license, registration, endorsement, or permit is required under this chapter, unless otherwise exempted by law, is a gross misdemeanor. Fees, fines, forfeitures, and penalties collected or assessed by a court because of a violation of this section must be remitted to the board.

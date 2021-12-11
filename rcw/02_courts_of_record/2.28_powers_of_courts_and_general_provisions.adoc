@@ -142,7 +142,7 @@ Whenever a judge serves as a judge pro tempore the payments for subsistence, lod
 
 [ http://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/Senate/5484.SL.pdf?cite=2013%20c%20256%20§%203[2013 c 256 § 3]; ]
 
-== 2.28.210 - Court consultation of judicial information system—Disclosure to parties.
+== 2.28.210 - Court consultation of judicial information system—Disclosure to parties. (Effective until July 1, 2022.)
 . Before granting an order under any of the following titles of the laws of the state of Washington, the court may consult the judicial information system or any related databases, if available, to determine criminal history or the pendency of other proceedings involving the parties:
 
 .. Granting any temporary or final order establishing a parenting plan or residential schedule or directing residential placement of a child or restraining or limiting a party's contact with a child under Title 26 RCW;

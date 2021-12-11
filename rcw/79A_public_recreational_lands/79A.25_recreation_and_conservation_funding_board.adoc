@@ -174,9 +174,9 @@ Entities receiving grants must make the facilities for which grant funding is re
 
 Government units or school districts applying for grants must open their range facility on a regular basis for hunter safety education classes and firearm safety classes.
 
-The board shall adopt rules to implement chapter 195, Laws of 1990, pursuant to chapter 34.05 RCW. During the 2017-2019 and 2019-2021 fiscal biennia, expenditures from the firearms range account may be used to implement chapter 74, Laws of 2017 (SHB 1100) (concealed pistol licenses) and chapter 282, Laws of 2017 (SB 5268) (concealed pistol license notices).
+The board shall adopt rules to implement chapter 195, Laws of 1990, pursuant to chapter 34.05 RCW. During the 2017-2019 and 2019-2021 fiscal biennia, expenditures from the firearms range account may be used to implement chapter 74, Laws of 2017 (SHB 1100) (concealed pistol licenses) and chapter 282, Laws of 2017 (SB 5268) (concealed pistol license notices). During the 2021-2023 fiscal biennium, expenditures from the firearms range account may be used to implement chapter 74, Laws of 2017 (SHB 1100) (concealed pistol licenses).
 
-[ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1109-S.SL.pdf?cite=2019%20c%20415%20§%20987[2019 c 415 § 987]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5883-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%201%20§%20997[2017 3rd sp.s. c 1 § 997]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1813.SL.pdf?cite=2007%20c%20241%20§%2054[2007 c 241 § 54]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6089.SL.pdf?cite=1996%20c%2096%20§%201[1996 c 96 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2319-S2.SL.pdf?cite=1994%20sp.s.%20c%207%20§%20443[1994 sp.s. c 7 § 443]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c195.pdf?cite=1990%20c%20195%20§%202[1990 c 195 § 2]; ]
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5092-S.SL.pdf?cite=2021%20c%20334%20§%20997[2021 c 334 § 997]; http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/1109-S.SL.pdf?cite=2019%20c%20415%20§%20987[2019 c 415 § 987]; http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/Senate/5883-S.SL.pdf?cite=2017%203rd%20sp.s.%20c%201%20§%20997[2017 3rd sp.s. c 1 § 997]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1813.SL.pdf?cite=2007%20c%20241%20§%2054[2007 c 241 § 54]; http://lawfilesext.leg.wa.gov/biennium/1995-96/Pdf/Bills/Session%20Laws/Senate/6089.SL.pdf?cite=1996%20c%2096%20§%201[1996 c 96 § 1]; http://lawfilesext.leg.wa.gov/biennium/1993-94/Pdf/Bills/Session%20Laws/House/2319-S2.SL.pdf?cite=1994%20sp.s.%20c%207%20§%20443[1994 sp.s. c 7 § 443]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1990c195.pdf?cite=1990%20c%20195%20§%202[1990 c 195 § 2]; ]
 
 == 79A.25.230 - Firearms range account—Gifts and grants.
 The board or director may accept gifts and grants upon such terms as the board shall deem proper. All monetary gifts and grants shall be deposited in the firearms range account of the general fund.
@@ -204,7 +204,7 @@ Recognizing the fact that the demand for park services is greatest in our urban 
 
 .. Produce an interagency, statewide biennial forecast of habitat and recreation land acquisition and disposal plans;
 
-.. Establish procedures for publishing the biennial forecast of acquisition and disposal plans on web sites or other centralized, easily accessible formats;
+.. Establish procedures for publishing the biennial forecast of acquisition and disposal plans on websites or other centralized, easily accessible formats;
 
 .. Develop and convene an annual forum for agencies to coordinate their near-term acquisition and disposal plans;
 
@@ -243,8 +243,8 @@ The legislature finds that:
 
 [ http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5385-S.SL.pdf?cite=2006%20c%20152%20§%201[2006 c 152 § 1]; ]
 
-== 79A.25.310 - Washington invasive species council—Created.
-. There is created the Washington invasive species council to exist until June 30, 2022. Staff support to the council shall be provided by the recreation and conservation office and from the agencies represented on the council. For administrative purposes, the council shall be located within the office.
+== 79A.25.310 - Washington invasive species council—Created. (Expires June 30, 2032.)
+. There is created the Washington invasive species council to exist until June 30, 2032. Staff support to the council shall be provided by the recreation and conservation office and from the agencies represented on the council. For administrative purposes, the council shall be located within the office.
 
 . The purpose of the council is to provide policy level direction, planning, and coordination for combating harmful invasive species throughout the state and preventing the introduction of others that may be potentially harmful.
 
@@ -252,7 +252,9 @@ The legislature finds that:
 
 . For the purposes of this chapter, "invasive species" include nonnative organisms that cause economic or environmental harm and are capable of spreading to new areas of the state. "Invasive species" does not include domestic livestock, intentionally planted agronomic crops, or nonharmful exotic organisms.
 
-[ http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6162.SL.pdf?cite=2016%20sp.s.%20c%207%20§%201[2016 sp.s. c 7 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1413.SL.pdf?cite=2011%20c%20154%20§%202[2011 c 154 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1813.SL.pdf?cite=2007%20c%20241%20§%2061[2007 c 241 § 61]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5385-S.SL.pdf?cite=2006%20c%20152%20§%202[2006 c 152 § 2]; ]
+. This section expires June 30, 2032.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5063.SL.pdf?cite=2021%20c%20177%20§%201[2021 c 177 § 1]; http://lawfilesext.leg.wa.gov/biennium/2015-16/Pdf/Bills/Session%20Laws/Senate/6162.SL.pdf?cite=2016%20sp.s.%20c%207%20§%201[2016 sp.s. c 7 § 1]; http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/House/1413.SL.pdf?cite=2011%20c%20154%20§%202[2011 c 154 § 2]; http://lawfilesext.leg.wa.gov/biennium/2007-08/Pdf/Bills/Session%20Laws/House/1813.SL.pdf?cite=2007%20c%20241%20§%2061[2007 c 241 § 61]; http://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5385-S.SL.pdf?cite=2006%20c%20152%20§%202[2006 c 152 § 2]; ]
 
 == 79A.25.320 - Washington invasive species council—Membership.
 . Membership in the council includes a representative from the following entities:

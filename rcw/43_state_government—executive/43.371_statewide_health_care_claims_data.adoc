@@ -229,7 +229,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 . The authority and the lead organization may use claims data to identify and make available information on payers, providers, and facilities, but may not use claims data to recommend or incentivize direct contracting between providers and employers.
 
-. The lead organization shall make information about claims data related to the provision of air ambulance service available on a web site that is accessible to the public in a searchable format by geographic region, provider, and other relevant information.
+. The lead organization shall make information about claims data related to the provision of air ambulance service available on a website that is accessible to the public in a searchable format by geographic region, provider, and other relevant information.
 
 . [Empty]
 .. The lead organization shall distinguish in advance to the authority when it is operating in its capacity as the lead organization and when it is operating in its capacity as a private entity. Where the lead organization acts in its capacity as a private entity, it may only access data pursuant to RCW 43.371.050(4) (b), (c), or (d).

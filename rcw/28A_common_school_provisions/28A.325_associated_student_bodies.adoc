@@ -30,8 +30,8 @@ Any compliance reporting requirements as a result of laws in this chapter that a
 
 [ http://lawfilesext.leg.wa.gov/biennium/2011-12/Pdf/Bills/Session%20Laws/Senate/5184-S.SL.pdf?cite=2011%20c%2045%20§%2025[2011 c 45 § 25]; ]
 
-== 28A.325.050 - Associated student body program fund—Publication of information on school district web site.
-. Each school district that has an associated student body program fund must publish the following information about the fund on its web site:
+== 28A.325.050 - Associated student body program fund—Publication of information on school district website.
+. Each school district that has an associated student body program fund must publish the following information about the fund on its website:
 
 .. The fund balance at the beginning of the school year;
 
@@ -39,7 +39,7 @@ Any compliance reporting requirements as a result of laws in this chapter that a
 
 .. The fund balance at the end of the school year.
 
-. Beginning in the 2020-21 school year, each school district that has an associated student body must publish the following information on its web site:
+. Beginning in the 2020-21 school year, each school district that has an associated student body must publish the following information on its website:
 
 .. Data related to high school student possession of an associated student body card and high school student participation in school-based extracurricular activities collected under RCW 28A.320.540;
 
@@ -49,9 +49,9 @@ Any compliance reporting requirements as a result of laws in this chapter that a
 
 . The information under this section must be published for each associated student body of the district and each account within the associated student body program fund.
 
-. If the school district web site contains separate web sites for schools in the district, the information under this section must be published on the web site of the applicable school of the associated student body.
+. If the school district website contains separate websites for schools in the district, the information under this section must be published on the website of the applicable school of the associated student body.
 
-. School districts must add updated annual information to their web sites by each August 31st, except that school districts are only required to maintain the information on the web site from the previous five years.
+. School districts must add updated annual information to their websites by each August 31st, except that school districts are only required to maintain the information on the website from the previous five years.
 
 . For purposes of this section, the definitions in RCW 28A.320.530 apply.
 

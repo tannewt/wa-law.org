@@ -153,11 +153,11 @@ The director in carrying out his or her powers and duties under this chapter sha
 
 [ http://lawfilesext.leg.wa.gov/biennium/2009-10/Pdf/Bills/Session%20Laws/Senate/5038.SL.pdf?cite=2009%20c%20549%20§%205085[2009 c 549 § 5085]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1979c141.pdf?cite=1979%20c%20141%20§%2067[1979 c 141 § 67]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1970ex1c62.pdf?cite=1970%20ex.s.%20c%2062%20§%2014[1970 ex.s. c 62 § 14]; ]
 
-== 43.21A.150 - Director to consult with other states, federal government, and Canadian provinces—Authority to receive and disburse grants, funds, and gifts—Department's web site list of interagency agreements.
+== 43.21A.150 - Director to consult with other states, federal government, and Canadian provinces—Authority to receive and disburse grants, funds, and gifts—Department's website list of interagency agreements.
 . The director, whenever it is lawful and feasible to do so, shall consult and cooperate with the federal government, as well as with other states and Canadian provinces, in the study and control of environmental problems. On behalf of the department, the director is authorized to accept, receive, disburse, and administer grants or other funds or gifts from any source, including private individuals or agencies, the federal government, and other public agencies, for the purpose of carrying out the provisions of this chapter.
 
 . [Empty]
-.. Beginning December 31, 2017, the director must list on the department's web site information regarding the current interagency agreements to which the department is a party or in which the department is a participant.
+.. Beginning December 31, 2017, the director must list on the department's website information regarding the current interagency agreements to which the department is a party or in which the department is a participant.
 
 .. The list must identify each agreement, the type of agreement, parties to the agreement, the effective date of the agreement, and a brief description of the agreement. The list must include all interagency agreements involving the department and other state agencies, local governments, special purpose districts, the federal government and federal government agencies, and the agencies of other states.
 
@@ -167,11 +167,11 @@ The director in carrying out his or her powers and duties under this chapter sha
 
 ... By December 31, 2018, all agreements pertaining to funds receivable for work performed by the department, leases, and nonfinancial interagency agreements.
 
-.. Beginning December 1, 2018, the department must annually update the web site to include new interagency agreements that the department has entered into and must identify the agreements that have been updated within the past year.
+.. Beginning December 1, 2018, the department must annually update the website to include new interagency agreements that the department has entered into and must identify the agreements that have been updated within the past year.
 
 .. For the purposes of this section, the term "interagency agreement" includes but is not limited to memoranda of understanding, grant contracts, and advisory or nonbinding agreements.
 
-.. For purposes of this section, the information posted on the department's web site is considered to function as a report to the legislature because the report acts as a mechanism of keeping the legislature apprised of the department's interagency agreements.
+.. For purposes of this section, the information posted on the department's website is considered to function as a report to the legislature because the report acts as a mechanism of keeping the legislature apprised of the department's interagency agreements.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Session%20Laws/House/1010-S.SL.pdf?cite=2017%20c%2047%20§%202[2017 c 47 § 2]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1970ex1c62.pdf?cite=1970%20ex.s.%20c%2062%20§%2015[1970 ex.s. c 62 § 15]; ]
 
@@ -749,6 +749,20 @@ The Chehalis basin taxable account is created in the state treasury. All receipt
 By July 1, 2024, the department must, in consultation with the liquor and cannabis board, adopt rules to implement section 2, chapter 277, Laws of 2019.
 
 [ http://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Bills/Session%20Laws/House/2052.SL.pdf?cite=2019%20c%20277%20§%205[2019 c 277 § 5]; ]
+
+== 43.21A.738 - Improvements to permitting processes for industrial projects and facilities—Recommendations—Greenhouse gas emissions limits. (Expires June 30, 2023.)
+. The department, in coordination with the department of commerce and other agencies as appropriate, must develop recommendations for potential improvements to the permitting processes for industrial projects and facilities in Washington that would contribute to achieving greenhouse gas emissions limits established under RCW 70A.45.020 while maintaining standards for the protection of the environment and the preservation of tribal consultation and treaty rights. The department must provide increased clarity on areas in the state that may be suitable for siting projects that have a lower potential for negative environmental impacts, especially to highly impacted communities as defined in RCW 19.405.020 and identify strategies for minimizing and mitigating negative environmental impacts where possible. The department must provide clear guidance and direction intended to improve project proposals, recommend policy and administrative improvements necessary to improve the permitting process, and recommend any additional studies needed. The department shall convene businesses, local governments, community organizations, and environmental and labor stakeholders, and consult with tribes.
+
+. The department and the department of commerce shall produce and submit to the governor and the legislature an interim progress report with initial policy proposal recommendations for the 2022 legislative session by December 1, 2021, and a final report including findings, recommendations, and further policy proposals by December 1, 2022.
+
+. This section expires June 30, 2023.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1091-S3.SL.pdf?cite=2021%20c%20317%20§%2028[2021 c 317 § 28]; ]
+
+== 43.21A.740 - Environmental justice obligations of the department of ecology.
+The department must apply and comply with the substantive and procedural requirements of chapter 70A.02 RCW.
+
+[ http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5141-S2.SL.pdf?cite=2021%20c%20314%20§%205[2021 c 314 § 5]; ]
 
 == 43.21A.900 - Chapter to be liberally construed.
 The rule of strict construction shall have no application to this chapter and it shall be liberally construed in order to carry out the broad purposes set forth in RCW 43.21A.020.
