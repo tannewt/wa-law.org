@@ -1,8 +1,0 @@
-= 36.50 - Farm and home extension work.
-:toc:
-
-== 36.50.010 - Cooperative extension work in agriculture and home economics authorized.
-The board of county commissioners of any county and the governing body of any municipality are authorized to establish and conduct extension work in agriculture and home economics in cooperation with Washington State University, upon such terms and conditions as may be agreed upon by any such board or governing body and the director of the extension service of Washington State University; and may employ such means and appropriate and expend such sums of money as may be necessary to effectively establish and carry on such work in agriculture and home economics in their respective counties and municipalities.
-
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1963c4.pdf?cite=1963%20c%204%20§%2036.50.010[1963 c 4 § 36.50.010]; http://leg.wa.gov/CodeReviser/documents/sessionlaw/1949c181.pdf?cite=1949%20c%20181%20§%201[1949 c 181 § 1]; Rem. Supp. 1949 § 4589-1; ]
-

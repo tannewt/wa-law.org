@@ -1,8 +1,0 @@
-= 18.36 - Drugless healing.
-:toc:
-
-== 18.36.035 - License required.
-No person may practice or represent himself or herself as a drugless therapist without first having a valid license to do so.
-
-[ http://leg.wa.gov/CodeReviser/documents/sessionlaw/1987c150.pdf?cite=1987%20c%20150%20§%2028[1987 c 150 § 28]; ]
-

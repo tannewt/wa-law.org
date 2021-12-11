@@ -5,6 +5,7 @@ import re
 import sqlite3
 import sys
 from bs4 import BeautifulSoup
+from mdit_py_plugins.anchors.index import slugify
 
 rcw_root_url = "https://apps.leg.wa.gov/rcw/"
 
@@ -121,19 +122,19 @@ def filename_friendly(n):
     return n.lower().replace(" ", "_").replace(".", "").replace(",", "").replace("/", "_").replace("'", "")
 
 root = pathlib.Path(sys.argv[1])
-top_readme = root / "README.adoc"
+top_readme = root / "README.md"
 with top_readme.open("w") as rm:
     rm.write("# Revised Code of Washington\n")
-    rm.write("Welcome to the git version of the Revised Code of Washington (RCW). It is an *unofficial* copy derived from http://apps.leg.wa.gov/rcw/[the official website]. This root commit will stay the same but all others may change if/when we import historical changes. Tags will be redone as things change so they should be stable.\n\n")
+    rm.write("Welcome to the Markdown version of the Revised Code of Washington (RCW). It is an *unofficial* copy derived from http://apps.leg.wa.gov/rcw/[the official website].\n\n")
     for title in titles:
         info = titles[title]
         title_folder_name = pad_number(title, 2) + "_" + filename_friendly(info["title"])
         title_folder = root / title_folder_name
         title_folder.mkdir(exist_ok=True)
-        title_readme = title_folder / "README.adoc"
-        rm.write("* link:" + str(title_folder_name) + "[" + title + " - " + info["title"] + "]\n")
+        title_readme = title_folder / "README.md"
+        rm.write("* [" + title + " - " + info["title"] + "](" + str(title_folder_name) + "/)\n")
         with title_readme.open("w") as tf:
-            tf.write("= ")
+            tf.write("# ")
             tf.write(title + " " + info["title"])
             tf.write("\n\n")
 
@@ -142,17 +143,22 @@ with top_readme.open("w") as rm:
                 max_len = max(max_len, len(chapter.rsplit(".", maxsplit=1)[-1].strip(string.ascii_uppercase)))
             for chapter in info["chapters"]:
                 chapter_info = info["chapters"][chapter]
-                chapter_name = pad_number(chapter, max_len) + "_" + filename_friendly(chapter_info["title"]) + ".adoc"
+                chapter_name = pad_number(chapter, max_len) + "_" + filename_friendly(chapter_info["title"]) + ".md"
                 chapter_path = title_folder / chapter_name
                 link_path = str(chapter_name)
-                tf.write("* link:" + link_path + "[" + chapter + " - " + chapter_info["title"] + "]\n")
+                tf.write("* [" + chapter + " - " + chapter_info["title"] + "](" + link_path + ")\n")
                 with chapter_path.open("w") as f:
-                    f.write("= " + chapter + " - " + chapter_info["title"] + "\n")
-                    f.write(":toc:\n\n")
+                    f.write("# " + chapter + " - " + chapter_info["title"] + "\n")
 
                     for section in chapter_info["sections"]:
                         section_info = chapter_info["sections"][section]
-                        f.write("== ")
+                        full_title = section + " - " + section_info["title"]
+                        escaped_title = slugify(full_title)
+                        f.write(f"* [{full_title}](#{escaped_title})\n")
+
+                    for section in chapter_info["sections"]:
+                        section_info = chapter_info["sections"][section]
+                        f.write("## ")
                         f.write(section)
                         f.write(" - ")
                         f.write(section_info["title"])
@@ -168,21 +174,21 @@ with top_readme.open("w") as rm:
                                 last_end = result.end()
                                 group = result.group(1)
                                 if group.isnumeric():
-                                    f.write(".")
+                                    f.write(group + ".")
                                 elif group[0] == "i" and last_group != "h":
-                                    f.write("...")
+                                    f.write("    " * 2 + group + ".")
                                 else:
-                                    f.write("..")
+                                    f.write("    " * 1 + group + ".")
                                 last_group = group
                             f.write(paragraph[last_end:])
                             f.write("\n\n")
-                        f.write("[ ")
+                        f.write("\\[ ")
                         for citation in section_info["citations"]:
                             if citation[1]:
                                 escaped_link = citation[1].replace(" ", "%20")
-                                f.write(f"{escaped_link}[{citation[0]}]; ")
+                                f.write(f"[{citation[0]}]({escaped_link}); ")
                             else:
                                 f.write(f"{citation[0]}; ")
 
-                        f.write("]\n\n")
+                        f.write("\\]\n\n")
 

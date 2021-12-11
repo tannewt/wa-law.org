@@ -1,5 +1,0 @@
-= 34 ADMINISTRATIVE LAW
-
-* link:34.05_administrative_procedure_act.adoc[34.05 - Administrative Procedure Act.]
-* link:34.08_washington_state_register_act_of_1977.adoc[34.08 - Washington State Register Act of 1977.]
-* link:34.12_office_of_administrative_hearings.adoc[34.12 - Office of administrative hearings.]

@@ -1,8 +1,0 @@
-= 14 AERONAUTICS
-
-* link:14.07_municipal_airports—1941_act.adoc[14.07 - Municipal airports—1941 act.]
-* link:14.08_municipal_airports—1945_act.adoc[14.08 - Municipal airports—1945 act.]
-* link:14.12_airport_zoning.adoc[14.12 - Airport zoning.]
-* link:14.16_aircraft_and_airman_regulations.adoc[14.16 - Aircraft and airman regulations.]
-* link:14.20_aircraft_dealers.adoc[14.20 - Aircraft dealers.]
-* link:14.30_western_regional_short-haul_air_transportation_compact.adoc[14.30 - Western regional short-haul air transportation compact.]

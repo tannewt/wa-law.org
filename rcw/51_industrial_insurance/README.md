@@ -1,0 +1,16 @@
+# 51 INDUSTRIAL INSURANCE
+
+* [51.04 - General provisions.](51.04_general_provisions.md)
+* [51.08 - Definitions.](51.08_definitions.md)
+* [51.12 - Employments and occupations covered.](51.12_employments_and_occupations_covered.md)
+* [51.14 - Self-insurers.](51.14_self-insurers.md)
+* [51.16 - Assessment and collection of premiums—Payrolls and records.](51.16_assessment_and_collection_of_premiums—payrolls_and_records.md)
+* [51.18 - Retrospective rating plan.](51.18_retrospective_rating_plan.md)
+* [51.24 - Actions at law for injury or death.](51.24_actions_at_law_for_injury_or_death.md)
+* [51.28 - Notice and report of accident—Application for compensation.](51.28_notice_and_report_of_accident—application_for_compensation.md)
+* [51.32 - Compensation—Right to and amount.](51.32_compensation—right_to_and_amount.md)
+* [51.36 - Medical aid.](51.36_medical_aid.md)
+* [51.44 - Funds.](51.44_funds.md)
+* [51.48 - Penalties.](51.48_penalties.md)
+* [51.52 - Appeals.](51.52_appeals.md)
+* [51.98 - Construction.](51.98_construction.md)

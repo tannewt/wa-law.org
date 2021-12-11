@@ -1,3 +1,0 @@
-= 76.10 - Surface mining.
-:toc:
-

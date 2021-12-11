@@ -1,9 +1,0 @@
-= 73 VETERANS AND VETERANS' AFFAIRS
-
-* link:73.04_general_provisions.adoc[73.04 - General provisions.]
-* link:73.08_veterans_relief.adoc[73.08 - Veterans' relief.]
-* link:73.16_employment_and_reemployment.adoc[73.16 - Employment and reemployment.]
-* link:73.20_acknowledgments_and_powers_of_attorney.adoc[73.20 - Acknowledgments and powers of attorney.]
-* link:73.24_burial.adoc[73.24 - Burial.]
-* link:73.36_uniform_veterans_guardianship_act.adoc[73.36 - Uniform veterans' guardianship act.]
-* link:73.40_veterans_memorials.adoc[73.40 - Veterans' memorials.]

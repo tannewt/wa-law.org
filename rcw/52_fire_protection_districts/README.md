@@ -1,0 +1,16 @@
+# 52 FIRE PROTECTION DISTRICTS
+
+* [52.02 - Formation.](52.02_formation.md)
+* [52.04 - Annexation.](52.04_annexation.md)
+* [52.06 - Merger.](52.06_merger.md)
+* [52.08 - Withdrawal.](52.08_withdrawal.md)
+* [52.10 - Dissolution.](52.10_dissolution.md)
+* [52.12 - Powers—Burning permits.](52.12_powers—burning_permits.md)
+* [52.14 - Commissioners.](52.14_commissioners.md)
+* [52.16 - Finances.](52.16_finances.md)
+* [52.18 - Benefit charges.](52.18_benefit_charges.md)
+* [52.20 - Local improvement districts.](52.20_local_improvement_districts.md)
+* [52.22 - Special proceedings.](52.22_special_proceedings.md)
+* [52.26 - Regional fire protection service authorities.](52.26_regional_fire_protection_service_authorities.md)
+* [52.30 - Miscellaneous provisions.](52.30_miscellaneous_provisions.md)
+* [52.33 - Fire departments—Performance measures.](52.33_fire_departments—performance_measures.md)
