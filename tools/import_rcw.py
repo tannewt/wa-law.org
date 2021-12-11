@@ -125,7 +125,7 @@ root = pathlib.Path(sys.argv[1])
 top_readme = root / "README.md"
 with top_readme.open("w") as rm:
     rm.write("# Revised Code of Washington\n")
-    rm.write("Welcome to the Markdown version of the Revised Code of Washington (RCW). It is an *unofficial* copy derived from http://apps.leg.wa.gov/rcw/[the official website].\n\n")
+    rm.write("Welcome to the Markdown version of the Revised Code of Washington (RCW). It is an *unofficial* copy derived from [the official website](http://apps.leg.wa.gov/rcw/).\n\n")
     for title in titles:
         info = titles[title]
         title_folder_name = pad_number(title, 2) + "_" + filename_friendly(info["title"])
