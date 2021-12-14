@@ -1,0 +1,162 @@
+# Second Substitute Senate Bill 5383 as Recommended by Ways & Means
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5383-S2.xml)
+## Section 1
+The legislature finds that the COVID-19 pandemic has made it clear that equitable access to education can only happen with equitable access to reliable broadband. Increasing broadband access to unserved areas of the state is of vital importance to increasing quality of life, broadening educational opportunities, and promoting economic inclusion in the parts of our state that, without broadband access, cannot fully participate in modern society. The legislature further finds that one of the most effective tools to ensure all Washingtonians have an opportunity to equitably access education, the job market, and health care resources is to allow our public utility districts and port districts to provide retail telecommunications services.
+
+## Section 2
+> This section modifies an existing section. Here is the [modified chapter](rcw/54_public_utility_districts/54.16_powers.md) for context.
+
+1. [Empty]
+    a. A public utility district in existence on June 8, 2000, may construct, purchase, acquire, develop, finance, lease, license, handle, provide, add to, contract for, interconnect, alter, improve, repair, operate, and maintain any telecommunications facilities within or without the district's limits for the following purposes:
+
+        i. For the district's internal telecommunications needs; **and**
+
+        ii. For the provision of wholesale telecommunications services within the district and by contract with another public utility district**, or to an area currently served with electrical service in an adjoining county**.
+
+    b. Except as provided in subsection**s** (8) **and (10)** of this section, nothing in this section shall be construed to authorize public utility districts to provide telecommunications services to end users.
+
+2. A public utility district providing wholesale or retail telecommunications services shall ensure that rates, terms, and conditions for such services are not unduly or unreasonably discriminatory or preferential. Rates, terms, and conditions are discriminatory or preferential when a public utility district offering rates, terms, and conditions to an entity for wholesale or retail telecommunications services does not offer substantially similar rates, terms, and conditions to all other entities seeking substantially similar services.
+
+3. A public utility district providing wholesale or retail telecommunications services shall not be required to, but may, establish a separate utility system or function for such purpose. In either case, a public utility district providing wholesale or retail telecommunications services shall separately account for any revenues and expenditures for those services according to standards established by the state auditor pursuant to its authority in chapter 43.09 RCW and consistent with the provisions of this title. Any revenues received from the provision of wholesale or retail telecommunications services must be dedicated to costs incurred to build and maintain any telecommunications facilities constructed, installed, or acquired to provide such services, including payments on debt issued to finance such services, until such time as any bonds or other financing instruments executed after June 8, 2000, and used to finance such telecommunications facilities are discharged or retired.
+
+4. When a public utility district provides wholesale or retail telecommunications services, all telecommunications services rendered to the district for the district's internal telecommunications needs shall be allocated or charged at its true and full value. A public utility district may not charge its nontelecommunications operations rates that are preferential or discriminatory compared to those it charges entities purchasing wholesale or retail telecommunications services.
+
+5. If a person or entity receiving retail telecommunications services from a public utility district under this section has a complaint regarding the reasonableness of the rates, terms, conditions, or services provided, the person or entity may file a complaint with the district commission.
+
+6. A public utility district shall not exercise powers of eminent domain to acquire telecommunications facilities or contractual rights held by any other person or entity to telecommunications facilities.
+
+7. Except as otherwise specifically provided, a public utility district may exercise any of the powers granted to it under this title and other applicable laws in carrying out the powers authorized under this section. Nothing in chapter 81, Laws of 2000 limits any existing authority of a public utility district under this title.
+
+8. [Empty]
+    a. If an internet service provider operating on telecommunications facilities of a public utility district that provides wholesale telecommunications services but does not provide retail telecommunications services, ceases to provide access to the internet to its end-use customers, and no other retail service providers are willing to provide service, the public utility district may provide retail telecommunications services to the end-use customers of the defunct internet service provider in order for end-use customers to maintain access to the internet until a replacement internet service provider is, or providers are, in operation.
+
+    b. Within thirty days of an internet service provider ceasing to provide access to the internet, the public utility district must initiate a process to find a replacement internet service provider or providers to resume providing access to the internet using telecommunications facilities of a public utility district.
+
+    c. For a maximum period of five months, following initiation of the process begun in (b) of this section, or, if earlier than five months, until a replacement internet service provider is, or providers are, in operation, the district commission may establish a rate for providing access to the internet and charge customers to cover expenses necessary to provide access to the internet.
+
+9. The tax treatment of the retail telecommunications services provided by a public utility district to the end-use customers during the period specified in subsection (8) of this section must be the same as if those retail telecommunications services were provided by the defunct internet service provider.
+
+**(10)(a) A public utility district may provide retail telecommunications services to an end user in an unserved area if the public utility district receives notice from the governor's statewide broadband office, established in RCW 43.330.532, that an existing service provider has not submitted an objection and a broadband service plan required in this subsection for the same project area. Prior to beginning a project to provide retail telecommunications services in this subsection, a public utility district must notify the governor's statewide broadband office of its intent to provide such services and post a notice of intent on its public website. The governor's statewide broadband office must post notices received from a public utility district pursuant to this subsection on its public website.**
+
+**(b)(i) Any existing service provider providing broadband services within the proposed project area may, within 30 days of the posting of the notice of intent under (a) of this subsection, submit the following in writing to the governor's statewide broadband office:**
+
+**(A) A letter certifying by affidavit that the project would result in overbuild, meaning that the objecting service provider currently provides, has begun construction to provide, or can demonstrate that it obligated resources towards the completion of a feasibility study before the public utility district provided notice of intent under (a) of this subsection to begin construction within six months for broadband service to end users in the proposed project area with speeds of at least 100 megabits per second download and 20 megabits per second upload; and**
+
+**(B) If an existing service provider intends to prevent overbuild as provided in (b)(i)(A) of this subsection, then the existing service provider must submit a broadband service plan to the governor's statewide broadband office. The broadband service plan must, at a minimum, demonstrate that the existing service provider currently provides broadband service to end users within the unserved area at speeds equal to or greater than the speed goals contained in RCW 43.330.536(1) and outline how the existing service provider intends to provide and sustain broadband service to end users with speeds of at least 100 megabits per second download and 20 megabits per second upload within six months.**
+
+**(ii) The governor's statewide broadband office may require an existing service provider to disclose additional information pursuant to (b)(i)(B) of this subsection to validate the authenticity of claims issued by an objecting provider. A broadband service plan is confidential and exempt from public inspection and copying under chapter 42.56 RCW.**
+
+**(c) No later than 30 days after submitting information to the governor's statewide broadband office under (b) of this subsection, the governor's statewide broadband office must notify the public utility district of one of the following:**
+
+**(i) An existing service provider did not submit the letter and broadband service plan under (b) of this subsection and the public utility district may pursue the proposed project in the unserved area; or**
+
+**(ii) An existing service provider did submit the letter and broadband service plan under (b) of this subsection. The parties may elect to enter into mediation to explore options for providing broadband services in the unserved area. Mediation must be completed within 30 days or a date agreed to by all parties.**
+
+**(d) If an existing service provider that raised an objection does not fulfill its commitment within six months for reasons deemed by the governor's statewide broadband office as not outside the existing service provider's control, the governor's statewide broadband office must notify the affected public utility district that the existing service provider has not fulfilled its commitment and grant permission to the public utility district to commence work on the project. The service provider that did not fulfill its commitment is prohibited from objecting to proposed projects posted on the governor's statewide broadband office under (a) of this subsection for the next 18 months.**
+
+**(e) A public utility district providing retail telecommunications services under this subsection must operate an open access network.**
+
+**(f) This section does not apply to retail internet services provided by a public utility district under RCW 54.16.420.**
+
+**(g) For the purposes of this subsection:**
+
+**(i) "Broadband service" has the same meaning as defined in RCW 43.330.530.**
+
+**(ii) "Open access network" means a network that, during the useful life of the infrastructure, ensures service providers may use network services and facilities at rates, terms, and conditions that are not discriminatory or preferential between providers, and employs accountable interconnection arrangements published and available publicly.**
+
+**(iii) "Unserved areas" has the same meaning as defined in RCW 43.330.530.**
+
+
+## Section 3
+> This section modifies an existing section. Here is the [modified chapter](rcw/53_port_districts/53.08_powers.md) for context.
+
+1. A port district in existence on June 8, 2000, may construct, purchase, acquire, develop, finance, lease, license, handle, provide, add to, contract for, interconnect, alter, improve, repair, operate, and maintain any telecommunications facilities within or without the district's limits for the following purposes:
+
+    a. For the district's own use; and
+
+    b. For the provision of wholesale telecommunications services within or without the district's limits. **Except as provided in subsection (10) of this section, nothing** in this subsection shall be construed to authorize port districts to provide telecommunications services to end users.
+
+2. Except as provided in subsection (9) of this section, a port district providing wholesale telecommunications services under this section shall ensure that rates, terms, and conditions for such services are not unduly or unreasonably discriminatory or preferential. Rates, terms, and conditions are discriminatory or preferential when a port district offering such rates, terms, and conditions to an entity for wholesale telecommunications services does not offer substantially similar rates, terms, and conditions to all other entities seeking substantially similar services.
+
+3. When a port district establishes a separate utility function for the provision of wholesale telecommunications services, it shall account for any and all revenues and expenditures related to its wholesale telecommunications facilities and services separately from revenues and expenditures related to its internal telecommunications operations. Any revenues received from the provision of wholesale telecommunications services must be dedicated to the utility function that includes the provision of wholesale telecommunications services for costs incurred to build and maintain the telecommunications facilities until such time as any bonds or other financing instruments executed after June 8, 2000, and used to finance the telecommunications facilities are discharged or retired.
+
+4. When a port district establishes a separate utility function for the provision of wholesale telecommunications services, all telecommunications services rendered by the separate function to the district for the district's internal telecommunications needs shall be charged at its true and full value. A port district may not charge its nontelecommunications operations rates that are preferential or discriminatory compared to those it charges entities purchasing wholesale telecommunications services.
+
+5. A port district shall not exercise powers of eminent domain to acquire telecommunications facilities or contractual rights held by any other person or entity to telecommunications facilities.
+
+6. Except as otherwise specifically provided, a port district may exercise any of the powers granted to it under this title and other applicable laws in carrying out the powers authorized under this section. Nothing in chapter 81, Laws of 2000 limits any existing authority of a port district under this title.
+
+7. A port district that has not exercised the authorities provided in this section prior to June 7, 2018, must develop a business case plan before exercising the authorities provided in this section. The port district must procure an independent qualified consultant to review the business case plan, including the use of public funds in the provision of wholesale telecommunications services. Any recommendations or adjustments to the business case plan made during third-party review must be received and either rejected or accepted by the port commission in an open meeting.
+
+8. A port district with telecommunications facilities for use in the provision of wholesale telecommunications in accordance with subsection (1)(b) of this section may be subject to local leasehold excise taxes under RCW 82.29A.040.
+
+9. [Empty]
+    a. A port district under this section may select a telecommunications company to operate all or a portion of the port district's telecommunications facilities.
+
+    b. For the purposes of this section "telecommunications company" means any for-profit entity owned by investors that sells telecommunications services to end users.
+
+    c. Nothing in this subsection (9) is intended to limit or otherwise restrict any other authority provided by law.
+
+**(10)(a) A port district may provide retail telecommunications services to an end user in an unserved area if the port district receives notice from the governor's statewide broadband office, established in RCW 43.330.532, that an existing service provider has not submitted an objection and a broadband service plan required in this subsection for the same project area. Prior to beginning a project to provide retail telecommunications services in this subsection, a port district must notify the governor's statewide broadband office of its intent to provide such services and post a notice of intent on its public website. The governor's statewide broadband office must post notices received from a port district pursuant to this subsection on its public website.**
+
+**(b)(i) Any existing service provider providing broadband services within the proposed project area may, within 30 days of the posting of the notice of intent under (a) of this subsection, submit the following in writing to the governor's statewide broadband office:**
+
+**(A) A letter certifying by affidavit that the project would result in overbuild, meaning that the objecting service provider currently provides, has begun construction to provide, or can demonstrate that it obligated resources towards the completion of a feasibility study before the port district provided notice of intent under (a) of this subsection to begin construction within six months for broadband service to end users in the proposed project area with speeds of at least 100 megabits per second download and 20 megabits per second upload; and**
+
+**(B) If an existing service provider intends to prevent overbuild as provided in (b)(i)(A) of this subsection, then the existing service provider must submit a broadband service plan to the governor's statewide broadband office. The broadband service plan must, at a minimum, demonstrate that the existing service provider currently provides broadband service to end users within the unserved area at speeds equal to or greater than the speed goals contained in RCW 43.330.536(1) and outline how the existing service provider intends to provide and sustain broadband service to end users with speeds of at least 100 megabits per second download and 20 megabits per second upload within six months.**
+
+**(ii) The governor's statewide broadband office may require an existing service provider to disclose additional information pursuant to (b)(i)(B) of this subsection to validate the authenticity of claims issued by an objecting provider. A broadband service plan is confidential and exempt from public inspection and copying under chapter 42.56 RCW.**
+
+**(c) No later than 30 days after submitting information to the governor's statewide broadband office under (b) of this subsection, the governor's statewide broadband office must notify the port district of one of the following:**
+
+**(i) An existing service provider did not submit the letter and broadband service plan under (b) of this subsection, and the port district may pursue the proposed project in the unserved area; or**
+
+**(ii) An existing service provider did submit the letter and broadband service plan under (b) of this subsection. The parties may elect to enter into mediation to explore options for providing broadband services in the unserved area. Mediation must be completed within 30 days or a date agreed to by all parties.**
+
+**(d) If an existing service provider who raised an objection does not fulfill its commitment within six months for reasons deemed by the governor's statewide broadband office as not outside the existing service provider's control, the governor's statewide broadband office must notify the affected port district that the existing service provider has not fulfilled its commitment and grant permission to the port district to commence work on the project. The service provider that did not fulfill its commitment is prohibited from objecting to proposed projects posted on the governor's statewide broadband office under (a) of this subsection for the next 18 months.**
+
+**(e) A port district providing retail telecommunications services under this subsection must operate an open access network.**
+
+**(f) For the purposes of this subsection:**
+
+**(i) "Broadband service" has the same meaning as defined in RCW 43.330.530.**
+
+**(ii) "Open access network" means a network that, during the useful life of the infrastructure, ensures service providers may use network services and facilities at rates, terms, and conditions that are not discriminatory or preferential between providers, and employs accountable interconnection arrangements published and available publicly.**
+
+**(iii) "Unserved areas" has the same meaning as defined in RCW 43.330.530.**
+
+
+## Section 4
+> This section modifies an existing section. Here is the [modified chapter](rcw/43_state_government—executive/43.330_department_of_commerce.md) for context.
+
+1.**(a)** Beginning January 1, 2021, and biennially thereafter, the office shall report to the legislative committees with jurisdiction over broadband policy and finance on the office's activities during the previous two years.
+
+**(b)** The report must, at a minimum, contain:
+
+**(i)** An analysis of the current availability and use of broadband, including average broadband speeds, within the state;
+
+**(ii)** Information gathered from schools, libraries, hospitals, and public safety facilities across the state, determining the actual speed and capacity of broadband currently in use and the need, if any, for increases in speed and capacity to meet current or anticipated needs;
+
+**(iii)** An overview of incumbent broadband infrastructure within the state;
+
+**(iv)** A summary of the office's activities in coordinating broadband infrastructure development with the public works board, including a summary of funds awarded under RCW 43.155.160;
+
+**(v)** Suggested policies, incentives, and legislation designed to accelerate the achievement of the goals under RCW 43.330.536; and
+
+**(vi)** Any proposed legislative and policy initiatives.
+
+**(2)(a) By December 31, 2023, the office must submit a report to the governor and the appropriate committees of the legislature regarding the provision of retail telecommunications services to unserved areas by public utility districts and port districts as provided in RCW 54.16.330(10) and 53.08.370(10).**
+
+**(b) The report must, at a minimum, contain:**
+
+**(i) The number of public utility districts and port districts providing retail telecommunications services in an unserved area authorized in RCW 54.16.330(10) and 53.08.370(10);**
+
+**(ii) The number of and which existing service providers submitted plans and objected to a public utility district or port district from providing retail telecommunications services pursuant to RCW 54.16.330(10)(a) and 53.08.370(10)(a);**
+
+**(iii) The number of and which existing service providers filed a certified affidavit claiming overbuild by a public utility district or port district pursuant to RCW 54.16.330(10)(b)(i) and 53.08.370(10)(b)(i);**
+
+**(iv) The number of and which existing service providers failed to fulfill their commitment to provide retail telecommunications services pursuant to RCW 54.16.330(10)(d) and 53.08.370(10)(d); and**
+
+**(v) Any recommendations to improve the provision of retail telecommunications services in unserved areas.**
+

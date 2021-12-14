@@ -4,6 +4,7 @@ import requests_cache
 import re
 import sqlite3
 import sys
+import parse
 from bs4 import BeautifulSoup
 from mdit_py_plugins.anchors.index import slugify
 
@@ -97,8 +98,8 @@ for title in titles:
 
             # print()
     #print(titles)
-    # if count > 9:
-    #     break
+    if count > 9:
+        break
     count += 1
 
 ordered = sorted(all_citations)
@@ -120,6 +121,8 @@ def pad_number(n, l):
 
 def filename_friendly(n):
     return n.lower().replace(" ", "_").replace(".", "").replace(",", "").replace("/", "_").replace("'", "")
+
+citation_pattern = parse.compile("{year:d} c {chapter:d} § {section:d}")
 
 root = pathlib.Path(sys.argv[1])
 top_readme = root / "README.md"
@@ -187,6 +190,10 @@ with top_readme.open("w") as rm:
                             if citation[1]:
                                 escaped_link = citation[1].replace(" ", "%20")
                                 f.write(f"[{citation[0]}]({escaped_link}); ")
+                                parsed = citation_pattern.parse(citation[0])
+                                # TODO: Link to our own page of session law.
+                                # if not parsed:
+                                #     print(citation)
                             else:
                                 f.write(f"{citation[0]}; ")
 
