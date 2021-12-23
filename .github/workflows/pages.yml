@@ -41,6 +41,7 @@ jobs:
 
       - run: |
           python tools/render.py rcw
+          python tools/render.py bill
           python tools/render.py README.md
 
       - name: Deploy
