@@ -1,0 +1,106 @@
+# House Bill 1325
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1325.xml)
+## Section 1
+> This section modifies existing section [71.24.061](/rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md). Here is the [modified chapter](rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md) for context.
+
+1. The authority shall provide flexibility to encourage licensed or certified community behavioral health agencies to subcontract with an adequate, culturally competent, and qualified children's mental health provider network.
+
+2. To the extent that funds are specifically appropriated for this purpose or that nonstate funds are available, a children's mental health evidence-based practice institute shall be established at the University of Washington department of psychiatry and behavioral sciences. The institute shall closely collaborate with entities currently engaged in evaluating and promoting the use of evidence-based, research‑based, promising, or consensus‑based practices in children's mental health treatment, including but not limited to the University of Washington department of psychiatry and behavioral sciences, Seattle children's hospital, the University of Washington school of nursing, the University of Washington school of social work, and the Washington state institute for public policy. To ensure that funds appropriated are used to the greatest extent possible for their intended purpose, the University of Washington's indirect costs of administration shall not exceed ten percent of appropriated funding. The institute shall:
+
+    a. Improve the implementation of evidence-based and research‑based practices by providing sustained and effective training and consultation to licensed children's mental health providers and child‑serving agencies who are implementing evidence‑based or researched-based practices for treatment of children's emotional or behavioral disorders, or who are interested in adapting these practices to better serve ethnically or culturally diverse children. Efforts under this subsection should include a focus on appropriate oversight of implementation of evidence‑based practices to ensure fidelity to these practices and thereby achieve positive outcomes;
+
+    b. Continue the successful implementation of the "partnerships for success" model by consulting with communities so they may select, implement, and continually evaluate the success of evidence-based practices that are relevant to the needs of children, youth, and families in their community;
+
+    c. Partner with youth, family members, family advocacy, and culturally competent provider organizations to develop a series of information sessions, literature, and online resources for families to become informed and engaged in evidence-based and research‑based practices;
+
+    d. Participate in the identification of outcome-based performance measures under RCW 71.36.025(2) and partner in a statewide effort to implement statewide outcomes monitoring and quality improvement processes; and
+
+    e. Serve as a statewide resource to the authority and other entities on child and adolescent evidence-based, research-based, promising, or consensus‑based practices for children's mental health treatment, maintaining a working knowledge through ongoing review of academic and professional literature, and knowledge of other evidence-based practice implementation efforts in Washington and other states.
+
+3. [Empty]
+
+    a. To the extent that funds are specifically appropriated for this purpose, the authority in collaboration with the University of Washington department of psychiatry and behavioral sciences and Seattle children's hospital shall **implement the following access lines**:
+
+        i. **The** partnership access line to support primary care providers in the assessment and provision of appropriate diagnosis and treatment of children with mental and behavioral health disorders and track outcomes of this program;
+
+        ii.
+
+**The** partnership access line for moms to support obstetricians, pediatricians, primary care providers, mental health professionals, and other health care professionals providing care to pregnant women and new mothers through same-day telephone consultations in the assessment and provision of appropriate diagnosis and treatment of depression in pregnant women and new mothers; and
+
+        iii. **The mental health referral service for children and teens** to facilitate referrals to children's mental health services and other resources for parents and guardians with concerns related to the mental health of the parent or guardian's child. Facilitation activities include assessing the level of services needed by the child; within seven days of receiving a call from a parent or guardian, identifying mental health professionals who are in-network with the child's health care coverage who are accepting new patients and taking appointments; coordinating contact between the parent or guardian and the mental health professional; and providing postreferral reviews to determine if the child has outstanding needs. In conducting its referral activities, the program shall collaborate with existing databases and resources to identify in-network mental health professionals.
+
+    b. The program activities described in (a) of this subsection shall be designed to promote more accurate diagnoses and treatment through timely case consultation between primary care providers and child psychiatric specialists, and focused educational learning collaboratives with primary care providers.
+
+4. The authority, in collaboration with the University of Washington department of psychiatry and behavioral sciences and Seattle children's hospital, shall report on the following:
+
+    a. The number of individuals who have accessed the resources described in subsection (3) of this section;
+
+    b. The number of providers, by type, who have accessed the resources described in subsection (3) of this section;
+
+    c. Demographic information, as available, for the individuals described in (a) of this subsection. Demographic information may not include any personally identifiable information and must be limited to the individual's age, gender, and city and county of residence;
+
+    d. A description of resources provided;
+
+    e. Average time frames from receipt of call to referral for services or resources provided; and
+
+    f. Systemic barriers to services, as determined and defined by the health care authority, the University of Washington department of psychiatry and behavioral sciences, and Seattle children's hospital.
+
+5. Beginning December 30, 2019, and annually thereafter, the authority must submit, in compliance with RCW 43.01.036, a report to the governor and appropriate committees of the legislature with findings and recommendations for improving services and service delivery from subsection (4) of this section.
+
+6. The authority shall enforce requirements in managed care contracts to ensure care coordination and network adequacy issues are addressed in order to remove barriers to access to mental health services identified in the report described in subsection (4) of this section.
+
+
+## Section 2
+> This section modifies existing section [74.09.520](/rcw/74_public_assistance/74.09_medical_care.md). Here is the [modified chapter](rcw/74_public_assistance/74.09_medical_care.md) for context.
+
+1. The term "medical assistance" may include the following care and services subject to rules adopted by the authority or department: (a) Inpatient hospital services; (b) outpatient hospital services; (c) other laboratory and X-ray services; (d) nursing facility services; (e) physicians' services, which shall include prescribed medication and instruction on birth control devices; (f) medical care, or any other type of remedial care as may be established by the secretary or director; (g) home health care services; (h) private duty nursing services; (i) dental services; (j) physical and occupational therapy and related services; (k) prescribed drugs, dentures, and prosthetic devices; and eyeglasses prescribed by a physician skilled in diseases of the eye or by an optometrist, whichever the individual may select; (l) personal care services, as provided in this section; (m) hospice services; (n) other diagnostic, screening, preventive, and rehabilitative services; and (o) like services when furnished to a child by a school district in a manner consistent with the requirements of this chapter. For the purposes of this section, neither the authority nor the department may cut off any prescription medications, oxygen supplies, respiratory services, or other life-sustaining medical services or supplies.
+
+"Medical assistance," notwithstanding any other provision of law, shall not include routine foot care, or dental services delivered by any health care provider, that are not mandated by Title XIX of the social security act unless there is a specific appropriation for these services.
+
+2. The department shall adopt, amend, or rescind such administrative rules as are necessary to ensure that Title XIX personal care services are provided to eligible persons in conformance with federal regulations.
+
+    a. These administrative rules shall include financial eligibility indexed according to the requirements of the social security act providing for medicaid eligibility.
+
+    b. The rules shall require clients be assessed as having a medical condition requiring assistance with personal care tasks. Plans of care for clients requiring health-related consultation for assessment and service planning may be reviewed by a nurse.
+
+    c. The department shall determine by rule which clients have a health-related assessment or service planning need requiring registered nurse consultation or review. This definition may include clients that meet indicators or protocols for review, consultation, or visit.
+
+3. The department shall design and implement a means to assess the level of functional disability of persons eligible for personal care services under this section. The personal care services benefit shall be provided to the extent funding is available according to the assessed level of functional disability. Any reductions in services made necessary for funding reasons should be accomplished in a manner that assures that priority for maintaining services is given to persons with the greatest need as determined by the assessment of functional disability.
+
+4. Effective July 1, 1989, the authority shall offer hospice services in accordance with available funds.
+
+5. For Title XIX personal care services administered by aging and disability services administration of the department, the department shall contract with area agencies on aging:
+
+    a. To provide case management services to individuals receiving Title XIX personal care services in their own home; and
+
+    b. To reassess and reauthorize Title XIX personal care services or other home and community services as defined in RCW 74.39A.009 in home or in other settings for individuals consistent with the intent of this section:
+
+        i. Who have been initially authorized by the department to receive Title XIX personal care services or other home and community services as defined in RCW 74.39A.009; and
+
+        ii. Who, at the time of reassessment and reauthorization, are receiving such services in their own home.
+
+6. In the event that an area agency on aging is unwilling to enter into or satisfactorily fulfill a contract or an individual consumer's need for case management services will be met through an alternative delivery system, the department is authorized to:
+
+    a. Obtain the services through competitive bid; and
+
+    b. Provide the services directly until a qualified contractor can be found.
+
+7. Subject to the availability of amounts appropriated for this specific purpose, the authority may offer medicare part D prescription drug copayment coverage to full benefit dual eligible beneficiaries.
+
+8. Effective January 1, 2016, the authority shall require universal screening and provider payment for autism and developmental delays as recommended by the bright futures guidelines of the American academy of pediatrics, as they existed on August 27, 2015. This requirement is subject to the availability of funds.
+
+9. Subject to the availability of amounts appropriated for this specific purpose, effective January 1, 2018, the authority shall require provider payment for annual depression screening for youth ages twelve through eighteen as recommended by the bright futures guidelines of the American academy of pediatrics, as they existed on January 1, 2017. Providers may include, but are not limited to, primary care providers, public health nurses, and other providers in a clinical setting. This requirement is subject to the availability of funds appropriated for this specific purpose.
+
+10. Subject to the availability of amounts appropriated for this specific purpose, effective January 1, 2018, the authority shall require provider payment for maternal depression screening for mothers of children ages birth to six months. This requirement is subject to the availability of funds appropriated for this specific purpose.
+
+11. **Subject to the availability of amounts appropriated for this specific purpose, the authority shall:**
+
+    a. **Allow otherwise eligible reimbursement for the following related to mental health assessment and diagnosis of children from birth through five years of age:**
+
+        i. **Up to five sessions for purposes of intake and assessment, if necessary;**
+
+        ii. **Assessments in home or community settings, including reimbursement for provider travel; and**
+
+    b. **Require providers to use the current version of the DC:0-5 diagnostic classification system for mental health assessment and diagnosis of children from birth through five years of age.**
+

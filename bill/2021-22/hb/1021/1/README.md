@@ -1,0 +1,54 @@
+# House Bill 1021
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1021.xml)
+## Section 1
+> This section modifies existing section [50.29.100](/rcw/50_unemployment_compensation/50.29_employer_experience_rating.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.29_employer_experience_rating.md) for context.
+
+1. By **April 1, 2022**, a contribution paying employer may submit an application to the employment security department to have the approved benefits paid to approved employees be reimbursed by the COVID-19 unemployment account instead of charged to the employer's experience rating account. The application must be submitted in a form and manner approved by the department through rule.
+
+2. The department should not approve an application if the benefits paid will not otherwise be charged to the employer's experience rating account or if the employer was otherwise eligible to receive relief of benefit charges.
+
+3. If the department approves an employer's application, the department will not charge the forgiven benefits to the employer's experience rating account. The commissioner shall instead transfer from the COVID-19 unemployment account to the unemployment trust fund account an amount equal to the forgiven benefits.
+
+4. If the department rejects an employer's application, the department shall present the employer with the reasons why the application was rejected. The reasons for the rejection are final and nonappealable.
+
+5. For purposes of this section, the following definitions apply:
+
+    a. "Approved employee" means an employee who:
+
+        i. Was  laid off as a direct or indirect consequence of
+
+**a gubernatorial declaration of emergency or related executive order; and**
+
+        ii. Meets other criteria the department may establish by rule.
+
+    b. "Approved benefits" means benefits paid to an approved employee **for an eligible claim** pursuant to rules adopted by the department.
+
+    c. "Total approved benefits" means the sum total of all approved benefits paid to all approved employees.
+
+    d. **"Eligible claim" means a claim for weeks of unemployment on or after February 29, 2020, and before March 1, 2022, or 30 days after the expiration of the gubernatorial declaration of emergency, whichever is earlier.**
+
+    e. "Forgiveness ratio" is computed by dividing the amount of money in the COVID-19 unemployment account by the total approved benefits. The forgiveness ratio cannot be more than 1.
+
+    f. "Forgiven benefits" means the approved benefits for an individual employer multiplied by the forgiveness ratio.
+
+6. The department shall adopt such rules as are necessary to carry out the purposes of this section.
+
+7. This section expires **December 1, 2022**.
+
+
+## Section 2
+> This section modifies existing section [50.16.100](/rcw/50_unemployment_compensation/50.16_funds.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.16_funds.md) for context.
+
+1. The COVID-19 unemployment account is created in the custody of the state treasurer. Revenues to the account shall consist of appropriations and transfers by the legislature and all other funding directed for deposit into the account. Only the commissioner of the employment security department or the commissioner's designee may authorize expenditures from the account. Expenditures from the account may be used only for reimbursing the unemployment trust fund account for unemployment benefits paid to the approved employees of employers approved for such reimbursement pursuant to RCW 50.29.100. The account is subject to the allotment procedures under chapter 43.88 RCW, but an appropriation is not required for expenditures.
+
+2. Any federal funding or relief for novel coronavirus that could be used for the purposes of RCW 50.29.100 must be used first before spending from the account. Additionally, if the employment security department subsequently receives reimbursements from federal sources for amounts spent from the account, the department must remit the federal funding to the state treasurer for reimbursement to the budget stabilization account. If federal law or rules would prevent such remittance, the department must notify the office of financial management and the fiscal committees of the legislature within thirty days of receipt of the reimbursement.
+
+3. **By July 1, 2022, the commissioner must certify to the state treasurer the amount of any unobligated moneys in the COVID-19 unemployment account that are attributable to the budget stabilization account appropriation in section 3 of this act, and the treasurer must transfer those moneys back to the budget stabilization account.**
+
+
+## Section 3
+The sum of $500,000,000 is appropriated from the budget stabilization account for the fiscal year ending June 30, 2021, and is provided solely for expenditure into the COVID-19 unemployment account for the purposes described in section 1 of this act.
+
+## Section 4
+If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state or the eligibility of employers in this state for federal unemployment tax credits, the conflicting part of this act is inoperative solely to the extent of the conflict, and the finding or determination does not affect the operation of the remainder of this act. Rules adopted under this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state or the granting of federal unemployment tax credits to employers in this state.

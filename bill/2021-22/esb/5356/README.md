@@ -1,0 +1,9 @@
+# ESB 5356 - Public works/bidding
+*Status: Effective date 7/25/2021.*
+Concerning prime contractor bidding submission requirements on public works contracts.
+
+## Revisions
+* [Original Bill](1/)
+* [Engrossed Bill](1/)
+* [Bill as Passed Legislature](1/)
+* [Session Law](1/)

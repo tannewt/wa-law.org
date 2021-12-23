@@ -1,0 +1,121 @@
+# House Bill 1329
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1329.xml)
+## Section 1
+It is the intent of this act to urge governing bodies, and particularly governing bodies formed under chapter 36.57A or 81.112 RCW, to move to online meetings to allow for more public participation opportunities and more diverse public comment. During the COVID-19 outbreak in the United States and Washington state, there was a gubernatorial proclamation authorizing governing bodies to utilize remote meetings. It was found that meetings conducted via remote access were successful in reigniting the spirit of RCW 42.30.030 thanks to the courage, ingenuity, and integrity of many public servants.
+Therefore, the legislature finds that, unless impracticable, all meetings must have remote access, and may if necessary have an in-person component, both for increased accessibility for all Washingtonians and especially disabled persons; but also to limit greenhouse gas emissions as per RCW 70A.45.005 and 70A.05.900. The legislature further finds that Washington should continue to be a national and international leader on energy conservation and environmental stewardship by recognizing travel to and from public meetings represents a significant source of emissions, and that reducing the need for such travel is achievable, cost-effective, and innovative in emission reduction.
+
+## Section 2
+> This section modifies existing section [42.30.010](/rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md) for context.
+
+The legislature finds and declares that all public commissions, boards, councils, committees, subcommittees, departments, divisions, offices, and all other public agencies of this state and subdivisions thereof exist to aid in the conduct of the people's business. It is the intent of this chapter that their actions be taken openly and that their deliberations be conducted openly.
+
+The people of this state do not yield their sovereignty to the agencies which serve them. The people, in delegating authority, do not give their public servants the right to decide what is good for the people to know and what is not good for them to know. The people insist on remaining informed **and informing the people's public servants of their views before significant final actions are taken** so that they may retain control over the instruments they have created. **For these reasons, even when not required by law, public agencies are encouraged to incorporate and accept public comment at all stages of their decision-making process.**
+
+
+## Section 3
+> This section modifies existing section [42.30.020](/rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md) for context.
+
+As used in this chapter unless the context indicates otherwise:
+
+1. "Public agency" means:
+
+    a. Any state board, commission, committee, department, educational institution, or other state agency which is created by or pursuant to statute, other than courts and the legislature;
+
+    b. Any county, city, school district, special purpose district, or other municipal corporation or political subdivision of the state of Washington;
+
+    c. Any subagency of a public agency which is created by or pursuant to statute, ordinance, or other legislative act, including but not limited to planning commissions, library or park boards, commissions, and agencies;
+
+    d. Any policy group whose membership includes representatives of publicly owned utilities formed by or pursuant to the laws of this state when meeting together as or on behalf of participants who have contracted for the output of generating plants being planned or built by an operating agency.
+
+2. **"Local government" means any county, city, school district, special purpose district, transit agency, or other municipal corporation or political subdivision of the state of Washington.**
+
+3. "Governing body" means the multimember board, commission, committee, council, or other policy or rule-making body of a public agency, or any committee thereof when the committee **takes action** on behalf of the governing body, conducts hearings, or takes testimony or public comment.
+
+4. "Action" means the transaction of the official business of a public agency by a governing body including but not limited to receipt of public testimony, deliberations, discussions, considerations, reviews, evaluations, and final actions. "Final action" means a collective positive or negative decision, or an actual vote by a majority of the members of a governing body when sitting as a body or entity, upon a motion, proposal, resolution, order, or ordinance.
+
+5. "Meeting" means meetings at which action is taken.
+
+6. **"Remote meeting" means a meeting using teleconferencing or internet-based meeting platforms.**
+
+
+## Section 4
+> This section modifies existing section [42.30.030](/rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md) for context.
+
+1. All meetings of the governing body of a public agency shall be open and public and all persons shall be permitted to attend any meeting of the governing body of a public agency, except as otherwise provided in this chapter.
+
+2. **All meetings of the governing body of a local government shall provide for public attendance through, at a minimum, real-time telephonic, electronic, internet, or other readily available means of remote access that do not require an additional cost to access the meeting unless:**
+
+    a. **Doing so would be impracticable because of: (i) A temporary equipment failure; (ii) a lack of staff; or (iii) another reason that renders such action unfeasible;**
+
+    b. **If compliance would require a cost of more than one percent of the local government's annual budget; or**
+
+    c. **The local government employs fewer than 10 full-time equivalent employees.**
+
+3. **A governing body of a local government need not meet in-person if remote access public attendance under subsection (2) of this section is offered. If the governing body of the local government is meeting in-person, then the governing body must also offer in-person public attendance, unless the physical attendance by some or all members of the public is limited due to a declared emergency.**
+
+
+## Section 6
+> This section modifies existing section [42.30.070](/rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md) for context.
+
+The governing body of a public agency shall provide the time for holding regular meetings by ordinance, resolution, bylaws, or by whatever other rule is required for the conduct of business by that body. Unless otherwise provided for in the act under which the public agency was formed, meetings of the governing body need not be held within the boundaries of the territory over which the public agency exercises jurisdiction **and may be held as a remote meeting**. If at any time any regular meeting falls on a holiday, such regular meeting shall be held on the next business day. If, by reason of fire, flood, earthquake, or other emergency, there is a need for expedited action by a governing body to meet the emergency, the presiding officer of the governing body may provide for a meeting site other than the regular meeting site and the notice requirements of this chapter shall be suspended during such emergency. It shall not be a violation of the requirements of this chapter for a majority of the members of a governing body to travel together or gather for purposes other than a regular meeting or a special meeting as these terms are used in this chapter: PROVIDED, That they take no action as defined in this chapter.
+
+
+## Section 7
+> This section modifies existing section [42.30.110](/rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md) for context.
+
+1. Nothing contained in this chapter may be construed to prevent a governing body from holding an executive session during a regular or special meeting:
+
+    a. [Empty]
+
+        i. To consider matters affecting national security;
+
+        ii. To consider, if in compliance with any required data security breach disclosure under RCW 19.255.010 and 42.56.590, and with legal counsel available, information regarding the infrastructure and security of computer and telecommunications networks, security and service recovery plans, security risk assessments and security test results to the extent that they identify specific system vulnerabilities, and other information that if made public may increase the risk to the confidentiality, integrity, or availability of agency security or to information technology infrastructure or assets;
+
+    b. To consider the selection of a site or the acquisition of real estate by lease or purchase when public knowledge regarding such consideration would cause a likelihood of increased price;
+
+    c. To consider the minimum price at which real estate will be offered for sale or lease when public knowledge regarding such consideration would cause a likelihood of decreased price. However, final action selling or leasing public property shall be taken in a meeting open to the public;
+
+    d. To review negotiations on the performance of publicly bid contracts when public knowledge regarding such consideration would cause a likelihood of increased costs;
+
+    e. To consider, in the case of an export trading company, financial and commercial information supplied by private persons to the export trading company;
+
+    f. To receive and evaluate complaints or charges brought against a public officer or employee. However, upon the request of such officer or employee, a public hearing or a meeting open to the public shall be conducted upon such complaint or charge;
+
+    g. To evaluate the qualifications of an applicant for public employment or to review the performance of a public employee. However, subject to RCW 42.30.140(4), discussion by a governing body of salaries, wages, and other conditions of employment to be generally applied within the agency shall occur in a meeting open to the public, and when a governing body elects to take final action hiring, setting the salary of an individual employee or class of employees, or discharging or disciplining an employee, that action shall be taken in a meeting open to the public;
+
+    h. To evaluate the qualifications of a candidate for appointment to elective office. However, any interview of such candidate and final action appointing a candidate to elective office shall be in a meeting open to the public;
+
+    i. To discuss with legal counsel representing the agency matters relating to agency enforcement actions, or to discuss with legal counsel representing the agency litigation or potential litigation to which the agency, the governing body, or a member acting in an official capacity is, or is likely to become, a party, when public knowledge regarding the discussion is likely to result in an adverse legal or financial consequence to the agency.
+
+This subsection (1)(i) does not permit a governing body to hold an executive session solely because an attorney representing the agency is present. For purposes of this subsection (1)(i), "potential litigation" means matters protected by RPC 1.6 or RCW 5.60.060(2)(a) concerning:
+
+        i. Litigation that has been specifically threatened to which the agency, the governing body, or a member acting in an official capacity is, or is likely to become, a party;
+
+        ii. Litigation that the agency reasonably believes may be commenced by or against the agency, the governing body, or a member acting in an official capacity; or
+
+        iii. Litigation or legal risks of a proposed action or current practice that the agency has identified when public discussion of the litigation or legal risks is likely to result in an adverse legal or financial consequence to the agency;
+
+    j. To consider, in the case of the state library commission or its advisory bodies, western library network prices, products, equipment, and services, when such discussion would be likely to adversely affect the network's ability to conduct business in a competitive economic climate. However, final action on these matters shall be taken in a meeting open to the public;
+
+    k. To consider, in the case of the state investment board, financial and commercial information when the information relates to the investment of public trust or retirement funds and when public knowledge regarding the discussion would result in loss to such funds or in private loss to the providers of this information;
+
+    l. To consider proprietary or confidential nonpublished information related to the development, acquisition, or implementation of state purchased health care services as provided in RCW 41.05.026;
+
+    m. To consider in the case of the life sciences discovery fund authority, the substance of grant applications and grant awards when public knowledge regarding the discussion would reasonably be expected to result in private loss to the providers of this information;
+
+    n. To consider in the case of a health sciences and services authority, the substance of grant applications and grant awards when public knowledge regarding the discussion would reasonably be expected to result in private loss to the providers of this information;
+
+    o. To consider information regarding staff privileges or quality improvement committees under RCW 70.41.205.
+
+2. Before convening in executive session, the presiding officer of a governing body shall publicly announce the purpose for excluding the public from the meeting place, and the time when the executive session will be concluded. The executive session may be extended to a stated later time by announcement of the presiding officer. **The announced purpose of excluding the public must be entered into the minutes of the meeting required by RCW 42.30.035.**
+
+
+## Section 9
+> This section modifies existing section [42.30.900](/rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md) for context.
+
+This chapter may be **known and** cited as the **Washington state open public meetings act or OPMA.**
+
+
+## Section 10
+This act may be known and cited as the Heather "Newsbrooke" Brooke, Ph.D. act.

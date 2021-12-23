@@ -1,0 +1,797 @@
+# Substitute Senate Bill 5073 - Session Law Chapter 264 Year 2021 as Recommended by Subcommittee on Behavioral Health
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5073-S.SL.xml)
+## Section 5
+> This section modifies existing section [71.05.203](/rcw/71_mental_illness/71.05_mental_illness.md). Here is the [modified chapter](rcw/71_mental_illness/71.05_mental_illness.md) for context.
+
+1. The authority and each behavioral health administrative services organization or agency employing designated crisis responders shall publish information in an easily accessible format describing the process for an immediate family member, guardian, or conservator**, or a federally recognized Indian tribe if the person is a member of such tribe,** to petition for court review of a detention decision under RCW 71.05.201.
+
+2. A designated crisis responder or designated crisis responder agency that receives a request for investigation for possible detention under this chapter must inquire whether the request comes from an immediate family member, guardian, or conservator**, or a federally recognized Indian tribe if the person is a member of such tribe,** who would be eligible to petition under RCW 71.05.201. If the designated crisis responder decides not to detain the person for evaluation and treatment under RCW 71.05.150 or 71.05.153 or forty-eight hours have elapsed since the request for investigation was received and the designated crisis responder has not taken action to have the person detained, the designated crisis responder or designated crisis responder agency must inform the immediate family member, guardian, or conservator**, or a federally recognized Indian tribe if the person is a member of such tribe,** who made the request for investigation about the process to petition for court review under RCW 71.05.201 and, to the extent feasible, provide the immediate family member, guardian, or conservator**, or a federally recognized Indian tribe if the person is a member of such tribe,** with written or electronic information about the petition process. **Information provided to a federally recognized Indian tribe shall be sent to the tribal contact listed in the authority's tribal crisis coordination plan.** If provision of written or electronic information is not feasible, the designated crisis responder or designated crisis responder agency must refer the immediate family member, guardian, or conservator**, or a federally recognized Indian tribe if the person is a member of such tribe,** to a website where published information on the petition process may be accessed. The designated crisis responder or designated crisis responder agency must document the manner and date on which the information required under this subsection was provided to the immediate family member, guardian, or conservator**, or a federally recognized Indian tribe if the person is a member of such tribe**.
+
+3. A designated crisis responder or designated crisis responder agency must, upon request, disclose the date of a designated crisis responder investigation under this chapter to an immediate family member, guardian, or conservator**, or a federally recognized Indian tribe if the person is a member of such tribe,** of a person to assist in the preparation of a petition under RCW 71.05.201.
+
+
+## Section 6
+> This section modifies existing section [71.05.210](/rcw/71_mental_illness/71.05_mental_illness.md). Here is the [modified chapter](rcw/71_mental_illness/71.05_mental_illness.md) for context.
+
+1. Each person involuntarily detained and accepted or admitted at an evaluation and treatment facility, secure withdrawal management and stabilization facility, or approved substance use disorder treatment program:
+
+    a. Shall, within twenty-four hours of his or her admission or acceptance at the facility, not counting time periods prior to medical clearance, be examined and evaluated by:
+
+        i. One physician, physician assistant, or advanced registered nurse practitioner; and
+
+        ii. One mental health professional. If the person is detained for substance use disorder evaluation and treatment, the person may be examined by a substance use disorder professional instead of a mental health professional; and
+
+    b. Shall receive such treatment and care as his or her condition requires including treatment on an outpatient basis for the period that he or she is detained, except that, beginning twenty-four hours prior to a trial or hearing pursuant to RCW 71.05.215, 71.05.240, 71.05.310, 71.05.320, 71.05.590, or 71.05.217, the individual may refuse psychiatric medications, but may not refuse: (i) Any other medication previously prescribed by a person licensed under Title 18 RCW; or (ii) emergency lifesaving treatment, and the individual shall be informed at an appropriate time of his or her right of such refusal. The person shall be detained up to one hundred twenty hours, if, in the opinion of the professional person in charge of the facility, or his or her professional designee, the person presents a likelihood of serious harm, or is gravely disabled. A person who has been detained for one hundred twenty hours shall no later than the end of such period be released, unless referred for further care on a voluntary basis, or detained pursuant to court order for further treatment as provided in this chapter.
+
+2. If, **at any time during the involuntary treatment hold and following the initial** examination and evaluation, the mental health professional or substance use disorder professional and licensed physician, physician assistant, or psychiatric advanced registered nurse practitioner determine that the initial needs of the person, if detained to an evaluation and treatment facility, would be better served by placement in a **secure withdrawal management and stabilization facility or approved** substance use disorder treatment program, or, if detained to a secure withdrawal management and stabilization facility or approved substance use disorder treatment program, would be better served in an evaluation and treatment facility then the person shall be referred to the more appropriate placement **for the remainder of the current commitment period without any need for further court review**; however, a person may only be referred to a secure withdrawal management and stabilization facility or approved substance use disorder treatment program if there is an available secure withdrawal management and stabilization facility or approved substance use disorder treatment program with adequate space for the person.
+
+3. An evaluation and treatment center, secure withdrawal management and stabilization facility, or approved substance use disorder treatment program admitting or accepting any person pursuant to this chapter whose physical condition reveals the need for hospitalization shall assure that such person is transferred to an appropriate hospital for evaluation or admission for treatment. Notice of such fact shall be given to the court, the designated attorney, and the designated crisis responder and the court shall order such continuance in proceedings under this chapter as may be necessary, but in no event may this continuance be more than fourteen days.
+
+
+## Section 7
+> This section modifies existing section [71.05.210](/rcw/71_mental_illness/71.05_mental_illness.md). Here is the [modified chapter](rcw/71_mental_illness/71.05_mental_illness.md) for context.
+
+1. Each person involuntarily detained and accepted or admitted at an evaluation and treatment facility, secure withdrawal management and stabilization facility, or approved substance use disorder treatment program:
+
+    a. Shall, within twenty-four hours of his or her admission or acceptance at the facility, not counting time periods prior to medical clearance, be examined and evaluated by:
+
+        i. One physician, physician assistant, or advanced registered nurse practitioner; and
+
+        ii. One mental health professional. If the person is detained for substance use disorder evaluation and treatment, the person may be examined by a substance use disorder professional instead of a mental health professional; and
+
+    b. Shall receive such treatment and care as his or her condition requires including treatment on an outpatient basis for the period that he or she is detained, except that, beginning twenty-four hours prior to a trial or hearing pursuant to RCW 71.05.215, 71.05.240, 71.05.310, 71.05.320, 71.05.590, or 71.05.217, the individual may refuse psychiatric medications, but may not refuse: (i) Any other medication previously prescribed by a person licensed under Title 18 RCW; or (ii) emergency lifesaving treatment, and the individual shall be informed at an appropriate time of his or her right of such refusal. The person shall be detained up to one hundred twenty hours, if, in the opinion of the professional person in charge of the facility, or his or her professional designee, the person presents a likelihood of serious harm, or is gravely disabled. A person who has been detained for one hundred twenty hours shall no later than the end of such period be released, unless referred for further care on a voluntary basis, or detained pursuant to court order for further treatment as provided in this chapter.
+
+2. If, **at any time during the involuntary treatment hold and following the initial** examination and evaluation, the mental health professional or substance use disorder professional and licensed physician, physician assistant, or psychiatric advanced registered nurse practitioner determine that the initial needs of the person, if detained to an evaluation and treatment facility, would be better served by placement in a **secure withdrawal management and stabilization facility or approved** substance use disorder treatment program, or, if detained to a secure withdrawal management and stabilization facility or approved substance use disorder treatment program, would be better served in an evaluation and treatment facility then the person shall be referred to the more appropriate placement **for the remainder of the current commitment period without any need for further court review**.
+
+3. An evaluation and treatment center, secure withdrawal management and stabilization facility, or approved substance use disorder treatment program admitting or accepting any person pursuant to this chapter whose physical condition reveals the need for hospitalization shall assure that such person is transferred to an appropriate hospital for evaluation or admission for treatment. Notice of such fact shall be given to the court, the designated attorney, and the designated crisis responder and the court shall order such continuance in proceedings under this chapter as may be necessary, but in no event may this continuance be more than fourteen days.
+
+
+## Section 8
+> This section modifies existing section [71.05.240](/rcw/71_mental_illness/71.05_mental_illness.md). Here is the [modified chapter](rcw/71_mental_illness/71.05_mental_illness.md) for context.
+
+1. If a petition is filed for fourteen day involuntary treatment or ninety days of less restrictive alternative treatment, the court shall hold a probable cause hearing within one hundred twenty hours of the initial detention of such person as determined in RCW 71.05.180, or at a time determined under RCW 71.05.148.
+
+2. If the petition is for mental health treatment, the court or the prosecutor at the time of the probable cause hearing and before an order of commitment is entered shall inform the person both orally and in writing that the failure to make a good faith effort to seek voluntary treatment as provided in RCW 71.05.230 will result in the loss of his or her firearm rights if the person is subsequently detained for involuntary treatment under this section.
+
+3. If the person or his or her attorney alleges, prior to the commencement of the hearing, that the person has in good faith volunteered for treatment, the petitioner must show, by preponderance of the evidence, that the person has not in good faith volunteered for appropriate treatment. In order to qualify as a good faith volunteer, the person must abide by procedures and a treatment plan as prescribed by a treatment facility and professional staff.
+
+4. [Empty]
+
+    a. Subject to (b) of this subsection, at the conclusion of the probable cause hearing, if the court finds by a preponderance of the evidence that such person, as the result of a behavioral health disorder, presents a likelihood of serious harm, or is gravely disabled, and, after considering less restrictive alternatives to involuntary detention and treatment, finds that no such alternatives are in the best interests of such person or others, the court shall order that such person be detained for involuntary treatment not to exceed fourteen days in a facility licensed or certified to provide treatment by the department or under RCW 71.05.745.
+
+    b. A court may only order commitment to a secure withdrawal management and stabilization facility or approved substance use disorder treatment program if there is an available facility with adequate space for the person.
+
+    c. At the conclusion of the probable cause hearing, if the court finds by a preponderance of the evidence that such person, as the result of a behavioral health disorder, presents a likelihood of serious harm or is gravely disabled, but that treatment in a less restrictive setting than detention is in the best interest of such person or others, the court shall order an appropriate less restrictive alternative course of treatment for up to ninety days.
+
+    d. If the court finds by a preponderance of the evidence that such person, as the result of a behavioral health disorder, is in need of assisted outpatient behavioral health treatment, and that the person does not present a likelihood of serious harm and is not gravely disabled, the court shall order an appropriate less restrictive alternative course of treatment for up to ninety days.
+
+5. An order for less restrictive alternative treatment must name the behavioral health service provider responsible for identifying the services the person will receive in accordance with RCW 71.05.585, and must include a requirement that the person cooperate with the treatment recommendations of the behavioral health service provider.
+
+6. The court shall notify the person orally and in writing that if involuntary treatment is sought beyond the fourteen-day inpatient or ninety-day less restrictive treatment period, the person has the right to a full hearing or jury trial under RCW 71.05.310. If the commitment is for mental health treatment, the court shall also notify the person orally and in writing that the person is barred from the possession of firearms and that the prohibition remains in effect until a court restores his or her right to possess a firearm under RCW 9.41.047.
+
+7. If the court does not issue an order to detain a person under this section, the court shall issue an order to dismiss the petition.
+
+8. **Nothing in this section precludes the court from subsequently modifying the terms of an order for less restrictive alternative treatment under RCW 71.05.590(3).**
+
+
+## Section 9
+> This section modifies existing section [71.05.240](/rcw/71_mental_illness/71.05_mental_illness.md). Here is the [modified chapter](rcw/71_mental_illness/71.05_mental_illness.md) for context.
+
+1. If a petition is filed for fourteen day involuntary treatment or ninety days of less restrictive alternative treatment, the court shall hold a probable cause hearing within one hundred twenty hours of the initial detention of such person as determined in RCW 71.05.180, or at a time determined under RCW 71.05.148.
+
+2. If the petition is for mental health treatment, the court or the prosecutor at the time of the probable cause hearing and before an order of commitment is entered shall inform the person both orally and in writing that the failure to make a good faith effort to seek voluntary treatment as provided in RCW 71.05.230 will result in the loss of his or her firearm rights if the person is subsequently detained for involuntary treatment under this section.
+
+3. If the person or his or her attorney alleges, prior to the commencement of the hearing, that the person has in good faith volunteered for treatment, the petitioner must show, by preponderance of the evidence, that the person has not in good faith volunteered for appropriate treatment. In order to qualify as a good faith volunteer, the person must abide by procedures and a treatment plan as prescribed by a treatment facility and professional staff.
+
+4. [Empty]
+
+    a. At the conclusion of the probable cause hearing, if the court finds by a preponderance of the evidence that such person, as the result of a behavioral health disorder, presents a likelihood of serious harm, or is gravely disabled, and, after considering less restrictive alternatives to involuntary detention and treatment, finds that no such alternatives are in the best interests of such person or others, the court shall order that such person be detained for involuntary treatment not to exceed fourteen days in a facility licensed or certified to provide treatment by the department or under RCW 71.05.745.
+
+    b. At the conclusion of the probable cause hearing, if the court finds by a preponderance of the evidence that such person, as the result of a behavioral health disorder, presents a likelihood of serious harm or is gravely disabled, but that treatment in a less restrictive setting than detention is in the best interest of such person or others, the court shall order an appropriate less restrictive alternative course of treatment for up to ninety days.
+
+    c. If the court finds by a preponderance of the evidence that such person, as the result of a behavioral health disorder, is in need of assisted outpatient behavioral health treatment, and that the person does not present a likelihood of serious harm and is not gravely disabled, the court shall order an appropriate less restrictive alternative course of treatment for up to ninety days.
+
+5. An order for less restrictive alternative treatment must name the behavioral health service provider responsible for identifying the services the person will receive in accordance with RCW 71.05.585, and must include a requirement that the person cooperate with the treatment recommendations of the behavioral health service provider.
+
+6. The court shall notify the person orally and in writing that if involuntary treatment is sought beyond the fourteen-day inpatient or ninety-day less restrictive treatment period, such person has the right to a full hearing or jury trial under RCW 71.05.310. If the commitment is for mental health treatment, the court shall also notify the person orally and in writing that the person is barred from the possession of firearms and that the prohibition remains in effect until a court restores his or her right to possess a firearm under RCW 9.41.047.
+
+7. If the court does not issue an order to detain a person under this section, the court shall issue an order to dismiss the petition.
+
+8. **Nothing in this section precludes the court from subsequently modifying the terms of an order for less restrictive alternative treatment under RCW 71.05.590(3).**
+
+
+## Section 10
+> This section modifies existing section [71.05.320](/rcw/71_mental_illness/71.05_mental_illness.md). Here is the [modified chapter](rcw/71_mental_illness/71.05_mental_illness.md) for context.
+
+1. [Empty]
+
+    a. Subject to (b) of this subsection, if the court or jury finds that grounds set forth in RCW 71.05.280 have been proven and that the best interests of the person or others will not be served by a less restrictive treatment which is an alternative to detention, the court shall remand him or her to the custody of the department of social and health services or to a facility certified for ninety day treatment by the department for a further period of intensive treatment not to exceed ninety days from the date of judgment.
+
+    b. If the order for inpatient treatment is based on a substance use disorder, treatment must take place at an approved substance use disorder treatment program. The court may only enter an order for commitment based on a substance use disorder if there is an available approved substance use disorder treatment program with adequate space for the person.
+
+    c. If the grounds set forth in RCW 71.05.280(3) are the basis of commitment, then the period of treatment may be up to but not exceed one hundred eighty days from the date of judgment to the custody of the department of social and health services or to a facility certified for one hundred eighty-day treatment by the department or under RCW 71.05.745.
+
+2. If the court or jury finds that grounds set forth in RCW 71.05.280 have been proven, but finds that treatment less restrictive than detention will be in the best interest of the person or others, then the court shall remand him or her to the custody of the department of social and health services or to a facility certified for ninety day treatment by the department or to a less restrictive alternative for a further period of less restrictive treatment not to exceed ninety days from the date of judgment. If the grounds set forth in RCW 71.05.280(3) are the basis of commitment, then the period of treatment may be up to but not exceed one hundred eighty days from the date of judgment. If the court or jury finds that the grounds set forth in RCW 71.05.280(5) have been proven, and provide the only basis for commitment, the court must enter an order for less restrictive alternative treatment for up to ninety days from the date of judgment and may not order inpatient treatment.
+
+3. An order for less restrictive alternative treatment entered under subsection (2) of this section must name the behavioral health service provider responsible for identifying the services the person will receive in accordance with RCW 71.05.585, and must include a requirement that the person cooperate with the services planned by the behavioral health service provider.
+
+4. The person shall be released from involuntary treatment at the expiration of the period of commitment imposed under subsection (1) or (2) of this section unless the superintendent or professional person in charge of the facility in which he or she is confined, or in the event of a less restrictive alternative, the designated crisis responder, files a new petition for involuntary treatment on the grounds that the committed person:
+
+    a. During the current period of court ordered treatment: (i) Has threatened, attempted, or inflicted physical harm upon the person of another, or substantial damage upon the property of another, and (ii) as a result of a behavioral health disorder or developmental disability presents a likelihood of serious harm; or
+
+    b. Was taken into custody as a result of conduct in which he or she attempted or inflicted serious physical harm upon the person of another, and continues to present, as a result of a behavioral health disorder or developmental disability, a likelihood of serious harm; or
+
+    c. [Empty]
+
+        i. Is in custody pursuant to RCW 71.05.280(3) and as a result of a behavioral health disorder or developmental disability continues to present a substantial likelihood of repeating acts similar to the charged criminal behavior, when considering the person's life history, progress in treatment, and the public safety.
+
+        ii. In cases under this subsection where the court has made an affirmative special finding under RCW 71.05.280(3)(b), the commitment shall continue for up to an additional one hundred eighty-day period whenever the petition presents prima facie evidence that the person continues to suffer from a behavioral health disorder or developmental disability that results in a substantial likelihood of committing acts similar to the charged criminal behavior, unless the person presents proof through an admissible expert opinion that the person's condition has so changed such that the behavioral health disorder or developmental disability no longer presents a substantial likelihood of the person committing acts similar to the charged criminal behavior. The initial or additional commitment period may include transfer to a specialized program of intensive support and treatment, which may be initiated prior to or after discharge from the state hospital; or
+
+    d. Continues to be gravely disabled; or
+
+    e. Is in need of assisted outpatient behavioral health treatment.
+
+If the conduct required to be proven in (b) and (c) of this subsection was found by a judge or jury in a prior trial under this chapter, it shall not be necessary to prove such conduct again.
+
+If less restrictive alternative treatment is sought, the petition shall set forth any recommendations for less restrictive alternative treatment services.
+
+5. A new petition for involuntary treatment filed under subsection (4) of this section shall be filed and heard in the superior court of the county of the facility which is filing the new petition for involuntary treatment unless good cause is shown for a change of venue. The cost of the proceedings shall be borne by the state.
+
+6. [Empty]
+
+    a. The hearing shall be held as provided in RCW 71.05.310, and if the court or jury finds that the grounds for additional confinement as set forth in this section are present, subject to subsection (1)(b) of this section, the court may order the committed person returned for an additional period of treatment not to exceed one hundred eighty days from the date of judgment, except as provided in subsection (7) of this section. If the court's order is based solely on the grounds identified in subsection (4)(e) of this section, the court may enter an order for less restrictive alternative treatment not to exceed one hundred eighty days from the date of judgment, and may not enter an order for inpatient treatment. An order for less restrictive alternative treatment must name the behavioral health service provider responsible for identifying the services the person will receive in accordance with RCW 71.05.585, and must include a requirement that the person cooperate with the services planned by the behavioral health service provider.
+
+    b. At the end of the one hundred eighty-day period of commitment, or one-year period of commitment if subsection (7) of this section applies, the committed person shall be released unless a petition for an additional one hundred eighty-day period of continued treatment is filed and heard in the same manner as provided in this section. Successive one hundred eighty-day commitments are permissible on the same grounds and pursuant to the same procedures as the original one hundred eighty-day commitment.
+
+7. An order for less restrictive treatment entered under subsection (6) of this section may be for up to one year when the person's previous commitment term was for intensive inpatient treatment in a state hospital.
+
+8. No person committed as provided in this section may be detained unless a valid order of commitment is in effect. No order of commitment can exceed one hundred eighty days in length except as provided in subsection (7) of this section.
+
+9. **Nothing in this section precludes the court from subsequently modifying the terms of an order for less restrictive alternative treatment under RCW 71.05.590(3).**
+
+
+## Section 11
+> This section modifies existing section [71.05.320](/rcw/71_mental_illness/71.05_mental_illness.md). Here is the [modified chapter](rcw/71_mental_illness/71.05_mental_illness.md) for context.
+
+1. If the court or jury finds that grounds set forth in RCW 71.05.280 have been proven and that the best interests of the person or others will not be served by a less restrictive treatment which is an alternative to detention, the court shall remand him or her to the custody of the department of social and health services or to a facility certified for ninety day treatment by the department for a further period of intensive treatment not to exceed ninety days from the date of judgment.
+
+If the order for inpatient treatment is based on a substance use disorder, treatment must take place at an approved substance use disorder treatment program. If the grounds set forth in RCW 71.05.280(3) are the basis of commitment, then the period of treatment may be up to but not exceed one hundred eighty days from the date of judgment to the custody of the department of social and health services or to a facility certified for one hundred eighty-day treatment by the department or under RCW 71.05.745.
+
+2. If the court or jury finds that grounds set forth in RCW 71.05.280 have been proven, but finds that treatment less restrictive than detention will be in the best interest of the person or others, then the court shall remand him or her to the custody of the department of social and health services or to a facility certified for ninety day treatment by the department or to a less restrictive alternative for a further period of less restrictive treatment not to exceed ninety days from the date of judgment. If the grounds set forth in RCW 71.05.280(3) are the basis of commitment, then the period of treatment may be up to but not exceed one hundred eighty days from the date of judgment. If the court or jury finds that the grounds set forth in RCW 71.05.280(5) have been proven, and provide the only basis for commitment, the court must enter an order for less restrictive alternative treatment for up to ninety days from the date of judgment and may not order inpatient treatment.
+
+3. An order for less restrictive alternative treatment entered under subsection (2) of this section must name the behavioral health service provider responsible for identifying the services the person will receive in accordance with RCW 71.05.585, and must include a requirement that the person cooperate with the services planned by the behavioral health service provider.
+
+4. The person shall be released from involuntary treatment at the expiration of the period of commitment imposed under subsection (1) or (2) of this section unless the superintendent or professional person in charge of the facility in which he or she is confined, or in the event of a less restrictive alternative, the designated crisis responder, files a new petition for involuntary treatment on the grounds that the committed person:
+
+    a. During the current period of court ordered treatment: (i) Has threatened, attempted, or inflicted physical harm upon the person of another, or substantial damage upon the property of another, and (ii) as a result of a behavioral health disorder or developmental disability presents a likelihood of serious harm; or
+
+    b. Was taken into custody as a result of conduct in which he or she attempted or inflicted serious physical harm upon the person of another, and continues to present, as a result of a behavioral health disorder or developmental disability, a likelihood of serious harm; or
+
+    c. [Empty]
+
+        i. Is in custody pursuant to RCW 71.05.280(3) and as a result of a behavioral health disorder or developmental disability continues to present a substantial likelihood of repeating acts similar to the charged criminal behavior, when considering the person's life history, progress in treatment, and the public safety.
+
+        ii. In cases under this subsection where the court has made an affirmative special finding under RCW 71.05.280(3)(b), the commitment shall continue for up to an additional one hundred eighty-day period whenever the petition presents prima facie evidence that the person continues to suffer from a behavioral health disorder or developmental disability that results in a substantial likelihood of committing acts similar to the charged criminal behavior, unless the person presents proof through an admissible expert opinion that the person's condition has so changed such that the behavioral health disorder or developmental disability no longer presents a substantial likelihood of the person committing acts similar to the charged criminal behavior. The initial or additional commitment period may include transfer to a specialized program of intensive support and treatment, which may be initiated prior to or after discharge from the state hospital; or
+
+    d. Continues to be gravely disabled; or
+
+    e. Is in need of assisted outpatient behavioral health treatment.
+
+If the conduct required to be proven in (b) and (c) of this subsection was found by a judge or jury in a prior trial under this chapter, it shall not be necessary to prove such conduct again.
+
+If less restrictive alternative treatment is sought, the petition shall set forth any recommendations for less restrictive alternative treatment services.
+
+5. A new petition for involuntary treatment filed under subsection (4) of this section shall be filed and heard in the superior court of the county of the facility which is filing the new petition for involuntary treatment unless good cause is shown for a change of venue. The cost of the proceedings shall be borne by the state.
+
+6. [Empty]
+
+    a. The hearing shall be held as provided in RCW 71.05.310, and if the court or jury finds that the grounds for additional confinement as set forth in this section are present, the court may order the committed person returned for an additional period of treatment not to exceed one hundred eighty days from the date of judgment, except as provided in subsection (7) of this section. If the court's order is based solely on the grounds identified in subsection (4)(e) of this section, the court may enter an order for less restrictive alternative treatment not to exceed one hundred eighty days from the date of judgment, and may not enter an order for inpatient treatment. An order for less restrictive alternative treatment must name the behavioral health service provider responsible for identifying the services the person will receive in accordance with RCW 71.05.585, and must include a requirement that the person cooperate with the services planned by the behavioral health service provider.
+
+    b. At the end of the one hundred eighty-day period of commitment, or one-year period of commitment if subsection (7) of this section applies, the committed person shall be released unless a petition for an additional one hundred eighty-day period of continued treatment is filed and heard in the same manner as provided in this section. Successive one hundred eighty-day commitments are permissible on the same grounds and pursuant to the same procedures as the original one hundred eighty-day commitment.
+
+7. An order for less restrictive treatment entered under subsection (6) of this section may be for up to one year when the person's previous commitment term was for intensive inpatient treatment in a state hospital.
+
+8. No person committed as provided in this section may be detained unless a valid order of commitment is in effect. No order of commitment can exceed one hundred eighty days in length except as provided in subsection (7) of this section.
+
+9. **Nothing in this section precludes the court from subsequently modifying the terms of an order for less restrictive alternative treatment under RCW 71.05.590(3).**
+
+
+## Section 12
+> This section modifies existing section [71.05.340](/rcw/71_mental_illness/71.05_mental_illness.md). Here is the [modified chapter](rcw/71_mental_illness/71.05_mental_illness.md) for context.
+
+1. [Empty]
+
+    a. When, in the opinion of the superintendent or the professional person in charge of the hospital or facility providing involuntary treatment, the committed person can be appropriately served by outpatient treatment prior to or at the expiration of the period of commitment, then such outpatient care may be required as a term of conditional release for a period which, when **combined with the number of days the person has spent in** inpatient treatment , shall not exceed **90 days if the underlying commitment was for a period of 14 or 90 days, or 180 days if the underlying commitment was for a period of 180 days**. If the facility or agency designated to provide outpatient treatment is other than the facility providing involuntary treatment, the outpatient facility so designated must agree in writing to assume such responsibility. A copy of the terms of conditional release shall be given to the patient, the designated crisis responder in the county in which the patient is to receive outpatient treatment, and to the court of original commitment.
+
+    b. Before a person committed under grounds set forth in RCW 71.05.280(3) or 71.05.320(4)(c) is conditionally released under (a) of this subsection, the superintendent or professional person in charge of the hospital or facility providing involuntary treatment shall in writing notify the prosecuting attorney of the county in which the criminal charges against the committed person were dismissed, of the decision to conditionally release the person. Notice and a copy of the terms of conditional release shall be provided at least thirty days before the person is released from inpatient care. Within twenty days after receiving notice, the prosecuting attorney may petition the court in the county that issued the commitment order to hold a hearing to determine whether the person may be conditionally released and the terms of the conditional release. The prosecuting attorney shall provide a copy of the petition to the superintendent or professional person in charge of the hospital or facility providing involuntary treatment, the attorney, if any, and guardian or conservator of the committed person, and the court of original commitment. If the county in which the committed person is to receive outpatient treatment is the same county in which the criminal charges against the committed person were dismissed, then the court shall, upon the motion of the prosecuting attorney, transfer the proceeding to the court in that county. The court shall conduct a hearing on the petition within ten days of the filing of the petition. The committed person shall have the same rights with respect to notice, hearing, and counsel as for an involuntary treatment proceeding, except as set forth in this subsection and except that there shall be no right to jury trial. The issue to be determined at the hearing is whether or not the person may be conditionally released without substantial danger to other persons, or substantial likelihood of committing criminal acts jeopardizing public safety or security. If the court disapproves of the conditional release, it may do so only on the basis of substantial evidence. Pursuant to the determination of the court upon the hearing, the conditional release of the person shall be approved by the court on the same or modified conditions or the person shall be returned for involuntary treatment on an inpatient basis subject to release at the end of the period for which he or she was committed, or otherwise in accordance with the provisions of this chapter.
+
+2. The facility or agency designated to provide outpatient care or the secretary of the department of social and health services may modify the conditions for continued release when such modification is in the best interest of the person. Notification of such changes shall be sent to all persons receiving a copy of the original conditions. Enforcement or revocation proceedings related to a conditional release  may occur as provided under RCW 71.05.590.
+
+
+## Section 13
+> This section modifies existing section [71.05.585](/rcw/71_mental_illness/71.05_mental_illness.md). Here is the [modified chapter](rcw/71_mental_illness/71.05_mental_illness.md) for context.
+
+1. Less restrictive alternative treatment, at a minimum, includes the following services:
+
+    a. Assignment of a care coordinator;
+
+    b. An intake evaluation with the provider of the less restrictive alternative treatment;
+
+    c. A psychiatric evaluation**, a substance use disorder evaluation, or both**;
+
+    d. A schedule of regular contacts with the provider of the  treatment services for the duration of the order;
+
+    e. A transition plan addressing access to continued services at the expiration of the order;
+
+    f. An individual crisis plan;
+
+    g. **Consultation about the formation of a mental health advance directive under chapter 71.32 RCW; and**
+
+    h. Notification to the care coordinator assigned in (a) of this subsection if reasonable efforts to engage the client fail to produce substantial compliance with court-ordered treatment conditions.
+
+2. Less restrictive alternative treatment may additionally include requirements to participate in the following services:
+
+    a. Medication management;
+
+    b. Psychotherapy;
+
+    c. Nursing;
+
+    d. Substance **use disorder** counseling;
+
+    e. Residential treatment;
+
+    f. Support for housing, benefits, education, and employment**; and**
+
+    g. **Periodic court review**.
+
+3. If the person was provided with involuntary medication under RCW 71.05.215 or pursuant to a judicial order during the involuntary commitment period, the less restrictive alternative treatment order may authorize the less restrictive alternative treatment provider or its designee to administer involuntary antipsychotic medication to the person if the provider has attempted and failed to obtain the informed consent of the person and there is a concurring medical opinion approving the medication by a psychiatrist, physician assistant working with a supervising psychiatrist, psychiatric advanced registered nurse practitioner, or physician or physician assistant in consultation with an independent mental health professional with prescribing authority.
+
+4. Less restrictive alternative treatment must be administered by a provider that is certified or licensed to provide or coordinate the full scope of services required under the less restrictive alternative order and that has agreed to assume this responsibility.
+
+5. The care coordinator assigned to a person ordered to less restrictive alternative treatment must submit an individualized plan for the person's treatment services to the court that entered the order. An initial plan must be submitted as soon as possible following the intake evaluation and a revised plan must be submitted upon any subsequent modification in which a type of service is removed from or added to the treatment plan.
+
+6. **A care coordinator may disclose information and records related to mental health services pursuant to RCW 70.02.230(2)(k) for purposes of implementing less restrictive alternative treatment.**
+
+7. For the purpose of this section, "care coordinator" means a clinical practitioner who coordinates the activities of less restrictive alternative treatment. The care coordinator coordinates activities with the designated crisis responders that are necessary for enforcement and continuation of less restrictive alternative orders and is responsible for coordinating service activities with other agencies and establishing and maintaining a therapeutic relationship with the individual on a continuing basis.
+
+
+## Section 14
+> This section modifies existing section [71.05.590](/rcw/71_mental_illness/71.05_mental_illness.md). Here is the [modified chapter](rcw/71_mental_illness/71.05_mental_illness.md) for context.
+
+1. Either an agency or facility designated to monitor or provide services under a less restrictive alternative order or conditional release , or a designated crisis responder, may take action to enforce, modify, or revoke a less restrictive alternative or conditional release . The agency, facility, or designated crisis responder must determine that:
+
+    a. The person is failing to adhere to the terms and conditions of the court order;
+
+    b. Substantial deterioration in the person's functioning has occurred;
+
+    c. There is evidence of substantial decompensation with a reasonable probability that the decompensation can be reversed by further evaluation, intervention, or treatment; or
+
+    d. The person poses a likelihood of serious harm.
+
+2. Actions taken under this section must include a flexible range of responses of varying levels of intensity appropriate to the circumstances and consistent with the interests of the individual and the public in personal autonomy, safety, recovery, and compliance. Available actions may include, but are not limited to, any of the following:
+
+    a. To counsel or advise the person as to their rights and responsibilities under the court order, and to offer appropriate incentives to motivate compliance;
+
+    b. To increase the intensity of outpatient services provided to the person by increasing the frequency of contacts with the provider, referring the person for an assessment for assertive community services, or by other means;
+
+    c. To request a court hearing for review and modification of the court order. The request must be made to or by the court with jurisdiction over the order and specify the circumstances that give rise to the request and what modification is being sought. The county prosecutor shall assist the agency or facility in requesting this hearing and issuing an appropriate summons to the person. This subsection does not limit the inherent authority of a treatment provider to alter conditions of treatment for clinical reasons, and is intended to be used only when court intervention is necessary or advisable to secure the person's compliance and prevent decompensation or deterioration;
+
+    d. To cause the person to be transported by a peace officer, designated crisis responder, or other means to the agency or facility monitoring or providing services under the court order, or to a triage facility, crisis stabilization unit, emergency department, evaluation and treatment facility, secure withdrawal management and stabilization facility with available space, or an approved substance use disorder treatment program with available space. The person may be detained at the facility for up to twelve hours for the purpose of an evaluation to determine whether modification, revocation, or commitment proceedings are necessary and appropriate to stabilize the person and prevent decompensation, deterioration, or physical harm. Temporary detention for evaluation under this subsection is intended to occur only following a pattern of noncompliance or the failure of reasonable attempts at outreach and engagement, and may occur only when in the clinical judgment of a designated crisis responder or the professional person in charge of an agency or facility designated to monitor less restrictive alternative services temporary detention is appropriate. This subsection does not limit the ability or obligation to pursue revocation procedures under subsection (5) of this section in appropriate circumstances; and
+
+    e. To initiate revocation procedures under subsection (5) of this section or, if the current commitment is solely based on the person being in need of assisted outpatient behavioral health treatment as defined in RCW 71.05.020, initiate initial inpatient detention procedures under subsection (7) of this section.
+
+3. **A court may supervise a person on an order for less restrictive alternative treatment or a conditional release. While the person is under the order, the court may:**
+
+    a. **Require appearance in court for periodic reviews; and**
+
+    b. **Modify the order after considering input from the agency or facility designated to provide or facilitate services. The court may not remand the person into inpatient treatment except as provided under subsection (5) of this section, but may take actions under subsection (2)(a) through (d) of this section.**
+
+4. The facility or agency designated to provide outpatient treatment shall notify the secretary of the department of social and health services or designated crisis responder when a person fails to adhere to terms and conditions of court ordered treatment or experiences substantial deterioration in his or her condition and, as a result, presents an increased likelihood of serious harm.
+
+5. [Empty]
+
+    a. Except as provided in subsection (7) of this section, a designated crisis responder or the secretary of the department of social and health services may upon their own motion or notification by the facility or agency designated to provide outpatient care order a person subject to a court order under this chapter to be apprehended and taken into custody and temporary detention in an evaluation and treatment facility, an available secure withdrawal management and stabilization facility with adequate space, or an available approved substance use disorder treatment program with adequate space, in or near the county in which he or she is receiving outpatient treatment. Proceedings under this subsection (5) may be initiated without ordering the apprehension and detention of the person.
+
+    b. Except as provided in subsection (7) of this section, a person detained under this subsection (5) must be held until such time, not exceeding five days, as a hearing can be scheduled to determine whether or not the person should be returned to the hospital or facility from which he or she had been released. If the person is not detained, the hearing must be scheduled within five days of service on the person. The designated crisis responder or the secretary of the department of social and health services may modify or rescind the order at any time prior to commencement of the court hearing.
+
+    c. The designated crisis responder or secretary of the department of social and health services shall file a revocation petition and order of apprehension and detention with the court of the county where the person is currently located or being detained. The designated crisis responder shall serve the person and their attorney, guardian, and conservator, if any. The person has the same rights with respect to notice, hearing, and counsel as in any involuntary treatment proceeding, except as specifically set forth in this section. There is no right to jury trial. The venue for proceedings is the county where the petition is filed. Notice of the filing must be provided to the court that originally ordered commitment, if different from the court where the petition for revocation is filed, within two judicial days of the person's detention.
+
+    d. Except as provided in subsection (7) of this section, the issues for the court to determine are whether: (i) The person adhered to the terms and conditions of the court order; (ii) substantial deterioration in the person's functioning has occurred; (iii) there is evidence of substantial decompensation with a reasonable probability that the decompensation can be reversed by further inpatient treatment; or (iv) there is a likelihood of serious harm; and, if any of the above conditions apply, whether the court should reinstate or modify the person's less restrictive alternative or conditional release  or order the person's detention for inpatient treatment. The person may waive the court hearing and allow the court to enter a stipulated order upon the agreement of all parties. If the court orders detention for inpatient treatment, the treatment period must be for fourteen days from the revocation hearing if the outpatient order was based on a petition under RCW 71.05.160 or 71.05.230. If the court orders detention for inpatient treatment and the outpatient order was based on a petition under RCW 71.05.290 or 71.05.320, the number of days remaining on the outpatient order must be converted to days of inpatient treatment authorized in the original court order. A court may not issue an order to detain a person for inpatient treatment in a secure withdrawal management and stabilization facility or approved substance use disorder treatment program under this subsection unless there is a secure withdrawal management and stabilization facility or approved substance use disorder treatment program available and with adequate space for the person.
+
+6. In determining whether or not to take action under this section the designated crisis responder, agency, or facility must consider the factors specified under RCW 71.05.212 and the court must consider the factors specified under RCW 71.05.245 as they apply to the question of whether to enforce, modify, or revoke a court order for involuntary treatment.
+
+7. [Empty]
+
+    a. If the current commitment is solely based on the person being in need of assisted outpatient behavioral health treatment as defined in RCW 71.05.020, a designated crisis responder may initiate inpatient detention procedures under RCW 71.05.150 or 71.05.153 when appropriate. A designated crisis responder or the secretary may, upon their own motion or notification by the facility or agency designated to provide outpatient care to a person subject to a less restrictive alternative treatment order under RCW 71.05.320 subsequent to an order for assisted outpatient behavioral health treatment entered under RCW 71.05.148, order the person to be apprehended and taken into custody and temporary detention for inpatient evaluation in an evaluation and treatment facility, secure withdrawal management and stabilization facility, or in an approved substance use disorder treatment program, in or near the county in which he or she is receiving outpatient treatment. Proceedings under this subsection may be initiated without ordering the apprehension and detention of the person.
+
+    b. A person detained under this subsection may be held for evaluation for up to one hundred twenty hours, excluding weekends and holidays, pending a court hearing. If the person is not detained, the hearing must be scheduled within one hundred twenty hours of service on the person. The designated crisis responder or the secretary may modify or rescind the order at any time prior to commencement of the court hearing.
+
+    c. The issues for the court to determine are whether to continue the detention of the person for inpatient treatment or whether the court should reinstate or modify the person's less restrictive alternative order or order the person's detention for inpatient treatment. To continue detention after the one hundred twenty hour period, the court must find that the person, as a result of a behavioral health disorder, presents a likelihood of serious harm or is gravely disabled and, after considering less restrictive alternatives to involuntary detention and treatment, that no such alternatives are in the best interest of the person or others.
+
+    d. A court may not issue an order to detain a person for inpatient treatment in a secure withdrawal management and stabilization facility or approved substance use disorder program under this subsection unless there is a secure withdrawal management and stabilization facility or approved substance use disorder treatment program available and with adequate space for the person.
+
+
+## Section 15
+> This section modifies existing section [71.05.590](/rcw/71_mental_illness/71.05_mental_illness.md). Here is the [modified chapter](rcw/71_mental_illness/71.05_mental_illness.md) for context.
+
+1. Either an agency or facility designated to monitor or provide services under a less restrictive alternative order or conditional release , or a designated crisis responder, may take action to enforce, modify, or revoke a less restrictive alternative or conditional release . The agency, facility, or designated crisis responder must determine that:
+
+    a. The person is failing to adhere to the terms and conditions of the court order;
+
+    b. Substantial deterioration in the person's functioning has occurred;
+
+    c. There is evidence of substantial decompensation with a reasonable probability that the decompensation can be reversed by further evaluation, intervention, or treatment; or
+
+    d. The person poses a likelihood of serious harm.
+
+2. Actions taken under this section must include a flexible range of responses of varying levels of intensity appropriate to the circumstances and consistent with the interests of the individual and the public in personal autonomy, safety, recovery, and compliance. Available actions may include, but are not limited to, any of the following:
+
+    a. To counsel or advise the person as to their rights and responsibilities under the court order, and to offer appropriate incentives to motivate compliance;
+
+    b. To increase the intensity of outpatient services provided to the person by increasing the frequency of contacts with the provider, referring the person for an assessment for assertive community services, or by other means;
+
+    c. To request a court hearing for review and modification of the court order. The request must be made to or by the court with jurisdiction over the order and specify the circumstances that give rise to the request and what modification is being sought. The county prosecutor shall assist the agency or facility in requesting this hearing and issuing an appropriate summons to the person. This subsection does not limit the inherent authority of a treatment provider to alter conditions of treatment for clinical reasons, and is intended to be used only when court intervention is necessary or advisable to secure the person's compliance and prevent decompensation or deterioration;
+
+    d. To cause the person to be transported by a peace officer, designated crisis responder, or other means to the agency or facility monitoring or providing services under the court order, or to a triage facility, crisis stabilization unit, emergency department, evaluation and treatment facility, secure withdrawal management and stabilization facility, or an approved substance use disorder treatment program. The person may be detained at the facility for up to twelve hours for the purpose of an evaluation to determine whether modification, revocation, or commitment proceedings are necessary and appropriate to stabilize the person and prevent decompensation, deterioration, or physical harm. Temporary detention for evaluation under this subsection is intended to occur only following a pattern of noncompliance or the failure of reasonable attempts at outreach and engagement, and may occur only when in the clinical judgment of a designated crisis responder or the professional person in charge of an agency or facility designated to monitor less restrictive alternative services temporary detention is appropriate. This subsection does not limit the ability or obligation to pursue revocation procedures under subsection (5) of this section in appropriate circumstances; and
+
+    e. To initiate revocation procedures under subsection (5) of this section or, if the current commitment is solely based on the person being in need of assisted outpatient behavioral health treatment as defined in RCW 71.05.020, initial inpatient detention procedures under subsection (7) of this section.
+
+3. **A court may supervise a person on an order for less restrictive alternative treatment or a conditional release. While the person is under the order, the court may:**
+
+    a. **Require appearance in court for periodic reviews; and**
+
+    b. **Modify the order after considering input from the agency or facility designated to provide or facilitate services. The court may not remand the person into inpatient treatment except as provided under subsection (5) of this section, but may take actions under subsection (2)(a) through (d) of this section.**
+
+4. The facility or agency designated to provide outpatient treatment shall notify the secretary of the department of social and health services or designated crisis responder when a person fails to adhere to terms and conditions of court ordered treatment or experiences substantial deterioration in his or her condition and, as a result, presents an increased likelihood of serious harm.
+
+5. [Empty]
+
+    a. Except as provided in subsection (7) of this section, a designated crisis responder or the secretary of the department of social and health services may upon their own motion or notification by the facility or agency designated to provide outpatient care order a person subject to a court order under this chapter to be apprehended and taken into custody and temporary detention in an evaluation and treatment facility, in a secure withdrawal management and stabilization facility, or in an approved substance use disorder treatment program, in or near the county in which he or she is receiving outpatient treatment. Proceedings under this subsection (5) may be initiated without ordering the apprehension and detention of the person.
+
+    b. Except as provided in subsection (7) of this section, a person detained under this subsection (5) must be held until such time, not exceeding five days, as a hearing can be scheduled to determine whether or not the person should be returned to the hospital or facility from which he or she had been released. If the person is not detained, the hearing must be scheduled within five days of service on the person. The designated crisis responder or the secretary of the department of social and health services may modify or rescind the order at any time prior to commencement of the court hearing.
+
+    c. The designated crisis responder or secretary of the department of social and health services shall file a revocation petition and order of apprehension and detention with the court of the county where the person is currently located or being detained. The designated crisis responder shall serve the person and their attorney, guardian, and conservator, if any. The person has the same rights with respect to notice, hearing, and counsel as in any involuntary treatment proceeding, except as specifically set forth in this section. There is no right to jury trial. The venue for proceedings is the county where the petition is filed. Notice of the filing must be provided to the court that originally ordered commitment, if different from the court where the petition for revocation is filed, within two judicial days of the person's detention.
+
+    d. Except as provided in subsection (7) of this section, the issues for the court to determine are whether: (i) The person adhered to the terms and conditions of the court order; (ii) substantial deterioration in the person's functioning has occurred; (iii) there is evidence of substantial decompensation with a reasonable probability that the decompensation can be reversed by further inpatient treatment; or (iv) there is a likelihood of serious harm; and, if any of the above conditions apply, whether the court should reinstate or modify the person's less restrictive alternative or conditional release  or order the person's detention for inpatient treatment. The person may waive the court hearing and allow the court to enter a stipulated order upon the agreement of all parties. If the court orders detention for inpatient treatment, the treatment period must be for fourteen days from the revocation hearing if the outpatient order was based on a petition under RCW 71.05.160 or 71.05.230. If the court orders detention for inpatient treatment and the outpatient order was based on a petition under RCW 71.05.290 or 71.05.320, the number of days remaining on the outpatient order must be converted to days of inpatient treatment authorized in the original court order.
+
+6. In determining whether or not to take action under this section the designated crisis responder, agency, or facility must consider the factors specified under RCW 71.05.212 and the court must consider the factors specified under RCW 71.05.245 as they apply to the question of whether to enforce, modify, or revoke a court order for involuntary treatment.
+
+7. [Empty]
+
+    a. If the current commitment is solely based on the person being in need of assisted outpatient behavioral health treatment as defined in RCW 71.05.020, a designated crisis responder may initiate inpatient detention procedures under RCW 71.05.150 or 71.05.153 when appropriate. A designated crisis responder or the secretary may, upon their own motion or notification by the facility or agency designated to provide outpatient care to a person subject to a less restrictive alternative treatment order under RCW 71.05.320 subsequent to an order for assisted outpatient behavioral health treatment entered under RCW 71.05.148, order the person to be apprehended and taken into custody and temporary detention for inpatient evaluation in an evaluation and treatment facility, in a secure withdrawal management and stabilization facility, or in an approved substance use disorder treatment program, in or near the county in which he or she is receiving outpatient treatment. Proceedings under this subsection may be initiated without ordering the apprehension and detention of the person.
+
+    b. A person detained under this subsection may be held for evaluation for up to one hundred twenty hours, excluding weekends and holidays, pending a court hearing. The designated crisis responder or the secretary may modify or rescind the order at any time prior to commencement of the court hearing.
+
+    c. The issues for the court to determine are whether to continue the detention of the person for inpatient treatment or whether the court should reinstate or modify the person's less restrictive alternative order or order the person's detention for inpatient treatment. To continue detention after the one hundred twenty hour period, the court must find that the person, as a result of a behavioral health disorder, presents a likelihood of serious harm or is gravely disabled and, after considering less restrictive alternatives to involuntary detention and treatment, that no such alternatives are in the best interest of the person or others.
+
+
+## Section 16
+> This section modifies existing section [71.34.755](/rcw/71_mental_illness/71.34_behavioral_health_services_for_minors.md). Here is the [modified chapter](rcw/71_mental_illness/71.34_behavioral_health_services_for_minors.md) for context.
+
+1. Less restrictive alternative treatment, at a minimum, must include the following services:
+
+    a. Assignment of a care coordinator;
+
+    b. An intake evaluation with the provider of the less restrictive alternative treatment;
+
+    c. A psychiatric evaluation**, a substance use disorder evaluation, or both**;
+
+    d. A schedule of regular contacts with the provider of the less restrictive alternative treatment services for the duration of the order;
+
+    e. A transition plan addressing access to continued services at the expiration of the order;
+
+    f. An individual crisis plan; and
+
+    g. Notification to the care coordinator assigned in (a) of this subsection if reasonable efforts to engage the client fail to produce substantial compliance with court-ordered treatment conditions.
+
+2. Less restrictive alternative treatment may include the following additional services:
+
+    a. Medication management;
+
+    b. Psychotherapy;
+
+    c. Nursing;
+
+    d. Substance **use disorder** counseling;
+
+    e. Residential treatment;
+
+    f. Support for housing, benefits, education, and employment**; and**
+
+    g. **Periodic court review**.
+
+3. If the minor was provided with involuntary medication during the involuntary commitment period, the less restrictive alternative treatment order may authorize the less restrictive alternative treatment provider or its designee to administer involuntary antipsychotic medication to the person if the provider has attempted and failed to obtain the informed consent of the person and there is a concurring medical opinion approving the medication by a psychiatrist, physician assistant working with a supervising psychiatrist, psychiatric advanced registered nurse practitioner, or physician or physician assistant in consultation with an independent mental health professional with prescribing authority.
+
+4. Less restrictive alternative treatment must be administered by a provider that is certified or licensed to provide or coordinate the full scope of services required under the less restrictive alternative order and that has agreed to assume this responsibility.
+
+5. The care coordinator assigned to a minor ordered to less restrictive alternative treatment must submit an individualized plan for the minor's treatment services to the court that entered the order. An initial plan must be submitted as soon as possible following the intake evaluation and a revised plan must be submitted upon any subsequent modification in which a type of service is removed from or added to the treatment plan.
+
+6. **A care coordinator may disclose information and records related to mental health services pursuant to RCW 70.02.230(2)(k) for purposes of implementing less restrictive alternative treatment.**
+
+7. For the purpose of this section, "care coordinator" means a clinical practitioner who coordinates the activities of less restrictive alternative treatment. The care coordinator coordinates activities with the designated crisis responders that are necessary for enforcement and continuation of less restrictive alternative treatment orders and is responsible for coordinating service activities with other agencies and establishing and maintaining a therapeutic relationship with the individual on a continuing basis.
+
+
+## Section 17
+> This section modifies existing section [70.02.230](/rcw/70_public_health_and_safety/70.002_medical_records—health_care_information_access_and_disclosure.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.002_medical_records—health_care_information_access_and_disclosure.md) for context.
+
+1. **The** fact of admission to a provider for mental health services and all information and records compiled, obtained, or maintained in the course of providing mental health services to either voluntary or involuntary recipients of services at public or private agencies **may not be disclosed except as provided in this section, RCW 70.02.050, 71.05.445, 74.09.295, 70.02.210, 70.02.240, 70.02.250, 70.02.260, and 70.02.265, or under a valid authorization under RCW 70.02.030**.
+
+2. Information and records related to mental health services, other than those obtained through treatment under chapter 71.34 RCW, may be disclosed :
+
+    a. In communications between qualified professional persons to meet the requirements of chapter 71.05 RCW, including Indian health care providers, in the provision of services or appropriate referrals, or in the course of guardianship proceedings if provided to a professional person:
+
+        i. Employed by the facility;
+
+        ii. Who has medical responsibility for the patient's care;
+
+        iii. Who is a designated crisis responder;
+
+        iv. Who is providing services under chapter 71.24 RCW;
+
+    v. Who is employed by a state or local correctional facility where the person is confined or supervised; or
+
+    vi. Who is providing evaluation, treatment, or follow-up services under chapter 10.77 RCW;
+
+    b. When the communications regard the special needs of a patient and the necessary circumstances giving rise to such needs and the disclosure is made by a facility providing services to the operator of a facility in which the patient resides or will reside;
+
+    c. [Empty]
+
+        i. When the person receiving services, or his or her guardian, designates persons to whom information or records may be released, or if the person is a minor, when his or her parents make such a designation;
+
+        ii. A public or private agency shall release to a person's next of kin, attorney, personal representative, guardian, or conservator, if any:
+
+(A) The information that the person is presently a patient in the facility or that the person is seriously physically ill;
+
+(B) A statement evaluating the mental and physical condition of the patient, and a statement of the probable duration of the patient's confinement, if such information is requested by the next of kin, attorney, personal representative, guardian, or conservator; and
+
+        iii. Other information requested by the next of kin or attorney as may be necessary to decide whether or not proceedings should be instituted to appoint a guardian or conservator;
+
+    d. [Empty]
+
+        i. To the courts, including tribal courts, as necessary to the administration of chapter 71.05 RCW or to a court ordering an evaluation or treatment under chapter 10.77 RCW solely for the purpose of preventing the entry of any evaluation or treatment order that is inconsistent with any order entered under chapter 71.05 RCW.
+
+        ii. To a court or its designee in which a motion under chapter 10.77 RCW has been made for involuntary medication of a defendant for the purpose of competency restoration.
+
+        iii. Disclosure under this subsection is mandatory for the purpose of the federal health insurance portability and accountability act;
+
+    e. [Empty]
+
+        i. When a mental health professional or designated crisis responder is requested by a representative of a law enforcement or corrections agency, including a police officer, sheriff, community corrections officer, a municipal attorney, or prosecuting attorney to undertake an investigation or provide treatment under RCW 71.05.150, 10.31.110, or 71.05.153, the mental health professional or designated crisis responder shall, if requested to do so, advise the representative in writing of the results of the investigation including a statement of reasons for the decision to detain or release the person investigated. The written report must be submitted within seventy-two hours of the completion of the investigation or the request from the law enforcement or corrections representative, whichever occurs later.
+
+        ii. Disclosure under this subsection is mandatory for the purposes of the federal health insurance portability and accountability act;
+
+    f. To the attorney of the detained person;
+
+    g. To the prosecuting attorney as necessary to carry out the responsibilities of the office under RCW 71.05.330(2), 71.05.340(1)(b), and 71.05.335. The prosecutor must be provided access to records regarding the committed person's treatment and prognosis, medication, behavior problems, and other records relevant to the issue of whether treatment less restrictive than inpatient treatment is in the best interest of the committed person or others. Information must be disclosed only after giving notice to the committed person and the person's counsel;
+
+    h. [Empty]
+
+    i. To appropriate law enforcement agencies and to a person, when the identity of the person is known to the public or private agency, whose health and safety has been threatened, or who is known to have been repeatedly harassed, by the patient. The person may designate a representative to receive the disclosure. The disclosure must be made by the professional person in charge of the public or private agency or his or her designee and must include the dates of commitment, admission, discharge, or release, authorized or unauthorized absence from the agency's facility, and only any other information that is pertinent to the threat or harassment. The agency or its employees are not civilly liable for the decision to disclose or not, so long as the decision was reached in good faith and without gross negligence.
+
+        ii. Disclosure under this subsection is mandatory for the purposes of the federal health insurance portability and accountability act;
+
+        i. [Empty]
+
+        i. To appropriate corrections and law enforcement agencies all necessary and relevant information in the event of a crisis or emergent situation that poses a significant and imminent risk to the public. The mental health service agency or its employees are not civilly liable for the decision to disclose or not so long as the decision was reached in good faith and without gross negligence.
+
+        ii. Disclosure under this subsection is mandatory for the purposes of the health insurance portability and accountability act;
+
+    j. To the persons designated in RCW 71.05.425 for the purposes described in those sections;
+
+    k. **By a care coordinator under RCW 71.05.585 assigned to a person ordered to receive less restrictive alternative treatment for the purpose of sharing information to parties necessary for the implementation of proceedings under chapter 71.05 RCW;**
+
+    l. Upon the death of a person. The person's next of kin, personal representative, guardian, or conservator, if any, must be notified. Next of kin who are of legal age and competent must be notified under this section in the following order: Spouse, parents, children, brothers and sisters, and other relatives according to the degree of relation. Access to all records and information compiled, obtained, or maintained in the course of providing services to a deceased patient are governed by RCW 70.02.140;
+
+    m. To mark headstones or otherwise memorialize patients interred at state hospital cemeteries. The department of social and health services shall make available the name, date of birth, and date of death of patients buried in state hospital cemeteries fifty years after the death of a patient;
+
+    n. To law enforcement officers and to prosecuting attorneys as are necessary to enforce RCW 9.41.040(2)(a)(iv). The extent of information that may be released is limited as follows:
+
+        i. Only the fact, place, and date of involuntary commitment, an official copy of any order or orders of commitment, and an official copy of any written or oral notice of ineligibility to possess a firearm that was provided to the person pursuant to RCW 9.41.047(1), must be disclosed upon request;
+
+        ii. The law enforcement and prosecuting attorneys may only release the information obtained to the person's attorney as required by court rule and to a jury or judge, if a jury is waived, that presides over any trial at which the person is charged with violating RCW 9.41.040(2)(a)(iv);
+
+        iii. Disclosure under this subsection is mandatory for the purposes of the federal health insurance portability and accountability act;
+
+    o. When a patient would otherwise be subject to the provisions of this section and disclosure is necessary for the protection of the patient or others due to his or her unauthorized disappearance from the facility, and his or her whereabouts is unknown, notice of the disappearance, along with relevant information, may be made to relatives, the department of corrections when the person is under the supervision of the department, and governmental law enforcement agencies designated by the physician or psychiatric advanced registered nurse practitioner in charge of the patient or the professional person in charge of the facility, or his or her professional designee;
+
+    p. Pursuant to lawful order of a court, including a tribal court;
+
+    q. To qualified staff members of the department, to the authority, to behavioral health administrative services organizations, to managed care organizations, to resource management services responsible for serving a patient, or to service providers designated by resource management services as necessary to determine the progress and adequacy of treatment and to determine whether the person should be transferred to a less restrictive or more appropriate treatment modality or facility;
+
+    r. Within the mental health service agency or Indian health care provider facility where the patient is receiving treatment, confidential information may be disclosed to persons employed, serving in bona fide training programs, or participating in supervised volunteer programs, at the facility when it is necessary to perform their duties;
+
+    s. Within the department and the authority as necessary to coordinate treatment for mental illness, developmental disabilities,  or substance use disorder of persons who are under the supervision of the department;
+
+    t. Between the department of social and health services, the department of children, youth, and families, and the health care authority as necessary to coordinate treatment for mental illness, developmental disabilities, **or substance use disorder** of persons who are under the supervision of the department of social and health services or the department of children, youth, and families;
+
+    u. To a licensed physician or psychiatric advanced registered nurse practitioner who has determined that the life or health of the person is in danger and that treatment without the information and records related to mental health services could be injurious to the patient's health. Disclosure must be limited to the portions of the records necessary to meet the medical emergency;
+
+    v. [Empty]
+
+        i. Consistent with the requirements of the federal health insurance portability and accountability act, to:
+
+(A) A health care provider, including an Indian health care provider, who is providing care to a patient, or to whom a patient has been referred for evaluation or treatment; or
+
+(B) Any other person who is working in a care coordinator role for a health care facility, health care provider, or Indian health care provider, or is under an agreement pursuant to the federal health insurance portability and accountability act with a health care facility or a health care provider and requires the information and records to assure coordinated care and treatment of that patient.
+
+        ii. A person authorized to use or disclose information and records related to mental health services under this subsection (2)(v) must take appropriate steps to protect the information and records relating to mental health services.
+
+        iii. Psychotherapy notes may not be released without authorization of the patient who is the subject of the request for release of information;
+
+    w. To administrative and office support staff designated to obtain medical records for those licensed professionals listed in (v) of this subsection;
+
+    x. To a facility that is to receive a person who is involuntarily committed under chapter 71.05 RCW, or upon transfer of the person from one evaluation and treatment facility to another. The release of records under this subsection is limited to the information and records related to mental health services required by law, a record or summary of all somatic treatments, and a discharge summary. The discharge summary may include a statement of the patient's problem, the treatment goals, the type of treatment which has been provided, and recommendation for future treatment, but may not include the patient's complete treatment record;
+
+    y. To the person's counsel or guardian ad litem, without modification, at any time in order to prepare for involuntary commitment or recommitment proceedings, reexaminations, appeals, or other actions relating to detention, admission, commitment, or patient's rights under chapter 71.05 RCW;
+
+    z. To staff members of the protection and advocacy agency or to staff members of a private, nonprofit corporation for the purpose of protecting and advocating the rights of persons with mental disorders or developmental disabilities. Resource management services may limit the release of information to the name, birthdate, and county of residence of the patient, information regarding whether the patient was voluntarily admitted, or involuntarily committed, the date and place of admission, placement, or commitment, the name and address of a guardian of the patient, and the date and place of the guardian's appointment. Any staff member who wishes to obtain additional information must notify the patient's resource management services in writing of the request and of the resource management services' right to object. The staff member shall send the notice by mail to the guardian's address. If the guardian does not object in writing within fifteen days after the notice is mailed, the staff member may obtain the additional information. If the guardian objects in writing within fifteen days after the notice is mailed, the staff member may not obtain the additional information;
+
+    aa. To all current treating providers, including Indian health care providers, of the patient with prescriptive authority who have written a prescription for the patient within the last twelve months. For purposes of coordinating health care, the department or the authority may release without written authorization of the patient, information acquired for billing and collection purposes as described in RCW 70.02.050(1)(d). The department, or the authority, if applicable, shall notify the patient that billing and collection information has been released to named providers, and provide the substance of the information released and the dates of such release. Neither the department nor the authority may release counseling, inpatient psychiatric hospitalization, or drug and alcohol treatment information without a signed written release from the client;
+
+    bb. [Empty]
+
+        i. To the secretary of social and health services and the director of the health care authority for either program evaluation or research, or both so long as the secretary or director, where applicable, adopts rules for the conduct of the evaluation or research, or both. Such rules must include, but need not be limited to, the requirement that all evaluators and researchers sign an oath of confidentiality substantially as follows:
+
+"As a condition of conducting evaluation or research concerning persons who have received services from (fill in the facility, agency, or person) I, . . . . . ., agree not to divulge, publish, or otherwise make known to unauthorized persons or the public any information obtained in the course of such evaluation or research regarding persons who have received services such that the person who received such services is identifiable.
+
+I recognize that unauthorized release of confidential information may subject me to civil liability under the provisions of state law.
+
+/s/ . . . . . ."
+
+        ii. Nothing in this chapter may be construed to prohibit the compilation and publication of statistical data for use by government or researchers under standards, including standards to assure maintenance of confidentiality, set forth by the secretary, or director, where applicable;
+
+    cc. To any person if the conditions in RCW 70.02.205 are met;
+
+    dd. To the secretary of health for the purposes of the maternal mortality review panel established in RCW 70.54.450; **or**
+
+    ee. To a tribe or Indian health care provider to carry out the requirements of RCW 71.05.150(6).
+
+3. Whenever federal law or federal regulations restrict the release of information contained in the information and records related to mental health services of any patient who receives treatment for a substance use disorder, the department or the authority may restrict the release of the information as necessary to comply with federal law and regulations.
+
+4. Civil liability and immunity for the release of information about a particular person who is committed to the department of social and health services or the authority under RCW 71.05.280(3) and 71.05.320(4)(c) after dismissal of a sex offense as defined in RCW 9.94A.030, is governed by RCW 4.24.550.
+
+5. The fact of admission to a provider of mental health services, as well as all records, files, evidence, findings, or orders made, prepared, collected, or maintained pursuant to chapter 71.05 RCW are not admissible as evidence in any legal proceeding outside that chapter without the written authorization of the person who was the subject of the proceeding except as provided in RCW 70.02.260, in a subsequent criminal prosecution of a person committed pursuant to RCW 71.05.280(3) or 71.05.320(4)(c) on charges that were dismissed pursuant to chapter 10.77 RCW due to incompetency to stand trial, in a civil commitment proceeding pursuant to chapter 71.09 RCW, or, in the case of a minor, a guardianship or dependency proceeding. The records and files maintained in any court proceeding pursuant to chapter 71.05 RCW must be confidential and available subsequent to such proceedings only to the person who was the subject of the proceeding or his or her attorney. In addition, the court may order the subsequent release or use of such records or files only upon good cause shown if the court finds that appropriate safeguards for strict confidentiality are and will be maintained.
+
+6. [Empty]
+
+    a. Except as provided in RCW 4.24.550, any person may bring an action against an individual who has willfully released confidential information or records concerning him or her in violation of the provisions of this section, for the greater of the following amounts:
+
+        i. One thousand dollars; or
+
+        ii. Three times the amount of actual damages sustained, if any.
+
+    b. It is not a prerequisite to recovery under this subsection that the plaintiff suffered or was threatened with special, as contrasted with general, damages.
+
+    c. Any person may bring an action to enjoin the release of confidential information or records concerning him or her or his or her ward, in violation of the provisions of this section, and may in the same action seek damages as provided in this subsection.
+
+    d. The court may award to the plaintiff, should he or she prevail in any action authorized by this subsection, reasonable attorney fees in addition to those otherwise provided by law.
+
+    e. If an action is brought under this subsection, no action may be brought under RCW 70.02.170.
+
+
+## Section 18
+> This section modifies existing section [70.02.240](/rcw/70_public_health_and_safety/70.002_medical_records—health_care_information_access_and_disclosure.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.002_medical_records—health_care_information_access_and_disclosure.md) for context.
+
+The fact of admission and all information and records related to mental health services obtained through inpatient or outpatient treatment of a minor under chapter 71.34 RCW must be kept confidential, except as authorized by this section or under RCW 70.02.050, 70.02.210, 70.02.230, 70.02.250, 70.02.260, and 70.02.265. Confidential information under this section may be disclosed only:
+
+1. In communications between mental health professionals to meet the requirements of chapter 71.34 RCW, in the provision of services to the minor, or in making appropriate referrals;
+
+2. In the course of guardianship or dependency proceedings;
+
+3. To the minor, the minor's parent, including those acting as a parent as defined in RCW 71.34.020 for purposes of family-initiated treatment, and the minor's attorney, subject to RCW 13.50.100;
+
+4. To the courts as necessary to administer chapter 71.34 RCW;
+
+5. **By a care coordinator under RCW 71.34.755 assigned to a person ordered to receive less restrictive alternative treatment for the purpose of sharing information to parties necessary for the implementation of proceedings under chapter 71.34 RCW;**
+
+6. To law enforcement officers or public health officers as necessary to carry out the responsibilities of their office. However, only the fact and date of admission, and the date of discharge, the name and address of the treatment provider, if any, and the last known address must be disclosed upon request;
+
+7. To law enforcement officers, public health officers, relatives, and other governmental law enforcement agencies, if a minor has escaped from custody, disappeared from an evaluation and treatment facility, violated conditions of a less restrictive treatment order, or failed to return from an authorized leave, and then only such information as may be necessary to provide for public safety or to assist in the apprehension of the minor. The officers are obligated to keep the information confidential in accordance with this chapter;
+
+8. To the secretary of social and health services and the director of the health care authority for assistance in data collection and program evaluation or research so long as the secretary or director, where applicable, adopts rules for the conduct of such evaluation and research. The rules must include, but need not be limited to, the requirement that all evaluators and researchers sign an oath of confidentiality substantially as follows:
+
+"As a condition of conducting evaluation or research concerning persons who have received services from (fill in the facility, agency, or person) I, . . . . . ., agree not to divulge, publish, or otherwise make known to unauthorized persons or the public any information obtained in the course of such evaluation or research regarding minors who have received services in a manner such that the minor is identifiable.
+
+I recognize that unauthorized release of confidential information may subject me to civil liability under state law.
+
+/s/ . . . . . . ";
+
+9. To appropriate law enforcement agencies, upon request, all necessary and relevant information in the event of a crisis or emergent situation that poses a significant and imminent risk to the public. The mental health service agency or its employees are not civilly liable for the decision to disclose or not, so long as the decision was reached in good faith and without gross negligence;
+
+10. To appropriate law enforcement agencies and to a person, when the identity of the person is known to the public or private agency, whose health and safety has been threatened, or who is known to have been repeatedly harassed, by the patient. The person may designate a representative to receive the disclosure. The disclosure must be made by the professional person in charge of the public or private agency or his or her designee and must include the dates of admission, discharge, authorized or unauthorized absence from the agency's facility, and only any other information that is pertinent to the threat or harassment. The agency or its employees are not civilly liable for the decision to disclose or not, so long as the decision was reached in good faith and without gross negligence;
+
+11. To a minor's next of kin, attorney, guardian, or conservator, if any, the information that the minor is presently in the facility or that the minor is seriously physically ill and a statement evaluating the mental and physical condition of the minor as well as a statement of the probable duration of the minor's confinement;
+
+12. Upon the death of a minor, to the minor's next of kin;
+
+13. To a facility in which the minor resides or will reside;
+
+14. To law enforcement officers and to prosecuting attorneys as are necessary to enforce RCW 9.41.040(2)(a)(iv). The extent of information that may be released is limited as follows:
+
+    a. Only the fact, place, and date of involuntary commitment, an official copy of any order or orders of commitment, and an official copy of any written or oral notice of ineligibility to possess a firearm that was provided to the person pursuant to RCW 9.41.047(1), must be disclosed upon request;
+
+    b. The law enforcement and prosecuting attorneys may only release the information obtained to the person's attorney as required by court rule and to a jury or judge, if a jury is waived, that presides over any trial at which the person is charged with violating RCW 9.41.040(2)(a)(iv);
+
+    c. Disclosure under this subsection is mandatory for the purposes of the federal health insurance portability and accountability act;
+
+15. This section may not be construed to prohibit the compilation and publication of statistical data for use by government or researchers under standards, including standards to assure maintenance of confidentiality, set forth by the director of the health care authority or the secretary of the department of social and health services, where applicable. The fact of admission and all information obtained pursuant to chapter 71.34 RCW are not admissible as evidence in any legal proceeding outside chapter 71.34 RCW, except guardianship or dependency, without the written consent of the minor or the minor's parent;
+
+16. For the purpose of a correctional facility participating in the postinstitutional medical assistance system supporting the expedited medical determinations and medical suspensions as provided in RCW 74.09.555 and 74.09.295;
+
+17. Pursuant to a lawful order of a court.
+
+
+## Section 19
+> This section modifies existing section [71.05.425](/rcw/71_mental_illness/71.05_mental_illness.md). Here is the [modified chapter](rcw/71_mental_illness/71.05_mental_illness.md) for context.
+
+1. [Empty]
+
+    a. Except as provided in subsection (2) of this section, at the earliest possible date, and in no event later than thirty days before conditional release, final release, authorized leave under RCW 71.05.325(2), or transfer to a facility other than a state mental hospital, the superintendent shall send written notice of conditional release, release, authorized leave, or transfer of a person committed under RCW 71.05.280(3) or 71.05.320(4)(c) following dismissal of a sex, violent, or felony harassment offense pursuant to RCW 10.77.086(4) to the following:
+
+        i. The chief of police of the city, if any, in which the person will reside;
+
+        ii. The sheriff of the county in which the person will reside; and
+
+        iii. The prosecuting attorney of the county in which the criminal charges against the committed person were dismissed.
+
+    b. The same notice as required by (a) of this subsection shall be sent to the following, if such notice has been requested in writing about a specific person committed under RCW 71.05.280(3) or 71.05.320(4)(c) following dismissal of a sex, violent, or felony harassment offense pursuant to RCW 10.77.086(4):
+
+        i. The victim of the sex, violent, or felony harassment offense that was dismissed pursuant to RCW 10.77.086(4) preceding commitment under RCW 71.05.280(3) or 71.05.320(4)(c) or the victim's next of kin if the crime was a homicide;
+
+        ii. Any witnesses who testified against the person in any court proceedings;
+
+        iii. Any person specified in writing by the prosecuting attorney. Information regarding victims, next of kin, or witnesses requesting the notice, information regarding any other person specified in writing by the prosecuting attorney to receive the notice, and the notice are confidential and shall not be available to the person committed under this chapter; and
+
+        iv. The chief of police of the city, if any, and the sheriff of the county, if any, which had jurisdiction of the person on the date of the applicable offense.
+
+    c. The thirty-day notice requirements contained in this subsection shall not apply to emergency medical transfers.
+
+    d. The existence of the notice requirements in this subsection will not require any extension of the release date in the event the release plan changes after notification.
+
+2. If a person committed under RCW 71.05.280(3) or 71.05.320(4)(c) following dismissal of a sex, violent, or felony harassment offense pursuant to RCW 10.77.086(4) escapes, the superintendent shall immediately notify, by the most reasonable and expedient means available, the chief of police of the city and the sheriff of the county in which the person escaped and in which the person resided immediately before the person's arrest and the prosecuting attorney of the county in which the criminal charges against the committed person were dismissed. If previously requested, the superintendent shall also notify the witnesses and the victim of the sex, violent, or felony harassment offense that was dismissed pursuant to RCW 10.77.086(4) preceding commitment under RCW 71.05.280(3) or 71.05.320(4) or the victim's next of kin if the crime was a homicide. In addition, the secretary shall also notify appropriate parties pursuant to RCW 70.02.230(2)(o). If the person is recaptured, the superintendent shall send notice to the persons designated in this subsection as soon as possible but in no event later than two working days after the department of social and health services learns of such recapture.
+
+3. If the victim, the victim's next of kin, or any witness is under the age of sixteen, the notice required by this section shall be sent to the parent or legal guardian of the child.
+
+4. The superintendent shall send the notices required by this chapter to the last address provided to the department of social and health services by the requesting party. The requesting party shall furnish the department of social and health services with a current address.
+
+5. For purposes of this section the following terms have the following meanings:
+
+    a. "Violent offense" means a violent offense under RCW 9.94A.030;
+
+    b. "Sex offense" means a sex offense under RCW 9.94A.030;
+
+    c. "Next of kin" means a person's spouse, state registered domestic partner, parents, siblings, and children;
+
+    d. "Felony harassment offense" means a crime of harassment as defined in RCW 9A.46.060 that is a felony.
+
+
+## Section 30
+> This section modifies existing section [71.34.705](/rcw/71_mental_illness/71.34_behavioral_health_services_for_minors.md). Here is the [modified chapter](rcw/71_mental_illness/71.34_behavioral_health_services_for_minors.md) for context.
+
+1. Whenever a designated crisis responder or professional person is conducting an evaluation under this chapter, the designated crisis responder or professional person must consider all reasonably available information from credible witnesses and records regarding:
+
+    a. Historical behavior, including history of one or more violent acts; and
+
+    b. Prior commitments under this chapter.
+
+2. Credible witnesses may include family members, landlords, neighbors, teachers, school personnel, or others with significant contact and history of involvement with the minor. If the designated crisis responder relies upon information from a credible witness in reaching his or her decision to detain the minor, then he or she must provide contact information for any such witness to the prosecutor. The designated crisis responder or prosecutor shall provide notice of the date, time, and location of the probable cause hearing to such a witness.
+
+3. Symptoms and behavior of the minor which standing alone would not justify civil commitment may support a finding of grave disability or likelihood of serious harm, when:
+
+    a. Such symptoms or behavior are closely associated with symptoms or behavior which preceded and led to a past incident of involuntary hospitalization, severe deterioration, or one or more violent acts;
+
+    b. These symptoms or behavior represent a marked and concerning change in the baseline behavior of the minor; and
+
+    c. Without treatment, the continued deterioration of the minor is probable.
+
+4. **The authority, in consultation with tribes and in coordination with Indian health care providers and the American Indian health commission of Washington state, shall establish written guidelines by June 30, 2022, for conducting culturally appropriate evaluations of American Indians or Alaska Natives.**
+
+
+## Section 31
+> This section modifies existing section [71.34.710](/rcw/71_mental_illness/71.34_behavioral_health_services_for_minors.md). Here is the [modified chapter](rcw/71_mental_illness/71.34_behavioral_health_services_for_minors.md) for context.
+
+1. [Empty]
+
+    a. When a designated crisis responder receives information that an adolescent as a result of a behavioral health disorder presents a likelihood of serious harm or is gravely disabled, has investigated the specific facts alleged and of the credibility of the person or persons providing the information, and has determined that voluntary admission for inpatient treatment is not possible, the designated crisis responder may take the adolescent, or cause the adolescent to be taken, into custody and transported to an evaluation and treatment facility, secure withdrawal management and stabilization facility, or approved substance use disorder treatment program providing inpatient treatment.
+
+A secure withdrawal management and stabilization facility or approved substance use disorder treatment program must be available and have adequate space for the adolescent.
+
+    b. If a designated crisis responder decides not to detain an adolescent for evaluation and treatment under RCW 71.34.700(2), or forty-eight hours have elapsed since a designated crisis responder received a request for investigation and the designated crisis responder has not taken action to have the adolescent detained, an immediate family member or guardian or conservator of the adolescent**, or a federally recognized Indian tribe if the person is a member of such tribe,** may petition the superior court for the adolescent's detention using the procedures under RCW 71.05.201 and 71.05.203; however, when the court enters an order of initial detention, except as otherwise expressly stated in this chapter, all procedures must be followed as if the order has been entered under (a) of this subsection.
+
+    c. **The interview performed by the designated crisis responder may be conducted by video provided that a licensed health care professional or professional person who can adequately and accurately assist with obtaining any necessary information is present with the person at the time of the interview.**
+
+2. [Empty]
+
+    a. Within twelve hours of the adolescent's arrival at the evaluation and treatment facility, secure withdrawal management and stabilization facility, or approved substance use disorder treatment program, the designated crisis responder shall serve **or cause to be served** on the adolescent a copy of the petition for initial detention, notice of initial detention, and statement of rights. The designated crisis responder shall file with the court on the next judicial day following the initial detention the original petition for initial detention, notice of initial detention, and statement of rights along with an affidavit of service. The designated crisis responder shall commence service of the petition for initial detention and notice of the initial detention on the adolescent's parent and the adolescent's attorney as soon as possible following the initial detention.
+
+    b. **The** facility or program may serve the adolescent, notify the adolescent's parents and the adolescent's attorney, and file with the court on the next judicial day following the initial detention the original petition for initial detention, notice of initial detention, and statement of rights along with an affidavit of service when filing with the court at the request of the designated crisis responder.
+
+3. [Empty]
+
+    a. At the time of initial detention, the designated crisis responder shall advise the adolescent both orally and in writing that if admitted to the evaluation and treatment facility, secure withdrawal management and stabilization facility, or approved substance use disorder treatment program for inpatient treatment, a commitment hearing shall be held within one hundred twenty hours of the adolescent's provisional acceptance to determine whether probable cause exists to commit the adolescent for further treatment.
+
+    b. The adolescent shall be advised that he or she has a right to communicate immediately with an attorney and that he or she has a right to have an attorney appointed to represent him or her before and at the hearing if the adolescent is indigent.
+
+4. Subject to subsection (5) of this section, whenever the designated crisis responder petitions for detention of an adolescent under this chapter, an evaluation and treatment facility, secure withdrawal management and stabilization facility, or approved substance use disorder treatment program providing one hundred twenty hour evaluation and treatment must immediately accept on a provisional basis the petition and the person. Within twenty-four hours of the adolescent's arrival, the facility must evaluate the adolescent's condition and either admit or release the adolescent in accordance with this chapter.
+
+5. A designated crisis responder may not petition for detention of an adolescent to a secure withdrawal management and stabilization facility or approved substance use disorder treatment program unless there is a secure withdrawal management and stabilization facility or approved substance use disorder treatment program available and that has adequate space for the adolescent.
+
+6. If an adolescent is not approved for admission by the inpatient evaluation and treatment facility, secure withdrawal management and stabilization facility, or approved substance use disorder treatment program, the facility shall make such recommendations and referrals for further care and treatment of the adolescent as necessary.
+
+7. Dismissal of a commitment petition is not the appropriate remedy for a violation of the timeliness requirements of this section, based on the purpose of this chapter under RCW 71.34.010, except in the few cases where the facility staff or the designated crisis responder have totally disregarded the requirements of this section.
+
+8. **Tribal court orders for involuntary commitment shall be recognized and enforced in accordance with superior court civil rule 82.5.**
+
+9. **In any investigation and evaluation of a juvenile under this section in which the designated crisis responder knows, or has reason to know, that the juvenile is an American Indian or Alaska Native who receives medical or behavioral health services from a tribe within this state, the designated crisis responder shall notify the tribe and the Indian health care provider regarding whether or not a petition for initial detention or involuntary outpatient treatment will be filed. Notification shall be made in person or by telephonic or electronic communication to the tribal contact listed in the authority's tribal crisis coordination plan as soon as possible but no later than three hours subject to the requirements in RCW 70.02.230 (2)(ee) and (3). A designated crisis responder may restrict the release of information as necessary to comply with 42 C.F.R. Part 2.**
+
+
+## Section 32
+> This section modifies existing section [71.34.710](/rcw/71_mental_illness/71.34_behavioral_health_services_for_minors.md). Here is the [modified chapter](rcw/71_mental_illness/71.34_behavioral_health_services_for_minors.md) for context.
+
+1. [Empty]
+
+    a. When a designated crisis responder receives information that an adolescent as a result of a behavioral health disorder presents a likelihood of serious harm or is gravely disabled, has investigated the specific facts alleged and of the credibility of the person or persons providing the information, and has determined that voluntary admission for inpatient treatment is not possible, the designated crisis responder may take the adolescent, or cause the adolescent to be taken, into custody and transported to an evaluation and treatment facility, secure withdrawal management and stabilization facility, or approved substance use disorder treatment program providing inpatient treatment.
+
+    b. If a designated crisis responder decides not to detain an adolescent for evaluation and treatment under RCW 71.34.700(2), or forty-eight hours have elapsed since a designated crisis responder received a request for investigation and the designated crisis responder has not taken action to have the adolescent detained, an immediate family member or guardian or conservator of the adolescent**, or a federally recognized Indian tribe if the person is a member of such tribe,** may petition the superior court for the adolescent's detention using the procedures under RCW 71.05.201 and 71.05.203; however, when the court enters an order of initial detention, except as otherwise expressly stated in this chapter, all procedures must be followed as if the order has been entered under (a) of this subsection.
+
+    c. **The interview performed by the designated crisis responder may be conducted by video provided that a licensed health care professional or professional person who can adequately and accurately assist with obtaining any necessary information is present with the person at the time of the interview.**
+
+2. [Empty]
+
+    a. Within twelve hours of the adolescent's arrival at the evaluation and treatment facility, secure withdrawal management and stabilization facility, or approved substance use disorder treatment program, the designated crisis responder shall serve **or cause to be served** on the adolescent a copy of the petition for initial detention, notice of initial detention, and statement of rights. The designated crisis responder shall file with the court on the next judicial day following the initial detention the original petition for initial detention, notice of initial detention, and statement of rights along with an affidavit of service. The designated crisis responder shall commence service of the petition for initial detention and notice of the initial detention on the adolescent's parent and the adolescent's attorney as soon as possible following the initial detention.
+
+    b. **The** facility or program may serve the adolescent, notify the adolescent's parents and the adolescent's attorney, and file with the court on the next judicial day following the initial detention the original petition for initial detention, notice of initial detention, and statement of rights along with an affidavit of service when filing with the court at the request of the designated crisis responder.
+
+3. [Empty]
+
+    a. At the time of initial detention, the designated crisis responder shall advise the adolescent both orally and in writing that if admitted to the evaluation and treatment facility, secure withdrawal management and stabilization facility, or approved substance use disorder treatment program for inpatient treatment, a commitment hearing shall be held within one hundred twenty hours of the adolescent's provisional acceptance to determine whether probable cause exists to commit the adolescent for further treatment.
+
+    b. The adolescent shall be advised that he or she has a right to communicate immediately with an attorney and that he or she has a right to have an attorney appointed to represent him or her before and at the hearing if the adolescent is indigent.
+
+4. Whenever the designated crisis responder petitions for detention of an adolescent under this chapter, an evaluation and treatment facility, secure withdrawal management and stabilization facility, or approved substance use disorder treatment program providing one hundred twenty hour evaluation and treatment must immediately accept on a provisional basis the petition and the person. Within twenty-four hours of the adolescent's arrival, the facility must evaluate the adolescent's condition and either admit or release the adolescent in accordance with this chapter.
+
+5. If an adolescent is not approved for admission by the inpatient evaluation and treatment facility, secure withdrawal management and stabilization facility, or approved substance use disorder treatment program, the facility shall make such recommendations and referrals for further care and treatment of the adolescent as necessary.
+
+6. Dismissal of a commitment petition is not the appropriate remedy for a violation of the timeliness requirements of this section, based on the purpose of this chapter under RCW 71.34.010, except in the few cases where the facility staff or the designated crisis responder have totally disregarded the requirements of this section.
+
+7. **Tribal court orders for involuntary commitment shall be recognized and enforced in accordance with superior court civil rule 82.5.**
+
+8. **In any investigation and evaluation of a juvenile under this section in which the designated crisis responder knows, or has reason to know, that the juvenile is an American Indian or Alaska Native who receives medical or behavioral health services from a tribe within this state, the designated crisis responder shall notify the tribe and the Indian health care provider regarding whether or not a petition for initial detention or involuntary outpatient treatment will be filed. Notification shall be made in person or by telephonic or electronic communication to the tribal contact listed in the authority's tribal crisis coordination plan as soon as possible but no later than three hours subject to the requirements in RCW 70.02.230 (2)(ee) and (3). A designated crisis responder may restrict the release of information as necessary to comply with 42 C.F.R. Part 2.**
+
+
+## Section 33
+> This section modifies existing section [71.34.720](/rcw/71_mental_illness/71.34_behavioral_health_services_for_minors.md). Here is the [modified chapter](rcw/71_mental_illness/71.34_behavioral_health_services_for_minors.md) for context.
+
+1. Each minor approved by the facility for inpatient admission shall be examined and evaluated by a children's mental health specialist, for minors admitted as a result of a mental disorder, or by a substance use disorder professional or co-occurring disorder specialist, for minors admitted as a result of a substance use disorder, as to the child's mental condition and by a physician, physician assistant, or psychiatric advanced registered nurse practitioner as to the child's physical condition within twenty-four hours of admission. Reasonable measures shall be taken to ensure medical treatment is provided for any condition requiring immediate medical attention.
+
+2. If, **at any time during the involuntary treatment hold and following the initial** examination and evaluation, the children's mental health specialist or substance use disorder specialist and the physician, physician assistant, or psychiatric advanced registered nurse practitioner determine that the initial needs of the minor, if detained to an evaluation and treatment facility, would be better served by placement in a **secure withdrawal management and stabilization facility or approved** substance use disorder treatment program or, if detained to a secure withdrawal management and stabilization facility or approved substance use disorder treatment program, would be better served in an evaluation and treatment facility, then the minor shall be referred to the more appropriate placement **for the remainder of the current commitment period without any need for further court review**; however a minor may only be referred to a secure withdrawal management and stabilization facility or approved substance use disorder treatment program if there is a secure withdrawal management and stabilization facility or approved substance use disorder treatment program available and that has adequate space for the minor.
+
+3. The admitting facility shall take reasonable steps to notify immediately the minor's parent of the admission.
+
+4. During the initial one hundred twenty hour treatment period, the minor has a right to associate or receive communications from parents or others unless the professional person in charge determines that such communication would be seriously detrimental to the minor's condition or treatment and so indicates in the minor's clinical record, and notifies the minor's parents of this determination. A minor must not be denied the opportunity to consult an attorney unless there is an immediate risk of harm to the minor or others.
+
+5. If the evaluation and treatment facility, secure withdrawal management and stabilization facility, or approved substance use disorder treatment program admits the minor, it may detain the minor for evaluation and treatment for a period not to exceed one hundred twenty hours from the time of provisional acceptance. The computation of such one hundred twenty hour period shall exclude Saturdays, Sundays, and holidays. This initial treatment period shall not exceed one hundred twenty hours except when an application for voluntary inpatient treatment is received or a petition for fourteen-day commitment is filed.
+
+6. Within twelve hours of the admission, the facility shall advise the minor of his or her rights as set forth in this chapter.
+
+
+## Section 34
+> This section modifies existing section [71.34.720](/rcw/71_mental_illness/71.34_behavioral_health_services_for_minors.md). Here is the [modified chapter](rcw/71_mental_illness/71.34_behavioral_health_services_for_minors.md) for context.
+
+1. Each minor approved by the facility for inpatient admission shall be examined and evaluated by a children's mental health specialist, for minors admitted as a result of a mental disorder, or by a substance use disorder professional or co-occurring disorder specialist, for minors admitted as a result of a substance use disorder, as to the child's mental condition and by a physician, physician assistant, or psychiatric advanced registered nurse practitioner as to the child's physical condition within twenty-four hours of admission. Reasonable measures shall be taken to ensure medical treatment is provided for any condition requiring immediate medical attention.
+
+2. If, **at any time during the involuntary treatment hold and following the initial** examination and evaluation, the children's mental health specialist or substance use disorder specialist and the physician, physician assistant, or psychiatric advanced registered nurse practitioner determine that the initial needs of the minor, if detained to an evaluation and treatment facility, would be better served by placement in a **secure withdrawal management and stabilization facility or approved** substance use disorder treatment program or, if detained to a secure withdrawal management and stabilization facility or approved substance use disorder treatment program, would be better served in an evaluation and treatment facility, then the minor shall be referred to the more appropriate placement **for the remainder of the current commitment period without any need for further court review**.
+
+3. The admitting facility shall take reasonable steps to notify immediately the minor's parent of the admission.
+
+4. During the initial one hundred twenty hour treatment period, the minor has a right to associate or receive communications from parents or others unless the professional person in charge determines that such communication would be seriously detrimental to the minor's condition or treatment and so indicates in the minor's clinical record, and notifies the minor's parents of this determination. A minor must not be denied the opportunity to consult an attorney unless there is an immediate risk of harm to the minor or others.
+
+5. If the evaluation and treatment facility, secure withdrawal management and stabilization facility, or approved substance use disorder treatment program admits the minor, it may detain the minor for evaluation and treatment for a period not to exceed one hundred twenty hours from the time of provisional acceptance. The computation of such one hundred twenty hour period shall exclude Saturdays, Sundays, and holidays. This initial treatment period shall not exceed one hundred twenty hours except when an application for voluntary inpatient treatment is received or a petition for fourteen-day commitment is filed.
+
+6. Within twelve hours of the admission, the facility shall advise the minor of his or her rights as set forth in this chapter.
+
+
+## Section 40
+If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2021, in the omnibus appropriations act, this act is null and void.

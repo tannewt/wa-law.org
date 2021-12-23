@@ -12,7 +12,7 @@
 (3) This section expires December 31, 2023.
 
 ## Section 3
-> This section modifies an existing section. Here is the [modified chapter](rcw/28A_common_school_provisions/28A.655_academic_achievement_and_accountability.md) for context.
+> This section modifies existing section [28A.655.260](/rcw/28A_common_school_provisions/28A.655_academic_achievement_and_accountability.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.655_academic_achievement_and_accountability.md) for context.
 
 1. The superintendent of public instruction shall collect the following information from school districts: Which of the graduation pathways under RCW 28A.655.250 are available to students at each of the school districts; and the number of students using each graduation pathway for graduation purposes. This information shall be reported annually to the education committees of the legislature beginning January 10, 2021. To the extent feasible, data on student participation in each of the graduation pathways shall be disaggregated by race, ethnicity, gender, and receipt of free or reduced-price lunch.
 

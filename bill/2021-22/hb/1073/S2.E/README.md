@@ -1,0 +1,61 @@
+# Engrossed Second Substitute House Bill 1073 as Recommended by Appropriations
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1073-S2.E.xml)
+## Section 1
+(1) The legislature finds that many workers who have paid into the paid family and medical leave insurance program have suffered job losses, reductions in hours, or an inability to reenter the workforce due to the effects of the COVID-19 pandemic. These workers are unable to access their family and medical leave benefits under the existing hours worked threshold through no fault of their own.
+(2) The legislature intends to temporarily adjust the qualifying periods for these adversely impacted workers to restore access to family and medical leave benefits.
+(3) In the temporary adjustment of the qualifying period for these workers and related costs for any additional grants under RCW 50A.24.010, the legislature intends to prevent impacts to the family and medical leave insurance account through the provision of separate funding. In so doing, the legislature intends to avoid any premium rate increases or the application of a solvency surcharge.
+
+## Section 2
+> This section modifies existing section [50A.15.010](/rcw/50A_family_and_medical_leave/50A.15_benefits.md). Here is the [modified chapter](rcw/50A_family_and_medical_leave/50A.15_benefits.md) for context.
+
+**Except as provided in section 3 of this act, employees** are eligible for family and medical leave benefits as provided in this title after working for at least eight hundred twenty hours in employment during the qualifying period.
+
+
+## Section 4
+> This section modifies existing section [50A.30.020](/rcw/50A_family_and_medical_leave/50A.30_voluntary_plans.md). Here is the [modified chapter](rcw/50A_family_and_medical_leave/50A.30_voluntary_plans.md) for context.
+
+1. **Except as provided in section 3 of this act, to** be eligible for any family and medical leave, an employee must be in employment for eight hundred twenty hours during the qualifying period, by an employer with a voluntary plan or an employer utilizing the state family and medical leave plan. An employee qualifies for benefits under an employer's voluntary plan after the employee works at least three hundred forty hours for the current employer.
+
+2. An employer with an approved voluntary plan may waive the requirements in subsection (1) of this section, in whole or in part, to allow an employee to be immediately eligible for coverage under the employer's voluntary plan.
+
+3. An employee who had coverage under the state plan retains coverage under the state plan until such time as the employee is qualified for coverage under the new employer's voluntary plan.
+
+4. An employee who was eligible for benefits under a voluntary plan is immediately eligible for benefits under a new employer's voluntary plan.
+
+
+## Section 5
+> This section modifies existing section [50A.24.010](/rcw/50A_family_and_medical_leave/50A.24_small_business_assistance.md). Here is the [modified chapter](rcw/50A_family_and_medical_leave/50A.24_small_business_assistance.md) for context.
+
+1. The legislature recognizes that while family leave and medical leave benefit both employees and employers, there may be costs that disproportionately impact small businesses. To equitably balance the risks among employers, the legislature intends to assist small businesses with the costs of an employee's use of family or medical leave.
+
+2. Employers with one hundred fifty or fewer employees and employers with fifty or fewer employees who are assessed all premiums under RCW 50A.10.030(5)(b) may apply to the department for a grant under this section.
+
+3. [Empty]
+
+    a. An employer may receive a grant of three thousand dollars if the employer hires a temporary worker to replace an employee on family or medical leave for a period of seven days or more.
+
+    b. For an employee's family or medical leave, an employer may receive a grant of up to one thousand dollars as reimbursement for significant additional wage-related costs due to the employee's leave.
+
+    c. An employer may receive a grant under (a) or (b) of this subsection, but not both, except that an employer who received a grant under (b) of this subsection may receive a grant of the difference between the grant awarded under (b) of this subsection and three thousand dollars if the employee on leave extended the leave beyond the leave initially planned and the employer hired a temporary worker for the employee on leave.
+
+4. An employer may apply for a grant no more than ten times per calendar year and no more than once for each employee on leave.
+
+5. To be eligible for a grant, the employer must provide the department written documentation showing the temporary worker hired or significant wage-related costs incurred are due to an employee's use of family or medical leave.
+
+6. The department must assess an employer with fewer than fifty employees who receives a grant under this section for all premiums for three years from the date of receipt of a grant.
+
+7. **Except for any grants provided for employees on family or medical leave under section 3 of this act,** grants under this section shall be funded from the family and medical leave insurance account.
+
+8. The commissioner shall adopt rules as necessary to implement this section.
+
+9. For the purposes of this section, the number of employees must be calculated as provided in RCW 50A.10.030.
+
+10. An employer who has an approved voluntary plan is not eligible to receive a grant under this section.
+
+
+## Section 6
+The employment security department may adopt rules to implement this act.
+
+## Section 7
+If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2021, in the omnibus appropriations act, this act is null and void.

@@ -1,0 +1,9 @@
+# ESB 5220 - Salmon recovery grants/tax
+*Status: Effective date 4/26/2021*.*
+Concerning the taxation of salmon recovery grants by updating the state business and occupation tax deduction for these grants, creating a sales and use tax exemption for grant proceeds received by recipients of these grants, and clarifying the sales and use tax obligations for goods and services purchased by recipients of these grants.
+
+## Revisions
+* [Original Bill](1/)
+* [Engrossed Bill](1/)
+* [Bill as Passed Legislature](1/)
+* [Session Law](1/)

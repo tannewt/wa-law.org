@@ -1,0 +1,91 @@
+# House Bill 1463
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1463.xml)
+## Section 1
+(1) The legislature finds that high-potency marijuana products are increasingly prevalent in the market. Whereas the THC concentration of marijuana-infused edible products is limited to 10 percent by state law and the THC concentration of marijuana flower is biologically limited, there is currently no limit on the potency of marijuana concentrates such as THC-infused vape oils. High-potency marijuana products are readily available with a THC concentration of almost 100 percent. Prior to Washington legalizing marijuana sales, many of these extremely high-potency products did not exist or were not widely available. By 2019, sales of high-potency marijuana concentrates had grown to nearly 40 percent of total sales of marijuana products.
+(2) The legislature also finds that Washington state's most prominent cannabis researchers at the University of Washington and Washington State University recently released a consensus statement about the health risks posed by high-potency cannabis products. That statement summarizes the best available science: "Use of cannabis with high THC concentration increases the chances of developing cannabis use disorder or addiction to cannabis, particularly among adolescents. High-potency cannabis use can have lifelong mental health consequences, which often manifest in adolescence or early adulthood. Daily cannabis use, particularly of high-potency products, increases the risk of developing a psychotic disorder, like schizophrenia, and is related to an earlier onset of symptoms compared to people who do not use cannabis."
+(3) The legislature, therefore, intends to protect public health and safety by limiting the potency of cannabis concentrates and raising the age of purchase for cannabis concentrates.
+
+## Section 3
+> This section modifies existing section [69.50.375](/rcw/69_food_drugs_cosmetics_and_poisons/69.50_uniform_controlled_substances_act.md). Here is the [modified chapter](rcw/69_food_drugs_cosmetics_and_poisons/69.50_uniform_controlled_substances_act.md) for context.
+
+1. A medical marijuana endorsement to a marijuana retail license is hereby established to permit a marijuana retailer to sell marijuana for medical use to qualifying patients and designated providers. This endorsement also permits such retailers to provide marijuana at no charge, at their discretion, to qualifying patients and designated providers.
+
+2. An applicant may apply for a medical marijuana endorsement concurrently with an application for a marijuana retail license.
+
+3. To be issued an endorsement, a marijuana retailer must:
+
+    a. Not authorize the medical use of marijuana for qualifying patients at the retail outlet or permit health care professionals to authorize the medical use of marijuana for qualifying patients at the retail outlet;
+
+    b. Carry marijuana concentrates and marijuana-infused products identified by the department under subsection (4) of this section;
+
+    c. Not use labels or market marijuana concentrates, useable marijuana, or marijuana-infused products in a way that make them intentionally attractive to minors;
+
+    d. Demonstrate the ability to enter qualifying patients and designated providers in the medical marijuana authorization database established in RCW 69.51A.230 and issue recognition cards and agree to enter qualifying patients and designated providers into the database and issue recognition cards in compliance with department standards;
+
+    e. Keep copies of the qualifying patient's or designated provider's recognition card, or keep equivalent records as required by rule of the state liquor and cannabis board or the department of revenue to document the validity of tax exempt sales; and
+
+    f. Meet other requirements as adopted by rule of the department or the state liquor and cannabis board.
+
+4. The department, in conjunction with the state liquor and cannabis board, must adopt rules on requirements for marijuana concentrates, useable marijuana, and marijuana-infused products that may be sold, or provided at no charge, to qualifying patients or designated providers at a retail outlet holding a medical marijuana endorsement. These rules must include:
+
+    a. THC concentration, CBD concentration, or low THC, high CBD ratios appropriate for marijuana concentrates, useable marijuana, or marijuana-infused products sold to qualifying patients or designated providers;
+
+    b. Labeling requirements including that the labels attached to marijuana concentrates, useable marijuana, or marijuana-infused products contain THC concentration, CBD concentration, and THC to CBD ratios;
+
+    c. Other product requirements, including any additional mold, fungus, or pesticide testing requirements, or limitations to the types of solvents that may be used in marijuana processing that the department deems necessary to address the medical needs of qualifying patients;
+
+    d. Safe handling requirements for marijuana concentrates, useable marijuana, or marijuana-infused products; and
+
+    e. Training requirements for employees.
+
+5. **Only marijuana retailers who hold a medical marijuana endorsement issued under this section may:**
+
+    a. **Sell marijuana concentrates with a THC concentration greater than 30 percent. Marijuana concentrates with a THC concentration greater than 30 percent may be sold only to qualifying patients and designated providers who are entered into the medical marijuana authorization database and who hold a valid recognition card; or**
+
+    b. **Sell marijuana concentrates to a person under 25 years of age. A marijuana retailer with an endorsement may not sell marijuana concentrates to a person under 25 years of age unless the person is entered into the medical marijuana authorization database and holds a valid recognition card.**
+
+6. A marijuana retailer holding an endorsement to sell marijuana to qualifying patients or designated providers must train its employees on:
+
+    a. Procedures regarding the recognition of valid authorizations and the use of equipment to enter qualifying patients and designated providers into the medical marijuana authorization database;
+
+    b. Recognition of valid recognition cards; and
+
+    c. Recognition of strains, varieties, THC concentration, CBD concentration, and THC to CBD ratios of marijuana concentrates, useable marijuana, and marijuana-infused products, available for sale when assisting qualifying patients and designated providers at the retail outlet.
+
+
+## Section 4
+> This section modifies existing section [69.50.325](/rcw/69_food_drugs_cosmetics_and_poisons/69.50_uniform_controlled_substances_act.md). Here is the [modified chapter](rcw/69_food_drugs_cosmetics_and_poisons/69.50_uniform_controlled_substances_act.md) for context.
+
+1. There shall be a marijuana producer's license regulated by the board and subject to annual renewal. The licensee is authorized to produce: (a) Marijuana for sale at wholesale to marijuana processors and other marijuana producers; (b) immature plants or clones and seeds for sale to cooperatives as described under RCW 69.51A.250; and (c) immature plants or clones and seeds for sale to qualifying patients and designated providers as provided under RCW 69.51A.310. The production, possession, delivery, distribution, and sale of marijuana in accordance with the provisions of this chapter and the rules adopted to implement and enforce it, by a validly licensed marijuana producer, shall not be a criminal or civil offense under Washington state law. Every marijuana producer's license shall be issued in the name of the applicant, shall specify the location at which the marijuana producer intends to operate, which must be within the state of Washington, and the holder thereof shall not allow any other person to use the license. The application fee for a marijuana producer's license shall be two hundred fifty dollars. The annual fee for issuance and renewal of a marijuana producer's license shall be one thousand three hundred eighty-one dollars. A separate license shall be required for each location at which a marijuana producer intends to produce marijuana.
+
+2. There shall be a marijuana processor's license to process, package, and label marijuana concentrates, useable marijuana, and marijuana-infused products for sale at wholesale to marijuana processors and marijuana retailers, regulated by the board and subject to annual renewal. The processing, packaging, possession, delivery, distribution, and sale of marijuana, useable marijuana, marijuana-infused products, and marijuana concentrates in accordance with the provisions of this chapter and chapter 69.51A RCW and the rules adopted to implement and enforce these chapters, by a validly licensed marijuana processor, shall not be a criminal or civil offense under Washington state law. Every marijuana processor's license shall be issued in the name of the applicant, shall specify the location at which the licensee intends to operate, which must be within the state of Washington, and the holder thereof shall not allow any other person to use the license. The application fee for a marijuana processor's license shall be two hundred fifty dollars. The annual fee for issuance and renewal of a marijuana processor's license shall be one thousand three hundred eighty-one dollars. A separate license shall be required for each location at which a marijuana processor intends to process marijuana. **A marijuana processor may process, package, possess, deliver, distribute, and sell marijuana concentrates with a THC concentration greater than 30 percent only when the marijuana concentrates are intended for sale to a marijuana retailer with a medical marijuana endorsement who will sell the products at retail as provided in RCW 69.50.375.**
+
+3. [Empty]
+
+    a. There shall be a marijuana retailer's license to sell marijuana concentrates, useable marijuana, and marijuana-infused products at retail in retail outlets, regulated by the board and subject to annual renewal. The possession, delivery, distribution, and sale of marijuana concentrates, useable marijuana, and marijuana-infused products in accordance with the provisions of this chapter and the rules adopted to implement and enforce it, by a validly licensed marijuana retailer, shall not be a criminal or civil offense under Washington state law. Every marijuana retailer's license shall be issued in the name of the applicant, shall specify the location of the retail outlet the licensee intends to operate, which must be within the state of Washington, and the holder thereof shall not allow any other person to use the license. The application fee for a marijuana retailer's license shall be two hundred fifty dollars. The annual fee for issuance and renewal of a marijuana retailer's license shall be one thousand three hundred eighty-one dollars. A separate license shall be required for each location at which a marijuana retailer intends to sell marijuana concentrates, useable marijuana, and marijuana-infused products.
+
+    b. An individual retail licensee and all other persons or entities with a financial or other ownership interest in the business operating under the license are limited, in the aggregate, to holding a collective total of not more than five retail marijuana licenses.
+
+    c. [Empty]
+
+        i. A marijuana retailer's license is subject to forfeiture in accordance with rules adopted by the board pursuant to this section.
+
+        ii. The board shall adopt rules to establish a license forfeiture process for a licensed marijuana retailer that is not fully operational and open to the public within a specified period from the date of license issuance, as established by the board, subject to the following restrictions:
+
+(A) No marijuana retailer's license may be subject to forfeiture within the first nine months of license issuance; and
+
+(B) The board must require license forfeiture on or before twenty-four calendar months of license issuance if a marijuana retailer is not fully operational and open to the public, unless the board determines that circumstances out of the licensee's control are preventing the licensee from becoming fully operational and that, in the board's discretion, the circumstances warrant extending the forfeiture period beyond twenty-four calendar months.
+
+        iii. The board has discretion in adopting rules under this subsection (3)(c).
+
+        iv. This subsection (3)(c) applies to marijuana retailer's licenses issued before and after July 23, 2017. However, no license of a marijuana retailer that otherwise meets the conditions for license forfeiture established pursuant to this subsection (3)(c) may be subject to forfeiture within the first nine calendar months of July 23, 2017.
+
+    v. The board may not require license forfeiture if the licensee has been incapable of opening a fully operational retail marijuana business due to actions by the city, town, or county with jurisdiction over the licensee that include any of the following:
+
+(A) The adoption of a ban or moratorium that prohibits the opening of a retail marijuana business; or
+
+(B) The adoption of an ordinance or regulation related to zoning, business licensing, land use, or other regulatory measure that has the effect of preventing a licensee from receiving an occupancy permit from the jurisdiction or which otherwise prevents a licensed marijuana retailer from becoming operational.
+
+    d. The board may issue marijuana retailer licenses pursuant to this chapter and RCW 69.50.335.
+

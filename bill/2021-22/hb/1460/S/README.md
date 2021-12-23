@@ -1,0 +1,184 @@
+# Substitute House Bill 1460 as Recommended by Finance
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1460-S.xml)
+## Section 401
+> This section modifies existing section [43.330.530](/rcw/43_state_government—executive/43.330_department_of_commerce.md). Here is the [modified chapter](rcw/43_state_government—executive/43.330_department_of_commerce.md) for context.
+
+The definitions in this section apply throughout this section and RCW 43.330.532 through 43.330.538 unless the context clearly requires otherwise.
+
+1. [Empty]
+
+    a. **"Advanced telecommunications capability" means, without regard to any transmission media or technology, high-speed, switched, broadband telecommunications capability that enables users to originate and receive high quality voice, data, graphics, and video telecommunications using any technology.**
+
+    b. **"Advanced telecommunications capability" does not include access to a technology that delivers transmission speeds below the minimum download and upload speeds provided in the definition of broadband in this section.**
+
+2. **"Aging individual" means an individual 60 years of age or older.**
+
+3. "Board" means the public works board established in RCW 43.155.030.
+
+4. "Broadband" or "broadband service" means any service providing advanced telecommunications capability and internet access with transmission speeds that, at a minimum, provide **25** megabits per second download and three megabits per second upload.
+
+5. **"Broadband adoption" means the process by which an individual obtains daily access to the internet:**
+
+    a. **At a speed, quality, and capacity necessary for the individual to accomplish common tasks, such that the access qualifies as an advanced telecommunications capability;**
+
+    b. **Providing individuals with the digital skills necessary to participate online; and**
+
+    c. **On a device connected to the internet and other advanced telecommunications services via a secure and convenient network.**
+
+6. "Broadband infrastructure" means networks of deployed telecommunications equipment and technologies necessary to provide high-speed internet access and other advanced telecommunications services to end users.
+
+7. "Department" means the department of commerce.
+
+8. **"Digital equity" means the condition in which individuals and communities in Washington have the information technology capacity that is needed for full participation in society and the economy.**
+
+9. [Empty]
+
+    a. **"Digital inclusion" means the activities that are necessary to ensure that all individuals in Washington have access to, and the use of, affordable information and communication technologies including, but not limited to:**
+
+        i. **Reliable broadband internet service;**
+
+        ii. **Internet-enabled devices that meet the needs of the user; and**
+
+        iii. **Applications and online content designed to enable and encourage self-sufficiency, participation, and collaboration.**
+
+    b. **"Digital inclusion" also includes obtaining access to digital literacy training, the provision of quality technical support, and obtaining basic awareness of measures to ensure online privacy and cybersecurity.**
+
+10. **"Digital literacy" means the skills associated with using technology to enable users to use information and communications technologies to find, evaluate, organize, create, and communicate information.**
+
+11. "Last mile infrastructure" means broadband infrastructure that serves as the final connection from a broadband service provider's network to the end-use customer's on-premises telecommunications equipment.
+
+12. "Local government" includes cities, towns, counties, municipal corporations, public port districts, public utility districts, quasi-municipal corporations, special purpose districts, and multiparty entities comprised of public entity members.
+
+13. **"Low-income" has the same meaning as provided in section 201 of this act.**
+
+14. "Middle mile infrastructure" means broadband infrastructure that links a broadband service provider's core network infrastructure to last mile infrastructure.
+
+15. "Office" means the governor's statewide broadband office established in RCW 43.330.532.
+
+16. "Tribe" means any federally recognized Indian tribe whose traditional lands and territories included parts of Washington.
+
+17. **"Underserved population" means:**
+
+    a. **Individuals who live in low-income households;**
+
+    b. **Aging individuals;**
+
+    c. **Incarcerated individuals;**
+
+    d. **Veterans;**
+
+    e. **Individuals with disabilities;**
+
+    f. **Individuals with a language barrier, including individuals who are English learners or who have low levels of literacy;**
+
+    g. **Individuals who are members of a racial or ethnic minority group; and**
+
+    h. **Individuals who primarily reside in a rural area.**
+
+18. "Unserved areas" means areas of Washington in which households and businesses lack access to broadband service, as defined by the office, except that the state's definition for broadband service may not be actual speeds less than twenty-five megabits per second download and three megabits per second upload.
+
+
+## Section 402
+> This section modifies existing section [43.330.532](/rcw/43_state_government—executive/43.330_department_of_commerce.md). Here is the [modified chapter](rcw/43_state_government—executive/43.330_department_of_commerce.md) for context.
+
+1. The governor's statewide broadband office is established. The director of the office must be appointed by the governor. The office may employ staff necessary to carry out the office's duties as prescribed by chapter 365, Laws of 2019, subject to the availability of amounts appropriated for this specific purpose.
+
+2. The purpose of the office is to encourage, foster, develop, and improve affordable, quality broadband within the state in order to:
+
+    a. Drive job creation, promote innovation, improve economic vitality, and expand markets for Washington businesses;
+
+    b. Serve the ongoing and growing needs of Washington's education systems, health care systems, public safety systems, industries and business, governmental operations, and citizens; and
+
+    c. Improve broadband accessibility **and adoption** for unserved **and underserved** communities and populations.
+
+
+## Section 403
+> This section modifies existing section [43.330.534](/rcw/43_state_government—executive/43.330_department_of_commerce.md). Here is the [modified chapter](rcw/43_state_government—executive/43.330_department_of_commerce.md) for context.
+
+1. The office has the power and duty to:
+
+    a. Serve as the central broadband planning body for the state of Washington;
+
+    b. Coordinate with local governments, tribes, public and private entities, nonprofit organizations, and consumer-owned and investor-owned utilities to develop strategies and plans promoting deployment of broadband infrastructure and greater broadband access, while protecting proprietary information;
+
+    c. Review existing broadband initiatives, policies, and public and private investments;
+
+    d. Develop, recommend, and implement a statewide plan to encourage cost-effective broadband access and to make recommendations for increased usage, particularly in rural and other unserved areas;
+
+    e. Update the state's broadband goals and definitions for broadband service in unserved areas as technology advances, except that the state's definition for broadband service may not be actual speeds less than twenty-five megabits per second download and three megabits per second upload; and
+
+    f. Encourage public-private partnerships to increase deployment and adoption of broadband services and applications.
+
+2. When developing plans or strategies for broadband deployment, the office must consider:
+
+    a. Partnerships between communities, tribes, nonprofit organizations, local governments, consumer-owned and investor-owned utilities, and public and private entities;
+
+    b. Funding opportunities that provide for the coordination of public, private, state, and federal funds for the purposes of making broadband infrastructure or broadband services available to rural and unserved areas of the state;
+
+    c. Barriers to the deployment, adoption, and utilization of broadband service, including affordability of service; and
+
+    d. Requiring minimum broadband service of twenty-five megabits per second download and three megabits per second upload speed, that is scalable to faster service.
+
+3. The office may assist applicants for the grant and loan program**s** created in RCW 43.155.160 **and 43.330.412 and section 405 of this act** with seeking federal funding or matching grants and other grant opportunities for deploying **or increasing adoption of** broadband services.
+
+4. The office may take all appropriate steps to seek and apply for federal funds for which the office is eligible, and other grants, and accept donations, and must deposit these funds in the statewide broadband account created in RCW 43.155.165.
+
+5. In carrying out its purpose, the office may collaborate with the utilities and transportation commission, the office of the chief information officer, the department of commerce, the community economic revitalization board, the public works board, the state librarian, and all other relevant state agencies.
+
+
+## Section 404
+> This section modifies existing section [43.330.412](/rcw/43_state_government—executive/43.330_department_of_commerce.md). Here is the [modified chapter](rcw/43_state_government—executive/43.330_department_of_commerce.md) for context.
+
+The **digital equity** opportunity program is created to **advance broadband adoption and digital equity and inclusion** throughout the state. The **digital equity** opportunity program must be administered by the department. The department may contract for services in order to carry out the department's obligations under this section.
+
+1. In implementing the **digital equity** opportunity program the director must, to the extent funds are appropriated for this purpose:
+
+    a. Provide organizational and capacity building support to community technology programs throughout the state**and additional support for the purpose of:**
+
+        i. **Evaluating the impact and efficacy of activities supported by grants awarded under the covered programs; and**
+
+        ii. **Developing, cataloging, disseminating, and promoting the exchange of best practices, with respect to and independent of the covered programs, in order to achieve digital equity. After July 1, 2023, no** more than **15** percent of funds received by the director for the program may be expended on these functions;
+
+    b. Establish a competitive grant program and provide grants to community technology programs to **advance digital equity and digital inclusion by providing:**
+
+        i. **Training** and skill-building opportunities;
+
+        ii. **Access** to hardware and software;
+
+        iii. **Internet** connectivity;
+
+        iv. **Digital** media literacy **training**;
+
+    v. **Assistance** in the adoption of information and communication technologies **for** low-income and underserved **populations** of the state; and
+
+    vi. **Development** of locally relevant content and delivery of vital services through technology.
+
+2. Grant applicants must:
+
+    a. Provide evidence that the applicant is a nonprofit entity or a public entity that is working in partnership with a nonprofit entity;
+
+    b. Define the geographic area or population to be served;
+
+    c. Include in the application the results of a needs assessment addressing, in the geographic area or among the population to be served: The impact of inadequacies in technology access or knowledge, barriers faced, and services needed;
+
+    d. Explain in detail the strategy for addressing the needs identified and an implementation plan including objectives, tasks, and benchmarks for the applicant and the role that other organizations will play in assisting the applicant's efforts;
+
+    e. Provide evidence of matching funds and resources, which are equivalent to at least **10 percent** of the grant amount committed to the applicant's strategy;
+
+    f. Provide evidence that funds applied for, if received, will be used to provide effective delivery of community technology services in alignment with the goals of this program and to increase the applicant's level of effort beyond the current level; and
+
+    g. Comply with such other requirements as the director establishes.
+
+3. The director may use no more than **10** percent of funds received for the **digital equity** opportunity program to cover administrative expenses.
+
+4. The director must establish expected program outcomes for each grant recipient and must require grant recipients to provide an annual accounting of program outcomes.
+
+5. **No grant under the digital equity opportunity program created under this section may be awarded based on a formula or criteria that give preference to urban areas over rural areas, including the use of criteria that afford increased weight the greater the density of population.**
+
+
+## Section 601
+The secretary of the department of social and health services, the chair of the utilities and transportation commission, the director of the department of commerce, and the director of the statewide broadband office, or any of his or her designees, may take any actions necessary to ensure that the provisions of this act are implemented on the dates identified in section 602 of this act.
+
+## Section 603
+If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.

@@ -1,0 +1,136 @@
+# Senate Bill 5125
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5125.xml)
+## Section 1
+> This section modifies existing section [90.58.140](/rcw/90_water_rights—environment/90.58_shoreline_management_act_of_1971.md). Here is the [modified chapter](rcw/90_water_rights—environment/90.58_shoreline_management_act_of_1971.md) for context.
+
+1. A development shall not be undertaken on the shorelines of the state unless it is consistent with the policy of this chapter and, after adoption or approval, as appropriate, the applicable guidelines, rules, or master program.
+
+2. A substantial development shall not be undertaken on shorelines of the state without first obtaining a permit from the government entity having administrative jurisdiction under this chapter.
+
+A permit shall be granted:
+
+    a. From June 1, 1971, until such time as an applicable master program has become effective, only when the development proposed is consistent with: (i) The policy of RCW 90.58.020; and (ii) after their adoption, the guidelines and rules of the department; and (iii) so far as can be ascertained, the master program being developed for the area;
+
+    b. After adoption or approval, as appropriate, by the department of an applicable master program, only when the development proposed is consistent with the applicable master program and this chapter.
+
+3. The local government shall establish a program, consistent with rules adopted by the department, for the administration and enforcement of the permit system provided in this section. The administration of the system so established shall be performed exclusively by the local government.
+
+4. Except as otherwise specifically provided in subsection (11) of this section, the local government shall require notification of the public of all applications for permits governed by any permit system established pursuant to subsection (3) of this section by ensuring that notice of the application is given by at least one of the following methods:
+
+    a. Mailing of the notice to the latest recorded real property owners as shown by the records of the county assessor within at least three hundred feet of the boundary of the property upon which the substantial development is proposed;
+
+    b. Posting of the notice in a conspicuous manner on the property upon which the project is to be constructed; or
+
+    c. Any other manner deemed appropriate by local authorities to accomplish the objectives of reasonable notice to adjacent landowners and the public.
+
+The notices shall include a statement that any person desiring to submit written comments concerning an application, or desiring to receive notification of the final decision concerning an application as expeditiously as possible after the issuance of the decision, may submit the comments or requests for decisions to the local government within thirty days of the last date the notice is to be published pursuant to this subsection. The local government shall forward, in a timely manner following the issuance of a decision, a copy of the decision to each person who submits a request for the decision.
+
+If a hearing is to be held on an application, notices of such a hearing shall include a statement that any person may submit oral or written comments on an application at the hearing.
+
+5. The system shall include provisions to assure that construction pursuant to a permit will not begin or be authorized until twenty-one days from the date the permit decision was filed as provided in subsection (6) of this section; or until all review proceedings are terminated if the proceedings were initiated within twenty-one days from the date of filing as defined in subsection (6) of this section except as follows:
+
+    a. In the case of any permit issued to the state of Washington, department of transportation, for the construction and modification of SR 90 (I-90) on or adjacent to Lake Washington, the construction may begin after thirty days from the date of filing, and the permits are valid until December 31, 1995;
+
+    b. [Empty]
+
+        i. In the case of any permit or decision to issue any permit to the state of Washington, department of transportation, for the replacement of the floating bridge and landings of the state route number 520 Evergreen Point bridge on or adjacent to Lake Washington, the construction may begin twenty-one days from the date of filing. Any substantial development permit granted for the floating bridge and landings is deemed to have been granted on the date that the local government's decision to grant the permit is issued. This authorization to construct is limited to only those elements of the floating bridge and landings that do not preclude the department of transportation's selection of a four-lane alternative for state route number 520 between Interstate 5 and Medina. Additionally, the Washington state department of transportation shall not engage in or contract for any construction on any portion of state route number 520 between Interstate 5 and the western landing of the floating bridge until the legislature has authorized the imposition of tolls on the Interstate 90 floating bridge and/or other funding sufficient to complete construction of the state route number 520 bridge replacement and HOV program. For the purposes of this subsection (5)(b), the "western landing of the floating bridge" means the least amount of new construction necessary to connect the new floating bridge to the existing state route number 520 and anchor the west end of the new floating bridge;
+
+        ii. Nothing in this subsection (5)(b) precludes the shorelines hearings board from concluding that the project or any element of the project is inconsistent with the goals and policies of the shoreline management act or the local shoreline master program;
+
+        iii. This subsection (5)(b) applies retroactively to any appeals filed after January 1, 2012, and to any appeals filed on or after March 23, 2012, and expires June 30, 2014;
+
+    c. [Empty]
+
+        i. In the case of permits for projects addressing significant public safety risks, as defined by the department of transportation, it is not in the public interest to delay construction until all review proceedings are terminated. In the case of any permit issued under this chapter or decision to issue any permit under this chapter for a transportation project of the Washington state department of transportation, construction may begin twenty-one days after the date of filing if all components of the project achieve a no net loss of shoreline ecological functions, as defined by department guidelines adopted pursuant to RCW 90.58.060 and as determined through the following process:
+
+(A) The department of transportation, as part of the permit review process, must provide the local government with an assessment of how the project affects shoreline ecological functions. The assessment must include specific actions for avoiding, minimizing, and mitigating impacts to shoreline ecological functions, developed in consultation with the department, that ensure there is no net loss of shoreline ecological functions; and
+
+(B) The local government, after reviewing the assessment required in (c)(i)(A) of this subsection and prior to the final issuance of all appropriate shoreline permits and variances, must determine that the project will result in no net loss of shoreline ecological functions.
+
+        ii. Nothing in this subsection (5)(c) precludes the shorelines hearings board from concluding that the shoreline project or any element of the project is inconsistent with this chapter, the local shoreline master program, chapter 43.21C RCW and its implementing regulations, or the applicable shoreline regulations.
+
+        iii. This subsection (5)(c) does not apply to permit decisions for the replacement of the floating bridge and landings of the state route number 520 Evergreen Point bridge on or adjacent to Lake Washington;
+
+    d. Except as authorized in (b) and (c) of this subsection, construction may be commenced no sooner than thirty days after the date of the appeal of the board's decision is filed if a permit is granted by the local government and (i) the granting of the permit is appealed to the shorelines hearings board within twenty-one days of the date of filing, (ii) the hearings board approves the granting of the permit by the local government or approves a portion of the substantial development for which the local government issued the permit, and (iii) an appeal for judicial review of the hearings board decision is filed pursuant to chapter 34.05 RCW. The appellant may request, within ten days of the filing of the appeal with the court, a hearing before the court to determine whether construction pursuant to the permit approved by the hearings board or to a revised permit issued pursuant to the order of the hearings board should not commence. If, at the conclusion of the hearing, the court finds that construction pursuant to such a permit would involve a significant, irreversible damaging of the environment, the court shall prohibit the permittee from commencing the construction pursuant to the approved or revised permit until all review proceedings are final. Construction pursuant to a permit revised at the direction of the hearings board may begin only on that portion of the substantial development for which the local government had originally issued the permit, and construction pursuant to such a revised permit on other portions of the substantial development may not begin until after all review proceedings are terminated. In such a hearing before the court, the burden of proving whether the construction may involve significant irreversible damage to the environment and demonstrating whether such construction would or would not be appropriate is on the appellant;
+
+    e. Except as authorized in (b) and (c) of this subsection, if the permit is for a substantial development meeting the requirements of subsection (11) of this section, construction pursuant to that permit may not begin or be authorized until twenty-one days from the date the permit decision was filed as provided in subsection (6) of this section.
+
+If a permittee begins construction pursuant to (a), (b), (c), (d), or (e) of this subsection, the construction is begun at the permittee's own risk. If, as a result of judicial review, the courts order the removal of any portion of the construction or the restoration of any portion of the environment involved or require the alteration of any portion of a substantial development constructed pursuant to a permit, the permittee is barred from recovering damages or costs involved in adhering to such requirements from the local government that granted the permit, the hearings board, or any appellant or intervener.
+
+6. Any decision on an application for a permit under the authority of this section, whether it is an approval or a denial, shall, concurrently with the transmittal of the ruling to the applicant, be filed with the department and the attorney general. This shall be accomplished by return receipt requested mail. A petition for review of such a decision must be commenced within twenty-one days from the date of filing of the decision.
+
+    a. With regard to a permit other than a permit governed by subsection (10) of this section, "date of filing" as used in this section refers to the date of actual receipt by the department of the local government's decision.
+
+    b. With regard to a permit for a variance or a conditional use governed by subsection (10) of this section, "date of filing" means the date the decision of the department is transmitted by the department to the local government.
+
+    c. When a local government simultaneously transmits to the department its decision on a shoreline substantial development with its approval of either a shoreline conditional use permit or variance, or both, "date of filing" has the same meaning as defined in (b) of this subsection.
+
+    d. The department shall notify in writing the local government and the applicant of the date of filing by telephone or electronic means, followed by written communication as necessary, to ensure that the applicant has received the full written decision.
+
+7. Applicants for permits under this section have the burden of proving that a proposed substantial development is consistent with the criteria that must be met before a permit is granted. In any review of the granting or denial of an application for a permit as provided in RCW 90.58.180 (1) and (2), the person requesting the review has the burden of proof.
+
+8. Any permit may, after a hearing with adequate notice to the permittee and the public, be rescinded by the issuing authority upon the finding that a permittee has not complied with conditions of a permit. If the department is of the opinion that noncompliance exists, the department shall provide written notice to the local government and the permittee. If the department is of the opinion that the noncompliance continues to exist thirty days after the date of the notice, and the local government has taken no action to rescind the permit, the department may petition the hearings board for a rescission of the permit upon written notice of the petition to the local government and the permittee if the request by the department is made to the hearings board within fifteen days of the termination of the thirty-day notice to the local government.
+
+9. The holder of a certification from the governor pursuant to chapter 80.50 RCW shall not be required to obtain a permit under this section.
+
+10. Any permit for a variance or a conditional use issued with approval by a local government under their approved master program must be submitted to the department for its approval or disapproval.
+
+11. [Empty]
+
+    a. An application for a substantial development permit for a limited utility extension or for the construction of a bulkhead or other measures to protect a single-family residence and its appurtenant structures from shoreline erosion shall be subject to the following procedures:
+
+        i. The public comment period under subsection (4) of this section shall be twenty days. The notice provided under subsection (4) of this section shall state the manner in which the public may obtain a copy of the local government decision on the application no later than two days following its issuance;
+
+        ii. The local government shall issue its decision to grant or deny the permit within twenty-one days of the last day of the comment period specified in (a)(i) of this subsection; and
+
+        iii. If there is an appeal of the decision to grant or deny the permit to the local government legislative authority, the appeal shall be finally determined by the legislative authority within thirty days.
+
+    b. For purposes of this section, a limited utility extension means the extension of a utility service that:
+
+        i. Is categorically exempt under chapter 43.21C RCW for one or more of the following: Natural gas, electricity, telephone, water, or sewer;
+
+        ii. Will serve an existing use in compliance with this chapter; and
+
+        iii. Will not extend more than twenty-five hundred linear feet within the shorelines of the state.
+
+12. A permit under this section is not required in order to dispose of dredged materials at a **: (a) Disposal** site approved through the cooperative planning process referenced in RCW 79.105.500, provided the dredged material disposal proponent obtains a valid site use authorization from the dredged material management program office within the department of natural resources**; or (b) site used for federal navigation channel maintenance and improvement projects and activities**.
+
+
+## Section 2
+> This section modifies existing section [90.58.355](/rcw/90_water_rights—environment/90.58_shoreline_management_act_of_1971.md). Here is the [modified chapter](rcw/90_water_rights—environment/90.58_shoreline_management_act_of_1971.md) for context.
+
+Requirements to obtain a substantial development permit, conditional use permit, variance, letter of exemption, or other review conducted by a local government to implement this chapter do not apply to:
+
+1. Any person conducting a remedial action at a facility pursuant to a consent decree, order, or agreed order issued pursuant to chapter 70A.305 RCW, or to the department of ecology when it conducts a remedial action under chapter 70A.305 RCW. The department must ensure compliance with the substantive requirements of this chapter through the consent decree, order, or agreed order issued pursuant to chapter 70A.305 RCW, or during the department-conducted remedial action, through the procedures developed by the department pursuant to RCW 70A.305.090;
+
+2. Any person installing site improvements for stormwater treatment in an existing boatyard facility to meet requirements of a national pollutant discharge elimination system stormwater general permit. The department must ensure compliance with the substantive requirements of this chapter through the review of engineering reports, site plans, and other documents related to the installation of boatyard stormwater treatment facilities;
+
+3. The department of transportation projects and activities that meet the conditions of RCW 90.58.356**; or**
+
+4. **Federal navigation channel maintenance and improvement projects and activities**.
+
+
+## Section 3
+> This section modifies existing section [90.58.356](/rcw/90_water_rights—environment/90.58_shoreline_management_act_of_1971.md). Here is the [modified chapter](rcw/90_water_rights—environment/90.58_shoreline_management_act_of_1971.md) for context.
+
+1. **The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.**
+
+    a. "Maintenance" means the preservation of the transportation facility, including surface, shoulders, roadsides, structures, and such traffic control devices as are necessary for safe and efficient utilization of the highway in a manner that substantially conforms to the preexisting design, function, and location as the original except to meet current engineering standards or environmental permit requirements.
+
+    b. "Repair" means to restore a structure or development to a state comparable to its original condition including, but not limited to, restoring the development's size, shape, configuration, location, and external appearance, within a reasonable period after decay or partial destruction. Repair of a structure or development may not cause substantial adverse effects to shoreline resources or the shoreline environment. Replacement of a structure or development may be considered a repair if: Replacement is the common method of repair for the type of structure or development; the replacement structure or development is comparable to the original structure or development including, but not limited to, the size, shape, configuration, location, and external appearance of the original structure or development; and the replacement does not cause substantial adverse effects to shoreline resources or the shoreline environment.
+
+    c. "Replacement" of any existing transportation facility means to replace in a manner that substantially conforms to the preexisting design, function, and location as the original except to meet current engineering standards or environmental permit requirements. Maintenance or replacement activities do not involve expansion of automobile lanes, and do not result in significant negative shoreline impact.
+
+2. The following department of transportation projects and activities do not require a substantial development permit, conditional use permit, variance, letter of exemption, or other review conducted by a local government:
+
+    a. Maintenance, repair, or replacement that occurs within the roadway prism of a state highway as defined in RCW 46.04.560, the lease or ownership area of a state ferry terminal, **federal navigation channel maintenance and improvement projects and activities, including the dredged material management plan,** or the lease or ownership area of a transit facility, including ancillary transportation facilities such as pedestrian paths, bicycle paths, or both, and bike lanes;
+
+    b. Construction or installation of safety structures and equipment, including pavement marking, freeway surveillance and control systems, railroad protective devices not including grade separated crossings, grooving, glare screen, safety barriers, energy attenuators, and hazardous or dangerous tree removal;
+
+    c. Maintenance occurring within the right-of-way; or
+
+    d. Construction undertaken in response to unforeseen, extraordinary circumstances that is necessary to prevent a decline, lapse, or cessation of service from a lawfully established transportation facility.
+
+3. The department of transportation must provide written notification of projects and activities authorized under this section with a cost in excess of one million dollars before the design or plan is finalized to all agencies with jurisdiction, agencies with facilities or services that may be impacted, and adjacent property owners.
+

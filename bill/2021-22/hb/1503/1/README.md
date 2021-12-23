@@ -1,0 +1,10 @@
+# House Bill 1503
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1503.xml)
+## Section 1
+(1) This section is the tax preference performance statement for the tax preferences contained in sections 2 and 3 of this act. The performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.
+(2) The legislature categorizes the tax preferences as ones intended to induce certain designated behavior by taxpayers, as indicated in RCW 82.32.808(2)(a).
+(3) It is the legislature's specific public policy objective to provide a financial incentive to individuals who do not earn above certain federally determined income thresholds to purchase or lease alternative fuel vehicles to increase the use of these vehicles in Washington by those who otherwise might not be able to afford them. It is the legislature's intent to establish an income-based tax incentive program for alternative fuel vehicles by establishing a retail sales and use tax exemption for alternative fuel vehicles to reduce the price charged to customers who otherwise might not be able to purchase or lease these vehicles.
+(4) To measure the effectiveness of the tax preferences in sections 2 and 3 of this act in achieving the public policy objectives described in subsection (3) of this section, the joint legislative audit and review committee must evaluate the number of clean alternative fuel vehicles titled in the state.
+(5) In order to obtain the data necessary to perform the review in subsection (4) of this section, the department of licensing and the department of revenue must provide data needed for the joint legislative audit and review committee analysis. In addition to the data source described under this subsection, the joint legislative audit and review committee may use any other data it deems necessary.
+(6) This section expires October 1, 2031.

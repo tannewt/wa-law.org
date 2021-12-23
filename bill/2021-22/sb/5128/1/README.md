@@ -7,11 +7,12 @@ This flexibility has allowed school districts to creatively use the resources at
 With this act, the legislature intends to temporarily suspend rider eligibility criteria for an expanded list of qualifying transportation services, so that all students can access necessary supports during the COVID-19 emergency. The legislature also intends to temporarily provide a fixed level of funding to school districts based on student service data to ensure that districts have the resources they need to continue serving students. Finally, the legislature intends to provide a mechanism for calculating student transportation funding immediately following the COVID-19 emergency, so that the temporary drop in student ridership does not impact future transportation allocations.
 
 ## Section 3
-> This section modifies an existing section. Here is the [modified chapter](rcw/28A_common_school_provisions/28A.160_student_transportation.md) for context.
+> This section modifies existing section [28A.160.170](/rcw/28A_common_school_provisions/28A.160_student_transportation.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.160_student_transportation.md) for context.
 
 Each district shall submit three times each year to the superintendent of public instruction during October, February, and May of each year a report containing the following:
 
 1. [Empty]
+
     a. The number of eligible students transported to and from school as provided for in RCW 28A.160.150, along with identification of stop locations and school locations, and (b) the number of miles driven for pupil transportation services as authorized in RCW 28A.160.150 the previous school year; and
 
 2. Other operational data and descriptions as required by the superintendent to determine allocation requirements for each district. The superintendent shall require that districts separate the costs of operating the program for the transportation of eligible students to and from school as defined by RCW 28A.160.160(3) **,** non-to-and-from-school pupil transportation costs**, and costs to provide expanded services under section 2(1)(b) of this act** in the annual financial statement. The cost, quantity, and type of all fuel purchased by school districts for use in to-and-from-school transportation shall be included in the annual financial statement.
@@ -20,7 +21,7 @@ Each district shall submit the information required in this section on a timely 
 
 
 ## Section 4
-> This section modifies an existing section. Here is the [modified chapter](rcw/28A_common_school_provisions/28A.160_student_transportation.md) for context.
+> This section modifies existing section [28A.160.192](/rcw/28A_common_school_provisions/28A.160_student_transportation.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.160_student_transportation.md) for context.
 
 1. The superintendent of public instruction shall phase-in the implementation of the distribution formula under this chapter for allocating state funds to school districts for the transportation of students to and from school. The phase-in shall begin no later than the 2011-2013 biennium and be fully implemented by the 2013-2015 biennium.
 
@@ -38,7 +39,7 @@ Each district shall submit the information required in this section on a timely 
 
     d. Allocations provided to recognize the cost of depreciation to districts contracting with private carriers for student transportation shall be deducted from the allowable transportation expenditures in (a) of this subsection.
 
-**(3) If a school or school district is providing full remote or partial remote instruction under the authority of RCW 28A.150.290 due to a local, state, or national emergency that makes full in-person instruction in a school building dangerous to the health or safety of the students and staff, the superintendent of public instruction shall use the allocation formula described in section 2(1)(a) of this act rather than the formula described in this section.**
+3. **If a school or school district is providing full remote or partial remote instruction under the authority of RCW 28A.150.290 due to a local, state, or national emergency that makes full in-person instruction in a school building dangerous to the health or safety of the students and staff, the superintendent of public instruction shall use the allocation formula described in section 2(1)(a) of this act rather than the formula described in this section.**
 
-**(4) If a school or school district provided full remote or partial remote instruction under the authority of RCW 28A.150.290 due to a local, state, or national emergency that made full in-person instruction in a school building dangerous to the health or safety of the students and staff, and that emergency is resolved, the superintendent of public instruction may use the student transportation data from the last reporting period in which the school district provided full in-person instruction to calculate transportation allocations. Such data may only be used until the subsequent reporting period when updated ridership data is available.**
+4. **If a school or school district provided full remote or partial remote instruction under the authority of RCW 28A.150.290 due to a local, state, or national emergency that made full in-person instruction in a school building dangerous to the health or safety of the students and staff, and that emergency is resolved, the superintendent of public instruction may use the student transportation data from the last reporting period in which the school district provided full in-person instruction to calculate transportation allocations. Such data may only be used until the subsequent reporting period when updated ridership data is available.**
 

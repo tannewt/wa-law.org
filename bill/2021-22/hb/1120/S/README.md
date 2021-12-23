@@ -1,0 +1,571 @@
+# Substitute House Bill 1120 as Recommended by Health Care & Wellness
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1120-S.xml)
+## Section 1
+> This section modifies existing section [43.43.832](/rcw/43_state_government—executive/43.043_washington_state_patrol.md). Here is the [modified chapter](rcw/43_state_government—executive/43.043_washington_state_patrol.md) for context.
+
+1. The Washington state patrol identification and criminal history section shall disclose conviction records as follows:
+
+    a. An applicant's conviction record, upon the request of a business or organization as defined in RCW 43.43.830, a developmentally disabled person, or a vulnerable adult as defined in RCW 43.43.830 or his or her guardian;
+
+    b. The conviction record of an applicant for certification, upon the request of the Washington professional educator standards board;
+
+    c. Any conviction record to aid in the investigation and prosecution of child, developmentally disabled person, and vulnerable adult abuse cases and to protect children and adults from further incidents of abuse, upon the request of a law enforcement agency, the office of the attorney general, prosecuting authority, or the department of social and health services; and
+
+    d. A prospective client's or resident's conviction record, upon the request of a business or organization that qualifies for exemption under section 501(c)(3) of the internal revenue code of 1986 (26 U.S.C. Sec. 501(c)(3)) and that provides emergency shelter or transitional housing for children, persons with developmental disabilities, or vulnerable adults.
+
+2. The secretary of the department of social and health services and the secretary of children, youth, and families must establish rules and set standards to require specific action when considering the information received pursuant to subsection (1) of this section, and when considering additional information including but not limited to civil adjudication proceedings as defined in RCW 43.43.830 and any out-of-state equivalent, in the following circumstances:
+
+    a. When considering persons for state employment in positions directly responsible for the supervision, care, or treatment of children, vulnerable adults, or individuals with mental illness or developmental disabilities provided that: For persons residing in a home that will be utilized to provide foster care for dependent youth, a criminal background check will be required for all persons aged sixteen and older and the department of social and health services may require a criminal background check for persons who are younger than sixteen in situations where it may be warranted to ensure the safety of youth in foster care;
+
+    b. When considering persons for state positions involving unsupervised access to vulnerable adults to conduct comprehensive assessments, financial eligibility determinations, licensing and certification activities, investigations, surveys, or case management; or for state positions otherwise required by federal law to meet employment standards;
+
+    c. When licensing agencies or facilities with individuals in positions directly responsible for the care, supervision, or treatment of children, developmentally disabled persons, or vulnerable adults, including but not limited to agencies or facilities licensed under chapter 74.15 or 18.51 RCW;
+
+    d. When contracting with individuals or businesses or organizations for the care, supervision, case management, or treatment, including peer counseling, of children, developmentally disabled persons, or vulnerable adults, including but not limited to services contracted for under chapter 18.20, 70.127, 70.128, 72.36, or 74.39A RCW or Title 71A RCW;
+
+    e. When individual providers as defined in RCW 74.39A.240 or providers paid by home care agencies provide in-home services involving unsupervised access to persons with physical, mental, or developmental disabilities or mental illness, or to vulnerable adults as defined in chapter 74.34 RCW, including but not limited to services provided under chapter 74.39 or 74.39A RCW.
+
+3. The secretary of the department of children, youth, and families shall investigate the conviction records, pending charges, and other information including civil adjudication proceeding records of current employees and of any person actively being considered for any position with the department who will or may have unsupervised access to children, or for state positions otherwise required by federal law to meet employment standards. "Considered for any position" includes decisions about (a) initial hiring, layoffs, reallocations, transfers, promotions, or demotions, or (b) other decisions that result in an individual being in a position that will or may have unsupervised access to children as an employee, an intern, or a volunteer.
+
+4. The secretary of the department of children, youth, and families shall adopt rules and investigate conviction records, pending charges, and other information including civil adjudication proceeding records, in the following circumstances:
+
+    a. When licensing or certifying agencies with individuals in positions that will or may have unsupervised access to children who are in child day care, in early learning programs, or receiving early childhood education services, including but not limited to licensees, agency staff, interns, volunteers, contracted providers, and persons living on the premises who are sixteen years of age or older;
+
+    b. When authorizing individuals who will or may have unsupervised access to children who are in child day care, in early learning programs, or receiving early childhood learning education services in licensed or certified agencies, including but not limited to licensees, agency staff, interns, volunteers, contracted providers, and persons living on the premises who are sixteen years of age or older;
+
+    c. When contracting with any business or organization for activities that will or may have unsupervised access to children who are in child day care, in early learning programs, or receiving early childhood learning education services;
+
+    d. When establishing the eligibility criteria for individual providers to receive state paid subsidies to provide child day care or early learning services that will or may involve unsupervised access to children; and
+
+    e. When responding to a request from an individual for a certificate of parental improvement under chapter 74.13 RCW.
+
+5. Whenever a state conviction record check is required by state law, persons may be employed or engaged as volunteers or independent contractors on a conditional basis pending completion of the state background investigation. Whenever a national criminal record check through the federal bureau of investigation is required by state law, a person may be employed or engaged as a volunteer or independent contractor on a conditional basis pending completion of the national check. The office of financial management shall adopt rules to accomplish the purposes of this subsection as it applies to state employees. **The department of social and health services shall adopt rules to accomplish the purpose of this subsection as it applies to long-term care workers subject to RCW 74.39A.056.**
+
+6. [Empty]
+
+    a. For purposes of facilitating timely access to criminal background information and to reasonably minimize the number of requests made under this section, recognizing that certain health care providers change employment frequently, health care facilities may, upon request from another health care facility, share copies of completed criminal background inquiry information.
+
+    b. Completed criminal background inquiry information may be shared by a willing health care facility only if the following conditions are satisfied: The licensed health care facility sharing the criminal background inquiry information is reasonably known to be the person's most recent employer, no more than twelve months has elapsed from the date the person was last employed at a licensed health care facility to the date of their current employment application, and the criminal background information is no more than two years old.
+
+    c. If criminal background inquiry information is shared, the health care facility employing the subject of the inquiry must require the applicant to sign a disclosure statement indicating that there has been no conviction or finding as described in RCW 43.43.842 since the completion date of the most recent criminal background inquiry.
+
+    d. Any health care facility that knows or has reason to believe that an applicant has or may have a disqualifying conviction or finding as described in RCW 43.43.842, subsequent to the completion date of their most recent criminal background inquiry, shall be prohibited from relying on the applicant's previous employer's criminal background inquiry information. A new criminal background inquiry shall be requested pursuant to RCW 43.43.830 through 43.43.842.
+
+    e. Health care facilities that share criminal background inquiry information shall be immune from any claim of defamation, invasion of privacy, negligence, or any other claim in connection with any dissemination of this information in accordance with this subsection.
+
+    f. Health care facilities shall transmit and receive the criminal background inquiry information in a manner that reasonably protects the subject's rights to privacy and confidentiality.
+
+7. The department of social and health services may not consider any final founded finding of physical abuse or negligent treatment or maltreatment of a child made pursuant to chapter 26.44 RCW that is accompanied by a certificate of parental improvement or dependency as a result of a finding of abuse or neglect pursuant to chapter 13.34 RCW that is accompanied by a certificate of parental improvement when evaluating an applicant or employee's character, competency, and suitability pursuant to any background check authorized or required by this chapter, RCW 43.20A.710 or 74.39A.056, or any of the rules adopted thereunder.
+
+
+## Section 2
+> This section modifies existing section [43.43.837](/rcw/43_state_government—executive/43.043_washington_state_patrol.md). Here is the [modified chapter](rcw/43_state_government—executive/43.043_washington_state_patrol.md) for context.
+
+1. Except as provided in subsection (2) of this section, in order to determine the character, competence, and suitability of any applicant or service provider to have unsupervised access, the secretary of the department of social and health services and the secretary of the department of children, youth, and families may require a fingerprint-based background check through both the Washington state patrol and the federal bureau of investigation at any time, but shall require a fingerprint-based background check when the applicant or service provider has resided in the state less than three consecutive years before application, and:
+
+    a. Is an applicant or service provider providing services to children or people with developmental disabilities under RCW 74.15.030;
+
+    b. Is an individual sixteen years of age or older who: (i) Is not under the placement and care authority of the department of children, youth, and families; and (ii) resides in an applicant or service provider's home, facility, entity, agency, or business or who is authorized by the department of children, youth, and families to provide services to children under RCW 74.15.030;
+
+    c. Is an individual who is authorized by the department of social and health services to provide services to people with developmental disabilities under RCW 74.15.030; or
+
+    d. Is an applicant or service provider providing in-home services funded by:
+
+        i. Medicaid personal care under RCW 74.09.520;
+
+        ii. Community options program entry system waiver services under RCW 74.39A.030;
+
+        iii. Chore services under RCW 74.39A.110; or
+
+        iv. Other home and community long‑term care programs, established pursuant to chapters 74.39 and 74.39A RCW, administered by the department of social and health services.
+
+2. Long-term care workers, as defined in RCW 74.39A.009, who are hired after January 7, 2012, are subject to background checks under RCW 74.39A.056.
+
+3. To satisfy the shared background check requirements provided for in RCW 43.216.270 and 43.20A.710, the department of children, youth, and families and the department of social and health services shall share federal fingerprint-based background check results as permitted under the law. The purpose of this provision is to allow both departments to fulfill their joint background check responsibility of checking any individual who may have unsupervised access to vulnerable adults, children, or juveniles. Neither department may share the federal background check results with any other state agency or person.
+
+4. The secretary of the department of children, youth, and families shall require a fingerprint‑based background check through the Washington state patrol identification and criminal history section and the federal bureau of investigation when the department seeks to approve an applicant or service provider for a foster or adoptive placement of children in accordance with federal and state law. Fees charged by the Washington state patrol and the federal bureau of investigation for fingerprint-based background checks shall be paid by the department of children, youth, and families for applicant and service providers providing foster care as required in RCW 74.15.030.
+
+5. Any secure facility operated by the department of social and health services or the department of children, youth, and families under chapter 71.09 RCW shall require applicants and service providers to undergo a fingerprint-based background check through the Washington state patrol identification and criminal history section and the federal bureau of investigation.
+
+6. Service providers and service provider applicants**, except for those long-term care workers exempted in subsection (2) of this section,** who are required to complete a fingerprint-based background check may be hired for a one hundred twenty-day provisional period as allowed under law or program rules when:
+
+    a. A fingerprint-based background check is pending; and
+
+    b. The applicant or service provider is not disqualified based on the immediate result of the background check.
+
+7. Fees charged by the Washington state patrol and the federal bureau of investigation for fingerprint-based background checks shall be paid by the applicable department for applicants or service providers providing:
+
+    a. Services to people with a developmental disability under RCW 74.15.030;
+
+    b. In-home services funded by medicaid personal care under RCW 74.09.520;
+
+    c. Community options program entry system waiver services under RCW 74.39A.030;
+
+    d. Chore services under RCW 74.39A.110;
+
+    e. Services under other home and community long‑term care programs, established pursuant to chapters 74.39 and 74.39A RCW, administered by the department of social and health services or the department of children, youth, and families; and
+
+    f. Services in, or to residents of, a secure facility under RCW 71.09.115.
+
+8. Service providers licensed under RCW 74.15.030 must pay fees charged by the Washington state patrol and the federal bureau of investigation for conducting fingerprint-based background checks.
+
+9. Department of children, youth, and families service providers licensed under RCW 74.15.030 may not pass on the cost of the background check fees to their applicants unless the individual is determined to be disqualified due to the background information.
+
+10. The department of social and health services and the department of children, youth, and families shall develop rules identifying the financial responsibility of service providers, applicants, and the department for paying the fees charged by law enforcement to roll, print, or scan fingerprints‑based for the purpose of a Washington state patrol or federal bureau of investigation fingerprint‑based background check.
+
+11. For purposes of this section, unless the context plainly indicates otherwise:
+
+    a. "Applicant" means a current or prospective department of social and health services, department of children, youth, and families, or service provider employee, volunteer, student, intern, researcher, contractor, or any other individual who will or may have unsupervised access because of the nature of the work or services he or she provides. "Applicant" includes but is not limited to any individual who will or may have unsupervised access and is:
+
+        i. Applying for a license or certification from the department of social and health services or the department of children, youth, and families;
+
+        ii. Seeking a contract with the department of social and health services, the department of children, youth, and families, or a service provider;
+
+        iii. Applying for employment, promotion, reallocation, or transfer;
+
+        iv. An individual that a department of social and health services or department of children, youth, and families client or guardian of a department of social and health services or department of children, youth, and families client chooses to hire or engage to provide services to himself or herself or another vulnerable adult, juvenile, or child and who might be eligible to receive payment from the department of social and health services or the department of children, youth, and families for services rendered; or
+
+    v. A department of social and health services or department of children, youth, and families applicant who will or may work in a department-covered position.
+
+    b. "Authorized" means the department of social and health services or the department of children, youth, and families grants an applicant, home, or facility permission to:
+
+        i. Conduct licensing, certification, or contracting activities;
+
+        ii. Have unsupervised access to vulnerable adults, juveniles, and children;
+
+        iii. Receive payments from a department of social and health services or department of children, youth, and families program; or
+
+        iv. Work or serve in a department of social and health services or department of children, youth, and families-covered position.
+
+    c. "Secretary" means the secretary of the department of social and health services.
+
+    d. "Secure facility" has the meaning provided in RCW 71.09.020.
+
+    e. "Service provider" means entities, facilities, agencies, businesses, or individuals who are licensed, certified, authorized, or regulated by, receive payment from, or have contracts or agreements with the department of social and health services or the department of children, youth, and families to provide services to vulnerable adults, juveniles, or children. "Service provider" includes individuals whom a department of social and health services or department of children, youth, and families client or guardian of a department of social and health services or department of children, youth, and families client may choose to hire or engage to provide services to himself or herself or another vulnerable adult, juvenile, or child and who might be eligible to receive payment from the department of social and health services or the department of children, youth, and families for services rendered.
+
+
+## Section 3
+> This section modifies existing section [74.39A.056](/rcw/74_public_assistance/74.39A_long-term_care_services_options—expansion.md). Here is the [modified chapter](rcw/74_public_assistance/74.39A_long-term_care_services_options—expansion.md) for context.
+
+1. [Empty]
+
+    a. All long‑term care workers shall be screened through state and federal background checks in a uniform and timely manner to verify that they do not have a history that would disqualify them from working with vulnerable persons. The department must process background checks for long-term care workers and make the information available to employers, prospective employers, and others as authorized by law.
+
+    b. [Empty]
+
+        i. Except as provided in (b)(ii) of this subsection, for long-term care workers hired on or after January 7, 2012, the background checks required under this section shall include checking against the federal bureau of investigation fingerprint identification records system **or its successor program**. The department shall require these long-term care workers to submit fingerprints for the purpose of investigating conviction records through both the Washington state patrol and the federal bureau of investigation. The department shall not pass on the cost of these criminal background checks to the workers or their employers.
+
+        ii. **A long-term care worker who is not disqualified by the state background check can work and have unsupervised access pending the results of the federal bureau of investigation fingerprint check as allowed by rules adopted by the department.**
+
+    c. The department shall share state and federal background check results with the department of health in accordance with RCW 18.88B.080.
+
+    d. Background check screening required under this section and department rules is not required for an employee of a consumer directed employer if all of the following circumstances apply:
+
+        i. The individual has an individual provider contract with the department;
+
+        ii. The last background check on the contracted individual provider is still valid under department rules and did not disqualify the individual from providing personal care services;
+
+        iii. Employment by the consumer directed employer is the only reason a new background check would be required; and
+
+        iv. The department's background check results have been shared with the consumer directed employer.
+
+    e. **The department may require a fingerprint-based background check through both the Washington state patrol and the federal bureau of investigation at any time.**
+
+2. A provider may not be employed in the care of and have unsupervised access to vulnerable adults if:
+
+    a. The provider is on the vulnerable adult abuse registry or on any other registry based upon a finding of abuse, abandonment, neglect, or financial exploitation of a vulnerable adult;
+
+    b. On or after October 1, 1998, the department of children, youth, and families, or its predecessor agency, has made a founded finding of abuse or neglect of a child against the provider. If the provider has received a certificate of parental improvement under chapter 74.13 RCW pertaining to the finding, the provider is not disqualified under this section;
+
+    c. A disciplining authority, including the department of health, has made a finding of abuse, abandonment, neglect, or financial exploitation of a minor or a vulnerable adult against the provider; or
+
+    d. A court has issued an order that includes a finding of fact or conclusion of law that the provider has committed abuse, abandonment, neglect, or financial exploitation of a minor or vulnerable adult. If the provider has received a certificate of parental improvement under chapter 74.13 RCW pertaining to the finding of fact or conclusion of law, the provider is not disqualified under this section.
+
+3. The department shall establish, by rule, a state registry which contains identifying information about long-term care workers identified under this chapter who have final substantiated findings of abuse, neglect, financial exploitation, or abandonment of a vulnerable adult as defined in RCW 74.34.020. The rule must include disclosure, disposition of findings, notification, findings of fact, appeal rights, and fair hearing requirements. The department shall disclose, upon request, final substantiated findings of abuse, neglect, financial exploitation, or abandonment to any person so requesting this information. This information must also be shared with the department of health to advance the purposes of chapter 18.88B RCW.
+
+4. For the purposes of this section, "provider" means:
+
+    a. An individual provider as defined in RCW 74.39A.240;
+
+    b. An employee, licensee, or contractor of any of the following: A home care agency licensed under chapter 70.127 RCW; a nursing home under chapter 18.51 RCW; an assisted living facility under chapter 18.20 RCW; an enhanced services facility under chapter 70.97 RCW; a certified resident services and supports agency licensed or certified under chapter 71A.12 RCW; an adult family home under chapter 70.128 RCW; or any long-term care facility certified to provide medicaid or medicare services; and
+
+    c. Any contractor of the department who may have unsupervised access to vulnerable adults.
+
+5. The department shall adopt rules to implement this section.
+
+
+## Section 4
+> This section modifies existing section [18.51.091](/rcw/18_businesses_and_professions/18.051_nursing_homes.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.051_nursing_homes.md) for context.
+
+1. The department shall inspect each nursing home periodically in accordance with federal standards under 42 C.F.R. Part 488, Subpart E. The inspection shall be made without providing advance notice of it. Every inspection may include an inspection of every part of the premises and an examination of all records, methods of administration, the general and special dietary and the stores and methods of supply. Those nursing homes that provide community-based care shall establish and maintain separate and distinct accounting and other essential records for the purpose of appropriately allocating costs of the providing of such care: PROVIDED, That such costs shall not be considered allowable costs for reimbursement purposes under chapter 74.46 RCW. Following such inspection or inspections, written notice of any violation of this law or the rules and regulations promulgated hereunder, shall be given to the applicant or licensee and the department. The notice shall describe the reasons for the facility's noncompliance. The department may prescribe by regulations that any licensee or applicant desiring to make specified types of alterations or additions to its facilities or to construct new facilities shall, before commencing such alteration, addition or new construction, submit its plans and specifications therefor to the department for preliminary inspection and approval or recommendations with respect to compliance with the regulations and standards herein authorized.
+
+2. **If a pandemic, natural disaster, or other declared state of emergency prevents the department from completing inspections according to the timeline in subsection (1) of this section, the department shall adopt rules to reestablish inspection timelines based on the length of time since the last complete inspection, compliance history of each facility, immediate health or safety concerns, and centers for medicare and medicaid services requirements. Rules adopted under this subsection are effective only during the pandemic, natural disaster, or other declared state of emergency.**
+
+
+## Section 5
+> This section modifies existing section [18.51.230](/rcw/18_businesses_and_professions/18.051_nursing_homes.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.051_nursing_homes.md) for context.
+
+1. The department shall, in addition to any inspections conducted pursuant to complaints filed pursuant to RCW 18.51.190, conduct a periodic general inspection of each nursing home in the state without providing advance notice of such inspection. Such inspections must conform to the federal standards for surveys under 42 C.F.R. Part 488, Subpart E.
+
+2. **If a pandemic, natural disaster, or other declared state of emergency prevents the department from completing inspections according to the timeline in subsection (1) of this section, the department shall adopt rules to reestablish inspection timelines based on the length of time since the last complete inspection, compliance history of each facility, immediate health or safety concerns, and centers for medicare and medicaid services requirements. Rules adopted under this subsection are effective only during the pandemic, natural disaster, or other declared state of emergency.**
+
+
+## Section 6
+> This section modifies existing section [74.42.360](/rcw/74_public_assistance/74.42_nursing_homes—resident_care_operating_standards.md). Here is the [modified chapter](rcw/74_public_assistance/74.42_nursing_homes—resident_care_operating_standards.md) for context.
+
+1. The facility shall have staff on duty twenty-four hours daily sufficient in number and qualifications to carry out the provisions of RCW 74.42.010 through 74.42.570 and the policies, responsibilities, and programs of the facility.
+
+2. The department shall institute minimum staffing standards for nursing homes. Beginning July 1, 2016, facilities must provide a minimum of 3.4 hours per resident day of direct care. Direct care staff has the same meaning as defined in RCW 74.42.010. The minimum staffing standard includes the time when such staff are providing hands-on care related to activities of daily living and nursing-related tasks, as well as care planning. The legislature intends to increase the minimum staffing standard to 4.1 hours per resident day of direct care, but the effective date of a standard higher than 3.4 hours per resident day of direct care will be identified if and only if funding is provided explicitly for an increase of the minimum staffing standard for direct care.
+
+    a. The department shall establish in rule a system of compliance of minimum direct care staffing standards by January 1, 2016. Oversight must be done at least quarterly using the centers for medicare and medicaid services' payroll-based journal and nursing home facility census and payroll data.
+
+    b. The department shall establish in rule by January 1, 2016, a system of financial penalties for facilities out of compliance with minimum staffing standards. No monetary penalty may be issued during the implementation period of July 1, 2016, through September 30, 2016. If a facility is found noncompliant during the implementation period, the department shall provide a written notice identifying the staffing deficiency and require the facility to provide a sufficiently detailed correction plan to meet the statutory minimum staffing levels. Monetary penalties begin October 1, 2016. Monetary penalties must be established based on a formula that calculates the cost of wages and benefits for the missing staff hours. If a facility meets the requirements in subsection (3) or (4) of this section, the penalty amount must be based solely on the wages and benefits of certified nurse aides. The first monetary penalty for noncompliance must be at a lower amount than subsequent findings of noncompliance. Monetary penalties established by the department may not exceed two hundred percent of the wage and benefit costs that would have otherwise been expended to achieve the required staffing minimum hours per resident day for the quarter. A facility found out of compliance must be assessed a monetary penalty at the lowest penalty level if the facility has met or exceeded the requirements in subsection (2) of this section for three or more consecutive years. Beginning July 1, 2016, pursuant to rules established by the department, funds that are received from financial penalties must be used for technical assistance, specialized training, or an increase to the quality enhancement established in RCW 74.46.561.
+
+    c. The department shall establish in rule an exception allowing geriatric behavioral health workers as defined in RCW 74.42.010 to be recognized in the minimum staffing requirements as part of the direct care service delivery to individuals who have a behavioral health condition. Hours worked by geriatric behavioral health workers may be recognized as direct care hours for purposes of the minimum staffing requirements only up to a portion of the total hours equal to the proportion of resident days of clients with a behavioral health condition identified at that facility on the most recent semiannual minimum data set. In order to qualify for the exception:
+
+        i. The worker must:
+
+(A) Have a bachelor's or master's degree in social work, behavioral health, or other related areas; or
+
+(B) Have at least three years experience providing care for individuals with chronic mental health issues, dementia, or intellectual and developmental disabilities in a long-term care or behavioral health care setting; or
+
+(C) Have successfully completed a facility-based behavioral health curriculum approved by the department under RCW 74.39A.078;
+
+        ii. Any geriatric behavioral health worker holding less than a master's degree in social work must be directly supervised by an employee who has a master's degree in social work or a registered nurse.
+
+    d. [Empty]
+
+        i. The department shall establish a limited exception to the 3.4 hours per resident day staffing requirement for facilities demonstrating a good faith effort to hire and retain staff.
+
+        ii. To determine initial facility eligibility for exception consideration, the department shall send surveys to facilities anticipated to be below, at, or slightly above the 3.4 hours per resident day requirement. These surveys must measure the hours per resident day in a manner as similar as possible to the centers for medicare and medicaid services' payroll-based journal and cover the staffing of a facility from October through December of 2015, January through March of 2016, and April through June of 2016. A facility must be below the 3.4 staffing standard on all three surveys to be eligible for exception consideration. If the staffing hours per resident day for a facility declines from any quarter to another during the survey period, the facility must provide sufficient information to the department to allow the department to determine if the staffing decrease was deliberate or a result of neglect, which is the lack of evidence demonstrating the facility's efforts to maintain or improve its staffing ratio. The burden of proof is on the facility and the determination of whether or not the decrease was deliberate or due to neglect is entirely at the discretion of the department. If the department determines a facility's decline was deliberate or due to neglect, that facility is not eligible for an exception consideration.
+
+        iii. To determine eligibility for exception approval, the department shall review the plan of correction submitted by the facility. Before a facility's exception may be renewed, the department must determine that sufficient progress is being made towards reaching the 3.4 hours per resident day staffing requirement. When reviewing whether to grant or renew an exception, the department must consider factors including but not limited to: Financial incentives offered by the facilities such as recruitment bonuses and other incentives; the robustness of the recruitment process; county employment data; specific steps the facility has undertaken to improve retention; improvements in the staffing ratio compared to the baseline established in the surveys and whether this trend is continuing; and compliance with the process of submitting staffing data, adherence to the plan of correction, and any progress toward meeting this plan, as determined by the department.
+
+        iv. Only facilities that have their direct care component rate increase capped according to RCW 74.46.561 are eligible for exception consideration. Facilities that will have their direct care component rate increase capped for one or two years are eligible for exception consideration through June 30, 2017. Facilities that will have their direct care component rate increase capped for three years are eligible for exception consideration through June 30, 2018.
+
+    v. The department may not grant or renew a facility's exception if the facility meets the 3.4 hours per resident day staffing requirement and subsequently drops below the 3.4 hours per resident day staffing requirement.
+
+    vi. The department may grant exceptions for a six-month period per exception. The department's authority to grant exceptions to the 3.4 hours per resident day staffing requirement expires June 30, 2018.
+
+3. [Empty]
+
+    a. Large nonessential community providers must have a registered nurse on duty directly supervising resident care twenty-four hours per day, seven days per week.
+
+    b. [Empty]
+
+        i. The department shall establish a limited exception process for large nonessential community providers that can demonstrate a good faith effort to hire a registered nurse for the last eight hours of required coverage per day. In granting an exception, the department may consider the competitiveness of the wages and benefits offered as compared to nursing facilities in comparable geographic or metropolitan areas within Washington state, the provider's recruitment and retention efforts, and the availability of registered nurses in the particular geographic area. A one-year exception may be granted and may be renewable; however, the department may limit the admission of new residents, based on medical conditions or complexities, when a registered nurse is not on-site and readily available. If a large nonessential community provider receives an exception, that information must be included in the department's nursing home locator.
+
+        ii. By August 1, 2023, and every three years thereafter, the department, along with a stakeholder work group established by the department, shall conduct a review of the exceptions process to determine if it is still necessary. As part of this review, the department shall provide the legislature with a report that includes enforcement and citation data for large nonessential community providers that were granted an exception in the three previous fiscal years in comparison to those without an exception. The report must include a similar comparison of data, provided to the department by the long-term care ombuds, on long-term care ombuds referrals for large nonessential community providers that were granted an exception in the three previous fiscal years and those without an exception. This report, along with a recommendation as to whether the exceptions process should continue, is due to the legislature by December 1st of each year in which a review is conducted. Based on the recommendations outlined in this report, the legislature may take action to end the exceptions process.
+
+4. Essential community providers and small nonessential community providers must have a registered nurse on duty directly supervising resident care a minimum of sixteen hours per day, seven days per week, and a registered nurse or a licensed practical nurse on duty directly supervising resident care the remaining eight hours per day, seven days per week.
+
+5. For the purposes of this section, "behavioral health condition" means one or more of the behavioral symptoms specified in section E of the minimum data set.
+
+6. **If a pandemic, natural disaster, or other declared state of emergency impedes or prevents facilities from compliance with subsections (2) through (4) of this section, the department may adopt rules to grant exceptions to these requirements, waive penalties, and suspend oversight activities. Facilities must remain in compliance with subsection (1) of this section. Rules adopted under this subsection are effective only during the pandemic, natural disaster, or other declared state of emergency.**
+
+
+## Section 7
+> This section modifies existing section [74.39A.074](/rcw/74_public_assistance/74.39A_long-term_care_services_options—expansion.md). Here is the [modified chapter](rcw/74_public_assistance/74.39A_long-term_care_services_options—expansion.md) for context.
+
+1. [Empty]
+
+    a. Except for long-term care workers exempt from certification under RCW 18.88B.041(1)(a), all persons hired as long‑term care workers must meet the minimum training requirements in this section within one hundred twenty calendar days after the date of being hired.
+
+    b. Except as provided in RCW 74.39A.076, the minimum training requirement is seventy‑five hours of entry‑level training approved by the department. A long-term care worker must successfully complete five of these seventy‑five hours before being eligible to provide care.
+
+    c. Training required by (d) of this subsection applies toward the training required under RCW 18.20.270 or 70.128.230 or any statutory or regulatory training requirements for long-term care workers employed by community residential service businesses.
+
+    d. The seventy‑five hours of entry-level training required shall be as follows:
+
+        i. Before a long-term care worker is eligible to provide care, he or she must complete:
+
+(A) Two hours of orientation training regarding his or her role as caregiver and the applicable terms of employment; and
+
+(B) Three hours of safety training, including basic safety precautions, emergency procedures, and infection control; and
+
+        ii. Seventy hours of long‑term care basic training, including training related to:
+
+(A) Core competencies; and
+
+(B) Population specific competencies, including identification of individuals with potential hearing loss and how to seek assistance if hearing loss is suspected.
+
+2. Only training curriculum approved by the department may be used to fulfill the training requirements specified in this section. The department shall only approve training curriculum that:
+
+    a. Has been developed with input from consumer and worker representatives; and
+
+    b. Requires comprehensive instruction by qualified instructors on the competencies and training topics in this section.
+
+3. Individual providers under RCW 74.39A.270 shall be compensated for training time required by this section.
+
+4. **If a pandemic, natural disaster, or other declared state of emergency impacts the ability of long-term care workers to complete training as required by this section, the department may adopt rules to allow long-term care workers additional time to complete the training requirements. Rules adopted under this subsection are effective only during the pandemic, natural disaster, or other declared state of emergency.**
+
+5. The department shall adopt rules to implement this section.
+
+
+## Section 8
+> This section modifies existing section [74.39A.076](/rcw/74_public_assistance/74.39A_long-term_care_services_options—expansion.md). Here is the [modified chapter](rcw/74_public_assistance/74.39A_long-term_care_services_options—expansion.md) for context.
+
+1. Beginning January 7, 2012, except for long-term care workers exempt from certification under RCW 18.88B.041(1)(a):
+
+    a. A biological, step, or adoptive parent who is the individual provider only for the person's developmentally disabled son or daughter must receive twelve hours of training relevant to the needs of adults with developmental disabilities within the first one hundred twenty days after becoming an individual provider.
+
+    b. A spouse or registered domestic partner who is a long-term care worker only for a spouse or domestic partner, pursuant to the long-term services and supports trust program established in chapter 50B.04 RCW, must receive fifteen hours of basic training, and at least six hours of additional focused training based on the care-receiving spouse's or partner's needs, within the first one hundred twenty days after becoming a long-term care worker.
+
+    c. A person working as an individual provider who (i) provides respite care services only for individuals with developmental disabilities receiving services under Title 71A RCW or only for individuals who receive services under this chapter, and (ii) works three hundred hours or less in any calendar year, must complete fourteen hours of training within the first one hundred twenty days after becoming an individual provider. Five of the fourteen hours must be completed before becoming eligible to provide care, including two hours of orientation training regarding the caregiving role and terms of employment and three hours of safety training. The training partnership identified in RCW 74.39A.360 must offer at least twelve of the fourteen hours online, and five of those online hours must be individually selected from elective courses.
+
+    d. Individual providers identified in (d)(i) or (ii) of this subsection must complete thirty‑five hours of training within the first one hundred twenty days after becoming an individual provider. Five of the thirty‑five hours must be completed before becoming eligible to provide care. Two of these five hours shall be devoted to an orientation training regarding an individual provider's role as caregiver and the applicable terms of employment, and three hours shall be devoted to safety training, including basic safety precautions, emergency procedures, and infection control. Individual providers subject to this requirement include:
+
+        i. An individual provider caring only for the individual provider's biological, step, or adoptive child or parent unless covered by (a) of this subsection; and
+
+        ii. A person working as an individual provider who provides twenty hours or less of care for one person in any calendar month.
+
+2. In computing the time periods in this section, the first day is the date of hire.
+
+3. Only training curriculum approved by the department may be used to fulfill the training requirements specified in this section. The department shall only approve training curriculum that:
+
+    a. Has been developed with input from consumer and worker representatives; and
+
+    b. Requires comprehensive instruction by qualified instructors.
+
+4. **If a pandemic, natural disaster, or other declared state of emergency impacts the ability of long-term care workers to complete training as required by this section, the department may adopt rules to allow long-term care workers additional time to complete the training requirements. Rules adopted under this subsection are effective only during the pandemic, natural disaster, or other declared state of emergency.**
+
+5. The department shall adopt rules to implement this section.
+
+
+## Section 9
+> This section modifies existing section [74.39A.341](/rcw/74_public_assistance/74.39A_long-term_care_services_options—expansion.md). Here is the [modified chapter](rcw/74_public_assistance/74.39A_long-term_care_services_options—expansion.md) for context.
+
+1. All long-term care workers shall complete twelve hours of continuing education training in advanced training topics each year. This requirement applies beginning July 1, 2012.
+
+2. Completion of continuing education as required in this section is a prerequisite to maintaining home care aide certification under chapter 18.88B RCW.
+
+3. Unless voluntarily certified as a home care aide under chapter 18.88B RCW, subsection (1) of this section does not apply to:
+
+    a. An individual provider caring only for his or her biological, step, or adoptive child;
+
+    b. Registered nurses and licensed practical nurses licensed under chapter 18.79 RCW;
+
+    c. Before January 1, 2016, a long-term care worker employed by a community residential service business;
+
+    d. A person working as an individual provider who provides twenty hours or less of care for one person in any calendar month; or
+
+    e. A person working as an individual provider who only provides respite services and works less than three hundred hours in any calendar year.
+
+4. Only training curriculum approved by the department may be used to fulfill the training requirements specified in this section. The department shall only approve training curriculum that:
+
+    a. Has been developed with input from consumer and worker representatives; and
+
+    b. Requires comprehensive instruction by qualified instructors.
+
+5. Individual providers under RCW 74.39A.270 shall be compensated for training time required by this section.
+
+6. **If a pandemic, natural disaster, or other declared state of emergency impacts the ability of long-term care workers to complete training as required by this section, the department may adopt rules to allow long-term care workers additional time to complete the training requirements. Rules adopted under this subsection are effective only during the pandemic, natural disaster, or other declared state of emergency.**
+
+7. The department of health shall adopt rules to implement subsection (1) of this section.
+
+8. The department shall adopt rules to implement subsection (2) of this section.
+
+
+## Section 10
+> This section modifies existing section [18.88B.021](/rcw/18_businesses_and_professions/18.088B_long-term_care_workers.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.088B_long-term_care_workers.md) for context.
+
+1. Beginning January 7, 2012, except as provided in RCW 18.88B.041, any person hired as a long-term care worker must be certified as a home care aide as provided in this chapter within two hundred calendar days after the date of  hire**, as defined by the department. The department may adopt rules determining under which circumstances a long-term care worker may have more than one date of hire, restarting the person's two hundred day period to obtain certification as a home care aide**.
+
+2. [Empty]
+
+    a. No person may practice or, by use of any title or description, represent himself or herself as a certified home care aide without being certified as provided in this chapter.
+
+    b. This section does not prohibit a person: (i) From practicing a profession for which the person has been issued a license or which is specifically authorized under this state's laws; or (ii) who is exempt from certification under RCW 18.88B.041 from providing services as a long-term care worker.
+
+    c. In consultation with consumer and worker representatives, the department shall, by January 1, 2013, establish by rule a single scope of practice that encompasses both long-term care workers who are certified home care aides and long-term care workers who are exempted from certification under RCW 18.88B.041.
+
+3. **If a pandemic, natural disaster, or other declared state of emergency impacts the ability of long-term care workers to complete certification as required by this section, the department may adopt rules to allow long-term care workers additional time to become certified. Rules adopted under this subsection are effective only during the pandemic, natural disaster, or other declared state of emergency.**
+
+4. The department shall adopt rules to implement this section.
+
+
+## Section 11
+> This section modifies existing section [70.128.230](/rcw/70_public_health_and_safety/70.128_adult_family_homes.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.128_adult_family_homes.md) for context.
+
+1. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Caregiver" includes all adult family home resident managers and any person who provides residents with hands-on personal care on behalf of an adult family home, except volunteers who are directly supervised.
+
+    b. "Indirect supervision" means oversight by a person who has demonstrated competency in the core areas or has been fully exempted from the training requirements pursuant to this section and is quickly and easily available to the caregiver, but not necessarily on-site.
+
+2. Training must have three components: Orientation, basic training, and continuing education. All adult family home providers, resident managers, and employees, or volunteers who routinely interact with residents shall complete orientation. Caregivers shall complete orientation, basic training, and continuing education.
+
+3. Orientation consists of introductory information on residents' rights, communication skills, fire and life safety, and universal precautions. Orientation must be provided at the facility by appropriate adult family home staff to all adult family home employees before the employees have routine interaction with residents.
+
+4. Basic training consists of modules on the core knowledge and skills that caregivers need to learn and understand to effectively and safely provide care to residents. Basic training must be outcome-based, and the effectiveness of the basic training must be measured by demonstrated competency in the core areas through the use of a competency test. Basic training must be completed by caregivers within one hundred twenty days of the date on which they begin to provide hands-on care. Until competency in the core areas has been demonstrated, caregivers shall not provide hands-on personal care to residents without direct supervision.
+
+5. For adult family homes that serve residents with special needs such as dementia, developmental disabilities, or mental illness, specialty training is required of providers and resident managers.
+
+    a. Specialty training consists of modules on the core knowledge and skills that providers and resident managers need to effectively and safely provide care to residents with special needs. Specialty training should be integrated into basic training wherever appropriate. Specialty training must be outcome-based, and the effectiveness of the specialty training measured by demonstrated competency in the core specialty areas through the use of a competency test.
+
+    b. Specialty training must be completed by providers and resident managers before admitting and serving residents who have been determined to have special needs related to mental illness, dementia, or a developmental disability. Should a resident develop special needs while living in a home without specialty designation, the provider and resident manager have one hundred twenty days to complete specialty training.
+
+    c. **If a pandemic, natural disaster, or other declared state of emergency makes specialty training unavailable, the department may adopt rules to allow an adult family home where the provider and resident manager have not completed specialty training to admit a resident or residents with special needs related to mental illness, dementia, or a developmental disability, or to care for a resident or residents already living in the home who develop special needs. Such rules must include information about how to complete the specialty training once the training is available. Rules adopted under this subsection are effective only during the pandemic, natural disaster, or other declared state of emergency.**
+
+6. Continuing education consists of ongoing delivery of information to caregivers on various topics relevant to the care setting and care needs of residents. Competency testing is not required for continuing education. Continuing education is not required in the same calendar year in which basic or modified basic training is successfully completed. Continuing education is required in each calendar year thereafter. If specialty training is completed, the specialty training applies toward any continuing education requirement for up to two years following the completion of the specialty training.
+
+7. Persons who successfully complete the competency challenge test for basic training are fully exempt from the basic training requirements of this section. Persons who successfully complete the specialty training competency challenge test are fully exempt from the specialty training requirements of this section.
+
+8. [Empty]
+
+    a. Registered nurses and licensed practical nurses licensed under chapter 18.79 RCW are exempt from any continuing education requirement established under this section.
+
+    b. The department may adopt rules that would exempt licensed persons from all or part of the training requirements under this chapter, if they are (i) performing the tasks for which they are licensed and (ii) subject to chapter 18.130 RCW.
+
+9. In an effort to improve access to training and education and reduce costs, especially for rural communities, the adult family home training network must include the use of innovative types of learning strategies such as internet resources, videotapes, and distance learning using satellite technology coordinated through community colleges, private associations, or other entities, as defined by the department.
+
+10. The adult family home training network shall assist adult family homes that desire to deliver facility-based training with facility designated trainers, or adult family homes that desire to pool their resources to create shared training systems. The department shall develop criteria for reviewing and approving trainers and training materials. The department may approve a curriculum based upon attestation by an adult family home administrator that the adult family home's training curriculum addresses basic and specialty training competencies identified by the department, and shall review a curriculum to verify that it meets these requirements. The department may conduct the review as part of the next regularly scheduled inspection authorized under RCW 70.128.070. The department shall rescind approval of any curriculum if it determines that the curriculum does not meet these requirements.
+
+11. The department shall adopt rules by September 1, 2002, for the implementation of this section.
+
+12. [Empty]
+
+    a. Except as provided in (b) of this subsection, the orientation, basic training, specialty training, and continuing education requirements of this section commence September 1, 2002, and shall be applied to (i) employees hired subsequent to September 1, 2002; or (ii) existing employees that on September 1, 2002, have not successfully completed the training requirements under RCW 70.128.120 or 70.128.130 and this section. Existing employees who have not successfully completed the training requirements under RCW 70.128.120 or 70.128.130 shall be subject to all applicable requirements of this section.
+
+    b. Beginning January 7, 2012, long-term care workers, as defined in RCW 74.39A.009, employed by an adult family home are also subject to the training requirements under RCW 74.39A.074.
+
+
+## Section 12
+> This section modifies existing section [18.20.270](/rcw/18_businesses_and_professions/18.020_assisted_living_facilities.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.020_assisted_living_facilities.md) for context.
+
+1. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Caregiver" includes any person who provides residents with hands-on personal care on behalf of an assisted living facility, except volunteers who are directly supervised.
+
+    b. "Direct supervision" means oversight by a person who has demonstrated competency in the core areas or has been fully exempted from the training requirements pursuant to this section, is on the premises, and is quickly and easily available to the caregiver.
+
+2. Training must have the following components: Orientation, basic training, specialty training as appropriate, and continuing education. All assisted living facility employees or volunteers who routinely interact with residents shall complete orientation. Assisted living facility administrators, or their designees, and caregivers shall complete orientation, basic training, specialty training as appropriate, and continuing education.
+
+3. Orientation consists of introductory information on residents' rights, communication skills, fire and life safety, and universal precautions. Orientation must be provided at the facility by appropriate assisted living facility staff to all assisted living facility employees before the employees have routine interaction with residents.
+
+4. Basic training consists of modules on the core knowledge and skills that caregivers need to learn and understand to effectively and safely provide care to residents. Basic training must be outcome-based, and the effectiveness of the basic training must be measured by demonstrated competency in the core areas through the use of a competency test. Basic training must be completed by caregivers within one hundred twenty days of the date on which they begin to provide hands-on care. Until competency in the core areas has been demonstrated, caregivers shall not provide hands-on personal care to residents without direct supervision. Assisted living facility administrators, or their designees, must complete basic training and demonstrate competency within one hundred twenty days of employment.
+
+5. For assisted living facilities that serve residents with special needs such as dementia, developmental disabilities, or mental illness, specialty training is required of administrators, or designees, and caregivers.
+
+    a. Specialty training consists of modules on the core knowledge and skills that caregivers need to effectively and safely provide care to residents with special needs. Specialty training should be integrated into basic training wherever appropriate. Specialty training must be outcome-based, and the effectiveness of the specialty training measured by demonstrated competency in the core specialty areas through the use of a competency test.
+
+    b. Specialty training must be completed by caregivers within one hundred twenty days of the date on which they begin to provide hands-on care to a resident having special needs. However, if specialty training is not integrated with basic training, the specialty training must be completed within ninety days of completion of basic training. Until competency in the core specialty areas has been demonstrated, caregivers shall not provide hands-on personal care to residents with special needs without direct supervision.
+
+    c. Assisted living facility administrators, or their designees, must complete specialty training and demonstrate competency within one hundred twenty days from the date on which the administrator or his or her designee is hired, if the assisted living facility serves one or more residents with special needs.
+
+    d. **If a pandemic, natural disaster, or other declared state of emergency makes specialty training unavailable, the department may adopt rules to allow an assisted living facility where the administrator, designee, and caregiving staff have not completed specialty training to admit a resident or residents with special needs related to mental illness, dementia, or a developmental disability. Such rules must include information about how to complete the specialty training once the training is available. Rules adopted under this subsection are effective only during the pandemic, natural disaster, or other declared state of emergency.**
+
+6. Continuing education consists of ongoing delivery of information to caregivers on various topics relevant to the care setting and care needs of residents. Competency testing is not required for continuing education. Continuing education is not required in the same calendar year in which basic or modified basic training is successfully completed. Continuing education is required in each calendar year thereafter. If specialty training is completed, the specialty training applies toward any continuing education requirement for up to two years following the completion of the specialty training.
+
+7. Persons who successfully challenge the competency test for basic training are fully exempt from the basic training requirements of this section. Persons who successfully challenge the specialty training competency test are fully exempt from the specialty training requirements of this section.
+
+8. [Empty]
+
+    a. Registered nurses and licensed practical nurses licensed under chapter 18.79 RCW are exempt from any continuing education requirement established under this section.
+
+    b. The department may adopt rules that would exempt licensed persons from all or part of the training requirements under this chapter, if they are (i) performing the tasks for which they are licensed and (ii) subject to chapter 18.130 RCW.
+
+9. In an effort to improve access to training and education and reduce costs, especially for rural communities, the coordinated system of long-term care training and education must include the use of innovative types of learning strategies such as internet resources, videotapes, and distance learning using satellite technology coordinated through community colleges or other entities, as defined by the department.
+
+10. The department shall develop criteria for the approval of orientation, basic training, and specialty training programs.
+
+11. Assisted living facilities that desire to deliver facility-based training with facility designated trainers, or assisted living facilities that desire to pool their resources to create shared training systems, must be encouraged by the department in their efforts. The department shall develop criteria for reviewing and approving trainers and training materials that are substantially similar to or better than the materials developed by the department. The department may approve a curriculum based upon attestation by an assisted living facility administrator that the assisted living facility's training curriculum addresses basic and specialty training competencies identified by the department, and shall review a curriculum to verify that it meets these requirements. The department may conduct the review as part of the next regularly scheduled yearly inspection and investigation required under RCW 18.20.110. The department shall rescind approval of any curriculum if it determines that the curriculum does not meet these requirements.
+
+12. The department shall adopt rules for the implementation of this section.
+
+13. [Empty]
+
+    a. Except as provided in (b) of this subsection, the orientation, basic training, specialty training, and continuing education requirements of this section commence September 1, 2002, or one hundred twenty days from the date of employment, whichever is later, and shall be applied to (i) employees hired subsequent to September 1, 2002; and (ii) existing employees that on September 1, 2002, have not successfully completed the training requirements under RCW 74.39A.010 or 74.39A.020 and this section. Existing employees who have not successfully completed the training requirements under RCW 74.39A.010 or 74.39A.020 shall be subject to all applicable requirements of this section.
+
+    b. Beginning January 7, 2012, long-term care workers, as defined in RCW 74.39A.009, employed by facilities licensed under this chapter are also subject to the training requirements under RCW 74.39A.074.
+
+
+## Section 13
+> This section modifies existing section [70.128.070](/rcw/70_public_health_and_safety/70.128_adult_family_homes.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.128_adult_family_homes.md) for context.
+
+1. A license shall remain valid unless voluntarily surrendered, suspended, or revoked in accordance with this chapter.
+
+2. [Empty]
+
+    a. Homes applying for a license shall be inspected at the time of licensure.
+
+    b. Homes licensed by the department shall be inspected at least every eighteen months, with an annual average of fifteen months. However, an adult family home may be allowed to continue without inspection for two years if the adult family home had no inspection citations for the past three consecutive inspections and has received no written notice of violations resulting from complaint investigations during that same time period.
+
+    c. The department may make an unannounced inspection of a licensed home at any time to assure that the home and provider are in compliance with this chapter and the rules adopted under this chapter.
+
+    d. **If a pandemic, natural disaster, or other declared state of emergency prevents the department from completing inspections according to the timeline in this subsection, the department shall adopt rules to reestablish inspection timelines based on the length of time since last inspection, compliance history of each facility, and immediate health or safety concerns. Rules adopted under this subsection are effective only during the pandemic, natural disaster, or other declared state of emergency.**
+
+3. If the department finds that the home is not in compliance with this chapter, it shall require the home to correct any violations as provided in this chapter.
+
+
+## Section 14
+> This section modifies existing section [70.97.160](/rcw/70_public_health_and_safety/70.097_enhanced_services_facilities.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.097_enhanced_services_facilities.md) for context.
+
+1. The department shall make or cause to be made at least one inspection of each facility prior to licensure and an unannounced full inspection of facilities at least once every eighteen months. The statewide average interval between full facility inspections must be fifteen months.
+
+2. Any duly authorized officer, employee, or agent of the department may enter and inspect any facility at any time to determine that the facility is in compliance with this chapter and applicable rules, and to enforce any provision of this chapter. Complaint inspections shall be unannounced and conducted in such a manner as to ensure maximum effectiveness. No advance notice shall be given of any inspection unless authorized or required by federal law.
+
+3. During inspections, the facility must give the department access to areas, materials, and equipment used to provide care or support to residents, including resident and staff records, accounts, and the physical premises, including the buildings, grounds, and equipment. The department has the authority to privately interview the provider, staff, residents, and other individuals familiar with resident care and service plans.
+
+4. Any public employee giving advance notice of an inspection in violation of this section shall be suspended from all duties without pay for a period of not less than five nor more than fifteen days.
+
+5. The department shall prepare a written report describing the violations found during an inspection, and shall provide a copy of the inspection report to the facility.
+
+6. The facility shall develop a written plan of correction for any violations identified by the department and provide a plan of correction to the department within ten working days from the receipt of the inspection report.
+
+7. **If a pandemic, natural disaster, or other declared state of emergency prevents the department from completing inspections according to the timeline in this section, the department shall adopt rules to reestablish inspection timelines based on the length of time since last inspection, compliance history of each facility, and immediate health or safety concerns. Rules adopted under this subsection are effective only during the pandemic, natural disaster, or other declared state of emergency.**
+
+
+## Section 15
+> This section modifies existing section [18.20.110](/rcw/18_businesses_and_professions/18.020_assisted_living_facilities.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.020_assisted_living_facilities.md) for context.
+
+1. The department shall make or cause to be made, at least every eighteen months with an annual average of fifteen months, an inspection and investigation of all assisted living facilities. However, the department may delay an inspection to twenty-four months if the assisted living facility has had three consecutive inspections with no written notice of violations and has received no written notice of violations resulting from complaint investigation during that same time period. The department may at anytime make an unannounced inspection of a licensed facility to assure that the licensee is in compliance with this chapter and the rules adopted under this chapter. Every inspection shall focus primarily on actual or potential resident outcomes, and may include an inspection of every part of the premises and an examination of all records, methods of administration, the general and special dietary, and the stores and methods of supply; however, the department shall not have access to financial records or to other records or reports described in RCW 18.20.390. Financial records of the assisted living facility may be examined when the department has reasonable cause to believe that a financial obligation related to resident care or services will not be met, such as a complaint that staff wages or utility costs have not been paid, or when necessary for the department to investigate alleged financial exploitation of a resident. Following such an inspection or inspections, written notice of any violation of this law or the rules adopted hereunder shall be given to the applicant or licensee and the department. The department may prescribe by rule that any licensee or applicant desiring to make specified types of alterations or additions to its facilities or to construct new facilities shall, before commencing such alteration, addition, or new construction, submit plans and specifications therefor to the agencies responsible for plan reviews for preliminary inspection and approval or recommendations with respect to compliance with the rules and standards herein authorized.
+
+2. **If a pandemic, natural disaster, or other declared state of emergency prevents the department from completing inspections according to the timeline in subsection (1) of this section, the department shall adopt rules to reestablish inspection timelines based on the length of time since last inspection, compliance history of each facility, and immediate health or safety concerns. Rules adopted under this subsection are effective only during the pandemic, natural disaster, or other declared state of emergency.**
+
+
+## Section 16
+> This section modifies existing section [18.88A.030](/rcw/18_businesses_and_professions/18.088A_nursing_assistants.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.088A_nursing_assistants.md) for context.
+
+1. [Empty]
+
+    a. A nursing assistant may assist in the care of individuals as delegated by and under the direction and supervision of a licensed (registered) nurse or licensed practical nurse.
+
+    b. A health care facility shall not assign a nursing assistant-registered to provide care until the nursing assistant-registered has demonstrated skills necessary to perform competently all assigned duties and responsibilities.
+
+    c. Nothing in this chapter shall be construed to confer on a nursing assistant the authority to administer medication unless delegated as a specific nursing task pursuant to this chapter or to practice as a licensed (registered) nurse or licensed practical nurse as defined in chapter 18.79 RCW.
+
+2. [Empty]
+
+    a. A nursing assistant employed in a nursing home must have successfully obtained certification through: (i) An approved training program and the competency evaluation within **a period of time determined in rule by the commission**; or (ii) alternative training and the competency evaluation prior to employment.
+
+    b. Certification is voluntary for nursing assistants working in health care facilities other than nursing homes unless otherwise required by state or federal law or regulation.
+
+3. The commission may adopt rules to implement the provisions of this chapter.
+
+
+## Section 17
+> This section modifies existing section [18.88A.087](/rcw/18_businesses_and_professions/18.088A_nursing_assistants.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.088A_nursing_assistants.md) for context.
+
+1. The commission shall adopt criteria for evaluating an applicant's alternative training to determine the applicant's eligibility to take the competency evaluation for nursing assistant certification. At least one option adopted by the commission must allow an applicant to take the competency evaluation if he or she:
+
+    a. [Empty]
+
+        i. Is a certified home care aide pursuant to chapter 18.88B RCW; or
+
+        ii. Is a certified medical assistant pursuant to a certification program accredited by a national medical assistant accreditation organization and approved by the commission; and
+
+    b. Has successfully completed **at least** twenty-four hours of training that the commission determines is necessary to provide training equivalent to approved training on topics not addressed in the training specified for certification as a home care aide or medical assistant, as applicable. In the commission's discretion, a portion of these hours may include clinical training.
+
+2. [Empty]
+
+    a. **The** commission, in consultation with the secretary, the department of social and health services, and consumer, employer, and worker representatives, shall adopt rules to implement this section and to provide for a program of credentialing reciprocity to the extent required by this section between home care aide and medical assistant certification and nursing assistant certification. **The** secretary shall also adopt such rules as may be necessary to implement this section and the credentialing reciprocity program.
+
+    b. Rules adopted under this section must be consistent with requirements under 42 U.S.C. Sec. 1395i-3(e) and (f) of the federal social security act relating to state-approved competency evaluation programs for certified nurse aides.
+
+3. **The** secretary, in consultation with the commission, shall report annually by December 1st to the governor and the appropriate committees of the legislature on the progress made in achieving career advancement for certified home care aides and medical assistants into nursing practice.
+
+
+## Section 19
+This act is remedial and curative in nature and all of its sections apply retroactively to February 29, 2020, to include the period of the state of emergency created by the COVID-19 outbreak. In any instance where this act grants rule-making authority to the department of social and health services or the department of health, the agencies may adopt the rules as emergency rules and may make the rules retroactively effective.

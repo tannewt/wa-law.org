@@ -1,0 +1,252 @@
+# House Bill 1550
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1550.xml)
+## Section 1
+(1) The legislature makes the following findings:
+(a) Nicotine is a highly addictive substance, particularly for children and youth under 21 years of age, whose brains are still developing. The 2019 national youth tobacco survey found that about 27 percent of high school students reported current use of electronic cigarettes and, among electronic cigarette users, about one-third reported using electronic cigarettes on 20 or more of the preceding 30 days. Washington state healthy youth survey data is similar, including 30 percent of 12th graders using e-cigarettes and vapor products. Many of those vapor products have very high nicotine levels, increasing youth addiction, in addition to numerous ingredients with well documented potential health effects identified in a formal health impact review by the state board of health;
+(b) Early research from Stanford University school of medicine indicates that teenagers and young adults that vape are five to seven times more likely to be infected with COVID-19 compared to those who do not use vapor products;
+(c) While the long-term health effects of vapor products are unknown, current data suggests they are harmful to human health. Vapor products have been shown to impair lung function in several ways, such as by inhibiting ciliary beating, impairing immune function, and causing toxicity to epithelial cells;
+(d) Youth and young adults who use vapor products are far more likely to begin smoking tobacco cigarettes than those who do not vape; 
+(e) The health and economic costs on the state of Washington and its residents from addiction to tobacco products are well documented. The centers for disease control reports that cigarette smoking is responsible for one in five deaths annually nationwide and overall mortality among smokers is about three times higher than similar people who never smoked;
+(f) Consumers often use vapor products interchangeably with cigarettes or other tobacco products. Nicotine is the common denominator; creating and sustaining addiction across Washington state. A meta-analysis by the American public health association found that vaping was not associated with increased smoking cessation, and further research shows most people who vape continue to use tobacco concurrently;
+(g) Washington state grants preferential business and occupation tax treatment to encourage manufacturing of useful substances or products in Washington. Cigarette, vapor, and tobacco manufacturers have benefited from this preference despite the high health effects and costs on the state government from their products;
+(h) In 2019, the legislature enacted a vapor products tax based on milliliters of liquid in each product which was intended to both reduce youth access by raising the price of many youth-attractive vapor products and to dedicate the funding to a foundational public health services account for: Nicotine and substance use prevention, cessation, enforcement, and education; and public health services. The structure of the tax as enacted, however, did not significantly raise the price of very low-cost sealed vapor products that are very popular with youth under 21 years of age and fueling the epidemic of youth vaping and nicotine addiction. Nor did the structure of the tax provide the expected significant funding for the foundational public health services account; and
+(i) The tobacco and vape industries have specifically targeted marketing toward Black, indigenous, people of color, LGBTQ, and other marginalized communities. As a result, these communities experience higher rates of nicotine use and resulting health disparities.
+(2) Therefore, the legislature intends to protect the health of youth and young adults in Washington state by:
+(a) Changing from a per milliliter tax to a more effective vapor product tax structure using an excise tax that will have a greater deterrent effect on purchases made by persons under the age of 21 while being more fair to stores that limit entry and purchases to adults over 21 years of age and increase the price of presealed high nicotine products that are heavily used by youth under 21 years of age;
+(b) Stopping rewarding and encouraging manufacturers of nicotine addicting vapor and tobacco products through preferential tax rates for products that are amongst the deadliest products sold to Washington residents and which impose tremendous economic burdens on the state's health care systems;
+(c) Discouraging the manufacture, processing, and distribution of nicotine addicting vapor and tobacco products and have them bear an increased share of the costs they cause on the state through a business and occupation tax surcharge;
+(d) Significantly improving funding for programs that prevent and reduce nicotine addiction amongst youth and populations or communities that have disparately high nicotine addiction and use of tobacco or vapor products, and related educational and foundational public health services programs;
+(e) Providing other means of reducing youth addiction to nicotine and access to nicotine products; and
+(f) Adjusting the distribution of the foundational public health services account to include an emphasis on community-based strategies addressing health inequity.
+
+## Section 3
+> This section modifies existing section [82.04.440](/rcw/82_excise_taxes/82.04_business_and_occupation_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.04_business_and_occupation_tax.md) for context.
+
+1. Every person engaged in activities that are subject to tax under two or more provisions of RCW 82.04.230 through 82.04.298, inclusive, is taxable under each provision applicable to those activities.
+
+2. Persons taxable under RCW 82.04.2909(2), 82.04.250, 82.04.270, 82.04.294(2), or 82.04.260 (1)(b), (c), or (d), (4), (11), or (12) with respect to selling products in this state, including those persons who are also taxable under RCW 82.04.261, are allowed a credit against those taxes for any (a) manufacturing taxes paid with respect to the manufacturing of products so sold in this state, and/or (b) extracting taxes paid with respect to the extracting of products so sold in this state or ingredients of products so sold in this state. Extracting taxes taken as credit under subsection (3) of this section may also be taken under this subsection, if otherwise allowable under this subsection. The amount of the credit may not exceed the tax liability arising under this chapter with respect to the sale of those products.
+
+3. Persons taxable as manufacturers under RCW 82.04.240 or 82.04.260 (1)(b) or (12), including those persons who are also taxable under RCW 82.04.261, are allowed a credit against those taxes for any extracting taxes paid with respect to extracting the ingredients of the products so manufactured in this state. The amount of the credit may not exceed the tax liability arising under this chapter with respect to the manufacturing of those products.
+
+4. Persons taxable under RCW 82.04.230, 82.04.240, 82.04.2909(1), 82.04.294(1), 82.04.2404, or 82.04.260 (1), (2), (4), (11), or (12), including those persons who are also taxable under RCW 82.04.261, with respect to extracting or manufacturing products in this state are allowed a credit against those taxes for any (i) gross receipts taxes paid to another state with respect to the sales of the products so extracted or manufactured in this state, (ii) manufacturing taxes paid with respect to the manufacturing of products using ingredients so extracted in this state, or (iii) manufacturing taxes paid with respect to manufacturing activities completed in another state for products so manufactured in this state. The amount of the credit may not exceed the tax liability arising under this chapter with respect to the extraction or manufacturing of those products.
+
+5. **Persons taxable as manufacturers or processors for hire under section 2 (1)(a) or (2)(a) of this act are allowed a credit against those taxes for taxes on the distribution of the products under section 2 (1)(b) or (2)(b) of this act. The amount of the credit allowed in this subsection (5) may not exceed the tax liability arising under section 2 of this act with respect to the manufacturing, processing for hire, or distribution of those products.**
+
+6. For the purpose of this section:
+
+    a. "Gross receipts tax" means a tax:
+
+        i. Which is imposed on or measured by the gross volume of business, in terms of gross receipts or in other terms, and in the determination of which the deductions allowed would not constitute the tax an income tax or value added tax; and
+
+        ii. Which is also not, pursuant to law or custom, separately stated from the sales price.
+
+    b. "State" means (i) the state of Washington, (ii) a state of the United States other than Washington, or any political subdivision of such other state, (iii) the District of Columbia, and (iv) any foreign country or political subdivision thereof.
+
+    c. "Manufacturing tax" means a gross receipts tax imposed on the act or privilege of engaging in business as a manufacturer, and includes (i) the taxes imposed in RCW 82.04.240, 82.04.2404, 82.04.2909(1), 82.04.260 (1), (2), (4), (11), and (12), and 82.04.294(1); (ii) the tax imposed under RCW 82.04.261 on persons who are engaged in business as a manufacturer; and (iii) similar gross receipts taxes paid to other states.
+
+    d. "Extracting tax" means a gross receipts tax imposed on the act or privilege of engaging in business as an extractor, and includes (i) the tax imposed on extractors in RCW 82.04.230 and 82.04.260(12); (ii) the tax imposed under RCW 82.04.261 on persons who are engaged in business as an extractor; and (iii) similar gross receipts taxes paid to other states.
+
+    e. "Business," "manufacturer," "extractor," and other terms used in this section have the meanings given in RCW 82.04.020 through **82.04.217**, notwithstanding the use of those terms in the context of describing taxes imposed by other states.
+
+
+## Section 4
+> This section modifies existing section [82.25.005](/rcw/82_excise_taxes/82.25_tax_on_vapor_products.md). Here is the [modified chapter](rcw/82_excise_taxes/82.25_tax_on_vapor_products.md) for context.
+
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1.
+
+"Affiliated" means related in any way by virtue of any form or amount of common ownership, control, operation, or management.
+
+2. "Board" means the Washington state liquor and cannabis board.
+
+3. "Business" means any trade, occupation, activity, or enterprise engaged in selling or distributing vapor products in this state.
+
+4. "Distributor" **means** any person:
+
+    a. Engaged in the business of selling vapor products in this state who brings, or causes to be brought, into this state from outside the state any vapor products for sale;
+
+    b. Who makes, manufactures, fabricates, or stores vapor products in this state for sale in this state;
+
+    c. Engaged in the business of selling vapor products outside this state who ships or transports vapor products to retailers or consumers in this state; or
+
+    d. Engaged in the business of selling vapor products in this state who handles for sale any vapor products that are within this state but upon which tax has not been imposed.
+
+5. "Indian country" has the same meaning as provided in RCW 82.24.010.
+
+6. "Manufacturer" has the same meaning as provided in RCW 70.345.010.
+
+7. "Person" means: Any individual, receiver, administrator, executor, assignee, trustee in bankruptcy, trust, estate, firm, copartnership, joint venture, club, company, joint stock company, business trust, municipal corporation, corporation, limited liability company, association, or society; the state and its departments and institutions; any political subdivision of the state of Washington; and any group of individuals acting as a unit, whether mutual, cooperative, fraternal, nonprofit, or otherwise. Except as provided otherwise in this chapter, "person" does not include any person immune from state taxation, including the United States or its instrumentalities, and federally recognized Indian tribes and enrolled tribal members, conducting business within Indian country.
+
+8. "Place of business" means any place where vapor products are sold or where vapor products are manufactured, stored, or kept for the purpose of sale, including any vessel, vehicle, airplane, or train.
+
+9. "Retail outlet" has the same meaning as provided in RCW 70.345.010.
+
+10. "Retailer" has the same meaning as provided in RCW 70.345.010.
+
+11. "Sale" has the same meaning as provided in RCW 70.345.010.
+
+12. "Taxpayer" means a person liable for the tax imposed by this chapter.
+
+13. "Vapor product" means any noncombustible product containing a solution or other consumable substance, regardless of whether it contains nicotine, which employs a mechanical heating element, battery, or electronic circuit regardless of shape or size that can be used to produce vapor from the solution or other substance, including an electronic cigarette, electronic cigar, electronic cigarillo, electronic pipe, or similar product or device. The term also includes any cartridge or other container of liquid nicotine, solution, or other consumable substance, regardless of whether it contains nicotine, that is intended to be used with or in a device that can be used to deliver aerosolized or vaporized nicotine to a person inhaling from the device and is sold for such purpose.
+
+    a. The term does not include:
+
+        i. Any product approved by the United States food and drug administration for sale as a tobacco cessation product, medical device, or for other therapeutic purposes when such product is marketed and sold solely for such an approved purpose;
+
+        ii. Any product that will become an ingredient or component in a vapor product manufactured by a distributor; or
+
+        iii. Any product that meets the definition of marijuana, useable marijuana, marijuana concentrates, marijuana-infused products, cigarette, or tobacco products.
+
+    b. For purposes of this subsection (13):
+
+        i. "Cigarette" has the same meaning as provided in RCW 82.24.010; and
+
+        ii. "Marijuana," "useable marijuana," "marijuana concentrates," and "marijuana-infused products" have the same meaning as provided in RCW 69.50.101.
+
+
+## Section 5
+> This section modifies existing section [82.25.010](/rcw/82_excise_taxes/82.25_tax_on_vapor_products.md). Here is the [modified chapter](rcw/82_excise_taxes/82.25_tax_on_vapor_products.md) for context.
+
+1. [Empty]
+
+    a. There is levied and collected a
+
+**vapor product excise tax equal to 45 percent of the selling price on each retail sale in this state of vapor products. This tax is separate and in addition to general state and local sales and use taxes that apply to retail sales of tangible personal property, and is not part of the total retail price to which general state and local sales and use taxes apply. The tax must be separately itemized from the state and local retail sales tax on the sales receipt provided to the buyer.**
+
+    b. **The tax levied in this section must be reflected in the price list or quoted shelf price in the vapor products retail store, on the website or sales platform of a delivery seller, and in any advertising of vapor products that includes prices for vapor products.**
+
+2. [Empty]
+
+    a. The moneys collected under this section must be deposited as follows:
+
+        i.
+
+**The first $25,000,000 into the foundational public health services account created in RCW 82.25.015;**
+
+        ii. **Fifty percent of the next $10,000,000 into the Andy Hill cancer research endowment fund match transfer account created in RCW 43.348.080; and**
+
+        iii. **All remaining funds into the foundational public health services account created in RCW 82.25.015**.
+
+    b. The funding provided under this subsection is intended to supplement and not supplant general fund investments in cancer research and foundational public health services.
+
+3. **The tax imposed by this section must be paid by the buyer to the seller. Each seller must collect from the buyer the full amount of the tax payable on each taxable sale. The tax collected as required by this section is deemed to be held in trust by the seller until paid to the department. If any seller fails to collect the tax imposed in this section or, having collected the tax, fails to pay it as prescribed by the department, whether such failure is the result of the seller's own acts or the result of acts or conditions beyond the seller's control, the seller is, nevertheless, personally liable to the state for the amount of the tax.**
+
+4. **The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.**
+
+    a. **"Product" means vapor products.**
+
+    b. **"Retail sale" has the meaning provided in RCW 82.08.010.**
+
+    c. **"Selling price" has the meaning provided in RCW 82.08.010, except that when a product is sold under circumstances where the total amount of consideration paid for the product is not indicative of its true value, "selling price" means the true value of the product sold.**
+
+    d. **"True value" means market value based on sales at comparable locations in this state of the same or similar product of like quality and character sold under comparable conditions of sale to comparable purchasers. However, in the absence of such sales of the same or similar product, true value means the value of the product sold as determined by all of the seller's direct and indirect costs attributable to the product.**
+
+
+## Section 6
+> This section modifies existing section [82.25.015](/rcw/82_excise_taxes/82.25_tax_on_vapor_products.md). Here is the [modified chapter](rcw/82_excise_taxes/82.25_tax_on_vapor_products.md) for context.
+
+The foundational public health services account is created in the state treasury. **Except as otherwise provided in RCW 82.25.010, money collected from the tax imposed on vapor products under RCW 82.25.010** must be deposited into the account. **Money collected from the vapor and tobacco products surcharge under section 2 of this act must be deposited into the account.** Moneys in the account may be spent only after appropriation. Moneys in the account are to be used for the following purposes:
+
+1. To fund foundational health services. In the 2019-2021 biennium, at least twelve million dollars of the funds deposited into the account must be appropriated for this purpose. Beginning in the 2021-2023 biennium, fifty percent of the funds deposited into the account, but not less than twelve million dollars each biennium, are to be used for this purpose;
+
+2. To fund tobacco, vapor product, and nicotine control**, cessation,** and prevention, and other substance use prevention and education **with an emphasis on community-based strategies, including programs that consider the disparate impacts of nicotine addiction on specific populations, including youth and racial or other disparities**. Beginning in the 2021-2023 biennium, seventeen percent of the funds deposited into the account are to be used for this purpose;
+
+3. To support increased access and training of public health professionals at public health programs at accredited public institutions of higher education in Washington. Beginning in the 2021-2023 biennium, five percent of the funds deposited into the account are to be used for this purpose;
+
+4. To fund enforcement by the state liquor and cannabis board of the provisions of this chapter to prevent sales of vapor products to minors and related provisions for control of marketing and product safety, provided that no more than eight percent of the funds deposited into the account may be appropriated for these enforcement purposes.
+
+
+## Section 8
+> This section modifies existing section [82.25.020](/rcw/82_excise_taxes/82.25_tax_on_vapor_products.md). Here is the [modified chapter](rcw/82_excise_taxes/82.25_tax_on_vapor_products.md) for context.
+
+It is the intent and purpose of this chapter to levy a tax on all vapor products sold**or** used within this state. It is the further intent and purpose of this chapter to impose the tax only once on all vapor products in this state. Nothing in this chapter may be construed to exempt any person taxable under any other law or under any other tax imposed under this title.
+
+
+## Section 9
+> This section modifies existing section [82.25.075](/rcw/82_excise_taxes/82.25_tax_on_vapor_products.md). Here is the [modified chapter](rcw/82_excise_taxes/82.25_tax_on_vapor_products.md) for context.
+
+1. No person engaged in or conducting business as a distributor or retailer in this state may:
+
+    a. Make, use, or present or exhibit to the department or the board any invoice for any of the vapor products taxed under this chapter that bears an untrue date or falsely states the nature or quantity of the goods invoiced; or
+
+    b. Fail to produce on demand of the department or the board all invoices of all the vapor products taxed under this chapter within five years prior to such demand unless the person can show by satisfactory proof that the nonproduction of the invoices was due to causes beyond the person's control.
+
+2.
+
+Any person licensed under chapter 70.345 RCW as a distributor, and any person licensed under chapter 70.345 RCW as a retailer, may not operate in any other capacity unless the additional appropriate license is first secured, except as otherwise provided by law. A violation of this subsection  is a misdemeanor.
+
+3. The penalties provided in this section are in addition to any other penalties provided by law for violating the provisions of this chapter or the rules adopted under this chapter.
+
+
+## Section 10
+> This section modifies existing section [82.25.060](/rcw/82_excise_taxes/82.25_tax_on_vapor_products.md). Here is the [modified chapter](rcw/82_excise_taxes/82.25_tax_on_vapor_products.md) for context.
+
+The department may by rule establish the invoice detail required under RCW 82.25.030 for a distributor and for those invoices required to be provided to retailers under RCW 82.25.040.
+
+
+## Section 11
+> This section modifies existing section [82.25.080](/rcw/82_excise_taxes/82.25_tax_on_vapor_products.md). Here is the [modified chapter](rcw/82_excise_taxes/82.25_tax_on_vapor_products.md) for context.
+
+1. A retailer that obtains vapor products from an unlicensed distributor or any other person that is not licensed under chapter 70.345 RCW must be licensed both as a retailer and a distributor . For the purposes of this subsection, "person" includes both persons defined in chapter 445, Laws of 2019 and any person immune from state taxation, such as the United States or its instrumentalities, and federally recognized Indian tribes and enrolled tribal members, conducting business within Indian country.
+
+2. Every distributor licensed under chapter 70.345 RCW may sell vapor products to retailers located in Washington only if the retailer has a current retailer's license under chapter 70.345 RCW.
+
+
+## Section 15
+> This section modifies existing section [82.32.145](/rcw/82_excise_taxes/82.32_general_administrative_provisions.md). Here is the [modified chapter](rcw/82_excise_taxes/82.32_general_administrative_provisions.md) for context.
+
+1. Whenever the department has issued a warrant under RCW 82.32.210 for the collection of unpaid trust fund taxes from a limited liability business entity and that business entity has been terminated, dissolved, or abandoned, or is insolvent, the department may pursue collection of the entity's unpaid trust fund taxes, including penalties and interest on those taxes, against any or all of the responsible individuals. For purposes of this subsection, "insolvent" means the condition that results when the sum of the entity's debts exceeds the fair market value of its assets. The department may presume that an entity is insolvent if the entity refuses to disclose to the department the nature of its assets and liabilities.
+
+2. Personal liability under this section may be imposed for state and local trust fund taxes.
+
+3. [Empty]
+
+    a. For a responsible individual who is the current or a former chief executive or chief financial officer, liability under this section applies regardless of fault or whether the individual was or should have been aware of the unpaid trust fund tax liability of the limited liability business entity.
+
+    b. For any other responsible individual, liability under this section applies only if he or she willfully fails to pay or to cause to be paid to the department the trust fund taxes due from the limited liability business entity.
+
+4. [Empty]
+
+    a. Except as provided in this subsection (4)(a), a responsible individual who is the current or a former chief executive or chief financial officer is liable under this section only for trust fund tax liability accrued during the period that he or she was the chief executive or chief financial officer. However, if the responsible individual had the responsibility or duty to remit payment of the limited liability business entity's trust fund taxes to the department during any period of time that the person was not the chief executive or chief financial officer, that individual is also liable for trust fund tax liability that became due during the period that he or she had the duty to remit payment of the limited liability business entity's taxes to the department but was not the chief executive or chief financial officer.
+
+    b. All other responsible individuals are liable under this section only for trust fund tax liability that became due during the period he or she had the responsibility or duty to remit payment of the limited liability business entity's taxes to the department.
+
+5. Persons described in subsection (3)(b) of this section are exempt from liability under this section in situations where nonpayment of the limited liability business entity's trust fund taxes is due to reasons beyond their control as determined by the department by rule.
+
+6. Any person having been issued a notice of assessment under this section is entitled to the appeal procedures under RCW 82.32.160, 82.32.170, 82.32.180, 82.32.190, and 82.32.200.
+
+7. This section does not relieve the limited liability business entity of its trust fund tax liability or otherwise impair other tax collection remedies afforded by law.
+
+8. Collection authority and procedures prescribed in this chapter apply to collections under this section.
+
+9. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Chief executive" means: The president of a corporation; or for other entities or organizations other than corporations or if the corporation does not have a president as one of its officers, the highest ranking executive manager or administrator in charge of the management of the company or organization.
+
+    b. "Chief financial officer" means: The treasurer of a corporation; or for entities or organizations other than corporations or if a corporation does not have a treasurer as one of its officers, the highest senior manager who is responsible for overseeing the financial activities of the entire company or organization.
+
+    c. "Limited liability business entity" means a type of business entity that generally shields its owners from personal liability for the debts, obligations, and liabilities of the entity, or a business entity that is managed or owned in whole or in part by an entity that generally shields its owners from personal liability for the debts, obligations, and liabilities of the entity. Limited liability business entities include corporations, limited liability companies, limited liability partnerships, trusts, general partnerships and joint ventures in which one or more of the partners or parties are also limited liability business entities, and limited partnerships in which one or more of the general partners are also limited liability business entities.
+
+    d. "Manager" has the same meaning as in RCW 25.15.006.
+
+    e. "Member" has the same meaning as in RCW 25.15.006, except that the term only includes members of member-managed limited liability companies.
+
+    f. "Officer" means any officer or assistant officer of a corporation, including the president, vice president, secretary, and treasurer.
+
+    g. [Empty]
+
+        i. "Responsible individual" includes any current or former officer, manager, member, partner, or trustee of a limited liability business entity with an unpaid tax warrant issued by the department.
+
+        ii. "Responsible individual" also includes any current or former employee or other individual, but only if the individual had the responsibility or duty to remit payment of the limited liability business entity's unpaid trust fund tax liability reflected in a tax warrant issued by the department.
+
+        iii. Whenever any taxpayer has one or more limited liability business entities as a member, manager, or partner, "responsible individual" also includes any current and former officers, members, or managers of the limited liability business entity or entities or of any other limited liability business entity involved directly in the management of the taxpayer. For purposes of this subsection (9)(g)(iii), "taxpayer" means a limited liability business entity with an unpaid tax warrant issued against it by the department.
+
+    h. "Trust fund taxes" means taxes collected from purchasers and held in trust under RCW 82.08.050 **or 82.25.010**, including taxes imposed under RCW 82.08.020, 82.08.150, **82.25.010,** and 82.51.010.
+
+    i. "Willfully fails to pay or to cause to be paid" means that the failure was the result of an intentional, conscious, and voluntary course of action.
+
+
+## Section 16
+If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.

@@ -1,0 +1,343 @@
+# House Bill 1593
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1593.xml)
+## Section 1
+The legislature finds that domestic violence, sexual assault, unlawful harassment, and stalking are acts of violence that have devastating effects upon individual victims, their children, their communities, and the state as a whole. These acts of violence threaten the housing stability of many residents of this state. Victims of these violent acts may be forced to remain in unsafe and abusive situations because they do not have the financial wherewithal to obtain alternate housing. It is the long-standing practice of the state to provide rental assistance to its residents in a variety of urgent situations. By this act, the legislature intends to increase safety for victims of domestic violence, sexual assault, unlawful harassment, and stalking by removing some of the financial barriers to safely obtaining alternate housing and thereby contribute to the general welfare of the state.
+
+## Section 2
+> This section modifies existing section [43.31.605](/rcw/43_state_government—executive/43.031_department_of_commerce.md). Here is the [modified chapter](rcw/43_state_government—executive/43.031_department_of_commerce.md) for context.
+
+1. [Empty]
+
+    a. Subject to the availability of funds for this purpose, the landlord mitigation program is created and administered by the department. The department shall have such rule-making authority as the department deems necessary to administer the program.
+
+    b. The following types of claims related to landlord mitigation for renting private market rental units to low-income tenants using a housing subsidy program are eligible for reimbursement from the landlord mitigation program account:
+
+        i. Up to one thousand dollars for improvements identified in RCW 59.18.255(1)(a). In order to be eligible for reimbursement under this subsection (1)(b)(i), the landlord must pay for the first five hundred dollars for improvements, and rent to the tenant whose housing subsidy program was conditioned on the real property passing inspection. Reimbursement under this subsection (1)(b)(i) may also include up to fourteen days of lost rental income from the date of offer of housing to the applicant whose housing subsidy program was conditioned on the real property passing inspection until move in by that applicant;
+
+        ii. Reimbursement for damages as reflected in a judgment obtained against the tenant through either an unlawful detainer proceeding, or through a civil action in a court of competent jurisdiction after a hearing;
+
+        iii. Reimbursement for damages established pursuant to subsection (2) of this section; and
+
+        iv. Reimbursement for unpaid rent and unpaid utilities, provided that the landlord can evidence it to the department's satisfaction.
+
+    c. Claims related to landlord mitigation for an unpaid judgment for rent, unpaid judgments resulting from the tenant's failure to comply with an installment payment agreement identified in RCW 59.18.610, late fees, attorneys' fees, and costs after a court order pursuant to RCW 59.18.410(3), including any unpaid portion of the judgment after the tenant defaults on the payment plan pursuant to RCW 59.18.410(3)(c), are eligible for reimbursement from the landlord mitigation program account and are exempt from any postjudgment interest required under RCW 4.56.110. Any claim for reimbursement made pursuant to RCW 59.18.410(3)(e)(ii) must be accompanied by a court order staying the writ of restitution pursuant to RCW 59.18.410(3). Any claim for reimbursement under this subsection (1)(c) is not an entitlement.
+
+        i. The department shall provide for a form on its website for tenants and landlords to apply for reimbursement funds for the landlord pursuant to this subsection (1)(c).
+
+        ii. The form must include: (A) Space for the landlord and tenant to provide names, mailing addresses, phone numbers, date of birth for the tenant, and any other identifying information necessary for the department to process payment; (B) the landlord's statewide vendor identification number and how to obtain one; (C) name and address to whom payment must be made; (D) the amount of the judgment with instructions to include any other supporting documentation the department may need to process payment; (E) instructions for how the tenant is to reimburse the department under (c)(iii) of this subsection; (F) a description of the consequences if the tenant does not reimburse the department as provided in this subsection (1)(c); (G) a signature line for the landlord and tenant to confirm that they have read and understood the contents of the form and program; and (H) any other information necessary for the operation of the program. If the tenant has not signed the form after the landlord has made good faith efforts to obtain the tenant's signature, the landlord may solely submit the form but must attest to the amount of money owed and sign the form under penalty of perjury.
+
+        iii. When a landlord has been reimbursed pursuant to this subsection (1)(c), the tenant for whom payment was made shall reimburse the department by depositing the amount disbursed from the landlord mitigation program account into the court registry of the superior court in which the judgment was entered. The tenant or other interested party may seek an ex parte order of the court under the unlawful detainer action to order such funds to be disbursed by the court. Upon entry of the order, the court clerk shall disburse the funds and include a case number with any payment issued to the department. If directed by the court, a clerk shall issue any payments made by a tenant to the department without further court order.
+
+        iv. The department may deny an application made by a tenant who has failed to reimburse the department for prior payments issued pursuant to this subsection (1)(c).
+
+    v. With any disbursement from the account to the landlord, the department shall notify the tenant at the address provided within the application that a disbursement has been made to the landlord on the tenant's behalf and that failure to reimburse the account for the payment through the court registry may result in a denial of a future application to the account pursuant to this subsection (1)(c). The department may include any other additional information about how to reimburse the account it deems necessary to fully inform the tenant.
+
+    vi. The department's duties with respect to obtaining reimbursement from the tenant to the account are limited to those specified within this subsection (1)(c).
+
+    vii. If at any time funds do not exist in the landlord mitigation program account to reimburse claims submitted under this subsection (1)(c), the department must create and maintain a waitlist and distribute funds in the order the claims are received pursuant to subsection (6) of this section. Payment of any claims on the waitlist shall be made only from the landlord mitigation program account. The department shall not be civilly or criminally liable and may not have any penalty or cause of action of any nature arise against it regarding the provision or lack of provision of funds for reimbursement.
+
+    d. [Empty]
+
+        i. Claims related to landlord mitigation for:
+
+(A) Up to $15,000 in unpaid rent that accrued between March 1, 2020, and six months following the expiration of the eviction moratorium and the tenant being low-income, limited resourced or experiencing hardship, voluntarily vacated or abandoned the tenancy; or
+
+(B) Up to $15,000 in remaining unpaid rent if a tenant defaults on a repayment plan entered into under RCW 59.18.630 are eligible for reimbursement from the landlord mitigation program account subject to the program requirements under this section, provided the tenancy has not been terminated at the time of reimbursement.
+
+        ii. A landlord is ineligible for reimbursement under this subsection (1)(d) where the tenant vacated the tenancy because of an unlawful detainer action under RCW 59.12.030(3).
+
+        iii. A landlord in receipt of reimbursement from the program pursuant to this subsection (1)(d) is prohibited from:
+
+(A) Taking legal action against the tenant for damages or any remaining unpaid rent accrued between March 1, 2020, and six months following the expiration of the eviction moratorium attributable to the same tenancy; or
+
+(B) Pursuing collection, or authorizing another entity to pursue collection on the landlord's behalf, of a judgment against the tenant for damages or any remaining unpaid rent accrued between March 1, 2020, and six months following the expiration of the eviction moratorium attributable to the same tenancy.
+
+    e. [Empty]
+
+        i. **Claims, up to $5,000, related to landlord mitigation for damages to rental property are eligible for reimbursement from the landlord mitigation program account when:**
+
+(A) **A tenant has terminated a rental agreement pursuant to RCW 59.18.575;**
+
+(B) **The property has sustained damage beyond wear resulting from ordinary use of the premises;**
+
+(C) **The landlord has, within the time limits specified in RCW 59.18.280, provided the tenant with a full and specific statement of the basis for retaining any of the damage deposit;**
+
+(D) **The landlord has, rather than retaining any of the damage deposit, returned the full damage deposit to the tenant; and**
+
+(E) **The landlord has agreed not to proceed against the tenant to recover sums exceeding the amount of the tenant's damage deposit.**
+
+        ii. **Any claim for reimbursement under this subsection (1)(e) is not an entitlement.**
+
+        iii. **If at any time funds do not exist in the landlord mitigation program account to reimburse claims submitted under this subsection (1)(e), the department must create and maintain a waitlist and distribute funds in the order the claims are received pursuant to subsection (6) of this section. Payment of any claims on the waitlist shall be made only from the landlord mitigation program account. The department is not civilly or criminally liable and may not have any penalty or cause of action of any nature arise against it regarding the provision or lack of provision of funds for reimbursement.**
+
+        iv. **The department shall provide for a form on its website for landlords to apply for reimbursement funds for the landlord pursuant to this subsection (1)(e).**
+
+    v. **The department shall provide for the confidentiality of tenants' personal information and shall have such rule-making authority as is necessary to protect the personal information of tenants under this subsection (1)(e).**
+
+2. In order for a claim under subsection (1)(b)(iii) **or (e)** of this section to be eligible for reimbursement from the landlord mitigation program account, a landlord must:
+
+    a. Have ensured that the rental property was inspected at the commencement of the tenancy by both the tenant and the landlord or landlord's agent and that a detailed written move-in property inspection report, as required in RCW 59.18.260, was prepared and signed by both the tenant and the landlord or landlord's agent;
+
+    b. Make repairs and then apply for reimbursement to the department;
+
+    c. Submit a claim on a form to be determined by the department, signed under penalty of perjury; and
+
+    d. Submit to the department copies of the move-in property inspection report specified in (a) of this subsection and supporting materials including, but not limited to, before repair and after repair photographs, videos, copies of repair receipts for labor and materials, and such other documentation or information as the department may request.
+
+3. [Empty]
+
+    a. The department shall make reasonable efforts to review a claim within ten business days from the date it received properly submitted and complete claims to the satisfaction of the department.
+
+    b. In reviewing a claim pursuant to subsection (1)(b) of this section, and determining eligibility for reimbursement, the department must receive documentation, acceptable to the department in its sole discretion, that the claim involves a private market rental unit rented to a low-income tenant who is using a housing subsidy program.
+
+    c. **In reviewing a claim pursuant to subsection (1)(e)(i) of this section, and determining eligibility for reimbursement, the department must receive documentation, acceptable to the department in its sole discretion, that the claim involves a tenancy that was terminated pursuant to RCW 59.18.575 and that all of the requirements of subsection (1)(e)(i) of this section have been met.**
+
+4. Claims pursuant to subsection (1)(b) of this section related to a tenancy must total at least five hundred dollars in order for a claim to be eligible for reimbursement from the program. While claims or damages may exceed five thousand dollars, total reimbursement from the program may not exceed five thousand dollars per tenancy.
+
+5. Damages, beyond wear and tear, that are eligible for reimbursement include, but are not limited to: Interior wall gouges and holes; damage to doors and cabinets, including hardware; carpet stains or burns; cracked tiles or hard surfaces; broken windows; damage to household fixtures such as disposal, toilet, sink, sink handle, ceiling fan, and lighting. Other property damages beyond normal wear and tear may also be eligible for reimbursement at the department's discretion.
+
+6. All reimbursements for eligible claims shall be made on a first-come, first-served basis, to the extent of available funds. The department shall use best efforts to notify the tenant of the amount and the reasons for any reimbursements made.
+
+7. The department, in its sole discretion, may inspect the property and the landlord's records related to a claim, including the use of a third-party inspector as needed to investigate fraud, to assist in making its claim review and determination of eligibility.
+
+8. A landlord in receipt of reimbursement from the program pursuant to subsection (1)(b) **or (e)** of this section is prohibited from:
+
+    a. Taking legal action against the tenant for damages attributable to the same tenancy; or
+
+    b. Pursuing collection, or authorizing another entity to pursue collection on the landlord's behalf, of a judgment against the tenant for damages attributable to the same tenancy.
+
+9. A landlord denied reimbursement under subsection (1)(b)(iii) of this section may seek to obtain a judgment from a court of competent jurisdiction and, if successful, may resubmit a claim for damages supported by the judgment, along with a certified copy of the judgment. The department may reimburse the landlord for that portion of such judgment that is based on damages reimbursable under the landlord mitigation program, subject to the limitations set forth in this section.
+
+10. Determinations regarding reimbursements shall be made by the department in its sole discretion.
+
+11. The department must establish a website that advertises the landlord mitigation program, the availability of reimbursement from the landlord mitigation program account, and maintains or links to the agency rules and policies established pursuant to this section.
+
+12. Neither the state, the department, or persons acting on behalf of the department, while acting within the scope of their employment or agency, is liable to any person for any loss, damage, harm, or other consequence resulting directly or indirectly from the department's administration of the landlord mitigation program or determinations under this section.
+
+13. [Empty]
+
+    a. A report to the appropriate committees of the legislature on the effectiveness of the program and recommended modifications shall be submitted to the governor and the appropriate committees of the legislature by January 1, 2021. In preparing the report, the department shall convene and solicit input from a group of stakeholders to include representatives of large multifamily housing property owners or managers, small rental housing owners in both rural and urban markets, a representative of tenant advocates, and a representative of the housing authorities.
+
+    b. The report shall include discussion of the effectiveness of the program as well as the department's recommendations to improve the program, and shall include the following:
+
+        i. The number of total claims and total amount reimbursed to landlords by the fund;
+
+        ii. Any indices of fraud identified by the department;
+
+        iii. Any reports by the department regarding inspections authorized by and conducted on behalf of the department;
+
+        iv. An outline of the process to obtain reimbursement for improvements and for damages from the fund;
+
+    v. An outline of the process to obtain reimbursement for lost rent due to the rental inspection and tenant screening process, together with the total amount reimbursed for such damages;
+
+    vi. An evaluation of the feasibility for expanding the use of the mitigation fund to provide up to ninety-day no interest loans to landlords who have not received timely rental payments from a housing authority that is administering section 8 rental assistance; **and**
+
+    vii. Any other modifications and recommendations made by stakeholders to improve the effectiveness and applicability of the program.
+
+14. As used in this section:
+
+    a. "Housing subsidy program" means a housing voucher as established under 42 U.S.C. Sec. 1437 as of January 1, 2018, or other housing subsidy program including, but not limited to, valid short-term or long-term federal, state, or local government, private nonprofit, or other assistance program in which the tenant's rent is paid either partially by the program and partially by the tenant, or completely by the program directly to the landlord;
+
+    b. "Low-income" means income that does not exceed eighty percent of the median income for the standard metropolitan statistical area in which the private market rental unit is located; and
+
+    c. "Private market rental unit" means any unit available for rent that is owned by an individual, corporation, limited liability company, nonprofit housing provider, or other entity structure, but does not include housing acquired, or constructed by a public housing agency under 42 U.S.C. Sec. 1437 as it existed on January 1, 2018.
+
+
+## Section 3
+> This section modifies existing section [59.18.280](/rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md). Here is the [modified chapter](rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md) for context.
+
+1. Within twenty-one days after the termination of the rental agreement and vacation of the premises or, if the tenant abandons the premises as defined in RCW 59.18.310, within twenty-one days after the landlord learns of the abandonment, the landlord shall give a full and specific statement of the basis for retaining any of the deposit together with the payment of any refund due the tenant under the terms and conditions of the rental agreement.
+
+    a. No portion of any deposit shall be withheld on account of wear resulting from ordinary use of the premises.
+
+    b. The landlord complies with this section if the required statement or payment, or both, are delivered to the tenant personally or deposited in the United States mail properly addressed to the tenant's last known address with first-class postage prepaid within the twenty-one days.
+
+2. If the landlord fails to give such statement together with any refund due the tenant within the time limits specified above he or she shall be liable to the tenant for the full amount of the deposit. The landlord is also barred in any action brought by the tenant to recover the deposit from asserting any claim or raising any defense for retaining any of the deposit unless the landlord shows that circumstances beyond the landlord's control prevented the landlord from providing the statement within the twenty-one days or that the tenant abandoned the premises as defined in RCW 59.18.310. The court may in its discretion award up to two times the amount of the deposit for the intentional refusal of the landlord to give the statement or refund due. In any action brought by the tenant to recover the deposit, the prevailing party shall additionally be entitled to the cost of suit or arbitration including a reasonable attorneys' fee.
+
+3. Nothing in this chapter shall preclude the landlord from proceeding against, and the landlord shall have the right to proceed against a tenant to recover sums exceeding the amount of the tenant's damage or security deposit for damage to the property for which the tenant is responsible together with reasonable attorneys' fees. **However, if the landlord seeks reimbursement for damages from the landlord mitigation program pursuant to RCW 43.31.605(1)(e), the landlord is prohibited from retaining any portion of the tenant's damage or security deposit or proceeding against the tenant who terminates under RCW 59.18.575 to recover sums exceeding the amount of the tenant's damage or security deposit for damage to the property.**
+
+
+## Section 4
+> This section modifies existing section [59.18.575](/rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md). Here is the [modified chapter](rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md) for context.
+
+1. [Empty]
+
+    a. If a tenant notifies the landlord in writing that he or she or a household member was a victim of an act that constitutes a crime of domestic violence, sexual assault, unlawful harassment, or stalking, and either (a)(i) or (ii) of this subsection applies, then subsection (2) of this section applies:
+
+        i. The tenant or the household member has a valid order for protection under one or more of the following: Chapter 7.90, 26.50, 26.26A, or 26.26B RCW or RCW 9A.46.040, 9A.46.050, 10.14.080, 10.99.040 (2) or (3), or 26.09.050; or
+
+        ii. The tenant or the household member has reported the domestic violence, sexual assault, unlawful harassment, or stalking to a qualified third party acting in his or her official capacity and the qualified third party has provided the tenant or the household member a written record of the report signed by the qualified third party.
+
+    b. When a copy of a valid order for protection or a written record of a report signed by a qualified third party, as required under (a) of this subsection, is made available to the landlord, the tenant may terminate the rental agreement and quit the premises without further obligation under the rental agreement or under this chapter. However, the request to terminate the rental agreement must occur within ninety days of the reported act, event, or circumstance that gave rise to the protective order or report to a qualified third party. A record of the report to a qualified third party that is provided to the tenant or household member shall consist of a document signed and dated by the qualified third party stating: (i) That the tenant or the household member notified him or her that he or she was a victim of an act or acts that constitute a crime of domestic violence, sexual assault, unlawful harassment, or stalking; (ii) the time and date the act or acts occurred; (iii) the location where the act or acts occurred; (iv) a brief description of the act or acts of domestic violence, sexual assault, unlawful harassment, or stalking; and (v) that the tenant or household member informed him or her of the name of the alleged perpetrator of the act or acts. The record of the report provided to the tenant or household member shall not include the name of the alleged perpetrator of the act or acts of domestic violence, sexual assault, unlawful harassment, or stalking. The qualified third party shall keep a copy of the record of the report and shall note on the retained copy the name of the alleged perpetrator of the act or acts of domestic violence, sexual assault, unlawful harassment, or stalking. The record of the report to a qualified third party may be accomplished by completion of a form provided by the qualified third party, in substantially the following form:
+
+[Name of organization, agency, clinic, professional service provider]
+
+I and/or my . . . . . . (household member) am/is a victim of
+
+. . . domestic violence as defined by RCW 26.50.010.
+
+. . . sexual assault as defined by RCW 70.125.030.
+
+. . . stalking as defined by RCW 9A.46.110.
+
+. . . unlawful harassment as defined by RCW 59.18.570.
+
+Briefly describe the incident of domestic violence, sexual assault, unlawful harassment, or stalking:
+
+The incident(s) that I rely on in support of this declaration occurred on the following date(s) and time(s) and at the following location(s): .
+
+The incident(s) that I rely on in support of this declaration were committed by the following person(s):
+
+I state under penalty of perjury under the laws of the state of Washington that the foregoing is true and correct. Dated at . . . . . . . . . . (city) . ., Washington, this . . . day of . . . ., . . . . (year)
+
+Signature of Tenant or
+
+Household Member
+
+I verify that I have provided to the person whose signature appears above the statutes cited in RCW 59.18.575 and that the individual was a victim of an act that constitutes a crime of domestic violence, sexual assault, unlawful harassment, or stalking, and that the individual informed me of the name of the alleged perpetrator of the act. **I further verify that I have informed the person whose signature appears above that information about the landlord mitigation program can be found on the website established pursuant to RCW 43.31.605(11), including the form developed pursuant to RCW 43.31.605(1)(e)(iv).**
+
+Dated this . . . day of . . . ., . . . . (year)
+
+Signature of authorized officer/employee of (Organization, agency, clinic, professional service provider)
+
+2. [Empty]
+
+    a. A tenant who terminates a rental agreement under this section is discharged from the payment of rent for any period following the last day of the month of the quitting date. The tenant shall remain liable for the rent for the month in which he or she terminated the rental agreement unless the termination is in accordance with RCW 59.18.200(1).
+
+    b. [Empty]
+
+        i. Notwithstanding lease provisions that allow for forfeiture of a deposit for early termination, a tenant who terminates under this section is entitled to the return of the full deposit, subject to RCW 59.18.020 and 59.18.280.
+
+        ii. **If the landlord seeks reimbursement for damages from the landlord mitigation program pursuant to RCW 43.31.605, the landlord is prohibited from retaining any portion of the tenant's damage or security deposit or proceeding against the tenant who terminates under this section to recover sums exceeding the amount of the tenant's damage or security deposit for damage to the property.**
+
+    c. Other tenants who are parties to the rental agreement, except household members who are the victims of sexual assault, stalking, unlawful harassment, or domestic violence, are not released from their obligations under the rental agreement or other obligations under this chapter.
+
+3. [Empty]
+
+    a. Notwithstanding any other provision under this section, if a tenant or a household member is a victim of sexual assault, stalking, or unlawful harassment by a landlord, the tenant may terminate the rental agreement and quit the premises without further obligation under the rental agreement or under this chapter prior to making a copy of a valid order for protection or a written record of a report signed by a qualified third party available to the landlord, provided that:
+
+        i. The tenant must deliver a copy of a valid order for protection or written record of a report signed by a qualified third party to the landlord by mail, fax, or personal delivery by a third party within seven days of quitting the tenant's dwelling unit; and
+
+        ii. A written record of a report signed by the qualified third party must be substantially in the form specified under subsection (1)(b) of this section. The record of the report provided to the landlord must not include the name of the alleged perpetrator of the act. On written request by the landlord, the qualified third party shall, within seven days, provide the name of the alleged perpetrator of the act to the landlord only if the alleged perpetrator was a person meeting the definition of the term "landlord" under RCW 59.18.570.
+
+    b. A tenant who terminates his or her rental agreement under this subsection is discharged from the payment of rent for any period following the latter of: (i) The date the tenant vacates the unit; or (ii) the date the record of the report of the qualified third party and the written notice that the tenant has vacated are delivered to the landlord by mail, fax, or personal delivery by a third party. The tenant is entitled to a pro rata refund of any prepaid rent and must receive a full and specific statement of the basis for retaining any of the deposit together with any refund due in accordance with RCW 59.18.280.
+
+4. If a tenant or a household member is a victim of sexual assault, stalking, or unlawful harassment by a landlord, the tenant may change or add locks to the tenant's dwelling unit at the tenant's expense. If a tenant exercises his or her rights to change or add locks, the following rules apply:
+
+    a. Within seven days of changing or adding locks, the tenant must deliver to the landlord by mail, fax, or personal delivery by a third party: (i) Written notice that the tenant has changed or added locks; and (ii) a copy of a valid order for protection or a written record of a report signed by a qualified third party. A written record of a report signed by a qualified third party must be substantially in the form specified under subsection (1)(b) of this section. The record of the report provided to the landlord must not include the name of the alleged perpetrator of the act. On written request by the landlord, the qualified third party shall, within seven days, provide the name of the alleged perpetrator to the landlord only if the alleged perpetrator was a person meeting the definition of the term "landlord" under RCW 59.18.570.
+
+    b. After the tenant provides notice to the landlord that the tenant has changed or added locks, the tenant's rental agreement shall terminate on the ninetieth day after providing such notice, unless:
+
+        i. Within sixty days of providing notice that the tenant has changed or added locks, the tenant notifies the landlord in writing that the tenant does not wish to terminate his or her rental agreement. If the perpetrator has been identified by the qualified third party and is no longer an employee or agent of the landlord or owner and does not reside at the property, the tenant shall provide the owner or owner's designated agent with a copy of the key to the new locks at the same time as providing notice that the tenant does not wish to terminate his or her rental agreement. A tenant who has a valid protection, antiharassment, or other protective order against the owner of the premises or against an employee or agent of the landlord or owner is not required to provide a key to the new locks until the protective order expires or the tenant vacates; or
+
+        ii. The tenant exercises his or her rights to terminate the rental agreement under subsection (3) of this section within sixty days of providing notice that the tenant has changed or added locks.
+
+    c. After a landlord receives notice that a tenant has changed or added locks to his or her dwelling unit under (a) of this subsection, the landlord may not enter the tenant's dwelling unit except as follows:
+
+        i. In the case of an emergency, the landlord may enter the unit if accompanied by a law enforcement or fire official acting in his or her official capacity. If the landlord reasonably concludes that the circumstances require immediate entry into the unit, the landlord may, after notifying emergency services, use such force as necessary to enter the unit if the tenant is not present; or
+
+        ii. The landlord complies with the requirements of RCW 59.18.150 and clearly specifies in writing the time and date that the landlord intends to enter the unit and the purpose for entering the unit. The tenant must make arrangements to permit access by the landlord.
+
+    d. The exercise of rights to change or add locks under this subsection does not discharge the tenant from the payment of rent until the rental agreement is terminated and the tenant vacates the unit.
+
+    e. The tenant may not change any locks to common areas and must make keys for new locks available to other household members.
+
+    f. Upon vacating the dwelling unit, the tenant must deliver the key and all copies of the key to the landlord by mail or personal delivery by a third party.
+
+5. A tenant's remedies under this section do not preempt any other legal remedy available to the tenant.
+
+6. The provision of verification of a report under subsection (1)(b) of this section does not waive the confidential or privileged nature of the communication between a victim of domestic violence, sexual assault, or stalking with a qualified third party pursuant to RCW 5.60.060, 70.123.075, or 70.125.065. No record or evidence obtained from such disclosure may be used in any civil, administrative, or criminal proceeding against the victim unless a written waiver of applicable evidentiary privilege is obtained, except that the verification itself, and no other privileged information, under subsection (1)(b) of this section may be used in civil proceedings brought under this section.
+
+
+## Section 5
+> This section modifies existing section [59.18.575](/rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md). Here is the [modified chapter](rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md) for context.
+
+1. [Empty]
+
+    a. If a tenant notifies the landlord in writing that he or she or a household member was a victim of an act that constitutes a crime of domestic violence, sexual assault, unlawful harassment, or stalking, and either (a)(i) or (ii) of this subsection applies, then subsection (2) of this section applies:
+
+        i. The tenant or the household member has a domestic violence protection order, sexual assault protection order, stalking protection order, or antiharassment protection order under chapter 7.105 RCW, or a valid order for protection under one or more of the following: Chapter 26.26A or 26.26B RCW, or any of the former chapters 7.90 and 26.50 RCW, or RCW 9A.46.040, 9A.46.050, 10.99.040 (2) or (3), or 26.09.050, or former RCW 10.14.080; or
+
+        ii. The tenant or the household member has reported the domestic violence, sexual assault, unlawful harassment, or stalking to a qualified third party acting in his or her official capacity and the qualified third party has provided the tenant or the household member a written record of the report signed by the qualified third party.
+
+    b. When a copy of a valid order for protection or a written record of a report signed by a qualified third party, as required under (a) of this subsection, is made available to the landlord, the tenant may terminate the rental agreement and quit the premises without further obligation under the rental agreement or under this chapter. However, the request to terminate the rental agreement must occur within ninety days of the reported act, event, or circumstance that gave rise to the protective order or report to a qualified third party. A record of the report to a qualified third party that is provided to the tenant or household member shall consist of a document signed and dated by the qualified third party stating: (i) That the tenant or the household member notified him or her that he or she was a victim of an act or acts that constitute a crime of domestic violence, sexual assault, unlawful harassment, or stalking; (ii) the time and date the act or acts occurred; (iii) the location where the act or acts occurred; (iv) a brief description of the act or acts of domestic violence, sexual assault, unlawful harassment, or stalking; and (v) that the tenant or household member informed him or her of the name of the alleged perpetrator of the act or acts. The record of the report provided to the tenant or household member shall not include the name of the alleged perpetrator of the act or acts of domestic violence, sexual assault, unlawful harassment, or stalking. The qualified third party shall keep a copy of the record of the report and shall note on the retained copy the name of the alleged perpetrator of the act or acts of domestic violence, sexual assault, unlawful harassment, or stalking. The record of the report to a qualified third party may be accomplished by completion of a form provided by the qualified third party, in substantially the following form:
+
+[Name of organization, agency, clinic, professional service provider]
+
+I and/or my . . . . . . (household member) am/is a victim of
+
+. . . domestic violence as defined by RCW 7.105.010.
+
+. . . sexual assault as defined by RCW 70.125.030.
+
+. . . stalking as defined by RCW 9A.46.110.
+
+. . . unlawful harassment as defined by RCW 59.18.570.
+
+Briefly describe the incident of domestic violence, sexual assault, unlawful harassment, or stalking:
+
+The incident(s) that I rely on in support of this declaration occurred on the following date(s) and time(s) and at the following location(s): .
+
+The incident(s) that I rely on in support of this declaration were committed by the following person(s):
+
+I state under penalty of perjury under the laws of the state of Washington that the foregoing is true and correct. Dated at . . . . . . . . . . (city) . ., Washington, this . . . day of . . . ., . . . . (year)
+
+Signature of Tenant or
+
+Household Member
+
+I verify that I have provided to the person whose signature appears above the statutes cited in RCW 59.18.575 and that the individual was a victim of an act that constitutes a crime of domestic violence, sexual assault, unlawful harassment, or stalking, and that the individual informed me of the name of the alleged perpetrator of the act. **I further verify that I have informed the person whose signature appears above that information about the landlord mitigation program can be found on the website established pursuant to RCW 43.31.605(11), including the form developed pursuant to RCW 43.31.605(1)(e)(iv).**
+
+Dated this . . . day of . . . ., . . . . (year)
+
+Signature of authorized officer/employee of (Organization, agency, clinic, professional service provider)
+
+2. [Empty]
+
+    a. A tenant who terminates a rental agreement under this section is discharged from the payment of rent for any period following the last day of the month of the quitting date. The tenant shall remain liable for the rent for the month in which he or she terminated the rental agreement unless the termination is in accordance with RCW 59.18.200(1).
+
+    b. [Empty]
+
+        i. Notwithstanding lease provisions that allow for forfeiture of a deposit for early termination, a tenant who terminates under this section is entitled to the return of the full deposit, subject to RCW 59.18.020 and 59.18.280.
+
+        ii. **If the landlord seeks reimbursement for damages from the landlord mitigation program pursuant to RCW 43.31.605, the landlord is prohibited from retaining any portion of the tenant's damage or security deposit or proceeding against the tenant who terminates under this section to recover sums exceeding the amount of the tenant's damage or security deposit for damage to the property.**
+
+    c. Other tenants who are parties to the rental agreement, except household members who are the victims of sexual assault, stalking, unlawful harassment, or domestic violence, are not released from their obligations under the rental agreement or other obligations under this chapter.
+
+3. [Empty]
+
+    a. Notwithstanding any other provision under this section, if a tenant or a household member is a victim of sexual assault, stalking, or unlawful harassment by a landlord, the tenant may terminate the rental agreement and quit the premises without further obligation under the rental agreement or under this chapter prior to making a copy of a valid order for protection or a written record of a report signed by a qualified third party available to the landlord, provided that:
+
+        i. The tenant must deliver a copy of a valid order for protection or written record of a report signed by a qualified third party to the landlord by mail, fax, or personal delivery by a third party within seven days of quitting the tenant's dwelling unit; and
+
+        ii. A written record of a report signed by the qualified third party must be substantially in the form specified under subsection (1)(b) of this section. The record of the report provided to the landlord must not include the name of the alleged perpetrator of the act. On written request by the landlord, the qualified third party shall, within seven days, provide the name of the alleged perpetrator of the act to the landlord only if the alleged perpetrator was a person meeting the definition of the term "landlord" under RCW 59.18.570.
+
+    b. A tenant who terminates his or her rental agreement under this subsection is discharged from the payment of rent for any period following the latter of: (i) The date the tenant vacates the unit; or (ii) the date the record of the report of the qualified third party and the written notice that the tenant has vacated are delivered to the landlord by mail, fax, or personal delivery by a third party. The tenant is entitled to a pro rata refund of any prepaid rent and must receive a full and specific statement of the basis for retaining any of the deposit together with any refund due in accordance with RCW 59.18.280.
+
+4. If a tenant or a household member is a victim of sexual assault, stalking, or unlawful harassment by a landlord, the tenant may change or add locks to the tenant's dwelling unit at the tenant's expense. If a tenant exercises his or her rights to change or add locks, the following rules apply:
+
+    a. Within seven days of changing or adding locks, the tenant must deliver to the landlord by mail, fax, or personal delivery by a third party: (i) Written notice that the tenant has changed or added locks; and (ii) a copy of a valid order for protection or a written record of a report signed by a qualified third party. A written record of a report signed by a qualified third party must be substantially in the form specified under subsection (1)(b) of this section. The record of the report provided to the landlord must not include the name of the alleged perpetrator of the act. On written request by the landlord, the qualified third party shall, within seven days, provide the name of the alleged perpetrator to the landlord only if the alleged perpetrator was a person meeting the definition of the term "landlord" under RCW 59.18.570.
+
+    b. After the tenant provides notice to the landlord that the tenant has changed or added locks, the tenant's rental agreement shall terminate on the ninetieth day after providing such notice, unless:
+
+        i. Within sixty days of providing notice that the tenant has changed or added locks, the tenant notifies the landlord in writing that the tenant does not wish to terminate his or her rental agreement. If the perpetrator has been identified by the qualified third party and is no longer an employee or agent of the landlord or owner and does not reside at the property, the tenant shall provide the owner or owner's designated agent with a copy of the key to the new locks at the same time as providing notice that the tenant does not wish to terminate his or her rental agreement. A tenant who has a valid protection, antiharassment, or other protective order against the owner of the premises or against an employee or agent of the landlord or owner is not required to provide a key to the new locks until the protective order expires or the tenant vacates; or
+
+        ii. The tenant exercises his or her rights to terminate the rental agreement under subsection (3) of this section within sixty days of providing notice that the tenant has changed or added locks.
+
+    c. After a landlord receives notice that a tenant has changed or added locks to his or her dwelling unit under (a) of this subsection, the landlord may not enter the tenant's dwelling unit except as follows:
+
+        i. In the case of an emergency, the landlord may enter the unit if accompanied by a law enforcement or fire official acting in his or her official capacity. If the landlord reasonably concludes that the circumstances require immediate entry into the unit, the landlord may, after notifying emergency services, use such force as necessary to enter the unit if the tenant is not present; or
+
+        ii. The landlord complies with the requirements of RCW 59.18.150 and clearly specifies in writing the time and date that the landlord intends to enter the unit and the purpose for entering the unit. The tenant must make arrangements to permit access by the landlord.
+
+    d. The exercise of rights to change or add locks under this subsection does not discharge the tenant from the payment of rent until the rental agreement is terminated and the tenant vacates the unit.
+
+    e. The tenant may not change any locks to common areas and must make keys for new locks available to other household members.
+
+    f. Upon vacating the dwelling unit, the tenant must deliver the key and all copies of the key to the landlord by mail or personal delivery by a third party.
+
+5. A tenant's remedies under this section do not preempt any other legal remedy available to the tenant.
+
+6. The provision of verification of a report under subsection (1)(b) of this section does not waive the confidential or privileged nature of the communication between a victim of domestic violence, sexual assault, or stalking with a qualified third party pursuant to RCW 5.60.060, 70.123.075, or 70.125.065. No record or evidence obtained from such disclosure may be used in any civil, administrative, or criminal proceeding against the victim unless a written waiver of applicable evidentiary privilege is obtained, except that the verification itself, and no other privileged information, under subsection (1)(b) of this section may be used in civil proceedings brought under this section.
+

@@ -1,0 +1,6 @@
+# Senate Bill 5516
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5516.xml)
+## Section 1
+The legislature finds that every person who seeks an abortion in Washington should have sufficient information to make an informed decision as to whether to move forward with the procedure. According to the American college of obstetricians and gynecologists, one in four women in the United States will obtain an abortion by age 45. The majority of abortion patients in the United States identify as Black, Hispanic, Asian, or Pacific Islander. Additionally, 75 percent of individuals seeking an abortion are living at or below 200 percent of the federal poverty level.
+In 2016, the abortion ratio in Washington was 188.9 abortions per 1,000 live births. In 2019, 60 out of 17,087 abortion procedures in Washington reported a failed abortion as a complication of the procedure. The legislature intends to require that abortion providers in Washington must inform patients considering an abortion of the potential health risks and potential outcomes of the procedure at the first consultation between the provider and patient. In doing so, the legislature intends to empower patients seeking abortions in Washington with the information necessary to make an informed decision about whether to undergo the procedure.

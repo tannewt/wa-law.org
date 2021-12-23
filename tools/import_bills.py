@@ -40,7 +40,7 @@ for p in pathlib.Path(sys.argv[1]).iterdir():
         title_folders[title] = p
         chapter_files[title] = {}
         for chapter_file in p.iterdir():
-            if chapter_file.name == "README.adoc":
+            if chapter_file.name == "README.md":
                 continue
             chapter = chapter_file.name.split("_", maxsplit=1)[0].split(".")[1].lstrip("0")
             chapter_files[title][chapter] = chapter_file
@@ -62,6 +62,7 @@ def format_lists(paragraph):
             if last_end > 0:
                 current_line.append(" [Empty]")
                 new_paragraph.append("".join(current_line))
+                new_paragraph.append("")
                 current_line = []
             last_end = result.end()
             group = result.group(1)
@@ -77,8 +78,17 @@ def format_lists(paragraph):
         new_paragraph.append("")
     return new_paragraph
 
+def section_path(citation):
+    try:
+        f = chapter_files[citation[0]][citation[1].lstrip("0")]
+        return f
+    except KeyError:
+        return None
+
 def amend_section(revision_path, citation, section_citation, new_text):
-    f = chapter_files[citation[0]][citation[1].lstrip("0")]
+    f = section_path(citation)
+    if f is None:
+        return None
     new = revision_path / f
     if new.exists():
         existing_text = new.read_text().split("\n")
@@ -92,7 +102,7 @@ def amend_section(revision_path, citation, section_citation, new_text):
         if line.startswith("##"):
             in_section = line.startswith(section_header)
             if in_section:
-                new_chapter.append("##**" + line[2:] + "**")
+                new_chapter.append("## **" + line[2:].strip() + "**")
                 new_chapter.extend(format_lists(new_text))
         if not in_section:
             new_chapter.append(line)
@@ -103,7 +113,9 @@ def amend_section(revision_path, citation, section_citation, new_text):
     return new
 
 def delete_section(revision_path, citation, section_citation):
-    f = chapter_files[citation[0]][citation[1].lstrip("0")]
+    f = section_path(citation)
+    if f is None:
+        return None
     new = revision_path / f
     if new.exists():
         existing_text = new.read_text().split("\n")
@@ -123,7 +135,9 @@ def delete_section(revision_path, citation, section_citation):
     new.write_text("\n".join(new_chapter))
 
 def add_section(revision_path, citation, section_citation, new_text):
-    f = chapter_files[citation[0]][citation[1].lstrip("0")]
+    f = section_path(citation)
+    if f is None:
+        return None
     new = revision_path / f
     if new.exists():
         existing_text = new.read_text().split("\n")
@@ -173,6 +187,8 @@ for start_year in range(2021, 2023, 2):
 
     all_bills_readme.append(f"* [{biennium}]({str(biennium_path.relative_to(bills_path))}/)")
 
+    bills_by_status = {"committee": {}, "passed": []}
+
     url = api_root_url + f"/SponsorService.asmx/GetRequesters?biennium={biennium}"
     requesters = requests.get(url)
     requesters = BeautifulSoup(requesters.text, "xml")
@@ -216,6 +232,8 @@ for start_year in range(2021, 2023, 2):
     legislation = BeautifulSoup(legislation.text, "xml")
     count = 0
     bills_by_sponsor = {}
+    bills_by_number = {}
+    sponsor_by_bill_number = {}
     for info in legislation.find_all("LegislationInfo"):
         bill_number = info.BillNumber.text
         bill_id = info.BillId.text
@@ -251,6 +269,10 @@ for start_year in range(2021, 2023, 2):
         if bill_number not in bills_by_sponsor[sponsor_id]:
             bills_by_sponsor[sponsor_id][bill_number] = []
         bills_by_sponsor[sponsor_id][bill_number].append(full_info)
+        if bill_number not in bills_by_number:
+            bills_by_number[bill_number] = []
+        bills_by_number[bill_number].append(full_info)
+        sponsor_by_bill_number[bill_number] = sponsor_id
 
         count += 1
     print(count, "legislation")
@@ -288,25 +310,48 @@ for start_year in range(2021, 2023, 2):
             count += 1
         print(count, "amendments")
 
-    for sponsor in bills_by_sponsor:
-        if sponsor != "16499" and sponsor != "27211":
-            continue
-        sponsor_info = sponsors_by_id[sponsor]
-        print(sponsor_info)
-        sponsor_name = sponsor_info.Name.text
-        sponsor_email = sponsor_info.Email.text.lower().replace("@leg.wa.gov", "@wa-law.org")
-        gitlab_user = sponsor_info.Email.text.lower().split("@")[0]
-        for bill_number in bills_by_sponsor[sponsor]:
+    # for sponsor in bills_by_sponsor:
+    #     if sponsor != "16499": # and sponsor != "27211":
+    #         continue
+    #     sponsor_info = sponsors_by_id[sponsor]
+    #     print(sponsor_info)
+    #     sponsor_name = sponsor_info.Name.text
+    #     sponsor_email = sponsor_info.Email.text.lower().replace("@leg.wa.gov", "@wa-law.org")
+    #     gitlab_user = sponsor_info.Email.text.lower().split("@")[0]
+    #     for bill_number in bills_by_sponsor[sponsor]:
+    for i, bill_number in enumerate(bills_by_number):
+            sponsor = sponsor_by_bill_number[bill_number]
             # Ignore follow up legislation info for now.
             bill = bills_by_sponsor[sponsor][bill_number][0]
             bill_id = bill.BillId.text
             bill_path = biennium_path / bill_id.replace(" ", "/").lower()
-            print(bill_path)
+            print(i, "/", len(bills_by_number), bill_path)
+            status = ""
+            for v in bills_by_sponsor[sponsor][bill_number]:
+                if v.Active.text != "true":
+                    continue
+                print(v.CurrentStatus.Status.text, v.CurrentStatus.HistoryLine.text)
+                status = v.CurrentStatus.Status.text
+            short_description = ""
+            if bill.ShortDescription is not None:
+                short_description = bill.ShortDescription.text
+            elif bill.LongDescription is not None:
+                short_description = bill.LongDescription.text
+            else:
+                print(bill)
+            bill_link = f"[{bill_id}]({str(bill_path.relative_to(biennium_path))}/) - {short_description}"
+            if status.startswith("C "):
+                bills_by_status["passed"].append(bill_link)
+            else:
+                if status not in bills_by_status["committee"]:
+                    bills_by_status["committee"][status] = []
+                bills_by_status["committee"][status].append(bill_link)
+
             bill_readme = []
 
-            biennium_readme.append(f"* [{bill_id}]({str(bill_path.relative_to(biennium_path))}/) - {bill.ShortDescription.text}")
+            biennium_readme.append(f"[{bill_id}]({str(bill_path.relative_to(biennium_path))}/) - {short_description}")
 
-            bill_readme.append("# " + bill_id + " - " + bill.ShortDescription.text)
+            bill_readme.append("# " + bill_id + " - " + short_description)
             bill_readme.append("*Status: " + bill.HistoryLine.text + "*")
             bill_readme.append(bill.LongDescription.text)
             bill_readme.append("")
@@ -366,7 +411,7 @@ for start_year in range(2021, 2023, 2):
                         section_count += 1
                         section_number = section_number.Value.text
                         section_citation = f"2021 c XXX § {section_number}"
-                        print("Bill section", section_number, section.attrs)
+                        # print("Bill section", section_number, section.attrs)
                         if "action" not in section.attrs:
                             if section["type"] == "new":
                                 lines = []
@@ -409,13 +454,27 @@ for start_year in range(2021, 2023, 2):
                                             # print("no amend style", child.name, child)
                                             pass
                                         elif child["amendingStyle"] in AMEND_INCLUDE:
-                                            line.append("**" + child.text.strip() + "**")
+                                            stripped = child.text.strip()
+                                            if not stripped:
+                                                continue
+                                            # Ignore changed bullets
+                                            if stripped[0] == "(" and stripped[-1] == ")":
+                                                line.append(child.text)
+                                            elif stripped[0] == "(" and " " in stripped:
+                                                paren_index = stripped.index(" ") + 1
+                                                line.append(stripped[:paren_index] + "**" + stripped[paren_index:] + "**")
+                                            else:
+                                                line.append("**" + stripped + "**")
                                 if line:
                                     section_lines.append("".join(line))
+                            rcw_citation = get_citation(section)
                             amended_path = amend_section(revision_path, get_citation(section), section_citation, section_lines)
 
                             revision_readme.append("## Section " + section_number)
-                            revision_readme.append("> This section modifies an existing section. Here is the [modified chapter](" + str(amended_path.relative_to(revision_path)) + ") for context.")
+                            if amended_path is None:
+                                revision_readme.append("> This section modifies existing unknown section.")
+                            else:
+                                revision_readme.append("> This section modifies existing section [" + ".".join(rcw_citation) + "](/" + str(section_path(rcw_citation)) + "). Here is the [modified chapter](" + str(amended_path.relative_to(revision_path)) + ") for context.")
                             revision_readme.append("")
                             revision_readme.extend(format_lists(section_lines))
                             revision_readme.append("")
@@ -424,12 +483,19 @@ for start_year in range(2021, 2023, 2):
                             section_lines = []
                             for paragraph in section.find_all("P"):
                                 section_lines.append(paragraph.text)
+                            rcw_citation = get_citation(section)
+                            if rcw_citation[0] is None:
+                                print(section, section.attrs)
+                                continue
                             add_section(revision_path, get_citation(section), section_citation, section_lines)
                             sections_handled += 1
                         elif section["action"] == "addchap":
                             c = get_citation(section)
                             new_chapters[c] = set()
                             # print("add chapter to", )
+                            if section.P is None:
+                                print(section)
+                                continue
                             text = section.P.text.split("of this act")[0]
                             for m in sections_pattern.finditer(text):
                                 new_chapters[c].add(m[0])
@@ -484,11 +550,15 @@ for start_year in range(2021, 2023, 2):
                             #print(chapter_sections)
                             for section in chapter_sections:
                                 section_citation = f"2021 c XXX § {section}"
+                                if section not in sections or not sections[section]:
+                                    print("missing section", section)
+                                    continue
                                 contents.append((section_citation, section, sections.pop(section)))
                                 if contents[-1][2][0].startswith("This chapter shall be known and cited as the "):
                                     chapter_name = contents[-1][2][0].split("the ", maxsplit=1)[1].strip(".")
                             if not chapter_name:
-                                raise RuntimeError()
+                                print("Missing chapter name")
+                                continue
                             new_chapter(revision_path, c, chapter_name, contents)
                             print()
                             print()
@@ -507,8 +577,21 @@ for start_year in range(2021, 2023, 2):
             print()
 
 
-        print("------------------------")
-        print()
+        # print("------------------------")
+        # print()
+
+    print(bills_by_status)
+    biennium_readme.append("## In Committee")
+    for committee in bills_by_status["committee"]:
+        biennium_readme.append("### " + committee)
+        for b in bills_by_status["committee"][committee]:
+            biennium_readme.append("* " + b)
+        biennium_readme.append("")
+
+    biennium_readme.append("## Passed")
+    for b in bills_by_status["passed"]:
+        biennium_readme.append("* " + b)
+    biennium_readme.append("")
 
     rm = biennium_path / "README.md"
     rm.write_text("\n".join(biennium_readme))

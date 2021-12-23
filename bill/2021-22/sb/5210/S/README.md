@@ -1,0 +1,84 @@
+# Substitute Senate Bill 5210 as Recommended by Subcommittee on Behavioral Health
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5210-S.xml)
+## Section 1
+> This section modifies existing section [10.77.086](/rcw/10_criminal_procedure/10.077_criminally_insane—procedures.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.077_criminally_insane—procedures.md) for context.
+
+1. [Empty]
+
+    a. [Empty]
+
+        i. If the defendant is charged with a felony and determined to be incompetent, until he or she has regained the competency necessary to understand the proceedings against him or her and assist in his or her own defense, but in any event for a period of no longer than **90** days, the court shall commit the defendant to the custody of the secretary for **inpatient** competency restoration**, or may alternatively order the defendant to receive outpatient competency restoration based** on a recommendation from a forensic navigator and input from the parties.
+
+(A) To be eligible for an order for outpatient competency restoration, a defendant must be clinically appropriate and be willing to:
+
+(I) Adhere to medications or receive prescribed intramuscular medication;
+
+(II) Abstain from alcohol and unprescribed drugs**; and**
+
+(III) **Comply with urinalysis or breathalyzer monitoring if needed**.
+
+(B) If the court orders inpatient competency restoration, the department shall place the defendant in an appropriate facility of the department for competency restoration.
+
+(C) If the court orders outpatient competency restoration, the court shall modify conditions of release as needed to authorize the department to place the person in approved housing, which may include access to supported housing, affiliated with a contracted outpatient competency restoration program. The department, in conjunction with the health care authority, must establish rules for conditions of participation in the outpatient competency restoration program, which must include the defendant being subject to medication management and regular urinalysis testing for defendants who have a current substance use disorder diagnosis. The outpatient competency restoration program shall monitor the defendant during the defendant's placement in the program and report any noncompliance or significant changes with respect to the defendant to the department and, if applicable, the forensic navigator.
+
+(D) If a defendant fails to comply with the restrictions of the outpatient restoration program such that restoration is no longer appropriate in that setting or the defendant is no longer clinically appropriate for outpatient competency restoration, the department shall remove the defendant from the outpatient restoration program and place the defendant instead in an appropriate facility of the department for inpatient competency restoration for no longer than the time allowed as if the defendant had been initially placed into inpatient competency restoration, in addition to reasonable time for transport to or from the facility. The department shall notify the court and parties of the change in placement before the close of the next judicial day. The court shall schedule a hearing within five days to review the placement and conditions of release of the defendant and issue appropriate orders. The standard of proof shall be a preponderance of the evidence, and the court may in its discretion render its decision based on written submissions, live testimony, or remote testimony.
+
+(E) The court may not issue an order for outpatient competency restoration unless the department certifies that there is an available appropriate outpatient competency restoration program that has adequate space for the person at the time the order is issued or the court places the defendant under the guidance and control of a professional person identified in the court order.
+
+        ii. The **90-**day period for competency restoration under this subsection (1) includes only the time the defendant is actually at the facility and is in addition to reasonable time for transport to or from the facility.
+
+    b. For a defendant whose highest charge is a class C felony, or a class B felony that is not classified as violent under RCW 9.94A.030, the maximum time allowed for the initial period of commitment for competency restoration is **45** days. The **45-**day period includes only the time the defendant is actually at the facility and is in addition to reasonable time for transport to or from the facility.
+
+    c. If the court determines or the parties agree that the defendant is unlikely to regain competency, the court may dismiss the charges without prejudice without ordering the defendant to undergo restoration treatment, in which case the court shall order that the defendant be referred for evaluation for civil commitment in the manner provided in subsection (4) of this section.
+
+2. On or before expiration of the initial period of commitment under subsection (1) of this section the court shall conduct a hearing, at which it shall determine whether or not the defendant is incompetent.
+
+3. If the court finds by a preponderance of the evidence that a defendant charged with a felony is incompetent, the court shall have the option of extending the order of commitment or alternative treatment for an additional period of **90** days, but the court must at the time of extension set a date for a prompt hearing to determine the defendant's competency before the expiration of the second restoration period. The defendant, the defendant's attorney, or the prosecutor has the right to demand that the hearing be before a jury. No extension shall be ordered for a second or third restoration period as provided in subsection (4) of this section if the defendant's incompetence has been determined by the secretary to be solely the result of a developmental disability which is such that competence is not reasonably likely to be regained during an extension. The **90**-day period includes only the time the defendant is actually at the facility and is in addition to reasonable time for transport to or from the facility.
+
+4. For persons charged with a felony, at the hearing upon the expiration of the second restoration period or at the end of the first restoration period in the case of a defendant with a developmental disability, if the jury or court finds that the defendant is incompetent, or if the court or jury at any stage finds that the defendant is incompetent and the court determines that the defendant is unlikely to regain competency, the charges shall be dismissed without prejudice, and the court shall order the defendant be committed to a state hospital as defined in RCW 72.23.010 for up to **72** hours starting from admission to the facility, excluding Saturdays, Sundays, and holidays, for evaluation for the purpose of filing a civil commitment petition under chapter 71.05 RCW. The criminal charges shall not be dismissed if the court or jury finds that: (a) The defendant (i) is a substantial danger to other persons; or (ii) presents a substantial likelihood of committing criminal acts jeopardizing public safety or security; and (b) there is a substantial probability that the defendant will regain competency within a reasonable period of time. In the event that the court or jury makes such a finding, the court may extend the period of commitment for up to an additional six months. The six-month period includes only the time the defendant is actually at the facility and is in addition to reasonable time for transport to or from the facility.
+
+
+## Section 2
+> This section modifies existing section [10.77.088](/rcw/10_criminal_procedure/10.077_criminally_insane—procedures.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.077_criminally_insane—procedures.md) for context.
+
+1. If the defendant is charged with a nonfelony crime which is a serious offense as identified in RCW 10.77.092 and found by the court to be not competent, then the court:
+
+    a. Shall dismiss the proceedings without prejudice and detain the defendant for sufficient time to allow the designated crisis responder to evaluate the defendant and consider initial detention proceedings under chapter 71.05 RCW, unless the prosecutor objects to the dismissal and provides notice of a motion for an order for competency restoration, in which case the court shall schedule a hearing within seven days to determine whether to enter an order of competency restoration.
+
+    b. At the hearing, the prosecuting attorney must establish that there is a compelling state interest to order competency restoration treatment for the defendant. The court may consider prior criminal history, prior history in treatment, prior history of violence, the quality and severity of the pending charges, any history that suggests whether or not competency restoration treatment is likely to be successful, in addition to the factors listed under RCW 10.77.092. If the prosecuting attorney proves by a preponderance of the evidence that there is a compelling state interest in ordering competency restoration, then the court shall order competency restoration in accordance with subsection (2)(a) of this section.
+
+2. [Empty]
+
+    a. If a court finds pursuant to subsection (1)(b) of this section that there is a compelling state interest in pursuing competency restoration treatment, then the court shall commit the defendant to the custody of the secretary for **inpatient** competency restoration**, or may alternatively order the defendant to receive outpatient competency restoration based** on a recommendation from a forensic navigator and input from the parties.
+
+        i. To be eligible for an order for outpatient competency restoration, a defendant must be clinically appropriate and be willing to:
+
+(A) Adhere to medications or receive prescribed intramuscular medication;
+
+(B) Abstain from alcohol and unprescribed drugs**; and**
+
+(C) **Comply with urinalysis or breathalyzer monitoring if needed**.
+
+        ii. If the court orders inpatient competency restoration, the department shall place the defendant in an appropriate facility of the department for competency restoration under (b) of this subsection.
+
+        iii. If the court orders outpatient competency restoration, the court shall modify conditions of release as needed to authorize the department to place the person in approved housing, which may include access to supported housing, affiliated with a contracted outpatient competency restoration program. The department, in conjunction with the health care authority, must establish rules for conditions of participation in the outpatient competency restoration program, which must include the defendant being subject to medication management and regular urinalysis testing for defendants who have a current substance use disorder diagnosis. The outpatient competency restoration program shall monitor the defendant during the defendant's placement in the program and report any noncompliance or significant changes with respect to the defendant to the department and, if applicable, the forensic navigator.
+
+        iv. If a defendant fails to comply with the restrictions of the outpatient competency restoration program such that restoration is no longer appropriate in that setting or the defendant is no longer clinically appropriate for outpatient competency restoration, the department shall remove the defendant from the outpatient restoration program. The department shall place the defendant instead in an appropriate facility of the department for inpatient competency restoration for no longer than **29** days regardless of any time spent in outpatient competency restoration, in addition to reasonable time for transport to or from the facility. The department shall notify the court and parties of the change in placement before the close of the next judicial day. The court shall schedule a hearing within five days to review the placement and conditions of release of the defendant and issue appropriate orders. The standard of proof shall be a preponderance of the evidence, and the court may in its discretion render its decision based on written submissions, live testimony, or remote testimony.
+
+    v. The court may not issue an order for outpatient competency restoration unless the department certifies that there is an available appropriate outpatient restoration program that has adequate space for the person at the time the order is issued or the court places the defendant under the guidance and control of a professional person identified in the court order.
+
+    b. The placement under (a) of this subsection shall not exceed **29** days if the defendant is ordered to receive inpatient competency restoration, or shall not exceed **90** days if the defendant is ordered to receive outpatient competency restoration. The court may order any combination of this subsection, not to exceed **90** days. This period must be considered to include only the time the defendant is actually at the facility and shall be in addition to reasonable time for transport to or from the facility.
+
+    c. If the court has determined or the parties agree that the defendant is unlikely to regain competency, the court may dismiss the charges without prejudice without ordering the defendant to undergo restoration treatment, in which case the court shall order that the defendant be referred for evaluation for civil commitment in the manner provided in (d) of this subsection.
+
+    d. [Empty]
+
+        i. If the proceedings are dismissed under RCW 10.77.084 and the defendant was on conditional release at the time of dismissal, the court shall order the designated crisis responder within that county to evaluate the defendant pursuant to chapter 71.05 RCW. The evaluation may be conducted in any location chosen by the professional.
+
+        ii. If the defendant was in custody and not on conditional release at the time of dismissal, the defendant shall be detained and sent to an evaluation and treatment facility for up to **72** hours, excluding Saturdays, Sundays, and holidays, for evaluation for purposes of filing a petition under chapter 71.05 RCW. The **72-**hour period shall commence upon the next nonholiday weekday following the court order and shall run to the end of the last nonholiday weekday within the **72-**hour period.
+
+3. If the defendant is charged with a nonfelony crime that is not a serious offense as defined in RCW 10.77.092 and found by the court to be not competent, the court may stay or dismiss proceedings and detain the defendant for sufficient time to allow the designated crisis responder to evaluate the defendant and consider initial detention proceedings under chapter 71.05 RCW. The court must give notice to all parties at least **24** hours before the dismissal of any proceeding under this subsection, and provide an opportunity for a hearing on whether to dismiss the proceedings.
+
+4. If at any time the court dismisses charges under subsections (1) through (3) of this section, the court shall make a finding as to whether the defendant has a history of one or more violent acts. If the court so finds, the defendant is barred from the possession of firearms until a court restores his or her right to possess a firearm under RCW 9.41.047. The court shall state to the defendant and provide written notice that the defendant is barred from the possession of firearms and that the prohibition remains in effect until a court restores his or her right to possess a firearm under RCW 9.41.047.
+

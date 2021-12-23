@@ -35,6 +35,7 @@ The definitions in this section apply throughout this chapter unless the context
 4. A qui tam action must be commenced within 60 days of the date on which the relator receives notice that the agency will not investigate any of the alleged violations; otherwise, a qui tam action must be commenced within 240 days of the date the relator submitted the written notice of the claim. If the agency notifies the relator that it intends to investigate some but not all of the alleged violations, the relator may commence a qui tam action as to the uninvestigated violations at any time but must do so no later than 240 days from the date the relator submitted the written notice of the claim. Any other actionable violations may then be added to the lawsuit within 240 days of the date the relator submitted the written notice. A statute of limitations applicable to a claim in the qui tam action shall be tolled as of the date the relator submits the written notice of the claim to the agency or the date the agency commenced an investigation regarding the same facts and violations alleged in the notice, whichever is earlier.
 
 5. [Empty]
+
     a. No qui tam action may be brought with respect to modifying, revoking, or suspending a license, variance, or permit; or for any violation of a posting, notice, agency reporting, or filing requirement, or solely with respect to a violation of a recordkeeping requirement, except where the requirement involves injury reporting or a safety or health violation.
 
     b. Where an employer has voluntarily entered into consultation under RCW 49.17.250, no qui tam action may be brought with respect to any alleged violation included in the scope of the consultation. An employer who has been notified pursuant to section 5 of this act may not then enter into consultation under RCW 49.17.250 to avoid a qui tam action.
@@ -108,6 +109,7 @@ A qui tam action may be brought to enforce the following laws and all associated
 
 == 49.XXX.7 - TBD
 1. [Empty]
+
     a. Civil penalty amounts recovered in a qui tam action must be distributed as follows:
 
         i. If the agency has not intervened, forty percent to the relator and sixty percent to the agency;

@@ -5,13 +5,13 @@
 The legislature finds that establishing a minimum age for compulsory school attendance recognizes the importance that education has on the future opportunities of children. The legislature further finds that the state currently provides an opportunity for access to education through public, private, and home-based instruction options. The legislature reaffirms its support for these educational options to fit the needs of individual children and families. The legislature also finds that a majority of states require school attendance beginning with children who are five or six years of age. Washington is the only state that requires school attendance beginning with children who are eight years of age. Therefore, the legislature intends to amend the compulsory attendance laws to ensure that every child residing in Washington receives an education beginning by five years of age. 
 
 ## Section 2
-> This section modifies an existing section. Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+> This section modifies existing section [28A.225.010](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
 
 1. All parents in this state of any child **five** years of age and under **18** years of age shall cause such child to attend **either** the public school of the district in which the child resides **or another public school in the state** and such child shall have the responsibility to and therefore shall attend for the full time when such school may be in session unless:
 
     a. The child is attending an approved private school for the same time or is enrolled in an extension program as provided in RCW 28A.195.010(4);
 
-    b. The child is receiving home-based instruction as provided in subsection **(5)** of this section;
+    b. The child is receiving home-based instruction as provided in subsection (5) of this section;
 
     c. The child is attending an education center as provided in chapter 28A.205 RCW;
 
@@ -29,11 +29,11 @@ The legislature finds that establishing a minimum age for compulsory school atte
 
 2. **The requirements in this section do not apply to a child who turns five while enrolled in a school district based on an individual exception for earlier entry under RCW 28A.225.160, an early childhood education and assistance program under chapter 43.216 RCW, a head start program, or other prekindergarten programs.**
 
-**(3) For the purposes of this chapter,** parent  means a parent, guardian, or person having legal custody of a child.
+3. **For the purposes of this chapter,** parent  means a parent, guardian, or person having legal custody of a child.
 
-**(4) For the purposes of this chapter and chapter 28A.200 RCW,** approved private school  shall be one approved under regulations established by the state board of education pursuant to RCW 28A.305.130.
+4. **For the purposes of this chapter and chapter 28A.200 RCW,** approved private school  shall be one approved under regulations established by the state board of education pursuant to RCW 28A.305.130.
 
-**(5)** For the purposes of this chapter and chapter 28A.200 RCW, instruction shall be home-based if it consists of planned and supervised instructional and related educational activities, including a curriculum and instruction in the basic skills of occupational education, science, mathematics, language, social studies, history, health, reading, writing, spelling, and the development of an appreciation of art and music, provided for a number of hours equivalent to the total annual program hours per grade level established for approved private schools under RCW 28A.195.010 and 28A.195.040 and if such activities are:
+5. For the purposes of this chapter and chapter 28A.200 RCW, instruction shall be home-based if it consists of planned and supervised instructional and related educational activities, including a curriculum and instruction in the basic skills of occupational education, science, mathematics, language, social studies, history, health, reading, writing, spelling, and the development of an appreciation of art and music, provided for a number of hours equivalent to the total annual program hours per grade level established for approved private schools under RCW 28A.195.010 and 28A.195.040 and if such activities are:
 
     a. Provided by a parent who is instructing his or her child only and are supervised by a certificated person. A certificated person for purposes of this chapter and chapter 28A.200 RCW shall be a person certified under chapter 28A.410 RCW. For purposes of this section, "supervised by a certificated person" means: The planning by the certificated person and the parent of objectives consistent with this subsection; a minimum each month of an average of one contact hour per week with the child being supervised by the certificated person; and evaluation of such child's progress by the certificated person. The number of children supervised by the certificated person shall not exceed **30** for purposes of this subsection; or
 
@@ -41,21 +41,21 @@ The legislature finds that establishing a minimum age for compulsory school atte
 
     c. Provided by a parent who is deemed sufficiently qualified to provide home-based instruction by the superintendent of the local school district in which the child resides.
 
-**(6)** The legislature recognizes that home-based instruction is less structured and more experiential than the instruction normally provided in a classroom setting. Therefore, the provisions of subsection **(5)** of this section relating to the nature and quantity of instructional and related educational activities shall be liberally construed.
+6. The legislature recognizes that home-based instruction is less structured and more experiential than the instruction normally provided in a classroom setting. Therefore, the provisions of subsection (5) of this section relating to the nature and quantity of instructional and related educational activities shall be liberally construed.
 
 
 ## Section 3
-> This section modifies an existing section. Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+> This section modifies existing section [28A.225.018](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
 
 1. Except as provided in subsection (2) of this section, in the event that a child in elementary school is required to attend school under RCW 28A.225.010  and has five or more excused absences in a single month during the current school year, or **10** or more excused absences in the current school year, the school district shall schedule a conference or conferences with the parent and child at a time reasonably convenient for all persons included for the purpose of identifying the barriers to the child's regular attendance, and the supports and resources that may be made available to the family so that the child is able to regularly attend school. If a regularly scheduled parent-teacher conference day is to take place within **30** days of the absences, the school district may schedule this conference on that day. To satisfy the requirements of this section, the conference must include at least one school district employee such as a nurse, counselor, social worker, teacher, or community human services provider, except in those instances regarding the attendance of a child who has an individualized education program or a plan developed under section 504 of the rehabilitation act of 1973, in which case the reconvening of the team that created the program or plan is required.
 
 2. A conference pursuant to subsection (1) of this section is not required in the event of excused absences for which prior notice has been given to the school or a doctor's note has been provided and an academic plan is put in place so that the child does not fall behind.
 
-**(3) The requirements in this section created by this act take effect August 1, 2022. However, the requirements in this section created by this act take effect August 1, 2023, if a local school district board of directors determines that it is unable to comply with the August 1, 2022, date. Local school district boards of directors who make this determination and consequently delay the effective date of the requirements in this section created by this act for their district, must inform the office of the superintendent of public instruction of their determination.**
+3. **The requirements in this section created by this act take effect August 1, 2022. However, the requirements in this section created by this act take effect August 1, 2023, if a local school district board of directors determines that it is unable to comply with the August 1, 2022, date. Local school district boards of directors who make this determination and consequently delay the effective date of the requirements in this section created by this act for their district, must inform the office of the superintendent of public instruction of their determination.**
 
 
 ## Section 4
-> This section modifies an existing section. Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+> This section modifies existing section [28A.225.020](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
 
 1. If a child required to attend school under RCW 28A.225.010 fails to attend school without valid justification, the public school in which the child is enrolled shall:
 
@@ -76,6 +76,7 @@ The legislature finds that establishing a minimum age for compulsory school atte
 2. For purposes of this chapter, an "unexcused absence" means that a child:
 
     a. [Empty]
+
         i. Has failed to attend the majority of hours or periods in an average school day or has failed to comply with a more restrictive school district policy; and
 
         ii. Has failed to meet the school district's policy for excused absences; or
@@ -84,11 +85,11 @@ The legislature finds that establishing a minimum age for compulsory school atte
 
 3. If a child transfers from one school district to another during the school year, the receiving school or school district shall include the unexcused absences accumulated at the previous school or from the previous school district for purposes of this section**and** RCW 28A.225.030. The sending school district shall provide this information to the receiving school, together with a copy of any previous assessment as required under subsection (1)(c) of this section, history of any best practices or researched-based intervention previously provided to the child by the child's sending school district, and a copy of the most recent truancy information including any online or written acknowledgment by the parent and child, as provided for in RCW 28A.225.005. All school districts must use the standard choice transfer form for releasing a student to a nonresident school district for the purposes of accessing an alternative learning experience program.
 
-**(4) The requirements in this section created by this act take effect August 1, 2022. However, the requirements in this section created by this act take effect August 1, 2023, if a local school district board of directors determines that it is unable to comply with the August 1, 2022, date. Local school district boards of directors who make this determination and consequently delay the effective date of the requirements in this section created by this act for their district, must inform the office of the superintendent of public instruction of their determination.**
+4. **The requirements in this section created by this act take effect August 1, 2022. However, the requirements in this section created by this act take effect August 1, 2023, if a local school district board of directors determines that it is unable to comply with the August 1, 2022, date. Local school district boards of directors who make this determination and consequently delay the effective date of the requirements in this section created by this act for their district, must inform the office of the superintendent of public instruction of their determination.**
 
 
 ## Section 5
-> This section modifies an existing section. Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+> This section modifies existing section [28A.225.025](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
 
 1. For purposes of this chapter, "community engagement board" means a board established pursuant to a memorandum of understanding between a juvenile court and a school district and composed of members of the local community in which the child attends school. Community engagement boards must include members who receive training regarding the identification of barriers to school attendance, the use of the Washington assessment of the risks and needs of students (WARNS) or other assessment tools to identify the specific needs of individual children, cultural responsive interactions, trauma-informed approaches to discipline, evidence-based treatments that have been found effective in supporting at-risk youth and their families, and the specific services and treatment available in the particular school, court, community, and elsewhere. Duties of a community engagement board shall include, but not be limited to: Identifying barriers to school attendance, recommending methods for improving attendance such as connecting students and their families with community services, culturally appropriate promising practices, and evidence-based services such as functional family therapy, suggesting to the school district that the child enroll in another school, an alternative education program, an education center, a skill center, a dropout prevention program, or another public or private educational program, or recommending to the juvenile court that a juvenile be offered the opportunity for placement in a HOPE center or crisis residential center, if appropriate.
 
@@ -96,7 +97,7 @@ The legislature finds that establishing a minimum age for compulsory school atte
 
 
 ## Section 6
-> This section modifies an existing section. Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+> This section modifies existing section [28A.225.030](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
 
 1. If a child under the age of **18** is required to attend school under RCW 28A.225.010 and if the actions taken by a school district under RCW 28A.225.020 are not successful in substantially reducing an enrolled student's absences from public school, after the child's seventh unexcused absence within any month during the current school year and not later than the 15th unexcused absence during the current school year the school district shall file a petition and supporting affidavit for a civil action with the juvenile court **. For a child who is five, six, or seven years of age, the petition must allege a violation of RCW 28A.225.010 by the parent. For a child who is eight years of age and under the age of 17, the petition must allege** a violation of RCW 28A.225.010: (a) By the parent; (b) by the child; or (c) by the parent and the child. The petition must include a list of all interventions that have been attempted as set forth in RCW 28A.225.020, include a copy of any previous truancy assessment completed by the child's current school district, the history of approved best practices intervention or research-based intervention previously provided to the child by the child's current school district, and a copy of the most recent truancy information document provided to the parent, pursuant to RCW 28A.225.005. Except as provided in this subsection, no additional documents need be filed with the petition. Nothing in this subsection requires court jurisdiction to terminate when a child turns seventeen or precludes a school district from filing a petition for a child that is seventeen years of age.
 
@@ -114,11 +115,11 @@ The legislature finds that establishing a minimum age for compulsory school atte
 
 5. Petitions filed under this section may be served by certified mail, return receipt requested. If such service is unsuccessful, or the return receipt is not signed by the addressee, personal service is required.
 
-**(6) The requirements in this section created by this act take effect August 1, 2022. However, the requirements in this section created by this act take effect August 1, 2023, if a local school district board of directors determines that it is unable to comply with the August 1, 2022, date. Local school district boards of directors who make this determination and consequently delay the effective date of the requirements in this section created by this act for their district, must inform the office of the superintendent of public instruction of their determination.**
+6. **The requirements in this section created by this act take effect August 1, 2022. However, the requirements in this section created by this act take effect August 1, 2023, if a local school district board of directors determines that it is unable to comply with the August 1, 2022, date. Local school district boards of directors who make this determination and consequently delay the effective date of the requirements in this section created by this act for their district, must inform the office of the superintendent of public instruction of their determination.**
 
 
 ## Section 7
-> This section modifies an existing section. Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+> This section modifies existing section [28A.225.035](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
 
 1. A petition for a civil action under RCW 28A.225.030  shall consist of a written notification to the court alleging that:
 
@@ -133,6 +134,7 @@ The legislature finds that establishing a minimum age for compulsory school atte
 3. The petition shall set forth facts that support the allegations in this section and shall generally request relief available under this chapter and provide information about what the court might order under RCW 28A.225.090.
 
 4. [Empty]
+
     a. When a petition is filed under RCW 28A.225.030 , it shall initially be stayed by the juvenile court, and the child and the child's parent must be referred to a community engagement board or other coordinated means of intervention as set forth in the memorandum of understanding under RCW 28A.225.026. The community engagement board must provide to the court a description of the intervention and prevention efforts to be employed to substantially reduce the child's unexcused absences, along with a timeline for completion.
 
     b. If a community engagement board or other coordinated means of intervention is not in place as required by RCW 28A.225.026, the juvenile court shall schedule a hearing at which the court shall consider the petition.
@@ -142,6 +144,7 @@ The legislature finds that establishing a minimum age for compulsory school atte
 6. If the community engagement board fails to reach an agreement, or the parent or student does not comply with the agreement within the timeline for completion set by the community engagement board, the community engagement board shall return the case to the juvenile court. The stay of the petition shall be lifted, and the juvenile court shall schedule a hearing at which the court shall consider the petition.
 
 7. [Empty]
+
     a. Notwithstanding the provisions in subsection (4)(a) of this section, a hearing shall not be required if other actions by the court would substantially reduce the child's unexcused absences. Such actions may include referral to an existing community engagement board, use of the Washington assessment of risks and needs of students (WARNS) or other assessment tools to identify the specific needs of individual children, the provision of community-based services, and the provision of evidence-based treatments that have been found to be effective in supporting at-risk youth and their families. When a juvenile court hearing is held, the court shall:
 
         i. Separately notify the child, the parent of the child, and the school district of the hearing. If the parent is not fluent in English, notice should be provided in a language in which the parent is fluent as indicated on the petition pursuant to RCW 28A.225.030(1);
@@ -153,6 +156,7 @@ The legislature finds that establishing a minimum age for compulsory school atte
     b. If the child is not provided with counsel, the advisement of rights must take place in court by means of a colloquy between the court, the child if eight years old or older, and the parent.
 
 8. [Empty]
+
     a. The court may require the attendance of the child if eight years old or older, the parents, and the school district at any hearing on a petition filed under RCW 28A.225.030.
 
     b. The court may not issue a bench warrant for a child for failure to appear at a hearing on an initial truancy petition filed under RCW 28A.225.030. If there has been proper service, the court may instead enter a default order assuming jurisdiction under the terms specified in subsection (12) of this section.
@@ -166,6 +170,7 @@ The legislature finds that establishing a minimum age for compulsory school atte
 12. If the allegations in the petition are established by a preponderance of the evidence, the court shall grant the petition and enter an order assuming jurisdiction to intervene for the period of time determined by the court, after considering the facts alleged in the petition and the circumstances of the juvenile, to most likely cause the juvenile to return to and remain in school while the juvenile is subject to this chapter. In no case may the order expire before the end of the school year in which it is entered.
 
 13. [Empty]
+
     a. If the court assumes jurisdiction, the school district shall periodically report to the court any additional unexcused absences by the child, actions taken by the school district, and an update on the child's academic status in school at a schedule specified by the court.
 
     b. The first report under this subsection (13) must be received no later than three months from the date that the court assumes jurisdiction.
@@ -174,11 +179,11 @@ The legislature finds that establishing a minimum age for compulsory school atte
 
 15. If after a juvenile court assumes jurisdiction in one county the child relocates to another county, the juvenile court in the receiving county shall, upon the request of a school district or parent, assume jurisdiction of the petition filed in the previous county.
 
-**(16) The requirements in this section created by this act take effect August 1, 2022. However, the requirements in this section created by this act take effect August 1, 2023, if a local school district board of directors determines that it is unable to comply with the August 1, 2022, date. Local school district boards of directors who make this determination and consequently delay the effective date of the requirements in this section created by this act for their district, must inform the office of the superintendent of public instruction of their determination.**
+16. **The requirements in this section created by this act take effect August 1, 2022. However, the requirements in this section created by this act take effect August 1, 2023, if a local school district board of directors determines that it is unable to comply with the August 1, 2022, date. Local school district boards of directors who make this determination and consequently delay the effective date of the requirements in this section created by this act for their district, must inform the office of the superintendent of public instruction of their determination.**
 
 
 ## Section 8
-> This section modifies an existing section. Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+> This section modifies existing section [28A.225.090](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
 
 1. A court may order a child subject to a petition under RCW 28A.225.035 to do one or more of the following:
 
@@ -212,9 +217,9 @@ The legislature finds that establishing a minimum age for compulsory school atte
 
 
 ## Section 9
-> This section modifies an existing section. Here is the [modified chapter](rcw/28A_common_school_provisions/28A.200_home-based_instruction.md) for context.
+> This section modifies existing section [28A.200.010](/rcw/28A_common_school_provisions/28A.200_home-based_instruction.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.200_home-based_instruction.md) for context.
 
-1. Each parent whose child is receiving home-based instruction under RCW 28A.225.010**(5)** shall have the duty**, beginning when the child is five years of age,** to:
+1. Each parent whose child is receiving home-based instruction under RCW 28A.225.010(5) shall have the duty**, beginning when the child is five years of age,** to:
 
     a. File annually a signed declaration of intent that he or she is planning to cause his or her child to receive home-based instruction. The statement shall include the name and age of the child, shall specify whether a certificated person will be supervising the instruction, and shall be written in a format prescribed by the superintendent of public instruction. Each parent shall file the statement by September 15th of the school year or within two weeks of the beginning of any public school quarter, trimester, or semester with the superintendent of the public school district within which the parent resides or the district that accepts the transfer, and the student shall be deemed a transfer student of the nonresident district. Parents may apply for transfer under RCW 28A.225.220; **and**
 
@@ -222,13 +227,13 @@ The legislature finds that establishing a minimum age for compulsory school atte
 
 **.**
 
-**(2) Each parent whose child is receiving home-based instruction as defined in RCW 28A.225.010, and is eight years old or older shall have the duty to ensure** that a standardized achievement test approved by the state board of education is administered annually to the child by a qualified individual or that an annual assessment of the student's academic progress is written by a certificated person who is currently working in the field of education. The state board of education shall not require these children to meet the student learning goals, learn the state learning standards, or take the assessments under RCW 28A.655.070. The standardized test administered or the annual academic progress assessment written shall be made a part of the child's permanent records. If, as a result of the annual test or assessment, it is determined that the child is not making reasonable progress consistent with his or her age or stage of development, the parent shall make a good faith effort to remedy any deficiency.
+2. **Each parent whose child is receiving home-based instruction as defined in RCW 28A.225.010, and is eight years old or older shall have the duty to ensure** that a standardized achievement test approved by the state board of education is administered annually to the child by a qualified individual or that an annual assessment of the student's academic progress is written by a certificated person who is currently working in the field of education. The state board of education shall not require these children to meet the student learning goals, learn the state learning standards, or take the assessments under RCW 28A.655.070. The standardized test administered or the annual academic progress assessment written shall be made a part of the child's permanent records. If, as a result of the annual test or assessment, it is determined that the child is not making reasonable progress consistent with his or her age or stage of development, the parent shall make a good faith effort to remedy any deficiency.
 
-**(3)** Failure of a parent to comply with the duties in this section shall be deemed a failure of such parent's child to attend school without valid justification under RCW 28A.225.020. Parents who do comply with the duties set forth in this section shall be presumed to be providing home-based instruction as set forth in RCW 28A.225.010**(5)**.
+3. Failure of a parent to comply with the duties in this section shall be deemed a failure of such parent's child to attend school without valid justification under RCW 28A.225.020. Parents who do comply with the duties set forth in this section shall be presumed to be providing home-based instruction as set forth in RCW 28A.225.010(5).
 
 
 ## Section 10
-> This section modifies an existing section. Here is the [modified chapter](rcw/28A_common_school_provisions/28A.200_home-based_instruction.md) for context.
+> This section modifies existing section [28A.200.020](/rcw/28A_common_school_provisions/28A.200_home-based_instruction.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.200_home-based_instruction.md) for context.
 
 The state hereby recognizes that parents who are causing their children to receive home-based instruction **as defined in** RCW 28A.225.010 shall be subject only to those minimum state laws and regulations which are necessary to insure that a sufficient basic educational opportunity is provided to the children receiving such instruction. Therefore, all decisions relating to philosophy or doctrine, selection of books, teaching materials and curriculum, and methods, timing, and place in the provision or evaluation of home-based instruction shall be the responsibility of the parent except for matters specifically referred to in this chapter.
 

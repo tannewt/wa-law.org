@@ -1,0 +1,10 @@
+# Senate Bill 5227
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5227.xml)
+## Section 1
+The legislature finds that a postsecondary credential such as a degree, apprenticeship, or certificate is increasingly necessary to obtain a job that offers a good salary and advancement opportunities and that increasing the number of students in Washington who obtain such a credential is essential to the state's economic success. The legislature also recognizes that equity gaps remain among postsecondary students and that those gaps particularly impact students from historically marginalized communities.
+The legislature finds that developing and maintaining a culture of belonging and support for students, faculty, and staff at institutions of higher education is essential to student success, and that faculty and staff play a key role. The legislature therefore seeks to ensure that public institutions of higher education provide faculty and staff, as well as students, with training to give them tools to address matters related to antiracism, diversity, equity, and inclusion.
+The legislature further finds it necessary to regularly analyze the impact of that training on the campus community and to identify any measures needed to increase diversity, equity, and inclusion. Accordingly, the legislature intends that each public institution of higher education annually assess the learning, working, and living environment on campus that students, faculty, and staff experience to better understand the evolving state of diversity, equity, and inclusion.
+
+## Section 5
+If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state, the conflicting part of this act is inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and this finding does not affect the operation of the remainder of this act in its application to the agencies concerned. Rules adopted under this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state.

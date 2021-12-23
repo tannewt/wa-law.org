@@ -1,0 +1,8 @@
+# SB 5101 - Emerg. mgmt. council/tribes
+*Status: Effective date 7/25/2021.*
+Establishing tribal representation on the emergency management council.
+
+## Revisions
+* [Original Bill](1/)
+* [Bill as Passed Legislature](1/)
+* [Session Law](1/)

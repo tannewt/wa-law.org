@@ -1,0 +1,86 @@
+# House Bill 1616
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1616.xml)
+## Section 1
+> This section modifies existing section [70.170.020](/rcw/70_public_health_and_safety/70.170_health_data_and_charity_care.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.170_health_data_and_charity_care.md) for context.
+
+As used in this chapter:
+
+1. "Department" means department of health.
+
+2. "Hospital" means any health care institution which is required to qualify for a license under RCW 70.41.020(8); or as a psychiatric hospital under chapter 71.12 RCW.
+
+3. "Secretary" means secretary of health.
+
+4. "Charity care" means medically necessary  health care rendered to indigent persons **at a hospital or clinic affiliated with a hospital** when third-party coverage, if any, has been exhausted, to the extent that the persons are unable to pay for the care or to pay deductibles or coinsurance amounts required by a third-party payer, as determined by the department.
+
+5. **"Indigent persons" are those patients or their guarantors whose income is not more than 400 percent of the federal poverty standard, adjusted for family size.**
+
+6. "Third-party coverage" means an obligation on the part of an insurance company, health care service contractor, health maintenance organization, group health plan, government program, tribal health benefits, or health care sharing ministry as defined in 26 U.S.C. Sec. 5000A to pay for the care of covered patients and services, and may include settlements, judgments, or awards actually received related to the negligent acts of others which have resulted in the medical condition for which the patient has received hospital health care service. The pendency of such settlements, judgments, or awards must not stay hospital obligations to consider an eligible patient for charity care.
+
+7. "Special studies" means studies which have not been funded through the department's biennial or other legislative appropriations.
+
+
+## Section 2
+> This section modifies existing section [70.170.060](/rcw/70_public_health_and_safety/70.170_health_data_and_charity_care.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.170_health_data_and_charity_care.md) for context.
+
+1. No hospital or its medical staff shall adopt or maintain admission practices or policies which result in:
+
+    a. A significant reduction in the proportion of patients who have no third-party coverage and who are unable to pay for hospital services;
+
+    b. A significant reduction in the proportion of individuals admitted for inpatient hospital services for which payment is, or is likely to be, less than the anticipated charges for or costs of such services; or
+
+    c. The refusal to admit patients who would be expected to require unusually costly or prolonged treatment for reasons other than those related to the appropriateness of the care available at the hospital.
+
+2. No hospital shall adopt or maintain practices or policies which would deny access to emergency care based on ability to pay. No hospital which maintains an emergency department shall transfer a patient with an emergency medical condition or who is in active labor unless the transfer is performed at the request of the patient or is due to the limited medical resources of the transferring hospital. Hospitals must follow reasonable procedures in making transfers to other hospitals including confirmation of acceptance of the transfer by the receiving hospital.
+
+3. The department shall develop definitions by rule, as appropriate, for subsection (1) of this section and, with reference to federal requirements, subsection (2) of this section. The department shall monitor hospital compliance with subsections (1) and (2) of this section. The department shall report individual instances of possible noncompliance to the state attorney general or the appropriate federal agency.
+
+4. The department shall establish and maintain by rule, consistent with the definition of charity care in RCW 70.170.020, the following:
+
+    a. Uniform procedures, data requirements, and criteria for identifying patients receiving charity care; **and**
+
+    b. A definition of residual bad debt including reasonable and uniform standards for collection procedures to be used in efforts to collect the unpaid portions of hospital charges that are the patient's responsibility.
+
+5. For the purpose of providing charity care, each hospital shall develop, implement, and maintain a  policy which shall enable **indigent persons** access to **charity care. At a minimum, hospitals' charity care policies shall grant charity care per the following guidelines:**
+
+    a. **All patients and their guarantors whose income is not more than 300 percent of the federal poverty standard, adjusted for family size, shall be deemed charity care patients for the full amount of their hospital charges;**
+
+    b. **All patients and their guarantors whose income is between 301 and 350 percent of the federal poverty standard, adjusted for family size, shall be entitled to a 75 percent discount for the full amount of their hospital charges;**
+
+    c. **All patients and their guarantors whose income is between 351 percent and 400 percent of the federal poverty standard, adjusted for family size, shall be entitled to a 50 percent discount for the full amount of their hospital** charges.
+
+6. Each hospital shall post and prominently display notice of charity care availability. Notice must be posted in all languages spoken by more than ten percent of the population of the hospital service area. Notice must be displayed in at least the following locations:
+
+    a. Areas where patients are admitted or registered;
+
+    b. Emergency departments, if any; and
+
+    c. Financial service or billing areas where accessible to patients.
+
+7. Current versions of the hospital's charity care policy, a plain language summary of the hospital's charity care policy, and the hospital's charity care application form must be available on the hospital's website. The summary and application form must be available in all languages spoken by more than ten percent of the population of the hospital service area.
+
+8. [Empty]
+
+    a. All hospital billing statements and other written communications concerning billing or collection of a hospital bill by a hospital must include the following or a substantially similar statement prominently displayed on the first page of the statement in both English and the second most spoken language in the hospital's service area:
+
+You may qualify for free care or a discount on your hospital bill, whether or not you have insurance. Please contact our financial assistance office at [website] and [phone number].
+
+    b. Nothing in (a) of this subsection requires any hospital to alter any preprinted hospital billing statements existing as of October 1, 2018.
+
+9. Hospital obligations under federal and state laws to provide meaningful access for limited English proficiency and non-English-speaking patients apply to information regarding billing and charity care. Hospitals shall develop standardized training programs on the hospital's charity care policy and use of interpreter services, and provide regular training for appropriate staff, including the relevant and appropriate staff who perform functions relating to registration, admissions, or billing.
+
+10. Each hospital shall make every reasonable effort to determine:
+
+    a. The existence or nonexistence of private or public sponsorship which might cover in full or part the charges for care rendered by the hospital to a patient;
+
+    b. The annual family income of the patient as classified under federal poverty income guidelines as of the time the health care services were provided, or at the time of application for charity care if the application is made within two years of the time of service, the patient has been making good faith efforts towards payment of health care services rendered, and the patient demonstrates eligibility for charity care; and
+
+    c. The eligibility of the patient for charity care as defined in this chapter and in accordance with hospital policy. An initial determination of sponsorship status shall precede collection efforts directed at the patient.
+
+11. At the hospital's discretion, a hospital may consider applications for charity care at any time, including any time there is a change in a patient's financial circumstances.
+
+12. The department shall monitor the distribution of charity care among hospitals, with reference to factors such as relative need for charity care in hospital service areas and trends in private and public health coverage. The department shall prepare reports that identify any problems in distribution which are in contradiction of the intent of this chapter. The report shall include an assessment of the effects of the provisions of this chapter on access to hospital and health care services, as well as an evaluation of the contribution of all purchasers of care to hospital charity care.
+
+13. The department shall issue a report on the subjects addressed in this section at least annually, with the first report due on July 1, 1990.
+

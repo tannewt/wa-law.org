@@ -7,11 +7,12 @@ This flexibility has allowed school districts to creatively use the resources at
 With this act, the legislature intends to preserve this principle of flexibility for qualifying transportation services during a future local, state, or national emergency.
 
 ## Section 3
-> This section modifies an existing section. Here is the [modified chapter](rcw/28A_common_school_provisions/28A.160_student_transportation.md) for context.
+> This section modifies existing section [28A.160.170](/rcw/28A_common_school_provisions/28A.160_student_transportation.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.160_student_transportation.md) for context.
 
 Each district shall submit three times each year to the superintendent of public instruction during October, February, and May of each year a report containing the following:
 
 1. [Empty]
+
     a. The number of eligible students transported to and from school as provided for in RCW 28A.160.150, along with identification of stop locations and school locations, and (b) the number of miles driven for pupil transportation services as authorized in RCW 28A.160.150 the previous school year; and
 
 2. Other operational data and descriptions as required by the superintendent to determine allocation requirements for each district. The superintendent shall require that districts separate the costs of operating the program for the transportation of eligible students to and from school as defined by RCW 28A.160.160(3) **,** non-to-and-from-school pupil transportation costs**, and costs to provide expanded services under section 2(1) of this act** in the annual financial statement. The cost, quantity, and type of all fuel purchased by school districts for use in to-and-from-school transportation shall be included in the annual financial statement.

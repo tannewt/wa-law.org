@@ -1,0 +1,136 @@
+# Senate Bill 5137
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5137.xml)
+## Section 1
+> This section modifies existing section [51.32.072](/rcw/51_industrial_insurance/51.32_compensation—right_to_and_amount.md). Here is the [modified chapter](rcw/51_industrial_insurance/51.32_compensation—right_to_and_amount.md) for context.
+
+1. Notwithstanding any other provision of law, every surviving spouse and every permanently totally disabled worker or temporarily totally disabled worker, if such worker was unmarried at the time of the worker's injury or was then married but the marriage was later terminated by judicial action, receiving a pension or compensation for temporary total disability under this title pursuant to compensation schedules in effect prior to July 1, 1971, shall after July 1, 1975, through June 30, 2011, be paid fifty percent of the average monthly wage in the state as computed under RCW 51.08.018 per month and an amount equal to five percent of such average monthly wage per month to such totally disabled worker if married at the time of the worker's injury and the marriage was not later terminated by judicial action, and an additional two percent of such average monthly wage for each child of such totally disabled worker at the time of injury in the legal custody of such totally disabled worker or such surviving spouse up to a maximum of five such children. The monthly payments such surviving spouse or totally disabled worker are receiving pursuant to compensation schedules in effect prior to July 1, 1971 shall be deducted from the monthly payments above specified.
+
+Where such a surviving spouse has remarried, or where any such child of such worker, whether living or deceased, is not in the legal custody of such worker or such surviving spouse there shall be paid for the benefit of and on account of each such child a sum equal to two percent of such average monthly wage up to a maximum of five such children in addition to any payments theretofore paid under compensation schedules in effect prior to July 1, 1971 for the benefit of and on account of each such child. In the case of any child or children of a deceased worker not leaving a surviving spouse or where the surviving spouse has later died, there shall be paid for the benefit of and on account of each such child a sum equal to two percent of such average monthly wage up to a maximum of five such children in addition to any payments theretofore paid under such schedules for the benefit of and on account of each such child.
+
+If the character of the injury or occupational disease is such as to render the worker so physically helpless as to require the hiring of the services of an attendant, the department shall make monthly payments to such attendant for such services as long as such requirement continues but such payments shall not obtain or be operative while the worker is receiving care under or pursuant to the provisions of this title except for care granted at the discretion of the supervisor pursuant to RCW 51.36.010: PROVIDED, That such payments shall not be considered compensation nor shall they be subject to any limitation upon total compensation payments.
+
+No part of such additional payments shall be payable from the accident fund.
+
+The director shall pay monthly from the supplemental pension fund such an amount as will, when added to the compensation theretofore paid under compensation schedules in effect prior to July 1, 1971, equal the amounts hereinabove specified.
+
+In cases where money has been or shall be advanced to any such person from the pension reserve, the additional amount to be paid under this section shall be reduced by the amount of monthly pension which was or is predicated upon such advanced portion of the pension reserve.
+
+2. In addition to the adjustment under subsection (1) of this section, further adjustments shall be made beginning July 1, 2012, and on each July 1st thereafter**through June 30, 2021; the** adjustment shall be the percentage change in the average monthly wage in the state under RCW 51.08.018 for the preceding calendar year, rounded to the nearest whole cent. **Further adjustments made beginning July 1, 2022, shall be the percentage change in the consumer price index for the preceding calendar year, not to exceed three percent. For purposes of this subsection, "consumer price index" means the consumer price index for the Seattle, Washington area for urban wage earners and clerical workers, all items, compiled by the bureau of labor statistics, United States department of labor.**
+
+3. Compensation due for July 1, 2011, through June 30, 2012, must be paid based on the average monthly wage in the state as computed under RCW 51.08.018 on July 1, 2010. **Compensation due for July 1, 2021, through June 30, 2022, must be paid based on the average monthly wage in the state as computed under RCW 51.08.018 on July 1, 2020.**
+
+
+## Section 2
+> This section modifies existing section [51.32.075](/rcw/51_industrial_insurance/51.32_compensation—right_to_and_amount.md). Here is the [modified chapter](rcw/51_industrial_insurance/51.32_compensation—right_to_and_amount.md) for context.
+
+The compensation or death benefits payable pursuant to the provisions of this chapter for temporary total disability, permanent total disability, or death arising out of injuries or occupational diseases shall be adjusted as follows:
+
+1. On July 1, 1982, there shall be an adjustment for those whose right to compensation was established on or after July 1, 1971, and before July 1, 1982. The adjustment shall be determined by multiplying the amount of compensation to which they are entitled by a fraction, the denominator of which shall be the average monthly wage in the state under RCW 51.08.018 for the fiscal year in which such person's right to compensation was established, and the numerator of which shall be the average monthly wage in the state under RCW 51.08.018 on July 1, 1982.
+
+2. In addition to the adjustment established by subsection (1) of this section, there shall be another adjustment on July 1, 1983, for those whose right to compensation was established on or after July 1, 1971, and before July 1983, which shall be determined by multiplying the amount of compensation to which they are entitled by a fraction, the denominator of which shall be the average monthly wage in the state under RCW 51.08.018 for the fiscal year in which such person's right to compensation was established, and the numerator of which shall be the average monthly wage in the state under RCW 51.08.018 on July 1, 1983.
+
+3. In addition to the adjustments under subsections (1) and (2) of this section, further adjustments shall be made beginning on July 1, 1984, and on each July 1st thereafter through July 1, 2010, for those whose right to compensation was established on or after July 1, 1971. The adjustment shall be determined by multiplying the amount of compensation to which they are entitled by a fraction, the denominator of which shall be the average monthly wage in the state under RCW 51.08.018 for the fiscal year in which such person's right to compensation was established, and the numerator of which shall be the average monthly wage in the state under RCW 51.08.018 on July 1st of the year in which the adjustment is being made. The department or self-insurer shall adjust the resulting compensation rate to the nearest whole cent, not to exceed the average monthly wage in the state as computed under RCW 51.08.018.
+
+4. In addition to the adjustments under subsections (1), (2), and (3) of this section, **for those whose right to compensation was established on or after July 1, 1971,** further adjustments shall be made beginning July 1, 2012, and on each July 1st thereafter **through June 30, 2021, and the** adjustment shall be the percentage change in the average monthly wage in the state under RCW 51.08.018 for the preceding calendar year, rounded to the nearest whole cent. **Further adjustments made beginning July 1, 2022, shall be the percentage change in the consumer price index for the preceding calendar year, not to exceed three percent. For purposes of this subsection, "consumer price index" means the consumer price index for the Seattle, Washington area for urban wage earners and clerical workers, all items, compiled by the bureau of labor statistics, United States department of labor.**
+
+5. For claims whose right to compensation was established on or after July 1, 2011, no adjustment shall be made under this subsection until the second July 1st following the date of injury or occupational disease manifestation.
+
+
+## Section 3
+> This section modifies existing section [51.32.090](/rcw/51_industrial_insurance/51.32_compensation—right_to_and_amount.md). Here is the [modified chapter](rcw/51_industrial_insurance/51.32_compensation—right_to_and_amount.md) for context.
+
+1. When the total disability is only temporary, the schedule of payments contained in RCW 51.32.060 (1) and (2) shall apply, so long as the total disability continues.
+
+2. Any compensation payable under this section for children not in the custody of the injured worker as of the date of injury shall be payable only to such person as actually is providing the support for such child or children pursuant to the order of a court of record providing for support of such child or children.
+
+3. [Empty]
+
+    a. As soon as recovery is so complete that the present earning power of the worker, at any kind of work, is restored to that existing at the time of the occurrence of the injury, the payments shall cease. If and so long as the present earning power is only partially restored, the payments shall:
+
+        i. For claims for injuries that occurred before May 7, 1993, continue in the proportion which the new earning power shall bear to the old; or
+
+        ii. For claims for injuries occurring on or after May 7, 1993, equal eighty percent of the actual difference between the worker's present wages and earning power at the time of injury, but: (A) The total of these payments and the worker's present wages may not exceed one hundred fifty percent of the average monthly wage in the state as computed under RCW 51.08.018; (B) the payments may not exceed one hundred percent of the entitlement as computed under subsection (1) of this section; and (C) the payments may not be less than the worker would have received if (a)(i) of this subsection had been applicable to the worker's claim.
+
+    b. No compensation shall be payable under this subsection (3) unless the loss of earning power shall exceed five percent.
+
+    c. The prior closure of the claim or the receipt of permanent partial disability benefits shall not affect the rate at which loss of earning power benefits are calculated upon reopening the claim.
+
+4. [Empty]
+
+    a. The legislature finds that long-term disability and the cost of injuries is significantly reduced when injured workers remain at work following their injury. To encourage employers at the time of injury to provide light duty or transitional work for their workers, wage subsidies and other incentives are made available to employers insured with the department.
+
+    b. Whenever the employer of injury requests that a worker who is entitled to temporary total disability under this chapter be certified by a physician or licensed advanced registered nurse practitioner as able to perform available work other than his or her usual work, the employer shall furnish to the physician or licensed advanced registered nurse practitioner, with a copy to the worker, a statement describing the work available with the employer of injury in terms that will enable the physician or licensed advanced registered nurse practitioner to relate the physical activities of the job to the worker's disability. The physician or licensed advanced registered nurse practitioner shall then determine whether the worker is physically able to perform the work described. The worker's temporary total disability payments shall continue until the worker is released by his or her physician or licensed advanced registered nurse practitioner for the work, and begins the work with the employer of injury. If the work thereafter comes to an end before the worker's recovery is sufficient in the judgment of his or her physician or licensed advanced registered nurse practitioner to permit him or her to return to his or her usual job, or to perform other available work offered by the employer of injury, the worker's temporary total disability payments shall be resumed. Should the available work described, once undertaken by the worker, impede his or her recovery to the extent that in the judgment of his or her physician or licensed advanced registered nurse practitioner he or she should not continue to work, the worker's temporary total disability payments shall be resumed when the worker ceases such work.
+
+    c. To further encourage employers to maintain the employment of their injured workers, an employer insured with the department and that offers work to a worker pursuant to this subsection (4) shall be eligible for reimbursement of the injured worker's wages for light duty or transitional work equal to fifty percent of the basic, gross wages paid for that work, for a maximum of sixty-six workdays within a consecutive twenty-four month period. In no event may the wage subsidies paid to an employer on a claim exceed ten thousand dollars. Wage subsidies shall be calculated using the worker's basic hourly wages or basic salary, and no subsidy shall be paid for any other form of compensation or payment to the worker such as tips, commissions, bonuses, board, housing, fuel, health care, dental care, vision care, per diem, reimbursements for work-related expenses, or any other payments. An employer may not, under any circumstances, receive a wage subsidy for a day in which the worker did not actually perform any work, regardless of whether or not the employer paid the worker wages for that day.
+
+    d. If an employer insured with the department offers a worker work pursuant to this subsection (4) and the worker must be provided with training or instruction to be qualified to perform the offered work, the employer shall be eligible for a reimbursement from the department for any tuition, books, fees, and materials required for that training or instruction, up to a maximum of one thousand dollars. Reimbursing an employer for the costs of such training or instruction does not constitute a determination by the department that the worker is eligible for vocational services authorized by RCW 51.32.095 and 51.32.099.
+
+    e. If an employer insured with the department offers a worker work pursuant to this subsection (4), and the employer provides the worker with clothing that is necessary to allow the worker to perform the offered work, the employer shall be eligible for reimbursement for such clothing from the department, up to a maximum of four hundred dollars. However, an employer shall not receive reimbursement for any clothing it provided to the worker that it normally provides to its workers. The clothing purchased for the worker shall become the worker's property once the work comes to an end.
+
+    f. If an employer insured with the department offers a worker work pursuant to this subsection (4) and the worker must be provided with tools or equipment to perform the offered work, the employer shall be eligible for a reimbursement from the department for such tools and equipment and related costs as determined by department rule, up to a maximum of two thousand five hundred dollars. An employer shall not be reimbursed for any tools or equipment purchased prior to offering the work to the worker pursuant to this subsection (4). An employer shall not be reimbursed for any tools or equipment that it normally provides to its workers. The tools and equipment shall be the property of the employer.
+
+    g. An employer may offer work to a worker pursuant to this subsection (4) more than once, but in no event may the employer receive wage subsidies for more than sixty-six days of work in a consecutive twenty-four month period under one claim. An employer may continue to offer work pursuant to this subsection (4) after the worker has performed sixty-six days of work, but the employer shall not be eligible to receive wage subsidies for such work.
+
+    h. An employer shall not receive any wage subsidies or reimbursement of any expenses pursuant to this subsection (4) unless the employer has completed and submitted the reimbursement request on forms developed by the department, along with all related information required by department rules. No wage subsidy or reimbursement shall be paid to an employer who fails to submit a form for such payment within one year of the date the work was performed. In no event shall an employer receive wage subsidy payments or reimbursements of any expenses pursuant to this subsection (4) unless the worker's physician or licensed advanced registered nurse practitioner has restricted him or her from performing his or her usual work and the worker's physician or licensed advanced registered nurse practitioner has released him or her to perform the work offered.
+
+    i. Payments made under (b) through (g) of this subsection are subject to penalties under RCW 51.32.240(5) in cases where the funds were obtained through willful misrepresentation.
+
+    j. Once the worker returns to work under the terms of this subsection (4), he or she shall not be assigned by the employer to work other than the available work described without the worker's written consent, or without prior review and approval by the worker's physician or licensed advanced registered nurse practitioner. An employer who directs a claimant to perform work other than that approved by the attending physician and without the approval of the worker's physician or licensed advanced registered nurse practitioner shall not receive any wage subsidy or other reimbursements for such work.
+
+    k. If the worker returns to work under this subsection (4), any employee health and welfare benefits that the worker was receiving at the time of injury shall continue or be resumed at the level provided at the time of injury. Such benefits shall not be continued or resumed if to do so is inconsistent with the terms of the benefit program, or with the terms of the collective bargaining agreement currently in force.
+
+    l. In the event of any dispute as to the validity of the work offered or as to the worker's ability to perform the available work offered by the employer, the department shall make the final determination pursuant to an order that contains the notice required by RCW 51.52.060 and that is subject to appeal subject to RCW 51.52.050.
+
+5. An employer's experience rating shall not be affected by the employer's request for or receipt of wage subsidies.
+
+6. The department shall create a Washington stay-at-work account which shall be funded by assessments of employers insured through the state fund for the costs of the payments authorized by subsection (4) of this section and for the cost of creating a reserve for anticipated liabilities. Employers may collect up to one-half the fund assessment from workers.
+
+7. No worker shall receive compensation for or during the day on which injury was received or the three days following the same, unless his or her disability shall continue for a period of fourteen consecutive calendar days from date of injury: PROVIDED, That attempts to return to work in the first fourteen days following the injury shall not serve to break the continuity of the period of disability if the disability continues fourteen days after the injury occurs.
+
+8. [Empty]
+
+        i. Should a worker suffer a temporary total disability and should his or her employer at the time of the injury continue to pay him or her the wages which he or she was earning at the time of such injury, such injured worker shall not receive any payment provided in subsection (1) of this section during the period his or her employer shall so pay such wages: PROVIDED, That holiday pay, vacation pay, sick leave, or other similar benefits shall not be deemed to be payments by the employer for the purposes of this subsection.
+
+9. In no event shall the monthly payments provided in this section:
+
+    a. [Empty]
+
+        i. Exceed the applicable percentage of the average monthly wage in the state as computed under the provisions of RCW 51.08.018 as follows:
+
+AFTER
+
+PERCENTAGE
+
+June 30, 1993
+
+105%
+
+June 30, 1994
+
+110%
+
+June 30, 1995
+
+115%
+
+June 30, 1996
+
+120%
+
+        ii. **For payments made from July 1, 2021, to June 30, 2022, the applicable percentage shall be applied to the average monthly wage as computed on July 1, 2020.**
+
+    b. **For purposes of this section, beginning July 1, 2021, annual increases in the average monthly wage in the state as computed under RCW 51.08.018 shall not exceed three percent.**
+
+    c. For dates of injury or disease manifestation after July 1, 2008, be less than fifteen percent of the average monthly wage in the state as computed under RCW 51.08.018 plus an additional ten dollars per month if the worker is married and an additional ten dollars per month for each child of the worker up to a maximum of five children. However, if the monthly payment computed under this subsection (9)(c) is greater than one hundred percent of the wages of the worker as determined under RCW 51.08.178, the monthly payment due to the worker shall be equal to the greater of the monthly wages of the worker or the minimum benefit set forth in this section on June 30, 2008.
+
+10. If the supervisor of industrial insurance determines that the worker is voluntarily retired and is no longer attached to the workforce, benefits shall not be paid under this section.
+
+11. The department shall adopt rules as necessary to implement this section.
+
+
+## Section 4
+> This section modifies existing section [51.08.018](/rcw/51_industrial_insurance/51.08_definitions.md). Here is the [modified chapter](rcw/51_industrial_insurance/51.08_definitions.md) for context.
+
+For purposes of this title, **except for the cap on annual increases set forth in RCW 51.32.090,** the average monthly wage in the state shall be the average annual wage as determined under RCW 50.04.355 as now or hereafter amended divided by twelve.
+

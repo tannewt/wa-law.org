@@ -1,0 +1,5 @@
+# Senate Bill 5421
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5421.xml)
+## Section 1
+The legislature finds that nontribal commercial and sport fishers depend on the department of fish and wildlife to negotiate for salmon fisheries. The 1985 Puget Sound management plan articulates a dispute resolution process for the department and the Puget Sound treaty tribes to foster the voluntary, informal settlement of disputes. The legislature finds that while there is a process in federal court for the state to resolve its disputes with the tribes, there is currently no process for commercial salmon fishers to raise and resolve their disputes. Commercial fishers would like the opportunity to voice their perspectives in a controlled environment focused on dispute resolution. The legislature finds that a salmon fisheries dispute resolution board consisting of nontribal commercial and tribal fishers would provide a forum to review and discuss the fishery policies and allocation set under the salmon management plan involving nontribal salmon fisheries and allocation.

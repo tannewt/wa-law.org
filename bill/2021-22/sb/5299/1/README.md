@@ -2,7 +2,7 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5299.SL.xml)
 ## Section 1
-> This section modifies an existing section. Here is the [modified chapter](rcw/28A_common_school_provisions/28A.230_compulsory_coursework_and_activities.md) for context.
+> This section modifies existing section [28A.230.300](/rcw/28A_common_school_provisions/28A.230_compulsory_coursework_and_activities.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.230_compulsory_coursework_and_activities.md) for context.
 
 1. Beginning no later than the 2022-23 school year, each school district that operates a high school must, at a minimum, provide an opportunity to access an elective computer science course that is available to all high school students. School districts are encouraged to consider community-based or public-private partnerships in establishing and administering a course, but any course offered in accordance with this section must be aligned to the state learning standards for computer science or mathematics.
 
@@ -20,19 +20,21 @@
 
     b. Course equivalency requirements adopted by the office of the superintendent of public instruction to implement this section.
 
-**(4)(a) For purposes of meeting graduation requirements under RCW 28A.230.090, a student may substitute a computer science course aligned to state computer science learning standards as an alternative to a third year mathematics or third year science course if:**
+4. [Empty]
 
-**(i) Prior to the substitution, the school counselor provides the student and the student's parent or guardian with written notification of the consequences of the substitution on postsecondary opportunities;**
+    a. **For purposes of meeting graduation requirements under RCW 28A.230.090, a student may substitute a computer science course aligned to state computer science learning standards as an alternative to a third year mathematics or third year science course if:**
 
-**(ii) The student, the student's parent or guardian, and the student's school counselor or principal agree to the substitution; and**
+        i. **Prior to the substitution, the school counselor provides the student and the student's parent or guardian with written notification of the consequences of the substitution on postsecondary opportunities;**
 
-**(iii) The substitution is aligned with the student's high school and beyond plan.**
+        ii. **The student, the student's parent or guardian, and the student's school counselor or principal agree to the substitution; and**
 
-**(b) A substitution permitted under this subsection (4) may only be used once per student.**
+        iii. **The substitution is aligned with the student's high school and beyond plan.**
+
+    b. **A substitution permitted under this subsection (4) may only be used once per student.**
 
 
 ## Section 2
-> This section modifies an existing section. Here is the [modified chapter](rcw/28A_common_school_provisions/28A.230_compulsory_coursework_and_activities.md) for context.
+> This section modifies existing section [28A.230.090](/rcw/28A_common_school_provisions/28A.230_compulsory_coursework_and_activities.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.230_compulsory_coursework_and_activities.md) for context.
 
 1. The state board of education shall establish high school graduation requirements or equivalencies for students, except as provided in RCW 28A.230.122 and 28A.655.250 and except those equivalencies established by local high schools or school districts under RCW 28A.230.097. The purpose of a high school diploma is to declare that a student is ready for success in postsecondary education, gainful employment, and citizenship, and is equipped with the skills to be a lifelong learner.
 
@@ -41,6 +43,7 @@
     b. Except as provided otherwise in this subsection, the certificate of academic achievement requirements under RCW 28A.655.061 or the certificate of individual achievement requirements under RCW 28A.155.045 are required for graduation from a public high school but are not the only requirements for graduation. The requirement to earn a certificate of academic achievement to qualify for graduation from a public high school concludes with the graduating class of 2019. The obligation of qualifying students to earn a certificate of individual achievement as a prerequisite for graduation from a public high school concludes with the graduating class of 2021.
 
     c. [Empty]
+
         i. Each student must have a high school and beyond plan to guide the student's high school experience and inform course taking that is aligned with the student's goals for education or training and career after high school.
 
         ii.(A) A high school and beyond plan must be initiated for each student during the seventh or eighth grade. In preparation for initiating that plan, each student must first be administered a career interest and skills inventory.
@@ -86,6 +89,7 @@
     d. Any decision on whether a student has met the state board's high school graduation requirements for a high school and beyond plan shall remain at the local level. Effective with the graduating class of 2015, the state board of education may not establish a requirement for students to complete a culminating project for graduation. A district may establish additional, local requirements for a high school and beyond plan to serve the needs and interests of its students and the purposes of this section.
 
     e. [Empty]
+
         i. The state board of education shall adopt rules to implement the career and college ready graduation requirement proposal adopted under board resolution on November 10, 2010, and revised on January 9, 2014, to take effect beginning with the graduating class of 2019 or as otherwise provided in this subsection (1)(e). The rules must include authorization for a school district to waive up to two credits for individual students based on a student's circumstances, provided that none of the waived credits are identified as mandatory core credits by the state board of education. School districts must adhere to written policies authorizing the waivers that must be adopted by each board of directors of a school district that grants diplomas. The rules must also provide that the content of the third credit of mathematics and the content of the third credit of science may be chosen by the student based on the student's interests and high school and beyond plan with agreement of the student's parent or guardian or agreement of the school counselor or principal**, or as provided in RCW 28A.230.300(4)**.
 
         ii. School districts may apply to the state board of education for a waiver to implement the career and college ready graduation requirement proposal beginning with the graduating class of 2020 or 2021 instead of the graduating class of 2019. In the application, a school district must describe why the waiver is being requested, the specific impediments preventing timely implementation, and efforts that will be taken to achieve implementation with the graduating class proposed under the waiver. The state board of education shall grant a waiver under this subsection (1)(e) to an applying school district at the next subsequent meeting of the board after receiving an application.
@@ -93,6 +97,7 @@
         iii. A school district must update the high school and beyond plans for each student who has not earned a score of level 3 or level 4 on the middle school mathematics assessment identified in RCW 28A.655.070 by ninth grade, to ensure that the student takes a mathematics course in both ninth and tenth grades. This course may include career and technical education equivalencies in mathematics adopted pursuant to RCW 28A.230.097.
 
 2. [Empty]
+
     a. In recognition of the statutory authority of the state board of education to establish and enforce minimum high school graduation requirements, the state board shall periodically reevaluate the graduation requirements and shall report such findings to the legislature in a timely manner as determined by the state board.
 
     b. The state board shall reevaluate the graduation requirements for students enrolled in vocationally intensive and rigorous career and technical education programs, particularly those programs that lead to a certificate or credential that is state or nationally recognized. The purpose of the evaluation is to ensure that students enrolled in these programs have sufficient opportunity to earn a certificate of academic achievement, complete the program and earn the program's certificate or credential, and complete other state and local graduation requirements.

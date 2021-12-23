@@ -1,0 +1,24 @@
+# House Bill 1240
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1240.xml)
+## Section 1
+> This section modifies existing section [79.105.430](/rcw/79_public_lands/79.105_aquatic_lands—general.md). Here is the [modified chapter](rcw/79_public_lands/79.105_aquatic_lands—general.md) for context.
+
+1. The abutting residential owner to state-owned shorelands, tidelands, or related beds of navigable waters, other than harbor areas, may install and maintain without charge a dock on the areas if used exclusively for private recreational purposes and the area is not subject to prior rights, including any rights of upland, tideland, or shoreland owners as provided in RCW 79.125.400, 79.125.460, 79.125.410, and 79.130.010. The dock cannot be sold or leased separately from the upland residence. The dock cannot be used to moor boats **or seaplanes** for commercial or residential use. This permission is subject to applicable local, state, and federal rules and regulations governing location, design, construction, size, and length of the dock. Nothing in this subsection (1) prevents the abutting owner from obtaining a lease if otherwise provided by law.
+
+2. The abutting residential owner to state-owned shorelands, tidelands, or related beds of navigable waters, other than harbor areas, may install and maintain a mooring buoy without charge if the boat **or seaplane** that is moored to the buoy is used for private recreational purposes, the area is not subject to prior rights, including any rights of upland, tideland, or shoreland owners as provided in RCW 79.125.400, 79.125.460, 79.125.410, and 79.130.010, and the buoy will not obstruct the use of mooring buoys previously authorized by the department.
+
+    a. The buoy must be located as near to the upland residence as practical, consistent with applicable rules and regulations and the provisions of this section. The buoy must be located, or relocated if necessary, to accommodate the use of lawfully installed and maintained buoys.
+
+    b. If two or more residential owners, who otherwise qualify for free use under the provisions of this section, are in dispute over assertion of rights to install and maintain a mooring buoy in the same location, they may seek formal settlement through adjudication in superior court for the county in which the buoy site is located. In the adjudication, preference must be given tothe residential owner that first installed and continually maintained and used a buoy on that site, if it meets all applicable rules, regulations, and provisions of this section, and then to the owner of the residential property nearest the site. Nothing in this section requires the department to mediate or otherwise resolve disputes between residential owners over the use of the same site for a mooring buoy.
+
+    c. The buoy cannot be sold or leased separately from the abutting residential property. The buoy cannot be used to moor boats **or seaplanes** for commercial or residential use, nor to moor boats **or seaplanes** over sixty feet in length.
+
+    d. If the department determines that it is necessary for secure moorage, the abutting residential owner may install and maintain a second mooring buoy, under the same provisions as the first, the use of which is limited to a second mooring line to the boat **or seaplane** moored at the first buoy.
+
+    e. The permission granted in this subsection (2) is subject to applicable local, state, and federal rules and regulations governing location, design, installation, maintenance, and operation of the mooring buoy, anchoring system, and moored boat **or seaplane**. Nothing in this subsection (2) prevents a boat owner **or seaplane owner** from obtaining a lease if otherwise provided by law. This subsection (2) also applies to areas that have been designated by the commissioner or the fish and wildlife commission as aquatic reserves.
+
+3. This permission to install and maintain a recreational dock or mooring buoy may be revoked by the department, or the department may direct the owner of a recreational dock or mooring buoy to relocate their dock or buoy, if the department makes a finding of public necessity to protect waterward access, ingress rights of other landowners, public health or safety, or public resources. Circumstances prompting a finding of public necessity may include, but are not limited to, the dock, buoy, anchoring system,  boat**, or seaplane** posing a hazard or obstruction to navigation or fishing, contributing to degradation of aquatic habitat, or contributing to decertification of shellfish beds otherwise suitable for commercial or recreational harvest. The revocation may be appealed as provided for under RCW 79.105.160.
+
+4. Nothing in this section authorizes a boat owner **or seaplane owner** to abandon a vessel at a recreational dock, mooring buoy, or elsewhere.
+

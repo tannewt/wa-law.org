@@ -1,0 +1,88 @@
+# House Bill 1630
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1630.xml)
+## Section 1
+> This section modifies existing section [9.41.280](/rcw/09_crimes_and_punishments/9.041_firearms_and_dangerous_weapons.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.041_firearms_and_dangerous_weapons.md) for context.
+
+1. It is unlawful for a person to carry onto, or to possess on, public or private elementary or secondary school premises, school-provided transportation,  areas of facilities while being used exclusively by public or private schools**, or areas of facilities while being used for official meetings of a school district board of directors**:
+
+    a. Any firearm;
+
+    b. Any other dangerous weapon as defined in RCW 9.41.250;
+
+    c. Any device commonly known as "nun-chu-ka sticks," consisting of two or more lengths of wood, metal, plastic, or similar substance connected with wire, rope, or other means;
+
+    d. Any device, commonly known as "throwing stars," which are multipointed, metal objects designed to embed upon impact from any aspect;
+
+    e. Any air gun, including any air pistol or air rifle, designed to propel a BB, pellet, or other projectile by the discharge of compressed air, carbon dioxide, or other gas; or
+
+    f. [Empty]
+
+        i. Any portable device manufactured to function as a weapon and which is commonly known as a stun gun, including a projectile stun gun which projects wired probes that are attached to the device that emit an electrical charge designed to administer to a person or an animal an electric shock, charge, or impulse; or
+
+        ii. Any device, object, or instrument which is used or intended to be used as a weapon with the intent to injure a person by an electric shock, charge, or impulse.
+
+2. Any such person violating subsection (1) of this section is guilty of a gross misdemeanor. If any person is convicted of a violation of subsection (1)(a) of this section, the person shall have his or her concealed pistol license, if any revoked for a period of three years. Anyone convicted under this subsection is prohibited from applying for a concealed pistol license for a period of three years. The court shall send notice of the revocation to the department of licensing, and the city, town, or county which issued the license.
+
+Any violation of subsection (1) of this section by elementary or secondary school students constitutes grounds for expulsion from the state's public schools in accordance with RCW 28A.600.010. An appropriate school authority shall promptly notify law enforcement and the student's parent or guardian regarding any allegation or indication of such violation.
+
+Upon the arrest of a person at least twelve years of age and not more than twenty-one years of age for violating subsection (1)(a) of this section, the person shall be detained or confined in a juvenile or adult facility for up to seventy-two hours. The person shall not be released within the seventy-two hours until after the person has been examined and evaluated by the designated crisis responder unless the court in its discretion releases the person sooner after a determination regarding probable cause or on probation bond or bail.
+
+Within twenty-four hours of the arrest, the arresting law enforcement agency shall refer the person to the designated crisis responder for examination and evaluation under chapter 71.05 or 71.34 RCW and inform a parent or guardian of the person of the arrest, detention, and examination. The designated crisis responder shall examine and evaluate the person subject to the provisions of chapter 71.05 or 71.34 RCW. The examination shall occur at the facility in which the person is detained or confined. If the person has been released on probation, bond, or bail, the examination shall occur wherever is appropriate.
+
+Upon completion of any examination by the designated crisis responder, the results of the examination shall be sent to the court, and the court shall consider those results in making any determination about the person.
+
+The designated crisis responder shall, to the extent permitted by law, notify a parent or guardian of the person that an examination and evaluation has taken place and the results of the examination. Nothing in this subsection prohibits the delivery of additional, appropriate mental health examinations to the person while the person is detained or confined.
+
+If the designated crisis responder determines it is appropriate, the designated crisis responder may refer the person to the local behavioral health administrative services organization for follow-up services or other community providers for other services to the family and individual.
+
+3. Subsection (1) of this section does not apply to:
+
+    a. Any student or employee of a private military academy when on the property of the academy;
+
+    b. Any person engaged in military, law enforcement, or school district security activities. However, a person who is not a commissioned law enforcement officer and who provides school security services under the direction of a school administrator may not possess a device listed in subsection (1)(f) of this section unless he or she has successfully completed training in the use of such devices that is equivalent to the training received by commissioned law enforcement officers;
+
+    c. Any person who is involved in a convention, showing, demonstration, lecture, or firearms safety course authorized by school authorities in which the firearms of collectors or instructors are handled or displayed;
+
+    d. Any person while the person is participating in a firearms or air gun competition approved by the school or school district;
+
+    e. Any person in possession of a pistol who has been issued a license under RCW 9.41.070, or is exempt from the licensing requirement by RCW 9.41.060, while picking up or dropping off a student;
+
+    f. Any nonstudent at least eighteen years of age legally in possession of a firearm or dangerous weapon that is secured within an attended vehicle or concealed from view within a locked unattended vehicle while conducting legitimate business at the school;
+
+    g. Any nonstudent at least eighteen years of age who is in lawful possession of an unloaded firearm, secured in a vehicle while conducting legitimate business at the school; or
+
+    h. Any law enforcement officer of the federal, state, or local government agency.
+
+4. Subsections (1)(c) and (d) of this section do not apply to any person who possesses nun-chu-ka sticks, throwing stars, or other dangerous weapons to be used in martial arts classes authorized to be conducted on the school premises.
+
+5. Subsection (1)(f)(i) of this section does not apply to any person who possesses a device listed in subsection (1)(f)(i) of this section, if the device is possessed and used solely for the purpose approved by a school for use in a school authorized event, lecture, or activity conducted on the school premises.
+
+6. Except as provided in subsection (3)(b), (c), (f), and (h) of this section, firearms are not permitted in a public or private school building.
+
+7. "GUN-FREE ZONE" signs shall be posted around school facilities giving warning of the prohibition of the possession of firearms on school grounds.
+
+
+## Section 2
+> This section modifies existing section [9.41.305](/rcw/09_crimes_and_punishments/9.041_firearms_and_dangerous_weapons.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.041_firearms_and_dangerous_weapons.md) for context.
+
+1. Unless exempt under subsection (3) of this section, it is unlawful for any person to knowingly open carry a firearm or other weapon, as defined in RCW 9.41.300(1)(b), while knowingly being in the following locations:
+
+    a. The west state capitol campus grounds; any buildings on the state capitol grounds; any state legislative office; or any location of a public **state** legislative hearing or meeting during the hearing or meeting**; or**
+
+    b. **City, town, county, or other municipality buildings used in connection with meetings of the governing body of the city, town, county, or other municipality, or any location of a public meeting or hearing of the governing body of a city, town, county, or other municipality during the hearing or meeting**.
+
+2. **For the purposes of this section:**
+
+    a. "Buildings on the state capitol grounds" means the following buildings located on the state capitol grounds, commonly known as Legislative, Temple of Justice, John L. O'Brien, John A. Cherberg, Irving R. Newhouse, Joel M. Pritchard, Helen Sommers, Insurance, Governor's Mansion, Visitor Information Center, Carlyon House, Ayer House, General Administration, 1500 Jefferson, James M. Dolliver, Old Capitol, Capitol Court, State Archives, Natural Resources, Office Building #2, Highway-License, Transportation, Employment Security, Child Care Center, Union Avenue, Washington Street, Professional Arts, State Farm, and Powerhouse Buildings.
+
+    b. **"Governing body" has the same meaning as in RCW 42.30.020.**
+
+    c. "West state capitol campus grounds" means areas of the campus south of Powerhouse Rd. SW, south of Union Avenue SW as extended westward to Powerhouse Rd. SW, west of Capitol Way, north of 15th Avenue SW between Capitol Way S. and Water Street SW, west of Water Street between 15th Avenue SW and 16th Avenue SW, north of 16th Avenue SW between Water Street SW and the east banks of Capitol Lake, and east of the banks of Capitol Lake.
+
+3. Duly authorized federal, state, or local law enforcement officers or personnel are exempt from this section when carrying a firearm or other weapon in conformance with their employing agency's policy. Members of the armed forces of the United States or the state of Washington are exempt from this section when carrying a firearm or other weapon in the discharge of official duty or traveling to or from official duty.
+
+4. A person violating this section is guilty of a gross misdemeanor.
+
+5. Nothing in this section applies to the lawful concealed carry of a firearm by a person who has a valid concealed pistol license.
+

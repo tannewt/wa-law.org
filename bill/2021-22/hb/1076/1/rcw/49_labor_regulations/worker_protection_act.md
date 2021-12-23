@@ -35,6 +35,7 @@ The definitions in this section apply throughout this chapter unless the context
 4. A qui tam action must be commenced within the same period of time that the agency would have to take action based on the same set of alleged facts. The statute of limitations for bringing a qui tam action is tolled from the date a relator files a notice with the agency or the date the agency commences an investigation.
 
 5. [Empty]
+
     a. No qui tam action may be brought with respect to modifying, revoking, or suspending a license, variance, or permit; or for any violation of a posting, notice, agency reporting, or filing requirement, except where the filing or reporting requirement involves injury reporting or a safety or health violation.
 
     b. Where an employer has voluntarily entered into consultation under RCW 49.17.250, no qui tam action may be brought with respect to any alleged violation included in the scope of the consultation. An employer who has been notified pursuant to section 5 of this act may not then enter into consultation under RCW 49.17.250 to avoid a qui tam action.
@@ -118,6 +119,7 @@ A qui tam action may be brought to enforce the following laws:
 
 == 49.XXX.7 - TBD
 1. [Empty]
+
     a. Civil penalty amounts recovered in a qui tam action must be distributed as follows:
 
         i. If the agency has not intervened, forty percent to the relator and sixty percent to the agency;

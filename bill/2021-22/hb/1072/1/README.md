@@ -1,0 +1,72 @@
+# House Bill 1072 - Session Law Chapter 058 Year 2021
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1072.SL.xml)
+## Section 1
+> This section modifies existing section [2.53.030](/rcw/02_courts_of_record/2.53_civil_legal_aid.md). Here is the [modified chapter](rcw/02_courts_of_record/2.53_civil_legal_aid.md) for context.
+
+1. [Empty]
+
+    a. The legislature recognizes the ethical obligation of attorneys to represent clients without interference by third parties in the discharge of professional obligations to clients. The legislature further finds that the prevalence of civil legal problems experienced by low-income people in Washington state exceeds the capacity of the state-funded legal aid system to address. To ensure the most beneficial use of state resources, the legislature finds it appropriate to authorize legal assistance with respect to civil legal problems that directly affect important rights and basic needs of individual low-income residents and their families and to define certain limits on the use of state moneys appropriated for civil legal aid. Accordingly, moneys appropriated for civil legal aid pursuant to this section shall not be used for legal representation that is either outside the scope of or prohibited by this section.
+
+    b. Nothing in this section is intended to limit the authority of existing entities, including but not limited to the Washington state bar association, the public disclosure commission, the state auditor, and the federal legal services corporation to resolve issues within their respective jurisdictions.
+
+2. Any money appropriated by the legislature for civil legal aid to indigent persons pursuant to this section shall be administered by the office of civil legal aid established under RCW 2.53.020, and shall be used solely for the purpose of contracting with qualified legal aid programs for legal representation of indigent persons in matters relating to: (a) Domestic relations and family law matters, (b) governmental assistance and services, (c) health care, (d) housing and utilities, (e) mortgage foreclosures, (f) consumer, financial services, credit, and bankruptcy, (g) employment, (h) rights of residents of long-term care facilities, (i) wills, estates, and living wills, (j) elder abuse, (k) guardianship, (l) disability rights, (m) education including special education, (n) administrative agency decisions, and (o) discrimination prohibited by local, state, or federal law.
+
+3. For purposes of this section, a "qualified legal aid program" means a not-for-profit corporation incorporated and operating exclusively in Washington which has received basic field funding for the provision of civil legal aid to indigents from the federal legal services corporation or that has received funding for civil legal aid for indigents under this section before July 1, 1997.
+
+4. When entering into a contract with a qualified legal aid provider under this section, the office of civil legal aid shall require the provider to provide legal aid in a manner that maximizes geographic access throughout the state and meets generally accepted standards for the delivery of civil legal aid.
+
+5. Funds distributed to qualified legal aid programs under this section may not be used directly or indirectly for:
+
+    a. Lobbying.
+
+        i. For purposes of this section, "lobbying" means any personal service, advertisement, telegram, telephone communication, letter, printed or written matter, or other device directly or indirectly intended to influence any member of congress or any other federal, state, or local nonjudicial official, whether elected or appointed:
+
+(A) In connection with any act, bill, resolution, or similar legislation by the congress of the United States or by any state or local legislative body, or any administrative rule, rule-making activity, standard, rate, or other enactment by any federal, state, or local administrative agency;
+
+(B) In connection with any referendum, initiative, constitutional amendment, or any similar procedure of the congress, any state legislature, any local council, or any similar governing body acting in a legislative capacity; or
+
+(C) In connection with inclusion of any provision in a legislative measure appropriating funds to, or defining or limiting the functions or authority of, the recipient of funds under this section.
+
+        ii. "Lobbying" does not include the response of an employee of a legal aid program to a written request from a governmental agency, an elected or appointed official, or committee on a specific matter. This exception does not authorize communication with anyone other than the requesting party, or agent or employee of such agency, official, or committee.
+
+    b. Grass roots lobbying. For purposes of this section, "grass roots lobbying" means preparation, production, or dissemination of information the purpose of which is to encourage the public at large, or any definable segment thereof, to contact legislators or their staff in support of or in opposition to pending or proposed legislation; or contribute to or participate in a demonstration, march, rally, lobbying campaign, or letter writing or telephone campaign for the purpose of influencing the course of pending or proposed legislation.
+
+    c. Class action lawsuits.
+
+    d. Participating in or identifying the program with prohibited political activities. For purposes of this section, "prohibited political activities" means (i) any activity directed toward the success or failure of a political party, a candidate for partisan or nonpartisan office, a partisan political group, or a ballot measure; (ii) advertising or contributing or soliciting financial support for or against any candidate, political group, or ballot measure; or (iii) voter registration or transportation activities.
+
+    e. Representation in fee-generating cases. For purposes of this section, "fee-generating" means a case that might reasonably be expected to result in a fee for legal aid if undertaken by a private attorney. The charging of a fee pursuant to subsection (6) of this section does not establish the fee-generating nature of a case.
+
+A fee-generating case may be accepted when: (i) The case has been rejected by the local lawyer referral services or by two private attorneys; (ii) neither the referral service nor two private attorneys will consider the case without payment of a consultation fee; (iii) after consultation with the appropriate representatives of the private bar, the program has determined that the type of case is one that private attorneys do not ordinarily accept, or do not accept without prepayment of a fee; or (iv) the director of the program or the director's designee has determined that referral of the case to the private bar is not possible because documented attempts to refer similar cases in the past have been futile, or because emergency circumstances compel immediate action before referral can be made, but the client is advised that, if appropriate and consistent with professional responsibility, referral will be attempted at a later time.
+
+    f. Organizing any association, union, or federation, or representing a labor union. However, nothing in this subsection (5)(f) prohibits the provision of legal aid to clients as otherwise permitted by this section.
+
+    g.
+
+Picketing, demonstrations, strikes, or boycotts.
+
+    h. Engaging in inappropriate solicitation. For purposes of this section, "inappropriate solicitation" means promoting the assertion of specific legal claims among persons who know of their rights to make a claim and who decline to do so. Nothing in this subsection precludes a legal aid program or its employees from providing information regarding legal rights and responsibilities or providing information regarding the program's services and intake procedures through community legal education activities, responding to an individual's specific question about whether the individual should consult with an attorney or take legal action, or responding to an individual's specific request for information about the individual's legal rights or request for assistance in connection with a specific legal problem.
+
+    i. Conducting training programs that: (i) Advocate particular public policies; (ii) encourage or facilitate political activities, labor or antilabor activities, boycotts, picketing, strikes, or demonstrations; or (iii) attempt to influence legislation or rule making. Nothing in this subsection (5)(i) precludes representation of clients as otherwise permitted by this section.
+
+6. The office of civil legal aid may establish requirements for client participation in the provision of civil legal aid under this section, including but not limited to copayments and sliding fee scales.
+
+7. [Empty]
+
+    a. Contracts entered into by the office of civil legal aid with qualified legal aid programs under this section must specify that the program's expenditures of moneys distributed under this section:
+
+        i. Must be audited annually by an independent outside auditor. These audit results must be provided to the office of civil legal aid; and
+
+        ii. Are subject to audit by the state auditor.
+
+    b. [Empty]
+
+        i. Any entity auditing a legal aid program under this section shall have access to all records of the legal aid program to the full extent necessary to determine compliance with this section, with the exception of confidential information protected by the United States Constitution, the state Constitution, the attorney-client privilege, and applicable rules of attorney conduct.
+
+        ii. The legal aid program shall have a system allowing for production of case-specific information, including client eligibility and case type, to demonstrate compliance with this section, with the exception of confidential information protected by the United States Constitution, the state Constitution, the attorney-client privilege, and applicable rules of attorney conduct. Such information shall be available to any entity that audits the program.
+
+8. The office of civil legal aid must recover or withhold amounts determined by an audit to have been used in violation of this section.
+
+9. The office of civil legal aid may adopt rules to implement this section.
+

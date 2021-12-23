@@ -1,0 +1,54 @@
+# Senate Bill 5423
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5423.xml)
+## Section 1
+> This section modifies existing section [18.71.030](/rcw/18_businesses_and_professions/18.071_physicians.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.071_physicians.md) for context.
+
+Nothing in this chapter shall be construed to apply to or interfere in any way with the practice of religion or any kind of treatment by prayer; nor shall anything in this chapter be construed to prohibit:
+
+1. The furnishing of medical assistance in cases of emergency requiring immediate attention;
+
+2. The domestic administration of family remedies;
+
+3. The administration of oral medication of any nature to students by public school district employees or private elementary or secondary school employees as provided for in chapter 28A.210 RCW;
+
+4. The practice of dentistry, osteopathic medicine and surgery, nursing, chiropractic, podiatric medicine and surgery, optometry, naturopathy, or any other healing art licensed under the methods or means permitted by such license;
+
+5. The practice of medicine in this state by any commissioned medical officer serving in the armed forces of the United States or public health service or any medical officer on duty with the United States veterans administration while such medical officer is engaged in the performance of the duties prescribed for him or her by the laws and regulations of the United States;
+
+6. **The consultation through telemedicine by a practitioner, licensed by another state or territory in which he or she resides, with a practitioner licensed in this state who has responsibility for the diagnosis and treatment of the patient within this state;**
+
+7. The practice of medicine by any practitioner licensed by another state or territory in which he or she resides, provided that such practitioner shall not open an office or appoint a place of meeting patients or receiving calls within this state;
+
+8. The practice of medicine by a person who is a regular student in a school of medicine approved and accredited by the commission if:
+
+    a. The performance of such services is only pursuant to a regular course of instruction or assignments from his or her instructor ; **or**
+
+    b. Such services are performed only under the supervision and control of a person licensed pursuant to this chapter; or
+
+    c. [Empty]
+
+        i. Such services are performed without compensation or expectation of compensation as part of a volunteer activity;
+
+        ii. The student is under the direct supervision and control of a pharmacist licensed under chapter 18.64 RCW, an osteopathic physician and surgeon licensed under chapter 18.57 RCW, or a registered nurse or advanced registered nurse practitioner licensed under chapter 18.79 RCW;
+
+        iii. The services the student performs are within the scope of practice of: (A) A physician licensed under this chapter; and (B) the person supervising the student;
+
+        iv. The school in which the student is enrolled verifies the student has demonstrated competency through his or her education and training to perform the services; and
+
+    v. The student provides proof of current malpractice insurance to the volunteer activity organizer prior to performing any services;
+
+9. The practice of medicine by a person serving a period of postgraduate medical training in a program of clinical medical training sponsored by a college or university in this state or by a hospital accredited in this state, however, the performance of such services shall be only pursuant to his or her duties as a trainee;
+
+10. The practice of medicine by a person who is regularly enrolled in a physician assistant program approved by the commission, however, the performance of such services shall be only pursuant to a regular course of instruction in said program and such services are performed only under the supervision and control of a person licensed pursuant to this chapter;
+
+11. The practice of medicine by a licensed physician assistant which practice is performed under the supervision and control of a physician licensed pursuant to this chapter;
+
+12. The practice of medicine, in any part of this state which shares a common border with Canada and which is surrounded on three sides by water, by a physician licensed to practice medicine and surgery in Canada or any province or territory thereof;
+
+13. The administration of nondental anesthesia by a dentist who has completed a residency in anesthesiology at a school of medicine approved by the commission, however, a dentist allowed to administer nondental anesthesia shall do so only under authorization of the patient's attending surgeon, obstetrician, or psychiatrist, and the commission has jurisdiction to discipline a dentist practicing under this exemption and enjoin or suspend such dentist from the practice of nondental anesthesia according to this chapter and chapter 18.130 RCW;
+
+14. Emergency lifesaving service rendered by a physician's trained advanced emergency medical technician and paramedic, as defined in RCW 18.71.200, if the emergency lifesaving service is rendered under the responsible supervision and control of a licensed physician;
+
+15. The provision of clean, intermittent bladder catheterization for students by public school district employees or private school employees as provided for in RCW 18.79.290 and 28A.210.280.
+

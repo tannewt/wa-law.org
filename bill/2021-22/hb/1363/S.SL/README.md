@@ -1,0 +1,7 @@
+# Substitute House Bill 1363 - Session Law Chapter 129 Year 2021 as Recommended by Education
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1363-S.SL.xml)
+## Section 1
+(1)(a) The legislature acknowledges that secondary traumatic stress, also called compassion fatigue, is a natural but disruptive set of symptoms that may result when one person learns firsthand of the traumatic experiences of another. Symptoms of secondary traumatic stress may include feelings of isolation, anxiety, dissociation, physical ailments, and sleep disturbances. In addition, those affected by secondary traumatic stress may experience: Changes in memory and perception; alterations in their sense of self-efficacy; a depletion of personal resources; and disruption in their perceptions of safety, trust, and independence.
+(b) Secondary traumatic stress may be experienced by teachers, school counselors, administrators, or other school staff. Everyday these school staff work with students experiencing trauma and loss. In addition, many students have experienced additional trauma due to the effects of the COVID-19 pandemic on themselves and their families.
+(2) The legislature finds that secondary traumatic stress is preventable and treatable. Therefore, the legislature intends to require school districts to adopt a policy and procedure to prevent and address secondary traumatic stress in the workforce and to make resources on secondary traumatic stress publicly available.

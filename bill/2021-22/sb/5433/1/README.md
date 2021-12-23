@@ -1,0 +1,6 @@
+# Senate Bill 5433
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5433.xml)
+## Section 1
+The legislature recognizes the challenges posed for Washingtonians experiencing poverty to navigate multiple complex public benefit systems in order to access necessary supports. The legislature recognizes that barriers to applying for public benefits exist including but not limited to adequate internet and telephone access, language accessibility, nonstandard work hours, disability access, reliable transportation, and other challenges. The legislature further recognizes that increased access to public benefits will help promote economic recovery from the impacts of the COVID-19 epidemic.
+The legislature finds that the governor's poverty reduction work group endorsed multiple recommendations to reduce poverty statewide, including allowing means-tested or income-tested programs to use basic food eligibility as an eligibility metric for other means-tested programs. The legislature therefore intends to promote economic recovery and administrative efficiency by creating a program within the office of financial management to authorize agencies and departments to utilize basic food eligibility as a form of categorical eligibility within other programs.

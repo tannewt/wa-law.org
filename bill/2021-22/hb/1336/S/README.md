@@ -2,35 +2,35 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1336-S.xml)
 ## Section 1
-> This section modifies an existing section. Here is the [modified chapter](rcw/54_public_utility_districts/54.16_powers.md) for context.
+> This section modifies existing section [54.16.005](/rcw/54_public_utility_districts/54.16_powers.md). Here is the [modified chapter](rcw/54_public_utility_districts/54.16_powers.md) for context.
 
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 
 1. **"Broadband infrastructure" means networks of deployed telecommunications equipment and technologies necessary to provide high-speed internet access and other advanced telecommunications services.**
 
-**(2)** "Commission" means the Washington utilities and transportation commission.
+2. "Commission" means the Washington utilities and transportation commission.
 
-**(3) "District commission" means the governing board of a public utility district.**
+3. **"District commission" means the governing board of a public utility district.**
 
-**(4) "Retail telecommunications services" means the sale, lease, license, or indivisible right of use of telecommunications services or telecommunications facilities directly to end users.**
+4. **"Retail telecommunications services" means the sale, lease, license, or indivisible right of use of telecommunications services or telecommunications facilities directly to end users.**
 
-**(5)** "Telecommunications" has the same meaning as **defined** in RCW 80.04.010.
+5. "Telecommunications" has the same meaning as **defined** in RCW 80.04.010.
 
-**(6)** "Telecommunications facilities" means lines, conduits, ducts, poles, wires, cables, crossarms, receivers, transmitters, instruments, machines, appliances, instrumentalities and all devices, real estate, easements, apparatus, property, and routes used, operated, owned, or controlled by any entity to facilitate the provision of telecommunications services.
+6. "Telecommunications facilities" means lines, conduits, ducts, poles, wires, cables, crossarms, receivers, transmitters, instruments, machines, appliances, instrumentalities and all devices, real estate, easements, apparatus, property, and routes used, operated, owned, or controlled by any entity to facilitate the provision of telecommunications services.
 
-**(7)** "Wholesale telecommunications services" means the provision of telecommunications services or **telecommunications** facilities for resale **to** an entity **that provides retail** telecommunications services .
+7. "Wholesale telecommunications services" means the provision of telecommunications services or **telecommunications** facilities for resale **to** an entity **that provides retail** telecommunications services .
 
 
 ## Section 2
-> This section modifies an existing section. Here is the [modified chapter](rcw/54_public_utility_districts/54.16_powers.md) for context.
+> This section modifies existing section [54.16.330](/rcw/54_public_utility_districts/54.16_powers.md). Here is the [modified chapter](rcw/54_public_utility_districts/54.16_powers.md) for context.
 
 1. A public utility district in existence on June 8, 2000, may construct, purchase, acquire, develop, finance, lease, license, handle, provide, add to, contract for, interconnect, alter, improve, repair, operate, and maintain any telecommunications facilities within or **outside of** the district's limits for **any or all of** the following purposes:
 
-**(a)** For the district's internal telecommunications needs;
+    a. For the district's internal telecommunications needs;
 
-**(b) For the provision of either retail or wholesale, or both, telecommunications services and telecommunications facilities within the district; or**
+    b. **For the provision of either retail or wholesale, or both, telecommunications services and telecommunications facilities within the district; or**
 
-**(c) For the provision of either retail or wholesale, or both, telecommunications services or telecommunications facilities outside of the district by contract with another public utility district, any political subdivision of the state authorized to provide retail telecommunications services in the state, or with any federally recognized tribe located in the state of Washington**.
+    c. **For the provision of either retail or wholesale, or both, telecommunications services or telecommunications facilities outside of the district by contract with another public utility district, any political subdivision of the state authorized to provide retail telecommunications services in the state, or with any federally recognized tribe located in the state of Washington**.
 
 2. A public utility district providing wholesale or retail telecommunications services shall ensure that rates, terms, and conditions for such services are not unduly or unreasonably discriminatory or preferential. Rates, terms, and conditions are discriminatory or preferential when a public utility district offering rates, terms, and conditions to an entity for wholesale or retail telecommunications services does not offer substantially similar rates, terms, and conditions to all other entities seeking substantially similar services.
 
@@ -46,11 +46,12 @@ The definitions in this section apply throughout this chapter unless the context
 
 
 ## Section 4
-> This section modifies an existing section. Here is the [modified chapter](rcw/54_public_utility_districts/54.16_powers.md) for context.
+> This section modifies existing section [54.16.425](/rcw/54_public_utility_districts/54.16_powers.md). Here is the [modified chapter](rcw/54_public_utility_districts/54.16_powers.md) for context.
 
 1. Property owned by a public utility district that is exempt from property tax under RCW 84.36.010 is subject to an annual payment in lieu of property taxes if the property consists of a broadband **infrastructure** used in providing retail **telecommunications services**.
 
 2. [Empty]
+
     a. The amount of the payment must be determined jointly and in good faith negotiation between the public utility district that owns the property and the county or counties in which the property is located.
 
     b. The amount agreed upon may not exceed the property tax amount that would be owed on the property comprising the broadband **infrastructure** used in providing retail **telecommunications services** as calculated by the department of revenue. The public utility district must provide information necessary for the department of revenue to make the required valuation under this subsection. The department of revenue must provide the amount of property tax that would be owed on the property to the county or counties in which the broadband **infrastructure** is located on an annual basis.
@@ -65,7 +66,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 
 ## Section 8
-> This section modifies an existing section. Here is the [modified chapter](rcw/53_port_districts/53.08_powers.md) for context.
+> This section modifies existing section [53.08.005](/rcw/53_port_districts/53.08_powers.md). Here is the [modified chapter](rcw/53_port_districts/53.08_powers.md) for context.
 
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 
@@ -73,15 +74,15 @@ The definitions in this section apply throughout this chapter unless the context
 
 2. **"Retail telecommunications services" means the sale, lease, license, or indivisible right of use of telecommunications services or telecommunications facilities directly to end users.**
 
-**(3)** "Telecommunications" has the same meaning as contained in RCW 80.04.010.
+3. "Telecommunications" has the same meaning as contained in RCW 80.04.010.
 
-**(4)** "Telecommunications facilities" means lines, conduits, ducts, poles, wires, cables, crossarms, receivers, transmitters, instruments, machines, appliances, instrumentalities and all devices, real estate, easements, apparatus, property, and routes used, operated, owned, or controlled by any entity to facilitate the provision of telecommunications services.
+4. "Telecommunications facilities" means lines, conduits, ducts, poles, wires, cables, crossarms, receivers, transmitters, instruments, machines, appliances, instrumentalities and all devices, real estate, easements, apparatus, property, and routes used, operated, owned, or controlled by any entity to facilitate the provision of telecommunications services.
 
-**(5)** "Wholesale telecommunications services" means the provision of telecommunications services or **telecommunications** facilities for resale **to** an entity authorized to provide telecommunications services . Wholesale telecommunications services includes the provision of unlit or dark optical fiber for resale, but not the provision of lit optical fiber.
+5. "Wholesale telecommunications services" means the provision of telecommunications services or **telecommunications** facilities for resale **to** an entity authorized to provide telecommunications services . Wholesale telecommunications services includes the provision of unlit or dark optical fiber for resale, but not the provision of lit optical fiber.
 
 
 ## Section 9
-> This section modifies an existing section. Here is the [modified chapter](rcw/53_port_districts/53.08_powers.md) for context.
+> This section modifies existing section [53.08.370](/rcw/53_port_districts/53.08_powers.md). Here is the [modified chapter](rcw/53_port_districts/53.08_powers.md) for context.
 
 1. A port district in existence on June 8, 2000, may construct, purchase, acquire, develop, finance, lease, license, handle, provide, add to, contract for, interconnect, alter, improve, repair, operate, and maintain any telecommunications facilities within or **outside** the district's limits for **any or all of** the following purposes:
 
@@ -89,9 +90,9 @@ The definitions in this section apply throughout this chapter unless the context
 
     b. For the provision of wholesale telecommunications services within or **outside** the district's limits**; or**
 
-**(c) For the provision of retail telecommunications services within or outside the district's limits**.
+    c. **For the provision of retail telecommunications services within or outside the district's limits**.
 
-2. Except as provided in subsection **(8)** of this section, a port district providing wholesale **or retail** telecommunications services under this section shall ensure that rates, terms, and conditions for such services are not unduly or unreasonably discriminatory or preferential. Rates, terms, and conditions are discriminatory or preferential when a port district offering such rates, terms, and conditions to an entity for wholesale **or retail** telecommunications services does not offer substantially similar rates, terms, and conditions to all other entities seeking substantially similar services.
+2. Except as provided in subsection (8) of this section, a port district providing wholesale **or retail** telecommunications services under this section shall ensure that rates, terms, and conditions for such services are not unduly or unreasonably discriminatory or preferential. Rates, terms, and conditions are discriminatory or preferential when a port district offering such rates, terms, and conditions to an entity for wholesale **or retail** telecommunications services does not offer substantially similar rates, terms, and conditions to all other entities seeking substantially similar services.
 
 3. When a port district establishes a separate utility function for the provision of wholesale **or retail** telecommunications services, it shall account for any and all revenues and expenditures related to its wholesale **or retail** telecommunications facilities and services separately from revenues and expenditures related to its internal telecommunications operations. Any revenues received from the provision of wholesale **or retail** telecommunications services must be dedicated to the utility function that includes the provision of wholesale **or retail** telecommunications services for costs incurred to build and maintain the telecommunications facilities until such time as any bonds or other financing instruments executed after June 8, 2000, and used to finance the telecommunications facilities are discharged or retired.
 
@@ -105,11 +106,13 @@ The definitions in this section apply throughout this chapter unless the context
 
 A port district with telecommunications facilities for use in the provision of wholesale **or retail** telecommunications in accordance with subsection (1) of this section may be subject to local leasehold excise taxes under RCW 82.29A.040.
 
-**(8)**(a) A port district under this section may select a telecommunications company to operate all or a portion of the port district's telecommunications facilities.
+8. [Empty]
+
+    a. A port district under this section may select a telecommunications company to operate all or a portion of the port district's telecommunications facilities.
 
     b. For the purposes of this section "telecommunications company" means any for-profit entity owned by investors that sells telecommunications services to end users.
 
-    c. Nothing in this subsection **(8)** is intended to limit or otherwise restrict any other authority provided by law.
+    c. Nothing in this subsection (8) is intended to limit or otherwise restrict any other authority provided by law.
 
 
 ## Section 11

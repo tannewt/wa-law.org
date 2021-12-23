@@ -1,0 +1,61 @@
+# Substitute House Bill 1052 as Recommended by Health Care & Wellness
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1052-S.xml)
+## Section 1
+The legislature intends to align the insurance code and performance-based contracting to ensure the continued practice of using performance standards and performance guarantees in group insurance contracts, including those entered into by the health care authority.
+
+## Section 3
+> This section modifies existing section [48.30.140](/rcw/48_insurance/48.030_unfair_practices_and_frauds.md). Here is the [modified chapter](rcw/48_insurance/48.030_unfair_practices_and_frauds.md) for context.
+
+1. Except to the extent provided for in an applicable filing with the commissioner then in effect, no insurer, insurance producer, or title insurance agent shall, as an inducement to insurance, or after insurance has been effected, directly or indirectly, offer, promise, allow, give, set off, or pay to the insured or to any employee of the insured, any rebate, discount, abatement, or reduction of premium or any part thereof named in any insurance contract, or any commission thereon, or earnings, profits, dividends, or other benefit, or any other valuable consideration or inducement whatsoever which is not expressly provided for in the policy.
+
+2. Subsection (1) of this section shall not apply as to commissions paid to a licensed insurance producer, or title insurance agent for insurance placed on that person's own property or risks.
+
+3. This section shall not apply to the allowance by any marine insurer, or marine insurance producer, to any insured, in connection with marine insurance, of such discount as is sanctioned by custom among marine insurers as being additional to the insurance producer's commission.
+
+4. This section shall not apply to advertising or promotional programs conducted by insurers or insurance producers whereby prizes, goods, wares, gift cards, gift certificates, or merchandise, not exceeding one hundred dollars in value per person in the aggregate in any twelve-month period, are given to all insureds or prospective insureds under similar qualifying circumstances. This subsection does not apply to title insurers or title insurance agents.
+
+5. This section does not apply to an offset or reimbursement of all or part of a fee paid to an insurance producer as provided in RCW 48.17.270.
+
+6. [Empty]
+
+    a. Subsection (1) of this section shall not be construed to prohibit a health carrier or disability insurer from including as part of a group or individual health benefit plan or contract containing health benefits, a wellness program which meets the requirements for an exception from the prohibition against discrimination based on a health factor under the health insurance portability and accountability act (P.L. 104-191; 110 Stat. 1936) and regulations adopted pursuant to that act.
+
+    b. For purposes of this subsection: (i) "Health carrier" and "health benefit plan" have the same meaning as provided in RCW 48.43.005; and (ii) "wellness program" has the same meaning as provided in 45 C.F.R. 146.121(f).
+
+7. Subsection (1) of this section does not apply to a payment by an insurer to offset documented expenses incurred by a group policyholder in changing coverages from one insurer to another. Insurers shall describe any such payment in the group insurance policy or in an applicable filing with the commissioner. If an implementation credit is given to a group, the implementation credit is part of the premium for the purposes of RCW 48.14.020 and 48.14.0201. This exception to subsection (1) of this section does not apply to "medicare supplemental insurance" or "medicare supplemental insurance policies" as defined in chapter 48.66 RCW.
+
+8. Subsection (7) of this section does not apply to small groups as defined in RCW 48.43.005.
+
+9. Subsection (1) of this section does not apply to products or services related to any policy of life insurance that are intended to incent behavioral changes that improve the health and reduce the risk of death of the insured.
+
+10. **Subsection (1) of this section does not apply to a performance standard offered or provided in compliance with section 2 of this act.**
+
+
+## Section 4
+> This section modifies existing section [48.30.150](/rcw/48_insurance/48.030_unfair_practices_and_frauds.md). Here is the [modified chapter](rcw/48_insurance/48.030_unfair_practices_and_frauds.md) for context.
+
+1. No insurer, insurance producer, title insurance agent, or other person shall, as an inducement to insurance, or in connection with any insurance transaction, provide in any policy for, or offer, or sell, buy, or offer or promise to buy or give, or promise, or allow to, or on behalf of, the insured or prospective insured in any manner whatsoever:
+
+    a. Any shares of stock or other securities issued or at any time to be issued on any interest therein or rights thereto; or
+
+    b. Any special advisory board contract, or other contract, agreement, or understanding of any kind, offering, providing for, or promising any profits or special returns or special dividends; or
+
+    c. Any prizes, goods, wares, gift cards, gift certificates, or merchandise of an aggregate value in excess of one hundred dollars per person in the aggregate in any consecutive twelve-month period. This subsection (1)(c) does not apply to title insurers or title insurance agents.
+
+2. Subsection (1) of this section shall not be deemed to prohibit the sale or purchase of securities as a condition to or in connection with surety insurance insuring the performance of an obligation as part of a plan of financing found by the commissioner to be designed and operated in good faith primarily for the purpose of such financing, nor shall it be deemed to prohibit the sale of redeemable securities of a registered investment company in the same transaction in which life insurance is sold.
+
+3. [Empty]
+
+    a. Subsection (1) of this section shall not be deemed to prohibit a health carrier or disability insurer from including as part of a group or individual health benefit plan or contract providing health benefits, a wellness program which meets the requirements for an exception from the prohibition against discrimination based on a health factor under the health insurance portability and accountability act (P.L. 104-191; 110 Stat. 1936) and regulations adopted pursuant to that act.
+
+    b. For purposes of this subsection: (i) "Health carrier" and "health benefit plan" have the same meaning as provided in RCW 48.43.005; and (ii) "wellness program" has the same meaning as provided in 45 C.F.R. 146.121(f).
+
+4. Subsection (1) of this section does not prohibit an insurer from issuing any payment to offset documented expenses incurred by a group policyholder in changing coverages from one insurer to another as provided in RCW 48.30.140. If an implementation credit is given to a group, the implementation credit is part of the premium for the purposes of RCW 48.14.020 and 48.14.0201. This exception to subsection (1) of this section does not apply to "medicare supplemental insurance" or "medicare supplemental insurance policies" as defined in chapter 48.66 RCW.
+
+5. Subsection (4) of this section does not apply to small groups as defined in RCW 48.43.005.
+
+6. Subsection (1) of this section does not apply to products or services related to any policy of life insurance that are intended to incent behavioral changes that improve the health and reduce the risk of death of the insured.
+
+7. **Subsection (1) of this section does not apply to a performance standard offered or provided in compliance with section 2 of this act.**
+

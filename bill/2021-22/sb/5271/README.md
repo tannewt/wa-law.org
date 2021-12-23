@@ -1,0 +1,9 @@
+# SB 5271 - Health care injury/COVID-19
+*Status: 1st substitute bill substituted.*
+Amending the necessary elements of proof of injury during the state of emergency declared due to the COVID-19 pandemic.
+
+## Revisions
+* [Original Bill](1/)
+* [Substitute Bill](S/)
+* [Bill as Passed Legislature](S.PL/)
+* [Session Law](S.SL/)

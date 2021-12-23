@@ -1,0 +1,591 @@
+# Senate Bill 5153
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5153.xml)
+## Section 1
+Washington state data shows that students of color, students who experience poverty, homelessness, or foster care, and students with disabilities have the highest rates of absences. Students who are chronically absent, defined as missing 10 percent or more of scheduled instructional days, are more likely not to read at grade level by the third grade and are less likely to graduate.
+Absences can be an indicator to educators that a student's academic and social-emotional needs may not be met through the district, school, or classroom culture or climate. Absences can also cue educators that a student and their family may need additional support.
+The legislature finds that a multitiered system of support that is inclusive of attendance ensures students benefit from nurturing environments and equitable access to instruction and supports that are culturally and linguistically responsive, universally designed, and differentiated to meet their unique needs. Such a system includes data-based decision making; team-driven leadership; family, student, and community engagement; delivery of a continuum of supports; and evidenced-based practices. Implementation of tiered supports will reduce absences, improve student success, and reduce the number of students that are referred to juvenile court for truancy. As such, the legislature intends to promote the expectation for and ability of school districts to use tiered supports for the purposes of increasing positive attendance.
+
+## Section 101
+> This section modifies existing section [28A.225.015](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+1. If a parent enrolls a **student** who is six or seven years of age in a public school, the **student** is required to attend and that parent has the responsibility to ensure the **student** attends for the full time that school is in session. An exception shall be made to this requirement for **students** whose parents formally remove them from enrollment if the **student** is less than eight years old and a petition has not been filed against the parent under subsection (3) of this section. The requirement to attend school under this subsection does not apply to a **student** enrolled in a public school part-time for the purpose of receiving ancillary services. A **student** required to attend school under this subsection may be temporarily excused upon the request of his or her parent for purposes agreed upon by the school district and parent.
+
+2. If a six or seven year old **student** is required to attend public school under subsection (1) of this section and that **student** has unexcused absences, the public school in which the **student** is enrolled shall **implement the following interventions and supports**:
+
+    a. Inform the **student's** parent or guardian by a notice in writing or by telephone **each day the student is absent without communication from the parent or guardian regarding the absence. If the parent or guardian is not fluent in English, or is an individual who is deaf or hard of hearing, or blind or low vision, the school must provide this information in a language the parent or guardian understands, or other mode of communication used by the parent or guardian, including providing language assistance as required under Title VI of the civil rights act of 1964 or Title II of the Americans with disabilities act**;
+
+    b. **Schedule or attempt to schedule** a conference or conferences with the  parent or guardian and **student** at a time reasonably convenient for all persons included for the purpose of **understanding causes for the student's absences and determining data-based practices for removing barriers to attendance**;
+
+        i. **For this conference, and all communications relating to attendance, the district must provide necessary language assistance for students and parents with limited-English proficiency under Title VI of the civil rights act of 1964 and Title II of the Americans with disabilities act of 1990.**
+
+        ii. **For conferences with students who have an individualized education program or a plan developed under section 504 of the rehabilitation act of 1973, a school district member of the team responsible for developing the program or plan must attend.**
+
+        iii. **To satisfy the requirements of this section, the conference must include at least one school district employee such as a nurse, counselor, social worker, teacher, or community human services provider;** and
+
+    c. Take steps to eliminate or reduce the **student's** absences. These steps **must** include**culturally responsive, evidence-based, or promising practices that may help eliminate or ameliorate the cause or causes for the absence from school**.
+
+3. **School districts my file a petition for civil action as provided in RCW 28A.225.035 when** a **student** required to attend public school under subsection (1) of this section has **five** unexcused absences in a month .
+
+4. **School districts must file a petition for civil action as provided in RCW 28A.225.035 no later than 15 unexcused absences in a month or cumulative in a school year.**
+
+    a. **Prior to filing a petition the school district must attempt and document the attempted interventions under subsection (2) of this section.**
+
+    b. **School districts must ensure that absences are verified and accurately recorded as excused or unexcused before filing a petition, to the extent that is feasible.**
+
+5. This section does not require a six or seven year old **student** to enroll in a public or private school or to receive home-based instruction. This section only applies to six or seven year old **students** whose parents enroll them full time in public school and do not formally remove them from enrollment as provided in subsection (1) of this section.
+
+
+## Section 102
+> This section modifies existing section [28A.225.018](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+1. Except as provided in subsection (2) of this section, in the event that a **student** in elementary school is required to attend school under RCW 28A.225.010 or 28A.225.015(1) and has five or more excused absences in a single month during the current school year, or **10** or more excused absences in the current school year, the school district shall schedule a conference or conferences with the parent and **student** at a time reasonably convenient for all persons included for the purpose of identifying the barriers to the **student's** regular attendance, and the supports and resources that may be made available to the family so that the **student** is able to regularly attend school.
+
+    a. **For this conference, and all communications relating to attendance, the district must provide necessary language assistance for students and parents with limited-English proficiency under Title VI of the civil rights act of 1964 and Title II of the Americans with disabilities act of 1990.**
+
+    b. **For conferences with students who have an individualized education program or a plan developed under section 504 of the rehabilitation act of 1973, a school district member of the team responsible for developing the program or plan must attend.**
+
+    c. **To satisfy the requirements of this section, the conference must include at least one school district employee such as a nurse, counselor, social worker, teacher, or community human services provider.**
+
+2. A conference pursuant to subsection (1) of this section is not required in the event of excused absences for which prior notice has been given to the school or a  note **from a medical professional** has been provided and**, if needed,** an academic plan is put in place so that the **student** does not fall behind.
+
+
+## Section 103
+> This section modifies existing section [28A.225.020](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+1. If a **student** required to attend school under RCW 28A.225.010 fails to attend school without valid justification, the public school in which the **student** is enrolled shall **implement the following interventions and supports**:
+
+    a. Inform the **student's** parent **or guardian** by a notice in writing or by telephone **each day the student is absent without communication from the parent or guardian regarding the absence. If the parent or guardian is not fluent in English, or is an individual who is deaf or hard of hearing, or blind or low vision, the school must provide this information in a language the parent or guardian understands, or other mode of communication used by the parent or guardian, including providing language assistance as required under Title VI of the civil rights act of 1964 or Title II of the Americans with disabilities act**;
+
+    b. Schedule **or attempt to schedule** a conference or conferences with the parent **or guardian** and **student** at a time reasonably convenient for all persons included for the purpose of **understanding causes for the student's absences and determining data-based practices for removing barriers to attendance:**
+
+        i. **The school shall develop a data-informed and evidence-based plan in collaboration with the student and the parent or guardian that establishes the commitments of the student, parent or guardian, and school to reduce barriers and support better attendance.**
+
+        ii. **For conferences with students who have an individualized education program or a plan developed under section 504 of the rehabilitation act of 1973, a school district member of the team responsible for developing the program or plan must attend. The purpose of having an individualized education program or 504 team member present is to ensure the data-informed steps and evidence-based plan are in alignment with the individualized education program or 504 plan, to include consultation with a behavior specialist or mental health specialist if feasible and where appropriate, and to consider if the absences are directly related to the student's disability.**
+
+        iii. If the **student's** parent **or guardian** does not attend the scheduled conference, the conference may be conducted with the student and school official. However the parent **or guardian** shall be notified of the steps to be taken to eliminate or reduce the **student's** absence; and
+
+    c. **Take** data-informed steps to eliminate or reduce the **student's** absences.
+
+        i. In middle school and high school, these steps must include **:**
+
+(A) **Administering or attempting to administer** the Washington assessment of the risks and needs of students (WARNS) or other assessment by a school district's designee under RCW 28A.225.026**;**
+
+(B) **Where appropriate, providing an available best practice or research-based intervention, or both, consistent with the Washington assessment of the risks and needs of students or other assessment, if an assessment was applied; and**
+
+(C) **Assisting the parent or guardian or student to obtain supplementary services that might eliminate or ameliorate the cause or causes for the absence from school**.
+
+        ii.
+
+With respect to any **student**, without an existing individualized education **program** or 504 plan**and that the district has reason to suspect may have a disability and may be in need of services**, these steps must include **a referral to the district's existing child find procedures for determining a need for special education services or a 504 plan. Parents or guardians must be notified of such referrals in accordance with the district's child find procedures**. If the **district determines than an evaluation for special education services or a 504 plan is necessary, and** obtains **the proper** consent to conduct an evaluation, time should be allowed for the evaluation to be completed**. If** the **student** is found to be eligible for special education services, accommodations, or **a 504 plan, time must be allowed for an individualized education program or 504 plan to be implemented** to address the **student's** needs.
+
+2. For purposes of this chapter, an "unexcused absence" means that a **student**:
+
+    a. [Empty]
+
+        i. Has failed to attend the majority of hours or periods in an average school day ; and
+
+        ii. Has failed to meet the school district's policy for excused absences; or
+
+    b. Has failed to comply with alternative learning experience program attendance requirements as described by the superintendent of public instruction.
+
+3. If a **student** transfers from one school district to another during the school year, the  sending school district shall provide this information to the receiving school, together with a copy of any previous assessment as required under subsection (1)(c) of this section, history of any best practices or researched-based intervention previously provided to the **student** by the **student's** sending school district, and a copy of the most recent truancy information including any online or written acknowledgment by the parent and **student**, as provided for in RCW 28A.225.005. All school districts must use the standard choice transfer form for releasing a student to a nonresident school district for the purposes of accessing an alternative learning experience program.
+
+
+## Section 104
+> This section modifies existing section [28A.225.025](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+1. For purposes of this chapter, "community **engagement** board" means a board established pursuant to a memorandum of understanding between a juvenile court and a school district and composed of members of the local community in which the **student** attends school. Community **engagement** boards must include members who receive training regarding the identification of barriers to school attendance, the use of the Washington assessment of the risks and needs of students (WARNS) or other assessment tools to identify the specific needs of individual **students**, cultural responsive interactions, trauma-informed approaches to discipline, evidence-based treatments that have been found effective in supporting at-risk youth and their families, and the specific services and treatment available in the particular school, court, community, and elsewhere. Duties of a community **engagement** board shall include, but not be limited to: Identifying barriers to school attendance**both inside and outside the school, including concerns with school climate, access to appropriate and culturally responsive curriculum, and necessary services for students with disabilities;** recommending methods for improving attendance such as connecting students and their families with community services, culturally appropriate promising practices, and evidence-based services such as functional family therapy**;** suggesting to the school district that the **student** enroll in another school, an alternative education program, an education center, a skill center, a dropout prevention program, or another public or private educational program**;** or recommending to the juvenile court that a juvenile be offered the opportunity for placement in a HOPE center or crisis residential center, if appropriate.
+
+2. [Empty]
+
+    a. **For purposes of this chapter, "coordinated means of interventions" are interventions provided in partnership with the court and are aimed at identifying barriers to school attendance and connecting students and their families with community services, culturally appropriate promising practices, and evidence-based services such as a truancy workshop, seminar, or a planning conference with the court, family, school, and/or relevant community organizations. The coordinated means of intervention may be less structured, formal, and resource-intensive than a community engagement board and are distinct from the interventions and supports provided by districts.**
+
+    b. **Districts and courts are encouraged to use a community engagement board when other coordinated means of support have already been attempted or exhausted.**
+
+3. The legislature finds that **coordinated means of intervention and use** of community **engagement** boards **and other coordinated means of intervention are** the preferred means of intervention when preliminary methods to eliminate or reduce unexcused absences as required by RCW 28A.225.020 have not been effective in securing the **student's** attendance at school. The legislature intends to encourage and support the development and expansion of community **engagement** boards. Operation of a school **engagement** board does not excuse a district from the obligation of filing a petition within the requirements of RCW 28A.225.015(3).
+
+
+## Section 105
+> This section modifies existing section [28A.225.026](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+1. By the beginning of the 2017-18 school year, juvenile courts must establish, through a memorandum of understanding with each school district within their respective counties, a coordinated and collaborative approach to address truancy through the establishment of a community **engagement** board or, with respect to certain small districts, through other means as provided in subsection (3) of this section.
+
+2. Except as provided in subsection (3) of this section, each school district must enter into a memorandum of understanding with the juvenile court in the county in which it is located with respect to the operation of a community **engagement** board **and other coordinated means of intervention**. A community **engagement** board may be operated by a juvenile court, a school district, or a collaboration between both entities, so long as the agreement is memorialized in a memorandum of understanding. **If a district serves students from multiple counties, the district shall enter into a memorandum of understanding with each jurisdiction, to ensure students have access to a community engagement board and community resources where the student lives.**
+
+3. A school district with fewer than **300** students must enter into a memorandum of understanding with the juvenile court in the county in which it is located with respect to: (a) The operation of a community **engagement** board; or (b) addressing truancy through other coordinated means of intervention . School districts with fewer than **300** students may work cooperatively with other school districts or the school district's educational service district to ensure access to a community **engagement** board or to provide other coordinated means of intervention.
+
+4. All school districts must designate, and identify to the local juvenile court and to the office of the superintendent of public instruction, a person or persons to coordinate school district efforts to address **chronic** absenteeism and truancy, including tasks associated with: Outreach and conferences pursuant to RCW 28A.225.018; entering into a memorandum of understanding with the juvenile court; establishing protocols and procedures with the court; coordinating trainings; sharing evidence-based and culturally appropriate promising practices; identifying a person within every school to serve as a contact with respect to **chronic** absenteeism and truancy; and assisting in the recruitment of community **engagement** board members.
+
+5. As has been demonstrated by school districts and county juvenile courts around the state that have worked together and led the way with community **engagement** boards, success has resulted from involving the entire community and leveraging existing dollars from a variety of sources, including public and private, local and state, and court, school, and community. In emulating this coordinated and collaborative approach statewide pursuant to local memoranda of understanding, courts and school districts are encouraged to create strong community-wide partnerships and to leverage existing dollars and resources.
+
+
+## Section 106
+> This section modifies existing section [28A.225.030](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+1. If a **student** under the age of **17** is required to attend school under RCW 28A.225.010 and if the actions taken by a school district under RCW 28A.225.020 are not successful in substantially reducing an enrolled student's absences from public school, **after the fifth** unexcused absence by a **student** within any month during the current school year **and** not later than the **15th** unexcused absence during the current school year the school district shall file a petition and supporting affidavit for a civil action with the juvenile court alleging a violation of RCW 28A.225.010: (a) By the parent; (b) by the **student**; or (c) by the parent and the **student**.
+
+2. [Empty]
+
+    a. The petition must include a list of all interventions that have been attempted as set forth in RCW 28A.225.020, include a **blank** copy **of any attendance or** truancy assessment completed by the **students** current school district, the history of  best **practice** or research-based intervention**s** previously provided to the **student** by the **student's** current school district, and a copy of the most recent truancy information document provided to the parent, pursuant to RCW 28A.225.005. Except as provided in this subsection, no additional documents need be filed with the petition.
+
+    b. **School districts must ensure that absences are verified and accurately recorded as excused or unexcused before filing a petition, to the extent that is feasible.**
+
+    c. **Districts must continue to attempt to reengage the student and file a petition even if the enrolled student ceases to be eligible to be claimed for state enrollment funding or has been withdrawn from the district due to nonattendance. Districts are encouraged to maintain student enrollment information locally even if they are not able to claim the student for state enrollment funding in order to minimize barriers for students to reengage with school.**
+
+    d. Nothing in this subsection requires court jurisdiction to terminate when a **student** turns **17** or precludes a school district from filing a petition for a **student** that is **17** years of age.
+
+    e. The petition may be filed by a school district employee who is not an attorney.
+
+3. If the school district fails to file a petition under this section, the parent of a **student** with five or more unexcused absences in any month during the current school year or upon the **fifteenth** unexcused absence during the current school year may file a petition with the juvenile court alleging a violation of RCW 28A.225.010.
+
+4. Petitions filed under this section may be served by certified mail, return receipt requested. If such service is unsuccessful, or the return receipt is not signed by the addressee, personal service is required.
+
+
+## Section 107
+> This section modifies existing section [28A.225.035](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+1. A petition for a civil action under RCW 28A.225.030 or 28A.225.015 shall consist of a written notification to the court alleging that:
+
+    a. The **student** has unexcused absences as described in RCW 28A.225.030(1) during the current school year;
+
+    b. Actions taken by the school district have not been successful in substantially reducing the **student's** absences from school; and
+
+    c. Court intervention and supervision are necessary to assist the school district or parent to reduce the **student's** absences from school.
+
+2. The petition shall set forth the name, date of birth, school, address, gender, race, and ethnicity of the **student** and the names and addresses of the **student's** parents, and shall set forth the languages in which the **student** and parent are fluent, whether there is an existing individualized education program, and the **student's** current academic status in school.
+
+3. The petition shall set forth facts that support the allegations in this section and shall generally request relief available under this chapter and provide information about what the court might order under RCW 28A.225.090.
+
+4. [Empty]
+
+    a. When a petition is filed under RCW 28A.225.030 or 28A.225.015, it shall initially be stayed by the juvenile court, and the **student** and the **student's** parent must be referred to a community **engagement** board or other coordinated means of intervention as set forth in the memorandum of understanding under RCW 28A.225.026. The community **engagement** board must provide to the court a description of the intervention and prevention efforts to be employed to substantially reduce the **student's** unexcused absences, along with a timeline for completion.
+
+    b. If a community **engagement** board or other coordinated means of intervention is not in place as required by RCW 28A.225.026, the juvenile court shall schedule a hearing at which the court shall consider the petition.
+
+5. When a referral is made to a community **engagement** board, the **community engagement** board must meet with the **student**, a parent, and the school district representative and enter into an agreement with the petitioner and respondent regarding expectations and any actions necessary to address the **student's** truancy within **20** days of the referral. If the petition is based on RCW 28A.225.015, the **student** shall not be required to attend and the agreement under this subsection shall be between the **community engagement** board, the school district, and the **student's** parent. The court may permit the **community engagement** board or truancy prevention counselor to provide continued supervision over the student, or parent if the petition is based on RCW 28A.225.015.
+
+6. If the community **engagement** board fails to reach an agreement, or the parent or student does not comply with the agreement within the timeline for completion set by the community **engagement** board, the community **engagement** board shall return the case to the juvenile court. The stay of the petition shall be lifted, and the juvenile court shall schedule a hearing at which the court shall consider the petition.
+
+7. [Empty]
+
+    a. Notwithstanding the provisions in subsection (4)(a) of this section, a hearing shall not be required if other actions by the court would substantially reduce the **student's** unexcused absences. Such actions may include referral to an existing community **engagement** board, use of the Washington assessment of risks and needs of students (WARNS) or other assessment tools to identify the specific needs of individual **students**, the provision of community-based services, and the provision of evidence-based treatments that have been found to be effective in supporting at-risk youth and their families. When a juvenile court hearing is held, the court shall:
+
+        i. Separately notify the **student**, the parent of the **student**, and the school district of the hearing. If the parent is not fluent in English, notice should be provided in a language in which the parent is fluent as indicated on the petition pursuant to RCW 28A.225.030(1);
+
+        ii. Notify the parent and the **student** of their rights to present evidence at the hearing; and
+
+        iii. Notify the parent and the **student** of the options and rights available under chapter 13.32A RCW.
+
+    b. If the **student** is not provided with counsel, the advisement of rights must take place in court by means of a colloquy between the court, the **student** if eight years old or older, and the parent.
+
+8. [Empty]
+
+    a. The court may require the attendance of the **student** if eight years old or older, the parents, and the school district at any hearing on a petition filed under RCW 28A.225.030.
+
+    b. The court may not issue a bench warrant for a **student** for failure to appear at a hearing on an initial truancy petition filed under RCW 28A.225.030. If there has been proper service, the court may instead enter a default order assuming jurisdiction under the terms specified in subsection (12) of this section.
+
+9. A school district is responsible for determining who shall represent the school district at hearings on a petition filed under RCW 28A.225.030 or 28A.225.015.
+
+10. The court may permit the first hearing to be held without requiring that either party be represented by legal counsel, and to be held without a guardian ad litem for the **student** under RCW 4.08.050. At the request of the school district, the court shall permit a school district representative who is not an attorney to represent the school district at any future hearings.
+
+11. If the **student** is in a special education program or has a diagnosed mental or emotional disorder, the court shall inquire as to what efforts the school district has made to assist the **student** in attending school.
+
+12. If the allegations in the petition are established by a preponderance of the evidence, the court shall grant the petition and enter an order assuming jurisdiction to intervene for the period of time determined by the court, after considering the facts alleged in the petition and the circumstances of the juvenile, to most likely cause the juvenile to return to and remain in school while the juvenile is subject to this chapter. In no case may the order expire before the end of the school year in which it is entered **unless the student turns 18 years of age**.
+
+13. [Empty]
+
+    a. If the court assumes jurisdiction, the school district shall periodically report to the court any additional unexcused absences by the **student**, actions taken by the school district, and an update on the **student's** academic status in school at a schedule specified by the court.
+
+    b. The first report under this subsection (13) must be received no later than three months from the date that the court assumes jurisdiction.
+
+14. Community **engagement** boards and the courts shall coordinate, to the extent possible, proceedings and actions pertaining to **students** who are subject to truancy petitions and at-risk youth petitions in RCW 13.32A.191 or **student** in need of services petitions in RCW 13.32A.140.
+
+15. If after a juvenile court assumes jurisdiction in one county the **student** relocates to another county, the juvenile court in the receiving county **may**, upon the request of a school district or parent, assume jurisdiction of the petition filed in the previous county.
+
+
+## Section 108
+> This section modifies existing section [28A.225.151](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+1. As required under subsection (2) of this section, the office of superintendent of public instruction shall collect and school districts shall submit student-level truancy data in order to allow a better understanding of actions taken under RCW 28A.225.030. The office shall prepare an annual report to the legislature by December 15th of each year.
+
+2. The reports under subsection (1) of this section shall include, disaggregated by student group:
+
+    a. The number of enrolled students and the number of unexcused absences;
+
+    b. The number of enrolled students with **10** or more unexcused absences in a school year or five or more unexcused absences in a month during a school year;
+
+    c.
+
+The number of petitions filed by a school district with the juvenile court and, beginning in the 2018-19 school year, whether the petition results in:
+
+        i. Referral to a community **engagement** board;
+
+        ii. Other coordinated means of intervention;
+
+        iii. A hearing in the juvenile court; or
+
+        iv. Other less restrictive disposition (e.g., change of placement, home school, alternative learning experience, residential treatment); and
+
+    d. Each instance of imposition of detention for failure to comply with a court order under RCW 28A.225.090, with a statement of the reasons for each instance of detention.
+
+3. A report required under this section shall not disclose the name or other identification of a **student** or parent.
+
+4. The K-12 data governance group shall develop the data protocols and guidance for school districts in the collection of data to provide a clearer understanding of actions taken under RCW 28A.225.030.
+
+
+## Section 201
+> This section modifies existing section [28A.225.027](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+1. Subject to funds appropriated for this purpose, the office of the superintendent of public instruction shall allocate to community **engagement** boards grant funds that may be used to supplement existing funds in order to pay for training for board members or the provision of services and treatment to **students** and their families.
+
+2. The superintendent of public instruction must select grant recipients based on the criteria in this section. This is a competitive grant process. A prerequisite to applying for either or both grants is a memoranda of understanding, between a school district and a court, to institute a new or maintain an existing community **engagement** board that meets the requirements of RCW 28A.225.025.
+
+3. Successful applicants for an award of grant funds to supplement existing funds to pay for the training of community **engagement** board members must commit to the provision of training to board members regarding the identification of barriers to school attendance, the use of the Washington assessment of the risks and needs of students (WARNS) or other assessment tools to identify the specific needs of individual **students**, trauma-informed approaches to discipline, research about adverse childhood experiences, evidence-based treatments and culturally appropriate promising practices, as well as the specific academic and community services and treatments available in the school, court, community, and elsewhere. This training may be provided by educational service districts.
+
+4. Successful applicants for an award of grant funds to supplement existing funds to pay for services and treatments provided to **students** and their families must commit to the provision of academic services such as tutoring, credit retrieval and school reengagement supports, community services, and evidence-based treatments that have been found to be effective in supporting at-risk youth and their families, such as functional family therapy, or those that have been shown to be culturally appropriate promising practices.
+
+
+## Section 202
+> This section modifies existing section [28A.225.0261](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+1. By requiring an initial stay of truancy petitions for **referral** to community **engagement** boards, the legislature intends to achieve the following outcomes:
+
+    a. Increased access to community **engagement** boards and other truancy early intervention programs for parents and **students** throughout the state;
+
+    b. Increased quantity and quality of truancy intervention and prevention efforts in the community;
+
+    c. A reduction in the number of truancy petitions that result in further proceedings by juvenile courts, other than dismissal of the petition, after the initial stay and diversion to a community **engagement** board;
+
+    d. A reduction in the number of truancy petitions that result in a civil contempt proceeding or detention order; and
+
+    e. Increased school attendance.
+
+2. No later than January 1, 2021, the Washington state institute for public policy is directed to evaluate the effectiveness of chapter 205, Laws of 2016. An initial report scoping of the methodology to be used to review chapter 205, Laws of 2016 shall be submitted to the fiscal committees of the legislature by January 1, 2018. The initial report must identify any data gaps that could hinder the ability of the institute to conduct its review.
+
+
+## Section 203
+> This section modifies existing section [28A.225.005](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+1. Each school within a school district shall inform the students and the parents of the students enrolled in the school about: The benefits of regular school attendance; the potential effects of excessive absenteeism, whether excused or unexcused, on academic achievement, and graduation and dropout rates; the school's expectations of the parents and guardians to ensure regular school attendance by the **student**; the resources available to assist the **student** and the parents and guardians; the role and responsibilities of the school; and the consequences of truancy, including the compulsory education requirements under this chapter. The school shall provide access to the information before or at the time of enrollment of the **student** at a new school and at the beginning of each school year. If the school regularly and ordinarily communicates most other information to parents online, providing online access to the information required by this section satisfies the requirements of this section unless a parent or guardian specifically requests information to be provided in written form. Reasonable efforts must be made to enable parents to request and receive the information in a language in which they are fluent. A parent must date and acknowledge review of this information online or in writing before or at the time of enrollment of the **student** at a new school and at the beginning of each school year.
+
+2. The office of the superintendent of public instruction shall develop a template that schools may use to satisfy the requirements of subsection (1) of this section and shall post the information on its website.
+
+
+## Section 204
+> This section modifies existing section [28A.225.010](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+1. All parents in this state of any **student** eight years of age and under **18** years of age shall cause such **student** to attend the public school of the district in which the **student** resides and such **student** shall have the responsibility to and therefore shall attend for the full time when such school may be in session unless:
+
+    a. The **student** is attending an approved private school for the same time or is enrolled in an extension program as provided in RCW 28A.195.010(4);
+
+    b. The **student** is receiving home-based instruction as provided in subsection (4) of this section;
+
+    c. The **student** is attending an education center as provided in chapter 28A.205 RCW;
+
+    d. The school district superintendent of the district in which the **student** resides shall have excused such **student** from attendance because the **student** is physically or mentally unable to attend school, is attending a residential school operated by the department of social and health services or the department of children, youth, and families, is incarcerated in an adult correctional facility, or has been temporarily excused upon the request of his or her parents for purposes agreed upon by the school authorities and the parent: PROVIDED, That such excused absences shall not be permitted if deemed to cause a serious adverse effect upon the student's educational progress: PROVIDED FURTHER, That students excused for such temporary absences may be claimed as full-time equivalent students to the extent they would otherwise have been so claimed for the purposes of RCW 28A.150.250 and 28A.150.260 and shall not affect school district compliance with the provisions of RCW 28A.150.220;
+
+    e. The **student** is excused from school subject to approval by the student's parent for a reason of faith or conscience, or an organized activity conducted under the auspices of a religious denomination, church, or religious organization, for up to two days per school year without any penalty. Such absences may not mandate school closures. Students excused for such temporary absences may be claimed as full-time equivalent students to the extent they would otherwise have been so claimed for the purposes of RCW 28A.150.250 and 28A.150.260 and may not affect school district compliance with the provisions of RCW 28A.150.220; or
+
+    f. The **student** is **16** years of age or older and:
+
+        i. The **student** is regularly and lawfully employed and either the parent agrees that the **student** should not be required to attend school or the **student** is emancipated in accordance with chapter 13.64 RCW;
+
+        ii. The **student** has already met graduation requirements in accordance with state board of education rules and regulations; or
+
+        iii. The **student** has received a certificate of educational competence under rules and regulations established by the state board of education under RCW 28A.305.190.
+
+2. A parent for the purpose of this chapter means a parent, guardian, or person having legal custody of a **student**.
+
+3. An approved private school for the purposes of this chapter and chapter 28A.200 RCW shall be one approved under regulations established by the state board of education pursuant to RCW 28A.305.130.
+
+4. For the purposes of this chapter and chapter 28A.200 RCW, instruction shall be home-based if it consists of planned and supervised instructional and related educational activities, including a curriculum and instruction in the basic skills of occupational education, science, mathematics, language, social studies, history, health, reading, writing, spelling, and the development of an appreciation of art and music, provided for a number of hours equivalent to the total annual program hours per grade level established for approved private schools under RCW 28A.195.010 and 28A.195.040 and if such activities are:
+
+    a. Provided by a parent who is instructing his or her **student** only and are supervised by a certificated person. A certificated person for purposes of this chapter and chapter 28A.200 RCW shall be a person certified under chapter 28A.410 RCW. For purposes of this section, "supervised by a certificated person" means: The planning by the certificated person and the parent of objectives consistent with this subsection; a minimum each month of an average of one contact hour per week with the **student** being supervised by the certificated person; and evaluation of such **student's** progress by the certificated person. The number of **students** supervised by the certificated person shall not exceed **30** for purposes of this subsection; or
+
+    b. Provided by a parent who is instructing his or her **student** only and who has either earned **45** college-level quarter credit hours or its equivalent in semester hours or has completed a course in home-based instruction at a postsecondary institution or a vocational-technical institute; or
+
+    c. Provided by a parent who is deemed sufficiently qualified to provide home-based instruction by the superintendent of the local school district in which the **student** resides.
+
+5. The legislature recognizes that home-based instruction is less structured and more experiential than the instruction normally provided in a classroom setting. Therefore, the provisions of subsection (4) of this section relating to the nature and quantity of instructional and related educational activities shall be liberally construed.
+
+
+## Section 205
+> This section modifies existing section [28A.225.023](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+A school district representative or school employee shall review unexpected or excessive absences with a **student** who is dependent pursuant to chapter 13.34 RCW and adults involved with that **student**, to include the **student's** caseworker, educational liaison, attorney if one is appointed, parent or guardians, and foster parents or the person providing placement for the **student**. The purpose of the review is to determine the cause of the absences, taking into account: Unplanned school transitions, periods of running from care, inpatient treatment, incarceration, school adjustment, educational gaps, psychosocial issues, and unavoidable appointments during the school day. A school district representative or a school employee must proactively support the **student's** school work so the student does not fall behind and to avoid suspension or expulsion based on truancy.
+
+
+## Section 206
+> This section modifies existing section [28A.225.031](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+The authority of a court to issue an order for testing to determine whether the **student** has consumed or used alcohol or controlled substances applies to all persons subject to a petition under RCW 28A.225.030 regardless of whether the petition was filed before July 27, 1997.
+
+
+## Section 207
+> This section modifies existing section [28A.225.060](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+Any school district official, sheriff, deputy sheriff, marshal, police officer, or any other officer authorized to make arrests, may take into custody without a warrant a **student** who is required under the provisions of RCW 28A.225.010 through 28A.225.140 to attend school and is absent from school without an approved excuse, and shall deliver the **student** to: (1) The custody of a person in parental relation to the **student**; (2) the school from which the **student** is absent; or (3) a program designated by the school district.
+
+
+## Section 208
+> This section modifies existing section [28A.225.080](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+Except as otherwise provided in this code, no **student** under the age of **15** years shall be employed for any purpose by any person, company or corporation, in this state during the hours which the public schools of the district in which such **student** resides are in session, unless the said **student** shall present a certificate from a school superintendent as provided for in RCW 28A.225.010, excusing the said **student** from attendance in the public schools and setting forth the reason for such excuse, the residence and age of the **student**, and the time for which such excuse is given. Every owner, superintendent, or overseer of any establishment, company or corporation shall keep such certificate on file so long as such **student** is employed by him or her. The form of said certificate shall be furnished by the superintendent of public instruction. Proof that any **student** under **15** years of age is employed during any part of the period in which public schools of the district are in session, shall be deemed prima facie evidence of a violation of this section.
+
+
+## Section 209
+> This section modifies existing section [28A.225.090](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+1. A court may order a **student** subject to a petition under RCW 28A.225.035 to do one or more of the following:
+
+    a. Attend the **student's** current school, and set forth minimum attendance requirements, which shall not consider a suspension day as an unexcused absence;
+
+    b. If there is space available and the program can provide educational services appropriate for the **student**, order the **student** to attend another public school, an alternative education program, center, a skill center, dropout prevention program, or another public educational program;
+
+    c. Attend a private nonsectarian school or program including an education center. Before ordering a **student** to attend an approved or certified private nonsectarian school or program, the court shall: (i) Consider the public and private programs available; (ii) find that placement is in the best interest of the **student**; and (iii) find that the private school or program is willing to accept the **student** and will not charge any fees in addition to those established by contract with the student's school district. If the court orders the **student** to enroll in a private school or program, the **student's** school district shall contract with the school or program to provide educational services for the **student**. The school district shall not be required to contract for a weekly rate that exceeds the state general apportionment dollars calculated on a weekly basis generated by the **student** and received by the district. A school district shall not be required to enter into a contract that is longer than the remainder of the school year. A school district shall not be required to enter into or continue a contract if the **student** is no longer enrolled in the district;
+
+    d. Submit to a substance abuse assessment if the court finds on the record that such assessment is appropriate to the circumstances and behavior of the **student** and will facilitate the **student's** compliance with the mandatory attendance law and, if any assessment, including a urinalysis test ordered under this subsection indicates the use of controlled substances or alcohol, order the minor to abstain from the unlawful consumption of controlled substances or alcohol and adhere to the recommendations of the substance abuse assessment at no expense to the school; or
+
+    e. Submit to a mental health evaluation or other diagnostic evaluation and adhere to the recommendations of the drug assessment, at no expense to the school, if the court finds on the court records that such evaluation is appropriate to the circumstances and behavior of the **student**, and will facilitate the **student's** compliance with the mandatory attendance law.
+
+2. If the **student** fails to comply with the court order, the court may impose:
+
+    a. Community restitution;
+
+    b. Nonresidential programs with intensive wraparound services;
+
+    c. A requirement that the **student** meet with a mentor for a specified number of times; or
+
+    d. Other services and interventions that the court deems appropriate.
+
+3. Any parent violating any of the provisions of either RCW 28A.225.010, 28A.225.015, or 28A.225.080 shall be fined not more than **$25** for each day of unexcused absence from school. The court shall remit **50** percent of the fine collected under this section to the **student's** school district. It shall be a defense for a parent charged with violating RCW 28A.225.010 to show that he or she exercised reasonable diligence in attempting to cause a **student** in his or her custody to attend school or that the **student's** school did not perform its duties as required in RCW 28A.225.020. The court may order the parent to provide community restitution instead of imposing a fine. Any fine imposed pursuant to this section may be suspended upon the condition that a parent charged with violating RCW 28A.225.010 shall participate with the school and the **student** in a supervised plan for the **student's** attendance at school or upon condition that the parent attend a conference or conferences scheduled by a school for the purpose of analyzing the causes of a **student's** absence.
+
+4. If a **student** continues to be truant after entering into a court-approved order with the truancy board under RCW 28A.225.035, the juvenile court shall find the **student** in contempt, and the court may impose alternatives to detention consistent with best practice models for reengagement with school.
+
+5. Nothing in this section shall be construed to limit the court's inherent contempt power or curtail its exercise.
+
+6. Subsections (1), (2), and (4) of this section shall not apply to a six or seven year old **student** required to attend public school under RCW 28A.225.015.
+
+
+## Section 210
+> This section modifies existing section [28A.225.170](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+1. Any **student** who is of school age and otherwise eligible residing within the boundaries of any military, naval, lighthouse, or other United States reservation, national park, or national forest or residing upon rented or leased undeeded lands within any Indian reservation within the state of Washington, shall be admitted to the public school, or schools, of any contiguous district without payment of tuition: PROVIDED, That the United States authorities in charge of such reservation or park shall cooperate fully with state, county, and school district authorities in the enforcement of the laws of this state relating to the compulsory attendance of **students** of school age, and all laws relating to and regulating school attendance.
+
+2. Any **student** who is of school age and otherwise eligible, residing in a home that is located in Idaho but that has a Washington address for the purposes of the United States postal service, shall be admitted, without payment of tuition, to the nearest Washington school district and shall be considered a resident student for state apportionment and all other purposes.
+
+
+## Section 211
+> This section modifies existing section [28A.225.200](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+1. A local district may be authorized by the educational service district superintendent to transport and educate its **students** in other districts for one year, either by payment of a compensation agreed upon by such school districts, or under other terms mutually satisfactory to the districts concerned when this will afford better educational facilities for the **students** and when a saving may be effected in the cost of education. Notwithstanding any other provision of law, the amount to be paid by the state to the resident school district for apportionment purposes and otherwise payable pursuant to RCW 28A.150.250 through 28A.150.290, 28A.150.350 through 28A.150.410, 28A.160.150 through 28A.160.200, 28A.300.035, and 28A.300.170 shall not be greater than the regular apportionment for each high school student of the receiving district. Such authorization may be extended for an additional year at the discretion of the educational service district superintendent.
+
+2. Subsection (1) of this section shall not apply to districts participating in a cooperative project established under RCW 28A.340.030 which exceeds two years in duration or to nonhigh school districts participating in an interdistrict cooperative under RCW 28A.340.080 through 28A.340.090.
+
+
+## Section 212
+> This section modifies existing section [28A.225.215](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+1. A school district shall not require proof of residency or any other information regarding an address for any **student** who is eligible by reason of age for the services of the school district if the **student** does not have a legal residence.
+
+2. A school district shall enroll a **student** without a legal residence under subsection (1) of this section at the request of the **student** or parent or guardian of the **student**.
+
+
+## Section 213
+> This section modifies existing section [28A.225.220](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+1. Any board of directors may make agreements with adults choosing to attend school, and may charge the adults reasonable tuition.
+
+2. A district is strongly encouraged to honor the request of a parent or guardian for his or her **student** to attend a school in another district or the request of a parent or guardian for his or her **student** to transfer as a student receiving home-based instruction.
+
+3. A district shall release a student to a nonresident district that agrees to accept the student if:
+
+    a. A financial, educational, safety, or health condition affecting the student would likely be reasonably improved as a result of the transfer; or
+
+    b. Attendance at the school in the nonresident district is more accessible to the parent's place of work or to the location of child care; or
+
+    c. There is a special hardship or detrimental condition; or
+
+    d. The purpose of the transfer is for the student to enroll in an online course or online school program offered by an online provider approved under RCW 28A.250.020.
+
+4. A district may deny the request of a resident student to transfer to a nonresident district if the release of the student would adversely affect the district's existing desegregation plan.
+
+5. For the purpose of helping a district assess the quality of its education program, a resident school district may request an optional exit interview or questionnaire with the parents or guardians of a **student** transferring to another district. No parent or guardian may be forced to attend such an interview or complete the questionnaire.
+
+6. Beginning with the 1993-94 school year, school districts may not charge transfer fees or tuition for nonresident students enrolled under subsection (3) of this section and RCW 28A.225.225. Reimbursement of a high school district for cost of educating high school **students** of a nonhigh school district shall not be deemed a transfer fee as affecting the apportionment of current state school funds.
+
+
+## Section 214
+> This section modifies existing section [28A.225.225](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+1. Except for students who reside out-of-state and students under RCW 28A.225.217, a district shall accept applications from nonresident students who are the **students** of full-time certificated and classified school employees, and those **students** shall be permitted to enroll:
+
+    a. At the school to which the employee is assigned;
+
+    b. At a school forming the district's K through 12 continuum which includes the school to which the employee is assigned; or
+
+    c. At a school in the district that provides early intervention services pursuant to RCW 43.216.580 or preschool services pursuant to RCW 28A.155.070, if the student is eligible for such services.
+
+2. A district may reject applications under this section if:
+
+    a. The student's disciplinary records indicate a history of convictions for offenses or crimes, violent or disruptive behavior, or gang membership;
+
+    b. The student has been expelled or suspended from a public school for more than **10** consecutive days. Any policy allowing for readmission of expelled or suspended students under this subsection (2)(b) must apply uniformly to both resident and nonresident applicants;
+
+    c. Enrollment of a **student** under this section would displace a **student** who is a resident of the district, except that if a **student** is admitted under subsection (1) of this section, that **student** shall be permitted to remain enrolled at that school, or in that district's kindergarten through twelfth grade continuum, until he or she has completed his or her schooling; or
+
+    d. The student has repeatedly failed to comply with requirements for participation in an online school program, such as participating in weekly direct contact with the teacher or monthly progress evaluations.
+
+3. A nonhigh district that is participating in an innovation academy cooperative may not accept an application from a high school student that conflicts with RCW 28A.340.080.
+
+4. Except as provided in subsection (1) of this section, all districts accepting applications from nonresident students or from students receiving home-based instruction for admission to the district's schools shall consider equally all applications received. Each school district shall adopt a policy establishing rational, fair, and equitable standards for acceptance and rejection of applications by June 30, 1990. The policy may include rejection of a nonresident student if:
+
+    a. Acceptance of a nonresident student would result in the district experiencing a financial hardship;
+
+    b. The student's disciplinary records indicate a history of convictions for offenses or crimes, violent or disruptive behavior, or gang membership;
+
+    c. Accepting of the nonresident student would conflict with RCW 28A.340.080; or
+
+    d. The student has been expelled or suspended from a public school for more than **10** consecutive days. Any policy allowing for readmission of expelled or suspended students under this subsection (4)(d) must apply uniformly to both resident and nonresident applicants.
+
+For purposes of subsections (2)(a) and (4)(b) of this section, "gang" means a group which: (i) Consists of three or more persons; (ii) has identifiable leadership; and (iii) on an ongoing basis, regularly conspires and acts in concert mainly for criminal purposes.
+
+5. The district shall provide to applicants written notification of the approval or denial of the application in a timely manner. If the application is rejected, the notification shall include the reason or reasons for denial and the right to appeal under RCW 28A.225.230(3).
+
+
+## Section 215
+> This section modifies existing section [28A.225.260](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+If the laws of another state permit its school districts to extend similar privileges to **students** resident in this state, the board of directors of any school district contiguous to a school district in such other state may make agreements with the officers of the school district of that state for the attendance of any **students** resident therein upon the payment of tuition.
+
+If a district accepts out-of-state **students** whose resident district is contiguous to a Washington school district, such district shall charge and collect the cost for educating such **students** and shall not include such out-of-state **students** in the computation of the district's share of state and/or county funds.
+
+The board of directors of any school district which is contiguous to a school district in another state may make agreements for and pay tuition for any **students** of their district desiring to attend school in the contiguous district of the other state. The tuition to be paid for the attendance of resident **students** in an out-of-state school as provided in this section shall be no greater than the cost of educating such elementary or secondary **students**, as the case may be, in the out-of-state educating district.
+
+
+## Section 216
+> This section modifies existing section [28A.225.270](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+1. Each school district in the state shall adopt and implement a policy allowing intradistrict enrollment options no later than June 30, 1990. Each district shall establish its own policy establishing standards on how the intradistrict enrollment options will be implemented.
+
+2. A district shall permit the **students** of full-time certificated and classified school employees to enroll at:
+
+    a. The school to which the employee is assigned;
+
+    b. A school forming the district's K through 12 continuum which includes the school to which the employee is assigned; or
+
+    c. A school in the district that provides early intervention services pursuant to RCW 43.216.580 or preschool services pursuant to RCW 28A.155.070, if the student is eligible for such services.
+
+3. For the purposes of this section, "full-time employees" means employees who are employed for the full number of hours and days for their job description.
+
+
+## Section 218
+> This section modifies existing section [28A.225.310](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+Any school district board of directors may make arrangements with the board of directors of other districts for **students** to attend the school district of choice. Nothing under RCW 28A.225.220 and 28A.225.225 is intended to adversely affect agreements between school districts in effect on April 11, 1990.
+
+
+## Section 219
+> This section modifies existing section [28A.225.330](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+1. When enrolling a student who has attended school in another school district, the school enrolling the student may request the parent and the student to briefly indicate in writing whether or not the student has:
+
+    a. Any history of placement in special educational programs;
+
+    b. Any past, current, or pending disciplinary action;
+
+    c. Any history of violent behavior, or behavior listed in RCW 13.04.155;
+
+    d. Any unpaid fines or fees imposed by other schools; and
+
+    e. Any health conditions affecting the student's educational needs.
+
+2. The school enrolling the student shall request the student's permanent record including records of disciplinary action, history of violent behavior or behavior listed in RCW 13.04.155, attendance, immunization records, and academic performance from the school the student previously attended. If the student has not paid a fine or fee under RCW 28A.635.060, or tuition, fees, or fines at approved private schools the school may withhold the student's official transcript, but shall transmit information about the student's academic performance, special placement, immunization records, records of disciplinary action, and history of violent behavior or behavior listed in RCW 13.04.155. If the official transcript is not sent due to unpaid tuition, fees, or fines, the enrolling school shall notify both the student and parent or guardian that the official transcript will not be sent until the obligation is met, and failure to have an official transcript may result in exclusion from extracurricular activities or failure to graduate.
+
+3. Upon request, school districts shall furnish a set of unofficial educational records to a parent or guardian of a student who is transferring out of state and who meets the definition of a child of a military family in transition under Article II of RCW 28A.705.010. School districts may charge the parent or guardian the actual cost of providing the copies of the records.
+
+4. If information is requested under subsection (2) of this section, the information shall be transmitted within two school days after receiving the request and the records shall be sent as soon as possible. The records of a student who meets the definition of a child of a military family in transition under Article II of RCW 28A.705.010 shall be sent within **10** days after receiving the request. Any school district or district employee who releases the information in compliance with this section is immune from civil liability for damages unless it is shown that the school district employee acted with gross negligence or in bad faith. The professional educator standards board shall provide by rule for the discipline under chapter 28A.410 RCW of a school principal or other chief administrator of a public school building who fails to make a good faith effort to assure compliance with this subsection.
+
+5. Any school district or district employee who releases the information in compliance with federal and state law is immune from civil liability for damages unless it is shown that the school district or district employee acted with gross negligence or in bad faith.
+
+6. A school may not prevent a student who is dependent pursuant to chapter 13.34 RCW from enrolling if there is incomplete information as enumerated in subsection (1) of this section during the **10** business days that the department of social and health services has to obtain that information under RCW 74.13.631. In addition, upon enrollment of a student who is dependent pursuant to chapter 13.34 RCW, the school district must make reasonable efforts to obtain and assess that **student's** educational history in order to meet the **student's** unique needs within two business days.
+
+
+## Section 220
+> This section modifies existing section [28A.225.350](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+1. The protocols required by RCW 74.13.560 for making best interest determinations for students in out-of-home care must comply with the provisions of this section.
+
+2. [Empty]
+
+    a. Best interest determinations should be made as quickly as possible in order to prevent educational discontinuity for the student.
+
+    b. When making best interest determinations, every effort should be made to gather meaningful input from relevant and appropriate persons on their perspectives regarding which school the student should attend during his or her time in out-of-home care, consistent with the student's case plan. Relevant and appropriate persons include:
+
+        i. Representatives of the department of children, youth, and families;
+
+        ii. Representatives of the school of origin, such as a teacher, counselor, coach, or other meaningful person in the student's life;
+
+        iii. Biological parents;
+
+        iv. Foster parents;
+
+    v. Educational liaisons identified under RCW 13.34.045;
+
+    vi. The student's relatives; and
+
+    vii. Depending on his or her age, the student.
+
+3. In accordance with RCW 74.13.550, whenever practical and in their best interest, students placed into out-of-home care must remain enrolled in the school that they were attending at the time they entered out-of-home care.
+
+4. Student-centered factors must be used to determine what is in a student's best interest. In order to make a well-informed best interest determination, a variety of student-centered factors should be considered, including:
+
+    a. How long is the student's current out-of-home care placement expected to last?
+
+    b. What is the student's permanency plan and how does it relate to school stability?
+
+    c. How many schools has the student attended in the current year?
+
+    d. How many schools has the student attended over the past few years?
+
+    e. Considering the impacts of past transfers, how may transferring to a new school impact the student academically, emotionally, physically, and socially?
+
+    f. What are the immediate and long-term educational plans of, and for, the student?
+
+    g. How strong is the student academically?
+
+    h. If the student has special needs, what impact will transferring to a new school have on the student's progress and services?
+
+    i. To what extent are the programs and activities at the potential new school comparable to, or more appropriate than, those at the school of origin?
+
+    j. Does one school have programs and activities that address the unique needs or interests of the student that the other school does not have?
+
+    k. Which school does the student prefer?
+
+    l. How deep are the **student's** ties to his or her school of origin?
+
+    m. Would the timing of the school transfer coincide with a logical juncture, such as after testing, after an event that is significant to the student, or at the end of the school year?
+
+    n. How would changing schools affect the student's ability to earn full academic credit, participate in sports or other extracurricular activities, proceed to the next grade, or graduate on time?
+
+    o. How would the commute to the school under consideration impact the student, in terms of distance, mode of transportation, and travel time?
+
+    p. How anxious is the student about having been removed from the home or about any upcoming moves?
+
+    q. What school does the student's sibling attend?
+
+    r. Are there safety issues to consider?
+
+5. The student must remain in his or her school of origin while a best interest determination is made and while disputes are resolved in order to minimize disruption and reduce the number of school transfers.
+
+6. School districts are encouraged to use any:
+
+    a. Best interest determination guide developed by the office of the superintendent of public instruction during the discussion about the advantages and disadvantages of keeping the student in the school of origin or transferring the student to a new school; and
+
+    b. Dispute resolution process developed by the office of the superintendent of public instruction when there is a disagreement about school placement, the provision of educational services, or a dispute between agencies.
+
+7. The special education services of a student must not be interrupted by a transfer to a new school.
+
+8. For the purposes of this section, "out-of-home care" has the same meaning as in RCW 13.34.030.
+

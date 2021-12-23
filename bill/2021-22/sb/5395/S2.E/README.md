@@ -1,0 +1,23 @@
+# Engrossed Second Substitute Senate Bill 5395 as Recommended by Ways & Means
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5395-S2.E.xml)
+## Section 1
+The legislature finds that during the COVID-19 pandemic, state employees have incurred personal expenses and utilized their own resources serving the public. The state needs to provide state employees the tools necessary to serve the public while working from home.
+
+## Section 3
+(1) During the COVID-19 emergency, state employees may use state internet resources outside normal business hours for social gatherings to enable them to maintain communication and gather socially. Such activities may include, but not be limited to, sharing ideas and tips for working remotely, lunch time gatherings, guest speakers, and open microphone sessions. These activities must be done at no expense to the state and will be considered de minimis activities. Participation in such activities will not result in the payment of overtime or accrual of compensatory time.
+(2) This section expires upon the termination of the state of emergency under proclamation 20-05 and any subsequent state of emergency issued pertaining to COVID-19 in accordance with RCW 43.06.210. The governor shall provide written notice of the termination date of the state of emergency under proclamation 20-05 and any subsequent state of emergency issued pertaining to COVID-19 to affected parties, the chief clerk of the house of representatives, the secretary of the senate, the office of the code reviser, and others as deemed appropriate by the governor.
+
+## Section 4
+(1) The office of financial management must establish and chair a remote working environment work group to review the issues related to working in a remote environment and prepare a report with recommendations for law and policy in order to more effectively allow state employees to work remotely.
+(2) The work group must be composed of representatives of large, medium, and small-sized agencies, and labor organizations. The work group must include representatives of institutions of higher education.
+(3) The work group must review issues including, but not limited to:
+(a) Scheduling;
+(b) The provision of equipment, supplies, and other services needed to perform the duties of employment;
+(c) Ways to cover additional expenses incurred by employees for remote work;
+(d) Ergonomic issues;
+(e) Other potential areas of liability;
+(f) Cybersecurity and privacy; and
+(g) Ways to assist and facilitate state employees in their work.
+(4) The work group must submit an initial report to the governor and appropriate committees of the legislature by November 1, 2021, and a final report by June 30, 2022.
+(5) This section expires June 30, 2023.

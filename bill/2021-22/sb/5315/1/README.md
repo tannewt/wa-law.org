@@ -1,0 +1,130 @@
+# Senate Bill 5315
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5315.xml)
+## Section 1
+The legislature finds that creating a framework for Washington private entities and public institutions of higher education to manage their risks through captive insurers will facilitate the growth and safety of those entities and protect the public interest. The legislature further finds that captive insurance promotes prudent risk management and provides access to insurance and reinsurance markets that may not be available to these Washington entities otherwise. The legislature believes that encouraging the use of captive insurance will support those who rely upon the strength and stability of employers in this state.
+The legislature does not intend by this act to make Washington a captive domicile state. Rather, the legislature is establishing a framework for registration by captive insurers that insure Washington-based entities and are licensed by the jurisdictions in which they are domiciled.
+
+## Section 2
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+(1) "Affiliate" means an entity directly or indirectly controlling, controlled by, or under common control with another entity, such as a parent or a subsidiary corporation. "Affiliate" also means any person that holds an insured interest because that person has or had an employment or sales contract with an insured person.
+(2) "Captive owner" means one of the following:
+(a) An entity that is organized under Title 23B, 24, or 25 RCW, or analogous provisions of the law of another state or territory; or
+(b) A public institution of higher education.
+(3) "Casualty insurance" has the same meaning as "general casualty insurance" as defined in RCW 48.11.070.
+(4) "Control" means possession of the power to direct the management and policies of an entity through ownership of voting securities, by contract, or otherwise.
+(5) "Eligible captive insurer" means an insurance company with the following characteristics:
+(a) It is wholly or partially owned by a captive owner;
+(b) It insures risks of the captive owner, the captive owner's other affiliates, or both;
+(c) One or more of its insureds have their principal place of business in Washington;
+(d) It has assets that exceed its liabilities by at least $1,000,000 and has the ability to pay its debts as they come due, both as verified by audited financial statements prepared by an independent certified accountant; and
+(e) It is licensed as a captive insurer by the jurisdiction in which it is domiciled.
+(6) "Property insurance" has the same meaning as in RCW 48.11.040.
+(7) "Public institution of higher education" means an institution of higher education as defined in RCW 28B.10.016.
+
+## Section 3
+(1) Within 120 days after the effective date of this section or, if later, within 120 days after first issuing a policy that covers Washington risks, an entity acting as an eligible captive insurer must register with the commissioner.
+(2) The commissioner will approve an eligible captive insurer's registration if the commissioner determines that the eligible captive insurer has sufficiently demonstrated:
+(a)(i) That its assets exceed its liabilities by at least $1,000,000 and it has the ability to pay its debts as they come due, both as verified by audited financial statements prepared by an independent certified accountant; and
+(ii) That it is in good standing in its jurisdiction of domicile; and
+(b) The eligible captive insurer has paid a fee of $2,500.
+(3) The commissioner may request additional documentation and information if needed to show that these requirements have been met.
+(4) The commissioner may deny registration for any eligible captive insurer that fails to meet the requirements in subsections (2) and (3) of this section.
+(5) A registered captive insurer may renew its certificate of registration for successive periods of 12 months each by, for each period, meeting the requirements of subsections (2)(a) and (3) of this section and paying a renewal fee in an amount set by the commissioner not to exceed $2,500.
+(6) A registered eligible captive insurer may provide only property and casualty insurance and may provide such insurance to a captive owner, to the captive owner's other affiliates, or both. A registered eligible captive insurer may assume risks from other insurers as a reinsurer without regard to the limitations in the preceding sentence.
+(7) A registered eligible captive insurer may insure risks of its affiliates and obtain or provide reinsurance for ceded or assumed risks insured in this state or elsewhere.
+
+## Section 4
+(1) On or before the first day of March of each year, a registered eligible captive insurer must remit to the state treasurer through the commissioner a tax in the amount of two percent of the premiums, exclusive of returned premiums and sums collected to cover federal and state taxes and examination fees, for insurance directly procured by and provided to its parent or another affiliate for Washington risks during the preceding calendar year. The tax when collected must be credited to the general fund.
+(2) For the purposes of this section, "Washington risks" means the share of risk covered by the premiums that is allocable to this state, based on where the underlying risks are located or where the losses or injuries giving rise to covered claims arise. A registered eligible captive insurer may use any reasonable method of determining such an allocation, including actuarial analysis or use of a proxy such as sales, property value, or payroll. Whether paid directly or by reimbursement, neither the timing nor the nature of a captive insurer's payment may be deemed to reflect, create, or constitute Washington risks.
+(3) The registered eligible captive insurer must share its methodology and relevant analysis in determining its allocation with the commissioner.
+(4) A registered eligible captive insurer is not liable for premium tax on moneys received as a reinsurer or on insurance placed through a surplus lines broker or other intermediary that collects and remits premium tax.
+(5) If a registered eligible captive insurer fails to remit the tax provided by this section by the last day of the month in which the tax becomes due, the registered eligible captive insurer must pay the tax and the penalties and interest provided in RCW 48.14.060. The tax may be collected by distraint, or the tax and fine may be recovered by an action instituted by the commissioner in any court of competent jurisdiction. Any fine collected by the commissioner must be paid to the state treasurer and credited to the general fund.
+(6) Taxes on premiums are due under this section from an eligible captive insurer for any period after January 1, 2011, if not previously remitted to the commissioner, and further provided that all such taxes must be limited to an eligible captive insurer's Washington risks. Taxes due under this subsection for periods before July 1, 2021, are not subject to the penalties or interest provided in RCW 48.14.060. For periods beginning July 1, 2021, a registered eligible captive insurer is subject to the sanctions in subsection (5) of this section.
+
+## Section 5
+(1) The commissioner is authorized to make use of any of the powers established under Title 48 RCW to enforce the laws of this state. This includes, but is not limited to, the commissioner's administrative authority to investigate, issue subpoenas, conduct depositions and hearings, issue orders, impose penalties, and seek injunctive relief. With regard to any investigation, administrative proceedings, or litigation, the commissioner can rely on the procedural law and regulations of the state. An eligible captive insurer that violates any provision of this chapter after its effective date will be subject to the fines and penalties applicable to authorized insurers generally, including revocation of its registration, suspension of registration, and refusal to renew registration.
+(2) An eligible captive insurer that fails to register under this act is acting as an unlawful, unauthorized insurer and is subject to the fines and penalties applicable to unlawful, unauthorized insurers generally.
+
+## Section 6
+The commissioner may adopt rules as necessary to implement this act.
+
+## Section 7
+> This section modifies existing section [48.14.020](/rcw/48_insurance/48.014_fees_and_taxes.md). Here is the [modified chapter](rcw/48_insurance/48.014_fees_and_taxes.md) for context.
+
+1. Subject to other provisions of this chapter, each authorized insurer except title insurers **and registered eligible captive insurers as defined in section 2 of this act** shall on or before the first day of March of each year pay to the state treasurer through the commissioner's office a tax on premiums. Except as provided in subsection (3) of this section, such tax shall be in the amount of two percent of all premiums, excluding amounts returned to or the amount of reductions in premiums allowed to holders of industrial life policies for payment of premiums directly to an office of the insurer, collected or received by the insurer under RCW 48.14.090 during the preceding calendar year other than ocean marine and foreign trade insurances, after deducting premiums paid to policyholders as returned premiums, upon risks or property resident, situated, or to be performed in this state. For tax purposes, the reporting of premiums shall be on a written basis or on a paid-for basis consistent with the basis required by the annual statement. For the purposes of this section the consideration received by an insurer for the granting of an annuity shall not be deemed to be a premium.
+
+2. [Empty]
+
+    a. The taxes imposed in this section do not apply to amounts received by any life and disability insurer for health care services included within the definition of practice of dentistry under RCW 18.32.020 except amounts received for pediatric oral services that qualify as coverage for the minimum essential coverage requirement under P.L. 111-148 (2010), as amended, and for stand-alone family dental plans as defined in RCW 43.71.080(4)(a), only when offered in the individual market, as defined in RCW 48.43.005, or to a small group, as defined in RCW 48.43.005.
+
+    b. Beginning January 1, 2014, moneys collected for premiums written on qualified health benefit plans and qualified dental plans offered through the health benefit exchange under chapter 43.71 RCW must be deposited in the health benefit exchange account under RCW 43.71.060.
+
+3. In the case of insurers which require the payment by their policyholders at the inception of their policies of the entire premium thereon in the form of premiums or premium deposits which are the same in amount, based on the character of the risks, regardless of the length of term for which such policies are written, such tax shall be in the amount of two percent of the gross amount of such premiums and premium deposits upon policies on risks resident, located, or to be performed in this state, in force as of the thirty-first day of December next preceding, less the unused or unabsorbed portion of such premiums and premium deposits computed at the average rate thereof actually paid or credited to policyholders or applied in part payment of any renewal premiums or premium deposits on one-year policies expiring during such year.
+
+4. Each authorized insurer shall with respect to all ocean marine and foreign trade insurance contracts written within this state during the preceding calendar year, on or before the first day of March of each year pay to the state treasurer through the commissioner's office a tax of ninety-five one-hundredths of one percent on its gross underwriting profit. Such gross underwriting profit shall be ascertained by deducting from the net premiums (i.e., gross premiums less all return premiums and premiums for reinsurance) on such ocean marine and foreign trade insurance contracts the net losses paid (i.e., gross losses paid less salvage and recoveries on reinsurance ceded) during such calendar year under such contracts. In the case of insurers issuing participating contracts, such gross underwriting profit shall not include, for computation of the tax prescribed by this subsection, the amounts refunded, or paid as participation dividends, by such insurers to the holders of such contracts.
+
+5. The state does hereby preempt the field of imposing excise or privilege taxes upon insurers or their appointed insurance producers, other than title insurers, and no county, city, town or other municipal subdivision shall have the right to impose any such taxes upon such insurers or these insurance producers.
+
+6. If an authorized insurer collects or receives any such premiums on account of policies in force in this state which were originally issued by another insurer and which other insurer is not authorized to transact insurance in this state on its own account, such collecting insurer shall be liable for and shall pay the tax on such premiums.
+
+
+## Section 8
+> This section modifies existing section [48.14.095](/rcw/48_insurance/48.014_fees_and_taxes.md). Here is the [modified chapter](rcw/48_insurance/48.014_fees_and_taxes.md) for context.
+
+1. This section applies to any insurer or taxpayer, as defined in RCW 48.14.0201, violating or failing to comply with RCW 48.05.030(1), 48.17.060, 48.36A.290(1), 48.44.015(1), or 48.46.027(1).
+
+2. Except as provided in subsection**s** (7) **and (8)** of this section, RCW 48.14.020, 48.14.0201, and 48.14.060 apply to insurers or taxpayers identified in subsection (1) of this section.
+
+3. If an insurance contract, health care services contract, or health maintenance agreement covers risks or exposures, or enrolled participants only partially in this state, the tax payable is computed on the portion of the premium that is properly allocated to a risk or exposure located in this state, or enrolled participants residing in this state.
+
+4. In determining the amount of taxable premiums under subsection (3) of this section, all premiums, other than premiums properly allocated or apportioned and reported as taxable premiums of another state, that are written, procured, or received in this state, or that are for a policy or contract negotiated in this state, are considered to be written on risks or property resident, situated, or to be performed in this state, or for health care services to be provided to enrolled participants residing in this state.
+
+5. Insurance on risks or property resident, situated, or to be performed in this state, or health coverage for the provision of health care services for residents of this state, is considered to be insurance procured, continued, renewed, or performed in this state, regardless of the location from which the application is made, the negotiations are conducted, or the premiums are remitted.
+
+6. Premiums on risks or exposures that are properly allocated to federal waters or international waters or under the jurisdiction of a foreign government are not taxable by this state.
+
+7. This section does not apply to premiums on insurance procured by a licensed surplus line broker under chapter 48.15 RCW.
+
+8. **This section does not apply to premiums on insurance that is issued by a registered eligible captive insurer under chapter 48.--- RCW (the new chapter created in section 12 of this act).**
+
+
+## Section 9
+> This section modifies existing section [48.15.160](/rcw/48_insurance/48.015_unauthorized_insurers.md). Here is the [modified chapter](rcw/48_insurance/48.015_unauthorized_insurers.md) for context.
+
+1. The provisions of this chapter controlling the placing of insurance with unauthorized insurers shall not apply to reinsurance**, to insurance issued by a registered eligible captive insurer under chapter 48.--- RCW (the new chapter created in section 12 of this act),** or to the following insurances when so placed by licensed insurance producers of this state:
+
+    a. Ocean marine and foreign trade insurances.
+
+    b. Insurance on subjects located, resident, or to be performed wholly outside of this state, or on vehicles or aircraft owned and principally garaged outside this state.
+
+    c. Insurance on operations of railroads engaged in transportation in interstate commerce and their property used in such operations.
+
+    d. Insurance of aircraft owned or operated by manufacturers of aircraft, or of aircraft operated in schedule interstate flight, or cargo of such aircraft, or against liability, other than workers' compensation and employer's liability, arising out of the ownership, maintenance or use of such aircraft.
+
+2. Insurance producers so placing any such insurance with an unauthorized insurer shall keep a full and true record of each such coverage in detail as required of surplus line insurance under this chapter and shall meet the requirements imposed upon a surplus line broker pursuant to RCW 48.15.090 and any regulations adopted thereunder. The record shall be preserved for not less than five years from the effective date of the insurance and shall be kept available in this state and open to the examination of the commissioner. The insurance producer shall furnish to the commissioner at the commissioner's request and on forms as designated and furnished by him or her a report of all such coverages so placed in a designated calendar year.
+
+
+## Section 10
+> This section modifies existing section [82.04.320](/rcw/82_excise_taxes/82.04_business_and_occupation_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.04_business_and_occupation_tax.md) for context.
+
+1. **Except as otherwise provided in this section, this** chapter **does** not apply to any person in respect to insurance business upon which a tax based on gross premiums is paid to the state**.**
+
+2. **The** provisions of this section **do** not exempt any person engaging in the business of representing any insurance company, whether as general or local agent, or acting as broker for such companies**.**
+
+3. **The** provisions of this section **do** not exempt any bonding company from tax with respect to gross income derived from the completion of any contract as to which it is a surety, or as to any liability as successor to the liability of the defaulting contractor.
+
+4. **For purposes of this section, for periods preceding the effective date of this section, eligible captive insurers as defined in section 2 of this act are deemed to be persons in respect to insurance business that have paid a tax on gross premiums to the state.**
+
+
+## Section 11
+> This section modifies existing section [48.14.090](/rcw/48_insurance/48.014_fees_and_taxes.md). Here is the [modified chapter](rcw/48_insurance/48.014_fees_and_taxes.md) for context.
+
+In determining the amount of direct premium taxable in this state **other than for policies issued by an eligible captive insurer as defined in section 2 of this act**, all such premiums written, procured, or received in this state shall be deemed written upon risks or property resident, situated, or to be performed in this state except such premiums as are properly allocated or apportioned and reported as taxable premiums of any other state or states. For tax purposes, the reporting of premiums shall be on a written basis or on a paid-for basis consistent with the basis required by the annual statement.
+
+
+## Section 13
+If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+
+## Section 14
+Sections 8 through 11 of this act apply both retroactively and prospectively.
