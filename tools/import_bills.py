@@ -349,8 +349,6 @@ for start_year in range(2021, 2023, 2):
 
             bill_readme = []
 
-            biennium_readme.append(f"[{bill_id}]({str(bill_path.relative_to(biennium_path))}/) - {short_description}")
-
             bill_readme.append("# " + bill_id + " - " + short_description)
             bill_readme.append("*Status: " + bill.HistoryLine.text + "*")
             bill_readme.append(bill.LongDescription.text)
